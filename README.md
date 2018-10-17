@@ -10,8 +10,6 @@ Para usá-lo (após instalá-lo), basta abrir o mesmo e digitar a frase ou palav
 
 ![Veja que interessante](Imagens/img3.png)
 
-Para usá-lo (após instalá-lo), basta abrir o mesmo e digitar a frase ou palavra que deseja traduzir e clicar no botão azul chamado “Traduzir” (procurei deixar bem simplificado e intuitivo).
-
 Após clicar em "Traduzir" aparecerá três colunas, uma com o texto original, uma com a possibilidade de traduzir as palavras isoladamente, e outra com a frase inteira traduzida.
 
 Observe que na coluna do meio está destacada duas palavras, elas ficam assim e traduzidas quando se clica sobre elas.
