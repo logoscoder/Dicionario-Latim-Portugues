@@ -1,0 +1,14 @@
+{
+  "name": "Dicionário",
+  "version": "1.0.0",
+  "description": "Dicionário Latim",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Jessé Silva",
+  "license": "CC0-1.0",
+  "devDependencies": {
+    "electron": "^2.0.0"
+  }
+}

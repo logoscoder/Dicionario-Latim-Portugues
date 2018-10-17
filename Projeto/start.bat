@@ -1,0 +1,1 @@
+start C:\Apps\electron\electron.exe .
