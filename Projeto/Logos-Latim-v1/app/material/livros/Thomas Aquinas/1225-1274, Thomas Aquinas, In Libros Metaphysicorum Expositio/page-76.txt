@@ -1,0 +1,61 @@
+dare aliquam materiam, ex qua ista generentur et in qua corrumpantur, propter eorum simplicitatem; ergo non
+generantur nec corrumpuntur.
+[82078] In Metaphysic., lib. 3 l. 13 n. 12
+Deinde cum dicit similiter autem manifestat praedictam rationem in simili. Ita enim se habet nunc in tempore, sicut
+punctus in linea. Nunc autem non videtur generari et corrumpi: quia si generaretur vel corrumperetur, oporteret quod
+generatio et corruptio ipsius mensurarentur aliquo tempore vel instanti. Et sic mensura ipsius nunc, esset vel aliud nunc
+in infinitum, vel tempus, quod est impossibile. Et licet nunc non generetur et corrumpatur, tamen videtur semper esse
+aliud et aliud nunc: non quidem quod differant secundum substantiam, sed secundum esse. Quia substantia ipsius nunc,
+respondet subiecto mobili. Variatio autem ipsius nunc secundum esse, respondet variationi motus, ut ostenditur in
+quarto physicorum. Similiter ergo videtur se habere de puncto in comparatione ad lineam, et de linea in comparatione
+ad superficiem, et de superficie in comparatione ad corpus; scilicet quod non corrumpantur nec generentur, et tamen
+aliqua variatio attendatur circa huiusmodi. Eadem enim ratio est de omnibus his: omnia enim huiusmodi similiter sunt
+termini, secundum quod in extremo considerantur, vel divisiones secundum quod sunt in medio. Unde, sicut secundum
+defluxum motus variatur nunc secundum esse, licet maneat idem secundum substantiam propter identitatem mobilis, ita
+etiam variatur punctus, nec fit aliud et aliud propter divisionem lineae, licet non corrumpatur nec generetur simpliciter.
+Et eadem ratio est de aliis.
+[82079] In Metaphysic., lib. 3 l. 13 n. 13
+Hanc autem quaestionem philosophus pertractat in decimotertio et decimoquarto. Et veritas quaestionis huius est, quod
+huiusmodi mathematica non sunt substantiae rerum, sed sunt accidentia supervenientia substantiis. Deceptio autem
+quantum ad magnitudines provenit ex hoc, quod non distinguitur de corpore secundum quod est in genere substantiae,
+et secundum quod est in genere quantitatis. In genere enim substantiae est secundum quod componitur ex materia et
+forma, quam consequuntur dimensiones in materia corporali. Ipsae autem dimensiones pertinent ad genus quantitatis,
+quae non sunt substantiae, sed accidentia, quibus subiicitur substantia composita ex materia et forma. Sicut etiam supra
+dictum est, quod deceptio ponentium numeros esse substantias rerum, proveniebat ex hoc quod non distinguebant inter
+unum quod est principium numeri, et unum quod convertitur cum ente.
+Lectio 14
+[82080] In Metaphysic., lib. 3 l. 14 n. 1
+Postquam philosophus inquisivit utrum mathematica sint principia rerum sensibilium, hic inquirit utrum supra
+mathematica sint aliqua alia principia, puta quae dicuntur species, quae sunt substantiae et principia horum sensibilium.
+Et circa hoc tria facit. Primo movet dubitationem. Secundo inducit rationem ad unam partem, ibi, nam si ideo. Tertio
+obiicit ad partem contrariam, ibi, at vero si ponimus et cetera. Dicit ergo primo, quod supposito quod mathematica non
+sint principia rerum sensibilium et eorum substantia, ulterius aliquis dubitabit quae est ratio quare praeter substantias
+sensibiles et praeter mathematica quae sunt media inter sensibilia et species, oportet iterum ponere tertium genus,
+scilicet ipsas species, idest ideas vel formas separatas.
+[82081] In Metaphysic., lib. 3 l. 14 n. 2
+Deinde cum dicit nam si ideo obiicit ad unam partem: et videtur haec esse ratio quare oportet species ponere praeter
+sensibilia et mathematica: quia mathematica a praesentibus idest a sensibilibus, quae in universo sunt, differunt quidem
+in aliquo, quia mathematica abstrahunt a materia sensibili; non tamen differunt in hoc, sed magis conveniunt, quia sicut
+in sensibilibus inveniuntur plura numero differentia eiusdem speciei, utpote plures homines, aut plures equi, ita etiam in
+mathematicis inveniuntur plura numero differentia eiusdem speciei, puta plures trianguli aequilateri, et plures lineae
+aequales. Et si ita est, sequitur quod sicut principia sensibilium non sunt determinata secundum numerum, sed
+secundum speciem, ita etiam sit in mediis idest in mathematicis. Manifestum est enim quod in sensibilibus propter hoc
+quod sunt plura individua unius speciei sensibilis, principia sensibilium non sunt determinata numero, sed specie, nisi
+forte accipiantur principia propria huius individui, quae sunt etiam in numero determinata et individualia. Et ponit
+exemplum in vocibus. Manifestum est enim quod vocis literatae, literae sunt principia; non tamen sunt aliquo numero
+determinato individualium literarum, sed solum secundum speciem sunt determinatae literae secundum aliquem
+numerum, quarum aliae sunt vocales, et aliae consonantes: sed haec determinatio est secundum speciem, non secundum
+numerum. Non enim unum solum est a sed multa, et sic de aliis literis. Sed si accipiantur hae literae, quae sunt
+principia huius determinatae syllabae vel dictionis aut orationis, sic sunt determinatae numero. Et eadem ratione, cum
+sint multa mathematica numero differentia in una specie, non poterunt esse mathematica principia mathematicorum
+determinata numero, sed determinata specie solum: puta si dicamus quod principia triangulorum sunt tria latera et tres
+anguli. Sed haec determinatio est secundum speciem: contingit enim quodlibet eorum in infinitum multiplicari. Si igitur
+nihil esset praeter sensibilia et mathematica; sequeretur quod substantia speciei non esset una secundum numerum, et
+quod principia entium non essent determinata in aliquo numero, sed erunt determinata solum secundum speciem. Si
+ergo est necessarium quod sint determinata secundum numerum (alioquin contingeret esse principia rerum infinita
+numero), sequitur quod necesse sit species esse praeter mathematica et sensibilia.
+[82082] In Metaphysic., lib. 3 l. 14 n. 3
+Et hoc est quod Platonici volunt dicere, quod sequitur ex necessitate ad positiones eorum quod sit in singularium
+substantia species aliquid unum, cui non conveniat aliquid secundum accidens. Homini enim individuo convenit aliquid
+
+

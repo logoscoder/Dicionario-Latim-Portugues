@@ -1,0 +1,62 @@
+<Caput 5>
+p. 25: Post hoc videndum est de motu stellarum fixarum, quem habent praeter motum ab oriente in occidentem
+qui est communis omnibus corporibus caelestibus. -- Verumtamen ex eo quod dicuntur fixae, videtur quod non
+habent motum aliquem praeterquam praedictum. -- Sed sciendum est, quod non dicuntur stellae fixae, quia non
+habent motum proprium, sed quoniam figura et imago, quam constituunt aliquot ex his, quae dicuntur stellae
+fixae, semper retinentur ab eis, verbi gratia si tres stellae triangulum faciunt, semper retinent eandem figuram. A
+fixione igitur figurarum, quas faciunt, fixae dicuntur. Ptolemaeus igitur in libro Almagesti posuit, quod omnes
+stellae fixae et omnes auges planetarum moventur super polos zodiaci, et quod unaquaeque describit in centum
+annis unum gradum de circulo, in quo situm est corpus stellae, descripto super polos zodiaci contra motum
+firmamenti. Et accideret per hanc viam Ptolemaei, quod auges solis et stellae, quae sunt in signis
+septentrionalibus, pervenirent in signa australia, fieretque regio habitata inhabitabilis; quod patet per rationem
+superius dictam, qua ostenditur per solis excentricitatem, quod regio inter eclipticam et parallelum australem est
+inhabitabilis.
+pp. 25 - 26: Thebit vero, qui operatus est super operationes Ptolemaei, invenit per certa experimenta motum
+stellarum fixarum esse alium. Ad imaginandum igitur motum stellarum fixarum, quem invenit Thebit,
+imaginemur in caelo zodiacum ex 12 signis constantem, sicut praedictum est, et divisum in quattuor partes per
+duo puncta aequinoctialia et duo solstitia. Incipiantque aries et libra a punctis aequinoctialibus et cancer et
+capricornus a punctis solstitialibus. Diciturque zodiacus iste zodiacus fixus. Eruntque 12 signa 12 spatia solum
+firmamenti. -- Sub firmamento autem est sphaera stellarum fixarum. -- Imaginemur iterum in sphaera stellarum
+fixarum zodiacum alium numero a praedicto constantem ex 12 imaginibus ex stellis fixis compositis. Et hic
+circulus magis propie dicitur zodiacus a zoas, quod est animal, propter imagines animalium, ex quibus constat.
+pp. 26 - 27: Principio igitur arietis zodiaci fixi centro posito et super ipsum circulo descripto occupatis 8
+gradibus et 37 minutis et super caput librae fixae huic aequali circulo descripto, imaginemur caput arietis et
+librae imaginum circumferri in duabus praedictis circumferentiis duorum praedictorum circulorum. Movetur
+igitur caput arietis et librae zodiaci imaginum in duabus praedictis circumferentiis, quando sunt in parte
+septentrionali caput arietis, cum motu firmamenti, caput vero librae contra motum firmamenti; et quando sunt in
+parte australi, cum motu firmamenti, in 12 annis unum gradum et duo minuta describendo.
+p. 27: Quando igitur hi duo zodiaci sunt ita siti, quod unus sub alio est et caput arietis mobilis erit in 19 minutis
+quinti gradus arietis fixi, erit caput librae mobilis in consimili loco librae fixae. Et cum caput arietis mobilis erit
+in 42 minutis 26 gradus piscium fixorum, erit caput librae mobilis in consimili loco virginis fixae. Caput vero
+cancri et capricorni imaginum adhaerent in ecliptica, progrediendo et regrediendo in ea.
+p. 27: Cum enim caput arietis mobilis a praedicto minuto piscium recedit, recedit ab ecliptica, et similiter caput
+librae mobilis in partem oppositam; nec pervenit caput arietis ad eclipticam, donec veniat ad praedictum
+minutum quinti gradus arietis fixi. Verumtamen caput cancri mobilis fuit in consimili loco in ecliptica in
+geminis, cum caput arietis mobilis fuit in praedicto minuto in piscibus; et cum caput arietis ascendit versus
+praedictum minutum quinti gradus arietis fixi in circumferentia praedicti circuli, caput cancri semper progreditur
+in ecliptica, donec veniat in 19 minutum quinti gradus cancri, capite arietis perveniente in consimilem minutum
+arietis fixi. - Descendente igitur capite arietis iterum versus pisces in circumferentia praedicta retrocedit caput
+cancri in eliptica eodem spatio, quo progressum est. Et iste motus, quem sic imaginati sumus in praedictis
+circulis duobus, est motus totius sphaerae stellarum fixarum et augium omnium planetarum.
+pp. 27 - 28: Cursus vero lunae est sub zodiaco. Verumtamen non est cursus eius directe sub ecliptica, sicut est
+cursus solis, sed lunae circulus secat eclipticam in duobus punctis oppositis, declinans ab eius circumferentia
+quinque gradibus. Est autem circulus lunae excentricus, sicut circulus solis. In circumferentia vero excentrici est
+centrum circuli brevis, quem devehit excentricus. Sunt autem circulus brevis et excentricus in superficie una.
+Centrum vero corporis lunae est semper in circumferentia circuli brevis. Excentricus itaque lunae circumvolvitur
+super diametrum terrae, ab oriente in occidens motu continuo et uniformi. Describit itaque centrum excentrici
+circuli motu praedicto circulum circa centrum terrae, et centrum excentrici semper est in circumferentia illius
+circuli. Centrum vero circuli brevis movetur e contrario ab occidente in oriens, ita quod, si ducatur linea a centro
+terrae per centrum circuli in firmamentum, terminus lineae motu aequali movetur, et is motus lineae vocatur
+motus lunae medius in caelo. Et quotiens iste motus medius lunae est in eodem puncto cum medio motu solis,
+centrum epicycli est in auge excentrica lunae, separanturque statim auges excentrici lunae et centrum epicycli et
+relinquitur motus medius solis in medio inter augem excentrici et centrum epicycli aequaliter distans ab utroque.
+Evenitque de necessitate, quod cum medius motus lunae opponitur medio motui solis, occurrit centrum epicycli
+augi excentrici, separenturque ibi iterum et occurrunt sibi invicem, cum iterum coniungitur medius motus lunae
+medio motui solis. Ex quo patet, quod centrum epicycli bis in uno mense describit excentricum. Estque motus
+epicycli velocior motu excentrici, quantum est motus medius solis. Aliter enim non semper aequaliter distarent a
+medio motu solis medius motus lunae et centrurn excentrici. Luna vero movetur in circumferentia sui epicycli,
+ita quod in superiori parte sui epicycli movetur cum firmamento ab oriente in occidens et in inferiori parte ab
+occidente in oriens.
+6
+
+

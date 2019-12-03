@@ -1,0 +1,60 @@
+Rursus de eo quod est idem potest fieri certamen, ut an idem sit utile quod honestum. Sed hic quaestio
+definitioni aggreganda est: quarum enim rerum eadem est definitio, ipsae quoque sunt eaedem; quarum uero diuersa
+substantiae ratio est, ipsae quoque [1178D] sunt diuersae.
+Igitur simplicis dialecticae quaestiones recte quattuor species esse dicuntur, de quibus sufficienter dictum est.
+Nunc igitur de conditionalibus quaestionibus tractandum est, quarum quidem alia constat ex affirmatiuis
+duabus, alia ex duabus negatiuis, alia ex affirmatione et negatione, alia ex negatione et affirmatione. Si igitur ex duabus
+affirmationibus conditionalis constat propositio, id quaeritur an affirmatio affirmationem sequatur; quod si ex duabus
+negationibus propositio iuncta sit, id in decertatione est an negatio negationem comitetur: quod si ex affirmatione et
+negatione, uel negatione et affirmatione copuletur, id ambigitur an affirmationem negatio, an affirmatio negationem
+comitetur.
+Ac prius quidem eius quaestionis facienda [1179A] est diuisio, in qua disceptatur an affirmationem affirmatio
+consequatur, quae praedicatiuarum quaestionum non effugit diuisionem. Nam ut praecedat aliquid et aliud consequatur,
+in his fere rebus euenire solet quas paulo superius commemoraui. Speciem quippe sequitur genus, uel differentia, uel
+definitio, uel proprium, uel inseparabile accidens. Item proprium ac definitionem sequitur species, proprium uero
+sequitur differentia et definitio, et definitionem sequitur proprium uel differentia, hoc modo: nam si homo est, animal
+est; et si homo est, rationale est; et si homo est, animal rationale mortale est; et si homo est, risibile est; si Aethiops est,
+niger est. Si risibile est, homo est; si animal rationale mortale est, homo est. Si risible, rationale est; si risible est, animal
+[1179B] rationale mortale est; si animal rationale mortale est, risibile uel bipes est.
+Praeter haec autem alias quidem effectus causam, alias quidem effectum causa sequitur. Effectus causam ita: si
+sol praesto est, lucet. Effectum causa hoc modo: si quid exustum est, ignis adfuit; uel sic: si sol uidetur, lucet.
+Item totum partes sequuntur, ut:
+Si integra domus est, et tectum et parietes et fundamenta consistunt.
+Modus etiam sequitur nomen principale, ut sit iustitia bona est, et quod iuste est, bonum est. Nomen etiam
+principale sequitur modum, ut si quod iuste est, bonum est, et iustitia bona est.
+Accidentia quoque comitatur id quod subiectum est, ut si album est, corpus est.
+Quae cum ita sint, conditionalis quoque simplex ex duabus affirmationibus copulata, [1179C] illa fere diuisio
+facienda est quaestionis, quod in ea uel de genere, uel de differentia, uel de specie, uel de proprio, uel de definitione,
+uel de accidenti, uel de causa atque effectu, uel toto ac partibus, uel de modo ac principali nomine dubitetur. Atque
+haec de ea quaestione intelligenda sunt, quae cum sit hypothetica simplex, ex duabus tamen iungitur affirmatiuis.
+In hisdem etiam differentiis illas quoque consistere necesse est quaestiones, quae ab his ueniunt
+propositionibus quae ex utraque constant negatione. Nam si genus non est, species non est. Item si differentia, uel
+definitio, uel proprium non sit, species non erit. Et de caeteris quidem quae superius dicta sunt, eodem modo
+considerandum est. Quicquid enim antecedit ut aliud consequatur, si id quod [1179D] sequitur non fuerit, nec illud est
+quod antecedit.
+Earum uero quaestionum quae ex affirmatione et negatione consistunt, illa fere diuisio est, quod uel in diuersis
+generibus, uel in diuersis speciebus, uel in contrariis, uel in priuatione atque habitu continentur; ut enim affirmationem
+negatio consequatur, aut diuersum ponitur genus, ut quod ab eo diuersum est abnuatur hoc modo: si homo est, albedo
+non est; uel si substantia est, qualitas non est; uel si sub eodem genere diuersae species proponantur hoc modo: si homo
+est, equus non est; uel si contraria, ut si album est, nigrum non est; uel si priuationes, ut si caecus est, non uidet; et
+postremo in omnibus, quaecumque eadem non sunt, euenit, ut, si unum est, alterum [1180A] non sit. Ita ut propositam
+affirmationem negatio comitetur, aut diuersa erunt genera, aut diuersae species, aut contraria, aut priuantia, aut quolibet
+alio modo sibi inuicem inconuenientia.
+Ut autem negationem affirmatio consequatur, quae erat quarta conditionalis propositionis differentia, fieri non
+potest, nisi in his contrariis quae medio carent, et quorum alterum semper inesse necesae est, hoc modo: si dies non est,
+nox est; si tenebrae non sunt, lux est.
+Facta igitur praedicatiuarum quaestionum ac conditionalium diuisione, illud insuper uidetur addendum, quod
+omnis quaestione lex ratione disserendi, uel ex naturali, uel ex morali trahitur speculatione: ex disserendi ratione hoc
+modo, an affirmatio et negatio species sint enuntiationis; ex naturali ita, an [1180B] caelum rotundum sit; ex morali sic,
+an uirtus ad beatitudinem sola sufficiat.
+Praeterea quaestio omnis uel est simplex uel composita: simplex quoties affirmatione et negatione diuiditur, ita
+ut totum alteri affirmare, alteri negare necesse sit hoc modo: an caelum rotundum sit necne, haec enim una pars
+quaestionis affirmationem tenet, alia negationem. Nam cum alter esse defendit, affirmat, alter uero negat, cum non esse
+contendit. Composita quaestio est quae in plures distrahitur affirmationes, hoc modo, utrum caelum rotundum sit, an
+quadratum, an longum, aut cuiuslibet alterius formae: hic enim plures affirmationes probare necesse est, quae diuersa
+defendunt.
+Et de quaestione quidem, quantum ad praesens negotium pertinebat, sufficienter dictum est.
+[1180C] Conclusio uero est argumentis approbata propositio, de qua eadem fere dici possunt quae de
+propositione. Quae quoniam diligenter superius explicata sunt, de argumento deinceps tractandum uidetur.
+
+

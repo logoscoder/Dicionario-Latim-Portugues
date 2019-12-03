@@ -1,0 +1,60 @@
+Uno modo, sicut continuum est indivisibile, quia est indivisum in actu, licet sit divisibile in potentia. Et
+huiusmodi indivisibile prius est intellectum a nobis quam eius divisio, quae est in partes, quia cognitio confusa
+est prior quam distincta, ut dictum est.
+Alio modo dicitur indivisibile secundum speciem, sicut ratio hominis est quoddam indivisibile. Et hoc etiam
+modo indivisibile est prius intellectum quam divisio eius in partes rationis, ut supra dictum est, et iterum prius
+quam intellectus componat et dividat, affirmando vel negando. Et huius ratio est, quia huiusmodi duplex
+indivisibile intellectus secundum se intelligit, sicut proprium obiectum. Tertio modo dicitur indivisibile quod est
+omnino indivisibile, ut punctus et unitas, quae nec actu nec potentia dividuntur.
+Et huiusmodi indivisibile per posterius cognoscitur, per privationem divisibilis. Unde punctum privative
+definitur, punctum est cuius pars non est, et similiter ratio unius est quod sit indivisibile, ut dicitur in X
+metaphys..
+Et huius ratio est, quia tale indivisibile habet quandam oppositionem ad rem corporalem, cuius quidditatem
+primo et per se intellectus accipit.
+Si autem intellectus noster intelligeret per participationem indivisibilium separatorum, ut Platonici posuerunt,
+sequeretur quod indivisibile huiusmodi esset primo intellectum, quia secundum Platonicos, priora prius
+participantur a rebus.
+RA1
+Ad primum ergo dicendum quod in accipiendo scientiam, non semper principia et elementa sunt priora, quia
+quandoque ex effectibus sensibilibus devenimus in cognitionem principiorum et causarum intelligibilium. Sed in
+complemento scientiae, semper scientia effectuum dependet ex cognitione principiorum et elementorum, quia, ut
+ibidem dicit Philosophus, tunc opinamur nos scire, cum principiata possumus in causas resolvere.
+RA2
+Ad secundum dicendum quod punctum non ponitur in definitione lineae communiter sumptae, manifestum est
+enim quod in linea infinita, et etiam in circulari, non est punctum nisi in potentia.
+Sed euclides definit lineam finitam rectam, et ideo posuit punctum in definitione lineae, sicut terminum in
+definitione terminati.
+Unitas vero est mensura numeri, et ideo ponitur in definitione numeri mensurati. Non autem ponitur in
+definitione divisibilis, sed magis e converso.
+RA3
+Ad tertium dicendum quod similitudo per quam intelligimus, est species cogniti in cognoscente. Et ideo non
+secundum similitudinem naturae ad potentiam cognoscitivam est aliquid prius cognitum, sed per convenientiam
+ad obiectum, alioquin magis visus cognosceret auditum quam colorem.
+|q86 Quaestio 86
+|a0 Prologus
+Deinde considerandum est quid intellectus noster in rebus materialibus cognoscat. Et circa hoc quaeruntur
+quatuor.
+Primo, utrum cognoscat singularia. Secundo, utrum cognoscat infinita. Tertio, utrum cognoscat contingentia.
+Quarto, utrum cognoscat futura.
+|a1 Articulus 1
+AG1
+Ad primum sic proceditur. Videtur quod intellectus noster cognoscat singularia. Quicumque enim cognoscit
+compositionem, cognoscit extrema compositionis. Sed intellectus noster cognoscit hanc compositionem.
+Socrates est homo, eius enim est propositionem formare. Ergo intellectus noster cognoscit hoc singulare quod est
+socrates.
+AG2
+Praeterea, intellectus practicus dirigit ad agendum. Sed actus sunt circa singularia. Ergo cognoscit singularia.
+AG3
+Praeterea, intellectus noster intelligit seipsum. Ipse autem est quoddam singulare, alioquin non haberet aliquem
+actum; actus enim singularium sunt. Ergo intellectus noster cognoscit singulare.
+AG4
+Praeterea, quidquid potest virtus inferior, potest superior. Sed sensus cognoscit singulare. Ergo multo magis
+intellectus.
+SC
+Sed contra est quod dicit Philosophus, in I physic., quod universale secundum rationem est notum, singulare
+autem secundum sensum.
+CO
+
+443
+
+

@@ -1,0 +1,57 @@
+|#16 Deinde cum dicit quare omnia solvit praemissam quaestionem secundum propriam sententiam.
+Et primo quantum ad naturalia. Secundo quantum ad mathematica, ibi, circa mathematica.
+Dicit ergo primo, quod ex quo praedicta inconvenientia sequuntur removentibus a specie rei omnia quae sunt
+materialia, sive sint sensibilia, sive non, patet ex dictis quod superfluum est omnes species rerum reducere ad
+numeros vel unitatem, et auferre totaliter materiam sensibilem et intelligibilem, sicut Platonici faciebant.
+|#17 Quia quaedam species rerum non sunt formae sine materia; sed sunt hoc in hoc forsan, idest formae in
+materia: ita quod id quod resultat ex forma in materia existente species est. Aut si non sunt sicut forma in
+materia, sunt se habentia sicut illa quae habent formam in materia. Proprie enim formam in materia habent
+naturalia, quibus quodam modo assimilantur mathematica, etiam inquantum proportio figurae circuli vel
+trianguli ad lineas, est sicut proportio formae hominis ad carnes et ossa. Et ideo, sicut species hominis non est
+forma aliqua sine carnibus et ossibus, ita forma circuli vel trianguli non est aliqua forma sine lineis. Et ideo
+parabola quam consuevit dicere de animali socrates iunior, non se bene habet.
+|#18 Videtur autem ipsum Platonem socratem iuniorem nominare, quia in omnibus libris suis introducit
+socratem loquentem, propter hoc quod fuerat Magister eius. Opinionem autem Platonis, de materialitate
+naturalium specierum, vocat parabolam, quia fabulis assimilatur quae componuntur ad aliquam sententiam
+metaphorice insinuandam. Propter quod in tertio superius dixit, quod haec opinio assimilatur opinionibus
+fingentium deos esse, et quod formae eorum sunt sicut formae humanae.
+Ideo autem praedicta opinio non bene se habet, quia ducit extra veritatem, in eo quod facit opinari quod hoc
+modo contingat esse hominem sine partibus materialibus, scilicet sine carnibus et ossibus, sicut contingit
+circulum esse sine aere quod manifeste non pertinet ad species circuli.
+|#19 Sed hoc non est simile. Non enim similiter se habet homo ad carnes et ossa, sicut circulus ad aes; quia
+circulus non est aliquod sensibile secundum suam rationem. Potest enim intelligi sine materia sensibili. Unde
+aes, quod est materia sensibilis, non est pars speciei circuli. Sed animal videtur esse quoddam sensibile.
+Non enim potest definiri sine motu. Animal enim discernitur a non animali sensu et motu, ut patet in primo libro
+de anima.
+Et ideo non potest definiri animal sine partibus corporalibus habentibus se aliquo modo debito ad motum. Non
+enim manus est pars hominis quocumque modo se habens, sed quando est sic disposita quod potest perficere
+opus manus; quod non potest facere sine anima, quae est principium motus. Quare oportet quod manus
+cuiuscumque sit pars hominis, secundum quod est animata. Secundum vero quod est inanimata, non est pars,
+sicut manus mortua vel depicta. Unde oportet quod partes tales quae sunt necessariae ad perficiendum
+operationem speciei propriam, sint partes speciei; tam quae sunt ex parte formae, quam quae sunt ex parte
+materiae.
+|#20 Deinde cum dicit circa mathematica solvit quaestionem quantum ad mathematica.
+Videtur enim post solutionem de naturalibus positam, adhuc relinqui sub dubio de mathematicis. Dixerat enim
+quod, cum animal sit sensibile, non potest definiri sine partibus sensibilibus, sicut circulus potest definiri sine
+aere, quod est sensibilis materia. Et ideo circa mathematica quaeritur quare rationes, idest definitiones partium,
+non sunt partes rationum totorum, sicut quare hemicycla, idest semicirculi, non ponuntur in definitione circuli.
+Non enim potest dici, quod haec, scilicet hemicycla, sint sensibilia, sicut aes est sensibilis materia.
+|#21 Sed solvit quod hoc nihil differt quantum ad propositum, utrum scilicet partes materiae sint sensibilia vel
+non sensibilia; quia etiam non sensibilium est aliqua materia intelligibilis. Et talis materia, quae scilicet non est
+pars speciei, est omnis eius quod non est quod quid erat esse et species eadem secundum se, sed est hoc aliquid,
+idest particulare aliquod demonstratum: quasi dicat: in omni eo quod non est ipsa sua species, sed est aliquod
+individuum determinatum in specie, oportet esse aliquas partes materiae quae non sunt partes speciei. Socrates
+enim, quia non est ipsa sua humanitas, sed est habens humanitatem, ideo habet in se partes materiales quae non
+sunt partes speciei, sed quae sunt partes huius materiae individualis quae est individuationis principium, ut has
+carnes et haec ossa.
+|#22 Et similiter in hoc circulo sunt hae lineae quae non sunt partes speciei.
+Unde patet quod huiusmodi non sunt partes circuli qui est universalis, sed sunt partes singularium circulorum,
+sicut dictum est prius. Et propter hoc semicirculi non ponuntur in definitione circuli universalis, quia sunt partes
+singularium circulorum, et non universalis. Et hoc est verum tam in materia sensibili, quam in materia
+intelligibili.
+Utroque enim modo invenitur materia, ut ex dictis patet. Si autem esset aliquod individuum quod esset ipsa sua
+species, sicut si socrates esset ipsa sua humanitas, non essent in socrate aliquae partes quae non essent partes
+humanitatis.
+222
+
+

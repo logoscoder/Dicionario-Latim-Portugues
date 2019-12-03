@@ -1,0 +1,58 @@
+autem c est a, quia nullus paries est animal: quare sequitur quod etiam b in nullo c sit, scilicet quod nullus paries
+respiret. Si autem acciperetur medium propinquum, esset demonstratio propter quid. Ut si ostenderetur quod
+paries non respiret, quia non habet pulmonem. Omne enim habens pulmonem respirat, et e converso.
+|#5 Deinde cum dicit: comparantur huiusmodi etc., ostendit quomodo media se habeant ad conclusiones, dicens
+quod huiusmodi causae remotae comparantur dictis secundum excellentiam, quia scilicet excedunt
+communitatem conclusionis probandae. Et huiusmodi medium contingit dicere quod est multum distans. Ut patet
+in probatione Anacharsidis, qui probat quod apud Scythas non sunt sibilatores, propter hoc, quod non sunt ibi
+vites. Hoc enim est medium valde remotum. Propinquum enim esset non habere vinum; et adhuc propinquius
+non bibere vinum; ex quo sequitur laetitia cordis quae movet ad cantandum, ut sic sibilatio pro cantu intelligatur.
+Vel melius potest dici quod sibilus hic accipitur non pro quolibet cantu; sed pro cantu vindemiantium, qui
+vocatur celeuma.
+|#6
+Deinde cum dicit: secundum quidem etc., epilogat quod dixerat, dicens: quod hae sunt differentiae
+syllogismi quia ad syllogismum qui est propter quid, in eadem scientia, et secundum eorumdem positionem,
+idest eorum qui habent eumdem ordinem. Quod dicitur ad removendum illud, quod post dicet, quod una scientia
+est sub altera.
+|+25 Lectio 25
+|#1 Postquam ostendit Philosophus qualiter demonstratio quia differt a demonstratione propter quid in eadem
+scientia; hic ostendit quomodo differt in diversis scientiis. Et circa hoc duo facit.
+Primo, proponit intentum, dicens quod alio modo a praedictis differt propter quid ab ipso quia, propter hoc quod
+in diversis scientiis considerantur, idest quod ad unam scientiam pertinet scire propter quid, et ad aliam scientiam
+pertinet scire quia.
+Secundo cum dicit: huiusmodi autem sunt etc., manifestat propositum. Et circa hoc duo facit: primo, manifestat
+propositum in scientiis, quarum una est sub altera; secundo, in scientiis, quarum una non est sub altera; ibi:
+multae autem non sibi etc..
+Circa primum duo facit: primo, ostendit qualiter se habeant scientiae ad invicem, quarum una est sub altera, ad
+quarum unam pertinet propter quid, ad alteram autem quia; secundo, ostendit quomodo in praedictis scientiis ad
+unam earum pertinet quia, et ad aliam propter quid; ibi: hoc enim ipsum etc.. Circa primum duo facit: primo,
+ostendit quomodo praedictae scientiae se habeant ad invicem secundum ordinem; secundo, ostendit qualiter se
+habeant ad invicem secundum convenientiam; ibi: fere autem univocae etc..
+|#2 Dicit ergo primo quod huiusmodi scientiae sunt (scilicet ad quarum unam pertinet quia, ad aliam autem
+propter quid) quaecunque sic se habent ad invicem, quod altera est sub altera. Sed intelligendum est unam
+scientiam esse sub altera dupliciter. Uno modo, quando subiectum unius scientiae est species subiecti superioris
+scientiae; sicut animal est species corporis naturalis, et ideo scientia de animalibus est sub scientia naturali.
+Alio modo, quando subiectum inferioris scientiae, non est species subiecti superioris scientiae; sed subiectum
+inferioris scientiae comparatur ad subiectum superioris, sicut materiale ad formale. Et hoc modo accipit hic unam
+scientiam esse sub altera, sicut speculativa, idest perspectiva, se habet ad geometriam. Geometria enim est de
+linea et aliis magnitudinibus: perspectiva autem est circa lineam determinatam ad materiam, idest circa lineam
+visualem. Linea autem visualis non est species lineae simpliciter, sicut nec triangulus ligneus est species
+trianguli: non enim ligneum est differentia trianguli. Et similiter machinativa, idest scientia de faciendis
+machinis, se habet ad stereometriam, idest ad scientiam quae est de mensurationibus corporum. Et haec scientia
+dicitur esse sub scientia per applicationem formalis ad materiale. Nam mensurae corporum simpliciter
+comparantur ad mensuras lignorum et aliarum materierum, quae requiruntur ad machinas, per applicationem
+formalis ad materiale. Et similiter se habet harmonica, idest musica, ad arithmeticam. Nam musica applicat
+numerum formalem (quem considerat arithmeticus) ad materiam, idest ad sonos. Et similiter se habet apparentia,
+idest scientia navalis, quae considerat signa apparentia serenitatis vel tempestatis, ad astrologiam, quae
+considerat motus et situs astrorum.
+|#3 Deinde cum dicit: fere autem univocae etc., ostendit qualiter se habent praedictae scientiae ad invicem
+secundum convenientiam, dicens quod fere huiusmodi scientiae sunt univocae ad invicem.
+Dicit autem fere, quia communicant in nomine generis, et non in nomine speciei. Dicuntur enim omnes
+praedictae scientiae mathematicae; quaedam quidem quia sunt de subiecto abstracto a materia, ut geometria et
+arithmetica, quae simpliciter mathematicae sunt; quaedam autem per applicationem principiorum
+mathematicorum ad res materiales, sicut astrologia dicitur mathematica et etiam navalis scientia, et similiter
+harmonica, idest musica, dicitur mathematica, et quae est secundum auditum, idest practica musicae, quae
+cognoscit ex experientia auditus sonos. Vel potest dici quod sunt univocae, quia etiam in nomine speciei
+37
+
+

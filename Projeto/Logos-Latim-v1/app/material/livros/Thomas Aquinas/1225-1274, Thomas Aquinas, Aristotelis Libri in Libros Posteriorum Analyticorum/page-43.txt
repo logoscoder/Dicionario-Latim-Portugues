@@ -1,0 +1,59 @@
+ut puta si dicamus: omnis nigredo est albedo; falsae sunt ambae propositiones, et falsa est conclusio, scilicet:
+nulla nigredo est color.
+|#3 Deinde cum dicit: contingit autem etc., ostendit quomodo possit esse in praedicto syllogismo altera vera et
+altera falsa. Et primo ostendit quomodo possit esse maior vera et minor falsa; secundo, quomodo contingit e
+converso; ibi: sed et eam quae est etc..
+Dicit ergo primo quod contingit syllogismum ignorantiae negativum fieri in prima figura, falsa existente altera
+propositionum indifferenter, quaecunque sit illa. Potest enim contingere quod haec propositio a.c, quae est maior,
+sit vera, et propositio, quae est b.c, sit falsa, quae est minor.
+Et quod propositio maior possit esse vera, probat per hoc, quod iste terminus a, quicunque sit ille, non est
+necesse quod insit omnibus, sicut color non praedicatur de omnibus entibus.
+Quod autem minor sit falsa, probat per hoc, quia non potest accipi aliquis terminus, a quo universaliter negetur a,
+qui quidem terminus praedicetur de b: supponimus enim quod haec sit vera et immediata: omne b est a. Si ergo
+aliquid universaliter praedicetur de b, ita quod haec sit vera, omne b est c, non potest esse quod de illo
+universaliter negetur a. Et ita haec propositio: nullum c est a, non erit vera; quae erat maior.
+Si enim omne b est a, ut supponitur, et omne b est c, ut assumitur, sequitur in tertia figura: quoddam c est a, quae
+est contradictoria maioris.
+Falsa ergo erit ista: nullum c est a. Si ergo haec sit vera, quae est maior, necesse est quod haec sit falsa, quae est
+minor: omne b est c. Secundo, probat per hoc quod ex duabus veris non potest concludi falsa, ut supra probatum
+est.
+Datur autem haec esse vera: nullum c est a.
+Si ergo etiam haec sit vera: omne b est c; sequitur quod conclusio sit vera: nullum b est a; quae tamen supponitur
+esse falsa, utpote contraria huic immediatae propositioni: omne b est a.
+|#4 Deinde cum dicit: sed et eam etc., ostendit quomodo minor sit vera, maiori existente falsa.
+Et dicit quod propositio c.b, scilicet minor, potest esse vera, cum maior sit falsa. Quia enim haec propositio:
+omne b est a, cuius contraria debet concludi, est immediata, necesse est quod b sit in a sicut pars in toto, sicut
+albedo in colore. Potest autem accipi aliquid aliud, in quo etiam sit b sicut in toto, non tamen immediate, et sit
+illud qualitas quae sit c. Necesse est ergo, secundum praedicta, quod horum duorum, scilicet a et c, alterum sit
+sub altero, idest color sub qualitate. Si ergo aliquis accipiat a in nullo c esse, ut puta, si dicat: nulla qualitas est
+color, falsa erit propositio. Minor autem erit vera, scilicet: omnis albedo est qualitas. Conclusio autem erit falsa,
+et immediatae contraria, scilicet: nulla albedo est color. Sic ergo manifestum est quod potest fieri syllogismus
+ignorantiae negativus in prima figura, et altera propositione falsa et utrisque.
+|#5 Deinde cum dicit: sed in media figura etc., ostendit quomodo syllogismus ignorantiae negativus fiat in
+secunda figura. Et primo, quando utraque est falsa; secundo, quando altera tantum; ibi: similiter autem et alteram
+esse falsam etc.. Dicit ergo primo quod in media figura non contingit utrasque propositiones esse totas falsas. Et
+dicit totas falsas illas, quae sunt contrariae propositionibus veris. Et hoc probat. Quia cum debeamus concludere
+negativam falsam contrariam affirmativae immediatae, necesse est accipere quod haec sit vera et immediata,
+omne b est a, puta, omnis albedo est color. Sic autem se habentibus terminis, non potest inveniri aliquis medius
+terminus, qui universaliter praedicetur de uno termino, et universaliter removeatur ab altero. Detur enim quod
+ille terminus c universaliter removeatur ab a, et universaliter praedicetur de b; erit ergo haec vera: nullum a est c;
+quare et conversa erit vera: nullum c est a; sed omne b est c, ergo nullum b est a; cuius contrarium fuit
+suppositum.
+Similiter etiam non potest esse quod universaliter removeatur a b, et universaliter praedicetur de a; quia si haec
+est vera: omne a est c, et conversa erit vera: quoddam c est a. Si autem haec est vera: nullum b est c, et conversa
+erit vera: nullum c est b. Sic ergo ex his duabus propositionibus: quoddam c est a; nullum c est b; sequitur,
+quoddam b non est a, quae est contradictoria eius, quae supponebatur, omne b est a.
+Relinquitur ergo quod impossibile est inveniri aliquod medium, quod, praedicto modo se habentibus a et b, de
+uno praedicetur, et ab alio removeatur.
+Et tamen oportet, si debeat fieri syllogismus in secunda figura, ut medium de uno extremorum praedicetur, et de
+alio negetur. Et ideo si ambae sunt falsae totaliter, oportet quod earum contrariae sint verae; quod est
+impossibile, ut probatum est. Nihil tamen prohibet utramque propositionem esse falsam particulariter. Puta, si
+accipiamus quoddam medium, quod particulariter praedicetur de a et de b, puta masculus, quod particulariter
+praedicatur de animali et de homine. Si ergo accipiatur c esse in omni a, puta, si accipiamus: omne animal esse
+masculum; et accipiamus c in nullo b esse, puta si dicamus: nullus homo est masculus; utraque propositio est
+falsa, non tamen totaliter, sed particulariter. Et eadem ratio est, si e converso maior sit negativa, et minor
+affirmativa. Ut si dicamus: nullum animal est masculum; omnis homo est masculus.
+|#6 Deinde cum dicit: similiter autem alteram etc., ostendit quomodo contingit alteram esse falsam.
+43
+
+

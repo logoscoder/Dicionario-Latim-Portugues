@@ -1,0 +1,46 @@
+OPERA OMNIA
+SANCTI THOMAE AQUINATIS
+-----oOo----Textum electronicum praeparavit et indexavit
+Ricardo M. Rom n, S. R. E. Presbyterus
+Bonis Auris, MCMXCVIII
+
+|*ARISTOTELIS_LIBRI
+|*POST._ANALYTICORUM
+IN LIBROS POSTERIORUM ANALYTICORUM
+|*PAN.1 : LIBER 1
+|+1 Lectio 1
+|#1 Sicut dicit Aristoteles in principio metaphysicae, hominum genus arte et rationibus vivit: in quo videtur
+Philosophus tangere quoddam hominis proprium quo a caeteris animalibus differt. Alia enim animalia quodam
+naturali instinctu ad suos actus aguntur; homo autem rationis iudicio in suis actionibus dirigitur. Et inde est quod
+ad actus humanos faciliter et ordinate perficiendos diversae artes deserviunt. Nihil enim aliud ars esse videtur,
+quam certa ordinatio rationis quomodo per determinata media ad debitum finem actus humani perveniant.
+Ratio autem non solum dirigere potest inferiorum partium actus, sed etiam actus sui directiva est. Hoc enim est
+proprium intellectivae partis, ut in seipsam reflectatur: nam intellectus intelligit seipsum et similiter ratio de suo
+actu ratiocinari potest. Si igitur ex hoc, quod ratio de actu manus ratiocinatur, adinventa est ars aedificatoria vel
+fabrilis, per quas homo faciliter et ordinate huiusmodi actus exercere potest; eadem ratione ars quaedam
+necessaria est, quae sit directiva ipsius actus rationis, per quam scilicet homo in ipso actu rationis ordinate,
+faciliter et sine errore procedat.
+|#2 Et haec ars est logica, idest rationalis scientia.
+Quae non solum rationalis est ex hoc, quod est secundum rationem (quod est omnibus artibus commune); sed
+etiam ex hoc, quod est circa ipsum actum rationis sicut circa propriam materiam.
+|#3 Et ideo videtur esse ars artium, quia in actu rationis nos dirigit, a quo omnes artes procedunt. Oportet igitur
+logicae partes accipere secundum diversitatem actuum rationis.
+|#4 Sunt autem rationis tres actus: quorum primi duo sunt rationis, secundum quod est intellectus quidam. Una
+enim actio intellectus est intelligentia indivisibilium sive incomplexorum, secundum quam concipit quid est res.
+Et haec operatio a quibusdam dicitur informatio intellectus sive imaginatio per intellectum. Et ad hanc
+operationem rationis ordinatur doctrina, quam tradit Aristoteles in libro praedicamentorum. Secunda vero
+operatio intellectus est compositio vel divisio intellectus, in qua est iam verum vel falsum. Et huic rationis actui
+deservit doctrina, quam tradit Aristoteles in libro perihermeneias. Tertius vero actus rationis est secundum id
+quod est proprium rationis, scilicet discurrere ab uno in aliud, ut per id quod est notum deveniat in cognitionem
+ignoti.
+Et huic actui deserviunt reliqui libri logicae.
+|#5 Attendendum est autem quod actus rationis similes sunt, quantum ad aliquid, actibus naturae.
+Unde et ars imitatur naturam in quantum potest.
+In actibus autem naturae invenitur triplex diversitas.
+In quibusdam enim natura ex necessitate agit, ita quod non potest deficere. In quibusdam vero natura ut
+frequentius operatur, licet quandoque possit deficere a proprio actu. Unde in his necesse est esse duplicem
+actum; unum, qui sit ut in pluribus, sicut cum ex semine generatur animal perfectum; alium vero quando natura
+deficit ab eo quod est sibi conveniens, sicut cum ex semine generatur aliquod monstrum propter corruptionem
+1
+
+

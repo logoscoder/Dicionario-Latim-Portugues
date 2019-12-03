@@ -1,0 +1,61 @@
+continuas adhibere non possumus nisi multiplex ille, a quo hae deriuari possint, reperiatur, sit unitas prima eique
+octonarius octuplus primus. Ad hoc igitur unum sesquioctauum potero deriuare. Sed quia duos quaerimus, fient octies
+octo, atque ex eo 64 explicentur. Erit igitur secundus octuplus a quo possumus duas sesquioctauas proportiones
+educere. Namque octo quae est octaua pars 64 unitatum eisdem additi totam summam 72 perficiunt; his uero si sua
+octaua similiter opponatur, quae est nouenarius, 81 reddunt. Eruntque duo toni continui principali dispositione
+conscripti
+64, 72, 81.
+[PLLXIII:1218,2; text: 64, 72, 81, tonus] [BOEDIM2 06GF]
+Nunc igitur 64 unitatum sesquitertium conquiramus. Sed quoniam 64
+probantur partem tertiam non habere, si omnes hi numeri ternario multiplicentur, mox eis pars tertia contingit,
+et omnes in eadem proportione durabunt, in qua fuerunt antequam his ternarius multiplicator accederet; fiant igitur ter
+64, id est 192, horum tertia 64 eisdem addita 256 reddet, Erit igitur haec sesquitertia proportio diatessaron [1219]
+consonantiam tenens. Nunc igitur quas sesquioctauas proportiones ad 192 duobus numeris continentes rato ordine
+collocemus; fiant igitur ter 72, id est 216. Rursus ter 81, qui sunt 243, qui inter duos supra scriptos terminos collocentur
+hoc modo: 192, 216, 243, 256.
+[PLLXIII:1219; text: tonus, semitonium, 192, 216, 243, 256, Diatessaron.] [BOEDIM2 06GF]
+In hac dispositione proportionum, primus numerus ad postremum diatessaron constituit consonantiam. Idem
+uero primus ad secundum, et secundus ad tertium geminos constituunt tonos. Constat igitur spatium quod relinquitur ex
+243 ad 256, in quibus minimi semitonii forma consistit.
+XXVIII,
+Demonstrationes non esse: 243 ad 256 toni medietatem.
+Approbo igitur 253 ad 256 distantiam non esse integram toni medii dimensionem. Etenim ducentorum
+quadraginta trium et ducentorum 56, differentia 13 tantum unitatibus continetur. Qui tredecim minus quidem quam
+minoris octauam decimam, plus uero quam nonam decimam obtinent partem. Si enim octies decies tredecim ducas,
+efficies 234, qui 243 nullo modo aequabit; si decies nouies multiplices, superuadent, cum oporteat omne semitonium, si
+tamen integrum toni dimidium tenet, inter sextam decimam partem ac septimam decimam collocari. Quod posterius
+demonstrabitur. Nunc illud liquebit talem semitonii distantiam sibimet geminatam, unum toni spatium non posse
+complere. Age enim ut sese 256 ad 243 habent, tales duas sibimet continuas proportiones, secundum superius
+descriptam regulam disponamus; 200 enim 50 et et 6 in semetipsos multiplicemus, et sit maximus terminus 65536. Item
+243 propria numerositate concrescant, et sit minimus terminus 59049.
+Rursus igitur 256 ad ducentorum 43 multitudinem concrescant. Erit igitur numerus 62208; hic igitur medius
+collocetur hoc modo:
+65536 62208 59849
+In eadem igitur sunt proportione ducenti 56 et 243. In qua 65536 ad 62208; et item 62208 ad 59049. Sed
+maximus eorum terminus, qui est 65536, ad minimum qui est 59040, unum integrum non efficit tonum. Quod si primi
+ad secundum proportio, quae est aequa secundi ad tertium proportioni, integri esse semitonii probaretur, duo dimidia
+iuncta unum necessario efficerent tonum. Nunc autem cum non sit extremorum terminorum sesquioctaua proportio,
+manifestum est hae duo spatia proprie tonorum dimidia non uideri. Quidquid enim cuiuscumque est dimidium, id si
+duplicetur illud efficit, cuius dicitur esse dimidium.
+Si uero illud implere non possit geminata particula, minus est parte dimidia. Si uero [1220] superfluat ac
+superuadat, plus est parte dimidia. Praeterea probabuntur 95536 non facere sesquioctauam proportionem. Si 56049
+unitatibus comparentur, si octaua pars 59049, eisdem secundum eas quae in arithmeticis dictae sunt regulas aggeratur.
+Quae quoniam integris numeris non consistit, idcirco eamdem octauam partem relinquimus lectorum diligentiae
+computandam. Liquet igitur eam proportionem quae in 256 et 243 est constituta, non esse integrum dimidium toni;
+quocirca id quod uere semitonium nuncupatur, pars toni minor est quam dimidia.
+[PLLXIII:1220,1; text: Differentiae, 13196, 3328, 3159, 78732, 65536,
+62208, 59049, Semiditonus cum comate, Semitonium minus. Diatessaron sesquitertia] [BOEDIM2 07GF]
+(Pinxissem totum spatium toni. At minimus terminus puta 59049 praecedentem sesquioctauam non habet, cum
+ipse sit quintus sesquioctauus, quinti octupli. Ut id in figurula ante picta comperies.)
+XXIX
+De maiore parte toni in quibus minimis numeris constet.
+Reliqua igitur pars, quae maior est, apotome nuncupatur a Graecis, a nobis uero potest uocari decisio. Id enim
+natura fert, ut quotiens aliquid secatur, ita ut non aequis partibus diuidatur, quanto minor pars dimidio minor est, tanto
+maior pars eadem, quae auctior est, dimidium uincat. Quantum igitur semitonium minus integro dimidio toni minus est,
+tanto apotome toni integrum superat dimidium et uincit. Et quoniam docuimus semitonium in 256 et 243 principaliter
+stare, nunc ea quae apotome dicitur, in quibus possit minimis constare numeris approbemus. Si igitur 243 partem
+recipere octauam possent cum ad eum sesquioctauus numerus comparetur, tunc 256 habitudo ad sesquioctauam
+summam minimi numeri comparata, apotomen necessaria ratione monstraret. Nunc uero quoniam ei pars octaua deesse
+monstratur, utrique numeri octies fiant. Et ex 243 quidem octies multiplicatis fit numerus 1944. Quibus si propria
+
+

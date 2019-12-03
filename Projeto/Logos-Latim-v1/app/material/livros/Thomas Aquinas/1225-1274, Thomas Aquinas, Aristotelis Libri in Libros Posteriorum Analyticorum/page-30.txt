@@ -1,0 +1,60 @@
+ostendit quomodo se habeant demonstrativae scientiae circa hoc principium, quod, non contingit simul affirmare
+et negare; secundo, quomodo se habeant circa istud principium, de quolibet est affirmatio vel negatio vera; ibi:
+omne autem affirmare etc.. Haec enim duo principia sunt omnium prima, ut probatur in IV metaphysicae.
+|#2 Dicit ergo primo quod nulla demonstratio accipit hoc principium, quod, non contingit simul affirmare et
+negare. Si enim aliqua demonstratio eo uteretur ad ostendendum aliquam conclusionem, oporteret quod sic eo
+uteretur, quod acciperet primum, idest maiorem extremitatem, affirmari de medio et non negari. Quia si acciperet
+affirmationem et negationem ex parte medii, nihil differret utrum sic vel sic esset; et eadem ratio est de tertio,
+idest de minori extremitate per comparationem ad medium. Verbi gratia: sit animal primum, homo medium, et
+callias tertium. Si quis vellet uti praedicto principio in demonstratione, oporteret sic arguere: omnis homo est
+animal et non est non animal; callias est homo; ergo callias est animal et non est non animal. Cum vero dicat,
+omnis homo est animal, nihil differt, utrum etiam haec sit vera, non homo est animal, vel non sit vera. Et
+similiter in conclusione non differt, ex quo callias est animal, utrum non callias sit animal, vel non animal. Et
+huius causa est, quia primum non oportet dici de solo medio, sed potest etiam dici de quodam alio, quod est
+diversum a medio, quod significatur per negationem medii; propter hoc quod primum dicitur de pluribus
+quandoque quam medium, sicut animal de pluribus quam homo; unde dicitur de equo, qui est non homo. Unde si
+accipiatur medium idem et non idem, idest, si accipiatur medium affirmativum et negativum, ut cum dico, homo
+et non homo est animal, nihil facit ad conclusionem.
+Cum autem accipitur affirmatio et negatio ex parte maioris extremitatis, differt quidem quantum ad
+conclusionem et etiam quantum ad veritatem praemissarum. Si enim homo esset non animal, non esset verum
+quod homo est animal, neque sequeretur quod callias esset animal. Tamen nihil plus certificatur cum dicitur,
+homo est animal et non est non animal, quam cum dicitur solum, homo est animal. Idem enim intelligitur per
+utrumque. Et sic manifestum est quod demonstrationes non utuntur hoc principio, scilicet quod affirmatio et
+negatio non sint simul vera, neque ex parte praedicati, neque ex parte subiecti.
+|#3 Deinde, cum dicit: omne autem affirmare etc., ostendit quomodo demonstrativae scientiae utantur hoc
+principio, de quolibet est affirmatio vel negatio vera. Et dicit quod hoc principium accipit demonstratio, quae est
+ad impossibile. In hac enim demonstratione probatur aliquid esse verum per hoc quod eius oppositum est falsum.
+Quod nequaquam contingeret, si possibile esset utrumque oppositorum esse falsum. Non tamen semper utitur
+praedicta demonstratio hoc principio, quia quandoque illud oppositum quod ostenditur esse falsum, non est
+negatio, sed contrarium immediatum. Sicut si ostenderetur aliquem numerum esse parem per hoc quod falsum
+est ipsum esse imparem ducendo ad impossibile. Neque etiam utitur hoc principio universaliter, idest in sua
+universalitate, sub his terminis, ens et non ens, sed quantum sufficiens est in genere aliquo. Et dico de illo
+genere, circa quod sunt demonstrationes. Sicut si in geometria accipiatur rectum et non rectum; ut cum ostenditur
+aliqua linea esse recta per hoc quod est falsum eam esse non rectam ducendo ad impossibile.
+|#4
+Deinde, cum dicit: communicant autem etc., ostendit qualiter demonstrativae scientiae se habeant
+communiter ad omnia principia communia.
+Et circa hoc duo facit. Primo, dicit quod omnes scientiae in communibus principiis communicant hoc modo,
+quod omnes utuntur eis, sicut ex quibus demonstrant, quod est uti eis ut principiis: sed non utuntur eis, ut de
+quibus aliquid demonstrant, ut de subiectis, neque sicut quod demonstrant, quasi conclusionibus.
+|#5 Secundo, ibi: et dialectica de omnibus etc., ostendit quod quaedam scientiae utuntur principiis communibus
+alio modo quam dictum est.
+Dialectica enim est de communibus; et aliqua alia scientia est etiam de communibus, scilicet philosophia prima,
+cuius subiectum est ens et considerat ea quae consequuntur ens, ut proprias passiones entis.
+Sciendum tamen est quod alia ratione dialectica est de communibus et logica et philosophia prima. Philosophia
+enim prima est de communibus, quia eius consideratio est circa ipsas res communes, scilicet circa ens et partes et
+passiones entis. Et quia circa omnia quae in rebus sunt habet negotiari ratio, logica autem est de operationibus
+rationis; logica etiam erit de his, quae communia sunt omnibus, idest de intentionibus rationis, quae ad omnes res
+se habent. Non autem ita, quod logica sit de ipsis rebus communibus, sicut de subiectis. Considerat enim logica,
+sicut subiecta, syllogismum, enunciationem, praedicatum, aut aliquid huiusmodi. Pars autem logicae, quae
+demonstrativa est, etsi circa communes intentiones versetur docendo, tamen usu demonstrativae scientiae non est
+in procedendo ex his communibus intentionibus ad aliquid ostendendum de rebus, quae sunt subiecta aliarum
+scientiarum. Sed hoc dialectica facit, quia ex communibus intentionibus procedit arguendo dialecticus ad ea quae
+sunt aliarum scientiarum, sive sint propria sive communia, maxime tamen ad communia. Sicut argumentatur
+quod odium est in concupiscibili, in qua est amor, ex hoc quod contraria sunt circa idem. Est ergo dialectica de
+communibus non solum quia pertractat intentiones communes rationis, quod est commune toti logicae, sed etiam
+quia circa communia rerum argumentatur. Quaecunque autem scientia argumentatur circa communia rerum,
+
+30
+
+

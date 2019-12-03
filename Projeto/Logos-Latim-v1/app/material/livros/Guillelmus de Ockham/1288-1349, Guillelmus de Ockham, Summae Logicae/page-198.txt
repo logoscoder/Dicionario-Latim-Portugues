@@ -1,0 +1,57 @@
+impossibile'; quae regula uera est. Sed quando sua de inesse non conuertitur simpliciter sed tantum per accidens,
+tunc illa de impossibili in sensu compositionis [non est conuertibilis] nec aliqua sibi aequiualens est
+conuertibilis. Et hoc quia non posset tenere talis conuersio nisi per istam regulam 'si antecedens est impossibile,
+consequens est impossibile'; quae regula falsa est, nam aliquando antecedens est impossibile et consequens
+necessarium.
+Circa conuersionem propositionum de impossibili est sciendum quod propositiones de impossibili,
+acceptae in sensu compositionis, conuertuntur sicut suae de inesse, quando illae de inesse conuertuntur
+simpliciter, quia tunc arguitur per istam regulam 'si unum conuertibilium est impossibile, reliquum est
+impossibile'; quae regula uera est. Sed quando sua de inesse non conuertitur simpliciter sed tantum per accidens,
+tunc illa de impossibili in sensu compositionis [non est conuertibilis] nec aliqua sibi aequiualens est
+conuertibilis. Et hoc quia non posset tenere talis conuersio nisi per istam regulam 'si antecedens est impossibile,
+consequens est impossibile'; quae regula falsa est, nam aliquando antecedens est impossibile et consequens
+necessarium.
+Et ideo tales consequentiae sunt bonae 'nullum hominem esse animal est impossibile, igitur nullum
+animal esse hominem est impossibile'; 'aliquem hominem esse asinum est impossibile, igitur aliquem asinum
+esse hominem est impossibile'; 'Deum esse corpus est impossibile, igitur corpus esse Deum est impossibile'. Sed
+tales consequentiae 'omne animal esse hominem est impossibile, igitur aliquem hominem esse animal est
+impossibile'; omne ens in actu uel in potentia esse Deum est impossibile, igitur Deum esse ens in actu uel in
+potentia est impossibile' et huiusmodi non ualent.
+Et ideo tales consequentiae sunt bonae 'nullum hominem esse animal est impossibile, igitur nullum
+animal esse hominem est impossibile'; 'aliquem hominem esse asinum est impossibile, igitur aliquem asinum
+esse hominem est impossibile'; 'Deum esse corpus est impossibile, igitur corpus esse Deum est impossibile'. Sed
+tales consequentiae 'omne animal esse hominem est impossibile, igitur aliquem hominem esse animal est
+impossibile'; omne ens in actu uel in potentia esse Deum est impossibile, igitur Deum esse ens in actu uel in
+potentia est impossibile' et huiusmodi non ualent.
+Si autem talis propositio de impossibili sumatur in sensu diuisionis uel aequiualens sibi, tunc
+conuertibilis est sicut illa de necessario. Unde ista consequentia non ualet 'aliquod album impossibiliter est
+homo, igitur aliquis homo impossibiliter est albus', nam antecedens est uerum et consequens falsum; sed debet
+sic conuerti 'igitur aliquid, quod impossibiliter est homo, est album'. [Similiter ista 'nullum album potest esse
+homo' non conuertitur sic 'igitur nullus homo potest esse albus' sed sic 'igitur aliquid, quod non potest esse homo,
+est album'.][Istud cancellauit ipsc Occkam. Est autem sciendum quod quando negatio praecedit modum, mutat
+modum, ut non dicatur propositio de tali modo. Et ideo ista
+'nullus homo potest esse albus' non est de possibili sed magis de impossibili. Sicut ista 'nullus homo de
+necessitate est albus' non est proprie et stricte de necessario sed magis de possibili, quia aequiualet isti 'omnis
+homo potest non esse albus'. Et ideo quia tales propositiones in quibus negantur modi aequiualent
+propositionibus affirmatiuis de aliis modis, ideo non conuertuntur simpliciter sed per accidens tantum. Unde ista
+'nullum ens de necessitate creat' non conuertitur in istam 'igitur nullum creans de necessitate est ens',
+quia falsa est, cum sua contradictoria sit uera, scilicet 'aliquod creans de necessitate est ens', quia hoc creans de
+necessitate est ens, demonstrando Deum; nec in istam nihil quod non de necessitate creat est ens', nam non
+sequitur, quia antecedens est uerum et consequens falsum; sed sequitur ista 'igitur aliquid, quod non de
+necessitate creat, est ens'.]
+'nullum ens de necessitate creat' non conuertitur in istam 'igitur nullum creans de necessitate est ens',
+quia falsa est, cum sua contradictoria sit uera, scilicet 'aliquod creans de necessitate est ens', quia hoc creans de
+necessitate est ens, demonstrando Deum; nec in istam nihil quod non de necessitate creat est ens', nam non
+sequitur, quia antecedens est uerum et consequens falsum; sed sequitur ista 'igitur aliquid, quod non de
+necessitate creat, est ens'.]
+[2.27 DE CONVERSIONE PROPOSITIONUM DE CONTINGENTI]
+[2.27 DE CONVERSIONE PROPOSITIONUM DE CONTINGENTI]
+Post praedicta uidendum est de conuersione propositionum de contingenti.
+Post praedicta uidendum est de conuersione propositionum de contingenti.
+Et est primo sciendum quod in isto capitulo accipiendum est semper contingens' pro contingenti ad
+utrumlibet, ut illa sola propositio dicatur contingens quae nec est necessaria nec impossibilis. Et quia talis
+propositio habet duas conuersiones, unam in terminis et aliam per oppositas qualitates, ideo primo dicendum est
+de prima conuersione, secundo de secunda.
+198
+
+

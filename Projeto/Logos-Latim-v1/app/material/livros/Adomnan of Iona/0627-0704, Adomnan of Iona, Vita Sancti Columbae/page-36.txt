@@ -1,0 +1,62 @@
+Sources
+Primary Manuscripts [for derived MSS see G. Brüning, ZCP 11 (1917), 220-224]
+Generalia 1 (A), Stadtbibliothek Schaffhausen, Switzerland; vellum, 69 folios; 290 x 225 mm, with later page
+numbering running from 1 to 136; written in 2 columns, in a single Irish hand. A colophon in 136a names the
+scribe as Dorbbéne: 'pro me Dorbbeneo Dominum deprecetur'; probably written before 713.
+British Library MS Add. 35110 (B1), folios 96v-143r, probably written before 1165.
+British Library MS Cottonian Tiberius D III (B2), folios 192r-217r, written end of 12th to early 13th century.
+Due to fire damage in 1731, there are missing illegible portions on every page, and six folios [Book I, ch. 2
+(diebus) to 22 (genibus) and 36 (viro) to 49 (omnia quae)] are missing completely.
+British Library MS Royal 8 D IX (B3), folios 1r-70r, written in the fifteenth or early sixteenth century. The first
+8 folios, [to I, 3 (haec puro pectore)] are missing.
+For more information about the inter-relationship of the manuscripts, see an excerpt from Sharpe 1995.)
+Editions and Translations from Primary Manuscripts [for editions from derived MSS G. Brüning, ZCP 11
+(1917), 224-5]
+Johannes Colganus [John Colgan], Triadis Thaumaturgae seu divorum Patricii, Columbae et Brigidae, Trium
+Veteris et Maioris Scotiae, seu Hiberniae, Sanctorum Insulae, Communium Patronorum Acta, a Variis, iisque
+pervetustis, ac Sanctis authoribus Scripta, ac studio R.P.F. Joannis Colgani, in Conventu FF Minor, Hibernor.
+strictior. observ. Louanii, S. Theologiae Lectorius Jubilati. Ex variis Bibliothecis collecta, Scholiis et
+commentariis illustrata, et pluribus Appendicibus aucta: complectitur Tomus Secundus Sacrarum ejusdem
+insulae Antiquitatum, nunc primum in lucem prodiens. Lovanii 1647, 336-372 [from a transcript of (A) made by
+Stephen White in 1621]. Repr. with an introduction by Pádraig Ó, Riain. Dublin, 1996.
+Franciscus Baertius, Acta Sanctorum, Junii II, Antwerpen 1698, 197-236 [from the same transcript of (A)].
+Johannes Pinkerton, Vitae antiquae sanctorum, qui habitaverunt in parte nunc vocata Scotia, London 1789, S.
+47-187 [From (B3); missing beginning and some variants supplemented from Heinrich Canisius, Antique
+lectionis V, 2, Ingolstadt 1604, 559-621]. — W. M. Metcalfe, 'Pinkerton's Lives of the Scottish Saints, revised
+and enlarged I, Paisley 1889, 73-209, includes Reeves's variants.
+William Reeves, (ed.) The Life of Columba, written by Adamnan, Dublin 1857 [based on (A), but uses (B3) and
+four derived MSS: St. Gallen 555, München 6341, München 22241, and Dublin, Marsh's Library, Vitae
+Sanctorum Hibernicorum (Lives of the Irish Saints) = 'Codex Kilkenniensis' or 'Codex Armachanus']; reprinted
+[with a translation and with editorial restructuring by W. F. Skene] in Historians of Scotland, Vol. 6, Edinburgh
+1874. Based on (A). This text was originally made available on Dr Norm Jones's Columba Webpages
+(http://www.usu.edu/history/norm/columb~1.htm).
+J. T. Fowler, Adamnani Vita S. Columbae, Oxford 1894. Based on (A).
+Adomnán's Life of Columba, edited with translation and notes by the late Alan Orr Anderson and by Marjorie
+Ogilvie Anderson, Edinburgh and London 1961; reprinted [revised by Marjorie Ogilvie Anderson] Oxford 1991.
+Adomnán of Iona, Life of St Columba, translated by Richard Sharpe, London 1995 [translation only.] Rev.
+Dáibhí Ó Cróinín, Peritia 10 (1996) 410-412.
+Secondary Literature [for more bibliographical references see Anderson & Anderson 1991; Sharpe 1995 ]
+Gertrud Brüning, Adamnans Vita Columbae und ihre Ableitungen, Zeit Celt Phil 11 (1917) 213-304.
+René Specht, 'Wie kam Dorbénes Abschrift von Adomnán's 'Vita Sancti Columbae' in die Stadtbibliothek
+Schaffhausen?', Schaffhauser Beiträge zur Geschichte 65 (1988) 103-109.
+Máire Herbert, Iona, Kells and Derry, the history and hagiography of the monastic familia of Columba, Oxford
+1988. Revs. Tomás Ó Cathasaigh, Éigse 24 (1990) 192-195; T. M. Charles-Edwards. Medium AEvum 59/2
+(1990) 295. [Paperback reprint Dublin 1996].
+Brian Lacey, Colum Cille and the Columban tradition, Dublin 1997.
+Thomas Owen Clancy, 'Columba, Adomnan and the cult of Saints in Scotland', The Innes Review 48/1 (Spring
+1997) 1-26.
+Cormac Bourke (ed.), Studies in the Cult of Saint Columba. Dublin/Portland, Oregon, USA: 1997. Rev. Thomas
+Owen Clancy, Cambrian Medieval Celtic Studies 37 (Summer 1999) 101-106.
+Dauit Broun & Thomas Owen Clancy (eds.), Spes Scotorum, Hope of Scots: Saint Columba, Iona and Scotland,
+Edinburgh 1999.
+Jean-Michel Picard, Adomnán's Vita Columbae and the cult of Colum Cille in continental Europe, Proceedings
+of the Royal Irish Academy, 1998 (available in pdf format online).
+Jean-Michel Picard, Schaffhausen Generalia I and the textual transmission of Adomnán's 'Vita Columbae' on the
+continent, in Ireland and Europe in the early Middle Ages: texts and transmission/Irland und Europa im früheren
+Mittelalter: Texte und Überlieferung, (eds. Próinséas Ní Chatháin/Michael Richter, Dublin 2002, 95-102.
+The edition used in the digital edition.
+Life of Saint Columba, Founder of Hy. Written by Adamnan, Ninth Abbot of that Monastery . William Reeves
+(ed), First edition [clxxxiv + 385 pp.] Edmonston and Douglas Edinburgh (1874)
+36
+
+

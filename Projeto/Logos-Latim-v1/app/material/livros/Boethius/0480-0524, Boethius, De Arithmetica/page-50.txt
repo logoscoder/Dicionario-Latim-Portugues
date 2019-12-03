@@ -1,0 +1,50 @@
+Est illi hoc quoque solida proprietate coniunctum, quod quemadmodum sunt omnes termini huiusmodi
+dispositionis ad se ipsos, ita sunt differentiae ad differentias constitutae. Namque omnis terminus sibi ipsi
+aequalis est et differentiae differentiis sunt aequales. Illud quoque subtilius, quod multi huius disciplinae periti
+nisi Nicomachus nunquam antea perspexerunt, quod in omni dispositione vel continua vel disiuncta, quod
+continetur sub duabus extremitatibus minus est eo numero, qui ex medietate conficitur, tantum, quantum possunt
+duae sub se differentiae continere, quae inter ipsos sunt terminos constitutae. Ponamus enim tres terminos
+huiusmodi iij v vij. Si igitur tres septies augeantur, in xxj numerum cadunt. Quod si medium terminum, id est v,
+in semet ipsum multiplicaveris, quinquies quinque faciunt xxv Et hic numerus ab eo, quem extremitates
+colligunt, quaternario maior est, quem scilicet differentiae conficiunt. Inter iij enim et v et vij bini intersunt, quos
+si in sese multiplices, iiij reddunt. Bis enim duo iiij fiunt. Recte igitur dictum est, in hac huiusmodi dispositione,
+quod continetur sub extremitatibus, minus esse illo numero, qui fit ex medietate, tantum, quantum differentiae in
+se multiplicatae restituunt.
+
+Quartum vero proprium huiusmodi dispositionis notatur, quod antiquiores quoque habuere notissimum,
+quod in hac proportionalitate vel medietate in minoribus terminis maiores proportiones, in maioribus minores
+comparationes necesse est inveniri. Namque in dispositione hac j ij iij minores termini sunt j et ij, maiores ij et
+iij. Et ij ad unum duplus est, tres vero ad ij sesqualter. Sed maior est proportio dupli quam sesqualtera. In
+armonica autem medietate e contrario evenire contingit; in minoribus enim terminis minores proportiones, in
+maioribus maior proportionis quantitas custoditur. Harum vero medietatum, id est arithmeticae atque armonicae,
+geometrica proportionalitas media esse notata est, quae vel in maioribus vel in minoribus terminis aequas
+numerorum qualitates in proportionalitate custodit. Inter maius vero et minus aequalitas loco ponitur medietatis.
+Et de arithmetica quidem medietate satis dictum est.
+De geometrica medietate eiusque proprietatibus
+Nunc vero quae hanc sequitur, geometrica medietas expediatur, quae sola vel maxime proportionalitas
+appellari potest propterea quod in eisdem proportionibus terminorum vel in maioribus vel in minoribus
+speculatio ponitur. Hic enim aequa semper proportio custoditur, numeri quantitas multitudoque neglegitur,
+contrarie quam in arithmetica medietate, ut sunt j ij iiij viij xvj xxxij lxiiij vel in tripla proportione j iij viiij xxvij
+lxxxj vel si quadrupla vel si quincupla vel si in quamlibet multiplicitatem numerorum sit constituta distensio. In
+his enim, quotlibet terminos sumpseris, explebunt geometricam medietatem, quemadmodum enim prior ad
+sequentem est, ita sequens ad alium, et rursus, si permixte facias, idem erit. Si enim ponantur tres termini ij iiij et
+viij, quemadmodum sunt viij ad iiij ita quattuor ad duo. Atque hoc si convertas, quemadmodum sunt duo ad
+quattuor, ita erunt quattuor ad viij.
+
+upla
+j
+
+upla
+iij
+
+iij
+
+Vel si in quattuor terminis, ut sunt ij iiij viij xvj, quemadmodum est primus ad tertium, id est ij ad viij, sic
+erit secundus ad quartum, id est iiij ad xvj. Utraque enim proportio quadrupla est. Et conversim quemadmodum
+quartus est ad secundum, ita tertius notatur ad primum. Hoc vero etiam disiuncte licet. Nam quemadmodum est
+primus adsecundum, id est duo ad iiij, sic tertius ad quartum, id est viij ad xvj. Et conversim quemadmodum
+secundus ad primum, id est iiij ad ij, ita quartus ad tertium, id est xvj ad viij. Idque in omnibus rata
+consideratione perspicies.
+50
+
+

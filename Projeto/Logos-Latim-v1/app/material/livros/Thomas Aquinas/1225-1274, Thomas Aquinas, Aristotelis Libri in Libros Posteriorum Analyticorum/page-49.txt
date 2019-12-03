@@ -1,0 +1,56 @@
+demonstrationes in infinitum procedunt, vel descendendo vel ascendendo. Aliud autem membrum dubitationis
+est, si demonstrationes ad invicem terminantur, ita scilicet quod una demonstratio confirmetur per aliam
+ascendendo, et ex una demonstratione procedat alia descendendo, et hoc usque ad aliquem terminum.
+|#12 Deinde cum dicit: similiter autem dico etc., ostendit quod praedictae dubitationes habent locum etiam in
+demonstrationibus negativis, quia demonstratio negativa oportet quod utatur propositione affirmativa, in qua
+subiectum conclusionis contineatur sub medio, a quo praedicatum conclusionis removeatur. Secundum ergo
+quod est ascensus et descensus in affirmativis, oportet quod sit ascensus et descensus in negativis syllogismis, et
+propositionibus; ut puta si conclusio demonstrativi syllogismi sit, nullum c est a, et accipiatur sicut medium b, a
+quo a removeatur.
+Est ergo primo considerandum utrum a removeatur a b primo, sive immediate, aut sit aliquod medium accipere, a
+quo primo removeatur a quam a b, puta si prius removeatur ab I, quod oportet universaliter praedicari de b; et
+iterum erit considerandum utrum a removeatur ab aliquo per prius quam ab I, scilicet a t, quod praedicatur
+universaliter de I. Ita ergo et in his potest procedi in infinitum in removendo, ut semper sit aliquid accipere, a quo
+per prius removeatur, vel oportet alicubi stare.
+|#13 Deinde cum dicit: sed in convertibilibus etc., ostendit in quibus praedictae quaestiones locum non habeant.
+Quia in his, quae aequaliter de se invicem praedicantur et convertuntur ad invicem, non est accipere aliquod
+prius et posterius secundum illum modum, quo prius est, a quo non convertitur consequentia essendi, prout
+universalia sunt priora; quia sive praedicata sint infinita, ita scilicet quod procedatur in infinitum in praedicando,
+sive sint infinita ex utraque parte, idest tam ex parte praedicati quam ex parte subiecti, omnia huiusmodi infinita
+similiter se habebunt ad omnia; quia quodlibet eorum poterit praedicari de quolibet, et subiici cuilibet
+convertibilium. Nisi solum quod potest esse talis differentia, quod unum eorum praedicatur ut accidens, et aliud
+praedicatur sicut praedicamentum, idest sicut substantiale praedicatum. Et haec est differentia proprii et
+definitionis, quorum utrumque est convertibile; et tamen definitio est praedicatum essentiale, et propter hoc est
+prius naturaliter proprio, quod est praedicatum accidentale. Et inde est quod in demonstrationibus utimur
+definitione quasi medio ad demonstrandum propriam passionem de subiecto.
+|+32 Lectio 32
+|#1 Postquam Philosophus movit quaestiones, hic incipit eas determinare; et dividitur in duas partes. In prima
+parte, ostendit quod quarumdam dubitationum solutio reducitur ad solutionem aliarum.
+In secunda, solvit dubitationem quantum ad illa, in quibus per se et principaliter difficultas consistit; ibi: quod
+autem in illis, si logice etc..
+Circa primum duo facit: primo enim ostendit quod dubitatio, quae potest esse circa media, reducitur ad
+dubitationem, quae movetur de extremis, et, ea soluta, solvitur; secundo, ostendit quod dubitatio, quae est circa
+negativas demonstrationes, reducitur ad dubitationem, quae est de affirmativis; ibi: manifestum est autem in
+privativis etc..
+Circa primum tria facit: primo, proponit quod intendit; secundo, probat propositum; ibi: si enim a praedicante
+etc.; tertio, excludit quamdam obviationem; ibi: nec si aliquis dicat etc..
+|#2 Dicit ergo primo quod manifestum est, si quis rationem sequentem consideret, quod non contingit esse
+media infinita, si praedicationes tam in sursum quam in deorsum stent in aliquibus terminis, scilicet in summo
+praedicato et in infimo subiecto. Et exponit quid sit procedere praedicationes sursum, et deorsum; et dicit quod
+sursum ascenditur, quando proceditur ad magis universale, de cuius ratione est quod praedicetur: deorsum autem
+proceditur, quando itur ad magis particulare, de cuius ratione est quod subiiciatur.
+|#3 Deinde cum dicit: si enim a praedicante etc., ostendit propositum per hunc modum. Sit ita quod a sit
+summum praedicatum, et c sit infimum subiectum, et sint infinita media, quorum quodlibet vocetur b. Quia igitur
+a erat primum praedicatum, praedicabitur de aliquo medio sibi propinquiori, et iterum illud medium de alio
+medio inferiori; et cum media sint infinita, sequitur quod in infinitum procedet praedicatio in descendendo, quod
+est contra positum. Ponebatur enim quod non descendat praedicatio in infinitum.
+Similiter etiam si incipiamus a c, quod est infimum subiectum, procedetur ascendendo in infinitum antequam
+perveniatur ad a, quod etiam est contrarium posito. Si ergo haec sint impossibilia, scilicet quod procedatur
+praedicando in infinitum sursum vel deorsum, sequetur quod impossibile sit media esse infinita. Et ita patet quod
+quaestio de infinitate mediorum reducitur ad quaestionem de infinitate extremorum.
+|#4 Deinde cum dicit: neque enim si aliquis etc., excludit quamdam obviationem. Posset enim aliquis obviare,
+dicens quod praedicta probatio procedebat, ac si a b c, idest medium et extrema, ita se haberent, quod essent
+habita ad invicem, ita scilicet, quod inter ea non esset aliquod medium: sic enim definitur habitum in V
+49
+
+

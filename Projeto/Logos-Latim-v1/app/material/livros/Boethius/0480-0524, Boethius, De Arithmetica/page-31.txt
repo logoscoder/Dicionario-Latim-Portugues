@@ -1,0 +1,39 @@
+Plana vero superficies in numeris invenitur, quotiens a tribus inchoatione facta addita descriptionis
+latitudine insequentium se naturalium numerorum multitudine anguli dilatantur, ut sit primus triangulus
+numerus, secundus quadratus, tertius qui sub quinque angulis continetur, quem pentagonum Graeci nominant,
+quartus exagonus, id est qui sex angulis includitur et ceteri eodem modo singillatim per naturalem numerum
+angulos augeant in plana scilicet descriptione figurarum. Hi vero idcirco a ternario numero inchoant, quod
+latitudinis et superficiei solus ternarius principium est. In geometria quoque idem planius invenitur. Duae enim
+lineae rectae spatium non continent. Et omnis triangularis figura vel tetragoni vel pentagoni vel exagoni vel
+cuiuslibet, qui pluribus angulis continetur, si a medietate per singulos angulos lineae producantur, tot eum
+dividunt trianguli, quot ipsam figuram angulos habere contigerit. Quadratum enim ita ductae lineae in quattuor,
+pentagonum in quinque triangulos, exagonum in sex et ceteros in suorum angulorum modo mensuraque per
+triangulos partiuntur, ut est subiecta descriptio: quadratus in quattuor triangulos divisus, pentagonus in v
+triangulos divisus, exagonus in sex triangulos divisus. At vero triangula figura, cum eam quis ita diviserit, in
+alias figuras non resolvitur, nisi in se ipsam. In tria enim triangula dissipatur. Triangulus in tres triangulos
+divisus. Adeo haec figura princeps est latitudinis, ut ceterae omnes superficies in hanc resolvantur, ipsa vero,
+quoniam nullis est principiis obnoxia neque ab alia latitudine sumpsit initium, in sese ipsam solvatur. Idem
+autem et in numeris fieri, sequens operis ordo monstrabit.
+Dispositio triangulorum numerorum
+
+Dispositio triangulorum numerorum
+Est igitur primus triangulus numerus, qui in solis tribus unitatibus dissipatur secundum superficiei
+positionem, triangula scilicet descriptione, et post hunc quicunque aequalitatem laterum in trina laterum spatia
+segregant.
+De lateribus triangulorum numerorum.
+Ad hunc modum infinita progressio est, omnesque ex ordine trianguli aequilateri procreabuntur, primum
+omnium ponenti quod ex unitate nascitur ut haec vi sua triangulus sit, non tamen etiam opere atque actu. Nam si
+cunctorum mater est numerorum, quicquid in his, quae ab ea nascuntur, numeris invenitur, necesse est ut ipsa
+naturali quadam potestate contineat. Et huius trianguli latus est unitas. Ternarius vero, qui primus est opere et
+actu ipso triangulus, crescente unitate binarium numerum latus habebit. Vi enim et potestate primi trianguli, id
+est unitatis, unitas latus est, actu vero et opere trianguli primi, id est ternarii, dualitas, quam Graeci dyada vocant.
+Secundi vero trianguli, qui opere atque actu secundus est, id est senarii, crescente naturali numero in lateribus
+ternarius invenitur; tertii vero, id est denarii, quaternarius latus continet; quarti vero, id est xv, quinarius latus
+tenet, et quinti senarius idemque est usque in infinitum.
+De generatione triangulorum numerorum
+Nascuntur autem trianguli disposita naturali quantitate numerorum, si prioribus semper multitudo
+sequentium congregetur. Disponatur enim naturalis numerus hoc modo:
+j ij iij iiij v vj vij viij viiij
+31
+
+

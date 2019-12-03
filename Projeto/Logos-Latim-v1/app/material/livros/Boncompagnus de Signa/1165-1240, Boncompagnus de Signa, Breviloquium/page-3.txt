@@ -1,0 +1,43 @@
+[8.5] Plaga lingue semper est recens.
+[8.6] Vulnus lingue consolidari non potest.
+[8.7] Lingua et ianua discordie et porta mortis.
+[8.8] Lingua dolosa invidie est sagitta veneno toxicata.
+[8.9] Lingua facile dilabitur in mendatium, ex quo conscientia est corrupta.
+[8.10] Lingua conscientie parcere non consuevit, ubi dominatur inimicitia capitalis.
+[8.11] Odium et amor linguam facile pertrahunt ad nugandum.
+[8.12] Ex conscientia violata procedit mendatium et labia dolosa non exprimunt veritatem.
+[8.13] Interiora veritatis corrumpit odium speciale.
+[8.14] Caligo discordie splendorem tenebrat veritatis.
+[8.15] Tinea mendatii substantiam veritatis cor rodit.
+[8.16] Veritas vulneratur sed mori non potest.
+[8.17] Veritas passibus non ambulat tortuosis.
+[8.18] Mendatium, quandoque albet, cito nigrescit.
+[9.] DE COMMENDATIONIBUS AD ILLOS, QUOS NUNQUAM VIDIMUS.
+[9.1] Licet vos corporeis oculis nunquam viderim.
+[9.2] Quamquam vestram notitiam non habuerim.
+[9.3] Quamvis non fuerit michi datum desuper, quod vos corporeis oculis intuerer, nichilominus tamen vestre
+benignitati commendo.
+[9.4] Vestre me dominationi commendo.
+[9.5] Vestre me desiderabili amicitie cum omni securitate commendo.
+[9.6] Vestre me paternitati audeo commendare.
+[9.7] Vestre me clementie non dubito commendare.
+[10.] DE COMMENDATIONIBUS AD MAIORES PER DATIVUM.
+[10.1] Paternitati. Dominationi. Benignitati. Sanctitati. Pietati. Clementie. Imperatorie maiestati. Regali
+maiestati. Celsitudini. Sublimitati. Altitudini. Excellentie. Magnificentie.
+[10.2] Que me quasi de nichilo procreavit.
+[10.3] Cuius gratia sum id, quod sum et ero, quod esse videbor.
+[10.4] Cui teneor prompta famulamina exibere.
+[10.5] Quam teneor super omnia revereri.
+[10.6] Qua mediante profectum desiderabilem sum adeptus, me totis affectionibus recommendo.
+[10.7] Me voce, corde ac anima recommendo.
+[10.8] Me cum omni affectione animi recommendo, me recommendo in omni genere servitutis.
+[10.9] Me recommendo in omni genere famulatus.
+[10.10] Me recommendo cum omni humilitate mentis.
+[10.11] Me recommendo cum omni promptitudine serviendi.
+[11.] DE ROGAMINIBUS AD MAIORES PER ACCUSATIVUM CUM VARIATIONE.
+[11.1] Paternitatem. Dominationem. Benignitatem. Sanctitatem. Pietatem. Clementiam. Imperatoriam
+maiestatem. Regalem maiestatem. Excellentiam. Magnificentiam.
+[11.2] Que cunctis eam poscentibus, karitativum solatium impertitur.
+3
+
+

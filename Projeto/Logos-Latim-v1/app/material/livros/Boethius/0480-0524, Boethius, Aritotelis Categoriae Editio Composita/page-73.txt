@@ -1,0 +1,62 @@
+homines ambularent, uerum erat "Quidam homo ambulat", non etiam "Socrates ambulat", nisi ipse Socrates ambularet:
+ita quoque in eo quod est "Homo ambulat" et "Non homo ambulat" dici potest. Nam si plura quae sunt non homines
+ambulent, uerum est dicere quoniam non homo ambulat, non autem uerum est dicere quoniam homo ambulat, nisi ipse
+homo ambulet. Secundum definitionem <ergo> potius et proprietstem uidentur discrepare quam aliquam totam
+quantitatem uel partem uel rursus aliquam qualitatem. Nam, sicut posterius demonstrabitur, ea quae dicit non homo
+ambulat affirmatio potius quam negatio est. Atque haec hactenus praedixisse sufficiat.
+[10]
+QUONIAM AUTEM EST DE ALIQUO AFFIRMATIO SIGNIFICANS ALIQUID, HOC AUTEM EST VEL
+NOMEN VEL INNOMINE, UNUM AUTEM OPORTET ESSE ET DE UNO HOC QUOD EST IN AFFIRMATIONE
+(NOMEN AUTEM DICTUM EST ET INNOMINE PRIUS; NON HOMO ENIM NOMEN QUIDEM NON DICO
+SED INFINITUM NOMEN; UNUM ENIM QUODAMMODO SIGNIFICAT INFINITUM, QUEMADMODUM ET
+NON CURRIT NON VERBUM SED INFINITUM VERBUM), ERIT OMNIS AFFIRMATIO VEL EX NOMINE ET
+VERBO VEL EX INFINITO NOMINE ET VERBO. PRAETER VERBUM AUTEM NULLA AFFIRMATIO VEL
+NEGATIO. EST ENIM VEL ERIT VEL FUIT VEL FIT, VEL QUAECUMQUE ALIA /255/ HUIUSMODI, VERBA
+EX HIS SUNT QUAE SUNT POSITA; CONSIGNIFICANT ENIM TEMPUS. QUARE PRIMA AFFIRMATIO ET
+NEGATIO EST HOMO, NON EST HOMO, DEINDE EST NON HOMO, NON EST NON HOMO; RURSUS EST
+OMNIS HOMO, NON EST OMNIS HOMO, EST OMNIS NON HOMO, NON EST OMNIS NON HOMO.
+In secundo (ut arbitror) libro praediximus omnem enuntiationem simplicem id est praedicatiuam ex subiecto et
+praedicato consistere, quorum semper praedicatio aut uerbum esset aut quod idem posset, tamquam si uerbi dictio
+poneretur: ut cum dicimus:
+Homo ambulat
+uerbum ponitur; cum uero dicimus:
+Homo rationalis
+subaudiatur hic uerbum 'est', ut totus intellectus sit "Homo rationabilis est". Quocirca necesse est aut uerbum
+semper esse praedicatum aut quod sit uerbo consimile idemque in enuntiationibus possit. Quod uero subiectum esset,
+aut omnino nomen esse aut quod uice nominis fungeretur.
+Quocirca illud maxime colligendum est omne in categorica propositione subiectum nomen esse, omne uero
+praedicatum uerbum. Sed quoniam, cum de nomine loqueretur, aliud quoddam nomen introduxit, quod simpliciter
+quidem et per se nomen non esset, infinitum tamen nomen uocaretur, id quod cum negatiua particula profertur, omnis
+autem propositio ex nominis subiectione consistit, est autem categorica propositio, quae aliquid de aliquo praedicat uel
+negat, et de quo praedicat quidem nomen est quoniamque in nomine infinitum etiam /256/ nomen dicitur, necesse est
+semper categoricam propositionem aut nomen habere subiectum aut illud quod dicitur infinitum.
+Infinitum uero nomen est quod ipse nunc INNOMINE uocat. Omnis ergo propositio praedicatiua in duas
+diuiditur species: aut ex infinito nomine subiectum est aut ex simplici nomine. Ex infinito quidem, cum dico:
+Non homo ambulat
+ex finito autem et simplici, ut:
+Homo ambulat
+Huius autem quae ex finito et simplici est species sunt duae: quae aut uniuersale nomen subicit, ut "Homo
+ambulat", aut singulare, ut "Socrates ambulat".
+Quare ita fit diuisio: omnium enuntiationum simplicium, quae ex duobus terminis constant, aliae sunt ex
+infinito nomine subiecto, aliae uero ex finito et simplici.
+Earum quae simplex habent subiectum aliae sunt quae uniuersale simplex subiciunt, aliae quae singulare.
+Supra uero perdocuit quod sint differentiae propositionum simplex nomen in subiecto ponentium: quod aliae
+sint uniuersales, aliae particulares, aliae indefinitae. Et secundum quantitatem quidem hoc modo differunt, secundum
+qualitatem uero, quod aliae affirmatiuae sint, aliae negatiuae.
+Idem quoque in his propositionibus quae ex infinito nomine subiecto enuntiantur. Aliae namque harum
+indefinitae sunt, aliae definitae.
+Definitarum aliae sunt uniuersales, aliae particulares. Hic quoque secundum quantitatem nec minus secundum
+qualitatem eaedem infinitorum quoque nominum propositionibus differentiae sunt. Dicimus enim alias esse
+affirmatiuas, alias negatiuas. Subiecta uero descriptio docet, quae sint affirmatiuae simplices, /257/ quae sint negatiuae,
+et rursus quae sint affirmatiuae ex infinito nomine et quae negatiuae easque omnes in propriis determinationibus
+adiunximus nec minus etiam indefinitas in utraque specie propositionum posuimus singulare habentibus subiectum
+simplicibus propositionibus reiectis.
+Sint enim indefinitae simplices hae:
+Homo ambulat
+Homo non ambulat
+contra has uero diuisae secundum infinitum nomen hae:
+Non homo ambulat
+Non homo non ambulat
+Uniuersales ex simplici subiecto nomine sint hae:
+
+

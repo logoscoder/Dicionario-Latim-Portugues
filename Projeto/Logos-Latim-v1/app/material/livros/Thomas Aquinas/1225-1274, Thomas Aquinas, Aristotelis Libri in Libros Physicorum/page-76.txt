@@ -1,0 +1,64 @@
+esse talem, scilicet habere tres angulos aequales duobus rectis. Ex illo
+ergo priori quod assumitur ut principium, provenit ex necessitate
+conclusio.
+Sed non sequitur e converso, si conclusio est, quod principium sit; quia
+aliquando ex falsis propositionibus potest syllogizari conclusio vera. Sed
+tamen sequitur quod si conclusio non est, quod neque principium praemissum
+sit; quia falsum nunquam syllogizatur nisi ex falso.
+Sed in iis quae fiunt propter aliquid, sive secundum artem sive secundum
+naturam, e converso se habet: quia si finis erit aut est, necesse est quod
+est ante finem futurum esse aut esse. Si vero id quod est ante finem non
+est, neque finis erit: sicut in demonstrativis, si non sit conclusio, non
+erit principium.
+Sic igitur patet quod in iis quae fiunt propter finem, eundem ordinem tenet
+finis, quem tenet principium in demonstrativis. Et hoc ideo quia etiam
+finis est principium, non quidem actionis, sed ratiocinationis; quia a fine
+incipimus ratiocinari de iis quae sunt ad finem: in demonstrativis autem
+non attenditur principium actus, sed ratiocinationis; quia in
+demonstrativis non sunt actiones, sed ratiocinationes tantum. Unde
+convenienter finis in iis quae fiunt propter finem, tenet locum principii
+quod est in demonstrativis. Unde similitudo est utrobique; quamvis e
+converso se videatur habere propter hoc quod finis est ultimum in actione,
+quod in demonstratione non est.
+Sic igitur concludit quod si debeat fieri domus, quod est finis
+generationis, necesse est hoc fieri aut praeexistere, scilicet materiam,
+quae propter finem est; sicut lateres et lapides necesse est praeexistere
+si domus debet fieri. Non tamen quod finis sit propter materiam, sed non
+erit si materia non sit; sicut domus non erit si non sint lapides, et serra
+non erit si non fuerit ferrum: quia et in scientiis demonstrativis
+principia non sunt si conclusio non sit, quae assimilatur iis quae sunt ad
+finem, sicut principium fini, sicut dictum est.
+Sic igitur manifestum est quod in rebus naturalibus dicitur esse
+necessarium, quod se habet per modum materiae vel materialis motus: et
+ratio huius necessitatis est ex fine; propter finem enim necessarium est
+esse materiam talem.
+Et naturalis quidem assignare debet utramque causam, scilicet materialem et
+finalem, sed magis finalem, quia finis est causa materiae, sed non e
+converso. Non enim finis est talis quia materia est talis: sed potius
+materia est talis quia finis est talis, ut dictum est.
+|#6
+Deinde cum dicit: et finis, quod est etc., assimilat necessitatem
+naturalis generationis necessitati scientiarum demonstrativarum, quantum ad
+id quod est necessitatis principium.
+Manifestum est enim quod in scientiis demonstrativis, principium
+demonstrationis est definitio: et similiter finis, qui est principium et
+ratio necessitatis in iis quae fiunt secundum naturam, est quoddam
+principium sumptum a ratione et definitione; finis enim generationis est
+forma speciei, quam significat definitio.
+Et hoc etiam patet in artificialibus: sicut enim demonstrator in
+demonstrando accipit definitionem ut principium, ita et aedificator in
+aedificando, et medicus in sanando; ut quia talis est definitio domus,
+oportet hoc fieri et esse ad hoc quod domus fiat: et quia haec est
+definitio sanitatis, oportet hoc fieri ad hoc quod aliquis sanetur: et si
+haec et illa, quousque perveniatur ad illa quae fienda sunt.
+Contingit autem quandoque in scientiis demonstrativis triplicem esse
+definitionem.
+Quarum una est demonstrationis principium, ut haec: tonitruum est extinctio
+ignis in nube: quaedam vero demonstrationis conclusio, ut haec: tonitruum
+est continuus sonus in nubibus: quaedam vero complectitur utrumque, ut
+haec: tonitruum est continuus sonus in nubibus propter extinctionem ignis
+in nube; et haec comprehendit in se totam demonstrationem absque
+
+76
+
+

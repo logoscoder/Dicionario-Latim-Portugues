@@ -1,0 +1,62 @@
+est in utramque per se secundum id quod est proprium sibi, erunt duae visiones, nec poterunt simul videri; si
+autem feratur in totam lineam comprehendentem utramque partium, erit una visio, et simul tota linea videbitur.
+Omnia autem quae sunt ad invicem ordinata, sunt quidem plura in quantum sunt res quaedam per se
+consideratae; sunt vero unum in ordine quo ad invicem ordinantur: et ideo actus animae qui fertur in ea
+secundum quod sunt ad invicem ordinata est unus; actus vero animae qui fertur in ea secundum quod sunt in se
+considerata, est multiplex. Sicut patet in consideratione statuae mercurii: quam si aliquis consideret ut est
+quaedam res, erit alia consideratio eius, et consideratio mercurii, cuius statua est imago; si autem consideretur
+statua ut imago mercurii, erit idem modus considerationis in statuam et in mercurium.
+Similiter quando motus voluntatis fertur in finem et in id quod est ad finem, si feratur in ea secundum quod
+utrumque est quaedam res per se existens, erit diversus motus voluntatis: et sic est vera opinio quae dicit, quod
+intentio finis et voluntas eius quod est ad finem, sunt diversi actus. Si autem voluntas feratur in unum eorum
+secundum quod habet ordinem ad aliud, sic est unus actus voluntatis in utrumque: et sic est vera opinio quae
+ponit, unum actum esse intentionem finis et voluntatem eius quod est ad finem.
+Sed si recte inspiciatur ratio intentionis, invenitur haec opinio esse verior quam alia.
+Motus enim voluntatis in finem non dicitur absolute intentio, sed simpliciter velle; sed intentio dicitur inclinatio
+voluntatis in finem, secundum quod ad finem terminantur ea quae sunt in finem. Qui enim vult sanitatem, dicitur
+eam simpliciter velle; sed solum eam intendere dicitur, quando aliquid propter sanitatem vult.
+Et ideo concedendum est, quod intentio non sit alius actus numero quam voluntas.
+RA1
+Ad primum ergo dicendum, quod quamvis unus actus non possit esse bonus et malus, tamen alicuius actus mali
+potest esse aliqua circumstantia bona; sicut actus vitiosus est, si quis comedat plus quam debet, licet comedat
+quando debet. Et ita voluntas qua quis vult furari ut pascat pauperes, est actus malus simpliciter, habens tamen
+aliquam circumstantiam bonam: propter quid enim ponitur una de circumstantiis.
+RA2
+Ad secundum dicendum, quod verbum Philosophi est intelligendum, quando sistitur in medio; quando enim per
+medium transitur ad terminum, tunc est unus numero motus. Et ita quando voluntas movetur in id quod est ad
+finem, cum ordine ad finem, est unus motus.
+RA3
+Ad tertium dicendum, quod quando conclusio et principium considerantur utrumque per se, sunt diversae
+considerationes; sed quando consideratur principium in ordine ad conclusionem, est eadem consideratio
+utriusque, sicut fit in syllogismo.
+RA4
+Ad quartum dicendum, quod finis et id quod est ad finem, sunt unum obiectum, in quantum consideratur unum
+in ordine ad aliud.
+|a15 Articulus 15
+TTA
+Quintodecimo quaeritur utrum electio sit actus voluntatis.
+TTB
+Et videtur quod non, sed rationis.
+AG1
+Ignorantia enim non est voluntatis, sed rationis. Sed perversitas electionis, ignorantia quaedam est; unde omnis
+malus, dicitur esse ignorans ignorantia electionis, ut patet in III ethicorum. Ergo et electio rationis est.
+AG2
+Praeterea, sicut ad rationem pertinet inquisitio et argumentatio, ita conclusio. Sed electio est quasi quaedam
+conclusio consilii, ut patet in III et VII ethic..
+Cum ergo consilium sit rationis, et electio similiter rationis erit.
+AG3
+Praeterea, secundum Philosophum in VIII ethicorum, principalitas virtutis moralis in electione consistit. Sed,
+sicut ipse dicit in VI ethic., id quod est prudentiae in virtutibus moralibus, est principale, quod formaliter
+complet rationem virtutis. Ergo electio pertinet ad prudentiam. Sed prudentia est in ratione. Ergo et electio.
+AG4
+Praeterea, electio discretionem quamdam importat. Sed discernere rationis est. Ergo et eligere.
+SC1
+Sed contra. Est, quod eligere est duobus propositis unum alteri praeoptare, ut patet per Damascenum. Sed optare
+est actus voluntatis, et non rationis. Ergo et eligere.
+SC2
+Praeterea, Philosophus dicit in III ethicorum, quod electio est desiderium praeconsiliati. Sed desiderium est
+voluntatis, et non rationis. Ergo et electio.
+CO
+461
+
+

@@ -1,0 +1,58 @@
+quae ponitur esse gravitas corporis bd. Gravitas autem tripla ad e est maior secundum praedicta quam gravitas g,
+quae est gravitas corporis infiniti. Quare sequitur idem impossibile quod prius, scilicet quod maior sit gravitas
+corporis finiti quam infiniti.
+|#8 Secundo ibi: adhuc autem etiam contingit etc., excludit eandem obviationem alio modo. Et dicit quod
+possumus sumere in demonstratione praedicta quod duae gravitates sint commensuratae, ita scilicet quod e
+commensuret g. Supra enim primo sumpta est magnitudinis pars, scilicet bd, cuius gravitatem diximus esse e: et
+ideo dici poterat quod e non mensurat g. Nihil autem differt ad propositum utrum incipiamus a gravitate,
+accipiendo partem eius quamcumque volumus, aut a magnitudine sic sumpta; puta si, incipiendo a gravitate,
+sumatur quaedam pars eius, scilicet e, quae mensuret totum, scilicet g; et consequenter ab infinito corpore
+accipiamus aliquam partem, scilicet bd, cuius gravitas sit e; et deinde procedamus ut supra, ut scilicet sicut se
+habet gravitas e ad gravitatem g, ita se habeat magnitudo bd ad aliam magnitudinem maiorem quae est bz. Et hoc
+ideo, quia ex quo magnitudo totius corporis est infinita, contingit auferri ex ea quantumcumque placuerit. Hoc
+igitur modo sumptis partibus gravitatis et magnitudinis, sequetur quod et magnitudines et gravitates erunt
+invicem commensuratae; ita scilicet quod minor gravitas mensurabit maiorem, et similiter minor magnitudo
+maiorem.
+|#9 Deinde cum dicit: nec utique magnitudinem etc., excludit secundam obviationem. Supposuerat enim esse
+magnitudines proportionales gravitatibus. Quod quidem necesse est in corpore similium partium; cum enim sit
+undique per totum similis gravitatis, necesse est quod in maiori parte sit maior gravitas: sed in corpore
+dissimilium partium hoc non est necesse, quia potest esse quod gravitas minoris partis excedat gravitatem
+maioris, sicut minor pars terrae est gravior maiori parte aquae.
+Hanc ergo obviationem excludit, dicens quod nihil differt ad demonstrationem praemissam utrum magnitudo
+infinita de qua loquimur, quantum ad gravitatem sit homoeomera, idest similium partium, vel anomoeomera,
+idest dissimilium partium. Quia a corpore infinito possumus sumere quantumcumque voluerimus, vel apponendo
+vel subtrahendo; ita quod accipiamus aliquas partes habere aequalem gravitatem parti primo sumptae, scilicet bd,
+sive illae partes posterius assumptae sint maiores in magnitudine sive minores. Si enim primo acceperimus quod
+bd sit tricubitum, habens gravitatem e; et accipiamus alias multas partes, puta decem cubitorum, habentes
+aequalem gravitatem; idem erit ac si sumeretur alia pars aequalis habens aequalem gravitatem. Sic igitur sequitur
+idem inconveniens.
+Praemissa igitur demonstratione, et exclusis obviationibus, concludit ex dictis quod infiniti corporis non potest
+esse finita gravitas. Relinquitur ergo quod sit infinita. Si ergo impossibile est esse gravitatem infinitam, ut statim
+probabit, consequens est quod impossibile sit esse aliquod corpus infinitum.
+|#10 Deinde cum dicit: sed adhuc quoniam infinitam etc., ostendit quod supposuerat, scilicet quod non possit
+esse gravitas infinita: et in hoc destruit consequens praemissae conditionalis.
+Circa hoc autem duo facit. Primo proponit quod intendit: et dicit quod adhuc oportet manifestare ex his quae
+subsequuntur, quod impossibile sit gravitatem infinitam esse.
+|#11 Secundo ibi: si enim tanta etc., probat propositum. Et primo praemittit quasdam suppositiones; secundo ex
+his argumentatur ad propositum, ibi: necesse igitur ex his etc.; tertio excludit quandam obiectionem, ibi: neque si
+esset etc..
+Ponit autem primo tres suppositiones. Quarum prima est quod, si gravitas tanta, idest alicuius determinatae
+mensurae, movet tantam, idest per determinatam magnitudinem spatii, in hoc tempore, scilicet determinato,
+necesse est quod tanta et adhuc, idest quod gravitas maior quae habet tantam quantam minor et adhuc amplius,
+moveat per tantam magnitudinem spatii in minori tempore: quia quanto virtus motiva est fortior, tanto motus
+eius est velocior, et ita pertransit aequale spatium in minori tempore, ut probatum est in VI physic..
+Secundam suppositionem ponit ibi: et analogiam etc.: et haec sequitur ex prima. Si enim maior gravitas movet in
+minori tempore, consequens est quod eadem sit analogia, idest proportio, gravitatum et temporum, tamen e
+converso; ita scilicet quod, si media gravitas movet in tanto tempore, duplum gravitatis movet in medietate eius,
+scilicet temporis.
+Tertiam suppositionem ponit ibi: adhuc finita etc.. Et dicit quod finita gravitas movet per finitam magnitudinem
+spatii in quodam tempore finito.
+|#12 Deinde cum dicit: necesse igitur ex his etc., argumentatur ex praemissis. Si enim sit gravitas infinita,
+sequentur duo contradictoria; scilicet quod aliquid moveatur secundum eam, et quod non moveatur. Quod
+moveatur quidem, sequitur ex prima suppositione; quia, si tanta gravitas movet in tanto tempore, maior movebit
+velocius, scilicet in minori tempore. Quia ergo infinita gravitas est maior quam finita, si finita movet secundum
+determinatum tempus per determinatum spatium, ut tertia suppositio dicebat, consequens est quod infinita
+moveat tantum et adhuc amplius, idest vel per maius spatium in aequali tempore, vel per aequale spatium in
+28
+
+

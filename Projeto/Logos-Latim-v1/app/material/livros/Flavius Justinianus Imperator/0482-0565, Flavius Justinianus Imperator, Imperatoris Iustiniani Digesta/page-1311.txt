@@ -1,0 +1,51 @@
+Dig.46.2.2
+Ulpianus 48 ad sab.
+Omnes res transire in novationem possunt: quodcumque enim sive verbis contractum est sive non verbis, novari potest
+et transire in verborum obligationem ex quacumque obligatione, dummodo sciamus novationem ita demum fieri, si hoc
+agatur, ut novetur obligatio: ceterum si non hoc agatur, duae erunt obligationes.
+Dig.46.2.3
+Pomponius 1 ad sab.
+Cui bonis interdictum est, novare obligationem suam non potest, nisi meliorem suam condicionem fecerit.
+Dig.46.2.4
+Ulpianus 5 ad sab.
+Si usus fructus debitorem meum delegavero tibi, non novatur obligatio mea: quamvis exceptione doli vel in factum
+tutus debeat esse adversus me is qui delegatus fuerit, et non solum donec manet ei usus fructus cui delegavi, sed etiam
+post interitum eius: videbimus quia etiam hoc incommodum sentit, si post mortem meam maneat ei usus fructus. et
+haec eadem dicenda sunt in qualibet obligatione personae cohaerenti.
+Dig.46.2.5
+Ulpianus 34 ad sab.
+In diem obligatio novari potest et prius quam dies advenerit. et generaliter constat et stipulatione in diem facta
+novationem contingere, sed non statim ex ea stipulatione agi posse, antequam dies venerit.
+Dig.46.2.6pr.
+Ulpianus 46 ad sab.
+Si ita fuero stipulatus: " quanto minus a titio debitore exegissem, tantum fideiubes?", non fit novatio, quia non hoc
+agitur, ut novetur.
+Dig.46.2.6.1
+Ulpianus 46 ad sab.
+Cum pecuniam mutuam dedit quis sine stipulatione et ex continenti fecit stipulationem, unus contractus est. idem erit
+dicendum et si ante stipulatio facta est, mox pecunia numerata sit.
+Dig.46.2.7
+Pomponius 24 ad sab.
+Cum enim pecunia mutua data stipulamur, non puto obligationem numeratione nasci et deinde eam stipulatione novari,
+quia id agitur, ut sola stipulatio teneat, et magis implendae stipulationis gratia numeratio intellegenda est fieri.
+Dig.46.2.8pr.
+Ulpianus 46 ad sab.
+Si stichum dari stipulatus fuerim et, cum in mora promissor esset, quo minus daret, rursus eundem stipulatus fuero,
+desinit periculum ad promissorem pertinere quasi mora purgata.
+Dig.46.2.8.1
+Ulpianus 46 ad sab.
+Legata vel fideicommissa si in stipulationem fuerint deducta et hoc actum, ut novetur, fiet novatio, si quidem pure vel
+in diem fuerint relicta, statim, si vero sub condicione, non statim, sed ubi condicio extiterit. nam et alias qui in diem
+stipulatur, statim novat, si hoc actum est, cum certum sit diem quandoque venturum: at qui sub condicione stipulatur,
+non statim novat, nisi condicio extiterit.
+Dig.46.2.8.2
+Ulpianus 46 ad sab.
+Si quis ita stipulatus a seio sit: " quod a titio stipulatus fuero, dare spondes?", an, si postea a titio stipulatus sim, fiat
+novatio solusque teneatur seius? et ait celsus novationem fieri, si modo id actum sit, ut novetur, id est ut seius debeat
+quod titius promisit: nam eodem tempore et impleri prioris stipulationis condicionem et novari ait, eoque iure utimur.
+Dig.46.2.8.3
+Ulpianus 46 ad sab.
+Idem celsus ait iudicatum solvi stipulatione actionem iudicati non novari, merito, quia hoc solum agitur ea stipulatione,
+ut fideiussoribus cautum sit, non ut ab obligatione iudicati discedatur.
+
+

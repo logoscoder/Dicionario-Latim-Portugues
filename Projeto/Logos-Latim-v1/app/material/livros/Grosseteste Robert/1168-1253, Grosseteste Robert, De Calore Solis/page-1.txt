@@ -1,0 +1,60 @@
+De calore solis
+Printed Source: Die Philosophischen Werke des Robert Grosseteste, Bischofs von Lincoln (Münster i. W.,
+Aschendorff, 1912.), pp. 79 - 84.
+INC: Cum principalis intentio nostra sit de calore solis, cuiusmodi habet principium generationis quaeramus
+universaliter: quot sunt principia generationis?
+EXPL: Hic autem est maior incorporatio radiorum et propterea maior disgregatio et calor. Explicit.
+pp. 79 - 80: Cum principalis intentio nostra sit de calore solis, cuiusmodi habet principium generationis
+quaeramus universaliter: quot sunt principia generationis?Et cum tria sint, ex quibus generatur calor, scilicet
+calidum, motus et collectio radiorum, sciendum quod calidum in his sit univocum; quo univoco fit in his passio
+univoca. Cum ergo in his sit passio univoca, erit in his omnibus causa univoca: omnis enim passionis univocae
+est causa univoca.
+p. 80: Quod autem calidum in his omnibus sit univocum, patet: Calidum enim ex quocunque istorum generatum
+eandem habet virtutem, idem facit opus. Ergo non est aequivoce dictum, sed univoce.
+p. 80: Quaeramus ergo istam causam univocam! In omnibus autem illis est proxima causa calidi disgregatio.
+Unde cum calidum generat calidum, hoc est per disgregationem materierum. Qualiter autem illud conveniat
+motui et collectioni radiorum, difficile est videre.
+p. 80: Motus autem localis, ex quo generatur calidum, dividitur in motum naturalem et motum violentum. Motus
+naturalis dividitur in motum rectum et circularem.
+p. 80: Primo loquamur de motu violento vel de gravi violenter moto. Contingit autem grave moveri violenter
+tribus modis: aut sursum, aut deorsum, aut deorsum sed non directe ad centrum. In his omnibus patet in motu
+violento fieri disgregationem ex motu. Est enim in motu violento duplex virtus motus naturalis scilicet et
+violenta, quae in diversas partes movent unamquamque partem mobilis. Ad istam autem inclinationem in partes
+diversas sequitur disgregatio. Et ita ex motu violento necesse est, illud, quod movetur, disgregari secundum suas
+partes et ita fieri calidum. Et quia in modo primo movendi violenter est maior oppositio in inclinatione virtutis
+moventium, quia movent in partes omnino oppositas, maxime consequitur disgregatio et maxime calidum, in
+medio autem et in tertio mediocriter. Et illud maxime patet ratione et experimento.
+pp. 80 - 81: Hoc idem patet in motu naturali. Generatur enim calidum in motu in eo quod movetur naturaliter
+deorsum. Secundum unamquamque partem est duplex virtus movens actualiter, scilicet naturalis et violenta.
+Quod enim ibi sit virtus naturalis patet. Sed quod ibi sit virtus violenta probo: Omne quod est ponderosum et
+movetur deorsum non directe ad centrum, movetur violenter. Sed omnes partes ponderosi moventur deorsum non
+directe ad centrum. Igitur omnes partes ponderosi moventur violenter. Probo minorem: Partes gravis aequalem
+distantiam semper habent in toto. Ergo cum moventur deorsum motu totius, moventur lineis aeque distantibus.
+Lineae autem aeque distantes in infinitum protractae ex alterutra parte nunquam concurrent. Ergo partes gravis
+naturaliter moti moventur deorsum lineis non concurrentibus: ergo non directe ad centrum, quia si directe
+moverentur ad centrum, moverentur in lineis directe ad idem centrum concurrentibus. Sic ergo patet prinicipium,
+quod secundum unamquamque partem moti naturaliter deorsum est duplex virtus inclinans ad diversas partes.
+Sed istarum inclinationum oppositio est minor valde oppositione inclinationum in partibus moti violenti. Et
+propterea inter omnes generantes calorem motus naturalis minime generat calorem naturalem in moto. Sic ergo
+patet, quod ex motu naturali recto et motu violento generatur calidum et ex calido generatur calidum secundum
+causam univocam.
+p. 81: In tertio autem patet hoc similiter: Quod enim ex collectione radiorum aliquid calidum generetur
+secundum causam univocam caloris, patet per secundum "de Speculis", quod hoc speculo concavo ad solem
+posito accenditur: et hoc est propter disgregationem. Radius enim in diaphano densiori habet maiorem
+incorporationem, quam in subtiliori, et non dicimus incorporationem omnimodam sicut calor, sed quandam
+levem incorporationem: ex hac autem incorporatione secum distrahet partes aëris, scilicet cum colliguntur radii
+in punctum unum, in ipso puncto unusquisque secundum suam viam rectam, et propterea prope ipsum punctum
+erit maxima distractio aëris in partes diversas; et ita erit disgregatio et consequitur calor. Sic ergo patet, quod in
+his tribus generibus calidum inest causâ univocâ.
+p. 81: Si vero sol generat calidum, erit hoc aut sicut calidum generat calidum, aut sicut motus generat calidum,
+aut sicut collectio radiorum generat calidum.
+pp. 81 - 82: Quod autem sol non generat calidum sicut calidum generat calidum patet sic: Probatur enim in VII
+Phys. quod alterans et alteratum oportet esse immediata. Unde si inter primum alterans et ultimum alteratum
+fuerit medium, oportet id medium prius alterari secundum calidum a sole calido, quam alteretur illud ultimum;
+alioquin primum alterans et primum alteratum non essent immediata. Cum ergo inter solem et aërem sint plura
+media et propinquum ipsi soli alteranti secundum calidum in ipso est quinta essentia vel pars quintae essentiae,
+oportet, quintam essentiam prius alterari secundum calidum a sole calido, quam aërem. Sed hoc, est impossibile,
+quia si esset alterabile, esset corruptibile. Igitur primum est impossibile, quod sol generat calidum sicut calidum
+1
+
+

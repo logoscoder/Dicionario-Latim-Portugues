@@ -1,0 +1,62 @@
+RA4
+Ad quartum dicendum, quod verum est dispositio entis non quasi addens aliquam naturam, nec quasi exprimens
+aliquem specialem modum entis, sed aliquid quod generaliter invenitur in omni ente, quod tamen nomine entis
+non exprimitur; unde non oportet quod sit dispositio vel corrumpens vel diminuens vel in partem contrahens.
+RA5
+Ad quintum dicendum, quod dispositio non accipitur ibi secundum quod est in genere qualitatis, sed secundum
+quod importat quemdam ordinem; cum enim illa quae sunt causa aliorum essendi sint maxime entia, et illa quae
+sunt causa veritatis sint maxime vera; concludit Philosophus, quod idem est ordo alicui rei in esse et veritate; ita,
+scilicet, quod ubi invenitur quod est maxime ens, est maxime verum. Unde nec hoc ideo est quia ens et verum
+ratione sunt idem, sed quia secundum hoc quod aliquid habet de entitate, secundum hoc est natum adaequari
+intellectui; et sic ratio veri sequitur rationem entis.
+RA6
+Ad sextum dicendum, quod verum et ens differunt ratione per hoc quod aliquid est in ratione veri quod non est in
+ratione entis; non autem ita quod aliquid sit in ratione entis quod non sit in ratione veri; unde nec per essentiam
+differunt, nec differentiis oppositis ab invicem distinguuntur.
+RA7
+Ad septimum dicendum, quod verum non est in plus quam ens; ens enim aliquo modo acceptum dicitur de non
+ente, secundum quod non ens est apprehensum ab intellectu; unde in IV metaphys., dicit Philosophus, quod
+negatio vel privatio entis uno modo dicitur ens; unde Avicenna etiam dicit in principio suae metaphysicae, quod
+non potest formari enuntiatio nisi de ente, quia oportet illud de quo propositio formatur, esse apprehensum ab
+intellectu; ex quo patet quod omne verum est aliquo modo ens.
+RC1
+Ad primum vero eorum, quae contra obiiciuntur, dicendum, quod ideo non est nugatio cum dicitur ens verum,
+quia aliquid exprimitur nomine veri quod non exprimitur nomine entis; non propter hoc quod re differant.
+RC2
+Ad secundum dicendum, quod quamvis istum fornicari sit malum, tamen secundum quod aliquid habet de
+entitate, natum est hoc conformari intellectui, et secundum hoc consequitur ibi ratio veri; et ita patet quod nec
+verum excedit nec exceditur ab ente.
+RC3
+Ad tertium dicendum, quod cum dicitur: diversum est esse, et quod est, distinguitur actus essendi ab eo cui ille
+actus convenit. Nomen autem entis ab actu essendi sumitur, non ab eo cui convenit actus essendi, et ideo ratio
+non sequitur.
+RC4
+Ad quartum dicendum, quod secundum hoc verum est posterius ente, quod ratio veri differt ab entis ratione
+modo praedicto.
+RC5
+Ad quintum dicendum, quod ratio illa deficit in tribus.
+Primo, quia quamvis personae divinae re distinguantur, appropriata tamen personis non differunt re, sed tantum
+ratione.
+Secundo, quia etsi personae realiter ad invicem distinguantur, non tamen realiter ab essentia distinguuntur; unde
+nec verum quod appropriatur personae filii, ab ente quod se tenet ex parte essentiae.
+Tertio, quia, etsi ens, unum, verum et bonum magis uniantur in Deo quam in rebus creatis, non tamen oportet,
+quod ex quo distinguuntur in Deo, quod in rebus creatis etiam distinguantur realiter. Hoc enim contingit de illis
+quae non habent ex ratione sua quod sint unum secundum rem, sicut sapientia et potentia, quae, cum in Deo sint
+unum secundum rem, in creaturis realiter distinguuntur: sed ens, unum, verum et bonum secundum rationem
+suam habent quod sint unum secundum rem; unde ubicumque inveniantur, realiter unum sunt, quamvis sit
+perfectior unitas illius rei secundum quam uniuntur in Deo, quam illius rei secundum quam uniuntur in creaturis.
+|a2 Articulus 2
+TTA
+Secundo quaeritur utrum veritas principalius inveniatur in intellectu quam in rebus.
+TTB
+Et videtur quod non.
+AG1
+Verum enim, ut dictum est, convertitur cum ente. Sed ens principalius invenitur in rebus quam apud animam.
+Ergo et verum.
+AG2
+Praeterea, res sunt in anima non per essentiam, sed per suam speciem, ut dicit Philosophus in III de anima. Si
+ergo veritas principaliter in anima invenitur, non erit essentia rei sed similitudo et species eius, et verum erit
+species entis extra animam existentis. Sed species rei existens in anima, non praedicatur de re quae est extra
+4
+
+

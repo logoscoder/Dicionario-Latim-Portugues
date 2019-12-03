@@ -1,0 +1,55 @@
+|#6 Quartum modum ponit ibi, amplius quod dicit, quod necessarium etiam dicimus sic se habere, quod non
+contingit aliter se habere: et hoc est necessarium absolute.
+Prima autem necessaria sunt secundum quid.
+|#7 Differt autem necessarium absolute ab aliis necessariis: quia necessitas absoluta competit rei secundum id
+quod est intimum et proximum ei; sive sit forma, sive materia, sive ipsa rei essentia; sicut dicimus animal
+necesse esse corruptibile, quia hoc consequitur eius materiam inquantum ex contrariis componitur. Dicimus
+etiam animal necessario esse sensibile, quia consequitur eius formam: et animal necessario esse substantiam
+animatam sensibilem, quia est eius essentia.
+|#8 Necessarium autem secundum quid et non absolute est, cuius necessitas dependet ex causa extrinseca.
+Causa autem extrinseca est duplex; scilicet finis et efficiens.
+Finis autem est, vel ipsum esse absolutum, et ab hoc fine necessitas sumpta pertinet ad primum modum; vel bene
+esse, sive aliquod bonum habere, et ab hoc fine sumitur necessitas secundi modi.
+|#9 Necessitas autem quae est a movente exteriori, pertinet ad tertium modum.
+Nam violentia est quando aliquid movetur ab exteriori agente ad aliud ad quod ex propria natura aptitudinem non
+habet. Si enim secundum suam naturam ordinetur ad hoc quod recipiat motum ab exteriori agente, tunc motus
+non erit violentus, sed naturalis. Sicut patet de motu caelestium orbium a substantiis separatis, et de motu
+inferiorum corporum a superioribus.
+|#10 Deinde cum dicit et secundum reducit omnes modos ad unum: et circa hoc tria facit.
+Primo ostendit quod omnes modi necessitatis, qui in rebus inveniuntur ad hunc ultimum modum pertinent.
+Secundo ostendit, quod secundum ultimum modum accipitur necessarium in demonstrativis, ibi, amplius
+demonstratio. Tertio infert quoddam corollarium ex praemissis, ibi, horum quidem itaque.
+Dicit ergo primo, quod secundum istum ultimum modum necessarii, omnes alii modi aliqualiter dicuntur. Quod
+primo ostendit in tertio modo. Illud enim quod vim patitur, de necessitate dicitur aliquid facere vel pati, propter
+hoc quod non contingit secundum proprium impetum aliquid agere propter violentiam agentis, quae est quaedam
+necessitas propter quam non contingit aliter se habere.
+|#11 Et similiter ostendit hoc in primo et secundo modo, in quibus necessitas sumitur ex causis vivendi vel
+essendi simpliciter, quantum ad primum modum: vel ex causis boni, quantum ad secundum modum. Sic enim in
+aliis modis necessarium dicebatur, sine quo non poterat esse ex una parte bonum, et ex alia parte vivere et esse.
+Et sic illa causa, sine qua non contingit vivere vel esse, vel bonum habere, vel malo carere, necessitas dicitur;
+quasi ex hoc sit prima ratio necessarii, quia impossibile est aliter se habere.
+|#12 Deinde cum dicit amplius demonstratio ostendit quod secundum ultimum modum accipitur necessarium in
+demonstrativis, et quantum ad conclusiones, et quantum ad principia. Demonstratio enim dicitur esse
+necessariorum, et dicitur esse ex necessariis.
+Necessariorum quidem esse dicitur, quia illud, quod simpliciter demonstratur, non contingit aliter se habere.
+Dicitur autem simpliciter demonstratum ad eius differentiam quod demonstratur in demonstratione quae est ad
+aliquem, et non simpliciter; quod in quarto libro dixit demonstrare ad hominem arguentem. In talibus enim
+demonstrationibus, quae sunt ad aliquem, contingit etiam impossibile concludi ex aliquibus impossibilibus
+positis.
+Sed, quia causae conclusionis in demonstrationibus sunt praemissae, cum demonstratio simpliciter scire faciat,
+quod non est nisi per causam, oportet etiam principia, ex quibus est syllogismus, esse necessaria quae
+impossibile sint aliter se habere.
+Nam ex causa non necessaria non potest sequi effectus necessarius.
+|#13 Deinde cum dicit horum quidem concludit ex praemissis tres conclusiones se invicem sequentes: quarum
+prima est, quod ex quo in demonstrationibus praemissae sunt causae conclusionis, et utraque sunt necessaria,
+sequitur quod aliqua sunt necessaria dupliciter. Quaedam quidem quorum altera sit causa necessitatis; quaedam
+vero quorum nulla sit causa necessitatis; et talia sunt necessaria propter seipsa.
+Et hoc est contra democritum, qui dicebat quod necessariorum non sunt quaerendae causae, ut habetur in octavo
+physicorum.
+|#14 Secunda conclusio, quia, cum oporteat esse unum primum necessarium, a quo alia necessitatem habent,
+quia in causis non est procedere in infinitum, ut in secundo ostensum est, oportet hoc primum necessarium, quod
+etiam maxime proprie est necessarium, quia est omnibus modis necessarium, quod ipsum sit simplex.
+
+131
+
+

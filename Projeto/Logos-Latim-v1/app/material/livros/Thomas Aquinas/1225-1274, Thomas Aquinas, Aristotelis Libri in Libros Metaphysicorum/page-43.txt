@@ -1,0 +1,57 @@
+numeros, sicut in prima principia et non in proxima. Nam corpora dicebant componi ex superficiebus, superficies
+ex lineis, lineas ex punctis, puncta autem ex unitatibus, quae constituunt numeros.
+Utroque autem modo sequebatur numeros esse principia aliorum mathematicorum.
+|#11 Sicut igitur alia mathematica erant media inter sensibilia et species, ita necessarium est facere aliquod
+genus numeri, quod sit aliud a numeris qui sunt species, et a numeris qui sunt substantia sensibilium: et quod de
+huiusmodi numero sit arithmetica, sicut de proprio subiecto, quae est una mathematicarum, sicut geometria de
+magnitudinibus mathematicis.
+Hoc autem ponere videtur superfluum esse.
+Nam nulla ratio poterit assignari quare sunt numeri medii inter praesentia, idest sensibilia et eas scilicet species,
+cum tam sensibilia quam species sint numeri.
+|#12 Deinde cum dicit amplius autem hic ponit quartam rationem, quae talis est. Ea quae sunt in sensibilibus et
+in mathematicis sunt causata ex speciebus: si igitur aliqua dualitas in sensibilibus et in mathematicis invenitur,
+oportet quod utraque unitas huius posterioris dualitatis sit causata ex priori dualitate, quae est species dualitatis.
+Et hoc est impossibile, scilicet quod unitas ex dualitate causetur.
+Hoc enim praecipue oportet dicere, si unitates unius numeri sint alterius speciei ab unitatibus alterius, quia tunc a
+specie ante illius numeri unitates, species sortientur.
+Et sic oportet quod unitates posterioris dualitatis sint causatae ex priori dualitate.
+|#13 Deinde cum dicit amplius quare hic ponit quintam rationem, quae talis est. Multa non conveniunt ad unum
+constituendum, nisi propter aliquam causam, quae potest accipi vel extrinseca, sicut aliquod agens quod
+coniungit, vel intrinseca, sicut aliquod vinculum uniens. Vel si aliqua uniuntur per seipsa, oportet ut unum sit ut
+potentia, et aliud ut actus. Nullum autem horum potest dici in unitatibus quare numerus idest ex qua causa
+numerus erit quoddam comprehensum, idest congregatum ex pluribus unitatibus: quasi dicat: non erit hoc
+assignare.
+|#14 Deinde cum dicit amplius autem hic ponit sextam rationem, quae talis est. Si numeri sunt species et
+substantiae rerum, oportet, sicut praemissum est, dicere vel quod unitates sint differentes, aut convenientes. Si
+autem differentes, sequitur quod unitas, inquantum unitas, non sit principium. Quod patet per similitudinem
+sumptam a naturalium positione. Naturales enim aliqui posuerunt quatuor corpora esse principia. Quamvis autem
+commune sit ipsis hoc quod est esse corpus, non tamen ponebant corpus commune esse principium, sed magis
+ignem, terram, aquam et aerem, quae sunt corpora differentia.
+Unde, si unitates sint differentes, quamvis omnes conveniant in ratione unitatis, non tamen erit dicendum, quod
+ipsa unitas inquantum huiusmodi sit principium; quod est contra positionem Platonicorum.
+Nam nunc ab eis dicitur, quod unum sit principium, sicut primo de naturalibus dicitur quod ignis aut aqua aut
+aliquod corpus similium partium principium sit. Sed si hoc est verum quod conclusum est contra positionem
+Platonicorum, scilicet quod unum inquantum unum non sit principium et substantia rerum, sequeretur quod
+numeri non sunt rerum substantia. Numerus enim non ponitur esse rerum substantia, nisi inquantum constituitur
+ex unitatibus, quae dicuntur esse rerum substantiae. Quod iterum est contra positionem Platonicorum, quam nunc
+prosequitur, qua scilicet ponitur, quod numeri sint species.
+|#15 Si autem dicas quod omnes unitates sunt indifferentes, sequitur quod omne, idest universum totum sit
+aliquid unum et idem, ex quo substantia rei cuiuslibet est ipsum unum, quod est commune indifferens. Et ulterius
+sequitur, quod idem illud sit unum principium omnium: quod est impossibile ratione ipsius rationis, quae de se
+est inopinabilis, ut scilicet sint omnia unum secundum rationem substantiae; tum quia includit contradictionem
+ex eo quod ponit unam esse substantiam rerum, et tamen ponit illud unum esse principium.
+Nam unum et idem non est sui ipsius principium: nisi forte dicatur quod unum multipliciter dicitur, ut distincto
+uno ponantur omnia esse unum genere, et non specie vel numero.
+|#16 Volentes autem substantias hic disputat contra positionem Platonis quantum ad hoc quod posuit de
+magnitudinibus mathematicis.
+Et primo ponit eius positionem. Secundo obiicit contra ipsam, ibi, attamen quomodo habebit etc..
+Dicit ergo primo, quod Platonici volentes rerum substantias reducere ad prima principia, cum ipsas magnitudines
+dicerent esse substantias rerum sensibilium, lineam, superficiem et corpus, istorum principia assignantes,
+putabant se rerum principia invenisse. Assignando autem magnitudinum principia, dicebant longitudines, idest
+lineas componi ex producto et brevi, eo quod principia rerum omnium ponebant esse contraria. Et quia linea est
+prima inter quantitates continuas, ei per prius attribuebant magnum et parvum, ut per hoc quod haec duo sunt
+principia lineae, sint etiam principia aliarum magnitudinum.
+
+43
+
+

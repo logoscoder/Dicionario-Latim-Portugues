@@ -1,0 +1,61 @@
+Dicendum est autem ad primum quod esse a contrario in contrarium non est ratio contrarietatis propria in
+motibus localibus qui sunt secundum lineam rectam; sed est communis ratio contrarietatis in omnibus motibus,
+ut patet in V physic..
+Et huius ratio est, quia contrarietas est differentia secundum formam, ut ostenditur in X metaphys.; motus autem
+habet formam seu speciem ex suo termino; et ideo in nullo motu potest esse contrarietas absque contrarietate
+terminorum. Ad secundum dicendum quod motus circularis, quia est primus motuum, minimum habet de
+diversitate et plurimum de uniformitate. Et hoc quidem apparet proportionaliter in mobili et in motu. In mobili
+quidem, quia non mutat suum ubi secundum totum subiecto, sed solum ratione: pars vero quaelibet mutat suum
+ubi etiam subiecto, ut ostensum est in VI physic.. Et similiter etiam pars motus circularis est de uno in aliud
+subiecto differens: totus autem motus circularis est quidem de eodem in idem secundum subiectum, sed est de
+uno in aliud differens sola ratione. Si enim accipiatur circulatio una quae ab a redit in a, ipsum a, quod est
+terminus a quo et in quem, est idem subiecto, sed differt ratione, inquantum accipitur ut principium et finis. Et
+ideo, quia motus circularis plurimum habet de unitate, est natura eius longinqua a contrarietate, quae est maxima
+distantia. Et ideo talis motus competit primis corporibus, quae sunt propinquissima substantiis simplicibus, quae
+penitus contrarietate carent.
+|#14 Secundam rationem ponit ibi: si autem et esset etc.. Et haec quidem ratio sumitur per applicationem
+circularis motus ad corpora naturalia.
+Quae quidem ratio talis est. Si unus motus circularis esset contrarius alii, oporteret quod alter eorum esset frustra;
+sed nihil est frustra in natura; ergo non sunt duo motus circulares contrarii.
+Conditionalem autem probat sic. Si essent duo motus circulares contrarii, oporteret quod corpora quae
+moverentur illis duobus motibus, transirent per eadem signa in circulo signata: et hoc ideo, quia contrarietas
+motus localis exigit contrarietatem locorum, quae attingit utrumque mobilium. Si ergo essent motus circulares
+contrarii, oporteret quod loca aliqua designarentur contraria in circulo. In recta quidem linea designantur sola
+duo loca contraria, quae scilicet maxime distant: alia vero loca signata per lineam rectam, quae sunt infra duo
+loca extrema, cum non maxime distent, non habent contrarietatem ad invicem. Sed in circulo cuiuslibet puncti
+est accipere maximam distantiam ad aliquod aliud punctum circuli: quia a quolibet puncto signato in circulo
+contingit ducere aliquam diametrum, quae est maxima linearum rectarum cadentium in circulo; dictum est autem
+quod omnis distantia mensuratur secundum lineam rectam. Quia igitur ea quae moventur contrariis motibus,
+necesse est attingere contraria loca, necesse est, si motus circulares sint contrarii, quod utrumque corpus
+circulariter motum, a quovis puncto circuli moveri incipiat, perveniat ad omnia loca circuli, quae omnia sunt
+contraria. Nec est inconveniens si in circulo describantur loca contraria secundum omnem partem: quia
+contrarietates loci accipiuntur non solum secundum sursum et deorsum, sed etiam secundum ante et retro, et
+dextrum et sinistrum; dictum est autem quod contrarietates motus localis accipiuntur secundum contrarietates
+locorum; et sic, si motus circulares sunt contrarii, necesse est accipi contrarietates in circulo secundum praedicta.
+Ex his autem sequitur quod alterum motuum vel corporum esset frustra. Quia si aequales essent magnitudines
+motae, idest aequalis virtutis, neutra ipsarum moveretur; quia una totaliter impediret alteram, cum oporteret
+utramque transire per eadem loca. Si vero alter motus dominaretur propter praeeminentiam virtutis in altero
+mobilium vel moventium, consequens est quod alter motus esse non posset; quia totaliter impediretur per motum
+fortiorem. Itaque, si ambo corpora essent, quae essent nata moveri contrariis motibus circularibus, frustra esset
+alterum ipsorum corporum, quod non posset moveri illo motu qui impediretur per fortiorem: unumquodque enim
+dicimus esse frustra, quod non potest habere suum usum, sicut dicimus calceamentum esse frustra, quo non
+potest aliquis calceari. Et similiter corpus erit frustra, quod non poterit moveri proprio motu: et etiam motus erit
+frustra, quo nihil potest moveri.
+Sic ergo patet quod, si sint duo motus circulares contrarii, necesse est aliquid esse frustra in natura. Sed quod hoc
+sit impossibile, probat sic.
+Omne quod est in natura, vel est a Deo, sicut primae res naturales; vel est a natura sicut a secunda causa, puta
+inferiores effectus. Sed Deus nihil facit frustra, quia, cum sit agens per intellectum, agit propter finem. Similiter
+etiam natura nihil facit frustra, quia agit sicut mota a Deo velut a primo movente; sicut sagitta non movetur
+frustra, inquantum emittitur a sagittante ad aliquid certum. Relinquitur ergo quod nihil in natura sit frustra. Est
+autem attendendum quod Aristoteles hic ponit Deum esse factorem caelestium corporum, et non solum causam
+per modum finis, ut quidam dixerunt.
+|#15 Obiicit autem contra hanc rationem ioannes grammaticus, quia pari ratione posset aliquis concludere quod
+in motibus rectis non sit contrarietas; quia contraria mobilia impediunt se invicem. Sed dicendum quod alia ratio
+est in motibus rectis et circularibus, propter duo. Primo quidem quia duo corpora moventur contrariis motibus
+rectis absque eo quod se invicem impediant, eo quod non attenditur contrarietas in motibus rectis nisi secundum
+extrema linearum rectarum, puta secundum centrum mundi et circumferentiam eius: a centro autem ad
+circumferentiam possunt infinitae lineae duci, ita quod id quod movetur per unam earum sursum, non impedit id
+quod movetur per aliam deorsum.
+21
+
+

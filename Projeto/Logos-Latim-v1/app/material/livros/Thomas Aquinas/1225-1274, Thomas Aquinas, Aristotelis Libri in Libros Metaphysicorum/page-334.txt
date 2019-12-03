@@ -1,0 +1,56 @@
+dicitur esse motus per accidens, quando non fit motus in eo, nisi quodam altero moto. Hoc autem invenimus in
+genere ad aliquid; quod nisi aliquid alterum permutetur, non verum est dicere quod in eo fiat permutatio, sicut
+non fit de aequali inaequale, non facta permutatione secundum quantitatem. Et similiter non fit de dissimili
+simile, nisi facta permutatione secundum qualitatem. Videmus etiam quod unum relativorum dicitur permutari
+facta permutatione circa alterum; sicut alterum per se manens de sinistro fit dextrum, altero secundum locum
+permutato.
+Relinquitur igitur quod in ad aliquid non est motus nisi per accidens.
+|#11 Deinde cum dicit neque facientis ostendit, quod neque in agere et pati sit motus: et hoc quatuor rationibus:
+quarum prima talis est. Agere et pati sunt motus, et significant motum. Si igitur in agere et pati esset motus,
+sequeretur, quod motus sit alicuius motus, et generatio generationis, et permutatio permutationis. Sed hoc est
+impossibile; ergo, et hoc quod in agere et pati sit motus. Quod autem impossibile sit motum esse motus, sic
+ostendit. Motum enim esse motus contingit dupliciter: aut ut eius quod movetur, aut ut termini. Eius quidem
+quod movetur: sicut dicimus motum esse hominis, quia homo movetur, quia ex albo in nigrum permutatur. Unde
+et similiter motus movebitur, et aut calefiet, aut infrigidabitur, aut mutabitur secundum locum, aut augebitur.
+Hoc autem est impossibile; quia motus non potest esse subiectum caloris aut frigoris, aut alicuius huiusmodi.
+Relinquitur igitur quod non contingat motum esse motus sicut subiecti.
+|#12 Sed neque etiam sicut termini; ita scilicet quod aliquod subiectum alterum permutetur de una specie
+permutationis in aliam, sicut homo permutatur de languore in sanitatem. Hoc enim est impossibile nisi per
+accidens.
+|#13 Unde consequenter ostendit quod est impossibile per se, quia omnis motus est permutatio de uno in aliud.
+Et similiter generatio et corruptio est mutatio de uno in aliud, licet termini permutationis non sic opponantur in
+generatione et corruptione sicut in motu, ut supra dictum est. Si igitur sit aliqua permutatio de una permutatione
+in aliam, puta de sanatione in quamdam aliam permutationem, sequetur quod simul dum aliquid permutatur de
+sanitate in aegritudinem, permutetur de illa permutatione in aliam permutationem; quia adhuc uno extremorum
+permutationis existente, fit transmutatio de illo extremo in aliud. Et sic, si duae transmutationes sunt extrema
+unius permutationis, sequetur, quod durante prima transmutatione, fiat transmutatio in aliam. Et sic simul, dum
+aliquod movetur de sanitate in aegritudinem, transmutabitur de sanatione in aliam transmutationem.
+|#14
+Sed hoc non videtur, nisi inquantum una mutatio succedit alteri. Contingit autem quod ad hanc
+mutationem qua aliquid movetur de sanitate in aegritudinem, succedat quaevis alia mutatio; puta dealbatio, vel
+denigratio, mutatio secundum locum, vel quaecumque alia. Unde manifestum est, quod si aliquis languet per hoc
+quod movetur de sanitate in aegritudinem, quod ex hac mutatione permutari poterit in quamcumque aliam
+mutationem. Neque est mirum, quia poterit ex hac mutatione mutari ut in quiete. Contingit enim post hanc
+mutationem aliquem quiescere.
+|#15 Sed cum omnis mutatio sit in non contingens, idest in oppositum, quod non contingit simul verum esse
+cum suo opposito, sequitur quod si permutatio sit de mutatione in mutationem, quod semper sit in oppositam
+mutationem quam appellat non contingentem. Et illa transmutatio in quam fit transitus, oportet quod sit de aliquo
+in aliquid. Quare non fiet transitus de permutatione languoris, nisi in oppositam mutationem quae dicitur sanatio.
+|#16
+Et sic videntur duo contraria sequi: scilicet quod opposita permutatio fiat de una permutatione in
+quamcumque aliam, et quod non nisi in oppositam. Ex quo sequitur ulterius, quod simul dum mutatur aliquid ad
+unum oppositorum, mutetur in mutationem tamquam in aliud oppositum.
+Quod videtur impossibile: sequitur enim, quod simul intentio naturae tendat in opposita. Non igitur est possibile,
+quod per se mutetur aliquid de una permutatione in aliam.
+|#17 Sed per accidens hoc contingit; sicut aliquis permutatur ex reminiscentia in oblivionem, quia subiectum
+permutatur, quandoque ad unum terminum, quandoque ad alium: non quod sit intentio moventis ad hoc, quod
+simul dum permutatur in unum, intendat tendere in aliud.
+|#18 Deinde cum dicit et adhuc secundam rationem ponit, quae talis est.
+Si permutatio sit permutationis, sicut terminus termini, vel generatio generationis, necesse erit quod ad
+permutationem non perveniatur nisi per aliam permutationem, sicut ad qualitatem non pervenitur nisi per
+alterationem praecedentem: et sic ad illam mutationem praecedentem non pervenitur, nisi per aliquam priorem
+mutationem: et ita procedetur in infinitum.
+
+334
+
+

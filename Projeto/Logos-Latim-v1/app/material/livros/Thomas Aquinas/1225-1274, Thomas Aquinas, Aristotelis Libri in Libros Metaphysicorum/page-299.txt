@@ -1,0 +1,53 @@
+Nam idem medium quod est magis et minus respectu utriusque extremorum, oportet esse compositum ex
+extremis simplicibus, respectu quorum dicitur magis et minus.
+Et quia non sunt aliqua extrema priora contrariis in eodem genere, relinquitur quod duae differentiae contrariae
+constitutivae mediorum sint compositae ex contrariis differentiis. Et ita media erunt ex contrariis. Quod patet,
+quia omnia inferiora, idest omnes species generis, tam contraria quam media, sunt ex primis contrariis, scilicet
+differentiis.
+|#15 Deinde cum dicit quod quidem concludit epilogando quod supra de mediis dictum est. Et est litera plana.
+|+10 Lectio 10
+|#1 Quia Philosophus superius ostendit contrarietatem esse differentiam quamdam, differentia autem vel est
+secundum genus, vel secundum speciem; intendit hic Aristoteles ostendere quomodo contraria se habeant ad hoc,
+ut differant genere et specie.
+Et dividitur in partes duas. In prima ostendit quod differentia secundum speciem pertinet ad contrarietatem. In
+secunda ostendit quomodo de quibusdam contrariis aliter est, ibi, dubitabit autem aliquis quare femina etc..
+Circa primum tria facit. Primo ostendit quod differentia quae facit differre specie, est secundum se ipsius generis,
+quasi ipsam naturam generis in diversas species dividens.
+Secundo ostendit quod hoc convenit contrarietati, ibi, contrarietas igitur haec etc.. Tertio concludit quoddam
+corollarium ex dictis, ibi, quare palam, quia ad id quod vocatur genus etc..
+Dicit ergo primo, quod in omni diversitate secundum speciem oportet duo accipere: scilicet ut hoc sit diversum
+ab aliquo, et ut sit aliquid diversificatum per haec duo. Et hoc quod est diversificatum per haec duo, oportet
+inesse ambobus. Sicut animal est quod est diversificatum in diversas species, scilicet in hominem et equum: et
+oportet quod ambo, scilicet homo et equus, sint animalia. Unde patet quod necesse est ea quae sunt diversa
+specie adinvicem, in eodem genere esse.
+|#2 Id enim vocatur genus, quod est unum et idem ambobus, non secundum accidens de utroque praedicatum,
+neque secundum accidens diversificatum in utroque.
+Unde oportet, quod habeat differentiam non secundum accidens: sive genus ponatur ens quasi materia, sive
+qualitercumque aliter.
+|#3 Hoc autem ideo dicit, quia aliter diversificatur materia per formas et aliter genus per differentias. Forma
+enim non est hoc ipsum quod est materia, sed facit compositionem cum ea. Unde materia non est ipsum
+compositum, sed aliquid eius. Differentia vero additur generi non quasi pars parti, sed quasi totum toti. Unde
+genus est hoc ipsum quod est species, et non solum aliquid eius. Si autem esset pars, non praedicaretur de ea.
+|#4 Sed tamen, quia totum potest denominari ab una sola parte sua, puta si homo denominetur habens caput, vel
+habens manus, contingit ipsum compositum ex materia et forma denominari. Et quidem nomen, quo aliquid
+totum denominatur ab eo quod est materiale in ipso, est nomen generis. Nomen autem, quo denominatur a
+principio formali, est nomen differentiae.
+Sicut homo nominatur animal a natura sensibili, rationale vero a natura intellectiva.
+Sicut igitur habens manum competit toti, licet manus sit pars, ita genus et differentia conveniunt toti, licet
+sumantur a partibus.
+|#5 Si ergo consideretur in genere et differentia id a quo utrumque sumitur, hoc modo genus se habet ad
+differentias, sicut materia ad formas. Si autem consideretur secundum quod nominant totum, sic aliter se habent.
+Hoc tamen commune est utrobique, quod sicut ipsa essentia materiae dividitur per formas, ita ipsa natura generis
+diversificatur per differentias. Sed hoc utrobique distat, quia materia est in utroque divisorum, non tamen est
+utrumque eorum; genus autem utrumque eorum est: quia materia nominat partem, genus autem totum.
+|#6 Et ideo exponens quod dixerat, genus esse quo ambo specie differentia dicuntur unum et idem, subiungit
+quod non solum oportet genus esse commune duobus differentibus secundum speciem, sicut quod utrumque sit
+animal, sicut aliquid indivisum est commune diversis, ut eadem domus aut possessio; sed oportet hoc ipsum
+quod est animal esse alterum utrumque; ita quod hoc animal sit equus et hoc animal sit homo.
+|#7 Et hoc dicit contra Platonicos, qui ponebant communia separata, quasi ipsamet natura communis non
+diversificaretur, si natura speciei esset aliquid aliud praeter naturam generis. Unde contra hoc concludit ex dictis,
+quod hoc ipsum quod est commune, diversificatur secundum speciem.
+
+299
+
+

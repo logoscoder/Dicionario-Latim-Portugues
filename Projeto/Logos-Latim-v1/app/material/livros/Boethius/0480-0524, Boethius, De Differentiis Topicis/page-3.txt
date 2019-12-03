@@ -1,0 +1,60 @@
+Ita enim hoc per se notum est, ut [1176D] aliud notius quo approbari ualeat, esse non possit. Quae
+propositiones cum fidem sui natura propriam gerant, non solum alieno ad fidem non egent argumento, uerum caeteris
+quoque probationis solent esse principium. Igitur per se notae propositiones, quibus nihil est notius, indemonstrabiles
+ac maximae et principales uocantur. Quae uero quamuis auditoris iudicio comprobentur, habent tamen aliquid notius
+naturaliter ex quo, si de his fiat quaestio, uelut ex alieno fidem capiant, hae demonstrabiles ac minores posterioresque
+dicuntur.
+Et de propositionibus quidem ista sufficiant.
+Quaestio uero dubitabilis est propositio, in qua necesse est fore eadem considerari quae dudum in propositione
+dicta sunt.
+Aliae namque [1177A] simplices, aliae compositae sunt. Simplices sunt ut hae quae ex simplici propositione
+descendunt, hoc modo, ut si quaeratur an caelum sit uolubile. Haec enim ab ea uenit propositione quae dicit caelum
+esse uolubile. Atque si a conditionali composita propositione suscipit initium, quae est an si caelum est rotundum,
+uolubile est, erit conditionalis atque composita hoc modo; haec enim a conditionali propositione principium sumit quae
+est, si caelum rotundum est, uolubile est: quaestio ergo alias quidem praedicatiua est, alias conditionalis.
+Quo fit ut eaedem partes quaestionis sint quae dudum esse dictae sunt propositiones. Praedicatiuae igitur
+quaestiones habent praedicatum atque subiectum, ut in ea qua dubitatur an caelum sit uolubile. Nam uolubile
+praedicatum, [1177B] caelum uero subiectum est. Maior enim terminus est uolubile quam caelum. Neque enim caelum
+solum uolubile dici potest. Quae uero coniuncta est quaestio, habebit partes quod praedicatur et quod subiicitur, quod
+antecedit et quod consequitur, ut in ea quae dicit, an si caelum rotundum est, uolubile est. Antecedit rotundum esse,
+sequitur uolubile esse.
+Quae cum ita sint, in praedicatiua quaestione dubitatur an subiecto termino praedicatus inhaereat. In
+hypotheticis uero quaestionibus, illud tantum quaeritur an illam rem quae praecedit comitetur id quod sequens esse
+proponitur. Omnia uero quae de praedicatiuis propositionibus dicta sunt, id est, quod aliae uniuersales, aliae
+particulares, aliae indefinitae, aliae singulares, eadem possunt dici fere in praedicatiua quaestione. Hoc etenim [1177C]
+tantum quaestio a propositione diuersa est, quod propositio quidem uel enuntiata simpliciter, uel aliud probans, oratio
+est uerum falsumue significans. Quaestio uero cum sit ipsa quidem oratio, dubitabilis tamen est propositio. Addita
+igitur dubitatione, quae in propositione considerantur, eadem etiam conuenit in quaestione tractari.
+Quaestionis autem duae sunt species: unaquae dicitur a dialecticis thesis; haec huiusmodi est quae de re
+caeteris circumstantiis nuda quaerit ac disserit, quales a dialecticis maxime ad disputationem sumuntur, ut:
+Voluptasne summum bonum sit?
+Ducendane uxor?
+haec a nobis propositio uel propositum dicitur. Altera uero quae a Graecis uocatur hypothesis, a nobis dicitur
+causa; haec quaestio est personis, temporibus, factis, caeterisque circumstantiis implicita; ea est huiusmodi: [1177D]
+iurene Cicero in exsilium dubio reipublicae tempore detrudatur, quia iniussu populi ciues Romanos necauerit.
+Huius autem duplicis quaestionis subdiuisiones alias esse necesse est, et thesis quidem philosophis, hypothesis
+uero oratoribus attributa est. Sed eius quidem quaestionis quae est hypothesis posterius, diuisiones dabo; nunc de
+theseos diuisione pertractabo, quae in quattuor diuiditur species. In omni enim dialectica quaestione praedicatiua
+dubitatur an ei quod subiectum est id quod praedicatur inhaereat; cum uero aliquid alicui inesse proponitur, id aut
+maius erit eo de quo praedicatur eique substantialiter inesse contenditur; aut maius [1178A] quidem eo erit sed non de
+substantia ipsius praedicabitur; aut ei erit aequale et in substantia praedicabitur, aut ei erit aequale sed minime eius
+substantiam continebit. Nam ut id quod minus est de eo quod maius est praedicemus in nulli propositione euenit.
+Sed si tale est quod in quaestione proponitur, ut subiecto sit maius, et de subiecti substantia praedicetur, erit
+genus: omne enim genus est maius eo de quo praedicatur, et de substantia eius dicitur, ut animal hominis. At si maius
+quidem fuerit sed de substantia eius non praedicetur, erit accidens, ut album homini. Quod si aequale quidem sit sed
+substantiale, subiecti erit definitio, ut animal rationale mortale homini: hoc namque conuertitur, et subiecti rationem, id
+est hominis substantiam, monstrat. Quod si [1178B] aequale quidem sit sed a ratione substantiae seiunctum, erit
+proprium: ut risible homini. Itaque dialecticae simplices quaestiones, aut de genere aut de accidenti aut de definitione
+aut de proprio fiunt.
+Possunt uero fieri etiam de differentia quaestiones cum quaeritur caelestia corpora rationalia sint necne, uel
+cum dubitatur eane sit tyranni ac principis differentia, quod hic legibus sumpsit imperium, ille uiolenta dominatione
+populum premit. Sed tantumdem est de differentia quaerere, quantum si de genere dubitetur. Aut enim constitutiua erit
+differentia aut diuisiua: sed si constitutiua fuerit quasi generis obtinet locum, ut rationabilitas homini; uel si ratione
+degunt caelestia corpora, caelestibus quoque corporibus. At si diuisiua fuerit, uelut species consideratur, [1178C] omnis
+enim species cum diuisibili differentia est. Quod si differentia nunc quidem loco generis, nunc uero speciei loco utimur,
+ambigi non potest, cum de ea quaeritur de genere dubitari.
+Fieri uero potest ut aliquid in certamen comparatione ducatur, uelut cum ambigitur an melior sit fortitudo
+iustitia. Sed haec quaestio in accidentis necesse est dubitatione ponatur. Namque ad comparationem nihil nisi accidens
+uenit, hoc enim solum recipit magis et minus.
+
+

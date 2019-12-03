@@ -1,0 +1,62 @@
+SC2
+Praeterea, in II physicorum ponuntur tres modi scientiarum, qui ad has etiam tres pertinere videntur.
+SC3
+Praeterea, Ptolemaeus etiam in principio almagesti hac divisione utitur.
+CO1
+Responsio. Dicendum quod theoricus sive speculativus intellectus in hoc proprie ab operativo sive practico
+distinguitur quod speculativus habet pro fine veritatem quam considerat, practicus vero veritatem considerata
+ordinat in operationem tamquam in finem. Et ideo dicit Philosophus in III de anima quod differunt ad invicem
+fine, et in II metaphysicae dicitur quod finis speculativae est veritas, sed finis operativae scientiae est actio. Cum
+ergo oporteat materiam fini esse proportionatam, oportet practicarum scientiarum materiam esse res illas quae a
+nostro opere fieri possunt, ut sic earum cognitio in operationem quasi in finem ordinari possit. Speculativarum
+vero scientiarum materiam oportet esse res quae a nostro opere non fiunt; unde earum consideratio in
+operationem ordinari non potest sicut in finem. Et secundum harum rerum distinctionem oportet scientias
+speculativas distingui.
+CO2
+Sciendum tamen quod, quando habitus vel potentiae penes obiecta distinguuntur, non distinguuntur penes
+quaslibet differentias obiectorum, sed penes illas quae sunt per se obiectorum in quantum sunt obiecta.
+Esse enim animal vel plantam accidit sensibili in quantum est sensibile, et ideo penes hoc non sumitur distinctio
+sensuum, sed magis penes differentiam coloris et soni. Et ideo oportet scientias speculativas dividi per
+differentias speculabilium, in quantum speculabilia sunt. Speculabili autem, quod est obiectum speculativae
+potentiae, aliquid competit ex parte intellectivae potentiae et aliquid ex parte habitus scientiae quo intellectus
+perficitur. Ex parte siquidem intellectus competit ei quod sit immateriale, quia et ipse intellectus immaterialis est;
+ex parte vero scientiae competit ei quod sit necessarium, quia scientia de necessariis est, ut probatur in I
+posteriorum. Omne autem necessarium, in quantum huiusmodi, est immobile; quia omne quod movetur, in
+quantum huiusmodi, est possibile esse et non esse vel simpliciter vel secundum quid, ut dicitur in IX
+metaphysicae. Sic ergo speculabili, quod est obiectum scientiae speculativae, per se competit separatio a materia
+et motu vel applicatio ad ea. Et ideo secundum ordinem remotionis a materia et motu scientiae speculativae
+distinguuntur.
+CO3
+Quaedam ergo speculabilium sunt, quae dependent a materia secundum esse, quia non nisi in materia esse
+possunt. Et haec distinguuntur, quia quaedam dependent a materia secundum esse et intellectum, sicut illa, in
+quorum diffinitione ponitur materia sensibilis; unde sine materia sensibili intelligi non possunt, ut in diffinitione
+hominis oportet accipere carnem et ossa. Et de his est physica sive scientia naturalis. Quaedam vero sunt, quae
+quamvis dependeant a materia secundum esse, non tamen secundum intellectum, quia in eorum diffinitionibus
+non ponitur materia sensibilis, sicut linea et numerus. Et de his est mathematica. Quaedam vero speculabilia
+sunt, quae non dependent a materia secundum esse, quia sine materia esse possunt, sive numquam sint in
+materia, sicut Deus et Angelus, sive in quibusdam sint in materia et in quibusdam non, ut substantia, qualitas,
+ens, potentia, actus, unum et multa et huiusmodi.
+De quibus omnibus est theologia, id est scientia divina, quia praecipuum in ea cognitorum est Deus, quae alio
+nomine dicitur metaphysica, id est trans physicam, quia post physicam discenda occurrit nobis, quibus ex
+sensibilibus oportet in insensibilia devenire. Dicitur etiam philosophia prima, in quantum aliae omnes scientiae
+ab ea sua principia accipientes eam consequuntur. Non est autem possibile quod sint aliquae res quae secundum
+intellectum dependeant a materia et non secundum esse, quia intellectus, quantum est de se, immaterialis est. Et
+ideo non est quartum genus philosophiae praeter praedicta.
+RA1
+Ad primum ergo dicendum quod Philosophus in VI ethicorum determinat de habitibus intellectualibus, in
+quantum sunt virtutes intellectua dicuntur autem virtutes, in quantum perficiunt in sua operatione.
+Virtus enim est quae bonum facit habentem et opus eius bonum reddit; et ideo secundum quod diversimode
+perficitur per huiusmodi habitus speculativos, diversificat huiusmodi virtutes. Est autem alius modus quo pars
+animae speculativa perficitur per intellectum, qui est habitus principiorum, quo aliqua ex se ipsis nota fiunt et
+quo cognoscuntur conclusiones ex huiusmodi principiis demonstratae, sive demonstratio procedat ex causis
+inferioribus, sicut est in scientia, sive ex causis altissi ut in sapientia. Cum autem distinguuntur scientiae ut sunt
+habitus quidam, oportet quod penes obiecta distinguantur, id est penes res, de quibus sunt scientiae. Et sic
+distinguuntur hic et in VI metaphysicae tres partes philosophiae speculativae.
+RA2
+Ad secundum dicendum quod scientiae speculativae, ut patet in principio metaphysicae, sunt de illis quorum
+cognitio quaeritur propter se ipsa. Res autem, de quibus est logica, non quaeruntur ad cognoscendum propter se
+ipsas, sed ut adminiculum quoddam ad alias scientias.
+
+41
+
+

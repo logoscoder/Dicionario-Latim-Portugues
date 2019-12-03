@@ -1,0 +1,61 @@
+RA3
+Ad tertium dicendum, quod hoc quod in sensualitate non possit esse nisi peccatum veniale, contingit ex
+imperfectione eius. Ratio autem, perfecta potentia est; et ideo in ea potest esse peccatum secundum omnem
+peccati differentiam: actus enim eius potest esse in in quolibet genere completus. Unde si sit in genere peccati
+venialis, erit veniale; si in genere mortalis, erit mortale.
+RA4
+Ad quartum dicendum, quod quamvis ratio superior non sit immediate carni coniuncta, tamen corruptio carnis
+usque ad eam pertingit, in quantum superiores potentiae ab inferioribus accipiunt.
+|q16 Quaestio 16
+Prologus
+PR1
+Primo utrum synderesis sit potentia, vel habitus.
+PR2
+Secundo utrum synderesis possit peccare.
+PR3
+Tertio utrum synderesis in aliquibus extinguatur.
+|a1 Articulus 1
+TTA
+Quaestio est de synderesi.
+Et quaeritur utrum synderesis sit potentia, vel habitus.
+TTB
+Et videtur quod sit potentia.
+AG1
+Ea enim quae veniunt in eamdem divisionem, sunt eiusdem generis. Sed synderesis dividitur contra
+rationabilem, irascibilem et concupiscibilem in Glossa Hieronymi Ezech.. I 9.
+Cum igitur irascibilis et concupiscibilis et rationalis sint potentiae, synderesis potentia erit.
+AG2
+Sed dicebat, quod non significat potentiam absolute, sed potentiam cum habitu.
+Sed contra, subiectum cum accidente non dividitur contra subiectum absolute sumptum: non enim esset
+conveniens divisio qua diceretur animalium aliud homo, aliud homo albus. Ergo cum habitus comparetur ad
+potentiam sicut accidens ad subiectum, videtur quod non possit convenienter dividi id quod dicit potentiam
+tantum, ut rationabilis et concupiscibilis et irascibilis, contra id quod nominat potentiam cum habitu.
+AG3
+Praeterea, unius potentiae contingit esse diversos habitus. Si ergo ratione habitus una potentia contra aliam
+distingueretur, quot sunt habitus potentiarum, tot membra esse deberent illius divisionis qua partes animae ad
+invicem distinguuntur.
+AG4
+Praeterea, nihil unum et idem potest esse regulans et regulatum. Sed potentia per habitum regulatur. Ergo non
+potest potentia et habitus in idem coincidere, ut unum nomen potentiam et habitum designet simul.
+AG5
+Praeterea, habitui non inscribitur aliquid, sed potentiae tantum. Sed universalia principia iuris dicuntur inscribi
+synderesi.
+Ergo ipsa potentiam nominat absolute.
+AG6
+Praeterea, ex duobus non potest unum fieri nisi eorum altero transmutato. Sed habitus ille naturalis quem
+significare dicitur nomen synderesis, non mutatur, quia naturalia oportet manere; nec iterum potentiae animae
+transmutantur.
+Et ita videtur quod ex habitu et potentia non potest unum fieri, ut utrumque uno nomine nominari possit.
+AG7
+Praeterea, sensualitas synderesi opponitur, quia sicut sensualitas inclinat semper ad malum, ita synderesis semper
+ad bonum. Sed sensualitas est absolute potentia sine habitu.
+Ergo et synderesis potentiam nominat absolute.
+AG8
+Praeterea, ut dicitur in IV metaphys., ratio quam significat nomen, est definitio.
+Ergo illud quod non est hoc modo unum quo definibile est, uno nomine nominari non potest; sed aggregatum ex
+subiecto et accidente, ut hoc quod dico: homo albus, definiri non potest, ut probatur VII metaph..
+Et sic etiam nec aggregatum ex potentia et habitu; ergo non potest potentia cum habitu uno nomine significari.
+AG9
+356
+
+

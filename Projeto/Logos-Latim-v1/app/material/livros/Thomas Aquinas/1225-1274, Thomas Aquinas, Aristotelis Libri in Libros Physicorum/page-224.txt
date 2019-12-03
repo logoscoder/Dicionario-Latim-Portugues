@@ -1,0 +1,64 @@
+Prima autem pars dividitur in duas: in prima ostendit quomodo motus
+dividitur; in secunda agit de ordine partium motus, ibi: quoniam autem omne
+quod mutatur, ex quodam etc..
+Circa primum duo facit: primo ponit duos modos quibus motus dividitur;
+secundo ostendit quae sunt illa quae simul dividuntur cum motu, ibi:
+quoniam autem omne quod movetur, in aliquo etc..
+Circa primum duo facit: primo ponit modos quibus motus dividitur; secundo
+exponit eos, ibi: sit igitur ipsius quidem ab etc..
+|#2
+Dicit ergo primo, quod duobus modis dividitur motus. Uno modo
+secundum tempus; quia ostensum est quod motus non est in nunc sed in
+tempore. Alio vero modo dividitur secundum motus partium mobilis. Sit enim
+ac mobile, et dividatur: ostensum est enim omne quod movetur divisibile
+esse. Si ergo ipsum ac totum movetur, necesse est quod moveatur utraque
+pars eius, scilicet ab et bc.
+Est autem considerandum, quod divisio motus secundum partes mobilis, potest
+intelligi dupliciter. Uno modo ut pars post partem moveatur: quod quidem
+non est possibile in eo quod secundum se totum movetur; quia eius quod
+secundum se totum movetur, omnes partes simul moventur, non quidem seorsum
+a toto, sed in ipso toto. Alio modo potest intelligi ista divisio motus
+secundum partes mobilis, sicut et divisio cuiuslibet accidentis cuius
+subiectum est divisibile, attenditur secundum divisionem sui subiecti;
+sicut si totum hoc corpus est album, secundum divisionem corporis dividetur
+per accidens albedo.
+Et sic accipitur hic divisio motus secundum partes mobilis; ut sicut
+utraque pars mobilis simul movetur in toto, ita motus utrarumque partium
+sint simul. Et per hoc ista divisio motus, quae est secundum partes
+mobilis, est alia ab illa quae est secundum tempus, in qua duae partes
+motus non sunt simul.
+Si tamen motus partis unius comparetur ad motum partis alterius non
+simpliciter, sed secundum aliquod signum determinatum, sic motus unius
+partis etiam tempore praecedit motum alterius partis. Si enim mobile abc
+moveatur in magnitudine efg, ita quod ef sit aequale toti ac, manifestum
+est quod hoc signum f prius pertransibit bc quam ab: et secundum hoc simul
+curret divisio motus secundum partes temporis et secundum partes mobilis.
+|#3
+Deinde cum dicit: sit igitur ipsius quidem etc., manifestat positos
+modos: et primo ostendit quod motu dividatur secundum partes mobilis;
+secundo quod dividatur secundum partes temporis, ibi: alius autem secundum
+tempus etc..
+Primum ostendit tribus rationibus: quarum prima talis est.
+Ex quo moto toto moventur partes, motus illius partis quae est ab, sit de;
+et motus alterius partis, quae est bc, sit Ez. Sicut ergo totum mobile ac
+componitur ex ab et bc, ita totus motus dz componitur ex de et Ez. Cum ergo
+utraque partium mobilis moveatur secundum utramque partium motus, ita tamen
+quod neutra pars mobilis movetur secundum motum alterius partis (quia
+secundum hoc totus motus esset unius partis, quae moveretur motu suo et
+motu alterius partis), oportet dicere quod totus motus dz sit totius
+mobilis ac; et sic motus totius dividitur per motum partium.
+|#4
+Secundam rationem ponit ibi: amplius autem, si omnis motus etc.: quae
+talis est.
+Omnis motus est alicuius mobilis: totus autem motus dz non est alterius
+partium; quia neutra movetur secundum totum motum, sed utraque movetur
+secundum partes motus, ut dictum est. Neque iterum potest dici quod sit
+motus cuiuscumque alterius mobilis separati ab ac: quia si totus iste motus
+esset totius alterius mobilis, sequeretur quod partes huius motus essent
+partium illius mobilis; sed partes huius motus qui dicitur dz, sunt partium
+huius mobilis quae sunt ab, bc, et nullarum aliarum; quia si essent et
+harum et aliarum, sequeretur quod unus motus esset plurium, quod est
+impossibile. Relinquitur ergo quod totus motus sit totius magnitudinis,
+224
+
+

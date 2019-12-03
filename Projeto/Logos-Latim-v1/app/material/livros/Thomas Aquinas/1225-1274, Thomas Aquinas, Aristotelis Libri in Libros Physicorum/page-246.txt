@@ -1,0 +1,65 @@
+|#11
+Deinde cum dicit: neque igitur secundum etc., ponit rationem qua
+zeno excludebat mutationem quae est inter contradictoria.
+Dicebat enim sic. Omne quod mutatur, dum mutatur, in neutro terminorum est:
+quia dum est in termino a quo, nondum mutatur; dum autem est in termino ad
+quem, iam mutatum est. Si ergo aliquid mutetur de uno contradictorio in
+aliud, sicut de non albo in album, sequitur quod dum mutatur, neque sit
+album neque non album; quod est impossibile.
+Licet autem hoc inconveniens sequatur aliquibus, qui ponunt impartibile
+moveri, tamen nobis, qui ponimus quod omne quod movetur est partibile,
+nullum accidit impossibile. Non enim oportet, si non est totum in altero
+extremorum, quod propter hoc non possit dici aut album aut non album.
+Contingit enim quod una pars eius sit alba, et alia non alba. Non autem
+dicitur aliquid album ex eo quod totum sit huiusmodi, sed quia plures et
+principaliores partes sunt tales, quae magis propriae sunt natae tales
+esse: quia non idem est non esse in hoc, et non esse totum in hoc, scilicet
+in albo vel non albo.
+Et quod dictum est de albo vel non albo, intelligendum est de esse vel non
+esse simpliciter, et in omnibus quae opponuntur secundum contradictionem,
+sicut calidum et non calidum, et huiusmodi. Semper enim oportebit quod sit
+in altero contra oppositorum illud quod mutatur, quia denominabitur ab eo
+quod principalius inest: sed non sequitur quod semper sit totum in neutro
+extremorum, ut zeno putabat.
+Sciendum est autem quod haec responsio sufficit ad repellendum rationem
+zenonis, quod hic principaliter intenditur. Quomodo autem circa hoc se
+habeat veritas, in octavo plenius ostendetur. Non enim in quolibet verum
+est, quod pars ante partem alteretur vel generetur, sed aliquando totum
+simul, ut supra dictum est: et tunc non habet locum haec responsio, sed
+illa quae ponitur in octavo.
+|#12
+Deinde cum dicit: iterum autem in circulo etc., solvit rationem
+zenonis, qua destruebat motum sphaericum.
+Dicebat enim quod non est possibile aliquid circulariter vel sphaerice
+moveri, vel quocumque alio modo, ita quod aliqua moveantur in seipsis, id
+est non progrediendo a loco in quo sunt, sed in ipsomet loco. Et hoc
+probabat tali ratione. Omne illud quod per aliquod tempus secundum totum et
+partes est in uno et eodem loco, quiescit: sed omnia huiusmodi sunt in
+eodem loco et ipsa et partes eorum secundum aliquod tempus, etiam dum
+ponuntur moveri: ergo sequitur quod simul moveantur et quiescant; quod est
+impossibile.
+Huic autem rationi obviat Philosophus dupliciter.
+Primo quantum ad hoc quod dixerat, partes sphaerae motae esse in eodem loco
+per aliquod tempus: contra quod Aristoteles dicit quod partes sphaerae
+motae in nullo tempore sunt in eodem loco. Zeno enim accipiebat locum
+totius: et verum est quod dum sphaera movetur, nulla pars exit extra locum
+totius sphaerae; sed Aristoteles loquitur de proprio loco partis, secundum
+quod pars potest habere locum. Dictum est enim in quarto quod partes
+continui sunt in loco in potentia.
+Manifestum est autem in motu sphaerico, quod pars mutat proprium locum, sed
+non locum totius: quia ubi fuit una pars, succedit alia pars.
+Secundo obviat ad praedictam zenonis rationem, quantum ad hoc quod dixit,
+quod totum manet in eodem loco per tempus. Contra quod Aristoteles dicit,
+quod etiam totum semper mutatur in alium locum: quod sic patet. Ad hoc enim
+quod sint duo loca diversa, non oportet quod unus illorum locorum sit
+totaliter extra alium; sed quandoque quidem secundus locus est partim
+coniunctus primo loco, et partim ab eo divisus, ut potest in his
+considerari quae moventur motu recto. Si enim aliquod cubitale corpus
+moveatur de ab loco in bc locum, quorum uterque locus sit cubitalis; dum
+movetur ab uno loco in alium, oportet quod partim deserat unum et subintret
+alium; sicut si deserat de loco ab quantum est ad, subintrabit in locum bc
+quantum est be. Manifestum est ergo quod locus de est alius a loco ab, non
+tamen totaliter ab eo seiunctus, sed partim.
+246
+
+

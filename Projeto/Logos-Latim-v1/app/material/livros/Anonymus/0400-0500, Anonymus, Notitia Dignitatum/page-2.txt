@@ -1,0 +1,63 @@
+Aegypti.
+Isauriae.
+Duces tredecim:
+Per Aegyptum duo:
+Libyarum.
+Thebaidos.
+Per Orientem sex:
+Foenicis.
+Eufratensis et Syriae.
+Palaestinae.
+Osrhoenae.
+Mesopotamiae.
+Arabiae.
+Per Ponticam unus:
+Armeniae.
+Per Thracias duo:
+Moesiae secundae.
+Scythiae.
+Per Illyricum II:
+Daciae ripensis.
+Moesiae primae.
+Consulares XV:
+Per Orientem V:
+Palaestinae.
+Foenicis.
+Syriae.
+Ciliciae.
+Cypri.
+Per Asianam tres:
+Pamfyliae.
+Hellesponti.
+Lydiae.
+Per Ponticam II:
+Galatiae.
+Bithyniae.
+Per Thracias II:
+Europae.
+Thraciae.
+Per Illyricum III:
+Cretae.
+Macedoniae.
+Daciae mediterraneae.
+Aegyptus autem consularitatem non habet.
+Praesides XL:
+Per Aegyptiacam quinque:
+Libyae superioris.
+Libyae inferioris.
+Thebaidos.
+Aegypti.
+Arcadiae.
+Per Orientem VIII:
+Palaestinae salutaris.
+Palaestinae secundae.
+Foenicis Libani.
+Eufratensis.
+Syriae salutaris.
+Osrhoenae.
+Mesopotamiae.
+Ciliciae secundae.
+Per Asianam VII:
+2
+
+

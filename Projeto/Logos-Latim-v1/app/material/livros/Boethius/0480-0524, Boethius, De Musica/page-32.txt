@@ -1,0 +1,62 @@
+Ad D autem sex toni intendantur, sitque D 531441. His ita dispositis et constitutis, manifestum est inter C
+atque D comma constitui, eorumque differentiam esse 7153; id autem sit K, remittantur igitur duo toni ab eo quod est
+B, ad id quod est E, et sit E 373248. Rursus ab eo quod est E intendo diatessaron ad id quo est F 497664. Quoniam
+igitur inter E atque B duo sunt toni, inter E atque F diatessaron, inter B igitur atque F minus semitonium reperitur.
+Sublatis enim a diatessaron consonantia duobus tonis, fit reliquum semitonium minus, quod in primis numeris constare
+praedixi 256 et 243. Quos eosdem numeros si millies noningenties quadragies quaterque multiplices B atque F,
+numeros explicabis. Quos necessarie est eamdem proportionem superius dictis numeris continere, qui uno atque eodem
+numero, id est 1944 pariter multiplicati creuere. Item ab eo quod est F. intendo diatessaron, scilicet ad G, et sit G
+663552. Rursus ab eodem G remitto ad P duos tonos, et fit P 524288. Quod P necessarie est, ut eumdem sonum quem C
+numerus exhibeat. Ad aequalitatem namque eius tali ratione progressus est. Etenim ea quae est A C diapason
+consonantia, quae constat quinque tonis ac duobus semitoniis minoribus, ab 6 tonis commate superatur. Ab eodem
+igitur A termino numerus P, quinque tonis ac semitoniis duobus recessit hoc modo. Ab eo quod est A usque ad id quod
+est B quinque nimirum colliguntur toni; ab eo autem quod est B usque ad id quod est F minus esse semitonium
+pernotatur, F uero atque P, idem rursus semitonium minus includunt. A igitur usque ad P quinque tonos ac duo
+semitonia minora produxit. Iure igitur P atque C eisdem numeris conscribuntur. Sed quoniam inter F atque C
+semitonium minus est, uideamus haec quae sit eorum differentia, ut eam commati comparemus. Est autem eorum
+differentia 26624, et sit haec M. Igitur K commatis differentia est, M. autem semitonii minoris. Si igitur K numerum
+tertio auxerimus, fiet numerus 21459. Et sit hic L Si uero quater eumdem numerum K multiplicare uoluerimus, fient
+28612, et sit hoc N. Igitur M maior quidem est ab L; idem autem M minor est ab N.
+Sed N quater aucto commate succreuit; L autem tertio, M uero semitonii minoris obtinet differentiam. Iure
+igitur dictum est minus semitonium minus quidem esse quam quatuor commata, maius uero quam tria.
+[1243] [PLLXIII:1243-44; text: Quinque toni, Diatessaron intensa, Duo toni remissae, semitonium minus, A,
+262144, E, 373248, B, 472392, F, 497664, C, P, 524283, D, 531441, G, 663352, Differentia M, Differentia t, 7153,
+Tertoni intensa, Ter auctum, Quater auctum, 21459, L, 28612, N] [BOEDIM3 12GF]
+[1243] XV
+Apotome maiorem esse quam 4 commata, minoem quam 5. Tonum maiorem quam 8, minorem quam 9.
+Eadem hac ratione et semitonium maius quod apotomen dici supra retulimus, quot commatum sit possumus
+inuenire hoc modo: Sit A 262144.
+Quinque uero ab eo distans tonis sit B 472392. Sex uero distans tonis ab eo quod est A, sit D, scilicet 531441,
+inter B igitur atque D tonus est; B uero ab eo quod est C distat per semitonium minus, et sit C 497664. Relinquitur ergo
+inter C atque D apotome proportio. Nam cum sit tonus B D, ex eo si auferas B C semitonium minus, C D relinquitur
+maius, quod apotomen esse supra retulimus, inter D igitur atque C est differentia 33777; haec autem sit E sed erat
+commatis differentia 7153, haec sit F. Si igitur F, id quod est comma, quinquies multiplicem, fient mihi 35765, et sit
+hoc G. Si uero idem F quater multiplicem, fit K numerus qui est 28612. G igitur ab eo quod est E maius est, K minus.
+Sed G quinquies auctum est comma. K uero quater, F autem apotomes differentia est. Iure igitur dictum est apotomen
+minorem quidem esse quam quinque commata, maiorem uero quam quatuor; ex hoc igitur comprobatur tonum
+maiorem quidem esse quam sunt octo commata, minorem uero quam nouem. Nam si minus semitonium, maius quidem
+est quam tria commata, minus uero quam quatuor, apotome autem maior quidem est quam quatuor commata, minor
+uero quam quinque iunctum semitonium minus semitonio maiori, quod est apotome, erit omne maius quidem 8
+commatibus, minus uero quam 9; sed apotome atque semitonium minus unum efficiunt tonum. Tonus igitur maior
+quidem est 8 commatibus, minor uero 9.
+[PLLXIII:1243; text: Quinque toni, Tonus, Apotome, 33777, B, Differentis, maius, minor, A, 262144, B,
+472392, C, 497664, D, 531441, G, 335765, K, 28612, Sex toni, Semitonium, 7153 Coma] [BOEDIM3 13GF]
+[1244] XVI
+Superius dictorum per numeros demonstratio.
+Sed quanquam per hanc rationem demonstratum est quemadmodum tonus commatibus comparetur, non est
+tamen quasi segnibus delassandum, quo minus per se hanc contra commata comparationem retinere tonus ipse
+monstretur. Sit igitur A quidem 262144, B autem quinque ab eo distans tonis 472392. C uero diapason ad id quod est A
+continens symphoniam, scilicet in numeris 524288; D autem ab eo quod est A, sex totos differens tonos 531451. D
+igitur ab eo quod est C distat commate, sex toni scilicet ab diapason consonantia. Id autem sit E 7153. D autem ab eo
+quod est B tono integerrimo distat, 6 toni scilicet quinque tonis, id autem sit F 590049. Si igitur E nouies auxero, fiet
+mihi H 64377.
+Sin uero octies, fient 57224, id sit G. Sed H quidem F numero comparatus superat, G uero superatur, et est F
+toni differentia. H autem nouies multiplicatum comma, G uero octies. Demonstratus est igitur tonus minor quidem 900
+esse commatibus, eisdem uero octo commatibus maior.
+[PLLXIII:1244; text: Sex toni, Quinque toni, E, 5449, Tonus, A, 262144, B, 472392, C, 524288, D, 531441,
+H, 64377, 57224, Diapason, 7153, Nouies auctum, Octies auctum] [BOEDIM3 13GF]
+Ita his prmissis licet maius semitonium minore semitonio commate distare monstratum sit, tamen idem quoque
+per se et per subiectos numeros tali ratione probabitur. Sit A numerus 497664, ab eo uero semitonium minus distans sit
+B numerus, qui iam [1245] supra quoque descriptus est 524288. Apotome uero distat ab eo quod est A. Is numerus, qui
+
+

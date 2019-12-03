@@ -1,0 +1,62 @@
+quoniam de indiuiduis solis homo praedicetur, idcirco species dicitur, et quoniam de specie differentibus animal dicitur,
+idcirco animal genus uocamus. Et sunt quodammodo nominum nomina. Quare neque [177A] genus de animali, neque
+species de homine, in eo quod quid sit praedicatur sed tantum designant, quomodo homo et animal de subiectis (ut
+dictum est) propriis praedicentur. Ergo non est mirandum si ad eorum subiectum quae de subiecto dicuntur eius
+predicati quod de subiecto non dicitur praedicatio perueniri non potest.
+DIVERSORUM GENERUM ET NON SUBALTERNATIM POSITORUM DIVERSAE SECUNDUM
+SPECIEM ET DIFFERENTIAE SUNT, UT ANIMALIS ET SCIENTIAE; ANIMALIS QUIDEM DIFFERENTIAE
+SUNT UT GRESSIBILE ET VOLATILE ET BIPES, SCIENTIAE VERO NULLA HARUM EST; NEQUE ENIM
+SCIENTIA AB SCIENTIA DIFFERT IN EO QUOD BIPES EST.
+[177B] Cum multis modis genus dicatur, solum quod nunc tractari conuenit assumamus. Dicitur enim genus
+quod de pluribus specie differentibus in eo quod quid sit praedicatur, ut animal praedicatur de homine, et de equo, et de
+cane, et de boue, et de caeteris, quae omnia specie ipsa a se discrete sunt. Species uero est quod de pluribus numero
+differentibus in eo quod quid sit praedicatur, ut homo praedicatur de Catone, Socrate, Platone, Virgilio, Cicerone, et de
+singulis hominibus, qui specie ipsa non differunt sed tantum a se numero distant. Differentia uero est quae sub eodem
+genere positas species propria qualitate disterminat, nam cum equus et homo quantum ad genus unum sint (uterque
+enim animal est), differentia rationalis et irrationalis utrosque disiungit ac discernit. [177C] Qualitate enim quadam
+rationabilitatis et irrationabilitatis uterque a propriae substantiae definitione dissentiunt. Ergo differentia est quae de
+pluribus specie differentibus in eo quod quale sit praedicatur. Namque haec ipsa differentia quae est irrationabilitas de
+multis specie differentibus praedicatur, ut de cygno, et equo, et pisce, quae omnia a se cum specie ipsa dissentient,
+irrationabilitatis tamen qualitate coniuncta sunt. Sed non in omnibus differentia de pluribus specie differentibus
+praedicatur. Sunt enim quaedam quae non nisi de una specie praedicantur, ut grauitas de sola terra, leuitas de solo igne,
+proprie dicitur. At uero nec species semper de pluribus numero differentibus praedicatur; mundi enim species de uno
+solo mundo dicitur, et phoenicis species de [177D] una tantum phoenice sed idcirco ita definita est quod frequentius
+differentia de pluribus specie differentibus praedicatur quam de uno. Eodemque modo et species frequentius inuenitur
+de pluribus numero differentibus praedicari, quam de una tantum re ac singulari.
+His ita positis, sunt quaedam genera, quae generalissima nuncupantur, quibus genus inueniri non possit, sunt
+species quibus alias subiectas species nullus inueniet. Inter utraque autem sunt alia quae subalterna genera nominantur,
+quae superiorum quidem species sunt, posteriorum uero genera ut substantia genus quidem est generalissimum, ut eius
+genus inueniri non possit, homo uero species est, ut eius species alia reperiri non ualeat. Animal uero ad [178A]
+substantiam quidem species est, ad hominem uero genus. Decem igitur praedicamentorum significatio nihil aliud
+demonstrat nisi rerum decem genera quae generalissima nominamus. Ergo quoties genera generalissima discrepant,
+eorum quoque species discrepabunt; et quoties species discrepant, quoniam differentiis disiunguntur atque informantur,
+differentiae quoque diuersarum specierum discrepabunt. Animal namque et scientia, quoniam est animal substantia,
+scientia uero ad aliquid, quoniamque genus animalis est substantia, et genus scientiae est ad aliquid, omni substantiae a
+se ratione discreta sunt, et differentiae quoque scientiae atque animalis omnibus qualitatibus disiunguntur. Est namque
+differentia animalis, bipes et quadrupes, animal enim ab alio animali differt, [178B] quod hoc quidem bipes sit, ut
+homo uel auis, illud uero quadrupes, ut equus atque bos; illud uero multipes, ut formica uel apis. Sed scientia
+differentiis huiusmodi non habet, neque enim scientia a scientia differt in eo quod bipes est. Quare constat quoties
+diuersa sunt genera, specierum quoque differentiis esse discretas.
+At hoc est quod ait: DIVERSORUM GENERUM ET NON SUBALTERNATIM POSITORUM DIVERSAE
+SECUNDUM SPECIEM ET DIFFERENTIAE SUNT. Et hoc exempli adiectione firmauit dicens: ANIMALIS ET
+SCIENTIAE diuersas esse differentias, nam cum sit bipes animalis differentia, scientiae non est. Et hoc quidem de
+diuersis generibus dictum est, id est quae subalterna non sunt. Quod si subalterna sunt genera, nihil prohibet alias
+easdem esse differentias, alias diuersas, [178C] ut auis est species animalis, et rursus est genus corui, et est subalternum
+genus, auis. Sed animalis differentiae sunt rationalis atque irrationalis, auis uero differentia rationalis non est. Nulla
+enim auis ab alia aui differt, quod sit rationalis; ergo hoc loco non sunt eaedem subalternorum generum differentiae. Si
+quis uero has generis, id est animalis differentias dicat, ut animalium alia sunt quae pascantur herbis, alia quae
+seminibus, alia quae carnibus, hae differentiae conueniunt in subalterno genere, uidelicet in aui; namque auium sunt
+aliae quae seminibus uescuntur, aliae quae herbis, aliae quae carnibus, ut uultur et miluus; ergo in subalternis generibus
+nihil prohibet easdem esse differentias, et iterum discrepare; hoc autem idcirco euenit, quia quae de praedicato dicuntur
+possunt de subiecto praedicari.
+Quare quod dicitur [178D] de genere potest etiam dici de specie, atque hoc est quod ait:
+SUBALTERNORUM VERO GENERUM NIHIL PROHIBET EASDEM ESSE DIFFERENTIAS;
+SUPERIORA ENIM DE INFERIORIBUS GENERIBUS PRAEDICANTUR.
+Sed cum diceret nihil prohibet easdem esse differentias, hoc quodam modo uoluit de monstrare esse quasdam
+easdem differentias, alias uero posse esse diuersas, cui rem contrariam intulisse uidetur, cum dicit:
+QUARE QUAECUMQUE PRAEDICATI DIFFERENTIAE FVERINT, EAEDEM ERUNT ETIAM
+SUBIECTI.
+Nam cum illic dixisset, nihil prohibet esse easdem differentias generum subalternorum, hic omnes easdem esse
+declarat, dicit enim: QUAECUMQUE FUERINT DIFFERENTIAE PRAEDICATI, EASDEM ETIAM SUBIECTI
+
+

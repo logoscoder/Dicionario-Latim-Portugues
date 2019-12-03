@@ -1,0 +1,60 @@
+Ergo multo magis lex naturae potest deleri.
+AG3
+Praeterea, illud quod lege statuitur, inducitur quasi iustum.
+Sed multa sunt ab hominibus statuta contra legem naturae.
+Ergo lex naturae potest a cordibus hominum aboleri.
+SC
+Sed contra est quod Augustinus dicit, in II confess., lex tua scripta est in cordibus hominum, quam nec ulla
+quidem delet iniquitas.
+Sed lex scripta in cordibus hominum est lex naturalis.
+Ergo lex naturalis deleri non potest.
+CO
+Respondeo dicendum quod, sicut supra dictum est, ad legem naturalem pertinent primo quidem quaedam
+praecepta communissima, quae sunt omnibus nota, quaedam autem secundaria praecepta magis propria, quae
+sunt quasi conclusiones propinquae principiis. Quantum ergo ad illa principia communia, lex naturalis nullo
+modo potest a cordibus hominum deleri in universali. Deletur tamen in particulari operabili, secundum quod
+ratio impeditur applicare commune principium ad particulare operabile, propter concupiscentiam vel aliquam
+aliam passionem, ut supra dictum est.
+Quantum vero ad alia praecepta secundaria, potest lex naturalis deleri de cordibus hominum, vel propter malas
+persuasiones, eo modo quo etiam in speculativis errores contingunt circa conclusiones necessarias; vel etiam
+propter pravas consuetudines et habitus corruptos; sicut apud quosdam non reputabantur latrocinia peccata, vel
+etiam vitia contra naturam, ut etiam apostolus dicit, ad Rom. I.
+RA1
+Ad primum ergo dicendum quod culpa delet legem naturae in particulari, non autem in universali, nisi forte
+quantum ad secunda praecepta legis naturae, eo modo quo dictum est.
+RA2
+Ad secundum dicendum quod gratia etsi sit efficacior quam natura, tamen natura essentialior est homini, et ideo
+magis permanens.
+RA3
+Ad tertium dicendum quod ratio illa procedit de secundis praeceptis legis naturae, contra quae aliqui legislatores
+statuta aliqua fecerunt, quae sunt iniqua.
+|q95 Quaestio 95
+|a0 Prologus
+Deinde considerandum est de lege humana. Et primo quidem, de ipsa lege secundum se; secundo, de potestate
+eius; tertio, de eius mutabilitate. Circa primum quaeruntur quatuor.
+Primo, de utilitate ipsius. Secundo, de origine eius.
+Tertio, de qualitate ipsius. Quarto, de divisione eiusdem.
+|a1 Articulus 1
+AG1
+Ad primum sic proceditur. Videtur quod non fuerit utile aliquas leges poni ab hominibus. Intentio enim
+cuiuslibet legis est ut per eam homines fiant boni, sicut supra dictum est.
+Sed homines magis inducuntur ad bonum voluntarii per monitiones, quam coacti per leges.
+Ergo non fuit necessarium leges ponere.
+AG2
+Praeterea, sicut dicit Philosophus, in V ethic., ad iudicem confugiunt homines sicut ad iustum animatum.
+Sed iustitia animata est melior quam inanimata, quae legibus continetur. Ergo melius fuisset ut executio iustitiae
+committeretur arbitrio iudicum, quam quod super hoc lex aliqua ederetur.
+AG3
+Praeterea, lex omnis directiva est actuum humanorum, ut ex supradictis patet.
+Sed cum humani actus consistant in singularibus, quae sunt infinita, non possunt ea quae ad directionem
+humanorum actuum pertinent, sufficienter considerari, nisi ab aliquo sapiente, qui inspiciat singula.
+Ergo melius fuisset arbitrio sapientum dirigi actus humanos, quam aliqua lege posita.
+Ergo non fuit necessarium leges humanas ponere.
+SC
+Sed contra est quod Isidorus dicit, in libro etymol., factae sunt leges ut earum metu humana coerceretur audacia,
+tutaque sit inter improbos innocentia, et in ipsis improbis formidato supplicio refrenetur nocendi facultas.
+Sed haec sunt maxime necessaria humano generi.
+Ergo necessarium fuit ponere leges humanas.
+1035
+
+

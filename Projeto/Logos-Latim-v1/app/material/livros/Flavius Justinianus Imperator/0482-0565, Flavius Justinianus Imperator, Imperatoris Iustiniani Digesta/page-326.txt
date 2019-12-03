@@ -1,0 +1,54 @@
+( Th. Mommsen & P. Krueger, Corpus Iuris Civilis, I, Berlin, 1954 ).
+
+* 15.1.0.De peculio.
+* 15.2.0. Quando de peculio actio annalis est.
+* 15.3.0. De in rem verso.
+* 15.4.0. Quod iussu.
+15.1.0. De peculio.
+15.1.1
+Ulpianus libro 29 ad edictum
+pr. Ordinarium praetor arbitratus est prius eos contractus exponere eorum qui alienae potestati subiecti sunt, qui in
+solidum tribuunt actionem, sic deinde ad hunc pervenire, ubi de peculio datur actio.
+1. Est autem triplex hoc edictum: aut enim de peculio aut de in rem verso aut quod iussu hinc oritur actio.
+2. Verba autem edicti talia sunt: "Quod cum eo, qui in alterius potestate esset, negotium gestum erit".
+3. De eo loquitur, non de ea: sed tamen et ob eam quae est feminini sexus dabitur ex hoc edicto actio.
+4. Si cum impubere filio familias vel servo contractum sit, ita dabitur in dominum vel patrem de peculio, si locupletius
+eorum peculium factum est.
+5. Potestatis verbum communiter accipiendum est tam in filio quam in servo.
+6. Nec magis dominium servorum esse spectandum quam facultatem habendi eos: non enim solum servorum
+propriorum nomine conveniemur, item communium, verum eorum quoque qui bona fide nobis serviunt, sive liberi sint
+sive servi alieni.
+15.1.2
+Pomponius libro quinto ad Sabinum
+Ex ea causa, ex qua soleret servus fructuarius vel usuarius adquirere, in eum, cuius usus fructus vel usus sit, actio
+dumtaxat de peculio ceteraeque honorariae dantur, ex reliquis in dominum proprietatis.
+15.1.3
+Ulpianus libro 29 ad edictum
+pr. Licet tamen praetor, si cum eo qui in potestate sit gestum sit polliceatur actionem, tamen sciendum est et si in
+nullius sit potestate, dari de peculio actionem, ut puta si cum servo hereditario contractum sit ante aditam hereditatem.
+1. Unde Labeo scribit et si secundo tertiove gradu substitutus sit servus et deliberantibus primis heredibus cum eo
+contractum sit, mox repudiantibus eis ipse liber heresque exstiterit, posse dici de peculio eum conveniri et de in rem
+verso.
+2. Parvi autem refert, servus quis masculi an mulieris fuerit: nam de peculio et mulier convenietur.
+3. Pedius etiam impuberes dominos de peculio obligari ait: non enim cum ipsis impuberibus contrahitur, ut tutoris
+auctoritatem spectes. Idem adicit pupillum non posse servo peculium constituere nec tutoris auctoritate.
+4. In furiosi quoque curatorem dicimus dandam de peculio actionem: nam et huius servus peculium habere potest, non
+si fuerit concessum, ut habeat, sed si non fuerit prohibitum, ne habeat.
+5. Si filius familias vel servus pro aliquo fideiusserint vel alias intervenerint vel mandaverint, tractatum tum est, an sit
+de peculio actio. Et est verius in servo causam fideiubendi vel mandandi spectandam, quam sententiam et Celsus libro
+sexto probat in servo fideiussore. Si igitur quasi intercessor servus intervenerit, non rem peculiarem agens, non
+obligabitur dominus de peculio.
+6. Iulianus quoque libro duodecimo digestorum scribit, si servus mandaverit, ut creditori meo solveretur, referre ait,
+quam causam mandandi habuerit: si pro creditore suo solvi mandavit, esse obligatum dominum de peculio: quod si
+intercessoris officio functus sit, non obligari dominum de peculio.
+7. Cui congruit, quod idem Iulianus scribit, si a filio meo fideiussorem accepero, quidquid a fideiussore accepero, id me
+non de in rem verso, sed de peculio actione mandati praestaturum. Idem accipias et in servi fideiussore, idemque si
+alius mihi pro filio meo debitore solvisset. Quod si filius meus debitor non fuisset, exceptione doli fideiussorem usurum
+et, si solvisset, condicturum scribit.
+8. Si servus, cum se pro libero gereret, compromiserit, quaeritur, an de peculio actio ex poena compromissi quasi ex
+negotio gesto danda sit, sicuti traiecticiae pecuniae datur. Sed hoc et Nervae filio et mihi videtur verius ex compromisso
+servi non dandam de peculio actionem, quia nec si iudicio condemnetur servus, datur in eum actio.
+9. Sed si filius fideiussor vel quasi interventor acceptus sit, an de peculio patrem obligat, quaeritur. Et est vera Sabini et
+Cassii sententia existimantium semper obligari patrem de peculio et distare in hoc a servo.
+
+

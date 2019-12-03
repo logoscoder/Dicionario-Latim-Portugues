@@ -1,0 +1,55 @@
+principantur, mensuratur dignitas secundum divitias vel secundum nobilitatem generis, ut scilicet illi qui sunt
+excellentiores genere vel divitiis plus habeant de bonis communibus; sed in politia aristocratica in qua aliqui
+principantur propter virtutem, mensuratur dignitas secundum virtutem; ut scilicet ille plus habeat qui plus
+abundat in virtute. Et sic patet quod medium iustitiae distributivae accipitur secundum proportionalitatem.
+|+5 Lectio 5
+|#1 Est ergo iustum proportionale etc..
+Postquam Philosophus ostendit quod medium iustitiae distributivae accipitur secundum proportionalitatem
+quandam, hic ostendit secundum quam proportionalitatem accipiatur et quomodo. Et circa hoc duo facit.
+Primo ostendit quomodo iustum accipiatur secundum quamdam proportionalitatem.
+Secundo ostendit quomodo iniustum praeter illam proportionalitatem accipiatur, ibi, iustum quidem igitur etc..
+Circa primum tria facit. Primo praemittit quaedam de proportionalitate in communi. Secundo ostendit quomodo
+iustum distributivum in proportionalitate quadam consistit, ibi, est autem et iustum in quatuor etc.. Tertio
+ostendit qualis sit proportionalitas secundum quam attenditur iustum in distributiva iustitia, ibi: vocant autem
+talem etc..
+Circa primum praemittit duo. Quorum primum, est quod non inconvenienter iustum dicitur esse secundum
+proportionalitatem; quia proportionalitas non solum invenitur in numero unitatum qui est numerus simpliciter, et
+hic vocatur numerus monadicus; sed universaliter invenitur proportionalitas in quibuscumque invenitur numerus.
+|#2 Et hoc ideo quia proportionalitas nihil est aliud quam aequalitas proportionis, cum scilicet aequalem
+proportionem habet hoc ad hoc, et illud ad illud. Proportio autem nihil est aliud quam habitudo unius quantitatis
+ad aliam. Quantitas autem habet rationem mensurae: quae primo quidem invenitur in unitate numerali, et exinde
+derivatur ad omne genus quantitatis, ut patet in X metaphysicae; et ideo numerus primo quidem invenitur in
+numero unitatum: et exinde derivatur ad omne aliud quantitatis genus quod secundum rationem numeri
+mensuratur.
+|#3 Secundum ponit ibi, et in quatuor minimis etc..
+Et dicit quod omnis proportionalitas ad minus consistit in quatuor. Est enim duplex proportionalitas: una quidem
+disiuncta et alia continua. Disiuncta quidem proportionalitas est aequalitas duarum proportionum non
+convenientium in aliquo termino. Cum ergo omnis proportio sit inter duo, manifestum est quod proportionalitas
+disiuncta in quatuor terminis consistit; ut si dicam: sicut se habet sex ad tria, ita se habet decem ad quinque;
+utrobique enim est dupla proportio. Continua autem proportionalitas est aequalitas duarum proportionum
+convenientium in uno termino, puta si dicam: sicut se habet octo ad quatuor, ita quatuor ad duo; utrobique enim
+est dupla proportio. In hac igitur continua proportionalitate sunt quodammodo quatuor termini; inquantum
+scilicet utimur uno termino ut duobus, unum terminum bis dicendo, scilicet in utraque proportione, ut si dicam:
+quae est proportio a ad b, puta octo ad quatuor, eadem est proportio b ad c, id est quatuor ad duo; sic igitur b
+dicitur bis; unde, quamvis b sit unum subiecto; quia tamen accipitur ut duo, erunt quatuor proportionata.
+|#4 Deinde cum dicit: est autem et iustum etc., ostendit quomodo secundum proportionalitatem medium
+distributivae iustitiae accipiatur.
+Et dicit quod sicut proportionalitas, ita et iustum ad minus in quatuor invenitur, in quibus attenditur eadem
+proportio; quia scilicet secundum eamdem proportionem dividuntur res quae distribuuntur et personae quibus
+distribuuntur. Sit ergo a unus terminus, puta duae librae: b autem sit una libra, g autem sit una persona, puta
+sortes qui duobus diebus laboravit. D autem sit Plato qui uno die laboravit. Sicut ergo se habet a ad b, ita se
+habet g ad d, quia utrobique invenitur dupla proportio; ergo et permutatim, sicut a se habet ad g, ita se habet b ad
+d, quaecumque enim sunt ad invicem proportionalia, etiam permutatim proportionalia sunt; sicut in praedicto
+exemplo: sicut se habet decem ad quinque, ita octo ad quatuor. Ergo commutatim, sicut se habet decem ad octo,
+ita se habet quinque ad quatuor: utrobique est sesquiquarta proportio; sic ergo permutatim verum erit dicere
+quod, sicut se habet a ad g, idest duae librae ad eum qui duobus diebus laboravit, ita b ad d, idest una libra ad
+eum qui uno die laboravit.
+|#5 Est etiam in talibus considerandum quod in his quae sic sunt proportionalia, quae est proportio unius ad
+alterum, eadem est proportio totius ad totum. Puta, si quae est proportio decem ad octo, eadem est proportio
+quinque ad quatuor, sequitur ulterius quod quae est proportio decem ad octo et quinque ad quatuor, eadem etiam
+sit proportio decem et quinque simul acceptorum quae sunt quindecim, ad octo et quatuor simul accepta, quae
+sunt duodecim: quia hic etiam est sesquiquarta proportio.
+
+134
+
+

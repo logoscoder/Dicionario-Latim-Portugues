@@ -1,0 +1,32 @@
+79,6 inqui<e>t<i> inquit 'animi <furens>
+83,1 ____ ____
+83,7 se <ef>fert se fert
+83,7 calumnias emergit calumnia se mergit
+85,2 procons. procons(ulari)
+85,2 Cl. Cl(audium)
+85,2 imp. imp(eratoris)
+84,8 inscius insci<t>us
+85,4 femina sit femina est (Add.: femina aest<imetur>)
+87,6 _____, _______ ___ _____ _____ _______ [___ _____]
+89,1 necesse non <non> necesse
+89,6 aperuisse adgessisse
+90,4 si nusquam <ni>si nusquam
+90,6 Iohannes I[oh]annes
+91,7 <promissam> <creditam>
+92,4 coniugis coniugii
+92,4 multo amore mutuo amore
+93,3 de quo supra de qua supra
+96,2 quemne quemme
+96,7 Mineruae curriculum minor u<it>ae curriculum
+97,3 quam paucorum quam <praemium> paucorum
+98,7 uisitur uisi<ta>tor
+101,3 ut sui potens ut <qui> sui potens
+101,7 qR quaestor(is)
+102,3 mihi quicquam mihi <nihil> quicquam
+102,5 Cl. Cl(audium)
+103,3 natu'st natu is<ta> est
+103,3 sectatu's sectatus es
+103,5 procons. procons(ule).
+36
+
+

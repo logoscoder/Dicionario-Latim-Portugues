@@ -1,0 +1,58 @@
+Similiter autem nec linea simpliciter, quam considerat geometra, et linea visualis, quam considerat perspectivus.
+Unde patet quod quando ea, quae sunt lineae simpliciter, applicantur ad lineam visualem, fit quodammodo
+descensus in aliud genus: non autem quando ea, quae sunt trianguli, applicantur ad isoscelem.
+|#6 Secundo; ibi: ex eodem enim genere etc., ostendit propositum hoc modo. Oportet in demonstratione
+eiusdem generis esse media et extrema.
+Extrema autem in conclusione continentur.
+Nam maior extremitas in conclusione est praedicatum; minor vero extremitas subiectum; medium autem in
+praemissis continetur. Oportet igitur principia et conclusiones circa idem genus sumi. Cum autem huic
+coniunxerimus quod diversae scientiae sint circa diversa genera subiecta; ex necessitate sequitur quod ex
+principiis unius scientiae non concludatur aliquid in alia scientia, quae non sit sub ea posita.
+Quod autem in demonstratione oporteat media et extrema unius generis esse, sic probat. Detur enim quod
+medium sit alterius generis ab extremis, sicut si extrema sint triangulus et habere tres angulos aequales duobus
+rectis. Manifestum est quod passio conclusa de triangulo, per se inest ei; non autem per se inest aeneo. Et si e
+contrario passio per se inesset aeneo, puta sonorum esse, vel aliquid huiusmodi, palam est quod per accidens
+inesset triangulo. Unde patet quod oportet omnino, si subiectum conclusionis et medium sint penitus alterius
+generis, quod passio vel non per se insit medio vel non per se insit subiecto: et ita oportet quod alteri eorum insit
+per accidens. Et si quidem insit medio per accidens, erit per accidens in praemissis; si autem subiecto, erit in
+conclusione: et hoc ex parte passionis.
+Sed utroque modo oportebit per accidens esse in praemissis, quantum ad hoc quod subiectum accipitur sub
+medio: sicut si triangulus accipiatur sub aeneo aut e converso. Ostensum est autem quod in demonstrationibus
+tam conclusio, quam praemissae sunt per se et non per accidens.
+Oportet ergo in demonstrationibus medium et extrema eiusdem generis esse.
+|#7 Deinde cum dicit: propter hoc geometriae etc., infert duas conclusiones ex praemissis. Quarum prima est
+quod nulla scientia demonstrat aliquid de subiecto alterius scientiae, sive sit scientiae communioris sive alterius
+scientiae disparatae; sicut geometria non demonstrat quod contrariorum eadem est scientia: contraria enim
+pertinent ad scientiam communem, scilicet ad philosophiam primam vel dialecticam. Et similiter geometria non
+demonstrat quod duo cubi sint unus cubus, idest quod ex ductu unius numeri cubici in alium numerum cubicum
+surgat numerus cubicus. Dicitur autem numerus cubicus, qui consurgit ex ductu unius numeri in seipsum bis;
+sicut octonarius est numerus cubicus, surgit enim ex ductu binarii in seipsum bis, quia bis duo bis sunt octo. Et
+eadem ratione vigintiseptem est numerus cubicus, et radix eius est tria, quia ter tria ter faciunt vigintiseptem. Si
+ergo ducantur octo in vigintiseptem consurgit numerus cubicus, idest ducenta sexdecim, cuius radix est sex: quia
+sexies sex sexies sunt ducenta sexdecim. Hoc ergo habet probare arithmeticus, non geometra.
+Et similiter, quod est unius scientiae non habet probare alia scientia, nisi forte una scientia sit sub altera; sicut se
+habet perspectiva ad geometriam, et consonantia vel harmonica, idest musica, ad arithmeticam.
+|#8 Secunda conclusio ponitur; ibi: neque si aliquid etc.. Et est quod scientia etiam de proprio subiecto non
+probat quodlibet accidens, sed accidens quod est sui generis. Sicut si aliquid inest lineis, non secundum quod
+sunt lineae, neque secundum propria principia linearum, hoc non demonstrat geometra de lineis; sicut quod linea
+recta sit pulcherrima linearum, aut recta linea si est contraria circulari vel non. Haec enim non sunt secundum
+proprium genus lineae, sed secundum aliquid communius. Pulchrum enim et contrarium genus lineae
+transcendunt.
+|+16 Lectio 16
+|#1 Postquam ex superioribus Philosophus concluserat quod demonstratio non concludit ex extraneis principiis,
+nunc iterum ex superioribus intendit concludere quod demonstratio non est de corruptibilibus.
+Et circa hoc duo facit: primo, ostendit quod sempiternorum et non corruptibilium est demonstratio; secundo,
+ostendit qualiter sit eorum quae sunt ut frequenter; ibi: eorum autem etc.. Circa primum duo facit: primo,
+ostendit quod demonstratio non sit corruptibilium, sed sempiternorum; secundo, ostendit idem de definitione;
+ibi: similiter se habet etc.. Circa primum duo facit: primo, proponit conclusionem intentam; secundo, ponit
+rationem probantem ipsam; ibi: quod autem universaliter etc..
+|#2
+Primo ergo ponit duas conclusiones, quarum una sequitur ex altera. Prima est quod necesse est
+conclusionem demonstrationis huius de qua nunc agitur, et quam possumus dicere simpliciter demonstrationem,
+esse perpetuam; quod quidem sequitur ex hoc, quod supra habitum est, scilicet quod propositiones, ex quibus fit
+syllogismus, debent esse universales: quod significavit per dici de omni. Secunda conclusio est quod neque
+demonstratio, neque scientia est corruptibilium, loquendo simpliciter, sed solum secundum accidens.
+
+24
+
+

@@ -1,0 +1,57 @@
+Et ita sequitur quod praedictum futurum, scilicet quod iste moriatur vel non moriatur, ex necessitate erit.
+|#8 Cum enim quaelibet conditionalis vera sit necessaria, oportet quod ex quo antecedens est positum, quod
+consequens ex necessitate ponatur. Sicut haec est vera, si socrates currit, movetur. Posito ergo quod currat,
+necesse erit ipsum moveri, dum currit. Si autem quilibet effectus habet causam per se, ex qua de necessitate
+sequitur, oportet quod sit illa conditionalis vera, cuius antecedens est causa et consequens effectus. Et licet inter
+causam, quae nunc est praesens, et effectum qui erit futurus, quandoque sint plurima media, quorum
+unumquodque est effectus respectu praecedentium, et causa respectu sequentium; tamen sequitur de primo ad
+ultimum, quod conditionalis sit vera cuius antecedens est praesens et eius consequens quandoque futurum. Sicut
+hic, si comedit salsa, occidetur. Antecedens autem ponitur, ex quo praesens est; ergo de necessitate erit quod
+occidatur. Et ita omnia alia futura erunt necessaria, quorum causae proximae vel remotae, sunt praesentes.
+|#9 Et similis ratio est si aliquis procedens ab effectibus ad causas, supersiliat ad facta, idest ad praeterita, hoc
+est dicere si reducat effectus futuros in aliquam causam praeteritam non praesentem; quia hoc quod praeteritum
+est iam est secundum aliquem modum. Hoc autem dico inquantum est factum vel praeteritum.
+Licet enim vita caesaris non sit nunc ut in praesenti, est tamen in praeterito. Verum enim est caesarem vixisse. Et
+ita nunc est ponere verum esse antecedens conditionalis, in cuius antecedente est causa praeterita, et in
+consequente est causa futura.
+Et sic sequetur, cum omnes effectus futuros oporteat redigere in tales causas praesentes vel praeteritas, quod
+omnia futura ex necessitate eveniant. Sicut nos dicimus quod viventem fore moriturum est necessarium absolute,
+quia sequitur de necessitate ad aliquid quod iam factum est, scilicet duo contraria esse in eodem corpore per
+commixtionem. Haec enim conditionalis est vera: si aliquod corpus est compositum ex contrariis, corrumpetur.
+|#10 Hoc autem est impossibile, quod omnia futura ex necessitate eveniant.
+Ergo illa duo sunt impossibilia, ex quibus hoc sequebatur; scilicet quod quilibet effectus habeat causam per se, et
+quod causa posita necesse sit effectum poni. Quia ex hoc ipso sequeretur quod iam dictum est, quod quorumlibet
+effectuum futurorum essent aliquae causae iam positae. Sicut corruptionis animalis, iam sunt aliquae causae
+positae. Sed quod iste homo moriatur per infirmitatem vel violentiam, nondum habet aliquam causam positam ex
+qua de necessitate sequatur.
+|#11 Deinde cum dicit palam ergo infert quamdam conclusionem ex praedictis; dicens: ergo ex quo non
+quodlibet, quod fit, habet causam per se, palam, quod in futuris contingentibus, effectus futuri reductio ad
+causam per se, vadit usque ad aliquod principium; quod quidem principium non reducitur in aliquod principium
+adhuc per se, sed ipsum erit cuius causa erit quodcumque evenit, idest causa casualis, et illius causae casualis
+non erit aliqua alia causa; sicut iam praedictum est, quod ens per accidens non habet causam neque
+generationem. Verbi gratia, quod iste occidatur a latronibus habet causam per se quia vulneratur; et hoc etiam
+habet causam per se, quia a latronibus invenitur; sed hoc non habet nisi causam per accidens.
+Hoc enim quod iste qui negotiatur, ad negotium vadens, inter latrones incidat, est per accidens, ut ex praedictis
+patet.
+Unde eius non oportet ponere aliquam causam. Ens enim per accidens, ut supra dictum est, non habet
+generationem, et ita eius generationis causam per se quaerere non oportet.
+|#12 Deinde cum dicit sed ad principium movet quamdam quaestionem occasionatam ex dictis. Dixit enim
+supra immediate, quod causae entium per accidens reducuntur usque ad aliquod principium, cuius non est ponere
+aliam causam. Et ideo hic inquirit de hac reductione, vel anagoge, quod idem est, ad quale principium et ad
+qualem causam debeat fieri, idest ad quod genus causae vel principii: scilicet utrum ad aliquam causam primam,
+quae sit causa sicut materia; aut ad aliquam, quae sit causa sicut finis, cuius gratia aliquid fit; aut ad aliquam,
+quae sit causa sicut movens. Praetermittit autem de causa formali, quia quaestio hic habetur de causa
+generationis rerum, quae fiunt per accidens.
+In generatione autem, forma non habet causalitatem, nisi per modum finis.
+Finis enim et forma in generatione incidunt in idem numero. Hanc autem quaestionem hic motam non solvit: sed
+supponit eius solutionem ab eo quod est determinatum in secundo physicorum. Ibi enim ostensum est quod
+fortuna et casus, quae sunt causae eorum quae fiunt per accidens, reducuntur ad genus causae efficientis.
+Ergo concludit ex praemissis, quod praetermittendum est loqui de ente per accidens, ex quo determinatum est
+sufficienter secundum id quod de eo determinari potest.
+|#13 Attendendum est autem quod ea quae Philosophus hic tradit, videntur removere quaedam, quae secundum
+philosophiam ab aliquibus ponuntur, scilicet fatum et providentiam. Vult enim hic Philosophus, quod non omnia
+quae fiunt, reducantur in aliquam causam per se, ex qua de necessitate sequantur: alias sequeretur, quod omnia
+essent ex necessitate, et nihil per accidens esset in rebus. Illi autem, qui ponunt fatum, dicunt, contingentia, quae
+179
+
+

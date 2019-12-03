@@ -1,0 +1,62 @@
+Deinde cum dicit quae autem praetermissis duabus partibus primae divisionis, accipit tertiam; et eam subdividit
+secundum terminos, scilicet mutationem, quae non est per accidens, neque secundum partem: dicens, quod permutatio
+quae non est secundum accidens, non existit inter quoscumque terminos; sed oportet, quod termini eius sint vel
+contraria, sicut est mutatio de albo in nigrum; vel intermedia, sicut mutatio de nigro in rubeum et de rubeo in pallidum;
+aut est mutatio inter contradictoria, sicut de albo in non album, aut e converso. Tacet autem de privative oppositis, quia
+media sunt inter contradictoria et contraria, et sub eis intelliguntur.
+[83935] In Metaphysic., lib. 11 l. 11 n. 10
+Et quod solum inter praedictos terminos fiat permutatio, ostendit per inductionem. Quatuor enim modis possunt variari
+termini mutationis. Aut ita, quod uterque sit affirmativus, ut si aliquid dicatur mutari ex albo in nigrum; et hoc est quod
+dicit, ex subiecto in subiectum. Aut ita, quod uterque sit negativus, ut si aliquid dicatur mutari de non albo in non
+nigrum: et hoc est quod dicitur, ex non subiecto in non subiectum. Aut ita quod terminus a quo sit affirmativus, et
+terminus ad quem sit negativus, ut si dicatur mutari de albo in non album: et hoc est quod dicit, ex subiecto in non
+subiectum. Aut ita, quod terminus a quo sit negativus et terminus ad quem affirmativus, ut si dicatur aliquid mutari de
+non albo in album: et hoc est quod dicit, ex non subiecto in subiectum. Exponit autem quod dixerat subiectum, scilicet
+id quod affirmative significatur.
+[83936] In Metaphysic., lib. 11 l. 11 n. 11
+Harum autem quatuor combinationum, una est inutilis. Non enim est aliqua permutatio de non subiecto in non
+subiectum. Duae enim negationes, sicut non album, et non nigrum, neque sunt contraria, neque contradictoria, quia non
+sunt opposita. Possunt enim verificari de eodem. Multa enim sunt, quae neque alba neque nigra sunt. Unde, cum
+mutatio sit inter opposita, ut in primo physicorum probatum est, relinquitur quod de non subiecto in non subiectum, non
+sit permutatio. Et sic est necesse solum tres esse permutationes; scilicet duas secundum contradictionem, et unam
+secundum contrarietatem.
+[83937] In Metaphysic., lib. 11 l. 11 n. 12
+Deinde cum dicit quae quidem manifestat quid sint praedictae tres mutationes; et circa hoc tria facit. Primo ostendit
+quod duae earum sunt generatio et corruptio. Secundo ostendit quod neutra earum est motus, ibi, si itaque non ens.
+Tertio concludit quae mutatio dicatur motus, ibi, quoniam autem omnis motus et cetera. Dicit ergo primo, quod trium
+praedictarum mutationum illa quae est de non subiecto in subiectum, existens inter contradictorios terminos, vocatur
+generatio. Sed hoc contingit dupliciter. Quia aut est mutatio de non ente simpliciter in ens simpliciter, et tunc est
+generatio simpliciter. Et hoc quando mutabile subiectum mutatur secundum substantiam. Aut est de non ente in ens non
+simpliciter, sed secundum quid, sicut de eo quod non est album, in albo: et haec est generatio quaedam et secundum
+quid.
+[83938] In Metaphysic., lib. 11 l. 11 n. 13
+Illa vero mutatio, quae est de subiecto in non subiectum, dicitur corruptio. Et similiter in hac distinguitur simpliciter et
+secundum quid sicut in generatione.
+[83939] In Metaphysic., lib. 11 l. 11 n. 14
+Deinde cum dicit si itaque ostendit philosophus quod neutra harum mutationum est motus. Et primo ostendit hoc de
+generatione. Secundo de corruptione, ibi, neque itaque corruptio motus. Dicit ergo primo, quod non ens dicitur
+multipliciter sicut et ens. Uno enim modo dicitur quod est secundum compositionem et divisionem propositionis. Et
+hoc, cum non sit in rebus, sed in mente, non potest moveri.
+[83940] In Metaphysic., lib. 11 l. 11 n. 15
+Alio modo dicitur ens et non ens secundum potentiam et actum. Et id quod est actu, est simpliciter ens. Quod autem est
+secundum potentiam tantum, est non ens. Dicit ergo, quod neque contingit moveri hoc non ens, quod quidem est
+secundum potentiam ens, sed non ens actu, quod est quasi oppositum enti in actu simpliciter.
+[83941] In Metaphysic., lib. 11 l. 11 n. 16
+Sed quare dixerit quod est oppositum enti simpliciter, manifestat, cum subdit: quod enim non album. Ens enim in
+potentia, quod opponitur enti in actu, quod non est ens simpliciter, contingit moveri; quia quod non est non album in
+actu, aut non bonum in actu, contingit moveri, sed tamen secundum accidens. Non enim ipsum non album movetur, sed
+subiectum in quo est haec privatio, quod est ens actu. Quod enim est non album, potest esse homo. Sed quod est non
+ens in actu simpliciter, idest secundum substantiam, nequaquam contingit moveri. Si, inquam, haec omnia vera sunt,
+impossibile est non ens moveri. Et si hoc verum est, impossibile est generationem esse motum, quia non ens generatur.
+Est enim generatio, ut dictum est, de non ente in ens. Unde, si generatio simpliciter esset motus, sequeretur quod non
+ens simpliciter moveretur.
+[83942] In Metaphysic., lib. 11 l. 11 n. 17
+Sed huic processui posset aliquis obviare, dicens, quod non ens non generatur nisi per accidens: per se enim generatur
+id quod est subiectum generationis, idest ens in potentia. Non ens autem significat privationem in materia. Unde non
+generatur nisi per accidens.
+[83943] In Metaphysic., lib. 11 l. 11 n. 18
+Sed hanc obviationem excludit, ibi, si enim et quam maxime. Dicens, quod licet ens non generetur nisi secundum
+accidens, tamen de eo quod generatur simpliciter, verum est dicere, quod est non ens. Et de quocumque est hoc verum
+dicere, impossibile est id moveri. Ergo subiectum mutationis impossibile est moveri. Et similiter impossibile est ipsum
+
+

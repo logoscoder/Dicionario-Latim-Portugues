@@ -1,0 +1,59 @@
+|#2 Dicit ergo primo manifestum esse ex supra dictis quod neque generatio est omnium, sicut ponebant illi qui
+dicebant corpora componi ex superficiebus; neque etiam generatio est nullius, sicut posuerant Parmenides et
+melissus.
+Deinde cum dicit: impossibile enim etc., perficit improbationem ponentium quod omnium est generatio.
+Hoc enim supra improbavit ostendendo quod corpora non componuntur ex superficiebus: posset autem aliquis
+dicere omnium corporum esse generationem multis aliis modis; et ideo Philosophus inducit hanc probationem
+universaliorem.
+Et dicit quod ex hoc potest confirmari quod non est omnium generatio, quia impossibile est quod sit generatio
+omnis corporis, nisi ponatur aliquod vacuum separatum a corporibus (quod quidem dicit, quia quidam Philosophi
+ponebant vacuum corporibus inditum, sicut democritus et Leucippus)p vacuum autem separatum dicitur locus
+qui non est repletus aliquo corpore, possibilis repleri, ut habetur in IV physic.. Ideo autem sequitur vacuum esse
+separatum, si omne corpus generatur, quia in loco in quo est corpus quod modo generatur, si locus ille fuisset
+prius isto corpore, necessarium erat quod esset ibi vacuum, cum nullum corpus esset ibi. Nullum autem corpus
+esset ibi prius, si omne corpus generatur.
+Unde ex hoc quod ponitur omne corpus generari, sequitur vacuum separatum esse.
+|#3 Deinde cum dicit: aliud quidem enim etc., excludit quandam obviationem. Posset enim aliquis dicere quod
+videmus unumquodque corporum generari, nullo vacuo existente. Sed ad hoc ipse respondet quod, cum fit
+quoddam corpus particulare, generatur ex alio corpore, puta ignis ex aere; et ita ante generationem ignis, aer erat
+in eodem loco; et sic non est vacuum. Sed si omne corpus generetur, non potest poni aliud corpus quod prius
+repleverit locum, quia praeter omne corpus non est aliud corpus: et ita oportebit quod corpus fieret ex non
+corpore. Impossibile est autem quod corpus fiat totaliter ex nulla praeexistente magnitudine corporali. Maxime
+enim fieret corpus actu, ex eo quod est potentia corpus. Et si quidem ita sit potentia hoc corpus, quod sit actu
+aliud corpus, non sequitur inconveniens: sic enim ponimus fieri ignem ex materia quae est potentia ignis, actu
+autem aer. Sed si esset ita potentia corpus, quod non esset actu aliquod aliud corpus, sicut oporteret ponere eos
+qui ponunt omne corpus generari, sequeretur quod ante generationem omnis corporis esset vacuum separatum.
+|#4 Est autem attendendum quod Aristoteles intendit hic probare non esse generationem omnis corporis, ita
+scilicet quod tota universitas corporum simul generetur: non autem intendit probare quod aliquod particulare
+corpus non generetur ex non corpore. Sic enim contra probationem Aristotelis haberet locum obviatio quam
+ponit simplicius in commento suo, scilicet quod non esset necesse esse vacuum, vel propter rarefactionem et
+condensationem, vel propter hoc quod, hoc corpore generato, aliud corrumpitur. Unde etiam non esset haec
+sufficiens probatio quam ipse aestimat, scilicet quod communium non est generatio, sed particularium (non enim
+est generatio hominis simpliciter, sed huius hominis): quia tota universitas corporis est sicut unum corpus
+completum in una specie existens, sicut in primo habitum est; nihil autem prohibet individuum quod est unum
+tantum in una specie, generari et corrumpi, sicut de Phoenice dicunt. Unde et per hoc non excluderetur generatio
+omnis corporis, quam Philosophus removere intendit. Nec etiam probatio Philosophi est contra sententiam fidei
+nostrae, qua ponimus totam universitatem corporum de novo incoepisse: quia non ponimus praeexistere locum,
+quod hic Philosophus supponit; neque ponimus generationem corporum ex eo quod est in potentia, sed per
+creationem.
+|#5 Deinde cum dicit: reliquum autem dicere etc., ostendit quomodo sit generatio et motus corporum. Et circa
+hoc duo facit: primo dicit de quo est intentio, et quo ordine id sit agendum; secundo exequitur propositum, ibi:
+sit itaque elementum etc..
+Dicit ergo primo quod, cum non sint omnia corpora generabilia, neque nulla, ut supra dictum est, reliquum est
+manifestare quorum corporum est generatio, et propter quid est, idest quae est causa generationis. Quae quidem
+consideratio inchoatur in hoc libro, sed perficitur in libro de generatione. Sed quia omnis cognitio est per aliqua
+prima, ex quibus definitiones et demonstrationes procedunt; manifestum est autem quod elementa quarumlibet
+rerum sunt prima inter ea quae insunt rebus (licet aliqua extrinseca principia possent esse priora, puta agens et
+finis); oportet quod ad cognoscendum generationem corporum, prius cognoscatur quae sunt elementa corporum
+generabilium et corruptibilium, et qua ratione sunt elementa, et ulterius quot sunt elementa, et qualia corpora. Ad
+hoc autem manifestandum, oportet accipere quasi suppositionem et principium, quae sit natura elementi; quod
+manifestatur per eius definitionem.
+|#6 Deinde cum dicit: sit itaque elementum etc., exequitur propositum ordine praedicto. Primo enim ostendit
+quae sit elementi natura, quam significat definitio; secundo quae et qualia sint corporum elementa, ibi: si itaque
+quod dictum est etc.; tertio inquirit quomodo sit corporum generatio, ibi: quoniam autem neque infinita etc..
+Circa primum duo facit: primo ponit partes definitionis elementi; secundo probat hanc elementi definitionem, ibi:
+tale enim etc..
+Circa primum, ponit tres partes definitionis elementi.
+137
+
+

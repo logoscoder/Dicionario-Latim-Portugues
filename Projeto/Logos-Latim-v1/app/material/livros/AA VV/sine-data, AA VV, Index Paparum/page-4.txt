@@ -1,0 +1,104 @@
+142.
+143.
+144.
+145.
+146.
+147.
+148.
+149.
+150.
+151.
+152.
+153.
+154.
+155.
+156.
+157.
+158.
+159.
+160.
+161.
+162.
+163.
+164.
+165.
+166.
+167.
+168.
+169.
+170.
+171.
+172.
+173.
+174.
+175.
+176.
+177.
+178.
+179.
+180.
+181.
+182.
+183.
+184.
+185.
+186.
+187.
+188.
+189.
+190.
+191.
+
+Silvester II (999-1003)
+Ioannes XVII (1003)
+Ioannes XVIII (1003-1009)
+Sergius IV (1009-1012)
+Benedictus VIII (1012-1024)
+Ioannes XIX (1024-1032)
+Benedictus IX (1032-1045)
+Silvester III (1045)
+Benedictus IX (1045)
+Gregorius VI (1045-1046)
+Clemens II (1046-1047)
+Benedictus IX (1047-1048)
+Damasus II (1048)
+Sanctus Leo IX (1049-1054)
+Victor II (1055-1057)
+Stephanus X (1057-1058)
+Nicholaus II (1058-1061)
+Alexander II (1061-1073)
+Sanctus Gregorius VII (1073-1085)
+Beatus Victor III (1086-1087)
+Beatus Urbanus II (1088-1099)
+Paschalis II (1099-1118)
+Gelasius II (1118-1119)
+Callistus II (1119-1124)
+Honorius II (1124-1130)
+Innocentius II (1130-1143)
+Caelestinus II (1143-1144)
+Lucius II (1144-1145)
+Beatus Eugenius III (1145-1153)
+Anastasius IV (1153-1154)
+Hadrianus IV (1154-1159)
+Alexander III (1159-1181)
+Lucius III (1181-1185)
+Urbanus III (1185-1187)
+Gregorius VIII (1187)
+Clemens III (1187-1191)
+Caelestinus III (1191-1198)
+Innocentius III (1198-1216)
+Honorius III (1216-1227)
+Gregorius IX (1227-1241)
+Caelestinus IV (1241)
+Innocentius IV (1243-1254)
+Alexander IV (1254-1261)
+Urbanus IV (1261-1264)
+Clemens IV (1265-1268)
+Beatus Gregorius X (1271-1276)
+Beatus Innocentius V (1276)
+Hadrianus V (1276)
+Ioannes XXI (1276-1277)
+Nicholaus III (1277-1280)
+4
+
+

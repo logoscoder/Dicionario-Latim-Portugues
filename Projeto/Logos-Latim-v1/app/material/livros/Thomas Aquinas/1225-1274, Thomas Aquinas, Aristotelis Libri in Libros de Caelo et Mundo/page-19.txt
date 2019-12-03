@@ -1,0 +1,60 @@
+figurarum. Potest autem dici quod Philosophus hic ex hypothesi loquitur, et non simpliciter. Si enim aliquid esset
+contrarium circulari, maxime contrariaretur sibi rectum, ratione supra dicta. Potest etiam dici quod in quolibet
+genere invenitur contrarietas differentiarum, ut patet X metaphys., licet non sit in omni genere contrarietas
+specierum: etsi enim rationale et irrationale sint contrariae differentiae, non tamen homo et asinus sunt contrariae
+species.
+Sic igitur ponitur contrarietas inter rectum et circulare, non sicut inter species, sed sicut inter differentias
+eiusdem generis. Huiusmodi autem contrarietas, quae posset attendi in motibus secundum differentiam recti et
+circularis, non est contrarietas corruptiva, qualem intendit hic Philosophus excludere a corpore caelesti, sicut est
+contrarietas calidi et frigidi: contrarietatem autem secundum differentias aliquorum generum nihil prohibet in
+corpore caelesti esse, puta sicut par vel impar, vel secundum aliquid huiusmodi.
+Obiicit autem ioannes grammaticus contra id quod Philosophus videtur ponere concavum et gibbosum opponi
+secundum relationem: quia relativa videntur simul esse, concavum autem et gibbosum non sunt simul ex
+necessitate: potest enim esse aliquod corpus sphaericum exterius convexum absque hoc quod sit interius
+concavum.
+Sed in hoc deceptus fuit: quia Philosophus hic loquitur de concavo et convexo secundum quod inveniuntur in
+linea circulari, non autem secundum quod inveniuntur in corpore sphaerico, in quo unum potest esse sine altero,
+non autem in linea.
+|#6 Deinde cum dicit: deinde si quis existimat etc., ostendit non esse contrarietatem in partibus motus circularis.
+Et primo excludit contrarietatem a partibus huius motus; secundo ostendit quod contrarietas partium non
+sufficeret ad contrarietatem totius, ibi: si autem et istae contrariae etc.. Circa primum tria facit: primo ostendit
+quod non est contrarietas in partibus motus circularis quae accipiuntur secundum diversas portiones circuli, quae
+designantur inter duo puncta; secundo ostendit quod non est contrarietas in partibus motus circularis quae
+accipiuntur secundum eundem semicirculum, ibi: similiter autem et quae in semicirculo etc.; tertio ostendit quod
+non est contrarietas in partibus motus circularis quae accipiuntur secundum duos semicirculos, ibi: similiter
+autem et utique etc..
+Dicit ergo primo quod posset aliquis existimare quod eadem sit ratio contrarietatis in motu qui est per lineam
+circularem, et in motu qui est per lineam rectam. Si enim designetur una linea recta inter duo puncta quae sunt a
+et b, manifestum est quod motus localis qui fiet super lineam rectam ab a in b, contrarius erit motui locali qui fiet
+e converso a b in a. Sed non est similis ratio si describatur una linea circularis super duo puncta quae sunt a et b:
+quia inter duo puncta non potest esse nisi una linea recta, sed inter duo puncta possunt describi infinitae lineae
+curvae, quae sunt diversae portiones circulorum.
+Sequeretur igitur, si motui qui est ab a in b per lineam circularem, esset contrarius motus qui est a b in a
+secundum lineam circularem, quod infiniti motus essent contrarii uni.
+Est autem attendendum quod, loco huius quod debuit dicere, quod linea recta est una inter duo puncta, dixit quod
+lineae rectae sunt finitae: quia si accipiamus in diversis locis duo puncta, erunt inter ea lineae rectae finitae; sed
+inter quaelibet duo puncta poterunt describi lineae curvae infinitae.
+|#7 Obiicit autem contra hanc rationem ioannes grammaticus, quia non videtur sequi quod uni motui sint infiniti
+motus contrarii, sed infiniti infinitis: quia secundum unamquamque portionem circuli qui describitur super duo
+puncta, erunt duo motus sibi invicem contrarii. Item videtur quod sit idem inconveniens quod sequitur ex
+contrarietate motuum rectorum. Manifestum est enim quod sicut inter duo puncta possunt describi infinitae
+lineae curvae, ita a centro mundi ad circumferentiam possunt describi infinitae lineae rectae.
+Sed dicendum est ad primum quod, si contrarietas sit motuum qui fiunt per lineas curvas secundum
+contrarietatem terminorum, sicut accidit in motibus rectis, sequitur ex hac suppositione quod quilibet motus qui
+fit a b in a per quamcumque linearum curvarum, sit contrarius motui qui est ab a in b: et sic sequetur quod non
+solum uni motui sint infiniti motus contrarii, sed quod cuilibet infinitorum motuum ex una parte incipientium,
+contrarientur infiniti motus qui incipiunt ex parte contraria. Ad secundum dicendum quod omnes infinitae lineae
+rectae quae sunt a centro ad circumferentiam, sunt aequales, et ideo designant eandem distantiam inter contrarios
+terminos; et ideo in omnibus est eadem ratio contrarietatis, quae importat maximam distantiam.
+Sed omnes lineae curvae infinitae quae describuntur super eadem puncta, sunt inaequales: unde non est in eis
+eadem ratio contrarietatis, quia non est una et eadem distantia accepta secundum quantitatem lineae curvae.
+|#8 Deinde cum dicit: similiter autem et quae in semicirculo etc., ostendit quod non sit contrarietas in motu
+circulari secundum unum et eundem semicirculum.
+Posset enim aliquis dicere quod motui qui est super unam lineam curvam ab a in b, non contrariatur quilibet
+motus qui est a b in a per quamcumque lineam curvam, sed per unam et eandem, puta per unum semicirculum.
+Sit autem semicirculus gd, et sit ita quod motus qui est per semicirculum a g ad d, contrarietur motui qui est
+super eundem semicirculum a d ad g. Sed contra hoc procedit Aristoteles ex hoc quod eadem distantia reputatur
+quae est inter g et d per semicirculum, illi distantiae quae accipitur per diametrum: non quod semicirculus sit
+19
+
+

@@ -1,0 +1,59 @@
+De finitate motus et temporis
+Printed Source: Die Philosophischen Werke des Robert Grosseteste, Bischofs von Lincoln (Münster i. W.,
+Aschendorff, 1912.), pp. 101 - 106.
+INC: Primum argumentum, quod ponit Aristoteles ad probandum perpetuitatem motus est hoc: Motus aut est
+perpetuus, aut fuit motus primus ante quem non fuit alius.
+EXPL: Stabit ergo caelum et finietur motus et tempus, cum cessabit hominum generatio.
+p. 101: Primum argumentum, quod ponit Aristoteles ad probandum perpetuitatem motus est hoc: Motus aut est
+perpetuus, aut fuit motus primus ante quem non fuit alius.Si fuit motus primus ante quem non fuit alius, ergo
+motus alius fuit postquam non fuit. Sed omne, quod est postquam non fuit, prius fuit in potentia, quia omne,
+quod est et prius non fuit, fuit in potentia. Sed omne, quod de potentia priore exit ad actum, non exit ad actum
+nisi per motum praecedentem. Si ergo motus primus de potentia priore exit ad actum, non exit ad actum nisi per
+motum praecedentem. Ergo si motus primus exivit de potentia ad actum, motum primum praecessit motus alius;
+et ita motus primus non est motus primus, quod est inconveniens.
+p. 101: Haec autem propositio: "omne quod est, de potentia priore exit in actum per motum praecedentem" sic
+ostenditur: Cum aliquid est in potentia et nondum egreditur in actum, aut hoc est, quia causa efficiens nondum
+est, aut si est, insufficiens est aut impeditur, aut quia illud in quod agit efficiens, nondum est, aut si hoc fuerit,
+quia agens et illud in quod agit disiuncta sunt. Sed si agens nondum est, oportet, ut per motum fiat. Si
+insufficiens est, oportet, ut per motum fiat sufficiens. Similiter si illud, in quod agat agens, nondum est, aut si
+disiuncta sunt, necesse est, illud passim per motum fieri, aut ista disiuncta per motum coniungi.
+p. 101: Et ut ad unum dicam: Causa, quare aliquid quod est in potentia nondum egreditur ad actum, est defectus
+alicuius conditionis ex parte agentis, vel ex parte patientis. Quam conditionem oportet acquiri per motum,
+antequam fiat de potentia agente actu agens. Ita in omni, quod fit sub tempore, necesse est, eius fieri praecedere
+motum alium non disiunctum a sequente per quietem.
+p. 102: Et in hac ratiocinatione manifestum est, quod omne, quod fit, necesse est reduci ad motum continuum
+circularem.
+p. 102: Haec autem ratiocinatio, quae convincit, primum motum non fuisse, convincit etiam, quod non fuit motus
+ante motum infinitum, ita quod fuit aliquando quies absque motu intermedio.
+p. 102: Dico autem, quod haec ratiocinatio Aristotelis et philosophorum est diminuta. Quod enim dicitur "motus
+aliquando primo fuit, postquam non fuit", distinguendum est, quia, si haec dictio "postquam" significet ordinem
+temporalem, implicata est in sermone ideo contradictio, quia implicatur, quod tempus praecesserit primum
+principium motus et ita, quod motus fuerit ante motum primum et tempus ante tempus primum, quod est
+impossibile. Et non est haec divisio sufficiens: motus aut est perpetuus et sine initio, aut fuit postquam non fuit,
+quia sub neutram partem divisionis cadit mundus, vel tempus, vel motus, vel aliquid, cuius esse est esse cum
+tempore, quia nullum horum est sine initio. Nec tamen aliquod horum habet initium sub tempore; tamen apud
+imaginationem ponentem, quod idem est esse sine initio et habere esse extensum per moram infinitam, est illa
+divisio necessaria. Si autem haec dictio "postquam" significet ordinem temporis ad aeternitatem et fuit primo
+positum, quod significet tempus et secundo aeternitatem, verum est, quod mundus et tempus et motus fuerunt
+postquam non fuerint, et priusquam essent, fuerunt in potentia, ut designetur prioritas aeternitatis ad tempus et
+"potentia" non dicat potentiam causae materialis, sed solum potentiam causae efficientis. Haec autem propositio:
+"Omne, quod de potentia priore exit ad actum etc." vera est, si significetur prioritas temporalis. Et sic tenet
+probatio illius. Et si significetur prioritas aeternorum ad temporalia facta, haec eadem supradicta ratiocinatio
+Aristotelis ostendit, quod non fuerunt mobilia prius quiescentia tempore infinito et coeperunt moveri.
+pp. 102 - 103: Quia autem primum motum oporteret praecedere alium motum, quaestio est an acquiretur nova
+conditio motori aut mobili, aut remotio impedimenti, per quam conditionem aut impedimenti remotionem de
+movente et moto in potentia facerent moventem et motum in effectu. Ratio autem Averrois, qua putat, quod
+intentio Aristotelis sit de perpetuitate motus unius continuantis motus ceteros est hoc, quod Aristoteles in
+septimo ostendit, quod in motis localiter necesse est esse primum motum et primum motorem. Cuius ostensioni
+ibi coniungitur haec ratiocinatio: convincitur primum motum moveri et primum motorem movere perpetuo
+secundum dispositionem eandem, qua alterum nunc movet et alterum nunc movetur; et est intentio secundum
+Averroëm ostendere, quod semper fuit et erit in dispositione, qua nunc est.
+p. 103: Secunda ratio Aristotelis de perpetuitate motus est haec: Si ponatur motus simpliciter generatus et habens
+initium: ergo eius non-esse praecessit eius esse; quia omne, quod habet initium, eius non-esse praecessit eius
+esse; alioquin, cum non-esse alicuius initiati fuerit ab aeterno et sine initio, et eius esse similiter fuit sine initio,
+quod est impossibile; ergo si motus simpliciter est habens initium, eius ease et eius non-esse dividuntur prioritate
+et posterioritate. Sed prius et posterius non sunt sine tempore. Ergo cum prioritate non-esse motus fuit tempus.
+Sed tempus non fuit sine motu. Ergo ante motum simpliciter fuit motus; quod est impossibile.
+1
+
+

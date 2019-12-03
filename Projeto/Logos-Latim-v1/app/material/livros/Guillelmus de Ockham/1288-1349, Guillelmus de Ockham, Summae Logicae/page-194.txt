@@ -1,0 +1,54 @@
+Similiter, proportionaliter, hic dictis et dictis in priori capitulo dicendum est de conuersione
+propositionum reduplicatiuarum de praeterito et de futuro.
+Circa conuersionem propositionum exclusiuarum est sciendum quod exclusiua non canuertitur in
+exclusiuam. Non enim sequitur 'tantum animal est hamo, igitur tantum homo est animal', sed ipsa conuertitur in
+uniuersalem, sicut sequitur 'tantum animal est homo, igitur omnis homo est animal'. Similiter sequitur 'tantum
+homo non currit, igitur omne non currens est homo'.
+Circa conuersionem propositionum exclusiuarum est sciendum quod exclusiua non canuertitur in
+exclusiuam. Non enim sequitur 'tantum animal est hamo, igitur tantum homo est animal', sed ipsa conuertitur in
+uniuersalem, sicut sequitur 'tantum animal est homo, igitur omnis homo est animal'. Similiter sequitur 'tantum
+homo non currit, igitur omne non currens est homo'.
+Et sicut dictum est de conuersione propositionum de praeterito et de futuro, ita dicendum est de
+conuersione talium exclusiuarum de praeterito et de futuro. Unde non sequitur 'omne album fuit Sortes', subiecto
+accepto pro eo quod est, 'igitur tantum Sortes fuit albus'; nam posito quod nihil sit modo album nisi Sortes et
+quod multi alii fuerunt albi, antecedens est uerum et consequens falsum. Et ideo non conuertitur isto modo sed
+sic 'omne album fuit Sortes, igitur tantum
+Et sicut dictum est de conuersione propositionum de praeterito et de futuro, ita dicendum est de
+conuersione talium exclusiuarum de praeterito et de futuro. Unde non sequitur 'omne album fuit Sortes', subiecto
+accepto pro eo quod est, 'igitur tantum Sortes fuit albus'; nam posito quod nihil sit modo album nisi Sortes et
+quod multi alii fuerunt albi, antecedens est uerum et consequens falsum. Et ideo non conuertitur isto modo sed
+sic 'omne album fuit Sortes, igitur tantum
+Sortes est albus'. Non tamen est conuersio mutua. Et sicut dictum est de ista, ita proportionaliter dictis in
+priori capitulo dicendum est de aliis exclusiuis.
+Sortes est albus'. Non tamen est conuersio mutua. Et sicut dictum est de ista, ita proportionaliter dictis in
+priori capitulo dicendum est de aliis exclusiuis.
+Circa conuersionem propositionum exceptiuarum est sciendum quod exceptiua non conuertitur in
+exceptiuam. Non enim sequitur 'omnis homo praeter Sortem currit, igitur aliquid currens praeter Sortem est
+homo', quia consequens est improprium. Sed exceptiua conuertitur in unam non-exceptiuam, cuius subiectum
+erit unum aggregatum ex praedicato exceptiuae et parte extra capta, mediante hoc toto 'quod non est', sic 'omnis
+homo praeter Sortem currit, igitur aliquod currens, quod non est Sortes, est homo'. Et ista
+'nullus homo praeter Sortem currit' conuertitur in istam 'nullum currens, quod non est Sortes, est homo'.
+'nullus homo praeter Sortem currit' conuertitur in istam 'nullum currens, quod non est Sortes, est homo'.
+Circa conuersionem prapasitionum in quibus ponuntur haec uerba 'incipit',
+'desinit' est sciendum quod non conuertuntur in prapositiones consimiles. Non enim sequitur 'aliquis
+homo incipit esse albus, igitur aliquod album incipit esse homo', sed debent tales propositiones sic conuerti
+'aliquis homo incipit esse albus, igitur aliquid, quod incipit esse album, est homo'. Et ita est de aliis.
+'desinit' est sciendum quod non conuertuntur in prapositiones consimiles. Non enim sequitur 'aliquis
+homo incipit esse albus, igitur aliquod album incipit esse homo', sed debent tales propositiones sic conuerti
+'aliquis homo incipit esse albus, igitur aliquid, quod incipit esse album, est homo'. Et ita est de aliis.
+Ex praedictis possunt elici modi conuersionum quarumcumque propositionum de inesse, siue sunt de
+praesenti siue de praeterito siue de futuro, siue etiam sint categoricae non aequiualentes propositionibus
+hypotheticis siue sint aequiualentes eis.
+Ex praedictis possunt elici modi conuersionum quarumcumque propositionum de inesse, siue sunt de
+praesenti siue de praeterito siue de futuro, siue etiam sint categoricae non aequiualentes propositionibus
+hypotheticis siue sint aequiualentes eis.
+[2.24. DE CONVERSIONE PROPOSITIONUM MODALIUM.
+ET PRIMO DE CONVERSIONE PROPOSITIONUM DE NECESSARIO]
+ET PRIMO DE CONVERSIONE PROPOSITIONUM DE NECESSARIO]
+Viso quomodo propositiones de inesse conuertuntur, uidendum est quomodo propositiones modales
+conuertuntur. Et primo de conuersione propositionum de necessario.
+Viso quomodo propositiones de inesse conuertuntur, uidendum est quomodo propositiones modales
+conuertuntur. Et primo de conuersione propositionum de necessario.
+194
+
+

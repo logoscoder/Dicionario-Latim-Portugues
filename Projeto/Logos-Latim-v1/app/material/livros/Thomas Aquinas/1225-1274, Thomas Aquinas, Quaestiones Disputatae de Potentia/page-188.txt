@@ -1,0 +1,62 @@
+RA10
+Ad decimum dicendum, quod secundum ordinem agentium est ordo finium, ita quod primo agenti respondet
+finis ultimus, et proportionaliter per ordinem alii fines aliis agentibus.
+Si enim considerentur rector civitatis et dux exercitus et unus singularis miles, constat quod rector civitatis est
+prior in ordine agentium, ad cuius imperium dux exercitus ad bellum procedit; et sub eo est miles, qui secundum
+ordinationem ducis exercitus manibus pugnat. Finis autem militis est prosternere hostem; quod ulterius ordinatur
+ad victoriam exercitus, quod est finis ducis; et hoc ulterius ordinatur ad bonum statum civitatis vel regni, quod
+est finis rectoris et regis. Esse ergo quod est proprius effectus et finis in operatione primi agentis oportet quod
+teneat locum ultimi finis. Finis autem licet sit primum in intentione, est tamen postremum in operatione, et est
+effectus aliarum causarum. Et ideo ipsum esse creatum, quod est proprius effectus respondens primo agenti,
+causatur ex aliis principiis, quamvis esse primum causans sit primum principium.
+RA11
+Ad undecimum dicendum, quod aliqua propositio est per se nota de se, quae tamen huic vel illi non est per se
+nota; quando scilicet praedicatum est de ratione subiecti, et tamen ratio subiecti est alicui ignota; sicut si aliquis
+nesciret quid est totum, non esset ei nota ista propositio per se, omne totum est maius sua parte; huiusmodi enim
+propositiones fiunt notae cognitis terminis, ut dicitur I posteriorum. Haec autem propositio, Deus est, quantum
+est de se, est per se nota, quia idem est in subiecto et praedicato; sed quantum ad nos non est per se nota, quia
+quid est Deus nescimus: unde apud nos demonstratione indiget, non autem apud illos qui Dei essentiam vident.
+|a3 Articulus 3
+TTA
+Tertio quaeritur utrum Deus sit in aliquo genere.
+TTB
+Et videtur quod sic.
+AG1
+Dicit enim Damascenus: substantia in divinis significat communem speciem similium specie personarum;
+hypostasis autem demonstrat individuum, scilicet patrem et filium et spiritum sanctum, Petrum et Paulum.
+Comparatur ergo Deus ad patrem et filium et spiritum sanctum sicut species ad individua. Sed ubicumque est
+invenire speciem et individuum, ibi est invenire genus: quia species constituitur ex genere et differentia. Ergo
+videtur quod Deus sit in aliquo genere.
+AG2
+Praeterea, quaecumque sunt et nullo modo differunt, sunt penitus eadem. Sed Deus non est idem rebus aliis.
+Ergo aliquo modo differt ab eis. Omne autem quod ab alio differt, aliqua differentia ab eo differt. Ergo in Deo est
+aliqua differentia, qua differt a rebus aliis. Non autem accidentalis, cum in Deo nullum sit accidens, ut boetius
+dicit in lib.
+De Trin.. Omnis autem substantialis differentia est alicuius generis divisiva. Ergo Deus est in aliquo genere.
+AG3
+Praeterea, idem dicitur genere et specie et numero, ut habetur I topic., cap. VI. Ergo et diversum similiter: nam si
+multipliciter dicitur unum oppositorum, et reliquum. Aut ergo Deus est diversus a creatura numero tantum vel
+numero et specie tantum; et sic, sequitur quod, cum creatura in genere conveniat, et sic erit in genere. Si autem
+genere a creatura differat, oportebit etiam quod sit in aliquo alio genere quam creatura: nam diversitas ex
+multitudine causatur, et sic diversitas generis multitudinem generum requirit.
+Ergo quolibet modo dicatur, oportet quod Deus sit in genere.
+AG4
+Praeterea, cuicumque convenit ratio generis substantiae, est in genere. Sed ratio substantiae est per se existere,
+quod maxime convenit Deo. Ergo Deus est in genere substantiae.
+AG5
+Praeterea, omne quod definitur, oportet quod sit in genere. Sed Deus definitur: dicitur enim quod est actus purus.
+Ergo Deus est in aliquo genere.
+AG6
+Praeterea, omne quod praedicatur de alio in eo quod quid, et est in plus, vel se habet ad ipsum sicut species, vel
+sicut genus.
+Sed omnia quae praedicantur de Deo, praedicantur in eo quod quid: nam omnia praedicamenta, cum in divinam
+praedicationem venerint, in substantiam vertuntur, ut dicit boetius: patet etiam quod non soli Deo conveniunt,
+sed etiam aliis; et ita sunt in plus. Ergo vel comparantur ad Deum sicut species ad individuum vel sicut genus ad
+speciem; et utrolibet modo oportet Deum esse in genere.
+AG7
+Praeterea, unumquodque mensuratur minimo sui generis, ut dicitur X metaph..
+Sed, sicut dicit Commentator ibidem, id quo mensurantur omnes substantiae, est Deus. Ergo Deus est in eodem
+genere cum aliis substantiis.
+188
+
+

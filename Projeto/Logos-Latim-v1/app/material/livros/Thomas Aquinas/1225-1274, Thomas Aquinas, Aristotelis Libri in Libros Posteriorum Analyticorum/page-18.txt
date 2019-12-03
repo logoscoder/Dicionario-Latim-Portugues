@@ -1,0 +1,56 @@
+|#1 Postquam notificavit Aristoteles quid sit universale, hic ostendit quomodo in acceptione universalis errare
+contingat.
+Et circa hoc tria facit: primo, dicit quod aliquando circa hoc peccare contingit; secundo, assignat quot modis; ibi:
+oberramus etc.; tertio, dat documentum quomodo possit cognosci utrum vere acceptum sit universale; ibi: utrum
+autem secundum quod etc..
+|#2 Dicit ergo primo quod ad hoc, quod non accidat in demonstratione peccatum, oportet non latere quod
+multoties videtur demonstrari universale, non autem demonstratur.
+|#3 Deinde cum dicit: oberramus autem etc., assignat modos quibus circa hoc errare contingit.
+Et circa hoc duo facit. Primo, enumerat ipsos modos, dicens quod tripliciter contingit decipi circa acceptionem
+universalis.
+Primo quidem, cum nihil aliud sit accipere sub aliquo communi cui primo competit universale, quam hoc
+singulare, cui inconvenienter assignatur.
+Sicut si sensibile, quod primo et per se inest animali, assignaretur ut universale primum homini, nullo alio
+animali existente. Unde notandum quod singulare hic large accipitur pro quolibet inferiori, sicut si species
+dicatur singulare sub genere contentum. Vel potest dici quod non est possibile invenire aliquod genus, cuius una
+tantum sit species. Genus enim dividitur in species per oppositas differentias; oportet autem, si unum
+contrariorum invenitur in natura, et reliquum inveniri, ut patet per Philosophum in II de caelo et mundo; et ideo
+si una species invenitur, invenitur et alia. Una autem species dividitur in diversa individua per divisionem
+materiae.
+Contingit autem totam materiam alicui speciei proportionatam, sub uno individuo comprehendi, et tunc non est
+nisi unum individuum sub una specie. Unde et signanter de singulari mentionem facit.
+|#4 Secundus modus est, quando est quidem accipere sub aliquo communi multa inferiora, sed tamen illud est
+commune innominatum, quod invenitur in rebus differentibus specie. Sicut si animali non esset nomen
+impositum, et sensibile, quod est proprium animalis, assignaretur ut universale primum his quae sub animali
+continentur, vel divisim vel coniunctim.
+|#5 Tertius modus est, quando illud de quo demonstratur aliquid, ut universale primum, se habet ad id quod
+demonstratur de eo, sicut totum ad partem. Sicut si posse videre assignaretur animali ut universale primum. Non
+enim omne animal potest videre. Inest enim his, quae sunt in parte, idest quae particulariter et non universaliter
+alicui subiecto conveniunt, demonstratio, idest quod demonstrari possint, et erit quidem demonstratio de omni,
+non tamen respectu huius de quo demonstratur.
+Posse enim videre demonstratur quidem de aliquo universaliter, non tamen universaliter de animali, sicut de eo
+cui primo insit. Et exponit quid sit primum, secundum quod demonstratio fertur, quod est universale primum.
+|#6 Secundo; ibi: si igitur etc., subiungit exempla ad praedictos modos, et primo ad tertium, dicens quod, si quis
+demonstret de lineis rectis quod non intercidant, idest non concurrant, videbitur huiusmodi esse demonstratio,
+scilicet universalis primi, propter hoc quod non concurrere inest aliquibus lineis rectis. Non autem ita quod hoc
+fiat, nisi lineae rectae sint aequales, idest aeque distantes. Sed si lineae fuerint aequales, idest aeque distantes,
+tunc non concurrere convenit eis in quolibet, quia universaliter verum est quod lineae rectae aeque distantes,
+etiam si in infinitum protrahantur, in neutram partem concurrent.
+|#7 Secundo; ibi: et si triangulus etc., ponit exemplum ad primum modum, dicens quod si non esset alius
+triangulus, quam isosceles, qui est triangulus duorum aequalium laterum, quod est trianguli in quantum
+huiusmodi, videretur esse isoscelis secundum quod est isosceles: nec tamen hoc esset verum.
+|#8 Tertio; ibi: et proportionale etc., exemplificat de secundo modo. Et videtur hoc ultimo ponere, quia circa
+hoc diutius immoratur. Et circa hoc tria facit: primo, ponit exemplum; secundo, inducit quoddam corollarium ex
+dictis; ibi: propter hoc nec si aliquis etc.; tertio, assignat rationem dictorum; ibi: quando igitur non novit etc..
+Circa primum sciendum est quod proportio est habitudo unius quantitatis ad alteram, sicut sex ad tria se habent
+in proportione dupla. Proportionalitas vero est collatio duarum proportionum. Quae, si sit disiuncta, habet
+quatuor terminos; ut hic: sicut se habent quatuor ad duo, ita sex ad tria: si vero sit coniuncta, habet tres terminos:
+nam uno utitur ut duobus; ut hic: sicut se habent octo ad quatuor, ita quatuor ad duo. Patet autem quod in
+proportione duo termini se habent ut antecedentia; duo vero ut consequentia; ut hic: sicut se habent quatuor ad
+duo, ita se habent sex ad tria; sex et quatuor sunt antecedentia: tria vero et duo sunt consequentia. Permutata ergo
+proportio est quando antecedentia invicem conferuntur, et consequentia similiter. Ut si dicam: sicut se habent
+quatuor ad duo, ita se habent sex ad tria; ergo sicut se habent quatuor ad sex, ita se habent duo ad tria. Dicit ergo
+quod esse proportionale commutabiliter convenit numeris, et lineis, et firmis, idest corporibus, et temporibus.
+18
+
+

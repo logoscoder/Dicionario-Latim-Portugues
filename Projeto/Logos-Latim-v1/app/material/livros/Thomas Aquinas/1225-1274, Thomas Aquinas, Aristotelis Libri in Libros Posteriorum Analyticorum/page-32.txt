@@ -1,0 +1,56 @@
+quantum illa scientia assumit principia alterius scientiae; sicut geometra probat sua principia secundum quod
+assumit formam Philosophi primi, idest metaphysici.
+|#6 Deinde cum dicit: neque omnem interrogationem etc., ostendit quod in qualibet scientia sunt propriae
+responsiones et disputationes. Et primo quod sint propriae responsiones; secundo, quod sint propriae
+disputationes; ibi: si autem disputat etc.. Dicit ergo primo, quod ex praedictis patet quod non contingit
+unumquemque scientem de qualibet quaestione interrogare. Unde etiam patet quod non contingit de quolibet
+interrogato respondere: sed solum de his quae sunt secundum propriam scientiam: eo quod ad eamdem scientiam
+pertinet interrogatio et responsio.
+|#7 Et quia ex interrogatione et responsione fit disputatio, consequenter ostendit quod in qualibet scientia est
+propria disputatio, dicens quod si disputet geometra cum geometra, secundum quod geometra, idest de his quae
+ad geometriam pertinent, manifestum est quod bene procedit disputatio, si tamen non solum fiat disputatio de eo
+quod est geometriae, sed etiam ex principiis geometricis procedatur. Si vero non sic fiat disputatio in geometria,
+non bene disputatur. Si enim aliquis disputet cum geometra non de geometricis, manifestum est quod non arguit,
+idest non convincit, nisi per accidens: puta si sit disputatio de musica et contingat geometram per accidens esse
+musicum. Unde manifestum est quod non est in non geometricis de geometria disputandum, quia non poterit
+iudicari per principia illius scientiae, utrum bene disputetur vel male. Et similiter se habet in aliis scientiis.
+|+22 Lectio 22
+|#1 Postquam ostendit Philosophus quod in qualibet scientia sunt propriae interrogationes, responsiones et
+disputationes; hic ostendit quod in qualibet scientia sunt propriae deceptiones et ignorantiae.
+Et dividitur in partes duas: in prima, movet quasdam quaestiones; in secunda, solvit; ibi: secundum geometriam
+vero etc..
+|#2 Ponit ergo primo tres quaestiones, quarum prima est. Cum sint quaedam interrogationes geometricae, ut
+ostensum est, nonne sunt etiam quaedam non geometricae? et quod quaeritur de geometria, potest de qualibet
+alia scientia quaeri.
+Secundam quaestionem ponit; ibi: et secundum unamquamque etc., quae talis est. Utrum interrogationes quae
+sunt secundum ignorantiam, quae est in unaquaque scientia, possint dici geometricae, et similiter alicui alii
+scientiae propriae? dicuntur autem interrogationes secundum ignorantiam alicuius scientiae, quando interrogatur
+de his, quae sunt contra veritatem scientiae illius.
+Tertiam quaestionem ponit; ibi: et utrum secundum ignorantiam etc., quae talis est. In unaquaque quidem
+scientia accidit decipi per aliquem syllogismum, quem vocat secundum ignorantiam.
+Contingit autem per aliquem syllogismum deceptionem accidere dupliciter: uno modo, quia peccat in materia,
+procedens ex falsis; alio modo, quia peccat in forma, non servando debitam figuram et modum. Et est differentia
+inter hos modos duos: quia ille qui peccat in materia, syllogismus est, cum observentur omnia, quae ad formam
+syllogismi pertinent. Ille autem qui peccat in forma non est syllogismus, sed paralogismus, idest apparens
+syllogismus. In dialecticis quidem utroque modo contingit deceptionem fieri.
+Unde et in I topicorum Aristoteles facit mentionem de litigioso, qui est syllogismus, et de peccante in forma, qui
+non est syllogismus, sed apparens. Est ergo quaestio, utrum syllogismus ignorantiae, qui fit in scientiis
+demonstrativis, sit syllogismus ex oppositis scientiae, idest ex falsis procedens, aut paralogismus, scilicet
+peccans in forma: qui non est syllogismus, sed apparens.
+|#3 Deinde cum dicit: secundum geometriam etc., solvit praedictas quaestiones: et primo, solvit primam;
+secundo, secundam; ibi: de geometria autem etc.; tertio, tertiam; ibi: in doctrinis autem etc.. Dicit ergo primo
+quod interrogatio omnino non geometrica est illa, quae omnino fit ex alia arte, sicut ex musica. Ut si quaeratur in
+geometria, utrum tonus possit dividi in duo semitonia aequalia; talis interrogatio est omnino non geometrica:
+quia est ex his, quae nullo modo ad geometriam pertinent.
+|#4 Deinde cum dicit: de geometria autem etc., solvit secundam quaestionem dicens quod interrogatio de
+geometria, idest de his quae pertinent ad geometriam, cum interrogatur de aliquo quod est contra veritatem
+geometriae (sicut si fiat quaestio de hoc quod est parallelas subire, idest lineas aeque distantes concurrere), est
+quodammodo geometrica et quodammodo non geometrica.
+Sicut enim arrhythmon, idest quod est sine rhythmo vel sono, dupliciter dicitur, uno modo, quod nullo modo
+habet sonum, ut lana, alio modo, quod habet pravum sonum, sicut campana non bene sonans; ita et interrogatio
+non geometrica dicitur dupliciter. Uno modo, quia est omnino non geometrica, quasi nihil habens geometriae,
+sicut quaestio de musica proposita. Alio modo, quia prave habet id quod geometriae est; quia videlicet habet
+contrarium geometricae veritati. Ista ergo interrogatio, quae est de concursu linearum aeque distantium, non est
+32
+
+

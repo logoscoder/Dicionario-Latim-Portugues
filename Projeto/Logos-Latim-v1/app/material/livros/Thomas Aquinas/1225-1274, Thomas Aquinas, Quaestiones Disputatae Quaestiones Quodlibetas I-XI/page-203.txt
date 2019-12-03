@@ -1,0 +1,62 @@
+AG1
+Quia in Lib. De spiritu et anima dicitur, quod anima est quaedam sua, scilicet potentiae, quaedam vero sua non
+est, scilicet virtutes.
+AG2
+Praeterea, Augustinus dicit in Lib. De Trinit. Quod memoria, intelligentia et voluntas sunt una mens, una vita,
+una essentia.
+Sed haec tria, secundum magistrum, 3 dist.
+I Lib. Sentent., sunt tres animae vires. Ergo vires animae, sunt ipsa eius essentia.
+SC1
+Sed contra. Est quod dionysius distinguit superiores substantias, scilicet Angelos, in tria, scilicet substantiam,
+virtutem et operationem. Sed Angelus non est minoris simplicitatis quam anima.
+Ergo et in anima sua substantia non est sua virtus sive potentia.
+SC2
+Praeterea, eorum quae sunt idem, si unum multiplicetur, et reliquum. Si ergo anima sit idem quod suae potentiae,
+videtur, cum potentiae sint multae, quod essentia animae una esse non possit.
+CO
+Respondeo. Dicendum, quod de anima dupliciter loqui possumus.
+Uno modo secundum quod est quaedam substantia; et sic impossibile est quod anima sit suae potentiae, duplici
+ratione.
+Quarum una sumitur ex eo quod est animae proprium; quia scilicet impossibile est ut idem secundum idem sit
+naturaliter principium plurium et diversorum numero, immo quasi oppositorum. Anima autem secundum
+diversas potentias invenitur esse principium actuum diversorum secundum species, et quasi oppositorum. Unde
+impossibile est quod ipsa essentia animae, quae est una, sit immediatum horum principium. Et ideo oportet
+ponere in anima, praeter eius substantiam, potentias naturales, quae sunt horum actuum immediata principia.
+Secunda ratio sumitur ex eo quod est commune animae et omni substantiae creatae. In nulla enim substantia
+creata est idem esse et operatio; hoc enim solius Dei est. Essentia autem est essendi principium, potentia vero
+operationis. Ergo, cum ab uno naturaliter non sit nisi unum, nulla substantia, nisi divina, est sua potentia. Nec est
+instantia de potentia materiae, etiam dato quod sit una essentia; quia talis potentia non est ad operationem, sed ad
+esse.
+Alio modo possumus loqui de anima secundum quod est quoddam totum potentiale; et sic diversae potentiae
+sunt diversae partes eius: et ita anima praedicatur de potentiis, vel e converso, abusiva praedicatione, sicut totum
+integrale de suis partibus, vel e converso; quamvis minor sit abusio in toto potentiali quam integrali, quia totum
+potentiale secundum suam substantiam adest cuilibet parti, non autem integrale.
+RA
+Et per hoc patet solutio ad obiecta.
+|a2 Articulus 2
+TTA
+Utrum anima rationalis secundum suam substantiam sit incorruptibilis.
+TTB
+Ad secundum sic proceditur: videtur quod anima rationalis sit corruptibilis.
+AG1
+Quia, secundum Damascenum, nulla substantia potest esse sine propria operatione.
+Propria autem operatio animae rationalis est intelligere, quae indiget corpore, cum non sit intelligere sine
+phantasmate, ut patet per Philosophum in III de anima.
+Ergo destructo corpore substantia animae rationalis non manet.
+AG2
+Praeterea, illud quod habet virtutem ut sit semper, non invenitur quandoque esse et quandoque non esse; omnis
+enim res est quamdiu virtus rei exposcit. Ergo quod invenitur quandoque esse et quandoque non esse, non habet
+virtutem ut sit semper. Sed omne quod incepit esse, invenitur quandoque esse et quandoque non esse. Ergo nihil
+quod incepit esse habet virtutem ut sit semper; et ita nihil quod incepit esse, potest esse incorruptibile. Sed anima
+rationalis incepit esse. Ergo non potest esse incorruptibilis.
+AG3
+Praeterea, hominis compositi ex corpore et anima est quoddam esse. Aut ergo praeter hoc esse anima habet aliud
+esse, aut non.
+Si habet aliud esse, ergo compositio advenit animae post esse completum; ergo huiusmodi compositio est animae
+accidentalis; et sic homo non erit ens per se, sed ens per accidens; quod est inconveniens. Si autem non habet
+aliud esse anima praeter esse compositi, ergo postquam deficit esse compositi, anima esse non potest. Sed in
+morte corporali deficit esse compositi. Ergo anima post mortem corporis non remanet.
+AG4
+203
+
+

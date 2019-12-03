@@ -1,0 +1,59 @@
+|#11 Videtur quod secundum hoc concludi non possit quod motus circularis sit perfectus: additionem enim
+recipit, cum sit continuus et sempiternus, secundum Aristotelem. Ad quod dicendum est quod una circulatio
+habet complementum suae speciei, cum redierit ad principium a quo incoepit. Unde non fit additio ad eandem
+circulationem: sed quod sequitur, ad aliam circulationem pertinet.
+Item, si hoc solum perfectum dicitur, cui non potest fieri additio, sequitur quod neque homo neque aliquid aliud
+finitum in corporibus sit perfectum, cum eis possit additio fieri. Et dicendum quod huiusmodi dicuntur esse
+perfecta secundum speciem, inquantum non potest eis fieri additio alicuius quod pertineat ad rationem speciei
+ipsorum: lineae autem rectae fit additio eius quod pertinet ad speciem suam, et pro tanto dicitur imperfecta
+inquantum est linea.
+Praeterea videtur quod circulus non sit perfectus.
+Perfectum enim est in magnitudinibus quod habet tres dimensiones: hoc autem lineae circulari non competit. Et
+dicendum est quod linea circularis non est simpliciter magnitudo perfecta, quia non habet quidquid pertinet ad
+rationem magnitudinis: est tamen quoddam perfectum in linea, quia linealiter aliquid ei addi non potest.
+|#12 Videtur etiam falsum esse quod perfectum sit prius imperfecto. Simplex enim est prius composito, cum
+tamen compositum se habeat ad simplicia ut perfectum ad imperfecta. Ad quod dicendum quod perfectum ad
+imperfectum se habet sicut actus ad potentiam: qui quidem simpliciter est prior potentia in diversis; in uno autem
+et eodem, quod movetur de potentia ad actum, potentia est prior actu tempore, sed actus est prior secundum
+naturam; quia scilicet hoc est quod primo et principaliter natura intendit. Non autem Philosophus hic intendit
+quod perfectum sit prius imperfecto in uno et eodem, sed in diversis: nec etiam quod sit prius tempore, sed
+natura, sicut expresse dicit.
+|#13
+Item, videtur quod Philosophus inconvenienter argumentetur. Procedit enim ex perfectione lineae
+circularis ad probandum perfectionem circularis motus; ex cuius perfectione procedit ad probandum
+perfectionem circularis corporis; et sic videtur eius probatio esse circularis, quia linea circularis non videtur esse
+alia quam quae est ipsius corporis quod circulariter movetur. Et dicendum est quod motus circularis probatur
+esse perfectus ex perfectione lineae circularis absolute; ex perfectione autem motus circularis in communi,
+probatur hoc corpus quod circulariter movetur, esse perfectum; et sic non proceditur ab eodem in idem, sed ex
+communi ad proprium.
+|#14 Quartam rationem ponit ibi: et utique si quis etc.: quae quidem procedit ex duabus propositionibus
+suppositis. Quarum prima est, quod omnis motus simplex aut est secundum naturam, aut praeter naturam.
+Secunda est, quod motus qui est praeter naturam uni corpori, est alii corpori secundum naturam; sicut patet in
+motu qui est sursum, qui est secundum naturam igni et praeter naturam terrae; et in motu qui est deorsum, qui est
+naturalis terrae et praeter naturam igni. Manifestum est autem quod motus circularis inest alicui corpori, quod ad
+sensum circulariter movetur. Et si quidem talis motus sit ei naturalis, habebimus propositum, scilicet quod
+praeter quatuor elementa sit quoddam aliud corpus, quod circulariter movetur. Si autem motus circularis sit
+praeter naturam corpori quod circulariter fertur, sequitur ex praemissa suppositione quod sit alicuius alterius
+corporis secundum naturam: quod consequenter erit aliud in natura a quatuor elementis.
+|#15 Videtur autem Aristoteles sibi ipsi esse contrarius: nam supra probavit quod motus circularis non est
+praeter naturam corpori quod circulariter fertur, hic autem supponit contrarium.
+Dicunt igitur quidam quod Philosophus supra accepit praeter naturam pro eo quod est contra naturam: sic enim
+oportet quod motus contra naturam alicuius corporis, sit contrarius motui etiam naturali eiusdem, ut supra
+procedebat. Hic autem accipit praeter naturam communius, secundum quod praeter naturam idem est quod non
+secundum naturam. Sic autem in se comprehendit tam id quod est contra naturam, quam id quod est supra
+naturam: et hoc modo supponit hic quod aliquod corpus potest circulariter praeter naturam moveri; sicut dictum
+est supra quod ignis in sua sphaera circulariter movetur praeter naturam, delatus a motu caeli. Sed hoc videtur
+esse contra intentionem Aristotelis. Eodem enim modo videtur utrobique accipere praeter naturam: quia tam hic
+quam supra exemplificat de motu qui est sursum et deorsum, qui est uni corpori contra naturam et alteri
+secundum naturam.
+Et ideo dicendum est, et melius, quod Aristoteles in prima ratione probavit quod aliquod corpus secundum
+naturam circulariter movetur.
+Et quia posset aliquis dicere quod corpus quod videtur circulariter moveri, movetur hoc motu contra naturam,
+dupliciter contra hoc argumentatur: uno modo ostendendo quod iste motus non est contra naturam, ut patet in
+secunda ratione et etiam in tertia; alio modo ostendendo quod etiam si moveatur contra naturam, adhuc sequitur
+esse aliud corpus, quod secundum naturam movetur circulariter. Sic ergo quod supra negavit secundum
+veritatem propriae opinionis loquens, hic negat quasi utens suppositione adversariorum.
+
+10
+
+

@@ -1,0 +1,62 @@
+[PLLXIII:1229-30; text: Quinque toni, diatessaron intensa, numerus cum sua medietate, 393216, A, 2621444,
+131072, medietas A. 524288, B 349525 1/3, 174762 11/26, mediatas B, semis et sextans complent bessem et besse cum
+triente coniunctus reintegrat unitatem. differentia BC cum sua medietate, comma quo sex toni superant diapason aut
+quod quinque toni superant disdiante ut hic. 7153, C, 4768 2/3, 2384 1/3, medietas differentiae B. C hic triens et
+sextans rediti etiam integrum unum faciunt. diatessaron remissa, 531441, 354294, 177147, medietas C 708588, 472392
+D, 236196, medietas D. Sex toni.-- Excedent ergo sex toni diapason commate. Diapente ex Diatessaron et Tono,
+Numerus A cum sua medietate, Medietas, Numerus B cum sua medietate, 324288, 349525, 7476, 2384 1/3, Medietas
+differentiae, Numerus C cum sua medietate, Numerus D cum sua medietate, 47239, Sextussesquiocrauus cum sua
+medietate, 797161 1/2, 265720 1/2, Medietas sextus sesquioctauus] [BOEDIM3 04GF]
+[1229] V
+Quemadmodum Philolaus tonum diuidat.
+Philolaus uero Pythagoricus alio modo tonum diuidere tentauit; statuens scilicet primordium toni ab [1230] eo
+numero qui primus cubum a primo impari (quod maxime apud Pythagoricos honorabile fuit) efficeret. Nam cum
+ternarius numerus primus sit impar, tres tertio 9, atque id ter si duxeris, 27 necessario exsurgent, [1231] qui ad 24
+numerum tono distat, eamdem ternarii differentiam seruans. Ternarius enim 24 summae octaua pars est. Quae eisdem
+addita primum a ternario cubum 20 ac 7 reddit. Ex hoc igitur Philolaus duas efficit partes: unam quae dimidio sit maior,
+eamque apotomen uocat; reliquam quae dimidio sit minor, eamque rursus diesim dicit, quam posteri semitonium minus
+appellauere Herum uero differentiam comma ac primum diesim in 13 unitatibus constare arbitratur, eo quod hoc inter
+256 et 243 peruisa sit differentia. Quodque idem numerus, id est 13, ex nouenario ternario atque unitate consistat, quae
+unitas puncti obtineat locum.
+Ternarius uero primae imparis lineae. Nouenarius primi imparis quadrati. Ex his igitur causis cum 13 diesim
+ponat, quod semitonium nuncupatur, reliquam 27 numeri partem quae ex 14 unitatibus continetur, apotome esse
+constituit. Sed quoniam inter 13 et 14 unitas differentiam facit, unitatem loco commatis censet esse ponendam, totum
+uero tonum in 27 unitatibus locat, eo quod inter 216 ac 243 qui inter se distant tono 27 sit differentia.
+[PLLXIII:1231; text: Toni diuisio secundum Philolaum. 1, 13, 14, 27, Diesis, Apotome] [BOEDIM3 05GF]
+VI
+Tonum ex duobus semitoniis ac commate constare.
+Ex quibus facile apparet tonum duobus semitoniis minoribus et commate constare. Nam si totus tonus ex
+apotome constat ac semitonio, semitonium uero ab apotome differt commate; nihil est aliud apotome nisi semitonium
+minus et comma. Si igitur duo semitonia minora de tono quis auferat, comma fit reliquum.
+VII
+Demonstratio, tonum duobus semitoniis commate distare.
+Idem uero hoc quoque probabitur modo. Nam si diapason [1232] quinque tonis ac duobus minoribus
+semitoniis continetur, superantque sex toni diapason consonantiam uno commate, non est dubium quin tonis quinis ab
+utroque spatio sublatis fiant reliqua ex diapason quidem duo semitonia minora, de sex uero tonis tonus. Atque hic tonus
+haec duo semitonia quae relinquuntur uincit commate. Quod si duobus eisdem semitoniis comma reponatur, aequabunt
+tonum; constat igitur unum tonum duobus semitoniis minoribus et commati, quod in 7153 primis unitatibus inuenitur,
+aequari.
+VIII
+De minoribus semitonii interuallis.
+Philolaus igitur haec atque his minora spatia talibus diffinitionibus includit. Diesis, inquit, est spatium quo
+maior est sesquitertia proportio duobus tonis. Comma uero est spatium quo maior est sesquioctaua proportio duabus
+diesibus, id est duobus semitoniis minoribus. Schisma est dimidium commatis. Diaschisma uero dimidium dieseos, id
+est semitonii minoris. Ex quibus illud colligitur, quoniam tonus quidem diuiditur principaliter in semitonium minus
+atque apotomen. Diuiditur etiam in duo semitonia et comma, quo fit ut diuidatur in quatuor diaschismata et comma.
+Integrum uero dimidium toni quod est semitonium, constat ex duobus diaschismatibus, quod est unum semitonium
+minus, et schismate, quod est dimidium commatis.
+Quoniam cum totus tonus ex duobus semitoniis minoribus et commate coniunctus est, si quis id integre
+diuidere uelit, faciet unum semitonium minus commatisque dimidium. Sed unum semitonium minus diuiditur iu duo
+diachismata. Dimidium uero commatis unum schisma est.
+Recte igitur dictum est integre dimidium tonum in duo diaschismata atque unum schisma posse partiri. Quo fit
+ut integrum semitonium a minore semitonio uno schismate differre uideatur, apotome autem a minore semitonio
+duobus schismatibus differt, differt enim commate; sed duo schismata unum perficiunt comma.
+[PLLXIII:1231-32; text: Media toni pars, ex diesi et schismate, diaschisma medium dieseos, schisma,
+hemitonium minus diesis, comma, hemitonium maius apotome maior toni pars, hemitonium minus apotome maior toni
+pars, toni spatium] [BOEDIM3 05GF]
+[1233] IX
+De toni partibus per consonantias sumendis.
+Sed de his quidem hactenus. Nunc uero illud uidetur esse dicendum, quemadmodum per consonantias musicas
+imperata possimus spatia nunc extendere, nunc uero remittere. Id autem linealiter fiat, lineaeque quas describimus uocis
+
+

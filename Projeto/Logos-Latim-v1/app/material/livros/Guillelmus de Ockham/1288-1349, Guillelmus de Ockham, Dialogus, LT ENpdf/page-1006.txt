@@ -1,0 +1,32 @@
+7. For example, in OP, vol. 1, 3.353, 3.534, 4.279; vol. 4, CE 1.131, Brev., i.3.30.
+8. Any reader who can use the edition could of course understand an apparatus in Latin.
+However, the editors do not wish to pretend to a capacity to write Latin. Readers whose
+language is not English will understand "added", "omitted", etc., if they would have
+understood "add.", "om.", etc. "Gap" is the only English word they will need to learn.
+9. Offler does not give a lemma if it is clear what word is in question (see OP, vol. 1, p. 296,
+OND 1.110). The program "Critical Edition Typesetter" automatically generates a lemma for
+every variant.
+10. For additions Offler includes the next word of text after the addition (see OP, vol. 1, p.
+295, OND 1.68 - "ab" is the word added).
+11. Offler sometimes puts the siglum for a supporting witness before the colon separating
+lemma from variant. See OP, vol. 4, p. 15, CE Prol. 31, "noluerit".
+12. Offler italicises the title and uses small roman numerals to indicate the book, e.g. "Brev.
+ii.5.7".
+13. Offler's refers to the tracts of part 3 as "IusIIIae Dial." and "IIusIIIae Dial."
+14. Offler repeats in his footnotes references to the Decretum in the style used in Friedberg's
+"Index canonum", i.e in the order: c., di., or c., C., q. For the Decretales he gives numbers, as
+in Friedberg's "Tabula capitulorum", but whereas Friedberg separates the numbers by full
+stops Offler uses commas ("II,23,4"). For both he gives the column reference to Friedberg's
+edition. See for example OP, vol. IV, p. 103, notes to Brev. 1.5.7-8. The modern system of
+citation (of which Offler's is a variant) seems to have been invented during the nineteenth
+century. Ability to use the system Ockham followed (explained for example in Modus legendi
+abbreviaturas in utroque iure, with many reprints into the 16th century - see British Museum
+Catalogue) will be necessary to any reader who wishes to pursue Ockham's use of the canon
+law, since this will require use of the Gloss, which uses the medieval citation system. It
+therefore does not seem unreasonable to ask readers to become familiar with that system
+(especially since they can simply use the Friedberg column references).
+15. Offler sometimes uses superscripts and italics. See OP, vol. IV, p. 13
+
+1006
+
+

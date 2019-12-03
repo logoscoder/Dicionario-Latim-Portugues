@@ -1,0 +1,55 @@
+Hoc autem habet Aristoteles pro impossibili, quod scilicet aliquando nullus motus sit. Ergo primum non fuit
+contingens: quia ex falso contingenti non sequitur falsum impossibile. Et sic haec propositio, omne movens ab
+alio movetur, non fuit per accidens vera.
+|#18 Item, si aliqua duo sunt coniuncta per accidens in aliquo; et unum illorum invenitur sine altero, probabile
+est quod alterum absque illo inveniri possit: sicut, si album et musicum inveniuntur in socrate, et in Platone
+invenitur musicum absque albo, probabile est quod in aliquo alio possit inveniri album absque musico. Si igitur
+movens et motum coniunguntur in aliquo per accidens, motum autem invenitur in aliquo absque eo quod moveat,
+probabile est quod movens inveniatur absque eo quod moveatur.
+Nec contra hoc potest ferri instantia de duobus quorum unum ab altero dependet: quia haec non coniunguntur per
+se, sed per accidens.
+|#19 Si autem praedicta propositio est vera per se, similiter sequitur impossibile vel inconveniens. Quia vel
+oportet quod movens moveatur eadem specie motus qua movet, vel alia.
+Si eadem, ergo oportebit quod alterans alteretur, et ulterius quod sanans sanetur, et quod docens doceatur, et
+secundum eandem scientiam. Hoc autem est impossibile: nam docentem necesse est habere scientiam,
+addiscentem vero necesse est non habere; et sic idem habebitur ab eodem et non habebitur, quod est impossibile.
+Si autem secundum aliam speciem motus movetur, ita scilicet quod alterans moveatur secundum locum, et
+movens secundum locum augeatur, et sic de aliis; cum sint finita genera et species motus, sequetur quod non sit
+abire in infinitum. Et sic erit aliquod primum movens quod non movetur ab alio.
+Nisi forte aliquis dicat quod fiat reflexio hoc modo quod, completis omnibus generibus et speciebus motus,
+iterum oporteat redire ad primam: ut, si movens secundum locum alteretur et alterans augeatur, iterum augens
+moveatur secundum locum. Sed ex hoc sequetur idem quod prius: scilicet quod id quod movet secundum
+aliquam speciem motus, secundum eandem moveatur, licet non immediate sed mediate.
+|#20 Ergo relinquitur quod oportet ponere aliquod primum quod non movetur ab alio exteriori.
+|#21 Quia vero, hoc habito quod sit primum movens quod non movetur ab alio exteriori, non sequitur quod sit
+penitus immobile, ideo ulterius procedit Aristoteles, dicendo quod hoc potest esse dupliciter.
+Uno modo, ita quod illud primum sit penitus immobile. Quo posito, habetur propositum: scilicet, quod sit
+aliquod primum movens immobile.
+Alio modo, quod illud primum moveatur a seipso. Et hoc videtur probabile: quia quod est per se, semper est
+prius eo quod est per aliud; unde et in motis primum motum rationabile est per seipsum moveri, non ab alio.
+|#22 Sed, hoc dato, iterum idem sequitur. Non enim potest dici quod movens seipsum totum moveatur a toto:
+quia sic sequerentur praedicta inconvenientia, scilicet quod aliquis simul doceret et doceretur, et similiter in aliis
+motibus; et iterum quod aliquid simul esset in potentia et actu, nam movens, inquantum huiusmodi, est actu,
+motum vero in potentia. Relinquitur igitur quod una pars eius est movens tantum et altera mota. Et sic habetur
+idem quod prius: scilicet quod aliquid sit movens immobile.
+Non autem potest dici quod utraque pars moveatur, ita quod una ab altera; neque quod una pars moveat seipsam
+et moveat alteram; neque quod totum moveat partem; neque quod pars moveat totum: quia sequerentur
+praemissa inconvenientia, scilicet quod aliquid simul moveret et moveretur secundum eandem speciem motus; et
+quod simul esset in potentia et actu; et ulterius quod totum non esset primo movens se, sed ratione partis.
+Relinquitur ergo quod moventis seipsum oportet unam partem esse immobilem et moventem aliam partem.
+|#23 Sed quia in moventibus se quae sunt apud nos, scilicet in animalibus, pars movens, scilicet anima, etsi sit
+immobilis per se, movetur tamen per accidens; ulterius ostendit quod primi moventis seipsum pars movens non
+movetur neque per se neque per accidens.
+|#24 Moventia enim se quae sunt apud nos, scilicet animalia, cum sint corruptibilia, pars movens in eis movetur
+per accidens.
+Necesse est autem moventia se corruptibilia reduci ad aliquod primum movens se quod sit sempiternum. Ergo
+necesse est aliquem motorem esse alicuius moventis seipsum qui neque per se neque per accidens moveatur.
+|#25 Quod autem necesse sit, secundum suam positionem, aliquod movens se esse sempiternum, patet. Si enim
+motus est sempiternus, ut ipse supponit, oportet quod generatio moventium seipsa quae sunt generabilia et
+corruptibilia, sit perpetua. Sed huius perpetuitatis non potest esse causa aliquod ipsorum moventium se: quia non
+semper est. Nec simul omnia: tum quia infinita essent; tum quia non simul sunt. Relinquitur igitur quod oportet
+esse aliquod movens seipsum perpetuum, quod causat perpetuitatem generationis in istis inferioribus moventibus
+se. Et sic motor eius non movetur neque per se neque per accidens.
+12
+
+

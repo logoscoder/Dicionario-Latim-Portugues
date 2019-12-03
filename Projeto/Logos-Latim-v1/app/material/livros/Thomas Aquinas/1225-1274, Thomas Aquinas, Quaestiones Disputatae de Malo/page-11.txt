@@ -1,0 +1,63 @@
+defectu nullum malum sequitur; non enim aliquod malum sequitur in lapide ex hoc quod non habet visum.
+Nullum ergo bonum est causa mali in quantum est deficiens.
+AG14
+Sed dicendum, quod bonum, in quantum huiusmodi, potest esse causa mali, sed per accidens. Sed contra, actio
+agentis per accidens attingit ad effectum, sicut actio effodientis sepulcrum attingit ad thesaurum inventum. Si
+ergo bonum est causa mali per accidens, sequitur quod actio boni pertingit ad ipsum malum; quod videtur
+inconveniens.
+AG15
+Praeterea, agens aliquid illicitum praeter intentionem non peccat, sicut si aliquis intendat percutere hostem, et
+percutiat patrem.
+Per accidens autem causa alicuius est quod non intendit ipsum. Si ergo malum non habet causam nisi per
+accidens, sequitur quod nullus faciendo malum peccat; quod est inconveniens.
+AG16
+Praeterea, omnis causa per accidens reducitur ad causam per se. Si ergo malum habeat causam per accidens,
+videtur sequi quod malum haberet causam per se.
+AG17
+Praeterea, illud quod provenit per accidens, provenit ut in paucioribus. Sed malum provenit ut in pluribus; quia,
+ut dicitur Eccle. I, 15: stultorum infinitus est numerus.
+Ergo malum habet causam per se, et non per accidens.
+AG18
+Praeterea, natura est causa per se eorum quae naturaliter fiunt, ut dicitur II physic..
+Sed aliqua mala fiunt naturaliter, scilicet corrumpi et senescere, ut dicitur in V physic.. Ergo non est dicendum
+quod bonum sit causa mali per accidens.
+AG19
+Praeterea, bonum est actus et potentia.
+Sed neutrum est causa mali; nam forma quae est actus, privatur per malum; bonum autem quod est potentia, se
+habet ad utrumque, scilicet ad bonum et ad malum. Ergo nullum bonum est causa mali.
+SC1
+Sed contra. Est quod Augustinus dicit, in Enchir., quod malum non potest oriri nisi ex bono.
+SC2
+Praeterea, dionysius dicit IV cap. De divin. Nomin., quod omnium malorum principium et finis est bonum.
+CO
+Respondeo. Dicendum quod causa mali est bonum, eo modo quo malum causam habere potest. Sciendum est
+enim, quod malum causam per se habere non potest. Quod quidem tripliciter apparet.
+Primo quidem, quia illud quod per se causam habet, est intentum a sua causa; quod enim provenit praeter
+intentionem agentis, non est effectus per se, sed per accidens; sicut effossio sepulcri per accidens est causa
+inventionis thesauri, cum provenit praeter intentionem fodientis sepulcrum. Malum autem, in quantum
+huiusmodi, non potest esse intentum, nec aliquo modo volitum vel desideratum; quia omne appetibile habet
+rationem boni, cui opponitur malum in quantum huiusmodi. Unde videmus quod nullus facit aliquod malum nisi
+intendens aliquod bonum, ut sibi videtur; sicut adultero bonum videtur quod delectatione sensibili fruatur, et
+propter hoc adulterium committit. Unde relinquitur quod malum non habeat causam per se.
+Secundo idem apparet, quia omnis effectus per se habet aliqualiter similitudinem suae causae, vel secundum
+eamdem rationem, sicut in agentibus univocis, vel secundum deficientem rationem, sicut in agentibus
+aequivocis; omnis enim causa agens agit secundum quod actu est, quod pertinet ad rationem boni. Unde malum,
+secundum quod huiusmodi, non assimilatur causae agenti secundum id quod est agens. Relinquitur ergo quod
+malum non habeat causam per se.
+Tertio idem apparet ex hoc quod omnis causa per se, habet certum et determinatum ordinem ad suum effectum;
+quod autem fit secundum ordinem non est malum, sed malum accidit in praetermittendo ordinem.
+Unde malum, secundum quod huiusmodi, non habet causam per se, oportet tamen quod malum aliquo modo
+causam habeat.
+Manifestum est enim, cum malum non sit aliquid per se existens, sed sit aliquid inhaerens, ut privatio (quae
+quidem est defectus eius quod est natum inesse et non inest), quod esse malum non naturaliter inest ei cui inest.
+Si enim aliquis defectus est alicui rei naturaliter, non potest dici quod sit malum eius, sicut non est malum
+homini non habere alas, nec lapidi non habere visum, quia est secundum naturam. Omne autem ens quod non
+naturaliter inest alicui, oportet habere aliquam causam; non enim aqua esset calida nisi ab aliqua causa. Unde
+relinquitur quod omne malum habeat aliquam causam, sed per accidens, ex quo per se causam habere non potest.
+Omne autem quod est per accidens, reducitur ad id quod est per se. Si autem malum non habeat causam per se, ut
+ostensum est, relinquitur quod solum bonum habet causam per se. Nec potest per se causa boni esse nisi bonum,
+cum causa per se causet sibi simile. Relinquitur ergo quod cuiuslibet mali, bonum sit causa per accidens.
+
+11
+
+

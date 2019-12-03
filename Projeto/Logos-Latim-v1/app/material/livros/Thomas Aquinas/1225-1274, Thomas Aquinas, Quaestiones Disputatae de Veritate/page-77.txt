@@ -1,0 +1,62 @@
+RA8
+Ad octavum dicendum, quod poenae malum exit a Deo sub ratione ordinis iustitiae; et sic bonum est, et ideam
+habet in Deo.
+|a5 Articulus 5
+TTA
+Quinto quaeritur utrum materia prima habeat ideam in Deo.
+TTB
+Et videtur quod non.
+AG1
+Idea enim, secundum Augustinum, forma est.
+Sed materia prima nullam habet formam. Ergo idea in Deo nulla ei respondet.
+AG2
+Praeterea, materia non est ens nisi in potentia. Si ergo idea debet ideato respondere si habet ideam, oportet quod
+eius idea sit in potentia tantum. Sed in Deum potentialitas non cadit. Ergo materia prima non habet ideam in
+ipso.
+AG3
+Praeterea, ideae sunt in Deo eorum quae sunt vel esse possunt. Sed materia prima nec est per se separata
+existens, neque esse potest.
+Ergo non habet ideam in Deo.
+AG4
+Praeterea, idea est ut secundum ipsam aliquid formatur. Sed materia prima nunquam potest formari, ita ut forma
+sit de essentia eius. Ergo si haberet ideam, frustra esset idea illa in Deo; quod est absurdum.
+SC1
+Sed contra. Omne quod procedit in esse a Deo, habet ideam in ipso. Materia est huiusmodi. Ergo habet ideam in
+Deo.
+SC2
+Praeterea, omnis essentia derivatur ab essentia divina. Ergo quidquid habet aliquam essentiam, habet ideam in
+Deo. Sed materia prima est huiusmodi. Ergo, etc..
+CO
+Responsio. Dicendum, quod Plato, qui invenitur primo locutus fuisse de ideis, non posuit materiae primae
+aliquam ideam, quia ipse ponebat ideas ut causas ideatorum; materia autem prima non erat causatum ideae, sed
+erat ei concausa. Posuit enim duo principia ex parte materiae, scilicet magnum et parvum; sed unum ex parte
+formae, scilicet ideam.
+Nos autem ponimus materiam esse causatam a Deo; unde necesse est ponere quod aliquo modo sit eius idea in
+Deo, cum quidquid ab ipso causatur, similitudinem ipsius utcumque retineat.
+Sed tamen, si proprie de idea loquamur, non potest poni quod materia prima habeat per se ideam in Deo
+distinctam ab idea formae vel compositi: quia idea proprie dicta respicit rem secundum quod est producibilis in
+esse; materia autem non potest exire in esse sine forma, nec e converso. Unde proprie idea non respondet
+materiae tantum, neque formae tantum; sed toti composito respondet una idea, quae est factiva totius et quantum
+ad formam et quantum ad materiam.
+Si autem large accipiamus ideam pro similitudine vel ratione, tunc illa possunt per se distinctam habere ideam
+quae possunt distincte considerari, quamvis separatim esse non possint; et sic nihil prohibet materiae primae
+etiam secundum se ideam esse.
+RA1
+Ad primum igitur dicendum, quod quamvis materia prima sit informis, tamen inest ei imitatio primae formae:
+quantumcumque enim debile esse habeat, illud tamen est imitatio primi entis; et secundum hoc potest habere
+similitudinem in Deo.
+RA2
+Ad secundum dicendum, quod ideam et ideatum non oportet esse similia secundum conformitatem naturae, sed
+secundum repraesentationem tantum; unde et rerum compositarum est simplex idea; et similiter existentis in
+potentia est idealis similitudo actu.
+RA3
+Ad tertium dicendum, quod quamvis materia secundum se esse non possit, tamen potest secundum se
+considerari; et sic potest habere per se similitudinem.
+RA4
+Ad quartum dicendum, quod ratio illa procedit de idea practica actu vel virtute, quae est rei prout est in esse
+producibilis; et talis idea materiae primae non convenit.
+RC1
+
+77
+
+

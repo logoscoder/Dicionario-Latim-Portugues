@@ -1,0 +1,62 @@
+suis tantum indiuiduis praedicantur, ut homo de Socrate, Platone, Cicerone et caeteris. Proprium item de specie
+praedicatur cuius est proprium, neque enim esset proprium alicuius, si de alio diceretur; de quo enim unaquaeque res 'et
+soli et omni et semper' dicitur, eiusdem proprium esse monstratur. Quae cum ita sint proprium de specie dicitur, ut
+risibile de homine; omnis enim homo risibilis est. Dicitur etiam de indiuiduis speciei de qua praedicatur; est enim
+Socrates, Plato et Cicero risibilis. Accidens uero et de speciebus pluribus dicitur et de diuersarum specierum indiuiduis.
+Dicuntur enim coruus atque Aethiops nigri et hic coruus et hic Aethiops, qui sunt indiuidui, nigri secundum nigredinis
+qualitatem uocantur. Atque hoc quidem est accidens inseparabile. Sed multo magis separabilia accidentia pluribus
+inhaerescunt, ut moueri homini et boui -- uterque enim mouetur -- et rursus ea quae sub homine sunt atque boue
+indiuidua, moueri saepe praedicantur. Sed aduertendum est auctore Porphyrio quod ea quae accidentia sunt,
+principaliter quidem de his dicuntur in quibus sunt indiuiduis, secundo uero loco ad uniuersalia indiuiduorum
+referuntur. Atque ita praedicatio /289/ superiorum redditur, ut quoniam nigredo singulis coruis adest accidentis
+nigredinis inficit, idcirco eam de specie quoque praedicamus dicentes coruum, ipsam speciem, nigrum esse.
+[ 5.02 ]
+[5.02.01] In quibus omnibus mirum uideri potest, cur genus de proprio praedicari non dixerit nec uero speciem
+de eodem proprio nec differentiam de proprio sed tantum genus quidem de speciebus ac differentiis, differentiam uero
+de speciebus atque indiuiduis, speciem de indiuiduis, proprium de specie atque indiuiduis, accidens de speciebus atque
+indiuiduis. Fieri enim potest ut quae maioris praedicationis sint, ea de cunctis minoribus praedicentur, et quae aequalia
+sunt, sibimet conuertuntur, eoque fit ut genus de differentiis, de speciebus, de propriis, de accidentibus praedicetur, ut
+cum dicimus 'quod rationale est, animal est', genus de differentia, 'quod homo est, animal est', genus de specie, 'quod
+risibile est, animal est,' genus de proprio, 'quod nigrum est', si forte coruum uel Aethiopem demonstremus, 'animal est,'
+genus de accidenti praedicamus. Rursus 'quod homo est, rationale est', differentia de specie, /290/ 'quod risibile est,
+rationale est,' differentia de proprio, 'quod nigrum est, rationale est', si Aethiopem demonstremus, differentia de
+accidenti; item 'quod risibile est, homo est', species de proprio, 'quod nigrum est, homo est,' si Aethiopem designemus,
+species de accidenti. Qua in re etiam 'quod nigrum est, risibile est' in Aethiopis demonstratione ut proprium de
+accidenti praedicatur. Conuerti autem ad totum accidens potest, ut quoniam in indiuiduis singulorum esse proponitur,
+idcirco de superioribus etiam praedicetur, ut quoniam Socrates animal est, rationalis est, risibilis est et homo est,
+cumque in Socrate sit caluitium, quod est accidens, praedicetur idem accidens de animali, de rationali, de risibili, de
+homine, ut accidens de quattuor reliquis praedicetur. Sed horum profundior quaestio est nec ad soluendum satis est
+temporis, hoc tantum ingredientium intellegeutia expectet, quod alia quidem recto ordine praedicantur, alia uero
+obliquo, quoniam moueri hominem rectum est, id quod mouetur hominem esse conuersa locutione proponitur.
+Quocirca rectam Porphyrius in omnibus propositionem sumpsit. Quodsi quis uim praedicationis et solutionis attenderit
+in singulis praedicationibus comparans, eas quidem /291/ prolationes quae rectae sunt, inueniet a Porphyrio esse
+enumeratas, eas uero quae conuerso ordine praedicantur, fuisse sepositas.
+[ 5.03 ]
+DE COMMUNIBUS GENERIS ET DIFFERENTIAE
+COMMUNE EST AUTEM GENERI ET DIFFERENTIAE CONTINENTIA SPECIERUM. CONTINET
+ENIM ET DIFFERENTIA SPECIES, ETSI NON OMNES QUOT GENERA. RATIONALE ENIM ETIAMSI NON
+CONTINET EA QUAE SUNT IRRATIONABILIA QUEMADMODUM ANIMAL SED CONTINET HOMINEM ET
+DEUM, QUAE SUNT SPECIES. ET QUAECUMQUE PRAEDICANTUR DE GENERE UT GENERA, ET DE HIS
+QUAE SUB IPSO SUNT SPECIEBUS PRAEDICANTUR, ET QUAECUMQUE DE DIFFERENTIA
+PRAEDICANTUR UT DIFFERENTIAE, ET DE EA QUAE EX IPSA EST SPECIE PRAEDICABUNTUR. NAM
+CUM SIT GENUS ANIMAL, NON SOLUM DE EO PRAEDICANTUR UT GENERA SUBSTANTIA ET
+ANIMATUM SED ETIAM DE HIS QUAE SUNT SUB ANIMALI SPECIEBUS /292/ OMNIBUS PRAEDICANTUR
+HAEC USQUE AD INDIVIDUA. CUMQUE SIT DIFFERENTIA RATIONALIS, PRAEDICATUR DE EA UT
+DIFFERENTIA ID QUOD EST RATIONE UTI. NON SOLUM AUTEM DE EO QUOD EST RATIONALE SED
+ETIAM DE HIS QUAE SUNT SUB RATIONALI SPECIEBUS PRAEDICABITUR RATIONE UTI. COMMUNE
+AUTEM EST ET PEREMPTO GENERE VEL DIFFERENTIA SIMUL PERIMI QUAE SUB IPSIS SUNT;
+QUEMADMODUM ELLIM SI NON SIT ANIMAL, NON EST EQUUS NEQUE HOMO, ITA SI NON SIT
+RATIONALE. NULLUM ERIT ANIMAL QUOD UTATUR RATIONE.
+[5.03.01] Post eam quae cunctis adesse uisa est communitatem, singulorum ad se similitudines ac
+dissimilitudines quaerit. Et quoniam inter quinque proposita genus ac differentia uniuersalioris praedicationis sunt,
+siquidem genus species continet ac differentias, differentiae uero species continent neque ab his ullo modo continentur,
+primum generis ac differentiarum similitudines colligit. Ac primam quidem ponit hanc. Dicit enim commune esse
+generi ac differentiae, ut species claudant; /293/ nam sicut genus sub se habet species, ita etiam differentia tametsi non
+tantas quot habet genus. Etenim genus quoniam differentiam etiam claudit et non unam tantum sub se differentialn
+cohercet ac retinet, plures necesse est habeat sub se species, quam quaelibet una earum differentiarum quas claudit. ut
+animal praedicatur de rationabili et irrationabili. Quodsi ita est, praedicabitur et de his quae sub rationali sunt positae
+speciebus et de his quae sub irrationali. Est ergo commune animali et rationali, id est generi et differentiae, quod sicut
+genus de homine et de deo praedicatur, ita etiam rationale. Quod est differentia, de deo ac de homine dicitur. Sed non in
+tantum haec praedicatio funditur quantum animalis, id est generis. Animal enim non de deo solum atque homine sed de
+
+

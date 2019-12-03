@@ -1,0 +1,63 @@
+354 episcopos W411
+355 dicantur W411
+356 hymnos matutinos vel vespertinos] hymnus matutinus vel vespertinus W411
+357 in conclusionem] inclusionem W411
+358 vespertinarium W411
+359 Rubrik fehlt V630
+360 XXXII O93
+361 etiam ut korr. aus etiam V1341
+362 dissenserrit V630
+363 aut W411
+364 revocari korr. aus revocare V630
+365 vel fehlt V630; W411; V1341
+366 intentione W411
+367 Rubrik fehlt V630
+368 XXXIII O93
+369 Clericum nullus] Clericus nec quemquam V630; V1341; Clericum nullus korr. aus Clericus nec quemquam
+O93; Clericus nequaquam W411
+370 non fehlt W411
+371 nec proponat fehlt W411
+372 praeponat V1341
+373 proponere. Ut nullus ecclesiam aut clericum fatigare praesumat korr. aus proponere O93
+374 fuerit ab korr. aus fuerit O93
+375 ab fehlt W411; V1341
+376 ad W411
+377 cathilicorum W411
+378 arceantur W411
+379 Rubrik fehlt V630
+380 HABUERIT W411
+381 XXXIIII O93
+382 alium quam] aliquam W411
+383 relinquit W411
+384 Qui vero filios habet, de bonis, quae reliquit, ab heredibus eius indemnitatibus ecclesiae consulatur fehlt
+V630
+385 reliquit V630; W411
+386 ab heredibus] habere diebus W411
+387 Rubrik fehlt V630
+388 XXXV O93
+389 redire W411
+390 fide venire korr. aus devenire V630
+391 si casu] causa W411
+392 aliquo] aliquo quis W411
+393 periculo W411
+394 incurrerit W411
+395 disperatus W411
+396 fuerit W411
+397 baptizetur W411
+398 Rubrik fehlt V630
+399 AMONITUS W411
+400 EPISCOPUS W411
+401 XXXV korr. aus XXXVI O93
+402 episcopus metropolitanus] metropolitanus episcopus W411; V1341
+403 epistolam W411
+404 eos ad] eos aut ad korr. aus eos aut V1341
+405 aut V630; W411
+406 aut ad korr. aus aut V1341
+407 aut V630; W411; V1341
+408 ac korr. aus ad O93
+409 constitutam O93; W411
+410 qui W411
+411 proximam W411; proximam korr. aus proximum V1341
+15
+
+

@@ -1,0 +1,61 @@
+materialis respectu gaudii fruitionis: erat enim illud gaudium principaliter de Deo, secundario de his quae Deo
+erant placita; et sic erat de dolore, in quantum a Deo acceptabatur, utpote ad salutem humani generis ordinatus.
+|q27 Quaestio 27
+Prologus
+PR1
+Et primo quaeritur utrum gratia sit aliquid creatum positive in anima.
+PR2
+Secundo utrum gratia gratum faciens sit idem quod caritas.
+PR3
+Tertio utrum aliqua creatura possit esse causa gratiae.
+PR4
+Quarto utrum sacramenta novae legis sint gratiae causa.
+PR5
+Quinto utrum in homine uno sit tantum una gratia gratum faciens.
+PR6
+Sexto utrum gratia sit in essentia animae sicut in subiecto.
+PR7
+Septimo utrum gratia sit in sacramentis.
+|a1 Articulus 1
+TTA
+Et primo quaeritur utrum gratia sit aliquid creatum positive in anima.
+TTB
+Et videtur quod non.
+AG1
+Quia, secundum Augustinum, sicut anima est vita corporis, ita Deus est vita animae.
+Sed anima est vita corporis, nulla alia forma mediante. Ergo similiter Deus animae; et ita, vita quae est per
+gratiam, non est per aliquam formam creatam in anima existentem.
+AG2
+Praeterea, gratia gratum faciens, de qua loquimur, nihil aliud esse videtur quam id secundum quod homo est Deo
+gratus. Sed homo dicitur esse Deo gratus secundum quod acceptatus est a Deo. Acceptatus autem dicitur aliquis
+per Dei acceptionem, quae quidem est in ipso; sicut et aliquis dicitur homini acceptus non per aliquid quod sit in
+acceptato, sed per acceptionem quae est in acceptante.
+Ergo gratia nihil ponit in homine, sed in Deo tantum.
+AG3
+Praeterea, per esse spirituale gratiae magis Deo appropinquamus quam per esse naturale.
+Sed esse naturale Deus in nobis fecit nulla alia causa mediante, quia immediate nos creavit. Ergo et esse
+spirituale gratuitum facit in nobis nullo alio mediante; et sic idem quod prius.
+AG4
+Praeterea, gratia est quaedam animae sanitas.
+Sanitas autem in sano nihil aliud videtur ponere quam ipsos humores adaequatos.
+Ergo et gratia non ponit aliquam formam in anima, sed praesupponit potentias animae aequalitate iustitiae
+adaequatas.
+AG5
+Praeterea, gratia nihil aliud esse videtur quam quaedam liberalitas: idem enim esse videtur gratis dare quod
+liberaliter dare.
+Liberalitas autem non est in accipiente, sed in dante. Ergo et gratia est in Deo, qui nobis sua bona dat, non autem
+in nobis.
+AG6
+Praeterea, nulla creatura anima Christi est nobilior. Gratia autem est nobilior, quia per gratiam anima Christi
+nobilitatur. Ergo gratia non est aliquid creatum in anima.
+AG7
+Praeterea, sicut se habet veritas ad intellectum, ita gratia ad affectum. Una est autem veritas, secundum
+Anselmum, quam omnes intellectus intelligunt. Ergo et una est gratia, per quam omnes affectus perficiuntur.
+Nullum autem creatum unum potest esse in multis. Ergo gratia non est quid creatum.
+AG8
+Praeterea, nihil est in genere nisi compositum.
+Gratia autem non est composita, sed forma simplex. Ergo non est in genere.
+Omne autem creatum est in aliquo genere. Ergo gratia non est quid creatum.
+570
+
+

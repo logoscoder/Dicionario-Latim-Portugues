@@ -1,0 +1,57 @@
+quodcumque, est universaliter generatio et corruptio: eo quod forma substantialis, secundum quam est generatio
+et corruptio, non advenit subiecto actu existenti.
+|#8 Unde patet falsam esse opinionem quam tradit Avicebron in libro fontis vitae, quod in materia est ordo
+formarum; ita quod primo materiae advenit forma secundum quam est substantia, et postea alia secundum quam
+est corpus, et postea alia secundum quam est animatum corpus, et sic de aliis. Cum enim idem sit constituere
+substantiam et facere hoc aliquid, quod pertinet ad substantiam particularem, sequeretur quod prima forma, quae
+constituit substantiam, faceret hoc aliquid, quod est subiectum actu existens: et ita formae posteriores advenirent
+subiecto permanenti, et secundum eas esset magis alteratio quam generatio, secundum doctrinam quam hic
+Aristoteles tradit. Est ergo dicendum quod, sicut supra dictum est, formae substantiales differunt secundum
+perfectius et imperfectius. Quod autem est perfectius, potest quidquid potest imperfectius, et adhuc amplius:
+unde forma perfectior quae facit animatum, potest etiam facere corpus, quod facit forma imperfectior inanimati
+corporis. Et sic nulla forma substantialis advenit subiecto in actu existenti: nec praesupponit aliam formam
+communiorem realiter diversam, quae pertineat ad considerationem naturalis; sed solum secundum rationem,
+quod pertinet ad considerationem logicam.
+|#9 Deinde cum dicit: est autem hyle etc., comparat praedictas transmutationes secundum subiectum quod est
+tantum ens in potentia. Et dicit quod hyle, sive materia prima, est maxime proprium subiectum susceptibile
+generationis et corruptionis: quia, sicut dictum est, immediate substat formis substantialibus, quae per
+generationem et corruptionem adveniunt et recedunt.
+Sed quodammodo, scilicet ex consequenti et mediate, subiicitur omnibus aliis transmutationibus: quia omnia
+subiecta aliarum transmutationum sunt susceptibilia aliquarum contrarietatum, quae reducuntur in primam
+contrarietatem, quae est formae et privationis, cuius subiectum est prima materia, ut dicitur in I physic.. Et ideo
+omnia alia subiecta participant quodammodo materiam primam, inquantum ex materia et forma componuntur.
+Ultimo autem epilogando concludit, quod determinatum sit hoc modo de generatione simpliciter, utrum sit vel
+non sit; et si est, quomodo est; et similiter etiam de alteratione.
+|+11 Lectio 11
+|#1 Postquam Philosophus determinavit de generatione et alteratione, hic determinat de augmentatione et
+deminutione.
+Et primo exponit suam intentionem, dicens quod post generationem et alterationem, reliquum est dicere de
+augmentatione.
+De qua duo considerare oportet: primo, in quo differat a generatione et alteratione; secundo, per quem modum
+augmentatur et deminuitur unumquodque quod augmentatur et deminuitur.
+Secundo ibi: scrutandum itaque primum etc., prosequitur suam intentionem. Et primo ostendit differentiam
+augmentationis a generatione et alteratione; secundo inquirit de modo augmentationis, ibi: circa quid autem est
+transmutatio etc..
+Circa primum duo facit: primo supponit unam differentiam; secundo inquirit de alia, ibi: aut etiam modus etc..
+|#2 Dicit ergo primo quod primum eorum quae consideranda sunt circa augmentationem, est quod oportet
+inquirere utrum differentia augmentationis a generatione et alteratione sit solum in circa quid, idest in genere
+circa quod est quaelibet istarum transmutationum. Haec enim differentia est manifesta: videlicet quod
+transmutatio quae est ex hoc in hoc, idest ex substantia ente in potentia in substantiam entem in actu, est
+generatio; transmutatio autem quae est circa magnitudinem, est augmentatio (per quam aliquid transmutatur de
+parvo in magnum) et deminutio (per quam aliquid transmutatur de magno in parvum); transmutatio autem quae
+est circa passiones, idest passibiles qualitates, est alteratio. Et quia dixerat quod generatio est transmutatio ex
+substantia in potentia in substantiam in actu, ut idem intelligatur etiam de aliis duabus mutationibus supradictis,
+subiungit quod transmutatio utrorumque praedictorum, scilicet magnitudinis et passionis, est ex potentia in
+actum: est enim motus actus existentis in potentia, ut dicitur in III physic..
+|#3 Deinde cum dicit: aut etiam modus etc., assignat aliam differentiam, ex modo transmutationis.
+Et primo ponit differentiam; secundo exponit, ibi: alio autem modo etc.. Dicit ergo primo quod in praedictis
+mutationibus etiam modus transmutationis differt (non autem refert utrum haec littera legatur interrogative vel
+remissive)p in hoc enim differt modus praedictarum transmutationum, quod id quod alteratur, non ex necessitate
+transmutatur secundum locum, et similiter etiam neque quod generatur: sed necesse est id quod augmentatur aut
+deminuitur, secundum locum transmutari. Huius autem differentiae ratio est, quia locus commensuratur locato, et
+hoc secundum magnitudinem, non autem secundum qualitatem vel substantiam: et ideo necesse est quod, quando
+mutatur magnitudo locati, quod etiam fiat transmutatio secundum locum; non autem quando transmutatur aliquid
+secundum substantiam vel secundum qualitatem. Sicut autem commensuratio locati ad locum attenditur
+20
+
+

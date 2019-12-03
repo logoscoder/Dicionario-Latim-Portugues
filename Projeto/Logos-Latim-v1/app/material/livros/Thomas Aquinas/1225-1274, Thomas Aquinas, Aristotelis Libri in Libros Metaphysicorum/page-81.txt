@@ -1,0 +1,57 @@
+|#10 Et adhuc perfectius si aliquid velit hoc verificare, oportebit quod omne ens sit magnitudo corporalis.
+Corpus enim secundum quamcumque dimensionem additum et subtractum facit maius et minus.
+Aliae vero magnitudines, ut superficies et lineae, secundum aliquam dimensionem additam facerent maius,
+secundum autem aliquam non. Linea enim addita lineae secundum longitudinem facit maius, non autem
+secundum latitudinem. Superficies autem addita superficiei facit quidem maius secundum latitudinem et
+longitudinem, sed non secundum profunditatem. Punctus autem et unitas nullo modo faciunt maius vel minus.
+Sic ergo secundum principium zenonis sequeretur quod punctus et unitas sint omnino non entia, corpus autem
+omnimodo ens, superficies et linea quodammodo entia et quodammodo non entia.
+|#11 Deinde cum dicit sed quoniam solvit propositam rationem: et dicit, quod quia zeno proponendo tale
+principium speculatur onerose, idest ruditer et grosse, ita quod secundum ipsum non contingit aliquid esse
+indivisibile, oportet quod aliqua responsio praedictae rationi detur, et si non sit ad rem, sit tamen ad hominem.
+Dicemus autem quod unum etsi additum alteri non faciat maius, facit tamen plus.
+Et hoc sufficit ad rationem entis, quod faciat maius in continuis, et plus in discretis.
+|#12 Deinde cum dicit sed quomodo ostendit difficultatem, quae adhuc remanet Platonicis post praedictam
+solutionem.
+Et inducit duas difficultates. Quarum prima est, quia Platonici ponebant, quod illud unum indivisibile, non solum
+est causa numeri, qui est pluralitas quaedam, sed etiam est causa magnitudinis. Si igitur detur, quod unum
+additum faciat plus, quod videtur sufficere ad hoc quod unum sit causa numeri, quomodo poterit esse quod ex
+tali uno indivisibili, aut ex pluribus talibus, fiat magnitudo, ut Platonici posuerunt? simile enim hoc videtur, si
+aliquis ponat lineam ex punctis. Nam unitas est indivisibilis sicut et punctus.
+|#13 Secundam difficultatem ponit ibi at vero et dicit: si quis existimet ita, quod numerus sit effectus ex uno
+indivisibili, et ex aliquo alio quod non sit unum, sed participet unum sicut quaedam materialis natura, ut quidam
+dicunt; nihilominus remanet quaerendum propter quid, et per quem modum illud, quod fit ex illo uno formali et
+alia natura materiali, quae dicitur non unum, quandoque est numerus, quandoque autem est magnitudo. Et
+praecipue si illud non unum materiale sit inaequalitas, quae significatur per magnum, et sit eadem natura. Non
+enim est manifestum quomodo ex hac inaequalitate quasi materia et uno formali fiant numeri; neque etiam
+quomodo ex aliquo numero formali et hac inaequalitate quasi materiali fiant magnitudines. Ponebant enim
+Platonici quod ex primo uno et ex prima dualitate fiebat numerus, ex quo numero et a qua inaequalitate materiali
+fiebat magnitudo.
+|#14 Huius autem dubitationis solutio ab Aristotele in sequentibus traditur. Quod enim sit aliquod separatum,
+quod sit ipsum unum et ens, infra in duodecimo probabit, ostendens unitatem primi principii omnino separati,
+quod tamen non est substantia omnium eorum quae sunt unum, sicut Platonici putabant, sed est omnibus unitatis
+causa et principium. Unum autem, secundum quod dicitur de aliis rebus, dicitur dupliciter. Uno modo secundum
+quod convertitur cum ente: et sic unaquaeque res est una per suam essentiam, ut infra in quarto probabitur, nec
+aliquid addit unum supra ens nisi solam rationem indivisionis.
+Alio modo dicitur unum secundum quod significat rationem primae mensurae, vel simpliciter, vel in aliquo
+genere. Et hoc quidem si sit simpliciter minimum et indivisibile, est unum quod est principium et mensura
+numeri. Si autem non sit simpliciter minimum et indivisibile, nec simpliciter, sed secundum positionem erit
+unum et mensura, ut as in ponderibus, et diesis in melodiis, et mensura pedalis in lineis: et ex tali uno nihil
+prohibet componi magnitudinem: et hoc determinabit in decimo huius. Sed quia Platonici aestimaverunt idem
+esse unum quod est principium numeri, et quod convertitur cum ente; ideo posuerunt unum quod est principium
+numeri, esse substantiam cuiuslibet rei, et per consequens numerum, inquantum ex pluribus substantialibus
+principiis, rerum compositarum substantia consistit vel constat.
+Hanc autem quaestionem diffusius pertractabit in tertiodecimo et quartodecimo.
+|+13 Lectio 13
+|#1 Postquam Philosophus inquisivit utrum unum et ens sint substantia rerum, hic inquirit utrum numerus et
+magnitudo sint substantia rerum: et circa hoc tria facit.
+Primo movet dubitationem. Secundo obiicit pro una parte, ibi, nam si non sunt etc.. Tertio obiicit ad contraria,
+ibi, at vero si hoc quidem confessum est etc..
+Dicit ergo primo, quod dubitatio habita, idest consequens ad praemissam, est, utrum numeri et magnitudines,
+scilicet corpora et superficies et termini eorum, ut puncta, sint aliquae substantiae vel a rebus separatae, vel etiam
+sint substantiae ipsorum sensibilium, aut non. Dicit autem hanc dubitationem esse consequentem ad praemissam;
+quia in praemissa dubitatione quaerebatur utrum unum sit substantia rerum; unum autem est principium numeri;
+
+81
+
+

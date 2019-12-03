@@ -1,0 +1,58 @@
+neptis ex filio neptis ex filia
+eademque causa octo personae efficient, ut aliae octo accedunt ex sorore natorum nepotes neptesque et similiter
+numerantur a nobis. Fratris autem mei nepos neptisque me patruum magnum appellant: sororum fratrumque meorum
+nepotes neptesque, item mei inter se consobrini sunt. Abnepos, abneptis: hi sunt pronepotis proneptis filius filia, nepotis
+neptisve nepos neptis, filii filiaeve pronepos proneptis, nepote vel ex filio nato vel ex filia, nepte vel ex filio nata vel ex
+filia acceptis, ut ad singulas personas gradu descendamus sic.
+filius
+nepos
+pronepos
+abnepos
+filius
+nepos
+pronepos
+abneptis
+filius
+nepos
+proneptis
+abnepos
+filius
+nepos
+proneptis
+abneptis
+filius
+neptis
+pronepos
+abnepos
+filius
+neptis
+pronepos
+abneptis
+filius
+neptis
+proneptis
+abnepos
+filius
+neptis
+proneptis
+abneptis
+similiter hae personae enumerabuntur proposita filia et sic fient sedecim.
+16. Quinto gradu personae continentur centum octaginta quattuor. Atavus scilicet et atavia: atavus est abavi vel abaviae
+pater, proavi vel proaviae avus, avi aviaeque proavus, patris vel matris abavus: huius appellatio personas complectitur
+sedecim, enumeratione facta tam per mares quam per feminas, ut sic ad singulas perveniamus.
+pater
+avus
+proavus
+abavus
+atavus
+pater
+avus
+proavus
+abavia
+atavus
+pater
+avus
+proavia
+abavus
+
+

@@ -1,0 +1,60 @@
+|+d28.q1 Distinctio 28, Quaestio 1
+|a0 Prologus
+Hic determinat de caritate per comparationem ad ipsum diligibile; et dividitur in duas partes: in prima inquirit
+quid sit per caritatem diligendum; in secunda quo ordine, distinct. 29, ibi: post praedicta de ordine caritatis
+agendum est. Prima in tres: in prima ostendit ad quos se extendit praeceptum caritatis quantum ad homines; in
+secunda quantum ad Angelos, ibi: oritur autem hic quaestio; in tertia elicit ex dictis quamdam distinctionem, ibi:
+hic notandum est. Circa primum duo facit: primo determinat veritatem; secundo removet dubitationem, ibi: hic
+videtur Augustinus tradere, quod ex praecepto non teneamur diligere nosmetipsos.
+Hic quaeruntur septem: 1 utrum virtutes sint ex caritate diligendae; 2 utrum inanimata; 3 utrum Angeli; 4 utrum
+Daemones; 5 utrum mali homines; 6 utrum homo ex caritate seipsum diligere possit; 7 utrum proprium corpus.
+|a1 Articulus 1: Utrum virtutes sint diligendae ex caritate.
+AG1
+Ad primum sic proceditur. Videtur quod virtutes ex caritate sint diligendae. Augustinus enim dicit: qui diligit
+fratrem, dilectionem qua diligit magis diligit.
+Sed dilectio qua proximus diligitur, est virtus caritatis. Ergo virtutes ex caritate sunt diligendae, cum proximus
+diligatur ex caritate.
+AG2
+Praeterea, propter quod unumquodque, illud magis. Sed amicitia vera diligit amicum propter honestum. Ergo
+diligit honestum etiam magis quam amicum. Ergo et caritas, quae est amicitia quaedam, ut dictum est, dist. 27,
+quaest. 2, art. 1, corp., magis est dilectiva virtutum quam etiam proximorum.
+AG3
+Praeterea, actus primi et actus reflexi super eos ad eamdem potentiam pertinent, quia sunt ejusdem rationis; sicut
+intelligere aliquod intelligibile, et intelligere se intelligere. Sed ad actus ejusdem rationis pertinet eadem virtus.
+Ergo cum per caritatem diligatur proximus, per caritatem diligetur dilectio qua diligitur proximus: et eadem
+ratione aliae virtutes.
+AG4
+Praeterea, ex caritate diligenda sunt illa quae ad beatitudinem referuntur. Sed virtutibus in beatitudinem ducimur,
+et nobiscum manent in beatitudine. Ergo virtutes ex caritate sunt diligendae.
+AG5
+Praeterea, caritas est dilectio finis ultimi.
+Sed ultimus finis nostrae vitae est beatitudo. Ergo beatitudinem ex caritate diligere debemus. Sed virtutes et
+gratiae, cum consummantur, in beatitudinem transeunt. Ergo virtutes diligendae sunt ex caritate.
+SC1
+Sed contra est quod Augustinus sufficienter enumerat ea quae sunt diligenda ex caritate, et nullam mentionem
+facit de virtutibus, ut patet in littera.
+SC2
+Praeterea, illud quod propter nos tantum diligimus, non diligitur ex caritate: quia caritas non quaerit quae sua
+sunt; 1 Cor. 13, 5. Sed virtutes propter nos tantum diligimus, quia in seipsis non subsistunt, cum accidentia sint;
+unde neque bonitatem habent, nisi secundum quod in nobis sunt.
+Ergo non sunt diligendae ex caritate.
+SC3
+Praeterea, illa sola sunt ex caritate diligenda quae nobiscum participant beatitudinem. Sed virtutes, cum sint
+accidentia, non sunt capabilia beatitudinis, nec etiam vitae. Ergo non sunt ex caritate diligendae.
+CO
+Respondeo dicendum, quod cum caritas amorem includat, et aliquid addat, diligi aliquid ex caritate contingit
+dupliciter. Uno modo sicut id ad quod amicitia caritatis terminatur; et hoc modo non diligitur ex caritate nisi
+illud ad quod nata est amicitia esse. Amicitia autem non potest esse ad virtutes, nec ad aliqua accidentia, propter
+duo. Primo, quia amicitia facit ut homo velit amicum esse, et bona habere. Accidentia autem non habent esse per
+se, nec bonitatem per se, sed eorum esse et bene esse est eis in substantiis; unde quod volumus virtutes et
+accidentia esse, hoc ad substantiam refertur, quam volumus sub illis accidentibus esse vel bene esse habere.
+Secundo, quia amicitia consistit in quadam societate, secundum quod amati seipsos redamant, et eadem
+operantur, et simul conversantur; unde amicitia non potest esse nisi ad aliquid quod sit natum agere. Et quia
+agere non est accidentium, sed substantiarum, ideo non potest esse amicitia ad virtutes, neque ad alia accidentia;
+et ideo non possunt virtutes diligi ex caritate, sicut ad quae caritas terminetur. Alio modo potest aliquid diligi ex
+caritate sicut ad quod terminatur amor, seu dilectio, qui in caritate includitur, quamvis ad illud amicitia non sit; et
+hic amor ordinatur ad amorem alicujus quod principaliter amatur, et concupiscentiae dilectio dicitur; sicut
+amicus dicitur amare sanitatem amici sui; et hoc modo virtutes ex caritate diliguntur.
+1174
+
+

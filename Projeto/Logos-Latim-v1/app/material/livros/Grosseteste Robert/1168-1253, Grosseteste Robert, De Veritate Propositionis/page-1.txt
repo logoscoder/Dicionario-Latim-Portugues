@@ -1,0 +1,49 @@
+De veritate propositionis
+Printed Source: Die Philosophischen Werke des Robert Grosseteste, Bischofs von Lincoln (Münster i. W.,
+Aschendorff, 1912.), pp. 143 - 145.
+INC: Rem, quae partim est vel fuit et partim futura est, non necesse est ante complementum sui totaliter esse vel
+fuisse.
+EXPL: Primo modo est necessarium, sed secundo modo non est necessarium.
+p. 143: Rem, quae partim est vel fuit et partim futura est, non necesse est ante complementum sui totaliter esse
+vel fuisse.Sed cum completum est aliquid, tunc et de cetero necesse est, ipsum simpliciter esse vel fuisse. Inter
+initium et complementum necesse est, ipsum secundum quid esse vel fuisse. -- Et sic de rebus contingentibus,
+quae fiunt in tempore, possibile est, eas non compleri. Verbi gratia totalis motus ab A in B dicatur C. Inter
+initium et finem C motus necesse est, C secundum quod fuisse, et possibile est, C secundum partem sui futurum
+non fore. Inter initium autem et finem C motus semper dicitur vere, quoniam C est. Sed hoc esse non est esse
+completum et determinatum et definitum, sed est incompletum et indeterminatum et indefinitum. Unde, licet in
+medio motus C vere dicatur ipsum C esse, tamen consequenter dici potest: necesse est C fuisse, quia, cum
+praesens sit, eius pars praeteriit parsque futura est, vere dicitur C partim praeteritum, quoniam est. Sed cum quid
+praeteritum est, perfectum est. C autem ante sui finem nec praeteritum nec perfectum est. Nec vere dicitur C
+fuisse, quia hoc esset, adhuc futurum fuisse.
+p. 144: Manifestum est igitur, quod de aliquo vere dicitur quod est, nec tamen consequitur post hoc fuisse, immo
+secundum aliquid sui non potest non fuisse, et secundum aliquid sui, quod adhuc futurum est, potest non esse: ut
+nunc verum est, hunc annum esse, nec tamen statim post hoc erit verum, hunc annum fuisse. Et si tempus
+habiturum esset finem ante terminum huius anni, verum esset tune, hunc annum nunc esse, et non esset futurum
+verum, hunc annum fuisse. Sed de quocumque dicitur esse completum et finitum vel fuisse completum et
+finitum, statim post non potest non fuisse, immo statim necesse est illud fuisse.
+p. 144: Tale autem, quale est cuius esse est interminatum, credo, quod sit veritas propositionis et opinionis rei
+futurae contingentis. Veritas enim sermonis vel opinionis est adaequatio sermonis vel opinionis et rei. Haec
+autem adaequatio nihil aliud est, quam ita esse in re, sicut sermo vel opinio dicit, et hoc est in futuris rem esse in
+futuro, sicut sermo vel opinio asserit eam futuram. Est igitur veritas sermonis vel opinionis de futuro praesens
+assertio existentiae rei in futuro cum existentia rei in futuro. Sed praesens assertio sermonis vel opinionis est, nec
+poterit non fuisse. Existentia vero rei futurae nondum est, sed poterit non esse; et ita veritas de futuro secundum
+quid sui iam est et habet necessitatem; secundum quid sui nondum est et habet contingentiam. Licet igitur vere
+dicatur veritas huius propositionis "antichristus est", tamen non sequitur, quod statim erit necessarium eum
+fuisse, quia huius veritas est esse incompletum et indeterminatum. Idem enim est ponere necessitatem super hanc
+veritatem et ponere necessitatem super assertionem de futuro, quod erit, et super existentiam rei futurae.
+Quaelibet igitur talium propositionum "antichiristus erit", "antichristus est futurus" est vera non necessaria, sed
+contingens, quia possibile est, quamlibet talem esse falsam. Sed veritas horum partim est assertio praesentialis de
+antichristo futuro, quoniam erit, partim est existentia antichristi futura.
+pp. 144 - 145: Sed ex parte assertionis est haec veritas impermutabilis. Quaelibet enim talium propositionum
+semper idem et eodem modo dicit quomodo nunc dicit. Ab existentia autem, quae nondum est, in nonexistentiam fieri permutationem impossibile est. Omnis enim permutatio est ab eo, quod est, non ab eo, quod
+nondum permutatur, futurum est. Igitur nulla talium propositionum vel orationum a sua veritate, quae partim est
+et partim futura est, permutabilis est, quia id veritatis, quod praesentialiter est, semper uno modo manebit. Ab eo,
+quod nondum est, non potest fieri permutatio aliqua, antequam eveniat. Unde si numquam eveniat, numquam ab
+eo fiet permutatio. Unde sive antichristus erit sive non erit, non permutabitur a veritate in falsitatem, nisi quod
+habet contingens permutabile a veritate in falsitatem, est necessarium. Duplex enim dicitur permutabile a veritate
+in falsitatem: aut quia non est susceptibile falsitatis, aut quia secundum hunc ordinem post veritatem non est
+susceptibile falsitatis. Primo modo est necessarium, sed secundo modo non est necessarium.
+
+1
+
+

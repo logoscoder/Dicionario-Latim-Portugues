@@ -1,0 +1,57 @@
+minori tempore, quod est velocius moveri. Sed quod aliquid non moveatur secundum infinitam gravitatem,
+sequitur ex secunda suppositione. Oportet enim proportionaliter aliquid moveri secundum excellentias gravitatis
+e contrario, scilicet quod maior gravitas moveat in minori tempore. Nulla autem proportio potest esse infinitae
+gravitatis ad finitam: minoris autem temporis ad maius, dummodo sit finitum, est aliqua proportio. Sic igitur non
+erit aliquod tempus dare in quo infinita gravitas moveat; sed semper erit accipere aliquid moveri in minori
+tempore quam sit tempus in quo movet gravitas infinita; non est autem dare minimum tempus in quo gravitas
+infinita moveat, ita quod possit dici quod non potest aliquid in minori tempore moveri.
+Ideo autem non est minimum tempus accipere, quia, cum omne tempus sit divisibile, sicut et quodlibet
+continuum, quolibet tempore est accipere aliquod minus, partem scilicet temporis divisi. Sic igitur non potest
+esse gravitas infinita.
+|#13 Deinde cum dicit: neque si esset etc., excludit quandam obviationem. Posset enim aliquis dicere aliquod
+esse minimum tempus, scilicet indivisibile, in quo movet gravitas infinita; sicut et quidam posuerunt aliquas
+magnitudines esse minimas et indivisibiles. Sed hanc obviationem excludit: et primo ostendit quod inconveniens
+sequatur si ponatur minimum tempus, et quod in hoc infinita gravitas movet; secundo ostendit idem
+inconveniens sequi si in quocumque tempore, etiam non minimo, infinita gravitas moveat, ibi: sed adhuc necesse
+etc..
+Dicit ergo primo quod, etiam si esset tempus minimum, nulla utilitas ex hoc esset ponenti gravitatem infinitam,
+ad vitandum inconveniens.
+Quamvis enim ponamus minimum tempus, non tamen excludimus quin sit aliqua proportio huius minimi
+temporis ad tempus maius, eo quod hoc tempus minimum erit pars maioris temporis; sicut unitas est pars numeri,
+unde est aliqua proportio eius ad omnem numerum. Illud autem indivisibile non habet proportionem ad
+divisibile, quod non est pars eius; sicut punctum non est pars lineae, et ideo non est aliqua proportio puncti ad
+lineam. Accipiatur ergo alia gravitas finita e contrario, tanto maior gravitate finita quae movebat in maiori
+tempore quam gravitas infinita, in qua proportione tempus minimum gravitatis infinitae se habet ad tempus
+maius alterius gravitatis finitae. Puta, sit gravitas infinita e, tempus minimum in quo movet b, gravitas autem
+finita g, quae movet in maiori tempore quam b, scilicet in tempore d: accipiatur ergo alia gravitas tanto maior
+quam g, in qua proportione d excedit b, et sit haec gravitas f. Sic ergo, cum minoratio temporis sit secundum
+additionem gravitatis, sequetur quod gravitas f, quae est finita, moveat in eodem tempore cum gravitate infinita:
+quod est impossibile. Est autem attendendum quod, sicut non est proportio puncti ad lineam, ita etiam non est
+proportio instantis ad tempus; quia instans non est pars temporis. Sic ergo solum ista ratio tolleretur, si quis
+poneret quod gravitas infinita moveret in instanti: sed hoc est impossibile, ut probatum est in VI physic., scilicet
+quod aliquis motus sit in instanti.
+|#14 Deinde cum dicit: sed adhuc necesse etc., ostendit quod idem inconveniens sequitur in quocumque
+tempore ponamus gravitatem infinitam movere, etiam in tempore non minimo. Et hoc est quod dicit, quod si in
+qualicumque tempore finito, etiam non minimo, gravitas infinita movet, adhuc necesse est quod in ipso tempore
+aliqua gravitas finita moveat per finitum spatium; quia erit accipere excessum gravitatis secundum
+deminutionem temporis, ut praedictum est. Sic igitur patet quod impossibile est esse gravitatem infinitam: et
+eadem ratio est de levitate.
+|+13 Lectio 13
+|#1 Postquam Philosophus ostendit de singulis corporibus naturalibus quod nullum eorum sit infinitum, hic
+ostendit communi ratione quod nullum corpus naturale sit infinitum: probatio enim quae est per medium
+commune, perfectiorem scientiam causat. Circa hoc ergo duo facit: primo dicit de quo est intentio; secundo
+ostendit propositum, ibi: necesse itaque corpus omne etc..
+|#2 Circa primum tria facit. Primo ostendit quasi epilogando quid prius sit dictum; dicens quod praedicto modo
+considerantibus manifestum est quod non est corpus infinitum, per ea quae sunt secundum partem, idest
+secundum proprias rationes singularium partium universi, scilicet corporis quod movetur circulariter, et quod
+movetur sursum aut deorsum.
+|#3 Secundo ibi: et universaliter intendentibus etc., ostendit quid immediate restet dicendum. Et dicit quod idem
+potest esse manifestum si aliquis intendat universaliter, idest per medium commune.
+Et hoc non solum secundum illas rationes communes quae positae sunt in libro physicorum, ubi determinatum
+est de principiis communibus corporum naturalium (in tertio enim physicorum determinatur universaliter de
+infinito quomodo sit et quomodo non sit: ostensum est enim ibi quod infinitum est in potentia, sed non in actu)p
+nunc autem determinandum est alio modo de infinito, ostendendo scilicet universaliter quod nullum corpus
+sensibile potest esse infinitum in actu.
+29
+
+

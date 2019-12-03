@@ -1,0 +1,61 @@
+reduplicatio uniuersaliter sumpto. Condicionalis est illa in qua a positione illius super quod cadit reduplicatio
+sequitur negatio praedicati principalis. Sicut ista 'homo in quantum risibilis non est asinus' habet istas exponentes
+'homo est risibilis', 'homo non est asinus', 'nullum risibile est asinus', 'si aliquid est risibile, ipsum non est asinus'.
+Et propter hoc tales falsae sunt de uirtute sermonis 'logicus in quantum logicus diffet a grammatico',
+quia ista exponens est falsa 'omnis logicus differt a grammatico'; 'album in quantum album differt a dulci' et
+consimiles. Similiter tales sunt falsae 'intellectus in quantum intellectus non uult', 'anima in quantum intellectus
+non uult', 'anima in quantum actiua non patitur', 'anima in quantum passiua non agit', 'ignis in quantum calidus
+non est siccus', 'corpus in quantum alteratur non mouetur lacaliter', et sic de multis aliis, quia omnes tales habent
+aliquam exponentem falsam. Si autem fiat reduplicatio gratia causae, sic requiritur quod praedicatum principale
+primo uel prius negetur ab illo super quod cadit reduplicatio quam a pronomine demonstrante illud pro quo
+subiectum principale supponit; et hoc semper supponendo quod habeat quatuor praedictas exponentes. Et propter
+hoc, sic reduplicando, haec est falsa
+'homo in quantum risibilis non est asinus'. similiter est intelligendum, sicut prius, quod semper a
+propositione reduplicatiua ad suam praeiacentem est consequentia formalis. Et ideo ista consequentia est
+formalis 'logicus in quantum logicus differt a grammatico, igitur logicus differt a grammatico', ex qua sequitur
+quod logicus non est grammaticus. Tertio uidendum est de propositione ubi reduplicatio est negata. Et est
+sciendum quod talis propositio est contradictoria alicuius propositionis reduplicatiuae in qua reduplicatio est
+affirmata. Et ideo ad eius ueritatem sufficit opposita cuiuscumque exponentis reduplicatiuae, cui contradicit; quia
+regula generalis est quod quando aliqua propositio contradicit alicui habenti plures exponentes, ad ueritatem
+illius sufficit ueritas cuiuscumque oppositae exponentis. Unde ad ueritatem istius 'Sortes non est homo in
+quantum albus' sufficit ueritas istius 'Sortes non est hamo' et istius
+'Sortes non est albus' et istius 'aliquod album non est homo' et istius
+'non, si est album, est homo'. Notandum est etiam quod istae dictiones
+'secundum quod', 'ut', 'sub ratione' et huiusmodi sunt aequiualentes isti dictioni 'in quantum', et ideo
+faciunt propositiones reduplicatiuas. Et idem est dicendum de talibus propositionibus quod iam dictum est de
+talibus ubi ponitur haec dictio 'in quantum'. Si autem dictio talis non teneatur reduplicatiue sed specificatiue, tunc
+non requiritur quod illud cui additur talis dictio subiciatur uniuersaliter praedicato principali, sed requiritur quod
+illud super quod cadit reduplicatio importet illud ratione cuius competit praedicatum principale subiecto primo.
+Verbi gratia si in ista propositione 'ignis in quantum calidus calefacit' li in quantum non teneatur reduplicatiue
+sed specificatiue, non oportet quod haec sit uera
+'omne calidum calefacit', sed requiritur quod hoc nomen 'calidum' importet calorem per quem ignis
+calefacit, immo cui prius et magis per se competit calefacere quam igni, uel saltem quod est principium
+calefaciendi. Et ita ad ueritatem talis propositionis requiritur quod praedicatum principale praedicetur de subiecto
+principali et de illo cui additur dictio talis, et quod illud additum praedicetur de subiecto principali. Sed non
+requiritur quod praedicatum principale praedicetur uniuersaliter de illo cui additur dictio talis, sed oportet quod
+importet illud ratione cuius praedicatum principale conuenit uere per praedicationem subiecto principali. Et sic
+uerificantur tale propositiones 'Sortes in quantum albus disgregat',
+'Sortes in quantum habet liberum arbitrium peccat', 'ens in quantum ens est subiectum metaphysicae' et
+huiusmodi. De exemplis tamen non est curandum. Oportet etiam scire quod hoc uocabulum 'in quantum' et
+similiter talia 'secundum quod', 'sub ratione' et huiusmodi aliquando in propositionibus aequiualent alicui
+aduerbio temporis. Sicut unus sensus istius propositionis 'canis, in quantum significat animal latrabile, facit istam
+propositionem esse ueram: omnis canis est animal', est iste 'haec propositio: omnis canis est animal, non est uera
+nisi quando canis stat pro animali latrabili'. Et similiter dicimus quod haec est uera 'ista imago est homo,
+secundum quod homo accipitur improprie', hoc est, ista est uera quando 'homo' accipitur improprie. Sic etiam
+uariis modis et aequiuoce accipi potest haec dictio 'in quantum'.
+'Sortes in quantum habet liberum arbitrium peccat', 'ens in quantum ens est subiectum metaphysicae' et
+huiusmodi. De exemplis tamen non est curandum. Oportet etiam scire quod hoc uocabulum 'in quantum' et
+similiter talia 'secundum quod', 'sub ratione' et huiusmodi aliquando in propositionibus aequiualent alicui
+aduerbio temporis. Sicut unus sensus istius propositionis 'canis, in quantum significat animal latrabile, facit istam
+propositionem esse ueram: omnis canis est animal', est iste 'haec propositio: omnis canis est animal, non est uera
+nisi quando canis stat pro animali latrabili'. Et similiter dicimus quod haec est uera 'ista imago est homo,
+secundum quod homo accipitur improprie', hoc est, ista est uera quando 'homo' accipitur improprie. Sic etiam
+uariis modis et aequiuoce accipi potest haec dictio 'in quantum'.
+[2.17 DE PROPOSITIONIBUS EXCLUSIVIS]
+[2.17 DE PROPOSITIONIBUS EXCLUSIVIS]
+Circa propositiones exclusiuas est primo sciendum quid facit propositionem exclusiuam; secundo, quid
+requiritur ad ueritatem exclusiuae; tertio, quomodo termini supponuiit in prapositionibus exclusiuis; quarto,
+dandae sunt regulae quaedam.
+176
+
+

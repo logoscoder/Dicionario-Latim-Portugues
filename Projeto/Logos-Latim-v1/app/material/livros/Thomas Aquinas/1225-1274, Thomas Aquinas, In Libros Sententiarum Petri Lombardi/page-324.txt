@@ -1,0 +1,63 @@
+subjectum: quia quod semel est scitum a Deo, non potest non esse scitum ab eo. Ergo videtur quod distinctio illa
+nihil ad propositum valeat.
+AG7
+Si dicas quod contingens quando futurum est, potest, non esse; sed non ex quo ponitur praesens vel praeteritum;
+et sic Deus, cognitionem ejus habet: contra, omnis scientia quae est de aliquo praesente, de quo non erat quando
+futurum erat, recipit additionem secundum temporum successionem. Sed scientia Dei nihil accipit additionis a
+rebus, nec est in ea aliqua successio secundum tempora. Ergo si futura contingentia non cognoscit, ut futura sunt,
+nullo modo est contingentium, ut sunt praesentia vel praeterita.
+SC1
+Sed contra, ea quae subsunt libero arbitrio sunt maxime contingentia. Sed horum cognitionem Deus habet: alias
+non redderet unicuique secundum opera sua. Ergo sua scientia est contingentium.
+SC2
+Praeterea, supra habitum est quod scientia Dei est omnium. Sed non omnia ex necessitate contingunt, ut ad
+ipsum sensum patet, et a philosophis probatum est, et in fide suppositum est. Ergo scientia Dei non tantum est
+necessariorum, sed etiam contingentium.
+CO
+Respondeo dicendum, quod propter hujusmodi difficultates, quidam Philosophi negaverunt, Deum de
+particularibus contingentibus cognitionem habere, cogitantes intellectum divinum ad modum intellectus nostri; et
+ideo erraverunt. Quod autem intellectus divinus non impediatur a cognitione particularium ratione particulationis
+quae est ex materia, sicut intellectus noster impeditur, in 36 distin., quaest. 1, art. 1, ostensum est; et ideo nunc
+restat inquirere utrum impediatur ratione contingentiae: contingentia enim videtur duplici ratione effugere
+divinam cognitionem. Primo propter ordinem causae ad causatum. Quia causae necessariae et immutabilis
+videtur esse effectus necessarius; unde cum scientia Dei sit causa rerum, et sit immutabilis, videtur quod non
+possit esse contingentium.
+Secundo propter ordinem scientiae ad scitum; quia cum scientia sit certa cognitio, ex ipsa ratione certitudinis
+etiam exclusa causalitate, requirit certitudinem et determinationem in scito, quam contingentia excludit, ut patet
+in scientia nostra, quae non est causa rerum, et in scientia Dei respectu malorum. Sed neutrum horum removet
+scientiam contingentium a Deo. Et de primo quidem satis manifeste potest accipi. Quandoque enim sunt causae
+multae ordinatae, effectus ultimus non sequitur causam primam in necessitate et contingentia, sed causam
+proximam; quia virtus causae primae recipitur in causa secunda secundum modum causae secundae. Effectus
+enim ille non procedit a causa prima nisi secundum quod virtus causae primae recipitur in secunda causa: ut
+patet in floritione arboris cujus causa remota est motus solis, proxima autem virtus generativa plantae. Floritio
+autem potest impediri per impedimentum virtutis generativae, quamvis motus solis invariabilis sit.
+Similiter etiam scientia Dei est invariabilis causa omnium; sed effectus producuntur ab ipso per operationes
+secundarum causarum; et ideo mediantibus causis secundis necessariis, producit effectus necessarios, ut motum
+solis et hujusmodi; sed mediantibus causis secundis contingentibus producit effectus contingentes. Sed adhuc
+manet dubitatio major de secunda: quia causa prima necessaria potest simul esse cum defectu causae secundae,
+sicut motus solis cum sterilitate arboris; sed scientia Dei non potest simul stare cum defectu causae secundae.
+Non enim potest esse quod Deus sciat simul hunc cursurum, et iste deficiat a cursu; et hoc est propter
+certitudinem scientiae et non propter causalitatem ejus. Oportet enim invenire ad hoc quod sit certa scientia,
+aliquam certitudinem in scito.
+Sciendum est igitur, quod antequam res sit non habet esse nisi in causis suis. Sed causae quaedam sunt ex quibus
+necessario sequitur effectus, quae impediri non possunt, et in istis causis habet causatum esse certum et
+determinatum, adeo quod potest ibi demonstrative sciri, sicut est ortus solis, et eclypsis, et hujusmodi. Quaedam
+autem sunt causae ex quibus consequuntur effectus ut in majori parte, sed tamen deficiunt in minori parte; unde
+in istis causis effectus futuri non habent certitudinem absolutam, sed quamdam, inquantum sunt magis
+determinatae causae ad unum quam ad aliud; et ideo per istas causas potest accipi scientia conjecturalis de
+futuris, quae tanto magis erit certa, quanto causae sunt magis determinatae ad unum; sicut est cognitio medici de
+sanitate et morte futura, et judicium astrologi de ventis et pluviis futuris.
+Sed quaedam causae sunt quae se habent ad utrumque: et in istis causis effectus de futuro nullam habent
+certitudinem vel determinationem; et ideo contingentia ad utrumlibet in causis suis nullo modo cognosci possunt.
+Sed quando jam efficiuntur in rerum natura, tunc habent in seipsis esse determinatum; et ideo quando sunt in
+actu, certitudinaliter cognoscuntur, ut patet in eo qui videt socratem currere, quia socratem currere dum currit,
+necessarium est; et certam cognitionem habere potest.
+Dico igitur, quod intellectus divinus intuetur ab aeterno unumquodque contingentium non solum prout est in
+causis suis, sed prout est in esse suo determinato. Cum enim re existente ipsam rem videat prout in esse suo
+determinato est, aliter cognosceret rem postquam est quam antequam fiat; et sic ex eventibus rerum aliquid ejus
+accresceret cognitioni. Patet etiam quod Deus ab aeterno non solum vidit ordinem sui ad rem, ex cujus potestate
+res erat futura, sed ipsum esse rei intuebatur.
+
+324
+
+

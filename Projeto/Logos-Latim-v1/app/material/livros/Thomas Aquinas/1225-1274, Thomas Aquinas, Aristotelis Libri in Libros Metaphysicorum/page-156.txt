@@ -1,0 +1,56 @@
+proportionum potest attendi secundum comparationem numeri ad unitatem, sed secundum comparationem
+numeri ad numerum.
+Et sic est duplex, vel secundum numerum determinatum, vel secundum numerum indeterminatum.
+|#18 Si autem secundum numerum determinatum, sic est hemiolum, idest sesquialterum, aut subhemiolum,
+idest supersesquialterum. Proportio enim sesquialtera primo consistit in his terminis, scilicet ternario et binario;
+et sub ratione eorum in omnibus aliis invenitur. Unde quod dicitur hemiolum vel sesquialterum importat
+relationem determinati numeri ad determinatum numerum, scilicet trium ad duo.
+|#19 Quod vero dicitur superparticulare, refertur ad subparticulare, non secundum determinatos numeros, sicut
+etiam multiplex refertur ad unum, sed secundum numerum indeterminatum. Primae enim species inaequalitatis
+superius numeratae accipiuntur secundum indeterminatos numeros, ut multiplex, superparticulare, superpartiens
+etc.. Species vero istorum accipiuntur secundum numeros determinatos, ut duplum, triplum, sesquialterum,
+sesquitertium, et sic de aliis.
+|#20 Contingit enim aliquas quantitates continuas habere proportionem adinvicem, sed non secundum aliquem
+numerum, nec determinatum, nec indeterminatum.
+Omnium enim quantitatum continuarum est aliqua proportio; non tamen est proportio numeralis. Quorumlibet
+enim duorum numerorum est una mensura communis, scilicet unitas, quae aliquoties sumpta, quemlibet
+numerum reddit. Non autem quarumlibet quantitatum continuarum invenitur esse una mensura communis; sed
+sunt quaedam quantitates continuae incommensurabiles: sicut diameter quadrati est incommensurabilis lateri. Et
+hoc ideo, quia non est proportio eius ad latus, sicut proportio numeri ad numerum, vel numeri ad unum.
+|#21 Cum ergo dicitur in quantitatibus, quod haec est maior illa, vel se habet ad illam ut continens ad
+contentum, non solum haec ratio non attenditur secundum aliquam determinatam speciem numeri, sed nec etiam
+quod sit secundum numerum, quia omnis numerus est alteri commensurabilis.
+Omnes enim numeri habent unam communem mensuram, scilicet unitatem.
+Sed continens et contentum non dicuntur secundum aliquam commensurationem numeralem.
+Continens enim ad contentum dicitur, quod est tantum, et adhuc amplius.
+Et hoc est indeterminatum, utrum sit commensurabile, vel non commensurabile.
+Quantitas enim qualiscumque accipiatur, vel est aequalis, vel inaequalis. Unde, si non est aequalis, sequitur quod
+sit inaequalis et continens, etiam si non sit commensurabilis.
+Patet igitur quod omnia praedicta dicuntur ad aliquid secundum numerum, et secundum passiones numerorum,
+quae sunt commensuratio, proportio, et huiusmodi.
+|#22
+Deinde cum dicit et amplius ponit relativa, quae accipiuntur secundum unitatem, et non per
+comparationem numeri ad unum vel ad numerum; et dicit quod alio modo a praedictis dicuntur relative, aequale,
+simile, et idem. Haec enim dicuntur secundum unitatem. Nam eadem sunt, quorum substantia est una. Similia,
+quorum qualitas est una. Aequalia, quorum quantitas est una. Cum autem unum sit principium numeri et
+mensura, patet etiam, quod haec dicuntur ad aliquid secundum numerum, idest secundum aliquid ad genus
+numeri pertinens; non eodem modo tamen haec ultima cum primis. Nam primae relationes erant secundum
+numerum ad numerum, vel secundum numerum ad unum; hoc autem secundum unum absolute.
+|#23 Deinde cum dicit activa vero prosequitur de secundo modo relationum, quae sunt in activis et passivis: et
+dicit, quod huiusmodi relativa sunt relativa dupliciter.
+Uno modo secundum potentiam activam et passivam; et secundo modo secundum actus harum potentiarum, qui
+sunt agere et pati; sicut calefactivum dicitur ad calefactibile secundum potentiam activam et passivam. Nam
+calefactum est, quod potest calefacere; calefactibile vero, quod potest calefieri. Calefaciens autem ad calefactum,
+et secans ad id quod secatur, dicuntur relative secundum actus praedictarum potentiarum.
+|#24 Et differt iste modus relationum a praemissis. Quae enim sunt secundum numerum, non sunt aliquae
+actiones nisi secundum similitudinem, sicut multiplicare, dividere et huiusmodi, ut etiam in aliis dictum est,
+scilicet in secundo physicorum; ubi ostendit, quod mathematica abstrahunt a motu, et ideo in eis esse non
+possunt huiusmodi actiones, quae secundum motum sunt.
+|#25 Sciendum etiam est quod eorum relativorum, quae dicuntur secundum potentiam activam et passivam,
+attenditur diversitas secundum diversa tempora. Quaedam enim horum dicuntur relative secundum tempus
+praeteritum, sicut quod fecit, ad illud quod factum est; ut pater ad filium, quia ille genuerit, iste genitus est; quae
+differunt secundum fecisse, et passum esse. Quaedam vero secundum tempus futurum, sicut facturus refertur ad
+faciendum.
+156
+
+

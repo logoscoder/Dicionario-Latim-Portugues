@@ -1,0 +1,59 @@
+|+3 Capitulus 3: De quadruplici divisione entis.
+Sciendum igitur est, quod in quinto metaph. Dividitur ens quadrupliciter.
+Prima enim divisio entis ibi posita est, quod ens uno modo dicitur secundum se, alio modo secundum accidens.
+Secunda vero divisio entis est, quod ens uno modo dicitur substantia, alio modo accidens: et haec est divisio
+entis per decem praedicamenta. Ex quo patet, quod haec divisio entis non est eadem cum prima, ubi dividitur ens
+in ens secundum se dictum, et secundum accidens.
+Harum autem differentia est quia ens dicitur substantia vel accidens secundum absolutam entis considerationem,
+sicut albedo dicitur accidens, et homo substantia; sed in primo modo oportet accidens subiecto componi, unde
+secundum se vel secundum accidens dicitur, quando aliquid praedicatur de aliquo secundum se, vel secundum
+accidens. Ens vero dividitur in substantiam et accidens, quia in natura sua est substantia vel accidens: ideo subdit
+Philosophus quod ens secundum accidens dicitur tripliciter: scilicet quando accidens praedicatur de subiecto, vel
+accidens de accidente, vel subiectum de accidente.
+Divisio autem entis in substantiam et accidens, est divisio entis per se dicti: illa enim per se sunt, quae
+continentur in figuris praedicationis, ut ibidem dicitur. Cum autem ens contrahi non possit, sicut genus
+contrahitur per differentiam, ut dictum est, oportet quod ens contrahatur ad praedicta per diversum modum
+praedicandi. Eorum autem quae praedicantur, quaedam significant quid, quaedam quantum, quaedam quale, et
+sic de ceteris; ideo oportet quod unicuique modo praedicandi esse idem significet: ut cum dicitur homo est
+animal, esse significat substantiam; cum vero dicitur homo est albus, esse significat qualitatem; et sic de aliis
+praedicamentis, de quorum ortu infra dicetur.
+Tertio modo dicitur ens, quod significat propositionem quam facit intellectus componens et dividens, cuius
+compositionis veritas est veritas rei per causam: eo enim quod res est vel non est, oratio dicitur vera vel falsa.
+Veritas autem propositionis significatur per hoc verbum est: quae comparatur ad existentiam rei sicut effectus ad
+suam causam: ex hoc namque quod aliquid in rerum natura est, sequitur veritas in propositione, quae illud
+significat quod ipsum verbum est.
+Sed quia illud quod in se est non ens, intellectus accipit ut ens, sicut negatio et privatio, ideo talia dicuntur esse,
+quando formatur propositio de eis per ipsam copulam est, licet non respondeat esse a parte rei, eo quod talia
+essentias non habeant, quae sunt principia existendi. Et hoc ideo est, quia accidit rei quod de ea aliquid dicatur
+vere per intellectum, cum res non referatur ad scientiam, sed e contrario.
+Quartus modus quo dividitur ens, est per actum et potentiam. In omnibus enim praedicamentis aliquid reperitur
+in actu et aliquid in potentia; et ideo haec divisio entis est in sua communitate, cum reperiatur in omni genere
+entis: sine qua nihil est in genere; et ideo Deus in genere non est, cum non sit in eo potentia et actus.
+Id enim in genere est, quod determinatum et limitatum est ad aliquem specialem modum entis: sed determinari
+est potentiae per actum: unde omne id in genere est, in quo est potentia et actus. Omne enim quod est in genere,
+natum est habere aliquid prius se, respectu cuius est in potentia necessario, quia in diversis actus necessario est
+prior potentia, in eodem vero potentia praecedit actum; et ubi reperitur potentia et actus, necessario erit ibi genus.
+Cum igitur in omnibus citra primum sit potentia et actus, omnia praeter ipsum erunt in genere.
+Ideo licet ens quod est subiectum philosophiae primae non sit genus, nec in genere, ut dictum est; tamen
+nobiliores partes entis, substantiae scilicet separatae, necessario erunt in genere. Et quia accidens est imperfecta
+pars entis, sed perfecta ratio entis in substantia reperitur, perfectior pars entis ad genus substantiae spectabit, de
+quo primo agendum est.
+|+4 Capitulus 4: Ex quo sumatur ratio generis.
+Quod logicus et metaphysicus circa omnia operantur differenter.
+Sciendum est ergo quod, sicut in quarto metaph. Dicitur, logicus et metaphysicus circa omnia operantur,
+differenter tamen. Sicut enim primi Philosophi est loqui de ente in communi, ita et logici; aliter non esset circa
+omnia eius consideratio, nisi haberet pro subiecto ens in communi. Cum enim unius scientiae sit unum
+subiectum, idem erit subiectum utriusque. Sed differunt: quia Philosophus procedit ex certis et demonstrabilibus,
+logicus autem ex probabilibus: et hoc ideo est, quod ens dupliciter dicitur, scilicet naturae et rationis.
+Ens autem rationis proprie dicitur de illis intentionibus quas ratio in rebus adinvenit, sicut est intentio generis et
+speciei, quae non inveniuntur in rerum natura sed sequuntur actiones intellectus et rationis: et huiusmodi ens est
+subiectum logicae, et illud ens aequiparatur enti naturae quia nihil est in rerum natura, de quo ratio non
+negotietur. Inde etiam est quod circa idem dicuntur operari metaphysicus et logicus.
+Quod differentia in substantiis separatis non sumitur ab esse sed ab essentia.
+Substantiae ergo separatae, sicut subsunt enti perfecto, substantiae scilicet naturae, ita et enti rationis, substantiae
+scilicet secundum logicam considerationem acceptae.
+Substantia autem, ut dictum est supra, addit super ens specialem modum essendi, qui est per se esse. Cui si
+addiderimus omne illud quod est in genere habere potentiam et actum; potentia autem ad actum se non
+3
+
+

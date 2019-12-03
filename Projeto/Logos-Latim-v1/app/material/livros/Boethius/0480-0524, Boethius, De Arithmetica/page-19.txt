@@ -1,0 +1,58 @@
+xij claudunt qui xij ex tribus nascuntur et iiij ter enim iiij fiunt xij, senarius vero ex duobus et tribus, bis enim
+tres faciunt vj qui omnes uno maioribus lateribus procreati sunt. Nam cum vj ex binario ternarioque nascantur,
+tres binarium numerum uno superant, cunctique alii eiusdem modi sunt, ut primo et secundo ordine ad alterutrum
+multiplicatis terminis procreentur, ita ut quod nascitur ex duobus longilateris altrinsecus positis et bis medio
+tetragono tetragonus sit; et rursus, quod ex duobus altrinsecus tetragonis et uno medio longilatero bis facto
+nascitur, ipse quoque tetragonus sit; et ut angulorum totius descriptionis ad angulares tetragonos positorum unius
+anguli sit prima unitas, alterius vero, qui contra est, tertia, bini vero altrinsecus anguli secundas habeant unitates;
+et duo angularium tetragonorum anguli aequum faciunt, quod sub ipsis continetur, illi, quod fit ab uno illorum,
+qui est altrinsecus, angulorum. Multa etiam sunt alia quae in hac descriptione utilia possint admirabiliaque
+perpendi, quae interim propter castigatam introducendi brevitatem ignota esse permittimus. Nunc vero ad
+sequentia propositum convertamus.
+De tertia inaequalitatis specie, quae dicitur superpartiens deque eius speciebus earumque generationibus.
+Igitur post duas primas habitudines multiplices et superparticulares et eas, quae sub ipsis sunt,
+submultiplices et subsuperparticulares tertia inaequalitatis species invenitur, quae a nobis superius superpartiens
+dicta est. Haec autem est, quae fit, cum numerus ad alium comparatus habet eum totum intra se et eius insuper
+aliquas partes, vel duas vel tres vel iiij vel quotquot ipsa tulerit comparatio; quae habitudo incipit a duabus
+partibus tertiis; nam si duas medietates habuerit, qui illum intra se totum coercet, duplus pro superpartiente
+componitur. Habebit autem vel duas quintas vel duas septimas vel duas nonas et ita progredientibus, si duas
+solas partes minoris numeri superhabuerit per easdem partes inparibus numeris minorem maior summa
+transcendit. Nam si eum habeat totum et duas eius quartas, superparticularis necessario repperitur, nam duae
+quartae medietas est et fit sesqualtera comparatio; sin vero duas sextas, rursus est superparticularis, duae enim
+sextae pars tertia est, quodsi in comparatione ponatur, sesquitertiae habitudinis efficiet formam.
+Post hos nascuntur comites, qui subsuperpartientes vocantur. Hi autem sunt, qui habentur ab alio numero,
+et eorum vel duae vel tres vel iiij vel quotlibet aliae partes. Si ergo numerus alium intra se numerum habens eius
+duas partes habuerit, superbipartiens nominatur, sin vero tres, supertripartiens, quodsi iiij, superquadripartiens,
+atque ita progredientibus in infinitum fingere nomina licet. Ordo autem eorum naturalis est, quotiens disponuntur
+a tribus omnes pares atque inpares numeri naturaliter constituti et sub his aptantur alii, qui sunt a quinario
+numero incipientes omnes inpares. His igitur ita dispositis si primus primo, secundus secundo, tertius tertio et
+ceteri ceteris comparentur, superpartiens habitudo procreatur. Sit enim dispositio hoc modo:
+
+ij iij
+
+j ij
+
+iij iiij
+
+ij iiij j iij v
+
+vij viiij
+
+Si igitur quinarii numeri ad ternarium comparatio consideretur, erit superpartiens ille, qui vocatur
+superbipartiens; habet enim quinarius totos in se tres et eorum duas partes id est duo. Si vero ad secundum
+ordinem speculatio referatur, supertripartiens proportio cognoscetur atque ita in sequentibus per omnes
+dispositos numeros omnes in infinitum species huius numeri convenientes ordinatasque respicies.
+At vero quemadmodum singuli procreentur si in infinitum quis curet agnoscere, hic modus est. Habitudo
+enim superbipartientis, si utrisque terminis duplicetur, semper superbipartiens proportio procreatur. Si enim quis
+duplicet v, faciet x, si iij, faciet vj, qui x contra senarium comparati superbipartientem faciunt habitudinem. Et
+hos ipsos rursus si duplicaveris, idem ordo proportionis adcrescit, idemque si infinitum facias, statum prioris
+habitudinis non mutabit. Si vero supertripartientes invenire contendas, primos supertripartientes, id est vij et iiij
+triplicabis et huiusmodi nascentur. Si vero, qui ex his nati fuerint, ternarii multiplicatione produxeris, idem
+rursus efficient. Quodsi superquadripartientes quemadmodum in infinitum progrediantur, appetas addiscere,
+primas eorum radices in quadruplum multiplices licet, id est viiij et v et eos, qui illa multiplicatione proferentur,
+rursus in quadruplum, et eandem fieri proportionem inoffensa nimirum ratione repperies; et ceterae species una
+semper plus multiplicatione crescentibus radicibus oriuntur. Radices autem proportionum voco numeros in
+superiore dispositione descriptos, quasi quibus omnis summa supradictae comparationis innititur.
+19
+
+

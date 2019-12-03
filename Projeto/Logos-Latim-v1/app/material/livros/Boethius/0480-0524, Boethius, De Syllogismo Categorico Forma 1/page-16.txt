@@ -1,0 +1,63 @@
+<I-3: DARII> Tertius uero modus primae figurae est, quoties ex uniuersali affirmatiua, et particulari
+affirmatiua, particularis affirmatiua colligitur. Nam si a uirtus de omni b, id est bono, praedicetur, et b bonum de
+quodam c, id [814B] est iusto, fuerit praedicatum particulariter, erit quoque conclusio particularis, hoc modo, ut a uirtus
+de quodam c iusto particulariter praedicetur. Si igitur fuerit a terminus in omni b, et b terminus in aliquo c
+particulariter, erit a terminus in aliquo c particulariter, ut sit:
+Omne bonum uirtus est, Quoddam iustum bonum est; Quoddam igitur iustum uirtus est.
+<I-4: FERIO> Quartus modus primae figurae est talis, quoties ex uniuersali negatione et particulari
+affirmatione paricularis negatiua colligitur. Nam si a terminus de nullo b termino praedicetur, b uero termimis de
+quodam c termino praedicetur, a terminus de quodam c termino non praedicabitur, quod monstrat [814C] subiecta
+descriptio.
+Nam sunt huiusmodi propositiones:
+Nullum bonum malum est, Quoddam iustum bonum est; Quoddam igitur iustum malum non est.
+Hos ergo quatuor in prima figura modos in Analyticis suis Aristoteles posuit. Caeteros uero quinque modos
+Theophrastus et Eudemus addiderunt, quibus Porphyrius, grauissimae uir auctoritatis, uisus est consensisse, qui sunt
+huiusmodi. Nam quoniam particularis affirmatiua sibi ipsi conuertitur, quisquis ostenderit in conclusione a terminum de
+quodam c termino particulariter praedicari, in eadem ipsa conclusione monstrauit quod c terminus de a termino [814D]
+rursus particulariter praedicetur. Nam si sibi particularis propositio in coliclusione conuertitur, si a terminus in quodam
+c termino fuerit, c terminus de quodam a termino praedicabitur. Item quisquis uniuersalem negatiuam in conclusione
+probauerit, necesse est eum ipsius quoque conuersionem in eadem conclusione probasse. Uniuersalis enim negatio
+semper sibi couuertitur. Nam si quis probauit quod a terminus de nullo c termino praedicatur, non est dubium quin in
+hac conclusione illud quoque probatum sit, quod c terminus de nullo a termino praedicetur.
+Semper enim, ut dictum est, uniuersalis negatiua sibi ipsi conuertitur. Uniuersalis quoque affirmatiua duplici
+conclusione continetur: nam quisquis ostendit a terminum de omni c termino praedicari, illud [815A] quoque ostendit
+quod c terminus de quodam a termino particulariter praedicetur. Si quis enim probauerit animal de omni homine
+praedicari, ita dicens, omnis homo animal est, illud quoque necessario monstrauit particulariter, quoniam quoddam
+animal homo est. Ita semper uniuersalis negatio, et uniuersalis affirmatio, uel particularis affirmatiua dupliciter
+concluduntur. Aliae enim sibi ipsis conuertuntur, quae particularis est particulariter, quae uniuersalis uniuersaliter. Alia
+uero, cum ipsa uniuersalis affirmatiua sit, particulariter sibi ipsi conuertitur. Particularis autem negatio nunquam sibi
+ipsi conuertitur, atque ideo simplicem in se retinet conclusionem.
+Hoc autem quod nuper diximus, in secundo priorum Analyticorum libro ab Aristotele monstratur, [815B] quod
+scilicet Theophrastus et Eudemus principium capientes ad alios in prima figura syllogismos adiiciendos animum
+adiecere, qui sunt huiusmodi qui *kata anaklasin* uocantur, id est, per refractionem quamdam conuersionemque
+propositionis.
+<I-5: BARALIPTON> Et est quintus modus ex duabus uniuersalibus affirmationibus, particularem colligens
+affirmatiuam hoc modo: Si a fuerit in omni b, et b fuerit in omni c, posset equidem concludi quod a terminus esset in
+omni c termino. Sed quoniam ista uniuersalis propositio, ut dictum est, particulariter conuertitur, praetermisso eo quod
+a terminus de omni c termino praedicatur, conclusio esse dicitur quod c terminus de quodam a termino praedicatur,
+quod hoc exemplo monstrandum est. Si enim sint propositiones sic:
+Omne iustum [815C] bonum est, Omnis uirtus iusta est;
+posset concludi equidem quoniam:
+Omnis uirtus bonum est.
+Sed quoniam illa propositio sibi conuertitur, ut sit:
+Quoddam bonum uirtus est
+particulariter, particularis syllogismus conclusioque colligitur ex duabus uniuersalibus affirmatiuis. Eius uero
+forma talis est, a terminus in omni b, b terminus in omni c; igitur c terminus in quodam a, ut est:
+Omne iustum bonum est, Omnis uirtus iusta est; Quoddam bonum iustus est.
+Per conuersionem refractionemque dicitur, quoniam quod uniuersaliter colligebatur conuersum, particulariter
+collectum est.
+<I-6: CELANTES> Sextus modus est primae figurae [815D] qui fit ex uniuersali negatiua et uniuersali
+affirmatiua uniuersalem conclusionem per conuersionem colligens. Nam si a terminus in nullo b fuerit, b uero terminus
+in omni c termino fuerit, posset equidem colligi quoniam a terminus in nullo c termino est: se quoniam uniuersalis
+negatiua conuertitur, dicimus quoniam c terminus in nullo a termino est, ut sit hoc modo:
+Nullum bonum malum est, Omne iustum bonum est;
+posset colligi:
+Nullum iustum malum est
+sed ex his per conuersionem colligimus:
+Nullum malum iustum est.
+<I-7: DABITIS> Septimus modus primae figurae est, qui ex uniuersali affirmatiua et particulari affirmatiua
+per conuersionem [816A] particularem colligit affirmatiuam. Si enim fuerit a terminus in omni b, et b terminus de
+
+16
+
+

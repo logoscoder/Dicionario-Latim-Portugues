@@ -1,0 +1,63 @@
+5 INCIPIUNT fehlt W411
+6 CAPITULA V630
+7 Rubrik interlinear nachgetragen O93, Zählung der folgenden Rubriken auf Rasur; Rubrik fehlt V630; B132;
+V1341; E97
+8 accusatoribus] clericis ad testimonium pulsandis W411; B132
+9 I V630; B132; V1341; E97
+10 damnantis W411
+11 defensetur W411; defensent V1341
+12 II V630; B132; V1341; E97
+13 continent W411
+14 III V630; B132; V1341; E97
+15 Rubrik fehlt W411 (vgl. c. 1)
+16 IIII V630; W411; B132; V1341; E97
+17 sine consulto] inconsultum W411
+18 consultu V1341; E97
+19 episcopo B132; episcopi korr. aus episcopo V1341
+20 V V630; W411; B132; V1341; E97
+21 VI V630; W411; B132; V1341; E97
+22 noverint W411
+23 Similiter de consecratione ecclesiarum faciendum est fehlt W411
+24 faciendum est fehlt V1341
+25 VII V630; W411; B132; V1341;
+26 VIII V630; W411; B132; V1341; E97
+27 rennuant W411; B132; V1341
+28 sacerdote V630
+29 VIIII V630; W411; B132; V1341; E97
+30 De defensore korr. aus Defensore V630; V1341
+31 defensore korr. aus fensore V630
+32 a fehlt W411
+33 X V630; W411; B132; V1341; E97
+34 XI V630; W411; B132; V1341; E97
+35 sacerdotibus ut korr. aus sacerdotibus V630
+36 inponantur V1341
+37 XII V630; W411; B132; V1341; E97
+38 quandiu korr. aus quadiu E97
+39 ei W411
+40 adsere O93; assere B132
+41 XIII V630; W411; B132; V1341; E97
+42 XIIII V630; W411; B132; V1341; E97
+43 XV V630; W411; B132; V1341; E97
+44 destruendis] destruendis PROLOGUS E97
+45 Text des 5. Konzils von Karthago fehlt B132
+46 CONSULATUM] CONSULATUM flavii stiliconis E97
+47 placuit] PLAUTISTILI V. C. W411
+48 placuit ut die VI] XVII E97
+49 UT fehlt W411
+50 XVI W411
+51 CARTAGINE korr. aus CARTAGINENSIS W411; cartagini E97
+52 subter inserta statuerentur fehlt W411; E97
+53 coepiscopis V1341; E97
+54 subsequenti W411
+55 I] I cap. E97
+56 est fehlt W411
+57 accusatoribus de inimici domo prodeuntibus, vel qui cum inimicis morantur, non credatur, nac ab accusatis
+recipiantur, dein fehlt V630; W411; V1341
+58 dein] deinde ut E97
+59 decisio W411
+60 parte W411
+61 hic W411
+62 ruit W411
+3
+
+

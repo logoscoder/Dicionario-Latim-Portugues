@@ -1,0 +1,59 @@
+|#8 Secundo ibi: caelum autem videmus etc., probat destructionem consequentis dupliciter: primo quidem quia
+ad sensum videmus quod caelum circulariter movetur; secundo quia supra per rationem probatum est quod motus
+circularis est alicuius corporis. Unde relinquitur quod impossibile sit corpus esse infinitum, quod circulariter
+movetur.
+|+10 Lectio 10
+|#1 Praemissa prima ratione, quae procedebat ad ostendendum corpus non esse infinitum quod circulariter
+fertur, ex hoc quod distantia quae est inter duas lineas a centro egredientes erit infinita et impertransibilis, hic
+ponit secundam rationem, ex hoc quod lineae descriptae imaginatae in corpore infinito, sive in eius loco, non
+possunt se invicem intersecare.
+Et praemittit in hac ratione quoddam principium, scilicet quod si a tempore finito subtrahatur tempus finitum,
+quod relinquitur necesse est esse finitum: quia pars finiti non potest esse infinita, alioquin totum esset minus sua
+parte. Et si illud residuum temporis est finitum, consequens est quod habeat principium: hoc enim tempus
+dicimus esse finitum, quod habet principium et finem.
+Demonstratum est autem in VI physic. Quod tempus et motus et mobile consequuntur se invicem in hoc quod est
+esse finitum vel infinitum.
+Unde si tempus mensurans incessum sive motum, est finitum et habens principium, necesse est quod motus sit
+finitus et quod habeat principium, et quod etiam magnitudo mota sit finita et habens principium. Et sicut hoc
+dicimus in motu caeli, similiter oportet se habere in aliis motibus et mobilibus.
+|#2 Istis igitur praemissis tanquam principiis, procedit ad demonstrandum propositum. Supponatur ergo quod a
+centro corporis infiniti quod est a, protrahatur quaedam linea, scilicet age, quae sit infinita ad aliam partem,
+scilicet ex parte e; et intelligatur ista linea circumvolvi secundum motum totius corporis, et quod secundum
+punctum g describat quendam circulum suo motu.
+Imaginemur etiam in spatio imaginato in quo revolvitur corpus infinitum, quandam lineam stantem immobilem,
+quae non transeat per centrum, sed sit infinita ex utraque parte, et sit linea bb. Si ergo, sicut dictum est, linea
+quae est age, sua incessione describat circulum a g, idest cuius semidiameter sit ag, continget quod linea age,
+circumeundo circulum praedictum, secabit totam lineam bb in tempore finito. Manifestum est enim quod
+semidiameter circuli non potest volvi in circuitu nisi incidat vel secet successive totam lineam immobilem
+imaginatam in circulo extra centrum.
+Et quod tempus sit finitum in quo linea quae educitur a centro, secet lineam infinitam quae describitur extra
+centrum, manifestat per hoc quod totum tempus in quo caelum movetur, est finitum, sicut patet ad sensum: unde
+consequens est quod pars illius temporis, quod aufertur a toto tempore, sit finita, in quo scilicet linea age incidit
+lineam bb. Vel potius sequitur illud tempus esse finitum, in quo illa linea incidens fertur usque ad lineam quae
+inciditur; et hoc oportet auferri a toto tempore finito, ut residui temporis accipiatur quoddam principium,
+secundum principium supra positum. Sequitur ergo quod sit aliquod principium temporis, in quo linea age incipit
+incidere lineam bb. Hoc autem est impossibile: quia, cum unam partem incidat ante aliam, si sit dare principium
+temporis in quo incipit incidere, esset dare principium aliquod in linea infinita, quod est contra rationem infiniti.
+Sic ergo patet quod corpus infinitum non contingit revolvi circulariter.
+Unde si mundus sit infinitus, sequitur quod non moveatur circulariter. Videmus autem firmamentum moveri
+circulariter: non ergo est infinitum.
+|#3 Tertiam rationem ponit ibi: adhuc autem et ex his etc.: et sumitur haec ratio ex infinitate totius corporis
+quod ponitur circulariter moveri. Dicit ergo quod ex his etiam quae sequuntur, manifestum est quod impossibile
+est corpus infinitum moveri circulariter. Praemittit autem quod si sint duae lineae finitae, quarum una sit a et alia
+b, ita quod a feratur iuxta b quiescentem, ex necessitate sequitur quod simul linea mota quae est a, separetur a
+linea stante quae est b, et e contra linea stans quae est b, separetur a linea mota quae est a. Et huius ratio est, quia
+quantam partem una earum accipit de alia, tantam e converso alia accipit de ipsa. Sed tamen si ambae moveantur
+una contra aliam, velocius separabuntur lineae ab invicem; si autem una moveatur iuxta aliam quiescentem,
+tardius separabuntur lineae ab invicem; dummodo sit aequalis velocitas duarum motarum contra se invicem, et
+unius motae iuxta aliam stantem. Et hoc ideo praemisit, quia idem est tempus quo una linea pertransit aliam, et
+quo alia pertransit ipsam.
+Et postquam hoc manifestavit per lineas finitas, applicat hoc ad lineas infinitas, de quibus intendit. Et dicit
+manifestum esse quod impossibile est lineam infinitam pertransiri tempore finito a linea finita; unde relinquitur
+quod linea finita pertranseat infinitam tempore infinito; quod quidem ostensum est prius in his quae de motu,
+idest in VI physic.. Sicut autem apparet ex his quae dicta sunt de lineis finitis, nihil differt quod linea finita
+moveatur per infinitam, et quod infinita moveatur super finitam: cum enim linea infinita moveatur per lineam
+finitam, similis ratio est si linea finita moveatur vel non moveatur; manifestum est autem quod si moveatur linea
+
+24
+
+

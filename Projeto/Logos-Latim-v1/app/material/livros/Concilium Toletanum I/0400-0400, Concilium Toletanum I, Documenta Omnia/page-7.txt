@@ -1,0 +1,60 @@
+119 penitente W411
+120 admittatur W411
+121 deputetur W411
+122 evangelium E97
+123 aut V630; V1341
+124 legat W411
+125 qui V630; V1341; E97
+126 subdiacones] subdiacones archidiacones W411
+127 imponant korr. aus imponat E97
+128 nec sacra] aut sacra non W411
+129 Ex eo vero poenitente] ex penitente vero W411
+130 dicimus] dicimus deo W411
+131 concilio V630; cilicio korr. aus cilio E97
+132 IIII E97
+133 si fehlt W411
+134 forte fehlt W411
+135 V E97
+136 defuncto V1341
+137 fuerat W411; V1341; E97
+138 nequi V630; V1341; E97
+139 es W411
+140 postea korr. aus post W411
+141 inter korr. aus in V1341
+142 VI E97
+143 quilibet korr. aus quaelibet V630; quilibet W411; V1341; E97
+144 ut W411
+145 vicus W411; vici E97
+146 vicis] vici sunt V630
+147 si fehlt W411
+148 aut] aut ad V630
+149 noluit V630
+150 VII E97
+151 AUT W411
+152 cum quolibet] quecumque libet W411
+153 laico] laico sive W411
+154 interlinear vel nec E97
+155 aut honestorum aut viduarum honestarumque frequentia] frequentia aut onestorum aut viduarum onestarumqu• W411
+156 confessor W411; E97
+157 testimonio testium] testimoniorum testimonio W411
+158 admittendos W411
+159 videndos O93
+160 forte] forte aut korr. aus forte a V630
+161 VIII E97
+162 cuicumque W411
+163 peccaverint V630; V1341; peccaverint korr. aus peccaverit E97
+164 habeant korr. aus habeat O93
+165 interlinear vel salutifera E97
+166 eas korr. aus eius V630
+167 qui W411
+168 peccaverint W411
+169 IX E97
+170 aut V630; W411; V1341; E97
+171 ad necandum fideles fehlt W411
+172 gravia non korr. aus grava V630
+173 dimissus V1341
+174 diaconii korr. aus diaconi O93; diaconi V630; W411; V1341
+175 X E97
+7
+
+

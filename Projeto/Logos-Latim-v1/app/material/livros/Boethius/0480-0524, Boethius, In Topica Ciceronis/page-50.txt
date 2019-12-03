@@ -1,0 +1,61 @@
+Non si dies est, lux non est; Atqui dies est, Lux igitur est.
+Hic ergo posito quod praecedebat, id est esse diem, euersum [1136B] est quod sequebatur, id est, non esse
+lucem; negatione quippe affirmatio omnis euertit, uel cum connexae propositionis ex negationibus iunctae, secundae
+parti negatio detrahitur, totaque propositio denegatur, positaque priore propositionis parte, interimitur quod
+subsequebatur, hoc modo: non si lux non est, dies est, atqui lux non est, dies igitur non est; uel si connexae
+propositionis ex negatione atque affirmatione compositae, secundae parti negatio iungatur, eaque insuper denegetur,
+ponaturque quod prius est, ut id quod sequitur auferatur, hoc modo: non si dies non est, nox non est atqui dies non est,
+nox igitur est; uel si in eadem propositione, quae ex negatione atque affirmatione copulata [1136C] est, priori parti
+negatio subtrabatur, eaque insuper denegetur, ponaturque quod primum est, ut id quod sequitur auferatur, hoc modo:
+non si dies est, nox est, atqui dies est, nox igitur non est; uel si connexae propositionis ex affirmatione et negatione
+copulatae, posteriori parti denegatio dematur, totaque insuper denegetur, positoque priore, id quod sequitur interimatur,
+hoc modo: non si uigilat sterlit, atqui uigilat, non stertit igitur.
+Atque haec omnia in tertio modo esse intelliguntur, atque ex repugnantibus fiunt, et semper id quod antecedit,
+ponitur, ut id quod sequitur, auferatur. Nam non sicut non propositione conditionali quia negata repugnantia partium fit
+uera, prior pars ponitur, siue affirmatiue, siue negatiue, ita eam reddit assumptio. Sed ut prior pars fuerit assumpta,
+reliqua contraria enuntiatione concluditur.
+[1136D] Nam si assumptio fuerit affi rinatiua, erit negatiua conclusio. Si assumptio negatiua, erit conclusio
+affirmatiua.
+Quartus modus est cum in disiunctiua propositione primum ponitur, ut auferatur secundum hoc modo:
+Aut dies est, aut nox est; Atqui dies est, Nox igitur non est.
+Quintus modus est quoties in disiunctiua propositione auferatur quod prius est, ut ponatur secundum, hoc
+modo:
+Aut dies est, aut nox est; Non est autem dies, Nox igitur est.
+Sextus modus cum his rebus quae in disiunctionem uenire possunt, id est contrariis uel repugnantibus
+medictate carentibus, negatio praeponitur, et copulatiuae coniunctiones adiunguntur, poniturque quod primum est, ut id
+quod est subsequens auferatur, hoc [1137A] modo:
+Non et dies est et nox est; Dies autem est, Nox igitur non est.
+Septimus modus est cum in eadem propositione aufertur id quod praecedit, ut ponatur id quod consequitur, hoc
+modo:
+Non et dies est et nox est; Atqui dies non est, Nox igitur est.
+His igitur ita praedictis ad Ciceronis uerba ueniamus.
+[13.53] CUM TRIPERTITO IGITUR DISTRIBUATUR LOCUS HIC, IN CONSECUTIONEM
+ANTECESSIONEM REPUGNANTIAM, REPERIENDI ARGUMENTI LOCUS SIMPLEX EST, TRACTANDI
+TRIPLEX. NAM QUID INTEREST, CUM HOC SUMPSERIS, PECUNIAM NUMERATAM MULIERI DEBERI
+CUI SIT ARGENTUM OMNE LEGATUM, UTRUM HOC MODO CONCLUDAS ARGUMENTUM: SI PECUNIA
+SIGNATA ARGENTUM EST, LEGATA EST MULIERI. EST AUTEM PECUNIA SIGNATA ARGENTUM.
+LEGATA IGITUR EST; AN ILLO MODO: SI NUMERATA PECUNIA NON EST LEGATA, NON EST
+NUMERATA PECUNIA [1137B] ARGENTUM. EST AUTEM NUMERATA PECUNIA ARGENTUM; LEGATA
+IGITUR EST. AN ILLO MODO: NON ET LEGATUM ARGENTUM EST ET NON EST LEGATA NUMERATA
+PECUNIA. LEGATUM AUTEM ARGENTUM EST; LEGATA IGITUR NUMERATA PECUNIA EST?
+Eum locum qui ex antecedentibus, consequentibus et repugnantibus esset, unum recte uideri, eumque in
+conditione esse positum, sed trina partiione distribui, superius explicatum est; idque M. Tullius euidentius notat dicens,
+intellectum quidem eius considerationemque in conditione positam unam esse sed per argumentationis tractationem
+tripartito diuidi. Cuius rei per primum ac secundum et tertium hypotheticorum syllogismorum modum, sicut paulo
+superius diximus, exempla subiecit. Quae quoniam implicatiora uidentur quam ut primo statim auditu [1137C]
+comprehendantur, uisum paulisper est apertioribus exemplis animum lectoris imbuere, ut in facilioribus primum
+exercitata intelligentia, sine magno negotio, qua sunt difficiliora perpendat.
+Ab antecedentibus igitur argumentatio fit, quoties enuntiata propositionis conditione sumitur id quod antecedit,
+ut id quod sequitur inferatur, hoc modo: sit enim dubium an Tullius animal sit, concedaturque eumdem Ciceronem esse
+hominem, et sit rata propositio haec: Tullius si homo est, animal est; homo antecedit, animal sequitur; si igitur ex
+antecedenti uelim facere argumentationem, assumam id quod praecedit, hoc modo: sed homo est Cicero, consequitur
+animal esse Ciceronem; et est hic primus quem supra [1137D] diximus modus.
+Rursus a consequenti argumentatio fit quoties in conditione proposita id quod consequitur tollit assumptio, ut
+id quod praecesserat interimatur, hoc modo: si homo est Cicero, animal est. Antecedit homo, sequitur animal. Si igitur
+ex consequenli facere argumentum uelim, dicam, atqui non est animal, sequitur ne esse hominem quidem, sed id
+perspicue falsum est, esse enim hominem constat falsum est igitur animal non esse. Tullius igitur animal est; et hic
+dictorum superius secundus est modus.
+Quod si a repugnantibus fiat, in tertio scilicet modo digestarum superius conclusionum, faciemus ita: non si
+homo est Tullius, animal non est, repugnat enim esse hominem et animal non esse; hic si assumamus esse hominem,
+
+

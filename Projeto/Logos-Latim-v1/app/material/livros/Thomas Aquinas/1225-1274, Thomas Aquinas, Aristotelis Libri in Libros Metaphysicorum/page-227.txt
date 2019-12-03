@@ -1,0 +1,52 @@
+|#14 Per quod etiam solvitur ratio superius inducta; quia nihil prohibet idem genus in se continere diversas
+differentias, sicut indeterminatum continet in se diversa determinata. Et etiam propter hoc solvitur, quia non hoc
+modo advenit differentia generi, ut diversa essentia ab eo existens, sicut advenit album homini.
+|#15 Deinde cum dicit at vero ostendit quod nec etiam multitudo differentiarum impedit unitatem definitionis.
+Et circa hoc duo facit. Primo ostendit qualiter debeant sumi in definitione multae differentiae. Secundo ostendit
+quod si differentiae debito modo sumantur, non impediet multitudo differentiarum unitatem definitionis, ibi, si
+itaque.
+Dicit ergo primo, quod in definitionibus in quibus sunt multae differentiae, oportet non solum dividi genus in
+differentiam, sed etiam dividi differentiam primam in differentiam secundam. Sicut animalis differentia est
+pedalitas, secundum quam animal dicitur habens pedes, vel gressibile. Sed quia etiam haec differentia
+multipliciter invenitur, iterum oportet scire differentiam animalis habentis pedes, quae sit differentia eius,
+inquantum est habens pedes, scilicet per se et non per accidens.
+|#16 Et ideo, quia habenti pedes accidit habere alas, non est dicendum, dividendo differentiam, quod habentis
+pedes aliud est alatum, aliud non alatum, si homo bene velit dicere divisionem differentiarum.
+Sed tamen quandoque aliquis dividens differentias facit hoc ut scilicet dividat per ea quae sunt secundum
+accidens, propter hoc quod non potest invenire proprias et per se differentias. Aliquando enim necessitas cogit, ut
+utamur, loco per se differentiarum, differentiis per accidens, inquantum sunt signa quaedam differentiarum
+essentialium nobis ignotarum.
+|#17 Sed hoc modo est haec differentia dividenda habens pedes: scilicet: huiusmodi animalium, aliud est habens
+pedes scissos, et aliud non scissos. Istae enim sunt differentiae pedis, scilicet scissum et non scissum. Et ideo
+habens pedes scissos, per se dividet hanc differentiam quae est habens pedes. Scissio enim pedis est quaedam
+pedalitas: idest haec differentia quae est habere pedes scissos, est quoddam contentum sub hoc quod est habere
+pedes; et habent se adinvicem sicut determinatum et indeterminatum, sicut diximus de genere et differentia.
+|#18 Et ita semper procedendum est in divisione differentiarum, donec dividens veniat ad non differentia, idest
+ad ultimas differentias, quae non dividuntur ulterius in alias differentias; et tunc tot erunt species pedis quot
+differentiae: et species animalium habentium pedes aequales differentiis.
+Quaelibet enim individualis differentia constituet unam speciem specialissimam.
+|#19 Deinde cum dicit si itaque ostendit ex suppositis, quod multitudo differentiarum non impedit unitatem
+definitionis.
+Et circa hoc duo facit. Primo ostendit propositum. Secundo inducit conclusionem intentam, ibi, quare palam etc..
+Circa primum duo facit. Primo ostendit quomodo ex multis differentiis fit unum, si differentiae per se sumuntur.
+Secundo, quod hoc non potest esse si sumantur per accidens, ibi, si vero secundum accidens.
+Dicit ergo primo, quod si sic se habent differentiae acceptae in definitione sicut dictum est, scilicet quod semper
+sumantur per se differentiae et non per accidens, palam est quod ultima differentia erit tota substantia rei, et tota
+definitio.
+Includit enim in se omnes praecedentes particulas.
+|#20 Quod enim in differentia includatur genus, ostensum est, ex hoc quod genus non est sine differentiis. Sed
+quod ultima includat omnes praecedentes, palam est ex hoc quod nisi hoc dicatur, sequitur quod oporteat in
+terminis, idest definitionibus, multoties eadem dicere. Et hoc erit superfluum et nugatorium.
+|#21 Hoc autem inconveniens ideo accidit, quia si aliquis dicat in definiendo animal habens pedes bipes, quod
+oportebit eum dicere si bipes sit alia differentia ab habente pedes, non includens eam, nihil aliud dixit sic
+definiens, quam animal habens pedes, duos pedes habens. Bipes enim nihil aliud est quam duos pedes habens; in
+quo manifeste includitur, pedes habens. Unde patet quod, si utraque apponatur differentia, est nugatio.
+|#22 Et iterum si hoc quod est bipes dividat aliquis propria divisione, idest per ea quae sunt per se et non per
+accidens, sequetur ulterius multoties dici idem, et toties quot sumuntur differentiae.
+Ut si dicam quod animalis bipedis, aliud est habens pedes scissos in quinque digitos, aliud in quatuor: si quis
+vellet, definiens hominem, ponere omnes differentias intermedias, toties repeteret idem, quot differentias
+apponeret. Diceret enim quod homo est animal pedes habens, duos pedes habens, scissos in quinque digitos.
+
+227
+
+

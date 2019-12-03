@@ -1,0 +1,67 @@
+|#6
+Secundam rationem principalem ponit ibi: amplius dividerentur etc.,
+quae sumitur ex alia definitione continui, quam supra posuit in principio
+tertii, scilicet quod continuum sit quod est in infinitum divisibile: et
+est ratio talis.
+Ex quibuscumque componitur vel linea vel tempus, in ipsa dividitur: si
+igitur utrumque istorum componitur ex indivisibilibus, sequitur quod in
+indivisibilia dividatur. Sed hoc est falsum, cum nullum continuorum sit
+divisibile in impartibilia: sic enim non esset divisibile in infinitum.
+Nullum igitur continuum componitur ex indivisibilibus.
+|#7
+Deinde cum dicit: nullum autem aliud etc., manifestat duo quae supra
+dixerat.
+Quorum primum fuit, quod inter duo puncta sit linea media, et inter duo
+nunc, tempus.
+Et hoc manifestat sic.
+Si sunt duo puncta, oportet quod differant secundum situm: alias non essent
+duo sed unum. Non autem possunt se contingere, ut supra ostensum est: unde
+relinquitur quod distent, et sit aliquod medium inter ea. Sed nullum aliud
+medium potest esse inter ea quam linea inter puncta, et tempus inter nunc.
+Quod sic probat: quia si inter puncta esset aliud medium quam linea,
+manifestum est aut illud medium esse indivisibile aut divisibile.
+Si autem sit indivisibile, oportet quod sit distinctum ab utroque in situ;
+et cum non tangat, oportet iterum quod sit aliquod alterum medium inter
+indivisibile quod ponitur medium et extrema, et sic in infinitum, nisi
+ponatur medium divisibile. Si autem medium duorum punctorum fuerit
+divisibile, aut erit divisibile in indivisibilia, aut in semper
+divisibilia.
+Sed non potest dici quod dividatur in indivisibilia, quia tunc redibit
+eadem difficultas, quomodo ex indivisibilibus possit componi divisibile.
+Relinquitur igitur quod illud medium sit divisibile in semper divisibilia.
+Sed haec est ratio continui: ergo illud medium erit quoddam continuum.
+Nullum autem aliud continuum potest esse medium inter duo puncta quam
+linea: ergo inter qualibet duo puncta est linea media.
+Et eadem ratione inter qualibet duo nunc, tempus; et similiter in aliis
+continuis.
+|#8
+Deinde cum dicit: manifestum autem etc., manifestat secundum, quod
+supposuerat, scilicet quod omne continuum sit divisibile in divisibilia.
+Quia si daretur quod continuum esset divisibile in indivisibilia,
+sequeretur quod duo indivisibilia se contingerent, ad hoc quod possent
+constituere continuum. Oportet enim quod continuorum sit unum ultimum, ut
+ex definitione eius apparet, et quod partes continui se tangant: quia si
+ultima sunt unum, sequitur quod sint simul, ut in quinto dictum est. Cum
+igitur sit impossibile duo indivisibilia se contingere, impossibile est
+quod continuum in indivisibilia dividatur.
+|+2
+
+Lectio 2
+
+|#1
+Quia rationes supra positae manifestiores sunt in linea et aliis
+continuis quantitatibus positionem habentibus, in quibus proprie invenitur
+contactus, vult hic ostendere quod eadem ratio est de magnitudine et
+tempore et motu.
+Et dividitur in partes duas: primo proponit intentum; secundo probat
+propositum, ibi: manifestum est autem ex his etc..
+Dicit ergo primo quod eiusdem rationis est quod magnitudo et tempus et
+motus componantur ex indivisibilibus et dividantur in indivisibilia, vel
+nihil horum: quia quidquid dabitur de uno, ex necessitate sequetur de alio.
+|#2
+Deinde cum dicit: manifestum est autem ex his etc., probat
+propositum: et primo quantum ad magnitudinem et motum; secundo quantum ad
+tempus et magnitudinem, ibi: similiter autem necesse etc..
+208
+
+

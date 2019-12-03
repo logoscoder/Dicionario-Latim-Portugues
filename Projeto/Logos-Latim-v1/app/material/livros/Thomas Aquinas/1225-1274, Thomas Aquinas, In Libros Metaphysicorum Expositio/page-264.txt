@@ -1,0 +1,60 @@
+Deinde cum dicit sufficit autem ostendit idem reducendo ad prima contraria; dicens quod sufficit ad ostendendum quod
+alterum contrariorum sit privatio, si hoc invenitur in primis contrariis, quae sunt genera aliorum contrariorum, sicut
+sunt unum et multa. Et quod ista sint prima contraria, patet ex hoc, quod omnia alia contraria reducuntur ad illa. Nam
+ad unum et multa reducuntur aequale et inaequale, simile et dissimile, idem et diversum. Differentia autem, diversitas
+quaedam est, et contrarietas differentia quaedam, ut supra habitum est. Et sic patet quod omnis contrarietas reducitur ad
+unum et multa. Unum autem et multa opponuntur ut divisibile et indivisibile, ut supra habitum est. Et ita relinquitur,
+quod omnia contraria privationem includant.
+Lectio 7
+P TITLE="In Metaphysic., lib. 10 l. 7 n. 1">
+[83629] In Metaphysic., lib. 10 l. 7 n. 1
+Postquam philosophus ostendit quid est contrarietas, hic determinat quasdam dubitationes circa praedeterminata; et
+circa hoc duo facit. Primo movet dubitationes. Secundo prosequitur eas, ibi, utrum enim semper in oppositione dicimus
+et cetera. Oriuntur autem dubitationes ex hoc quod supra dictum est, quod unum uni contrarium est. Quod quidem in
+duplici oppositione fallere videtur. Nam unum et multa opponuntur, cum tamen et multis opponantur pauca. Similiter
+autem et aequale videtur opponi duobus, scilicet magno et parvo. Unde relinquitur dubitatio quomodo praedicta
+opponuntur. Si enim opponantur secundum contrarietatem, videtur falsum esse quod dictum est, quod unum uni
+contrarium est.
+[83630] In Metaphysic., lib. 10 l. 7 n. 2
+Deinde cum dicit utrum enim prosequitur praedictas dubitationes; et primo dubitationem aequalis ad magnum et
+parvum. Secundo prosequitur dubitationem de oppositione unius ad multa, ibi, similiter autem et de uno et de multis et
+cetera. Circa primum duo facit. Primo disputat quaestionem. Secundo veritatem determinat quaestionis, ibi, restat igitur
+aut ut negationem opponi. Et circa primum duo facit. Primo obiicit ad ostendendum aequale esse contrarium magno et
+parvo. Secundo obiicit ad oppositum, ibi, sed accidit unum et cetera. Circa primum tres ponit rationes. In prima quarum
+duo facit. Primo manifestat quoddam ex quo ratio procedit; dicens, quod hac dictione, utrum, semper utimur in
+oppositis. Ut cum quaerimus utrum aliquid sit album aut nigrum, quae sunt opposita secundum contrarietatem; et utrum
+sit album aut non album, quae sunt opposita secundum contradictionem. Sed utrum aliquid sit homo aut album non
+dicimus, nisi ex hac suppositione, quod non possit aliquid esse album et homo. Et sic quaerimus, utrum sit album vel
+homo, sicut quaerimus utrum veniat Cleon aut Socrates, supponentes quod non ambo simul veniant. Sed hic modus
+quaerendi in his quae non sunt opposita, in nullo genere est secundum necessitatem, sed solum secundum
+suppositionem. Et hoc ideo, quia hac dictione, utrum, utimur solum in oppositis ex necessitate; in aliis autem ex
+suppositione tantum, quia sola opposita ex natura non contingit simul existere. Et hoc, scilicet si non simul sit verum
+utrumque quo utitur qui quaerit, utrum veniat Socrates aut Cleon; quia si contingeret eos simul venire, derisoria esset
+interrogatio. Et si ita est quod simul non contingat eos venire, incidet praedicta quaestio in oppositione quae est inter
+unum et multa. Oportet enim quaerere de Socrate et Cleone, utrum ambo veniant, vel alter tantum. Quae quidem
+quaestio est secundum oppositionem unius ad multa. Et supposito quod alter veniat, tunc demum habet locum quaestio,
+utrum veniat Socrates aut Cleon.
+[83631] In Metaphysic., lib. 10 l. 7 n. 3
+Deinde cum dicit si itaque ex propositione iam manifesta argumentatur hoc modo. Hac particula, utrum, interrogantes,
+in oppositis semper utimur, ut supra dictum est. Sed utimur hac particula in aequali, magno et parvo. Quaerimus enim
+utrum hoc illo sit maius, aut minus, aut aequale. Est ergo aliqua oppositio aequalis ad magnum et parvum. Sed non
+potest dici, quod alterum horum sit contrarium magno vel parvo; quia nulla ratio est quare magis sit contrarium magno
+quam parvo. Nec iterum secundum praedicta videtur quod ambobus sit contrarium, quia unum uni est contrarium.
+[83632] In Metaphysic., lib. 10 l. 7 n. 4
+Secundam rationem ponit ibi, amplius quae talis est. Aequale est contrarium inaequali. Sed inaequale significat aliquid
+inesse ambobus, scilicet magno et parvo; ergo aequale est contrarium ambobus.
+[83633] In Metaphysic., lib. 10 l. 7 n. 5
+Tertiam rationem ponit ibi, et dubitatio quae procedit ex opinione Pythagorae, qui attribuebat inaequalitatem et
+alteritatem dualitatibus et numero pari, identitatem vero numero impari. Et est ratio talis. Aequale opponitur inaequali.
+Sed inaequale competit dualitatibus. Ergo aequale est contrarium duobus.
+[83634] In Metaphysic., lib. 10 l. 7 n. 6
+Deinde cum dicit sed accidit obiicit in oppositum duabus rationibus: quarum prima talis est. Magnum et parvum sunt
+duo. Si igitur aequale est contrarium magno et parvo, unum est contrarium duobus. Quod quidem est impossibile, ut
+supra ostensum est.
+[83635] In Metaphysic., lib. 10 l. 7 n. 7
+Secundam rationem ponit ibi, amplius aequale quae talis est. Non est contrarietas medii ad extrema. Quod quidem et
+secundum sensum apparet, et ex definitione contrarietatis manifestatur, quia contrarietas perfecta est distantia. Quod
+autem est medium duorum aliquorum, non est perfecte distans ab altero eorum, quia extrema magis differunt ab
+invicem quam a medio. Et sic relinquitur quod contrarietas non est mediorum ad extrema; sed magis contrarietas est
+
+

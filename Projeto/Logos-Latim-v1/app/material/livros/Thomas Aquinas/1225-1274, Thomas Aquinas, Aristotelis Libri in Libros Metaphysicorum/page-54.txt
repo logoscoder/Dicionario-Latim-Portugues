@@ -1,0 +1,58 @@
+|#5 Deinde cum dicit sed nec ostendit quod non sit infinitum in causis formalibus: et circa hoc duo facit.
+Primo proponit quod intendit. Secundo probat propositum, ibi: semper enim etc..
+Circa primum considerandum est quod unumquodque constituitur in specie per propriam formam. Unde definitio
+speciei maxime significat formam rei. Oportet ergo accipere processum in formis secundum processum in
+definitionibus. In definitionibus enim una pars est prior altera, sicut genus est prius differentia, et differentiarum
+una est prior altera. Idem ergo est quod in infinitum procedatur in formis et quod in infinitum procedatur in
+partibus definitionis. Et ideo volens ostendere quod non sit procedere in infinitum in causis formalibus, proponit
+non esse infinitum in partibus definitionis. Et ideo dicit quod non convenit hoc quod est quod quid erat esse, in
+infinitum reduci ad aliam definitionem, ut sic semper multiplicetur ratio.
+Puta qui definit hominem in definitione eius ponit animal. Unde definitio hominis reducitur ad definitionem
+animalis, quae ulterius reducitur ad definitionem alicuius alterius, et sic multiplicatur ratio definitiva.
+Sed hoc non convenit in infinitum procedere.
+|#6 Non autem hoc dicimus quasi in uno et eodem individuo multiplicentur formae secundum numerum
+generum et differentiarum, ut scilicet in homine sit alia forma a qua est homo, et alia a qua est animal, et sic aliis;
+sed quia necesse est ut in rerum natura tot gradus formarum inveniantur, quod inveniuntur genera ordinata et
+differentiae. Est enim in rebus invenire aliquam formam, quae est forma, et non est forma corporis; et aliquam
+quae est forma corporis, sed non est forma animati corporis; et sic de aliis.
+|#7 Deinde cum dicit semper enim probat propositum quatuor rationibus.
+Quarum prima talis est. In multitudine formarum vel rationum semper illa quae est prius est magis. Quod non est
+intelligendum quasi sit completior; quia formae specificae sunt completae. Sed dicitur esse magis, quia est in
+plus quam illa quae est posterior, quae non est ubicumque est prior. Non enim ubicumque est ratio animalis, est
+ratio hominis. Ex quo argumentatur, quod si primum non est, nec habitum idest consequens est. Sed si in
+infinitum procedatur in rationibus et formis, non erit prima ratio vel forma definitiva; ergo excludentur omnes
+consequentes.
+|#8
+Secundam rationem ponit ibi amplius scire quae talis est. Impossibile est aliquid sciri prius quam
+perveniatur ad individua.
+Non autem accipitur hic individuum singulare, quia scientia non est de singularibus.
+Sed individuum potest dici uno modo ipsa ratio speciei specialissimae, quae non dividitur ulterius per essentiales
+differentias.
+Et secundum hoc intelligitur quod non habetur perfecta scientia de re, quousque perveniatur ad speciem
+specialissimam; quia ille qui scit aliquid in genere, nondum habet perfectam scientiam de re.
+Et secundum hanc expositionem oportet dicere, quod sicut prima ratio concludebat, quod in causis formalibus
+non proceditur in infinitum in sursum, ita haec ratio concludit, quod non proceditur in infinitum in deorsum. Sic
+enim non esset devenire ad speciem specialissimam. Ergo ista positio destruit perfectam scientiam.
+|#9 Sed quia formalis divisio non solum est secundum quod genus dividitur per differentias, per cuius divisionis
+privationem species specialissima potest dici individuum, sed etiam est secundum quod definitum dividitur in
+partes definitionis, ut patet in primo physicorum; ideo individuum potest hic dici, cuius definitio non resolvitur
+in aliqua definientia. Et secundum hoc, supremum genus est individuum.
+Et secundum hoc erit sensus, quod non potest haberi scientia de re per aliquam definitionem, nisi deveniatur ad
+suprema genera, quibus ignoratis impossibile est aliquod posteriorum sciri. Et secundum hoc concludit ratio,
+quod in causis formalibus non procedatur in infinitum in sursum, sicut et prius.
+|#10 Vel ad idem concludendum potest aliter exponi individuum, ut scilicet propositio immediata dicatur
+individuum.
+Si enim procedatur in infinitum in definitionibus in sursum, nulla erit propositio immediata. Et sic universaliter
+tolletur scientia, quae est de conclusionibus deductis ex principiis immediatis.
+|#11
+Deinde cum dicit et cognoscere tertiam rationem ponit quae procedit non solum ad scientiam
+excludendam, sed ad excludendum simpliciter omnem cognitionem humanam.
+Et circa hanc rationem duo facit. Primo ponit rationem. Secundo excludit obiectionem quamdam, ibi, non enim
+simile etc..
+Ratio autem talis est. Unumquodque cognoscitur per intellectum suae formae: sed si in formis procedatur in
+infinitum, non poterunt intelligi; quia infinitum inquantum huiusmodi, non comprehenditur intellectu: ergo ista
+positio universaliter destruit cognitionem.
+
+54
+
+

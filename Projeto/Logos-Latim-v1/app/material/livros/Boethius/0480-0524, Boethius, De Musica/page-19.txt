@@ -1,0 +1,62 @@
+Rursus sint tres binarii inaequalitate constituti, 2, 2, 2: ponatur primus primo aequus, id est 2. Secundus primo
+et secundo, id est 4.
+Tertius primo secundo ac tertio, id est 6, et erit dispositio haec:
+222
+246
+Sed in his hoc speculandum est, quod si unitas fuerit ad aequalitatis principium constituta, unitas etiam erit in
+differentiis numerorum, ipsi uero numeri inter se nullum intermittunt. Si uero binarius teneat aequalitatem, binarius est
+differentia, et unus inter terminos semper numerus intermittitur. Sin uero ternarius idem differentia est, inter terminos
+uero duo naturaliter constituti intermittentur, ac deinceps in hunc modum.
+333
+369
+Est etiam alia proportionalitatem arithmeticam procreandi uia.
+Ponantur enim tres aequi termini, constituaturque primus primo ac secudo aequus, secundus primo ac duobus
+secundis, tertius primo et duobus secundis ac tertio, ut si sint tres unitates. Sit primo primo ac secundo aequus, id est
+secundo, Secundus uero primo, ac duobus secundis, id est tertio. Tertius autem primo, duobus secundis ac tertio, id est
+quatuor,
+111
+234
+Hic igitur terminorum differentiam unitas tenet; inter binarium enim et unitatem, atque inter ternarium ac
+binarium, unitas interest.
+Nullus uero naturalis numerus intermittitur. Post unitatem enim mox binarius est, ac post binarium ternarius
+naturaliter constitutus, idem rursus in binario fiat. Sintque tres binarii, et sit primus primo ac secundo aequus, id est
+quaternarius; secundus uero primo et duobus secundis, id est senarius; tertius autem primo, duobus secundis ac tertio, id
+est octonarius.
+222
+468
+Hic quoque binarius tenet differentiam terminorum, uno inter eos naturaliter intermisso. Nam inter 4 et 6
+quinarius naturaliter intermittitur, inter 6 atque 8 septenarius collocatur. Quod si ternarius aequalitatis principium sit,
+fiet ternarius differentia; uerbi gratia: Sint termini tres ad regulas superiorum subtus.
+333
+6 9 12
+In his ergo ternarius est differentia, et duo numeri intermissi, id est uno minus quam sit differentia semper
+[1208] numeris intermissis, atque idem et in quaternario, quinarioque perspicitur, et quae nos propter breuitatem
+tacemus, iisdem regulis ex semetipso diligens lector inueniet. Geometrica uero proportionalitas tunc quemadmodum
+inueniri ab aequalitate possit ostendimus, quando quemadmodum ab aequalitate omnis inaequalitas profluit
+monstrabamus, nisi tamen fastidium est, nunc quoque breuiter repetendum est. Constitutis enim tribus aequis terminis,
+ponatur primus primo aequus. Secundus primo ac secundo. Tertio primo duobus secundis ac tertio. Idemque fiat
+continue atque ita ex aequalitate geometrica proportionalitas principium sumat.
+Sed de harum proportionum proprietatibus quam diligentissime in arithmeticis diximus; quod si ad haec illis
+instructus lector accedat, nullo dubitationis errore turbabitur. Harmonica uero medietas, de qua nunc paulo latius
+tractandum est, hac ratione procreatur. Constituatur enim, siquidem duplices curamus effingere, tribus aequis terminis
+positis, primus primo ac duobus secundis aequalis. Secundus duobus primis et duobus secundis. Tertius semel primo,
+bis secundo, et ter tertio. Atque hoc modo sint unitates.
+111
+Constituatur igitur primus primo ac duobus secundis aequalis, id est ternarius. Secundus uero duobus primis et
+duobus secundis, id est quaternarius. Tertius uero primo ac duobus secundis et tribus tertiis, id est sex. Et si in binariis
+aequalitas construatur, uel in ternariis eadem ratio medietatis apparet, duplo a se terminis differentiisque distantibus, ut
+subiectae descriptiones monent.
+111
+346
+222
+6 8 12
+333
+8 12 18
+Quod si facienda est in extremitatibus tripla proportio, tribus aequis terminis constitutis, primus quidem
+faciendus est ex primo ac secundo, secundus uero ex primo ac duabus secundis, tertius autem ex primo, duobus
+secundis ac tribus tertiis, ut est subiecta descriptio.
+111
+236
+222
+
+

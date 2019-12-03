@@ -1,0 +1,63 @@
+454 audito W411
+455 respuistis V630
+456 si fehlt W411
+457 eadem W411
+458 firmet W411
+459 sed W411
+460 confessione V630; consensione W411; confessionis V1341
+461 proximos W411; V1341
+462 fidei sanctae adstipulatione monstretis. Eo itaque fiet, ut et vos fehlt V630; V1341
+463 exsignitas W411
+464 nilhil O93
+465 potuerit W411
+466 talem W411
+467 perfidei W411
+468 hominibus W411
+469 condicibus W411
+470 predamnaret W411
+471 ad W411; ut E97
+472 detestante W411
+473 hereseos] ere eos W411
+474 splendide W411; splendidissimo E97
+475 habitum W411
+476 genus W411
+477 erigimus W411
+478 recaredum korr. aus recadum O93
+479 hac die ad] ad dei E97
+480 di W411
+481 ad fehlt W411
+482 superstitutionibus korr. aus superstutionibus O93; subprestitionibus W411; superstitutionibus V1341
+483 pariter W411
+484 tamen E97
+485 catholicae fehlt E97
+486 quam W411
+487 petis W411
+488 promptissime korr. aus proptissime O93; proptissime..W411
+489 ac fehlt W411
+490 nobis] nobis de W411
+491 persuadite W411
+492 faciemus fehlt W411
+493 devotione W411
+494 avexit W411
+495 verius fehlt E97
+496 fraternitas W411; E97
+497 patefecerit W411; patefaecerit korr. aus patefacerit E97
+498 qui fidem korr. aus quidem V1341
+499 orrio W411
+500 ad nos] a nobis W411
+501 damnata W411
+502 Christum fehlt W411
+503 credidit V630; credet W411
+504 •ternum W411
+505 quoessentialem W411
+506 agnoscit korr. aus agnoscat V630
+507 iuxta deitatem fehlt W411
+508 patre V630; W411; V1341; E97
+509 asseruerit korr. aus asseruit O93; assueruit korr. aus assuerunt W411
+510 esse fehlt E97
+511 omnipotentiae] homini potentie W411
+512 deum W411
+513 quae] quae deus E97
+20
+
+

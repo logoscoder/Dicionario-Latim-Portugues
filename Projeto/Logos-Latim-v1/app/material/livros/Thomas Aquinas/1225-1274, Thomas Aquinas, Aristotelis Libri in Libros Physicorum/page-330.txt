@@ -1,0 +1,66 @@
+permaneat id quod generatum est. Frustra enim aliquid generaretur, nisi
+generatum in esse permaneret.
+Unde ex his mutationibus potest fieri fides in aliis: hoc enim est naturale
+quod similiter se habet in omnibus, quia natura semper eodem modo operatur.
+Sicut ergo inconveniens videtur quod id quod generatur, statim cum
+generatum est corrumpatur; ita inconveniens videtur quod id quod dealbatur,
+statim cum factum est album denigretur, et quod id quod augetur statim
+decrescat. In omnibus enim his naturae intentio frustraretur.
+|+16
+
+Lectio 16
+
+|#1
+Postquam Philosophus ostendit quod nulla mutatio potest esse continua
+et perpetua nisi localis, hic ostendit quod nulla loci mutatio potest esse
+continua et perpetua nisi circularis.
+Et circa hoc duo facit: primo ostendit propositum demonstrative; secundo
+logice, ibi: rationabiliter autem etc..
+Circa primum duo facit: primo ostendit propositum; secundo ex veritate
+demonstrata solvit quasdam dubitationes, ibi: unde et ad dubitationem etc..
+Circa primum tria facit: primo dicit quid principaliter intendat.
+Intendit enim ostendere quod possibile est esse quendam motum, qui unus
+existens, in infinitum continuetur; et quod talis motus est solus
+circularis. Et hoc primo ostendet.
+|#2
+Secundo ibi: omne quidem enim movetur etc., ostendit quomodo
+procedendum sit.
+Quia enim omne quod localiter fertur, movetur vel circulariter, vel motu
+recto, vel motu composito ex utroque, sicut si aliquid moveretur per
+chordam et arcum; manifestum est quod si quis duorum simplicium motuum,
+scilicet vel circularis vel rectus, non potest esse in infinitum continuus,
+quod multo minus ille qui est compositus ex utroque. Unde oportet
+praetermittere motum compositum, et agere de simplicibus.
+|#3
+Tertio ibi: quod autem quod fertur etc., ostendit quod motus rectus
+qui est super magnitudinem rectam et finitam, non possit esse in infinitum
+continuus; et ita nullus motus rectus continuus potest esse in infinitum,
+nisi poneretur aliqua magnitudo infinita in actu; quod supra improbatum est
+in III physicorum.
+Ostendit autem hoc duplici ratione: quarum prima talis est.
+Si aliquis super rectam magnitudinem et finitam movetur in infinitum,
+oportet quod hoc fiat per reflexionem. Ostensum est enim in sexto, quod
+magnitudinem finitam pertransit aliquid tempore finito; cum ergo pervenitur
+ad terminum magnitudinis finitae, cessabit motus, nisi mobile revertatur
+per reflexionem ad principium magnitudinis unde cepit moveri.
+Sed illud quod reflectitur secundum motum rectum, movetur contrariis
+motibus.
+Quod sic probat.
+Contrarii motus sunt quorum termini sunt contrarii, ut in quinto habitum
+est. Sed contrarietates loci sunt sursum et deorsum, ante et retro, dextrum
+et sinistrum: omne autem quod reflectitur, secundum aliquam istarum
+contrarietatum necesse est quod reflectatur: omne ergo quod reflectitur,
+movetur contrariis motibus.
+Ostensum est autem supra in quinto, quis motus sit unus et continuus, ille
+scilicet qui est unius subiecti et in uno tempore et in eadem re non
+differenti secundum speciem.
+Haec enim tria considerantur in omni motu: primum est tempus; secundum est
+subiectum quod movetur, ut homo aut Deus, secundum eos qui corpora
+caelestia deos dicebant; tertium autem est in quo movetur, quod quidem in
+motu locali est locus, in alteratione passio, idest passibilis qualitas, in
+generatione et corruptione species, in augmento et diminutione magnitudo.
+Manifestum est autem quod contraria differunt secundum speciem: unde motus
+contrarii non possunt esse unus et continuus.
+330
+
+

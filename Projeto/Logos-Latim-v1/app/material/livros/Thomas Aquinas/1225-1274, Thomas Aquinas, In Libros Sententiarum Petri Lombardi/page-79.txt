@@ -1,0 +1,61 @@
+|a0 Prologus
+Eademque sola proprie ac vere simplex est.
+Haec est secunda pars distinctionis, in qua Magister determinat de divina simplicitate, et dividitur in partes duas:
+in prima proponit quod intendit; in secunda probat propositum, ibi: ut autem scias quod simplex sit illa
+substantia, te docet Augustinus; quae dividitur in duas: in prima ostendit creaturae multiplicitatem; in secunda
+divinam simplicitatem, ibi: Deus vero etsi multiplex dicatur, vere tamen et summe simplex est. Prima in duas: in
+prima excludit simplicitatem a creatura corporali; in secunda a spirituali, ibi: creatura quoque spiritualis, ut est
+anima, in comparatione quidem corporis est simplex; sine comparatione vero corporis est multiplex.
+Deus vero etsi multiplex dicatur, vere tamen et summe simplex est. Hic ostendit divinam simplicitatem, et
+dividitur in partes duas: in prima ostendit simplicitatem; in secunda excludit omnem compositionem ab ipso, ibi:
+quod autem in natura divina nulla sit accidentium diversitas... Ostendit Augustinus. Prima in duas: in prima
+ostendit veritatem; in secunda excludit dubitationem, ibi: hic diligenter attendendum est.
+Quod autem in natura divina nulla sit accidentium diversitas, nullaque penitus mutabilitas, sed perfecta
+simplicitas, ostendit Augustinus. Hic excludit a Deo omnem compositionem vel multiplicitatem; et circa hoc duo
+facit: primo ostendit specialiter quod in Deo non est compositio accidentis ad subjectum; secundo ostendit
+universaliter quod in ipso nulla est compositio, ibi: hujus autem essentiae simplicitas ac sinceritas tanta est quod
+non est in ea aliquid quod non sit ipsa. Circa primum duo facit: primo excludit a Deo accidentium
+praedicationem; secundo concludit, quod nec etiam substantia de eo proprie praedicatur, ibi: unde nec proprie
+dicitur substantia.
+Ad intellectum hujus partis duo quaeruntur: primo de divina simplicitate. Secundo de simplicitate creaturae.
+Circa primum tria quaeruntur: 1 si in Deo sit omnimoda simplicitas; 2 an contineatur in praedicamento
+substantiae; 3 si alia praedicamenta de ipso dicantur.
+|a1 Articulus 1: Utrum Deus sit omnino simplex.
+AG1
+Ad primum sic proceditur. Videtur quod Deus non sit simplex omnino. Ens enim cui non fit additio, est ens
+commune praedicatum de omnibus de quo nihil potest vere negari. Sed Deus non est hujusmodi. Ergo ad esse
+suum fit aliqua additio.
+Non est ergo simplex.
+AG2
+Praeterea, boetius: omne quod est esse participat ut sit; alio autem participat, ut aliquid sit. Sed Deus verissime
+est ens et est aliquid, quia bonus et sapiens et hujusmodi.
+Ergo Deus habet esse suum quo est, et super hoc habet aliquid aliud quo aliquid est. Ergo non est simplex.
+AG3
+Item, de quocumque praedicatur aliquid quod non est de substantia sua, illud non est simplex.
+Sed quidquid praedicatur de aliquo postquam non praedicabatur, illud non est de substantia sua, cum nulli rei
+substantia sua de novo adveniat.
+Cum igitur de Deo praedicetur aliquid postquam non praedicabatur, ut esse Dominum et creatorem quae dicuntur
+de ipso ex tempore, videtur quod ipse non sit simplex.
+AG4
+Praeterea, ubicumque sunt plures res in uno, ibi oportet esse aliquem modum compositionis. Sed in divina natura
+sunt tres personae realiter distinctae, convenientes in una essentia. Ergo videtur ibi esse aliquis modus
+compositionis.
+SC1
+Contra, omne compositum est posterius suis componentibus: quia simplicius est prius in se, quam addatur sibi
+aliquid ad compositionem tertii.
+Sed primo simpliciter nihil est prius. Cum igitur Deus sit primum principium, non est compositus.
+SC2
+Praeterea, illud quod est primum dans omnibus esse, habet esse non dependens ab alio: quod enim habet esse
+dependens ab alio, habet esse ab alio, et nullum tale est primum dans esse. Sed Deus est primum dans omnibus
+esse. Ergo suum esse non dependet ab alio. Sed cujuslibet compositi esse dependet ex componentibus, quibus
+remotis, et esse compositi tollitur et secundum rem et secundum intellectum. Ergo Deus non est compositus.
+SC3
+Item, illud quod est primum principium essendi, nobilissimo modo habet esse, cum semper sit aliquid nobilius in
+causa quam in causato. Sed nobilissimus modus habendi esse, est quo totum aliquid est suum esse. Ergo Deus est
+suum esse.
+Sed nullum compositum totum est suum esse, quia esse ipsius sequitur componentia, quae non sunt ipsum esse.
+Ergo Deus non est compositus. Et hoc simpliciter concedendum est.
+RA1
+79
+
+

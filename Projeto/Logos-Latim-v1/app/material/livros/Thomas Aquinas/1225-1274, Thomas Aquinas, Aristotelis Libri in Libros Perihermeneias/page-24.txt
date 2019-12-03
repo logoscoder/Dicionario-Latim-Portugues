@@ -1,0 +1,59 @@
+Nam quilibet homo singularis dignior est omnibus creaturis irrationalibus; sed tamen omnes homines singulares
+non sunt unus homo extra animam, sed solum in acceptione intellectus; et per hunc modum attribuitur ei
+praedicatum, scilicet ut uni rei.
+Alio autem modo attribuitur universali, prout est in singularibus, et hoc dupliciter.
+Quandoque quidem ratione ipsius naturae universalis, puta cum attribuitur ei aliquid quod ad essentiam eius
+pertinet, vel quod consequitur principia essentialia; ut cum dicitur, homo est animal, vel homo est risibilis.
+Quandoque autem attribuitur ei aliquid ratione singularis in quo invenitur, puta cum attribuitur ei aliquid quod
+pertinet ad actionem individui; ut cum dicitur, homo ambulat.
+Singulari autem attribuitur aliquid tripliciter: uno modo, secundum quod cadit in apprehensione; ut cum dicitur,
+socrates est singulare, vel praedicabile de uno solo. Quandoque autem, ratione naturae communis; ut cum dicitur,
+socrates est animal. Quandoque autem, ratione sui ipsius; ut cum dicitur, socrates ambulat.
+Et totidem etiam modis negationes variantur: quia omne quod contingit affirmare, contingit negare, ut supra
+dictum est.
+|#10 Est autem haec tertia divisio enunciationis quam ponit Philosophus.
+Prima namque fuit quod enunciationum quaedam est una simpliciter, quaedam vero coniunctione una. Quae
+quidem est divisio analogi in ea de quibus praedicatur secundum prius et posterius: sic enim unum dividitur
+secundum prius in simplex et per posterius in compositum.
+Alia vero fuit divisio enunciationis in affirmationem et negationem. Quae quidem est divisio generis in species,
+quia sumitur secundum differentiam praedicati ad quod fertur negatio; praedicatum autem est pars formalis
+enunciationis; et ideo huiusmodi divisio dicitur pertinere ad qualitatem enunciationis, qualitatem, inquam,
+essentialem, secundum quod differentia significat quale quid.
+Tertia autem est huiusmodi divisio, quae sumitur secundum differentiam subiecti, quod praedicatur de pluribus
+vel de uno solo, et ideo dicitur pertinere ad quantitatem enunciationis, nam et quantitas consequitur materiam.
+|#11 Deinde cum dicit: si ergo universaliter etc., ostendit quomodo enunciationes diversimode opponantur
+secundum diversitatem subiecti.
+Et circa hoc duo facit: primo, distinguit diversos modos oppositionum in ipsis enunciationibus; secundo, ostendit
+quomodo diversae oppositiones diversimode se habent ad verum et falsum; ibi: quocirca, has quidem impossibile
+est etc..
+|#12 Circa primum considerandum est quod cum universale possit considerari in abstractione a singularibus vel
+secundum quod est in ipsis singularibus, secundum hoc diversimode aliquid ei attribuitur, ut supra dictum est.
+Ad designandum autem diversos modos attributionis inventae sunt quaedam dictiones, quae possunt dici
+determinationes vel signa, quibus designatur quod aliquid de universali, hoc aut illo modo praedicetur. Sed quia
+non est ab omnibus communiter apprehensum quod universalia extra singularia subsistant, ideo communis usus
+loquendi non habet aliquam dictionem ad designandum illum modum praedicandi, prout aliquid dicitur in
+abstractione a singularibus.
+Sed Plato, qui posuit universalia extra singularia subsistere, adinvenit aliquas determinationes, quibus
+designaretur quomodo aliquid attribuitur universali, prout est extra singularia, et vocabat universale separatum
+subsistens extra singularia quantum ad speciem hominis, per se hominem vel ipsum hominem et similiter in aliis
+universalibus. Sed universale secundum quod est in singularibus cadit in communi apprehensione hominum; et
+ideo adinventae sunt quaedam dictiones ad significandum modum attribuendi aliquid universali sic accepto.
+|#13 Sicut autem supra dictum est, quandoque aliquid attribuitur universali ratione ipsius naturae universalis; et
+ideo hoc dicitur praedicari de eo universaliter, quia scilicet ei convenit secundum totam multitudinem in qua
+invenitur; et ad hoc designandum in affirmativis praedicationibus adinventa est haec dictio, omnis, quae designat
+quod praedicatum attribuitur subiecto universali quantum ad totum id quod sub subiecto continetur.
+In negativis autem praedicationibus adinventa est haec dictio, nullus, per quam significatur quod praedicatum
+removetur a subiecto universali secundum totum id quod continetur sub eo. Unde nullus dicitur quasi non ullus,
+et in Graeco dicitur, udis quasi nec unus, quia nec unum solum est accipere sub subiecto universali a quo
+praedicatum non removeatur.
+Quandoque autem attribuitur universali aliquid vel removetur ab eo ratione particularis; et ad hoc designandum,
+in affirmativis quidem adinventa est haec dictio, aliquis vel quidam, per quam designatur quod praedicatum
+attribuitur subiecto universali ratione ipsius particularis; sed quia non determinate significat formam alicuius
+singularis, sub quadam indeterminatione singulare designat; unde et dicitur individuum vagum. In negativis
+autem non est aliqua dictio posita, sed possumus accipere, non omnis; ut sicut, nullus, universaliter removet, eo
+quod significat quasi diceretur, non ullus, idest, non aliquis, ita etiam, non omnis, particulariter removeat, in
+quantum excludit universalem affirmationem.
+
+24
+
+

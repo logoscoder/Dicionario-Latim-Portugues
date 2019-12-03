@@ -1,0 +1,60 @@
+De potentia et actu
+Printed Source: Die Philosophischen Werke des Robert Grosseteste, Bischofs von Lincoln (Münster i. W.,
+Aschendorff, 1912.), pp. 126 - 129.
+INC: Omne quod est, aut est ens actu, aut ens potentia, id est aut est in complemento, aut non est in
+complemento, possibile est tamen esse.
+EXPL: Agens in naturis aut agit se alterum et se aliud, ut in propagatione et generatione, aut educit sibi simile in
+potentia de potentia ad effectum. Deo gratias.Explicit tractatus de potentia et actu secundum Lincolniensem.
+pp. 126 - 127: Omne quod est, aut est ens actu, aut ens potentia, id est aut est in complemento, aut non est in
+complemento, possibile est tamen esse.Quod enim non est in complemento, neque possibile est ut sit in
+complemento, simpliciter non est. Omne itaque possibile esse, cum adhuc non sit, dico esse in potentia; et omne,
+quod est in potentia, possibile est esse. Per potentiam igitur oportet intelligere illud, a quo res potest provenire in
+complementum. Si enim non sit actu, a quo vel mediate vel immediate res illa possit venire in complementum,
+non est possibile rem illam esse. Cum itaque dicitur, quod res est in potentia, forte intelligitur potentia efficientis
+solum et forte potentia efficientis et amplius. Si enim sit efficiens tale, a quo possint provenire ceterae causae rei,
+tunc antequam sint ceterae causae, dicetur res esse in potentia; sicut verum fuit ab aeterno, omnem creaturam
+esse in potentia, quia fuerit in potentia causae efficientis, a qua potuerunt omnes causae aliae creaturarum
+provenire. Si vero non sit causa efficiens talis, a qua possint ceterae causae provenire, necesse est, ut sub hoc
+nomine "potentia" comprehendantur cum efficiente ceterae causae, quae ab efficiente non possunt provenire, a
+quibus tamen simul cum causa efficiente possibile est, ut res proveniat in complementum. Si enim esset
+architector, et natura non ministraret ei materiam domus, cum ipse architector non posset sibi facere materiam,
+non diceretur esse domus in potentia. Similiter si esset materia domus, et non esset possibile, ut esset architector,
+non diceretur domus esse in potentia. Igitur rem esse in potentia est ipsam esse in sua causa, a qua possibile est,
+ut veniat in complementum.
+p. 127: Ex hoc manifestum est, quod forte res est in potentia, et tamen nihil quod est, nec ex aliquo quod est
+potest esse res illa; et aliquid fuit in potentia, et tamen nihil unquam nec ex aliquo potuit esse res illa, verbi gratia
+antequam esset mundus vel materia mundi creata, fuit mundus in potentia, et tamen nihil potuit esse mundus, nec
+ex aliquo quod fuit, potuit esse mundus. Materia vero prima et omnis res immaterialis penitus, antequam
+crearetur, fuit in potentia; et tamen nihil unquam potuit esse materia, nec ex aliquo potuit esse materia. Et haec
+quidem manifesta sunt.
+pp. 127 - 128: Sed de his rebus, quae sub tempore generantur, et quorum materia vel propinqua vel remota in
+unaquaque hora praesto est, dubitandum est, an consequatur necessario, quod, si aliqua illarum est in potentia,
+quod aliqua res potestate sit illa, verbi gratia si statua sit in potentia, quod aliqua res potestate sit statua, et si
+aliquod animal est in potentia, quod aliqua res potestate sit illud animal. Si enim non sit metallum, in quo possit
+operari statuifex, cum tamen terra potestate sit metallum, diceturne, quod terra potestate est statua, aut quod terra
+potest esse statua aut ex terra fieri statuam? Videtur autem nobis, quod, cum dicitur: "A potestate est B, aut A
+potest esse B", idem est ac si diceretur: "A habet in se potentiam factivam B, vel potentiam passivam a factivo
+B". Non enim dicitur, quod embryo antequam infundatur anima rationalis, potestate sit vigilans vel possit
+vigilare, cum non habeat in se potentiam factivam vigiliae, nec dicitur, quod sit potestate docibilis vel quod
+possit doceri, cum non habeat in se potentiam passivam a faciente doctrinam.
+p. 128: Similiter cum dicitur: "ex A potest fieri B", intelligitur, quod A sit habens potentiam passivam a factivo
+B, vel saltem a factivo ministrante factivo B. -- Dicitur enim de ferro rudi, quod ex eo potest fieri lorica. Non
+tamen factor loricae aget in ferrum rude, sed aliquis minister deserviens factori loricae et praeparans ei materiam
+aget in ferrum rude. Si igitur ex A potest fieri B, oportet, quod ex A non fiat aliud, antequam suscipiat
+complementum B, nisi illud sit intentum propter B et via in B, et sit factum a ministrante ei, quod dat
+complementum B, verbi gratia ex semine potest fieri homo. Prius tamen ex semine fit embryo, verumtamen
+embryo intenditur propter hominem et est via in hominem et generatur embryo ex semine a ministrante ei, quod
+complet hominem.
+p. 128: Est itaque potentia principium transmutationis a non completo ad completum, vel ut universalius dicam:
+potentia est principium transmutationis a privatione in privationis potentiam. Intelligo autem per privationem et
+potentiam privationis non solum sicut dicerem non videns et videns, verum etiam sicut dicerem non caecum et
+caecum.
+p. 128: Dicitur tamen potentia habitus, quo potest non transmutari in peius vel corruptionem, id est quo resistit
+nitenti transmutare in peius vel corruptionem. Et forte haec ratio potentiae reducitur in prius dictam rationem.
+Tantum enim est resistere intendenti transmutare in peius vel corruptionem quantum est a non completo in
+completum transmutare.
+pp. 128 - 129: Principium autem transmutationis est duplex: scilicet activum et passivum, et forte eadem est
+potentia activa et passiva et forte alia. Ubi enim est aliud agens, aliud patiens, ibi alia est potentia activa a
+1
+
+

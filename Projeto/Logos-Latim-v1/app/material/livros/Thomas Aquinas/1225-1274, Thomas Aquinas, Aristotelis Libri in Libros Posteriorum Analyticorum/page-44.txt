@@ -1,0 +1,58 @@
+Et primo in secundo modo secundae figurae; secundo in primo; ibi: similiter autem fit transposito etc.. Dicit ergo
+primo quod contingit in hac figura alteram propositionem esse falsam indifferenter, quaecunque sit illa. Quod
+patet ex hoc, quia cum supponatur a per se et immediate praedicari de b, quidquid est in omni a est in omni b;
+sicut omne quod universaliter praedicatur de animali, praedicatur universaliter de homine.
+Si ergo accipiatur aliquod medium c, quod universaliter praedicetur de a, ut si dicamus: omne animal est vivum;
+et universaliter removeatur a b, ut si dicamus: nullus homo est vivus: patet quod a.c, quae est maior propositio,
+erit vera; sed b.c quae est minor, erit falsa. Et similiter probat quod e converso contingit maiorem esse falsam.
+Non enim potest esse quod aliquid universaliter removeatur a b, et universaliter praedicetur de a, terminis sic se
+habentibus. Dictum est enim quod si aliquid est in a universaliter, sequitur quod sit in b. Si ergo aliquid
+removeatur a b universaliter, non potest esse quod universaliter praedicetur de a. Sicut quod universaliter
+removetur ab homine, non potest universaliter praedicari de animali. Si ergo accipiatur aliquid, quod
+universaliter removeatur ab homine, puta, irrationale, et dicatur sic: omne animal est irrationale; nullus homo est
+irrationalis; sequitur quod minor propositio sit vera, et maior falsa.
+Sed in his terminis, maior propositio non est totaliter falsa. Potest autem accipi terminus in quo sit totaliter falsa,
+puta si accipiamus inanimatum pro medio.
+|#7 Deinde cum dicit: similiter autem fit etc., ostendit idem in primo modo secundae figurae, in quo maior est
+negativa. Manifestum est enim quod, praedictis terminis, scilicet a et b, sic se habentibus ut dictum est, quod
+universaliter removetur ab a, non poterit esse in nullo b. Si ergo accipiatur c medium, quod universaliter
+removetur ab a, et universaliter praedicetur de b; erit maior propositio vera et minor falsa. Puta si sint isti
+termini, inanimatum, animal, homo. Et similiter ostendit quod potest esse minor vera, et maior falsa. Manifestum
+est enim, secundum praedicta, quod id quod universaliter praedicatur de b, non potest removeri universaliter ab
+omni a: quia quod universaliter praedicatur de b, ad minus oportet in quodam a esse. Si ergo accipiatur c
+medium, quod universaliter praedicetur de b, puta, rationale, vel vivum, et universaliter negetur de a; minor
+propositio erit vera, scilicet: omnis homo est rationale, vel vivum. Maior autem: nullum animal est rationale, est
+falsa in parte; nullum animal est vivum, est falsa in toto.
+Deinde epilogando concludit quod syllogismus deceptivus potest fieri in immediatis, utrisque propositionibus
+existentibus falsis, vel altera tantum.
+|+29 Lectio 29
+|#1 Postquam Philosophus ostendit quomodo syllogismus ignorantiae fit in propositionibus immediatis, hic
+ostendit quomodo fit in propositionibus mediatis. Et primo, quomodo concludatur propositio negativa falsa, quae
+opponitur affirmativae verae; secundo, quomodo concludatur affirmativa falsa, quae opponitur negativae verae;
+ibi: si vero sit affirmativus etc.. Circa primum duo facit: primo, ostendit quomodo hoc fiat in prima figura;
+secundo, in secunda: ibi: sed per mediam figuram etc.. Circa primum tria facit: primo, ostendit quomodo fit
+syllogismus ignorantiae in propositionibus mediatis, per medium proprium; secundo, quomodo fit per medium
+quidem non proprium, sed tamen similem habitudinem habens ad terminos, sicut medium proprium; ibi: similiter
+autem est, et si ex alia ordinatione etc.; tertio, ostendit quomodo fit praedictus syllogismus per medium
+extraneum; ibi: si vero non per proprium medium etc..
+|#2 Dicit ergo primo quod, quando syllogismus concludens falsum, fit in propositionibus, quae non sunt
+individuae, idest immediatae, si accipiatur proprium medium, unde fit syllogismus, non potest esse utrasque
+propositiones esse falsas, sed solum maiorem. Et exponit quid nominet proprium medium. Ex quo enim
+propositio, cuius contraria syllogizatur, est mediata, oportet quod praedicatum syllogizetur de subiecto per
+aliquod medium. Potest ergo illud idem medium accipi ad concludendum oppositum. Puta, haec est propositio
+mediata: omnis triangulus habet tres angulos aequales duobus rectis; medium autem per quod syllogizatur
+praedicatum de subiecto, est figura habens angulum extrinsecum aequalem duobus intrinsecis sibi oppositis. Si
+ergo velimus probare quod nullus triangulus habet tres angulos aequales duobus rectis per hoc idem medium, erit
+syllogismus falsitatis per proprium medium.
+Et ideo dicit quod medium proprium est, per quod fit syllogismus contradictionis, idest ad oppositum.
+Puta in praedicto exemplo: sit a triangulus, b habere tres, medium c figura talis.
+In prima autem figura necesse est minorem esse affirmativam, et ideo oportet quod illa, quae erat minor in
+syllogismo vero, maneat non conversa nec transmutata in suam oppositam in syllogismo falsitatis. Unde oportet
+quod semper sit vera. Sed maior propositio veri syllogismi convertitur in negativam contrariam; et ideo oportet
+quod maior sit falsa. Puta si dicamus: nulla figura habens etc. Habet tres etc.; omnis triangulus est figura talis;
+ergo etc..
+|#3 Deinde cum dicit: similiter autem est etc., ostendit quomodo fit praedictus syllogismus per medium
+extraneum, sed simile proprio. Et dicit quod similiter syllogizabitur, si medium accipiatur ex alia ordinatione.
+44
+
+

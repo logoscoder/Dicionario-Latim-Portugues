@@ -1,0 +1,60 @@
+|#5 Deinde cum dicit: eodem autem modo etc., distinguit significationem huius nominis genitum.
+Et dicit quod eodem modo genitum dicitur tribus modis. Quorum primus est si aliquid prius non fuit et postea
+incoepit esse, sive per generationem, sicut homo, sive sine generatione, sicut tactus; dummodo illud quod dicitur
+genitum, quandoque non sit, et iterum postea sit.
+Secundo modo dicitur aliquid genitum, si possibile sit illud incipere esse; sive possibile determinetur per verum,
+ut scilicet dicatur possibile quod potest esse, sive determinetur per facile, ut scilicet dicatur possibile fieri quod
+de facili potest.
+Tertio modo dicitur aliquid genitum, cuius potest esse generatio, ut per hoc procedat de non esse in esse: et hoc
+indifferenter sive iam esse incoeperit, et hoc per fieri, idest per modum generationis; sive nondum esse
+incoeperit, sed contingat illud esse incipere per modum generationis.
+Apparet etiam secundum praemissa ratio horum modorum. Quia cum dicitur genitum secundum primum
+modum, asseritur actualis incoeptio, non autem modus determinatus incipiendi, quem significat generatio.
+Secundum autem modum secundum, asseritur possibilitas incoeptionis absque determinato modo incipiendi: et
+hic modus potest distingui in duos secundum distinctionem potentiae. Secundum autem modum tertium,
+asseritur non solum incoeptio, sed determinatus modus incipiendi: et hic modus potest distingui in duos, quia vel
+asseritur determinatus modus incipiendi secundum actum, ut quia sit aliquid iam generatum; aut secundum
+potentiam, ut quia aptum natum sit generari.
+|#6 Et si quis recte consideret modos quos posuit circa genitum, differunt a modis quos posuit circa ingenitum
+dupliciter: uno modo secundum distinctionem, alio modo secundum ordinem. Secundum distinctionem quidem,
+quia in distinctione modorum ingeniti, sub alio modo comprehendebatur negatio determinati modi incipiendi
+secundum potentiam, et in alio secundum actum: nam in primo modo dicebatur ingenitum, quod non poterat
+incipere per generationem; in secundo autem quod poterat incipere per generationem, sed nondum erat
+generatum. Sed quantum ad negationem incoeptionis in communi, sub eodem modo comprehendebat
+negationem potentiae et actus: dicebatur enim tertio modo ingenitum, quod nec incoepit esse, nec potest incipere.
+Sed circa modos geniti, e converso ex parte incoeptionis in communi distinguit modos secundum potentiam et
+actum: nam primus modus est quod actu incipit esse quocumque modo; secundus modus est quod potest incipere
+quocumque modo, licet nondum incoeperit. Sed ex parte determinati modi incipiendi, sub uno modo
+comprehendit potentiam et actum: dicitur enim tertio modo genitum, quod vel est generatum vel potest generari.
+Et sic patet quod isti tres modi non directe contraponuntur tribus primis: quia quod ibi distinguebatur, hic
+remanet indistinctum, et e converso.
+Secundum ordinem autem differunt isti modi.
+Nam in modis ingeniti praemittebatur id quod pertinet ad determinatum modum incoeptionis, ei quod pertinet ad
+incoeptionem in communi: sed circa modos geniti praemittitur id quod est ex parte incoeptionis in communi. Et
+hoc subtili ratione Aristoteles fecit. Voluit enim primo ponere modos imperfectos, et ultimo modos perfectos:
+differenter autem se habent negatio et affirmatio circa proprium et commune. Nam negatio quae negat proprium,
+est imperfecta; negatio autem quae negat commune, est perfecta, quia negato communi negatur proprium: et ideo
+ultimum modum ingeniti quasi perfectum posuit, quo negatur incoeptio in communi. Et quia negatio particularis
+modi incipiendi est imperfecta, ideo ex hac parte posuit partiales modos distinctos secundum potentiam et actum.
+Sed affirmatio proprii est perfecta, quia posito proprio ponitur commune; affirmatio autem communis est
+imperfecta: et ideo ultimum modum geniti posuit tanquam perfectum, quod incoepit esse per generationem; et
+comprehendit sub hoc modo, tanquam sub perfecto, et potentiam et actum. Modos autem pertinentes ad
+incoeptionem in communi, praemisit tanquam imperfectos: non enim perfecte dicitur aliquid genitum ex hoc solo
+quod incoepit esse.
+Et ideo ex hac etiam parte distinxit hos modos, tanquam partiales, secundum potentiam et actum.
+|#7 Deinde cum dicit: et corruptibile autem etc., distinguit modos corruptibilis et incorruptibilis: et primo
+corruptibilis; secundo incorruptibilis, ibi: et de incorruptibili etc.. Dicit ergo primo quod corruptibile et
+incorruptibile similiter dicuntur multipliciter: et ponit tres modos corruptibilis.
+Ubi considerandum est quod, sicut generatio importat incoeptionem cum determinato modo, ita corruptio
+importat desitionem cum determinato modo, scilicet transmutationis. Primus ergo modus corruptionis ponit
+desitionem in communi, absque distinctione potentiae et actus. Et est eadem ratio ordinis quae est supra de
+genito: sicut enim non dicitur aliquid perfecte genitum ex hoc quod incipit esse, ita non dicitur aliquid perfecte
+corruptum ex hoc quod desinit esse, nec perfecte corruptibile ex hoc quod potest desinere esse.
+Est ergo primus modus, secundum quem dicimus aliquid esse corruptibile, quod, cum prius sit aliquid, posterius
+vel non est vel contingit non esse; sive hoc contingat per corruptionem et transmutationem, sicut homo est
+corruptibilis; sive non per corruptionem et transmutationem desinat esse, sicut tactus et motus. Secundo modo
+dicimus aliquid esse corruptibile, quod contingit non esse, idest quandoque potest desinere esse, per specialem
+
+53
+
+

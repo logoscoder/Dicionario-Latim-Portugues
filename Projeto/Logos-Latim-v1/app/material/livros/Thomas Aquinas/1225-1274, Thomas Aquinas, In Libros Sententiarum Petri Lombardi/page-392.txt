@@ -1,0 +1,62 @@
+Ergo nihil a Deo potest creari.
+AG2
+Praeterea, in omni mutatione est aliquid ex quo est mutatio per se: quia omnis mutatio est inter duos terminos.
+Sed illud ex quo per se fit aliquid, oportet remanere in eo quod fit vel secundum totum, si fit ex eo sicut ex
+materia, ut cultellus ex ferro; vel secundum aliquid ejus, scilicet secundum materiam, ut si dicatur totum fieri ex
+toto, ut caro fit ex cibo: ex albedine enim non dicitur fieri nigredo nisi per accidens, idest post albedinem, sicut
+etiam ex nocte dicitur fieri dies.
+Si ergo dicatur ens fieri ex non ente, oportet quod non ens, vel aliqua pars ejus, cum tamen partem non habeat,
+maneat in ente, et quod sit simul ens et non ens, quod est impossibile. Ergo omne quod fit, fit ex ente aliquo:
+ergo videtur quod impossibile est aliquid a Deo creari.
+AG3
+Praeterea, nullum permanens simul fit et factum est: quia dum fit, non est; et dum factum est, est: non autem
+simul est et non est. Si ergo aliqua res permanens fiat a Deo, oportet quod fieri sit ante suum esse. Sed factio,
+cum sit accidens, non potest esse sine subjecto. Ergo oportet quod omne quod fit, fiat ex aliquo in quo sit factio
+sicut in subjecto. Sed nullum tale creatur. Ergo nihil per creationem fieri potest.
+AG4
+Praeterea, si creatio est aliquid, cum non sit substantia, oportet quod sit accidens. Omne autem accidens est in
+aliquo subjecto, non autem potest esse in ipso creato sicut in subjecto: quia hoc est terminus ejus: sic enim
+creatum creatione esset prius, inquantum est subjectum ejus, et posterius, inquantum est terminus. Ergo oportet
+quod sit in aliqua materia, ex qua creatum fiat; et hoc est contra rationem creationis. Ergo creatio nihil est.
+AG5
+Praeterea, si creatio aliquid est, aut est creator, vel creatura. Sed non creator; quia sic esset ab aeterno, et ita
+creaturae ab aeterno. Ergo est creatura. Sed omnis creatura aliqua creatione creatur, et sic creationis est creatio in
+infinitum; quod est impossibile, ut patet ex 5 physic., ubi dicitur quod actionis non est actio in infinitum. Ergo
+impossibile est creationem esse.
+SC1
+Sed contra est quod dicitur Genesis 1: in principio creavit Deus caelum et terram.
+SC2
+Praeterea, omne agens agit secundum id quod est in actu. Sed quod est secundum aliquid sui in actu, et
+secundum aliquid in potentia, efficit rem secundum aliquid sui, scilicet inducendo formam in materiam. Ergo
+cum primum ens, scilicet Deus, sit actus sine permixtione potentiae, videtur quod totam rem efficere possit,
+secundum totam substantiam ejus. Hoc autem est creare. Ergo videtur quod Deus creare possit.
+CO
+Respondeo quod creationem esse, non tantum fides tenet, sed etiam ratio demonstrat.
+Constat enim quod omne quod est in aliquo genere imperfectum, oritur ab eo in quo primo et perfecte reperitur
+natura generis: sicut patet de calore in rebus calidis ab igne. Cum autem quaelibet res, et quidquid est in re,
+aliquo modo esse participet, et admixtum sit imperfectioni, oportet quod omnis res, secundum totum id quod in
+ea est, a primo et perfecto ente oriatur. Hoc autem creare dicimus, scilicet producere rem in esse secundum totam
+suam substantiam. Unde necessarium est a primo principio omnia per creationem procedere.
+Sciendum est autem, quod ad rationem creationis pertinent duo. Primum est ut nihil praesupponat in re quae
+creari dicitur: unde in hoc ab aliis mutationibus differt, quia generatio praesupponit materiam quae non
+generatur, sed per generationem completur in actum formae transmutata; in reliquis vero mutationibus
+praesupponitur subjectum, quod est ens completum; unde causalitas generantis vel alterantis non sic se extendit
+ad omne illud quod in re invenitur; sed ad formam, quae de potentia in actum educitur: sed causalitas creantis se
+extendit ad omne id quod est in re; et ideo creatio ex nihilo dicitur esse, quia nihil est quod creationi praeexistat,
+quasi non creatum.
+Secundum est, ut in re quae creari dicitur, prius sit non esse quam esse: non quidem prioritate temporis vel
+durationis, ut prius non fuerit et postmodum sit; sed prioritate naturae, ita quod res creata si sibi relinquatur,
+consequatur non esse, cum esse non habeat nisi ex influentia causae superioris.
+Prius enim unicuique inest naturaliter quod non ex alio habet, quam quod ab alio habet: et ex hoc differt creatio a
+generatione aeterna: sic enim non potest dici quod filius Dei si sibi relinquatur, non habeat esse, cum recipiat a
+patre illud idem esse quod est patris, quod est esse absolutum, non dependens ab aliquo. Et secundum ista duo
+creatio dupliciter dicitur esse ex nihilo.
+Tum ita quod negatio neget ordinem creationis importatae per hanc praepositionem ex, ad aliquid praeexistens,
+ut dicatur esse ex nihilo, quia non ex aliquo praeexistenti; et hoc quantum ad primum. Tum ita quod remaneat
+ordo creationis ad nihil praeexistens, ut affirmatus; ut dicatur creatio esse ex nihilo, quia res creata naturaliter
+prius habet non esse quam esse; et si haec duo sufficiant ad rationem creationis, sic creatio potest demonstrari, et
+sic Philosophi creationem posuerunt.
+
+392
+
+

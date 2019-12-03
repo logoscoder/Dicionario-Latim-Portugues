@@ -1,0 +1,51 @@
+Dig.46.1.16.2
+Iulianus 53 dig.
+Sed et si reus, romae constitutus, capuae dari promiserit, fideiussor ephesi, perinde non obligabitur fideiussor, ac si reus
+sub condicione promisisset, fideiussor autem in diem certam vel pure promisisset.
+Dig.46.1.16.3
+Iulianus 53 dig.
+Fideiussor accipi potest, quotiens est aliqua obligatio civilis vel naturalis, cui applicetur.
+Dig.46.1.16.4
+Iulianus 53 dig.
+Naturales obligationes non eo solo aestimantur, si actio aliqua eorum nomine competit, verum etiam cum soluta
+pecunia repeti non potest: nam licet minus proprie debere dicantur naturales debitores, per abusionem intellegi possunt
+debitores et, qui ab his pecuniam recipiunt, debitum sibi recepisse.
+Dig.46.1.16.5
+Iulianus 53 dig.
+Stipulatione in diem concepta fideiussor si sub condicione acceptus fuerit, ius eius in pendenti erit, ut, si ante diem
+condicio impleta fuerit, non obligetur, si concurreret dies et condicio vel etiam diem condicio secuta fuerit, obligetur.
+Dig.46.1.16.6
+Iulianus 53 dig.
+Cum fideiussor hoc modo acceptus esset: " si reus quadraginta, quae ei credidi, non solverit, fide tua esse iubes?",
+verisimile est id actum, ut, cum appellatus reus non solvisset, fideiussor teneretur. sed et si reus, antequam appellaretur,
+decessisset, fideiussor obligatus erit, quia hoc quoque casu verum est reum non solvisse.
+Dig.46.1.17
+Iulianus 89 dig.
+Fideiussoribus succurri solet, ut stipulator compellatur ei, qui solidum solvere paratus est, vendere ceterorum nomina.
+Dig.46.1.18
+Iulianus 90 dig.
+Qui debitorem suum delegat, pecuniam dare intellegitur, quanta ei debetur: et ideo si fideiussor debitorem suum
+delegaverit, quamvis eum, qui solvendo non erat, confestim mandati agere potest.
+Dig.46.1.19
+Iulianus 4 ex minic.
+Servus inscio domino pro quodam fideiusserat et eo nomine pecuniam solverat: quaerebatur, dominus possetne ab eo,
+cui soluta esset, repetere. respondit: interest, quo nomine fideiusserit: nam si ex causa peculiari fideiussit, tunc id, quod
+ex peculio solverit, repetere dominus non poterit, quod ex dominica causa solverit, vindicabitur: si vero extra causam
+peculii fideiusserit, quod ex pecunia dominica solverit, aeque vindicabitur, quod ex peculio, condici poterit.
+Dig.46.1.20
+Iavolenus 13 epist.
+Sed et si servi dominus pecuniam solverit, repetere eam non ab eo pro quo fideiussit, sed ab eo cui numeravit poterit,
+cum servus fideiussionis nomine obligari non possit. sequitur ergo, ut ab eo, pro quo fideiusserat, repeti non possit, cum
+ipse aere alieno obligatus sit nec solutione liberari eius pecuniae nomine potuerit, cuius obligatio ad servum non
+pertinuit.
+Dig.46.1.21pr.
+Africanus 7 quaest.
+Heres a debitore hereditario fideiussorem accepit, deinde hereditatem ex trebelliano restituit: fideiussoris obligationem
+in suo statu manere ait idemque in hac causa servandum, quod servaretur, cum heres, contra quem emancipatus filius
+bonorum possessionem accepit, fideiussorem accepit. ideoque in utraque specie transeunt actiones.
+Dig.46.1.21.1
+Africanus 7 quaest.
+Non est novum, ut fideiussor duabus obligationibus eiusdem pecuniae nomine teneatur: nam si in diem acceptus mox
+pure accipiatur, ex utraque obligatur, et si fideiussor confideiussori heres exstiterit, idem erit.
+
+

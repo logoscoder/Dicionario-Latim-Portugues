@@ -1,0 +1,57 @@
+[1.38. DE ISTO TERMINO 'ENS']
+Dicto de terminis quibusdam secundae intentionis et quibusdam secundae impositionis, uidendum est de
+terminis primae intentionis, cuiusmodi ponuntur praedicamenta. Primo tamen dicendum est de quibusdam
+communibus omnibus, siue sint res quae non sunt signa siue sint signa, cuiusmodi sunt
+'ens' et 'unum'.
+'ens' et 'unum'.
+Circa 'ens' autem est primo sciendum quod ens dupliciter accipi potest. Uno modo accipitur hoc nomen
+'ens' secundum quod sibi correspondet unus conceptus communis omnibus rebus, praedicabilis de omnibus in
+quid, illo modo quo transcendens potest in quid praedicari.
+Circa 'ens' autem est primo sciendum quod ens dupliciter accipi potest. Uno modo accipitur hoc nomen
+'ens' secundum quod sibi correspondet unus conceptus communis omnibus rebus, praedicabilis de omnibus in
+quid, illo modo quo transcendens potest in quid praedicari.
+Quod enim omnibus rebus sit unus conceptus communis praedicabilis de omnibus rebus ex hoc
+persuaderi potest: quia si non sit aliquis talis conceptus communis, ergo diuersis rebus sunt diuersi conceptus
+communes, qui sunt a et b. Sed ostendo quod aliquis conceptus est communior tam a quam b, praedicabilis de
+quocumque, puta de c, gratia exempli: quia sicut possunt formari tales tres propositiones uocales 'c est b', 'c est
+a', 'c est aliquid', ita possunt in mente tales tres propositiones formari quarum duae sunt dubiae et tertia est scita.
+Nam possibile est quod aliquis dubitet utramque istarum 'c est b', 'c est a' et tamen quod sciat istam 'c est aliquid'.
+Quo dato arguo sic: duae istarum propositionum sunt dubiae et una est scita, et istae tres habent idem subiectum,
+igitur habent distincta praedicata; quia si non, eadem propositio esset scita et dubia, ex quo duae sunt hic dubiae.
+Si habent distincta praedicata, igitur aliud praedicatum est in ista 'c est aliquid' quod non est praedicatum in
+aliqua istarum 'c est b', 'c est a', igitur illud praedicatum est distinctum ab illis. Sed manifestum est quod illud
+praedicatum non est minus commune nec conuertibile cum aliquo illorum, igitur est communius quam aliquod
+illorum. Quod est propositum: scilicet quod aliquis conceptus mentis alius ab istis inferioribus est communis
+cuilibet enti. Quod concedendum est, nam de omni ente uel de pronomine demonstrante quodcumque ens potest
+idem conceptus mentis uere praedicari, sicut eadem uox potest de quolibet uere praedicari.
+Quod enim omnibus rebus sit unus conceptus communis praedicabilis de omnibus rebus ex hoc
+persuaderi potest: quia si non sit aliquis talis conceptus communis, ergo diuersis rebus sunt diuersi conceptus
+communes, qui sunt a et b. Sed ostendo quod aliquis conceptus est communior tam a quam b, praedicabilis de
+quocumque, puta de c, gratia exempli: quia sicut possunt formari tales tres propositiones uocales 'c est b', 'c est
+a', 'c est aliquid', ita possunt in mente tales tres propositiones formari quarum duae sunt dubiae et tertia est scita.
+Nam possibile est quod aliquis dubitet utramque istarum 'c est b', 'c est a' et tamen quod sciat istam 'c est aliquid'.
+Quo dato arguo sic: duae istarum propositionum sunt dubiae et una est scita, et istae tres habent idem subiectum,
+igitur habent distincta praedicata; quia si non, eadem propositio esset scita et dubia, ex quo duae sunt hic dubiae.
+Si habent distincta praedicata, igitur aliud praedicatum est in ista 'c est aliquid' quod non est praedicatum in
+aliqua istarum 'c est b', 'c est a', igitur illud praedicatum est distinctum ab illis. Sed manifestum est quod illud
+praedicatum non est minus commune nec conuertibile cum aliquo illorum, igitur est communius quam aliquod
+illorum. Quod est propositum: scilicet quod aliquis conceptus mentis alius ab istis inferioribus est communis
+cuilibet enti. Quod concedendum est, nam de omni ente uel de pronomine demonstrante quodcumque ens potest
+idem conceptus mentis uere praedicari, sicut eadem uox potest de quolibet uere praedicari.
+Tamen non obstante quod sic sit unus conceptus communis omni enti, tamen hoc nomen 'ens' est
+aequiuocum, quia non praedicatur de omnibus subicibilibus, quando significatiue sumuntur, secundum unum
+conceptum, sed sibi diuersi conceptus correspondent, sicut super Porphyrium declaraui.
+Tamen non obstante quod sic sit unus conceptus communis omni enti, tamen hoc nomen 'ens' est
+aequiuocum, quia non praedicatur de omnibus subicibilibus, quando significatiue sumuntur, secundum unum
+conceptum, sed sibi diuersi conceptus correspondent, sicut super Porphyrium declaraui.
+Ulterius sciendum est quod secundum Philosophum, V Metaphysicae: "Ens dicitur hoc quidem
+secundum accidens, illud uero secundum se". Quae distinctio non est intelligenda quod aliquod ens sit per se,
+aliud per accidens, sed ostendit ibi diuersum modum praedicandi unius de reliquo mediante hoc uerbo 'est'. Quod
+satis claret per exempla Philosophi, quia dicit quod dicimus 'musicum secundum accidens est iustum', et similiter
+'musicum secundum accidens est homo', et musicum dicimus aedificare secundum accidens. Ex quo
+patet quod non loquitur nisi de diuerso modo praedicandi alicuius de aliquo, quia aliquid dicitur de aliquo per se
+et aliquid dicitur de aliquo per accidens.
+
+66
+
+

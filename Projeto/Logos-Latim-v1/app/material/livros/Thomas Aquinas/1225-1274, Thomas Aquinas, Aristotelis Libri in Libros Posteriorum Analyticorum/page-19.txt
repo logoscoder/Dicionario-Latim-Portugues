@@ -1,0 +1,59 @@
+Sicut autem de singulis determinatum est aliquando seorsum, de numeris quidem in arithmetica, de lineis et
+firmis in geometria, de temporibus in naturali philosophia vel astrologia, ita contingens est, quod de omnibus
+praedictis commutatim proportionari una demonstratione demonstretur.
+Sed ideo commutatim proportionari, de singulis horum seorsum demonstratur, quia non est nominatum illud
+commune, in quo omnia ista sunt unum. Etsi enim quantitas omnibus his communis sit, tamen sub se et alia,
+praeter haec, comprehendit, sicut orationem et quaedam, quae sunt quantitates per accidens. Vel melius
+dicendum quod commutatim proportionari non convenit quantitati in quantum est quantitas, sed in quantum est
+comparata alteri quantitati secundum proportionalitatem quandam. Et ideo dixerat etiam in principio
+proportionale esse quod commutabiliter est. Omnibus autem istis, in quantum sunt proportionalia, non est nomen
+commune positum.
+Cum autem demonstratur commutatim proportionari de singulis praedictorum divisim, non demonstratur
+universale. Non enim commutatim proportionari inest numeris et lineis, secundum quod huiusmodi, sed
+secundum quoddam commune.
+Demonstrantes autem de lineis seorsum vel de numeris ponunt hoc, quod est commutabiliter proportionari, esse
+quasi quoddam universale praedicatum lineae secundum quod linea est, aut numeri secundum quod numerus.
+|#9 Deinde cum dicit: propter hoc nec si aliquis etc., inducit quoddam corollarium ex dictis, dicens quod eadem
+ratione, qua non demonstratur universale cum de singulis speciebus aliquid demonstratur, quod est universale
+praedicatum communis innominati; nec etiam demonstratur universale modo praedicto, si sit commune nomen
+positum. Sicut si aliquis aut eadem demonstratione aut diversa demonstret de unaquaque specie trianguli, quod
+habet duos rectos, seorsum scilicet de isoscele et seorsum de gradato, idest de triangulo trium laterum
+inaequalium, non tamen propter hoc cognovit quod triangulus tres angulos habeat aequales duobus rectis, nisi
+sophistico modo, idest per accidens: quia non cognovit de triangulo secundum quod est triangulus, sed secundum
+quod est aequilaterus, aut duorum aequalium laterum, aut trium inaequalium. Neque etiam demonstrans cognovit
+universale trianguli, idest habet cognitionem de triangulo in universali, etiamsi nullus alius triangulus esset
+praeter illos, de quibus cognovit.
+Et hoc ideo, quia non cognovit de triangulo secundum quod est triangulus, sed sub ratione specierum eius. Unde
+neque cognovit, per se loquendo, omnem triangulum: quia et si secundum numerum cognovit omnem triangulum
+(si nullus est, quem non novit), tamen secundum speciem non cognovit omnem. Tunc enim cognoscitur aliquid
+universaliter secundum speciem, quando cognoscitur secundum rationem speciei. Secundum numerum autem et
+non universaliter, quando cognoscitur secundum multitudinem contentorum sub specie.
+Nec est differentia quantum ad hoc si comparemus species ad individua vel genera ad species. Nam triangulus
+est genus aequilateri et isoscelis.
+|#10 Deinde cum dicit: quando igitur non novit etc., assignat rationem praedictorum, quaerens quando aliquis
+cognoscat universaliter et simpliciter, ex quo praedicto modo cognoscens non cognoscit universaliter. Et
+respondet manifestum esse quod, si eadem esset ratio trianguli in communi et uniuscuiusque specierum eius
+seorsum acceptae aut omnium simul acceptarum, tunc universaliter et simpliciter nosceret de triangulo, quando
+sciret de aliqua specie eius vel de omnibus simul. Si vero non est eadem ratio, tunc non erit idem cognoscere
+triangulum in communi et singulas species eius; sed est alterum. Et cognoscendo de speciebus, non cognoscitur
+de triangulo secundum quod est triangulus.
+|#11 Deinde cum dicit: utrum autem etc., dat documentum quo proprie possit accipi universale, dicens quod,
+utrum aliquid sit trianguli secundum quod est triangulus, aut isoscelis, secundum quod est isosceles, et quando id
+cuius est demonstratio sit primum et universale, secundum hoc, idest secundum aliquod subiectum positum;
+manifestum est ex hoc quod dicam. Quandocumque enim, remoto aliquo, adhuc remanet illud quod assignatur
+universale, sciendum est quod non est primum universale illius. Sicut, remoto isoscele vel aeneo triangulo,
+remanet quod habeat tres angulos, scilicet duobus rectis aequales. Unde patet quod habere tres angulos aequales
+duobus rectis non est universale primum, neque isoscelis, neque aenei trianguli. Remota autem figura non
+remanet habere tres, nec etiam, remoto termino, qui est superius ad figuram, cum figura sit, quae termino vel
+terminis clauditur; sed tamen non primo convenit neque figurae, neque termino, quia non convenit eis
+universaliter. Cuius ergo erit primo? manifestum est quod trianguli, quia secundum triangulum inest aliis, tam
+superioribus, quam inferioribus: ideo enim competit figurae habere tres, quia triangulus est quaedam figura; et
+similiter isosceli, quia triangulus est, et de triangulo habere tres universaliter demonstratur. Unde eius est
+universale primum.
+|+13 Lectio 13
+|#1
+Postquam determinavit Philosophus de dici de omni, et per se, et universali quibus utimur in
+demonstratione, hic iam incipit ostendere ex quibus demonstratio procedit. Et dividitur in duas partes: in prima,
+19
+
+

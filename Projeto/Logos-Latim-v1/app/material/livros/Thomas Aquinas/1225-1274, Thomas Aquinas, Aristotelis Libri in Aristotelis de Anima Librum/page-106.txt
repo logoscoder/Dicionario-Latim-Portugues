@@ -1,0 +1,63 @@
+intelligibilia: quando autem componit, fit unum intelligibile, et simul intelligitur ab intellectu. Sed quia
+intellectus non semper componit ea quae sunt in praesenti, sed quae fuerunt vel erunt, ideo subiungit, quod si
+intellectus faciat compositionem factorum, idest praeteritorum et futurorum, oportet quod cointelligat suae
+compositioni tempus praeteritum et futurum. Et sic componit, formans compositionem de praeterito vel de
+futuro. |#5 N.5 Et quod hoc sit verum, probat, quia contingit compositionem de praeterito vel de futuro esse
+falsam, falsum autem semper in compositione est. Et namque falsum est, si non album componatur ei quod est
+album, ut si dicas, cygnus non est albus: aut si album componatur ei quod non est album, ut si dicatur, quod
+corvus est albus. Et quia quaecumque contingit affirmare, contingit etiam negare, subiungit quod omnia
+praedicta possunt per divisionem fieri. |#6 N.6 Potest enim intellectus omnia dividere et secundum praesens
+tempus et secundum praeteritum, et secundum futurum, et vere et false. Sic igitur patet quod cum compositio
+non solum sit secundum praesens tempus, sed secundum praeteritum et futurum, verum autem et falsum consistit
+in compositione et divisione, oportet quod verum et falsum non solum sint in propositionibus de praesenti puta
+quod Cleon est albus, sed etiam in illis de praeterito et futuro, quod Cleon erit vel fuit albus. Considerandum est
+autem, quod compositio propositionis non est opus naturae, sed est opus rationis et intellectus. Et ideo subiungit,
+quod illud quod facit unumquodque intelligibilium, componendo ex intelligibilibus propositiones, hoc est
+intellectus. Et quia verum et falsum consistit in compositione; ideo dicitur in sexto metaphysicorum, quod verum
+et falsum non est in rebus, sed in mente. |#7 N.7 Deinde cum dicit indivisibile autem determinat de utraque
+praedictarum operationum. Et primo de ea, quae est intelligentia indivisibilium. Secundo de ea quae est
+compositio et divisio, ibi, est autem dictio quidem. Tertio ponit quoddam quod est commune utrisque, ibi, idem
+autem est secundum actum. Prima pars dividitur in tres, secundum quod indivisibile dicitur tripliciter, quot
+videlicet modis dicitur et unum, cuius ratio ex indivisione est. Dicitur enim uno modo aliquid unum continuitate.
+Unde et illud, quod est continuum, indivisibile dicitur, inquantum non est divisum actu, licet sit divisibile in
+potentia. Hoc est ergo quod dicit, quod cum divisibile dicatur dupliciter, scilicet, actu et potentia, nihil prohibet
+intellectum intelligere indivisibile cum intelligit aliquid continuum, scilicet longitudinem, quae est indivisibilis
+actu, licet sit divisibilis potentia. Et propter hoc intelligit eam cum indivisibili tempore, quia intelligit eam, ut
+indivisibile. |#8 N.8 Et hoc est contra opinionem Platonis in primo positam, qui posuit intelligentiam fieri
+quasi per motum quemdam continuum magnitudinis. Potest ergo intellectus intelligere magnitudinem dupliciter.
+Uno modo, secundum quod est divisibilis in potentia, et sic intelligit lineam numerando partem post partem, et
+sic intelligit eam in tempore: alio modo secundum quod est indivisibilis in actu, et sic intelligit eam ut unum quid
+constans ex multis partibus, et sic intelligit eam simul. Et ideo subiungit, quod similiter tempus et longitudo
+dividitur vel non dividitur intelligendo. |#9 N.9 Unde non est dicere, quod intelligatur secundum medium
+utriusque, id est quod media pars intelligatur in medio temporis. Hoc enim non esset, nisi linea divideretur in
+actu; sed est divisibilis tantum in potentia. Si autem utrumque dimidium lineae seorsum intelligat, tunc dividit
+lineam in actu secundum intellectum. Unde et tunc tempus simul dividitur, sicut et longitudo. Si autem intelligat
+lineam, sicut unum quid constitutum ex duabus partibus, etiam intelliget in tempore non diviso, sed secundum
+aliquid quod est in utrisque partibus temporis, scilicet in instanti. Et si continuetur consideratio per aliquod aliud
+tempus, non dividetur tempus, ut aliud intelligat in una parte temporis, et aliud in alia, sed idem in utraque. |#10
+N.10 Deinde cum dicit quod autem ponit alium modum indivisibilis. Nam dicitur alio modo unum, quando habet
+speciem unam, etsi sit compositum ex partibus non continuis, sicut homo, aut domus, aut etiam exercitus; et huic
+respondet indivisibile secundum speciem. Et de hoc dicit hic, quod illud, quod est indivisibile non secundum
+quantitatem, sed speciem, intelligit anima tempore indivisibili, et per indivisibilem animae partem; non quod
+intellectus intelligens sit aliqua magnitudo, ut Plato posuit. Et licet illud quod est indivisibile specie, habeat
+aliquam divisionem in partibus, tamen illa divisa intelligit per accidens, non inquantum sunt divisibilia et ex
+parte eius quod intelligitur, et ex parte temporis, sed inquantum sunt indivisibilia: quia in partibus divisis etiam
+in actu, est aliquid indivisibile, scilicet ipsa species quam intellectus indivisibiliter intelligit. Sed si intelligeret
+partes ut divisas, puta carnem per se, et os per se, et sic de aliis, tunc non intelligeret in tempore indivisibili.
+|#11 N.11 Vult autem Philosophus consequenter ostendere similitudinem huiusmodi ad primum modum. Sicut
+enim in hoc modo est aliquid indivisibile, scilicet species, quae facit omnes partes totius esse unum, sic forte in
+continuis est aliquid inseparabile, scilicet indivisibile, quod facit tempus esse unum et longitudinem unam, sive
+hoc dicatur esse punctum in longitudine, et instans in tempore, sive ipsa species longitudinis aut temporis. Sed in
+hoc differt, quod istud indivisibile est similiter in omni continuo, et tempore, et longitudine; sed indivisibile,
+quod est species, non est similiter in omnibus habentibus speciem; quia quaedam componuntur ex partibus
+homogeneis, quaedam ex partibus heterogeneis, et ex his dissimiliter. |#12 N.12 Deinde cum dicit punctum
+autem prosequitur de indivisibili tertio modo dicto. Videtur enim unum esse quod est penitus indivisibile, ut
+punctus et unitas: et de hoc ostendit nunc, quomodo intelligitur: dicens, quod punctum, quod est quoddam
+signum divisionis inter partes lineae, et omne quod est divisio inter partes continui, sicut instans inter partes
+temporis, et sic de aliis, et omne quod est sic indivisibile in potentia et actu, ut punctus, monstratur, idest
+manifestatur intellectui sicut privatio, idest per privationem continui et divisibilis. |#13 N.13 Cuius ratio est,
+quia intellectus noster accipit a sensu; et ideo ea cadunt prius in apprehensionem intellectus nostri, quae sunt
+sensibilia; et huiusmodi sunt magnitudinem habentia, unde punctus et unitas non definiuntur nisi negative. Et
+106
+
+

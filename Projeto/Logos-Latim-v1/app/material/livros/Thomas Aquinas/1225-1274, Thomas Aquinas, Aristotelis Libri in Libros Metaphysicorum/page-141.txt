@@ -1,0 +1,56 @@
+|#7 Sed etiam forma et species uniuscuiusque rei, dicitur tale, idest substantia. In quo includit et secundum et
+quartum modum. Essentia enim et forma in hoc conveniunt quod secundum utrumque dicitur esse illud quo
+aliquid est. Sed forma refertur ad materiam, quam facit esse in actu; quidditas autem refertur ad suppositum,
+quod significatur ut habens talem essentiam. Unde sub uno comprehenduntur forma et species, idest sub essentia
+rei.
+|#8 Tertium autem modum praetermittit, quia falsus est, vel quia reducibilis est ad formam, quae habet rationem
+termini. Materiam vero, quae substantia dicitur, praetermittit, quia non est substantia in actu. Includitur tamen in
+primo modo, quia substantia particularis non habet quod sit substantia et quod sit individua in rebus materialibus,
+nisi ex materia.
+|+11 Lectio 11
+|#1 Postquam Philosophus distinxit nomina, quae significant subiectum huius scientiae, hic distinguit nomina,
+quae significant partes eorum, quae sunt subiecta huius scientiae: et dividitur in partes duas.
+In prima distinguit nomina, quae significant partes unius. In secunda, nomina, quae significant partes entis; hoc
+ibi, potestas dicitur. Substantia enim quae etiam posita est subiectum huius scientiae, est unum solum
+praedicamentum non divisum in multa praedicamenta.
+Prima dividitur in duas. In prima distinguit nomina, quae significant partes unius. In secunda, nomina, quae
+significant, aliquod consequens ad rationem unius, scilicet prius et posterius. Nam unum esse, est principium
+esse, ut supra dictum est. Et hoc ibi, priora et posteriora dicuntur.
+|#2 Prima dividitur in duas. In prima distinguit nomina, quae significant primas partes unius et eius oppositi,
+scilicet multitudinis. In secunda distinguit nomina, quae significant quasdam secundarias partes, ibi, opposita
+dicuntur.
+Partes autem unius sunt idem, quod est unum in substantia: et simile, quod est unum in qualitate: et aequale,
+quod est unum in quantitate. Et e contrario partes multitudinis sunt diversum, dissimile et inaequale.
+Circa primum duo facit. Primo distinguit hoc nomen idem, et ea quae ei opponuntur.
+Secundo distinguit hoc nomen simile et dissimile oppositum eius, ibi, similia dicuntur. De aequali autem, et eius
+opposito, mentionem hic non facit, quia in eis multiplicitas non est ita manifesta.
+Circa primum tria facit. Primo distinguit hoc nomen idem. Secundo hoc nomen diversum, ibi, diversa vero
+dicuntur.
+Tertio hoc nomen differens, ibi, differentia vero.
+Circa primum duo facit. Primo ponit modos eiusdem per accidens. Secundo eiusdem per se, ibi, alia vero
+secundum se.
+|#3 Dicit ergo quod aliqua dicuntur eadem per accidens tribus modis.
+Uno modo sicut duo accidentia; ut album et musicum dicuntur idem, quia accidunt eidem subiecto. Secundo
+modo, quando praedicatum dicitur idem subiecto in quantum de eo praedicatur; ut cum dicitur, homo est
+musicus, quae dicuntur idem, quia accidit musicum homini, idest praedicatum subiecto. Tertio modo dicuntur
+idem per accidens, quando subiectum dicitur esse idem accidenti quasi de eo praedicatum: ut cum dicitur,
+musicus est homo, significatur quod homo sit idem musico.
+Quod enim praedicatur de aliquo, significatur idem esse illi. Et haec ratio identitatis est, quia subiectum accidit
+praedicato.
+|#4 Praeter hos autem modos eiusdem per accidens, in quibus sumitur accidens per se et subiectum per se, sunt
+alii modi in quibus accipitur accidens cum subiecto compositum. Et in hoc variantur duo modi: quorum unus
+significatur, quando accidens simpliciter praedicatur de composito ex accidente et subiecto. Et tunc significatur
+hoc, scilicet accidens esse idem utrique simul accepto; sicut musico homini, musicum. Alius modus significatur
+quando compositum praedicatur de subiecto simplici, ut cum dicitur, homo est homo musicus. Tunc enim illi,
+idest subiecto simplici, significatur esse idem horum utrumque simul acceptum, scilicet hoc quod dicitur homo
+musicus. Et similis ratio est, si accidens accipitur ut simplex, et subiectum cum compositione; ut si dicamus,
+musicus est homo musicus, aut e converso, quia et homini musico, quod est compositum, dicuntur idem per
+accidens et homo et musicum, quando haec duo de illo uno praedicantur, et e converso.
+|#5 Ex hoc autem concludit ulterius conclusionem, quod in omnibus praedictis modis praedicandi, in quibus
+idem per accidens praedicatur, non praedicatur aliquod nomen universaliter. Non enim est verum dicere, quod
+omnis homo sit idem musico. Quod sic patet. Ea enim sola de universalibus praedicantur universaliter, quae
+secundum se insunt eidem. Propter hoc enim modus praedicandi, qui est universaliter praedicari, convenit cum
+conditione subiecti, quod est universale, quia praedicatum per se de subiecto praedicatur.
+141
+
+

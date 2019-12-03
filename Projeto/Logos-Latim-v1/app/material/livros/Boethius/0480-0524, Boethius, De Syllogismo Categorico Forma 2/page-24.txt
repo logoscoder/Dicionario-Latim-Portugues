@@ -1,0 +1,81 @@
+Quoddam iustum bonum est;
+- uersa - Omne bonum iustum est;
+Quoddam iustum malum non est. - manet - Quidam iustum malum non est.
+[827C] Tertius modus tertiae figurae in tertium modum primae [827D]
+figurae resoluitur. Si enim propositio prima tertii primae figurae modi, et secunda propositio tertii modi tertiae
+figurae maneat, et secunda propositio [828C] tertli modi primae figurae particularis particulariter [828D] conuertatur, ut
+sit prima tertii modi tertiae figurae, conuersa particulariter conclusio nascitur.
+Omne bonum uirtus est,
+Quoddam bonum iustum est,
+Quoddam iustum bonum est;
+Omne bonum uirtus est;
+Quoddam iustum uirtus est.
+- uersa - Quaedam uirtus iusta est.
+[827D] Quartus modus tertiae figurae in tertium modum primae figure resoluitur: si enim utrorumque prima,
+maneant propositiones, et secundae particulares particulariter [828D] conuertantur, eaedem conclusiones nascuntur.
+[829]
+Omne bonum uirtus est,
+- manet - Omne bonum uirtus est,
+Quoddam iustum bonum est;
+- uertitur - Quoddam bonum iustum est;
+Quoddam iustum uirtus est.
+- manet - Quoddam iustum uirtus est.
+Reliquus sextus syllogismus tertiae figurae de primae figurae quarto modo procreatur; manentibus enim primis
+eorum propositionibus atque secundis particulariter immutatis particulis in utroque manebit concluso.
+Nullum bonum malum est,
+- eadem - Nullum bonum malum est,
+Quoddam iustum bonum est;
+- mutata - Quoddam bonum iustum est;
+Quoddam iustum malum non est. - manet - Quoddam bonum iustum est.
+[829A] Quintus autem qui restat, sicut ante per impossibile probatur, ita etiam nunc per impossibilitatem
+resoluitur. Sed quemadmodum unus fuerit resolutus, eodem ordine omnes resoluendi sunt. Resoluitur autem sextus
+tertiae figurae modus in tertium prima, flgurae modum. Quintus autem tertiae figurae modus resoluitur in primum
+primae figurae.
+Quartus tertiae figurae modus resoluitur in quartum primae figurae modum. Tertius tertiae figurae modus
+resoluitur in secundum primae figurae modum. Secundus tertiae figurae modus resoluitur in primum primae figurae
+modum. Primae tertiae figurae modi resoluuntur in secundos primae figurae modos. [829B] Resoluitur autem per
+impossibilitatem sextus tertiae [830A] figurae modus in primae figurae modum tertium hoc modo: si quis igitur duas
+proportiones sexti modi tertiae figurae concesserit, concedat etiam necesse est conclusionem quae est:
+Quoddam iustum malum non est.
+Nam si haec falsa est, erit uera contraiacens ei primae figurae tertii modi prima propositio quae est:
+Omne iustum malum est.
+Sed etiam concessit propositionem secundam, quae est:
+Quoddam bonum iustum est.
+Ex his igitur concedat necesse est, quoddam bonum malum est qui ante concesserat primam propositionem
+sexti modi tertiae figurae quae est:
+Nullum bonum malum est.
+Uno tempore duas sibi contraiacentes concedit, quod fieri non posse descriptio declarat.
+Nullum bonum malum est,
+- contraiac. - Omne iustum malum est Quoddam bonum iustum
+est;
+- concessae - Quoddam bonum iustum est Quoddam iustum malum est.
+- permut. iac. - Quoddam
+bonum malum est
+[829B] Hoc modo omnes caeteri modi tertiae figurae in primos modos primae figurae referuntur, quod
+subiecta descriptio declarat, in qua prior quintus, qui per [830B] conuersionem resolui non potuit, per impossibilitatem
+resolutus est.
+Quoddam bonum malum non est, - contraiac. - Omne iustum malum est Omne bonum iustum est
+- concessae - Omne bonum iustum est.
+Quoddam iustum malum non est - permut. - Omne bonum malum est.
+Omne bonum uirtus est
+- contraiac. - Nullum iustum uirtus est.
+Quoddam bonum iustum est
+- concessae - Quoddam bonum iustum est.
+Quoddam iustum uirtus est
+- permut. - Nullum bonum uirtus est.
+Quoddam bonum iustum est
+- contraiac. - Nulla uirtus iusta est.
+Omne bonum uirtus est
+- concessae - Omne bonum uirtus est.
+Quaedam uirtus iust. est - permut. - Nullum bonum iustum est.
+[829C] In resolutione modi secundi tertiae figurae in primum modum primae figurae, haec impossibilitas
+euenit, quod duas contrarias uno tempore concedit, quod [830C] fieri nequit. Numquam enim duae contrariae uno
+tempore simul uerae inueniuntur.
+Nullum bonum malum est,
+- contraiac. - Omne iustum malum est.,
+Omne bonum iustum est;
+- concessae - Omne bonum iustum est;
+Quoddam iustum malum non est. - permut. - Nullum bonum iustum est.
+[829C] Et in sequenti quoque syllogismo duas concedit, [830C] quod impossibile est.
+
+

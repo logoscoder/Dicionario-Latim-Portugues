@@ -1,0 +1,60 @@
+De lineis angulis et figuris
+Printed Source: Die Philosophischen Werke des Robert Grosseteste, Bischofs von Lincoln (Münster i. W.,
+Aschendorff, 1912.), pp. 59 - 65.
+INC: Utilitas considerationis linearum, angulorum et figurarum est maxima, quoniam impossibile est sciri
+naturalem philosophiam sine illis.
+EXPL: potest dici, quod istae rationes optime concludunt, quantum sufficiunt, et ideo procederent, nisi rationes
+fortiores essent in contrarium, quae praedictae sunt. Explicit tractatus Lincolniensis de fractionibus et
+reflexionibus radiorum.
+p. 60: Utilitas considerationis linearum, angulorum et figurarum est maxima, quoniam impossibile est sciri
+naturalem philosophiam sine illis.Valent autem in toto universo et partibus eius absolute. Valent etiam in
+proprietatibus relatis, sicut in motu recto et circulari. Valent quidem in actione et passione, et hoc sive sit in
+materiam sive in sensum; et hoc sive in sensum visus, secundum quod occurrit, sive in alios sensus in quorum
+actione oportet addere alia super ea, quae faciunt visum.
+p. 60: Cum igitur in aliis dictum est de eis quae pertinent ad totum universum et partes eius absolute, et de his
+quae ad motum rectum et circularem consequuntur, nunc dicendum est de actione universali, prout ipsa recipit
+naturam inferiorum; quae est subiectum susceptivum diversorum actuum, prout ad actionem in materiam mundi
+contingit descendere; possuntque aliqua in medium adduci, quae erudire possunt procedentem ad maiora. Omnes
+enim causae effectuum naturalium habent dari per lineas, angulos et figuras. Aliter enim impossibile est sciri
+"propter quid" in illis. Quod manifestum sic: Agens naturale multiplicat virtutem suam a se usque in patiens, sive
+agat in sensum, sive in materiam. Quae virtus aliquando vocatur species, aliquando similitudo, et idem est,
+quocunque modo vocetur; et idem immittet in sensum et idem in materiam, sive contrarium, ut calidum idem
+immittit in tactum et in frigidum. Non enim agit per deliberationem et electionem; et ideo uno modo agit,
+quicquid occurrat, sive sit sensus, sive sit aliud, sive animatum, sive inanimatum. Sed propter diversitatem
+patientis diversificantur effectus. In sensu enim ista virtus recepta facit operationem spiritualem quodammodo et
+nobiliorem; in contrario, sive in materia, facit operationem materialem, sicut sol per eandem virtutem in diversis
+passis diversos producit effectus. Constringit enim lutum et dissolvit glaciem.
+pp. 60 - 61: Virtus igitur ab agente naturali aut veniet super lineam breviorem, et tunc magis est activa, quia
+patiens minus distat ab agente, aut super lineam longiorem, et tunc minus est activa, quia patiens magis distat.
+Sed sive sic, sive non sic: aut veniet immediate a superficie agentis, aut mediate. Si immediate: aut per lineam
+rectam veniet, aut per obliquam. Sed si per lineam rectam: tunc est actio fortior et melior, ut vult Aristoteles V
+Physicorum, quia natura operatur breviori modo, quo potest. Sed linea recta omnium est brevissima, ut ibidem
+dicit.
+p. 61: Item, linea recta habet aequalitatem sine angulo; sed melius est aequale, quam inaequale, ut dicit Boëthius
+in arismetica sua. Sed natura operatur breviori et meliori modo, quo potest; quare melius operatur super lineam
+rectam.
+p. 61: Item, omnis virtus unita est fortioris operationis. Sed maior unio et unitas est in linea recta quam in non
+recta, sicut dicitur in V Metaphysicae. Quare fortior erit operatio super lineam rectam.
+p. 61: Sed linea recta aut cadit ad angulos aequales, quae est perpendicularis, aut inaequales. Si ad angulos
+aequales, est operatio fortior propter tres rationes praedictas, quia illa linea est brevior et aequalis et virtus
+uniformiter venit per eam ad partes patientis.
+p. 61: Linea autem cadens ad angulos aequales super corpus aliquod cadit ad rectos, quando cadit super planum;
+quando super concavum, ad acutos; quando autem super sphaeram, ad maiores recto. Quod manifestum est, quia,
+si ducatur linea incidentiae transiens per medium sphaerae cum linea contingentiae, facit angulos rectos, et ex
+linea contingentiae cum sphaera causantur utrobique anguli contingentiae; quare linea cadens super sphaeram
+faciet angulos duos cum eius superficie, quorum uterque est maior recto, quia valet angulum rectum et angulum
+contingentiae. Quando ergo cadit virtus ad angulos non solum aequales, sed omnino rectos, tunc videtur esse
+actio fortissima, quoniam omnino est aequalitas et uniformitas completa.
+pp. 61 - 62: Si vero sit linea non recta, sive curva, tunc, cum non sit circularis, quia agens naturale, non facit
+virtutem suam secundum circulum, sed secundum diametrum circuli propter brevitatem, manifestum est, quod
+talis linea habebit angulos. Et hoc non fiet, dum medium est unum, sive dum est unum corpus occurrens; sed
+oportet, quod sint duo, unde in primo multiplicatur virtus super lineas rectas, in secundo super alias. Hoc autem
+non potest esse, nisi duobus modis: aut scilicet quod corpus patientis sit densum, ita ut impediat transitum
+virtutis, praecipue quantum ad sensum nostrum et tunc dicitur linea reflexa, ideo quod redit virtus aut corpus
+occurrens sit rarum, quod permittit transitum virtutis. Si primo modo, tunc virtus veniens ad corpus densum aut
+cadit ad angulos aequales sive perpendiculariter, aut ad inaequales. Si primo modo, tunc redit in se per eandem
+viam, per quam venit. Cuius ratio est, quia qualem angulum constituit linea cadens super corpus, talem et tantum
+constituit linea reflexa. Et ideo oportet, quod ad eosdem angulos reflectatur, super quos cecidit et per eandem
+1
+
+

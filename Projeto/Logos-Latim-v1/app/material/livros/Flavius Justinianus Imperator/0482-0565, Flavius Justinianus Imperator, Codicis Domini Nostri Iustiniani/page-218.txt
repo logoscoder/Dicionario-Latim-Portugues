@@ -1,0 +1,62 @@
+Liber quintus
+* 5.1.0. De sponsalibus et arris sponsaliciis et proxeneticis.
+* 5.2.0. Si rector provinciae vel ad eum pertinentes sponsalia dederint.
+* 5.3.0. De donationibus ante nuptias vel propter nuptias et sponsaliciis.
+* 5.4.0. De nuptiis.
+* 5.5.0. De incestis et inutilibus nuptiis.
+* 5.6.0. De interdicto matrimonio inter pupillam et tutorem seu curatorem liberosque eorum.
+* 5.7.0. Si quacumque praeditus potestate vel ad eum pertinentes ad suppositarum iurisdictioni (..)
+* 5.8.0. Si nuptiae ex rescripto petantur.
+* 5.9.0. De secundis nuptiis.
+* 5.10.0. Si secundo nupserit mulier, cui maritus usum fructum reliquerit.
+* 5.11.0. De dotis promissione vel nuda pollicitatione.
+* 5.12.0. De iure dotium.
+* 5.13.0. De rei uxoriae actione in ex stipulatu actionem transfusa et de natura dotibus praestita.
+* 5.14.0. De pactis conventis tam super dote quam super donatione ante nuptias et paraphernis.
+* 5.15.0. De dote cauta et non numerata.
+* 5.16.0. De donationibus inter virum et uxorem et a parentibus in liberos factis et de ratihabitione.
+* 5.17.0. De repudiis et iudicio de moribus sublato.
+* 5.18.0. Soluto matrimonio dos quemadmodum petatur.
+* 5.19.0. Si dos constante matrimonio soluta fuerit.
+* 5.20.0. Ne fideiussores vel mandatores dotium dentur.
+* 5.21.0. Rerum amotarum.
+* 5.22.0. Ne pro dote mulieri bona mariti addicantur.
+* 5.23.0. De fundo dotali.
+* 5.24.0. Divortio facto apud quem liberi morari vel educari debent.
+* 5.25.0. De alendis liberis ac parentibus.
+* 5.26.0. De concubinis.
+* 5.27.0. De naturalibus liberis et matribus eorum et ex quibus casibus iusti efficiuntur.
+* 5.28.0. De tutela testamentaria.
+* 5.29.0. De confirmando tutore.
+* 5.30.0. De legitima tutela.
+* 5.31.0. Qui petant tutores vel curatores.
+* 5.32.0. Ubi petantur tutores vel curatores.
+* 5.33.0. De tutoribus et curatoribus illustrium vel clarissimarum personarum.
+* 5.34.0. Qui dare tutores vel curatores et qui dari possunt.
+* 5.35.0. Quando mulier tutelae officio fungi potest.
+* 5.36.0. In quibus causis tutorem habenti tutor vel curator dari potest.
+* 5.37.0. De administratione tutorum et curatorum et de pecunia pupillari feneranda vel deponenda.
+* 5.38.0. De periculo tutorum et curatorum.
+* 5.39.0. Quando ex facto tutoris vel curatoris minores agere vel conveniri possunt.
+* 5.40.0. Si ex pluribus tutoribus vel curatoribus omnes vel unus agere pro minore (..)
+* 5.41.0. Ne tutor vel curator vectigal conducat.
+* 5.42.0. De tutore vel curatore qui satis non dedit.
+* 5.43.0. De suspectis.
+* 5.44.0. De in litem dando tutore vel curatore.
+* 5.45.0. De eo qui pro tutore negotia gessit.
+* 5.46.0. Si mater indemnitatem promiserit.
+* 5.47.0. Si contra matris voluntatem tutor datus sit.
+* 5.48.0. Ut causae post pubertatem adsit tutor.
+* 5.49.0. Ubi pupilli educentur.
+* 5.50.0. De alimentis pupillo praestandis.
+* 5.51.0. Arbitrium tutelae.
+* 5.52.0. De dividenda tutela et pro qua parte quisque tutorum conveniatur.
+* 5.53.0. De in litem iurando.
+* 5.54.0. De heredibus tutorum.
+* 5.55.0. Si tutor non gesserit.
+* 5.56.0. De usuris pupillaribus.
+* 5.57.0. De fideiussoribus tutorum seu curatorum.
+* 5.58.0. De contrario iudicio.
+218
+
+

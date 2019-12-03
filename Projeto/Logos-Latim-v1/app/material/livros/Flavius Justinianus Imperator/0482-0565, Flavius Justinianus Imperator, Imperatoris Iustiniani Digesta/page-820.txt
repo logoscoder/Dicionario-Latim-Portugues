@@ -1,0 +1,54 @@
+* 37.1.0. De bonorum possessionibus.
+* 37.2.0. Si tabulae testamenti extabunt.
+* 37.3.0. De bonorum possessione furioso infanti muto surdo caeco competente.
+* 37.4.0. De bonorum possessione contra tabulas.
+* 37.5.0. De legatis praestandis contra tabulas bonorum possessione petita.
+* 37.6.0. De collatione bonorum.
+* 37.7.0. De dotis collatione.
+* 37.8.0. De coniungendis cum emancipato liberis eius.
+* 37.9.0. De ventre in possessionem mittendo et curatore eius.
+* 37.10.0. De Carboniano edicto.
+* 37.11.0. De bonorum possessione secundum tabulas.
+* 37.12.0. Si a parente quis manumissus sit.
+* 37.13.0. De bonorum possessione ex testamento militis.
+* 37.14.0. De iure patronatus.
+* 37.15.0. De obsequiis parentibus et patronis praestandis.
+37.1.0. De bonorum possessionibus.
+37.1.1
+Ulpianus libro 39 ad edictum
+Bonorum possessio admissa commoda et incommoda hereditaria itemque dominium rerum, quae in his bonis sunt,
+tribuit: nam haec omnia bonis sunt coniuncta.
+37.1.2
+Ulpianus libro 14 ad edictum
+In omnibus enim vice heredum bonorum possessores habentur.
+37.1.3
+Ulpianus libro 39 ad edictum
+pr. Bona autem hic, ut plerumque solemus dicere, ita accipienda sunt universitatis cuiusque successionem, qua
+succeditur in ius demortui suscipiturque eius rei commodum et incommodum: nam sive solvendo sunt bona sive non
+sunt, sive damnum habent sive lucrum, sive in corporibus sunt sive in actionibus, in hoc loco proprie bona
+appellabuntur.
+1. Hereditatis autem bonorumve possessio, ut Labeo scribit, non uti rerum possessio accipienda est: est enim iuris
+magis quam corporis possessio. Denique etsi nihil corporale est in hereditate, attamen recte eius bonorum possessionem
+adgnitam Labeo ait.
+2. Bonorum igitur possessionem ita recte definiemus ius persequendi retinendique patrimonii sive rei, quae cuiusque
+cum moritur fuit.
+3. Invito autem nemini bonorum possessio adquiritur.
+4. A municipibus et societatibus et decuriis et corporibus bonorum possessio adgnosci potest. Proinde sive actor eorum
+nomine admittat sive quis alius, recte competet bonorum possessio: sed et si nemo petat vel adgnoverit bonorum
+possessionem nomine municipii, habebit municipium bonorum possessionem praetoris edicto.
+5. Dari autem bonorum possessio potest tam patris familias quam filii familias, si modo ius testandi habuit de peculio
+castrensi vel quasi castrensi.
+6. Sed et eius, qui apud hostes decessit, bonorum possessionem admitti posse, quamvis in servitute decedat, nulla
+dubitatio est.
+7. Adquirere quis bonorum possessionem potest vel per semetipsum vel per alium. Quod si me non mandante bonorum
+possessio mihi petita sit, tunc competet, cum ratum habuero id quod actum est. Denique si ante decessero quam ratum
+habeam, nulla dubitatio est quin non competet mihi bonorum possessio, quia neque ego ratum habui neque heres meus
+ratum habere potest, cum ad eum non transeat ius bonorum possessionis.
+8. Si causa cognita bonorum possessio detur, non alibi dabitur quam pro tribunali, quia neque decretum de plano
+interponi neque causa cognita bonorum possessio alibi quam pro tribunali dari potest.
+9. In bonorum possessione sciendum est ius esse adcrescendi: proinde si plures sint, quibus bonorum possessio
+competit, quorum unus admisit bonorum possessionem, ceteri non admiserunt,
+37.1.4
+Gaius libro octavo ad legem Iuliam et Papiam
+
+

@@ -1,0 +1,79 @@
+quater, subquadruplus et fit per haec in infinitum progressio, additaque eos semper sub praepositione nominabis,
+ut unus duorum subduplus, trium subtriplus, iiij subquadruplus appelletur et consequenter.
+Cum autem naturaliter multiplicitas et submultiplicitas infinita sit, eorum quoque species per proprias
+generationes in infinita consideratione versantur. Si enim positis in naturali constitutione numeris singulos per
+suas sequentias pares eligas, omnium ab uno parium atque inparium sese sequentium duplices erunt et huius
+speculationis terminus deficit. Ponatur enim naturalis numerus hoc modo: i ij iij iiij v vj vij viij viiij x xj xij xiij
+xiiij xv xvj xvij xviij xviiij xx. Horum ergo si primum sumas parem, id est ij, primi duplus erit, id est unitatis; si
+vero sequentem parem, id est iiij, secundi duplus est, id est duorum; si vero tertium parem sumas, id est vj, tertii
+numeri in naturali constitutione duplus est, id est ternarii; si vero quartum parem inspicias, id est. viij quarti
+numeri, id est quaternarii, duplus est. Idemque in ceteris in infinitum sumentibus sine aliquo inpedimento
+procedit. Triplices autem nascuntur, si in eadem dispositione naturali duo semper intermittantur, et qui post duos
+sunt, ad naturalem numerum comparentur, excepto ternario, qui, ut unitatis triplus sit, solum binarium
+praetermittit. Post unum enim et duo tres sunt, qui triplus unius est; rursus post iiij et v sunt vj., qui secundi
+numeri, id est duorum, triplus est; rursus post vj sunt vij. et viij et post hos viiij, qui tertii numeri, id est ternarii
+triplus est; atque hoc idem in infinitum si quis faciat, sine ulla offensione procedit. Quadruplorum vero generatio
+incipit, si quis tres numeros intermittat. Post unum quippe et duo et iij sunt iiij, qui primi, id est unius,
+quadruplus est; rursus si intermisero quinarium, senarium et septenarium, octonarius mihi quartus occurrit, tribus
+scilicet intermissis, qui binarii, id est secundi numeri quadruplus est; at vero si post viij tres terminos intermisero,
+id est viiij vel x vel xj. duodenarius, qui sequitur, ternarii numeri quadruplus est; atque hoc idem in infinitum
+progressis necesse est evenire, semperque una terminorum intermissione si crescat adiectio, ordinatas te
+multiplicis numeri vices invenire miraberis. Si enim iiij intermittas, quincuplus invenitur, si v sescuplus, si vj
+septuplus, semperque ipsius multiplicationis nomine uno minus intermissionis vocabulo procreantur. Nam
+duplus unum intermittit, triplus ij quadruplus iij quincuplus iiij et deinceps ad eundem ordinem sequentia est. Et
+omnes quidem dupli secundum proprias sequentias parium numerorum pares sunt; tripli vero unus semper par
+terminus, inpar alius invenitur; quadrupli vero rursus semper parem custodiunt quantitatem constituunturque a
+quarto numero uno ex prioribus per ordinem positis paribus intermisso, primo pari binario, post hunc viiij
+intermisso senario, post hunc xij transmisso denario, atque hoc idem in ceteris. Quincupli vero propositio
+secundum triplicis similitudinem alternatim paribus atque inparibus positis ordinatur.
+De superparticulari eiusque speciebus earumque generationibus.
+Superparticularis vero est numerus ad alterum comparatus, quotiens habet in se totum minorem et eius
+aliquam partem; qui si minoris habeat medietatem, vocatur sesqualter, si vero tertiam partem, vocatur
+sesquitertius, si vero quartam, sesquiquartus, et si quintam, vocatur sesquiquintus; atque his nominibus in
+infinitum ductis in infinitum quoque superparticularium forma progreditur. Et maiores quidem numeri hoc modo
+vocantur, minores vero, qui habentur toti et eorum aliqua pars, unus subsesqualter, alter subsesquitertius, alius
+subsesquiquartus, alius vero subsesquiquintus, atque idem secundum maiorum normam multitudinemque
+protenditur. Voco autem maiores numeros duces, minores comites. Superparticularium quoque infinita est
+multitudo ob eam rem, quod eiusdem species interminabili progressione funguntur. Namque sesqualter habebit
+quidem duces omnes post ternarium numerum naturaliter triplices, comites vero omnes post binarium numerum
+naturaliter pares, hoc modo ut primus primo, secundus secundo, tertius tertio comparetur et deinceps.
+Describantur enim longissimi versus triplicium naturalis numeri atque duplicium et sit hoc modo:
+
+j
+ij j
+
+ij
+
+iij
+
+iiij ij
+
+j iij j
+
+iij
+
+j
+
+ij
+
+v viij xj
+ij
+
+iij
+
+iiij
+
+xiiij xvij xx
+
+iiij vj
+
+iiij
+
+x
+
+Primus igitur versus continet numerum naturalem, secundus eius triplicem, tertius vero duplicem. Atque in
+eo si ternarius binario, vel si senarius quaternario, vel novenarius senario comparetur, vel omnes triplices
+superiores si duplicibus numeris consequentibus opponantur, hemiolia id est sesqualtera proportio nascetur. III
+16
+
+

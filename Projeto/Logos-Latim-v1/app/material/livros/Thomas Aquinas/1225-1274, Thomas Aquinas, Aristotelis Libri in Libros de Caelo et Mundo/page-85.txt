@@ -1,0 +1,60 @@
+|#3 Sed circa hoc videtur esse duplex dubitatio.
+Prima quidem dubitatio est quia corpora stellarum videntur habere differentiam ad corpora sphaerarum
+caelestium, ex eo quod sunt lucida et videntur spissiora; et ita videtur in corporibus caelestibus esse aliqua
+contrarietas. Contrarietas autem est causa corruptionis. Videtur ergo quod corpora caelestia sint corruptibilia
+secundum suam naturam; quod est contra ea quae in primo libro determinata sunt.
+Et ad hoc dicendum est quod non omnis diversitas, proprie loquendo, habet rationem contrarietatis; sed ad hoc
+quod aliqua diversa sint contraria, duo requiruntur. Quorum unum est quod sint nata aliqualiter esse in eodem
+subiecto, vel proximo vel saltem remoto: calor enim contrariatur frigori, quod tamen non est natum esse in igne,
+sed est natum esse in materia ignis, quae est primum subiectum. Secundo requiritur quod diversa quae sunt
+contraria, non possint esse simul, sed mutuo se expellant. Unde album et nigrum, secundum quod sunt in
+materia, sunt contraria mutuo se expellentia; secundum tamen quod sunt in intellectu, non habent contrarietatem,
+sed sunt simul; quinimmo unum eorum cognoscitur per aliud.
+Formae autem vel qualitates diversae quae videntur esse in corporibus caelestibus, nullo modo sunt natae esse in
+eodem, nec sicut in proximo, nec sicut in primo subiecto: non enim corpus stellae est natum reduci ad
+dispositionem ceterarum partium sphaerae caelestis, sed nec e converso. Similiter etiam oportet dicere formas
+seu qualitates contrarias quae sunt in inferioribus corporibus, esse aliqualiter in corporibus caelestibus, non
+quidem univoce, sed sicut in causis universalibus, per quandam similitudinem, ad modum quo formae quae sunt
+particulariter in materia sensibili, sunt universaliter in intellectu. Et ideo, sicut nec in intellectu, ita nec in
+corporibus caelestibus sunt sub ratione contrarietatis. Unde et Plato dixit quod in corporibus caelestibus sunt
+excellentiae seu sublimitates elementorum, quasi primordialia eorum activa principia: comparantur enim corpora
+caelestia ad elementaria, sicut activa ad passiva. Et ideo e contrario accidit in corporibus caelestibus et
+elementaribus. Nam corpora elementaria, quanto magis congregantur per inspissationem, tanto sunt magis
+materialia et passiva, et minus habentia de luce, sicut patet in terra, quae etiam dominatur in corporibus mixtis:
+sed in corporibus caelestibus, quanto est maior congregatio per modum inspissationis, tanto magis multiplicatur
+luminositas et virtus activa, sicut patet in ipsis corporibus stellarum.
+Sic igitur patet quod talis diversitas quae in corporibus caelestibus apparet, non videtur habere rationem
+contrarietatis. Unde non sequitur quod sint susceptiva corruptionis. Sequeretur autem hoc si ibi esset vera
+contrarietas, sicut in primo Aristoteles ostendit.
+|#4 Secunda dubitatio est quia, cum in corpore caelesti appareat diversitas inter stellas et reliquas partes
+sphaerarum, videtur quod non sint simplicia corpora. Sed dicendum est quod intantum dicuntur corpora
+simplicia, inquantum non sunt composita ex contrariis naturis. Est tamen in eis aliqua diversitas secundum
+naturam speciei, licet conveniant in natura generis; sicut conveniunt in communi ratione motus, quia omnia
+circulariter moventur.
+|#5 Secundo ibi: sicut enim ignea etc., ostendit hoc etiam esse consonum aliqualiter dictis aliorum: dicens quod,
+sicut illi qui dicunt stellas esse igneas, propterea hoc dicunt quia caeleste corpus existimant ignem esse, quasi
+rationabile sit quod unumquodque astrum constet ex natura illarum sphaerarum in quibus est; ita etiam et nos
+dicimus quod stellae sunt de natura alia a natura quatuor elementorum, propter hoc quod supra probavimus
+caelos tales esse.
+|#6 Deinde cum dicit: calor autem ab ipsis etc., excludit obiectionem: quia quidam opinabantur stellas esse de
+natura ignis, sic argumentantes.
+Esse calidum et luminosum videtur esse proprium ignis; sed stellae calefaciunt et illuminant; ergo videtur quod
+sint de natura ignis. Et circa hoc tria facit: primo solvit hanc obiectionem per quoddam exemplum; secundo
+ostendit differentiam exempli ad propositum, ibi: hae quidem ipsae etc.; tertio respondet tacitae quaestioni, ibi: et
+hac maxime etc..
+Dicit ergo primo quod calor et lumen generatur a stellis per quandam contritionem sive confricationem aeris ex
+motu eorum, non propter hoc quod sunt ignea. Videmus enim quod motus natus est ignire et ligna et lapides et
+ferrum: unde multo magis rationabile est quod per motum possit igniri corpus quod est propinquius igni quam
+praedicta corpora; quia eorum quae sunt sibi propinquiora, facilior est transmutatio in invicem.
+Aer autem propinquius se habet ad ignem quam corpora praedicta: unde magis aer potest igniri ex motu quam
+praedicta corpora. Et ponit exemplum de sagittis, quae cum sint plumbeae quantum ad aliquam sui partem, ex
+vehementia motus sic calefiunt, ut quandoque liquescat plumbum.
+Et quia ipsae sagittae igniuntur ex motu, necesse est quod multo magis aer qui est in circuitu sagittarum igniatur.
+Nec hoc est intelligendum quod calefactio sagittarum sit causa calefactionis aeris, sicut simplicius intellexit; sed
+magis est intelligendum quod calefactio aeris per motum sit causa calefactionis sagittarum, ut exposuit
+Alexander. Aristoteles enim vult probare per locum a minori, quod si sagittae calefiunt, necesse est quod aer
+circumstans calefiat, qui est propinquior igni, ut supra dixit: non autem per locum a causa, ut intellexit
+simplicius.
+85
+
+

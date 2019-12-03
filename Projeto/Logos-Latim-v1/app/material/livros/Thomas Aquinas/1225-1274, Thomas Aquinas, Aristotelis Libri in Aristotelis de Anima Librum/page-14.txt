@@ -1,0 +1,56 @@
+Et quantum ad hoc pertinet, breviter potest ostendi, quod si aliquid movet, non oportet quod moveatur. Constat
+enim quod secundum quod movet, est in actu, secundum quod movetur, est in potentia; et sic idem et secundum
+idem esset in actu et potentia: quod est inconveniens.
+|#5 Sed hoc praetermisso, disputemus ad positionem eorum, utrum scilicet anima moveatur. Dicebant autem
+isti, duo: scilicet quod anima movetur, et quod motus esset de substantia animae. Aristoteles autem utrumque
+negat, dicens, quod fortassis. Hoc dicit, quia nondum probaverat hoc quod dicit, non solum falsum est, quod
+motus sit de substantia animae, secundum quod dicunt definientes ipsam, dicentes animam esse quod est
+seipsum movens, aut possibile movere; sed totaliter impossibile est ipsi animae convenire, quod moveatur.
+|#6 Et hoc prius dictum est, scilicet in octavo physicorum, videlicet quod non sit necesse omne movens moveri.
+In movente etiam seipsum duo sunt: unum movens, et aliud motum: et impossibile est, quod illud quod est
+movens, moveatur per se. In animalibus autem licet non moveatur per se pars movens, movetur tamen per
+accidens. Omne enim quod movetur, movetur dupliciter: quia vel secundum se, vel secundum alterum, seu per
+accidens. Secundum se, quando res ipsa movetur, ut navis: per accidens, vel secundum alterum, quando non
+movetur ipsum, sed illud in quo est: sicut nauta in navi movetur, non quia ipse moveatur, sed quia navis
+movetur.
+Unde haec est vera, scilicet navis movetur secundum se, nauta vero secundum accidens.
+Et quod non movetur nauta per se, patet: quia quando aliquis movetur per se, movetur secundum partes suas;
+sicut in ambulatione prius est pedum ambulatio, et hoc, cum est nauta in navi, non inest ei. Sic ergo patet, quod
+moveri dicitur dupliciter: secundum se et secundum accidens. Sed isti attribuebant animae moveri secundum se.
+Et ideo praetermisso ad praesens utrum anima moveatur per accidens, intendamus de anima si movetur
+secundum se et participat motu, sicut isti dicebant.
+|#7 Et quod non movetur per se, probat Aristoteles sex rationibus. Circa quas rationes considerandum est, quod
+licet rationes Aristotelis parum videantur valere, nihilominus sunt efficaces, quia sunt ad positionem: aliter enim
+argumentandum est ad eum qui simpliciter intendit veritatem, quia ex veris oportet procedere: sed qui arguit ad
+positionem, procedit ex datis: et ideo frequenter Aristoteles, et quando argumentatur ad positiones, videtur quod
+inducat rationes parum efficaces, quia procedit ex datis ad interimendum positionem.
+|#8 Sic ergo primam rationem ponit ibi quatuor autem quae talis est. Si anima movetur, aut movetur per se, aut
+per accidens. Si per accidens, tunc motus non erit substantia animae: quod est contra eos; sed movetur sicut
+album et tricubitum, quae moventur secundum accidens, et ideo non exigitur ad hoc locus ipsis. Si vero movetur
+per se, ergo movetur aliqua specie motus. Species autem motus sunt quatuor: scilicet secundum locum, augmenti
+et decrementi, et alterationis. Generatio enim et corruptio non sunt proprie motus, sed mutationes; quia motus
+sunt successivi, sed generatio et corruptio sunt mutationes instantaneae. Ergo anima movebitur aliqua specie
+istorum motuum: vel secundum locum, vel secundum augmentum, vel secundum decrementum, vel secundum
+alterationem. Si ergo movetur aliquo istorum, et omnes hi motus sunt in loco: ergo anima erit in loco.
+|#9 In hac autem ratione videntur esse duo dubia. Unum de hoc, quod quidem de locali et de motu augmenti et
+decrementi manifestum est: sed de alteratione videtur difficile.
+Quod quidem sic intelligitur ab aliquibus: quia enim omne quod alteratur est corpus, et corpus est in loco, ideo
+alteratio dicitur fieri in loco. Sed hoc non salvat literam Aristotelis; quia Aristoteles dicit quod huiusmodi motus
+sunt in loco et non sunt secundum locum.
+Et ideo dicendum quod sine dubio alteratio est in loco. Aliud enim est motus in loco, et aliud motum esse
+secundum locum. Alteratio non est secundum locum, sed in loco. Nam in alteratione oportet quod sit
+appropinquatio alterantis ad alteratum, et sine hoc nihil alteratur.
+Unde cum appropinquatio fiat per motum localem, oportet quod sit ibi motus localis ut causa.
+|#10 Secundum dubium est, quia secundum istos non erit inconveniens si anima esset in loco, cum ponerent
+eam moveri per se; et ideo non videtur valere sua ratio. Ad hoc autem potest responderi dupliciter. Uno modo,
+quod istud inconveniens deducitur per sequentes rationes. Alio modo, quia propter hoc est inconveniens, quia si
+anima esset in loco, oporteret quod assignaretur sibi locus proprius in corpore separatus, et sic non esset forma
+totius corporis.
+|#11 Secundam rationem ponit cum dicit amplius autem quae talis est. Si anima movetur per se secundum
+locum, movetur naturaliter: omne autem quod movetur naturaliter, movetur violenter: sed si movetur naturaliter
+quiescit naturaliter, et si quiescit naturaliter quiescit violenter; ergo anima movetur violenter, et quiescit
+violenter. Sed hoc est impossibile, scilicet quod moveatur violenter et quiescat violenter, quia motus animae et
+quies sunt voluntarii.
+14
+
+

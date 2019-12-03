@@ -1,0 +1,57 @@
+Propositio causalis est illa quae componitur ex pluribus propositionibus mediante hac coniunctione
+'quia', sicut hic 'quia homo currit, homo mouetur'.
+Temporalis est illa quae componitur ex duabus propositionibus mediante aliquo aduerbio temporis, sicut
+hic 'quando Sortes currit, Plato disputat'; similiter hic 'dum, Sortes currit, Ioannes est homo', et sic de aliis.
+Temporalis est illa quae componitur ex duabus propositionibus mediante aliquo aduerbio temporis, sicut
+hic 'quando Sortes currit, Plato disputat'; similiter hic 'dum, Sortes currit, Ioannes est homo', et sic de aliis.
+Alia diuisio propositionis est quod quaedam est propositio de inesse et quaedam de modo uel modalis.
+Propositio modalis est illa in qua ponitur modus. Propositio de inesse est illa quae est sine modo.
+Alia diuisio propositionis est quod quaedam est propositio de inesse et quaedam de modo uel modalis.
+Propositio modalis est illa in qua ponitur modus. Propositio de inesse est illa quae est sine modo.
+Et est sciendum quod quamuis omnes Sophistae quasi concordent quod tantum quatuor modi, scilicet
+'necessarium', 'impossibile', 'contingens' et
+'possibile' faciunt propositionem modalem, et hoc quia Philosophus plures modos non tetigit, nec de
+pluribus determinauit in libro Priorum, tractando de conuersione talium propositionum et de syllogismis ex eis
+compositis, quia tamen alios non negauit, ideo generalius lo quendo potest dici quod plures sunt modi facientes
+propositiones modales quam illi quatuor.
+'possibile' faciunt propositionem modalem, et hoc quia Philosophus plures modos non tetigit, nec de
+pluribus determinauit in libro Priorum, tractando de conuersione talium propositionum et de syllogismis ex eis
+compositis, quia tamen alios non negauit, ideo generalius lo quendo potest dici quod plures sunt modi facientes
+propositiones modales quam illi quatuor.
+Circa quod est sciendum quod propositio dicitur modalis propter modum additum in propositione. Sed
+non quicumque modus sufficit ad faciendum propositionem modalem, sed oportet quod sit modus praedicabilis
+de tota propositione, et ideo proprie dicitur modus propositionis' tamquam uerificabilis de ipsamet propositione.
+Et a tali modo uel aduerbio talis praedicabilis, si aduerbium habeat, uel uerbo dicitur propositio modalis. Sed
+tales modi sunt plures quam quatuor praedicti: nam sicut propositio alia est necessaria, alia impossibilis, alia
+possibilis, alia contingens, ita alia propositio est uera, alia falsa, alia scita, alia ignota, alia prolata, alia scripta,
+alia concepta, alia credita, alia opinata, alia dubitata, et sic de aliis. Et ideo sicut propositio dicitur modalis in qua
+ponitur iste modus 'possibile' uel 'necessarium' uel
+'contingens' uel 'impossibile', uel aduerbium alicuius istorum, ita potest dici aeque rationabiliter
+propositio modalis in qua ponitur aliquod praedictorum. Et ideo sicut haec est modalis 'omnem hominem esse
+animal est necessarium' et similiter ista 'omnis homo de necessitate est animal', ita etiam est ista modalis 'omnem
+hominem esse animal est scitum', 'omnis homo scitur esse animal, similiter tales 'omnem hominem esse animal
+est uerum', et si de aliis.
+'contingens' uel 'impossibile', uel aduerbium alicuius istorum, ita potest dici aeque rationabiliter
+propositio modalis in qua ponitur aliquod praedictorum. Et ideo sicut haec est modalis 'omnem hominem esse
+animal est necessarium' et similiter ista 'omnis homo de necessitate est animal', ita etiam est ista modalis 'omnem
+hominem esse animal est scitum', 'omnis homo scitur esse animal, similiter tales 'omnem hominem esse animal
+est uerum', et si de aliis.
+Et si quaeratur quare Philosophus non tractauit de istis, nec istas connumerauit inter propositiones
+modales, dicendum est quod Philosophus breuitati studens, quia ilia -quae de allis dixit possunt istis applicari-,
+noluit de istis diffuse tractare. Qualiter autem multa quie dicta sunt de aliis modalibus istis poterunt applicari, in
+sequentibus apparebit.
+Et si quaeratur quare Philosophus non tractauit de istis, nec istas connumerauit inter propositiones
+modales, dicendum est quod Philosophus breuitati studens, quia ilia -quae de allis dixit possunt istis applicari-,
+noluit de istis diffuse tractare. Qualiter autem multa quie dicta sunt de aliis modalibus istis poterunt applicari, in
+sequentibus apparebit.
+Tertia diuisio propositionum categoricarum potest esse ista quod aliqua
+Propositio categorica est aequiualens propositioni hypotheticae, quamuis sit categorica, alia autem non
+est sic aequiualens propositioni hypotheticae. Propositiones primae sunt exclusiuae et exceptiuae et
+reduplicatiuae et quaedam aliae. Immo, ubicumque praedicatur concretum primo modo dictum uel subicitur, talis
+propositio aequiualet propositioni hypotheticae, sicut patebit. Aliae sunt sicut tales 'angelus est substantia', 'Deus
+est', 'Deus est Pater' et huiusmodi.
+Propositio categorica est aequiualens propositioni hypotheticae, quamuis sit categorica, alia autem non
+est sic aequiualens propositioni hypotheticae. Propositiones primae sunt exclusiuae et exceptiuae et
+147
+
+

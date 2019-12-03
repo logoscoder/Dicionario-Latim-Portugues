@@ -1,0 +1,49 @@
+contraria sequitur. Namque eam quae est non possibile est esse illa quae dicit necesse est non esse comitatur. Sed
+necesse est non esse non est contradictoria eius quae est non necesse est esse; possunt enim utraeque in eodem
+simul uerae inueniri. Nam quoniam necesse est non esse ignem frigidum, non necesse est esse frigidum ignem.
+Quocirca hae contradictoriae /187/ non sunt sed est contraria ea quae dicit necesse est non esse eius quae dicit
+necesse est esse; quae necesse est esse contradictio est eius quae ponitur non necesse est esse. Quare
+contradictionem eius quae dicit possibile est esse eam scilicet quae proponit non possibile est esse non sequitur
+contradictio eius quae est non necesse est esse sed ea quae est necesse est non esse, quae contraria scilicet est ei
+quae est necesse esse, quae haec ipsa contradictio est eius quae proponit non necesse esse. Hoc autem
+descriptione melius patebit.
+AFFIRMATIO contradictoriae NEGATIO
+possibile esse non possibile esse
+NEGATIO AFFIRMATIO AFFIRMATIO
+contradic. contraria
+non necesse esse necesse esse necesse esse non esse
+Ergo cum sit contradictio possibile qsse et non possibile esse, sequatur autem possibile esse non necesse esse,
+contradictio tamen eius quae est necesse esse non sequitur contradictionem eius quae est possibile esse sed
+contraria contradictoriae eius quae est non necesse esse. Nam si contradictio est non necesse esse eius quae est
+necesse esse, contraria uero eiusdem necesse esse ea quae dicit necesse esse non esse, sequitur autem necesse
+esse non esse eam quae est non possibile esse, quae est contradictio eius quae est possibile esse, quam sequitur
+non necesse esse: recte /188/ dicitur contradictiones quidem extra esse, contrarias uero contradictoriis consentire.
+Nam possibile esse et non possibile esse, quae sunt contradictoriae, sequuntur non necesse esse et necesse non
+esse, quae non sunt contradictoriae, quod in eodem utraeque uerae inueniri possunt. Quod si contradictio
+sequeretur, sicut ea quae est non necesse esse sequitur eam quae est possibile esse, sic eam quae est non possibile
+esse sequeretur necesse esse. Sed hoc inconueniens est. Quare quoniam haec illam non sequitur, contraria ipsius
+sequitur. Contraria namque est ei quae proponit necesse est esse illa quae dicit necesse est non esse. Eodem
+quoque modo et in eo quod est possibile non esse, cuius est contradictio non possibile non esse, quod Aristoteles
+reticuit. Sequitur namque eam quae est possibile est non esse illa quae dicit non necesse est non esse sed
+negationem eam quae est non possibile est non esse eius affirmationis quae est possibile est non esse non
+sequitur affirmatio eius quae est non necesse est non esse negationis ea quae est necesse est non esse (negatio
+enim eius quae dicit necesse est non esse illa est quae dicit non necesse est non esse) sed huius contraria id est
+affirmationis quae est necesse est non esse illa scilicet quae est necesse est esse sequitur negationem illam quae
+est non possibile est non esse. Huius quoque sit talis descriptio:
+AFFIRMATIO contradictio NEGATIO
+possibile est non esse non possibile est non esse
+NEGATIO AFFIRMATIO AFFIRMATIO
+contradictio contrarium
+non necesse est non esse necesse est non esse necesse est esse
+Dissimili ergo modo euenit quam dudum contingebat in his quae erant possibilia et quae impossibilia. Illic enim
+contradictio contradictionem sequebatur sed conuersim, ut negationem affirmatio, affirmationem negatio
+sequeretur. Hic non idem modus est. Nam cum superiores contradictoriae sint et inferior negatio affirmationem
+sequatur, negationem non sequitur contradictoria affirmatio sed affirmationis illius contraria. Quod si quis leget
+attentius, integre descriptum esse ratione perspiciet. Cur autem hoc eueniat causam prodit.
+CAUSA AUTEM CUR NON CONSEQUATUR SIMILITER CAETERIS, QUONIAM CONTRARIE
+IMPOSSIBILE NECESSARIO REDDITUR IDEM UALENS.
+Ratio est cur non simili modo consequentia secundum contradictionem propositionis eueniat sicut in his quae
+sunt possibilia et impossibilia huiusmodi: omne necessarium contrario modo impossibile est. Nam quod est
+61
+
+

@@ -1,0 +1,57 @@
+|#1 Postquam Philosophus ostendit quod non potest demonstrari quod quid est per terminos convertibiles, hic
+ostendit quod non potest demonstrari per viam divisionis. Et circa hoc duo facit: primo, ostendit propositum;
+secundo, excludit quamdam solutionem; ibi: contingit autem solvere etc..
+Circa primum duo facit: primo, ostendit propositum per rationem communem omnibus quae syllogizari possunt;
+secundo, ostendit propositum quantum ad ea quae sunt propria ei quod quid est: ibi: quid enim prohibet etc..
+|#2 Dicit ergo primo quod, sicut non potest demonstrari quod quid est per terminos convertibiles, ita etiam non
+potest demonstrari per viam divisionis: per quam etiam nihil syllogistice probatur, sicut dictum est in resolutione
+circa figuras, idest in I priorum analyticorum. Sicut enim in posterioribus analyticis docetur resolutio usque ad
+principia prima, ita etiam in prioribus analyticis fit resolutio ad prima quaedam simplicia pertinentia ad
+dispositionem syllogismi in modo et figura.
+|#3 Quod autem per viam divisionis non possit aliquid syllogizari probat per hoc, quod in via divisionis non ex
+necessitate sequitur conclusio, existentibus praemissis (quod requiritur ad rationem syllogismi): sed ita se habet
+in via divisionis, sicut et in via inductionis. Ille enim qui inducit per singularia ad universale, non demonstrat
+neque syllogizat ex necessitate. Cum enim aliquid syllogistice probatur, non est necessarium ulterius quod vel
+syllogizans interroget de conclusione, nec quod respondens det ei conclusionem: sed necesse est quod conclusio
+sit vera, praemissis existentibus veris. Hoc autem non accidit in via divisionis, sicut manifestat per exempla.
+Proceditur enim via divisionis cum, accepto aliquo communi quod per multa dividitur, remoto uno, concluditur
+alterum. Puta si entium aliud est animal et aliud inanimatum, habito quod homo non sit inanimatum, concluditur
+quod sit animal: sed ista conclusio non sequitur, nisi respondens det quod homo vel sit animal vel inanimatum.
+|#4 Et est attendendum quod satis convenienter comparavit divisionem inductioni. Utrobique enim oportet
+supponere quod accepta sint omnia quae continentur sub aliquo communi: alioquin nec inducens poterit ex
+singularibus acceptis concludere universale, nec dividens ex remotione quarumdam partium poterit concludere
+aliam. Patet igitur quod inducens, facta inductione quod socrates currat et Plato et cicero, non potest ex
+necessitate concludere quod omnis homo currat, nisi detur sibi a respondente quod nihil aliud contineatur sub
+homine quam ista quae inducta sunt.
+Similiter etiam nec dividens, si probaverit quod hoc coloratum non sit album nec pallidum, non potest ex
+necessitate concludere quod sit nigrum, nisi detur sibi a respondente quod nihil aliud contineatur sub colorato
+nisi ea quae assumpta sunt in divisione. Et quia investigantibus quid est homo, oportet accipere non solum genus,
+quod est animal, sed etiam differentiam; ulterius in suo exemplo procedit quod, si omne animal aut gressibile est
+aut aquaticum, et accipiat quod homo, quia non est aquaticum animal, sit totum hoc quod est animal gressibile,
+non ex necessitate sequitur ex dictis; sed oportet quod hoc etiam supponat datum sibi a respondente, scilicet
+quod animal sufficienter dividatur per gressibile et aquaticum.
+Et quia quandoque per plures divisiones proceditur ad accipiendum quod quid est alicuius rei, ideo, praemissis
+duabus divisionibus in suo exemplo, subdit quod nihil differt quod sic procedatur in multis aut in paucis. Eadem
+enim est ratio in omnibus. Et sic ulterius concludit quod procedentes per viam divisionis, etiam circa ea quae
+contingit syllogizari, non utuntur probatione syllogistica.
+|#5 Deinde cum dicit: quid enim prohibet hoc verum etc., inducit duas rationes proprias ei quod quid est.
+Quarum prima est, quia non omne quod vere praedicatur de aliquo, praedicatur in eo quod quid est, nec significat
+essentiam eius.
+Si ergo detur quod per viam divisionis sufficienter probetur quod totum hoc, scilicet animal gressibile, vere
+praedicetur de homine; non tamen propter hoc erit probatum quod praedicetur de eo in eo quod quid est, vel
+ostendat quod quid erat esse, idest quod demonstrat essentiam rei.
+|#6 Secundam rationem ponit ibi: amplius quid prohibet aut apponere etc.. Essentia enim cuiuslibet rei
+declaratur per aliqua certa, quibus nec addere oportet nec subtrahi. Nihil autem prohibet quin ille qui procedit per
+viam divisionis, aut apponat aliquid supra ea quae sufficiunt ad ostendendum quod quid est, aut auferat aliquid
+eorum quae ad hoc sunt necessaria, aut etiam quod supergrediatur vel excellat essentiam rei, utpote si sit
+communius quam ipsa res; quod fit dum subtrahuntur differentiae ultimae, quibus ea quae sunt communia
+contrahuntur. Unde per divisionem non probatur sufficienter quod quid est. Et hoc est quod concludit, quod in
+via divisionis praetermittuntur praedictae conditiones; ut scilicet id quod concluditur, praedicetur in eo quod quid
+est, et quod nec excedat nec excedatur.
+|#7 Deinde cum dicit: contingit autem solvere in accipiendo etc., excludit quamdam solutionem. Et primo,
+proponit eam; secundo, excludit ipsam; ibi: sed syllogismus tamen etc.. Dicit ergo primo quod contingit solvere
+ea quae obiecta sunt, ex eo quod aliquis dicat quod dividendo accipiat omnia quae praedicantur in eo quod quid
+est; et ita per consequentiam ad divisionem faciat id quod primo intenditur, ut scilicet constituat definitionem
+84
+
+

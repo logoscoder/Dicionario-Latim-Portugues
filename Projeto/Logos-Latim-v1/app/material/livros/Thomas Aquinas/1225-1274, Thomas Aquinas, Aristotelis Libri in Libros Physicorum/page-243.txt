@@ -1,0 +1,64 @@
+Posset autem haec ratio solvi per id quod supra ostensum est, quod in nunc
+neque movetur neque quiescit. Sed haec solutio intentionem zenonis non
+excluderet: sufficit enim zenoni, si ostendere possit quod in toto tempore
+non movetur; quod videtur sequi ex hoc quod in nullo nunc eius movetur. Et
+ideo Aristoteles aliter solvit, et dicit falsum esse quod ratio concludit,
+et non sequi ex praemissis.
+Ad hoc enim quod aliquid moveatur in tempore aliquo, oportet quod moveatur
+in qualibet parte illius temporis: ipsa autem nunc non sunt partes
+temporis; non enim componitur tempus ex nunc indivisibilibus, sicut neque
+aliqua magnitudo componitur ex indivisibilibus, ut supra probatum est: unde
+non sequitur quod in tempore non moveatur aliquid, ex hoc quod in nullo
+nunc movetur.
+|#3
+Deinde cum dicit: quatuor autem sunt rationes etc., ponit seriatim
+omnes rationes zenonis, quibus utebatur ad destruendum motum.
+Et circa hoc tria facit: primo manifestat quomodo destruebat per suas
+rationes motum localem; secundo quomodo destruebat alias species
+mutationum, ibi: neque igitur secundum mutationem etc.; tertio quomodo
+destruebat specialiter motum circularem, ibi: iterum autem in circulo etc..
+|#4
+Circa primum quatuor rationes ponit: et hoc est quod dicit, quod zeno
+utebatur quatuor rationibus contra motum, quae ingerebant difficultatem
+multis eas solvere volentibus.
+Quarum prima talis est. Si aliquid movetur per totum aliquod spatium,
+oportet quod prius pertranseat medium quam perveniat ad finem: sed cum
+illud medium sit divisibile, oportebit quod etiam prius pertranseat medium
+illius medii, et sic in infinitum, cum magnitudo sit in infinitum
+divisibilis: infinita autem non est transire in aliquo tempore finito: ergo
+nihil potest moveri.
+Dicit ergo Aristoteles quod superius, circa principium huius sexti libri,
+solvit istam rationem per hoc, quod similiter tempus in infinita dividitur,
+sicut et magnitudo. Quae quidem solutio est magis ad interrogantem si
+infinita contingat transire in tempore finito, quam ad interrogationem, ut
+dicet in octavo; ubi solvit hanc rationem per hoc, quod mobile non utitur
+infinitis quae sunt in magnitudine, quasi in actu existentibus, sed ut in
+potentia existentibus. Tunc autem aliquo puncto spatii utitur quod movetur
+ut in actu existenti, quando utitur eo ut principio et ut fine: et tunc
+necesse est quod ibi stet, ut ibi ostendetur. Et si sic oporteret transire
+infinita quasi in actu existentia, numquam veniretur ad finem.
+|#5
+Secundam rationem ponit ibi: secunda autem vocata etc.; et dicit quod
+hanc secundam rationem vocabant Achillem, quasi invincibilem et
+insolubilem.
+Et erat ratio talis. Quia si aliquid movetur, sequitur quod id quod currit
+tardius, si incepit primo moveri, nunquam iungetur vel attingetur a
+quocumque velocissimo.
+Quod sic probabat. Si tardum incepit moveri ante velocissimum per aliquod
+tempus, in illo tempore pertransivit aliquod spatium: ante igitur quam
+velocissimum quod persequitur, possit attingere tardissimum quod fugit,
+necesse est quod vadat ab illo loco unde movit fugiens, usque ad illum
+locum quo pervenit fugiens tempore illo quo persequens non movebatur. Sed
+oportet quod velocissimum illud spatium pertranseat in aliquo tempore, in
+quo tempore iterum tardius aliquod spatium pertransit, et sic semper. Ergo
+semper tardius habet aliquid ante, idest aliquod spatium in quo praecedit
+velocissimum, quod ipsum persequitur: et ita velocius numquam attinget
+tardius. Hoc autem est inconveniens.
+Ergo magis dicendum est quod nihil movetur.
+|#6
+Ad solvendum autem hanc rationem dicit, quod haec ratio est eadem cum
+prima, quae procedebat ex decisione spatii in duo media, quantum ad
+virtutem medii: sed differt ab ea in hoc, quod aliqua accepta magnitudo
+243
+
+

@@ -1,0 +1,64 @@
+Illud mobile quod supposuimus a seipso moveri, scilicet ab, oportet
+divisibile esse, quia omne quod movetur est divisibile, ut supra probatum
+est. Quia ergo divisibile est, nullum inconveniens sequitur si dividatur.
+Dividatur ergo in puncto c, ita quod una pars eius sit bc, et alia ac. Si
+ergo bc est pars eius quod est ab, necesse est quod quiescente bc parte,
+quiescat totum ab. Si ergo non quiescat totum, quiescente parte, accipiatur
+quod totum moveatur, et una pars quiescat: sed quia una pars ponitur
+quiescere, non poterit poni totum moveri, nisi ratione alterius partis. Sic
+ergo bc quiescente, quod est una pars, movetur ac, quod est alia pars.
+Sed nullum totum cuius una sola pars movetur, movetur primo et per se. Non
+ergo movebitur ab primo et per se, quod erat suppositum.
+Ergo oportet quod bc quiescente, quiescat totum ab. Et sic illud quod
+movetur pausabit, idest desinet moveri, ad quietem alterius.
+Sed supra habitum est, quod si aliquid quiescit et desinit moveri ad
+quietem alterius, hoc ab altero movetur. Ergo ab ab altero movetur.
+Et eadem ratio est de quolibet alio mobili: quia omne quod movetur est
+divisibile, et eadem ratione oportet quod quiescente parte, quiescat totum.
+Manifestum est ergo quod omne quod movetur, ab aliquo alio movetur.
+|#4
+Contra istam autem Aristotelis probationem multipliciter obiicitur.
+Obiicit enim Galenus contra hoc quod dicit Aristoteles, quod si una tantum
+pars eius mobilis moveatur et reliqua quiescat, quod totum non per se
+movetur: dicens hoc esse falsum; quia ea quae moventur secundum partem, per
+se moventur.
+Sed deceptus est Galenus ex aequivocatione eius quod est per se. Per se
+enim quandoque sumitur secundum quod opponitur ei tantum quod est per
+accidens; et sic quod movetur secundum partem, movetur per se, ut Galenus
+intellexit. Quandoque vero sumitur secundum quod opponitur simul ei quod
+est per accidens, et ei quod est secundum partem; et hoc dicitur non solum
+per se, sed etiam primo.
+Et sic accipit per se Aristoteles hic: quod patet quia, cum conclusisset
+non ergo movetur per se ab, subiungit: sed concessum est per seipsum moveri
+primum.
+|#5
+Sed magis urget obiectio Avicennae, qui obiicit contra hanc rationem,
+dicens eam procedere ex suppositione impossibili, ex quo sequitur
+impossibile, et non ex eo quod ponitur aliquid a seipso moveri. Si enim
+ponamus aliquod mobile a seipso moveri primo et per se, naturale est ei
+quod moveatur et secundum totum et secundum partes. Si ergo ponatur quod
+aliqua pars eius quiescat, erit positio impossibilis. Et ex hac positione
+sequitur impossibile ad quod Aristoteles inducit, scilicet quod totum
+moveatur non primo et per se, ut positum est.
+Huic autem obiectioni posset aliquis obviare dicendo, quod licet
+impossibile sit partem quiescere secundum determinatam naturam, inquantum
+est corpus talis speciei, ut puta caelum vel ignis, non est tamen
+impossibile, si ratio communis corporis consideretur: quia corpus,
+inquantum corpus, non prohibetur quiescere vel moveri.
+Sed hanc responsionem excludit Avicenna dupliciter. Primo quidem quia pari
+ratione posset dici de toto corpore, quod non prohibetur quiescere ex hoc
+quod corpus est, sicut dicitur de parte; et ita superfluum fuit assumere ad
+probationem propositi divisionem mobilis et quietem partis. Secundo quia
+aliqua propositio simpliciter redditur impossibilis, si praedicatum
+repugnet subiecto ratione differentiae specificae, quamvis non repugnet ei
+ratione generis. Est enim impossibile quod homo sit irrationalis, quamvis
+non impediatur irrationalis esse ex hoc quod est animal. Sic igitur
+simpliciter impossibile est quod pars corporis moventis seipsum quiescat,
+quia hoc est contra rationem talis corporis, licet non sit contra rationem
+communem corporis.
+|#6
+Hac igitur responsione remota, Averroes aliter solvit: et dicit quod
+aliqua conditionalis potest esse vera, cuius antecedens est impossibile et
+252
+
+

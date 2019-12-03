@@ -1,0 +1,55 @@
+Sicut subiectum dicitur illa pars propositionis quae praecedit copulam, ita illa pars propositionis quae
+sequitur copulam dicitur praedicatum.
+Volunt tamen aliqui quod praedicatum est copula cum illo quod sequitur copulam. sed quia ista
+controuersia dependet ex significato uocabuli, quod ad placitum est utentium, ideo de hoc nunc pertranseo.
+Volunt tamen aliqui quod praedicatum est copula cum illo quod sequitur copulam. sed quia ista
+controuersia dependet ex significato uocabuli, quod ad placitum est utentium, ideo de hoc nunc pertranseo.
+Et qualitercumque dicatur praedicatum, multipliciter accipitur. Uno modo omne illud quod est alterum
+extremum propositionis et non est subiectum; et sic quilibet terminus potest esse praedicatum qui praedicari
+potest in propositione uera uel falsa. Aliter accipitur praedicatum quod praedicatur in propositione uera in qua est
+directa praedicatio. Et sic 'animal' est praedicatum respectu 'hominis' sed non respectu 'lapidis'. Tertio dicitur
+praedicatum illud quod praedicatur de aliquo subiecto praedicatione directa, de quo subiecto potest esse scientia
+proprie dicta. Et sic accipit Philosophus praedicatum I Topicorum', ubi distinguit quatuor praedicata, scilicet
+genus, definitionem, proprium et accidens, et sub genere comprehendit differentiam. Ubi non enumeratur
+species, quia quamuis species praedicetur de indiuiduis, quia tamen indiuidua non possunt esse subiecta in
+propositionibus scitis scientia proprie dicta, ideo inter illa praedicata species non enumeratur.
+Et qualitercumque dicatur praedicatum, multipliciter accipitur. Uno modo omne illud quod est alterum
+extremum propositionis et non est subiectum; et sic quilibet terminus potest esse praedicatum qui praedicari
+potest in propositione uera uel falsa. Aliter accipitur praedicatum quod praedicatur in propositione uera in qua est
+directa praedicatio. Et sic 'animal' est praedicatum respectu 'hominis' sed non respectu 'lapidis'. Tertio dicitur
+praedicatum illud quod praedicatur de aliquo subiecto praedicatione directa, de quo subiecto potest esse scientia
+proprie dicta. Et sic accipit Philosophus praedicatum I Topicorum', ubi distinguit quatuor praedicata, scilicet
+genus, definitionem, proprium et accidens, et sub genere comprehendit differentiam. Ubi non enumeratur
+species, quia quamuis species praedicetur de indiuiduis, quia tamen indiuidua non possunt esse subiecta in
+propositionibus scitis scientia proprie dicta, ideo inter illa praedicata species non enumeratur.
+Copula autem uocatur uerbum copulans praedicatum cum subiecto.
+Copula autem uocatur uerbum copulans praedicatum cum subiecto.
+[1.32. QUOMODO PRAEDICATUM DICITUR INESSE SUBIECTO?]
+[1.32. QUOMODO PRAEDICATUM DICITUR INESSE SUBIECTO?]
+Sicut autem praedicatum praedicatur de subiecto, ita dicimus praedicatum esse in subiecto, et
+praedicatum conuenire subiecto, et praedicatum inesse subiecto, et praedicatum inhaerere subiecto. Quae non
+sunt intelligenda ac si praedicatum poneretur realiter inhaerere subiecto, illo modo quo albedo inest parieti, sed
+omnia talia significant idem quod 'praedicari', nec aliter accipienda sunt nisi pro 'praedicari'. Et isto modo omnia
+accidentia, quae sunt nouem praedicamenta, possunt dici esse in substantia sicut in subiecto, non quidem per
+realem inhaerentiam, secundum opinionem multorum, sed per praedicationem ueram. Sic enim quantitas est
+accidens, secundum opinionem aliquorum, et est in substantia, non quia semper inhaeret realiter ipsi substantiae,
+sed quia contingenter praedicatur de substantia, ita quod substantia permanente est haec uera, secundum aliquos,
+'substantia est quantitas' et eadem permanente poterit esse falsa.
+'substantia est quantitas' et eadem permanente poterit esse falsa.
+Consimiliter talia uocabula 'aduenire', 'recedere', 'accedere', 'adesse',
+'abesse' frequenter pro 'praedicari' accipiuntur. Sic enim dicit uenerabilis Anselmus, Monologion, cap.
+25: "Omnium quippe quae accidentia dicuntur, quaedam nonnisi cum aliqua participantis uariatione adesse uel
+abesse posse intelliguntur, ut omnes colores; alia nullam omnino accedendo uel recedendo mutationem circa
+illud de quo dicuntur efficere noscuntur, ut quaedam relationes". Ubi Anselmus accipit 'adesse' et 'abesse',
+'accedere'
+et 'recedere' pro 'praedicari'. Sic etiam 'participare' apud logicos accipitur pro 'subici'.
+et 'recedere' pro 'praedicari'. Sic etiam 'participare' apud logicos accipitur pro 'subici'.
+[1.33. DE ISTO TERMINO 'SIGNIFICARE']
+[1.33. DE ISTO TERMINO 'SIGNIFICARE']
+'Significare' multipliciter accipitur apud logicos. Nam uno modo dicitur
+Signum aliquid signiflcare quando supponit uel natum est supponere pro illo, ita scilicet quod de
+pronomine demonstrante illud per hoc uerbum
+
+58
+
+

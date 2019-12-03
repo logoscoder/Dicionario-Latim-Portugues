@@ -1,0 +1,54 @@
+|#12 Deinde cum dicit quoniam autem concludit corollarium, dicens, ex dictis, quod quia impossibile est simul
+contradictionem verificari de eodem, manifestum est, quod nec etiam contraria eidem inesse possunt; quia
+manifestum est quod non minus in contrariis alterum eorum est privatio, quam in aliis oppositis, licet utrumque
+contrariorum sit natura aliqua; quod non est in affirmatione et negatione, vel in privatione et habitu. Alterum
+enim eorum est imperfectum respectu alterius, sicut nigrum respectu albi, et amarum respectu dulcis. Et sic habet
+privationem quamdam adiunctam. Privatio autem est aliqua negatio substantiae, idest in aliquo subiecto
+determinato. Et est etiam ab aliquo genere determinato. Est enim negatio infra genus.
+Non enim omne non videns dicitur caecum, sed solum in genere videntium. Sic igitur patet quod contrarium
+includit privationem, et privatio est quaedam negatio. Si igitur impossibile est simul affirmare et negare,
+impossibile est contraria simul inesse eidem simpliciter, sed vel ambo insunt quo, idest secundum aliquid, sicut
+quando utrumque in potentia vel secundum partem, vel unum secundum quid et alterum simpliciter: sicut quando
+unum est in actu et alterum est in potentia; vel unum secundum plures et principaliores partes, alterum tantum
+secundum aliquam partem, sicut Aethiops est niger simpliciter et albus dente.
+|+16 Lectio 16
+|#1 Postquam disputavit contra ponentes contradictoria simul esse vera, hic disputat contra ponentes esse
+medium inter contradictionem: hi enim dicunt non semper alteram partem contradictionis esse veram.
+Et circa hoc duo facit. Primo disputat contra ipsam positionem. Secundo contra quasdam alias quaestiones
+inopinabiles, hanc et superiorem positionem comitantes, ibi, his autem definitis.
+Circa primum duo facit. Primo ponit rationes contra dictam positionem. Secundo ostendit causam, quare aliqui
+moti sunt ad positionem illam ponendam, ibi, evenit autem quibusdam etc..
+Circa primum ponit septem rationes: dicens primo, quod sicut contradictoria non possunt simul esse vera, ita nec
+potest esse medium inter contradictionem; sed de unoquoque necessarium est aut affirmare aut negare.
+|#2 Et hoc manifestum est primo ex definitione veri vel falsi: non enim aliud est magis falsum quam dicere non
+esse quod est, aut esse quod non est. Et nihil aliud est magis verum quam dicere esse quod est, aut non esse quod
+non est. Patet igitur, quod quicumque dicit aliquid esse, aut dicit verum, aut dicit falsum: si dicit verum, oportet
+ita esse, quia verum est esse quod est. Si dicit falsum, oportet illud non esse, quia falsum nihil aliud est quam
+non esse quod est. Et similiter si dicit hoc non esse, si dicit falsum, oportet esse; si verum, oportet non esse; ergo
+de necessitate aut affirmativa aut negativa est vera. Sed ille, qui ponit medium inter contradictionem, non dicit
+quod necesse sit dicere de ente esse vel non esse, neque quod necesse sit de non ente. Et ita nec affirmans nec
+negans, de necessitate dicit verum vel falsum.
+|#3 Deinde cum dicit amplius autem secundam rationem ponit; quae talis est.
+Medium inter duo aliqua accipi potest uno modo vel participatione utriusque extremi, quod est medium in eodem
+genere, sicut viride vel pallidum inter album et nigrum.
+Alio modo per abnegationem, quod etiam est diversum in genere, sicut inter hominem et equum, quod nec est
+homo, nec est equus, ut lapis. Si ergo inter contradictoria est medium, aut hoc erit primo modo, aut secundo:
+|#4 Si secundo modo, tunc nihil permutatur: quod sic patet. Omnis enim permutatio est ex non bono in bonum,
+aut ex bono in non bonum. Quare etiam cum est mutatio inter contraria, ut inter album et nigrum, est mutatio
+inter contradictorie opposita. Nam nigrum est non album, ut ex praedictis patet. Secundum autem praedicta non
+posset fieri mutatio ex non bono in bonum, vel e converso: ergo nulla esset mutatio: cum tamen semper hoc
+appareat vel videatur, quod ex non bono in bonum fiat mutatio, vel e converso. Quod autem omnis talis mutatio
+tollatur ex praedicta positione facta, sic patet. Non enim potest esse mutatio nisi inter contraria et media quae
+sunt unius generis: nec potest esse mutatio de uno extremo in alterum nisi per medium. Si igitur est medium inter
+contradictoria per abnegationem, idest alterius generis, nulla poterit esse mutatio de extremo in medium, et ita
+per consequens de extremo in extremum.
+|#5 Si autem primo modo, scilicet quod sit medium in contradictione quasi eiusdem generis, participatione
+utriusque, sicut pallidum inter album et nigrum, sequitur hoc inconveniens, quod sit aliqua generatio quae
+terminetur ad album, et non fiat ex non albo; quia ad unum extremum non tantum fit mutatio ex alio extremo,
+sed etiam ex medio. Hoc autem non videtur esse verum, scilicet quod sit aliqua generatio terminata ad album
+quae non fiat ex non albo. Et sic patet quod nullo modo potest esse medium in contradictione.
+|#6 Deinde cum dicit amplius omne tertiam rationem ponit, quae talis est.
+
+115
+
+

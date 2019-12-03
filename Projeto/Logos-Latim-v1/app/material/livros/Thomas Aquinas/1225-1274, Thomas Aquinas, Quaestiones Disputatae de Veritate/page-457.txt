@@ -1,0 +1,62 @@
+RA5
+Ad quintum dicendum, quod quaelibet potentia praeeminet alteri in hoc quod est proprium sibi: sicut tactus
+perfectius comparatur ad calorem, quem sentit per se, quam visus, qui sentit ipsum per accidens; et similiter
+intellectus completius comparatur ad verum quam voluntas; et voluntas perfectius comparatur ad bonum quod
+est in rebus, quam intellectus.
+Unde, quamvis intellectus simpliciter sit nobilior voluntate, ad minus respectu aliquarum rerum; tamen
+secundum rationem movendi, quae competit voluntati ex ratione propria obiecti, voluntas nobilior invenitur.
+|a13 Articulus 13
+TTA
+Tertiodecimo quaeritur utrum intentio sit actus voluntatis.
+TTB
+Et videtur quod non.
+AG1
+Quia super illud Luc. XI, 34: lucerna corporis tui est oculus tuus, Glossa, id est intentio. Sed oculus in anima est
+ratio vel intellectus. Ergo intentio pertinet ad rationem vel intellectum, et non ad voluntatem.
+AG2
+Sed dicendum, quod est voluntatis in ordine ad rationem, et pro tanto oculo comparatur.
+Sed contra: actus superioris et prioris potentiae non dependet ab actu posterioris.
+Sed voluntas est prior intellectu in agendo, quia voluntas movet intellectum, ut dictum est, art. Praeced.. Ergo
+actus voluntatis non dependet a ratione. Si ergo intentio esset actus voluntatis, nullo modo ad rationem
+pertineret.
+AG3
+Sed dicendum, quod secundum hoc actus voluntatis dependet a ratione in quantum ad volendum praeexigitur
+cognitio voliti; et sic intentio, quamvis sit actus voluntatis, est aliquo modo rationis. Sed contra: nullus actus
+voluntatis est qui cognitionem non praeexigat.
+Ergo secundum hoc nullus actus deberet attribui simpliciter voluntati, nec velle nec amare, sed voluntati et
+rationi simul; quod est falsum.
+Ergo et primum; scilicet quod intentio sit actus voluntatis.
+AG4
+Praeterea, ipsum nomen intentionis importat relationem in finem. Sed referre aliquid in finem pertinet ad
+rationem. Ergo intentio est rationis.
+AG5
+Sed dicendum, quod in intentione non solum est relatio in finem, sed actus voluntatis qui refertur in finem; et
+utrumque per nomen intentionis significatur. Sed contra: actus ille relationi in finem prosternitur ut materiale
+formali. Sed magis denominatur aliquid a formali quam a materiali. Ergo intentio magis denominatur ab eo quod
+est rationis, quam ab eo quod est voluntatis; et sic magis debet poni actus rationis quam voluntatis.
+AG6
+Praeterea, sicut primus motor dirigit totam naturam, ita ratio dirigit voluntatem. Sed intentio in rebus naturalibus
+magis proprie attribuitur primo motori quam ipsis rebus naturalibus; cum res naturales non dicantur aliquid
+intendere nisi secundum quod sunt directae a primo motore. Ergo et in potentiis animae magis debet attribui
+intentio rationi quam voluntati.
+AG7
+Praeterea, intentio, proprie loquendo, non est nisi cognoscentis. Sed voluntas non est cognoscens.
+Ergo intentio non est voluntatis.
+AG8
+Praeterea, eorum quae nullo modo sunt unum, non potest esse actus unus. Sed voluntas et ratio nullo modo sunt
+unum, cum ad diversa genera potentiarum animae pertineant; voluntas enim est in appetitivo, sed ratio in
+intellectivo. Ergo ratio et voluntas non possunt habere unum actum; et ita, si intentio est actus rationis aliquo
+modo, non erit actus voluntatis.
+AG9
+Praeterea, voluntas, secundum Philosophum in III ethic., cap. XXI, est finis tantum.
+Sed finis est unus tantum in uno ordine. Ergo voluntas secundum suum actum comparatur tantum ad unum. Sed
+ubi est unum tantum, ibi non est ordo. Cum ergo intentio ordinem importet, videtur quod nullo modo sit
+voluntatis.
+AG10
+Praeterea, intentio nihil aliud esse videtur quam directio voluntatis in ultimum finem. Sed dirigere voluntatem est
+rationis.
+Ergo intentio ad rationem pertinet.
+AG11
+457
+
+

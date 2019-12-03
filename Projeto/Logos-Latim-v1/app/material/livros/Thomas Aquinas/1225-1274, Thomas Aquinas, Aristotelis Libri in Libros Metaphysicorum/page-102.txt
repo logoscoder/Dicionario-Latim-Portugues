@@ -1,0 +1,55 @@
+|#23 Alius modus esset quod sicut socrates est subiectum albi, ita ipsi albo insit aliquid aliud accidens, ut
+musicum.
+Sed hoc etiam non potest esse, propter duo. Primo, quia non erit aliqua ratio, quare musicum dicatur magis
+accidere albo quam e converso. Unde non erit ordo inter album et musicum, sed e converso respicient se
+adinvicem. Secundo, quia simul cum hoc definitum est vel determinatum, quod iste est alius modus praedicandi
+per accidens in quo accidens praedicatur de accidente, ab illo modo quo accidens praedicatur de subiecto, et
+musicum de socrate. In isto autem modo de quo nunc loquitur, non dicitur praedicatio accidentalis, quia accidens
+praedicetur de accidente; sed illo modo quo prius locuti sumus.
+|#24 Sic igitur manifestum est, quod in accidentali praedicatione non est abire in infinitum: quare patet quod
+non omnia praedicantur secundum accidens. Et ulterius quod aliquid erit significans substantiam.
+Et ulterius quod contradictio non verificatur de eodem.
+|#25 Sciendum autem est circa praedictam rationem, quod licet accidens non sit subiectum alterius, et sic non
+sit ordo accidentis ad accidens quantum ad rationem subiiciendi, est tamen ordo quantum ad rationem causae et
+causati. Nam unum accidens est causa alterius, sicut calidum et humidum dulcis et sicut superficies coloris.
+Subiectum enim per hoc quod subiicitur uni accidenti, est susceptivum alterius.
+|+8 Lectio 8
+|#1 Ponit tertiam rationem, quae sumitur ex uno et diverso: et est ratio talis.
+Si affirmatio et negatio verificantur simul de eodem, omnia sunt unum. Hoc autem est falsum; ergo et primum.
+Circa hanc rationem tria facit. Primo ponit conditionalem et exemplificat, quia scilicet sequeretur si
+contradictiones simul verificantur de eodem, quod idem essent triremis, idest navis habens tres ordines remorum,
+et murus et homo.
+|#2 Secundo cum dicit quemadmodum est ostendit quod idem inconveniens sequitur ad duas alias positiones.
+Primo ad opinionem Protagorae, qui dicebat quod quicquid alicui videtur, hoc totum est verum; quia si alicui
+videtur quod homo non sit triremis, non erit triremis; et si alteri videtur quod sit triremis, erit triremis; et sic erunt
+contradictoria vera.
+|#3 Secundo ad opinionem Anaxagorae, qui dicebat omnes res simul esse, quasi nihil sit vere unum ab aliis
+determinatum, sed omnia sint unum in quadam confusione. Dicebat enim, quod quodlibet sit in quolibet, sicut in
+primo physicorum ostensum est. Quod ideo accidebat Anaxagorae, quia ipse videtur loqui de ente indeterminato,
+idest quod non est determinatum in actu. Et cum putaret loqui de ente perfecto, loquebatur de ente in potentia,
+sicut infra patebit. Quod autem est in potentia et non endelechia, idest in actu, est indefinitum. Potentia enim non
+finitur nisi per actum.
+|#4 Tertio cum dicit sed dicenda probat conditionalem primo propositam esse veram.
+Et primo quantum ad hoc quod omnia affirmative dicta unum essent. Secundo quantum ad hoc quod
+affirmationes a suis negationibus non distinguerentur in veritate et falsitate, ibi, et quia non est necesse etc..
+Dicit ergo primo, quod illud primum est ab eis supponendum ex quo ponunt affirmationem et negationem simul
+verificari de eodem, quod de quolibet est affirmatio et negatio vera. Constat enim quod de unoquoque magis
+videtur praedicari negatio alterius rei, quam negatio propria. Inconveniens enim esset si alicui inesset sua negatio
+et non inesset negatio alterius rei, per quam significatur quod illa res non inest ei: sicut si verum est dicere quod
+homo non est homo, multo magis est verum dicere quod homo non est triremis. Patet ergo, quod de quocumque
+necessarium est praedicari negationem, quod praedicatur de eo affirmatio. Et ita per consequens praedicabitur
+negatio, cum affirmatio et negatio sint simul vera; aut si non praedicabitur affirmatio, praedicabitur negatio
+alterius magis quam negatio propria. Sicut si triremis non praedicatur de homine, praedicabitur de eo non
+triremis, multo magis quam non homo. Sed ipsa negatio propria praedicatur, quia homo non est homo: ergo et
+negatio triremis praedicabitur de eo, ut dicatur quod homo non est triremis. Sed si praedicatur affirmatio,
+praedicabitur negatio, cum simul verificentur: ergo necesse est quod homo sit triremis et eadem ratione quodlibet
+aliud. Et sic omnia erunt unum. Hoc igitur contingit dicentibus hanc positionem, scilicet quod contradictio
+verificetur de eodem.
+|#5 Deinde cum dicit et quia non deducit aliud inconveniens, quod scilicet non distinguatur negatio ab
+affirmatione in falsitate, sed utraque sit falsa. Dicit ergo quod non solum praedicta inconvenientia sequuntur ad
+praedictam positionem, sed etiam sequitur quod non sit necessarium affirmare et negare, idest quod non sit
+necessarium affirmationem vel negationem esse veram, sed contingit utramque esse falsam. Et sic non erit
+distantia inter verum et falsum. Quod sic probat.
+102
+
+

@@ -1,0 +1,61 @@
+simplex, quia sumitur ab eo quod est pars quiditatis rei, scilicet a forma. Cum autem substantiae immateriales
+sint simplices quiditates, non potest in eis differentia sumi ab eo quod est pars quiditatis, sed a tota quiditate; et
+ideo in principio de anima dicit Avicenna quod differentiam simplicem non habent nisi species, quarum
+essentiae sunt compositae ex materia et forma.
+Similiter etiam in eis ex tota essentia sumitur genus, modo tamen differenti. Una enim substantia separata
+convenit cum alia in immaterialitate et differunt ab invicem in gradu perfectionis secundum recessum a
+potentialitate et accessum ad actum purum. Et ideo ab eo quod consequitur illas in quantum sunt immateriales
+sumitur in eis genus, sicut est intellectualitas vel aliquid huiusmodi. Ab eo autem quod consequitur in eis gradum
+perfectionis sumitur in eis differentia, nobis tamen ignota. Nec oportet has differentias esse accidentales, quia
+sunt secundum maiorem et minorem perfectionem, quae non diversificant speciem. Gradus enim perfectionis in
+recipiendo eandem formam non diversificat speciem, sicut albius et minus album in participando eiusdem
+rationis albedinem. Sed diversus gradus perfectionis in ipsis formis vel naturis participatis speciem diversificat,
+sicut natura procedit per gradus de plantis ad animalia per quaedam, quae sunt media inter animalia et plantas,
+secundum Philosophum in VII de animalibus. Nec iterum est necessarium, ut divisio intellectualium
+substantiarum sit semper per duas differentias veras, quia hoc est impossibile in omnibus rebus accidere, ut
+Philosophus dicit in XI de animalibus.
+Tertio modo invenitur essentia in substantiis compositis ex materia et forma, in quibus et esse est receptum et
+finitum, propter hoc quod ab alio esse habent, et iterum natura vel quiditas earum est recepta in materia signata.
+Et ideo sunt finitae et superius et inferius, et in eis iam propter divisionem materiae signatae possibilis est
+multiplicatio individuorum in una specie. Et in his qualiter se habet essentia ad intentiones logicas, supra dictum
+est.
+|+5 Capitulus 5
+Nunc restat videre quomodo sit essentia in accidentibus. Qualiter enim sit in omnibus substantiis, dictum est. Et
+quia, ut dictum est, essentia est id quod per diffinitionem significatur, oportet ut eo modo habeant essentiam quo
+habent diffinitionem. Diffinitionem autem habent incompletam, quia non possunt diffiniri, nisi ponatur
+subiectum in eorum diffinitione.
+Et hoc ideo est, quia non habent per se esse, absolutum a subiecto, sed sicut ex forma et materia relinquitur esse
+substantiale, quando componuntur, ita ex accidente et subiecto relinquitur esse accidentale, quando accidens
+subiecto advenit. Et ideo etiam nec forma substantialis completam essentiam habet nec materia, quia etiam in
+diffinitione formae substantialis oportet quod ponatur illud, cuius est forma; et ita diffinitio eius est per
+additionem alicuius, quod est extra genus eius, sicut et diffinitio formae accidentalis. Unde et in diffinitione
+animae ponitur corpus a naturali, qui considerat animam solum in quantum est forma physici corporis. Sed
+tamen inter formas substantiales et accidentales tantum interest, quia sicut forma substantialis non habet per se
+esse absolutum sine eo cui advenit, ita nec illud cui advenit, scilicet materia.
+Et ideo ex coniunctione utriusque relinquitur illud esse, in quo res per se subsistit, et ex eis efficitur unum per se;
+propter quod ex coniunctione eorum relinquitur essentia quaedam. Unde forma, quamvis in se considerata non
+habeat completam rationem essentiae, tamen est pars essentiae completae. Sed illud, cui advenit accidens, est ens
+in se completum, subsistens in suo esse. Quod quidem esse naturaliter praecedit accidens quod supervenit. Et
+ideo accidens superveniens ex coniunctione sui cum eo cui advenit non causat illud esse, in quo res subsistit, per
+quod res est ens per se, sed causat quoddam esse secundum, sine quo res subsistens intelligi potest esse, sicut
+primum potest intelligi sine secundo. Unde ex accidente et subiecto non efficitur unum per se, sed unum per
+accidens. Et ideo ex eorum coniunctione non resultat essentia quaedam, sicut ex coniunctione formae ad
+materiam. Propter quod accidens neque rationem completae essentiae habet neque pars essentiae completae est,
+sed sicut est ens secundum quid, ita et essentiam secundum quid habet. Sed quia illud, quod dicitur maxime et
+verissime in quolibet genere, est causa eorum quae sunt post in illo genere, sicut ignis qui est in fine caliditatis
+est causa caloris in rebus calidis, ut in II metaphysicae dicitur, ideo substantia quae est primum in genere entis,
+verissime et maxime essentiam habens, oportet quod sit causa accidentium, quae secundario et quasi secundum
+quid rationem entis participant. Quod tamen diversimode contingit.
+Quia enim partes substantiae sunt materia et forma, ideo quaedam accidentia principaliter consequuntur formam
+et quaedam materiam. Forma autem invenitur aliqua, cuius esse non dependet ad materiam, ut anima
+intellectualis; materia vero non habet esse nisi per formam. Unde in accidentibus, quae consequuntur formam,
+est aliquid, quod non habet communicationem cum materia, sicut est intelligere, quod non est per organum
+corporale, sicut probat Philosophus in III de anima. Aliqua vero ex consequentibus formam sunt, quae habent
+communicationem cum materia, sicut sentire. Sed nullum accidens consequitur materiam sine communicatione
+formae.
+In his tamen accidentibus, quae materiam consequuntur, invenitur quaedam diversitas. Quaedam enim accidentia
+consequuntur materiam secundum ordinem, quem habet ad formam specialem, sicut masculinum et femininum
+in animalibus, quorum diversitas ad materiam reducitur, ut dicitur in X metaphysicae.
+8
+
+

@@ -1,0 +1,62 @@
+prima pars dividitur in quatuor, secundum quod Aristoteles de quatuor praedictis inquirit. Secunda pars incipit, ibi, non
+videtur. Tertia, ibi, necessarium itaque et cetera. Quarta, ibi, si autem sunt corruptibilium.
+[83276] In Metaphysic., lib. 8 l. 3 n. 3
+Circa primum tria facit. Primo movet quaestionem; dicens quod necessarium est scire quod apud aliquos dubium est:
+utrum nomen speciei significet substantiam compositam, aut formam tantum, sive aliquid, quod est loco actus. Ut hoc
+nomen domus, utrum significet communiter materiam et formam, puta quod domus significet tegumentum constitutum
+ex caemento et lapidibus ordinatum ut decet (nam tegumentum est sicut forma, caementum et lapides ut materia); aut
+praedictum nomen significet tantum actum et speciem, scilicet tegumentum.
+[83277] In Metaphysic., lib. 8 l. 3 n. 4
+Similiter, utrum hoc nomen linea significet dualitatem et longitudinem, aut dualitatem tantum. Hoc autem ideo dicit,
+quia Platonici posuerunt numeros esse formas magnitudinum. Dicebant enim quod punctus nihil aliud est quam unitas
+positionem habens; ita quod positio sit quasi materiale unitas ut formale. Et similiter ponebant, quod dualitas erat forma
+lineae, ita quod linea nihil aliud est quam dualitas in longitudine. Quaerit ergo philosophus, utrum hoc nomen linea
+significet dualitatem tantum, quasi formam; aut dualitatem in longitudine, sicut formam in materia. Et similiter, utrum
+hoc nomen animal significet animam in corpore, quasi formam in materia; aut animam tantum, quae est forma corporis
+organici.
+[83278] In Metaphysic., lib. 8 l. 3 n. 5
+Deinde cum dicit erit autem ostendit quid sequatur, si quis dicit, quod nomina specierum utroque modo se habent in
+significando: ut scilicet quandoque significent formam tantum, quandoque autem formam in materia: et est quod de
+utroque in utraque significatione animal accipietur non univoce, quasi una ratione dictum; sed analogice, sicut est in
+illis, quae habent nomen unum, propter hoc quod referuntur ad unum. Nomen enim speciei non dicetur de composito,
+nisi secundum ordinem ad hoc, quod dicitur secundum formam tantum, sicut Platonici posuerunt. Ponebant enim quod
+homo, qui est compositus ex materia et forma, dicitur per participationem hominis idealis, qui est forma tantum.
+[83279] In Metaphysic., lib. 8 l. 3 n. 6
+Deinde cum dicit verum et haec ostendit philosophus ad quid tendit praedicta quaestio; dicens quod si nomen speciei
+significet substantiam compositam, aut significet formam tantum, hoc facit differentiam quantum ad aliquid; sed ad
+quaestionem substantiae sensibilis nullam differentiam facit. Manifestum enim est quod substantia sensibilis composita
+est ex materia et forma.
+[83280] In Metaphysic., lib. 8 l. 3 n. 7
+Ad quid autem differat, utrum sic vel sic se habent, consequenter manifestat. Manifestum est enim quod si aliqua res
+est, quae sit forma tantum et actus, quod quid erat esse existit ei, idest quod quid erat esse eius, idem erit cum ea: sicut
+idem est anima et animae esse, idest anima est quidditas animae. Si vero aliquid est compositum ex materia et forma,
+non erit idem in ipso quod quid erat esse et res ipsa; sicut non idem est homini esse, et homo. Nisi forte dicatur anima
+tantum, secundum illos, qui dicunt, quod nomina specierum significant formam tantum. Et sic patet, quod aliqua res
+est, cui idem est quod quid erat esse suum; scilicet quae non est composita ex materia et forma, sed forma tantum.
+[83281] In Metaphysic., lib. 8 l. 3 n. 8
+Et huius ratio est, quia quod quid erat esse est id quod significat definitio. Definitio autem significat naturam speciei. Si
+autem aliqua res est, quae sit composita ex materia et forma, oportet quod in illa re sit aliquid praeter naturam speciei.
+Cum enim materia sit individuationis principium, oportet quod in quolibet composito ex materia et forma sint principia
+individuantia, quae sunt praeter naturam speciei. Unde huiusmodi res non tantum est quidditas sua, sed aliquid praeter
+hoc. Si qua vero res est, quae sit forma tantum, non habet aliqua principia individuantia praeter naturam speciei, cum
+ipsa forma per se existens per seipsam individuetur. Et ideo ipsa res nihil aliud est quam quod quid est esse suum.
+[83282] In Metaphysic., lib. 8 l. 3 n. 9
+Sic igitur patet, quod si nomen speciei significet formam tantum, cuiuslibet rei idem est quod quid erat esse et esse
+suum; sicut homo erit quod quid est esse suum, et equus, et omnia huiusmodi. Si autem nomina speciei significant
+compositum ex materia et forma, tunc non idem erit rebus quod quid erat esse earum.
+[83283] In Metaphysic., lib. 8 l. 3 n. 10
+Deinde cum dicit non videtur prosequitur secundum praedictorum, scilicet quod forma sit aliquid praeter partes
+materiae; dicens, quod Platonicis moventibus istam quaestionem, non videtur, quod syllaba sit ex elementis et ex
+compositione; quasi compositio, quae est forma syllabae, sit pars materialis syllabae, sicut elementa vel literae. Neque
+videtur eis quod domus sit caementum et compositio, quasi domus constituatur ex his quasi ex partibus materiae.
+[83284] In Metaphysic., lib. 8 l. 3 n. 11
+Et in hoc recte dicunt; quia si forma esset una de partibus materiae, dependeret ex materia. Et hoc videmus esse falsum;
+quia compositio et mixtio, quae sunt formalia principia, non constituuntur ex his quae componuntur aut miscentur, sicut
+nec aliquod aliud formale constituitur ex sua materia, sed e converso. Subliminare enim constituitur ex compositione,
+quae est forma eius, et non e converso.
+[83285] In Metaphysic., lib. 8 l. 3 n. 12
+Ergo, si ponatur quod animal et bipes sint materia hominis, homo non erit animal et bipes, sed erit aliquid aliud praeter
+hoc. Nec erit elementum neque ex elementis, sed erit tantum forma, ut dicunt Platonici, qui auferunt materiam a
+definitionibus. Sed contra hanc positionem videtur esse dicendum, quod si id quod est forma tantum praeter materiam
+
+

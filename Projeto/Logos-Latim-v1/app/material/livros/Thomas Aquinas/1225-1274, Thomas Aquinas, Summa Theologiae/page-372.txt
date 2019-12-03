@@ -1,0 +1,62 @@
+|a1 Articulus 1
+AG1
+Ad primum sic proceditur. Videtur quod intellectivum principium non uniatur corpori ut forma.
+Dicit enim Philosophus, in III de anima, quod intellectus est separatus, et quod nullius corporis est actus.
+Non ergo unitur corpori ut forma.
+AG2
+Praeterea, omnis forma determinatur secundum naturam materiae cuius est forma, alioquin non requireretur
+proportio inter materiam et formam. Si ergo intellectus uniretur corpori ut forma, cum omne corpus habeat
+determinatam naturam, sequeretur quod intellectus haberet determinatam naturam. Et sic non esset omnium
+cognoscitivus, ut ex superioribus patet, quod est contra rationem intellectus. Non ergo intellectus unitur corpori
+ut forma.
+AG3
+Praeterea, quaecumque potentia receptiva est actus alicuius corporis, recipit formam materialiter et
+individualiter, quia receptum est in recipiente secundum modum recipientis.
+Sed forma rei intellectae non recipitur in intellectu materialiter et individualiter, sed magis immaterialiter et
+universaliter, alioquin intellectus non esset cognoscitivus immaterialium et universalium, sed singularium
+tantum, sicut et sensus. Intellectus ergo non unitur corpori ut forma.
+AG4
+Praeterea, eiusdem est potentia et actio, idem enim est quod potest agere, et quod agit. Sed actio intellectualis
+non est alicuius corporis, ut ex superioribus patet.
+Ergo nec potentia intellectiva est alicuius corporis potentia. Sed virtus sive potentia non potest esse abstractior
+vel simplicior quam essentia a qua virtus vel potentia derivatur. Ergo nec substantia intellectus est corporis
+forma.
+AG5
+Praeterea, id quod per se habet esse, non unitur corpori ut forma, quia forma est quo aliquid est; et sic ipsum esse
+formae non est ipsius formae secundum se. Sed intellectivum principium habet secundum se esse, et est
+subsistens, ut supra dictum est.
+Non ergo unitur corpori ut forma.
+AG6
+Praeterea, id quod inest alicui rei secundum se, semper inest ei. Sed formae secundum se inest uniri materiae,
+non enim per accidens aliquod, sed per essentiam suam est actus materiae; alioquin ex materia et forma non
+fieret unum substantialiter, sed accidentaliter. Forma ergo non potest esse sine propria materia. Sed intellectivum
+principium, cum sit incorruptibile, ut supra ostensum est, remanet corpori non unitum, corpore corrupto. Ergo
+intellectivum principium non unitur corpori ut forma.
+SC
+Sed contra, secundum Philosophum, in VIII metaphys., differentia sumitur a forma rei. Sed differentia
+constitutiva hominis est rationale; quod dicitur de homine ratione intellectivi principii. Intellectivum ergo
+principium est forma hominis.
+CO
+Respondeo dicendum quod necesse est dicere quod intellectus, qui est intellectualis operationis principium, sit
+humani corporis forma. Illud enim quo primo aliquid operatur, est forma eius cui operatio attribuitur, sicut quo
+primo sanatur corpus, est sanitas, et quo primo scit anima, est scientia; unde sanitas est forma corporis, et
+scientia animae. Et huius ratio est, quia nihil agit nisi secundum quod est actu, unde quo aliquid est actu, eo agit.
+Manifestum est autem quod primum quo corpus vivit, est anima.
+Et cum vita manifestetur secundum diversas operationes in diversis gradibus viventium, id quo primo operamur
+unumquodque horum operum vitae, est anima, anima enim est primum quo nutrimur, et sentimus, et movemur
+secundum locum; et similiter quo primo intelligimus. Hoc ergo principium quo primo intelligimus, sive dicatur
+intellectus sive anima intellectiva, est forma corporis.
+Et haec est demonstratio Aristotelis in II de anima.
+Si quis autem velit dicere animam intellectivam non esse corporis formam, oportet quod inveniat modum quo
+ista actio quae est intelligere, sit huius hominis actio, experitur enim unusquisque seipsum esse qui intelligit.
+Attribuitur autem aliqua actio alicui tripliciter, ut patet per Philosophum, V physic., dicitur enim movere aliquid
+aut agere vel secundum se totum, sicut medicus sanat; aut secundum partem, sicut homo videt per oculum; aut
+per accidens, sicut dicitur quod album aedificat, quia accidit aedificatori esse album. Cum igitur dicimus
+socratem aut Platonem intelligere, manifestum est quod non attribuitur ei per accidens, attribuitur enim ei
+inquantum est homo, quod essentialiter praedicatur de ipso. Aut ergo oportet dicere quod socrates intelligit
+secundum se totum, sicut Plato posuit, dicens hominem esse animam intellectivam, aut oportet dicere quod
+intellectus sit aliqua pars socratis.
+
+372
+
+

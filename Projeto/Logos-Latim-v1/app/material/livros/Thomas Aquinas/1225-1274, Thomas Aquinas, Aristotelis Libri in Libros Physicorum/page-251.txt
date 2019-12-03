@@ -1,0 +1,65 @@
+|#1
+Postquam Philosophus in praecedentibus libris determinavit de motu
+secundum se, et de consequentibus ad ipsum, et de partibus eius, hic
+incipit determinare de motu per comparationem ad motores et mobilia.
+Et dividitur in partes duas.
+In prima ostendit esse primum motum et primum motorem.
+In secunda inquirit qualis sit motus primus et primus motor; et hoc in
+octavo libro, ibi: utrum autem factus sit aliquando etc..
+Prima autem pars dividitur in partes duas.
+In prima parte ostendit esse primum motum et primum motorem. Et quia ea
+quae sunt unius ordinis, habent aliquam comparationem ad invicem, ideo in
+secunda parte determinat de comparatione motuum ad invicem, ibi: dubitabit
+autem utique etc..
+Circa primum tria facit: primo praemittit quoddam quo indiget ad propositum
+ostendendum; secundo ostendit propositum, ibi: quoniam autem omne quod
+movetur etc.; tertio manifestat quoddam quod supposuerat, ibi: primum autem
+movens etc..
+|#2
+Proponit ergo primo quod necesse est omne quod movetur, ab aliquo
+alio moveri. Quod quidem in aliquibus est manifestum. Sunt enim quaedam
+quae non habent in seipsis principium sui motus, sed principium motus
+ipsorum est ab extrinseco, sicut in his quae per violentiam moventur. Si
+ergo aliquid sit quod non habeat in seipso principium sui motus, sed
+principium sui motus est ab extrinseco, manifestum est quod ab alio
+movetur. Si vero sit aliquod mobile quod habeat in seipso principium sui
+motus, circa hoc potest esse dubium an ab alio moveatur.
+Et ideo circa hoc instat, ad ostendendum quod ab alio movetur. Si ergo
+aliquid tale ponatur non moveri ab alio, accipiatur mobile ab, cui quidem
+moveri conveniat secundum se et primo, non autem ex eo quod aliqua pars
+eius movetur. Sic enim non moveretur secundum se, sed secundum partem;
+oportet autem, si aliquid movet seipsum non motum ab altero, quod sit primo
+et per se motum; sicut si aliquid est calidum non ab alio, oportet quod sit
+primo et per se calidum.
+Hoc ergo dato, procedit ad propositum ostendendum dupliciter: primo quidem
+excludendo illud, unde maxime videri posset quod aliquid non ab alio
+moveatur; secundo directe ostendendo quod nihil potest a seipso moveri,
+ibi: amplius quod a seipso movetur etc..
+Id autem ex quo maxime videtur quod aliquid non moveatur ab alio, est quia
+non movetur ab aliquo exteriori, sed ab interiori principio.
+Dicit ergo primo, quod opinari quod ab moveatur a seipso propter hoc quod
+totum movetur, et non movetur ab aliquo exteriori, simile est ac si aliquis
+diceret quod mobile, cuius una pars movetur et alia movet, moveat seipsum,
+propter hoc quod non discernitur quae pars sit movens, et quae sit mota;
+sicut si huiusmodi mobilis quod est dez, pars quae est de, moveat partem
+quae est ez, et non videatur quae pars earum sit movens et quae sit mota.
+Vult autem per primum mobile ab, quod totum movetur et a principio
+interiori movente, intelligi aliquod corpus animatum, quod totum movetur ab
+anima: per mobile autem dez vult intelligi corpus aliquod quod non totum
+movetur, sed una pars eius corporalis est movens, et alia mota; in quo
+quidem mobili manifestum est quod id quod movetur, ab alio movetur. Et ex
+hoc vult simile ostendere de corpore animato, quod videtur movere seipsum.
+Hoc enim ei convenit inquantum una pars aliam movet, scilicet anima corpus,
+ut in octavo plenius ostendetur.
+|#3
+Deinde cum dicit: amplius quod etc., ostendit directe quod omne quod
+movetur ab alio movetur, tali ratione.
+Omne quod movetur a seipso, non quiescit a suo motu per quietem cuiuscumque
+alterius mobilis. Et hoc accipit quasi per se notum.
+Ex hoc autem ulterius concludit, quod si aliquod mobile quiescit ad quietem
+alterius, quod hoc movetur ab altero. Hoc autem supposito, concludit quod
+necesse est omne quod movetur ab aliquo alio moveri. Et quod hoc sequatur
+ex praemissis, sic probat.
+251
+
+

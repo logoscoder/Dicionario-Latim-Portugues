@@ -1,0 +1,63 @@
+479 Dentato et Lentulo.
+480 Dentato II [Al. III] et Merenda.
+481 Licinio et Cambia [Al. Canina].
+482 Cursore et Maximo [Al. Carvilio].
+483 Claudio et Clepsinate [Al. Clepsina].
+484 Omissi Clepsina II et Blasio.
+485 Gallo Sabino et Pisone [Al. Pictore],
+486 Sempronio Sapiente et Rufo.
+487 Regulo et Libone.
+488 Fabio Pictore et Poeta [Al. Pera].
+489 Maximo et Vitulo [Al. Mure].
+590 Theudace [Al. Caudice] et Flacco.
+491 Maximo et Crasso.
+492 Albino [Al. L. Postumio Megello] et Vitulo.
+493 Flacco II et Crasso.
+494 Scipione Asina et Duillio.
+495 Scipione et Floro.
+496 Catacoeno [Al. Calatino] et Paterculo.
+497 Regulo et Blaeso [Al. Blasione].
+498 Vulsone et Decio [Al. Caedicio], cui suffectus Regulus.
+499 Paetino [Al. Fulvio] et Paulo.
+500 Scipione et Calatino.
+501 Capitone [Al. Caepione] et Blaeso.
+502 Cotta et Gemino.
+503 Metello et Papo [Al. Pacilo].
+504 Regulo II et Vulsone.
+505 Pulchro et Pullo.
+506 Cotta II et Gemino II.
+507 Metello et Buteone.
+508 Crasso et Licinio.
+509 Buteone II et Bullo [Al. Balbo].
+510 Torquato et Blaeso.
+511 Fundulo et Gallo Longo.
+512 Catulo et Albino.
+513 Torquato et Catone [Al. Cercone].
+514 Centone et Tuditano (Cic. in Bruto, 72).
+515 Tuncino et Falcone (Al. Turrino et Faltone].
+516 Graccho et Faltone.
+517 Omissi Lentulus et Flaccus.
+518 Claudio Lentulo [Al. p. Corn. Lentulo Caudino] et Varo.
+519 Torquato et Volbo [Al. Bulbo].
+520 Albino et Rogo [Al. Carvilio].
+521 Maximo et Mathone.
+522 Lepido et Balbulo [Al. Malleolo].
+523 Mathone et Masone.
+524 Barbula II et Pera.
+525 Albino et Centumalo.
+526 Burga et Maximo Vero [Al. Q. Fab. Max. et Carvilio].
+527 Flacco et Rogulo (Cic. de Senectute, 11).
+528 Maximo Messala [Al. Val. Messala] et Apustio.
+529 Papo [Al. Flacco] et Regulo.
+530 Torquato et Papo [Al. Flacco].
+531 Flaminio et Philone [Al. Philo].
+532 Scipione et Marcello.
+533 Scipione Nasica [Al. Asina] et Rufo.
+534 Catulo et Philone.
+535 Paulo et Salinatore.
+536 Scipione et Longo.
+537 Gemino et Flaminio, cui suffectus est Regulus.
+538 Paulo II et Varone.
+4
+
+

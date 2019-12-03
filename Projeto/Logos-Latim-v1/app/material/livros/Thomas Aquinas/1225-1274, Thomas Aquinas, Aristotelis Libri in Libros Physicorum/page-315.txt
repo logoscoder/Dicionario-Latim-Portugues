@@ -1,0 +1,65 @@
+Et ideo hic abbreviando hanc rationem, dicit quod si utraque pars ab altera
+moveatur, sequetur quod secundum eundem motum movet et movetur: unde
+sequitur quod calefaciens calefiat, quod est impossibile.
+Ideo autem sequitur, si moventis seipsum utraque pars ab alia moveatur,
+quod secundum eundem motum aliquid movet et movetur; quia moventis seipsum
+est unus motus, et secundum illum oportebit quod pars quae movet moveatur.
+|#10
+Deinde cum dicit: at vero neque etc., excludit alium modum, scilicet
+quod moventis seipsum pars seipsam non movet.
+Et primo proponit quod intendit; secundo probat propositum, ibi: totum enim
+si movetur etc..
+Dicit ergo primo, quod si accipiatur aliquid quod est primo movens seipsum,
+non potest dici neque quod una pars eius seipsam moveat, neque quod plures,
+ita quod quaelibet earum seipsam moveat.
+|#11
+Deinde cum dicit: totum enim si movetur ipsum etc., probat
+propositum duabus rationibus: quarum prima talis est.
+Si totum movetur ipsum a seipso, aut hoc conveniet ei ratione suae partis
+quae movetur a seipsa, aut ratione totius.
+Si conveniat ei ratione suae partis, ergo illa pars erit primum seipsum
+movens, quia illa pars separata a toto movebit seipsam: sed totum iam non
+erit movens seipsum primum, ut ponebatur.
+Si vero dicatur quod totum movet seipsum ratione totius, ergo quod aliquae
+partes moveant seipsas, hoc non erit nisi per accidens.
+Quod autem est per accidens, non est necessarium: ergo in primo movente
+seipsum maxime oportet accipere quod partes non moveantur a seipsis. Totius
+ergo primi moventis seipsum, una pars movebit cum sit immobilis, alia
+movebitur. Istis enim solum duobus modis possibile esset quod pars movens
+moveretur, scilicet aut quod moveretur a parte altera quam movet, aut quod
+moveret seipsam.
+Unde attendendum est quod Aristoteles, excludendo hos duos modos, intendit
+concludere quod pars movens in movente seipsum, sit immobilis; non autem
+quod movens seipsum dividatur in duas partes, quarum una sit movens, et
+alia mota: hoc enim sufficienter conclusum est per id quod primo ostendit,
+quod totum non movet seipsum totum.
+Et sic patet quod non fuit necessarium Aristoteli inducere divisionem
+quinque membrorum, ut quidam dixerunt: quorum unum membrum sit, quod totum
+moveat totum; secundum quod totum moveat partem; tertium quod pars moveat
+totum; quartum quod duae partes vicissim se moveant; quintum quod una pars
+sit movens et alia mota. Si enim totum non movet totum, per eandem rationem
+sequitur quod totum non moveat partem, nec pars totum: quia utrobique
+sequeretur quod aliqua pars mota moveret seipsam. Unde hoc quod totum non
+movet totum, sufficit ad concludendum quod una pars sit movens et alia
+mota: sed ad concludendum quod pars movens non moveatur, probat duo alia,
+scilicet quod pars movens non moveatur a mota, et quod non moveatur a
+seipsa.
+|#12
+Et ad hoc secundum probandum inducit secundam rationem ibi: amplius
+si tota etc.: quae talis est.
+Si detur quod pars movens moventis seipsum, ipsa tota seipsam moveat,
+sequitur per supra probata, quod ipsius partis iterum una pars moveat et
+alia moveatur: iam enim ostensum est supra quod totum non movet seipsum
+aliter, nisi per hoc quod una pars eius movet et alia movetur. Sit ergo
+pars movens moventis seipsum, ab: per rationem ergo praemissam sequitur
+quod una pars eius sit movens, scilicet a, et alia mota, scilicet b. Si
+ergo ab moveat tota se totam, ut tu ponis, sequitur quod idem moveatur a
+duobus motoribus, scilicet a toto, quod est ab, et a parte, quae est a;
+quod est impossibile.
+Relinquitur ergo quod pars movens in movente seipsum, est omnino immobilis.
+|+11
+
+Lectio 11
+315
+
+

@@ -1,0 +1,62 @@
+Sed ex hac corruptione vel privatione actionis, consequitur aliqua corruptio vel privatio in agente, quae habet
+rationem poenae.
+RA9
+Ad nonum dicendum, quod poena, secundum quod comparatur ad subiectum, est malum in quantum privat illud
+aliquo modo; sed secundum quod comparatur ad agens quod infert poenam, sic interdum habet rationem boni,
+quando puniens propter iustitiam punit.
+RA10
+Ad decimum dicendum, quod ista divisio, sicut dictum est, non est mali communiter accepti, sed mali secundum
+quod in rationali creatura invenitur; in qua non potest esse aliquod malum quod non sit culpa vel poena, ut
+dictum est. Intelligendum tamen est, quod non omnis defectus habet rationem mali, sed defectus boni quod
+natum est haberi. Unde non est defectus homini quod non potest volare, et per consequens nec culpa est nec
+poena.
+RA11
+Ad undecimum dicendum, quod incommoda vel damna quae quis nesciens patitur, licet non sint contra
+voluntatem actualem, sunt tamen contra voluntatem naturalem vel habitualem, ut dictum est.
+RA12
+Ad duodecimum dicendum, quod bonum utile ordinatur in delectabile et honestum, sicut in finem; et sic duo
+sunt principalia bona, scilicet honestum et delectabile; quibus opponuntur duo mala: culpa quidem honesto,
+poena vero delectabili.
+RA13
+Ad decimumtertium dicendum, quod de singulis horum trium bonorum, scilicet naturae, gratiae et gloriae, est
+considerare formam et actum secundum quam differentiam culpa a poena distinguitur, ut dictum est.
+|a5 Articulus 5
+TTA
+Quinto quaeritur quid habeat plus de ratione mali, utrum poena vel culpa.
+TTB
+Et videtur quod poena.
+AG1
+Sicut enim se habet meritum ad praemium, ita se habet culpa ad poenam. Sed praemium est maius bonum quam
+meritum.
+Ergo poena est magis malum quam culpa.
+AG2
+Praeterea, illud est magis malum quod opponitur magis bono. Sed poena opponitur bono agentis, culpa autem
+bono actionis.
+Cum ergo melius sit agens quam actio, videtur quod peius sit poena quam culpa.
+AG3
+Sed dicendum, quod culpa est magis malum quam poena, in quantum separat a summo bono. Sed contra, nihil
+magis separat a summo bono quam ipsa separatio a summo bono. Sed ipsa separatio a summo bono est poena.
+Ergo adhuc poena est maius malum quam culpa.
+AG4
+Praeterea, finis est magis bonum quam ordo ad finem. Sed ipsa privatio finis est poena, quae dicitur carentia
+visionis divinae; malum autem culpae est per privationem ordinis ad finem. Ergo maius malum est poena quam
+culpa.
+AG5
+Praeterea, magis malum est privari possibilitate ad actum quam solo actu, sicut maius malum est caecitas per
+quam privatur potentia visiva, quam tenebra per quam impeditur ipsa visio. Sed culpa opponitur ipsi merito;
+privatio autem gratiae, per quam est possibilitas ad merendum, est poena. Ergo poena est magis malum quam
+culpa.
+AG6
+Malum quam poena; quia etiam huius poenae culpa est causa. Sed contra, licet in causis per se, causa sit potior
+effectu, tamen hoc non est necessarium in causis per accidens; contingit enim causam per accidens esse minus
+bonum quam effectum, sicut effossio sepulcri est causa per accidens inventionis thesauri; et similiter contingit
+causam per accidens esse minus malum quam effectum, sicut impingere ad lapidem est minus malum quam
+incidere in manus hostis persequentis, quod per accidens ex hoc sequitur. Sed poena est effectus culpae per
+accidens: non enim qui peccat intendit incidere in poenam. Non ergo sufficit ad hoc quod culpa sit magis malum
+quam poena, hoc quod culpa est causa poenae.
+AG7
+Praeterea, si culpa habet rationem mali quia est causa poenae; ergo malitia culpae est propter malitiam poenae.
+Sed propter quod unumquodque et illud magis. Ergo poena erit magis malum quam culpa.
+17
+
+

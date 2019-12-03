@@ -1,0 +1,62 @@
+Praeterea, tres sunt vires motivae: rationalis, irascibilis, et concupiscibilis. Sed justitia non est in rationali, quia
+non est virtus cognitiva. Ergo est in irascibili vel concupiscibili.
+AG3
+Praeterea, voluntas se habet aequaliter ad omnia opera virtutum: quia omnes virtutes sunt habitus voluntarii.
+Ergo eadem ratione vel omnes virtutes sunt in voluntate, vel nulla. Non autem omnes virtutes sunt in voluntate:
+quia fortitudo est in irascibili, temperantia in concupiscibili. Ergo justitia non est in voluntate nec in ratione, ut
+dictum est; ergo est in irascibili vel concupiscibili.
+AG4
+Praeterea, in illa VI est virtus aliqua sicut in subjecto ad quam pertinet materia virtutis. Sed materia justitiae
+pertinet ad irascibilem et concupiscibilem: quia quantum ad materiam exteriorem circuit actus aliarum virtutum,
+ut dictum est. Ergo est in irascibili et concupiscibili.
+SC1
+Sed contra, Anselmus dicit, quod justitia est rectitudo voluntatis propter se servata. Sed rectitudo voluntatis est in
+voluntate sicut in subjecto. Ergo justitia est in voluntate, et non in irascibili et concupiscibili.
+SC2
+Praeterea, justitia consistit in ordine ad alium.
+Sed ordinare non est nisi rationis. Ergo justitia non est in irascibili et concupiscibili, sed in ratione.
+CO
+Ad tertiam quaestionem dicendum, quod justitia non potest esse in irascibili et concupiscibili sicut in subjecto,
+cum non sit circa passiones: ad ipsam enim non pertinet moderari passiones, sed exteriores actiones quae sunt ad
+alterum.
+Unde oportet quod sit in illa potentia sicut in subjecto ad quam pertinet usus rerum exteriorum in ordine ad
+alterum. Uti autem actus voluntatis est secundum Augustinum; sed non absolute secundum quod voluntas est
+finis, sed secundum quod praesupponit collationem rationis ordinantis ad alterum; et ideo in voluntate hoc modo
+accepta, est justitia sicut in subjecto. In voluntate enim, secundum quod est finis, non potest esse aliqua virtus
+moralis, quia ad bonum civile et naturale hominis, voluntas naturalem inclinationem habet sicut in proprium
+subjectum; sed secundum quod voluntas est eorum quae sunt ordinata ad finem, sic in voluntate potest esse
+moralis virtus, scilicet justitia, sicut et prudentia in ratione cognitiva. Hoc autem quod dictum est de subjecto
+justitiae, consonat omnibus quae dicuntur ab aliis de subjecto justitiae.
+Quidam enim dicunt eam esse in ratione: quod non potest esse secundum quod ratio est cognitiva potentia, sed
+secundum quod ratio comprehendit et cognitionem et affectionem: secundum quod dicitur quod voluntas in
+ratione est. Alii vero dicunt quod est in tota anima: quod quidem verificatur inquantum voluntas est universalis
+motor omnium virium animae; unde etiam Commentator in 5 ethic. Dicit quod est in rationali et concupiscibili.
+Et similis ratio est de omnibus virtutibus quae non sunt circa passiones, sed circa operationes, sicut liberalitas,
+magnificentia, et hujusmodi.
+RA1
+Ad primum igitur dicendum, quod rationale per participationem non solum dicitur irascibilis et concupiscibilis,
+sed universaliter appetitus, ut ibidem dicit; et ideo voluntas quamvis per essentiam sit in parte intellectiva, tamen
+quantum ad actum aliqualiter ratione participat, et praecipue secundum quod est eorum quae sunt ad finem, in
+quae intendit secundum quod a ratione praeordinata sunt; et ideo potest esse subjectum virtutis moralis.
+RA2
+Ad secundum dicendum, quod rationale comprehendit non solum rationem cognitivam, sed etiam voluntatem; et
+sic justitia est in rationali sicut in subjecto.
+RA3
+Ad tertium dicendum, quod quamvis voluntas aequaliter habeat imperium super omnes materias et actus
+virtutum; tamen materiae quarumdam virtutum, sicut passiones, pertinent etiam ad alias potentias immediatius;
+et ideo virtutes quae sunt principaliter circa passiones, sunt in illis potentiis sicut in subjecto. Sed materiae
+quarumdam virtutum non pertinent ad aliam potentiam nisi ad voluntatem; et ideo virtutes quae sunt circa illas
+materias, sunt in voluntate sicut in subjecto.
+RA4
+Ad quartum dicendum, quod materiae aliarum virtutum possunt esse materia justitiae non secundum quod
+passionem inferunt, sed secundum quod veniunt in usum operationis ad alterum.
+Articulus 4D
+AG1
+Ulterius. Videtur quod prudentia non sit in ratione. Quia, sicut dicit Philosophus, in 6 ethic., prudentia
+praeceptiva est. Sed praecipere pertinet ad voluntatem, quae est motor omnium virium, ut dicit Anselmus. Ergo
+prudentia est in voluntate sicut in subjecto.
+AG2
+Praeterea, eligere videtur esse actus prudentiae.
+1243
+
+

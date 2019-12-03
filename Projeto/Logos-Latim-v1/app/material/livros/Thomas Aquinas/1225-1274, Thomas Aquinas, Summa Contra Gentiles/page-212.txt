@@ -1,0 +1,52 @@
+|#12 Dicitur autem aliquid altero magis et minus malum, per recessum a bono.
+Sic enim quae privationem important, intenduntur et remittuntur, sicut inaequale et dissimile: dicitur enim
+inaequalius quod est ab aequalitate magis distans; et similiter dissimilius magis a similitudine recedens.
+Unde et magis malum dicitur quod est magis privatum bono, quasi magis a bono distans. Privationes autem
+intenduntur non quasi aliquam essentiam habentes, sicut qualitates et formae, ut quinta ratio procedebat, sed per
+augmentum causae privantis: sicut aer tenebrosior est quanto plura fuerint interposita obstacula lucis, sic enim
+longius a lucis participatione distat.
+|#13 Dicitur etiam malum esse in mundo, non quasi essentiam aliquam habeat, vel res quaedam existat, ut sexta
+ratio procedebat: sed ea ratione qua dicitur quod res aliqua mala est ipso malo; sicut caecitas et quaelibet privatio
+esse dicitur quia animal caecitate est caecum. Ens enim dupliciter dicitur, ut Philosophus in metaphysica docet.
+Uno modo, secundum quod significat essentiam rei, et dividitur per decem praedicamenta: et sic nulla privatio
+potest dici ens. Alio modo, secundum quod significat veritatem compositionis: et sic malum et privatio dicitur
+ens, inquantum privatione dicitur aliquid esse privatum.
+
+|+10 Capitulus 10: Quod causa mali est bonum.
+|#1 Ex praemissis autem concludi potest quod malum non causatur nisi a bono.
+|#2 Si enim alicuius mali est causa malum; malum autem non agit nisi virtute boni, ut probatum est: oportet
+ipsum bonum esse causam primariam mali.
+|#3 Adhuc. Quod non est, nullius est causa. Omnem igitur causam oportet esse ens aliquod. Malum autem non
+est ens aliquod, ut probatum est. Malum igitur non potest esse alicuius causa. Oportet igitur si ab aliquo causetur
+malum, quod illud sit bonum.
+|#4 Item. Quicquid est proprie et per se alicuius causa, tendit in proprium effectum. Si igitur malum esset per se
+alicuius causa, tenderet in proprium effectum, scilicet malum. Hoc autem est falsum: nam ostensum est quod
+omne agens intendit bonum. Malum igitur per se non est causa alicuius, sed solum per accidens. Omnis autem
+causa per accidens reducitur ad causam per se. Solum autem bonum potest esse per se causa, sed malum non
+potest esse per se causa. Malum igitur causatum est a bono.
+|#5 Praeterea. Omnis causa vel est materia, vel forma, vel agens, vel finis.
+Malum autem non potest esse neque materia neque forma: ostensum est enim supra quod tam ens actu, quam ens
+in potentia, est bonum. Similiter non potest esse agens: cum unumquodque agat secundum quod est actu et
+formam habet.
+Neque etiam potest esse finis: cum sit praeter intentionem, ut probatum est.
+Malum igitur non potest esse alicuius causa.
+Si igitur aliquid sit causa mali, oportet quod sit a bono causatum.
+|#6 Cum autem malum et bonum sint opposita; unum autem oppositorum non potest esse causa alterius nisi per
+accidens, sicut frigidum calefacit, ut dicitur in VIII physicorum: sequitur quod bonum non possit esse causa
+activa mali nisi per accidens.
+|#7 Hoc autem accidens in naturalibus potest esse et ex parte agentis; et ex parte effectus. Ex parte quidem
+agentis, sicut cum agens patitur defectum virtutis, ex quo sequitur quod actio sit defectiva et effectus deficiens:
+ut, cum virtus membri digerentis est debilis, sequitur imperfecta decoctio et humor indigestus, quae sunt
+quaedam mala naturae. Accidit autem agenti, inquantum est agens, quod virtutis defectum patiatur: non enim
+agit secundum quod deficit ei virtus, sed secundum quod habet aliquid de virtute; si enim penitus virtute careret,
+omnino non ageret. Sic igitur malum causatur per accidens ex parte agentis, inquantum agens est deficientis
+virtutis. Propter quod dicitur quod malum non habet causam efficientem, sed deficientem: quia malum non
+sequitur ex causa agente nisi inquantum est deficientis virtutis, et secundum hoc non est efficiens. In idem autem
+redit si defectus actionis et effectus proveniat ex defectu instrumenti, vel cuiuscumque alterius quod requiritur ad
+actionem agentis, sicut cum virtus motiva producit claudicationem propter tibiae curvitatem: utroque enim agens
+agit, et virtute et instrumento.
+|#8 Ex parte vero effectus, malum ex bono causatur per accidens, tum ex parte materiae effectus; tum ex parte
+formae ipsius. Si enim materia sit indisposita ad recipiendam impressionem agentis, necesse est defectum sequi
+212
+
+

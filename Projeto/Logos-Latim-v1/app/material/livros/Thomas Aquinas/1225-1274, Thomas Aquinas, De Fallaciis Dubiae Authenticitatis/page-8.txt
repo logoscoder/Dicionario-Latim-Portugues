@@ -1,0 +1,59 @@
+paralogismus: socrates est alter ab homine. Et ipse est homo: igitur est alter a seipso. Non sequitur: quia
+proceditur ab homine ad socratem, et sic mutatur quale quid in hoc aliquid. Et ad hunc modum reducitur omnis
+deceptio proveniens ex mutata suppositione terminorum.
+Unde cum dicitur: homo est species.
+Socrates est homo: igitur socrates est species; hic proceditur a simplici suppositione ad discretam, quae mutat
+quale quid in hoc aliquid.
+|+11 Capitulus 11: De fallaciis extra dictionem.
+Sequitur de fallaciis extra dictionem: quae in hoc differunt a fallaciis in dictione, ut supra dictum est, quia in
+fallaciis in dictione principium motivum sive causa apparentiae est ex parte vocis, in fallaciis autem extra
+dictionem est ex parte rei. Sicut enim in fallaciis in dictione deceptio provenit ex eo quod unum nomen plura
+significans accipitur ac si significaret unum, ita in fallaciis extra dictionem deceptio provenit ex eo quod aliquae
+res aliquo modo convenientes vel differentes accipiuntur ut eaedem simpliciter vel diversae.
+Sunt autem fallaciae extra dictionem septem: quarum prima est secundum accidens, secunda secundum quid et
+simpliciter, tertia secundum ignorantiam elenchi, quarta secundum petitionem principii, quinta secundum
+consequens, sexta secundum non causam ut causam, septima secundum plures interrogationes ut unam.
+Accipiuntur autem hae fallaciae secundum quasdam generales entium conditiones: nam ens aliud est per se, et
+aliud per accidens: et secundum hoc accipitur fallacia accidentis. Item secundum perfectum et imperfectum
+accipitur fallacia secundum quid et simpliciter. Secundum autem oppositum et non oppositum est fallacia
+secundum ignorantiam elenchi. Secundum vero idem et diversum est fallacia petitionis principii. Secundum vero
+prius et posterius est fallacia consequentis.
+Secundum causam et causatum est fallacia secundum non causam ut causam. Secundum autem unum et multa
+est fallacia secundum plures interrogationes ut unum.
+|+12 Capitulus 12: De fallacia accidentis.
+Dicendum est ergo primo de fallacia accidentis.
+Ubi sciendum quod accidens hic accipitur prout distinguitur contra per se. Per se autem dicitur inesse aliquid
+alicui, quod inest ei secundum rationem propriae definitionis; praeter hoc autem quicquid inest alicui, dicitur
+inesse per accidens; unde ad hoc quod est inesse per se aut per accidens, tripliciter aliquid potest se habere.
+Quaedam enim sunt quae omni modo sunt eadem secundum substantiae rationem, ut vestis et indumentum; et in
+his est solum per se, et nullo modo per accidens.
+Quaedam sunt, quorum unum est omnino extraneum a ratione alterius, ut album et homo; et in istis est
+solummodo per accidens, et nullo modo per se.
+Quaedam vero sunt, quorum unum ad alterius rationem aliquo modo pertinet, licet non sint omnino eadem
+secundum definitionem, sicut se habet superius et inferius: nam superius ponitur in definitione inferioris, tamen
+non est omnino eadem definitio inferioris et superioris, ut animalis et hominis, cum definitio inferioris addat
+super definitionem superioris. Et simile est de proprio et de specie: nam species ponitur in definitione proprii,
+non tamen species et proprium sunt omnino idem in definitione. Et in his est quodammodo per se et
+quodammodo per accidens, inquantum partim secundum definitionem conveniunt, et partim differunt.
+In his ergo quae primo modo se habent, necesse est quod quicquid verum de uno sit, sit etiam verum de alio, eo
+quod talia sunt penitus eadem secundum rem et differunt secundum nomen solum; unde in his non contingit esse
+fallaciam accidentis. Sed in omnibus aliis non est necessarium quod quicquid est verum de uno, sit etiam verum
+de altero. Et ideo si ex hoc quod aliquid est de uno verum, concludatur esse verum de altero, est fallacia
+accidentis.
+Contingit autem quandoque ut quod est verum de uno, concludatur esse verum de altero, scilicet quando aliquid
+attribuitur uni secundum quod est idem alteri; tunc enim quod inest uni, et alteri inerit. Si vero attribuitur uni
+secundum quod est ab altero divisum, non inerit alteri; si autem ut non diversum ab altero, erit et alterius: sicut si
+album attribuatur animali inquantum est idem homini, oportet quod conveniat homini; si autem animali ut est
+divisum ab homine, non oportet quod conveniat homini, et si concludatur inesse, erit fallacia accidentis, sicut si
+dicatur: animal est quadrupes. Homo est animal: igitur homo est quadrupes. Quadrupes enim non praedicatur de
+animali ut animal est homo, sed secundum quod est ab homine diversum. Unde patet quod in praedicto
+argumento medium diversimode accipitur: nam primo accipiebatur secundum quod erat diversum ab homine, sed
+in secundo secundum quod est idem homini. Et ideo quando est fallacia accidentis, semper est diversa acceptio
+medii.
+Dico autem diversam acceptionem medii esse, quando medium secundum quod convenit cum una extremitatum,
+est diversum ab alia.
+Fallacia vero accidentis est deceptio proveniens ex eo quod aliquid significatur simile utrique eorum quae sunt
+aliqualiter per accidens unum. Ex quo patet quod in fallacia accidentis semper inveniuntur tres termini, sicut in
+8
+
+

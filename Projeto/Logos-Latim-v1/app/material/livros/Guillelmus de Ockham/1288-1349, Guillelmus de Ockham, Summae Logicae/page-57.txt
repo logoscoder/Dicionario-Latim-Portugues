@@ -1,0 +1,56 @@
+Et de subiecto quidem est primo sciendum quod, sicut dicit Damascenus in
+Logica sua, cap. 8: "subiectum dicitur dupliciter: hoc quidem ad exsistentiam, hoc autem ad
+praedicationem. Et ad exsistentiam quidem, quemadinodum subicitur substantia accidentibus. In ipsa enim
+habent esse et extra ipsam non substant. Quod autem ad praedicationem, subiectum est particulare". Ex quo
+colligi potest quod aliquid dicitur subiectum, quia realiter substat alteri rei inhaerenti sibi et sibi aduenienti
+realiter. Et sic subiectum accipitur dupliciter, stricte scilicet, et sic dicitur subiectum respectu accidentium
+realiter inhaerentium sibi, sine quibus potest subsistere. Large autem dicitur subiectum omnis res quae alteri
+substat, siue illa res cui substat sit accidens inhaerens realiter siue sit forma substantialis informans rem cui
+adhaeret, et sic materia dicitur subiectum respectu formarum substantialium.
+Logica sua, cap. 8: "subiectum dicitur dupliciter: hoc quidem ad exsistentiam, hoc autem ad
+praedicationem. Et ad exsistentiam quidem, quemadinodum subicitur substantia accidentibus. In ipsa enim
+habent esse et extra ipsam non substant. Quod autem ad praedicationem, subiectum est particulare". Ex quo
+colligi potest quod aliquid dicitur subiectum, quia realiter substat alteri rei inhaerenti sibi et sibi aduenienti
+realiter. Et sic subiectum accipitur dupliciter, stricte scilicet, et sic dicitur subiectum respectu accidentium
+realiter inhaerentium sibi, sine quibus potest subsistere. Large autem dicitur subiectum omnis res quae alteri
+substat, siue illa res cui substat sit accidens inhaerens realiter siue sit forma substantialis informans rem cui
+adhaeret, et sic materia dicitur subiectum respectu formarum substantialium.
+Aliter autem dicitur subiectum, quia est pars propositionis praececedens copulam, de quo aliquid
+praedicatur, sicut in ista propositione 'homo est animal', 'homo' est subiectum, quia de homine praedicatur
+animal. Et subiectum sic acceptum potest multipliciter accipi. Uno modo dicitur subiectum large omne illud
+quod potest in quacumque propositione uera uel falsa subici. Et sic quodlibet uniuersale respectu alterius potest
+esse subiectum, sicut patet in talibus propositionibus 'omne aninial est asinus', 'omnis albedo est coruus', et sic de
+aliis.
+Aliter autem dicitur subiectum, quia est pars propositionis praececedens copulam, de quo aliquid
+praedicatur, sicut in ista propositione 'homo est animal', 'homo' est subiectum, quia de homine praedicatur
+animal. Et subiectum sic acceptum potest multipliciter accipi. Uno modo dicitur subiectum large omne illud
+quod potest in quacumque propositione uera uel falsa subici. Et sic quodlibet uniuersale respectu alterius potest
+esse subiectum, sicut patet in talibus propositionibus 'omne aninial est asinus', 'omnis albedo est coruus', et sic de
+aliis.
+Aliter accipitur subiectum stricte, et sic dicitur subiectum illud quod subicitur in propositione uera ubi
+est directa praedicatio; et sic est homo subiectum respectu animalis, sed non e conuerso.
+Aliter accipitur subiectum stricte, et sic dicitur subiectum illud quod subicitur in propositione uera ubi
+est directa praedicatio; et sic est homo subiectum respectu animalis, sed non e conuerso.
+Tertio dicitur subiectum magis stricte, scilicet illud quod est subiectum in conclusione demonstrata,
+quae scitur uel nata est sciri scientia proprie dicta. Et sic accipiendo subiectum, quot sunt conclusiones habentes
+distincta subiecta, tot sunt subiecta in ista scientia aggregata; et sic in logica sunt multa subiecta, et similiter in
+metaphysica et in naturali philosophia.
+Tertio dicitur subiectum magis stricte, scilicet illud quod est subiectum in conclusione demonstrata,
+quae scitur uel nata est sciri scientia proprie dicta. Et sic accipiendo subiectum, quot sunt conclusiones habentes
+distincta subiecta, tot sunt subiecta in ista scientia aggregata; et sic in logica sunt multa subiecta, et similiter in
+metaphysica et in naturali philosophia.
+Aliter accipitur subiectum strictissime pro aliquo primo aliqua primitate inter talia subiecta. Et sic
+aliquando subiectum comunissimum inter talia subiecta uocatur subiectum, et aliquando illud quod est
+perfectius, et sic de aliis primitatibus. Hoc tanten est commune omnibus quod quodlibet istorum est subiectum
+per praedicationem.
+Aliter accipitur subiectum strictissime pro aliquo primo aliqua primitate inter talia subiecta. Et sic
+aliquando subiectum comunissimum inter talia subiecta uocatur subiectum, et aliquando illud quod est
+perfectius, et sic de aliis primitatibus. Hoc tanten est commune omnibus quod quodlibet istorum est subiectum
+per praedicationem.
+[1.31. DE ISTO TERMINO 'PRAEDICATUM']
+[1.31. DE ISTO TERMINO 'PRAEDICATUM']
+Sicut subiectum dicitur illa pars propositionis quae praecedit copulam, ita illa pars propositionis quae
+sequitur copulam dicitur praedicatum.
+57
+
+

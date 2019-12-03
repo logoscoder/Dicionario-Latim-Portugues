@@ -1,0 +1,41 @@
+Videtur autem, quemadmodum in planis figuris triangulus numerus primus est, sic in solidis, qui vocatur
+pyramis, profunditatis esse principium. Omnium quippe ratarum in numeris figurarum necesse est invenire
+primordia. Est autem pyramis alias a triangula basi in altitudinem sese erigens, alias a tetragona, alias a
+pentagona et secundum sequentium multitudines angulorum ad unum cacuminis verticem sublevata. Posito enim
+triangulo atque descripto si per tres angulos singulae lineae recte stantes ponantur, haeque tres inclinentur, ut ad
+unum medium punctum vertices iungant, fit pyramis, quae, cum a triangula basi profecta sit, tribus triangulis per
+latera concluditur hoc modo: Sit a b c triangulum. Si huic igitur triangulo per tres angulos erigantur lineae et ad
+unum punctum convertantur, quod est d, ita ut d punctum non sit in plano, sed pendens, illae scilicet lineae ad
+ipsum erectae verticem et quodammodo cacumen d facient et erit basis a b c unum triangulum, per latera vero
+tria triangula, id est unum triangulum a d b, aliud vero b d c, tertium c d a.
+De his pyramidis, quae a quadratis vel a ceteris multiangulis proficiscuntur figuris
+
+Tetragonum, pentagonum, exagonumque cum notatis
+Idem si a tetragona basi proficiscatur et ad unum verticem eius lineae dirigantur, erit pyramis quattuor
+triangulorum per latera, uno tantum tetragono in basi posito, super quam ipsa figura fundata est. Et si a
+pentagono surgant v lineae, quinque rursus pyramis triangulis continebitur, et si ab exagono, sex triangulis
+nihilominus; et quantoscunque angulos habuerit figura, super quam pyramis residet, tot ipsa per latera triangulis
+continetur, ut ex subiectis descriptionibus palam est.
+Solidorum generatio numerorum
+Dicuntur autem huiusmodi pyramides hoc modo: prima pyramis de triangulo, secunda pyramis de
+tetragono, tertia pyramis de pentagono, quarta pyramis de exagono, quinta pyramis de eptagono, idemque in
+ceteris constat numeris. Nam quoniam lineares numeros esse diximus, qui ab uno profecti in infinitum currerent,
+ut sunt j ij iij iiij v vj vij viij viiij x, his autem ordinatim compositis et ad se invicem cum distantia iunctis
+superficies nascebantur, ut, si unum et duo iungeres, primus triangulus nasceretur, id est tres, et cum his
+adiungeremus tertium, id est ternarium, senarius triangulus rursus occurreret, et post hos tetragoni uno
+intermisso, pentagoni vero duobus, exagoni tribus, eptagoni relictis quattuor nascebantur: nunc vero ad
+solidorum corporum procreationem ipsae nobis superficies naturaliter figuratae provenient. Et ad faciendas
+quidem pyramidas a triangulo ipsi nobis trianguli componendi sunt; ad procreandas vero pyramidas a tetragono
+tetragoni; ad eas vero, quae sunt a pentagono pentagoni copulandi sunt. Et illae, quae sunt ab exagono vel
+eptagono non nisi exagonorum vel eptagonorum copulatione nascentur. Primus ergo potestate triangulus est
+unitas eandemque etiam ponimus virtute pyramidam; secundus vero triangulus est ternarius, quem si cum primo
+coniunxero, id est cum unitate, quaternaria mihi profunditas pyramidis excrescit. At vero si his tertium,
+senarium, iunxero denaria pyramidis procreabitur altitudo. His si denarium iunxero viginti numerorum pyramis
+veniet, atque ita in cunctis aliis eadem ratio copulationis est.
+Trianguli
+j iij vj x xv xxj xxviij xxxvj xlv lv
+
+Pyramides a triangulis
+36
+
+

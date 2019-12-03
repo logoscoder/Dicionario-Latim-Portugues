@@ -1,0 +1,62 @@
+Expedito adiunctorum loco, nunc de antecedentibus et consequentibus et repugnantibus disserit. Qui locus sit
+unus in tria uelut membra diuisus est. M. quidem Tullius loci huius uocabulum tacuit, mihi autem totus conditionalis
+appellandus uidetur. Cuius cum promptissime natura claruerit, nomen quoque ei, quod nos posuimus, recte inditum
+manifestius apparebit.
+Primum igitur singularum partium definitio [1124C] prodenda est. Itaque antecedens est, quo posito aliud nec
+esse est consequatur: itemque consequens alicuius est, quod esse nec esse est, si illud cuius est consequens praecessisse
+constiterit. Repugnans est quod simul cum eo cui repugnare dicitur esse non possit.
+Antecedentium igitur, atque consequentium, et repugnantium, unum esse locum praediximus, qui quomodo sit
+unus, paucis ostendam. Primum igitur dum quaereretur quonam modo unus esset locus a consequentibus,
+antecedentibus et repugnantibus, dicebatur quoniam eiusdem mentis esset atque intelligentiae tam consentanea sibimet
+quam dissidentia praeuidere, idcirco hunc quoque locum unum uideri. Consentaneorum namque duae sunt partes,
+antecedens una, altera consequens. Nam [1124D] cum altero praecedente comitatur alterum, illa sibi in ipsa naturae
+consequentia consentire necesse est. Repugnantium uero tametsi duae partes sint, unum tamen est utriusque
+uocabulum, utraque enim repugnantia nominantur. Duae uero esse, quae sibimet repugnent, atque a se dissentiant
+nullus ignorat; sed eo distant, quod antecedentium et consequentium duo sunt nomina, licet unus sit utriusque
+consensus; repugnantibus uero unum nomen est, cum sit unus in utrisque dissensus, ergo eadem mens, eademque
+intelligentiae ratio id quod praecedit et id quod comitatur, intelligit. Neque enim fieri potest ut antecedens aliquid
+intelligatur, nisi in eodem quid sit consequens consideretur: eodem quoque modo [1125A] nec consequens, nisi
+appareat quid praecedat; item repugnans aliquod intelligere nemo potest, nisi intelligat cui repugnet: sed quoniam
+eadem ratio potest similia dissimiliaque perspicere, antecedentium uero et consequentium consensus quidam et per
+naturae similitudinem concordia est, dissensus uero in repugnantibus dissimilitudo, nec esse est ut una atque eadem
+ratio antecedentium consequentiumque naturam et repugnantium spectet; quo fit ut unus quoque locus sit eorum quae
+una intelligentia comprehendit.
+Sed huic opponebatur: Cur igitur alium ex similitudine, alium ex contrario locum Marcus Tullius superius
+enumerauit? Nam secundum propositam rationem, quoniam similitudinem et contrarietatem intelligentia una perpendit,
+unus locus similium contrariorumque [1125B] esse debuisset. Sed respondebatur quoniam non eodem modo sibi
+antecedentia et consequentia consentire dicuntur, sicut ea qum similia nuncupantur. In his namque una tantum qualitas
+inuenitur, et secundum eamdem qualitatem similia esse dicuntur; at in antecedentibus et consequentibus non qualitatis
+similitudo sed quidam naturae consensus est. Et quae similia sunt sine se esse possunt, antecedentia uero et
+consequentia sine se esse non possunt, atque idcirco non uidetur esse consequentium et antecedentium cum similitudine
+ulla communio naturae. Quae ratio non ualde uidentur idonea, nec explicat quod demonstrare conabatur.
+Illud certe firmissimum esse constat, quod huius loci tractatus conditionalibus semper propositionibus
+accomonodaretur. [1125C]
+Conditionalis uero propositio est quae cum conditione pronuntiat esse aliquid, si aliud fuerit, ueluti cum
+dicimus:
+Si dies est, lucet.
+Haec igitur rerum consequentia facile in repugnantiam uertitur. Nam si rebus consequentibus negatio
+interponatur, ex consequentibus repugnantia redduntur, hoc modo:
+Si dies est, lux est.
+Repugantia sunt ita:
+Si dies est, lux non est
+repugnant enim diem esse et lucem non esse. Quae repugnantia in conditione consistit. Dicimus enim:
+Si dies est, lux non est
+nam diei contrarium est nox. Consequens uero noctis, lucem non esse , quare esse diem et non esse lucem
+repugnat.
+Argumentum uero est, hanc repugnantiam in conditione consistere, quia si conditio deficiat, nulla est
+repugnantia, hoc modo:
+Dies est
+Lux [1125D] non est
+utraeque enim disiunctae propositiones suas sententias gerunt, nec quidquam intelliguntur habere commune,
+atque ideo diuersis acceptae temporibus uerae sunt, nec repugnant. Nam sicut in his propositionibus, dies est, lux est,
+nulla est consequentia, quoniam conditio deest, quae propositionem facit connexam sed utraeque a se disiunctae suam
+sententiam claudunt, ita in his quibus proponitur, dies est, lux non est nulla est repugnantia, quoniam seruat suam
+utraque separata sententiam. At si his conditio interueniat superiorum quidem, ita sententia copulatur, ut consequentes
+fiant, posteriorum uero ita ut repugnantes, hoc modo:
+Si dies est, lux est.
+Haec consequens propositio ex duabus [1126A] per conditionem mediam effecta est una. At si sit ita, si dies
+est, lux non est, repugnat. Negatum enim quod sequitur repugnare necesse est.
+Amplius, argumentum quod ex antecedentibus et consequentibus fit ex unius propositionis connexae partibus
+nascitur, nam conditionalis propositionis connexae una pars est antecedens, alia consequens. Quod si a repugnantibus
+
+

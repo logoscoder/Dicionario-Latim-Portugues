@@ -1,0 +1,61 @@
+RA1
+Ad primum ergo dicendum, quod ideae non plurificantur nisi secundum diversos respectus ad res: non est autem
+inconveniens relationes rationis in infinitum multiplicari, ut Avicenna dicit.
+RA2
+Ad secundum dicendum, quod si loquamur de idea proprie, secundum quod est rei, eo modo quo est in esse
+producibilis; sic una idea respondet singulari, speciei, et generi, individuatis in ipso singulari, eo quod socrates,
+homo et animal non distinguuntur secundum esse. Si autem accipiamus ideam communiter pro similitudine vel
+ratione, sic, cum diversa sit consideratio socratis ut socrates est, et ut homo est, et ut est animal, respondebunt ei
+secundum hoc plures ideae vel similitudines.
+RA3
+Ad tertium dicendum, quod quamvis aliquid sit a casu respectu proximi agentis, nihil tamen est a casu respectu
+agentis qui omnia praecognoscit.
+RA4
+Ad quartum dicendum, quod mulus habet speciem mediam inter asinum et equum; unde non est in duabus
+speciebus, sed in una tantum, quae est effecta per commixtionem seminum, inquantum virtus activa maris non
+potuit perducere materiam feminae ad terminos propriae speciei perfectae, propter materiae extraneitatem, sed
+perduxit ad aliquid propinquum suae speciei; et ideo eadem ratione assignatur idea mulo et equo.
+|q4 Quaestio 4
+Prologus
+PR1
+Primo utrum verbum proprie dicatur in divinis.
+PR2
+Secundo utrum verbum in divinis dicatur essentialiter vel personaliter tantum.
+PR3
+Tertio utrum verbum spiritui sancto conveniat.
+PR4
+Quarto utrum pater dicat creaturam verbo quo dicit se.
+PR5
+Quinto utrum hoc nomen verbum importet respectum ad creaturam.
+PR6
+Sexto utrum res verius sint in verbo vel in seipsis.
+PR7
+Septimo utrum verbum sit eorum quae nec sunt, nec erunt, nec fuerunt.
+PR8
+Octavo utrum omne quod factum est, sit vita in verbo.
+|a1 Articulus 1
+TTA
+Quaestio est de verbo.
+Et primo quaeritur utrum verbum proprie dicatur in divinis.
+TTB
+Et videtur quod non.
+AG1
+Est enim duplex verbum, scilicet interius et exterius. Exterius autem de Deo proprie dici non potest, cum sit
+corporale et transiens; similiter nec verbum interius, quod Damascenus definiens, dicit, in II libro: sermo interius
+dispositus est motus animae in excogitativo fiens, sine aliqua enuntiatione. In Deo autem non potest poni nec
+motus nec cogitatio, quae discursu quodam perficitur. Ergo videtur quod verbum nullo modo proprie dicatur in
+divinis.
+AG2
+Praeterea, Augustinus in XV de trinit.
+Probat, quod verbum quoddam est ipsius mentis, ex hoc quod etiam eius aliquod os esse dicitur, ut patet Matth.,
+XV, 11: quae procedunt de ore, haec coinquinant hominem; quod de ore cordis intelligendum esse ostenditur ex
+his quae sequuntur: quae autem procedunt de ore, de corde exeunt.
+Sed os non dicitur nisi metaphorice in spiritualibus rebus. Ergo nec verbum.
+AG3
+Praeterea, verbum ostenditur esse medium inter creatorem et creaturas, ex hoc quod Ioan. I, 3, dicitur: omnia per
+ipsum facta sunt; et ex hoc ipso probat Augustinus, quod verbum non est creatura. Ergo eadem ratione potest
+probari quod verbum non sit creator; ergo verbum nihil ponit quod sit in Deo.
+AG4
+81
+
+

@@ -1,0 +1,62 @@
+Circa secundam probationem quaeritur de veritate, et quaeruntur tria: 1 quid sit veritas; 2 utrum omnia sint vera
+una veritate, quae est veritas increata, sive prima; 3 de conditionibus veritatis, scilicet aeternitate et
+incommutabilitate ejus.
+|a1 Articulus 1: Utrum veritas sit essentia rei.
+AG1
+Ad primum sic proceditur. Videtur quod veritas sit idem quod essentia. Dicit enim Augustinus, quod verum est
+id quod est, et ab aliis dicitur quod verum est indivisio esse et ejus quod est. Ergo unumquodque dicitur verum,
+secundum quod habet esse. Esse autem est actus essentiae. Ergo cum unumquodque veritate formaliter sit verum,
+videtur quod omnino idem sit veritas et essentia.
+AG2
+Praeterea, quaecumque differunt re vel ratione unum potest intelligi sine altero, unde etiam secundum boetium,
+potest intelligi Deus, non intellecta ejus bonitate. Sed essentia rei non potest intelligi sine veritate. Ergo essentia
+rei et veritas non differunt neque re neque ratione.
+AG3
+Item, quidquid differt secundum rationem ab ente, se habet ex additione ad illud. Sed quod habet se ex additione
+ad aliquid, contrahit et determinat illud, sicut se habet homo ad animal. Cum igitur verum non contrahat ens
+(quia verum et ens convertuntur), videtur quod veritas neque re neque ratione ab essentia differat.
+AG4
+Praeterea, Anselmus dicit, quod veritas est rectitudo sola mente perceptibilis.
+Constat autem quod loquitur metaphorice de rectitudine, quia rectitudo proprie dicta est passio continui. Sed
+bonitas et justitia secundum propriam rationem habent quod sint rectitudo sola mente perceptibilis. Ergo videtur
+quod veritas re et ratione sit idem quod bonitas et justitia.
+AG5
+Contra, contingit aliquid verum dicere et de ente et de non ente. Sed non entia non habent essentiam. Cum ergo
+omne verum veritate sit verum, videtur quod veritas non sit idem quod essentia.
+AG6
+Praeterea, veritas est sola mente perceptibilis, ut patet per Anselmum. Sed illud quod est sola mente perceptibile
+non est in sensibilibus sed tantum in intelligibilibus; essentia autem est utriusque. Ergo essentia et veritas non
+sunt idem.
+AG7
+Item, veritas et falsitas sunt tantum in complexis; quia singulum incomplexorum neque verum neque falsum est.
+Sed essentia est rerum incomplexarum.
+Ergo non est idem quod veritas.
+AG8
+Item, veritati opponitur falsitas. Sed falsitatem contingit invenire in entibus, sicut dicimus aurum falsum: sed de
+ente non dicitur non ens.
+Ergo falsum non est idem quod non ens; ergo nec veritas est idem quod essentia; quia si contrarium de contrario
+non praedicatur ut idem, nec oppositum de opposito.
+CO
+Respondeo dicendum, quod eorum quae significantur nominibus, invenitur triplex diversitas.
+Quaedam enim sunt quae secundum esse totum completum sunt extra animam; et hujusmodi sunt entia completa,
+sicut homo et lapis. Quaedam autem sunt quae nihil habent extra animam, sicut somnia et imaginatio chimerae.
+Quaedam autem sunt quae habent fundamentum in re extra animam, sed complementum rationis eorum quantum
+ad id quod est formale, est per operationem animae, ut patet in universali. Humanitas enim est aliquid in re, non
+tamen ibi habet rationem universalis, cum non sit extra animam aliqua humanitas multis communis; sed
+secundum quod accipitur in intellectu, adjungitur ei per operationem intellectus intentio, secundum quam dicitur
+species: et similiter est de tempore, quod habet fundamentum in motu, scilicet prius et posterius ipsius motus;
+sed quantum ad id quod est formale in tempore, scilicet numeratio, completur per operationem intellectus
+numerantis. Similiter dico de veritate, quod habet fundamentum in re, sed ratio ejus completur per actionem
+intellectus, quando scilicet apprehenditur eo modo quo est. Unde dicit Philosophus, quod verum et falsum sunt in
+anima; sed bonum et malum in rebus. Cum autem in re sit quidditas ejus et suum esse, veritas fundatur in esse rei
+magis quam in quidditate, sicut et nomen entis ab esse imponitur; et in ipsa operatione intellectus accipientis esse
+rei sicut est per quamdam similationem ad ipsum, completur relatio adaequationis, in qua consistit ratio veritatis.
+Unde dico, quod ipsum esse rei est causa veritatis, secundum quod est in cognitione intellectus.
+Sed tamen ratio veritatis per prius invenitur in intellectu quam in re: sicut etiam calidum et frigidum et aliae
+causae sanitatis sunt causa sanitatis quae est in animali, et tamen animal per prius dicitur sanum et signa sanitatis
+et causa sanitatis dicuntur sana secundum analogiam ad sanum quod de animali dicitur. Unde dico, quod verum
+per prius dicitur de veritate intellectus, et de enuntiatione dicitur inquantum est signum illius veritatis; de re
+autem dicitur, inquantum est causa. Unde res dicitur vera quae nata est de se facere veram apprehensionem
+175
+
+

@@ -1,0 +1,62 @@
+Homo non ambulat
+non ad contrarias sed ad subcontrarias mens ducitur auditoris. /159/
+Quocirca possunt indefinitae aliquando significare contraria, quoniam eo ipso quod sunt indefinitae nihil eas
+prohibet ad contrariorum significationem uniuersaliumque reduci.
+Et haec quidem sententia habet aliquid rationis, non tamen integre id quod ab Aristotele dicitur ostendit. Et
+meliorem sententiam sponte reiecit, quam post Porphyrius approbauit. Sunt enim quaedam negationes quae intra se
+affirmationis eius quam negant retineant contrarietatem, ut in eo quod est:
+Sanus est
+Non est sanus
+id quod dicitur -- "Non est sanus" -- significat "Aeger est", quod est contrarium sano esse. Rursus cum
+dicimus:
+Homo albus est
+si contra hanc negemus per eam quae dicit:
+Homo albus non est
+significare poterit quoniam homo niger est (nam qui niger est albus non est) sed nigrum esse et album esse
+contrarium est. Quare significant quaedam negationes affirmationesque contraria sed hoc non semper. Nam in eo quod
+est:
+Homo ambulat
+Homo non ambulat
+nullum contrarium continetur. Ambulationi enim nihil est contrarium.
+Atque ideo dicit has quidem contrarias non esse, idcirco quod cum sint uniuersales non uniuersaliter
+enuntientur, posse autem aliquotiens contraria significare, cum intra negationem contrarium affirmationis includitur.
+Aspasius uero et Alexandri et hanc posteriorem probauit. Nos uero dicimus non quidem Alexandri sententiam
+abhorrere ratione sed hanc esse meliorem. /160/ Nam quod ait QUANDO AUTEM IN UNIVERSALIBUS NON
+UNIVERSALITER, NON SUNT CONTRARIAE, QUAE AUTEM SIGNIFICANTUR EST ESSE CONTRARIA, ab
+Alexandro non est expositum sed tantum dictum quando possint esse propositiones ipsae contrariae. A Porphyrio uero
+expositum diligenter est quando ea quae significantur possint esse contraria, quod ipse Aristotelis textus expressit.
+Quamquam Alexander quoque eandem quam Porphyrius posuit uiderit expositionem, eam tamen (ut dictum est) sponte
+reiecit et sibi huius expositionis confirmauit sententiam displicere. Mihi uero aut utraeque recipiendae expositiones
+uidentur aut melior iudicanda posterior. Hoc enim ipse quoque Aristoteles quodammodo subter ostendit cum dicit:
+SIMUL ENIM VERUM EST DICERE QUONIAM EST HOMO ALBUS ET NON EST HOMO ALBUS, ET EST
+HOMO PROBUS ET NON EST HOMO PROBUS. SI ENIM TURPIS, ET NON PROBUS; ET SI FIT ALIQUID, ET
+NON EST. Cuius quidem loci quae sit expositio, cum ad id uenerimus, demonstrabimus.
+Cognoscendum autem est et memoria retinendum, quod quaecumque propositiones uniuersales uniuersaliter
+fuerint praedicatae, si hae affirmatiuae, illae uero sint negatiuae, semper utrasque esse contrarias, si nihil
+aequiuocationis aut temporis aut aliorum quae supra determinata sunt ad faciendam oppositionem contrarietatis
+impediat. Non tamen omnes quaecumque contrariae sunt, hae aut in uniuersalibus uniuersaliter ponunt enuntiationem
+aut una affirmatiua est, altera negatiua, ut in eo quod est:
+Socrates sanus est
+Socrates aeger est
+Hic enim neque in uniuersali uniuersalitas posita est neque /161/
+rursus una est affirmatio, altera uero negatio sed sunt contrariae propositiones. Contraria enim sunt quae
+significant quocirca rectissime dictum est, quod quaecumque in uniuersalibus rebus uniuersaliter enuntiarent, si una
+earum esset affirmatiua, altera negatiua, statim naturaliter essent contrariae: quae autem contrariae essent, non necesse
+esse eas uel uniuersale uniuersaliter enuntiare uel unam esse affirmatiuam, alteram negatiuam sed aliquotiens quidem
+posse has esse contrarias, quae uniuersale in uniuersalibus non significarent sed hoc in his tantum quae essent in
+subiecto de quo fit affirmatio naturaliter, ut in eo quod est animal et homo. Cum dicimus:
+Homo animal est
+<Homo animal non est>
+quoniam inest in natura hominis animal, idcirco haec affirmans illa negans uidentur esse contraria, quamquam
+illic nulla determinatio neque particularitatis neque uniuersalitatis addatur...
+***
+IN EO VERO, QUOD PRAEDICATUR UNIVERSALE, UNIVERSALE PRAEDICARE UNIVERSALITER
+NON EST VERUM; NULLA ENIM AFFIRMATIO ERIT, IN QUA DE UNIVERSALI PRAEDICATO
+UNIVERSALE PRAEDICETUR, UT OMNIS HOMO OMNE ANIMAL EST.
+Quod dicit huiusmodi est: omnis propositio simplex duobus terminis constat. His saepe additur aut
+uniuersalitatis aut particularitatis determinatio. Sed ad /162/ quam partem hae determinationes addantur exponit uidetur
+enim Aristoteli praedicato termino terminationem non oportere coniungi. In hac enim propositione quae est:
+Homo animal est
+quaeritur, subiectumne debeat cum determinatione dici, ut sit:
+
+

@@ -1,0 +1,56 @@
+Est autem primo sciendum quod 'relatiuum', secundum quod grammatici utuntur relatiuo, quoddam
+uocatur relatiuum substantiae, quoddam uocatur relatiuum accidentis. Relatiuum substantiae uocatur sicut 'iste',
+'ille',
+'idem'. Relatiua accidentis uocantur illa quae imponuntur aliquo modo uel deriuantur a pluribus
+accidentibus, sicut 'talis', 'tantus', 'tot' et huiusmodi.
+'idem'. Relatiua accidentis uocantur illa quae imponuntur aliquo modo uel deriuantur a pluribus
+accidentibus, sicut 'talis', 'tantus', 'tot' et huiusmodi.
+Relatiua substantiae quaedam sunt relatiua identitatis, quaedam diuersitatis. Relatiuorum identitatis
+quaedam sunt non reciproca, quaedam sunt reciproca. Non reciproca sunt sicut 'ille', 'idem' et sic de aliis.
+Relatiua substantiae quaedam sunt relatiua identitatis, quaedam diuersitatis. Relatiuorum identitatis
+quaedam sunt non reciproca, quaedam sunt reciproca. Non reciproca sunt sicut 'ille', 'idem' et sic de aliis.
+Et de istis dantur regulae: quod semper supponunt pro illo pro quo supponunt sua antecedentia, ita quod
+pro eodem uerificantur, si uerificentur. Sicut patet hic 'Sortes currit et ille disputat': ad hoc quod ista copulatiua
+sit uera requiritur quod secunda pars uerificetur pro illo eodem pro quo prima pars uer1ficatur. Similiter hic
+'homo est species et ille praedicatur de pluribus'.
+Et de istis dantur regulae: quod semper supponunt pro illo pro quo supponunt sua antecedentia, ita quod
+pro eodem uerificantur, si uerificentur. Sicut patet hic 'Sortes currit et ille disputat': ad hoc quod ista copulatiua
+sit uera requiritur quod secunda pars uerificetur pro illo eodem pro quo prima pars uer1ficatur. Similiter hic
+'homo est species et ille praedicatur de pluribus'.
+Unde sciendum est quod tale relatiuum numquam debet poni in eadem categorica cum suo antecedente,
+sic dicendo 'Sortes est ille', nam hic li ille est pronomen demonstratiuum et non relatiuum.
+Unde sciendum est quod tale relatiuum numquam debet poni in eadem categorica cum suo antecedente,
+sic dicendo 'Sortes est ille', nam hic li ille est pronomen demonstratiuum et non relatiuum.
+Similiter sciendum quod numquam, quando antecedens relatiui est terminus communis supponens
+personaliter, est licitum ponere antecedens loco relatiui ad habendum propositionem conuertibilem et
+aequiualentem. Sicut istae non aequipollent 'homo currit et ille disputat', 'homo currit et homo disputat'. In aliis
+casibus contingit, nam istae aequipollent 'Sortes currit et ille disputat', 'Sortes currit et Sortes disputat'.
+Similiter sciendum quod numquam, quando antecedens relatiui est terminus communis supponens
+personaliter, est licitum ponere antecedens loco relatiui ad habendum propositionem conuertibilem et
+aequiualentem. Sicut istae non aequipollent 'homo currit et ille disputat', 'homo currit et homo disputat'. In aliis
+casibus contingit, nam istae aequipollent 'Sortes currit et ille disputat', 'Sortes currit et Sortes disputat'.
+Similiter est sciendum quod negatio numquam facit relatiuum stare confuse et distributiue, sed semper
+supponit pro illo praecise pro quo uerificatur suum antecedens, uel denotatur uerificari. Unde haec est uera
+'aliquis homo est Plato et Sortes non est ille', et tamen non sequitur 'igitur Sortes non est homo', sed sufficit quod
+haec sit uera 'Sortes non est Plato'. Et ita de uirtute sermonis ista duo stant simul 'aliquis homo currit et Sortes
+non est ille' et 'aliquis homo currit et Sortes est ille', quia si Sortes et
+Plato currant utraque istarum copulatiuarum est uera.
+Plato currant utraque istarum copulatiuarum est uera.
+Circa relatiua identitatis reciproca sciendum quod differunt in hoc ab allis quod possunt indifferenter
+poni in eadem categorica cum suo antecedente et in alia. Sicut patet de istis relatiuis 'se', 'suus'; nam bene dicitur
+'Sortes disputat et uidet se'; similiter bene dicitur 'Sortes uidet se'; similiter bene dicitur 'Sortes uidet suum
+asinum'; et bene dicitur 'Sortes currit et suus asinus ambulat'.
+Circa relatiua identitatis reciproca sciendum quod differunt in hoc ab allis quod possunt indifferenter
+poni in eadem categorica cum suo antecedente et in alia. Sicut patet de istis relatiuis 'se', 'suus'; nam bene dicitur
+'Sortes disputat et uidet se'; similiter bene dicitur 'Sortes uidet se'; similiter bene dicitur 'Sortes uidet suum
+asinum'; et bene dicitur 'Sortes currit et suus asinus ambulat'.
+Et est sciendum quod aliqinando relatiuum est pars extremi et aliquando est extremum. Quando est
+extremum, ita scilicet quod sequitur uel praecedit immediate uerbum, tunc supponit pro illo pro quo supponit
+suum antecedens; sicut in istis 'Sortes uidet se', 'omnis homo uidet se'. Sed quando est pars extremi tunc non
+supponit pro illo pro quo supponit suum antecedens, sed supponit pro aliquo importato per illud cui additur.
+Sicut patet hic
+'Sortes disputat et suus asiiius currit'. Hic li suus non supponit pro
+Sorte, sed supponit pro asiiio Sortis et non pro alio asino.
+143
+
+

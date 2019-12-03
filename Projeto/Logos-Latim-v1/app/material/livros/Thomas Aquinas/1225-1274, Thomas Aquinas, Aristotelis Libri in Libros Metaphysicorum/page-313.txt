@@ -1,0 +1,56 @@
+Et circa hoc facit tres rationes. Quarum prima est, quod si duo homines debeant adinvicem communicare
+rationem, ut scilicet unus alteri rationem suam communicet disputando, oportet unum ipsorum intelligere aliquid,
+quod ab alio dicitur: quia si hoc non esset, non communicarent adinvicem in sermone secundum rationem. Et ita
+frustra acciperetur disputatio contra eum, qui hoc negaret.
+|#6 Si autem unus ex eis intelligeret quod alius dicit, oportet quod unumquodque nominum quae proferuntur, sit
+notum in sua significatione; et per consequens, quod significet aliquid, et non multa, sed solum unum. Et si
+significet multa, quod manifestetur ad quod illorum multorum significandum utatur nomine; alias nesciret unus,
+quid alius vellet dicere.
+|#7 Hoc igitur supposito, quod nomen significet unum, manifestum est, quod ille, qui dicit esse hoc, et non est
+hoc, puta quod socrates est homo, et non homo, illud unum quod attribuit socrati, quod scilicet est homo, negat
+cum adiungit quod non est homo: et sic negat iam quod primo significavit. Unde relinquitur quod nomen non
+significet id quod significat, quod est impossibile. Sequitur ergo quod si nomen aliquid determinate significat,
+quod impossibile est contradictionem verificari de eodem.
+|#8 Secundam rationem ponit ibi, adhuc autem quae talis est. Si nomen significet aliquid, et hoc quod
+significatur per nomen verificatur de eodem de quo primo praedicatur nomen, necesse est hoc inesse ei, de quo
+praedicatur nomen, dum propositio vera fuit. Manifestum est enim quod haec conditionalis est vera - si socrates
+est homo, socrates est homo. Omnis autem conditionalis vera est necessaria. Unde necesse est, quod si
+consequens sit verum quod antecedens sit verum; quoniam concluditur quod necesse est quamlibet
+propositionem esse veram dum vera est. Sed quod est aliquando non contingit tunc non esse, quia necesse esse et
+non contingens non esse aequipollent. Ergo dum haec est vera - socrates est homo - non contingit hanc esse
+veram - socrates non est homo. Et sic patet quod non contingit oppositas affirmationes et negationes simul
+verificari de eodem.
+|#9 Tertiam rationem ponit ibi, adhuc autem quae talis est. Si affirmatio non est vera magis quam negatio ei
+opposita, ille qui dicit socratem esse hominem, non magis verum dicit quam ille qui dicit socratem non esse
+hominem. Sed manifestum est, quod ille qui dicit hominem non esse equum, aut magis verum dicit, aut non
+minus, quam ille, qui dicit hominem non esse hominem. Ita ergo per locum a simili vel a minori, verum dicet,
+qui hominem dicet non esse equum. Sed, si opposita contradictorie sunt simul vera: si haec est vera - homo non
+est equus,- et haec erit vera - homo est equus. Et ita sequitur, quod homo sit equus et quodcumque aliud
+animalium.
+|#10 Sed, quia posset aliquis calumniari praedictas rationes, ex hoc quod ea quae assumuntur in eis sunt minus
+nota quam conclusio quae intenditur; ideo respondet dicens quod nulla praedictarum rationum est demonstrativa
+simpliciter, sed tamen potest esse demonstratio ad hominem qui ponit hanc rationem, quem oportebit concedere
+ea quae assumuntur, licet sint minus nota simpliciter quam id quod negat.
+|#11 Deinde cum dicit cito autem excludit praedictum errorem descendendo ad speciales opinantes.
+Et primo ad Heraclitum. Secundo ad Protagoram, ibi, simile autem.
+Ponebat autem Heraclitus duo, scilicet quod affirmatio et negatio sit simul vera.
+Ex quo sequebatur quod omnis propositio tam affirmativa quam negativa sit vera.
+Item ponebat quod inter affirmationem et negationem sit aliquod medium. Et sic sequebatur quod contingeret
+neque affirmationem neque negationem esse veram. Et per consequens omnem propositionem esse falsam.
+|#12 Primo ergo inducit rationem contra primum. Secundo contra secundum, ibi, adhuc autem.
+Dicit ergo, quod de facili aliquis hoc modo disputando ad hominem coget ipsum Heraclitum, qui fuit auctor
+huius propositionis, confiteri quod oppositae propositiones non verificantur de eodem. Videtur enim hanc
+opinionem accepisse quod verificentur de eodem, ex hoc quod non intellexit seipsum quid diceret. Hoc autem
+modo cogeretur negare quod dicit: quia si illud quod dictum est ab eo, verum est, scilicet quod contingat idem
+secundum unum et idem tempus esse et non esse, sequitur quod hoc ipsum non erit verum.
+Sicuti enim si divisim accipiantur affirmatio et negatio, non magis vera est affirmatio quam negatio, ita et si
+accipiantur affirmatio et negatio simul tamquam ex eis una affirmatio fiat, non erit minus negatio vera huius
+totius compositi ex affirmatione et negatione, quam ipsa tota affirmatio opposita.
+Manifestum est enim quod contingit aliquam propositionem copulativam esse veram, sicut aliquam simplicem
+propositionem, et contingit accipere eius negationem.
+Sive autem illa copulativa componatur ex duabus affirmativis, sicut cum dicitur - socrates sedet et disputat,- sive
+ex duabus negativis, sicut cum dicitur - verum esse socratem non esse lapidem neque asinum,- sive ex
+affirmatione et negatione, ut cum dicitur,- verum est socratem sedere et non disputare,- semper tamen copulativa
+313
+
+

@@ -1,0 +1,52 @@
+collectio. Ut etiam communiter definiamus: proportionalitas est duarum vel plurium proportionum similis
+habitudo, etiamsi non eisdem quantitatibus et differentiis constitutae sint. Differentia vero est inter numeros
+quantitas. Proportio est duorum terminorum ad se invicem quaedam habitudo et quasi quodammodo continentia,
+quorum compositio quod efficit, proportionale est. Ex iunctis enim proportionibus proportionalitas fit. In tribus
+autem terminis minima proportionalitas invenitur. Fit etiam in pluribus, sed longior; ut binarius ad unum,
+quoniam duo sunt termini, duplam obtinet proportionem. Sin vero quattuor contra duo compares, hic quoque
+dupla proportio est. Quos tres terminos si continue consideres, ex duabus proportionibus fit proportionalitas et
+est proportionalitas unum ad duo et duo ad quattuor. Est enim proportionalitas, ut dictum est, collectio
+proportionum in unumque redactio. Fit etiam et in longioribus. Nam si quattuor illis octo velis adiungere et his
+xvj et his xxxij et deinceps duplos, qui sequuntur, fit in omnibus dupla proportionalitas ex proportionibus duplis.
+Igitur quotiens unus atque idem terminus ita duobus circum se terminis communicat, ut ad unum dux sit, ad
+alium comes, haec proportionalitas continua vocatur, ut unus, duo, quattuor. Est enim aequalitas in his
+proportionibus et quemadmodum sunt iiij ad ij, sic sunt ij ad unum, et rursus quemadmodum unus ad duo, sic
+duo ad quattuor. Et secundum quantitatem quoque numeri eodem modo est. Quantum enim tres superant
+binarium, tantum binarius unitatem, et quanto unus a duobus minor est, tanto binarius a ternario superatur. Sin
+vero alius ad unum refertur terminus, alius vero ad alium, necesse est habitudinem disiunctam vocari, ut ad
+qualitatem quidem proportionis sunt: j ij iiij viij. Sic enim sunt quemadmodum duo ad unum, sic octo ad
+quattuor, et conversim: quemadmodum unus ad duo, sic quattuor ad octo, et permutatim: quemadmodum
+quattuor ad unum, sic octo ad binarium. Secundum quantitatem vero numeri, ut sunt: j ij iij iiij. Quantum enim
+unus a duobus vincitur, tantum ternarius a quaternario superatur, et quanto duo unum vincunt, tanto ternarium
+quaternarius transit. Permixtim etiam: quanto unus tribus minor est, tanto binarius quaternario, vel quanto
+ternarius unitatem superat, tanto binarium transgreditur quaternarius.
+Quae apud antiquos proportionalitas fuerit; quas posteriores addiderint
+Confessae quidem et apud antiquiores notae, quaeque ad Pythagorae vel Platonis vel Aristotelis scientiam
+pervenerunt, hae tres medietates sunt: arithmetica, geometrica, armonica. Post quas proportionum habitudines
+tres aliae sunt, quae sine nomine feruntur quidem, vocantur autem quarta, quinta, sexta, quae superius dictis
+oppositae sunt. At vero posteri propter denarii numeri perfectionem, quod erat Pythagorae conplacitus,
+medietates alias quattuor addiderunt, ut in his proportionalitatibus denariae quantitatis corpus efficerent.
+Secundum quem numerum et priores quinque habitudines comparationesque descriptae sunt, ubi quinque
+maioribus proportionibus, quos vocavimus duces, minores aptavimus alios terminos, quos comites diximus. Inde
+etiam in Aristotelica atque Archytae prius decem praedicamentorum descriptione Pythagoricum denarium
+manifestum est inveniri; quando quidem et Plato, studiosissimus Pythagorae, secundum eandem disputationem
+dividit, et Archytas Pythagoricus ante Aristotelem, licet quibusdam sit ambiguum, decem haec praedicamenta
+constituit. Inde etiam decem membrorum particulae, inde alia permulta, quae omnia persequi non est necesse.
+Quod primum de ea, quae vocatur arithmetica proportionalitas, dicendum sit
+Nunc vero de proportionalitatibus deque medietatibus dicendum est, et primum quidem de ea medietate
+tractabimus, quae secundum quantitatis aequalitatem neglecta proportionis parilitate constitutorum terminorum
+habitudines servat. In his autem quantitatibus medietas ista versatur, inque his speculanda est, in quibus a se ipsis
+termini differunt. Quid autem esset differentia terminorum superius definitum est. Hanc autem esse arithmeticam
+medietatem numerorum, ipsa ratio declarabit, quoniam eius proportio in numeri quantitate consistit. Quae igitur
+causa est, huiusmodi terminorum habitudinem, id est arithmeticam, cunctis aliis proportionalitatibus anteponere?
+Primum, quod hanc nobis in principio ipsa numerorum natura et vis naturalis quantitatis obponit. Huiusmodi
+enim proportiones quaeque ad terminorum differentias pertinent, ut paulo post demonstrabitur, in naturalis
+primum numeri dispositione cognoscimus.
+Deinde, quod in superiore libro disputantibus nobis. apparuit, arithmeticam vim geometrica atque musica
+esse antiquiorem et quod inlata non has simul inferret, sublata vero perimeret. Quare ordine disputatio
+progredietur, si ab ea primo inchoandum sit medietate, quae in numeri differentia non in proportionis
+speculatione versatur.
+De arithmetica medietate eiusque proprietatibus
+48
+
+

@@ -1,0 +1,54 @@
+'si Sortes non sit magister, Sortes non legit'. Et uniuersaliter, quando dute propositiones coniunguntur
+mediante aliqua coniunctione, et totum aequiualet uni condicionali, illa propositio dicetur hypothetica et
+condicionalis.
+Est etiam sciendum quod ad ueritatem condicionalis nec requiritur ueritas antecedentis nec ueritas
+consequentis, immo est aliquando condicionalis necessaria et quaelibet pars eius est impossibilis, sicut hic 'si
+Sortes est asinus, Sortes est rudibilis'.
+Est etiam sciendum quod ad ueritatem condicionalis nec requiritur ueritas antecedentis nec ueritas
+consequentis, immo est aliquando condicionalis necessaria et quaelibet pars eius est impossibilis, sicut hic 'si
+Sortes est asinus, Sortes est rudibilis'.
+[2.32 DE PROPOSITIONE COPULATIVA ET QUID REQUIRITUR AD VERITATEM EIUS]
+[2.32 DE PROPOSITIONE COPULATIVA ET QUID REQUIRITUR AD VERITATEM EIUS]
+Capulatiua est illa quae componitur ex pluribus categoricis coniunctis mediante hac coniunctione 'et' uel
+mediante aliqua parte aequiualente tali coniunctioni. Sicut ista est capulatiua 'Sortes currit et Plato disputat'.
+Similiter ista est copulatiua 'Sortes nec est albus nec niger'; similiter ista 'Sortes est tam albus quam calidus'; quia
+prima aequiualet isti 'Sortes non est albus et Sortes non est niger', et secunda isti
+'Sortes est albus et Sortes est calidus'.
+'Sortes est albus et Sortes est calidus'.
+Ad ueritatem autem copulatiuae requiritur quod utraque pars sit uera, et ideo si quaecumque pars
+copulatiuae sit falsa, ipsa copulatiua est falsa. Et similiter ad necessitatem copulatiuae requiritur quod quaelibet
+pars sit necessaria. Et ad hoc quod sit possibilis requiritur quod utraque pars sit possibilis. Sed ad hoc quod sit
+impossibilis non requiritur quod utraque pars sit impossibilis, nam haec est impossibilis 'Sortes sedet et non
+sedet', et tamen utraque pars est possibilis; sed ad hoc quod copulatiua sit impossibilis requiritur quod altera pars
+sit impossibilis uel quod una sit incompossibilis alteri, sicut haec est impossibilis
+'Sortes est albus et Sortes est asinus', quia haec est impossibilis 'Sortes est asinus', et haec est
+impossibilis 'Sortes sedet et non sedet', quia duae partes sunt incompossibiles.
+'Sortes est albus et Sortes est asinus', quia haec est impossibilis 'Sortes est asinus', et haec est
+impossibilis 'Sortes sedet et non sedet', quia duae partes sunt incompossibiles.
+Sciendum est etiam quod opposita contradictorie copulatiuae est una disiunctiua composita ex
+contradictoriis partium copulatiuae'. Et ideo idem requiritur et sufficit ad ueritatem oppositae copulatiuae quod
+sufficit et requiritur ad ueritatem disiunctiuae. Unde istae non contradicunt 'Sortes est albus et Plato est niger',
+'Sortes non est albus et Plato non est niger', sed illi copulatiuae contradicit ista 'Sortes non est albus uel
+Plato non est niger'.
+Plato non est niger'.
+Oportet autem scire quod semper a copulatiua ad utramque partem est consequentia bona, sicut sequitur
+'Sortes non currit et Plato disputat, ergo Plato disputat'; sed e conuerso est fallacia consequentis. Tamen
+sciendum est quod quandoque ab altera parte copulatiuae ad copulatiuam potest esse consequentia bona gratia
+materiae, puta si una pars copulatiuae inferat aliam, tunc ab illa parte ad totam copulatiuam est consequentia
+bona.
+Oportet autem scire quod semper a copulatiua ad utramque partem est consequentia bona, sicut sequitur
+'Sortes non currit et Plato disputat, ergo Plato disputat'; sed e conuerso est fallacia consequentis. Tamen
+sciendum est quod quandoque ab altera parte copulatiuae ad copulatiuam potest esse consequentia bona gratia
+materiae, puta si una pars copulatiuae inferat aliam, tunc ab illa parte ad totam copulatiuam est consequentia
+bona.
+[2.33 DE PROPOSITIONE DISIUNCTIVA]
+[2.33 DE PROPOSITIONE DISIUNCTIVA]
+Disiunctiua est illa quae componitur ex pluribus categoricis mediante hac caniunctione 'uel', uel
+mediante aliquo aequiualente sibi. Sicut ista est disiunctiua 'tu es homo uel asinus'; similiter ista est disiunctiua
+'tu es homo uel Sortes disputat'.
+Disiunctiua est illa quae componitur ex pluribus categoricis mediante hac caniunctione 'uel', uel
+mediante aliquo aequiualente sibi. Sicut ista est disiunctiua 'tu es homo uel asinus'; similiter ista est disiunctiua
+'tu es homo uel Sortes disputat'.
+208
+
+

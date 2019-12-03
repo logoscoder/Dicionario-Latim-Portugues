@@ -1,0 +1,53 @@
+'igitur Sortes incipit esse grammaticus'.
+'igitur Sortes incipit esse grammaticus'.
+Differt autem a suppositione confusa tantum, quia non contingit descendere ad disiunctum ex
+nominibus propriis illorum pro quibus terminus communis supponit. Non enim sequitur 'Sortes incipit esse
+grammaticus, igitur Sortes incipit esse iste uel ille', demonstrando omnes grammaticos.
+Differt autem a suppositione confusa tantum, quia non contingit descendere ad disiunctum ex
+nominibus propriis illorum pro quibus terminus communis supponit. Non enim sequitur 'Sortes incipit esse
+grammaticus, igitur Sortes incipit esse iste uel ille', demonstrando omnes grammaticos.
+Differt autem praedicta suppositio a suppositione determinata, quia non contingit descendere per
+disiunctiuam.
+Differt autem praedicta suppositio a suppositione determinata, quia non contingit descendere per
+disiunctiuam.
+Ratio autem quare terminus talis non habet aliquam praedictarum suppositionum est ista: quia semper
+illa propositio aequiualet uni copulatiuae ex duabus uel pluribus propositionibus, quarum aliqua est negatiua et alia affirmatiua de eodem subiecto, in quibus idem terminus habet diuersas suppositiones; et ideo
+nullam istarum habet in illa una propositione cuius exponentes sunt istae partes. Verbi gratia ista 'Sortes incipit
+esse albus' aequiualet isti copulatiuae 'Sortes nunc primo est albus et antea non erat albus'. Nunc autem in ista
+'Sortes est albus' li albus supponit determinate, in ista autem 'Sortes non fuit albus' li albus supponit confuse et
+distributiue, propter negationem praecedentem.
+tiua et alia affirmatiua de eodem subiecto, in quibus idem terminus habet diuersas suppositiones; et ideo
+nullam istarum habet in illa una propositione cuius exponentes sunt istae partes. Verbi gratia ista 'Sortes incipit
+esse albus' aequiualet isti copulatiuae 'Sortes nunc primo est albus et antea non erat albus'. Nunc autem in ista
+'Sortes est albus' li albus supponit determinate, in ista autem 'Sortes non fuit albus' li albus supponit confuse et
+distributiue, propter negationem praecedentem.
+Et si dicatur quod tunc in ista 'tantum animal est homo' secundum istam rationem subiectum non haberet
+suppositionem confusam tantum, eo quod illa aequiualet uni copulatiuae, cuius una pars est affirmatiua et alia
+negatiua, in quibus subiectum habet diuersam et non eandem suppositionem:
+Et si dicatur quod tunc in ista 'tantum animal est homo' secundum istam rationem subiectum non haberet
+suppositionem confusam tantum, eo quod illa aequiualet uni copulatiuae, cuius una pars est affirmatiua et alia
+negatiua, in quibus subiectum habet diuersam et non eandem suppositionem:
+Dicendum est quod in illa exclusiua affirmatiua subiectuni habet suppositionem confusam tantum, quia
+quamuis exponentes suae habeant subiecta quae habent diuersas suppositiones, quia tamen illa subiecta non sunt
+illud idem subiectum quod est subiectum exclusiuae, quia aliud est subiectum negatiuae exponentis et
+affirmatiuae, ideo poterit subiectum exclusiuae habere aliquam suppositionem illarum trium. Nunc autem in
+talibus propositionibus 'Sortes incipit esse grammaticus', 'Sortes desinit esse albus', 'Sortes bis fuit niger' idem est
+subiectum exponentium et propositionis expositae.
+Dicendum est quod in illa exclusiua affirmatiua subiectuni habet suppositionem confusam tantum, quia
+quamuis exponentes suae habeant subiecta quae habent diuersas suppositiones, quia tamen illa subiecta non sunt
+illud idem subiectum quod est subiectum exclusiuae, quia aliud est subiectum negatiuae exponentis et
+affirmatiuae, ideo poterit subiectum exclusiuae habere aliquam suppositionem illarum trium. Nunc autem in
+talibus propositionibus 'Sortes incipit esse grammaticus', 'Sortes desinit esse albus', 'Sortes bis fuit niger' idem est
+subiectum exponentium et propositionis expositae.
+[1.76. DE SUPPOSITIONE TERMINORUM RELATIVORUM, ACCIPIENDO
+RELATIVUM SICUT ACCIPIT GRAMMATICUS ET NON SICUT LOGICUS]
+RELATIVUM SICUT ACCIPIT GRAMMATICUS ET NON SICUT LOGICUS]
+Istis uisis de suppositione terminorum absolutorum, uidendum est de suppositione relatiuorum, non
+accipiendo 'relatiuum' illo modo quo logicus accipit, sed illo modo quo grammaticus accipit, secundum quod
+dicit quod
+'relatiuum est ante latae rei recordatiuum'
+'relatiuum est ante latae rei recordatiuum'
+
+142
+
+

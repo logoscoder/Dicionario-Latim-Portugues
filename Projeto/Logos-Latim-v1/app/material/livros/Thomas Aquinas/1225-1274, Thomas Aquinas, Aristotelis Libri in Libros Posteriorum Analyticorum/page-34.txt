@@ -1,0 +1,56 @@
+|#9 Deinde cum dicit: aliquando quidem igitur etc., ostendit quod per hunc modum syllogizandi non accidit
+deceptio in demonstrativis scientiis. Et circa hoc duo facit: primo, manifestat quod ex hoc modo syllogizandi non
+semper accidit deceptio, dicens quod aliquando, secundum praedictum modum arguendi, non contingit
+syllogizare ex acceptis, quando scilicet termini non sunt convertibiles. Non enim sequitur, si omnis homo est
+animal, quod quidquid est animal sit homo. Aliquando vero contingit syllogizare, scilicet in terminis
+convertibilibus. Sicut enim sequitur: si est homo, est animal rationale mortale; ita etiam sequitur e converso
+quod, si est animal rationale mortale, est homo. Sed tamen non videtur quod sequatur syllogistice, quia non
+servatur debita forma syllogismi.
+|#10 Secundo cum dicit: si autem esset impossibile etc., ostendit quod in demonstrativis scientiis contingit
+praedicto modo syllogizari absque deceptione. Et hoc ostendit tripliciter. Primo sic. Secundum praedictum
+modum syllogizandi accidit deceptio ex eo, quod non convertitur consequentia, quae putatur converti. In quo non
+accideret deceptio, si quemadmodum conclusio est vera, ita et praemissae sint verae: tunc enim in convertendo
+non accidet deceptio. Sicut si dicam de socrate: socrates est homo; ergo socrates est animal; nulla deceptio
+falsitatis sequitur, sicut si e converso arguatur sic: est animal; ergo est homo. Sed si praemissa est falsa,
+conclusione existente vera, tunc in convertendo accidit deceptio. Sicut si dicam: si asinus est homo, est animal;
+ergo si est animal, est homo.
+Si ergo impossibile esset ex falsis ostendere verum, et semper oporteret verum ostendi ex veris, tunc facile esset
+resolvere conclusionem in principia absque deceptione; quia nulla falsitas esset, si ex conclusione inferretur
+aliqua praemissarum.
+Tali enim suppositione facta, converterentur de necessitate conclusio et praemissa, quantum ad veritatem. Sicut
+enim praemissa existente vera, conclusio est vera, ita et e converso. Sit enim, quod a sit; et hoc posito, sequatur
+ea esse de quibus certum est mihi quod sunt vera, sicut b.
+Unde cum utrumque sit verum, ex hoc etiam, scilicet ex b, potero iterum inferre a. Sic ergo una ratio est, quare
+deceptio non accidit in demonstrativis scientiis per fallaciam consequentis, quia in demonstrativis scientiis
+impossibile est syllogizari verum ex falsis, sicut ostensum est supra.
+|#11 Secundam rationem ponit; ibi: convertuntur autem magis etc.. In terminis enim convertibilibus non accidit
+deceptio secundum fallaciam consequentis, eo quod in his consequentia convertitur.
+Illa vero, quae sunt in mathematicis, idest in demonstrativis scientiis, ut plurimum sunt convertibilia, quia non
+recipiunt pro medio aliquod praedicatum per accidens, sed solum definitiones, quae sunt demonstrationis
+principia, ut supra dictum est. Et in hoc differunt ab his, quae sunt in dialogis, idest in dialecticis syllogismis, in
+quibus frequenter recipiuntur accidentia.
+|#12 Tertiam rationem ponit ibi: augentur autem etc., quae talis est. In demonstrativis scientiis sunt determinata
+principia, ex quibus proceditur ad conclusiones. Unde ex conclusionibus potest rediri in principia, sicut ex
+determinato in determinatum.
+Quod autem demonstrationes ex determinatis principiis procedant, ex hoc ostendit, quia demonstrationes non
+augentur per media, idest in demonstrationibus non assumuntur plura media ad unam conclusionem
+demonstrandam.
+Quod intelligendum est in demonstrationibus propter quid, de quibus loquitur. Unius enim effectus non potest
+esse nisi una propria causa, propter quam est.
+Sed licet non multiplicentur per media demonstrationes, multiplicantur tamen duobus modis.
+Uno modo, in post assumendo, idest in assumendo medium sub medio. Sicut si sub a sumatur b, et sub bc, et sub
+cd; et sic in infinitum.
+Sicut cum habere tres angulos probatur de triangulo per hoc, quod est figura habens angulum extrinsecum
+aequalem duobus intrinsecis sibi oppositis, et de isoscele per hoc quod est triangulus.
+Alio modo multiplicantur demonstrationes in latus; sicut cum a probatur de c et de e. Verbi gratia: omnis
+numerus quantus aut est finitus aut infinitus. Et hoc ponatur in quo sit a, scilicet esse finitum vel infinitum. Sed
+impar numerus est numerus quantus. Et hoc, scilicet numerus quantus, ponatur in quo est b; sed numerus impar
+ponatur in quo est c. Sequitur ergo quod a praedicetur de c, idest quod numerus impar sit finitus vel infinitus. Et
+similiter potest idem concludi de numero pari, et per idem medium. Potest autem et haec pars, quae incipit ibi:
+augentur autem etc., introduci aliter. Ut quia dixerat quod in demonstrativis assumuntur definitiones pro mediis;
+unius autem rei una est definitio; ex hoc sequitur quod demonstrationes non augeantur per media.
+|+23 Lectio 23
+
+34
+
+

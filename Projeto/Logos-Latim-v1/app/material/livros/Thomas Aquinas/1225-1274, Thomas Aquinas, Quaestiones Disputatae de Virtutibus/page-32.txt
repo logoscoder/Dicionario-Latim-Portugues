@@ -1,0 +1,62 @@
+Dispositio autem non contrariatur habitui perfecto.
+RA17
+Ad decimumseptimum dicendum, quod licet virtus infusa non causetur ex actibus, tamen actus possunt ad eam
+disponere; unde non est inconveniens quod per actus corrumpatur; quia per indispositionem materiae tollitur
+forma, sicut propter indispositionem corporis anima separatur.
+RA18
+Ad decimumoctavum dicendum, quod virtus moralis non dicitur a more secundum quod mos non significat
+consuetudinem appetitivae virtutis; secundum hoc enim virtutes infusae possent dici morales, licet non causentur
+ex consuetudine.
+RA19
+Ad decimumnonum dicendum, quod actus virtutis infusae non causant aliquem habitum, sed per eos augetur
+habitus praeexistens: quia nec ex actibus virtutis acquisitae aliquis habitus generatur; alias multiplicarentur
+habitus in infinitum.
+|a11 Articulus 11
+TTA
+Undecimo quaeritur utrum virtus infusa augeatur.
+TTB
+Et videtur quod non.
+AG1
+Nihil enim augetur nisi quantum. Virtus autem non est quantitas, sed qualitas. Ergo non augetur.
+AG2
+Praeterea, virtus est forma accidentalis.
+Sed forma est simplicissima et invariabili essentia consistens. Ergo virtus non variatur secundum suam
+essentiam; ergo nec secundum essentiam augetur.
+AG3
+Praeterea, quod augetur movetur. Quod igitur secundum essentiam augetur, secundum essentiam movetur. Sed
+quod mutatur secundum suam essentiam, corrumpitur vel generatur.
+Sed generatio et corruptio sunt mutationes in substantia. Ergo caritas non augetur per essentiam, nisi cum
+corrumpitur vel generatur.
+AG4
+Praeterea, essentialia non augentur nec minuuntur. Manifestum est autem quod essentia virtutis est essentialis.
+Ergo virtus secundum essentiam non augetur.
+AG5
+Praeterea, contraria nata sunt fieri circa idem. Augmentum autem et diminutio sunt contraria. Ergo nata sunt fieri
+circa idem. Virtus autem infusa non diminuitur: quia neque diminuitur per actum virtutis, quia per eum magis
+roboratur; neque per actum peccati venialis, quia sic multa peccata venialia tollerent totaliter caritatem et alias
+virtutes infusas, quod est impossibile; sic enim multa venialia aequipollerent uni peccato mortali; neque etiam
+minuitur per peccatum mortale: quia mortale peccatum tollit caritatem et alias virtutes infusas. Ergo virtus infusa
+non augetur.
+AG6
+Praeterea, simile simili augetur, ut dicitur in II de anima. Si ergo virtus infusa augetur, oportet quod augeatur per
+additionem virtutis. Sed hoc non potest esse, quia virtus simplex est. Simplex autem simplici additum non facit
+maius; sicut punctum additum puncto non facit lineam maiorem.
+Ergo virtus infusa augeri non potest.
+AG7
+Praeterea, I de generatione dicitur, quod augmentum est praeexistentis magnitudinis additamentum. Si ergo
+virtus augetur, oportet quod aliquid sibi addatur; et sic erit magis composita, et magis recedens a divina
+similitudine, et per consequens minus bona; quod est inconveniens. Relinquitur ergo quod virtus non augetur.
+AG8
+Praeterea, omne quod augetur, movetur; omne quod movetur, est corpus; virtus non est corpus. Ergo non
+augetur.
+AG9
+Praeterea, cuius causa est invariabilis, et ipsum est invariabile. Sed causa virtutis infusae, quae est Deus,
+invariabilis est. Ergo virtus infusa est invariabilis; ergo non recipit magis et minus; et ita non augetur.
+AG10
+Praeterea, virtus est in genere habitus, sicut et scientia. Si ergo virtus augetur, oportet quod augeatur sicut et
+scientia augetur.
+Scientia autem augetur per multiplicationem obiectorum, prout scilicet ad plura se extendit.
+
+32
+
+

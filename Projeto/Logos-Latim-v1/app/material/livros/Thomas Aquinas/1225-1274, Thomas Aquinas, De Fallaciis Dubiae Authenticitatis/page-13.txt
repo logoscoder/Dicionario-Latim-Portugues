@@ -1,0 +1,60 @@
+|+17 Capitulus 17: De fallacia secundum non causam ut causam.
+Sequitur de fallacia secundum non causam ut causam.
+Causa autem hic dicitur quod est causa inferendi, secundum quod praemissae dicuntur causa conclusionis esse.
+Est ergo fallacia secundum non causam ut causam, quando inter praemissas, ex quibus sequitur conclusio,
+ponitur propositio aliqua quae nihil ad conclusionem operatur, et sic non est causa. Tamen ad hoc quod fiat
+fallacia oportet quod videatur esse causa: quod quidem fit per hoc quod convenit cum aliis propositionibus, quae
+sunt causae conclusionis in terminis. Ex hoc autem quod propositio quae non est causa sumitur ut causa, non
+provenit aliqua deceptio nisi quando ex conclusione reditur ad praemissas et interimitur aliqua praemissarum:
+quod quidem fit in syllogismis ad impossibile, in quibus per hoc quod conclusio est impossibilis ostenditur
+aliquam praemissarum impossibilem fuisse.
+Et ideo haec fallacia non habet fieri nisi in huiusmodi syllogismis. In syllogismis enim ostensivis, in quibus aliud
+directe ostenditur, ad nullum inconveniens duci potest respondens, si sumatur in praemissis aliqua propositio
+quae non est causa conclusionis ac si esset causa.
+Est ergo causa apparentiae in hac fallacia convenientia propositionis, quae non est causa cum illis quae sunt
+causae. Causa vero non existentiae est defectus habitudinis debitae inter propositionem inferentem et
+propositionem illatam.
+Formatur autem secundum hanc fallaciam hoc modo paralogismus: putasne anima et vita sunt idem? quo dato
+proceditur sic: anima et vita sunt idem, et mors et vita sunt contraria, et generatio et corruptio sunt contraria. Sed
+mors est corruptio. Ergo vita est generatio. Igitur vivere est generari; quod est impossibile: nam qui vivit, non
+generatur, sed iam generatus est. Ergo et primum fuit impossibile, scilicet quod anima et vita sint idem.
+Non sequitur, quia ista propositio: anima et vita sunt idem, quae accipiebatur in praemissis, non fuit causa
+conclusionis impossibilis: quod ex hoc patet, quia ea remota, adhuc sequitur conclusio. Unde per hoc quod
+conclusio est impossibilis, non potest ostendi quod praedicta propositio sit impossibilis, sed quod magis ista sit
+impossibilis ex qua sequitur, quae est ista: mors et vita sunt contraria; ex huius enim falsitate sequitur falsitas in
+conclusione: mors enim et vita non sunt contraria, sed opponuntur ut privatio et habitus. Patet ergo quod haec
+fallacia peccat contra rationem causae et causati.
+|+18 Capitulus 18: De fallacia secundum plures interrogationes ut unam.
+Sequitur de fallacia secundum plures interrogationes ut unam.
+Est autem idem secundum substantiam, enuntiatio, propositio, interrogatio et conclusio: sed dicitur enuntiatio
+secundum quod significat simpliciter aliquid esse vel non esse; interrogatio secundum quod sub dubitatione
+proponitur; propositio secundum quod sumitur ad alterius probationem; conclusio vero secundum quod ex aliis
+probatur: et ideo sicut enuntiatio est una, vel plures, ita interrogatio, propositio et conclusio.
+Est autem enuntiatio una, in qua dicitur unum de uno, ut: homo est animal, vel est albus. Enuntiatio vero plures,
+quando dicuntur plura de uno, ut: socrates est albus et musicus, vel unum de pluribus, ut: socrates et Plato sunt
+albi, vel plura de pluribus, ut: socrates et Plato sunt albi et musici.
+Sciendum est autem quod quando plura praedicantur de uno, ex quibus fit unum per se, est enuntiatio una, ut
+cum dicitur: homo est animal rationale mortale; nam ex partibus definitionis fit unum per se, quod est de natura
+speciei. Si autem plura praedicantur, ex quibus fit unum per accidens, tunc est enuntiatio plures, ut cum dicitur:
+socrates est homo albus; ex homine enim et albo fit unum per accidens.
+Provenit ergo haec fallacia ex hoc quod ad interrogationem quae est plures, datur una responsio, eo quod sub uno
+modo interrogandi proponitur, ut si dicatur: putasne socrates et Plato currunt? ex eo enim quod simul
+interrogatur de duobus, videtur esse una interrogatio cum sit plures.
+Causa apparentiae in hac fallacia est unitas ex parte modi interrogandi; causa vero non existentiae est pluralitas
+interrogationis.
+Modi autem huius fallaciae sunt duo.
+Primus modus est quando interrogatio est plures, eo quod unum de pluribus in singulari praedicatur, et e
+converso, sicut hic: putasne homo et asinus sunt animal rationale mortale? si dicam sic, procedatur sic: homo et
+asinus sunt animal rationale mortale. Igitur asinus est animal rationale mortale etc.. Si dicatur quod non,
+procedatur sic: homo et asinus non sunt animal rationale mortale: igitur homo non est animal rationale. Deceptio
+enim haec provenit, quia ad interrogationem praedictam, cum sit plures, non est danda una responsio, ut dicam
+simpliciter sic, vel non, sed duae, ut dicatur sic: homo est animal rationale, et asinus est animal irrationale, vel
+non est animal rationale.
+Similiter hic: putas ne tu es homo et asinus? si dicatur non: igitur tu non es homo; si dicatur sic, concludatur: tu
+es asinus.
+Similiter hic: putas ne Aethiops est homo albus? si dicatur quod sic, concludatur: ergo est albus; si dicatur quod
+non, concludatur: ergo non est homo.
+
+13
+
+

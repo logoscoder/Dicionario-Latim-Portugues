@@ -1,0 +1,62 @@
+Ad decimumsextum dicendum, quod, sicut dionysius solvit, malum est corruptivum in quantum est malum;
+generativum autem non est in quantum malum, sed in quantum retinet aliquid de bono.
+RA17
+Ad decimumseptimum dicendum, quod non esse nunquam appetitur nisi in quantum per aliquod non esse
+conservatur proprium esse; sicut ovis absentiam lupi appetit propter conservationem propriae vitae; nec
+praesentiam lupi refugit nisi in quantum est suae vitae corruptiva. Ex quo patet quod ens appetitur per se ipsum,
+fugitur autem per accidens; non ens autem fugitur per se, et appetitur per accidens; et ideo bonum, in quantum
+bonum, est aliquid; malum autem, in quantum malum, est privatio.
+RA18
+Ad decimumoctavum dicendum, quod poena, in quantum est poena, est malum alicuius; in quantum est iusta, est
+bonum simpliciter.
+Nihil autem prohibet id quod est bonum simpliciter, esse malum alicuius; sicut forma ignis est bonum
+simpliciter, sed est malum aquae.
+RA19
+Ad decimumnonum dicendum, quod ens dicitur dupliciter. Uno modo secundum quod significat naturam decem
+generum; et sic neque malum neque aliqua privatio est ens neque aliquid. Alio modo secundum quod
+respondetur ad quaestionem an est; et sic malum est, sicut et caecitas est. Non tamen malum est aliquid; quia
+esse aliquid non solum significat quod respondetur ad quaestionem an est, sed etiam quod respondetur ad
+quaestionem quid est.
+RA20
+Ad vicesimum dicendum, quod malum quidem est in rebus, sed ut privatio, non autem ut aliquid reale; sed in
+ratione est ut aliquid intellectum: et ideo potest dici, quod malum est ens rationis et non rei, quia in intellectu est
+aliquid, non autem in re; et hoc ipsum quod est esse intellectum, secundum quod aliquid dicitur ens rationis, est
+bonum; bonum enim est aliquid intelligi.
+|a2 Articulus 2
+TTA
+Secundo quaeritur utrum malum sit in bono.
+TTB
+Et videtur quod non.
+AG1
+Dicit enim dionysius IV cap. De divin.
+Nomin., quod malum neque est existens, neque in existentibus; et hoc probat per hoc, quod omne existens est
+bonum. Malum autem non est in bono. Ergo non est in existente; et sic videtur quodam manifesto uti, quod
+malum non sit in bono.
+AG2
+Sed dicendum, quod malum est in existente et in bono, non in quantum est existens vel bonum, sed in quantum
+est deficiens.
+Sed contra, omnis defectus pertinet ad rationem mali. Si ergo malum est in existente in quantum est deficiens,
+malum est in existente in quantum existens est malum.
+Malum ergo aliquod praesupponitur in existente ad hoc quod possit esse subiectum mali; et redibit quaestio de
+illo malo quod sit eius subiectum; et si existens, in quantum est deficiens, est eius subiectum, oportebit
+praesupponere aliquod aliud malum, et sic in infinitum procedere. Standum est ergo in primo, ut scilicet si
+malum est in existente, sit in eo non in quantum est deficiens, sed in quantum est existens; quod est contra
+dionysium.
+AG3
+Praeterea, malum et bonum sunt opposita.
+Sed unum oppositorum non est in alio sicut frigidum non est in igne. Ergo malum non est in bono.
+AG4
+Sed dicendum, quod malum non est in bono sibi opposito, sed in alio. Sed contra, omne illud quod convenit
+multis, convenit eis per unam naturam. Sed bonum convenit multis, similiter et malum. Ergo per unam naturam
+communem bonum convenit omnibus bonis, et malum omnibus malis. Sed malum communiter acceptum,
+oppositum est bono. Ergo malum quodlibet opponitur cuilibet bono; et sic si aliquod malum est in aliquo bono,
+sequitur quod oppositum sit in suo opposito.
+AG5
+Praeterea, Augustinus dicit in ench., quod in hoc quod malum est in bono, fallit dialecticorum regula, quae dicit,
+quod contraria simul esse non possunt.
+Non autem falleret, si malum non esset in bono sibi opposito. Ergo ex hoc quod malum est in bono, sequitur
+quod oppositum sit in opposito, quod omnino esse non potest; quia omnia opposita includunt in se
+contradictionem; contradictoria autem simul esse non possunt. Non ergo malum est in bono.
+6
+
+

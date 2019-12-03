@@ -1,0 +1,59 @@
+personale, secundum rationem intelligendi. Sed potentia creandi est communis tribus personis; potentia autem
+generandi videtur proprie pertinere ad personam patris. Ergo videtur quod potentia creandi sit prior.
+AG5
+Contra, secundum ordinem actuum est ordo potentiarum. Sed generatio est prior creatione, sicut aeternum
+temporali. Ergo et potentia generandi est prior.
+CO
+Respondeo dicendum, quod potentia est medium, secundum rationem intelligendi, inter essentiam et
+operationem naturae. Possunt ergo considerari potentia creandi et potentia generandi secundum quod radicantur
+in essentia divina: et sic est una numero potentia, nedum univoce dicta. Possunt etiam considerari ex parte qua
+conjunguntur operationi, et secundum hoc potentia dicitur de eis non univoce, sed secundum prius et posterius,
+et potentia generandi erit prior secundum rationem intelligendi quam potentia creandi, sicut generatio est prior
+creatione.
+RA1
+Et per hoc patet solutio ad primum, quod procedit de potentia comparata ad actum.
+RA2
+Et similiter ad secundum, quia potentia generandi non est ad aliquid nisi ex parte illa qua conjungitur actui.
+RA3
+Et similiter ad tertium, quod procedit e contrario de potentia secundum quod se tenet a parte essentiae.
+RA4
+Ad quartum dicendum, quod commune in divinis est ante proprium, quando commune per se accipitur secundum
+rationem intelligendi; sed quando commune accipitur cum respectu ad creaturas, ratione respectus adjuncti, est
+posterius quam proprium alicujus personae, secundum rationem intelligendi.
+RA5
+Quintum concedimus.
+
+|+d7.q2 Distinctio 7, Quaestio 2
+|a0 Prologus
+Deinde quaeritur de communitate hujus potentiae; et circa hoc duo quaeruntur: 1 utrum potentia generandi sit in
+filio; 2 utrum filius possit generare.
+|a1 Articulus 1: Utrum potentia generandi sit in filio.
+AG1
+Ad primum sic proceditur. Sicut supra dictum est, in corp. Art. 2, qu. Praeced., potentia generandi includit in se
+rationem paternitatis. Sed paternitas non est in filio. Ergo nec potentia generandi.
+AG2
+Praeterea, cum potentia dicat rationem principii, potentia generandi dicit principium generationis.
+Sed filio nullo modo competit esse principium generationis: esset enim principium suiipsius. Ergo in filio nullo
+modo est potentia generandi.
+AG3
+Contra, sicut supra dictum est, in hac dist.
+Qu. 1, art. 2, potentia generandi est ipsa divina essentia. Sed essentia patris tota est in filio. Ergo videtur quod
+etiam potentia generandi sit in filio.
+AG4
+Praeterea, nulla scientia vel voluntas est patris, quae non sit filii. Ergo nec etiam aliqua potentia, cum potentia
+illis duobus condividatur.
+Sed potentia generandi est in patre. Ergo et in filio.
+CO
+Respondeo dicendum, quod potentia generandi dicitur tripliciter, secundum quod generandi potest esse
+gerundium verbi impersonalis, vel verbi personalis activi, vel verbi personalis passivi.
+Si sit gerundium verbi impersonalis, tunc potentia generandi est potentia qua ab aliquo generatur; et ita est in
+filio potentia generandi, idest qua a patre generatur. Si sit gerundium verbi personalis activi, tunc potentia
+generandi dicitur potentia ut generet; et sic non est in filio. Si sit gerundium verbi personalis passivi, tunc
+potentia generandi dicitur potentia ut generetur; et ita est in filio, quia eadem potentia quae in patre est ut
+generet, est in filio ut generetur. Et ista distinctio fundatur super id quod dictum est, in corp., art. 2, quaest.
+Praeced., quod potentia generandi est essentia divina, a qua, prout in patre est paternitas, est generatio activa; et
+prout in filio est filiatio, erit generatio passiva.
+RA1
+65
+
+

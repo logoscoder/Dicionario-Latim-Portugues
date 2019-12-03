@@ -1,0 +1,62 @@
+RA4
+Ad quartum dicendum, quod sicut cum loquimur de natura, non excludimus ea per quae natura conservatur in
+esse: ita cum loquimur de gratia, non excludimus divinam operationem conservantem gratiam in esse; sine qua
+nec in esse naturae nec in esse gratiae aliquis persistere valet.
+|a14 Articulus 14
+TTA
+Quartodecimo quaeritur utrum liberum arbitrium possit in bonum sine gratia.
+TTB
+Et videtur quod sic.
+AG1
+Quia praeceptum non datur de impossibili: unde Hieronymus, dicit: maledictus qui dicit, Deum homini aliquid
+impossibile praecepisse. Sed homini praecipitur ut bonum faciat. Ergo homo potest per liberum arbitrium bonum
+facere.
+AG2
+Praeterea, nullus debet corripi si non faciat quod facere non potest. Sed homo iuste corripitur si omittat facere
+bonum. Ergo per liberum arbitrium homo bonum facere potest.
+AG3
+Praeterea, homo per liberum arbitrium aliquo modo peccatum vitare potest, ad minus quantum ad unum
+singularem actum. Sed vitare peccatum est aliquod bonum. Ergo homo per liberum arbitrium potest aliquod
+bonum facere.
+AG4
+Praeterea, unaquaeque res magis potest in id quod est sibi naturale, quam in id quod est sibi contra naturam. Sed
+liberum arbitrium naturaliter ordinatur in bonum; peccatum autem est ei contra naturam. Ergo magis potest in
+bonum quam in malum.
+Sed potest in malum per seipsum. Ergo multo magis in bonum.
+AG5
+Praeterea, creatura in se creatoris similitudinem retinet ratione vestigii, et multo magis ratione imaginis. Sed
+creator potest per seipsum bonum facere. Ergo et creatura; et praecipue liberum arbitrium, quod est ad imaginem.
+AG6
+Praeterea, secundum Philosophum in II ethic., per eadem corrumpitur virtus et generatur. Sed per liberum
+arbitrium potest virtus corrumpi; quia peccatum mortale, quod homo potest per liberum arbitrium facere,
+virtutem corrumpit. Ergo per liberum arbitrium homo potest in generationem boni, quod est virtus.
+AG7
+Praeterea, I Ioan. Cap. V, 3, dicitur: mandata eius gravia non sunt. Sed illud quod non est grave, potest homo ex
+libero arbitrio facere. Ergo homo potest ex libero arbitrio mandata implere: quod maxime bonum est.
+AG8
+Praeterea, liberum arbitrium, secundum Anselmum in libro de libero arbitrio est potestas servandi rectitudinem
+voluntatis: quae non servatur nisi bene faciendo. Ergo per liberum arbitrium potest aliquis bonum facere.
+AG9
+Praeterea, gratia est fortior quam peccatum.
+Sed gratia non ita ligat liberum arbitrium quin homo possit facere peccatum. Ergo nec peccatum ita ligat liberum
+arbitrium quin homo existens in peccato absque gratia possit facere bonum.
+SC1
+Sed contra. Est quod dicitur roman.
+Cap. VII, 18: velle, adiacet mihi; perficere autem bonum, non invenio. Ergo homo per liberum arbitrium non
+potest facere bonum.
+SC2
+Praeterea, homo non potest facere bonum nisi vel actu interiori vel exteriori. Sed ad neutrum sufficit liberum
+arbitrium; quia, ut dicitur Rom. IX, 16, non est volentis, scilicet velle (quod pertinet ad interiorem actum), nec
+currentis, scilicet currere (quod pertinet ad exteriorem), sed miserentis Dei.
+Ergo liberum arbitrium sine gratia nullo modo potest facere bonum.
+SC3
+Praeterea, Rom. VII, 15, super illud: quod odi malum, illud facio, dicit Glossa: naturaliter quidem homo vult
+bonum; sed voluntas hoc semper caret effectu, si sine gratia Dei suum velle addiderit. Ergo sine gratia homo non
+potest efficere bonum.
+SC4
+Praeterea, cogitatio boni operationem boni praecedit, ut patet ex Philosopho in II ethicorum. Sed homo non
+potest cogitare bonum per seipsum, quia dicitur II corinth. Cap. III, 5: non quod sufficientes simus cogitare
+aliquid a nobis, quasi ex nobis. Ergo non potest homo per seipsum bonum operari.
+519
+
+

@@ -1,0 +1,58 @@
+Incipit ex ordine liber quadragensimus primus.
+41.1.0. De adquirendo rerum dominio.
+41.2.0. De adquirenda vel amittenda possessione.
+41.3.0. De usurpationibus et usucapionibus.
+41.4.0. Pro emptore.
+41.5.0. Pro herede vel pro possessore.
+41.6.0. Pro donato.
+41.7.0. Pro derelicto.
+41.8.0. Pro legato.
+41.9.0. Pro dote.
+41.10.0. Pro suo.
+41.11.0. Communia de accessionibus possessionum.
+Explicit liber ex ordine digestorum quadragensimus primus.
+
+Incipit ex ordine liber quadragensimus secundus.
+42.1.0. De re iudicata et de effectu sententiarum et de interlocutionibus.
+42.2.0. De confessis.
+42.3.0. De cessione bonorum.
+42.4.0. Quibus ex causis in possessionem eatur.
+42.5.0. De rebus auctoritate iudicis possidendis seu vendundis.
+42.6.0. De separationibus.
+42.7.0. De curatore bonis dando.
+42.8.0. Quae in fraudem creditorum facta sunt ut restituantur.
+Explicit liber ex ordine digestorum quadragensimus secundus.
+
+Incipit ex ordine liber quadragensimus tertius.
+43.1.0. De interdictis sive extraordinariis actionibus, quae pro his competunt.
+43.2.0. Quorum bonorum.
+43.3.0. Quod legatorum.
+43.4.0. Ne vis fiat ei, qui in possessionem missus erit.
+43.5.0. De tabulis exhibendis.
+43.6.0. Ne quid in loco sacro fiat.
+43.7.0. De locis et itineribus publicis.
+43.8.0. Ne quid in loco publico vel itinere fiat.
+43.9.0. De loco publico fruendo.
+43.10.0. De via publica et si quid in ea factum esse dicatur.
+43.11.0. De via publica et itinere publico reficiendo.
+43.12.0. De fluminibus. ne quid in flumine publico ripave eius fiat, quo peius navigetur.
+43.13.0. Ne quid in flumine publico fiat, quo aliter aqua fluat, atque uti priore aestate fluxit.
+43.14.0. Ut in flumine publico navigare liceat.
+43.15.0. De ripa munienda.
+43.16.0. De vi et de vi armata.
+43.17.0. Uti possidetis.
+43.18.0. De superficiebus.
+43.19.0. De itinere actuque privato.
+43.20.0. De aqua cottidiana et aestiva.
+43.21.0. De rivis.
+43.22.0. De fonte.
+43.23.0. De cloacis.
+43.24.0. Quod vi aut clam.
+43.25.0. De remissionibus.
+43.26.0. De precario.
+43.27.0. De arboribus caedendis.
+43.28.0. De glande legenda.
+43.29.0. De homine libero exhibendo.
+43.30.0. De liberis exhibendis, item ducendis.
+
+

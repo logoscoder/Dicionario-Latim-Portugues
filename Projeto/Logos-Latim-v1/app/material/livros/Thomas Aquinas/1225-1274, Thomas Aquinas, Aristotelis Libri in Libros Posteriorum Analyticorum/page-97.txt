@@ -1,0 +1,57 @@
+Et primo, proponit quod intendit; secundo, probat propositum; ibi: neque enim determinati etc.. Circa primum
+considerandum est quod, sicut linea est quoddam continuum, punctus autem est quoddam indivisibile quod
+terminat et dividit lineam; ita etiam ipsum fieri vel moveri est quoddam continuum, ipsum autem quod est
+motum esse vel factum esse, est quoddam indivisibile, quod potest accipi vel ut terminans totum motum, vel ut
+dividens motum tanquam finis primae partis motus et principium secundae, sicut patet de puncto quod dividit
+lineam. Sic igitur ipsum factum esse est causa praecedens ipsum fieri cuius est principium; et est effectus
+consequens illud fieri cuius est terminus. Si ergo debeamus demonstrare, oportet fieri syllogismum
+demonstrativum a posteriori factum esse ad fieri praecedens; ut si dicamus: hoc factum est; ergo illud prius
+fiebat. Sed quia et ipsum factum esse est principium ipsius fieri, sive quae facta sunt eorum quae fiunt,
+consequens est ut similiter se habeat in his quae fiunt; ut scilicet a posteriori fieri syllogizetur ad prius factum;
+puta si dicamus: sol movetur ad punctum medii coeli; ergo prius motus est ad punctum orientis. Sed a priori non
+poterit fieri syllogismus ad posterius; ut puta si dicamus quod, quia hoc prius factum est, ideo sequitur quod illud
+quod est posterius fiat vel factum sit. Et quae ratio est de fieri et de factum esse, eadem ratio est de fore et
+futurum fieri.
+|#8 Deinde cum dicit: neque enim determinati etc., probat quod dixerat. Et circa hoc duo facit: primo, probat
+propositum ratione accepta ex parte temporis absolute considerati; secundo, ex parte temporis quod contingit
+esse medium inter causam priorem et effectum posteriorem; ibi: amplius enim neque indeterminatum etc.. Dicit
+ergo primo quod ideo a priori non potest syllogizari ad posterius, quia posito priori non oportet quod sequatur
+posterius, neque secundum aliquod determinatum tempus, neque simpliciter non determinate. Et hoc primo
+manifestat quantum ad determinatum tempus, puta si dicamus: bibit infirmus potionem; ergo tali die sanabitur.
+Si enim a priori facto syllogizari possit posterius secundum determinatum tempus, poterit concludi quod quia
+verum est dicere hoc factum esse, puta infirmum bibisse potionem, quod etiam verum sit dicere hoc factum esse
+quod posterius est, puta eum esse sanatum. Sed hoc non sequitur, quia potest dari aliquod tempus in quo verum
+est eum potionem bibisse, et tamen nondum verum est eum sanatum esse, sicut in intermedio tempore inter
+sumptionem medicinae et sanitatem adeptam. Et hoc est quod dicit, quod ideo praedicta conclusio non sequitur,
+quia in medio tempore falsum erit dicere quod hoc sit factum, scilicet hunc esse sanatum, quamvis alterum iam
+sit factum, scilicet eum medicinam bibisse. Et eadem ratio est etiam respectu futuri: non enim possumus
+concludere: iste nunc medicinam bibit; ergo erit sanatus, pro aliquo tempore determinato; quia hoc non erit
+verum in quolibet tempore futuro, scilicet in tempore medio.
+|#9 Secundo, ibi: neque quoniam hoc factum est etc., probat idem quantum ad tempus indeterminatum, puta si
+dicamus: iste medicinam bibit; ergo sanabitur. Non enim sequitur quod quia hoc factum est, scilicet quod iste
+medicinam bibit, hoc erit, scilicet sanabitur. Iam enim supra dictum est quod causa quae ex necessitate infert
+effectum, est simul cum effectu. Et accipitur quasi medium homogeneum, idest unius generis; sicut ad
+probandum aliqua esse facta in praeterito, accipitur pro medio et causa aliquid quod est factum in praeterito; et
+similiter futurorum, id quod est futurum; et eorum quae sunt in fieri, id quod est in fieri; et eorum quae existunt,
+id quod existit. Sed quando sic syllogizatur: hoc factum est; ergo hoc erit; non accipitur medium unius generis,
+sed unum est prius et aliud posterius. Unde posito priori non sequitur ex necessitate posterius in illis in quibus
+effectus causarum impediri possunt.
+|#10 Deinde cum dicit: amplius enim neque etc., ponit aliam rationem, quae sumitur ex parte temporis medii; et
+dicit quod, sicut ex parte temporis absolute considerati manifestum est quod non potest syllogizari a priori ad
+posterius, nec secundum tempus determinatum, neque secundum tempus indeterminatum; ita etiam nec ex parte
+medii temporis contingit accipi aliquod determinatum aut indeterminatum, in quo scilicet possit concludi
+posterius a priori. Iam enim dictum est quod in toto tempore intermedio falsum est dicere id quod est posterius
+esse, quamvis id quod est prius iam praecesserit.
+|+11 Lectio 11
+|#1 Postquam Philosophus quaesivit utrum in his quae non simul fiunt, posterius secundum continuitatem
+temporis sequatur ad prius; et interposuit quoddam necessarium, scilicet quod a priori ad posterius non
+syllogizatur; hic accedit ad determinandum quaestionem motam. Et circa hoc duo facit: primo, ostendit quomodo
+se habeant fieri et factum esse secundum temporis continuitatem; secundo, ostendit propositum; ibi: de hoc
+quidem igitur etc..
+|#2 Dicit ergo primo quod ad ostendendum propositum oportet speculari quid est coniungens, vel continuans
+factum esse ei quod est fieri, ut post unum continuo sequatur aliud. Et circa hoc dicit primo, manifestum esse
+quod fieri cum eo quod est factum esse, non est habitum, idest consequenter se habens. Dicuntur autem
+
+97
+
+

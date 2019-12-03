@@ -1,0 +1,62 @@
+Etenim:
+Si cum homo est, animal est
+una est hypothetica; alia uero:
+Cum sit corpus substantia est
+ex quibus coniungitur una propositio quae composita nuncupatur.
+[1.5.2] Aut ex una simplici et ex una hypothetica copulatur, uelut haec:
+Si a est, cum sit b, est c
+ueluti cum dicimus:
+Si homo est, cum sit animal, est substantia
+namque:
+Homo est
+simplex est propositio;
+Cum sit animal esse substantiam
+hypothetica ex ipsa consequentia conditionis ostenditur; aut ex priore hypothetica et simplici posteriore
+committitur, ut cum dicimus:
+Si cum sit a, est b, erit et c
+ueluti hoc modo:
+Si cum sit homo, animal est, est et corpus.
+Hypothetica namque est prior ea quae proponit:
+Si cum sit homo, animal est
+simplex posterior quae hanc hypotheticam propositionem sequitur, id est, corpus esse. Haec /228/ quoque
+quoniam non ex simplicibus copulatae sunt, compositae dicuntur.
+[1.5.3] Sed priores quidem quae ex simplicibus propositionibus constant, et simplices hypotheticae
+nuncupantur, in duobus terminis constitutae sunt. Terminos autem nunc partes propositionis simplices, quibus
+iunguntur, appello. Quae uero compositae hypotheticae sunt, illae quidem quae ex duabus hypotheticis constant,
+quatuor terminis copulatae sunt; illae uero quae ex hypothetica et simplici, uel simplici atque hypothetica coniunctae
+sunt, ex tribus terminis coniunctae sunt. Harum igitur quae sunt hypotheticae simplices uel compositae differentiae
+similitudinesque dicendae sunt.
+[1.5.4] Nam quae ex simplicibus copulantur, si ad eas quae ex hypotheticis duabus iunctae sunt comparentur,
+consequentia quidem eadem est et proportio manet, tantum termini duplicantur. Nam quem locum in his
+propositionibus hypotheticis quae ex simplicibus constant ipsae simplices propositiones tenent, eundem in his
+propositionibus quae sunt hypotheticae ex hypotheticis constantes, illae conditiones tenent quibus illae propositiones
+inter se iunctae et copulatae esse dicuntur.
+[1.5.5] Nam in hac propositione quae dicit:
+Si est a, est b
+et in ea quae dicit:
+Si cum sit a, est b, cum sit c, est d
+quem locum in ea propositione quae ex duabus simplicibus continetur tenet ea quae prior est:
+Si est a
+eundem locum tenet, in ea propositione quae ex duabus hypotheticis propositionibus copulatur, ea quae prior
+est:
+Si cum est /230/ a, est b.
+Hic namque duarum inter se propositionum coniunctionis conditione facta est consequentia. Itemque quam
+uim obtinet ex utrisque propositionibus copulatae hypotheticae portio quae infertur, id est
+esse b
+eandem uim obtinet in propositione ex hypotheticis iuncta ea quae sequitur, id est
+Cum sit c, esse d
+atque id tantum differt, quia cum in prima propositione ex simplicibus iuncta propositio propositionem
+sequatur, in secunda propositione ex hypotheticis iuncta conditio consequentiae conditionis consequentiam comitatur.
+[1.5.6] Nihil est enim aliud dicere:
+Si est a, est b
+quam ei propositioni per quam dicimus esse a, illam esse comitem per quam b esse praedicamus; at in ea
+propositione quae ex hypotheticis iuncta est cum dicimus:
+Si cum sit a, est b, cum sit c esse d
+illud dicitur, ei consequentiae quae inter a et b est, eam esse consequentiam comitem quae est inter c et d, ita ut
+si consequitur posito a esse b, consequatur sine dubio c posito esse d. At in his propositionibus quae ex simplici et
+hypothetica consistunt, illa ratio est ut uel propositionem conditio consequentiae consequatur, uel conditionem
+consequentiae propositio comitetur.
+[1.5.7] Nam cum dicimus:
+Si a est, cum sit b, esse c
+
+

@@ -1,0 +1,61 @@
+|a3 Articulus 3: Utrum liberum arbitrium se extendat ad omnia opera humana.
+AG1
+Ad tertium sic proceditur. Videtur quod liberum arbitrium non se extendat ad omnia opera humana. Liberum
+enim arbitrium cogi non potest, ut dictum est. Sed quaedam opera humana cogi possunt: impeditur enim homo a
+motu per violentiam.
+Ergo non omnia opera humana sunt liberi arbitrii.
+AG2
+Praeterea, in 1 ethic. Dicitur, quod quaedam opera humana sunt fines. Electio autem non est finis, ut in 3 ethic.
+Dicitur.
+Cum igitur eligere sit actus liberi arbitrii, videtur quod liberum arbitrium non sit omnium humanorum actuum.
+AG3
+Praeterea, omnes actus liberi arbitrii sunt in potestate nostra. Sed quidam actus sunt in nobis, non in potestate
+nostra existentes, sicut actus generativae, nutritivae et augmentativae. Ergo non omnes actus nostri sunt liberi
+arbitrii.
+AG4
+Praeterea, potentia determinata, est ad determinatos actus. Si igitur liberum arbitrium esset, omnium humanorum
+actuum non esset determinata sed universalis potentia, quod supra falsum esse dictum est.
+AG5
+Praeterea, illud quod est praeter voluntatem est etiam praeter liberum arbitrium, cum liberum arbitrium sit
+facultas voluntatis et rationis, ut supra dictum est. Sed, ut dionysius dicit, malum est praeter voluntatem.
+Ergo liberum arbitrium hominum ad mala opera non se extendit.
+SC1
+Sed contra est quod Damascenus dicit in 2 lib.
+Quod homo libero arbitrio inquirit, eligit, impetum facit ad opus, et sic de aliis. Ergo videtur quod ad ipsum
+pertineant omnes actus humani.
+SC2
+Praeterea, ut supra dictum est, liberum arbitrium est voluntas. Sed omnes actus humani sunt voluntarii. Ergo sunt
+etiam liberi arbitrii.
+CO
+Respondeo dicendum, quod actus alicujus potentiae vel habitus potest esse dupliciter: vel quia elicit ipsum, vel
+quia imperat eum. Ille autem actus proprie a potentia elici dicitur qui immediate ab ipsa potentia procedit, sicut
+ab intellectu intelligere: et hoc modo non omnes actus humani sunt liberi arbitrii; sed proprius actus ejus est
+eligere, ut supra dictum est. Sed per imperium voluntatis et liberi arbitrii moventur etiam aliae potentiae in suos
+actus; unde virtus appetitiva dicitur movens, quia imperat motum; et virtus motiva affixa musculis et nervis, quia
+exequitur: et per modum istum omnes actus humani sunt liberi arbitrii, quia ab ipso imperati, sed non eliciti.
+RA1
+Ad primum ergo dicendum, quod liberum arbitrium non potest cogi in suo actu proprio, qui est eligere; sed
+tamen potest cogi in aliquibus actibus imperatis ab ipso propter coactionem virtutum exequentium.
+RA2
+Ad secundum dicendum, quod illud quod est finis respectu quorumdam, potest esse etiam ordinatum ad
+ulteriorem finem, nisi sit ultimus finis.
+Nulla autem operatio humana est finis ultimus nisi per accidens, inquantum scilicet fini ultimo conjungit: et ideo
+omnium operationum humanarum potest esse electio, non quidem inquantum sunt finis, sed inquantum sunt ad
+finem: quamvis enim vincere sit finis militaris potentiae, ordinatur tamen ad ulteriorem finem; unde sub
+electione cadere potest.
+RA3
+Ad tertium dicendum, quod homo ex hoc dicitur homo quod rationem habet; unde illi tantum actus dicuntur
+actus humani qui sunt virium rationalium vel per essentiam, vel per participationem, sicut actus concupiscibilis
+et irascibilis. Virtutes autem nutritivae partis nullo modo rationem participant, ut in 1 ethic. Dicitur; unde earum
+actus operationes humanae non dicuntur.
+RA4
+Ad quartum dicendum, quod ratio illa sequeretur, si omnia opera humana essent liberi arbitrii quasi elicita ab
+ipso; quod non est verum, ut dictum est; unde non sequitur quod sit universalis potentia.
+RA5
+Ad quintum dicendum, quod malum in eo quod malum est, praeter voluntatem est; sed operatio humana,
+inquantum apparet bona, sub voluntate cadere potest; et ita potest esse ejus electio et libero arbitrio subjacere.
+|a4 Articulus 4: Utrum libertas arbitrii augeatur vel minuatur.
+AG1
+635
+
+

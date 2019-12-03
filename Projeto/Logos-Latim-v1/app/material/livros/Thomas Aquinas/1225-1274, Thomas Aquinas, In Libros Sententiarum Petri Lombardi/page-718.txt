@@ -1,0 +1,62 @@
+Illius autem defectus qui est in actu voluntatis, non oportet quod sit causa aliquis alius defectus in voluntate
+praeexistens actu, quia sic in infinitum iretur; sed ipsamet voluntas secundum se considerata illius defectus causa
+est. Ille enim defectus in voluntate est, secundum quod voluntas ad aliquid aliquo indebito modo convertitur.
+Ejus autem quod est converti ad bonum creatum indebito modo, voluntas dominium habet, quia ad utrumlibet
+libera est; non enim est simile de voluntate et agente naturali: agens enim naturale est determinatum ad unum ex
+sua natura; unde non potest esse causa actionis inordinatae, nisi per hoc quod aliquis defectus in ipso agente est;
+voluntas autem non est determinata ad unum, sed seipsam determinat secundum quod huic vel illi adhaeret; et in
+tali adhaesione primum malum voluntatis consistit; unde primi mali culpae, quod est in actu voluntatis, res bona,
+scilicet voluntas, causa est, sed per accidens, ut dictum est; secundi autem mali, quod est in actu exteriori, ipsa
+voluntas jam mala per interiorem actum causa est.
+RA5
+Ad quintum dicendum, quod malum non habet causam per se, sed per accidens, ut dictum est; et hoc dionysius
+intendit: et sic per accidens bonum mali causa esse potest.
+|a4 Articulus 4: Utrum malum sit subjective in bono.
+AG1
+Ad quartum sic proceditur. Videtur quod malum non sit in bono sicut in subjecto. Sicut enim dicit dionysius,
+malum neque est existens, neque in existente. Sed propriissime dicitur esse in altero quod est in eo sicut in
+subjecto. Ergo existens non est subjectum mali. Sed omne bonum est existens. Ergo malum non est in bono sicut
+in subjecto.
+AG2
+Praeterea, malum se habet ad bonum sicut non ens ad ens. Sed ens non est subjectum non entis; quia simul esse
+non possunt. Ergo nec bonum est subjectum mali.
+AG3
+Praeterea, nullum contrarium est subjectum sui contrarii. Sed bonum et malum sunt contraria.
+Ergo bonum non est subjectum mali. Prima patet ex hoc quod 1 phys. Dicitur, quod subjectum neutrum
+contrariorum est.
+AG4
+Si dicatur, quod regula ista fallit in his contrariis quae sunt bonum et malum, ut in littera dicitur; contra. In
+posteriori semper prius includitur.
+Sed prima oppositio est affirmationis et negationis.
+Ergo affirmatio et negatio includitur in omnibus contrariis. Sed affirmatio et negatio non possunt esse simul vera.
+Ergo nec aliqua contraria.
+Subjectum autem simul est cum eo cujus est subjectum.
+Ergo bonum mali subjectum esse non potest.
+AG5
+Praeterea, illud quod est per se subjectum alicujus, est etiam per se causa ejus: quia, sicut dicit Avicenna,
+subjectum est in se completum praebens alteri occasionem essendi. Sed malum non causatur per se ex principiis
+boni. Ergo bonum non est universaliter et per se subjectum mali.
+SC1
+Sed contra, omne quod est subjectum, est ens.
+Sed omne ens, inquantum hujusmodi, bonum est: quia ens et bonum convertuntur. Ergo oportet quod subjectum
+mali sit bonum.
+SC2
+Praeterea, Philosophus dicit in 9 metaphysicorum, quod non est praeter res malum.
+Esset autem praeter res, si in rebus non esset.
+Ergo malum est in rebus sicut in subjecto. Sed omnis res, inquantum hujusmodi, bona est: quia per se malum
+nulla res est, sed privatio, ut dictum est. Ergo bonum est subjectum mali.
+CO
+Respondeo dicendum, quod per se malum, ut dictum est ex dictis Avicennae, est privatio; privatio autem, ut in 4
+metaph.
+Dicitur, est negatio in substantia, idest in substantia habet subjectum; negatio autem quae subjectum non
+determinat, privatio dici non potest, sed simplex negatio; unde oportet quod malum aliquod ens subjectum
+habeat. Omne autem ens, inquantum hujusmodi, bonum est. Unde oportet quod subjectum mali sit bonum. Sed
+sciendum, quod non omne bonum, subjectum mali esse potest: est enim quoddam bonum cui nihil bonitatis
+deest, quia perfectum est, nec deesse potest, quia omnes bonitates in eo unum sunt, ut una ab altera separari non
+possit, quia simplex est; et in tali bono malum nec esse nec cogitari potest; et hoc est summum bonum, quod
+Deus est. Est autem quoddam bonum, quod quamvis non omnem bonitatem perfecte colligat, sed in aliquo a
+summo bono deficiat, tamen non potest sibi deesse aliqua bonitatum quae debita est sibi; ut patet in Angelis et in
+corporibus caelestibus, quae bonitatem naturalem nullo modo amittere possunt: et tale etiam bonum subjectum
+718
+
+

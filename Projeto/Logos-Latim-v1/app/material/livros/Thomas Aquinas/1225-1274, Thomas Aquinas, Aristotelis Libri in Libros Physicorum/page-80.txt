@@ -1,0 +1,64 @@
+Circa primum duo facit: primo ostendit quid sit motus; secundo inquirit
+cuius actus sit motus, utrum moventis aut mobilis, ibi: movetur autem
+movens etc..
+Circa primum tria facit: primo ponit definitionem motus; secundo manifestat
+partes definitionis, ibi: quod autem hoc sit motus etc.; tertio ostendit
+definitionem esse bene assignatam, ibi: quod quidem igitur hoc sit etc..
+Circa primum duo facit: primo ponit definitionem motus; secundo
+exemplificat, ibi: ut alterabilis quidem etc..
+|#2
+Circa primum sciendum est, quod aliqui definierunt motum dicentes,
+quod motus est exitus de potentia in actum non subito. Qui in definiendo
+errasse inveniuntur, eo quod in definitione motus posuerunt quaedam quae
+sunt posteriora motu: exitus enim est quaedam species motus; subitum etiam
+in sua definitione recipit tempus: est enim subitum, quod fit in
+indivisibili temporis; tempus autem definitur per motum.
+|#3
+Et ideo omnino impossibile est aliter definire motum per priora et
+notiora, nisi sicut Philosophus hic definit.
+Dictum est enim quod unumquodque genus dividitur per potentiam et actum.
+Potentia autem et actus, cum sint de primis differentiis entis, naturaliter
+priora sunt motu: et his utitur Philosophus ad definiendum motum.
+Considerandum est igitur quod aliquid est in actu tantum, aliquid vero in
+potentia tantum, aliquid vero medio modo se habens inter potentiam et
+actum. Quod igitur est in potentia tantum, nondum movetur: quod autem iam
+est in actu perfecto, non movetur, sed iam motum est: illud igitur movetur,
+quod medio modo se habet inter puram potentiam et actum, quod quidem partim
+est in potentia et partim in actu; ut patet in alteratione.
+Cum enim aqua est solum in potentia calida, nondum movetur: cum vero est
+iam calefacta, terminatus est motus calefactionis: cum vero iam participat
+aliquid de calore sed imperfecte, tunc movetur ad calorem; nam quod
+calefit, paulatim participat calorem magis ac magis. Ipse igitur actus
+imperfectus caloris in calefactibili existens, est motus: non quidem
+secundum id quod actu tantum est, sed secundum quod iam in actu existens
+habet ordinem in ulteriorem actum; quia si tolleretur ordo ad ulteriorem
+actum, ipse actus quantumcumque imperfectus, esset terminus motus et non
+motus, sicut accidit cum aliquid semiplene calefit. Ordo autem ad
+ulteriorem actum competit existenti in potentia ad ipsum.
+Et similiter, si actus imperfectus consideretur tantum ut in ordine ad
+ulteriorem actum, secundum quod habet rationem potentiae, non habet
+rationem motus, sed principii motus: potest enim incipere calefactio sicut
+a frigido, ita et a tepido.
+Sic igitur actus imperfectus habet rationem motus, et secundum quod
+comparatur ad ulteriorem actum ut potentia, et secundum quod comparatur ad
+aliquid imperfectius ut actus.
+Unde neque est potentia existentis in potentia, neque est actus existentis
+in actu, sed est actus existentis in potentia: ut per id quod dicitur
+actus, designetur ordo eius ad anteriorem potentiam, et per id quod dicitur
+in potentia existentis, designetur ordo eius ad ulteriorem actum.
+Unde convenientissime Philosophus definit motum, dicens quod motus est
+entelechia, idest actus existentis in potentia secundum quod huiusmodi.
+|#4
+Deinde cum dicit: ut alterabilis quidem etc., exemplificat in omnibus
+speciebus motus: sicut alteratio est actus alterabilis inquantum est
+alterabile.
+Et quia motus in quantitate et in substantia non habent unum nomen, sicut
+motus in qualitate dicitur alteratio, quantum ad motum in quantitate ponit
+duo nomina: et dicit quod actus augmentabilis et oppositi, scilicet
+diminuibilis, quibus non est unum commune nomen, est augmentum et
+diminutio. Et similiter generabilis et corruptibilis, generatio et
+corruptio; et mutabilis secundum locum, loci mutatio.
+
+80
+
+

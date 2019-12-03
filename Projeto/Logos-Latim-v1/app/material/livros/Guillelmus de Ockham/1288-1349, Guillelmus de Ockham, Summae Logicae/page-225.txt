@@ -1,0 +1,57 @@
+uel 'homo necessario est animal'. Et sic auctoritates, quae negant tales propositiones de talibus
+abstractis, sunt glossandae. Eodem modo, hoc supposito, tales discursus non ualebunt 'omnis homo cnrrit;
+humanitas est homo; igitur humanitas currit', nam iste discursus non ualet 'omnis homo currit; homo necessario
+est homo; igitur homo necessario currit'. Instantia enim patet In istis terminis 'omnis persona diuina est creans,
+Pater est necessario persona diuina; igitur Pater necessario est creans, nam praemissae sunt uerae et conclusio
+falsa. Et per istum modum multae anctoritates, sonantes quod humanitas non sit homo et quod humanitas non sit
+alba, debent solui.
+Sic igitur, breuiter, omnis syllogismus regulatus per dici de omni uel de nullo est simpliciter bonus et de
+se euidens, nec indigens aliqua probatione. Et non refert guale sit illud quod sumitur sub in minore, siue sit
+terminus substantialis siue accidentalis, siue dicat quale siue quantum siue ad aliquid siue ubi, siue quodcumque
+aliud.
+Sic igitur, breuiter, omnis syllogismus regulatus per dici de omni uel de nullo est simpliciter bonus et de
+se euidens, nec indigens aliqua probatione. Et non refert guale sit illud quod sumitur sub in minore, siue sit
+terminus substantialis siue accidentalis, siue dicat quale siue quantum siue ad aliquid siue ubi, siue quodcumque
+aliud.
+Ex quo patet quod non semper quando commutatur quid in quale uel in quantum uel in ad aliquid uel in
+quale quid uel in aliquid aliud est fallacia figurae dictionis. Tunc enim hic esset fallacia figurae dictionis 'omnis
+homo currit; album est homo; igitur album currit'. Similiter hic 'omnis homo est animal; aliquod bicubitum est
+homo; igitur aliquod bicubitum est animal', et in multis aliis euidentibus syllogismis; quod est manifeste falsum.
+Ex quo patet quod non semper quando commutatur quid in quale uel in quantum uel in ad aliquid uel in
+quale quid uel in aliquid aliud est fallacia figurae dictionis. Tunc enim hic esset fallacia figurae dictionis 'omnis
+homo currit; album est homo; igitur album currit'. Similiter hic 'omnis homo est animal; aliquod bicubitum est
+homo; igitur aliquod bicubitum est animal', et in multis aliis euidentibus syllogismis; quod est manifeste falsum.
+[3-1.05 AD VIDENDUM QUANDO SYLLOGISMUS REGULATUR
+PER DICI DE OMNI ET DE NULLO ET QUANDO NON]
+PER DICI DE OMNI ET DE NULLO ET QUANDO NON]
+Quando autem syllogismus non regulatur per dici de omni uel de nullo, tunc non oportet quod ualeat,
+sed est fallacia accidentis uel aliqua alia fallacia. Ad uidendum autem quando discursus non regulatur per dici de
+omni nec de nullo intelligendae sunt ad praesens regulae infra scriptae.
+Quando autem syllogismus non regulatur per dici de omni uel de nullo, tunc non oportet quod ualeat,
+sed est fallacia accidentis uel aliqua alia fallacia. Ad uidendum autem quando discursus non regulatur per dici de
+omni nec de nullo intelligendae sunt ad praesens regulae infra scriptae.
+Prima est quod quandocumque minor habet aliquam exponentem negatiuam talis discursus non potest
+regnlari per dici de omni uel de nullo. Et ratio est quia, sicut dictum et prius, per maiorem non denotatur nisi
+quod de quocumque dicitur subiectum quod de eodem dicitur praedicatum, uel ab eo remouetur. Igitur si in
+minori denotetur subiectum remoueri ab aliquo, uel aliquid aliud remoueri ab aliquo, nullo modo poterit regulari
+per dici de omni uel de nullo, quia in minori non debet denotari nisi quod subiectum primae propositionis dicitur
+de aliquo. Et ita patet manifeste quod quando minor habet aliquam exponentem negatiuam, non poterit
+syllogismus regulari per dici de omni uel de nullo.
+Prima est quod quandocumque minor habet aliquam exponentem negatiuam talis discursus non potest
+regnlari per dici de omni uel de nullo. Et ratio est quia, sicut dictum et prius, per maiorem non denotatur nisi
+quod de quocumque dicitur subiectum quod de eodem dicitur praedicatum, uel ab eo remouetur. Igitur si in
+minori denotetur subiectum remoueri ab aliquo, uel aliquid aliud remoueri ab aliquo, nullo modo poterit regulari
+per dici de omni uel de nullo, quia in minori non debet denotari nisi quod subiectum primae propositionis dicitur
+de aliquo. Et ita patet manifeste quod quando minor habet aliquam exponentem negatiuam, non poterit
+syllogismus regulari per dici de omni uel de nullo.
+Per istam regulam excluduntur propositiones exclusiuae et exceptiuae et habentes aliquod istorum
+uerborum 'incipit' uel 'desinit', et quaecumgue aliae quae habent exponentes negatiuas, ne possint esse minores in
+tali syllogismo. Et ideo talis discursus non ualet 'omnis homo est animal; tantum risibile est homo; igitur tantum
+risibile est animal'; nec talis
+'omne album est corpus; omne animal praeter coruum est album; igitur omne animal praeter coruum est
+corpus'; nec iste 'omne ridens est homo; Sortes incipit esse ridens; igitur Sortes incipit esse homo'; nec talis
+'omne sentiens est animal; asinus desinit esse sentiens; igitur asinus desinit esse animal'; et omnes alii liabentes
+colisimilem defectum non ualent.
+225
+
+

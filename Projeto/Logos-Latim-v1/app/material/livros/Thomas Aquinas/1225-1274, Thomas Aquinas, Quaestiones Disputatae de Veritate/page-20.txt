@@ -1,0 +1,60 @@
+RA9
+Ad octavum dicendum, quod quamvis malum non agat in animam nisi per speciem boni; quia tamen est bonum
+deficiens, anima deprehendit in se rationem defectus, et in hoc concipit rationem mali; et sic malum videtur
+malum.
+|a9 Articulus 9
+TTA
+Nono quaeritur utrum veritas sit in sensu.
+TTB
+Et videtur quod non.
+AG1
+Anselmus enim dicit, quod veritas est rectitudo sola mente perceptibilis. Sed sensus non est de natura mentis.
+Ergo veritas non est in sensu.
+AG2
+Praeterea, Augustinus probat in libro LXXXIII quaestionum, quod veritas corporeis sensibus non cognoscitur; et
+rationes eius supra positae sunt. Ergo veritas non est in sensu.
+SC
+Sed contra, Augustinus, in libro de vera religione, dicit, quod veritas est qua ostenditur id quod est. Sed id quod
+est, ostenditur non tantum intellectui, sed etiam sensui. Ergo veritas non solum est in intellectu sed etiam in
+sensu.
+CO
+Responsio. Dicendum, quod veritas est in intellectu et in sensu, sed non eodem modo.
+In intellectu enim est sicut consequens actum intellectus, et sicut cognita per intellectum.
+Consequitur namque intellectus operationem, secundum quod iudicium intellectus est de re secundum quod est.
+Cognoscitur autem ab intellectu secundum quod intellectus reflectitur supra actum suum, non solum secundum
+quod cognoscit actum suum, sed secundum quod cognoscit proportionem eius ad rem: quae quidem cognosci
+non potest nisi cognita natura ipsius actus; quae cognosci non potest, nisi natura principii activi cognoscatur,
+quod est ipse intellectus, in cuius natura est ut rebus conformetur; unde secundum hoc cognoscit veritatem
+intellectus quod supra seipsum reflectitur.
+Sed veritas est in sensu sicut consequens actum eius; dum scilicet iudicium sensus est de re, secundum quod est;
+sed tamen non est in sensu sicut cognita a sensu: etsi enim sensus vere iudicat de rebus, non tamen cognoscit
+veritatem, qua vere iudicat: quamvis enim sensus cognoscat se sentire, non tamen cognoscit naturam suam, et per
+consequens nec naturam sui actus, nec proportionem eius ad res, et ita nec veritatem eius.
+Cuius ratio est, quia illa quae sunt perfectissima in entibus, ut substantiae intellectuales, redeunt ad essentiam
+suam reditione completa: in hoc enim quod cognoscunt aliquid extra se positum, quodammodo extra se
+procedunt; secundum vero quod cognoscunt se cognoscere, iam ad se redire incipiunt, quia actus cognitionis est
+medius inter cognoscentem et cognitum. Sed reditus iste completur secundum quod cognoscunt essentias
+proprias: unde dicitur in Lib. De causis, quod omnis sciens essentiam suam, est rediens ad essentiam suam
+reditione completa.
+Sensus autem, qui inter cetera est propinquior intellectuali substantiae, redire quidem incipit ad essentiam suam,
+quia non solum cognoscit sensibile, sed etiam cognoscit se sentire; non tamen completur eius reditio, quia sensus
+non cognoscit essentiam suam.
+Cuius hanc rationem Avicenna assignat, quia sensus nihil cognoscit nisi per organum corporale.
+Non est autem possibile ut organum corporale medium cadat inter potentiam sensitivam et seipsam.
+Sed potentiae insensibiles nullo modo redeunt super seipsas, quia non cognoscunt se agere, sicut ignis non
+cognoscit se calefacere.
+RA
+Et ex his patet solutio ad obiecta.
+|a10 Articulus 10
+TTA
+Decimo quaeritur utrum aliqua res sit falsa.
+TTB
+Et videtur quod non.
+AG1
+Augustinus enim dicit in Lib. Solil., verum est id quod est. Ergo falsum est id quod non est. Sed quod non est,
+non est res aliqua. Ergo nulla res est falsa.
+AG2
+
+20
+
+

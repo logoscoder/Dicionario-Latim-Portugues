@@ -1,0 +1,62 @@
+Aut a est aut b est.
+Fiunt autem in superiore quatuor modis: quamlibet enim partem propositionis assumpseris, siue praecedentem,
+siue etiam consequentem, siue negatiuo modo, siue affirmatiuo, faciet sullogismum. Nam si haec propositio sit:
+Si non est a, est b
+siue non sit a, erit b; siue sit a, non erit b; siue non sit b, erit a; siue sit b, non erit a.
+[3.10.6] In propositione quoque disiunctiua idem est. Nam cum dicitur:
+Aut a est aut b est
+siquidem a fuerit, b non erit; quod si a non fuerit, erit b, et si b non sit, erit a: si b fuerit, non erit a. Id quoque
+tali declaratur exemplo. Nam si sit propositio:
+Aut aeger est aut sanus
+quidquid horum in assumptione assumptum fuerit, uel negatum, altera pars uel affirmabitur, uel negabitur hoc
+modo: nam si sanus est, non est aeger; si non est sanus, aeger est; si aeger est, non est sanus; si non est aeger, sanus est.
+[3.10.7] Item ea propositio disiunctiua quae proponit:
+Aut non est a aut non est b
+fit quidem de his quae quolibet modo simul esse non /384/ possunt, etiamsi non alterum eorum necesse sit
+esse, similisque est ei propositioni connexae per quam ita proponatur:
+Si est a, non est b.
+Quae enim sic enuntiat:
+Aut non est a aut non est b
+id nimirum sentit, quod si a sit, b esse non possit. Id ita probabitur. Cum enim proponitur hoc modo:
+Aut non est a aut non est b
+tum si assumatur esse a, non erit b. Quocirca ei propositioni connexae similis est quae ita enuntiat:
+Si sit a non esse b.
+In hac uero propositione duae tantum complexiones syllogismos creabant: nam si esset a, non erat b, et si esset
+b non erat a. Siue autem non esset a, non necesse erat esse uel non esse b; siue non esset b, non necesse erat esse uel
+non esse a.
+[3.11.1] Quocirca et in disiunctiua propositione totidem syllogismos esse necesse est, totidem uero
+incollectibiles complexiones; nam cum ita proponitur:
+Aut non est a aut non est b
+ita dicitur:
+Si sit a, non erit b
+et si sit b, non erit a. Siue autem non sit a, non necesse erit esse uel non esse b; siue non sit b, non necesse erit
+esse uel non esse a, ueluti in his apparet exemplis.
+[3.11.2] Si enim quis dicat:
+Aut non est album aut non est nigrum
+si igitur assumat:
+Atqui est album
+non erit nigrum; uel rursus:
+Atqui est nigrum
+non erit album. Siue autem album non esse assumpserit, non necesse erit esse uel non esse nigrum; siue
+nigrum non esse assumpserit, ut sit uel non sit /386/ album nullam faciet necessitatem. Item ea propositio per quam ita
+proponitur:
+Aut est a aut non est b
+dicitur quidem de sibimet adhaerentibus, proponiturque in his propositionibus quae ad minora de maioribus
+tendunt, similisque est ei propositioni connexae quae enuntiat:
+Si non est a, non est b.
+[3.11.3] Nam qui dicit:
+Aut est a aut non est b
+si assumat:
+Atqui non est a
+modis omnibus non erit b; si igitur non sit a, non erit b. Id enim haec disiunctio praemittebat. In hac uero
+siquidem a negaretur, uel confirmaretur b, habet aliquis syllogismus; siue autem a affirmaretur, siue b negaretur, nulla
+erat in conclusione necessitas. Idem prouenit in disiunctis: nam cum proponitur:
+Aut est a aut non est b
+siquidem non sit a, non erit b; si uero sit b, erit a: quod si sit a, uel non sit b, nihil est necessarium.
+[3.11.4] Id uero in his terminis approbatur, si quis ita proponat:
+Aut animal est aut non est homo
+si igitur animal non sit, non est homo; si homo sit, animal est; siue autem animal sit, non necesse est esse
+hominem, siue homo non sit, animal non necesse est interire. Ea uero propositio quae dicit:
+Aut non est a aut est b
+
+

@@ -1,0 +1,64 @@
+FIGURA
+
+<< Square of Opposition >>
+
+[800B] In superiori igitur descriptione uniuersalis affirmatiua et uniuersalis negutiua contrariae sunt,
+subcontrariae uero particularis affirmatiua et particularis negatiua, subalternae uero dicuntur uniuersalis affirmatiua et
+particularis affirmatiua, et item uniuersalis negatiua et particularis negatiua. Contraiacentes sunt angulares, id est
+uniuersalis affirmatiua et particularis negatiua. Et item uniuersalis negatiua et particularis affirmatiua, ut:
+Omnis homo iustus est
+Quidam homo iustus non est
+Nullus homo iustus est
+Quidam homo iustus est
+et sunt ut hoc modo definiri possint. Contrariae sunt quae uniuersaliter eidem idem haec affirmat, haec negat.
+Subcontrariae sunt [800C] quae particulariter eidem idem haec affirmat, haec negat.
+Subalternae sunt quae eidem idem affirmant uel negant, haec particulariter, illa uniuersaliter. Contraiacentes
+sunt quando eidem eamdem rem haec affirmat, haec negat, uel haec negat, haec affirmat, illa generaliter, haec
+particulariter, et uocantur contrariae, quis quod affirmatio uniuersaliter ponit negatio uniuersaliter tollit.
+Subalternae uero, quoniam quod illa uniuersaliter ponit, etiam haec particulariter ponit. Subcontrariae uero
+dictae sunt, uel quod naturaliter sub ipsis contrariis positae sunt, ut descriptio docet, uel quod a contrariis diuersae sunt,
+et ipsis contrariis quodammodo contrariae. Nam contraria, ut utraeque simul sint fieri non potest, ut utraeque omnino
+non sint fieri potest, contrariam uim obtinebunt subcontrariae. [800D] Nam ut utraeque omnino non sint fieri non
+potest, ut utraeque simul sint fieri potest, quod in sequentibus melius explicabitur. Contraiacentes dicuntur, quoniam
+uniuersalis affirmatio uel negatio, particularem affirmationem uel negationem angulariter respiciunt.
+Cum autem singulae propositiones habeant duas differentias, unam ad qualitatem, alteram ad quantitatem, ut
+quae uniuersalis, affirmatiua est, habeat differentiam ad quantitatem quod uniuersalis est, et aliam ad qualitatem quod
+affirmatiua est; eodem modo caeterae propositiones binas habeant differentias, unam secundum qualitatem, alteram
+secundum quantitatem.
+Subalternae quae sunt, una tantum differentia distant quantitatis, quod haec particularis, illa uniuersalia [801A]
+est. Nam qualitatis differentiam nullam retinent. Utraeque enim affirmatiuae sunt. Hae uero aliae, id est contrariae et
+subcontrariae ad qualitatem, quod illa affirmatiua, illa negatiua est, nam ad quantitatem nihil differunt. Utraeque enim
+contrariae uniuersales, utraeque subcontrariae particulares sunt, illae autem quae contraiacentes dicuntur utrisque
+differentiis differunt. Nam et illa uniuersalis affirmatio est, haec particularis negatio, et illa uniuersalis negatio, est,
+haec particularis affirmatio.
+Nunc quoniam quae secundum qualitatem uel secundum quantitatem et quomodo differant dictum est, earum
+proprietates, qus secundum uerum falsumque sunt, explicemus.
+Igitur earum quae subalternae sunt, si fuerit uera uniuersalis affirmatio uera erit particularis affirmatio. [801B]
+Si enim:
+Omnis homo iustus est
+uera est, uera erit etiam quae dicit:
+Aliquis homo iustus est.
+Nam si omnis homo iustus est, et quidam. Eodem modo negatiuae subalternae nam si uniuersalis negatiua uera
+fuerit, erit etiam uera negatiua particularis, ut si:
+Nullus homo iustus est
+uera fuerit, etiam erit uera:
+Quidam homo iustus non est.
+Nam si nullus homo iustus est, nec quidam. Conuerti autem non potest, nam si particularis uera fuerit, non
+necesse erit ueram esse etiam uniuersalem. Ut si:
+Quidam homo iustus est
+uera fuerit, non necesse erit ueram esse:
+Omnis homo iustus est.
+Possunt enim esse non omnes. Et eodem modo de negatiua. Nam si particularis negatiua uera fuerit, ut est:
+Quidam homo non est iustus
+non necesse erit uniuersalem:
+Nullus homo iustus [801C] est
+ueram esse. Potest enim fieri ut quidam iusti sint. Ergo dicamus in subalternis propositionibes si uniuersales
+uerae sint, ueras esse necesse est particulares sed non conuertitur. Nam si particulares uerae fuerint non necesse est
+ueras etiam uniuersales esse.
+Particulares uero ad uniuersales contrariam conuersionem habent. Nam ut superius si uniuersales uerae essent,
+etiam particulares uerae essent; et si particulares uerae essent, non omnino uere essent etiam uniuersales in
+particularibas; si particulares falsae fuerint, falsae erunt etiam uniuersales. Nam si particularis:
+Quidam homo iustus est
+falsa fuerit, uniuersalis etiam:
+
+

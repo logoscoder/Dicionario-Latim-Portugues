@@ -1,0 +1,64 @@
+supposuit, scilicet quod prius et posterius non sit, tempore non existente:
+hoc enim principio supposito ad nihil aliud usus est; sed ex hoc
+concluditur quod omne nunc sit principium et finis. Detur enim quod aliquod
+nunc sit principium alicuius temporis: manifestum est autem ex definitione
+principii, quod principium temporis est ante quod nihil eius existit: est
+ergo accipere aliquid ante vel prius quam ipsum nunc, quod ponitur
+principium temporis. Prius autem non est sine tempore: ergo nunc quod
+ponitur principium temporis, est etiam temporis finis. Et eodem modo si
+ponatur nunc esse finis temporis, sequitur quod sit etiam principium: quia
+de ratione finis est quod post ipsum nihil sit eius: posterius autem non
+est sine tempore: sequitur ergo quod nunc quod ponitur finis, sit etiam
+principium temporis.
+|#15
+Deinde cum dicit: eadem autem ratio est etc., ostendit quod motus
+semper sit futurus.
+Et ostendit hoc ex parte motus: quia ratio supra ex parte motus accepta,
+non concludebat nisi quod motus nunquam incipiat; ratio vero sumpta ex
+parte temporis, concludebat utrumque, et quod nunquam inceperit, et quod
+nunquam deficiat.
+Dicit ergo quod eadem ratione potest probari quod motus sit
+incorruptibilis, idest quod nunquam deficiat, per quam probatur quod motus
+nunquam incepit. Sicut enim ex hoc quod est motum incipere, sequitur quod
+sit quaedam mutatio prior mutatione quae ponitur prima; sic si ponatur quod
+motus quandoque deficiat, sequitur quod sit aliqua mutatio posterior ea
+quae ponitur postrema.
+Et quomodo hoc sequatur manifestat abbreviando quod supra diffusius dixerat
+circa inceptionem motus. Posuerat enim quod si motus incepit, aut mobilia
+et moventia inceperunt, aut semper fuerunt. Et similis divisio posset hic
+fieri; quia si motus deficiat, aut mobilia et moventia remanebunt, aut non:
+sed quia supra ostenderat quod idem sequitur secundum utrumque, ideo hic
+non utitur nisi altera via, scilicet quod ponatur sic motus deficere, quod
+mobilia et moventia deficiant.
+Hoc ergo supposito, dicit quod non simul quiescit, idest deficit, motus in
+actu et ipsum mobile: sed sicut prior est generatio mobilis quam motus
+eius, ita posterior est corruptio mobilis quam cessatio motus. Quod sic
+patet: quia contingit quod remaneat aliquid combustibile, postquam desinit
+comburi.
+Et sicut dictum est de mobili, ita dicendum est de motivo: quia non simul
+desinit esse movens in actu, et esse motivum in potentia.
+Sic igitur patet quod si etiam ipsum mobile corrumpitur post cessationem
+motus, necessarium erit esse quandam corruptionem ipsius mobilis.
+Et iterum quia ponitur quod omnia moventia et mota desinunt, necessarium
+erit posterius, quod etiam ipsum corruptivum corrumpatur.
+Cum ergo corruptio sit mutatio quaedam, sequetur quod post ultimam
+mutationem sint aliquae mutationes. Cum ergo hoc sit impossibile, sequitur
+quod motus in perpetuum duret.
+|#16
+Hae igitur rationes sunt, ex quibus Aristoteles probare intendit
+motum semper fuisse et nunquam deficere.
+Quod quidem quantum ad unam partem fidei nostrae repugnat, scilicet quod
+ponatur motus semper fuisse. Nihil enim secundum fidem nostram ponitur
+semper fuisse, nisi solus Deus, qui est omnino immobilis: nisi forte quis
+ipsum divinum intelligere velit nominare motum; quod aequivoce
+intelligeretur: non enim de tali motu Aristoteles hic intelligit, sed de
+motu proprie dicto.
+Quantum vero ad aliam partem, non omnino est contrarium fidei: quia ut
+supra dictum est, non agit Aristoteles de motu caeli, sed universaliter de
+motu. Ponimus autem secundum fidem nostram, substantiam mundi sic quandoque
+incepisse, quod tamen nunquam desinat esse. Ponimus etiam quod aliqui motus
+semper erunt, praesertim in hominibus, qui semper remanebunt,
+incorruptibilem vitam agentes, vel miseram vel beatam.
+288
+
+

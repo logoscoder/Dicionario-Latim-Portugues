@@ -1,0 +1,62 @@
+SC1
+Sed contra, juramentum institutum est ut per ipsum fiat fides de sermonibus jurantis recipienti.
+Sed hoc non esset nisi secundum suum intellectum juramentum accipiendum esset. Ergo juramentum obligat
+secundum intentionem recipientis.
+SC2
+Praeterea, fraus et dolus nemini debet patrocinari.
+Hoc autem accideret, si aliquis dolose jurans secundum suam intentionem tantum obligaretur.
+Ergo obligatur secundum intentionem recipientis.
+CO
+Ad tertiam quaestionem dicendum, quod juramentum promissorium, ut dictum est, obligat hac necessitate ut
+culpa evitetur: unde obligat ad omne illud faciendum quo non facto culpa incurritur. Distinguendum est ergo in
+eo qui jurat; aut enim simpliciter, aut dolose jurat. Si jurat dolose, ex duabus partibus potest culpa sequi: scilicet
+ex fractione juramenti, et ex dolo. Quamvis ergo ex ipsa ratione juramenti, inquantum juramentum, non obligetur
+ad servandum ipsum nisi secundum suam intentionem; tamen ex necessitate juramenti, inquantum fuit dolosum,
+obligatur ad observandum taliter quod ex dolo alius non laedatur: et hoc est quando secundum intentionem
+recipientis implet juramentum. Si autem simpliciter juret absque dolo, tunc in foro conscientiae non obligatur
+nisi secundum suam intentionem; sed in foro contentioso, ubi intentio ignoratur, obligatur secundum quod verba
+communiter accipi solent.
+RA
+Et per hoc patet solutio ad objecta.
+|a4 Articulus 4: Utrum perjurium sit mendacium juramento firmatum.
+AG1
+Ad quartum sic proceditur. Videtur quod perjurium non sit mendacium juramento firmatum.
+Omne enim mendacium est falsa vocis significatio, ut in praecedenti dist. Dictum est. Sed perjurium potest esse
+sine falsa vocis significatione: quia, sicut in littera dicitur, qui jurat verum quod putat esse falsum, perjurus est.
+Ergo non omne perjurium est mendacium juramento confirmatum.
+AG2
+Praeterea, perjurium quandoque incurritur in juramentis quae de futuris contingentibus fiunt.
+Sed in futuris contingentibus non est veritas vel falsitas determinata, ut probat Philosophus; et sic perjurium
+potest esse sine falsa vocis significatione, et sine mendacio.
+AG3
+Praeterea, in littera dicitur, quod qui falsum jurat, quod credit esse verum, perjurus est. Sed talis non mentitur.
+Ergo perjurium potest esse sine mendacio.
+AG4
+Praeterea, Hieronymus dicit, quod juramentum quod tres comites non habet, est perjurium. Sed defectus justitiae
+vel judicii non facit mendacium, sed solum defectus veritatis. Ergo non omne perjurium est mendacium.
+AG5
+Praeterea, perjurium nihil aliud est, ut videtur, quam perversum juramentum. Sed juramentum pervertitur non
+mendacio tantum, sed etiam per falsam formam jurandi, sicut qui jurat per idola. Ergo perjurium potest esse sine
+mendacio.
+SC1
+In contrarium est definitio quae in littera ponitur.
+SC2
+Praeterea, juramentum est ad confirmationem veritatis. Sed mendacium veritati opponitur. Ergo perjurium, quod
+est perversitas juramenti, est mendacium.
+SC3
+Praeterea, jurare est jus veritatis Deo reddere.
+Sed quicumque sine mendacio jurat, jus veritatis Deo reddit. Ergo sine mendacio est juramentum, et non
+perjurium.
+CO
+Respondeo dicendum, quod quaelibet res denominatur a suo complemento: et nomen quod sumitur a defectu
+alicujus rei, proprie denominat defectum qui accidit circa complementum alicujus rei. Juramentum autem in
+confirmatione veritatis completur, sicut syllogismus in confirmatione conclusionis. Unde sicut dicitur
+insyllogizatum esse, quando conclusio non sequitur ex praemissis, non autem quando aliqua praemissarum est
+falsa manente forma debita; ita etiam perjurium, quod defectum juramenti nominat, significat defectum qui
+accidit in re quae juramento confirmanda erat.
+Defectus autem confirmationi veritatis contrarius, est mendacium; et ideo perjurium, proprie loquendo, nominat
+defectum mendacii in juramento.
+RA1
+1336
+
+

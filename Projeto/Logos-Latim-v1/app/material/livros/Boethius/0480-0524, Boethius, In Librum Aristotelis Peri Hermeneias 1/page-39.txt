@@ -1,0 +1,44 @@
+similis est ei quae dicit:
+Est non iustus homo
+Sed quemadmodam istae sibi sint similes et quomodo in consequentia proprium teneant ordinem, nunc quidem
+exsequi distulimus, paulisper tamen describantur, ut earum quaedam proprietas ostendatur. Sit enim affirmatio
+finiti nominis et sub ea negatio nominis infiniti. Sit item negatio finiti nominis et sub ea affirmatio nominis
+infiniti.
+Aff. Fin. Est iustus homo Neg. Fin. Non est iustus homo
+Neg. Inf. Non est non iustus homo Aff. Inf. Est non iustus homo
+/136/ In hac igitur descriptione negatio ex infinito nomine sub affirmatione finiti nominis ponitur et rursus
+affirmatio infiniti nominis sub negatione finiti. Quarum angulares, quoniam sunt indefinitae omnes, simul in
+omnibus uerae esse possunt, nisi in his tantum quae aut naturaliter insunt aut naturaliter inesse non possunt. Ut si
+quis dicat:
+Est homo animal
+numquam cum hac uera esse potest quae dicit:
+Est homo non animal
+quae est angularis, idcirco quoniam animal naturaliter in substantia hominis perspicitur inhaerere. Rursus si quis
+dicat:
+Est homo lapis
+Est homo non lapis
+ne hae quidem simul uerae esse possunt, idcirco quod lapidem inesse homini naturaliter impossibile est. Quod si
+huiusmodi sint quae non insint naturaliter sed inesse possint, ut in his quae supra proposuimus exemplis,
+angulares uerae sunt semper. Potest enim uera esse et ea quae dicit:
+Est iustus homo
+et ea quae dicit:
+Est non iustus homo
+Rursus potest uera esse ea quae dicit:
+Non est iustus homo
+si hoc de Sulla dicatur, et ea quae dicit:
+Non est non iustus homo
+si hoc de Catone praedicetur. In his igitur quae sunt indefinitae, si ea quae praedicantur naturaliter non insunt et
+ea inesse possibile est, semper angulares simul ueras esse contingit. Quod si huiusmodi propositiones cum
+definitione ponamus, ita dicendum est:
+Est omnis homo iustus
+huius negatio:
+Non est omnis homo iustus
+rursus:
+Est omnis homo non iustus
+huius negatio:
+Non est omnis homo non iustus
+Quae disponantur hoc modo, ut negatio sub affirmatione sit et sub negatione affirmatio. /137/
+
+39
+
+

@@ -1,0 +1,66 @@
+indivisibile. Si indivisibile, sequitur quod impartibile erit coniunctum
+impartibili; quia eadem ratione secunda pars motus erit in impartibili; sic
+enim oportet dividere magnitudinem, sicut et motum, ut supra de tempore
+dictum est. Si autem bc sit divisibile, erit accipere aliquod signum prius,
+idest propinquius ipsi b, quam c; et sic prius mutabitur ex b in illud,
+quam in c: et iterum illo erit accipere aliud prius, et sic semper, quia
+divisio magnitudinis non deficit. Patet ergo quod non est accipere aliquod
+primum in quod mutatum sit motu locali.
+Et similiter manifestum est in mutatione quantitatis, quae est augmentum et
+decrementum: quia haec etiam mutatio est secundum aliquod continuum,
+scilicet secundum quantitatem accrescentem vel subtractam; quae cum sit in
+infinitum divisibilis, non est in ea accipere primum.
+Et sic manifestum est, quod in sola mutatione quae est secundum qualitatem,
+contingit aliquid esse indivisibile per se. Inquantum tamen est divisibile
+per accidens, similiter non est accipere primum in mutatione tali: sive
+accipiatur successio mutationis inquantum pars post partem alteratur
+(manifestum est enim quod non erit accipere primam partem albi, sicut nec
+primam partem magnitudinis); sive accipiatur successio alterationis
+secundum quod aliquid idem est albius vel minus album; quia subiectum
+infinitis modis potest variari secundum magis album et minus album. Et sic
+motus alterationis potest esse continuus, et non habens aliquid primum.
+|+8
+
+Lectio 8
+
+|#1
+Postquam Philosophus ostendit qualiter sit accipere primum in
+mutatione et qualiter non, hic ostendit ordinem eorum quae in motu
+inveniuntur ad invicem: et primo praemittit quoddam necessarium ad
+propositum ostendendum; secundo ostendit propositum, ibi: ostenso autem hoc
+etc..
+|#2
+Dicit ergo primo, quod omne quod mutatur, mutatur in tempore, ut
+supra ostensum est: sed in tempore aliquo dicitur aliquid mutari
+dupliciter; uno modo primo et per se, alio modo secundum alterum, idest
+ratione partis, sicut dicitur aliquid mutari in anno, quia mutatur in die.
+Hac ergo distinctione praemissa, proponit quod intendit probare: scilicet,
+si aliquid mutatur primo in aliquo tempore, necesse est quod mutetur in
+qualibet parte illius temporis.
+Et hoc probat dupliciter.
+Primo quidem ex definitione eius quod dicitur primum: hoc enim dicitur
+primo alicui convenire, quod convenit ei secundum quamlibet suam partem, ut
+in principio quinti dictum est.
+Secundo probat idem per rationem. Sit enim tempus in quo primo aliquid
+movetur xr: et quia omne tempus est divisibile, dividatur secundum k.
+Necesse est ergo dicere quod in parte temporis quae est xk, aut moveatur
+aut non moveatur; et similiter de parte quae est kr. Si ergo detur quod in
+neutra harum partium movetur, sequitur quod neque in toto xr moveatur, sed
+quiescat in eo: quia impossibile est quod aliquid moveatur in tempore, in
+cuius nulla parte movetur. Si autem detur quod in una parte temporis
+moveatur et non in alia, sequetur quod non primo moveatur in xr tempore:
+quia oporteret quod secundum utramque partem moveretur, et non secundum
+alteram tantum. Necesse est ergo dicere quod moveatur in qualibet parte
+temporis quod est xr. Et hoc est quod demonstrare volumus; scilicet quod in
+quo primo tempore aliquid movetur, in qualibet parte eius movetur.
+|#3
+Deinde cum dicit: ostenso autem hoc etc., procedit ad principale
+propositum ostendendum. Et circa hoc duo facit: primo inducit
+demonstrationes ad propositum ostendendum; secundo concludit veritatem
+determinatam, ibi: quare necesse est etc..
+Circa primum duo facit: primo ostendit quod ante omne moveri praecedit
+mutatum esse; secundo quod e converso ante quodlibet mutatum esse praecedit
+moveri, ibi: non solum autem quod mutatur etc..
+231
+
+

@@ -1,0 +1,57 @@
+|#18 Huiusmodi autem differentiae ratio est: quia quod recipitur in aliquo sicut proprio subiecto et naturali,
+potest in eo permanere et esse principium actionis; quod autem recipitur in aliquo solum sicut adventitia qualitas,
+non potest permanere, nec esse principium actionis. Quia vero formae substantiales sunt principia qualitatum et
+omnium accidentium, illa qualitas recipitur in subiecto aliquo secundum esse proprium et naturale, quae disponit
+subiectum ad formam naturalem, cuius est susceptivum; sicut aqua ratione suae materiae, est susceptiva formae
+substantialis ignis, quae est principium caloris. Et ideo calor recipitur in aqua, disponens ipsam ad formam ignis;
+et ideo remoto igne adhuc aqua remanet calida calefacere potens.
+|#19 Et similiter odor recipitur in aere et aqua et sonus in aere secundum suum esse proprium et naturale et
+secundum quod aer et aqua immutantur ab enchyma siccitate et aer a percussione alicuius corporis. Et inde est
+quod cessante percussione, remanet sonus in aere, et remoto corpore odorifero adhuc sentitur odor in aere,
+propter hoc quod pars aeris immutata ad sonum vel ad odorem potest aliam similiter immutare, ut sic fiant
+diversi motus sibiinvicem succedentes.
+|#20 Sed diaphanum non est susceptivum formae substantialis corporis illuminantis, puta solis, qui est prima
+radix luminis; neque per receptionem luminis disponetur ad aliquam formam substantialem. Unde recipitur
+lumen in diaphano sicut quaedam qualitas adventitia, quae non remanet absente corpore illuminante, nec potest
+esse principium actionis in aliud. Unde una pars aeris non illuminatur ab alia; sed totus aer illuminatur a primo
+illuminante quantum potest se extendere virtus illuminantis; et ideo est unum illuminatum et una illuminatio
+totius medii.
+|#21 Deinde cum dicit omnino autem ostendit secundam differentiam. Et dicit, quod si universaliter loquamur
+de alteratione, idest loci mutatione, non similiter se habet in utroque, quia loci mutationes rationabiliter
+perveniunt prius ad medium magnitudinis, supra quam est motus, quam ad ultimum; quia scilicet in loci
+mutatione est motus de extremo magnitudinis, ad extremum eius, unde oportet quod mobile in medio temporis
+pertingat ad medium magnitudinis; et tunc ratio superinducta locum habet in loci mutatione.
+Sonus autem consequitur quemdam motum localem, inquantum scilicet ex percussione causante sonum
+commovetur aer usque ad auditum; et ideo rationabile est, quod sonus prius perveniat ad medium, quam ad
+auditum.
+|#22 Sed in his quae alterantur non similiter se habet. Termini enim alterationis non sunt ipsa extrema
+magnitudinis. Et ideo non oportet, quod tempus alterationis, per se loquendo, commensuretur alicui magnitudini,
+ita quod in medio temporis, motus perveniat ad medium magnitudinis super quam fit motus; quia hoc non est
+dare in alteratione, quae non est motus in quantitate vel in ubi, sed in qualitate, neque ad medium magnitudinis
+quae movetur. Contingit enim aliquando quod totum corpus simul alteratur, non autem dimidium eius prius, sicut
+videmus quod tota aqua simul congelatur. Sicut enim in motu locali tempus commensuratur distantiae
+magnitudinis, super quam transit motus, et secundum divisionem eius dividitur, ut probatur in sexto physicorum;
+ita etiam in alteratione, tempus commensuratur distantiae terminorum. Et ideo maius tempus requiritur ceteris
+paribus, ad hoc quod de frigido fiat calidum, quam ad hoc quod de tepido fiat calidum.
+|#23 Et ideo, si aliqua extrema sunt inter quae non sit accipere medium, oportet quod de uno extremo in aliud
+fiat transitus absque medio. Contradictio autem est oppositio, cuius non est medium secundum se, ut dicitur in
+primo posteriorum, et eadem ratione supposita aptitudine subiecti, cum privatio nihil aliud sit quam negatio in
+subiecto.
+Unde omnes mutationes quarum termini sunt esse et non esse, vel privatio et forma, sunt instantaneae, et non
+possunt esse successivae.
+|#24
+In alterationibus enim successivis attenditur successio secundum distantiam unius contrarii ab alio
+determinata media: in qua quidem distantia tota magnitudo corporis, in quam potest immediate virtus primi
+alterantis, consideratur sicut unum subiectum, quod statim simul incipit moveri. Sed, si sit corpus alterabile tam
+magnum, quod virtus primi alterantis non possit ipsum attingere secundum totum, sed secundum partem eius,
+sequitur quod prima pars primo alterata, alterabit consequenter aliam. Et ideo dicit quod, si fuerit multum corpus
+quod calefit vel quod congelatur, necesse est quod habitum patiatur ab habito, idest quod consequens pars ab
+immediate praecedente alteretur. Sed prima pars alteratur ab ipso primo alterante, et simul et subito, quia scilicet
+non est ibi successio ex parte magnitudinis, sed solum ex parte contrariarum qualitatum, ut dictum est.
+|#25 Haec autem est causa quare odor prius pervenit ad medium quam ad sensum, quamvis hoc fiat per
+alterationem sine motu locali, quia corpus odoriferum non potest simul immutare totum medium, sed immutat
+partem unam, quae immutat aliam; et sic successive pervenit immutatio usque ad olfactum per plures motus, ut
+supra dictum est.
+39
+
+

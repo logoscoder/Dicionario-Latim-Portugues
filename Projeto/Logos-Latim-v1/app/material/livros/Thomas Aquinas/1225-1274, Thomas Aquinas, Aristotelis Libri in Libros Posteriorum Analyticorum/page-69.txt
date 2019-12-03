@@ -1,0 +1,57 @@
+Unde requiritur diversitas primorum principiorum ad diversitatem scientiarum. Quod quidem non erit, si vel
+diversorum principia ex eisdem principiis fluant, sicut principia trianguli et quadrati derivantur ex principiis
+figurae; vel principia unius deriventur ex principiis alterius, sicut principia isoscelis dependent a principiis
+trianguli. Nec tamen intelligendum est quod sufficiat ad unitatem scientiae unitas principiorum primorum
+simpliciter, sed unitas principiorum primorum in aliquo genere scibili. Distinguuntur autem genera scibilium
+secundum diversum modum cognoscendi.
+Sicut alio modo cognoscuntur ea quae definiuntur cum materia, et ea quae definiuntur sine materia.
+Unde aliud genus scibilium est corpus naturale et corpus mathematicum. Unde sunt diversa prima principia
+utriusque generis, et per consequens diversae scientiae. Et utrumque horum generum distinguitur in diversas
+species scibilium, secundum diversos modos et rationes cognoscibilitatis.
+|#13 Deinde cum dicit: huiusmodi autem signum est etc., manifestat positam rationem. Et dicit quod signum
+huius est, quod scientiae sint alterae secundum principia, cum perveniatur resolvendo ad principia prima, quae
+sunt indemonstrabilia, quae oportet esse eiusdem generis cum his quae demonstrantur; quia, sicut supra
+ostensum est, non contingit ex alio genere procedentem demonstrare. Ad hoc autem quod principia
+indemonstrabilia sint unius generis, accipitur ut signum, cum ea quae demonstrantur per ipsa, sint in eodem
+genere et congenea, idest connaturalia vel proxima secundum genus sibi ipsis; huiusmodi enim habent eadem
+principia. Et sic patet quod unitas generis scibilis, in quantum est scibile, ex quo accipiebatur unitas scientiae, et
+unitas principiorum, secundum quae accipiebatur scientiae diversitas, sibi mutuo correspondent.
+|#14 Deinde cum dicit: plures autem demonstrationes etc., ostendit quomodo una conclusio per plura principia
+demonstrari potest. Et hoc quidem contingit dupliciter. Uno quidem modo, quando ponuntur plura media in
+eadem coordinatione, et in una demonstratione accipitur unum illorum mediorum, et in alia demonstratione
+accipitur aliud ad eamdem conclusionem: et sic oportet quod accipiatur medium non continuum; ut si sint duo
+extrema ab, ut puta habere tres et isosceles, et sint eorum duo media coordinata, scilicet d et c, ut puta triangulus
+et figura talis.
+Posset ergo demonstrari a de b duabus demonstrationibus, in quarum una accipietur pro medio c, et in alia d, et
+in neutra accipietur medium continuum extremis, quia in una accipietur medium continuum uni extremo et
+discontinuum ab altero, in alia vero e converso.
+|#15 Alio modo hoc contingit, quando accipiuntur diversa media ex diversa coordinatione, ut puta si a, quod est
+maior extremitas, sit transmutari, et b, quod est minor extremitas, sit delectari, et accipiantur diversa media non
+existentia sub invicem, scilicet e, quod est quiescere, et d, quod est moveri. Secundum hoc enim eadem
+conclusio potest concludi per diversa media non unius ordinis; et erit una demonstratio talis: omne quod quiescit
+transmutatur, quia eiusdem est transmutari et quiescere; omne quod delectatur quiescit, quia quies in bono
+desiderato causat delectationem; ergo omne quod delectatur transmutatur. Alia demonstratio erit: omne quod
+movetur transmutatur; omne quod delectatur movetur, quia delectatio est quidam motus appetitivae potentiae;
+ergo omne quod delectatur transmutatur. Vel quod dicit omne quod delectatur movetur, est secundum opinionem
+Platonis, et habet locum in delectationibus sensibilibus, quae sunt cum motu.
+Aliud quod dicit, omne quod delectatur quiescit, est verum secundum opinionem Aristotelis, ut patet in VII et X
+ethicorum. Et hoc praecipue verificatur in delectationibus intelligibilibus.
+|#16 Deinde dicit quod, sicut hoc ostensum est in prima figura, ita etiam potest in aliis figuris de facili
+considerari, quod eadem conclusio diversis mediis potest syllogizari. Inducit autem hoc Philosophus ad
+ostendendum quod diversum medium demonstrationis quandoque pertinet ad eamdem scientiam, puta cum est ex
+eadem coordinatione; quandoque autem ad diversas scientias, puta quando est ex alia coordinatione. Sicut terram
+esse rotundam per aliud medium demonstrat astrologus, scilicet per eclipsim solis et lunae, et per aliud naturalis,
+scilicet per motum gravium ad centrum, ut dicitur in II physicorum.
+|+42 Lectio 42
+|#1 Postquam Philosophus assignavit rationem unitatis et diversitatis scientiarum ex parte generis subiecti, et ex
+parte principiorum, hic de utrisque prosequitur. Et primo, de subiectis de quibus est scientia; secundo, de
+principiis; ibi: eadem autem principia etc.. Circa primum considerandum est quod supra duas conditiones
+posuerat generis, quod est subiectum scientiae; quarum una est ut componatur ex primis, alia est ut partes et
+passiones sint eius per se. Quarum conditionum una deest in his quae sunt a fortuna; quia non eveniunt per se,
+sed per accidens, et praeter intentionem, ut probatur in II physicorum. Alia vero conditio deest in his quae per
+sensum cognoscuntur, quae sunt prima in nostra cognitione.
+Et ideo primo ostendit quod scientia non est eorum quae sunt a fortuna; secundo ostendit quod non est eorum
+quae cognoscuntur per sensum; ibi: neque per sensum est scire etc..
+69
+
+

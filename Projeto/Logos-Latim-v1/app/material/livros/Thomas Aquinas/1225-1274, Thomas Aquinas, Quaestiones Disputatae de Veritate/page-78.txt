@@ -1,0 +1,61 @@
+Ad primum quod in contrarium obiicitur, dicendum, quod materia non procedit in esse a Deo nisi in composito;
+et sic ei idea, proprie loquendo, respondet.
+RC2
+Et similiter dicendum ad secundum, quod materia, proprie loquendo, non habet essentiam, sed est pars essentiae
+totius.
+|a6 Articulus 6
+TTA
+Sexto quaeritur utrum in Deo sit idea eorum quae nec sunt, nec erunt, nec fuerunt.
+TTB
+Et videtur quod non.
+AG1
+Quia nihil habet ideam nisi quod habet esse determinatum. Sed illud quod nec fuit, nec est, nec erit, nullo modo
+habet esse terminatum.
+Ergo nec ideam.
+AG2
+Sed dicebat, quod quamvis non habeat esse terminatum in se, habet tamen esse terminatum in Deo. Sed contra,
+ex hoc est aliquid terminatum quod unum ab alio distinguitur. Sed omnia, prout sunt in Deo, sunt unum, et ab
+invicem indistincta.
+Ergo nec etiam in Deo habet esse terminatum.
+AG3
+Praeterea, dionysius dicit, quod exemplaria sunt divinae et bonae voluntates, quae sunt praedeterminativae et
+effectivae rerum. Sed illud quod nec fuit, nec est, nec erit, nunquam fuit praedeterminatum a divina voluntate.
+Ergo non habet ideam vel exemplar in Deo.
+AG4
+Praeterea, idea ordinatur ad rei productionem.
+Si ergo sit idea eius quod nunquam in esse producitur, videtur quod sit frustra; quod est absurdum; ergo etc..
+SC1
+Sed contra. Deus habet cognitionem de rebus per ideas. Sed ipse cognoscit ea quae nec sunt, nec erunt, nec
+fuerunt, ut dictum est supra in quaestione de scientia Dei.
+Ergo est in eo idea etiam eorum quae nec sunt, nec fuerunt, nec erunt.
+SC2
+Praeterea, causa non dependet ab effectu.
+Sed idea est causa essendi rem. Ergo non dependet ab esse rei aliquo modo: potest igitur esse etiam de his quae
+nec sunt, nec erunt, nec fuerunt.
+CO
+Responsio. Dicendum, quod idea proprie dicta respicit practicam cognitionem non solum in actu, sed in habitu.
+Unde, cum Deus de his quae facere potest, quamvis nunquam sint facta nec futura, habeat cognitionem virtualiter
+practicam, relinquitur quod idea possit esse eius quod nec est, nec fuit, nec erit; non tamen eodem modo sicut est
+eorum quae sunt, vel erunt, vel fuerunt; quia ad ea quae sunt, vel erunt, vel fuerunt, producenda, determinatur ex
+proposito divinae voluntatis, non autem ad ea quae nec sunt, nec erunt, nec fuerunt; et sic huiusmodi habent
+quodammodo indeterminatas ideas.
+RA1
+Ad primum igitur dicendum, quod quamvis quod nec est, nec fuit, nec erit, non habeat esse determinatum in se,
+est tamen determinate in Dei cognitione.
+RA2
+Ad secundum dicendum, quod aliud est esse in Deo, et aliud in cognitione Dei: malum enim non est in Deo, sed
+est in scientia Dei. Secundum hoc enim aliquid esse dicitur in Dei scientia quod a Deo cognoscitur; et quia Deus
+cognoscit omnia distincte, ut in praecedenti quaestione dictum est, ideo in eius scientia res distinctae sunt,
+quamvis in ipso sint unum.
+RA3
+Ad tertium dicendum, quod quamvis Deus nunquam voluerit producere huiusmodi res in esse quarum ideas
+habet, tamen vult se posse eas producere, et se habere scientiam eas producendi; unde et dionysius non dicit
+quod ad rationem exemplaris exigeretur voluntas praedefiniens et efficiens, sed definitiva et effectiva.
+RA4
+Ad quartum dicendum, quod ideae illae non sunt ordinatae a divina cognitione ad hoc ut secundum eas aliquid
+fiat, sed ad hoc quod secundum eas aliquid fieri possit.
+|a7 Articulus 7
+TTA
+78
+
+

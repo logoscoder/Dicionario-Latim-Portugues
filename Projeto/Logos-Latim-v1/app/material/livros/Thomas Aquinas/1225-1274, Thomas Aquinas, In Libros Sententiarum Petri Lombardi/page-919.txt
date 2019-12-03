@@ -1,0 +1,60 @@
+CO
+Respondeo dicendum, quod haec propositio similiter tripliciter potest accipi sicut praecedens.
+Et in primo sensu est vera, sicut et prima, et eadem ratione: sicut enim factum est ut Deus sit homo, ita factum
+est ut homo sit Deus. In secundo vero sensu est falsa, sicut et prima, et eadem ratione: quia iidem sunt termini,
+sed conversim positi. In tertio autem sensu, secundum quod determinat subjectum in comparatione ad
+praedicatum, diversimode judicatur a diversis opinionibus.
+Prima enim opinio, quia ponit quod homo supponit suppositum creatum, dicit quod haec est vera, sicut et prima:
+quia sicut persona divina non semper fuit illud suppositum, et modo est illud suppositum; ita illud suppositum
+non semper fuit persona divina, et modo est. Secunda autem opinio et tertia ponunt, quod homo, prout de Christo
+praedicatur, non habet aliquod aliud suppositum quam suppositum aeternum: sed secunda dicit, quod homo
+supponit suppositum aeternum; tertia autem, quod homo copulat ipsum, sicut termini accidentales: et quia illud
+suppositum nunquam non fuit Deus, ideo haec est falsa secundum hoc, homo factus est Deus: concedunt tamen
+eam in primo sensu, qui non est proprius sensus ejus. Ideo secundum has opiniones magis est falsa quam alia:
+secundum autem primam simpliciter est vera. Quia tamen aliquo modo conceditur, respondendum est ad
+utrasque objectiones.
+RA1
+Ad primum ergo dicendum, quod Damascenus loquitur secundum proprietatem propositionis, et sic est falsa.
+RA2
+Ad secundum dicendum, quod prima opinio diceret, quod teneretur pro supposito, non pro persona; aliae vero
+duae dicerent, quod teneretur pro persona; quam tamen non determinat participium, sed totam locutionem: quia
+factum est ut persona divina in humanitate existens etiam esset Deus.
+RA3
+Ad tertium dicendum, quod hoc intelligendum est de illis quae conveniunt naturae secundum se, et non habent
+repugnantiam ad alteram naturam.
+Quod autem dicitur factus Deus, non convenit naturae secundum se, sed ratione unionis; unde non sequitur:
+homo factus est Deus: ergo filius Dei factus est Deus; sicut non sequitur: homo unitus est Deo; ergo Deus unitus
+est Deo.
+RA4
+Ad quartum dicendum, quod non sequitur ex virtute locutionis. Deus factus est homo: ergo est homo recens: quia
+si homo assumptus secundum primam opinionem, vel humana natura, ab aeterno fuisset, nihilominus diceretur:
+Deus factus est homo.
+Unde, sicut in littera dicitur, non sequitur quod sit Deus recens; sed quod Deus sit recenter, idest de novo: et hoc
+non est inconveniens secundum primam opinionem.
+RA5
+Ad quintum dicendum, quod quantum ad tertium intellectum propositionis praedictae, procedit illud
+argumentum: unde prima opinio, quae secundum illum intellectum concedit propositionem, dicit, quod homo
+praeintelligitur ad unionem, ut dictum est dist. 6, in princ.: secundum autem primum sensum, in quo concedit
+eam secunda opinio et tertia, non sequitur.
+RA6
+Ad sextum dicendum, quod dictum Augustini intelligendum est secundum primum modum: quia illa unio fecit ut
+Deus esset homo, et e converso.
+RA7
+Ad septimum dicendum, quod cum dicitur, homo non semper fuit Deus, negatio potest negare totam
+propositionem, ut sit sensus: homo non semper fuit Deus, idest, non semper fuit verum dicere, quod homo sit
+Deus: et secundum hoc sequitur veritas hujus propositionis secundum primum sensum, scilicet factum est ut
+homo esset Deus. Vel potest negare praedicatum a subjecto, et sic falsa est; quia in propositione illa subjicitur
+suppositum aeternum, quod semper fuit Deus.
+RA8
+Ad octavum dicendum, quod factio ponitur secundum rem circa naturam humanam: sed hoc nomen homo non
+supponit naturam humanam, sed suppositum aeternum; circa quod non ponitur factio secundum rem, sed
+secundum rationem tantum; non respectu Dei, quia semper ei infuit, sed respectu hominis; et ideo semper dicitur:
+Deus factus est homo; sed non convertitur.
+
+|+d7.q3 Distinctio 7, Quaestio 3
+|a0 Prologus
+Deinde quaeritur de locutionibus exprimentibus unionem cum hoc participio praedestinatus; et circa hoc
+quaeruntur duo: 1 utrum hic homo sit praedestinatus esse filius Dei; 2 utrum filius Dei sit praedestinatus.
+919
+
+

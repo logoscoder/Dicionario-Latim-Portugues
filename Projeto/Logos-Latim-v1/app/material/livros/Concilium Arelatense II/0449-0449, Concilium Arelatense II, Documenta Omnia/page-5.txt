@@ -1,0 +1,29 @@
+41 civitatis Aquilegiensium fehlt V630; W411; V1341
+42 claudianus korr. aus claudanus V630
+43 habitus V630
+44 presbiteres W411
+45 diacones W411
+46 civitatis Mediolanensium fehlt V630; W411; V1341
+47 Erodes episcopus, et Severus diaconus, ex provincia Viennensi civitatis Massiliensium fehlt V630; W411; V1341
+48 orosius V630; W411; V1341
+49 nicetus V630
+50 supra] supra viennensium V630
+51 civitatis fehlt V630; W411; V1341
+52 civitatis vienensium korr. aus vienensium civitatis O93
+53 viensium W411
+54 provincia qua supra civitatis] civitate V630; W411; V1341
+55 vasione W411
+56 damnas V630; V1341; damnase W411
+57 provincia qua supra civitatis] civitate V630; W411; V1341
+58 aurasicorum V630; V1341; aurosicorum W411
+59 laustinus V630; W411; V1341
+60 porta V630; W411; V1341
+61 galliae V630; gallea W411
+62 inbethausius korr. aus inbethanius V1341
+63 avidamus V630; W411; avidiamus V1341
+64 Augustodunensium Reticius] augusta idonupetius V630; agusta idunopetius W411; V1341
+65 filomatis V630; W411; V1341
+66 Lugdunensium Betius] heleu donavotius W411; heliu donovotius V630; V1341
+67 pitulius V630; V1341; pitolius W411
+
+

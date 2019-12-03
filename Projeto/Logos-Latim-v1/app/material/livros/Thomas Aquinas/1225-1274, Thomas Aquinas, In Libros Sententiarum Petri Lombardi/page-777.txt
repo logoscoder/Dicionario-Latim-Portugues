@@ -1,0 +1,59 @@
+RA2
+Ad secundum dicendum, quod fides dirigit intentionem in finem ultimum; sed ratio naturalis vel prudentia potest
+dirigere in aliquem finem proximum: et quia ille finis proximus est ordinabilis in finem ultimum, etiamsi actu
+non ordinetur, ideo in infidelibus, quorum actus per vim rationis in talem finem diriguntur, possunt aliqui actus
+esse boni, sed deficientes a perfecta bonitate, secundum quam actus est meritorius.
+RA3
+Ad tertium dicendum, quod sicut aliquid participat bonitatem, ita etiam Deo est acceptum: et ideo actus illi
+enuntiantur Deo accepti simpliciter qui meritorii sunt, completam bonitatem habentes; sed tamen etiam actus alii,
+secundum quod sunt boni ex genere vel ex circumstantia, Deo placent, non tamen sicut remunerabiles aeterno
+praemio.
+RA4
+Ad quartum dicendum, quod non obligamur ad hoc quod quilibet actus actu dirigatur in finem illum in quem non
+potest nisi fides dirigere: quia praecepta affirmativa non obligant ad semper, quamvis semper obligent; et ideo
+non oportet ut actus infidelium, qui in finem illum non est ordinatus, semper sit peccatum; sed solum pro
+tempore illo in quo tenetur actum suum in finem ultimum referre.
+RA5
+Ad quintum dicendum, quod infideles non semper ex infidelitatis errore finem sibi praestituunt, sed aliquando ex
+vero et recto judicio rationis: et ideo non oportet quod in quolibet actu peccent, sed tunc solum quando ex errore
+finem sibi praestituunt.
+
+|+d41.q2 Distinctio 41, Quaestio 2
+|a0 Prologus
+Deinde quaeritur de comparatione peccati ad voluntatem; et circa hoc quaeruntur duo: 1 utrum omne peccatum
+sit voluntarium; 2 utrum omne peccatum sit in voluntate.
+|a1 Articulus 1: Utrum peccatum sit voluntarium.
+AG1
+Ad primum sic proceditur. Videtur quod peccatum non sit voluntarium. Malum enim, ut dionysius dicit, est
+praeter voluntatem: objectum enim voluntatis est bonum.
+Sed omne peccatum est malum. Ergo peccatum non est voluntarium.
+AG2
+Praeterea, Philosophus dicit in 3 ethic., quod postquam aliquis est effectus malus per habitum, non est in ipso
+malum vel non malum esse. Cum igitur homo sit malus per peccatum; et quod non est in homine, non possit dici
+voluntarium; videtur quod non omne peccatum sit voluntarium.
+AG3
+Praeterea, quod est ignoratum, non potest esse voluntarium: quia voluntas cognitionem praesupponit.
+Sed quidam per ignorantiam peccant.
+Ergo non omne peccatum est voluntarium.
+AG4
+Praeterea, aliquid dicitur esse voluntarium propter hoc quod actus voluntatis transit in hoc quod voluntarium
+dicitur. Sed in peccato omissionis non est necessarium quod sit aliquis actus voluntatis, ut supra dictum est, dist.
+35, qu. 1, art. 3. Ergo non omne peccatum est voluntarium.
+AG5
+Praeterea, nihil quod est contra voluntatem, est voluntarium. Sed primus motus est contra voluntatem: quod patet
+ex hoc quod dicitur Rom. 7, 19: quod nolo malum, hoc ago; quod de primis motibus exponitur. Igitur cum
+primus motus sit peccatum, videtur quod non omne peccatum sit voluntarium.
+AG6
+Praeterea, quod est per necessitatem originis traductum, non est voluntarium. Sed aliquod peccatum est
+hujusmodi, scilicet originale. Ergo non omne peccatum est voluntarium.
+SC1
+Sed contra, nihil prohibetur nisi quod est in potestate ejus cui fit prohibitio. Sed peccatum omne prohibetur. Ergo
+omne peccatum est in potestate peccantis. Sed nihil est in potestate hominis nisi quod est voluntarium. Ergo
+omne peccatum est voluntarium.
+SC2
+Praeterea, involuntarium, ut dicit Philosophus in 3 ethic., non meretur poenam, sed ignoscentiam. Sed omne
+peccatum meretur poenam.
+Ergo nullum peccatum est involuntarium.
+777
+
+

@@ -1,0 +1,61 @@
+Isti asini sunt episcopi. Ergo isti asini sunt sacerdotes. Non sequitur: quia minor est duplex, ex eo quod episcopi
+potest esse nominativi casus et construi intransitive, et sic est falsa; vel potest construi transitive, et sic est
+genitivi casus et est vera.
+Et est attendendum quod diversitas casuum pertinet ad fallaciam amphibologiae, quia casus accidunt dictioni
+secundum quod construitur cum alia dictione; diversitas vero aliorum accidentium pertinet ad aequivocationem,
+quia alia accidentia accidunt dictioni secundum quod in se consideratur.
+Tertia species est quando una oratio principaliter significat unum, et aliud metaphorice sive transumptive, sicut
+haec oratio: littus aratur, principaliter significat littoris scissuram, transumptive vero operis amissionem. Et
+formatur sic paralogismus: quandocumque littus aratur, tunc terra scinditur. Sed quando indocibilis docetur,
+littus aratur: ergo quando indocibilis docetur, terra scinditur. Non sequitur propter multiplicitatem praedictam.
+|+8 Capitulus 8: De fallacia compositionis et divisionis.
+Sequitur de fallacia compositionis et divisionis: in quibus, sicut supra dictum est, deceptio provenit ex potentiali
+multiplici unius orationis.
+Dicitur autem una oratio potentialiter multiplex pro eo quod dictiones eaedem diversimode componi possunt ad
+invicem, vel ab invicem distingui, sicut cum dicitur: quidquid vivit semper est; haec dictio semper potest
+componi cum hoc verbo vivit vel dividi ab eodem. Et quia oratio per compositionem partium constituitur, et
+ipsae partes se habent ad orationem sicut materia, compositio vero sicut forma; ubi sunt ergo eaedem partes, sed
+non eadem compositio, est oratio eadem multiplex potentialiter et materialiter, sed non formaliter et actualiter. Et
+propter hoc est multiplex potentiale, quia oratio quae est una formaliter, potentialiter plura significat.
+Et in hoc differunt illae fallaciae ab amphibologia, quia in amphibologia semper in eodem ponitur cum eodem,
+licet non uniformiter; unde est eadem compositio, et per consequens eadem oratio formaliter et actualiter una est
+secundum multiplex actuale; hic autem non est actualis unitas et formalis, sed solum potentialis, quia unum
+componitur cum diversis.
+Differunt autem hae duae fallaciae, scilicet compositionis et divisionis.
+Quando enim oratio in sensu composito est falsa, tunc est fallacia secundum compositionem; quando autem in
+sensu diviso est falsa, tunc est fallacia secundum divisionem.
+Et nota quod tunc oratio est composita, quando partes magis debito ordinantur; et tunc est divisa, quando partes
+minus ordinantur. Causa autem apparentiae sive principium motivum est unitas potentialis orationis plura
+significantis; causa vero non existentiae sive principium defectus est diversitas significationis secundum quod
+intelligitur composita vel divisa.
+Sunt autem tres modi sive tres species utriusque fallaciae.
+Primus modus est quando aliquod dictum potest supponere verbo vel ratione totius vel ratione partis: si ratione
+totius supponat, erit oratio composita; si ratione partis, erit divisa oratio: et tunc si sub composito sensu falsa
+oratio erit, fallacia est compositionis; si autem in sensu diviso est falsa, erit fallacia divisionis; si autem in
+utroque sit falsa vel vera, tunc nulla fallacia est: quod etiam in aliis multiplicibus intelligendum est.
+Et formatur sic paralogismus: quemcumque possibile est esse album, possibile est quod ipse sit albus. Sed
+nigrum possibile est esse album. Ergo possibile est quod niger sit albus. Non valet: quia illud dictum, nigrum
+esse album, potest supponere ei quod dicitur possibile vel ratione subiecti, et tunc possibilitas attribuitur subiecto
+dicti et est modalis de re, et tunc est divisa et vera; est enim sensus quod ille qui est niger, potentiam habet quod
+sit albus; vel potest idem supponere ratione totius dicti, et sic est modalis de dicto, et est composita et falsa, et est
+sensus quod hoc dictum, album esse nigrum, sit possibile: unde est fallacia compositionis.
+Et potest etiam formari sic paralogismus: quodcumque esse nigrum est impossibile, ipsum non potest esse
+nigrum. Sed album esse nigrum est impossibile; igitur album non potest esse nigrum. Non valet: quia minor est
+duplex, sicut supra dictum est; et in sensu composito est vera, et in diviso est falsa, unde est fallacia divisionis.
+Secundus modus provenit ex eo quod aliquando praedicatum, in quo plura adunantur per coniunctionem
+copulativam vel disiunctivam, potest attribui subiecto coniunctim vel divisim. Si coniunctim, est oratio
+composita; si divisim, oratio est divisa: et tunc si in sensu composito oratio est falsa, est fallacia compositionis;
+si in sensu diviso est falsa, est fallacia divisionis, ut patet in his paralogismis: quicumque numerus componitur ex
+duobus et tribus, est duo et tria. Sed quinque non sunt duo et tria. Ergo quinque non componitur ex duobus et
+tribus. Non sequitur: media enim sive minor est duplex, ex eo quod hoc praedicatum duo et tria potest intelligi et
+removeri a subiecto divisim, et sic est vera: est enim sensus quod quinque nec sunt duo, nec tria. Vel potest
+removeri a subiecto coniunctim, et sic est falsa: est enim sensus, quod duo et tria simul iuncta non sunt quinque.
+Unde in hoc sensu procedit conclusio: unde est fallacia compositionis.
+Et potest sic formari paralogismus: quaecumque sunt duo et tria, sunt duo. Sed quinque sunt duo et tria: ergo
+quinque sunt duo. Haec similiter minor est duplex: quia in sensu composito est vera, et in sensu diviso est falsa;
+unde est fallacia divisionis.
+Simile est si in praedicato ponatur coniunctio disiunctiva, sicut hic: omne animal est rationale vel irrationale.
+
+5
+
+

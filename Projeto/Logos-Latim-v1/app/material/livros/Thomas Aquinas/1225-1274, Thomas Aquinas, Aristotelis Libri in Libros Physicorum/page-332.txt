@@ -1,0 +1,63 @@
+actu principium et finis; principium quidem posterioris, inquantum inde
+incipit rursus moveri, finis autem primi, inquantum scilicet ibi terminatus
+est primus motus per quietem. Sit enim una linea in cuius principio sit a,
+in medio b, in fine c.
+Moveatur ergo ab a in b, et ibi stet; et iterum incipiat moveri a b, et
+feratur usque in c. Sic enim manifestum erit quod b est actu finis prioris
+motus, et principium posterioris.
+Sed si aliquid feratur continue ab a in c sine interpositione alicuius
+quietis, non est possibile dicere mobile factum esse, idest advenire, neque
+abesse, idest abscedere, neque in hoc signo quod est a, neque in hoc signo
+quod est b; sed solum hoc potest dici, quod in a vel in b sit in quodam
+nunc (non autem in aliquo tempore, nisi forte secundum hoc quod aliquid
+dicitur esse alicubi in tempore, quia est ibi in nunc temporis. Et ita quod
+movetur continue ab a in c in aliquo tempore, erit in b in nunc, quod est
+divisio quaedam illius temporis: et sic dicetur esse in b in illo toto
+tempore, eo modo loquendi quo dicitur aliquid moveri in die, quia movetur
+in parte illius diei)p et quia hoc videbatur dubium, quod id quod fertur
+non adsit et absit cuicumque signo in magnitudine signato, quae motu
+pertransitur continuo, ostendit hoc consequenter: dicens quod si aliquis
+concedat quod mobile adsit et absit alicui signo in magnitudine signato,
+sequitur quod ibi quiescat.
+Impossibile est enim quod in eodem instanti adsit et absit mobile ab hoc
+signo quod est b: quia adesse alicubi et abesse sunt contraria, quae non
+possunt esse in eodem instanti.
+Oportet ergo quod in alio et alio nunc temporis mobile adsit et absit
+alicui signo magnitudinis. Inter quaelibet autem duo nunc est tempus
+medium: ergo sequetur quod mobile quod est a, quiescit in b. Omne enim quod
+est alicubi per aliquod tempus, est in eodem prius et posterius. Et
+similiter est dicendum in omnibus aliis signis vel punctis, quia de omnibus
+eadem ratio est.
+Unde manifestum est quod illud quod continue fertur per magnitudinem
+aliquam, in nullo intermedio signo magnitudinis adest et abest, idest
+accedit et recedit. Cum enim dicitur quod mobile adsit alicui signo, vel
+fiat in eo, vel accedat ad ipsum, per omnia huiusmodi significatur quod
+illud signum sit terminus motus.
+Cum autem dicitur quod absit vel abscedat, significatur quod sit principium
+motus. Non est autem actu medium signum magnitudinis nec principium nec
+finis motus, quia nec terminatur nec incipit ibi motus; sed in potentia
+tantum (posset enim ibi motus incipere vel terminari)p unde nec adest nec
+abest mobile a signo medio, sed simpliciter dicitur esse ibi in nunc. Esse
+enim mobile in aliquo signo magnitudinis, comparatur ad totum motum sicut
+nunc ad tempus.
+|#7
+Sed cum mobile quod est a, utatur ipso b ut medio, principio et fine
+in actu, necesse est quod ibi stet, propter hoc quod facit ipsum movendo et
+stando unum signum esse duo, scilicet principium et finem, sicut etiam
+contingit in intelligendo. Possumus enim simul intelligere unum punctum ut
+est unum subiecto: sed si seorsum intelligamus ipsum ut principium, seorsum
+autem ut finem, non simul hoc continget. Ita et cum id quod movetur, utitur
+aliquo signo ut uno, non erit ibi nisi in uno nunc. Si autem utitur eo ut
+duobus, scilicet ut principio et fine in actu, necesse erit quod sit ibi in
+duobus nunc, et per consequens in tempore medio, et ita quiescet.
+Manifestum est ergo quod id quod continue movetur ab a in c, in medio b
+neque affuit neque abfuit, idest neque accessit neque abscessit: sed a
+primo signo, quod est a, abfuit vel abscessit, quasi a principio in actu;
+in ultimo autem signo, quod est c, affuit vel accessit, quia ibi perficitur
+motus, et mobile quiescit.
+Et est attendendum quod in praemissis ponitur a quandoque quidem pro
+mobili, quandoque vero pro principio magnitudinis.
+
+332
+
+

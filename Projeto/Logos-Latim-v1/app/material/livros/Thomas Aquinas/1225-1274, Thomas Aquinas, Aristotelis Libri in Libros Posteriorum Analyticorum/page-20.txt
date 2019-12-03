@@ -1,0 +1,56 @@
+ostendit ex quibus procedat demonstratio propter quid; in secunda, ex quibus procedat demonstratio quia; ibi: sed
+quia differt et propter quid etc.. Prima in duas: in prima, ostendit qualia sint ex quibus demonstratio procedit; in
+secunda, docet quae sint demonstrationis principia; ibi: quid quidem igitur prima significent etc..
+Prima in tres: in prima, ostendit quod demonstratio est ex necessariis; in secunda, quod est ex his, quae sunt per
+se; ibi: accidentium autem etc.; in tertia, quod procedat ex principiis propriis; ibi: non ergo est ex alio genere etc..
+Circa primum duo facit: primo, ostendit quod demonstratio procedat ex necessariis; secundo, probat quaedam
+quae supposuerat; ibi: quod autem oporteat ex necessariis etc.. Circa primum tria facit: primo, continuat se ad
+praecedentia; secundo, probat propositum; ibi: quae autem sunt per se etc.; tertio, infert ex dictis quandam
+conclusionem; ibi: manifestum autem ex his etc.. Dicit ergo primo, ex praedictis inferens, quod si est
+demonstrativa scientia, idest si scientia per demonstrationem acquiritur, oportet quod sit ex necessariis principiis.
+Cuius illationis necessitas ex hoc apparet, quia quod scitur impossibile est aliter se habere, ut habitum est in
+definitione eius quod est scire.
+|#2 Deinde cum dicit: quae autem per se sunt etc., ostendit quod demonstratio sit ex necessariis; et primo, per
+rationem; secundo, per signum; ibi: signum autem est etc.. Circa primum ponit duas rationes: quarum prima talis
+est. Ea, quae per se praedicantur, necessario insunt. Et hoc manifestat in duobus modis per se. In primo quidem,
+quia ea, quae per se praedicantur, insunt in eo quod quid est, idest in definitione subiecti. Quod autem ponitur in
+definitione alicuius, necessario praedicatur de eo. In secundo vero, quia quaedam sunt subiecta, quae ponuntur in
+quod quid est praedicantibus de ipsis, idest in definitione suorum praedicatorum. Quae quidem si sint opposita,
+necesse est quod alterum eorum subiecto insit; sicut par vel impar numero, ut superius ostensum est. Sed
+manifestum est quod ex quibusdam principiis huiusmodi, scilicet per se, fit syllogismus demonstrativus: quod
+probat per hoc, quod omne quod praedicatur, aut praedicatur per se aut per accidens; et ea, quae praedicantur per
+accidens, non sunt necessaria: ex his autem, quae sunt per accidens, non fit demonstratio, sed magis sophisticus
+syllogismus. Unde relinquitur quod demonstratio sit ex necessariis.
+|#3 Sciendum autem est quod cum in demonstratione probetur passio de subiecto per medium, quod est
+definitio, oportet quod prima propositio, cuius praedicatum est passio et subiectum est definitio, quae continet
+principia passionis, sit per se in quarto modo; secunda autem, cuius subiectum est ipsum subiectum et
+praedicatum ipsa definitio, in primo modo. Conclusio vero, in qua praedicatur passio de subiecto, est per se in
+secundo modo.
+|#4 Secundam rationem ponit; ibi: aut igitur sic etc.: quae talis est. Demonstratio circa necessarium est et
+demonstratum, idest demonstrationis conclusio, non potest aliter se habere. Et hoc accipiendum est tanquam
+principium ad ostendendum propositum, scilicet quod demonstratio ex necessariis procedat; cuius quidem
+principii veritas ex praemissis apparet, ut iam dictum est.
+Ex hoc autem principio sic argumentatur. Conclusio necessaria non potest sciri nisi ex principiis necessariis; sed
+demonstratio facit scire conclusionem necessariam; ergo oportet quod sit ex principiis necessariis. In quo differt
+demonstratio ab aliis syllogismis: sufficit enim in aliis syllogismis quod syllogizetur ex veris. Nec est aliquod
+aliud genus syllogismi, in quo oporteat ex necessariis procedere, sed in demonstratione tantum oportet hoc
+observare. Et hoc est proprium demonstrationis, scilicet ex necessariis semper procedere.
+|#5 Deinde cum dicit: signum autem etc., probat idem per signum hoc modo. Contra rationem aliquam non
+infertur instantia, nisi per hoc quod deficit aliquid eorum, quae in ratione illa observanda sunt; sed contra eum,
+qui opinatur se demonstrare, ferimus instantiam quod non sit necesse ea, ex quibus procedit, esse vera: sive
+opinemur ea contingere aliter se habere, sive talem instantiam feramus rationis, idest disputationis causa; ergo
+demonstratio debet procedere ex necessariis.
+|#6 Deinde cum dicit: manifestum autem etc., infert conclusionem ex dictis: dicens quod manifestum est, ex hoc
+quod oportet demonstrationem ex necessariis concludere, quod stulti sunt illi, qui opinati sunt bene se principia
+demonstrationis accipere, si solum propositio accepta sit probabilis vel vera, ut sophistae faciunt, idest illi, qui
+apparent scientes et non sunt. Nam scire non est nisi per hoc quod scientia habetur, scilicet ex demonstratione; ex
+hoc autem quod aliquid est probabile vel improbabile non habetur quod sit primum vel non primum: sed tamen
+oportet illud circa quod fit demonstratio esse primum in genere aliquo et esse verum. Non tamen omne primum
+accipit demonstrator, sed primum proprium illi generi, circa quod demonstrat; sicut arithmeticus non accipit
+primum, quod est circa magnitudinem, sed circa numerum.
+|#7 Attendendum est autem quod sophistae non sumuntur hic sicut in libro elenchorum, qui procedunt ex his
+quae videntur probabilia et non sunt, aut videntur syllogizare, non tamen syllogizant.
+
+20
+
+

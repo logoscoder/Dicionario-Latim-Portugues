@@ -1,0 +1,63 @@
+AG16
+Praeterea, omne quod est per accidens, reducitur ad per se. Sed ex opposito fit aliquid per accidens, ex subiecto
+autem per se; sicut statua ex infigurato fit per accidens, ex aere autem per se, quia aeri accidit esse infiguratum.
+Si ergo aliquid fiat ex non ente, hoc erit per accidens. Ergo oportet quod fiat per se ex aliquo subiecto; et ita non
+fit ex nihilo.
+AG17
+Praeterea, ei quod fit faciens dat esse.
+Si ergo Deus facit aliquid ex nihilo, Deus alicui dat esse. Aut ergo est aliquid recipiens esse, aut nihil. Si nihil:
+ergo nihil constituitur in esse per illam actionem; et sic non fit aliquid. Si autem est aliquid recipiens esse, hoc
+erit aliud ab eo quod est Deus; quia non est idem recipiens et receptum. Ergo Deus facit ex aliquo praeexistenti,
+et ita non ex nihilo.
+SC1
+Sed contra. Genes. I, 1: in principio creavit Deus caelum et terram, dicit Glossa, ex beda, quod creare est ex
+nihilo facere aliquid.
+Ergo Deus potest facere aliquid ex nihilo.
+SC2
+Praeterea, Avicenna dicit quod agens cui accidit agere, requirit materiam in quam agat. Sed Deo non accidit
+agere, immo sua actio est sua substantia. Ergo non requirit materiam in quam agat, et ita potest ex nihilo aliquid
+facere.
+SC3
+Praeterea, virtus divina est potentior quam virtus naturae. Sed virtus naturae facit aliquod ens ex hoc quod erat in
+potentia.
+Ergo virtus divina aliquid amplius facit, et ita facit ex nihilo.
+CO
+Respondeo. Dicendum, quod tenendum est firmiter, quod Deus potest facere aliquid ex nihilo et facit. Ad cuius
+evidentiam sciendum est, quod omne agens agit, secundum quod est actu; unde oportet quod per illum modum
+actio alicui agenti attribuatur quo convenit ei esse in actu. Res autem particularis est particulariter in actu: et hoc
+dupliciter: primo ex comparatione sui, quia non tota substantia sua est actus, cum huiusmodi res sint compositae
+ex materia et forma; et inde est quod res naturalis non agit secundum se totam, sed agit per formam suam, per
+quam est in actu. Secundo in comparatione ad ea quae sunt in actu. Nam in nulla re naturali includuntur actus et
+perfectiones omnium eorum quae sunt in actu; sed quaelibet illarum habet actum determinatum ad unum genus
+et ad unam speciem; et inde est quod nulla earum est activa entis secundum quod est ens, sed eius entis
+secundum quod est hoc ens, determinatum in hac vel illa specie: nam agens agit sibi simile.
+Et ideo agens naturale non producit simpliciter ens, sed ens praeexistens et determinatum ad hoc vel ad aliud, ut
+puta ad speciem ignis, vel ad albedinem, vel ad aliquid huiusmodi. Et propter hoc, agens naturale agit movendo;
+et ideo requirit materiam, quae sit subiectum mutationis vel motus, et propter hoc non potest aliquid ex nihilo
+facere.
+Ipse autem Deus e contrario est totaliter actus,- et in comparatione sui, quia est actus purus non habens potentiam
+permixtam - et in comparatione rerum quae sunt in actu, quia in eo est omnium entium origo; unde per suam
+actionem producit totum ens subsistens, nullo praesupposito, utpote qui est totius esse principium, et secundum
+se totum. Et propter hoc ex nihilo aliquid facere potest; et haec eius actio vocatur creatio.
+Et inde est quod in Lib. De causis, dicitur, quod esse eius est per creationem, vivere vero, et caetera huiusmodi,
+per informationem. Causalitates enim entis absolute reducuntur in primam causam universalem; causalitas vero
+aliorum quae ad esse superadduntur; vel quibus esse specificatur, pertinet ad causas secundas, quae agunt per
+informationem, quasi supposito effectu causae universalis: et inde etiam est quod nulla res dat esse, nisi in
+quantum est in ea participatio divinae virtutis. Propter quod etiam dicitur in Lib. De causis, quod anima nobilis
+habet operationem divinam in quantum dat esse.
+RA1
+Ad primum ergo dicendum, quod ex nihilo nihil fieri, Philosophus dicit esse communem animi conceptionem vel
+opinionem naturalium, quia agens naturale, quod ab eis consideratur, non agit nisi per motum; unde oportet esse
+aliquod subiectum motus vel mutationis, quod in agente supernaturali non oportet, ut dictum est.
+RA2
+Ad secundum dicendum, quod antequam mundus esset, possibile erat mundum esse; non tamen oportet quod
+aliqua materia praeexisteret, in qua potentia fundaretur. Dicitur enim V metaph., aliquid aliquando dici possibile,
+non secundum aliquam potentiam, sed quia in terminis ipsius enuntiabilis non est aliqua repugnantia, secundum
+quod possibile opponitur impossibili. Sic ergo dicitur, antequam mundus esset, possibile mundum fieri, quia non
+erat repugnantia inter praedicatum enuntiabilis et subiectum. Vel potest dici, quod erat possibile propter
+potentiam activam agentis, non propter aliquam potentiam passivam materiae. Philosophus autem utitur hoc
+argumento, in generationibus naturalibus contra Platonicos, qui dicebant formas separatas esse naturalis
+generationis principia.
+36
+
+

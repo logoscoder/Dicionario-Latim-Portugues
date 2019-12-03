@@ -1,0 +1,61 @@
+[1.7.4] Et haec quidem non dicuntur esse contrariae, quoniam simul uerae esse possunt; at uero opposita sunt
+quotiens ipsum contingens negatur, ut si aduersus eam quae dicit:
+Contingit esse a
+ea proponatur quae dicit:
+Non contingit esse a
+id enim ista significat omnino non posse contingere. Quae cum ita sint, cumque inesse significantes
+propositiones praeter ullum dicuntur modum, his ad esse iuncto aduerbio negatiuo, negatio plena perficitur; quae uero
+cum modo proponuntur, si necessariae sint et ad esse negatio coniungatur, /242/ ut ea quae dicit:
+Necesse est non esse
+fit necessaria negatio.
+[1.7.5] Si uero ipsi necessario negatio praeponatur, fit negatio necessarii uehementer affirmationi opposita, ut
+ea quae dicit:
+Non necesse est esse.
+Item in contingentibus si ad esse negatio ponatur, fit contingens negatio, ut ea quae dicit:
+Contingit non esse.
+Si uero ipsi contingenti negatio iungatur, fit contingentis negatio contingenti affirmationi uehementer opposita,
+ut ea quae dicit:
+Non contingit esse.
+[1.7.6] Sed quoniam omnis propositio aut uniuersalis aut particularis aut indefinita aut singularis proponitur -uniuersalis hoc modo:
+Omnis homo legit
+particularis sic:
+Quidam homo legit
+indefinita sic:
+Homo legit
+singularis sic:
+Socrates legit
+-- necesse est ut sicut in Categoricorum Syllogismorum Institutione monstratum est, illae sibi maxime
+uideantur oppositae quaecumque uel uniuersale affirmant, si particulariter denegetur, uel uniuersale denegant, si
+particulariter affirmetur, et quae singulares sunt, si illa quidem in affirmatione sit posita, illa uero in negatione. Quae
+cum ita sint, si haec eadem ratio ad contingentes et necessarias referatur, idem in necessariis et contingentibus
+inuenitur, ut si quis dicat:
+Omnem a terminum esse necesse est
+aliusque neget dicens:
+Non necesse est omnem a terminum esse
+fecit oppositam negationem.
+[1.7.7] Et si dicat aliquis:
+Contingit omnem a terminum esse
+itaque aliquis neget:
+Non contingit omnem a terminum esse
+fecerit oppositam negationem; in utrisque enim negatio et modum remouet, et significationem uniuersalitatis
+exstinguit. Atque hoc quidem in simplicibus et categoricis /244/ propositionibus euenire necesse est, de quarum natura
+diligentius persecuti sumus in his uoluminibus, quae secundae editionis expositionum in Aristotelis *Perihermeneias*
+inscripsimus. Si quis igitur propositionum omnium conditionalium numerum quaerat, ex categoricis poterit inuenire; ac
+primum in connexis ex duabus simplicibus inquirendus est hoc modo.
+[1.8.1] Nam quoniam propositio simplex hypothetica ex categoricis duabus iungitur, una earum uel inesse
+significabit, uel contingere esse dupliciter, uel necesse esse dupliciter; quod si sint affirmatiuae, quinquies affirmatiua
+enuntiatione proponentur; sed quoniam omnis affirmatio habet oppositam negationem, rursus quinquies negatiua
+enuntiatione poterunt pronuntiari.
+[1.8.2] Erunt igitur in prima propositione, quae una pars est hypotheticae propositionis in negatione et
+affirmatione constitutae modorum, propositiones decem. Secunda etiam propositio, quae pars est hypotheticae, totidem
+affirmationibus et negationibus proponi potest; erunt igitur eius quoque enuntiationes decem. Sed cum prima propositio
+secundae propositioni quodam consequentia copuletur, ut una hypothetica fiat, omnes decem affrmatiuae ac negatiuae
+propositiones omnibus decem affirmatiuis negatiuisque propositionibus applicabuntur.
+[1.8.3] Itaque complexae centum omnes efficiunt propositiones, haec quae connexae ex simplicibus
+coniunguntur. Secundum hunc uero modum potest propositionum numerus inueniri etiam in his propositionibus /246/
+quae ex categorica et hypothetica copulantur, uel quae ex duabus conditionalibus fiunt. Nam quae ex categorica et
+conditionali constant, uel e diuerso, haec tribus categoricis iunctae sunt.
+[1.8.4] Quod si duarum inter se praedicatiuarum in afffirmatione uel negatione complexio secundum esse, uel
+necessario, uel contingenter esse, quinque modos, centum efficit complexiones, quoniam tertia propositio uel
+
+

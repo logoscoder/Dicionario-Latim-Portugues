@@ -1,0 +1,63 @@
+3 NICEAM V630; V1341; E97; NICENUM W411
+4 TITULI fehlt V630; V1341; E97
+5 iis E97
+6 qui] qui ad V1341
+7 iis E97
+8 occansione V1341
+9 religionis korr. aus religiones O93; relegionis W411
+10 contemnere W411
+11 congregare W411
+12 iis E97
+13 usis W411
+14 execrari E97
+15 iis E97
+16 palliorum] palle orum W411
+17 filios suos korr. aus filios V630
+18 reddere V630
+19 Nec E97
+20 relegionis W411
+21 despiciant W411; V630; E97
+22 tundere W411
+23 mulieri non licere] non debere mulieri W411
+24 communia ieiunia] ieiunia communia W411
+25 martyrum] martyrum EXPLICUNT CAPITULA INCIPIUNT GANGRENSE (CANGRENSE V1341)
+CONCILIUM POST NICEAM SYNODUM EDITUM V630; V1341; martyrum EXPLICIUNT CAPITULA
+E97
+26 Iheratius W411; Hieracius E97
+27 Heratius Ipatius Bassus Eugenius Gregorius Elianus korr. aus Heratius V630
+28 cangremse W411
+29 quodam W411
+30 his] his ipsis W411; V1341; iis E97
+31 qui] qui hunc W411; V1341
+32 eustatium W411
+33 gesta W411
+34 amputari E97
+35 eosdem korr. aus eodem E97
+36 causare W411
+37 gradu spem habeat apud deum, unde factum est, ut multe mulieres seducte korr. aus gradu O93
+38 adulteria W411; V1341
+39 etiam W411; V1341
+40 in dominicis ecclesiis] a dominicis constitutis ecclesiarum dei W411
+41 ecclesiis] ecclesiis dei V1341
+42 praesumere] presumere et W411; V1341
+43 vendicasse E97
+44 ratiocinatio W411; ratiolcinatione korr. aus rationatione E97
+45 inusitatum korr. aus inusitantum V630
+46 relegionis W411; regionis V1341
+47 relegionis W411
+48 iustificari W411; V1341; E97
+49 relegionis W411
+50 Ieiunia korr. aus Ieiuna V630
+51 contemnenda asseruisse] contemnendo ventris servisse W411
+52 coniugatis W411
+53 ne W411
+54 persuasse W411
+55 matrinia W411
+56 debre W411
+57 eis V630
+58 conficiuntur W411; V1341; E97
+59 conficiuntur W411
+60 dicentes W411
+4
+
+

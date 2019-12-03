@@ -1,0 +1,60 @@
+De statu causarum
+Printed Source: Die Philosophischen Werke des Robert Grosseteste, Bischofs von Lincoln (Münster i. W.,
+Aschendorff, 1912.), pp. 120 - 126.
+INC: Aristoteles in secundo philosophiae primae supponens causas esse tantum quattuor dicit, quod in
+unoquoque genere causarum est status et non processus in infinitum verbi gratia in genere causae efficientis non
+sunt causae efficientes infinitae, sed est unum efficiens eorum primum; similiter et in aliis generibus causarum
+quia si non esset causa prima, simpliciter non esset causa.
+EXPL: Similiter propinqua materia animalis est caro, remotior quattuor elementa, remotissima est yle i. e.
+materia prima. Explicit tractatus domini Lincolniensis de statu causarum.
+p. 120: Aristoteles in secundo philosophiae primae supponens causas esse tantum quattuor dicit, quod in
+unoquoque genere causarum est status et non processus in infinitum verbi gratia in genere causae efficientis non
+sunt causae efficientes infinitae, sed est unum efficiens eorum primum; similiter et in aliis generibus causarum
+quia si non esset causa prima, simpliciter non esset causa.Omnis enim causa posterior causalitatem suam habet a
+causa priori et superiore, non solum a proxima superiore, sed magis a causalitate illius superioris. Igitur si in
+infinitum est procedere, ut non sit reperire primam causam, non erit reperire causalitatem in aliquo.
+p. 120: Necesse est ergo, quod si causa sit in aliquo genere, in eodem sit prima causa. Sed nec ibi, nec alibi tangit
+Aristoteles de numero et sufficientia causarum, hoc est quare sunt quattuor genera causarum tantum. Ad quod
+tamen potest induci ratio hoc modo: Causa enim efficiens secundum Aristotelem est, unde motus. Si ergo sensui
+patet et mentis intellectui, quod motus est ab aliquo, manifestum est simpliciter, quod causa efficiens est.
+pp. 120 - 121: Quod vero sit causa materialis, formalis et finalis, patet ex suppositione causae efficientis et sic
+potest probari: si enim efficiens causa est et effectum ab efficiente necesse est esse, necesse est effectum cum
+efficiente in quodam convenire et in quodam differre. Convenit autem effectus cum efficiente in eo, quod est
+actus in actu. Actus enim effecti est ab efficiente. Unde dicit Aristoteles in VIII philosophiae primae, quod omnis
+effectus univocatur suo efficienti etiam in artificialibus, in quibus minime videtur: domus enim architectori
+univocatur in hoc, quod architector speciem domus habet in anima, secundum quam omnes motus eius
+regulantur, ut efficiatur domus materialis. Et alibi dicit Aristoteles, quod omne agens habet hoc in actu, quod
+habet patiens in potentia. Sic ergo convenit effectus cum efficiente in eo, quod est in actu. Cum ergo differunt in
+aliquo et non differunt in eo, quod in actu est secundum modum dictum, necesse est differre in eo, quod potentia
+est. Et hoc dupliciter potest intellegi: aut quia efficiens non habeat potentiam, sed sit actus solum, et effectus
+habeat potentiam et actum; aut quia efficiens habeat potentiam et actum simpliciter cum effectu; et tunc necesse
+est potentiam efficientis, scilicet materiam, aliam esse in numero a materia effecti. Sicut ergo in quolibet, quod
+efficitur ab efficiente, necesse est existere duo, scilicet actum et potentiam, hoc est formam et materiam, sic ergo
+ex comparatione causae efficientis ad effectum patent causa formalis et materialis.
+p. 121: Similiter patere potest causa finalis. Nam species effecti existens in efficiente non movet efficientem in
+quantum intelligitur, sed in quantum appetitur. Quod autem appetitur, est bonum per se. Species autem effecti, in
+quantum movet efficientem, est in ratione boni. Bonum autem per se finis est: est ergo proprie in ratione finis.
+pp. 121 - 122: Sic ergo habemus quattuor genera causarum, et ex his existentibus necesse est causatum esse in
+esse completo. Non igitur ad esse alicuius alterius causae praeter haec quattuor potest consequi causatum, sed
+solum causa est, ad cuius esse sequitur aliud. Ergo non est alia causa praeter has. Sic ergo numerus habetur et
+sufficientia in genere causarum. Sed quod tres illarum incidant in unam, patet ex iam dictis. Efficiens autem,
+quod habet in se potentiam et actum, non a potentia, sed ab actu dicitur efficiens, quia actus efficientis per
+aliquam multiplicationem fit causa formalis effecti, et non in quantum intelligitur, sed inquantum diligitur hoc
+est inquantum est bonum et finis. Sic ergo in unum conveniunt tres causae, sed quarta non. Materia enim, cum
+solum sit potentia, omnino habet oppositum ad actum non solum secundum rationem, sed etiam sesundum
+naturam rei.
+p. 122: Sed secus est de differentia et convenientia istarum causarum cum causa prima et causis secundariis.
+Cum efficiens habeat in se quod est et quo est, non solum secundum se totum est efficiens, sed secundum aliquid
+sui. Propterea differunt in sua natura quod efficit et quo efficit. Sed in his necesse est, quod intentio boni in
+intellectu addat supra speculationem essentiae. Sed in causa prima, cum ipsa sit substantia simplicissima, idem
+est in ea quod efficit et quo efficit. Propterea idem est in ea secundum substantiam efficiens et forma. Et tamen
+in ea sua simplicitas non compatitur multitudinem ex actualitate proveniente. In sui intellectu intentio boni non
+addit supra sui speculationem essentiae. Et propterea idem est in ea secundum substantiam efficiens, forma et
+finis.
+p. 122: Est autem in unoquoque genere causarum multiplicitas nominis, ut in genere causae efficientis
+multiplices inveniuntur causae efficientes. Et non dico multiplicationem specierum causarum diversarum sub
+eodem genere, quia haec causa venit in univocationem, sed dico multiplicationem causarum efficientium, quibus
+ratio causae efficientis multipliciter convenit secundum prius et posterius. Et hanc multiplicitatem oportet
+1
+
+

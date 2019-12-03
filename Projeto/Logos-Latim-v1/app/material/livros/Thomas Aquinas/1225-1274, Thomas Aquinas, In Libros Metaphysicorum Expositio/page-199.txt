@@ -1,0 +1,62 @@
+materia. Et ideo hic quaerit, quae sint partes speciei, et quae non. Dividitur ergo ista pars in partes tres. In prima
+determinat hanc dubitationem. In secunda ostendit quid restat dicendum, ibi, utrum autem praeter materiam. Tertio
+recapitulat ea quae dicta sunt, ibi, quid quidem igitur est quod quid erat. Circa primum tria facit. Primo movet
+dubitationem. Secundo solvit, ibi, quaecumque quidem igitur et cetera. Tertio solutionem manifestando colligit, ibi,
+palam autem et cetera. Dicit ergo primo, quod cum dictum sit quod partes speciei ponuntur in definitionibus, non autem
+partes compositi ex specie et materia, merito dubitatur quae sunt partes speciei, et quae non sunt partes speciei sed
+simul sumpti, idest individui, in quo simul sumitur natura speciei cum materia ipsa individuante.
+[83073] In Metaphysic., lib. 7 l. 11 n. 2
+Si enim hoc non sit manifestum, non poterimus aliquid recte definire, quia definitio nunquam est rei singularis, sed
+solum universalis, ut supra dictum est. Et inter universalia proprie est species, quae constituitur ex genere et differentia,
+ex quibus omnis definitio constat. Genus enim non definitur, nisi etiam sit species. Unde patet, quod nisi sciatur quae
+pars sit sicut materia, et quae non est sicut materia sed sicut ad speciem ipsam pertinens, non erit manifestum qualis
+debeat esse definitio rei assignanda, cum non assignetur nisi speciei, et oporteat in definitione speciei partes speciei
+ponere, et non partes quae sunt posteriores specie.
+[83074] In Metaphysic., lib. 7 l. 11 n. 3
+Deinde cum dicit quaecumque quidem solvit propositam dubitationem. Et circa haec tria facit. Primo ponit solutionem
+secundum opinionem Platonicorum. Secundo improbat eam, ibi, accidit itaque unam. Tertio solvit secundum suam
+sententiam, ibi, quare omnia reducere. Circa primum duo facit. Primo solvit propositam dubitationem quantum ad
+sensibilia. Secundo quantum ad mathematica, ibi, quoniam autem. Primo ergo dicit, quod in quibusdam manifestum
+est, quod materia non sit pars speciei, sicut in omnibus illis quae manifeste apparent fieri in materiis diversis secundum
+speciem, sicut circulus invenitur fieri in aere et in lapide et in ligno. Unde manifestum est quod neque aes neque lapis
+neque lignum, est aliquid de substantia circuli, quasi pars existat huius speciei, quae est circulus. Est autem hoc
+manifestum propter hoc quod circulus a quolibet istorum separatur: nihil autem potest separari ab eo quod est pars
+speciei.
+[83075] In Metaphysic., lib. 7 l. 11 n. 4
+Sed quaedam sunt, quorum species non inveniuntur fieri in diversis materiis secundum speciem, sed semper in eisdem.
+Sicut species hominis, quantum ad hoc quod visibiliter apparet, non invenitur nisi in carnibus et ossibus. Nihil tamen
+prohibet, ut etiam ista, quae non videntur a propria materia separata, similiter se habeant ad suas materias sicut illa quae
+esse possunt in diversis materiis, et ab unaquaque earum separari.
+[83076] In Metaphysic., lib. 7 l. 11 n. 5
+Si enim poneremus quod non viderentur sensibiliter aliqui circuli nisi ex aere, nihilominus tamen sic esset pars speciei
+circuli aes. Et licet tunc non separaretur circulus actu ab aere, separaretur tamen mente, quia species circuli posset
+intelligi sine aere, ex quo aes non esset pars speciei circuli, licet difficile sit mente auferre et separare abinvicem quae
+actu non separantur. Non enim est hoc nisi illorum qui per intellectum supra sensibilia elevari possunt.
+[83077] In Metaphysic., lib. 7 l. 11 n. 6
+Et similiter si hominis species semper apparet in carnibus et ossibus et talibus partibus, oportet quaerere, utrum istae
+partes sint speciei humanae et rationis, idest definitionis hominis; aut non sunt partes speciei, sed solum materia speciei,
+sicut aes circuli. Sed quia talis species non fit in aliis partibus materialibus quam in istis, ideo de facili non possumus
+separare hominem per intellectum a carnibus et ossibus. Videtur enim eadem ratio esse hic et in circulo, si omnes
+circuli essent aerei.
+[83078] In Metaphysic., lib. 7 l. 11 n. 7
+Deinde cum dicit quoniam autem procedit ulterius prosequendo opinionem praetactam quantum ad mathematica;
+dicens, quod quia videtur hoc contingere in aliquibus, scilicet quod materia non sit pars speciei, quamvis species non
+inveniatur nisi in illa materia, sed non est manifestum quando et in quibus hoc contingat vel non contingat, ideo aliqui
+circa hoc dubitant non solum in naturalibus, sed etiam in mathematicis, ut in circulo et triangulo.
+[83079] In Metaphysic., lib. 7 l. 11 n. 8
+Videtur enim eis, quod sicut materia sensibilis non est pars speciei in naturalibus, ita etiam quod materia intelligibilis
+non sit pars speciei in mathematicis. Materia autem figurarum mathematicarum intelligibilis, est continuum, ut linea vel
+superficies. Et ideo vult, quod linea non sit pars speciei circuli vel trianguli; quasi non sit competens quod triangulus et
+circulus definiantur per lineas et continuum, cum non sint partes speciei; sed omnia ista similiter dicantur ad circulum
+et triangulum, sicut carnes et ossa ad hominem, et aes et lapides ad circulum.
+[83080] In Metaphysic., lib. 7 l. 11 n. 9
+Removendo autem a triangulo et circulo continuum, quod est linea, nihil remanet nisi unitas et numerus, quia triangulus
+est tres lineas habens, et circulus unam. Et ideo, quia lineas non dicunt esse partes speciei, referunt omnes species ad
+numeros, dicentes quod numeri sunt species mathematicorum omnium. Dicunt enim quod ratio duorum est ratio lineae
+rectae, propter hoc quod linea recta duobus punctis terminatur.
+[83081] In Metaphysic., lib. 7 l. 11 n. 10
+Sed circa hoc inter Platonicos ponentes ideas, est differentia quaedam. Quidam enim non ponentes mathematica media
+inter species et sensibilia, dicentes species esse numeros, dicunt ipsam lineam esse dualitatem, quia non ponunt lineam
+mediam differentem a specie lineae.
+
+

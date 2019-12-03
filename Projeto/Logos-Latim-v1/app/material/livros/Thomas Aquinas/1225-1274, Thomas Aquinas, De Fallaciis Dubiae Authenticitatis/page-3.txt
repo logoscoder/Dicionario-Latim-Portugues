@@ -1,0 +1,59 @@
+Locus autem verus firmitatem dialecticae argumentationis praestans, est habitudo inferentis ad illatam, quae
+dicitur maxima, vel differentia maximae, ut genus, species, totum et pars: ex quorum habitudine veritas maximae
+propositionis oritur, super quam fundatur veritas dialectici argumenti: sicut ex habitudine speciei ad genus
+sumitur haec maxima de quocumque praedicatur species, et genus, ex qua hoc argumentum formatur: socrates
+est homo; igitur socrates est animal.
+Et similiter locus sophisticus consistit in habitudine inferentis ad illatam, ex qua sumitur aliqua falsa propositio,
+sed apparens vera, secundum quam procedit sophisticum argumentum, sicut cum dicitur: cognosco venientem.
+Coriscus est veniens.
+Ergo cognosco Coriscum. Hic enim proceditur ab accidente ad subiectum, scilicet a veniente ad Coriscum,
+secundum virtutem huius maximae: quicquid est verum de accidente, et de subiecto; quae quidem maxima falsa
+est propter diversitatem accidentis et subiecti; videtur tamen vera propter convenientiam utriusque.
+Unde ad praedictum locum sophisticum duo concurrunt: unum quod est causa apparentiae, quod facit
+argumentum apparere bonum, et dicitur etiam principium motivum, quia movet hominem ad hoc ut argumento
+sophistico assentiat: et hoc est in praedicto argumento unio accidentis ad subiectum; aliud est principium
+defectus, quia scilicet facit defectum necessitatis in argumento: et vocatur etiam causa non existentiae, quae in
+praedicto argumento est diversitas subiecti et accidentis.
+Ex his autem duobus contingit hominem falli: quia scilicet apparet aliquid et non est. Unde locus sophisticus alio
+nomine fallacia dicitur, quia scilicet est causa fallendi quantum est de se, licet aliquis non fallatur per ipsum in
+actu, nisi ignorantia adveniente.
+Sicut autem loci dialectici distinguuntur penes diversas habitudines, ex quibus maxime causatur firmitas
+argumenti et argumenta ipsa sumuntur; ita et loci sophistici sive fallaciae distinguuntur penes principia motiva,
+ex quibus apparet esse firmitas in sophisticis argumentis. Hoc autem contingit dupliciter. Uno quidem modo ex
+parte vocis, quando propter unitatem vocis creditur esse unitas rei per vocem significatae; sicut illa quae per
+nomen canis significantur, unum esse videntur, quia hoc nomen canis est unum. Alio modo ex parte rei: ex eo
+scilicet quod aliquae res quae aliquo modo conveniunt simpliciter unum esse videntur, sicut supra dictum est de
+subiecto et accidente.
+|+5 Capitulus 5: De fallacia in dictione.
+Locorum igitur sophisticorum sive fallaciarum quaedam sunt in dictione, quaedam extra dictionem. In dictione
+quidem locus sophisticus sive fallacia est, quando principium motivum sive causa apparentiae est ex parte vocis;
+extra dictionem vero quando est ex parte rei.
+Ex parte autem vocis est principium motivum sive causa apparentiae ex eo quod una vox multa significat: quod
+contingit per multiplicationem vocum. Est autem multiplex triplex: scilicet actuale, potentiale, et phantasticum.
+Actuale est quando una vox in nullo variata multa significat: et hoc si sit in una dictione, dicitur aequivocatio, ut
+in hoc nomine canis, pro latrabili, caelesti sidere, et pro pisce marino; si in oratione, dicitur amphibologia, ut
+liber Aristotelis, idest ab Aristotele factus vel possessus.
+Multiplex potentiale est, quando una vox aliquo modo secundum prolationem variata multa significat: quod
+quidem est in dictione secundum accentum, ut pendere, secundum quod gravi vel acuto accentu profertur, multa
+significat. In oratione vero est secundum compositionem et divisionem, ut: duo et tria sunt quinque: haec enim
+oratio diversa significat composite vel divisim prolata.
+Phantasticum vero, idest apparens multiplex, est quando una dictio secundum rei veritatem unum significat et
+videtur etiam aliquid aliud significare: sicut hoc nomen homo significat quale et quid et videtur significare hoc
+aliquid, ut dicitur in praedicamentis; et dicitur figura dictionis, quasi dictionis similitudo.
+Sunt igitur loci sophistici in dictione sex: scilicet aequivocatio, amphibologia, accentus, compositio, divisio, et
+figura dictionis.
+|+6 Capitulus 6: De fallacia aequivocationis.
+Primo igitur est dicendum de aequivocatione.
+Est autem aequivocatio unius et eiusdem nominis diversa significatio; fallacia autem aequivocationis est deceptio
+proveniens ex eo quod unum nomen plura significat.
+Principium autem motivum huius fallaciae, sive causa apparentiae in aequivocatione est unitas dictionis eiusdem
+simpliciter; quod dicitur ad differentiam accentus, in quo non est dictio una simpliciter, sed solum in potentia.
+Principium autem motivum non existentiae, sive defectus, est diversitas rerum significatarum.
+Species autem sive modi aequivocationis sunt tres.
+Prima species est quando una dictio principaliter plura significat: ut hoc nomen canis principaliter significat
+latrabile animal et marinam belluam et caeleste sidus; et formatur sic paralogismus, idest apparens syllogismus:
+omnis canis est latrabilis.
+
+3
+
+

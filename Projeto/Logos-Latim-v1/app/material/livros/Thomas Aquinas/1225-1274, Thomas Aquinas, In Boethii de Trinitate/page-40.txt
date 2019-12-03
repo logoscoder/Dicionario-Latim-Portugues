@@ -1,0 +1,62 @@
+PR1
+Primo. Utrum sit conveniens divisio qua dividitur speculativa in has tres partes: naturalem, mathematicam et
+divinam.
+PR2
+Secundo. Utrum naturalis philosophia sit de his quae sunt in motu et materia.
+PR3
+Tertio. Utrum mathematica consideratio sit sine motu et materia de his quae sunt in materia.
+PR4
+Quarto. Utrum divina scientia sit de his quae sunt sine materia et motu.
+|#1 Articulus 1
+AG1
+Ad primum sic proceditur. Videtur quod speculativa inconvenienter in has partes dividatur.
+Partes enim speculativae sunt illi habitus qui partem contemplativam animae perficiunt. Sed Philosophus in VI
+ethicorum ponit quod scientificum animae, quod est pars eius contemplativa, perficitur tribus habitibus, scilicet
+sapientia, scientia et intellectu. Ergo ista tria sunt partes speculativae et non illa quae in littera ponuntur.
+AG2
+Praeterea, Augustinus dicit in VIII de civitate Dei quod rationalis philosophia, quae est logica, sub contemplativa
+philosophia vel speculativa continetur. Cum ergo de ea mentionem non faciat, videtur quod divisio sit
+insufficiens.
+AG3
+Praeterea, communiter dividitur philosophia in septem artes liberales, inter quas neque naturalis neque divina
+continetur, sed sola rationalis et mathematica. Ergo naturalis et divina non debuerunt poni partes speculativae.
+AG4
+Praeterea, scientia medicinae maxime videtur esse operativa, et tamen in ea ponitur una pars speculativa et alia
+practica. Ergo eadem ratione in omnibus aliis operativis scientiis aliqua pars est speculativa, et ita debuit in hac
+divisione mentio fieri de ethica sive morali, quamvis sit activa, propter partem eius speculativam.
+AG5
+Praeterea, scientia medicinae quaedam pars physicae est, et similiter quaedam aliae artes quae dicuntur
+mechanicae, ut scientia de agricultura, alchimia et aliae huiusmodi. Cum ergo istae sint operativae, videtur quod
+non debuerit naturalis absolute sub speculativa poni.
+AG6
+Praeterea, totum non debet dividi contra partem. Sed divina scientia esse videtur ut totum respectu physicae et
+mathematicae, cum subiecta illarum sint partes subiecti istius. Divinae enim scientiae, quae est prima
+philosophia, subiectum est ens, cuius pars est substantia mobilis, quam considerat naturalis, et similiter quantitas
+quam considerat mathematicus, ut patet in III metaphysicae. Ergo scientia divina non debet dividi contra
+naturalem et mathematicam.
+AG7
+Praeterea, scientiae dividuntur quemadmodum et res, ut dicitur in III de anima. Sed philosophia est de ente; est
+enim cognitio entis, ut dicit Dionysius in epistula ad polycarpum. Cum ergo ens primo dividatur per potentiam et
+actum, per unum et multa, per substantiam et accidens, videtur quod per huiusmodi deberent partes philosophiae
+distingui.
+AG8
+Praeterea, multae aliae divisiones sunt entium, de quibus sunt scientiae, magis essentiales quam istae quae sunt
+per mobile et immobile, per abstractum et non abstractum, utpote per corporeum et incorporeum, animatum et
+inanimatum et per alia huiusmodi. Ergo magis deberet divisio partium philosophiae accipi per huiusmodi
+differentias quam per illas quae hic tanguntur.
+AG9
+Praeterea, illa scientia, a qua aliae supponunt, debet esse prior eis.
+Sed omnes aliae scientiae supponunt a scientia divina, quia eius est probare principia aliarum scientiarum. Ergo
+debuit scientiam divinam aliis praeordinare.
+AG10
+Praeterea, mathematica prius occurrit addiscenda quam naturalis, eo quod mathematicam facile possunt
+addiscere pueri, non autem naturalem nisi provecti, ut dicitur in VI ethicorum. Unde et apud antiquos hic ordo in
+scientiis addiscendis fuisse dicitur observatus, ut primo logica, deinde mathematica, post quam naturalis et post
+hanc moralis, et tandem divinae scientiae homines studerent. Ergo mathematicam naturali scientiae praeordinare
+debuit. Et sic videtur divisio haec insufficie
+SC1
+Sed e contra, quod haec divisio sit conveniens, probatur per Philosophum in VI metaphysicae, ubi dicit: quare
+tres erunt philosophicae et theoricae: mathematica, physica, theologia.
+40
+
+

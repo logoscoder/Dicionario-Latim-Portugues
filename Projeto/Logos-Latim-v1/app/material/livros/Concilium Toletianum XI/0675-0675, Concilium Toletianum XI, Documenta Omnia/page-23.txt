@@ -1,0 +1,63 @@
+790 IX E97
+791 numerum W411; munerum E97
+792 questu V630, V1341; E97
+793 debet] non debetur W411; non debet E97
+794 deinceps in korr. aus deinceps V1341
+795 fidelibus] fidelibus aut collatione V630; V1341; fidelibus aut pro conlatione W411; E97
+796 crismatos O93; crisme W411
+797 gradum W411
+798 nisi fehlt W411
+799 sciente E97
+800 episcopo tale] episcopale W411
+801 excommunicatione W411; excommunicationi korr. aus excommunicationis V1341
+802 quod] quod quia W411
+803 et W411; E97
+804 scientie korr. aus scientiam V630; scita E97
+805 correctionem V1341
+806 adhibuit V630; V1341; E97; abiit W411
+807 interlinear vel de E97
+808 pro] de pro O93; de V630; V1341
+809 mensuum W411
+810 quattuor] duobus korr. aus quattuor V1341
+811 conpetent O93
+812 vere W411
+813 excommunicatio W411
+814 plectandus W411
+815 QUID CUSTODIRI fehlt O93
+816 Rubrik fehlt V630; E97
+817 custodire W411; V1341
+818 ve W411
+819 EPISCOPUS FIAT VEL QUA SENTENTIA fehlt O93
+820 post W411; V1341
+821 ACCEPTUM PER PRAEMIUM ORDINATUS fehlt O93
+822 X E97
+823 Multi W411
+824 capitulum W411
+825 emanaverunt E97
+826 inadpreciabilem korr. aus adpreciabilem O93; inpreciabilem V630; V1341
+827 qui W411
+828 conparandum W411
+829 quando W411
+830 hoc korr. aus haec O93; haec V630; W411; V1341
+831 perceptione W411
+832 prohibitum korr. aus prohibita O93; prohibita V630; W411; V1341
+833 a fehlt W411; E97
+834 novis korr. aus nobis O93; novis E97
+835 iteratum korr. aus iterata O93; iterata V630; V1341; iterat W411
+836 mercare W411
+837 nitur W411
+838 gratiantur W411; gratiam] gratiam dei E97
+839 promis W411; proximis E97
+840 a patribus] apparatibus V630; V1341; apparibus W411; ac paribus E97
+841 amputatur W411
+842 sacramentis fehlt V630; V1341; sacramenti E97
+843 et fehlt E97
+844 actione V630; V1341
+845 adstringat W411
+846 aliam W411
+847 dederit E97
+848 aliquando fehlt E97
+849 ad W411
+23
+
+

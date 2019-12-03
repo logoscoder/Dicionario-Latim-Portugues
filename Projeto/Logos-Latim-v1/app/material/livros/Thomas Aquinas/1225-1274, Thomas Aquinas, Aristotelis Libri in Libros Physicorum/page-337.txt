@@ -1,0 +1,66 @@
+Dividatur enim tempus in indivisibilia tempora: et sit primum tempus
+indivisibile a; secundum autem, consequenter se habens ad ipsum, sit b. D
+autem, quod prius non erat album, et postmodum est album, fiebat album in
+a, et tunc non erat album: oportet autem dare quod sit factum in aliquo
+tempore indivisibili et habito, idest consequenter se habente, scilicet in
+b, in quo iam est. Si autem fiebat album in a, sequitur quod in a non erat
+album: in b autem est album. Cum ergo inter non esse et esse sit generatio
+media, quia nihil transit de non esse in esse nisi per generationem,
+sequitur quod inter a et b sit generatio media: ergo erit aliquod tempus
+medium inter a et b, in quo fiebat album (quia hoc ponitur tempus b, d
+generationis)p et similiter cum in illo medio tempore indivisibili fiat
+album, est non album: unde eadem ratione oportebit ponere aliud tempus
+adhuc medium, et sic in infinitum. Et hoc ideo, quia non potest poni quod
+in eodem tempore fiat et factum sit.
+Sed non est eadem ratio si dicatur quod non sunt indivisibilia tempora in
+quae tempus dividitur. Dicemus enim secundum hoc, quod unum et idem tempus
+est in quo fiebat et factum est. Sed fiebat et erat non ens in toto tempore
+praecedenti: est autem factum et ens in ultimo nunc temporis; quod quidem
+non se habet ad tempus praecedens, sicut habitum aut consequenter, sed
+sicut terminus eius. Sed si ponantur tempora indivisibilia, necesse est
+quod consequenter se habeant.
+Manifestum est autem secundum praemissa, quod non suppositis temporibus
+indivisibilibus, si aliquid fiat album in toto tempore a, non est maius
+tempus in quo factum est et fiebat, quam in quo fiebat solum. Quia in toto
+tempore fit, in ultimo autem termino temporis est factum: tempus autem et
+terminus temporis non sunt aliquid maius quam tempus tantum, sicut etiam
+punctum nihil magnitudinis adiicit lineae. Sed si ponantur tempora
+indivisibilia, manifestum est ex praemissis, quod oportet plus temporis
+esse in quo fit et factum est, quam in quo fit solum.
+Ultimo autem epilogando concludit principale intentum, dicens quod
+praemissae rationes sunt, et similes eis, quibus credendum est tanquam
+propriis, quod motus reflexus non est continuus.
+|+18
+
+Lectio 18
+
+|#1
+Postquam Philosophus ostendit rationibus propriis quod motus reflexus
+non est continuus, hic ostendit idem rationibus communibus et logicis.
+Et circa hoc duo facit: primo dicit de quo est intentio; secundo probat
+propositum, ibi: omne enim quod movetur etc..
+Dicit ergo primo, quod si aliquis velit rationabiliter, idest logice,
+intendere ad propositum ostendendum, videbitur hoc idem sequi, scilicet
+quod motus reflexus non est continuus, ex rationibus quae ponentur.
+|#2
+Deinde cum dicit: omne enim quod movetur etc., ostendit propositum:
+et primo solum in motu reflexo locali; secundo communiter in omnibus
+motibus, ibi: amplius et ex his manifestum etc..
+Prima ratio talis est. Omne quod movetur continue, a principio sui motus
+ferebatur sicut in finem ad hoc ad quod pervenit secundum loci mutationem,
+nisi fuerit aliquid prohibens (quia a prohibente potuisset in aliam partem
+deflecti)p exemplificat autem hanc propositionem, dicens quod si aliquid
+per motum localem pervenit ad b, non solum quando propinquum erat, sed
+statim quando incepit moveri, movebatur ad b: non est enim aliqua ratio
+quare magis moveatur ad b nunc quam prius. Et simile est in aliis motibus.
+Si autem ita sit quod motus reflexus sit continuus, verum erit dicere quod
+id quod movetur ab a in c, et iterum reflectitur in a, continue movetur.
+Ergo in prima parte motus qui est ab a in c, movebatur ad terminum ultimae
+partis qui est a; et sic dum movetur ab a, movetur ad a. Sequitur ergo quod
+simul moveatur contrariis motibus: quia in motibus rectis contrarium est
+moveri ab eodem et in idem; in motibus autem circularibus non est
+contrarium. Hoc autem est impossibile, quod aliquid simul moveatur
+contrariis motibus: ergo impossibile est quod motus reflexus sit continuus.
+337
+
+

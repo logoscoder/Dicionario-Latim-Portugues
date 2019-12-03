@@ -1,0 +1,61 @@
+notis rerum quidditatibus, sicut sunt prima principia, quae cognoscimus dum terminos cognoscimus; unde et
+intellectus habitus principiorum dicitur.
+Quidditas autem rei est proprium obiectum intellectus; unde, sicut sensus sensibilium propriorum semper verus
+est, ita et intellectus in cognoscendo quod quid est ut dicitur in III de anima.
+Sed tamen per accidens potest ibi falsitas accidere, in quantum, videlicet, intellectus falso componit et dividit;
+quod dupliciter contingit: vel in quantum definitionem unius attribuit alteri, ut si animal rationale mortale
+conciperet quasi definitionem asini; vel in quantum coniungit partes definitionis ad invicem, quae coniungi non
+possunt, ut si conciperet quasi definitionem asini animal irrationale immortale; haec enim est falsa: aliquod
+animal irrationale est immortale.
+Et sic patet quod definitio non potest esse falsa, nisi in quantum implicat affirmationem falsam. Hic autem
+duplex modus falsitatis tangitur in V metaph.. Similiter nec in primis principiis intellectus ullo modo decipitur.
+Unde patet quod si intellectus accipiatur secundum illam actionem a qua nomen intellectus imponitur, non est in
+intellectu falsitas.
+Alio modo potest accipi intellectus communiter, secundum quod ad omnes operationes se extendit, et sic
+comprehendit opinionem et ratiocinationem; et sic in intellectu est falsitas; nunquam tamen si recte fiat resolutio
+in prima principia.
+RA
+Et per hoc patet solutio ad obiecta.
+|q2 Quaestio 2
+Prologus
+PR1
+Primo an scientia Deo conveniat.
+PR2
+Secundo an sciat seipsum.
+PR3
+Tertio an sciat alia a se.
+PR4
+Quarto an habeat certam et determinatam cognitionem de rebus.
+PR5
+Quinto an cognoscat singularia.
+PR6
+Sexto an intellectus humanus singularia cognoscat.
+PR7
+Septimo an Deus cognoscat singularia nunc esse vel non esse.
+PR8
+Octavo an Deus cognoscat non entia.
+PR9
+Nono an Deus sciat infinita.
+PR10
+Decimo an Deus possit facere infinita.
+PR11
+Undecimo an scientia de Deo et de nobis dicatur aequivoce.
+PR12
+Duodecimo an Deus sciat futura contingentia.
+PR13
+Tertiodecimo an scientia Dei sit variabilis.
+PR14
+Quartodecimo an scientia Dei sit causa rerum.
+PR15
+Quintodecimo an Deus sciat mala.
+|a1 Articulus 1
+TTA
+Quaestio est de scientia Dei.
+Et primo quaeritur utrum in Deo sit scientia.
+TTB
+Et videtur quod non.
+AG1
+Illud enim quod se habet ex additione ad aliud, in simplicissimo inveniri non potest.
+25
+
+

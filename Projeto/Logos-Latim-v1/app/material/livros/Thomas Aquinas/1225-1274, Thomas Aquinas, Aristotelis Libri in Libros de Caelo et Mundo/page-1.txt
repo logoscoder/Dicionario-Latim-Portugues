@@ -1,0 +1,49 @@
+OPERA OMNIA
+SANCTI THOMAE AQUINATIS
+-----oOo----Textum electronicum praeparavit et indexavit
+Ricardo M. Rom n, S. R. E. Presbyterus
+Bonis Auris, MCMXCVIII
+
+|*ARISTOTELIS_LIBRI
+|*DE_CAELO_ET_MUNDO
+IN LIBROS DE CAELO ET MUNDO
+|*CEM.1 : LIBER 1
+|+PR Prooemium
+|#1 Sicut Philosophus dicit in I physic., tunc opinamur cognoscere unumquodque, cum causas cognoscimus
+primas, et principia prima, et usque ad elementa. Ex quo manifeste Philosophus ostendit in scientiis esse
+processum ordinatum, prout proceditur a primis causis et principiis usque ad proximas causas, quae sunt
+elementa constituentia essentiam rei. Et hoc est rationabile: nam processus scientiarum est opus rationis, cuius
+proprium est ordinare; unde in omni opere rationis ordo aliquis invenitur, secundum quem proceditur ab uno in
+aliud. Et hoc patet tam in ratione practica, cuius consideratio est circa ea quae nos facimus, quam in ratione
+speculativa, cuius consideratio est circa ea quae sunt aliunde facta.
+|#2
+Invenitur autem processus de priori ad posterius in consideratione practicae rationis secundum
+quadruplicem ordinem: primo quidem secundum ordinem apprehensionis, prout artifex primo apprehendit
+formam domus absolute, et postea inducit eam in materiam; secundo secundum ordinem intentionis, secundum
+quod artifex intendit totam domum perficere, et propter hoc facit quidquid operatur circa partes domus; tertio
+secundum ordinem compositionis, prout scilicet prius dolat lapides, et postea compingit eos in unum parietem;
+quarto secundum ordinem sustentationis artificii, prout artifex primo iacit fundamentum, super quod ceterae
+partes domus sustentantur. Similiter etiam invenitur quadruplex ordo in consideratione rationis speculativae.
+Primus quidem secundum quod proceditur a communibus ad minus communia. Et hic ordo respondet
+proportionaliter primo ordini, quem diximus apprehensionis: universalia enim considerantur secundum formam
+absolutam, particularia vero secundum applicationem formae ad materiam; sicut Philosophus in I de caelo dicit
+quod qui dicit caelum, dicit formam, qui autem dicit hoc caelum, dicit formam in materia. Secundus ordo est
+secundum quod proceditur a toto ad partes. Et hic ordo proportionaliter respondet ordini quem diximus
+intentionis, prout scilicet totum est prius in consideratione quam partes, non qualescumque, sed partes quae sunt
+secundum materiam et quae sunt individui; sicut semicirculus, in cuius definitione ponitur circulus (est enim
+semicirculus media pars circuli), et acutus angulus, in cuius definitione ponitur rectus (est enim acutus angulus
+minor recto)p accidit autem circulo et recto angulo sic dividi: unde huiusmodi non sunt partes speciei.
+Huiusmodi enim partes sunt priores in consideratione quam totum, et ponuntur in definitione totius, sicut carnes
+et ossa in definitione hominis, ut dicitur in VII metaphys..
+Tertius autem ordo est secundum quod proceditur a simplicibus ad composita, inquantum composita
+cognoscuntur per simplicia, sicut per sua principia. Et hic ordo comparatur tertio ordini, quem diximus
+compositionis. Quartus autem ordo est secundum quod principales partes necesse est prius considerare, sicut cor
+et hepar quam arterias et sanguinem. Et hic proportionatur practico ordini, secundum quod fundamentum prius
+iacitur.
+|#3 Et hic quadruplex ordo consideratur etiam in processu scientiae naturalis. Nam primo determinantur
+communia naturae in libro physicorum, in quo agitur de mobili inquantum est mobile. Unde restat in aliis libris
+scientiae naturalis huiusmodi communia applicare ad propria subiecta. Subiectum autem motus est magnitudo et
+corpus: quia nihil movetur nisi quantum. In corporibus autem est attendere tres alios ordines: uno quidem modo
+1
+
+

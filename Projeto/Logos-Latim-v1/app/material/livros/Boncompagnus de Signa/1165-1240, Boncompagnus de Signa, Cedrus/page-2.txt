@@ -1,0 +1,91 @@
+[3.5] Porro|[109va] quedam statuta fiunt quandoque a castellanis burgensibus et uillanis, que largo modo
+generalia et strincto possunt specialia nuncupari.
+fiunt R P3: sunt VPT ?M
+
+strincto: stricto P3
+
+[3.6] Fiunt etiam in multis partibus Ytalie quedam iuuenum societates, quarum aliqua falconum, aliqua leonum,
+aliqua de tabula rotonda societas nominatur. 5 Et sic diuersi nomina diuersa societatibus superimponunt. Et licet
+ista consuetudo sit per uniuersas partes Ytalie, multo fortius in Tuscia uiget, quia uix reperirentur in aliqua
+ciuitate iuuenes, qui non sint adstrincti alicui societati uinculo iuramenti. Huiusmodi quippe societates quedam
+faciunt fieri per manum publicam statuta, que uulgo 'breuia' nominantur. Vnde dicatur: "Iste iurauit ad nostrum
+breue," seu "Non iurauit ad breue nostrum."
+Ytalie partibus tr. P3
+adstrincti: asstricti P3
+
+societas om. P3
+sic om. P3
+sit om. P3
+Ytalie partes tr. P3
+3
+3
+quippe: quidem P
+dicatur: dicitur P
+Non P3: om. codd. R
+
+quia: qui P3
+
+[3.7] Eodem modo faciunt plures, qui tures hedificant, quoddam statutum quod uulgo 'breue' nominatur, in quo
+continetur quomodo uel quantum debeant leuare turem uel custodire et qualiter unus alterum iuuare teneatur.
+tures: turres P3
+
+statutum P3 R: statuta codd.
+
+turem: turrim P3
+
+unus om. P3
+
+[3.8] Fiunt et quandoque ab hospitalariis, templariis, clericis et aliis Christi fidelibus quedam consortia seu
+fraternitates, pro quibus aliqua breuia componuntur.
+[3.9] Sed hec statuta dici proprie non debent. In componendi namque supradicta statuta seu breuia simplex
+dicendi modus obseruatur et quasi iuxta uulgare omnia referuntur.
+seu om. P3
+
+iuxta P3: uista R codd.
+
+[4.] VNDE DICATVR.
+[4.1] 'Statutum' dicitur a 'statuo, statuis', uel a 'statutore'.
+DICATVR: STATVTVM. II. add. P3
+
+statutore: statutione P3
+
+[5.] QVIBVS LICEAT FACERE STATVTA ET INFRINGERE.
+[5.1] Licet autem omnibus, qui libertate fruuntur, secundum generalem consuetudinem Ytalie consimilia facere
+statuta et eadem infringere, nisi iuramenti uinculum euidens prestiterit impedimentum.6
+STATVTA ET INFRINGERE: ET INFRINGERE STATVTA. III. P 3
+P3ac
+Ytalie: Italie P3
+euidens om. P3
+
+consuetudinem P3pc in margine cursum
+
+[6.] QVALITER DEBEAT TALIA COMPONERE STATVTA DICTATOR.
+[6.1] Qualiter dictatores huiusmodi statuta componere possint, breuiter demonstrabo.
+COMPONERE STATVTA DICTATOR: DICTATOR COMPENERE. IIII. P3
+[6.2] Imprimis namque ponenda est inuocatio dominica hoc modo: "In nomine Patris et Filii et Spiritus Sancti.
+Amen."
+Patris: in n add. P3ac
+[6.3] Post istam autem inuocationem non consueuerunt illi, qui statuta dictant, uti aliquo exordio, aut quia
+exordiri nesciunt aut quia prolixitatem cupiunt euitare. Sed magis est credendum, hoc ex ignorantia prouenire.
+uitare cupiunt tr. P3
+[6.4] Nam post inuocationem illam ordinari hoc modo narrationis principium consueuit: "Nos Petrus et Iohannes
+constituti arbitri ad tractandum ciuitatis Florentie statutum dicimus et ordinamus, ut potestas uel consules, qui
+electi|[109vb] fuerint, teneantur nomine iuramenti obseruare omnia, que inferius conscribuntur."
+illam: istam P3
+ordinari om. P3
+3
+P
+Petrus et Iohannes: A. et B. P3
+
+narrationis principium consueuit: in principio consueuit ordinari narratio
+obseruare: conseruare P3
+conscribuntur: subscribuntur P3
+
+[6.5] Verumtamen si aliter quis super talibus statutis exordiri uellet, posset hoc exordio uti, quod ex ipsa causa
+nasci uidetur, uerbi gratia: "Propter immensitatem scientie iurisperitorum, 7 qui non solum res dubias uerum
+etiam casus ualidos et rationes manifestissime stabilitas faciunt probabiliter uacillare, hoc statutum pro
+communi utilitate componimus, in quo nullam exteriorem exceptionem uel intellectum habemus. Nec uolumus
+aliquem habere, sed tota statuta littera sine glosa et solutione aliqua intelligatur, non obstante aliqua lege."
+2
+
+

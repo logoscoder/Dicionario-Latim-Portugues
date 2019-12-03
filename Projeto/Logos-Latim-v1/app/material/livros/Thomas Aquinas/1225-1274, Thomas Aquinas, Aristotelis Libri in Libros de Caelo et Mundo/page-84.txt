@@ -1,0 +1,57 @@
+deficit circa aliquem terminum ipsius motus; sicut motus naturalis intenditur usque ad aliquem terminum, et
+similiter motus violentus remittitur usque ad aliquem terminum. Si ergo intensio vel remissio motus caeli
+nunquam terminetur, sed in infinitum procedat, sequitur quod motus caeli sit infinitus et indeterminatus. Quod
+patet esse falsum: probatum est enim in VI physic. Quod, quia omnis motus est ex aliquo in aliquid, necesse est
+quod sit determinatus. Unde etiam una circulatio caeli est determinata: sed motus caeli dicitur infinitus
+secundum diversas circulationes sibi succedentes.
+|#6 Secundam rationem ponit ibi: adhuc autem si quis etc.. Et dicit quod hoc etiam esse impossibile est
+manifestum, si quis concedat esse aliquod tempus minimum, ita quod in minori non contingat moveri caelum.
+Quilibet enim motus vel actio habet determinatum tempus, quod non transcendit: quamvis enim tempus sit
+divisibile in infinitum, non tamen est possibile citharizare vel ambulare in quocumque tempore; sed quilibet
+actus habet determinatum minimum tempus, quod non excedit velocitate, ut scilicet in minori tempore
+perficiatur. Unde nec caelum possibile est moveri in quocumque tempore, sed habet aliquod minimum tempus
+determinatum. Ex quo patet quod non semper intenditur velocitas motus eius, quia sic velocitas eius excederet
+quodlibet minimum tempus. Si vero non semper potest intendi motus caeli, pari ratione neque semper potest
+remitti, quia eadem ratio est de uno et de altero: sicut enim est minimum tempus alicuius actionis, ita et
+maximum in quo peragitur.
+|#7 Posset autem aliquis praedictae rationi obviare, dicendo quod semper intenditur velocitas motus caeli, et
+tamen nunquam transcenditur quoddam minimum tempus datum, si quidem fiat appositio velocitatis non
+aequalis aut maior, sed semper minor et minor; sicut dicitur in III physic.
+Quod, si linea dividatur secundum eandem proportionem, puta ut subtrahatur a tota linea tertia pars, et iterum a
+residuo tertia pars, et a residuo iterum tertia pars, hoc poterit in infinitum procedere; et si eorum quae
+subtrahuntur posterius addatur priori, fiet in infinitum additio, nec tamen pervenietur unquam ad quantitatem
+totius lineae, quia semper erit aliquid residuum de linea quae dividebatur. Si tamen semper subtraheretur pars
+aequalis quantitatis vel maioris, et adderetur ad id quod prius acceptum est, oporteret transcendere omnem
+quantitatem determinatam. Et similiter dicit hic intelligendum esse quod transcendetur omne minimum tempus
+datum, quod est transcendere omnem magnitudinem velocitatis, si semper per infinitum tempus addatur aequalis
+velocitas vel etiam maior. Si vero prius adderetur magna velocitas, et postea minor, et sic inde, sicut dictum est
+in divisione et additione lineae, non transcenderetur omnis velocitas, nec omne minimum tempus; cum non esset
+pura intensio, sed intensio remissioni adiuncta, quia movens non posset semper aequaliter addere ad velocitatem.
+|#8 Deinde cum dicit: relinquitur itaque etc., ostendit impossibile esse quod vicissim intendatur et remittatur
+motus caeli; et hoc dupliciter.
+Primo quidem quia hoc videtur penitus esse irrationabile, et simile fictioni: nulla enim ratio assignari potest
+huius vicissitudinis. Secundo quia talis diversitas in motu caeli non lateret; opposita enim iuxta se posita magis
+sentiuntur: et tamen nihil tale percipimus. Unde relinquitur quod in motu caeli nulla sit irregularitas.
+Ultimo autem, quia hic finit suam considerationem de toto caelo, epilogat intantum dictum esse quod sit unum
+tantum caelum, et quod sit ingenitum et sempiternum, et quod regulariter moveatur.
+|+10 Lectio 10
+|#1 Postquam Philosophus determinavit de caelo, hic determinat de stellis. Et primo determinat veritatem;
+secundo movet quasdam dubitationes et solvit, ibi: duabus autem dubitationibus etc.. Circa primum quatuor
+facit: primo determinat de natura stellarum; secundo de motu earum, ibi: quoniam autem videntur etc.; tertio de
+ordine earum, ibi: de ordine autem ipsorum etc.; quarto de figura earum, ibi: figuram autem uniuscuiusque etc..
+Circa primum tria facit: primo dicit de quo est intentio; secundo manifestat veritatem, ibi: rationabilissimum
+autem etc.; tertio excludit obiectionem, ibi: calor autem ab ipsis etc..
+Dicit ergo primo quod, postquam determinatum est de toto caelo, consequens est ut dicamus de his quae
+vocantur astra, ex quibus constant, idest ex qua natura sint, et quam figuram habeant, et quales sint motus eorum.
+|#2 Deinde cum dicit: rationabilissimum autem etc., ostendit ex qua natura sint corpora stellarum.
+Et primo proponit quod intendit, dicens quod ponere unamquamque stellam esse de natura corporis sphaerici in
+quo movetur, est in se consideratum valde rationabile, eo quod loca consequuntur naturas corporum; unde
+rationabile est quod stellae pertineant ad naturam sphaerae in qua situantur. Consequitur etiam hoc ex necessitate
+ad ea quae supra diximus. Dictum est enim quod caelum habet naturam aliam praeter naturam quatuor
+elementorum, propter hoc quod habet alium motum naturalem a motibus elementorum, scilicet motum
+circularem; unde, cum stellae moveantur circulariter sicut sphaerae caelestes, consequens est quod habeant
+eandem naturam cum sphaeris caelestibus, et differant a natura quatuor elementorum.
+
+84
+
+

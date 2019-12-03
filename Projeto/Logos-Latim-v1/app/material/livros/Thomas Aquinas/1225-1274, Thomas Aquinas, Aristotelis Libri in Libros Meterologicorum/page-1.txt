@@ -1,0 +1,48 @@
+OPERA OMNIA
+SANCTI THOMAE AQUINATIS
+-----oOo----Textum electronicum praeparavit et indexavit
+Ricardo M. Rom n, S. R. E. Presbyterus
+Bonis Auris, MCMXCVIII
+
+|*ARISTOTELIS_LIBRI
+IN LIBROS
+|*METEOROLOGICORUM
+IN LIBROS METEOROLOGICORUM
+|*MET.1 : LIBER 1
+|+1 Lectio 1
+|#1 Sicut in rebus naturalibus nihil est perfectum dum est in potentia, sed solum tunc simpliciter perfectum est,
+quando est in ultimo actu; quando vero medio modo se habens fuerit inter puram potentiam et purum actum, tunc
+est quidem secundum quid perfectum, non tamen simpliciter; sic et circa scientiam accidit. Scientia autem quae
+habetur de re tantum in universali, non est scientia completa secundum ultimum actum, sed est medio modo se
+habens inter puram potentiam et ultimum actum. Nam aliquis sciens aliquid in universali, scit quidem aliquid
+eorum actu quae sunt in propria ratione eius: alia vero sciens in universali non scit actu, sed solum in potentia.
+Puta, qui cognoscit hominem solum secundum quod est animal, solum scit sic partem definitionis hominis in
+actu, scilicet genus eius: differentias autem constitutivas speciei nondum scit actu, sed potentia tantum. Unde
+manifestum est quod complementum scientiae requirit quod non sistatur in communibus, sed procedatur usque
+ad species: individua enim non cadunt sub consideratione artis; non enim eorum est intellectus, sed sensus.
+|#2 Quia igitur Aristoteles in libro de generatione determinavit de transmutationibus elementorum in communi,
+necessarium fuit ad complementum scientiae naturalis, determinare de speciebus transmutationum quae accidunt
+circa elementa: et de his determinat in hoc libro, qui intitulatur meteorologicorum. Est igitur intentio eius in hoc
+libro determinare de transmutationibus quae accidunt circa elementa, secundum singulas species.
+Et ad manifestandam suam intentionem, praemittit prooemium. In quo tria facit: primo enim enumerat ea de
+quibus tractatum est in libris scientiae naturalis praecedentibus hunc librum; secundo manifestat de quibus in hoc
+libro sit agendum, ibi: reliqua autem pars huius etc.; tertio ostendit de quibus in sequentibus libris restat
+agendum, ibi: pertranseuntes autem de his etc..
+|#3 Praecedunt autem hunc librum, secundum ordinem, in scientia naturali tres libri. Unde tria facit.
+Primo ponit de quo sit actum in libro physicorum.
+In quo quidem, quantum ad duos primos libros eius, agitur de causis naturae: et hoc tangit, concludens ex
+determinatione praecedentium librorum, cum dicit: de primis quidem igitur causis naturae; ut intelligantur
+primae causae naturae prima principia, quae sunt materia, forma et privatio, et etiam quatuor genera causarum,
+scilicet materia, forma, agens et finis, in sequentibus autem libris physicorum agitur de motu in generali: et hoc
+est quod subdit: et de omni motu naturali.
+Secundus scientiae naturalis liber est liber de caelo et mundo. In cuius prima parte, scilicet in duobus eius primis
+libris, agitur de caelo et stellis, quae moventur motu circulari: et quantum ad hoc dicit: adhuc autem de
+secundum superiorem lationem perornatis astris; perornatis, idest valde ornate dispositis, secundum superiorem
+lationem, idest secundum motum circularem, quo moventur omnia corpora caelestia. In secunda autem parte
+huius libri, scilicet tertio et quarto libro, determinat de numero elementorum et de motu locali eorum: et quantum
+ad hoc dicit: et de elementis corporalibus, quot et quae sint. Dicit autem elementa corporalia, ad differentiam
+primorum principiorum, scilicet materiae et formae, quae non sunt corpora, sed corporum elementa seu
+principia: ignis autem et aqua et terra corpora sunt, et sunt aliorum corporum elementa.
+1
+
+

@@ -1,0 +1,58 @@
+|#4 Dicendum est autem quod hic dividuntur res secundum quod significantur per nomina, quae subiiciuntur in
+enunciationibus: dictum est autem supra quod nomina non significant res nisi mediante intellectu; et ideo oportet
+quod divisio ista rerum accipiatur secundum quod res cadunt in intellectu.
+Ea vero quae sunt coniuncta in rebus intellectus potest distinguere, quando unum eorum non cadit in ratione
+alterius. In qualibet autem re singulari est considerare aliquid quod est proprium illi rei, in quantum est haec res,
+sicut socrati vel Platoni in quantum est hic homo; et aliquid est considerare in ea, in quo convenit cum aliis
+quibusdam rebus, sicut quod socrates est animal, aut homo, aut rationalis, aut risibilis, aut albus.
+Quando igitur res denominatur ab eo quod convenit illi soli rei in quantum est haec res, huiusmodi nomen dicitur
+significare aliquid singulare; quando autem denominatur res ab eo quod est commune sibi et multis aliis, nomen
+huiusmodi dicitur significare universale, quia scilicet nomen significat naturam sive dispositionem aliquam, quae
+est communis multis.
+Quia igitur hanc divisionem dedit de rebus non absolute secundum quod sunt extra animam, sed secundum quod
+referuntur ad intellectum, non definivit universale et singulare secundum aliquid quod pertinet ad rem, puta si
+diceret quod universale extra animam, quod pertinet ad opinionem Platonis, sed per actum animae intellectivae,
+quod est praedicari de multis vel de uno solo.
+|#5 Est autem considerandum quod intellectus apprehendit rem intellectam secundum propriam essentiam, seu
+definitionem: unde et in III de anima dicitur quod obiectum proprium intellectus est quod quid est. Contingit
+autem quandoque quod propria ratio alicuius formae intellectae non repugnat ei quod est esse in pluribus, sed
+hoc impeditur ab aliquo alio, sive sit aliquid accidentaliter adveniens, puta si omnibus hominibus morientibus
+unus solus remaneret, sive sit propter conditionem materiae, sicut est unus tantum sol, non quod repugnet rationi
+solari esse in pluribus secundum conditionem formae ipsius, sed quia non est alia materia susceptiva talis
+formae; et ideo non dixit quod universale est quod praedicatur de pluribus, sed quod aptum natum est praedicari
+de pluribus.
+|#6 Cum autem omnis forma, quae nata est recipi in materia quantum est de se, communicabilis sit multis
+materiis; dupliciter potest contingere quod id quod significatur per nomen, non sit aptum natum praedicari de
+pluribus. Uno modo, quia nomen significat formam secundum quod terminata est ad hanc materiam, sicut hoc
+nomen socrates vel Plato, quod significat naturam humanam prout est in hac materia. Alio modo, secundum
+quod nomen significat formam, quae non est nata in materia recipi, unde oportet quod per se remaneat una et
+singularis; sicut albedo, si esset forma non existens in materia, esset una sola, unde esset singularis: et propter
+hoc Philosophus dicit in VII metaphys.
+Quod si essent species rerum separatae, sicut posuit Plato, essent individua.
+|#7 Potest autem obiici quod hoc nomen socrates vel Plato est natum de pluribus praedicari, quia nihil prohibet
+multos esse, qui vocentur hoc nomine. Sed ad hoc patet responsio, si attendantur verba Aristotelis.
+Ipse enim non divisit nomina in universale et particulare, sed res. Et ideo intelligendum est quod universale
+dicitur quando, non solum nomen potest de pluribus praedicari, sed id, quod significatur per nomen, est natum in
+pluribus inveniri; hoc autem non contingit in praedictis nominibus: nam hoc nomen socrates vel Plato significat
+naturam humanam secundum quod est in hac materia.
+Si vero hoc nomen imponatur alteri homini significabit naturam humanam in alia materia; et sic eius erit alia
+significatio; unde non erit universale, sed aequivocum.
+|#8 Deinde cum dicit: necesse est autem enunciare etc., concludit divisionem enunciationis. Quia enim semper
+enunciatur aliquid de aliqua re; rerum autem quaedam sunt universalia, quaedam singularia; necesse est quod
+quandoque enuncietur aliquid inesse vel non inesse alicui universalium, quandoque vero alicui singularium. Et
+est suspensiva constructio usque huc, et est sensus: quoniam autem sunt haec quidem rerum etc., necesse est
+enunciare etc..
+|#9 Est autem considerandum quod de universali aliquid enunciatur quatuor modis.
+Nam universale potest uno modo considerari quasi separatum a singularibus, sive per se subsistens, ut Plato
+posuit, sive, secundum sententiam Aristotelis, secundum esse quod habet in intellectu. Et sic potest ei aliquid
+attribui dupliciter.
+Quandoque enim attribuitur ei sic considerato aliquid, quod pertinet ad solam operationem intellectus, ut si
+dicatur quod homo est praedicabile de multis, sive universale, sive species. Huiusmodi enim intentiones format
+intellectus attribuens eas naturae intellectae, secundum quod comparat ipsam ad res, quae sunt extra animam.
+Quandoque vero attribuitur aliquid universali sic considerato, quod scilicet apprehenditur ab intellectu ut unum,
+tamen id quod attribuitur ei non pertinet ad actum intellectus, sed ad esse, quod habet natura apprehensa in rebus,
+quae sunt extra animam, puta si dicatur quod homo est dignissima creaturarum.
+Hoc enim convenit naturae humanae etiam secundum quod est in singularibus.
+23
+
+

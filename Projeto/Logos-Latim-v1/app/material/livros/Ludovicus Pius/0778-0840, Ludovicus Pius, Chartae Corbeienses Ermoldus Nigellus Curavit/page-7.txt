@@ -1,0 +1,49 @@
+percussi, et in iis versus quosdam ex Ermoldo, tanquam ex alio quovis obvio auctore adduci animadverterem,
+donec in epistolas Jani Gruteri, ejusdemque Marquardi Freheri ad Sebastianum Tengnagelium autographas
+incidi: ex quibus didici quemadmodum Freherus in poematis istius, cujus quod sciam unicum exemplum hoc
+Caesareum est, notitiam devenerit, et ex illo versus, quos affert, deprompserit. Eas epistolas visum ex Ermoldo
+praemittere, ut res tota in meliori lumine collocetur.
+NAME: "Epistola ad Sebastianum Tengnagelium"
+AUTHOR: "Gruterus, Janus" {MOD}
+{main}
+Jani Gruteri Epistola ad Sebastianum Tengnagelium.
+« S. P. Vir clarissime, et ignosce si paucis amabilissimae tuae epistolae respondeo. Alio avocor, et volo,
+si fieri potest, has pervenire ad te tempori. [0564A] Multum tibi debeo ob pium alloquium in hoc meo luctu,
+quem fero patienter, certus omnia a Deo bonis immitti in bonum. Arabem nostrum si remiseris, copia mox tibi
+fiet alterius, quem petis. De catalogo librariae Caesareae majestatis, quod dignatus es eum mecum communicare,
+plurimum te amo, plurimum debeo. Livius meus quidem prodiit, sed non etiam notae, quibus reddo rationem
+emendationum textus. Itaque si exstaret apud vos exemplar bene vetustum, aut quod descriptum ex autographo
+vetusto, haud id abnuam, quemadmodum nec Julium Caesarem, in quem jam molior variantes lectiones. Sed in
+primis, si Martialis quis notae bonae ibidem, eum cupiam; mihi submittere ne graveris, dummodo id fieri
+commode possit. Ermoldo quid fieri velit Freherus cognosces ex hac ipsius schedula. Wegenmyeriani
+pertinaciter tacent, quod silentium interpretor pro abnutu. Causam ejus non exputo, nisi si est diversitas
+religionis, quam illi forte pertinaciter urgent, [0564B] et exercent odio, quo minime deberent. Etiam ultimae istae
+tuae emissarii in oculos inciderunt, sed ita ut callide alteri imponere potuissent haud etiam mihi. Itaque Memneso
+Apistein. Nescio an Heinsius pergat in emaculando Nonno; nam alioquin et nobis vetustissimi ejus auctoris
+codices, quos tamen nunquam desideravit: indicabo ei tamen hodie mentem tuam benevolam. Haec habebam
+breviter ad tuas. Vale et salve, mi domine, una cum animo meo charissimo capite domino Blotio.
+«Heidelbergae, 30 Januarii 1608. «T. T. JANUS GRUTERUS. »
+Inscriptio: Amplissimo clarissimoque viro domino, domino Sebastiano Tengnagelio S. C. majestatis
+bibliothecario.
+[0569A]
+ERMOLDI NIGELLI PROLOGUS.
+REGIA ERMOLDI
+[a] {foot}
+[0569A] Inscripto a secunda manu apposita.. [0569]
+Editor [b] {foot}
+[0569A] Tenebroso verbo sua exorditur Ermoldus. Pro conditor usurpata vox videtur, quanquam potius
+suspicor pro editor scriptum fuisse a poeta editus, aut edite, pro natus, sive nate. Is enim Christum alloquitur.,
+aetherea splendes qui Patris in arcERegnator mundi, fautorque, Redemptor, et auctoRMilitibus dignis reseras qui
+regna poloruMOlim conclusos culpa parientis AvernOLuminis aeterni revehis qui Christe tribunaLDavid
+psalmianus praesaga carminis illuDVoce prius modulans, dudum miranda relatUSacra futurorum qui prompsit
+dogmat vateSConfer rusticulo, quo possim Caesaris in hoCEximii exiguo modulanter poscito [c] {foot}
+[0569A] Pro postulato. Infra habet pectine parvo, ita ut de ea voce dubitem. ritECarmine gesta loqui.
+Nymphas non deprecor istuCInsani quondam ut prisci fecere peritINec rogo Pierides, nec Phoebi tramite [d]
+{foot}
+[0569A] Lambecius edidit lumen. At ms. codex manifeste habet limen: neque aliter legendum
+persuadet ingrediar [0570A] subsequentis versus. limeNIngrediar capturus opem, nec Apollinis almITalia cum
+facerem [e] {foot}
+
+7
+
+

@@ -1,0 +1,56 @@
+|#5 Deinde cum dicit: si enim a de b praedicatur etc., probat quod ad concludendum id quod est sicut
+frequenter, necesse sit accipere medium quod sit sicut frequenter. Detur enim oppositum, quod accipiatur
+medium quod sit universaliter et semper; puta si a, quae est maior extremitas, praedicetur universaliter de b,
+quod est medium, et b de c, quod est minor extremitas: ex necessitate sequitur quod a praedicetur de c
+universaliter, et quantum ad tempus et quantum ad subiectum, quod est semper et de omni praedicari.
+Unde idem nunc dicimus universaliter praedicari, quod praedicari de omni et semper. Sed suppositum erat quod
+a praedicaretur de c sicut frequenter. Necesse est ergo quod medium, quod est b, accipiatur sicut frequenter
+existens. Sic igitur patet quod possunt accipi quaedam immediata principia eorum quae sunt frequenter, ita quod
+ipsa principia sint aut fiant sicut frequenter.
+Huiusmodi tamen demonstrationes non faciunt simpliciter scire verum esse quod concluditur, sed secundum
+quid, scilicet quod sit verum ut in pluribus; et sic etiam principia quae assumuntur, veritatem habent. Unde
+huiusmodi scientiae deficiunt a scientiis, quae sunt de necessariis absolute, quantum ad certitudinem
+demonstrationis.
+|#6 Deinde cum dicit: quomodo quidem igitur etc., epilogat ea quae dicta sunt; et dicit quod iam supra dictum
+est, quomodo quod quid est, quod est aliqualiter idem ei quod propter quid, assignatur inter terminos
+syllogisticos, dum ostensum est qualiter singula causarum genera, et in singulis diversitatibus rerum, sint media
+demonstrationum.
+Dictum est etiam qualiter eius quod quid est sit vel non sit demonstratio vel definitio.
+|+13 Lectio 13
+|#1 Postquam Philosophus ostendit qualiter quod quid est et propter quid se habeant ad demonstrationem, hic
+ostendit quomodo possint investigari: et primo, quomodo investigetur quod quid est; secundo, quomodo
+investigetur propter quid; ibi: ad habendum autem etc.. Circa primum duo facit: primo, dicit de quo est intentio;
+secundo, exequitur propositum; ibi: eorum autem igitur quae insunt semper etc.. Dicit ergo primo quod postquam
+dictum est qualiter quod quid est cognoscatur, et qualiter quod quid est vel propter quid accipiatur ut medium in
+demonstratione, nunc dicendum est quomodo oporteat investigare ea quae praedicantur in eo quod quid est.
+|#2 Deinde cum dicit: eorum igitur quae insunt etc., ostendit propositum: et primo, manifestat qualia oporteat
+esse illa, quae accipiuntur ad constituendum quod quid est; secundo, quomodo sint inquirenda; ibi: congruum
+autem est cum totum aliquod etc.. Circa primum tria facit: primo, praemittit quamdam divisionem; secundo,
+proponit qualia oporteat esse quae accipiuntur ad constituendum quod quid est; ibi: huiusmodi accipienda sunt
+etc.; tertio, probat; ibi: quoniam autem ostensum est etc..
+|#3 Circa primum considerandum est quod ea quae praedicantur in eo quod quid est, oportet quod semper et
+universaliter praedicentur, ut supra habitum est: et ideo accipiens ea quae praedicantur de unoquoque ut semper,
+dicit quod inter ea quaedam inveniuntur quae extenduntur in plus quam id cui insunt; non tamen ita quod
+inveniantur extra genus illud. Et exponit quid sit esse in plus, et dicit quod in plus esse dicuntur quaecunque
+universaliter insunt alicui, non tamen ei soli, sed etiam alii. Datur autem per hoc intelligi aliud membrum
+oppositum, quia scilicet est aliquid quod extenditur in plus, et est extra genus.
+Et de hoc primo ponit exemplum, dicens quod est aliquid quod inest omni ternario, sed et non ternario inest;
+sicut patet de ipso ente communi, quod quidem universaliter inest non tantum trinitati, sed etiam aliis; et non
+solum in genere numeri, sed etiam in his quae sunt extra genus numeri. Impar vero inest omni ternario, et est in
+plus, quia etiam inest ipsi quinario; non tamen invenitur extra genus ternarii, quod est numerus, quia etiam
+quinarius in genere numeri invenitur; nihil autem quod sit extra genus numeri potest dici impar.
+|#4 Deinde cum dicit: huiusmodi autem accipienda sunt etc., ostendit qualia debeant esse quae accipiuntur ad
+constituendum quod quid est. Et primo, proponit quod intendit; secundo, manifestat per exemplum; ibi: ut
+trinitati omni etc.. Dicit ergo primo quod ad manifestandum quod quid est accipienda sunt talia, quae quidem
+sunt semper et in plus, non tamen extra genus, usque ad talem terminum, ut primo quidem unumquodque quod
+accipitur sit in plus, omnia autem non sint in plus, sed convertantur cum re, cuius quaeritur quod quid est. Huius
+enim rationem necesse est significare quod quid est rei.
+|#5 Deinde cum dicit: ut trinitati omni inest numerus etc., manifestat quod dixerat per exemplum.
+Accipiamus enim ista quatuor, scilicet numerus, impar, primus utroque modo. Dupliciter enim dicitur aliquis
+numerus primus. Uno modo, quia non mensuratur aliquo alio numero, sicut per oppositum patet quod
+quaternarius non est numerus primus, quia mensuratur dualitate; ternarius autem est numerus primus, quia non
+mensuratur aliquo numero, sed sola unitate. Alio modo dicitur aliquis numerus primus, quia non componitur ex
+pluribus numeris; sicut patet per oppositum de septenario, qui primo modo est primus, non enim mensuratur nisi
+100
+
+

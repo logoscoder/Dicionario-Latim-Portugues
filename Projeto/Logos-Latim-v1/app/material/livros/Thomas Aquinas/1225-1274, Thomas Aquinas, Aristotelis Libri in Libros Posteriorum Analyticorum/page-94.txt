@@ -1,0 +1,59 @@
+medietatem duorum angulorum rectorum. Hoc igitur existente, necesse est quod a sit in c; quod nihil est aliud
+quam angulum semicirculi esse rectum.
+Subiungit autem quod hic modus demonstrationis potest etiam ad causam formalem pertinere, quam nominaverat
+quod quid erat esse; eo quod esse medium duorum rectorum potest accipi ut ratio significans quod quid est recti
+anguli.
+|#7 Deinde cum dicit: at vero et ipsius etc., remittit ad praemissa, et dicit quod in superioribus monstratum est
+quomodo causa formalis, quae est quod quid erat esse, pertineat ad medium demonstrationis.
+|#8
+Deinde cum dicit: propter quid autem etc., ponit exemplum de causa movente, tangens quamdam
+Graecorum historiam: videlicet quod Athenienses quondam, adiunctis sibi quibusdam aliis Graecis, invaserunt
+sardenses, qui erant subiecti regi medorum; et ideo medi invaserunt Athenienses.
+Dicit ergo quod quaeri potest propter quid bellum medorum factum est cum Atheniensibus; et hoc propter quid
+est causa quare Athenienses impugnati sunt a medis: quia scilicet ipsi simul cum quibusdam aliis, scilicet
+eretriis, fecerunt, insultum in sardenses; hoc enim est quod fuit primum motivum belli. Sit ergo bellum in quo a,
+quod est maior extremitas; quod priores insultum fecerunt sit b, idest medium; sed Athenienses sit c, idest minor
+extremitas. Igitur b est in c, in quantum scilicet Atheniensibus convenit quod priores fecerunt insultum. A autem
+est in b, quia scilicet illi qui prius aliis iniustitiam intulerunt, sunt debellati. Sic ergo a est in b, in quantum
+debellantur illi qui prius inceperunt. Hoc autem, scilicet b, quod est medium, pertinet ad Athenienses, qui prius
+bellum inceperunt. Et sic patet quod hic accipitur quasi medium causa quae primo movit.
+|#9 Deinde cum dicit: quorumcunque autem causa etc., manifestat idem in causa finali. Et circa hoc duo facit:
+primo, proponit exemplum in causa finali; secundo, ostendit differentiam inter causam finalem et causam quae
+est principium motus; ibi: generationes autem e contrario etc.. Dicit ergo primo quod similiter se habet cum
+praedictis in quibuscunque accipitur quasi causa finis, cuius causa fit aliquid. Puta si dicamus propter quid
+aliquis ambulat post coenam, ut scilicet fiat sanus: et iterum propter quid est domus, ad hoc scilicet ut vasa, idest
+supellectilia hominis, salventur, idest conserventur. Sic ergo hoc, scilicet ambulatio post coenam, fit gratia
+sanandi; hoc autem, scilicet aedificatio domus, est gratia servandi supellectilia. Sic ergo nihil differt dicere
+propter quid oportet post coenam ambulare, et cuius gratia hoc oporteat. Sic ergo ambulare post coenam in quo c,
+minor extremitas; sed non eminere cibos in ore stomachi sit medium, in quo est b; sanari vero sit maior
+extremitas, in quo est a. Sit ergo b in c, quia ambulatio post coenam facit ut non emineant cibi in ore stomachi; et
+propter hoc provenit sanitas, quod est a esse in b. Videtur enim quod ipsi ambulare, quod est c, insit b, quod est
+non eminere cibos in ore stomachi. Ad hoc autem sequitur a, quod est esse sanativum. Sic ergo patet quod b,
+scilicet non eminere cibos in ore stomachi, est causa quare c est a, idest quare ambulare post coenam sit
+sanativum; et hoc, scilicet non eminere cibos in ore stomachi, est ratio eius quod est esse sanativum.
+A enim, idest esse sanativum, sic assignabitur, idest notificabitur. Quod autem b sit in c est propter quid, quia
+scilicet sic se habere ut non emineant cibi in ore stomachi est sanari. Et ad hoc quod singula fiant magis
+manifesta, oportet transumere rationes, ut scilicet accipiatur medium quasi ratio maioris extremitatis, sicut in
+praemisso exemplo apparet.
+|#10 Deinde cum dicit: generationes autem e contrario etc., ostendit quomodo diversimode se habet et in causa
+quae est principium motus.
+Contrario enim modo se habent in via generationis causa finalis, et causa quae est principium motus. Nam ibi,
+scilicet in demonstratione quae sumitur per causam quae est principium motus, oportet medium primum fieri,
+idest esse primum in via generationis; sicut prius fuit quod Athenienses insultum fecerunt in sardenses, quam
+quod impugnarentur a medis. Sed hic, in demonstratione quae fit per causam finalem, accipitur sicut primum in
+via generationis ipsum c, quod est minor extremitas, et est ultimum causatum causae finalis. Ultimum autem in
+via generationis est finis, cuius gratia est aliquid. Manifestum est enim quod primo aliquis ambulat post coenam,
+et ex hoc sequitur quod cibi non emineant in ore stomachi, et ex hoc ulterius sequitur sanitas hominis, quae est
+principalis finis.
+|#11 Deinde cum dicit: contingit autem idem etc., ostendit quomodo ad eumdem effectum possunt assumi
+plures praedictarum causarum. Et circa hoc duo facit: primo, manifestat plures causas esse eiusdem; secundo,
+ostendit in quibus habeat locum quod dictum est; ibi: plurima autem huiusmodi sunt etc.. Dicit ergo primo quod
+contingit unum et eumdem effectum esse propter aliquem finem sive gratia eius, et ex necessitate alicuius prioris
+causae; sicut hoc quod est lumen apparere per pellem lucernae, ex necessitate provenit; necesse est enim quod
+corpus minorum partium transeat per poros largiores. Dicitur autem hoc secundum opinionem ponentium quod
+lumen sit corpus quoddam subtile, et quod apparentia luminis per diaphanum fiat propter magnitudinem pororum
+quasi quorumdam foraminum. Corpus autem subtile videtur esse parvarum partium. Et quia hoc non est
+secundum suam opinionem, subiungit quod ex tali necessitate hoc provenit, si tamen lumen appareat
+94
+
+

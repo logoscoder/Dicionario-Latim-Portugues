@@ -1,0 +1,63 @@
+Ergo lux non est accidens.
+AG3
+Praeterea, quidquid praedicatur de genere, et de specie. Sed secundum Philosophum, lux est species ignis. Cum
+ergo ignis sit corpus et substantia, videtur quod similiter et lux.
+AG4
+Praeterea, nihil movetur nisi corpus, ut in 7 physic., probatur. Sed radii moventur descendentes de sole ad nos.
+Ergo sunt corpus.
+AG5
+Praeterea, nihil reverberatur ad corpus nisi corpus, quia accidenti corpus non obsistit. Sed radii solares
+reverberantur ad corpus solidum. Ergo etc..
+AG6
+Praeterea, corporum est ut ex eorum confricatione et compressione calor sequatur. Sed ex intersecatione
+radiorum solis et multiplicatione sequitur calor. Ergo etc..
+AG7
+Item, nihil agit ultra speciem suam, quia effectus non est altior agente. Sed per lumen solis producuntur formae
+substantiales in inferioribus, ut patet ex dionysio, ubi dicit, quod lumen solare corporum visibilium generationi
+confert, et ad vitam ipsam movet. Cum ergo forma substantialis sit ultra naturam accidentis in perfectione et
+dignitate, videtur quod lumen accidens esse non possit.
+AG8
+Praeterea, si accidens est, oportet quod ad aliquod accidentis genus reducatur, nec potest ad aliud reduci quam ad
+genus qualitatis, cujus sibi nulla species competere videtur nisi tertia. Si ergo in tertia specie qualitatis non sit,
+videtur quod non sit accidens. Quod autem non sit in tertia specie qualitatis, sic probatur. In illa enim specie est
+passio, vel passibilis qualitas. Sed cuilibet passibili qualitati est aliquid contrarium. Cum ergo luci nihil contrarie
+opponatur, sed solum privative, scilicet tenebra, videtur quod lux non sit in tertia specie qualitatis.
+AG9
+Praeterea, omnis qualitas passibilis introducitur successive in materiam; quia secundum eam contingit
+alterationis motus, qui successivus est.
+Illuminatio autem fit subito. Ergo lumen non est hujusmodi qualitas.
+AG10
+Praeterea, qualitates passibiles impressae in subjecto ab aliquo agente, remanent per aliquod tempus, etiam
+agente remoto, ut patet in aqua calefacta.
+Sed lumen factum in aere statim esse desinit ad absentiam solis illuminantis. Ergo etc..
+SC1
+Sed contra est quod dicit Damascenus, lucem esse qualitatem ignis.
+Qualitas autem est accidens. Ergo et lux.
+SC2
+Item, Avicenna dicit, quod lux est qualitas corporis lucidi inquantum hujusmodi, et quod lumen est qualitas
+quam mutuatur corpus diaphanum a corpore lucido.
+Ergo videtur quod tam lumen quam lux sit accidens.
+CO
+Respondeo dicendum, quod ista quatuor differunt, lux, lumen, radius et splendor. Lux enim dicitur, secundum
+quod est in aliquo corpore lucido in actu, a quo alia illuminantur, ut in sole.
+Lumen autem dicitur, secundum quod est receptum in corpore diaphano illuminato. Radius autem dicitur
+illuminatio secundum directam lineam ad corpus lucidum; et ideo ubicumque est radius, est lumen; sed non
+convertitur; contingit enim lumen esse in domo ex reflexione radiorum solis, quamvis non ex directa
+oppositione, propter aliquod corpus interjacens. Splendor autem est ex reflexione radii ad aliquod corpus tersum
+et politum, sicut ad aquam, et ad argentum, vel ad aliquod hujusmodi; ex qua reflexione etiam radii projiciuntur.
+His ergo visis, sciendum est, quod circa naturam lucis et luminis est multiplex opinio. Quidam enim dixerunt,
+quod lux est corpus, quod est ipsa substantia solis, ex quo fluunt quaedam corpora, et illa corpora dicuntur lumen
+vel radius. Haec autem positio multipliciter a philosophis improbata est. Primo, quia sequeretur quod illuminatio
+esset motus localis corporum a sole fluentium; et cum motus localis non possit esse subito, sequeretur
+illuminationem fieri successive, quae successio non posset sensum latere secundum maximum spatium, ab
+oriente scilicet in occidentem, et a sole ad nos.
+Secundo, quia sequeretur duo corpora esse simul in eodem loco, cum totum spatium quod illuminatur sit plenum
+aere: quamvis haec pro inconvenienti quidam eorum non habeant, omnino sensum negligentes.
+Alii vero dicunt, lumen recipi in poros aeris.
+Sed hoc ridiculum est; oporteret enim obtenebrato aere, poros vacuos remanere, et aerem non totum illuminari, et
+multa hujusmodi. Tertio, quia illa corpora aut deciduntur de substantia solis, et sic oporteret eum quotidie
+minorari, et quandoque consumi; nisi forte dicatur cibari vaporibus ex aqua et terra ascendentibus, ut sic
+deperdita restaurentur; quod est omnino fabulosum. Aut oporteret quod continue illa corpora de novo fiant; et
+514
+
+

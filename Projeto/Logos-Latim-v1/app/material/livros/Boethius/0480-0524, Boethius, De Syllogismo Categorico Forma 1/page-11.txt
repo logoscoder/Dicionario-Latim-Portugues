@@ -1,0 +1,63 @@
+Quoddam hinnibile non est homo
+utraeque uerae sunt. Nam et:
+Nullum hinnibile homo est
+quae est uniuersalis conuersio negationis, uera est, et:
+Quoddam hinnibile non est homo
+quae conuersio particularis negationis est. Cur autem per accidens conuerti dicatur, superius dictum est. Liquet
+ergo talis per accidens conuersio: quod igitur habet uniuersalis affirmatio, hoc habet etiam contraiacens particularis
+negatio, utraeque enim sibi conuerti non possunt; quod autem habet uniuersalis [807A] negatio, hoo habet et ei
+contraiacens affirmatio particularis, utraeque enim sibi conuerti possunt. Iunctae ergo quae sibi conuerti possunt, et
+quae sibi conuerti non possunt, ut quae sibi conuerti potest iungatur ei quae sibi conuerti non potest, et quae sibi
+conuerti non potest iungatur ei quae sibi conuerti potest, faciunt per accidens conuersiones quae superius demonstratae
+sunt.
+Restat ut de his conuersionibus dicamus quae per contrapositionem fiunt, et primum earum sit dispositio in
+descriptione subiecta, generalis enim affirmationis quae dicit:
+Omnis [808A] homo animal est
+conuersio per contrapositionem est quae dicit:
+Omne non animal non homo est.
+Item generalis negationis quae dicit:
+Nullus homo animal est
+conuersio per contrapositionem est:
+Nullum non animal non homo est.
+Item particularis affirmationis quae dicit:
+Quidam homo animal est
+conuersio per contrapositionem est quae dicit:
+Quoddam non animal non homo est.
+Item particularis negationis quae dicit:
+Quidam homo animal non est
+conuersio per contrapositionem est quae dicit:
+Quoddam non animal non homo est
+quod demonstrat subiecta descriptio:
+Omnis homo animal est
+Omne non animal non homo est
+Nullus homo animal est
+Nullum non animal non homo est
+Quidam homo animal est
+Quoddam non animal non homo est
+Quidam homo animal non est
+Quoddam non animal non homo non est
+[807B] His ergo ita positis, quomodo dictum est superius in simplici terminorum conuersione, quod
+particularis affirmatio et generalis negatio sibi ipsis conuerterentur, generalis uero affirmatio et particularis negatio sibi
+ipsis non conuerterentur, hic in per contrapositionem conuersionibus contra est. Nam generalis affirmatio per
+contrapositionem sibi ipsa conuertitur, et particularis negatio sibi ipsi conuertitur. Generalis uero negatio et particularis
+affirmatio per contrapositionem sibi non conuertuntur.
+Quod ita esse his exemplis probabimus. Si enim uera sit affirmatio generalis quae dicit:
+Omnis homo animal est
+uera erit eius per contrapositionem conuersio quae dicit:
+Omne non animal non homo est.
+Quod enim animal non fuerit, id homo non erit. Et si falsa fuerit [807C] generalis affirmatio quae dicit:
+Omne animal homo est
+falsa erit etiam eius per contrapositionem conuersio quae dicit:
+Omnis non homo non animal est
+potest enim fieri ut quod homo non est, animal sit. Illa enim negat esse animal quod homo non fuerit. Quod si
+cum uera est generalis affirmatiua, uera est eius per contrapositionem conuersio, et si cum falsa est generalis affirmatio,
+falsa est eius per contrapositionem conuersio, non est dubium quin generalis affirmatio possit sibi ipsa conuerti.
+Item nunc ostendendum est quomodo particularis negatio sibi ipsi per contrapositionem conuertitur. Nam si
+falsa est quae dicit:
+Quidam homo animal non est
+falsa eius erit etiam per contrapositionem conuersio quae dicit:
+Quoddam non animal non homo est.
+
+11
+
+

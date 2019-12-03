@@ -1,0 +1,60 @@
+De differentiis localibus
+Printed Source: Die Philosophischen Werke des Robert Grosseteste, Bischofs von Lincoln (Münster i. W.,
+Aschendorff, 1912.), pp. 84 - 87.
+INC: Differentiarum idem genus condividentium nulla cum alia simul est in eadem specie vel individuo illius
+generis.
+EXPL: Ex ortu enim et occasu effectum generationis et corruptionis habent sicut satis notum est.
+p. 84: Differentiarum idem genus condividentium nulla cum alia simul est in eadem specie vel individuo illius
+generis.Sed sex sunt differentiae locum primo condividentes scilicet: sursum, deorsum, dextrum, sinistrum, ante
+et retro. Ergo in nullo eodem loco est aliqua illarum simul cum alia. Sed unaquaeque pars horizontis sursum est:
+ergo nulla earum est dextrum vel sinistrum, vel ante vel retro.
+p. 84: Item loca solum differentias habent ex terminis distantiarum differentibus: ergo ex oppositis oppositas et
+ex diversis diversas. Quod ergo sursum et deorsum sint diversae differentiae, hoc erit ex distantia unius ad
+alterum. Ergo cum idem locus a se non possit distare, in eodem loco naturaliter non erit dextrum et sinistrum.
+p. 85: Item dicit Aristoteles in libro "de caelo et mundo", quod tantum duo sunt loca naturalia scilicet medium et
+horizonta. Ergo ceterae differentiae loci, cum non fuerint secundum naturam erunt quoad nos, quod est contra
+ipsum in Physicis.
+p. 85: Huius solutio patet ex appositione: "hoc solum sursum est, in quod movetur leve non prohibitum". Sed
+leve extra medium existens non ad quamcunque partem horizontis movetur, sed ad unam tantum. Ergo termino
+distante extra medium sumpto solum, una pars horizontis sursum est respectu istius, et aliae partes aliis
+differentiis relinquuntur.
+p. 85: Probatio minoris: natura movens via brevissima movens est. Sed si in circulo extra centrum signetur
+punctus, linea, quae ab isto puncto inchoatur et per centrum transiens ad circumferentiam terminatur, omnium
+longissima est, quae vero ab illo puncto ad circumferentiam trahitur et quae cum ea perficit diametrum, est
+omnium brevissima. Ergo per eam movebit natura, si intendat ad circumferentiam. Ergo respectu singularum
+habitationum in superficie terrae sunt singulae partes horizontis sursum et non plures, respectu vero medii
+omnes. Non ergo erunt reliquae differentiae secundum positionem nostram, sed secundum situm singularum
+habitationum terrae.
+p. 85: Item, istae sex differentiae aliquando differentiae partium corporis sunt, aliquando locorum. Differentiae
+partium corporis differentiae sunt hoc modo: Corporis tres sunt dimensiones, scilicet longitudo, latitudo et
+spissitudo. Termini longitudinis sunt sursum et deorsum, latitudinis dextrum et sinistrum, spissitudinis ante et
+retro, ut dicit Aristoteles in libro de caelo et mundo. Sed in lineationibus sphaerici corporis non refert, secundum
+quam lineationem distinguatur longitudo, latitudo et spissitudo, quia dimensiones in corpore sphaerico sunt
+uniformes in figura et aequales. Unde nec in terminis dimensionum est distantia, et licet pars sursum sit et illa
+dextrum, sed in eadem parte confunduntur omnes differentiae.
+p. 86: Item ex hac ratione patet, quod sursum et deorsum omnium communissima sunt, dextrum vero et sinistrum
+communiora, quam ante et retro, quod falsum est. Quaedam enim habent tantum dextrum, cum non habeant ante
+et retro. Huius veritas dependet ex hac divisione: istae differentiae aut habent distinctionem ex terminis
+dimensionum mathematicarum, aut dimensionum naturalium, id est dimensionum, quae distinguuntur per
+potentias naturales. Si primo modo, solum erit naturarum differentiarum distinctio secundum rationem et
+secundum nomen et confusio secundum rem, sicut prius ostensum est. Si autem secundo modo, tunc erit
+distinctio secundum rem, ut est in animato, quoniam pars animati, unde est principium augmentandi, est sursum,
+ut caput in animalibus et in arboribus radix. In habentibus autem principium movendi secundum locum pars, per
+quam exit virtus motiva secundum locum, dextra est. Ante autem est pars ipsa, in qua siti sunt sensus. Igitur
+secundum ordinationem illarum potentiarum ordinabuntur istae sex differentiae, ut prius sint sursum et deorsum,
+postea ante retro, deinde dextrum sinistrum.
+p. 86: Et proportionabiliter sunt istae differentiae in caelo. Augmentatio enim circuli est ex maiori occupatione
+spatii, quod est distantia centri et circumferentiae. Ergo, cum longitudo penes hanc distantiam consistat, termini
+huius distantiae, scilicet centrum et circumferentia, sursum et deorsum erunt. Dextrum autem est pars alia, ut
+aries, in qua est fortior impressio lucis, per quam substantia separata caelum movet. Ante vero dicitur pars
+septentrionalis, in qua sunt luminaria fixa sempiternae apparitionis.
+p. 86: Si vero dicamus differentias istas locorum tantum, tunc dicendum, quod dextrum est locus, unde oriuntur
+stellae. Ortus autem stellarum differens est apud diversas habitationes secundum differentiam hemisphaeriorum,
+ita quod idem locus est his ortus et illis occasus, igitur idem dextrum et sinistrum respectu diversorum et locus
+totius caeli dextrum simpliciter loquendo.
+pp. 86 - 87: Dubium vero est de habitatione eorum, quorum zenith polus est. Nam apud eos non est ortus et
+occasus stellarum per motum caeli, quia suus horizon est circulus aequinoctialis. Ergo nullus locus caeli est eis
+dexterum vel sinistrum. Intentio ergo Aristotelis dicendo "dextrum et sinistrum in caelo secundum ortum et
+1
+
+

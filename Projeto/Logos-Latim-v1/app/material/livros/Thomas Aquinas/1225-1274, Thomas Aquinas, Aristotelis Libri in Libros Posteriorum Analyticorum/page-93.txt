@@ -1,0 +1,59 @@
+quomodo causae assumantur in demonstratione; secundo, quomodo diversimode in diversis rebus; ibi: eadem
+autem causa est etc.. Circa primum duo facit: primo, proponit quod intendit; secundo, manifestat propositum; ibi:
+et hoc enim existente etc..
+|#2 Dicit ergo primo quod quia scire opinamur cum sciamus causam, ut in primo habitum est, demonstratio
+autem est syllogismus faciens scire; ita consequens est quod medium demonstrationis sit causa. Sunt autem
+quatuor genera causarum, ut in II physic. Et in V metaphys. Plenius manifestatur.
+Quarum una est quod quid erat esse, idest causa formalis, quae est completiva essentiae rei. Alia autem est causa,
+qua posita necesse est causatum poni; et haec est causa materialis, quia ea quae sequuntur ex necessitate
+materiae, sunt necessaria absolute, ut habetur in II physic..
+Tertia autem causa est, quae est principium motus, idest causa efficiens. Quarta autem causa est, cuius gratia fit
+aliquid, scilicet causa finalis. Et ita patet quod per medium demonstrationis omnes hae causae manifestantur;
+quia quaelibet harum causarum potest accipi ut medium demonstrationis.
+|#3 Deinde cum dicit: et hoc enim quod etc., manifestat quod dixerat. Et circa hoc duo facit: primo, ostendit
+quomodo diversae causae sumuntur ut media demonstrationis in diversis rebus; secundo, ostendit quomodo
+unius et eiusdem rei possunt esse diversae causae; ibi: contingit autem idem etc.. Circa primum quatuor facit:
+primo, manifestat quomodo causa materialis accipiatur in demonstratione; secundo, manifestat propositum in
+causa formali; ibi: at vero ipsius etc.; tertio, ostendit idem de causa efficienti; ibi: propter quid autem medorum
+etc.; quarto autem, in causa finali; ibi: quorumcunque autem etc.. Circa primum duo facit: primo, proponit
+modum quo causa materialis assumitur in demonstratione, qui etiam competit aliis causis; secundo, ponit
+exemplum; ibi: manifestum est autem etc..
+|#4 Dicit ergo primo quod illud, quo existente necesse est aliud esse, scilicet causa materialis, non contingit
+accipi sic, ut ex necessitate aliquid sequatur, si accipiatur una sola propositio; sed oportet accipere ad minus duas
+hoc modo se habentes, quod communicent in uno medio. Si ergo accipiatur in duabus propositionibus unum
+medium, quod est causa materialis, ex necessitate sequitur conclusio: puta si dicamus: omne compositum ex
+contrariis est corruptibile; lapis est huiusmodi; ergo etc.. Oportet autem accipere duas propositiones, non solum
+propter exigentiam formae syllogisticae, sed etiam quia non omnia quae sunt ex materia, habent ex materia
+necessitatem, ut probatur in II physic.. Et ideo praeter propositionem in qua sumitur hoc habere talem materiam,
+oportet quod sumatur alia propositio, quae declaret quod ex tali materia aliquid ex necessitate sequatur.
+|#5 Deinde cum dicit: manifestum autem est etc., proponit exemplum in mathematicis. Nec est contra id quod
+dicitur in III metaphys., quod mathematicae scientiae non demonstrant per causam materialem. Mathematica
+enim abstrahit quidem a materia sensibili, non autem a materia intelligibili, ut dicitur in VI metaphys.: quae
+quidem materia intelligibilis consideratur secundum quod aliquid divisibile accipitur vel in numeris vel in
+continuis. Et ideo quandocunque in mathematicis aliquid demonstratur de toto per partes, videtur esse
+demonstratio per causam materialem: partes enim se habent ad totum secundum rationem materiae, ut habetur in
+II physic.. Et quia materia magis proprie dicitur in sensibilibus, propter hoc noluit eam nominare causam
+materialem, sed causam necessitatis.
+|#6
+Ad evidentiam autem exempli quod in litera ponitur, sciendum est quod omnis angulus cadens in
+semicirculo est rectus, ut probatur in III euclidis. Est autem probatio talis. Sit semicirculus abc; chorda autem
+eius, quae est diameter circuli, dividatur per medium in puncto d, quod est centrum circuli. Erigatur ergo super
+punctum d linea perpendicularis, quae attingat circumferentiam circuli in puncto b; a quo ducantur duae lineae ad
+duo puncta a et c. Dico ergo quod angulus abc, cadens in semicirculo, est rectus.
+Probatio. Triangulus bdc habet tres angulos aequales duobus rectis; sed angulus eius bdc est rectus, quia linea bd
+est perpendicularis; ergo duo alii anguli, scilicet dbc et bcd, sunt aequales uni recto. Sed hi duo anguli sunt
+aequales, eo quod duae lineae db et dc sunt aequales, quia protrahuntur a centro ad circumferentiam; relinquitur
+ergo quod angulus dbc sit media pars recti anguli. Pari quoque modo probatur quod angulus abd sit media pars
+recti.
+Ergo totus angulus abc est rectus.
+Hac ergo probatione utitur hic Philosophus, dicens quod manifestum est per hunc modum, propter quid est recta
+quae in semicirculo, idest rectus angulus qui cadit in semicirculo, dum accipit illud, quo existente sequitur quod
+sit rectus.
+Sit ergo rectus angulus in quo a, quod est maior extremitas; medietas duorum angulorum sit medium, in quo est
+b; angulus cadens in semicirculo sit minor extremitas, in quo est c. Huius igitur quod est a esse in c, idest quod
+angulus in semicirculo sit rectus, causa est b, scilicet quod angulus semicirculi est medium duorum rectorum.
+Hoc enim medium est aequale per conversionem ipsi a, et ipsum c est simili modo aequale ipsi b. Nam b est esse
+
+93
+
+

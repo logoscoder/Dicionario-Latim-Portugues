@@ -1,0 +1,62 @@
+Ergo videtur, cum omne praedicatum essentiale possit dici de patre, quod possit dici: pater est solus Deus.
+AG2
+Praeterea, pater est Deus, et non est aliud quam Deus. Ergo est solus Deus.
+AG3
+Item, constat quod non est nisi unus solus Deus. Sed ille Deus praeter quem non est alius Deus, est pater. Ergo
+pater est unus solus Deus.
+SC1
+Contra est quod in littera dicitur.
+CO
+Respondeo dicendum, quod cum dicitur, pater est solus Deus, haec dictio solus quamvis ex parte praedicati
+ponatur, tamen potest intelligi ex parte subjecti; ut cum dicitur: est homo albus, intelligitur homo est albus; et
+tunc erit idem judicium de hac sicut et de illa quae supra, art.
+Antec., dicta est: solus pater est Deus. Si autem intelligatur ex parte praedicati, tunc uno modo potest intelligi,
+quod ly solus ponatur pro tantum, et sic erit vera. Nec erit superflua additio; quia filius quamvis sit Deus, non
+tamen est tantum Deus, quia est etiam homo, quod de patre dici non potest, cum tamen pater humanam naturam
+assumere potuerit. Sed sic non accipitur hic. Si autem ly solus sumatur proprie, tunc habet proprietatem ista
+locutio, secundum quod hoc praedicatum Deus non tantum praedicat naturam deitatis ut formam, sed ut quid
+subsistens.
+Dico igitur, quod cum dicitur, pater est solus Deus, locutio est duplex. Quia ly solus potest excludere omne aliud
+a patre a participatione formae praedicati; et sic vera est; sic enim non excluditur filius neque spiritus sanctus;
+qui non sunt aliud a supposito patris. Si autem excludat alium masculine, tunc est falsa: in quo tamen sensu vera
+est ista, trinitas est solus Deus; quia cum ly Deus praedicet non tantum naturam, sed etiam suppositum, quando
+praedicatur de trinitate praedicat suppositum totius trinitatis; et ideo etiam si fiat exclusio ratione alterius
+suppositi, vera est: quia nullum aliud suppositum extra trinitatem, sicut nec alia natura, Deus est. Sed cum
+dicitur: pater est Deus, ly Deus praedicat suppositum patris; unde si fiat exclusio respectu ejus quod est aliud
+suppositum a patre, est falsa; et in hoc sensu negatur; si autem ejus quod est aliud in natura a patre, vera est.
+RA1
+Ad primum igitur dicendum, quod secundum quod ly solus excludit suppositum extraneum, et non solum
+extraneam naturam, ad plura extendit se negatio implicita, cum dicitur: pater est solus Deus, quam cum dicitur:
+trinitas est solus Deus. Quia in hac cum dicitur: pater est solus Deus, excluditur etiam suppositum filii et spiritus
+sancti. Et ideo haec est falsa, secundum illum intellectum, pater est solus Deus; quamvis haec sit vera, trinitas est
+solus Deus. Nec hoc est ratione praedicati essentialis, sed ratione negationis excludentis suppositum illud.
+RA2
+Ad secundum, dicendum, quod si ly solus proprie sumatur, non est illa expositio ejus, sed magis esset expositio
+ejus si solus sumeretur pro tantum, et in hoc sensu concessa est.
+RA3
+Ad tertium dicendum, quod si ly solus proprie sumatur, per illud argumentum non probatur quod sit vera: pater
+est solus Deus, sed magis quod ista est vera: solus Deus est pater, et haec secundum aliquem sensum supra
+concessa est. Si autem assumatur, pater est ille Deus, praeter quem non est alius, haec propositio est multiplex:
+quia hoc relativum quem potest referre distinctum suppositum patris ut sit sensus: praeter patrem non est alius.
+Et si intelligatur: non est alius Deus, verum est, quia filius non est alius Deus a patre; si autem intelligatur:
+praeter patrem non est alius qui sit Deus, falsa est, quia filius est alius a patre, qui tamen est Deus. Si vero
+relativum referat suppositum indistincte, secundum quod supponit hoc nomen Deus cum dicitur: Deus est unus,
+tunc est vera in omni sensu. Et sic patet quod non concludetur propositum, nisi per modum quo propositio dicta
+concessa est in distinctione supra posita.
+EX
+Nemo novit patrem nisi filius. Videtur quod Augustinus male exponit: quia nemo idem est quod nullus homo:
+sub hoc autem non continentur pater et spiritus sanctus, de quibus hoc nomen homo non praedicatur; et ita
+videtur quod inconvenienter subjungat Augustinus: non inde separatur pater vel spiritus sanctus quia
+inseparabiles sunt.
+Ad hoc dicunt quidam, quod haec dictio nisi non ponitur exceptive, sed adversative, ut sit sensus: nullus purus
+homo novit patrem notitia comprehensionis, sed tantum filius. Sed potest melius dici, quod haec dictio nemo
+habet aliquid ex proprietate significationis, et aliquid ex usu nominis.
+Ex proprietate significationis habet quod nemo significet idem quod nullus homo, et ita sub hac distributione non
+includitur persona patris vel spiritus sancti. Sed quia homo est secundum quod habet intellectum, nec aliquid
+habens intellectum est nobis ad sensum manifestum nisi homo; ideo ex usu loquentium habet quod nemo
+distribuat pro omni intellectuali natura; et ita sub distributione potest fieri descensus ad personas divinas,
+angelicas et humanas.
+|*IN_I_SENTENTIARUM
+191
+
+

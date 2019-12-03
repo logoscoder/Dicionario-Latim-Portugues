@@ -1,0 +1,51 @@
+OPERA OMNIA
+SANCTI THOMAE AQUINATIS
+-----oOo----Textum electronicum praeparavit et indexavit
+Ricardo M. Rom n, S. R. E. Presbyterus
+Bonis Auris, MCMXCVIII
+
+|*Q._DISPUTATAE
+QUAESTIONES DISPUTATAE
+
+|*DE_ANIMA
+Prooemium
+Prologus
+PR1
+Et primo enim quaeritur, utrum anima humana possit esse forma et hoc aliquid.
+PR2
+Secundo utrum anima humana sit separata secundum esse a corpore.
+PR3
+Tertio utrum intellectus possibilis, sive anima intellectiva, sit una in omnibus.
+PR4
+Quarto utrum necesse sit ponere intellectum agentem.
+PR5
+Quinto utrum intellectus agens sit unus et separatus.
+PR6
+Sexto utrum anima sit composita ex materia et forma.
+PR7
+Septimo utrum Angelus et anima differant specie.
+PR8
+Octavo utrum anima rationalis tali corpori debeat uniri quale est corpus humanum.
+PR9
+Nono utrum anima uniatur materiae corporali.
+PR10
+Decimo utrum anima sit tota in toto corpore, et in qualibet parte eius.
+PR11
+Undecimo utrum in homine anima rationalis, sensibilis et vegetabilis sit una substantia.
+PR12
+Duodecimo utrum anima sit suae potentiae.
+PR13
+Decimotertio de distinctione potentiarum animae, utrum videlicet distinguantur per obiecta.
+PR14
+Decimoquarto de immortalitate animae humanae, et utrum sit immortalis.
+PR15
+Decimoquinto utrum anima separata a corpore possit intelligere.
+PR16
+Decimosexto utrum anima coniuncta corpori possit intelligere substantias separatas.
+PR17
+Decimoseptimo utrum anima separata possit intelligere substantias separatas.
+PR18
+Decimoctavo utrum anima separata cognoscat omnia naturalia.
+1
+
+

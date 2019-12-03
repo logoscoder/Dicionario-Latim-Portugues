@@ -1,0 +1,40 @@
+Ex his igitur si primum sumam, id est unitatem, habeo primum triangulum, qui est vi et potestate, nondum
+etiam actu nec opere. Huic si secundum adgregavero, qui in naturali numerorum dispositione descriptus est, id
+est binarium, primus mihi triangulus opere et actu nascitur, id est ternarius. Si vero huic tertium ex naturali
+numero adiecero, secundus mihi opere et actu triangulus procreatur. Super unum enim et duo si tertium, id est
+ternarium adgregavero, senarius extenditur, secundus scilicet triangulus. Huic vero si consequentem
+quaternarium superposuero, denarius explicatur, qui est tertius actu triangulus, quos per latera disponens ad
+superioris descriptionis exemplar cunctos triangulos numeros sine ullius dubitationis erroribus pernotabis. Et
+quantas ultimus numerus in se unitates habet, quem superioribus adgregabis, tot ipse, qui fit triangulus, unitates
+habebit in latere. Nam ternarium, qui est primus actu triangulus, adiecto binario unitati feceramus; et hic duos
+habet in latere. Et senarium his adiecta ternarii quantitate produximus, cuius latus soli tres continent; et idem in
+aliis cunctis, quot unitates habentem numerum superioribus adgregabis, tot unitatibus eius latera continebuntur.
+De quadratis numeris
+Quadratus vero numerus est, qui etiam ipse quidem latitudinem pandit, sed non tribus angulis ut superior
+forma, sed quattuor ipse quoque aequali laterum demensione porrigitur.Sunt autem huius modi:
+
+Numeri quadrati
+De eorum lateribus
+Sed in his quoque secundum naturalem numerum laterum augmenta succrescunt. Primus enim vi et
+potentia quadratus, id est unitas, unum habet in latere; secundus vero, qui actu primus est, id est quattuor, duobus
+per latera positis continetur; tertius vero, id est viiij, qui secundus est opere, tribus in latere positis adgregatur. Et
+ad eandem sequentiam cuncti procedunt.
+De quadratorum numerorum generatione rursusque de eorum lateribus
+Nascuntur autem tales numeri ex naturalis numeri dispositione, non quemadmodum superiores trianguli, ut
+ordinatis ad se invicem numeris congregentur, sed uno semper intermisso, qui sequitur, si cum superiore vel
+superioribus colligatur, ordinatos ex se quadratos efficient. Disponatur enim numerus naturalis hoc modo:
+j ij iij iiij v vj vij viij viiij x xj
+Ex his igitur si unum respiciam, primus mihi natus est potestate quadratus. Quod si uno relicto priori
+tertium iunxero secundus mihi quadratus efficitur. Nam si uni relicto binario ternarium adposuero, quaternarius
+mihi quadratus exoritur. Quod si rursus relicto medio quaternario quinarium similiter adgregavero, quadratus
+mihi tertius, id est novenarius, procreatur. Unus enim et iij et v viiij colligunt. At vero si his intermisso senario
+septenarium iungam tota in sedecim summa concrescit, id est quarti quadrati numerositas. Et ut breviter huius
+forma procreationis appareat, si cuncti inpares sibimet adponantur conlocato scilicet naturali numero,
+quadratorum ordo texetur. Est etiam in his haec naturae subtilitas et inmutabilis ordinatio, quod tot unitates
+unusquisque quadratorum retinebit in latere, quanti fuerint numeri ad coniunctionem propriam congregati. Nam
+in primo quadrato, quoniam ex uno fit, unus est in latere, in secundo, id est quaternario, quoniam ex uno et tribus
+procreatur, qui duo sunt termini, binario latus texitur. Et in novenario, quoniam tribus numeris procreatur, latus
+ternario continetur, atque idem in aliis videre licet.
+32
+
+

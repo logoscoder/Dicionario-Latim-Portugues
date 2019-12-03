@@ -1,0 +1,66 @@
+termini, qui sunt materia propositionum, sunt etiam materia conclusionis,
+licet non secundum quod stant sub ordine propositionum; sicut et farina
+dicitur materia panis, licet non secundum quod stat sub forma farinae. Ideo
+tamen potius dicuntur propositiones materia conclusionis quam e converso,
+quia termini qui coniunguntur in conclusione, separatim ponuntur in
+praemissis.
+Sic igitur habemus duos modos causae.
+|#10
+Quaedam vero dicuntur esse causae secundum aliam rationem, quia
+scilicet sunt principium motus et quietis. Et hoc modo semen, quod est
+activum in generatione, dicitur causa; et similiter medicus per hunc modum
+dicitur causa sanitatis; et consilians est causa per hunc modum, et omne
+faciens.
+Alia littera habet, et propositiones: nam propositiones quidem quantum ad
+terminos sunt materia conclusionis, ut dictum est; quantum autem ad vim
+illativam ipsarum reducuntur ad hoc genus causae; nam principium discursus
+rationis in conclusione est ex propositionibus.
+|#11
+In aliis vero causis invenitur alia ratio causae, secundum scilicet
+quod finis vel bonum habet rationem causae. Et haec species causae
+potissima est inter alias causas: est enim causa finalis aliarum causarum
+causa. Manifestum est enim quod agens agit propter finem; et similiter
+ostensum est supra in artificialibus, quod formae ordinantur ad usum sicut
+ad finem, et materiae in formas sicut in finem: et pro tanto dicitur finis
+causa causarum.
+Et quia dixerat quod haec species causae habet rationem boni, et quandoque
+in his quae agunt per electionem contingit finem esse malum; ideo ad hanc
+dubitationem tollendam, dicit quod nihil differt utrum causa finalis sit
+vere bona vel apparens bona, quia quod apparet bonum non movet nisi sub
+ratione boni.
+Et sic ultimo concludit tot esse species causarum quot dictae sunt.
+|+6
+
+Lectio 6
+
+|#1
+Postquam Philosophus distinxit species causarum, hic distinguit
+diversos modos causarum, etiam secundum eandem speciem causae.
+Et circa hoc duo facit: primo distinguit diversos modos causarum; secundo
+determinat quaedam consequentia ad distinctionem praedictam, ibi: differunt
+autem etc..
+Circa primum duo facit: primo distinguit diversos modos causarum; secundo
+reducit eos ad certum numerum, ibi: sed tamen hae omnes etc..
+Circa primum distinguit modos causarum secundum quatuor divisiones.
+Dicit ergo primo quod multi numero sunt modi causarum: sed si reducantur
+capitulatim, sive in quadam summa, ad aliqua communia, inveniuntur
+pauciores. Vel capitales accipiuntur secundum combinationem: manifestum est
+enim quod pauciores sunt combinationes modorum quam modi.
+|#2
+Prima ergo divisio vel combinatio modorum est, quod in eadem specie
+causae dicitur una causa prior altera, ut intelligamus causam priorem
+universaliorem: ut sanitatis causa est medicus ut causa propria et
+posterior, artifex autem ut communior et prior; et hoc in specie causae
+efficientis. Et simile est in specie causae formalis: nam causa formalis
+diapason propria et posterior est proportio dupla; causa autem prior et
+communior est proportio numeralis, quae dicitur multiplicitas.
+Et similiter ea quae continet unamquamque causam communitate sui ambitus,
+dicitur causa prior.
+|#3
+Advertendum est autem quod causa universalis et propria, vel prior et
+posterior, potest accipi aut secundum communitatem praedicationis, secundum
+exempla hic posita de medico et artifice; vel secundum communitatem
+
+54
+
+

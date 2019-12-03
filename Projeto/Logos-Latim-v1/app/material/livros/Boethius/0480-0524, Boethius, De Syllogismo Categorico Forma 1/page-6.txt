@@ -1,0 +1,63 @@
+Omnis homo iustus est
+falsa erit. Nam si quidam homo iustus est falsa est, uera est nullus homo iustus est. Si uera est:
+Nullus [801D] homo iustus est
+falsa est:
+Omnis homo iustus est.
+Falsa igitur particulari, falsa erit uniuersalis.
+Item si negatiua particularis falsa fuerit, quae est:
+Quidam homo iustus non est
+falsa erit etiam:
+Nullus homo iustus est.
+Nam si falsum est quia quidam homo iustus non est, uera est quia omnis homo iustus est. Si uera est haec,
+falsa est:
+Nullus homo iustus est
+falsa igitur particulari, falsa erit etiam uniuersalis. Sed non conuertitur, ut si uniuersales falsae sint, falsas
+necesse sit esse particulares: nam si uniuersalis:
+Omnis homo iustus est
+falsa fuerit, non necesse est particularem:
+Quidam homo iustus est
+falsam esse. Potest enim fieri ut si omnis homo iustus non fuerit, sit quidam iustus. Et item si uniuersalis
+negatiua:
+Nullus [802A] homo iustus est
+falsa fuerit, non necesse erit:
+Quidam homo non est iustus
+falsam esse. Nam si falsa est nullus homo iustus est, uerum est esse aliquos iustos, uera est etiam quae dicit:
+Quidam homo iustus non est
+quod sint quidam etiam non iusti.
+Repetens igitur a capite dicat quod in subalternis. Si uniuersales uerae fuerint, uerae erunt etiam particulares.
+Sed non conuertitur.
+Item si particularea falsae fuerint, falsae erunt etiam uniuersales; sed non conuertitur, contrariae uero simul
+eese uerae nunquam possunt.
+Potest autem fieri ut alias utraeque falsae sint, alias una uera, altera falsa. Utraeque falsae sunt, ut si quis dicat:
+Omnis homo grammaticus est
+falsa est, nam non omnis; et:
+Nullus homo grammaticus est
+falsa est, nam non nullus; est autem una uera, altera [802B] falsa, ut si quis dicat:
+Omnis homo bipes est
+haec affirmatiua uera est;
+Nullus homo bipes est
+haec negatiua falsa est. Et item:
+Omnis homo quadrupes est
+haec affirmatiua falsa est;
+Nullus homo quadrupes est
+haec negatiua uera est. Sunt ergo contrariae aliquoties utraeque falsae, aliquoties inter se uerum falsumque
+diuidentes; ut utraeque autem uerae sint fieri nunquam potest, subcontrariae uero contraria patiuntur. Nam falsae
+nunquam reperiri queunt. Sed alias uerae utraeque sunt, ut est:
+Quidam homo grammaticus est
+uera est, et:
+Quidam homo grammaticus non est
+etiam haec uera est. Potest enim alius esse grammaticus et alius non esse. Alias una uera est, altera falsa. Vera
+est enim affirmatio:
+Quidam homo bipes est
+falsa est autem negatio:
+Quidam homo bipes non [802C] est.
+Item falsa est affirmatio:
+Quidam homo quadrupes est
+uera est negatio:
+Quidam homo quadrupes non est
+ut uero utraeque falsae sint fieri nunquam potest.
+Restat igitur ut de contreiacentibus dicamus, quae neque falsae simul aliquando esse possunt neque uerae sed
+semper una uera est, altera falsa, quod facilius liquet, si quis sibi quaecumque fingat exempla.
+6
+
+

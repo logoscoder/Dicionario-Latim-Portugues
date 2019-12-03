@@ -1,0 +1,59 @@
+subiecto non potest conuenire, negationem particularem, si in eo uniuersalis negatio mentiatur quod a subiecto non
+potest segregari, ut posita superius exempla declarant.
+Quod si [774B] ad ueritatis et falsitatis consequentiam particulares propositiones locum principem sortiantur,
+contraria eis uniuersalis propositionis ratione conueniunt. Nam si sint falsae, particulares falsas esse necesse est; sin
+uero particulares uerae sint, tum uniuersales uerae sunt, tum etiam falsae. Nam si particularis affirmatio est falsa, quae
+dicit aliquem hominem esse lapidem, uniuersalis quoque affirmatio falsa est quae proponit omnem hominen esse
+lapidem. Item si particularis est falsa negatio quae decernit quemdam hominem non esse animal, falsa erit uniuersalis
+negatio quae nullum hominem animal esse contendit. At si particularis affirmatio uel negatio uerae sunt, idque
+praedicatur quod a subiecto diuidi ac segregari queat, affirmationem negationemque uniuersales non est dubium posse
+mentiri, ut quod iam uerae sint particulares quae proponunt quemdam hominem esse iustum, et quemdam hominem
+[774C] non esse iustum, his suppositas uniuersales falsas esse manifestum est, ut ea quae dicit:
+Omnis homo iustus est
+et:
+Nullus homo iustus est.
+At si quid tale affirmatio particularis pronuntiet quo subiectum carere non possit, uera erit superposita
+affirmatio uniuersalis, ut cum aliquis enuntiat quemdam hominem esse animal, huic uniuersalis affirmatio in ueritate
+consentit, quae est omnis homo animal est. At si quid particularis negatio tale proponat, quod subiecto nequeat
+inhaerere, ueritatem particularis negationis uniuersalis negatiuae ueritas necesso est consequatur, ut cum aliquis dicit
+quemdam hominem lapidem non esse, consonat uniuersalis [774D] ueritas propositionis quae nullum hominem lapidem
+esse pronuntiat: quo fit ut praecedentibus quidem uniuersalibus ueris, particulares ueras esse necesse sit; praecedentibus
+uero in falsitate particularibus, uniuersalium ueritas non subsequatur; manentibus uero uniuersalibus falsis, particulares
+mendacium dicere non sit necesse, sicut ne uera quidem particularibus proponentibus, ueram uniuersalium necesse est
+esse sententiam. Et hoc quidem exempla docuerunt: ut autem firma demonstratione clarescat, utilis ad euidentiam
+rerum descriptio proponatur. [775A]
+<FIGURA> [775B]
+Ex his ergo quae superius dicta sunt intelligi potest contrarias quidem uel uerum inter se falsumque diuidere,
+uel simul posse mentiri, ueras simul esse non posse; subcontrarias uero uel utrasque ueras esse, uel alteram ueram,
+alteram falsam, nunquam tamen simul proferre mendacium; angulares autem neque in ueritate unquam, neque in
+mendacio consonare sed uni semper ueram, alteri semper falsam esse sententiam.
+Nunc demonstrandum est uniuersalibus ueris particulares non posse mentiri, falsis autem [775C] uniuersalibus
+posse particulares non falsa proferre. Dico enim si uniuersalis affirmatio sit uera, particularem quoque affirmationem
+ueram futuram; nam si falsa est, erit uera quae particulari affirmationi opponitur uniuersalis negatio sed posita est uera
+affirmatio uniuersalis; hoc igitur modo utrasque simul ueras esse contingit, affirmationem scilicet uniuersalem
+uniuersalemque negationem, quod euenire non posse monstratum est; non igitur fieri potest ut affirmatiua uniuersali
+uera proposita, particularis affirmatio mentiatur.
+Rursus si uera est uniuersalis negatio, particularem quoque negationem ueram esse concedo, nam si falsam
+quis dixerit uniuersalem affirmationem, quae est ei opposita ueram necessario esse fatebitur. At si uniuersalis negatio
+uera esse proposita [775D] est, simul igitur uniuersales negationem et affirmationem ueras esse contingit; quod fieri
+non posse superius posita exempla docuerunt.
+At si falsa est uniuersalis affirmatio, particularis uel falsum poterit enuntiare uel uerum: quo posito nihil
+impossibile comitatur, siue enim falsa sit, erit uera negatio uniuersalis, seu uera illa sit, uniuersalem negationem falsitas
+obtinebit. Quod fit ut falsa uniuersali affimatione, uniuersalis negatio, tum si falsitate consonet, tum ab ea ueritate
+discordet, quod non esse impossibile superioribus docetur exemplis.
+Eodem quoquo modo et si uniuersalis negatio falsa sit, particularem negationem, uel ueram uel falsam esse
+possibile est, neque idcirco aliquid sequitur incongruum. Particulari [776A] namque negatione uera, uniuersalis
+affirmatio mentietur; eadem falsa, uerum uniuersalis affirmatio pronuntiat: quo fit ut falsa uniuersali negatione
+proposita, affirmationem uniuersalem tum ueram, tum falsam rationis demonstret euentus, quod impossibile non est.
+Rursus si particulares false sunt, uniuersalis quoque falsitas sequitur. Nam si particularis affirmatiua pronuntiet
+mendacium, uniuersali quoque affirmationi falsitas inhaerebit, nam si haec uera est, falsa erit ei apposita negatio
+particularis; sed affirmationem particularem constituimus esse mendacem, simul igitur particularis affirmatio et negatio
+falsa sunt, quod esse inconueniens praecedens tractatus declarauit.
+Item, si particularis negatio falsa dicatur, uniuersalis quoque negationis falsitas consonabit: [776B] nam si
+negatio uniuersalis uera est, falsa est opposita, quae est affirmatio particularis, quomodo utrasque particulares,
+affirmationem scilicet ac negationem, simul falsas esse contingit, quod fieri non posse praediximus.
+At si uera sit affirmatio particularis, falsa uel uera uniuersalis affirmatio esse potest: sed si falsa sit particularis,
+negationem ueram esse necesse est; si uera sit, habebit particularis negatiua mendacium. Sed cum uera sit affirmatio
+particularis, negationem particularem uel falsam esse uel ueram nihil est impossibile.
+
+

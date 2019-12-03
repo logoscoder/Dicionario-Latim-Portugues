@@ -1,0 +1,66 @@
+Et exemplificat de hoc tertio. Quia color dividitur in diversas species
+coloris: unde non est comparabile secundum quod de eis praedicatur; licet
+non dicatur aequivoce, et licet etiam habeat unum primum subiectum, quod
+est superficies, quod est primum subiectum generis, non autem alicuius
+speciei coloris.
+Non enim possumus dicere quid sit magis coloratum, utrum album vel nigrum:
+haec enim comparatio non esset secundum aliquam determinatam speciem
+coloris, sed secundum ipsum colorem communem. Secundum vero album, quod non
+dividitur in diversas species, potest fieri comparatio omnium alborum, ut
+dicatur quid sit albius.
+|+8
+
+Lectio 8
+
+|#1
+Postquam Philosophus ostendit in communi, quid requiratur ad hoc quod
+aliqua sint comparabilia, applicat inventam veritatem ad comparationem
+motuum, de qua hic intendit.
+Et primo in communi; secundo comparando motus diversorum generum, ibi: si
+autem aliud etc.; tertio comparando motus unius generis ad invicem, ibi:
+quare si quae in aequali etc..
+Dicit ergo primo, quod sicut in aliis requiritur ad hoc quod sint
+comparabilia, quod non sint aequivoca, et quod sit idem primum susceptivum,
+et quod sit eadem species; sic et circa motum aeque velox dicitur illud
+quod movetur in aequali tempore, per tantum et aequale alterius
+longitudinis, in hac, idest secundum mutationem eiusdem speciei.
+|#2
+Deinde cum dicit: si autem aliud etc., agit de comparatione motuum
+diversorum generum.
+Et dicit secundum praemissa, quod si unum mobile alteretur, aliud vero
+ducatur, idest secundum locum moveatur, numquid potest dici quod alteratio
+sit aeque velox loci mutationi? sed hoc dicere esset inconveniens.
+Cuius causa est, quia motus habet diversas species, et iam dictum est quod
+ea quae non sunt unius speciei, non sunt comparabilia.
+Quia ergo loci mutatio non est eiusdem speciei cum alteratione, non sunt
+comparabiles velocitates alterationis et loci mutationis.
+|#3
+Deinde cum dicit: quare si quae in aequali tempore etc., agit de
+comparatione motuum unius generis in uno genere.
+Et primo quantum ad loci mutationem; secundo quantum ad alterationem, ibi:
+de alteratione autem quomodo etc.; tertio quantum ad generationem et
+corruptionem, ibi: et in generatione autem etc..
+De augmento autem et diminutione mentionem non facit, quia eadem ratio est
+in his et in loci mutatione, cum sint et ipsi secundum aliquam
+magnitudinem.
+Circa primum tria facit: primo ostendit quid requiritur ad hoc quod duo
+motus locales sint ad invicem comparabiles; secundo excludit quoddam quod
+videbatur ad hoc requiri, ibi: aliquando autem in quo etc.; tertio
+concludit principale intentum, ibi: quare quae in aequali tempore etc..
+Circa primum duo facit: primo concludit inconveniens quod sequeretur si
+omnes loci mutationes essent comparabiles; secundo assignat causam quare
+non sint comparabiles, ibi: utrum ergo causa etc..
+|#4
+Dicit ergo primo, quod si aeque velocia sunt quae moventur localiter
+per aequalem magnitudinem in aequali tempore, et omnes loci mutationes
+contingit esse aeque veloces, sequetur quod sit aequalis rectus et
+circularis. Quod potest intelligi dupliciter: uno modo de motu recto et
+circulari; alio modo de linea recta et circulari; et hoc melius est, hoc
+enim sequitur ex eo quod praemisit. Si enim omnis motus rectus et
+circularis sunt aeque veloces; sunt autem aeque veloces motus, quando
+aequales magnitudines pertranseunt in aequali tempore; sequitur quod
+magnitudo recta et circularis sint aequales.
+Quod relinquitur pro inconvenienti.
+272
+
+

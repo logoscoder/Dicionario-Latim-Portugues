@@ -1,0 +1,61 @@
+AG1
+Ad tertium sic proceditur. Videtur quod non omnium quae cognoscit Deus, ideae in ipso sint. Mala enim
+cognoscit Deus. Sed mali idea in ipso esse non potest, cum idea imitationem importet.
+Unumquodque autem per hoc malum est quod ab imitatione Dei recedit. Ergo non omnium rerum ideae sunt in
+Deo, cum plures malae sint.
+AG2
+Praeterea, idea nominat formam; dicitur enim ab eidos, quod est forma. Sed materiae primae non est aliqua
+forma, sicut nec primus actus, qui est Deus, habet aliquam materiam; alias neutrum esset primum. Ergo non
+omnium est idea in Deo.
+AG3
+Praeterea, Deus non tantum cognoscit universalia, sed etiam particularia. Sed particularium inquantum
+hujusmodi, non videtur esse idea, cum omnia singularia unius speciei in forma conveniant.
+Ergo non omnium cognitorum a Deo est idea.
+AG4
+Praeterea, idea non est nisi alicujus quod eam per imitationem participat. Sed accidentia cum non sint per se
+subsistentia, nihil participant; sed ipsa sunt participationes quaedam. Ergo cum accidentia sint cognita a Deo
+sicut substantiae, videtur quod non omnium cognitorum a Deo sit idea.
+SC1
+Sed contra, omnis cognitio est per speciem aliquam cogniti in cognoscente. Sed species rerum in Deo existentes,
+ideae dicuntur. Ergo omnium cognitorum a Deo idea in ipso est.
+CO
+Respondeo dicendum, quod, sicut ex auctoritate dionysii inducta patet, idea dicitur similitudo vel ratio rei in Deo
+existens, secundum quod est productiva ipsius rei et determinativa; et ideo unumquodque, secundum quod se
+habet ad hoc quod a Deo producatur, ita se habet ad hoc quod ipsius idea sit in eo. Omne autem quod ab aliquo
+per se agente producitur, oportet quod secundum hoc quod ab ipso effectu est, ipsum imitetur; quia, ut probat
+Philosophus, simile agit sibi simile, tam in his quae agunt per voluntatem quam in his quae agunt per
+necessitatem. Unde secundum id quod aliquid a Deo producitur, secundum hoc similitudinem in ipso habet, et
+secundum hoc est idea ipsius in Deo, et secundum hoc a Deo cognoscitur; et ideo cum omnis res a Deo
+producatur, oportet omnium rerum ideas in ipso esse.
+RA1
+Ad primum ergo dicendum, quod malum, inquantum malum, nihil est, cum sit privatio quaedam, sicut caecitas;
+et ideo rei malae idea quidem in Deo est, non inquantum mala est, sed inquantum res est; et ipsum malum per
+oppositum bonum cognoscitur a Deo, a quo res privationi subjecta deficit.
+RA2
+Ad secundum dicendum, quod cum materia prima a Deo sit, oportet ideam ejus aliqualiter in Deo esse; et sicut
+attribuitur sibi esse, ita attribuitur sibi idea in Deo: quia omne esse, inquantum perfectum est, exemplariter
+ductum est ab esse divino. Esse autem perfectum, materiae non convenit in se, sed solum secundum quod est in
+composito; in se vero habet esse imperfectum secundum ultimum gradum essendi, qui est esse in potentia; et
+ideo perfectam rationem ideae non habet nisi secundum quod est in composito, quia sic sibi a Deo esse
+perfectum confertur; in se vero considerata, habet in Deo imperfectam rationem ideae; hoc est dictu, quia
+essentia divina est imitabilis a composito secundum esse perfectum, a materia secundum esse imperfectum, sed a
+privatione nullo modo. Et ideo compositum, secundum rationem suae formae, habet perfecte ideam in Deo,
+materia vero imperfecte, sed privatio nullo modo.
+RA3
+Ad tertium dicendum, quod particularia habent proprias ideas in Deo; unde alia est ratio Petri et martini in Deo,
+sicut alia ratio hominis et equi.
+Sed tamen diversitas hominis et equi est secundum formam, cui perfecte respondet idea: sed distinctio
+singularium unius speciei essentialis, est secundum materiam, quae non perfecte habet ideam; et ideo perfectior
+est distinctio rationum respondentium diversis speciebus quam diversis individuis; ita tamen quod imperfectio
+referatur ad res imitantes, et non ad essentiam divinam quam imitantur.
+RA4
+Ad quartum dicendum, quod accidentia etiam perfectum esse non habent; unde deficiunt a perfectione ideae:
+propter quod etiam Plato non posuit ideas accidentium, sed substantiarum tantum, ut 1 metaph. Dicitur. Tamen
+secundum quod esse habent per imitationem divinae essentiae, sic essentia divina est eorum idea.
+Et sic patent omnia objecta, et etiam dicta in littera.
+
+|+d37.q1 Distinctio 37, Quaestio 1
+|a0 Prologus
+301
+
+

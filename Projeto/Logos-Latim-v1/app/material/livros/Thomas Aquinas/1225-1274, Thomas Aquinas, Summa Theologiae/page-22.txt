@@ -1,0 +1,60 @@
+Quarto, ad quam causam ratio boni reducatur. Quinto, utrum ratio boni consistat in modo, specie et ordine.
+Sexto, quomodo dividatur bonum in honestum, utile et delectabile.
+|a1 Articulus 1
+AG1
+Ad primum sic proceditur. Videtur quod bonum differat secundum rem ab ente.
+Dicit enim boetius, in libro de hebdom., intueor in rebus aliud esse quod sunt bona, et aliud esse quod sunt.
+Ergo bonum et ens differunt secundum rem.
+AG2
+Praeterea, nihil informatur seipso. Sed bonum dicitur per informationem entis, ut habetur in commento libri de
+causis.
+Ergo bonum differt secundum rem ab ente.
+AG3
+Praeterea, bonum suscipit magis et minus. Esse autem non suscipit magis et minus. Ergo bonum differt
+secundum rem ab ente.
+SC
+Sed contra est quod Augustinus dicit, in libro de doctrina christiana, quod inquantum sumus, boni sumus.
+CO
+Respondeo dicendum quod bonum et ens sunt idem secundum rem, sed differunt secundum rationem tantum.
+Quod sic patet. Ratio enim boni in hoc consistit, quod aliquid sit appetibile, unde Philosophus, in I ethic., dicit
+quod bonum est quod omnia appetunt.
+Manifestum est autem quod unumquodque est appetibile secundum quod est perfectum, nam omnia appetunt
+suam perfectionem. Intantum est autem perfectum unumquodque, inquantum est actu, unde manifestum est quod
+intantum est aliquid bonum, inquantum est ens, esse enim est actualitas omnis rei, ut ex superioribus patet.
+Unde manifestum est quod bonum et ens sunt idem secundum rem, sed bonum dicit rationem appetibilis, quam
+non dicit ens.
+RA1
+Ad primum ergo dicendum quod, licet bonum et ens sint idem secundum rem, quia tamen differunt secundum
+rationem, non eodem modo dicitur aliquid ens simpliciter, et bonum simpliciter. Nam cum ens dicat aliquid
+proprie esse in actu; actus autem proprie ordinem habeat ad potentiam; secundum hoc simpliciter aliquid dicitur
+ens, secundum quod primo discernitur ab eo quod est in potentia tantum. Hoc autem est esse substantiale rei
+uniuscuiusque; unde per suum esse substantiale dicitur unumquodque ens simpliciter. Per actus autem
+superadditos, dicitur aliquid esse secundum quid, sicut esse album significat esse secundum quid, non enim esse
+album aufert esse in potentia simpliciter, cum adveniat rei iam praeexistenti in actu. Sed bonum dicit rationem
+perfecti, quod est appetibile, et per consequens dicit rationem ultimi. Unde id quod est ultimo perfectum, dicitur
+bonum simpliciter. Quod autem non habet ultimam perfectionem quam debet habere, quamvis habeat aliquam
+perfectionem inquantum est actu, non tamen dicitur perfectum simpliciter, nec bonum simpliciter, sed secundum
+quid. Sic ergo secundum primum esse, quod est substantiale, dicitur aliquid ens simpliciter et bonum secundum
+quid, idest inquantum est ens, secundum vero ultimum actum dicitur aliquid ens secundum quid, et bonum
+simpliciter.
+Sic ergo quod dicit boetius, quod in rebus aliud est quod sunt bona, et aliud quod sunt, referendum est ad esse
+bonum et ad esse simpliciter, quia secundum primum actum est aliquid ens simpliciter; et secundum ultimum,
+bonum simpliciter. Et tamen secundum primum actum est quodammodo bonum, et secundum ultimum actum est
+quodammodo ens.
+RA2
+Ad secundum dicendum quod bonum dicitur per informationem, prout accipitur bonum simpliciter, secundum
+ultimum actum.
+RA3
+Et similiter dicendum ad tertium, quod bonum dicitur secundum magis et minus, secundum actum
+supervenientem; puta secundum scientiam vel virtutem.
+|a2 Articulus 2
+AG1
+Ad secundum sic proceditur. Videtur quod bonum secundum rationem sit prius quam ens. Ordo enim nominum
+est secundum ordinem rerum significatarum per nomina.
+Sed dionysius, inter alia nomina Dei, prius ponit bonum quam ens, ut patet, in III cap. De div. Nom..
+Ergo bonum secundum rationem est prius quam ens.
+AG2
+
+22
+
+

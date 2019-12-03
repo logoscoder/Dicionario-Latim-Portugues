@@ -1,0 +1,64 @@
+Et quia supponitur aequalis velocitas mobilium, volebat quod secundum
+aequale tempus sit motus aeque velocium circa aequales magnitudines, quarum
+una movetur et alia quiescit. Quod patet esse falsum. Quia cum aliquid
+movetur iuxta magnitudinem quiescentem, non est ibi nisi unus motus: sed
+quando aliquid movetur iuxta magnitudinem motam, sunt ibi duo motus. Et si
+sint in eandem partem, addetur de tempore; si autem sint in oppositas
+partes, diminuetur de tempore, secundum quantitatem alterius motus. Quia si
+magnitudo iuxta quam aliquod mobile movetur, in eandem partem moveatur
+aequali velocitate vel etiam maiori, nunquam mobile poterit eam
+pertransire: si vero minori velocitate magnitudo moveatur, pertransibit eam
+quandoque, sed in maiori tempore quam si quiesceret. E contrario autem est
+si magnitudo moveatur in oppositum mobilis: quia quantum magnitudo velocius
+movetur, tanto mobile in minori tempore eam pertransit; quia uterque motus
+operatur ad hoc quod se invicem pertranseant.
+|#10
+Deinde cum dicit: ut sint etc., manifestat quod dixerat in terminis.
+Ponatur enim quod sint tres magnitudines aequales sibi invicem, in quarum
+qualibet ponatur a; et sint istae magnitudines stantes, idest non motae; ut
+si intelligatur quod sit aliquod spatium trium cubitorum, in quorum
+quolibet describatur a. Et sint aliae tres magnitudines aequales sibi
+invicem, in quarum qualibet describatur b; ut puta si intelligamus quod sit
+unum mobile trium cubitorum. Incipiant autem hae magnitudines moveri a
+medio spatii. Sint etiam tres magnitudines aliae aequales numero et
+magnitudine et velocitate ipsis b, et scribatur in istis c, et incipiant
+moveri ab ultimo spatii, scilicet ab ultimo a.
+Hac ergo suppositione facta, continget quod primum b per suum motum
+perveniet ad hoc quod sit simul cum ultimo a; et iterum primum c per suum
+motum perveniet ut sit cum primo a, opposito ultimo: et simul etiam cum hoc
+erit cum ultimo b, quasi transiens secus invicem motorum, idest iuxta omnia
+b, quae invicem ei contramoventur. Cum autem hoc factum fuerit, constat
+quod istud primum c transivit omnia a, sed ipsum b non transivit nisi
+media. Cum ergo b et c sint aequalis velocitatis, et aeque velox minorem
+magnitudinem in minori tempore pertranseat; sequitur quod tempus in quo b
+pervenit ad ultimum a, sit dimidium temporis in quo c pervenit ad primum a
+oppositum: in aequali enim tempore utrumque, scilicet b et c, est iuxta
+unumquodque; idest in aequali tempore c et b pertranseunt quandocumque a.
+Hoc ergo supposito, quod tempus in quo b pervenit ad ultimum a, sit
+dimidium temporis in quo c pervenit ad primum a oppositum, ulterius
+considerandum est quomodo zeno volebat concludere quod hoc dimidium
+temporis sit aequale illi duplo. Ex quo enim ponitur tempus motus ipsius c,
+duplum temporis motus ipsius b. Ponatur quod in prima medietate temporis, b
+quiescebat et c movebatur, et sic c in illa medietate temporis pervenit
+usque ad medietatem spatii ubi est b; et tunc b incipiat moveri ad unam
+partem, et c ad aliam. Quando autem b pervenit ad ultimum a, oportet quod
+pertransierit omnia c, quia simul primum b et primum c sunt in contrariis
+ultimis, scilicet unum in primo a, et aliud in ultimo; et sicut ipse
+dicebat, c in aequali tempore fit iuxta unumquodque b, in quanto tempore
+pertransit unumquodque ipsorum a. Et hoc ideo, quia ambo, scilicet b et c,
+in aequali tempore pertranseunt unum a: et sic videtur quod si b in aequali
+tempore pertransit in quanto pertransit ipsum c, quod c in aequali tempore
+pertransit ipsum b et ipsum a. Ergo tempus in quo c pertransit omnia b, est
+aequale tempori in quo pertransivit omnia a. Tempus autem in quo c
+pertransit omnia b, est aequale tempori in quo c vel b pertransit
+medietatem ipsorum a, ut dictum est. Probatum est autem quod tempus in quo
+ipsum b pertransit medietatem ipsorum a, est dimidium temporis in quo c
+pertransit omnia a. Ergo sequitur quod dimidium sit aequale duplo; quod est
+impossibile.
+Haec igitur est ratio zenonis. Sed incidit in falsitatem praedictam: quia
+scilicet accipit quod c in eodem tempore pertranseat b contra-motum et a
+quiescens; quod est falsum, ut supra dictum est.
+
+245
+
+

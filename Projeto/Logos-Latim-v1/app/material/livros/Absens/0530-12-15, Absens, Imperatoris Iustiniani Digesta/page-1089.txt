@@ -1,0 +1,52 @@
+Dig.43.25.0. De remissionibus.
+Dig.43.26.0. De precario.
+Dig.43.27.0. De arboribus caedendis.
+Dig.43.28.0. De glande legenda.
+Dig.43.29.0. De homine libero exhibendo.
+Dig.43.30.0. De liberis exhibendis, item ducendis.
+Dig.43.31.0. Utrubi.
+Dig.43.32.0. De migrando.
+Dig.43.33.0. De salviano interdicto.
+Dig.43.1.0. De interdictis sive extraordinariis actionibus, quae pro his competunt.
+Dig.43.1.1pr.
+Ulpianus 67 ad ed.
+Videamus, de quibus rebus interdicta competunt. et sciendum est interdicta aut de divinis rebus aut de humanis
+competere. divinis, ut de locis sacris vel de locis religiosis. de rebus hominum interdicta redduntur aut de his, quae sunt
+alicuius, aut de his, quae nullius sunt. quae sunt nullius, haec sunt: liberae personae, de quibus exhibendis ducendis
+interdicta competunt. quae sunt alicuius, haec sunt aut publica aut singulorum. publica: de locis publicis, de viis deque
+fluminibus publicis. quae autem singulorum sunt, aut ad universitatem pertinent, ut interdictum quorum bonorum, aut
+ad singulas res, ut est interdictum uti possidetis, de itinere actuque.
+Dig.43.1.1.1
+Ulpianus 67 ad ed.
+Interdictorum autem tres species sunt, exhibitoria prohibitoria restitutoria: sunt tamen quaedam interdicta et mixta, quae
+et prohibitoria sunt et exhibitoria.
+Dig.43.1.1.2
+Ulpianus 67 ad ed.
+Interdictorum quaedam in praesens, quaedam in praeteritum referuntur: in praesens, ut uti possidetis: in praeteritum, ut
+de itinere actuque, de aqua aestiva.
+Dig.43.1.1.3
+Ulpianus 67 ad ed.
+Interdicta omnia licet in rem videantur concepta, vi tamen ipsa personalia sunt.
+Dig.43.1.1.4
+Ulpianus 67 ad ed.
+Interdictorum quaedam annalia sunt, quaedam perpetua.
+Dig.43.1.2pr.
+Paulus 63 ad ed.
+Interdictorum quaedam duplicia sunt, quaedam simplicia. duplicia dicuntur, ut uti possidetis, simplicia sunt ea, veluti
+exhibitoria et restitutoria, item prohibitoria de arboribus caedendis et de itinere actuque.
+Dig.43.1.2.1
+Paulus 63 ad ed.
+Interdicta autem competunt vel hominum causa vel divini iuris aut de religione, sicut est " ne quid in loco sacro fiat"
+vel " quod factum est restituatur" et de mortuo inferendo vel sepulchro aedificando. hominum causa competunt vel ad
+publicam utilitatem pertinentia vel sui iuris tuendi causa vel officii tuendi causa vel rei familiaris. publicae utilitatis
+causa competit interdictum " ut via publica uti liceat" et " flumine publico" et " ne quid fiat in via publica": iuris sui
+tuendi causa de liberis exhibendis, item de liberto exhibendo: officii causa de homine libero exhibendo: reliqua
+interdicta rei familiaris causa dantur.
+Dig.43.1.2.2
+Paulus 63 ad ed.
+Quaedam interdicta rei persecutionem continent, veluti de itinere actuque privato: nam proprietatis causam continet hoc
+interdictum. sed et illa interdicta, quae de locis sacris et de religiosis proponuntur, veluti proprietatis causam continent,
+item illa de liberis exhibendis, quae iuris tuendi causa diximus competere, ut non sit mirum, si, quae interdicta ad rem
+familiarem pertinent, proprietatis, non possessionis causam habeant.
+
+

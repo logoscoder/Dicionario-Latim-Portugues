@@ -1,0 +1,61 @@
+contradictione non potest deficere nisi ex defectu unius et eiusdem. Unde, hoc observato, ex defectu aliquorum
+quae ad contradictionem requiruntur, fit fallacia.
+Est autem contradictio oppositio unius et eiusdem non rei tantum, sed rei et nominis simul secundum idem ad
+idem similiter et in eodem tempore; fallacia autem secundum ignorantiam elenchi est deceptio proveniens ex eo
+quod non observantur ea quae sunt necessaria ad definitionem elenchi, et praecipue ex parte contradictionis:
+unde dicitur ignorantia elenchi quia accidit deceptio solum per hoc quod definitio contradictionis ignoratur.
+Causa autem apparentiae in hac fallacia est similitudo apparens contradictionis deficientis ad contradictionem
+perfectam; causa vero non existentiae est diversitas eorumdem.
+Modi huius fallaciae sunt quatuor.
+Primus peccat contra hanc particulam ad idem, ut hic: duo sunt duplum ad unum, et non sunt duplum ad tria:
+igitur sunt duplum et non duplum. Non sequitur: quia, omisso hoc quod est esse ad idem, non est contradictio.
+Secundus autem peccat contra hanc particulam secundum idem, sicut hic: hoc est duplum ad illud secundum
+longitudinem, et non est duplum secundum latitudinem. Ergo idem est duplum et non duplum. Non sequitur:
+quia omittitur haec particula, secundum idem, quae requiritur ad contradictionem.
+Tertius peccat contra hanc particulam similiter, sicut hic: caelum movetur circulariter, et non movetur sursum et
+deorsum. Ergo movetur et non movetur.
+Non sequitur: quia omissio huius particulae, similiter, tollit contradictionem.
+Quartus est contra hanc particulam in eodem tempore, sicut hic: domus est clausa in nocte, non est clausa in die.
+Ergo est clausa et non est clausa.
+Non sequitur: quia diversitas temporis impedit contradictionem.
+Et est sciendum quod haec fallacia convenit cum fallacia secundum quid et simpliciter in hoc, quia in utraque
+proceditur ab eo quod dicitur cum determinatione ad id quod dicitur simpliciter. Sed haec est differentia, quia in
+fallacia secundum quid et simpliciter determinatio diminuit de ratione eius quod est simpliciter esse, quod non de
+necessitate accidit in hac fallacia, sed hae determinationes additae diminuunt de ratione contradictionis; bene
+enim sequitur: hoc est duplum ad illud secundum latitudinem. Igitur est duplum ad illud; non tamen sequitur
+quod sit contradictio, si ad diversa referatur.
+Patet etiam ex dictis quod haec fallacia provenit secundum generalem entium contradictionem, quae est
+oppositio: nam est omnis contradictionis principium.
+|+15 Capitulus 15: De fallacia petitionis principii.
+Sequitur de fallacia petitionis principii.
+Principium hic dicitur principale propositum.
+Tunc igitur aliquis petit principium, quando petit sibi concedi principale propositum quod debet probare: quod
+quidem si sub eodem nomine petat, nulla fit fallacia, sed petens videbitur deridendus, sicut si velit probare: homo
+currit, et petit eamdem sibi concedi. Si vero petat id quod vult probare sub alio vocabulo, poterit esse fallacia; et
+tunc proprie petit illud quod est in principio, id est illud quod in se continet principale propositum.
+Fallacia ergo petitionis principii est deceptio proveniens ex eo quod idem assumitur ad probationem sui ipsius
+sub alio vocabulo. Causa ergo apparentiae in hac fallacia est diversitas conclusionis ex praemissis; causa vero
+non existentiae est identitas earumdem.
+Sunt autem modi huius fallaciae quinque.
+Primus modus est quando definitum petitur ad definitionis probationem, vel e converso, ut si debeat probari quod
+homo currit, et petatur concedi quod animal rationale mortale currat, quo concesso, arguatur sic: animal rationale
+mortale currit: igitur homo currit. Haec nulla probatio est, quia similiter dubitatur de praemissa et conclusione.
+Secundus modus est quando universale petitur ad probationem particularis; ut si debeat probari quod omnium
+contrariorum eadem est disciplina, et assumatur ista: omnium oppositorum eadem est disciplina. Ergo omnium
+contrariorum eadem est disciplina. Haec praemissa non est magis nota quam conclusio.
+Tertius modus est quando petuntur omnia particularia ad probationem universalis, ut si debeat probari quod
+omnium oppositorum est eadem disciplina, et assumatur ista: omnium contrariorum est eadem disciplina.
+Omnium privative oppositorum eadem est disciplina, et sic de aliis: igitur omnium oppositorum est eadem
+disciplina. Haec etiam conclusio in praemissis petitur.
+Quartus modus est quando petitur divisim quod debet probari coniunctim; ut si debeat probari quod medicina sit
+scientia sani et aegri, et sumatur ita: medicina est scientia sani, et medicina est scientia aegri. Ergo medicina est
+scientia sani et aegri. Hic etiam petitur id quod deberet probari.
+Quintus modus est quando petitur unum correlativorum ad probationem alterius; ut si debeat probari quod
+socrates sit pater Platonis, et sumatur ita: Plato est filius socratis: igitur socrates est pater Platonis. Hic etiam
+petitur quod deberet probari ab aliis verbis.
+Et est sciendum quod haec fallacia non peccat contra vim illativam argumentandi, quia bene sequitur conclusio,
+datis praemissis, cum servetur debita habitudo inferentis ad illatum; sed peccat contra probationem argumenti,
+nam probatio debet esse magis manifesta, quod hic non observatur; unde hic non accidit deceptio ex eo quod
+11
+
+

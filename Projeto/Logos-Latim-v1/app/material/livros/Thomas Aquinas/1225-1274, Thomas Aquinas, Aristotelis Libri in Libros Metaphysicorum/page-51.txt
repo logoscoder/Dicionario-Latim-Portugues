@@ -1,0 +1,57 @@
+|#12 Exponit autem quod dixerat causas infinitas esse in directum. Primo quidem in genere causae materialis.
+Non enim possibile est procedere in infinitum in hoc, quod aliquid fiat ex aliquo, sicut ex materia, puta ut caro
+fiat ex terra, terra vero ex aere, aer ex igne, et hoc non stet in aliquo primo, sed procedat in infinitum.
+Secundo exemplificat in genere causae efficientis; dicens, quod nec possibile est ut causa, quae dicitur unde
+principium motus, in infinitum procedat: puta cum dicimus hominem moveri ad deponendum vestes ab aere
+calefacto, aerem vero calefieri a sole, solem vero moveri ab aliquo alio, et hoc in infinitum. Tertio exemplificat
+in genere causarum finalium; et dicit, quod similiter non potest procedere in infinitum illud quod est cuius causa,
+scilicet causa finalis; ut si dicamus quod iter sive ambulatio est propter sanitatem, sanitas autem propter
+felicitatem, felicitas autem propter aliquid, et sic in infinitum. Ultimo facit mentionem de causa formali: et dicit
+quod similiter non potest procedi in infinitum in hoc quod est quod quid erat esse, idest in causa formali quam
+significat definitio.
+Sed exempla praetermittit, quia sunt manifesta, et probatum est in primo posteriorum, quod non proceditur in
+infinitum in praedicatis, puta quod animal praedicetur de homine in eo quod quid est, et vivum de animali, et sic
+in infinitum.
+|+3 Lectio 3
+|#1 Postquam Philosophus praemisit quod causae entium non sunt infinitae, hic probat propositum.
+Et primo, quod non sint infinitae in directum.
+Secundo, quod non sint infinitae secundum speciem, ibi, sed si infinitae essent etc..
+Circa primum quatuor facit. Primo ostendit propositum in causis efficientibus vel moventibus. Secundo in causis
+materialibus, ibi, at vero nec in deorsum. Tertio in causis finalibus, ibi, amplius autem quod est cuius causa etc..
+Quarto in causis formalibus, ibi, sed nec quod quid erat esse etc..
+Circa primum sic procedit. Primo proponit quamdam propositionem: scilicet, quod in omnibus his, quae sunt
+media inter duo extrema, quorum unum est ultimum, et aliud primum, necesse est quod illud quod est primum,
+sit causa posteriorum, scilicet medii et ultimi.
+|#2 Et hanc propositionem manifestat per divisionem: quia, si oporteat nos dicere quid sit causa inter aliqua tria,
+quae sunt primum, medium et ultimum, ex necessitate dicemus causam esse id quod est primum. Non enim
+possumus dicere id quod est ultimum, esse causam omnium, quia nullius est causa; alioquin non est ultimum,
+cum effectus sit posterior causa.
+Sed nec possumus dicere quod medium sit causa omnium; quia nec est causa nisi unius tantum, scilicet ultimi.
+|#3 Et ne aliquis intelligat, quod medium nunquam habeat post se nisi unum, quod est ultimum, quod tunc
+solum contingit, quando inter duo extrema est unum medium tantum, ideo ad hoc excludendum concludit quod
+nihil ad propositum differt, utrum sit unum tantum medium, vel plura: quia omnia plura media accipiuntur loco
+unius, inquantum conveniunt in ratione medii. Et similiter non differt utrum sint media finita vel infinita; quia
+dummodo habeant rationem medii, non possunt esse prima causa movens. Et quia ante omnem secundam
+causam moventem requiritur prima causa movens, requiritur quod ante omnem causam mediam sit causa prima,
+quae nullo modo sit media, quasi habens aliam causam ante se. Sed, si praedicto modo ponantur causae
+moventes procedere in infinitum, sequitur, quod omnes causae sunt mediae. Et sic universaliter oportet dicere,
+quod cuiuslibet infiniti, sive in ordine causae, sive in ordine magnitudinis, omnes partes sint mediae: si enim
+esset aliqua pars quae non esset media, oporteret, quod vel esset prima vel ultima: et utrumque repugnat rationi
+infiniti, quod excludit omnem terminum et principium et finem.
+|#4 Est autem et ad aliud attendendum: quod, si alicuius finiti sint plures partes mediae, non omnes partes simili
+ratione sunt mediae. Nam quaedam magis appropinquant primo, quaedam magis appropinquant ultimo. Sed in
+infinito quod non habet primum et ultimum, nulla pars potest magis appropinquare vel minus principio aut
+ultimo. Et ideo usque ad quamcumque partem, quam modo signaveris, omnes partes similiter sunt mediae. Sic
+igitur, si causae moventes procedant in infinitum, nulla erit causa prima: sed causa prima erat causa omnium:
+ergo sequeretur, quod totaliter omnes causae tollerentur: sublata enim causa tolluntur ea quorum est causa.
+|#5 Deinde cum dicit at vero ostendit, quod non est possibile procedere in infinitum in causis materialibus.
+Et primo proponit quod intendit. Secundo probat propositum, ibi, dupliciter enim fit hoc ex hoc etc..
+Circa primum considerandum est, quod patiens subiicitur agenti: unde procedere in agentibus est sursum ire,
+procedere autem in patientibus est in deorsum ire. Sicut autem agere attribuitur causae moventi, ita pati
+attribuitur materiae. Unde processus causarum moventium est in sursum, processus autem causarum materialium
+est in deorsum. Quia ergo ostenderat, quod non est in infinitum procedere in causis moventibus quasi in sursum
+procedendo, subiungit, quod nec possibile est ire in infinitum in deorsum, secundum scilicet processum
+causarum materialium, supposito, quod sursum ex parte causarum moventium inveniatur aliquod principium.
+51
+
+

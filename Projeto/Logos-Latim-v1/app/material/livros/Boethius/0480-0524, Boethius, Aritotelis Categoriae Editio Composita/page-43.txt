@@ -1,0 +1,61 @@
+Omnis homo iustus est
+et contra hanc negatio uniuersalis quae est:
+Nullus homo iustus est
+sub his autem, sub affirmatione quidem uniuersali particularis affirmatio quae est:
+Quidam homo iustus est
+sub uniuersali negatione particularis negatio quae est:
+Quidam homo iustus non est
+Hoc autem monstrat subiecta descriptio:
+Omnis homo iustus est Nullus homo iustus est
+Quidam homo iustus est Quidam homo iustus non est.
+Hae igitur duae uniuersalis affirmatio et particularis affirmatio dicuntur subalternae, rursus uniuersalis negatio
+/148/ et particularis negatio dicuntur subalternae, idcirco quoniam particularitas semper sub uniuersalitate concluditur.
+In quibus illud est considerandum, quod ubi est affirmatio uniuersalis uera affirmatio quoque particularis uera est et ubi
+negatio uniuersalis uera est particularis quoque uera est. Nam si uera est:
+Omnis homo animal est
+uera est:
+Quidam homo animal est
+Et si uera est quoniam
+Nullus homo lapis est
+uera quoniam
+Quidam homo lapis non est
+At si falsa sit particularis affirmatio, ut ea quae est:
+Quidam homo lapis est
+falsa est uniuersalis affirmatio:
+Omnis homo lapis est
+Idem in negatione. Si enim negatio particularis falsa est, ut:
+Quidam homo animal non est
+falsa est uniuersalis:
+Nullus homo animal est
+Ita ut praecedunt uniuersales in uero, eodem modo praecedunt particulares in falso. Dicuntur uero affirmatio
+uniuersalis et negatio uniuersalis contrariae. Hoc autem idcirco quoniam contrariorum huiusmodi natura est, ut
+longissime a se distent, et si aliquam inter se habeant medietatem, non semper alterum ipsorum subiecto insit, ut album
+et nigrum: non possumus dicere quoniam omne corpus aut album aut nigrum est. Potest enim nec album esse nec
+nigrum et utrumque falsum esse quod dicitur, idcirco quoniam est medius color. Quod si non habent medietatem,
+alterum ipsorum necesse est inhaerere subiecto, ut cum dicimus omne corpus aut quietum est aut mouetur, horum nihil
+est medium et necesse est omne, corpus uel consistere uel moueri. Ut autem simul in eodem possint esse contraria fieri
+non potest. Neque enim possibile est ut idem album nigrumque sit. Quod in affirmationibus et negationibus
+uniuersalibus apparet. /149/ Negatiua enim et affirmatiua uniuersalis plurimum quidem a se distant. Nam quod illa
+ponit omnibus, illa omnibus tollit et totum negat. Namque dicit:
+Omnis homo iustus est
+omnem hominem ponit, quae dicit:
+Nullus homo iustus est
+nihil eorum quae in humanitatis definitione sunt iustum esse concedit.
+Ita ergo a se longissime discrepant. Ad hoc si ea quae significant habent inter se aliquam medietatem, unam
+ueram, unam falsam esse non est necesse, ut in eo quod est:
+Omnis homo iustus est
+Nullus homo iustus est
+quoniam potest quaedam esse medietas, ut:
+Nec nullus homo iustus sit
+(cum sit quidam);
+Nec omnis homo iustus sit
+(cum non sit quidam), et possunt utraeque falsae et affirmatio et negatio reperiri. Neque enim uerum est aut
+omnem hominem esse iustum aut nullum hominem esse iustum.
+Quocirca potest fieri ut in his in quibus aliqua medietas inuenitur uniuersalis affirmatio et uniuersalis negatio
+ueritatem falsitatemque non diuidant sed utraeque sint falsae, ad exemplum scilicet contrariorum quae aliquam inter se
+continent medietatem. Potest enim in illis fieri ut utraque contraria possint non inesse subiecto, sicut supra
+monstrauimus. In his uero quae medietate carent necesse est una uera sit semper, altera semper falsa, ut in eo quod est:
+Omnis homo animal est
+Nullus homo animal est
+
+

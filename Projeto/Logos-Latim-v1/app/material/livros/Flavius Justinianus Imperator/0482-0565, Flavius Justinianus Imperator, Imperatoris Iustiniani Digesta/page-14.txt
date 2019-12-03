@@ -1,0 +1,50 @@
+Explicitus est ex ordine liber vicensimus, singularium primus.
+
+Incipit ex ordine liber vicensimus primus, singularium secundus.
+21.1.0. De aedilicio edicto et redhibitione et quanti minoris.
+21.2.0. De evictionibus et duplae stipulatione.
+21.3.0. De exceptione rei venditae et traditae.
+Explicit ex ordine liber vicensimus primus, singularium secundus.
+
+Incipit ex ordine digestorum liber vicensimus secundus, singularium tertius.
+22.1.0. De usuris et fructibus et causis et omnibus accessionibus et mora.
+22.2.0. De nautico faenore.
+22.3.0. De probationibus et praesumptionibus.
+22.4.0. De fide instrumentorum et amissione eorum.
+22.5.0. De testibus.
+22.6.0. De iuris et facti ignorantia.
+
+Incipit ex ordine digestorum liber vicensimus tertius, singularium liber quartus.
+23.1.0. De sponsalibus.
+23.2.0. De ritu nuptiarum.
+23.3.0. De iure dotium.
+23.4.0. De pactis dotalibus.
+23.5.0. De fundo dotali.
+Explicit ex ordine liber vicensimus tertius.
+
+Incipit ex ordine liber vicensimus quartus, singularium liber quintus.
+24.1.0. De donationibus inter virum et uxorem.
+24.2.0. De divortiis et repudiis.
+24.3.0. Soluto matrimonio dos quemadmodum petatur.
+Explicitus est ex ordine liber vicensimus quartus, singularium liber quintus.
+
+Incipit ex ordine liber vicensimus quintus, singularium liber sextus.
+25.1.0. De impensis in res dotales factis.
+25.2.0. De actione rerum amotarum.
+25.3.0. De agnoscendis et alendis liberis vel parentibus vel patronis vel libertis.
+25.4.0. De inspiciendo ventre custodiendoque partu.
+25.5.0. Si ventris nomine muliere in possessionem missa eadem possessio dolo malo (..)
+25.6.0. Si mulier ventris nomine in possessione calumniae causa esse dicetur.
+25.7.0. De concubinis.
+Explicitus est liber ex ordine vicensimus quintus, singularium sextus.
+
+Incipit ex ordine liber vicensimus sextus, singularium liber septimus.
+26.1.0. De tutelis.
+26.2.0. De testamentaria tutela.
+26.3.0. De confirmando tutore vel curatore.
+26.4.0. De legitimis tutoribus.
+26.5.0. De tutoribus et curatoribus datis ab his qui ius dandi habent (..)
+26.6.0. Qui petant tutores vel curatores et ubi petantur.
+26.7.0. De administratione et periculo tutorum et curatorum qui gesserint vel non (..)
+
+

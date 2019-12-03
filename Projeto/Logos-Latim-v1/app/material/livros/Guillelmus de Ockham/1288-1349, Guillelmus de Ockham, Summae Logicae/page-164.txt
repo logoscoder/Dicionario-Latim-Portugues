@@ -1,0 +1,56 @@
+propositioni acceptae cum modo, sine tali dicto; sicut ista 'omnem hominem esse animal est necessarium' in
+sensu diuisionis aequilpollet isti 'omnis homo de necessitate uel necessario est animal'. Similiter ista in sensu
+diuisionis 'Sortem esse animal est scitum'
+aequipollet isti 'Sortes scitur esse animal'. Et sic de aliis.
+aequipollet isti 'Sortes scitur esse animal'. Et sic de aliis.
+Unde de talibus modalibus acceptis in sensu compositionis primo aliqua pauca sunt dicenda, secundo de
+aliis.
+Unde de talibus modalibus acceptis in sensu compositionis primo aliqua pauca sunt dicenda, secundo de
+aliis.
+Primo igitur sciendum, sicut dictum est, quod semper per talem propositionem denotatur quod talis
+modus uerificatur de tota propositione correspondente dicto. Ex quo sequuntur aliqua. Unum est quod talis
+uniuersalis de necessario poterit esse necessaria, quamuis quaelibet singularis sit contingens uel falsa. Sicut haec
+est uera et necessaria in sensu compositionis 'omne uerum contingens esse uerum est necessarium', et tamen
+quaelibet singularis est falsa, nam haec est falsa 'hoc uerum contingens esse uerum est necessarium', quocumque
+demonstrato, quia hoc uerum contingens poterit esse falsum, et tunc illa singularis est falsa, et per consequens
+modo non est necessarium, quod tamen denotatur per talem singularem.
+Primo igitur sciendum, sicut dictum est, quod semper per talem propositionem denotatur quod talis
+modus uerificatur de tota propositione correspondente dicto. Ex quo sequuntur aliqua. Unum est quod talis
+uniuersalis de necessario poterit esse necessaria, quamuis quaelibet singularis sit contingens uel falsa. Sicut haec
+est uera et necessaria in sensu compositionis 'omne uerum contingens esse uerum est necessarium', et tamen
+quaelibet singularis est falsa, nam haec est falsa 'hoc uerum contingens esse uerum est necessarium', quocumque
+demonstrato, quia hoc uerum contingens poterit esse falsum, et tunc illa singularis est falsa, et per consequens
+modo non est necessarium, quod tamen denotatur per talem singularem.
+Similiter haec est uera et necessaria 'omne falsum contingens esse falsum est uerum', et tamen quaelibet
+singularis est contingens, sicut inductiue patet. Similiter aliquando est talis uniuersalis impossibilis, et tamen
+quaelibet singularis est possibilis et contingens, sicut patet de ista
+'utrumque istorum esse uerum est uerum', demonstratis duobus contradictoriis contingentibus. Similiter
+patet de ista 'quodlibet istorum'
+- demonstratis omnibus falsis contingentibus -- 'esse falsum est uerum', et tamen quaelibet singularis est
+contingens.
+- demonstratis omnibus falsis contingentibus -- 'esse falsum est uerum', et tamen quaelibet singularis est
+contingens.
+Sed ad omnia ista potest dici quod nulla talis propositio est uniuersalis, sed quaelibet talis est singularis,
+quia in omni tali subicitur una propositio singularis uel aliquid supponens pro una propositione:
+Sed ad omnia ista potest dici quod nulla talis propositio est uniuersalis, sed quaelibet talis est singularis,
+quia in omni tali subicitur una propositio singularis uel aliquid supponens pro una propositione:
+Dicendum est ad hoc quod siue -- proprie et de uirtute sermonis loquendo talis propositio sit uniuersalis uel particularis, siue quaelibet sit singularis, non est multum curandum ad
+praesens, quia saltem Aristoteles uocat tales propositiones uniuersales et particulares, sicut postea ostendetur, et
+illo modo loquor ego in proposito. Utrum autem Aristoteles tunc loquebatur extensiue et improprie uel stricte et
+proprie, non multum curo. Et tunc dico quod propositio illa est uniuersalis in qua subicitur dictum propositionis
+respectu compositionis principalis, ita tamen quod respectu compositionis minus principalis subicitur terminus
+communis cum signo uniuersali, sicut in ista 'omnem hominem esse animal est necessarium'
+hoc totum 'omnem hominem esse animal' subicitur respectu illius uerbi indicatiui modi 'est'; quia tamen
+respectu istius compositionis infinitiui modi 'esse' supponit hic terminus 'homo' cum signo; et hoc sufficit ad
+propositum. Unde qui uult tenere quod tales sunt proprie uniuersales, potest leuiter dicere quod sufficit quod
+subiciatur terminus communis respectu uerbi infinitiui modi.
+hoc totum 'omnem hominem esse animal' subicitur respectu illius uerbi indicatiui modi 'est'; quia tamen
+respectu istius compositionis infinitiui modi 'esse' supponit hic terminus 'homo' cum signo; et hoc sufficit ad
+propositum. Unde qui uult tenere quod tales sunt proprie uniuersales, potest leuiter dicere quod sufficit quod
+subiciatur terminus communis respectu uerbi infinitiui modi.
+Ex istis patet quod sufficit scire quid requiritur ad ueritatem talium propositionum, sciendo quid
+requiritur ad hoc quod afiqua propositio sit necessaria et ad hoc quod sit contingens uel uera uel impossibilis uel
+scita uel ignota uel credita, et sic de aliis, de quibus omnibus pertractare nimis foret longum.
+164
+
+

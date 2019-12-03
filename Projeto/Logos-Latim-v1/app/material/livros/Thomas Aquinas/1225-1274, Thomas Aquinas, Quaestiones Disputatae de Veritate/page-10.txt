@@ -1,0 +1,62 @@
+accipiendo genus, secundum quod omnia intelligibilia vel incorporalia unius generis esse dicuntur, per modum
+quo dicitur Act., XVII, 28: ipsius enim Dei et nos genus sumus.
+|a5 Articulus 5
+TTA
+Quinto quaeritur utrum aliqua alia veritas praeter primam veritatem sit aeterna.
+TTB
+Et videtur quod sic.
+AG1
+Anselmus enim in Monologion, de veritate enuntiabilium loquens dicit: sive intelligatur veritas habere, sive
+dicatur veritas non habere principium vel finem, nullo claudi potest veritas principio vel fine. Sed omnis veritas
+intelligitur habere principium vel finem, vel non habere principium vel finem. Ergo nulla veritas clauditur
+principio et fine. Sed omne quod est huiusmodi, est aeternum. Ergo omnis veritas est aeterna.
+AG2
+Praeterea, omne illud cuius esse sequitur ad destructionem sui esse, est aeternum, quia sive ponatur esse, sive
+non esse, sequitur quod est: et oportet secundum quodcumque tempus ponere de unoquoque quod sit vel non sit.
+Sed ad destructionem veritatis sequitur veritatem esse; quia si veritas non est, veritatem non esse est verum, et
+nihil potest esse verum nisi veritate. Ergo veritas est aeterna.
+AG3
+Praeterea, si veritas enuntiabilium non est aeterna, ergo erat assignare quando non erat enuntiabilium veritas. Sed
+tunc hoc enuntiabile erat verum, nullam veritatem enuntiabilium esse. Ergo veritas enuntiabilium erat; quod est
+contrarium ei quod fuit datum. Ergo non potest dici veritatem enuntiabilium non esse aeternam.
+AG4
+Praeterea, Philosophus probat materiam esse aeternam in I phys., (quamvis hoc falsum sit), per hoc quod
+remanet post sui corruptionem, et est ante suam generationem; eo quod si corrumpitur, in aliquid corrumpitur, et
+si generatur, ex aliquo generatur; illud autem ex quo aliquid generatur, et illud in quod aliquid corrumpitur, est
+materia. Sed similiter veritas si ponatur corrumpi vel generari, sequitur quod sit ante suam generationem et post
+suam corruptionem; quia si generatur, mutata est de non esse in esse, et si corrumpitur, mutata est de esse in non
+esse. Quando autem non est veritas, verum est veritatem non esse, quod utique non potest esse, nisi veritas sit.
+Ergo veritas est aeterna.
+AG5
+Praeterea, omne quod non potest intelligi non esse, est aeternum, quia quicquid potest non esse, potest intelligi
+non esse. Sed veritas etiam enuntiabilium, non potest intelligi non esse, quia intellectus non potest intelligere
+aliquid, nisi intelligat hoc esse verum.
+Ergo veritas etiam enuntiabilium est aeterna.
+AG7
+Praeterea, illud quod est futurum semper fuit futurum, et quod est praeteritum semper erit praeteritum. Sed ex
+hoc propositio de futuro est vera, quia aliquid est futurum; et ex hoc propositio de praeterito est vera, quia aliquid
+est praeteritum. Ergo veritas propositionis de futuro semper fuit, et veritas propositionis de praeterito semper erit;
+et ita non solum veritas prima est aeterna, sed etiam multae aliae.
+AG8
+Praeterea, Augustinus dicit in Lib. De libero arbitrio, quod nihil magis est aeternum quam ratio circuli, et duo et
+tria esse quinque.
+Sed horum veritas est veritas creata. Ergo aliqua veritas praeter primam veritatem est aeterna.
+AG9
+Praeterea, ad veritatem enuntiationis non requiritur quod actu enuntietur aliquid, sed sufficit quod sit illud de quo
+potest enuntiatio formari. Sed antequam mundus esset, fuit aliquid de quo potuit enuntiari etiam praeter Deum.
+Ergo antequam mundus fieret, fuit enuntiabilium veritas. Quod autem fuit ante mundum, est aeternum. Ergo
+enuntiabilium veritas est aeterna.
+Probatio mediae. Mundus factus est ex nihilo, id est post nihil. Ergo antequam mundus esset, erat eius non esse.
+Sed enuntiatio vera non solum formatur de eo quod est, sed etiam de eo quod non est, sicut enim contingit vere
+enuntiari quod est, esse, ita contingit vere enuntiari quod non est, non esse, ut patet in I periher.. Ergo antequam
+mundus esset, fuit unde vera enuntiatio formari potuit.
+AG10
+Praeterea, omne quod scitur, est verum dum scitur. Sed Deus ab aeterno scivit omnia enuntiabilia. Ergo omnium
+enuntiabilium veritas est ab aeterno; et ita plures veritates sunt aeternae.
+AG11
+Sed dicebat, quod ex hoc non sequitur quod illa sint vera in seipsis, sed in intellectu divino. Sed contra,
+secundum hoc oportet aliqua esse vera secundum hoc quod sunt scita.
+
+10
+
+

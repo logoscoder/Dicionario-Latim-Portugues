@@ -1,0 +1,62 @@
+RA9
+Ad nonum dicendum, quod una potentia particularis non comprehendit sub se plures; sed nihil prohibet sub una
+generali potentia comprehendi plures ut partes, sicut sub una parte corporis plures partes organicae
+comprehenduntur, ut digiti sub manu.
+|a2 Articulus 2
+TTA
+Secundo quaeritur utrum in mente sit memoria.
+TTB
+Et videtur quod non.
+AG1
+Quia secundum Augustinum, XII de trinitate, illud quod est commune nobis et brutis non pertinet ad mentem.
+Memoria autem nobis et brutis communis est, ut patet per Augustinum, Lib. X confess.. Ergo memoria non est in
+mente.
+AG2
+Praeterea, Philosophus in cap. De memoria et reminiscentia dicit, quod memoria non est intellectivi, sed primi
+sensitivi.
+Cum ergo mens sit idem quod intellectus, ut ex dictis patet, videtur quod memoria non sit in mente.
+AG3
+Praeterea, intellectus, et omnia quae ad intellectum pertinent, abstrahunt ab hic et nunc; memoria vero non
+abstrahit; concernit namque determinatum tempus, scilicet praeteritum; memoria namque praeteritorum est, ut
+dicit tullius. Ergo memoria non pertinet ad mentem vel intellectum.
+AG4
+Praeterea, cum in memoria conserventur aliqua quae non actu apprehenduntur, ubicumque ponitur memoria,
+oportet quod ibi differat apprehendere et retinere. In intellectu autem non differunt, sed solum in sensu.
+Propter hoc enim in sensu differre possunt, quia sensus organo corporali utitur; non autem omne quod tenetur in
+corpore, apprehenditur.
+Intellectus autem non utitur organo corporali; unde nihil in eo retinetur nisi intelligibiliter; et sic oportet quod
+actu intelligatur.
+Ergo memoria non est in intellectu sive in mente.
+AG5
+Praeterea, anima non memoratur antequam aliquid apud se retineat. Sed antequam aliquas species recipiat a
+sensibus, a quibus omnis cognitio nostra oritur, quas retinere possit, est ad imaginem. Cum ergo memoria sit pars
+imaginis, non videtur quod memoria possit esse in mente.
+AG6
+Praeterea, mens, secundum quod est ad imaginem Dei, fertur in Deum. Sed memoria non fertur in Deum; est
+enim memoria eorum quae cadunt sub tempore; Deus autem est omnino supra tempus. Ergo memoria non est in
+mente.
+AG7
+Praeterea, si memoria esset pars mentis, species intelligibiles in ipsa mente reservarentur sicut conservantur in
+mente Angeli. Sed Angelus convertendo se ad species quas penes se habet, potest intelligere. Ergo et mens
+convertendo se ad species retentas; et ita posset intelligere sine hoc quod ad phantasmata converteretur; quod
+manifeste apparet esse falsum. Quantumcumque enim aliquis scientiam in habitu habeat, laeso tamen organo
+imaginativae virtutis vel memorativae, in actum exire non potest; quod non esset, si mens in actu intelligere
+posset non convertendo se ad potentias quae organis utuntur.
+Unde memoria non est in mente.
+SC1
+Sed contra. Philosophus dicit in III de anima, quod anima est locus specierum, praeter quod non tota, sed
+intellectiva.
+Loci autem est conservare contenta in eo.
+Cum igitur conservare species ad memoriam pertineat, videtur quod in intellectu sit memoria.
+SC2
+Praeterea, illud quod se habet aequaliter ad omne tempus, non concernit aliquod tempus particulare. Sed
+memoria, etiam proprie accepta, se habet aequaliter ad omne tempus, ut dicit Augustinus, XIV de trinitate, et
+probat per dicta virgilii, qui proprie nomine memoriae et oblivionis usus est. Ergo memoria non concernit
+aliquod tempus particulare, sed omne. Ergo ad intellectum pertinet.
+SC3
+Praeterea, memoria, proprie accipiendo, est praeteritorum. Sed intellectus non solum est praesentium sed etiam
+praeteritorum.
+
+213
+
+

@@ -1,0 +1,59 @@
+lichanos meson enharmonios, L littera pernotata, duos nihilominus ad mesen obtinens tonos. Reliquum igitur
+semitonium [1265-<recte -1267->] quod est inter lichanos meson enharmonion et hypaten meson, id est inter 5832 et
+6144, in duas dieses hoc modo diuidimus. Aufero differentiam 5832 ad 6144, ea est 312: hanc dimidiam partior, fient156; hanc ad 5832 iungo, fient 5888; et haec sit K parhypate meson enharmonios. Duae uero sunt dieses [1266-<recte 1268->] inier lychanon meson enharmonion et parhypate meson enharmonion, id est inter 5832 et 5988, et inter
+parhypaten meson enharmonion et hypaten meson, id est inter 5988 et 6144. Diuisum est igitur meson tetrachordon.
+Quod ita in descriptione ponatur, ut superius descriptis tetrachordis aggregetur.
+[PLLXIII:1265-66 <recte 1267-68>; text: Diatonicum, Chromaticum, Enharmonium, Hypate meson,
+Parhypate meson, Lichanos meson, Mese, Paramese, Trite synemmenon, Paranete synemmenon, Nete synemmenon,
+Trite diezeugmenon, Paranete diezeugmenon, Nete diezeugmenon, Trite hyperboleon, Paranete hyperboleon, Nete
+hyperboleon, 6144, 5988, 5832, 5472, 5184, 4608, 4491, 4374, 4104, 4096, 3888, 3648, 3456, 3072, 2994, 2992, 2916,
+2736, 2592, 2304, H, I, M, O, E, T, Y, N, K, L, X, CC, DD, FF, NN, LL, BB, Z, AA, EE, Diesis, Hemitonium minus,
+Hemitonium maius, Tonus, Tria hemitonia, Ditonus] [BOEDIM4 13GF]
+[1265-<recte -1267->] X
+Monochordi hypaton per tria genera partitio, et totius dispositio descriptionis.
+Nunc uero hypaton tetrachordum per tria genera diuidendum est. Sumo hypates meson, id est 6144: dimidiam
+partem, quae sit 3072, hanc eidem si adiecero, fient 9216, quae est proslambanomenos ad hypaten meson diapente
+consonantiam seruans. Eiusdem autem hypaten meson 6154. Si auferam tertiam partem quae est 2048 eidemque
+adiecero, fient 8192. Et haec est B hypate hypaton, Igitur hypaten meson ad proslambanomenon diapente est
+consonantia, ad hypaten uero hypaton diatessaron. Ab hac igitur [1266 -<recte -1268->] hypate meson, id est 6144, pars
+auferatur octaua, erunt 768; hanc eisdem si quis adiungat, fient 6912.
+Quae est E lychanos hypaton diatonos ad hypaten meson toni obtinens proportionem. Rursus de 6912, pars
+auferatur octaua, erunt 864; hoc si eisdem copuletur, fient 7776, quae est C parhypate hypaton, diatonos ad lichanon
+hypaton diatonon toni, ad hypaten meson duorum tonorum distantiam seruans. Relinquitur igitur semitonium inter
+parhypaten hypaton diatonon et hypaten hypaton, id est inter 7776 et 8192, et diatonici quidem generis hypaton tale
+tetrachordum est, chromaticum uero tali ratione diuidimus. Sumo enim differentiam hypaten meson, et [1269] eius quae
+est lichanos hypaton diatonos, id est 6144 et 6912, ea est 768; hanc dimidiam partior ut duo efficiam semitonia, fient
+384: hanc adiicio 6912 ut tria semitonia fiant, erunt 7296; haec erit F lichanos hypaton chromatice ab ea quae est
+hypate meson tribus semitoniis distans. Relinquuntur ergo duo semitonia, unum quidem inter lichanos hypaton
+chromaticen et parhypaten hypaton chromaticen, id est inter 7296 et 7776. Aliud uero inter parhypaten hypaton
+chromatice et hypaten hypaton, id est inter 7776 et 8192. Restat enharmonium genus, cuius ad superius exemplar talis
+diuisio est. Quoniam enim parhypate hypaton diatonos uel parhypate hypaton chromatice, qua 7776 unitatibus insignita
+est, duobus tonis distat ab ea quae est hypate meson, eadem erit in genere enharmonio lichanos hypaton enharmonios,
+quae ab hypate meson duobus integris differant tonis. Restat igitur ex diatessaron consonantia semitonium quod est
+inter lichanos hypaton enharmonion [1270] et hypaten hypaton, id est inter 7776 et inter 8192, hoc in duas dieses ita
+diuidimus. Sumo differentiam eius quae est lichanos hypaton enharmonios, et hypaten hypaton, id est 7776 et 8192, ea
+est 416; huius dimidiam sumo, sunt 208; hanc adiicio 7776, fient 7984 quae sit D parhypate hypaton enharmonios. Sunt
+igitur duae dieses: una quidem quae est inter lichanon hypaton enharmonion et parhypaten hypaton enharmonion, id est
+inter 7776, et 7984; altera uero quae est inter parhypaten hypaton enharmonion, et hypaten hypaton, id est inter 7984 et
+8192. Tonus uero ultimus inter proslambanomenon et hypaten hypaton, id est inter 9216 et 8192, continetur. Diuisum
+est igitur hypaton tetrachordum secundum tria genera diatonicum chromaticum enharmonion. Quod si superioribus
+tetrachordis hyperboleon diezeugmenon synemmenon meson adiungatur, fit integra perfectaque descriptio diuisi per
+omnia monochordi regularis.
+[PLLXIII:1269-70; text: Tetrachordos hypaton Diatonicae, Tetrachordos hypaton Chromaticum, Tetrachordos
+hypaton Enharmonicum, Tetrachordos meson Diatonicae, Tetrachordos meson Chromaticum, Tetrachordos meson
+Enharmonicum, Tetrachordos synemmenon Diatonicae, Tetrachordos synemmenon Chromaticum, Tetrachordos
+synemmenon Enharmonicum, Tetrachordos diezeugmenon Diatonicum, Diatonicum, Chromaticum, Enharmonium,
+Proslambanomenos, Hypate hypaton, Parhypate hypaton, Lichanos hypaton, Hyppate hypaton, Hypate meson,
+Parhypate meson, Lichanos meson, Mese, Trite synemmenon, Paranete synemmenon, Nete synemmenon, Paramese,
+Trite diezeugmenon, Paranete diezeugmenon, Nete diezeugmenon, A, B, C, D, E, F, G, H, I, K, M, N, O, P, R, S, X, Y,
+Z, CC, DD, Diesis, Hemitonium minus, Hemitonium maius, Tonus, Tria hemitonia, Ditonus, 9216, 8192, 7984, 7776,
+7296, 6912, 6832, 6144,5988, 5832, 5442, 5194, 4608, 4491, 4374, 4096, 4069, 4068, 4014, 3888, 3456, 372]
+[BOEDIM4 14GF]
+[1271-72] [PLLXIII:1271-72,1; text: Tetrachordos diezeugmenon Chromaticum, Tetrachordos diezeugmenon
+Enharmonicum, Tetrachordos hyperboleon Diatonicum, Tetrachordos hyperboleon Chromaticum, Tetrachordos
+hyperboleon Enharmonicum, Chromaticum, Enharmonium, Diatonicum, Paramese, Trite diezeugmenon, Paranete
+diezeugmenon, Nete diezeugmenon, Trite hyperboleon, Paranete hyperboleon, Nete hyperboleon, X, Y, Z, AA, BB,
+DD, EE, FF, KK, LL, NN, 4096, 3888, 3648, 2994, 2916, 2736, 2592, 2034, 399, 388, 372, Diesis, Hemitonium minus,
+Hemitonium maius, Tonus, Tria hemitonia, Ditonus] [BOEDIM4 15GF]
+
+

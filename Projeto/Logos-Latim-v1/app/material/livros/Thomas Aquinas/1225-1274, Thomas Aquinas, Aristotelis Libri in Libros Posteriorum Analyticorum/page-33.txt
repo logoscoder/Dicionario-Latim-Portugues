@@ -1,0 +1,59 @@
+non geometrica primo modo, cum sit de rebus geometricis, sed secundo modo, quia prave habet id quod
+geometriae est. Et ignorantia haec, scilicet quae est in prave utendo principiis geometriae, contraria est veritati
+geometriae.
+|#5 Deinde cum dicit: in doctrinis autem etc., solvit tertiam quaestionem. Et circa hoc duo facit: primo, ostendit
+quod in demonstrativis scientiis non sit paralogismus in dictione; secundo, quod non sit paralogismus extra
+dictionem; ibi: non oportet autem etc.. Cum autem secundum sex locos sophisticos fiat paralogismus in dictione,
+ex his accipit unum, scilicet paralogismum qui fit secundum aequivocationem, ostendens quod talis
+paralogismus in scientiis demonstrativis esse non potest: de quo tamen magis videtur. Dicit ergo quod in
+doctrinis non sit paralogismus, scilicet syllogismus peccans in forma, sicut in dialecticis.
+In demonstrativis enim oportet medium idem semper esse dupliciter, idest ad duo extrema comparari: quia et de
+medio maior extremitas universaliter praedicatur, et medium iterum universaliter praedicatur de minori
+extremitate. Sed quod praedicatur, non dicitur omne, idest signum universale non apponitur ad praedicatum. In
+fallacia vero aequivocationis est quidem idem medium secundum vocem, non autem secundum rem. Et ideo
+quando in voce proponitur, latet, sed si ad sensum demonstretur, non potest ibi esse aliqua deceptio. Sicut hoc
+nomen circulus aequivoce dicitur de figura et de poemate. In rationibus ergo, idest in argumentationibus, latet,
+idest deceptio potest accidere; ut si dicatur: omnis circulus est figura; poema Homeri est circulus; ergo poema
+Homeri est figura. Si vero describatur ad sensum circulus, nulla potest esse deceptio: manifestum enim erit quod
+carmina non sunt circulus. Sicut autem haec deceptio excluditur per hoc quod medium demonstratur ad sensum,
+ita et in demonstrativis excluditur per hoc quod medium demonstratur ad intellectum.
+Cum enim aliquid definitur, ita se habet ad intellectum, sicut id quod sensibiliter describitur se habet ad visum.
+Et ideo dicit quod haec, scilicet definita, in demonstrativis scientiis sunt quae videntur in intellectu. In
+demonstrationibus autem semper proceditur ex definitionibus. Unde non potest ibi esse deceptio secundum
+fallaciam aequivocationis: et multo minus secundum alias fallacias in dictione.
+|#6 Deinde cum dicit: non oportet autem etc., ostendit quod non potest fieri paralogismus in demonstrativis
+secundum fallaciam extra dictionem.
+Et quia huiusmodi paralogismis frequenter obviatur ferendo instantiam, per quam ostenditur defectus in forma
+syllogizandi; ideo primo ostendit qualiter ferenda esset instantia in demonstrativis; secundo, ostendit quod in eis
+non potest esse paralogismus secundum fallaciam extra dictionem; ibi: contingit autem quosdam etc.. Dicit ergo
+primo, quod non oportet in demonstrativis ferre instantiam in ipsum, idest in aliquem paralogismum, sumendo
+aliquam propositionem inductivam, idest particularem: nam inductio ex particularibus procedit, sicut
+syllogismus ex universalibus.
+Et hoc ideo est, quia in demonstrativis non sumitur propositio, nisi quae est in pluribus: nisi enim sit in pluribus,
+non erit in omnibus; oportet autem syllogismum demonstrativum ex universalibus procedere. Unde manifestum
+est quod neque instantia potest esse in demonstrativis, nisi universalis, quia eaedem sunt propositiones et
+instantiae. Tam enim in dialecticis quam in demonstrativis, illud quod sumitur ut instantia, postea sumitur ut
+propositio ad syllogizandum contra illum qui proponebat.
+|#7 Deinde cum dicit: contingit autem quosdam etc., ostendit quod in demonstrativis non accidit deceptio per
+paralogismum extra dictionem.
+Et sicut supra ostenderat quod non est paralogismus in dictione in demonstrativis, ostendendo de uno, scilicet de
+paralogismo secundum fallaciam aequivocationis; ita hic ostendit quod in demonstrativis non est paralogismus
+extra dictionem, ostendendo de uno, qui fit secundum fallaciam consequentis. Patet enim quod secundum alias
+fallacias extra dictionem non potest esse paralogismus in demonstrativis. Neque enim secundum accidens, cum
+demonstrationes procedant ex his quae sunt per se; neque secundum quid et simpliciter, cum ea quae in
+demonstrationibus sumuntur, sint universaliter, et semper, et non secundum quid. Circa hoc ergo duo facit:
+primo, ostendit qualiter fiat paralogismus secundum fallaciam consequentis; secundo, quod ex hoc modo non
+accidit deceptio in demonstrativis; ibi: aliquando quidem etc..
+|#8 Dicit ergo primo quod quosdam contingit non syllogistice dicere, idest non servare formam syllogismi,
+propter hoc, quod accipiunt utrisque inhaerentia, idest quia accipiunt medium affirmative praedicatum de utroque
+extremorum; quod est syllogizare in secunda figura ex duabus propositionibus affirmativis; quod facit fallaciam
+consequentis.
+Sicut fecit quidam Philosophus nomine caeneus ad ostendendum quod ignis sit in multiplicata analogia, idest
+quod in maiori quantitate generatur ignis, quam fuerit corpus ex quo generatur: eo quod ignis, cum sit
+rarissimum corpus, per rarefactionem ex aliis corporibus generatur.
+Unde oportet quod materia prioris corporis sub maioribus dimensionibus extendatur, formam ignis assumens. Ad
+hoc autem probandum utebatur tali syllogismo: quod generatur in multiplicata analogia, cito generatur; sed ignis
+cito generatur; ergo ignis generatur in multiplicata analogia.
+33
+
+

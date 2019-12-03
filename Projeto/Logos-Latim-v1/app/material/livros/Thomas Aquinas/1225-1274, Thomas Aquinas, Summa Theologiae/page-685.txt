@@ -1,0 +1,62 @@
+AG3
+Praeterea, ignorantia circumstantiarum excusat malitiam voluntatis, ut supra habitum est.
+Sed hoc non esset, nisi bonitas et malitia voluntatis a circumstantiis dependeret. Ergo bonitas et malitia
+voluntatis dependet ex circumstantiis, et non a solo obiecto.
+SC
+Sed contra, ex circumstantiis, inquantum huiusmodi, actus non habet speciem, sed bonum et malum sunt
+specificae differentiae actus voluntatis, ut dictum est.
+Ergo bonitas et malitia voluntatis non dependet ex circumstantiis, sed ex solo obiecto.
+CO
+Respondeo dicendum quod in quolibet genere, quanto aliquid est prius, tanto est simplicius et in paucioribus
+consistens, sicut prima corpora sunt simplicia. Et ideo invenimus quod ea quae sunt prima in quolibet genere,
+sunt aliquo modo simplicia, et in uno consistunt. Principium autem bonitatis et malitiae humanorum actuum est
+ex actu voluntatis. Et ideo bonitas et malitia voluntatis secundum aliquid unum attenditur, aliorum vero actuum
+bonitas et malitia potest secundum diversa attendi. Illud autem unum quod est principium in quolibet genere, non
+est per accidens, sed per se, quia omne quod est per accidens, reducitur ad id quod est per se, sicut ad principium.
+Et ideo bonitas voluntatis ex solo uno illo dependet, quod per se facit bonitatem in actu, scilicet ex obiecto, et
+non ex circumstantiis, quae sunt quaedam accidentia actus.
+RA1
+Ad primum ergo dicendum quod finis est obiectum voluntatis, non autem aliarum virium. Unde quantum ad
+actum voluntatis, non differt bonitas quae est ex obiecto, a bonitate quae est ex fine, sicut in actibus aliarum
+virium, nisi forte per accidens, prout finis dependet ex fine, et voluntas ex voluntate.
+RA2
+Ad secundum dicendum quod, supposito quod voluntas sit boni, nulla circumstantia potest eam facere malam.
+Quod ergo dicitur quod aliquis vult aliquod bonum quando non debet vel ubi non debet, potest intelligi
+dupliciter. Uno modo, ita quod ista circumstantia referatur ad volitum. Et sic voluntas non est boni, quia velle
+facere aliquid quando non debet fieri, non est velle bonum. Alio modo, ita quod referatur ad actum volendi. Et
+sic impossibile est quod aliquis velit bonum quando non debet, quia semper homo debet velle bonum, nisi forte
+per accidens, inquantum aliquis, volendo hoc bonum, impeditur ne tunc velit aliquod bonum debitum. Et tunc
+non incidit malum ex eo quod aliquis vult illud bonum; sed ex eo quod non vult aliud bonum.
+Et similiter dicendum est de aliis circumstantiis.
+RA3
+Ad tertium dicendum quod circumstantiarum ignorantia excusat malitiam voluntatis, secundum quod
+circumstantiae se tenent ex parte voliti, inquantum scilicet ignorat circumstantias actus quem vult.
+|a3 Articulus 3
+AG1
+Ad tertium sic proceditur. Videtur quod bonitas voluntatis non dependeat a ratione. Prius enim non dependet a
+posteriori. Sed bonum per prius pertinet ad voluntatem quam ad rationem, ut ex supradictis patet.
+Ergo bonum voluntatis non dependet a ratione.
+AG2
+Praeterea, Philosophus dicit, in VI ethic., quod bonitas intellectus practici est verum conforme appetitui recto.
+Appetitus autem rectus est voluntas bona. Ergo bonitas rationis practicae magis dependet a bonitate voluntatis,
+quam e converso.
+AG3
+Praeterea, movens non dependet ab eo quod movetur, sed e converso.
+Voluntas autem movet rationem et alias vires, ut supra dictum est.
+Ergo bonitas voluntatis non dependet a ratione.
+SC
+Sed contra est quod Hilarius dicit, in X de Trin., immoderata est omnis susceptarum voluntatum pertinacia, ubi
+non rationi voluntas subiicitur.
+Sed bonitas voluntatis consistit in hoc quod non sit immoderata. Ergo bonitas voluntatis dependet ex hoc quod sit
+subiecta rationi.
+CO
+Respondeo dicendum quod, sicut dictum est, bonitas voluntatis proprie ex obiecto dependet. Obiectum autem
+voluntatis proponitur ei per rationem. Nam bonum intellectum est obiectum voluntatis proportionatum ei; bonum
+autem sensibile, vel imaginarium, non est proportionatum voluntati, sed appetitui sensitivo, quia voluntas potest
+tendere in bonum universale, quod ratio apprehendit; appetitus autem sensitivus non tendit nisi in bonum
+particulare, quod apprehendit vis sensitiva. Et ideo bonitas voluntatis dependet a ratione, eo modo quo dependet
+ab obiecto.
+RA1
+685
+
+

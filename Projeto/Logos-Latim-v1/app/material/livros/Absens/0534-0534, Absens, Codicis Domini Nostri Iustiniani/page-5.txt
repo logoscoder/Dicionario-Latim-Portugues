@@ -1,0 +1,58 @@
+IN NOMINE DOMINI NOSTRI IHESU CHRISTI C O D I C I S DOMINI NOSTRI I U S T I N I A N I
+SACRATISSIMI PRINCIPIS REPETITAE PRAELECTIONIS
+Liber primus
+(P. Krueger, Corpus Iuris Civilis, II, Berlin, 1954).
+* 1.1.0. De summa trinitate et de fide catholica et ut nemo de ea publice contendere audeat.
+* 1.2.0. De sacrosanctis ecclesiis et de rebus et privilegiis earum.
+* 1.3.0. De episcopis et clericis et orphanotrophis et brephotrophis et xenodochis et asceteriis (..)
+* 1.4.0. De episcopali audientia et de diversis capitulis, quae ad ius curamque et reverentiam (..)
+* 1.5.0. De haereticis et manichaeis et samaritis.
+* 1.6.0. Ne sanctum baptisma iteretur.
+* 1.7.0. De apostatis.
+* 1.8.0. Nemini licere signum salvatoris christi vel in silice vel in marmore aut sculpere aut pingere.
+* 1.9.0. De iudaeis et caelicolis.
+* 1.10.0. Ne christianum mancipium haereticus vel paganus vel iudaeus habeat vel possideat (..)
+* 1.11.0. De paganis sacrificiis et templis.
+* 1.12.0. De his qui ad ecclesias confugiunt vel ibi exclamant.
+* 1.13.0. De his qui in ecclesiis manumittuntur.
+* 1.14.0. De legibus et constitutionibus principum et edictis.
+* 1.15.0. De mandatis principum.
+* 1.16.0. De senatus consultis.
+* 1.17.0. De veteri iure enucleando et auctoritate iuris prudentium qui in digestis referuntur.
+* 1.18.0. De iuris et facti ignorantia.
+* 1.19.0. De precibus imperatori offerendis et de quibus rebus supplicare liceat vel non.
+* 1.20.0. Quando libellus principi datus litis contestationem facit.
+* 1.21.0. Ut lite pendente vel post provocationem aut definitivam sententiam nulli liceat imperatori (..)
+* 1.22.0. Si contra ius utilitatemve publicam vel per mendacium fuerit aliquid postulatum (..)
+* 1.23.0. De diversis rescriptis et pragmaticis sanctionibus.
+* 1.24.0. De statuis et imaginibus.
+* 1.25.0. De his qui ad statuas confugiunt.
+* 1.26.0. De officio praefectorum praetorio Orientis et Illyrici.
+* 1.27.0. De officio praefecti praetorio Africae et de omni eiusdem dioeceseos statu.
+* 1.28.0. De officio praefecti urbis.
+* 1.29.0. De officio magistri militum.
+* 1.30.0. De officio quaestoris.
+* 1.31.0. De officio magistri officiorum.
+* 1.32.0. De officio comitis sacrarum largitionum.
+* 1.33.0. De officio comitis rerum privatarum.
+* 1.34.0. De officio comitis sacri patrimonii.
+* 1.35.0. De officio proconsulis et legati.
+* 1.36.0. De officio comitis Orientis.
+* 1.37.0. De officio praefecti Augustalis.
+* 1.38.0. De officio vicarii.
+* 1.39.0. De officio praetorum.
+* 1.40.0. De officio rectoris provinciae.
+* 1.41.0. Ut nulli patriae suae administratio sine speciali permissu principis permittatur.
+* 1.42.0. De quadrimenstruis tam civilibus quam militaribus brevibus.
+* 1.43.0. De officio praefecti vigilum.
+* 1.44.0. De officio praefecti annonae.
+* 1.45.0. De officio civilium iudicum.
+* 1.46.0. De officio iudicum militarium.
+* 1.47.0. Ne comitibus rei militaris vel tribunis lavacra praestentur.
+* 1.48.0. De officio diversorum iudicum.
+* 1.49.0. Ut omnes tam civiles quam militares iudices post administrationem depositam (..)
+* 1.50.0. De officio eius qui vicem alicuius iudicis obtinet.
+* 1.51.0. De adsessoribus et domesticis et cancellariis iudicum.
+5
+
+

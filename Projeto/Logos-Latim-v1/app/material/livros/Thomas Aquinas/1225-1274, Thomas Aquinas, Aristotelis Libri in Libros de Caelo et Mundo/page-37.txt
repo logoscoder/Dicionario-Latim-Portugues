@@ -1,0 +1,58 @@
+Et dicit manifestum esse quod necesse sit sic se habere sicut dictum est, de uniformitate corporum quae sunt in
+diversis mundis; et hoc ex suppositionibus quae accipiuntur circa motus. Vocat autem suppositiones ea quibus
+utitur ad propositum ostendendum, propter hoc quod hic supponuntur sicut principia, licet quaedam eorum supra
+fuerint probata. Est autem una suppositio quod motus sunt finiti, idest determinati secundum species: non enim
+sunt infinitae species motuum simplicium, sed tres tantum, ut supra probatum est. Secunda suppositio est quod
+quodlibet elementorum dicitur secundum quod habet naturam ad unum aliquem motuum; sicut terra dicitur
+gravis propter habitudinem ad motum deorsum, ignis dicitur levis propter aptitudinem ad motum sursum. Quia
+igitur sunt determinatae species motus, necesse est quod sint iidem motus secundum speciem in quolibet mundo.
+Et quia unumquodque elementorum dicitur secundum aliquem motuum, necesse est ulterius quod elementa sint
+eadem secundum speciem ubique, idest in quolibet mundo.
+|#9 Deinde cum dicit: natae sunt igitur etc., ex praemissis argumentatur ad propositum. Si enim corpora quae
+sunt in quolibet mundo, sunt eiusdem speciei; videmus autem quod omnes partes terrae quae sunt in hoc mundo,
+feruntur ad hoc medium huius mundi, et omnes partes ignis ad extremum huius; consequens erit quod etiam
+omnes partes terrae quae sunt in quocumque alio mundo, feruntur ad medium huius mundi; et omnes partes ignis
+quae sunt in quocumque alio mundo, feruntur ad extremum huius mundi. Sed hoc est impossibile. Si enim hoc
+accideret, necesse esset quod terra quae est in alio mundo, ferretur sursum in proprio suo mundo, et quod ignis in
+illo mundo ferretur ad medium. Et simili ratione terra quae est in hoc mundo, ferretur secundum naturam a
+medio huius mundi in medium illius mundi.
+Et hoc necesse est sequi propter dispositionem mundorum, qui talem situm habent ut medium unius mundi sit
+distans a medio alterius; et sic non potest terra ad medium alterius mundi moveri, nisi recedat a medio sui mundi
+mota versus extremum, quod est moveri sursum. Similiter, quia extrema diversorum mundorum habent diversum
+situm, necesse est quod si ignis debeat ferri ad extremum alterius mundi, quod recedat ab extremo proprii mundi,
+quod est moveri deorsum in proprio mundo. Haec autem sunt inconvenientia: quia aut ponendum est quod non
+sit eadem natura simplicium corporum in pluribus mundis, quod supra improbatum est; aut si dicamus esse
+eandem naturam, et velimus vitare praedicta inconvenientia quae sequuntur ex diversitate mediorum et
+extremorum, necesse est ponere unum solum medium, ad quod feruntur omnia gravia ubicumque sint, et unum
+extremum, ad quod feruntur omnia levia ubicumque sint.
+Quo posito, impossibile est esse plures mundos; quia ad unitatem medii et extremi sequitur unitas circuli seu
+sphaerae.
+|#10 Deinde cum dicit: dignificare autem etc., excludit quandam obviationem, qua posset aliquis dicere quod
+corpora quae sunt in alio mundo, non moventur ad medium et extremum huius mundi, propter distantiam. Sed
+ipse hoc excludens dicit quod irrationabile est dignum reputare quod sit alia natura simplicium corporum, propter
+hoc quod distent plus vel minus a propriis locis, ita scilicet quod ad propria loca moveantur de propinquo et non
+de remoto. Non enim videtur differre quantum ad naturam corporis, quod per tantam longitudinem distet a suo
+loco vel per tantam: quia differentia mathematicorum non diversificat naturam. Est enim secundum rationem
+quod quanto plus corpus appropinquat ad suum locum, tanto magis velociter moveatur; ita tamen quod species
+sit eadem et motus et mobilis. Differentia enim velocitatis est secundum quantitatem, non secundum speciem;
+sicut et differentia longitudinis.
+|+17 Lectio 17
+|#1 Praemissis duabus rationibus ad ostendendum unitatem mundi, hic Aristoteles ponit tertiam rationem ad
+idem; quae quidem addit quoddam aliud, quod videbatur deficere ad primam rationem.
+Posset enim aliquis dicere quod corporibus non inest moveri naturaliter ad aliqua loca determinata: vel, si ad
+aliqua loca determinata moventur, ea quae sunt unius speciei et diversa secundum numerum, moventur ad loca
+diversa secundum numerum, quae conveniunt in specie; non autem ad eundem locum secundum numerum, sicut
+prima ratio supponebat. Ad haec igitur certificanda Philosophus inducit hanc tertiam rationem.
+Circa quam tria facit: primo ponit rationem; secundo excludit quandam obviationem, ibi: si autem ad specie
+eadem etc.; tertio infert principalem conclusionem, ibi: itaque necessarium etc..
+|#2 Dicit ergo primo necessarium esse quod sit aliquis motus praedictorum corporum. Manifestum est autem
+quod moventur: quod quidem apparet et per sensum et per rationem, quia huiusmodi sunt corpora naturalia,
+quibus competit moveri.
+Potest ergo dubitatio remanere, utrum sit dicendum quod corpora naturalia moveantur per violentiam omnibus
+motibus quibus moventur, etiam si sint contrarii; puta quod ignis inducatur et sursum et deorsum per violentiam.
+Sed hoc est impossibile: quia quod non est omnino natum moveri, idest quod nullum motum habet ex sua natura,
+impossibile est quod moveatur per violentiam.
+
+37
+
+

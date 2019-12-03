@@ -1,0 +1,55 @@
+|#2 Circa primum considerandum est quod definitio ideo dicitur terminus, quia includit totaliter rem; ita scilicet,
+quod nihil rei est extra definitionem, cui scilicet definitio non conveniat; nec aliquid aliud est infra definitionem,
+cui scilicet definitio conveniat.
+|#3 Et ideo quinque ponit in definitione nominis.
+Primo, ponitur vox per modum generis, per quod distinguitur nomen ab omnibus sonis, qui non sunt voces. Nam
+vox est sonus ab ore animalis prolatus, cum imaginatione quadam, ut dicitur in II de anima.
+Additur autem prima differentia, scilicet significativa, ad differentiam quarumcumque vocum non
+significantium, sive sit vox litterata et articulata, sicut biltris, sive non litterata et non articulata, sicut sibilus pro
+nihilo factus. Et quia de significatione vocum in superioribus actum est, ideo ex praemissis concludit quod
+nomen est vox significativa.
+|#4 Sed cum vox sit quaedam res naturalis, nomen autem non est aliquid naturale sed ab hominibus institutum,
+videtur quod non debuit genus nominis ponere vocem, quae est ex natura, sed magis signum, quod est ex
+institutione; ut diceretur: nomen est signum vocale; sicut etiam convenientius definiretur scutella, si quis diceret
+quod est vas ligneum, quam si quis diceret quod est lignum formatum in vas.
+|#5 Sed dicendum quod artificialia sunt quidem in genere substantiae ex parte materiae, in genere autem
+accidentium ex parte formae: nam formae artificialium accidentia sunt. Nomen ergo significat formam
+accidentalem ut concretam subiecto. Cum autem in definitione omnium accidentium oporteat poni subiectum,
+necesse est quod, si qua nomina accidens in abstracto significant quod in eorum definitione ponatur accidens in
+recto, quasi genus, subiectum autem in obliquo, quasi differentia; ut cum dicitur, simitas est curvitas nasi. Si qua
+vero nomina accidens significant in concreto, in eorum definitione ponitur materia, vel subiectum, quasi genus,
+et accidens, quasi differentia; ut cum dicitur, simum est nasus curvus. Si igitur nomina rerum artificialium
+significant formas accidentales, ut concretas subiectis naturalibus, convenientius est, ut in eorum definitione
+ponatur res naturalis quasi genus, ut dicamus quod scutella est lignum figuratum, et similiter quod nomen est vox
+significativa. Secus autem esset, si nomina artificialium acciperentur, quasi significantia ipsas formas artificiales
+in abstracto.
+|#6 Tertio, ponit secundam differentiam cum dicit: secundum placitum, idest secundum institutionem humanam
+a beneplacito hominis procedentem. Et per hoc differt nomen a vocibus significantibus naturaliter, sicut sunt
+gemitus infirmorum et voces brutorum animalium.
+|#7 Quarto, ponit tertiam differentiam, scilicet sine tempore, per quod differt nomen a verbo. Sed videtur hoc
+esse falsum: quia hoc nomen dies vel annus significat tempus.
+Sed dicendum quod circa tempus tria possunt considerari. Primo quidem, ipsum tempus, secundum quod est res
+quaedam, et sic potest significari a nomine, sicut quaelibet alia res. Alio modo, potest considerari id, quod
+tempore mensuratur, in quantum huiusmodi: et quia id quod primo et principaliter tempore mensuratur est
+motus, in quo consistit actio et passio, ideo verbum quod significat actionem vel passionem, significat cum
+tempore.
+Substantia autem secundum se considerata, prout significatur per nomen et pronomen, non habet in quantum
+huiusmodi ut tempore mensuretur, sed solum secundum quod subiicitur motui, prout per participium significatur.
+Et ideo verbum et participium significant cum tempore, non autem nomen et pronomen. Tertio modo, potest
+considerari ipsa habitudo temporis mensurantis; quod significatur per adverbia temporis, ut cras, heri et
+huiusmodi.
+|#8 Quinto, ponit quartam differentiam cum subdit: cuius nulla pars est significativa separata, scilicet a toto
+nomine; comparatur tamen ad significationem nominis secundum quod est in toto. Quod ideo est, quia
+significatio est quasi forma nominis; nulla autem pars separata habet formam totius, sicut manus separata ab
+homine non habet formam humanam. Et per hoc distinguitur nomen ab oratione, cuius pars significat separata; ut
+cum dicitur, homo iustus.
+|#9 Deinde cum dicit: in nomine enim quod est etc., manifestat praemissam definitionem.
+Et primo, quantum ad ultimam particulam; secundo, quantum ad tertiam; ibi: secundum vero placitum etc.. Nam
+primae duae particulae manifestae sunt ex praemissis; tertia autem particula, scilicet sine tempore, manifestabitur
+in sequentibus in tractatu de verbo.
+Circa primum duo facit: primo, manifestat propositum per nomina composita; secundo, ostendit circa hoc
+differentiam inter nomina simplicia et composita; ibi: at vero non quemadmodum etc..
+
+8
+
+

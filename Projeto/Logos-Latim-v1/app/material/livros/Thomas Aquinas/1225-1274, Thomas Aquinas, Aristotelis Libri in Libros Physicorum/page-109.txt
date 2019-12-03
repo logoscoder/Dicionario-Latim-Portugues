@@ -1,0 +1,64 @@
+quemlibet numerum datum; sicuti etiam est de tempore et de numero temporis.
+Numerus enim temporis crescit successive per additionem diei ad diem, non
+quod omnes dies sint simul.
+|#6
+Deinde cum dicit: in magnitudinibus autem etc., ostendit quod e
+contrario est in magnitudinibus.
+Dividitur enim continuum in infinitum, ut dictum est. Sed in maius non
+procedit in infinitum etiam secundum potentiam, quia quantum unumquodque
+est in potentia, tantum potest esse in actu. Si igitur esset in potentia
+naturae quod cresceret aliqua magnitudo in infinitum, sequeretur quod esset
+aliqua magnitudo sensibilis infinita; quod est falsum, ut supra dictum est.
+Relinquitur igitur quod non est in potentia additio magnitudinum in
+infinitum sic quod excedatur omnis determinata quantitas: quia sequeretur
+quod esset aliquid maius caelo.
+|#7
+Ex quo patet falsum esse, quod quidam dicunt, quod in materia prima
+est potentia ad omnem quantitatem: non enim est in materia prima potentia
+nisi ad determinatam quantitatem.
+Patet etiam ex praemissis ratio quare non oportet numerum tantum esse in
+actu, quantum est in potentia, sicuti hic dicitur de magnitudine: quia
+additio numeri sequitur divisionem continui, per quam a toto itur ad id
+quod est in potentia ad numerum. Unde non oportet devenire ad aliquem actum
+finientem potentiam. Sed additio magnitudinis ducit in actum, ut dictum
+est.
+Commentator autem assignat aliam rationem: quia potentia ad additionem
+magnitudinis est in una et eadem magnitudine; sed potentia ad additionem
+numerorum est in diversis numeris, inquantum cuilibet numero potest aliquid
+addi.
+Sed haec ratio parum valet, quia sicut per additionem est alia et alia
+species numeri, ita alia et alia species mensurae, secundum quod bicubitum
+et tricubitum dicuntur species quantitatis.
+Et etiam quidquid additur superiori numero, additur inferiori; et secundum
+hoc in uno et eodem numero, scilicet binario vel ternario, est potentia ad
+infinitam additionem.
+|#8
+Deinde cum dicit: infinitum autem non idem est etc., ostendit quomodo
+infinitum inveniatur diversimode in diversis.
+Et dicit quod infinitum non est secundum eandem rationem in motu et in
+magnitudine et tempore, ac si esset una natura univoce praedicata de eis:
+sed dicitur de posteriori eorum secundum prius, sicut de motu propter
+magnitudinem, in qua est motus, vel localis vel alterationis vel augmenti;
+de tempore autem propter motum. Et hoc ideo quia infinitum competit
+quantitati, motus autem est quantus secundum magnitudinem, et tempus
+propter motum, ut infra patebit. Et ideo dicit quod nunc utimur his, sed
+posterius manifestabitur de unoquoque eorum quid sit, et quod omnis
+magnitudo sit divisibilis in magnitudines.
+|#9
+Deinde cum dicit: non removet autem ratio mathematicos etc., ostendit
+quomodo mathematici utuntur infinito.
+Et dicit quod ratio praedicta, qua ponimus non esse magnitudinem infinitam
+in actu, non removet considerationem mathematicorum, qui utuntur infinito;
+puta cum geometra dicit, sit talis linea infinita. Non enim indigent ad
+suam demonstrationem infinito in actu, neque eo utuntur: sed solum indigent
+quod sit aliqua linea finita tanta quanta est eis necessaria, ut ex ea
+possint subtrahere quod volunt. Et ad hoc sufficit quod aliqua maxima
+magnitudo sit; quia alicui maximae magnitudini competit, quod possit dividi
+secundum quantamcumque proportionem respectu alterius magnitudinis datae.
+Unde ad demonstrandum non differt utrum sit hoc modo vel illo, scilicet vel
+infinita vel finita maxima quantitas. Sed quantum ad esse rei multum
+differt, utrum sit vel non sit.
+
+109
+
+

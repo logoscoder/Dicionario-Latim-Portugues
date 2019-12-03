@@ -1,0 +1,62 @@
+Ad primum sic proceditur. Videtur quod filius non sit alius a patre. Alius enim, secundum Priscianum est
+relativum diversitatis substantiae. Sed pater et filius sunt unius substantiae. Ergo filius non potest dici alius a
+patre.
+AG2
+Item, unitas substantiae impedit quod filius non potest dici aliud esse a patre, propter diversitatem significatam
+per ly aliud. Sed alius et aliud non differunt nisi secundum modum significandi: quia alius masculine, aliud
+neutraliter significat. Cum igitur modus significandi non variet significationem, videtur quod nec etiam alius a
+patre dici possit.
+AG3
+Praeterea, si filius dicitur alius a patre, hoc non est nisi quia filius est a patre. Sed pater est a seipso. Ergo pater
+erit alius a seipso.
+AG4
+Praeterea, proprietas secundum Porphyrium, non facit alietatem, sed magis alteritatem. Pater autem non
+distinguitur a filio nisi per proprietatem relationis.
+Ergo pater non potest dici alius a filio, sed alter.
+SC1
+Contra, quaecumque distinguuntur realiter, unum eorum est alia res ab alio. Sed pater et filius, ut supra dictum
+est, dist. 2, quaest. Unica, art. 5, distinguuntur realiter. Ergo pater est alia res a filio; et eodem modo potest dici
+esse alius a filio.
+Hoc etiam videtur per verbum Augustini in littera.
+CO
+Respondeo dicendum, quod in divinis invenimus tria, scilicet essentiam, personam, proprietatem, quibus
+aptantur tria genera. Essentiae enim, quia communis est et indistincta, aptatur neutrum genus, quod est informe
+non importans sexus distinctionem. Personae vero, quae est distincta et significatur ut aliquid existens in natura
+divina, aptatur masculinum genus quod est genus distinctum, et non femininum propter imperfectionem.
+Proprietati autem, quae significatur per modum formae, aptatur genus femininum; sic etiam essentiae aptari
+potest, inquantum essentia significatur ut forma; et ideo propter unitatem essentiae non potest dici pater alius a
+filio, sed propter distinctionem personae dicitur alius.
+Istud autem videtur magis esse adaptatio, quam expressio proprietatis locutionis. Unde dicendum aliter, quod
+hoc contingit, quia neutrum genus substantivatur; et ideo importat diversitatem simpliciter et absolute, quae est
+diversitas essentiae; sed masculinum genus et femininum tenentur adjective; unde ponunt diversitatem circa
+terminos personales qui in locutione ponuntur, cum dicitur: filius est alius a patre; et hoc explicabitur in
+solutionibus argumentorum.
+RA1
+Ad primum ergo dicendum, quod alius semper significat diversitatem substantiae. Sed substantia dicitur
+dupliciter: quandoque enim sumitur pro essentia, sicut est in usu Latinorum; quandoque pro supposito essentiae,
+vel pro re naturae primi praedicamenti, quae dicitur hypostasis apud Graecos; et hoc secundo modo non est
+eadem substantia patris et filii: quia sic substantia significat personam; et hac ratione potest dici alius.
+RA2
+Ad secundum dicendum, quod neutrum genus substantivatur, et non masculinum. Substantivum autem
+significationem suam habet absolutam; sed adjectivum ponit significationem suam circa subjectum.
+Quando autem aliquid dicitur absolute, intelligitur de eo quod simpliciter est, sicut ens, absolute dictum,
+significat substantiam; et ideo quia alietas essentiae est simpliciter alietas, ideo neutrum genus substantivatum
+importat alietatem essentiae.
+Sed genus masculinum, quia adjective tenetur, ponit alietatem circa suum subjectum. Unde si terminus
+personalis est suum substantivum, designat distinctionem personarum. Et ideo haec est vera: pater est alius a
+filio. Si autem sit terminus essentialis, designat diversitatem substantiae; unde haec est falsa: pater est alius Deus
+a filio.
+Et similiter neutrum adjective sumptum, quando adjungitur termino personali, importat alietatem personae, ut
+cum dicitur: pater est aliud suppositum a filio. Unde hoc non contingit ex variata significatione, sed ex eo quod
+alietas significata in masculino et neutro, non ad idem refertur.
+RA3
+Ad tertium dicendum, quod haec est impropria: pater est a se; et exponenda est per negationem; id est, non est ab
+alio. Ista autem est propria: filius est a patre. Unde non est simile.
+RA4
+Ad quartum dicendum, quod proprietas in divinis non tantum est proprietas, sed etiam subsistens: paternitas
+enim est ipse pater; et ideo proprietas facit alium magis proprie, quam alterum.
+De hoc tamen infra plenius habebitur, dist. 26, quaest. 2, art. 2.
+|a2 Articulus 2: Utrum pater et filius possint dici plures aeterni.
+89
+
+

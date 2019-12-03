@@ -1,0 +1,43 @@
+Non
+erit recta conclusio dicentis:
+Socrates igitur non sapiens est
+Ex negatione ergo respondentis ex infinito nomine non sapiens facta est affirmatio:
+Socrates non sapiens est
+Atque hoc quidem in singularibus. Quod si hoc in uniuersalibus fiat uniuersaliter praedicatis, negationem potius
+fieri contingit quam affirmationem. Ut si quis interroget:
+Putasne omnis homo sapiens est?
+Ille respondeat:
+Non
+non necesse est ita concludere ut dicatur:
+Omnis igitur homo non sapiens est
+Hoc enim falsum est nec hoc euenit necessario ex interrogati responsione sed magis illud:
+Non omnis homo sapiens est
+Nam cum aliquis interrogat:
+Putasne omnis homo sapiens est?
+Si ille neget dicens:
+Non
+tu concludes oportet:
+Non omnis igitur homo sapiens est
+Hoc enim ex illius responsione necesse est euenire. Sed haec contra iacens est interrogationi id est opposita.
+Interrogasti enim uniuersalem affirmationem dicens:
+Putasne omnis homo sapiens est?
+Respondit:
+Non
+concludes tu particularem negationem:
+Non omnis homo sapiens est
+Et haec diuidit uerum uel falsum. Nam si contra eam interrogationem per quam affirmationem uniuersalem
+interrogasti ille neget et tu concludas eam propositionem quae dicit:
+Omnis homo igitur non sapiens est
+non potius contra iacentem sed contrariam facies. Haec enim quae dicit:
+Omnis homo non sapiens est
+consentit ei quae dicit:
+Nullus homo sapiens est
+Quare nihil differt, /146/ utrum hanc aliquis ex infinito nomine affirmationem respondeat, an ex finito nomine
+uniuersalem negationem, quae cum affirmatione uniuersali, quam interrogasti, uerum falsumque non diuidit. Sed
+illa sola concludenda sunt, in quibus unum uerum est, alterum falsum. Non igitur ita debet fieri in uniuersalibus,
+ut interrogata uniuersali affirmatione, si alius negationem responderit, uniuersalis affirmatio ex infinito nomine
+concludatur sed potius particularis negatio ex nomine finito.
+
+44
+
+

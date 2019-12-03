@@ -1,0 +1,62 @@
+Alia tria concedimus; procedunt enim de executione singularis actus.
+RC
+Concedimus etiam quae adducuntur in oppositum; procedunt enim de bono et malo actu ex genere.
+|a6 Articulus 6
+TTA
+Sexto quaeritur utrum circumstantia det speciem peccato, aut variet ipsam transferendo in aliud genus peccati.
+TTB
+Et videtur quod non.
+AG1
+Principium enim speciei est intrinsecum; circumstantia autem est extrinseca, ut ipsum nomen sonat. Ergo
+circumstantia non dat speciem peccato.
+AG2
+Sed dicendum, quod id quod est circumstantia actui in specie naturae considerato, dat speciem actui in quantum
+est moralis.
+Sed contra, sicut se habet obiectum ad actum in genere, ita se habet obiectum morale ad actum moralem. Sed
+obiectum dat speciem actui. Ergo obiectum morale actui morali; non ergo circumstantia.
+AG3
+Praeterea, idem actus peccati habet multas circumstantias. Si ergo circumstantia dat speciem peccato, sequitur
+quod idem peccatum sit in diversis speciebus, quod est impossibile.
+AG4
+Praeterea, id quod iam est sub specie constitutum, non accipit speciem ab alio, nisi priori specie corrupta. Sed
+furtum est iam constitutum in aliqua specie peccati; per circumstantiam autem istam additam quae est furari de
+loco sacro, aut rem sacram, non aufertur prima species, quia adhuc est furtum.
+Ergo praedicta circumstantia non dat aliquam speciem peccato; et pari ratione nec aliqua alia.
+AG5
+Praeterea, peccata videntur diversificari ab invicem secundum superabundantiam et defectum; sic enim
+opponitur liberalitas prodigalitati.
+Sed abundantia et defectus videntur ad unam solam circumstantiam pertinere, quae est quantum. Ergo aliae
+circumstantiae non diversificant speciem peccatorum.
+AG6
+Praeterea, peccatum omne est voluntarium, ut Augustinus dicit.
+Sed voluntas non fertur super circumstantiam; sicut cum aliquis furatur vas aureum consecratum non curat de
+consecrato, sed solum de auro. Ergo ista circumstantia non dat speciem peccato, et pari ratione nec aliae.
+AG7
+Praeterea, illud quod non manet, sed statim transit, non potest variari a specie quam prius habuit. Sed actus
+peccati non manet, sed statim transit. Ergo circumstantia non potest variare speciem peccati.
+AG8
+Praeterea, sicut contingit esse defectum in moralibus secundum aliquas circumstantias, ita et in naturalibus;
+monstra enim contingunt in natura quandoque quidem propter arctitudinem loci, quandoque autem propter
+abundantiam materiae aut etiam diminutionem et ex aliis huiusmodi causis; et tamen semper est idem in specie
+quod nascitur.
+Ergo nec in moralibus species peccati diversificatur per corruptionem diversarum circumstantiarum.
+AG9
+Praeterea, finis dat speciem in moralibus, quia ex intentione iudicatur actus moralis bonus vel malus. Sed
+circumstantia non est finis. Ergo circumstantia non dat speciem peccato.
+AG10
+Praeterea, peccatum opponitur virtuti.
+Sed circumstantia non variat speciem virtutis; eiusdem enim virtutis est benefacere clerico vel laico, scilicet
+liberalitatis vel misericordiae.
+Ergo circumstantia non variat speciem peccati.
+AG11
+Praeterea, si circumstantia mutet speciem peccati, oportet quod peccatum aggravet.
+Sed quandoque non aggravat, illa scilicet quae videtur speciem mutare, puta si sit ignorata; ut si aliquis accedat
+ad coniugatam, quam nescit coniugatam adulterium facit, nec tamen videtur aggravari peccatum; quia minimum
+habet de ratione peccati, quod minimum habet de voluntario. Non ergo huiusmodi circumstantia mutat speciem
+peccati.
+AG12
+Praeterea, si ista circumstantia, quae est sacrum, dat speciem peccato, cum remaneat ibi furtum, sequitur quod sit
+ibi et sacrilegium et furtum, et sic in uno actu facit duo peccata, quod videtur inconveniens.
+38
+
+

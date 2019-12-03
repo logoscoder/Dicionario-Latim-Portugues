@@ -1,0 +1,63 @@
+Anselmus in Lib. De veritate dicit: video hac ratione probari veritatem immobilem permanere. Praemissa autem
+ratio fuit de veritate significationis, ut ex praemissis, apparet. Ergo veritas enuntiabilium est immutabilis; et
+eadem ratione veritas rei quam significat.
+AG2
+Praeterea, si veritas enuntiationis mutatur, maxime mutatur ad mutationem rei. Sed re mutata, veritas
+propositionis manet. Ergo veritas enuntiationis est immutabilis. Probatio mediae. Veritas, secundum Anselmum
+est rectitudo quaedam, in quantum aliquid implet hoc quod accepit in mente divina. Sed haec propositio: socrates
+sedet; accepit in mente divina ut significaret sessionem socratis, quam significat etiam socrate non sedente. Ergo
+etiam socrate non sedente manet in ea veritas; et ita veritas praedictae propositionis non mutatur, etiam si res
+mutetur.
+AG3
+Praeterea, si veritas mutatur, hoc non potest esse nisi mutatis his quibus veritas inest, sicut nec aliquae formae
+mutari dicuntur nisi suis subiectis mutatis. Sed veritas non mutatur ad mutationem verorum, quia destructis veris,
+adhuc remanet veritas, ut Augustinus et Anselmus probant. Ergo veritas est omnino immutabilis.
+AG4
+Praeterea, veritas rei causa est veritatis propositionis; ex eo enim quod res est vel non est, dicitur oratio vera vel
+falsa. Sed veritas rei est immutabilis. Ergo veritas propositionis.
+Probatio mediae. Anselmus in lib.
+De veritate probat veritatem enuntiationis immobilem permanere, secundum quam implet illud quod accepit in
+mente divina.
+Sed similiter quaelibet res implet illud quod accepit in mente divina ut haberet.
+Ergo cuiuslibet rei veritas est immutabilis.
+AG5
+Praeterea, illud quod semper manet omni mutatione perfecta, nunquam mutatur; in alteratione enim colorum non
+dicimus superficiem mutari, quia manet qualibet mutatione colorum facta. Sed veritas manet in re, qualibet rei
+mutatione facta, quia ens et verum convertuntur.
+Ergo veritas est immutabilis.
+AG6
+Praeterea, ubi est eadem causa, et idem effectus. Sed eadem est causa veritatis harum trium propositionum:
+socrates sedet; sedebit; et sedit: scilicet socratis sessio. Ergo eadem est earum veritas. Sed si unum trium
+praedictorum est verum, oportet similiter alterum duorum semper esse verum; si enim aliquando est verum:
+socrates sedet; semper fuit et erit verum: socrates sedit vel socrates sedebit. Ergo una veritas trium
+propositionum semper uno modo se habet, et ita est immutabilis; ergo eadem ratione quaelibet alia veritas.
+SC
+Sed contra, mutatis causis mutantur effectus.
+Sed res, quae sunt causa veritatis propositionis, mutantur. Ergo et propositionum veritas mutatur.
+CO
+Responsio. Dicendum est, quod aliquid dicitur mutari dupliciter. Uno modo, quia est subiectum mutationis, sicut
+dicimus corpus esse mutabile, et sic nulla forma est mutabilis; et sic dicitur quod forma est invariabili essentia
+consistens; unde, cum veritas significetur per modum formae, praesens quaestio non est, an veritas sit mutabilis
+hoc modo. Alio modo dicitur aliquid mutari, quia secundum ipsum fit mutatio, sicut dicimus albedinem mutari,
+quia secundum ipsam corpus alteratur; et sic quaeritur de veritate, an sit mutabilis.
+Ad cuius evidentiam sciendum est, quod illud secundum quod est mutatio, quandoque quidem mutari dicitur,
+quandoque autem non.
+Quando enim est inhaerens ei quod movetur secundum ipsum, tunc et ipsum mutari dicitur, sicut albedo vel
+quantitas mutari dicuntur, quando aliquid secundum ipsa mutatur, eo quod ipsamet secundum hanc mutationem
+succedunt sibi invicem in subiecto. Quando autem illud, secundum quod est mutatio est extrinsecum, tunc in illa
+mutatione non movetur, sed immobile perseverat, sicut locus non dicitur moveri quando aliquis secundum locum
+movetur. Unde et in III physic.
+Dicitur, quod locus est immobilis terminus continentis, eo quod per localem motum non dicitur esse successio
+locorum in uno locato, sed magis multorum locatorum in uno loco.
+Sed formarum inhaerentium, quae mutari dicuntur ad mutationem subiecti, duplex est mutationis modus; aliter
+enim dicuntur mutari formae generales, et aliter formae speciales.
+Forma enim specialis post mutationem non remanet eadem nec secundum esse nec secundum rationem, sicut
+albedo, facta alteratione, nullo modo manet; sed forma generalis facta mutatione manet eadem secundum
+rationem, sed non secundum esse; sicut facta mutatione de albo in nigrum, manet quidem color secundum
+communem rationem coloris, sed non eadem species coloris.
+Dictum est autem superius quod aliquid denominatur verum veritate prima quasi mensura extrinseca, sed veritate
+inhaerente quasi mensura intrinseca. Unde res creatae variantur quidem in participatione veritatis primae; ipsa
+tamen veritas prima, secundum quam dicuntur vera, nullo modo mutatur; et hoc est quod Augustinus dicit in Lib.
+15
+
+

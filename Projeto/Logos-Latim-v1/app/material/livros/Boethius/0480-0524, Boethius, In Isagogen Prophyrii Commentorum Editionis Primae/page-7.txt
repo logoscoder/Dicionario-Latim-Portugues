@@ -1,0 +1,58 @@
+[1.09.04] Cum igitur perutile sit et definitione quodlibet illud circumscribere et diuisio ne dissoluere et
+demonstrationibus comprobare, haec autem praeter earum rerum scientiam de quibus in hoc libro disputabitur, neque
+intellegi neque exerceri ualeant, quis umquam poterit dubitare quin hic liber maximum totius logicae adiumentum sit,
+praeter quem caetera quae in ea magnam uim tenent, nullum doctrinae aditum praebent?
+[ 1.10 ]
+[1.10.01] Sed meminit Porphyrius introductionem sese conscribere neque ultra quam institutionis modus est
+formam tractatus egreditur. Ait enim se altiorum quaestionum nodis abstinere, simplices uero mediocri coniectura
+perstringere.
+[1.10.02] Quae uero sint altiores quaestiones quas se differre promittit ita proponit:
+MOX, INQUIT, DE GENERIBUS AC SPECIEBUS ILLUD QUIDEM SIVE SUBSISTUNT SIVE IN SOLIS
+NUDISQUE INTELLECTIBUS POSITA SUNT SIVE SUBSISTENTIA CORPORALIA SUNT AN
+INCORPORALIA ET UTRUM SEPARATA A SENSIBILIBUS AN IN SENSIBILIBUS POSITA ET CIRCA EA
+CONSTANTIA, DICERE RECUSABO. ALTISSIMUM ENIM EST HUIUSMODI NEGOTIUM ET MAIORIS
+EGENS INQUISITIONIS.
+[1.10.03] Altiores, inquit, quaestiones praetereo ne eis intempestiue lectoris animo ingestis initia eius
+primitiasque perturbem.
+[1.10.04] Sed ne omnino faceret neglegentem ut nihil praeterquam quod ipse dixisset lector amplius putaret
+occultum, id ipsum cuius exequi quaestionem se differre promisit addidit ut de his minime obscure penitusque
+tractando nec lectori quicquam obscuritatis offunderet et tamen scientia roboratus quid quaeri iure posset agnosceret.
+[1.10.05] Sunt autem quaestiones quas sese reticere /160/ promittit et perutiles et secretae et temptatae quidem
+a doctis uiris nec a pluribus dissolutae.
+[1.10.06] Quarum prima est huiusmodi. Omne quod intellegit animus aut id quod est in rerum natura
+constitutum intellectu concipit et sibimet ratione describit aut id quod non est uacua sibi imaginatione depingit. Ergo
+intellectus generis et caeterorum cuiusmodi sit quaeritur -- utrumne ita intellegamus species et genera ut ea quae sunt et
+ex quibus uerum capimus intellectum, an nosmet ipsi nos ludimus cum ea quae non sunt animi nobis cassa cogitatione
+formamus.
+[1.10.07] Quodsi esse quidem constiterit et ab his quae sunt intellectum concipi diserimus, tunc alia maior ac
+difficilior quaestio dubitationem parit cum discernendi atque intellegendi generis ipsius naturam summa difficultas
+ostenditur. Nam quoniam omne quod est aut corporeum aut incorporeum esse necesse est, genus et species in aliquo
+horum esse oportebit. Quale erit igitur id quod genus dicitur -utrumne corporeum an uero incorporeum? Neque enim quid sit diligenter intenditur nisi in quo horum poni
+debeat agnoscatur.
+[1.10.08] Sed neque cum haec soluta fuerit quaestio omne excludetur ambiguum. Subest enim aliquid quod, si
+incorporalia esse genus ac species dicantur, obsideat intellegentiam atque detineat exsolui postulans: utrum circa
+corpora ipsa subsistant an et praeter corpora subsistentiae incorporales esse uideantur. Duae quippe incorporeorum
+formae sunt: ut alia praeter corpora esse /161/ possint et separata a corporibus in sua incorporalitate perdurent (ut deus,
+mens, anima); alia uero cum sint incorporea, tamen praeter corpora esse non possint (ut linea uel superficies uel
+numerus uel singulae qualitates), quas tametsi incorporeas esse pronuntiamus quod tribus spatiis minime distendantur,
+tamen ita in corporibus sunt ut ab his diuelli nequeant aut separari aut si a corporibus separata sint, nullo modo
+permaneant.
+[1.10.09] Quas licet quaestiones arduum sit ipso interim Porphyrio renuente dissoluere, tamen aggrediar ut nec
+anxium lectoris animum relinquam nec ipse in his quae praeter muneris suscepti seriem sunt tempus operamque
+consumam.
+[1.10.10] Primum quidem pauca sub quaestionis ambiguitate proponam, post uero eundem dubitationis nodum
+absoluere atque explicare temptabo.
+[1.10.11] Genera et species aut sunt atque subsistunt aut intellectu et sola cogitatione formantur.
+[1.10.12] Sed genera et species esse non possunt. Hoc autem ex his intellegitur.
+[1.10.13] Omne enim quod commune est uno tempore pluribus, id unum esse non poterit. Multorum enim est
+quod commune est, praesertim cum una eademque res in multis uno tempore tota sit. Quantaecumque enim sunt species
+in omnibus genus unum est, non quod de eo singulae species quasi partes aliquas carpant sed singulae uno tempore
+totum genus habent. Quo fit ut totum genus in pluribus singulis uno tempore positum unum esse non possit; neque enim
+fieri potest ut cum in pluribus totum uno sit tempore in semet ipso sit unum /162/
+numero. Quod si ita est, unum quiddam genus esse non poterit.
+[1.10.14] Quo fit ut omnino nihil sit; omne enim quod est, idcirco est quia unum est.
+[1.10.15] Et de specie idem conuenit dici.
+[1.10.16] Quodsi est quidem genus ac species sed multiplex neque unum numero, non erit ultimum genus sed
+habebit aliud superpositum genus quod illam multiplicitatem unius ui nominis includat.<4>
+
+

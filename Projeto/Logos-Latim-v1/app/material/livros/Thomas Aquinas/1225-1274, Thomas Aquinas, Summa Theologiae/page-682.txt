@@ -1,0 +1,62 @@
+rationem mali. Si vero ordinetur ad debitum finem, convenit cum ordine rationis, unde habet rationem boni.
+Necesse est autem quod vel ordinetur, vel non ordinetur ad debitum finem. Unde necesse est omnem actum
+hominis a deliberativa ratione procedentem, in individuo consideratum, bonum esse vel malum. Si autem non
+procedit a ratione deliberativa, sed ex quadam imaginatione, sicut cum aliquis fricat barbam, vel movet manum
+aut pedem; talis actus non est, proprie loquendo, moralis vel humanus; cum hoc habeat actus a ratione. Et sic erit
+indifferens, quasi extra genus Moralium actuum existens.
+RA1
+Ad primum ergo dicendum quod aliquem actum esse indifferentem secundum suam speciem, potest esse
+multipliciter. Uno modo, sic quod ex sua specie debeatur ei quod sit indifferens. Et sic procedit ratio. Sed tamen
+isto modo nullus actus ex sua specie est indifferens, non enim est aliquod obiectum humani actus, quod non
+possit ordinari vel ad bonum vel ad malum, per finem vel circumstantiam. Alio modo potest dici indifferens ex
+sua specie, quia non habet ex sua specie quod sit bonus vel malus. Unde per aliquid aliud potest fieri bonus vel
+malus. Sicut homo non habet ex sua specie quod sit albus vel niger, nec tamen habet ex sua specie quod non sit
+albus aut niger, potest enim albedo vel nigredo supervenire homini aliunde quam a principiis speciei.
+RA2
+Ad secundum dicendum quod Philosophus dicit illum esse malum proprie, qui est aliis hominibus nocivus.
+Et secundum hoc, dicit prodigum non esse malum, quia nulli alteri nocet nisi sibi ipsi.
+Et similiter de omnibus aliis qui non sunt proximis nocivi.
+Nos autem hic dicimus malum communiter omne quod est rationi rectae repugnans. Et secundum hoc, omnis
+individualis actus est bonus vel malus, ut dictum est.
+RA3
+Ad tertium dicendum quod omnis finis a ratione deliberativa intentus, pertinet ad bonum alicuius virtutis, vel ad
+malum alicuius vitii. Nam hoc ipsum quod aliquis agit ordinate ad sustentationem vel quietem sui corporis, ad
+bonum virtutis ordinatur in eo qui corpus suum ordinat ad bonum virtutis.
+Et idem patet in aliis.
+|a10 Articulus 10
+AG1
+Ad decimum sic proceditur. Videtur quod circumstantia non possit constituere aliquam speciem boni vel mali
+actus. Species enim actus est ex obiecto. Sed circumstantiae differunt ab obiecto.
+Ergo circumstantiae non dant speciem actus.
+AG2
+Praeterea, circumstantiae comparantur ad actum moralem sicut accidentia eius, ut dictum est.
+Sed accidens non constituit speciem. Ergo circumstantia non constituit aliquam speciem boni vel mali.
+AG3
+Praeterea, unius rei non sunt plures species. Unius autem actus sunt plures circumstantiae. Ergo circumstantia
+non constituit actum moralem in aliqua specie boni vel mali.
+SC
+Sed contra, locus est circumstantia quaedam. Sed locus constituit actum moralem in quadam specie mali, furari
+enim aliquid de loco sacro est sacrilegium. Ergo circumstantia constituit actum moralem in aliqua specie boni vel
+mali.
+CO
+Respondeo dicendum quod, sicut species rerum naturalium constituuntur ex naturalibus formis, ita species
+Moralium actuum constituuntur ex formis prout sunt a ratione conceptae, sicut ex supradictis patet.
+Quia vero natura determinata est ad unum, nec potest esse processus naturae in infinitum, necesse est pervenire
+ad aliquam ultimam formam, ex qua sumatur differentia specifica, post quam alia differentia specifica esse non
+possit. Et inde est quod in rebus naturalibus, id quod est accidens alicui rei, non potest accipi ut differentia
+constituens speciem. Sed processus rationis non est determinatus ad aliquid unum, sed quolibet dato, potest
+ulterius procedere.
+Et ideo quod in uno actu accipitur ut circumstantia superaddita obiecto quod determinat speciem actus, potest
+iterum accipi a ratione ordinante ut principalis conditio obiecti determinantis speciem actus. Sicut tollere alienum
+habet speciem ex ratione alieni, ex hoc enim constituitur in specie furti, et si consideretur super hoc ratio loci vel
+temporis, se habebit in ratione circumstantiae. Sed quia ratio etiam de loco vel de tempore, et aliis huiusmodi,
+ordinare potest; contingit conditionem loci circa obiectum accipi ut contrariam ordini rationis; puta quod ratio
+ordinat non esse iniuriam faciendam loco sacro. Unde tollere aliquid alienum de loco sacro addit specialem
+repugnantiam ad ordinem rationis. Et ideo locus, qui prius considerabatur ut circumstantia, nunc consideratur ut
+principalis conditio obiecti rationi repugnans. Et per hunc modum, quandocumque aliqua circumstantia respicit
+specialem ordinem rationis vel pro vel contra, oportet quod circumstantia det speciem actui morali vel bono vel
+malo.
+RA1
+682
+
+

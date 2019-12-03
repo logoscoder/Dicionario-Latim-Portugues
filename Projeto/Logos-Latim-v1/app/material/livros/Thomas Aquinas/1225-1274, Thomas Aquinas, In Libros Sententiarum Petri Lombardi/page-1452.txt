@@ -1,0 +1,57 @@
+|+d6.q2 Distinctio 6, Quaestio 2
+|a0 Prologus
+Deinde quaeritur de ritu baptismi; et circa hoc quaeruntur tria: 1 de ritu ipsius baptismi; 2 de ritu catechismi; 3 de
+ritu exorcismi.
+|a1 Articulus 1: Utrum baptismus iterari possit.
+Articulus 1A
+AG1
+Ad primum sic proceditur. Videtur quod baptismus iterari possit. Quia eucharistia est sacramentum excellentius
+quam baptismus: quia est perfectio, secundum dionysium.
+Sed eucharistia iteratur. Ergo et baptismus iterari potest.
+AG2
+Praeterea, gratia est principalior effectus baptismi quam character. Sed gratia amittitur, quamvis character non
+deleatur. Ergo videtur quod ratione gratiae recuperandae baptismus iterari debeat.
+AG3
+Praeterea, sicut ad unitatem actionis requiritur unitas temporis, ita et unitas agentis. Sed plures possunt aliquem
+simul baptizare, quia unus alium non impedit; et praecipue hoc necessarium est, si unus sit mutus, qui verba
+proferre non possit, et alius mancus, qui non possit immergere.
+Ergo et similiter potest aliquis pluries diversis temporibus baptizari.
+SC1
+Sed contra est quod dicitur Ephes. 4, 5: una fides, unum baptisma. Ergo iterari non debet.
+SC2
+Praeterea, baptismus contra originale datur.
+Sed originale peccatum non iteratur. Ergo nec baptismus iterari debet.
+CO
+Respondeo dicendum, ad primam quaestionem, quod baptismus nullo modo iterari debet propter quatuor
+rationes. Prima sumitur ex morbo contra quem datur, scilicet originale peccatum, quod non iteratur; unde nec
+medicina iterari debet. Secunda sumitur ex re sacramenti: quia in baptismo deletur culpa et poena totaliter. Unde
+si frequenter liceret homini baptismum suscipere, esset quaedam provocatio ad peccandum: quia facilitas veniae
+incentivum praebet delinquendi, ut dicit Gregorius.
+Tertia sumitur ex sua significatione: quia configurat morti Christi, qui semel tantum mortuus est. Quarta sumitur
+ex ipso sacramento, scilicet charactere, qui indelebiliter manet; unde fieret injuria sacramento si baptismus
+iteraretur, quasi prima sanctificatio non suffecisset; et iterum, quia ipsum sacramentum regeneratio quaedam est:
+cujuslibet autem generatio est tantum semel. Quod autem nescitur esse factum, non iteratur. Unde si inveniatur
+pro certo aliquis defectus fuisse in baptismo eorum quae sunt de essentia sacramenti, debet absolute iterum
+baptizari sub hac forma: baptizo te, si non es baptizatus, in nomine patris etc..
+RA1
+Ad primum ergo dicendum, quod sicut in eucharistiae sacramento sanctificatur materia, ita in baptismo
+sanctificatur recipiens characteris impressionem.
+Unde sicut fieret injuria eucharistiae, si hostia consecrata consecraretur iterum; ita fit injuria baptismo, si aliquis
+semel baptizatus iterum baptizaretur: quia sicut ibi sanctificatio refertur ad materiam, ita hic ad suscipientem
+sacramentum.
+RA2
+Ad secundum dicendum, quod quamvis gratia sit dignior effectus baptismi quam character, et sit quodammodo
+principalior; non tamen est ita proprius effectus ejus, et in hoc non ita principalis: quia gratia amissa, per alia
+sacramenta recuperari potest; et ideo non oportet quod ad ipsam recuperandam iteretur baptismus.
+RA3
+Ad tertium dicendum, quod si plures simul immergerent, ita quod uterque diceret, ego te baptizo etc., baptizatum
+esset; quamvis peccarent non servantes ritum ecclesiae: nec tamen essent puniendi tamquam iterantes baptisma,
+nisi hoc intenderent: quia contingit eamdem actionem et ab uno et a pluribus exerceri; non autem contingit
+eamdem actionem esse quae in diversis temporibus fit. Si autem dicant: nos baptizamus te, non erit baptismus:
+quia non servatur debita forma, ut supra, dist. 3, qu. 1, art. 2, quaestiunc. 2, dictum est.
+Similiter non erit baptismus, si unus sit mancus et alius mutus, uno proferente verba, et alio immergente: quia
+ipsa verba formae ostendunt quod ab eodem debet fieri immersio et verborum pronuntiatio.
+Articulus 1B
+1452
+
+

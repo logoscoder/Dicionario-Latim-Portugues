@@ -1,0 +1,59 @@
+|a4 Articulus 4
+AG1
+Ad quartum sic proceditur. Videtur quod gaudium sit virtus.
+Vitium enim contrariatur virtuti. Sed tristitia ponitur vitium, ut patet de acedia et de invidia.
+Ergo etiam gaudium debet poni virtus.
+AG2
+Praeterea, sicut amor et spes sunt passiones quaedam quarum obiectum est bonum, ita et gaudium. Sed amor et
+spes ponuntur virtutes. Ergo et gaudium debet poni virtus.
+AG3
+Praeterea, praecepta legis dantur de actibus virtutum. Sed praecipitur nobis quod de Deo gaudeamus, secundum
+illud ad philipp. IV, gaudete in Domino semper.
+Ergo gaudium est virtus.
+SC
+Sed contra est quod neque connumeratur inter virtutes theologicas, neque inter virtutes morales, neque inter
+virtutes intellectuales, ut ex supradictis patet.
+CO
+Respondeo dicendum quod virtus, sicut supra habitum est, est habitus quidam operativus; et ideo secundum
+propriam rationem habet inclinationem ad aliquem actum. Est autem contingens ex uno habitu plures actus
+eiusdem rationis ordinatos provenire, quorum unus sequatur ex altero. Et quia posteriores actus non procedunt ab
+habitu virtutis nisi per actum priorem, inde est quod virtus non definitur nec denominatur nisi ab actu priori,
+quamvis etiam alii actus ab ea consequantur.
+Manifestum est autem ex his quae supra de passionibus dicta sunt, quod amor est prima affectio appetitivae
+potentiae, ex qua sequitur et desiderium et gaudium. Et ideo habitus virtutis idem est qui inclinat ad diligendum,
+et ad desiderandum bonum dilectum, et ad gaudendum de eo. Sed quia dilectio inter hos actus est prior, inde est
+quod virtus non denominatur a gaudio nec a desiderio, sed a dilectione, et dicitur caritas. Sic ergo gaudium non
+est aliqua virtus a caritate distincta, sed est quidam caritatis actus sive effectus. Et propter hoc connumeratur
+inter fructus, ut patet Gal. V.
+RA1
+Ad primum ergo dicendum quod tristitia quae est vitium causatur ex inordinato amore sui, quod non est aliquod
+speciale vitium, sed quaedam generalis radix vitiorum, ut supra dictum est.
+Et ideo oportuit tristitias quasdam particulares ponere specialia vitia, quia non derivantur ab aliquo speciali vitio,
+sed a generali. Sed amor Dei ponitur specialis virtus, quae est caritas, ad quam reducitur gaudium, ut dictum est,
+sicut proprius actus eius.
+RA2
+Ad secundum dicendum quod spes consequitur ex amore sicut et gaudium, sed spes addit ex parte obiecti
+quandam specialem rationem, scilicet arduum et possibile adipisci; et ideo ponitur specialis virtus. Sed gaudium
+ex parte obiecti nullam rationem specialem addit supra amorem quae possit causare specialem virtutem.
+RA3
+Ad tertium dicendum quod intantum datur praeceptum legis de gaudio inquantum est actus caritatis; licet non sit
+primus actus eius.
+|q29 Quaestio 29
+|a0 Prologus
+Deinde considerandum est de pace. Et circa hoc quaeruntur quatuor. Primo, utrum pax sit idem quod concordia.
+Secundo, utrum omnia appetant pacem. Tertio, utrum pax sit effectus caritatis.
+Quarto, utrum pax sit virtus.
+|a1 Articulus 1
+AG1
+Ad primum sic proceditur. Videtur quod pax sit idem quod concordia.
+Dicit enim Augustinus, XIX de CIV. Dei, quod pax hominum est ordinata concordia.
+Sed non loquimur nunc nisi de pace hominum.
+Ergo pax est idem quod concordia.
+AG2
+Praeterea, concordia est quaedam unio voluntatum.
+Sed ratio pacis in tali unione consistit, dicit enim dionysius, XI cap. De div. Nom., quod pax est omnium unitiva
+et consensus operativa.
+AG3
+1332
+
+

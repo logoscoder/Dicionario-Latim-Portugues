@@ -1,0 +1,62 @@
+RHETORIBUS *ENTHYMEMA* DICITUR. RELIQUI DIALECTICORUM MODI PLURES SUNT, QUI EX
+DISIUNCTIONIBUS CONSTANT: AUT HOC AUT ILLUD; HOC AUTEM; NON IGITUR ILLUD. ITEMQUE:
+AUT HOC AUT ILLUD; NON AUTEM HOC; ILLUD IGITUR. QUAE CONCLUSIONES IDCIRCO RATAE SUNT
+QUOD IN DISIUNCTIONE PLUS UNO VERUM ESSE NON POTEST.
+[14.57] ATQUE EX EIS CONCLUSIONIBUS [1142A] QUAS SUPRA SCRIPSI PRIOR QUARTUS
+POSTERIOR QUINTUS A DIALECTICIS MODUS APPELLATUR. DEINDE ADDUNT CONIUNCTIONUM
+NEGANTIAM SIC: NON ET HOC ET ILLUD; HOC AUTEM; NON IGITUR ILLUD. HIC MODUS EST SEXTUS.
+SEPTIMUS AUTEM: NON ET HOC ET ILLUD; NON AUTEM HOC; ILLUD IGITUR. EX EIS MODIS
+CONCLUSIONES INNUMERABILES NASCUNTUR, IN QUO EST TOTA FERE *DIALEKTIKE*. SED NE HAE
+QUIDEM QUAS EXPOSUI AD HANC INSTITUTIONEM NECESSARIAE.
+Etsi multipliciter superius cuncta digessimus, nec expositionis indiget repetita toties disputatio, erit tamen
+operae pretium, si quam breuissime potero M. Tullii uerbis mediocris lucem commentationis interseram. Septem igitur
+modos hypotheticos enumerans ait, cum in connexis propositionibus id quod [1142B] est primum assumitur, ut
+ostendatur secundum, primum a dialecticis modum uocari, hoc modo: Si hoc est, illud est; quod dicit hoc, primum est,
+quod uero ait illud, secundum. Assumatur ergo quod primum est, atqui hoc est; concluditur igitur id quod secundum
+est, illud igitur est, uelut in his rursus exemplis: si homo est, animal est, assumitur, atqui homo est, concluditur, animal
+igitur est.
+Secundum uero modum ait esse Tullius connexis propositionibus textum, in quo si secundum negatur, sequitur
+ut id etiam quod primum est abnuatur hoc modo;
+Si hoc est, illud est; Illud autem non est, Igitur ne hoc quidem est.
+In exemplis ita: si homo est, animal est; animal autem non est, homo igitur non est. Sed Tullius ita dixit, cum
+id quod annexum est negaris, [1142C] ut id quoque cui fuerit annexum negandum sit, secundum esse modum, quasi
+connexa propositione affirmatiuis partibus iuncta; uniuersaliter autem rectius diceretur, cum id quod annexum est, id
+est secundum, perimitur, perimi iliud quoque cui annexum est, id est primum, ut si affirmatiuum est id quod annexum
+est, negatione perimatur; sin uero negatiuum affirmatione; et de eo quoque cui annexum est, id est primum, idem est ut
+si in connexa propositione affirmetur, in conclusione denegetur, secundum nunc propositum Ciceronis exemplum; si
+uero negatiua sit propositionis prior pars, in conclusione contraria affirmatione tollatur.
+Tertium uero modum ait esse Cicero cum ea quae coniuncta sunt, [1142D] denegantur, et his alia negatio
+rursus ad iungitur, ut quia animal homini coniunctum est, ita dicamus: Non et homo et non animal est, atque ex his
+unum ponitur, ut quod relinquitur auferatur, hoc modo: Ponimus hominem esse, dicentes: Atqui homo est; quod ergo
+relinquitur, non est animal, aufertur, atque concluditur, animal igitur est. Fit argumentatio hoc modo:
+Non et homo est et non animal; Atqui homo est, Animal igitur est.
+Ex his nasci dicit enthymemata ex contrariis conclusa, quibus plurimum rhetores uti solent; atque haec
+enthymemata nuncupantur, non quod eodem nomine omnis inuentio nuncupari non possit (enthymema namque est
+mentis conceptio, quod potest omnibus inuentionibus conuenire) sed quia haec inuenta, quae breuiter ex contrariis
+[1143A] colliguntur, maxime acuta sunt, propter excellentiam speciemque inuentionis commune enthymematis nomen
+proprium factum est, ut haec a rhetoribus quasi proprio nomine enthymemata uocentur. Sicut apud Graecos quoque
+poeta Homerus tantum dicitur, et quisquis ex Homero aliquid profert, ita dicere consueuit: Hunc uersum poeta locutus
+est, et tunc non alius intelligitur praeter Homerum, non quod caeteri non sint poetae sed quod excellentia huius
+commune nomen uertit in proprium. Fiunt uero haec enthymemata hoc modo, ex contrariis uidelicet texta:
+Hunc metuere, alterum in metu non ponere (uelut si de Lentulo et Cethego, caeterisque diceretur) Paucos ciues
+interficere metuis, ne respublica intereat nihil laboras.
+Connexum quippe est [1143B] ut quicumque noluit interire paucos ciues, rempublicam multo magis nolit
+exstingui.
+Quibus cum interponitur negatio, fit ex repugnantibus argumentum. Sed hoc breuiter Tullius enuntiauit, nos
+uero argumentum in syllogismum redigamus, a repugnantibus scilicet, ex quo enthymemata nasci solent, hoc modo: Sit
+connexum, si quis metuit ciues paucos interfici, is metuit interire rempublicam, hic interponitur negatio sic: Si quis
+metuit ciues paucos interfici, is non metuit interire rempublicam, iungitur alia negatio: Non si quis metuit paucos ciues
+interfici, non metuit interire rempublicam. Quae duae negationes uni affirmationi partes sunt, quae dicit: Si quis metuit
+hoc, metuit et illud, cuius quidem assumptio est, at metuit hoc, conclusio sequitur, metuit igitur et [1143C] illud, quae
+tantumdem ualet, si negando interrogetur ita, hoc metuis, illud non metuis. Sed quia non totus (ut supra posuimus) in
+his argumentationibus ponitur syllogismus sed propositio, cuius assumptio et conclusio notae sunt, idcirco enthymema
+dicitur, quasi breuis animi conceptio. Et in caeteris exemplis idem modus est.
+Sed haec quidem Ciceronis similitudo non tam ex repuguantibus quam ex contrariis argumentum intelligitur
+continere. Metuere quippe et non metuere contraria sunt, nisi hoc ipsa uerborum prolatio a contrariis argumentum ad
+repugnantiam retrahat. Nam quod dicit hunc metuere, alterum in metu non ponere, tale est ut repugnantia uideantur.
+Etenim metuere et non metuere contraria sunt. In metu autem non ponere, et metuere, prolatione ipsa tam contraria
+[1143D] quam repugnantia intelliguntur, licet eadem probetur esse sententia.
+His adiecit alia rursus in exempla.
+"Eam quam nihil accusas, damnas." Huius enthymematis talis est integer syllogismus:
+
+

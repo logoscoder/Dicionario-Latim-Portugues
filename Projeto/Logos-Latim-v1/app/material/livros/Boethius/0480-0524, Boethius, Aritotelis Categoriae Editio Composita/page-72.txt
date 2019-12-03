@@ -1,0 +1,62 @@
+Huius enim libri post has geminas commentationes quoddam breuarium facimus, ita ut in quibusdam et fere in omnibus
+Aristotelis ipsius uerbis utamur, tantum quod ille breuitate dixit obscure nos aliquibas additis dilucidiorem seriem
+adiectione faciamus, ut quasi inter textus breuitatem commentationisque diffusionem medius ingrediatur stilus diffuse
+dicta colligens et angustissime scripta diffundens. Atque haec posterius.
+Nunc autem quoniam ab Aristotele supra monstratum est in futuro contingentium propositionum ueritatem et
+falsitatem non stabili neque definita ratione esse diuisam et quidquid supra latissima disputatio complexa est, nunc haec
+eius intentio est, ut categoricarum propositionum numerum tradat, quaecumque cum finito uel infinito nomine
+simpliciter fiunt. Primo enim uolumine dictum est nomen esse ut 'homo', infinitum uero nomen ut 'non homo'.
+Praedicatiuae autem et categoricae propositiones sunt quae duobus tantum simplicibus terminis constant: hae /252/ siue
+cum finito nomine, ut est:
+Homo ambulat
+siue cum nomine infinito, ut est:
+Non homo ambulat
+Harum igitur propositionum categoricarum atque simplicium tradere numerum contendit, quaecumque fiunt
+adiectione nominis infiniti.
+Sed quoniam propositiones omnes aut secundum qualitatem differunt aut secundum quantitatem (secundum
+qualitatem, quod haec quidem affirmatiua est, illa uero negatiua, secundum quantitatem uero, quod haec quidem plura
+complectitur, illa uero pauca): secundum quam differentiam hae propositiones quae dicunt homo ambulat et rursus non
+homo ambulat a se differunt? Secundum qualitatem an secundum quantitatem? Nam quod dico:
+Homo ambulat
+qualitatem quandam substantiae id est hominem ambulare designat et rem definitam atque substantiam
+unamque speciem ambulabilem esse pronuntiat, quod autem dico:
+Non homo ambulat
+nominem quidem rem definitam tollo, innumerabilia uero significo.
+Quare illa quidem quae dicit:
+Homo ambulat
+secundum qualitatem, quae uero:
+Non homo ambulat
+uidebitur secundum quantitatem potius discrepare. An certe illud magis est uerius: [ut et] quod dico:
+Homo ambulat
+'homo' simplex nomen quasi affirmationi est proximum, quod uero dico:
+Non homo ambulat
+'non homo' infinitum nomen negationis uidetur esse consimile? Sed affirmatio et negatio secundum qualitatem
+differunt, haec autem affirmationi sunt negationique similia: qualitate igitur potius quam ulla discrepant quantitate. An
+magis illud est uerius, quod quemadmodum /253/ se habet propositio quae dicit Socrates ambulat ad eam quae dicit
+guidam homo ambulat, ita sese habet homo ambulat ad eam quae dicit non homo ambulat? Propositio namque quae est:
+Quidam homo ambulat
+si plures ambulent, necesse est ut uera sit, si autem plures ambulent, ut:
+Socrates ambulet
+non est necesse. Possunt enim plures ambulare et Socrates non ambulare sed cum plures ambulant, quidam
+homo ambulat. Hoc autem ideo euenit, quia quod dicimus:
+Quidam homo ambulat
+particularitatem iungimus uniuersalitati id est homini et, si qui sub illa uniuersalitate sunt id est sub homine
+ambulante, eam quae dicit:
+Quidam homo ambulat
+ueram esse necesse est. At uero cum dicitur:
+Socrates ambulat
+quoniam Socrates circa unius cuiusdam proprietatem est, nisi ipse Socrates ambulauerit, quamquam omnes
+homines ambulent, non est uerum dicere Socrates ambulat. Sicut ergo:
+Quidam homo ambulat
+indefinita <est,
+Socrates ambulat
+propria ac definita>: sic etiam in eo quod est homo et non homo. Qui dicit:
+Homo ambulat
+dicit quoniam quoddam animal ambulat et hoc nomine et qualitate determinat dicens "Homo ambulat". Qui
+uero dicit:
+Non homo ambulat
+non quidem omnia subruit sed hominem tantum, caetera uero animalia ambulabilia esse pronuntiat. Ergo siue
+equus siue bos siue leo ambulat, uerum est "Non homo ambulat" sed non est uerum "Homo ambulat", si non ipse homo
+ambulat. Quare /254/ quemadmodum se habet "Quidam homo ambulat" ad "Socrates ambulat", quod illic, si plures
+
+

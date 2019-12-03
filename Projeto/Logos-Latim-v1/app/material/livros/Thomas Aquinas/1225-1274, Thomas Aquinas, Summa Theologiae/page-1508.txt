@@ -1,0 +1,60 @@
+Sed fraus et dolus de se habent rationem peccati, ut supra habitum est.
+Ergo furtum videtur esse gravius peccatum quam rapina.
+AG2
+Praeterea, verecundia est timor de turpi actu, ut dicitur in IV ethic..
+Sed magis verecundantur homines de furto quam de rapina. Ergo furtum est turpius quam rapina.
+AG3
+Praeterea, quanto aliquod peccatum pluribus nocet, tanto gravius esse videtur. Sed per furtum potest
+nocumentum inferri et magnis et parvis, per rapinam autem solum impotentibus, quibus potest violentia inferri.
+Ergo gravius videtur esse peccatum furti quam rapinae.
+SC
+Sed contra est quod secundum leges gravius punitur rapina quam furtum.
+CO
+Respondeo dicendum quod rapina et furtum habent rationem peccati, sicut supra dictum est, propter
+involuntarium quod est ex parte eius cui aliquid aufertur; ita tamen quod in furto est involuntarium per
+ignorantiam, in rapina autem involuntarium per violentiam. Magis est autem aliquid involuntarium per
+violentiam quam per ignorantiam, quia violentia directius opponitur voluntati quam ignorantia. Et ideo rapina est
+gravius peccatum quam furtum. Est et alia ratio. Quia per rapinam non solum infertur alicui damnum in rebus,
+sed etiam vergit in quandam personae ignominiam sive iniuriam. Et hoc praeponderat fraudi vel dolo, quae
+pertinent ad furtum.
+RA1
+Unde patet responsio ad primum.
+RA2
+Ad secundum dicendum quod homines sensibilibus inhaerentes magis gloriantur de virtute exteriori, quae
+manifestatur in rapina, quam de virtute interiori, quae tollitur per peccatum.
+Et ideo minus verecundantur de rapina quam de furto.
+RA3
+Ad tertium dicendum quod licet pluribus possit noceri per furtum quam per rapinam, tamen graviora nocumenta
+possunt inferri per rapinam quam per furtum.
+Unde ex hoc etiam rapina est detestabilior.
+|q67 Quaestio 67
+|a0 Prologus
+Deinde considerandum est de vitiis oppositis commutativae iustitiae quae consistunt in verbis in quibus laeditur
+proximus.
+Et primo, de his quae pertinent ad iudicium; secundo, de nocumentis verborum quae fiunt extra iudicium. Circa
+primum quinque consideranda occurrunt, primo quidem, de iniustitia iudicis in iudicando; secundo, de iniustitia
+accusatoris in accusando; tertio, de iniustitia ex parte rei in sua defensione; quarto, de iniustitia testis in
+testificando; quinto, de iniustitia advocati in patrocinando. Circa primum quaeruntur quatuor. Primo, utrum
+aliquis possit iuste iudicare eum qui non est sibi subditus. Secundo, utrum liceat iudicium ferre contra veritatem
+quam novit, propter ea quae sibi proponuntur. Tertio, utrum iudex possit aliquem iuste condemnare non
+accusatum.
+Quarto, utrum licite possit poenam relaxare.
+|a1 Articulus 1
+AG1
+Ad primum sic proceditur. Videtur quod aliquis possit iuste iudicare eum qui non est sibi subditus.
+Dicitur enim Dan. XIII quod Daniel seniores de falso testimonio convictos suo iudicio condemnavit. Sed illi
+seniores non erant subditi Danieli, quinimmo ipsi erant iudices populi.
+Ergo aliquis potest licite iudicare sibi non subditum.
+AG2
+Praeterea, Christus non erat alicuius hominis subditus, quinimmo ipse erat rex regum et Dominus dominantium.
+Sed ipse exhibuit se iudicio hominis. Ergo videtur quod aliquis licite possit iudicare aliquem qui non est subditus
+eius.
+AG3
+Praeterea, secundum iura quilibet sortitur forum secundum rationem delicti. Sed quandoque ille qui delinquit non
+est subditus eius ad quem pertinet forum illius loci, puta cum est alterius dioecesis, vel cum est exemptus. Ergo
+videtur quod aliquis possit iudicare eum qui non est sibi subditus.
+SC
+
+1508
+
+

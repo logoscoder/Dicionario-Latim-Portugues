@@ -1,0 +1,62 @@
+Sed Aristoteles intendit quod intellectus possibilis est virtus animae, quae non est actus alicuius organi, quasi
+habeat operationem suam per organum corporale, sicut potentia visiva est virtus organi habens operationem per
+organum corporale; et quia non habet operationem intellectus possibilis per organum corporale, ideo non oportet
+quod cognoscat ea tantum quae habent affinitatem vel cum toto corpore, vel cum parte corporis.
+RA9
+Ad nonum dicendum quod opinio ponens animam esse compositam ex materia et forma, est omnino falsa et
+improbabilis. Non enim posset esse corporis forma, si esset ex materia et forma composita. Si enim anima esset
+forma corporis secundum formam suam tantum, sequeretur quod una et eadem forma perficeret diversas materias
+diversorum generum, scilicet materiam spiritualem animae et materiam corporalem; quod est impossibile, cum
+proprius actus sit propriae potentiae. Et praeterea illud compositum ex materia et forma non esset anima, sed
+forma eius. Cum enim dicimus animam, intelligimus id quod est corporis forma. Si vero forma animae esset
+forma corporis mediante materia propria, sicut color est actus corporis mediante superficie, ut sic tota anima
+possit dici corporis forma, hoc est impossibile: quia per materiam intelligimus id quod est in potentia tantum;
+quod autem est in potentia tantum, non potest esse alicuius actus, quod est esse formam. Si vero aliquis nomine
+materiae intelligat aliquem actum, non est curandum: quia nihil prohibet quod id quod vocamus actum, aliquis
+vocet materiam; sicut quod nos vocamus lapidem, aliquis potest vocare asinum.
+RA10
+Ad decimum dicendum quod sicut fluvius sequana non est hic fluvius propter hanc aquam fluentem, sed propter
+hanc originem et hunc alveum, unde semper dicitur idem fluvius, licet sit alia aqua defluens; ita est idem populus
+non propter identitatem animae aut hominum, sed propter eamdem habitationem, vel magis propter easdem leges
+et eumdem modum vivendi, ut Aristoteles dicit in III politic..
+RA11
+Ad undecimum dicendum quod tempus comparatur ad unum tantum motum, sicut accidens ad subiectum;
+scilicet ad motum primi mobilis, quo mensurantur omnes alii motus. Ad alios autem motus comparatur sicut
+mensura ad mensuratum; sicut ulna comparatur ad virgam ligneam sicut ad subiectum, ad pannum autem qui per
+eam mensuratur, sicut ad mensuratum tantum; et ideo non sequitur quod unum accidens sit in multis subiectis.
+RA12
+Ad duodecimum dicendum quod visus non fit per radios extra missos secundum veritatem rei; sed Augustinus
+hoc dicit secundum opinionem aliorum. Hoc tamen posito, anima vegetaret radios quantumcumque extra missos,
+non quasi extranea corpora, sed in quantum continuantur cum corpore proprio.
+RA13
+Ad decimumtertium dicendum quod sicut ex praedictis patet, res intellecta non individuatur nec multiplicatur
+nisi ex parte operationis intellectualis. Non est autem inconveniens quod a re intellecta, in quantum est intellecta,
+adhuc abstrahitur res intellecta simpliciter; sicut ab hoc intelligente abstrahitur intellectus simpliciter. Nec hoc
+praeiudicat rationi universalitatis. Accidit enim homini aut intentioni speciei, quod intelligatur a me.
+Unde non oportet quod de intellectu hominis aut intentione speciei sit quod intelligatur a me vel ab illo.
+RA14
+Ad decimumquartum dicendum quod consensus in prima principia non causatur ex unitate intellectus possibilis,
+sed ex similitudine naturae, ex qua omnes in idem inclinamur; sicut omnes oves consentiunt in hoc quod
+existimant lupum inimicum, nullus tamen diceret in eis unam tantum animam esse.
+RA15
+Ad decimumquintum dicendum quod esse individuale non repugnat ei quod est esse intellectum in actu: quia
+substantiae separatae sunt intellectae in actu, cum tamen sint individuae; alioquin non haberent actiones, quae
+sunt singularium. Sed habere esse materiale, repugnat ei quod est esse intellectum in actu; et ideo formae
+individuales quae individuantur per materiam, non sunt intellectae in actu, sed in potentia tantum. Anima autem
+intellectiva non sic individuatur per materiam ut fiat forma materialis, praecipue secundum intellectum,
+secundum quem transcendit materiae corporalis proportionem; sed eo modo individuatur secundum materiam
+corporalem ut dictum est, in quantum scilicet habet habitudinem ut sit forma huius corporis. Unde per hoc non
+tollitur quin intellectus possibilis hominis huius sit intellectum in actu, et similiter ea quae recipiuntur in ipso.
+Et per hoc patet solutio ad duo sequentia.
+|a10 Articulus 10
+TTA
+Decimo quaeritur utrum intellectus agens sit unus omnium hominum.
+TTB
+Et videtur quod sic.
+AG1
+Illuminare enim homines est proprium Dei, secundum illud Ioan. I: erat lux vera quae illuminat etc.. Sed hoc
+pertinet ad intellectum agentem, ut patet in III de anima.
+Ergo intellectus agens est Deus.
+42
+
+

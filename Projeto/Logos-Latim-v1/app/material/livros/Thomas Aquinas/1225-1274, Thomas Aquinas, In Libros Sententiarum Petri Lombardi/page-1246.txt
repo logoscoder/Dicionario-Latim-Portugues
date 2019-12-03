@@ -1,0 +1,58 @@
+RA5
+Ad quintum dicendum, quod in contrariis non semper est consequentia in ipso, sed quandoque consequentia e
+contrario: quod contingit praecipue in illis quae sunt ordinata ad invicem secundum perfectum et magis
+perfectum; et ideo illud quod de perfectione majoris boni diminuit, est minus malum quam hoc quod etiam
+ipsum parvum bonum quod restat, tollit.
+RA6
+Ad sextum dicendum, quod sicut ratio speculativa procedit ad conclusionem ex principiis per se notis, ita ratio
+prudentiae procedit ad electionem et consilium de his quae sunt ad finem, ex fine; et ideo dicuntur fines aliarum
+virtutum esse principia prudentiae. Hi tamen fines praeexistunt in ratione essentialiter: quia ad hoc tendit virtus
+moralis ut appetitus rationi concordet; unde his finibus maxime prudentia quae rationem perficit, est affinis.
+
+|+d33.q3 Distinctio 33, Quaestio 3
+|a0 Prologus
+Deinde quaeritur de partibus virtutum cardinalium; et circa hoc quaeruntur quatuor: 1 de partibus prudentiae; 2
+de partibus temperantiae; 3 de partibus fortitudinis; 4 de partibus justitiae.
+|a1 Articulus 1: An memoria praeteritorum, intelligentia praesentium, et providentia futurorum sint partes
+prudentiae, sicut dicit tullius.
+Articulus 1A
+AG1
+Ad primum sic proceditur. Videtur quod partes prudentiae a tullio male assignentur. Dividit enim prudentiam in
+memoriam praeteritorum, et intelligentiam praesentium et providentiam futurorum. Providentia enim, secundum
+Philosophum in 6 ethic., non se extendit ultra humana bona. Sed intelligentia est etiam divinorum. Ergo non
+potest esse pars prudentiae.
+AG2
+Praeterea, ad prudentem, ut dicitur in 6 ethic., praecipue pertinet bene consiliari.
+Sed consilium non est de praeteritis. Cum igitur memoria sit praeteritorum, videtur quod memoria non sit pars
+prudentiae.
+AG3
+Praeterea, providentia idem videtur quod prudentia. Ergo non debet ei assignari ut pars.
+CO
+Respondeo dicendum ad primam quaestionem, quod omne totum ad tria genera reducitur, scilicet universale,
+integrale et potentiale; et similiter pars triplex invenitur dictis tribus respondens.
+Integralis enim pars intrat in constitutionem totius, sicut paries domus; universalis vero totius pars suscipit totius
+praedicationem, sicut homo animalis; potentialis vero pars neque praedicationem totius recipit, neque in
+constitutionem ipsius oportet quod veniat, sed aliquid de potentia totius participat, sicut patet in anima.
+Rationalis enim anima tota anima dicitur, eo quod in ipsa omnes animae potentiae congregantur. Sensibilis vero
+in brutis, et in plantis vegetabilis, dicuntur partes animae, quia aliquid de potentia animae habent, sed non totum.
+Unde dicitur in Lib. De plantis, quod non habent animam, sed partes animae.
+Et secundum hunc modum tripliciter assignantur partes prudentiae et aliis virtutibus. Uno enim modo
+assignantur ei partes quasi integrales, cum scilicet partes virtutis alicujus ponuntur aliqua quae exiguntur ad
+virtutem, in quibus perfectio virtutis consistit; et hae partes, proprie loquendo, non nominant per se virtutes, sed
+conditiones unius virtutis integrantes ipsam. Alio modo per modum partium subjectivarum; et sic partes illae
+nominant quidem virtutes, et ad invicem distinctas, sed non quidem a toto, cujus partes assignantur, quia illud de
+eis praedicatur. Tertio modo per modum totius potentialis, inquantum scilicet aliquae virtutes participant aliquid
+de modo qui principaliter et perfecte invenitur in aliqua virtute; et hoc patebit per singula. Sic igitur dico, quod
+partes quas assignat tullius prudentiae, sunt partes integrales. Quia enim prudentia circa particularia operabilia
+est, in quibus universalia principia dirigunt propter eorum contingentiam et varietatem; oportet, sicut dicitur de
+scientiis in libro posteriorum, ex eodem genere principia accipere, ut ex similitudine aliorum factorum de his
+quae facere oportet, recte ratiocinetur prudens; et ideo indiget experientia et tempore, ut ex his quae fuerunt,
+quae memoria tenet, et ex his quae intelligentia respicit, de futuris provideat. Memoria enim est, secundum
+ipsum, per quam animus repetit illa quae fuerunt; intelligentia per quam prospicit ea quae sunt; providentia per
+quam aliquid futurum videtur antequam factum sit. Unde providentia est completiva et formalis pars prudentiae;
+aliae vero quasi materiales ad ipsam reducuntur.
+RA1
+
+1246
+
+

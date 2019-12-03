@@ -1,0 +1,64 @@
+Et dividitur in partes duas: in prima ostendit quod ad divisionem
+magnitudinis sequitur divisio temporis, et e converso; in secunda ostendit
+quod ex infinitate unius sequitur infinitas alterius, ibi: et si quodcumque
+infinitum est etc..
+Circa primum duo facit: primo ponit propositum; secundo demonstrat, ibi: si
+enim omnis etc..
+Dicit ergo primo quod etiam tempus necesse est similiter esse divisibile et
+indivisibile, et componi ex indivisibilibus, sicut longitudo et motus.
+|#2
+Deinde cum dicit: si enim omnis etc., probat propositum tribus
+rationibus: quarum prima sumitur per aeque velocia; secunda per velocius et
+tardius, ibi: quoniam autem omnis etc.; tertia per idem mobile, ibi:
+amplius autem et ex consuetis etc..
+Dicit ergo primo quod de ratione aeque velocis est, quod minorem
+magnitudinem transeat in minori tempore. Detur ergo aliqua magnitudo
+divisibilis, quam pertransit aliquod mobile in aliquo tempore dato:
+sequitur ergo quod mobile aeque velox transeat partem magnitudinis in
+minori tempore; et sic oportuit tempus datum esse divisibile. Si autem e
+converso detur quod tempus sit divisibile, in quo mobile datum movetur per
+magnitudinem aliquam datam, sequitur quod aeque velox mobile in minori
+tempore, quod est pars totius temporis, moveatur per minorem magnitudinem:
+et ita sequitur quod magnitudo quae est a sit divisibilis.
+|#3
+Deinde cum dicit: quoniam autem omnis etc., ostendit idem per duo
+mobilia, quorum unum est velocius et aliud tardius.
+Et primo praemittit quaedam necessaria ad propositum ostendendum; secundo
+probat propositum, ibi: quoniam autem omnis quidem motus etc..
+Circa primum duo facit: primo ostendit quomodo velocius se habet ad tardius
+in hoc quod moveatur per maiorem magnitudinem; secundo quomodo se habeat ad
+ipsum quantum ad hoc quod est moveri per aequalem magnitudinem, ibi:
+manifestum autem ex his etc..
+Circa primum duo facit: primo proponit propositum, resumens quoddam ex
+superioribus, quod est necessarium ad demonstrationes sequentes; secundo
+demonstrat propositum, ibi: sit enim ipsum etc..
+|#4
+Resumit ergo hoc, quod omnis magnitudo sit divisibilis in
+magnitudines.
+Et hoc patet per hoc quod ostensum est supra, quod impossibile est aliquod
+continuum componi ex atomis, idest ex indivisibilibus; et manifestum est
+quod magnitudo omnis est de genere continuorum. Ex his sequitur quod
+necesse sit aliquod corpus velocius in aequali tempore per maiorem
+magnitudinem moveri; et etiam in minori tempore per maiorem magnitudinem
+moveri. Et hoc modo quidam definierunt velocius, quod plus movetur in
+aequali tempore et etiam in minori.
+|#5
+Deinde cum dicit: sit enim ipsum etc., probat duo praemissa.
+Et primo quod velocius in aequali tempore per maius spatium moveatur;
+secundo quod etiam in minori tempore per maius spatium movetur, ibi: at
+vero et in minori etc..
+Dicit ergo primo: sint duo mobilia a et b, quorum a velocius sit quam b; et
+sit magnitudo cd, quam pertransit a in tempore zi. Moveatur autem b quod
+est tardius, et a quod est velocius, per eandem magnitudinem, et incipiant
+simul moveri.
+His ergo positis, sic argumentatur. Velocius est quod in aequali tempore
+plus movetur: sed a est velocius quam b: ergo cum a pervenerit ad d, b
+nondum pervenit ad d, quod est terminus magnitudinis, sed adhuc deficiet,
+idest distabit ab eo; motum tamen erit in hoc tempore per aliquam partem
+magnitudinis.
+Cum ergo omnis pars sit minor toto, relinquitur quod a in tempore zi
+movetur per maiorem magnitudinem quam b, quod in eodem tempore movetur per
+partem magnitudinis.
+211
+
+

@@ -1,0 +1,78 @@
+uero reliquorum fuerit praedicatum uni uerum, alteri faciet adesse mendacium. Nunquam uero in his concors ueritas
+inuenitur.
+In particularibus uero affirmationibus siquidem ea praedicentur, quae [792A] cum separari possint, tum uel
+maiora sunt ut iustus homine, uel minora ut grammaticus homine, communis affirmationes ueritates obtinebit. Alia uero
+quaelibet praedicatio unam ueram, alteram semper faciet esse mendacem sed nunquam communiter mentientur.
+In negationibus uero particularibus hic modus est, ut siue ea quae adesse non rossunt, ut lapis homini, siue
+quae possum ac poterunt segregari, cum tamen eorum aliud maius sit, ut iustitia homine, aiitld minus, ut grammaticus
+homine, praedicentur, ueritas utrisque constabit. Quidquid uero absque hic praedicabitur, ueritatem uni, alteri diuides
+falsitatem, simul tamen falsas esse non euenit. Item descriptio supponatur quae priore parte simplicibus collocatis, eas
+quae conuerso ordine subiectum cum negatione proponunt contraria fronte constituat.
+SIMPLICES
+Omnis homo animal est.
+Nullus homo animal est.
+Quidam homo animal est.
+Quidam homo animal non est.
+Omnis homo risibilis est.
+Nullus homo risibilis est.
+Quidam homo risibilis est.
+Quidam homo risibilis non est.
+Omnis homo lapis est.
+Nullus homo lapis est.
+Quidam homo lapis est.
+Quidam homo lapis non est.
+Omnis homo iustus est.
+Nullus homo iustus est.
+Quidam homo iustus est.
+Quidam homo iustus non est.
+Omnis homo grammaticus est.
+Nullus homo grammaticus est.
+Quidam homo grammaticus est.
+Quidam homo grammaticus non est.
+
+CONVERSAE DE SUBIECTO INFINITO
+Omne non animal homo est.
+Nullum non animal homo est.
+Quoddam non animal homo est.
+Quoddam non animal homo non est.
+Omne non risibile homo est.
+Nullum non risibile homo est.
+Quoddam non risibile homo est.
+Quoddam non risibile homo non est.
+Omnis non lapis homo est
+Nullus non lapis homo est.
+Quidam non lapis homo est.
+Quidam non lapis homo non est.
+Omnis non iustus homo est.
+Nullus non iustus homo est.
+Quidam non iustus homo est.
+Quidam non iustus homo non est.
+Omnis non grammaticus homo est.
+Nullus non grammaticus homo est.
+Quidam non grammaticus homo est.
+Quidam non grammaticus homo non est.
+
+[793A] Superius igitur descriptarum enuntiationum affirmationes quidem uniuersales, siue de subiecto
+praedicentur quae ab eo nunquam ualeant amoueri, siue illud maius sit, ut animal homine, seu aequale ut risibile
+homini, seu tale quod subiecto nullo modo possit obtingere ut lapis homini, uni ueritatem dispartient, alteri falsitatem.
+At si quod absque his praedicabitur, utrasque falsitas obtinebit, communi autem propositionum ueritati locus esse non
+poterit.
+At in negationibus quidem uniuersalia et maiora praedicentur, seu ea quae relinquere subiectum nequeant ut
+animal hominem, seu quae possint ut iustitia hominem, utrisque falsitas inhaeredit. Aliae quaelibet praedicamenta
+unam ueram faciunt, alteram falsam, ita ut communis utraeque ueritatis non possint esse [793B] participes.
+At in particularibus affirmationibus quidem, siquidem maiora de subiecto praedicentur, quae uel nunquam
+subiecti coniunctione diicedant ut animal homine, uel etiam segregentur ut iustitia ab homine, respondebit utraque
+ueritatem; caeterae uero [794A] praedicationes ueritatem propositionibus falsitatemue distribuunt in commune
+participantibus falsitatem.
+Particulares uero negationes, siquidem ea praedicent quae possint a subiecto separari, siue illud maius sit ut
+iustitia homine, seu minus ut grammaticus homine, ueras utrasque esse recesse est. Si quid uero extra praedicabitur, uni
+oportet uerum, alteri adesse mendacium, ut simul falsae nequeant inueniri.
+Atque haec quidem de his propositionibus quae cum determinatione proferuntur dicta sunt.
+Quae uero indefinitae sunt, quoniam particularium proprietatibus adaequantur, eadem omnia comparatae
+uniuersalibus obtinebunt quae in superiore descriptione particularium propositionum ordo seruauit.
+Restarent subiectorum singularium propositiones, de quibus, quoniam [794D] et longum est dicere, et nihil ad operis
+propositi affert utilitatem, et sibi ipse exemplo earum quas superius proposuimus easdem lector inueniet,
+praetereundum uidetur.
+This Text fits in with PL 64: 761C - 794D.
+
+

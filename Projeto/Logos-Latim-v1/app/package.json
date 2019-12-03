@@ -1,0 +1,13 @@
+{
+  "name": "Logos Latim",
+  "version": "1.0",
+  "description": "Logos Latim",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Jessé Silva aka logoscoder",
+  "devDependencies": {
+    "electron": "^3.0.0"
+  }
+}

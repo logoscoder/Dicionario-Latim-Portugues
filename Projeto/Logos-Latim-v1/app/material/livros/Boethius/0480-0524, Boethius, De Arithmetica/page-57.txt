@@ -1,0 +1,54 @@
+altrinsecus positis terminis vel paribus vel inparibus permutare ita, ut, cum arithmeticam ponimus medietatem,
+differentiarum tantum ratio aequalitasque servetur, cum vero geometricam, rata se proportionum iunctura
+custodiat, sin autem armonica fiat, differentiarum comparatio ab terminorum proportione non discrepet. Et sint
+quidem primo pares positae quaedam extremitates, inter quas has omnes medietates oporteat internectere, x et xl.
+Prius igitur arithmetica medietas aptetur. Inter hos ergo si xxv posuero, erit mihi arithmetica proportio
+differentiarum quantitate inmutabiliter custodita, in huiusmodi scilicet dispositione: x xxv xl. Vides enim, ut
+quindena sese summulae quantitate transcendant; omnesque proprietates, quas supra diximus in medietate
+arithmetica convenire, ab hac huiusmodi dispositione non repperies alienas. Namque quemadmodum
+unusquisque eorum terminus ad se ipsum est, quoniam sibi aequalis est, ita sunt ad se invicem differentiae,
+quoniam sibi sunt aequales; et quanto maior terminus medium transit, tanto medias vincit minorem; et
+extremitatum adgregatio duplex est medietate; et minorum terminorum proportio maior est illa comparatione,
+quae inter maiores terminos continetur; et tanto minor est numerus, qui fit ex multiplicatis extremitatibus, ab eo,
+qui fit ex multiplicata medietate, quantum eorum differentiae multiplicatae restituunt; illud quoque quod
+medietas eadem sui parte et a maiore vincitur et minorem ipsa supervenit, non eadem autem parte minoris
+minorem transit vel maioris a maiore relinquitur. Quae omnes scilicet proprietates non alterius nisi arithmeticae
+medietatis sunt, quod, si superius dicta meminerit lector, ita esse indubitanter intelleget.
+Rursus si inter eosdem x et xl xx constituam, statim geometrica medietas cum suis proprietatibus cunctis
+exoritur, arithmetica medietate pereunte. In hac enim dispositione x xx xl quemadmodum est maior ad medium,
+sic medius ad extremum; et quod continetur ab extremitatibus, aequum est ei, quod a multiplici medietate
+conpletur. Differentiae quoque eorum in eadem sunt proportione qua termini. Crementum vero et inminutio
+proportionum secundum terminos nulla est, sed maiorum terminorum proportio a minorum terminorum
+proportione non discrepat.
+Si vero armonicam medietatem coniungere velim, xvj mihi numerus inter extremitates utrasque ponendus
+est, ut sit hoc modo: x xvj xl. Nunc igitur licet in huiusmodi dispositione omnes armonicas proprietates
+agnoscere. Qua enim maximus ad parvissimum terminus proportione coniungitur, eadem proportione differentiae
+ad se invicem comparantur. Et quibus partibus maioris a maiore medius vincitur, eisdem partibus minoris
+praeterit minorem; suis vero non eisdem vel a maiore vincitur vel transit minorem; et in maioribus terminis
+maior est proportio, in minoribus minor; et si in unum extremitates redigantur et medietatis quantitate
+concrescant, duplus inde conficitur numerus ab eo, qui ex solis multiplicatis extremitatibus procreatur.
+Atque hoc quidem in terminis paribus constitutum est. At vero si inpares proponantur, ut sunt v et xlv
+aptatus medius xxv arithmeticam proportionem medietatemque constituet. Nam si sint v xxv xlv eadem sese
+numerorum quantitate termini transgredientur. Et omnis superius dicta proprietas arithmeticae medietatis in his
+terminis custoditur. Sed si xv numerum medium ponam, ut sint v xv xlv, in geometricam medietatem termini
+relabuntur aequalibus terminorum ad se invicem proportionibus custoditis. VIIII vero si inter utrosque terminos
+ponam, ut sint v viiij xlv, fit armonica medietas, ut qua summa maximus numerus parvissimum praecedit, eadem
+maior differentia minorem differentiam vincat.
+Qua vero disciplina huiusmodi medietates repperire possimus expediendum est. Datis duobus terminis si
+arithmeticam medietatem constituere oportebit, utraque est extremitas coniungenda quodque ex ea copulatione
+colligitur dividendum, isque numerus, qui ex divisioneredactus est, arithmeticam medietatem inter extremitates
+locatus efficiet; ut x et xl si iunxero, efficiunt l, quos si dividam, xxv redduntur. Hic erit medius terminus
+secundum arithmeticam proportionem. Vel si illum numerum, quo maior minorem superat, dividas eumque
+minori superponas quodque inde concrescit medium ponas, arithmetica medietas informatur. Nam xl denarium
+tricenario superat, quem si dividas xv fiunt. Hunc si minori, id est denario, superposueris xx et v nascentur.
+Quem si medium constituas, arithmeticae medietatis ordo formatur. Geometricam vero si rationem vestiges, eius
+numeri, qui sub utrisque extremitatibus continetur, tetragonicum latus inquire, et hunc medium pone. Nam sub xl
+et denario numero cccc continentur. Si enim denarium in xl multiplices, hic numerus crescit. Horum igitur
+quadringentorum require tetragonicum latus. Hi sunt xx Vicies enim xx cccc efficiunt. Repertum ergo latus
+quadratum medium constitues. Vel si eam proportionem, quam inter se dati termini custodiunt, dividas et id
+quod relinquitur medium terminum ponas. Namque xl ad denarium quadruplus est. Igitur quadruplum si dividas,
+duplum facies, qui est scilicet xx. Nam xx ad denarium duplus est. Hunc si medium constituas, medietatem
+geometricam perferet. Armonicam vero medietatem tali modo repperies. Differentiam terminorum in minorem
+57
+
+

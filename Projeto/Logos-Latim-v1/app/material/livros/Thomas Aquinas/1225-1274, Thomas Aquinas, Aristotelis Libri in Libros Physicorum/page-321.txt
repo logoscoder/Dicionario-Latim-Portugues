@@ -1,0 +1,65 @@
+aliquod primum movens seipsum perpetuum: sed motor illius moventis seipsum,
+non est perpetuum et unum, sed movetur a diversis moventibus, quorum
+quaedam corrumpuntur et quaedam generantur.
+Sed hoc intendit excludere: quia si motus est perpetuus, ut supra
+probaverat, necesse est quod motus primi moventis seipsum, quod ponitur
+causa totius perpetuitatis motus, sit sempiternus et continuus: si enim non
+esset continuus, non esset sempiternus. Sed quod consequenter est, non est
+continuum: ad hoc autem quod motus sit continuus, necesse est quod sit
+unus: ad hoc vero quod sit unus, necesse est quod sit ab uno movente et
+unius mobilis. Si vero sit aliud et aliud movens, non erit totus motus
+continuus, sed consequenter se habens.
+Necesse est ergo omnino quod primum movens sit unum et perpetuum. Movens
+autem immobile quod movetur per accidens, non est perpetuum, ut supra
+dictum est. Relinquitur ergo quod primum movens sit omnino immobile, et per
+se et per accidens.
+|+13
+
+Lectio 13
+
+|#1
+Postquam Philosophus ostendit quod primum movens est perpetuum et
+omnino immobile, ratione sumpta ex perpetuitate generationis et
+corruptionis animalium, quae movent seipsa; hic intendit idem ostendere,
+ratione sumpta ex principiis moventibus.
+Et circa hoc tria facit: primo commemorat ea quae dicta sunt a principio
+huius tractatus; secundo ex praemissis accipit rationem ad propositum, ibi:
+ex quibus est scire etc.; tertio concludit solutionem cuiusdam dubitationis
+supra motae, ibi: manifestum igitur factum est ex dictis etc..
+|#2
+Circa primum tria resumit: primo destructionem quarundam
+improbabilium positionum.
+Et dicit quod non solum ex praemissis potest aliquis scire quod est aliquod
+primum movens immobile, sed etiam per considerationem principiorum motus.
+Et sicut supra dictum est, manifestum est ad sensum quod in rebus
+naturalibus inveniuntur quaedam, quae aliquando moventur et aliquando
+quiescunt.
+Et ex hoc manifestatum est supra quod nulla trium positionum est vera:
+neque illa quae dicit quod omnia moventur semper; neque illa quae dicit
+quod omnia quiescunt semper; neque illa quae dicit quod omnia quae
+quiescunt, quiescunt semper, et omnia quae moventur, moventur semper. Huius
+enim rei veritatem demonstrant illa quae sub utroque inveniuntur, scilicet
+motu et quiete, dum habent potentiam ut quandoque moveantur et quandoque
+quiescant.
+|#3
+Secundo ibi: quoniam autem huiusmodi etc., commemorat processum supra
+habitum ad investigandum primum motorem immobilem.
+Et dicit quod quia ista quae quandoque moventur et quandoque quiescunt,
+sunt omnibus manifesta: ne iterum aliquis sequeretur quartam positionem,
+ponens omnia entia esse huiusmodi ut quandoque moveantur et quandoque
+quiescant; volumus demonstrare duplicem naturam diversam, ostendentes
+scilicet quod quaedam sunt quae sunt semper immobilia, et iterum quod
+quaedam sunt quae semper moventur.
+Et circa hoc procedentes, proposuimus primo quod omne quod movetur, movetur
+ab aliquo; et quod necesse est hoc a quo aliquid movetur, aut esse immobile
+aut moveri; et si movetur, aut a seipso aut ab alio. Et cum non sit
+procedere in infinitum ut ab alio moveatur, oportet devenire ad hoc quod
+sit quoddam primum principium motus: ita quidem quod in genere eorum quae
+moventur, est primum principium quod movet seipsum; sed ulterius
+simpliciter inter omnia, primum principium est quod est immobile. Nec debet
+reputari inconveniens quod aliquid moveat seipsum: quia videmus manifeste
+esse multa talia in genere animatorum et animalium.
+
+321
+
+

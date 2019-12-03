@@ -1,0 +1,62 @@
+PR5
+Quinto utrum in ratione superiori possit esse veniale peccatum.
+PR6
+Sexto utrum in sensualitate possit esse peccatum veniale.
+PR7
+Septimo utrum homo in statu innocentiae potuerit peccare venialiter.
+PR8
+Octavo utrum primi motus in infidelibus sint peccata venialia.
+PR9
+Nono utrum Angelus bonus vel malus possit peccare venialiter.
+PR10
+Decimo utrum peccatum veniale sine caritate puniatur poena aeterna.
+PR11
+Undecimo utrum aliqua peccata venialia remittantur post hanc vitam in Purgatorio.
+PR12
+Duodecimo utrum peccata venialia remittantur hic per aspersionem aquae benedictae.
+|a1 Articulus 1
+TTA
+Et primo quaeritur utrum veniale peccatum convenienter dividatur contra mortale.
+TTB
+Et videtur quod non.
+AG1
+Quia ut Augustinus dicit XXII contra faustum, peccatum est dictum vel factum vel concupitum contra legem
+aeternam.
+Sed omne peccatum quod est contra legem aeternam, est mortale. Ergo omne peccatum est mortale. Non ergo
+recte dividitur peccatum in mortale et veniale.
+AG2
+Praeterea, peccatum meretur poenam secundum suam rationem. Poenae autem contrariatur venia, quae tollit
+ipsam. Ergo veniale repugnat rationi peccati. Sed nulla differentia divisiva generis repugnat ei. Ergo peccatum
+non potest convenienter dividi per mortale et veniale.
+AG3
+Praeterea, quicumque inordinate convertitur, convertitur ad aliquod bonum commutabile.
+Sed qui convertitur ad bonum commutabile, avertitur ab incommutabili; quia qui accedit ad unum terminum,
+recedit ab altero in quolibet motu. Ergo quicumque peccat, avertitur a bono incommutabili. Hoc autem est
+peccare mortaliter. Ergo quicumque peccat, peccat mortaliter. Non ergo peccatorum aliud est mortale et aliud
+veniale.
+AG4
+Praeterea, omne peccatum consistit in aliquo inordinato amore creaturae. Sed quicumque amat, aut amat ut utens
+aut ut fruens.
+Qui autem amat creaturam ut utens, non peccat, quia refert eam ad finem beatitudinis, quod est uti, ut beatus
+Augustinus dicit in I de doct. Christ.. Si autem amat creaturam ut fruens ea, peccat mortaliter, quia constituit
+finem ultimum in creatura. Ergo amans creaturam vel non peccat, vel peccat mortaliter; et sic idem quod prius.
+AG5
+Praeterea, eorum quae ex opposito dividuntur unum non transit in alterum, numquam enim albedo fit nigredo,
+neque e converso.
+Sed veniale fit mortale: dicit enim quaedam Glossa super beati quorum remissae sunt iniquitates psalm. XXXI,
+1: nihil est adeo veniale quin possit fieri mortale dum placet. Ergo veniale non debet dividi contra mortale.
+AG6
+Praeterea, si non placet, non est peccatum, quia non est voluntarium; si autem placet, est mortale, ut patet per
+Glossam inductam.
+Ergo aut non est peccatum aut est mortale.
+AG7
+Praeterea, quod disponit ad aliquid, non dividitur contra illud: quia unum oppositorum non disponit ad alterum.
+Sed veniale disponit ad mortale. Ergo veniale non debet dividi contra mortale.
+AG8
+Praeterea, Anselmus dicit in Lib. Cur Deus homo, quod debitum est quod voluntas creaturae rationalis sit subdita
+voluntati divinae: hoc qui tollit, tollit honorem Deo debitum et eum dehonorat. Sed dehonorare Deum est peccare
+mortaliter. Quicumque autem peccat, hoc modo dehonorat Deum, quia non subiicit suam voluntatem voluntati
+divinae. Ergo quicumque peccat, peccat mortaliter.
+130
+
+

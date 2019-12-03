@@ -1,0 +1,64 @@
+|#3
+Deinde cum dicit: in circulo autem etc., prosequitur quantum ad aliam
+partem dubitationis, scilicet de motu circulari et recto.
+Et primo obiicit ad hoc quod motus circularis sit aeque velox motui recto;
+secundo obiicit in contrarium, ibi: at vero si sunt comparabilia etc..
+Circa primum duo facit: primo obiicit ad propositum; secundo excludit
+cavillosam responsionem, ibi: amplius nihil differt etc..
+Obiicit autem primo sic. Motus circularis et rectus sunt differentiae motus
+localis, sicut et motus sursum et deorsum. Sed statim necesse est quod
+aliquid velocius aut tardius moveatur, si unum movetur sursum, aliud
+deorsum; vel etiam si idem quandoque movetur sursum, quandoque deorsum.
+Videtur ergo quod similiter oporteat dicere quod motus rectus sit velocior
+aut tardior circulari; sive idem sit quod movetur circulariter et recte,
+sive aliud et aliud.
+Est autem considerandum quod in hac ratione non facit mentionem de aeque
+veloci, sed de velociori et tardiori, quia haec ratio sumitur ex
+similitudine motus qui est sursum, cuius principium est Levitas, et motus
+qui est deorsum, cuius principium est gravitas; quidam autem existimaverunt
+gravitatem et levitatem idem esse velocitati et tarditati (quod in quinto
+removit)p
+|#4
+Deinde cum dicit: amplius nihil differt etc., excludit quandam
+cavillosam obviationem. Posset enim aliquis propter rationem praemissam
+concedere quod motus circularis esset aut velocior aut tardior quam rectus,
+non autem aeque velox.
+Et hoc excludit, dicens quod nihil differt quantum ad praesentem rationem,
+si aliquis dicat quod necessarium est quod id quod movetur circulariter,
+moveatur velocius aut tardius quam id quod movetur recte; quia secundum hoc
+motus circularis erit maior vel minor in velocitate quam rectus; unde
+sequitur quod etiam esse possit aequalis.
+Et quod hoc sequatur manifestat sic. Sit a tempus in quo aliquid velocius
+motum pertranseat ipsum b, qui est circulus: aliud autem tardius in eodem
+tempore pertranseat ipsum c, quod est recta linea. Quia ergo velocius in
+eodem tempore pertransit maius, sequetur quod b circulus sit aliquid maius
+quam c linea recta: sic enim supra in sexto definivimus velocius. Sed
+ibidem etiam diximus quod velocius in minori tempore pertransit aequale.
+Ergo erit accipere aliquam partem huius temporis quod est a, in qua corpus
+quod circulariter movetur, pertransibit aliquam partem huius circuli quod
+est b, et in eadem parte temporis pertransibit ipsum c; cum tamen corpus
+tardius in toto a tempore pertransiret totum c. Sequetur ergo quod illa
+pars circuli sit aequalis toti c, quia idem pertransit aequale in aequali
+tempore.
+Et sic linea circularis erit aequalis rectae, et motus circularis per
+consequens aeque velox recto.
+|#5
+Deinde cum dicit: at vero si sunt comparabilia etc., obiicit in
+contrarium.
+Quia si motus circularis et rectus sunt comparabiles in velocitate,
+sequitur quod modo dictum est, scilicet quod linea recta sit aequalis
+circulo, propter hoc quod aeque velox est quod per aequale movetur. Sed
+linea circularis et linea recta non sunt comparabiles, ut possint dici
+aequales: ergo neque motus circularis et rectus possunt dici aeque veloces.
+|#6
+Deinde cum dicit: sed quaecumque non aequivoca etc., solvit
+propositam dubitationem.
+Et primo inquirit in communi quid cui sit comparabile; secundo adaptat ad
+propositum, ibi: sic et circa motum etc..
+Circa primum tria facit: primo ponit unum quod requiritur ad comparationem;
+secundo secundum, ibi: aut quia sunt in alio etc.; tertio concludit
+tertium, ibi: sic ergo non solum oportet etc..
+
+269
+
+

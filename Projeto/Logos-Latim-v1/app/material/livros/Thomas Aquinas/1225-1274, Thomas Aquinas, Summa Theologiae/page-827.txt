@@ -1,0 +1,60 @@
+AG3
+Praeterea, simile augetur suo simili. Sed quilibet actus est similis habitui a quo procedit. Ergo quilibet actus
+auget habitum.
+SC
+Sed contra, idem non est contrariorum causa.
+Sed, sicut dicitur in II ethic., aliqui actus ab habitu procedentes diminuunt ipsum; utpote cum negligenter fiunt.
+Ergo non omnis actus habitum auget.
+CO
+Respondeo dicendum quod similes actus similes habitus causant, ut dicitur in II ethic..
+Similitudo autem et dissimilitudo non solum attenditur secundum qualitatem eandem vel diversam; sed etiam
+secundum eundem vel diversum participationis modum. Est enim dissimile non solum nigrum albo, sed etiam
+minus album magis albo, nam etiam motus fit a minus albo in magis album, tanquam ex opposito in oppositum,
+ut dicitur in V physic..
+Quia vero usus habituum in voluntate hominis consistit, ut ex supradictis patet; sicut contingit quod aliquis
+habens habitum non utitur illo, vel etiam agit actum contrarium; ita etiam potest contingere quod utitur habitu
+secundum actum non respondentem proportionaliter intensioni habitus.
+Si igitur intensio actus proportionaliter aequetur intensioni habitus, vel etiam superexcedat; quilibet actus vel
+auget habitum, vel disponit ad augmentum ipsius; ut loquamur de augmento habituum ad similitudinem
+augmenti animalis. Non enim quodlibet alimentum assumptum actu auget animal, sicut nec quaelibet gutta cavat
+lapidem, sed, multiplicato alimento, tandem fit augmentum. Ita etiam, multiplicatis actibus, crescit habitus. Si
+vero intensio actus proportionaliter deficiat ab intensione habitus, talis actus non disponit ad augmentum habitus,
+sed magis ad diminutionem ipsius.
+RA
+Et per hoc patet responsio ad obiecta.
+|q53 Quaestio 53
+|a0 Prologus
+Deinde considerandum est de corruptione et diminutione habituum. Et circa hoc quaeruntur tria. Primo, utrum
+habitus corrumpi possit. Secundo, utrum possit diminui.
+Tertio, de modo corruptionis et diminutionis.
+|a1 Articulus 1
+AG1
+Ad primum sic proceditur. Videtur quod habitus corrumpi non possit. Habitus enim inest sicut natura quaedam,
+unde operationes secundum habitum sunt delectabiles. Sed natura non corrumpitur, manente eo cuius est natura.
+Ergo neque habitus corrumpi potest, manente subiecto.
+AG2
+Praeterea, omnis corruptio formae vel est per corruptionem subiecti, vel est a contrario, sicut aegritudo
+corrumpitur corrupto animali, vel etiam superveniente sanitate.
+Sed scientia, quae est quidam habitus, non potest corrumpi per corruptionem subiecti, quia intellectus, qui est
+subiectum eius, est substantia quaedam, et non corrumpitur, ut dicitur in I de anima.
+Similiter etiam non potest corrumpi a contrario, nam species intelligibiles non sunt ad invicem contrariae, ut
+dicitur in VII metaphys..
+Ergo habitus scientiae nullo modo corrumpi potest.
+AG3
+Praeterea, omnis corruptio est per aliquem motum.
+Sed habitus scientiae, qui est in anima, non potest corrumpi per motum per se ipsius animae, quia anima per se
+non movetur.
+Movetur autem per accidens per motum corporis. Nulla autem transmutatio corporalis videtur posse corrumpere
+species intelligibiles existentes in intellectu, cum intellectus sit per se locus specierum, sine corpore, unde
+ponitur quod nec per senium nec per mortem corrumpuntur habitus. Ergo scientia corrumpi non potest. Et per
+consequens, nec habitus virtutis, qui etiam est in anima rationali, et, sicut Philosophus dicit in I ethic., virtutes
+sunt permanentiores disciplinis.
+SC
+Sed contra est quod Philosophus dicit, in libro de longitudine et brevitate vitae, quod scientiae corruptio est
+oblivio et deceptio.
+Peccando etiam aliquis habitum virtutis amittit. Et ex contrariis actibus virtutes generantur et corrumpuntur, ut
+dicitur II ethic..
+CO
+827
+
+

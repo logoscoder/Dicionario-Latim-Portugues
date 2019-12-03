@@ -1,0 +1,63 @@
+Sed dicendum, quod genera et species in genere substantiae subsistunt, eo quod eorum est subsistere, ut boetius
+dicit, in lib.
+De duabus naturis. Sed contra, subsistere nihil aliud est quam per se existere.
+Quod ergo existit solum in alio, non subsistit. Sed genera et species sunt solum in alio: sunt enim solum in primis
+substantiis, quibus interemptis, impossibile est aliquid aliorum remanere, ut dicitur in praedicamentis.
+Non est ergo subsistere, generum et specierum, sed solum individuorum in genere substantiae; et sic remanet
+quod subsistentia sit idem quod hypostasis.
+AG6
+Praeterea, boetius dicit, quod ousia id est essentia, significat compositum ex materia et forma.
+Hoc autem oportet esse individuum: nam materia est individuationis principium.
+Ergo essentia significat individuum; et sic idem est persona, hypostasis, essentia, et subsistentia.
+AG7
+Praeterea, essentia est quam significat definitio, cum per definitionem sciatur quid est res. Definitio autem rei
+naturalis, quae est ex materia et forma composita, non solum continet formam, sed etiam materiam, ut patet per
+Philosophum.
+Ergo essentia est aliquid compositum ex materia et forma.
+AG8
+Sed dicendum, quod essentia significat naturam communem, alia vero tria, scilicet subsistentia, hypostasis et
+persona, significant individuum in genere substantiae. Sed contra universale et particulare inveniuntur in quolibet
+genere. In aliis autem generibus non distinguitur nomen particularis et universalis: eodem enim nomine
+nominatur qualitas aut quantitas, sive sit universalis sive sit particularis.
+Ergo nec in genere substantiae debent esse distincta nomina ad significandum substantiam universalem et
+particularem: et sic videtur quod praedicta nomina non differant.
+SC1
+Sed contra. Est quod boetius dicit in commento praedicamentorum quod ousia id est essentia, significat
+compositum ex materia et forma; ousiosis id est subsistentia, significat formam; hypostasis vero materiam.
+Ergo praedicta differunt.
+SC2
+Praeterea, idem videtur ex hoc quod idem auctor assignat praedictorum nominum differentiam in Lib. De duobus
+naturis.
+CO
+Respondeo. Dicendum quod Philosophus ponit substantiam dupliciter dici: dicitur enim uno modo substantia
+ipsum subiectum ultimum, quod non praedicatur de alio: et hoc est particulare in genere substantiae; alio modo
+dicitur substantia forma vel natura subiecti. Huius autem distinctionis ratio est, quia inveniuntur plura subiecta in
+una natura convenire, sicut plures homines in una natura hominis. Unde oportuit distingui quod est unum, ab eo
+quod multiplicatur: natura enim communis est quam significat definitio indicans quid est res; unde ipsa natura
+communis, essentia vel quidditas dicitur.
+Quidquid ergo est in re ad naturam communem pertinens, sub significatione essentiae continetur, non autem
+quidquid est in substantia particulari, est huiusmodi. Si enim quidquid est in substantia particulari ad naturam
+communem pertineret, non posset esse distinctio inter substantias particulares eiusdem naturae. Hoc autem quod
+est in substantia particulari praeter naturam communem, est materia individualis quae est singularitatis
+principium, et per consequens accidentia individualia quae materiam praedictam determinant.
+Comparatur ergo essentia ad substantiam particularem ut pars formalis ipsius, ut humanitas ad socratem. Et ideo
+in rebus, ex materia et forma compositis, essentia non est omnino idem quod subiectum; unde non praedicatur de
+subiecto: non enim dicitur quod socrates sit una humanitas.
+In substantiis vero simplicibus, nulla est differentia essentiae et subiecti, cum non sit in eis materia individualis
+naturam communem individuans, sed ipsa essentia in eis est subsistentia. Et hoc patet per Philosophum et per
+Avicennam, qui dicit, in sua metaphysica, quod quidditas simplicis est ipsum simplex.
+Substantia vero quae est subiectum, duo habet propria: quorum primum est quod non indiget extrinseco
+fundamento in quo sustentetur, sed sustentatur in seipso; et ideo dicitur subsistere, quasi per se et non in alio
+existens. Aliud vero est quod est fundamentum accidentibus substentans ipsa; et pro tanto dicitur substare.
+Sic ergo substantia quae est subiectum, in quantum subsistit, dicitur ousiosis vel subsistentia; in quantum vero
+substat, dicitur hypostasis secundum Graecos, vel substantia prima secundum Latinos. Patet ergo quod
+hypostasis et substantia differunt ratione, sed sunt idem re.
+Essentia vero in substantiis quidem materialibus non est idem cum eis secundum rem, neque penitus diversum,
+cum se habeat ut pars formalis; in substantiis vero immaterialibus est omnino idem secundum rem, sed differens
+ratione. Persona vero addit supra hypostasim determinatam naturam: nihil enim est aliud quam hypostasis
+rationalis naturae.
+RA1
+
+224
+
+

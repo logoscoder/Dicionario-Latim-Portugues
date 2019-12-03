@@ -1,0 +1,62 @@
+Praeterea, Commentator dicit in III de anima, quod intellectus qui semper est in actu, non cognoscit privationem
+omnino. Sed intellectus Dei maxime semper est in actu. Ergo nullam privationem cognoscit.
+Sed malum est privatio boni, ut Augustinus dicit. Ergo Deus non cognoscit malum.
+AG4
+Praeterea, quidquid cognoscitur, cognoscitur vel per simile, vel per contrarium. Sed essentiae Dei, per quam
+Deus omnia cognoscit, malum non est simile: neque etiam est ei contrarium, quia ei nocere non potest: malum
+autem dicitur quia nocet. Ergo Deus non cognoscit mala.
+AG5
+Praeterea, illud quod non est addiscibile, non est scibile. Sed, sicut dicit Augustinus in libro de libero arbitrio,
+malum non est addiscibile: per disciplinam enim non nisi bona discuntur. Ergo malum non est scibile; ergo non
+est cognitum a Deo.
+AG6
+Praeterea, qui scit grammaticam, grammaticus est. Ergo qui scit malum, malus est.
+Sed Deus non est malus; ergo nescit mala.
+SC1
+Sed contra. Nullus potest ulcisci quae ignorat. Sed Deus est ultor malorum. Ergo cognoscit mala.
+SC2
+Praeterea, nullum bonum deest Deo. Sed scientia malorum bona est, quia per eam mala vitantur. Ergo Deus
+habet scientiam de malis.
+CO
+Responsio. Dicendum, quod secundum Philosophum in IV metaphysicorum, qui non intelligit aliquid unum,
+nihil intelligit. Per hoc autem aliquid est unum, quod est in se indivisum, et ab aliis distinctum; unde oportet
+quod quicumque cognoscit aliquid quod sciat distinctionem eius ab aliis.
+Prima autem ratio distinctionis est in affirmatione et negatione: et ideo oportet quod quicumque scit
+affirmationem, cognoscat negationem; et quia privatio nihil aliud est quam negatio subiectum habens, ut dicitur
+in IV metaphysicor., et alterum contrariorum semper est privatio, ut dicitur in eodem, et in I physic., inde est
+quod ex hoc ipso quod cognoscitur aliquid, cognoscitur eius privatio et eius contrarium.
+Unde, cum Deus habeat propriam cognitionem de omnibus suis effectibus, unumquodque prout est in sua natura
+distinctum, cognoscens; oportet quod omnes negationes et privationes oppositas cognoscat, et omnes
+contrarietates in rebus repertas; unde, cum malum sit privatio boni, oportet quod ex hoc ipso quod scit quodlibet
+bonum et mensuram cuiuscumque, quod cognoscat quodlibet malum.
+RA1
+Ad primum ergo dicendum, quod propositio illa habet veritatem de scientia quae habetur de re per suam
+similitudinem. Malum autem non cognoscitur a Deo per suam similitudinem, sed per similitudinem sui oppositi;
+unde non sequitur quod Deus sit causa malorum, quia cognoscit mala; sed sequitur quod sit causa boni, cui
+opponitur malum.
+RA2
+Ad secundum dicendum, quod non ens, ex hoc ipso quod opponitur enti, dicitur quodammodo ens, ut patet in IV
+metaphys.; unde et ex hoc ipso quod bono opponitur malum, habet rationem cognoscibilis et veri.
+RA3
+Ad tertium dicendum, quod opinio Commentatoris fuit, quod Deus cognoscens essentiam suam non determinate
+cognosceret singulos effectus, prout sunt in propria natura distincti; sed solummodo cognosceret naturam
+essendi, quae in omnibus invenitur. Malum autem non opponitur universali enti, sed enti particulari; unde ex hoc
+sequitur quod malum non cognosceret.
+Sed haec positio falsa est, ut ex praedictis patet; unde et hoc quod sequitur, scilicet quod privationem et mala non
+cognoscat.
+Secundum enim intentionem Commentatoris, privatio non cognoscitur ab intellectu nisi per absentiam formae ab
+intellectu, quae non potest esse in intellectu qui semper est in actu. Sed hoc non est necessarium, quia ex hoc
+ipso quod cognoscitur res, cognoscitur privatio rei; unde utrumque cognoscitur per praesentiam formae in
+intellectu.
+RA4
+Ad quartum dicendum, quod oppositio unius ad aliud potest accipi dupliciter: uno modo in generali, sicut
+dicimus malum opponi bono; et hoc modo malum opponitur Deo: alio modo in speciali, prout dicimus hoc
+album opponi huic nigro; et sic non est oppositio mali nisi ad illud bonum quod potest per malum privari, et cui
+potest esse nocivum; et sic malum non opponitur Deo.
+Unde Augustinus dicit in libro XII de civitate Dei, quod vitium opponitur Deo tamquam malum bono; sed
+naturae, quam vitiat, non solum opponitur ut malum bono, sed etiam ut nocivum.
+RA5
+
+65
+
+

@@ -1,0 +1,54 @@
+|#23 Et quia ista sunt inconvenientia, igitur manifestum est quod si in definitione accipiantur differentiae, una
+erit ultima, scilicet quae est species et substantia, idest quae substantiam et speciem definiti comprehendet, et ab
+eius unitate definitio erit una.
+|#24 Deinde cum dicit si vero ostendit, quod hoc non potest dici si differentiae per accidens sumantur; dicens,
+quod si aliquis in dividendo et definiendo accipiat differentiam secundum accidens, sicut si dividatur quod
+habentium pedes, aliud est album, aliud est nigrum, tot erunt ultimae differentiae, quot factae sunt divisiones;
+quia una earum alteram non includet.
+Et de differentiis sic sumptis, procedebat ratio superius inducta contra unitatem definitionis. Huiusmodi enim
+differentiae sic per accidens acceptae non essent unum nisi subiecto; quod non sufficit ad unitatem definitionis.
+|#25 Deinde cum dicit quare palam concludit propositum.
+Et circa hoc duo facit. Primo ponit conclusionem; dicens, quod palam est ex praedictis quod quamvis in
+definitione ponatur genus et differentia, tamen definitio est ratio ex differentiis tantum, quia genus non est
+praeter differentias, ut supra dictum est. Et quamvis ponantur multae differentiae in definitione, tamen tota
+definitio dependet et constituitur ex ultima, quando fit divisio secundum rectum, idest a communiori ad minus
+commune descendendo secundum per se differentias, et non accipiendo quasi a latere differentias per accidens.
+|#26 Secundo ibi, palam autem manifestat conclusionem inductam per quoddam signum, dicens, palam autem
+erit, scilicet quod tota definitio constituatur ex ultima differentia, ex hoc quod, si quis transponat partes talium
+definitionum, sequetur inconveniens. Sicut si aliquis dicat definitionem hominis esse animal bipes, habens pedes.
+Ex quo enim dictum est bipes, superfluum est apponere, pedes habens. Sed si diceretur primo pedes habens,
+adhuc restaret inquirendum, utrum esset bipes, dividendo pedes habens.
+|#27 Ex hoc patet quod illae differentiae, secundum quod sunt multae, habent inter se ordinem determinatum.
+Non autem hoc potest intelligi quod in substantia rei sit aliquis ordo. Non enim potest dici, quod hoc substantiae
+sit prius, et illud posterius; quia substantia est tota simul et non per successionem, nisi in quibusdam defectivis,
+sicut sunt motus et tempus.
+|#28 Unde patet quod multae partes definitionis non significant multas partes essentiae ex quibus essentia
+constituatur sicut ex diversis; sed omnes significant unum quod determinatur ultima differentia.
+Patet etiam ex hoc, quod cuiuslibet speciei est una tantum forma substantialis; sicut leonis una est forma per
+quam est substantia, et corpus, et animatum corpus, et animal, et leo. Si enim essent plures formae secundum
+omnia praedicta, non possent omnes una differentia comprehendi, nec ex eis unum constitueretur.
+|#29 Concludit ergo finaliter recapitulando, quod nunc primo tot sint dicta de definitionibus quae accipiuntur
+secundum divisiones generis in differentias, et differentiae in differentias quales quaedam sunt, quia videlicet
+sunt ex his quae praedicantur per se, et continentes in se partes speciei, et etiam unaquaeque est unum. Haec
+enim in praecedentibus de definitionibus sunt ostensa. Dicit autem primum, quia in sequentibus de definitione et
+quod quid est, aliqua determinantur.
+|+13 Lectio 13
+|#1 Postquam determinavit Philosophus de substantia secundum quod substantia dicitur quod quid est, hic
+determinat de substantia secundum quod universale a quibusdam dicitur substantia; et circa hoc duo facit.
+Primo continuat se ad praecedentia.
+Secundo prosequitur suam intentionem, ibi, videtur autem impossibile.
+Dicit ergo primo, quod quia in ista scientia est principalis perscrutatio de substantia, oportet iterum redire ad
+divisionem substantiae, ut videatur quid est dictum, et quid restat dicendum. Dicitur autem substantia, ut ex
+praedictis patet, id quod est tamquam subiectum, scilicet materia, quae se habet ad formam substantialem sicut
+subiectum, quod est substantia completa, ad formam accidentalem. Et alio modo dicitur substantia quod quid erat
+esse, quod pertinet ad formam. Tertio modo dicitur substantia quod ex his, idest compositum ex materia et
+forma. Et quarto modo dicitur substantia a quibusdam universale.
+|#2 Haec autem divisio substantiae hic posita in idem redit cum divisione posita in principio huius septimi, licet
+videatur esse diversa. Ibi enim posuit quatuor: scilicet subiectum, quod quid erat esse, et universale, et genus: et
+subiectum divisit in tria: scilicet in materiam et formam et compositum. Et, quia iam manifestum est quod quod
+quid erat esse se tenet ex parte formae, ponit quod quid erat esse, loco formae. Item, quia genus commune eadem
+ratione ponitur substantia qua et universale, ut ostendetur, concludit utrumque sub uno modo: et sic remanent
+tantum quatuor modi, qui hic ponuntur.
+228
+
+

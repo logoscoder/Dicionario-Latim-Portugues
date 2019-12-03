@@ -1,0 +1,56 @@
+'homo fuit albus' praedicatum non potest supponere pro his quae sunt sed tantum pro his quae fuerunt.
+Unde generaliter praedicatum in illa de praeterito non supponit pro aliquo alio quam pro illo quod fuit, et in illa
+de futuro pro eo quod erit, et in illa de possibili pro eo quod potest esse. Cum hoc tamen requiritur quod
+ipsummet praedicatum praedicetur de illo pro quo subiectum supponit, modo praedicto.
+'homo fuit albus' praedicatum non potest supponere pro his quae sunt sed tantum pro his quae fuerunt.
+Unde generaliter praedicatum in illa de praeterito non supponit pro aliquo alio quam pro illo quod fuit, et in illa
+de futuro pro eo quod erit, et in illa de possibili pro eo quod potest esse. Cum hoc tamen requiritur quod
+ipsummet praedicatum praedicetur de illo pro quo subiectum supponit, modo praedicto.
+Ad secundum dubium dicendum est quod de uirtute sermonis est concedendum, si nullus homo est
+albus et si nullus homo cantat missam et si Deus non creat, quod in praedictis propositionibus subiecta pro nullo
+supponunt. Et tamen sumuntur significatiue, quia 'sumi significatiue' uel 'supponere personaliter' potest dupliciter
+contingere: uel quia pro aliquo significato terminus supponit, uel quia denotatur supponere pro aliquo uel quia
+denotatur non supponere pro aliquo. Nam semper in propositionibus talibus affirmatiuis denotatur terminus
+supponere pro aliquo, et ideo si pro nullo supponit est propositio falsa. In propositionibus autem negatiuis
+denotatur terminus non supponere pro aliquo, uel supponere pro aliquo a quo uere negatur praedicatum, et ideo
+talis negatiua habet duas causas ueritatis. Sicut ista 'homo albus non est' habet duas causas ueritatis: uel quia
+homo non est, et ideo non est albus; uel quia homo est, et tamen non est albus. In ista autem propositione 'homo
+albus est homo', si nullus homo sit albus subiectum sumitur significatiue et personaliter, non quia supponit pro
+aliquo, sed quia denotatur supponere pro aliquo; et ideo quia pro nullo supponit, cum tamen denotetur supponere
+pro aliquo, est propositio simpliciter falsa.
+Ad secundum dubium dicendum est quod de uirtute sermonis est concedendum, si nullus homo est
+albus et si nullus homo cantat missam et si Deus non creat, quod in praedictis propositionibus subiecta pro nullo
+supponunt. Et tamen sumuntur significatiue, quia 'sumi significatiue' uel 'supponere personaliter' potest dupliciter
+contingere: uel quia pro aliquo significato terminus supponit, uel quia denotatur supponere pro aliquo uel quia
+denotatur non supponere pro aliquo. Nam semper in propositionibus talibus affirmatiuis denotatur terminus
+supponere pro aliquo, et ideo si pro nullo supponit est propositio falsa. In propositionibus autem negatiuis
+denotatur terminus non supponere pro aliquo, uel supponere pro aliquo a quo uere negatur praedicatum, et ideo
+talis negatiua habet duas causas ueritatis. Sicut ista 'homo albus non est' habet duas causas ueritatis: uel quia
+homo non est, et ideo non est albus; uel quia homo est, et tamen non est albus. In ista autem propositione 'homo
+albus est homo', si nullus homo sit albus subiectum sumitur significatiue et personaliter, non quia supponit pro
+aliquo, sed quia denotatur supponere pro aliquo; et ideo quia pro nullo supponit, cum tamen denotetur supponere
+pro aliquo, est propositio simpliciter falsa.
+Et ideo si aliquid prius dictum uideatur isti repugnare, intelligendum est in propositione affirmatiua et
+uera, quia semper in propositione affirmatiua et uera, si terminus stet personaliter, supponit pro aliquo
+significato, secundum modum praeexpositum.
+Et ideo si aliquid prius dictum uideatur isti repugnare, intelligendum est in propositione affirmatiua et
+uera, quia semper in propositione affirmatiua et uera, si terminus stet personaliter, supponit pro aliquo
+significato, secundum modum praeexpositum.
+Et si dicatur: ista non stant simul 'supponit' et 'pro nullo supponit', quia sequitur 'supponit, igitur pro
+aliquo supponit', dicendum est quod non sequitur, sed sequitur 'supponit, igitur denotatur pro aliquo supponere,
+uel denotatur pro nullo supponere'.
+Et si dicatur: ista non stant simul 'supponit' et 'pro nullo supponit', quia sequitur 'supponit, igitur pro
+aliquo supponit', dicendum est quod non sequitur, sed sequitur 'supponit, igitur denotatur pro aliquo supponere,
+uel denotatur pro nullo supponere'.
+Ad tertium dicendum quod tales propositiones 'equus tibi promittitur',
+'uiginti librae tibi debentur' de uirtute sermonis sunt falsae, quia quaelibet singularis est falsa, ut patet
+inductiue. Tamen si termini tales ponantur a parte praedicati, possunt aliquo modo concedi. Et tunc oportet
+dicere quod termini sequentes talia uerba uirtute illorum uerborum habent suppositionem confusam tantum, et
+ideo non contingit descendere disiunctiue ad singularia sed tantum per disiunctum praedicatum, connumerando
+non tantum praesentia sed etiam futura. Unde non sequitur
+'promitto tibi equum, ergo promitto tibi hunc equum uel promitto tibi illum equum', et sic de singulis
+praesentibus; sed bene sequitur 'promitto tibi equum, igitur promitto tibi hunc equum uel illum uel illum', et sic
+de singulis, connumerando omnes, tam praesentes quam futuros, et hoc quia omnia talia uerba aequiualenter
+134
+
+

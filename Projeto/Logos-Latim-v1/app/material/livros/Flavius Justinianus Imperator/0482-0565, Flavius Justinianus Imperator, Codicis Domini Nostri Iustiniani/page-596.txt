@@ -1,0 +1,62 @@
+Liber duodecimus
+* 12.1.0. De dignitatibus.
+* 12.2.0. De praetoribus et honore praeturae et gleba et folli et septem solidorum functione sublata.
+* 12.3.0. De consulibus et non spargendis ab his pecuniis et de praefectis et magistris militum (..)
+* 12.4.0. De praefectis praetorio sive urbis et magistris militum in dignitatibus exaequandis.
+* 12.5.0. De praepositis sacri cubiculi et de omnibus cubiculariis et privilegiis eorum.
+* 12.6.0. De quaestoribus magistris officiorum comitibus sacrarum largitionum et rei privatae.
+* 12.7.0. De primicerio et secundocerio et notariis.
+* 12.8.0. Ut dignitatum ordo servetur.
+* 12.9.0. De magistris scriniorum.
+* 12.10.0. De comitibus consistorianis.
+* 12.11.0. De comitibus et tribunis scholarum.
+* 12.12.0. De comitibus rei militaris.
+* 12.13.0. De comitibus et archiatris sacri palatii.
+* 12.14.0. De comitibus qui provincias regunt.
+* 12.15.0. De professoribus qui in urbe Constantinopolitana docentes ex lege meruerint comitivam.
+* 12.16.0. De decurionibus et silentiariis.
+* 12.17.0. De domesticis protectoribus.
+* 12.18.0. De praepositis labarum.
+* 12.19.0. De proximis sacrorum scriniorum ceterisque qui in sacris scriniis militant.
+* 12.20.0. De agentibus in rebus.
+* 12.21.0. De principibus agentum in rebus.
+* 12.22.0. De curiosis.
+* 12.23.0. De palatinis sacrarum largitionum et rerum privatarum.
+* 12.24.0. De stratoribus.
+* 12.25.0. De castrensianis et ministerianis.
+* 12.26.0. De decanis.
+* 12.27.0. De mensoribus.
+* 12.28.0. De privilegiis eorum qui in sacro palatio militant.
+* 12.29.0. De privilegiis scholarum.
+* 12.30.0. De castrensi omnium palatinorum peculio.
+* 12.31.0. De equestri dignitate.
+* 12.32.0. De perfectissimatus dignitate.
+* 12.33.0. Qui militare possunt vel non et de servis ad militiam vel dignitatem adspirantibus (..)
+* 12.34.0. Negotiatores ne militent.
+* 12.35.0. De re militari.
+* 12.36.0. De castrensi peculio militum et praefectianorum.
+* 12.37.0. De erogatione militaris annonae.
+* 12.38.0. De excoctione et translatione militarium annonarum.
+* 12.39.0. De militari veste.
+* 12.40.0. De metatis et epidemeticis.
+* 12.41.0. De salgamo hospitibus non praebendo.
+* 12.42.0. De commeatu.
+* 12.43.0. De tironibus.
+* 12.44.0. De litorum et itinerum custodia.
+* 12.45.0. De desertoribus et occultatoribus eorum.
+* 12.46.0. De veteranis.
+* 12.47.0. De filiis officialium militarium qui in bello moriuntur.
+* 12.48.0. De oblatione votorum.
+* 12.49.0. De numerariis actuariis et chartulariis et adiutoribus scriniariis et exceptoribus sedis (..)
+* 12.50.0. De cursu publico angariis et parangariis.
+* 12.51.0. De tractoriis et stativis.
+* 12.52.0. De apparitoribus praefectorum praetorio et privilegiis eorum.
+* 12.53.0. De apparitoribus praefecti urbis.
+* 12.54.0. De apparitoribus magistrorum militum et privilegiis eorum.
+* 12.55.0. De apparitoribus proconsulis et legati.
+* 12.56.0. De apparitoribus comitis Orientis.
+* 12.57.0. De cohortalibus principibus corniculariis et primipilaribus.
+* 12.58.0. De apparitoribus praefecti annonae.
+596
+
+

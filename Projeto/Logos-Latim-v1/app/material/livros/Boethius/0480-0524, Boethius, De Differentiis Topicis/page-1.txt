@@ -1,0 +1,60 @@
+ANICII MANLII SEVERINI BOETHII
+DE DIFFERENTIIS TOPICIS
+LIBER PRIMUS
+[1173B] Omnis ratio disserendi, quam *logicen* Peripatetici ueteres appellauere, in duas distribuitur partes
+unam inueniendi, alteram iudicandi. Et ea quidem pars quae iudicium purgat atque instruit, ab illis analytice uocata, a
+nobis potest resolutoria nuncupari. Ea uero quae inueniendi facultatem subministrat, a Graecis *topice*, a nobis localis
+dicitur. Ac de illa quidem parte quae iudicandi magistra est, alias [1173C] disputabitur.
+Nunc uero consilium est aperire qui sint loci, quae eorum differentiae, qui etiam quibus apti sint syllogismis.
+Nec id simpliciter atque uniformiter uidetur esse faciendum, uerum duplex est tradenda partitio, una quidem ex Graecis
+uoluminibus eruta, altera uero ex M. Tullii Topicis sumpta. Atque in his illud ad perfectionem speculationis est
+astruendum, ut quibus utraque modis diuisio differat, quibusque conueniat explicetur, quoque modo altera alteram
+uicissim possit includere.
+Et nunc quidem non in singulis immorabimur sed de tota diuisione communiter disseremus, locorum tantum
+ex quibus argumenta nascuntur definitiones, exempla differentiasque colligentes. Singula uero pro qualitate operis
+diligentius, uel his octo uoluminibus expedita sunt, quibus Aristotelis Topica in Latinam uertimus [1173D] orationem,
+uel his septem quibus M. Tullii Topicis lucem plenae expositionis insudauimus. Illic igitur cuncta sunt propriis atque
+enodatis partibus expedita; hic uero quae alias per membra patefacta sunt, communi speculatione tractantur.
+Nec dialecticos solum locos sed etiam rhetoricos, quoue hi inter se atque dialecticis differant, cura est
+exsequendi, ut omnibus undique locis plena consideratione propositis, [1174B] eorumque differentiis inter se et
+communitatibus pernotatis et argumentorum copia comparetur, et locorum clara possit esse distinctio.
+Ut igitur cuncta perspicuis rationibus constent, paulo altius ordiendum est. Propositio est oratio uerum
+falsumue significans, ut si quis dicat caelum esse uolubile, haec et enuntiatio et proloquuium nuncupatur. Quaestio est
+in dubitationem ambiguitatemque adducta propositio, ut si quis quaerat an caelum sit uolubile. [1174C]
+Conclusio est argumentis approbata propositio, ut si quis caelum ab aliis rebus probet esse uolubile. Enuntiatio
+quippe, siue sui tantum causa dicatur, siue ad aliud afferatur approbandum propositio est: si de ipsa quaeritur, quaestio;
+si ipsa est approbata, conclusio. Idem est igitur propositio, quaestio et conclusio sed differunt modo supra dicto.
+Argumentum est ratio rei dubiae faciens fidem. Non uero idem est argumentum et argumentatio: nam uis
+sententiae ratioque ea quae clauditur oratione cum aliquid probatur ambiguum, argumentum uocatur; ipsa uero
+argumenti elocutio argumentatio dicitur. Quo fit ut argumentum quidem uirtus, et mens argumentationis sit atque
+sententia; argumentatio uero, argumenti per orationem [1174D] explicatio.
+Locus autem sedes est argumenti, uel id unde ad propositam quaestionem conueniens trahitur argumentum.
+Quae cum ita sint, singulorum natura diligentius tractanda est, eorumque per species ac membra, ut diximus,
+figurasque diuisio facienda est.
+Ac prius de propositione asserendum est. Hanc esse diximus orationem, ueritatem uel mendacium
+continentem. Huius duae sunt species, affirmatio una, altera uero negatio. Affirmatio si [1175A] quis sic efferat:
+Caelum uolubile est
+Negatio si quis ita pronuntiet:
+Caelum uolubile non est
+Harum uero aliae sunt uniuersales, aliae particulares, aliae indefinitae, aliae singulares. Uniuersales quidem ut
+si quis ita proponat:
+Omnis homo iustus est
+Nullus homo iustus est
+Particulares uero si quis hoc modo dicat:
+Quidam homo iustus est
+Quidam homo iustus non est
+Indefinitae hoc modo:
+Homo iustus est
+Homo iustus non est
+Singulares uero sunt quae indiuiduum aut quid singulare proponunt, ut:
+Cato iustus est
+Cato iustus non est
+etenim Cato indiuiduus est ac singularis.
+Harum uero alias praedicatiuas alias conditionales uocamus.
+Praedicatiuae sunt quae simpliciter proponuntur, id est quibus nulla uis conditionis adiungitur, ut si quis
+caelum esse uolubile simpliciter [1175B] dicat. At si conditio huic copuletur, fit ex duabus propositionibus una
+conditionalis, hoc modo:
+Caelum si rotundum est, uolubile est.
+Hic enim conditio id efficit, ut ita demum caelum uolubile esse intelligatur, si sit rotundum.
+
+

@@ -1,0 +1,62 @@
+Si est homo, lapis non est; Si lapis non est, non est inanimatum; Atqui non est inanimatum;
+non necesse est esse hominem.
+[2.10.3] Quintus modus est ex quinta enuntiatione descendens, cuius
+/310/ prima talis est propositio:
+Si non est a, est b; Si est b, etiam c esse necesse est; Atqui non est a; c igitur necesse est esse.
+Hic quoque prius dicta conditio facit consequentiam necessitatis; at si id quod est c assumatur, nulla necessitas
+euenit. Sit enim propositio:
+Si non est irrationabile rationabile est; Et si rationabile est, animal est;
+et assumamus:
+Sed est animal;
+non necesse erit uel esse uel non esse irrationabile.
+[2.10.4] Sextus modus est ita propositus, quem sexta propositio facit:
+Si non sit a, est b; Et si est b, non est c; Atqui non est a; Non est igitur c.
+Similis uero superioribus demonstratio. At si c assumatur, eodem modo nullus est syllogismus; nam si sit
+propositio:
+Si animatum non est, inanimatum est; Et si inanimatum est, sensibile non est;
+si assumatur:
+Atqui non est sensibile;
+non necesse erit uel esse uel non esse animatum.
+[2.10.5] Septimus modus est, qui ex septima propositione est:
+Si a non est, b non est; Et si b non est, necesse est esse c; Atqui non est a; Necesse est igitur esse c.
+Quod si c assumatur, nihil fit necessarium: nam si proponamus:
+Si animatum non est, animal non esse; Et si animal non sit, insensibile esse;
+assumamusque:
+At est insensibile;
+non necesse est uel esse uel non esse animatum. Octauus uero modus est qui ita proponitur:
+Si non est a, non est b; Et si non est b, necesse est non esse c; Atqui non est a; Non est igitur c.
+Quod si c assumatur, nec in complexione nec in /312/ terminis erit ulla necessitas.
+[2.10.6] Age enim ita proponamus:
+Si non est animatum, non est animal; Et si non est animal, necesse est non esse sensibile; Atqui non est
+sensibile;
+non necesse erit non esse animatum, ut arbores, herbas, et quidquid uitali tantum anima, non etiam sensibili,
+uegetatur. In prima igitur figura ex tribus terminis fiunt hypotheticae sexdecim complexiones, ita ut id quod positum est
+in propositione, idem in assumptione quoque ponatur: octo quidem, si a terminus in propositione ponatur; octo uero, si
+c.
+[2.10.7] Quod si a terminus ponendo assumatur, erunt octo necessarii syllogismi; si uero c terminus ponendo
+assumatur, quinque equidem complexiones, id est quae primo secundo tertio quarto atque octauo respondent modo,
+nullius necessitatis esse deprehenduntur; tres uero complexiones, quae quinto sexto septimoque modo accomodantur,
+per complexionis quidem naturam nullam necessitatis constantiam seruant; per terminorum uero proprietatem
+necessarium colligunt syllogismum, ut sint omnes octo uel undecim syllogismi.
+[2.11.1] Eodem quoque modo syllogismorum complexionumque ordo constabit, si id in assumptione quod in
+propositione positum fuerat, auferatur. Fient quippe sexdecim complexiones, quarum octo quidem, ubi id quod
+sequitur aufertur, integra necessitate perdurant, octo uero, in quibus id quod praecedit aufertur, necessitatem non eadem
+ratione conseruant. Sed hae quidem complexiones quae primo secundo ac tertio, quarto atque /314/ octauo modo
+accomodantur, nihil colligunt nec per terminorum nec per complexionis proprietatem; tres uero, id est quintus, sextus et
+septimus, nihil quidem colligunt secundum complexionis naturam, uidentur uero colligere secundum terminorum
+proprietatem, ut hinc quoque octo uel undecim sint syllogismi.
+[2.11.2] Horum uero omnium subdantur exempla. Primus igitur modus hic est:
+Si est a, est b; Et si est b, etiam c esse necesse est; At non est c; Igitur a non est.
+Quod si assumamus:
+At non est a;
+nihil euenit necessarium. Sit enim propositio haec:
+Si est homo, animal est; Et si animal est, animatum esse necesse est; Atqui non est homo;
+necesse non erit ut non sit animatum.
+[2.11.3] Secundus modus est:
+Si est a, est b; Et si est b, non esse c necesse est; Atqui est c; Igitur a non erit.
+Quod si assumamus ita:
+Atqui non est a;
+non necesse erit esse c uel non esse. Nam si sit propositio talis:
+Si est homo, animal est; Et si animal est, lapis non est;
+
+

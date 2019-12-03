@@ -1,0 +1,54 @@
+Neque quae moventur per naturam ut ex se mota, sicut animalia, quae constat ab anima moveri. Nec iterum quae
+moventur per naturam ut gravia et levia. Quia haec moventur a generante et removente prohibens. Omne autem
+quod movetur, vel movetur per se, vel per accidens. Et si per se, vel per violentiam, vel per naturam.
+Et hoc, vel motum ex se, ut animal; vel non motum ex se, ut grave et leve. Ergo omne quod movetur, ab alio
+movetur.
+|#9 Tertio, probat sic. Nihil idem est simul actu et potentia respectu eiusdem.
+Sed omne quod movetur, inquantum huiusmodi, est in potentia: quia motus est actus existentis in potentia
+secundum quod huiusmodi.
+Omne autem quod movet est in actu, inquantum huiusmodi: quia nihil agit nisi secundum quod est in actu. Ergo
+nihil est respectu eiusdem motus movens et motum.
+Et sic nihil movet seipsum.
+|#10 Sciendum autem quod Plato qui posuit omne movens moveri, communius accepit nomen motus quam
+Aristoteles.
+Aristoteles enim proprie accepit motum secundum quod est actus existentis in potentia secundum quod
+huiusmodi: qualiter non est nisi divisibilium et corporum, ut probatur in VI physic..
+Secundum Platonem autem movens seipsum non est corpus: accipiebat enim motum pro qualibet operatione, ita
+quod intelligere et opinari sit quoddam moveri; quem etiam modum loquendi Aristoteles tangit in III de anima.
+Secundum hoc ergo dicebat primum movens seipsum movere quod intelligit se et vult vel amat se.
+Quod in aliquo non repugnat rationibus Aristotelis: nihil enim differt devenire ad aliquod primum quod moveat
+se, secundum Platonem; et devenire ad primum quod omnino sit immobile, secundum Aristotelem.
+|#11 Aliam autem propositionem, scilicet quod in moventibus et motis non sit procedere in infinitum, probat
+tribus rationibus.
+|#12 Quarum prima talis est. Si in motoribus et motis proceditur in infinitum, oportet omnia huiusmodi infinita
+corpora esse: quia omne quod movetur est divisibile et corpus, ut probatur in VI physic..
+Omne autem corpus quod movet motum, simul dum movet movetur. Ergo omnia ista infinita simul moventur
+dum unum eorum movetur. Sed unum eorum, cum sit finitum, movetur tempore finito. Ergo omnia illa infinita
+moventur tempore finito. Hoc autem est impossibile. Ergo impossibile est quod in motoribus et motis procedatur
+in infinitum.
+|#13 Quod autem sit impossibile quod infinita praedicta moveantur tempore finito, sic probat. Movens et
+motum oportet simul esse: ut probat inducendo in singulis speciebus motus. Sed corpora non possunt simul esse
+nisi per continuitatem vel contiguationem.
+Cum ergo omnia praedicta moventia et mota sint corpora, ut probatum est, oportet quod sint quasi unum mobile
+per continuationem vel contiguationem. Et sic unum infinitum movetur tempore finito.
+Quod est impossibile, ut probatur in VI physicorum.
+|#14 Secunda ratio ad idem probandum talis est. In moventibus et motis ordinatis, quorum scilicet unum per
+ordinem ab alio movetur, hoc necesse est inveniri, quod, remoto primo movente vel cessante a motione, nullum
+aliorum movebit neque movebitur: quia primum est causa movendi omnibus aliis. Sed si sint moventia et mota
+per ordinem in infinitum, non erit aliquod primum movens, sed omnia erunt quasi media moventia. Ergo nullum
+aliorum poterit moveri. Et sic nihil movebitur in mundo.
+|#15 Tertia probatio in idem redit, nisi quod est ordine transmutato, incipiendo scilicet a superiori. Et est talis.
+Id quod movet instrumentaliter, non potest movere nisi sit aliquid quod principaliter moveat.
+Sed si in infinitum procedatur in moventibus et motis, omnia erunt quasi instrumentaliter moventia, quia
+ponentur sicut moventia mota, nihil autem erit sicut principale movens. Ergo nihil movebitur.
+|#16 Et sic patet probatio utriusque propositionis quae supponebatur in prima demonstrationis via, qua probat
+Aristoteles esse primum motorem immobilem.
+|#17 Secunda via talis est. Si omne movens movetur, aut haec propositio est vera per se, aut per accidens. Si per
+accidens, ergo non est necessaria: quod enim est per accidens verum, non est necessarium.
+Contingens est ergo nullum movens moveri.
+Sed si movens non movetur, non movet: ut adversarius dicit. Ergo contingens est nihil moveri: nam, si nihil
+movet, nihil movetur.
+
+11
+
+

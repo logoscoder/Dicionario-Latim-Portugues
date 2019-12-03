@@ -1,0 +1,61 @@
+|a3 Articulus 3
+AG1
+Ad tertium sic proceditur. Videtur quod prudentia non sit cognoscitiva singularium.
+Prudentia enim est in ratione, ut dictum est.
+Sed ratio est universalium, ut dicitur in I physic..
+Ergo prudentia non est cognoscitiva nisi universalium.
+AG2
+Praeterea, singularia sunt infinita.
+Sed infinita non possunt comprehendi a ratione.
+Ergo prudentia, quae est ratio recta, non est singularium.
+AG3
+Praeterea, particularia per sensum cognoscuntur. Sed prudentia non est in sensu, multi enim habentes sensus
+exteriores perspicaces non sunt prudentes.
+Ergo prudentia non est singularium.
+SC
+Sed contra est quod Philosophus dicit, in VI ethic., quod prudentia non est universalium solum, sed oportet et
+singularia cognoscere.
+CO
+Respondeo dicendum quod, sicut supra dictum est, ad prudentiam pertinet non solum consideratio rationis, sed
+etiam applicatio ad opus, quae est finis practicae rationis. Nullus autem potest convenienter aliquid alteri
+applicare nisi utrumque cognoscat, scilicet et id quod applicandum est et id cui applicandum est. Operationes
+autem sunt in singularibus. Et ideo necesse est quod prudens et cognoscat universalia principia rationis, et
+cognoscat singularia, circa quae sunt operationes.
+RA1
+Ad primum ergo dicendum quod ratio primo quidem et principaliter est universalium, potest tamen universales
+rationes ad particularia applicare (unde syllogismorum conclusiones non solum sunt universales, sed etiam
+particulares); quia intellectus per quandam reflexionem se ad materiam extendit, ut dicitur in III de anima.
+RA2
+Ad secundum dicendum quod quia infinitas singularium non potest ratione humana comprehendi, inde est quod
+sunt incertae providentiae nostrae, ut dicitur Sap. IX.
+Tamen per experientiam singularia infinita reducuntur ad aliqua finita quae ut in pluribus accidunt, quorum
+cognitio sufficit ad prudentiam humanam.
+RA3
+Ad tertium dicendum quod, sicut Philosophus dicit, in VI ethic., prudentia non consistit in sensu exteriori, quo
+cognoscimus sensibilia propria, sed in sensu interiori, qui perficitur per memoriam et experimentum ad prompte
+iudicandum de particularibus expertis.
+Non tamen ita quod prudentia sit in sensu interiori sicut in subiecto principali, sed principaliter quidem est in
+ratione, per quandam autem applicationem pertingit ad huiusmodi sensum.
+|a4 Articulus 4
+AG1
+Ad quartum sic proceditur. Videtur quod prudentia non sit virtus.
+Dicit enim Augustinus, in I de Lib. Arb., quod prudentia est appetendarum et vitandarum rerum scientia.
+Sed scientia contra virtutem dividitur; ut patet in praedicamentis.
+Ergo prudentia non est virtus.
+AG2
+Praeterea, virtutis non est virtus.
+Sed artis est virtus; ut Philosophus dicit, in VI ethic..
+Ergo ars non est virtus. Sed in arte est prudentia, dicitur enim II Paral. II de Hiram quod sciebat caelare omnem
+sculpturam, et adinvenire prudenter quodcumque in opere necessarium est.
+Ergo prudentia non est virtus.
+AG3
+Praeterea, nulla virtus potest esse immoderata.
+Sed prudentia est immoderata, alioquin frustra diceretur in Prov. XXIII, prudentiae tuae pone modum.
+Ergo prudentia non est virtus.
+SC
+Sed contra est quod Gregorius, in II Moral., prudentiam, temperantiam, fortitudinem et iustitiam dicit esse
+quatuor virtutes.
+CO
+1412
+
+

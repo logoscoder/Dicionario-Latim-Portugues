@@ -1,0 +1,62 @@
+RA12
+Ad duodecimum dicendum quod, cum relatio sit accidens in creaturis, esse suum est inesse; unde esse suum non
+est ad aliud se habere; sed esse huius secundum quod ad aliquid, est ad aliud se habere.
+RA13
+Ad decimumtertium dicendum, quod dicuntur relativa de Deo praedicari non substantialiter, quia non
+praedicantur per modum existentis in substantia, sed per modum ad aliud se habentis, non ideo quin illud quod
+significant, sit substantia.
+RA14
+Ad decimumquartum dicendum, quod Deus dicitur non eo Deus quo pater, propter diversum modum significandi
+divinitatis et paternitatis, ut expositum est.
+|a3 Articulus 3
+TTA
+Tertio quaeritur utrum relationes constituant et distinguant personas sive hypostases.
+TTB
+Et videtur quod non.
+AG1
+Dicit enim Augustinus: omnis res quae relative dicitur est etiam aliquid excepto relativo; sicut homo Dominus, et
+homo servus. Sed personae in divinis dicuntur relative. Ergo sunt aliquid excepto relativo. Non ergo
+constituuntur per relationes: nihil enim potest esse aliquid remoto suo constitutivo.
+AG2
+Sed dicendum, quod praeter intellectum paternitatis in divinis, intelligitur pater. Sed contra, constat quod pater
+etiam relative dicitur.
+Si ergo praeter paternitatem oportet aliquid esse in persona, quia paternitas est ad aliquid, eadem ratione praeter
+hoc quod dicitur pater, oportet aliquid in persona ponere quod relative dicatur.
+AG3
+Praeterea, Augustinus ibidem dicit, quod nullo modo putandum est, patrem dici ad seipsum; sed quidquid dicitur,
+ad filium dicitur.
+Ergo idem quod prius.
+AG4
+Sed dicendum, quod illud quod pater est, relatione excepta, est essentia,- sed contra, illud quod est in relativo
+relatione excepta, per relationem ad aliquid refertur, sicut patet in exemplis ab ipso positis: homo enim per
+relationem Domini refertur ad servum. Sed essentia non refertur in divinis: neque enim generat neque generatur.
+Ergo non potest hoc intelligi de essentia, sed de relationis supposito, cui conveniat generare vel generari.
+AG5
+Praeterea, prius est unumquodque in se consideratum, quam ad aliud referatur. Nihil autem constituitur per id
+quod est eo posterius secundum intellectum. Ergo hypostasis patris non constituitur per relationem qua ad aliud
+refertur.
+AG6
+Praeterea, hypostases in divinis perfectiores sunt quam in rebus humanis. Sed apud nos proprietates non
+constituunt neque distinguunt hypostases, sed sunt signa distinctionis hypostasum constitutarum. Ergo nec in
+divinis relationes, quae sunt proprietates, constituunt hypostases nec distinguunt.
+AG7
+Praeterea, prius est intelligere hypostasim generantem quam ipsam generationem, cum generans intelligatur ut
+generationis principium, prius autem est intelligere generationem quam paternitatem: relationes enim ad actiones
+vel passiones sequuntur, ut in V metaph.
+Dicitur. Ergo prius est intelligere hypostasim patris quam paternitatem: ergo non constituitur paternitate; et
+eadem ratione nec hypostasis filii filiatione.
+AG8
+Praeterea, nulla forma constituit et distinguit nisi in genere suo, sicut albedo constituit et distinguit secundum
+qualitatem album a nigro: et similiter longitudo constituit aliquid et distinguit in genere quantitatis.
+Ergo et relatio nec constituit nec distinguit nisi in genere ad aliquid. Hypostasis autem significatur in genere
+substantiae. Relatio ergo nec distinguit nec constituit hypostasim.
+AG9
+Praeterea, relatio in divinis est divina essentia.
+Si ergo constituit et distinguit hypostasim, aut hoc est in quantum est substantia divina, aut in quantum est
+relatio. Non in quantum est essentia divina: quia essentia divina, cum sit communis tribus personis, non potest
+esse distinctionis principium. Similiter etiam nec in quantum est relatio: quia secundum relationem non
+significatur aliquid per se existens, quod significat nomen hypostasis, sed solum ut ad aliquid dictum. Ergo
+relatio nullo modo distinguit vel constituit hypostasim.
+217
+
+

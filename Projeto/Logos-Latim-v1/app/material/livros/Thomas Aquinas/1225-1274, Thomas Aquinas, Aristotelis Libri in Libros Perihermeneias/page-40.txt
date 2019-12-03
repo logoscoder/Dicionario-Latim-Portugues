@@ -1,0 +1,61 @@
+Circa primum duo facit: primo, proponit rationes quasdam distinguendi tales enunciationes; secundo, ponit
+earum distinctionem et ordinem; ibi: quare prima est affirmatio etc..
+Circa primum duo facit: primo, ponit rationes distinguendi enunciationes ex parte nominum; secundo, ostendit
+quod non potest esse eadem ratio distinguendi ex parte verborum; ibi: praeter verbum autem etc..
+Circa primum tria facit: primo, proponit rationes distinguendi enunciationes; secundo, exponit quod dixerat; ibi:
+nomen autem dictum est etc.; tertio, concludit intentum; ibi: erit omnis affirmatio etc..
+|#2
+Resumit ergo illud, quod supra dictum est de definitione affirmationis, quod scilicet affirmatio est
+enunciatio significans aliquid de aliquo; et, quia verbum est proprie nota eorum quae de altero praedicantur,
+consequens est ut illud, de quo aliquid dicitur, pertineat ad nomen; nomen autem est vel finitum vel infinitum; et
+ideo, quasi concludens subdit quod quia affirmatio significat aliquid de aliquo, consequens est ut hoc, de quo
+significatur, scilicet subiectum affirmationis, sit vel nomen, scilicet finitum (quod proprie dicitur nomen, ut in
+primo dictum est), vel innominatum, idest infinitum nomen: quod dicitur innominatum, quia ipsum non nominat
+aliquid cum aliqua forma determinata, sed solum removet determinationem formae. Et ne aliquis diceret quod id
+quod in affirmatione subiicitur est simul nomen et innominatum, ad hoc excludendum subdit quod id quod est,
+scilicet praedicatum, in affirmatione, scilicet una, de qua nunc loquimur, oportet esse unum et de uno subiecto; et
+sic oportet quod subiectum talis affirmationis sit vel nomen, vel nomen infinitum.
+|#3 Deinde cum dicit: nomen autem etc., exponit quod dixerat, et dicit quod supra dictum est quid sit nomen, et
+quid sit innominatum, idest infinitum nomen: quia, non homo, non est nomen, sed est infinitum nomen, sicut,
+non currit, non est verbum, sed infinitum verbum. Interponit autem quoddam, quod valet ad dubitationis
+remotionem, videlicet quod nomen infinitum quodam modo significat unum. Non enim significat simpliciter
+unum, sicut nomen finitum, quod significat unam formam generis vel speciei aut etiam individui, sed in quantum
+significat negationem formae alicuius, in qua negatione multa conveniunt, sicut in quodam uno secundum
+rationem.
+Unum enim eodem modo dicitur aliquid, sicut et ens; unde sicut ipsum non ens dicitur ens, non quidem
+simpliciter, sed secundum quid, idest secundum rationem, ut patet in IV metaphysicae, ita etiam negatio est
+unum secundum quid, scilicet secundum rationem.
+Introducit autem hoc, ne aliquis dicat quod affirmatio, in qua subiicitur nomen infinitum, non significet unum de
+uno, quasi nomen infinitum non significet unum.
+|#4
+Deinde cum dicit: erit omnis affirmatio etc., concludit propositum scilicet quod duplex est modus
+affirmationis.
+Quaedam enim est affirmatio, quae constat ex nomine et verbo; quaedam autem est quae constat ex infinito
+nomine et verbo. Et hoc sequitur ex hoc quod supra dictum est quod hoc, de quo affirmatio aliquid significat, vel
+est nomen vel innominatum. Et eadem differentia potest accipi ex parte negationis, quia de quocunque contingit
+affirmare, contingit et negare, ut in primo habitum est.
+|#5 Deinde cum dicit: praeter verbum etc., ostendit quod differentia enunciationum non potest sumi ex parte
+verbi.
+Dictum est enim supra quod, praeter verbum nulla est affirmatio vel negatio. Potest enim praeter nomen esse
+aliqua affirmatio vel negatio, videlicet si ponatur loco nominis infinitum nomen: loco autem verbi in
+enunciatione non potest poni infinitum verbum, duplici ratione.
+Primo quidem, quia infinitum verbum constituitur per additionem infinitae particulae, quae quidem addita verbo
+per se dicto, idest extra enunciationem posito, removet ipsum absolute, sicut addita nomini, removet formam
+nominis absolute: et ideo extra enunciationem potest accipi verbum infinitum per modum unius dictionis, sicut et
+nomen infinitum.
+Sed quando negatio additur verbo in enunciatione posito, negatio illa removet verbum ab aliquo, et sic facit
+enunciationem negativam: quod non accidit ex parte nominis.
+Non enim enunciatio efficitur negativa nisi per hoc quod negatur compositio, quae importatur in verbo: et ideo
+verbum infinitum in enunciatione positum fit verbum negativum.
+Secundo, quia in nullo variatur veritas enunciationis, sive utamur negativa particula ut infinitante verbum vel ut
+faciente negativam enunciationem; et ideo accipitur semper in simpliciori intellectu, prout est magis in promptu.
+Et inde est quod non diversificavit affirmationem per hoc, quod sit ex verbo vel infinito verbo, sicut
+diversificavit per hoc, quod est ex nomine vel infinito nomine.
+Est autem considerandum quod in nominibus et in verbis praeter differentiam finiti et infiniti est differentia recti
+et obliqui. Casus enim nominum, etiam verbo addito, non constituunt enunciationem significantem verum vel
+falsum, ut in primo habitum est: quia in obliquo nomine non concluditur ipse rectus, sed in casibus verbi
+includitur ipsum verbum praesentis temporis. Praeteritum enim et futurum, quae significant casus verbi, dicuntur
+
+40
+
+

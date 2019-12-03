@@ -1,0 +1,60 @@
+Introduxit autem hoc, quia simplex nomen vel verbum, quando respondetur ad interrogationem, videtur verum
+vel falsum significare: quod est proprium enunciationis.
+Sed hoc non competit nomini vel verbo, nisi secundum quod intelligitur coniunctum cum alia parte proposita in
+interrogatione. Ut si quaerenti, quis legit in scholis? respondeatur, Magister, subintelligitur, ibi legit. Si ergo ille
+qui enunciat aliquid nomine vel verbo non enunciat, manifestum est quod enunciatio non sic unum significat,
+sicut nomen vel verbum.
+Hoc autem inducit sicut conclusionem eius quod supra praemisit: necesse est omnem orationem enunciativam ex
+verbo esse vel ex casu verbi.
+|#18 Deinde cum dicit: harum autem haec simplex etc., manifestat praemissam divisionem secundum rationes
+partium.
+Dixerat enim quod una enunciatio est quae unum de uno significat, et alia est quae est coniunctione una. Ratio
+autem huius divisionis est ex eo quod unum natum est dividi per simplex et compositum. Et ideo dicit: harum
+autem, scilicet enunciationum, in quibus dividitur unum, haec dicitur una, vel quia significat unum simpliciter,
+vel quia una est coniunctione. Haec quidem simplex enunciatio est, quae scilicet unum significat.
+Sed ne intelligatur quod sic significet unum, sicut nomen vel verbum, ad excludendum hoc subdit: ut aliquid de
+aliquo, idest per modum compositionis, vel aliquid ab aliquo, idest per modum divisionis. Haec autem ex his
+coniuncta, quae scilicet dicitur coniunctione una, est velut oratio iam composita: quasi dicat hoc modo,
+enunciationis unitas dividitur in duo praemissa, sicut aliquod unum dividitur in simplex et compositum.
+|#19 Deinde cum dicit: est autem simplex etc., manifestat secundam divisionem enunciationis, secundum
+videlicet quod enunciatio dividitur in affirmationem et negationem. Haec autem divisio primo quidem convenit
+enunciationi simplici; ex consequenti autem convenit compositae enunciationi; et ideo ad insinuandum rationem
+praedictae divisionis dicit quod simplex enunciatio est vox significativa de eo quod est aliquid: quod pertinet ad
+affirmationem; vel non est aliquid: quod pertinet ad negationem. Et ne hoc intelligatur solum secundum praesens
+tempus, subdit: quemadmodum tempora sunt divisa, idest similiter hoc habet locum in aliis temporibus sicut et in
+praesenti.
+|#20
+Alexander autem existimavit quod Aristoteles hic definiret enunciationem; et quia in definitione
+enunciationis videtur ponere affirmationem et negationem, volebat hic accipere quod enunciatio non esset genus
+affirmationis et negationis, quia species nunquam ponitur in definitione generis. Id autem quod non univoce
+praedicatur de multis (quia scilicet non significat aliquid unum, quod sit unum commune multis), non potest
+notificari nisi per illa multa quae significantur.
+Et inde est quod quia unum non dicitur aequivoce de simplici et composito, sed per prius et posterius, Aristoteles
+in praecedentibus semper ad notificandum unitatem enunciationis usus est utroque. Quia ergo videtur uti
+affirmatione et negatione ad notificandum enunciationem, volebat Alexander accipere quod enunciatio non
+dicitur de affirmatione et negatione univoce sicut genus de suis speciebus.
+|#21 Sed contrarium apparet ex hoc, quod Philosophus consequenter utitur nomine enunciationis ut genere, cum
+in definitione affirmationis et negationis subdit quod, affirmatio est enunciatio alicuius de aliquo, scilicet per
+modum compositionis, negatio vero est enunciatio alicuius ab aliquo, scilicet per modum divisionis. Nomine
+autem aequivoco non consuevimus uti ad notificandum significata eius. Et ideo Boethius dicit quod Aristoteles
+suo modo breviloquio utens, simul usus est et definitione et divisione eius: ita ut quod dicit de eo quod est
+aliquid vel non est, non referatur ad definitionem enunciationis, sed ad eius divisionem.
+Sed quia differentiae divisivae generis non cadunt in eius definitione, nec hoc solum quod dicitur vox
+significativa, sufficiens est definitio enunciationis; melius dici potest secundum Porphyrium, quod hoc totum
+quod dicitur vox significativa de eo quod est, vel de eo quod non est, est definitio enunciationis. Nec tamen
+ponitur affirmatio et negatio in definitione enunciationis sed virtus affirmationis et negationis, scilicet
+significatum eius, quod est esse vel non esse, quod est naturaliter prius enunciatione. Affirmationem autem et
+negationem postea definivit per terminos utriusque cum dixit: affirmationem esse enunciationem alicuius de
+aliquo, et negationem enunciationem alicuius ab aliquo.
+Sed sicut in definitione generis non debent poni species, ita nec ea quae sunt propria specierum. Cum igitur
+significare esse sit proprium affirmationis, et significare non esse sit proprium negationis, melius videtur
+dicendum, secundum Ammonium, quod hic non definitur enunciatio, sed solum dividitur. Supra enim posita est
+definitio, cum dictum est quod enunciatio est oratio in qua est verum vel falsum. In qua quidem definitione nulla
+mentio facta est nec de affirmatione, nec de negatione.
+Est autem considerandum quod artificiosissime procedit: dividit enim genus non in species, sed in differentias
+specificas. Non enim dicit quod enunciatio est affirmatio vel negatio, sed vox significativa de eo quod est, quae
+est differentia specifica affirmationis, vel de eo quod non est, in quo tangitur differentia specifica negationis. Et
+ideo ex differentiis adiunctis generi constituit definitionem speciei, cum subdit: quod affirmatio est enunciatio
+20
+
+

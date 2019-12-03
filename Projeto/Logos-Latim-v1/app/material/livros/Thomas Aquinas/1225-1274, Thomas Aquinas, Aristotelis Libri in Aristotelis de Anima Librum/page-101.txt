@@ -1,0 +1,63 @@
+oportebat, quod ab altero reduceretur in actum; sed quando iam habet habitum scientiae, qui est actus primus,
+potest, cum voluerit, procedere in actum secundum qui est operatio. |#3 N.3 Manifestum est autem ex hoc
+quod hic dicitur, falsam esse opinionem Avicennae quam habet de speciebus intelligibilibus contra opinionem
+Aristotelis. Ponit enim Avicenna, quod species non conservantur in intellectu possibili, nec sunt in eo nisi
+quando actu intelligit. Sed oportet secundum ipsum, quod quandocumque intelligit actu, quod convertat se ad
+intelligentiam separatam agentem, a qua effluunt in intellectum possibilem intelligibiles species. |#4 N.4
+Contra quod manifeste hic Philosophus dicit, quod intellectus reducitur in actum specierum, per modum, quo
+sciens actu, adhuc est in potentia intelligens. Cum enim intellectus actu intelligit, species intelligibiles sunt in eo
+secundum actum perfectum: cum autem habet habitum scientiae, sunt species in ipso intellectu medio modo inter
+potentiam puram et actum purum. |#5 N.5 Et quia dixerat, quod quando intellectus fit quodammodo in actu,
+secundum singula eorum ad quae erat in potentia, tunc potest intelligere, respectu autem sui nullo modo erat in
+potentia, posset aliquis credere, quod factus in actu, seipsum non intelligeret; et ideo ad hoc excludendum
+subiungit quod intellectus factus in actu, non potest intelligere alia, sed etiam tunc potest intelligere seipsum.
+|#6 N.6 Deinde cum dicit quoniam autem. Ostendit Philosophus quid sit obiectum intellectus. Ad cuius
+evidentiam sciendum est, quod Philosophus in septimo metaphysicae inquirit, utrum quod quid est, idest
+quidditas, vel essentia rei, quam definitio significat, sit idem quod res. Et quia Plato ponebat quidditates rerum
+esse separatas a singularibus, quas dicebat ideas, vel species; ideo ostendit, quod quidditates rerum non sunt
+aliud a rebus nisi per accidens; utputa non est idem quidditas hominis albi, et homo albus; quia quidditas hominis
+non continet in se nisi quod pertinet ad speciem hominis; sed hoc quod dico homo albus habet aliquid in se
+praeter illud quod est de specie humana. |#7 N.7 Hoc autem contingit in omnibus habentibus formam in
+materia, quia in eis est aliquid praeter principia speciei. Nam natura speciei individuatur per materiam: unde
+principia individuantia et accidentia individui sunt praeter essentiam speciei. Et ideo contingit sub una specie
+inveniri plura individua: quae licet non differant in natura speciei, differunt tamen secundum principia
+individuantia. Et propter hoc in omnibus habentibus formam in materia, non est omnino idem, et res et quod quid
+est eius. Socrates enim non est sua humanitas. In his vero quae non habent formam in materia, sicut sunt formae
+simplices, nihil potest esse praeter essentiam speciei; quia ipsa forma est tota essentia. Et ideo in talibus non
+possunt esse plura individua unius speciei, nec potest in eis differre res et quod quid est eius. |#8 N.8
+Considerandum est etiam, quod non solum naturalia habent speciem in materia, sed etiam mathematica. Est enim
+duplex materia: scilicet sensibilis, a qua abstrahunt mathematica, et concernunt eam naturalia, et intelligibilis,
+quam mathematica concernunt. Quod quidem sic intelligendum est. Manifestum est enim, quod quantitas
+immediate inhaeret substantiae: qualitates autem sensibiles in quantitate fundantur, ut album et nigrum, calidum
+et frigidum. Remoto autem posteriori remanet prius: unde remotis qualitatibus sensibilibus secundum
+intellectum, adhuc remanet quantitas continua in intellectu. |#9 N.9 Quaedam ergo sunt formae, quae
+materiam requirunt sub determinata dispositione sensibilium qualitatum; et huiusmodi sunt omnes formae
+naturales; et idcirco naturalia concernunt materiam sensibilem. Quaedam vero sunt formae, quae non exigunt
+materiam sub determinata dispositione sensibilium qualitatum, tamen requirunt materiam sub quantitate
+existentem: sicut triangulus, et quadratum, et huiusmodi: et haec dicuntur mathematica; et abstrahunt a materia
+sensibili, sed non a materia intelligibili, inquantum in intellectu remanet continua quantitas, abstracta a sensibili
+qualitate. Sic ergo patet, quia sicut naturalia habent formam in materia, ita et mathematica: et propter hoc tam in
+naturalibus quam in mathematicis differt res et quod quid est: unde in utrisque inveniuntur plura individua sub
+una specie. Sicut enim sunt plures homines unius speciei, ita et plures trianguli sub una specie. |#10 N.10 His
+igitur habitis, planum est accipere ex litera Philosophi intellectum. Dicit enim quod aliud est magnitudo et
+magnitudinis esse, id est aliud est magnitudo, et quod quid est eius. Esse enim quod est magnitudinis appellat
+quidditatem eius. Et similiter aliud est aqua et aquae esse, et sic est in multis aliis, id est in omnibus
+mathematicis et naturalibus. Unde signanter duo exempla posuit. Nam magnitudo est quid mathematicum, aqua
+autem quid naturale. |#11 N.11 Non autem hoc contingit in omnibus. Nam in his, quae omnino sunt separata a
+materia idem est res et quod quid est eius. Et quia substantiae separatae ignotae sunt nobis, non potuit eas
+nominare propriis nominibus, sicut mathematica et naturalia, sed nominavit ea sub exemplo rerum naturalium. Et
+hoc est quod subdit, quod in quibusdam idem est carni esse et carnem: ex quo non intelligit, quod sit idem caro
+et quod quid est eius. Non enim diceret in quibusdam sic esse; sed simpliciter diceret, quod idem est caro et carni
+esse. Sed intelligit quod hoc, quod sic dicitur aliquid et alicui, ut caro, et carni esse, idem est in quibusdam, idest
+in his quae sunt a materia separata. |#12 N.12 Et quia ad diversa cognoscenda diversae potentiae cognoscitivae
+requiruntur, concludit, quod anima aut cognoscit alio rem, et alio eius quidditatem, aut uno et eodem, sed alio
+modo se habente. Manifestum est autem, quod caro non est sine materia: sed forma carnis est forma determinata,
+et in materia determinata sensibili: sicut etiam simul habet subiectum sensibile determinatum, scilicet nasum.
+Hanc igitur naturam sensitivam cognoscit anima per sensum. Et hoc est quod subdit, quod anima iudicat potentia
+sensitiva calidum et frigidum, et alia huiusmodi quorum ratio, idest proportio quaedam caro est. Forma enim
+carnis requirit determinatam proportionem calidi et frigidi, et aliorum huiusmodi. |#13 N.13 Sed oportet quod
+alia potentia discernat esse carni, idest quod quid est carnis. Sed hoc contingit dupliciter: uno modo sic quod ipsa
+caro vel quidditas carnis cognoscantur omnino potentiis abinvicem diversis: puta quod potentia intellectiva
+101
+
+

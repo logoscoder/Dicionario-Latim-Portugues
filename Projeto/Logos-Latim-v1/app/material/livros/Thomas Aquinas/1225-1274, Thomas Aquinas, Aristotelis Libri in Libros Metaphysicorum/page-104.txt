@@ -1,0 +1,56 @@
+|#15 Tertium est quia manifestum est quod adhuc non poterit esse perscrutatio vel disputatio. Non enim potest
+disputari cum aliquo qui nihil concedit. Ille enim nihil dicit, quia nec dicit absolute quod est ita, nec dicit quod
+non est ita; sed dicit quod est ita et non est ita. Et iterum ambo ea negat dicens quod nec est ita nec non ita, sicut
+ex praecedenti ratione apparet. Si enim non omnia ista neget, sequitur quod ipse noverit aliquid determinate
+verum; quod est contra positum.
+Vel secundum quod alia translatio habet, et planius, iam utique erit determinatum.
+|#16 Quartum sequitur per definitionem veri et falsi. Verum enim est cum dicitur esse quod est vel non esse
+quod non est. Falsum autem est cum dicitur non esse quod est, aut esse quod non est.
+Ex quo patet per definitionem veri et falsi, quod quando affirmatio est vera, tunc negatio est falsa: tunc enim
+dicit non esse, quod est: et si negatio est vera, tunc affirmatio est falsa: tunc enim dicitur esse de eo quod non est.
+Non ergo contingit vere idem affirmare et negare. Sed forte adversarius ad hoc ultimum poterit dicere, quod hic
+est petitio principii. Qui enim ponit contradictionem simul esse veram, non recipit hanc definitionem falsi,
+scilicet quod falsum est dicere quod non est esse, vel quod est non esse.
+|+9 Lectio 9
+|#1 Hic ponit quintam rationem, quae sumitur ex veritatis ratione, quae talis est.
+Dictum est quod affirmatio et negatio simul vera ponuntur: ergo ille, qui suscipit sive opinatur sic se habere,
+idest affirmationem tantum aut non sic se habere, scilicet ille, qui opinatur negationem esse veram tantum,
+mentitus est: qui vero opinatur ambo simul, dicit verum. Cum igitur verum sit quando ita est in re sicut est in
+opinione, vel sicut significatur voce, sequitur quod ipsum quod dicit erit aliquid determinatum in rebus, scilicet
+quia entium natura talis erit qualis dicitur, ut non patiatur affirmationem et negationem simul. Vel secundum
+aliam literam quia talis est entium natura: quasi dicat, ex quo hoc quod dicitur est determinate verum, sequitur
+quod res habeat naturam talem. Si autem dicatur quod ille qui existimat simul affirmationem et negationem, non
+opinatur verum, sed magis ille qui existimat illo modo, quod vel tantum affirmatio vel tantum negatio sit vera,
+adhuc manifestum est quod entia se habebunt in aliquo modo determinate. Unde alia translatio habet planius
+quodammodo et hoc erit verum determinate, et non erit simul non verum ex quo sola affirmatio vel negatio est
+vera.
+|#2 Sed si omnes praedicti, scilicet et illi qui dicunt utramque partem contradictionis, et illi qui dicunt alteram
+mentiuntur, et omnes etiam verum dicunt; cum tali qui hoc ponit, non est disputandum nec aliquid dicendum ut
+disputetur cum eo; vel secundum aliam literam, talis homo non asserit aliquid nec affirmat. Sicut enim alia
+translatio dicit, nec asserere nec dicere aliquid huiusmodi est, quia similiter unumquodque et dicit et negat. Et si
+ipse sicut similiter affirmat et negat exterius, ita et similiter interius opinatur et non opinatur, et nihil suscipit
+quasi determinate verum, in nullo videtur differre a plantis; quia etiam bruta animalia habent determinatas
+conceptiones.
+Alius textus habet ab aptis natis: et est sensus, quia talis, qui nihil suscipit, nihil differt in hoc quod actu cogitat
+ab illis, qui apti nati sunt cogitare, et nondum cogitat actu; qui enim apti nati sunt cogitare de aliqua quaestione,
+neutram partem asserunt, et similiter nec isti.
+|#3 Deinde cum dicit unde et maxime ponit sextam rationem, quae sumitur ab electione et fuga: et circa hoc duo
+facit.
+Primo ponit rationem. Secundo excludit quamdam cavillosam responsionem, ibi, si autem non scientes etc..
+Dicit ergo primo, quod manifestum est quod nullus homo sic disponitur ut credat affirmationem et negationem
+simul verificari; nec illi qui hanc positionem ponunt, nec etiam alii. Si enim idem esset ire domum et non ire,
+quare aliquis iret domum et non quiesceret, si putaret quod hoc ipsum quiescere, esset ire domum? patet ergo, ex
+quo aliquis vadit et non quiescit, quod aliud putat esse ire et non ire.
+|#4 Et similiter si aliquis incedit per aliquam viam, quae forte directe vadit ad puteum vel ad torrentem, non
+recte incedit per viam illam, sed videtur timere casum in puteum aut in torrentem. Et hoc ideo, quia incidere in
+torrentem vel puteum non putat esse similiter bonum et non bonum, sed absolute putat esse non bonum. Si autem
+putaret esse bonum sicut et non bonum, non magis vitaret quam eligeret. Cum ergo vitet et non eligat, palam est
+quod ipse suscipit sive opinatur quod unum sit melius, scilicet non incidere in puteum, quod novit esse melius.
+|#5 Et si hoc est in non bono et bono, similiter necesse est esse in aliis, ut videlicet opinetur quod hoc sit homo,
+et illud non homo: et hoc sit dulce et illud non dulce. Quod ex hoc patet, quia non omnia aequaliter quaerit et
+opinatur, cum ipse putet melius aquam bibere dulcem quam non dulcem, et melius videre hominem quam non
+hominem. Et ex ista diversa opinione sequitur quod determinate quaerit unum et non aliud. Oporteret siquidem
+quod similiter utraque quaereret, scilicet dulce et non dulce, hominem et non hominem, si existimaret quod
+104
+
+

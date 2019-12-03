@@ -1,0 +1,56 @@
+oporteat accipere quod quid est: ita scilicet quod non solum a sit quod quid est ipsius b, sed etiam ipsum b sit
+quod quid est ipsius c, tanquam convertibiliter et in eo quod quid praedicatum.
+|#8 Deinde cum dicit: si igitur quod quid est et quod quid erat esse etc., ducit ad inconveniens: quia si, sicut
+ostensum est, ex utraque parte invenitur non solum praedicari aliquid in eo quod quid, sicut genus praedicatur de
+specie, sed etiam quod ex utraque parte sit quod quid erat esse, quod significat definitio, sequitur quod quid erat
+esse prius fuisse in medio termino; idest quod medius terminus sit quod quid erat esse minoris extremitatis: et ita
+supponitur quod oportebat probare, scilicet quidditatem ipsius c.
+|#9 Deinde cum dicit: et omnino si est monstrare quid etc., manifestat quod dixerat in terminis.
+Puta si volumus monstrare quid est homo, sit c, idest minor extremitas, homo; a vero, idest maior extremitas, sit
+quod quid est hominis, puta animal bipes, vel aliquid aliud huiusmodi. Si ergo hoc oporteat per syllogismum
+probari, necesse est quod definiatur aliquod medium, scilicet b, de quo omni a praedicetur; et ad hoc medium
+pertinebit quaedam alia media definitio, quae scilicet erat definitio minoris extremitatis. Unde sequetur quod hoc
+etiam medium sit quod quid est hominis. Et ita qui sic syllogizat, accipit supponendo id quod oportebat
+ostendere, scilicet quod b sit quod quid erat esse hominis.
+|#10 Deinde cum dicit: oportet autem in duabus etc., manifestat quomodo hoc inconveniens sequatur ex
+praemissis. Et circa hoc tria facit.
+Primo, ostendit modum quo convenienter hoc manifestetur. Et dicit quod id quod dictum est, oportet considerare
+in duabus propositionibus, quae sint primae et habeant terminos immediate sibi inhaerentes. Possibile enim esset
+per plures propositiones hoc ostendere, ex quibus plures syllogismi constarent; vel etiam esset possibile duas
+solas propositiones accipiendo, accipere eas mediatas.
+Sed quia oportet semper reducere ad duas primas immediatas, ideo, ut brevior et expeditior sit consideratio,
+assumamus a principio tales propositiones, et sic maxime poterit manifestari propositum.
+|#11 Secundo, ibi: qui quidem itaque per conversionem etc., proponit quod intendit; et dicit, concludens ex
+praemissis, quod illi qui volunt demonstrare per terminos convertibiles quod quid est alicuius rei, puta quid est
+anima, vel quid est homo, vel quodcunque aliud huiusmodi, necesse est quod incidant in hoc quod petant
+principium.
+Et inducit exemplum de definitione animae secundum Platonem. Quia enim anima vivit, et est corpori causa
+vivendi, sequitur quod differat a corpore per hoc quod corpus vivit per aliam causam, anima vero vivit per
+seipsam. Ponebat autem Plato quod numerus est substantia omnium rerum: eo quod non distinguebat inter unum
+quod convertitur cum ente, quod significat substantiam eius de quo dicitur, et unum quod est principium numeri;
+et ita sequebatur quod anima substantialiter sit numerus, sicut et quaelibet alia res multa in se continens. Item
+ponebat Plato quod vivere sit quoddam moveri. Duobus enim distinguitur vivum a non vivente, scilicet sensu et
+motu, ut dicitur in I de anima; et ipsum sentire sive cognoscere dicebat esse quoddam moveri.
+Sic ergo dicebat animam esse numerum seipsum moventem: dicebat etiam animam esse id quod est sibi causa
+vivendi. Si quis ergo velit probare quid est anima, quia scilicet est id quod est sibi causa vivendi, et assumat pro
+medio quod anima est numerus seipsum movens, necesse est hoc petere, scilicet quod anima sit numerus
+seipsum movens: ita scilicet quod hoc sit idem ipsi animae, tanquam quod quid est eius. Alioquin non sequeretur
+quod si aliquid est quod quid est numeri moventis seipsum, quod sit quod quid est ipsius animae.
+|#12
+Tertio, ibi: non enim si consequitur etc., probat propositum, scilicet quod talis probatio contineat
+petitionem principii; et dicit quod non sequitur quod maior extremitas, quae est a, sit quod quid est minoris
+extremitatis, quae est c, ex hoc quod a sequitur ad b et b sequitur ad c; sed sequitur simpliciter quod a insit c. Et
+si ulterius detur quod ipsum a sit quod quid est alicuius, et praedicetur universaliter de b, non adhuc sequitur
+quod a sit quod quid est ipsius c: manifestum est enim hoc quod est animali esse, idest quod quid est animalis,
+praedicari de hoc quod est homini esse, idest de eo quod est quod quid est hominis. Sicut enim verum est quod
+animal universaliter praedicatur de homine, ita verum est quod definitio animalis universaliter praedicetur de
+definitione hominis, non tamen ut sint omnino unum et idem. Sic igitur patet quod si aliquis non sic accipiat
+terminos, ut primum sit omnino unum et idem medio, et medium ultimo, non poterit syllogizari quod a, quod est
+primum, sit quod quid est ipsi c, quod est ultimum, et essentia eius. Si vero accipiantur termini modo praedicto,
+sequitur quod priusquam concludatur, accipiatur in praemissis quod quid est ipsius c, scilicet ipsum b. Ex quo
+sequitur quod non sit demonstratio, sed petitio vel acceptio principii.
+|+4 Lectio 4
+
+83
+
+

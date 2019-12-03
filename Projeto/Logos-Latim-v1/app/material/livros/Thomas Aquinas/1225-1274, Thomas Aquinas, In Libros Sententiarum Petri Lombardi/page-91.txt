@@ -1,0 +1,59 @@
+|+d9.q2 Distinctio 9, Quaestio 2
+|a0 Prologus
+Deinde quaeritur de coaeternitate filii ad patrem; et quaeruntur duo: 1 utrum pater aliquo modo sit prior filio; 2 si
+non, sed generatio est aeterna, quibus verbis significari debeat.
+|a1 Articulus 1: Utrum pater sit prior filio.
+AG1
+Ad primum sic proceditur. Videtur quod pater sit prior filio. Sicut enim se habet corruptio ad desitionem, ita se
+habet generatio ad inceptionem.
+Sed omne quod corrumpitur, desinit esse. Ergo omne quod generatur, incipit esse per generationem. Ergo filius
+coepit esse; et ita est posterior patre.
+AG2
+Praeterea, nihil accipit aliquid, nisi quod non habet. Sed omne quod generatur, accipit esse a generante. Ergo
+omne quod generatur, ante generationem non habet esse; et sic idem quod prius.
+AG3
+Praeterea, principium naturaliter prius est eo cujus est principium. Sed pater est principium filii. Ergo etsi non
+tempore, saltem natura est prior ipso.
+AG4
+Item, dare esse est aliqua dignitas. Sed pater dat esse suum filio. Ergo ad minus dignitate pater est prior filio.
+SC1
+Contra, omne illud quo aliquid est prius, non est simpliciter primum. Si ergo filio esset pater prior, filius non
+esset simpliciter primum. Sed omnes dicunt Deum esse primum principium, sicut dicit Philosophus.
+Ergo filius non esset Deus: quod Ariani concedunt.
+CO
+Respondeo dicendum, quod pater nullo modo est prior filio, neque duratione, neque natura, neque intellectu,
+neque dignitate: in patre enim et filio non possumus nisi duo considerare.
+Vel id quod absolutum est: et hoc utrique commune est: unde ex hoc unus non habet prioritatem ad alium, cum
+essentia divina non sit divisibilis, ut supra ostensum est, in hac dist., qu. 1, art. 1.
+Vel id quod est ad aliquid. Relativorum autem est simul esse natura, secundum Philosophum, et etiam tempore:
+quia posita se ponunt, et perempta se perimunt: et etiam intellectu, cum unum per alterum definiatur: quamvis
+enim in hominibus ille qui est pater, sit prior eo qui est filius, ut socrates Platone; nihilominus tamen ista duo
+relativa, inquantum relativa sunt, pater et filius simul sunt omnibus modis praedictis.
+Unde patet quod pater nullo modo potest esse prior filio; neque secundum id quod absolutum, neque secundum
+id quod ad aliquid est.
+RA1
+Ad primum ergo dicendum, quod generatio quae opponitur corruptioni, est mutatio; et tali generationi semper
+annexa est inceptio. Sed generatio, prout est in divinis, non est mutatio, ut supra dictum est, dist. 4, quaest. 1, art.
+1, sed operatio naturae divinae prout est in patre. Et quia naturalis operatio semper sequitur id cujus est, cum
+natura divina in patre sit aeterna, et generatio erit aeterna.
+RA2
+Ad secundum dicendum, quod illud quod accipit aliquid, non habet illud a se, non tamen sequitur quod non
+habeat illud simpliciter: quia potest esse quod illud accipere nunquam inceperit; et ita filius accepit esse a patre,
+nec habet esse a se, sed ab aeterno a patre accepit esse.
+RA3
+Ad tertium dicendum, quod principium potest dupliciter considerari: vel id quod est principium, et hoc est prius
+naturaliter eo cujus est principium; vel secundum relationem principii, et sic est simul naturaliter cum
+principiato. Si igitur esset aliquis ab eodem habens quod sit aliquis et quod sit ad aliquid; omnino simul esset
+naturaliter cum eo ad quod diceretur. Et quia in divinis pater ab eodem habet quod sit aliquis et quod sit pater; est
+simul natura cum filio, non solum inquantum est pater, sed simpliciter.
+RA4
+Ad quartum dicendum, quod proprietas qua pater dat esse, est dignitas sua. Sed quia dignitas est de absolutis,
+ideo eadem dignitas est in patre et filio, et eadem dignitas quae in patre est paternitas, in filio est filiatio; sicut
+paternitas in patre est divina essentia vel divina bonitas, et eadem essentia in numero vel bonitas, est filiatio in
+filio.
+|a2 Articulus 2: Utrum generatio divina debeat significari per tempus praesens.
+AG1
+Ad secundum sic proceditur. Videtur quod generatio divina debeat significari per praesens tempus.
+91
+
+

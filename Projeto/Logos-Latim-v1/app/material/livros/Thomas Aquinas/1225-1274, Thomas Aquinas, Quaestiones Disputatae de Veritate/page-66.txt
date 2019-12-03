@@ -1,0 +1,61 @@
+Ad quintum dicendum, quod malum in quantum est scitum, est bonum, quia scire malum, bonum est; et sic
+verum est quod omne addiscibile est bonum; non autem quod sit secundum se bonum, sed solum in quantum est
+scitum.
+RA6
+Ad sextum dicendum, quod grammatica scitur in habendo grammaticam, non autem malum; et ideo non est
+simile.
+|q3 Quaestio 3
+Prologus
+PR1
+Primo an sint ideae in Deo.
+PR2
+Secundo an sit ponere plures ideas.
+PR3
+Tertio an pertineant ad cognitionem speculativam.
+PR4
+Quarto an malum habeat ideam.
+PR5
+Quinto an materia prima habeat ideam.
+PR6
+Sexto an in Deo sit idea eorum quae non sunt nec erunt nec fuerunt.
+PR7
+Septimo an accidentia habeant ideam in Deo.
+PR8
+Octavo an singularia habeant ideam in
+|a1 Articulus 1
+TTA
+Quaestio est de ideis.
+Et primo quaeritur utrum sit ponere ideas.
+TTB
+Et videtur quod non.
+AG1
+Quia scientia Dei est perfectissima. Sed perfectior est cognitio quae habetur de re per essentiam eius, quam quae
+habetur per eius similitudinem. Ergo Deus non cognoscit res per suas similitudines, sed magis per essentias
+earum; et ita similitudines rerum, quae ideae dicuntur, non sunt in Deo.
+AG2
+Sed dicebat, quod Deus scit res perfectius cognoscens eas per essentiam suam, quae est similitudo rerum, quam
+si cognosceret res per earum essentias. Sed contra, scientia est assimilatio ad scitum. Ergo quanto medium
+cognoscendi est magis simile et unitum rei cognitae, tanto perfectius res per id cognoscitur. Sed essentia rerum
+creatarum magis est unita eis quam essentia divina.
+Ergo perfectius cognosceret res si sciret res per essentias earum, quam ex hoc quod scit eas per essentiam suam.
+AG3
+Sed dicebat, quod perfectio scientiae non consistit in unione medii cognoscendi ad rem cognitam, sed magis ad
+cognoscentem.
+Sed contra, species rei quae est in intellectu, secundum quod habet esse in eo, est particulata; secundum autem
+quod comparatur ad scitum, habet rationem universalis, quia est similitudo rei secundum naturam communem, et
+non secundum conditiones particulares; et tamen cognitio quae est per illam speciem, non est singularis, sed
+universalis.
+Ergo cognitio magis sequitur relationem speciei ad rem scitam quam ad scientem.
+AG4
+Praeterea, propter hoc improbatur a Philosopho opinio Platonis quam habuit de ideis, quia posuit formas rerum
+materialium existere sine materia. Sed multo magis sunt sine materia si sunt in intellectu divino, quam si essent
+extra ipsum, quia intellectus divinus est in summo immaterialitatis. Ergo etiam multo magis inconveniens est
+ponere ideas in intellectu divino.
+AG5
+Praeterea, Philosophus improbat opinionem Platonis de ideis per hoc quod ideae positae a Platone non possunt
+generare nec generari, et ita sunt inutiles. Sed ideae, si ponantur in mente divina, non generantur, quia omne
+generatum est compositum; similiter nec generant, quia, cum generata sint composita, et generantia sint similia
+generatis, oportet etiam generantia esse composita.
+66
+
+

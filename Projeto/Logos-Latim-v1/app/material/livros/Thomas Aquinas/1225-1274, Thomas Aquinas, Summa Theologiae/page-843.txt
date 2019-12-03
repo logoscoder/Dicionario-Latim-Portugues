@@ -1,0 +1,60 @@
+RA1
+Ad primum ergo dicendum quod ratio illa habet locum de virtute quae ordinat ad bonum proprium ipsius
+volentis, sicut temperantia et fortitudo, quae sunt circa passiones humanas et alia huiusmodi, ut ex dictis patet.
+RA2
+Ad secundum dicendum quod rationale per participationem non solum est irascibilis et concupiscibilis; sed
+omnino, idest universaliter, appetitivum, ut dicitur in I ethic..
+Sub appetitivo autem comprehenditur voluntas. Et ideo, si qua virtus est in voluntate, erit moralis, nisi sit
+theologica, ut infra patebit.
+RA3
+Ad tertium dicendum quod quaedam virtutes ordinantur ad bonum passionis moderatae, quod est proprium huius
+vel illius hominis, et in talibus non est necessarium quod sit aliqua virtus in voluntate, cum ad hoc sufficiat
+natura potentiae, ut dictum est.
+Sed hoc solum necessarium est in illis virtutibus quae ordinantur ad aliquod bonum extrinsecum.
+|q57 Quaestio 57
+|a0 Prologus
+Deinde considerandum est de distinctione virtutum. Et primo, quantum ad virtutes intellectuales; secundo,
+quantum ad morales; tertio, quantum ad theologicas. Circa primum quaeruntur sex.
+Primo, utrum habitus intellectuales speculativi sint virtutes.
+Secundo, utrum sint tres, scilicet sapientia, scientia et intellectus. Tertio, utrum habitus intellectualis qui est ars,
+sit virtus. Quarto, utrum prudentia sit virtus distincta ab arte.
+Quinto, utrum prudentia sit virtus necessaria homini.
+Sexto, utrum eubulia, synesis et gnome sint virtutes adiunctae prudentiae.
+|a1 Articulus 1
+AG1
+Ad primum sic proceditur. Videtur quod habitus intellectuales speculativi non sint virtutes. Virtus enim est
+habitus operativus, ut supra dictum est.
+Sed habitus speculativi non sunt operativi, distinguitur enim speculativum a practico, idest operativo. Ergo
+habitus intellectuales speculativi non sunt virtutes.
+AG2
+Praeterea, virtus est eorum per quae fit homo felix sive beatus, eo quod felicitas est virtutis praemium, ut dicitur
+in I ethic..
+Sed habitus intellectuales non considerant actus humanos, aut alia bona humana, per quae homo beatitudinem
+adipiscitur, sed magis res naturales et divinas. Ergo huiusmodi habitus virtutes dici non possunt.
+AG3
+Praeterea, scientia est habitus speculativus. Sed scientia et virtus distinguuntur sicut diversa genera non
+subalternatim posita; ut patet per Philosophum, in IV topic..
+Ergo habitus speculativi non sunt virtutes.
+SC
+Sed contra, soli habitus speculativi considerant necessaria quae impossibile est aliter se habere.
+Sed Philosophus ponit, in VI ethic., quasdam virtutes intellectuales in parte animae quae considerat necessaria
+quae non possunt aliter se habere.
+Ergo habitus intellectuales speculativi sunt virtutes.
+CO
+Respondeo dicendum quod, cum omnis virtus dicatur in ordine ad bonum, sicut supra dictum est, duplici ratione
+aliquis habitus dicitur virtus, ut supra dictum est, uno modo, quia facit facultatem bene operandi; alio modo, quia
+cum facultate, facit etiam usum bonum. Et hoc, sicut supra dictum est, pertinet solum ad illos habitus qui
+respiciunt partem appetitivam, eo quod vis appetitiva animae est quae facit uti omnibus potentiis et habitibus.
+Cum igitur habitus intellectuales speculativi non perficiant partem appetitivam, nec aliquo modo ipsam
+respiciant, sed solam intellectivam; possunt quidem dici virtutes inquantum faciunt facultatem bonae operationis,
+quae est consideratio veri (hoc enim est bonum opus intellectus), non tamen dicuntur virtutes secundo modo,
+quasi facientes bene uti potentia seu habitu. Ex hoc enim quod aliquis habet habitum scientiae speculativae, non
+inclinatur ad utendum, sed fit potens speculari verum in his quorum habet scientiam, sed quod utatur scientia
+habita, hoc est movente voluntate. Et ideo virtus quae perficit voluntatem, ut caritas vel iustitia, facit etiam bene
+uti huiusmodi speculativis habitibus.
+Et secundum hoc etiam, in actibus horum habituum potest esse meritum, si ex caritate fiant, sicut Gregorius
+dicit, in VI Moral., quod contemplativa est maioris meriti quam activa.
+RA1
+843
+
+

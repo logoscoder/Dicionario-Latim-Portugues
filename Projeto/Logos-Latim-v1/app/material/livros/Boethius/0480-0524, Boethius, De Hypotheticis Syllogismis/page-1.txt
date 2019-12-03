@@ -1,0 +1,60 @@
+M. S. Boethius
+De Hypotheticis Syllogismis
+
+LIBER 1
+[1.1.1] Cum in omnibus philosophiae disciplinis ediscendis atque tractandis summum in uita positum solamen
+existimem, tum iocundius, et ueluti cum quodam fructu etiam laboris arripio quae tecum communicanda compono.
+Nam et si ipsa speculatio ueritatis sua quodam specie sectanda est, fit tamen amabilior cum in commune deducitur.
+Nullum enim bonum est quod non pulchrius elucescat, si plurimorum notitia comprobetur; namque alias taciturnitate
+compressum et iam iamque silentio periturum, latius efflorescit et ab obliuionis interitu scientium participatione
+defenditur.
+[1.1.2] Fit quoque iocundior disciplina, cum inter eiusdem sapientiae conscios iubet esse sapientem: quod si
+accedat, ut tecum mihi nunc res est, ea quae sponte iocunda sunt in amicitiae participationem deduci, necesse est studii
+suauitatem quodam ueluti dulcissimo caritatis sapore condiri. Nam cum id in se obtineat amicitia proprium munus, ut
+nolit habere solitarias cogitationes, tunc quod honeste quisque cogitat, nulli promptius, nisi quem diligit, confitetur.
+Quo factum est ut, etiam /206/ si immensus labor coepto operi uiam negabat, animus tamen ad efficiendum quod
+aggressus fuerat tui contemplatione sufficeret.
+[1.1.3] Quid enim magnum studiosus tui amor efficeret, si intra facilitatis terminos constitisset? Quod igitur
+apud scriptores quidem Graecos per quam rarissimos strictim atque confuse, apud Latinos uero nullos repperi, id tuae
+scientiae dedicatum noster etsi diuturnus, coepti tamen efficax labor excoluit. Nam cum categoricorum syllogismorum
+plenissime notitiam percepisses, de hypotheticis syllogismis saepe quaerebas, in quibus nihil est ab Aristotele
+conscriptum. Theophrastus uero, uir omnis doctrinae capax, rerum tantum summas exsequitur; Eudemus latiorem
+docendi graditur uiam sed ita ut ueluti quaedam seminaria sparsisse, nullum tamen frugis uideatur extulisse prouentum.
+[1.1.4] Nos igitur, quantum ingenii uiribus et amicitiae tuae studio sufficimus, quae ab illis uel dicta breuiter
+uel funditus omissa sunt, elucidanda diligenter et subtiliter persequenda suscepimus; in qua re superatae difficultatis
+praemium fero, si tibi munus implesse uidear amicitiae, etsi non uidear satisfecisse doctrinae. Vale.
+* * * * *
+Omnis syllogismus certis et conuenienter positis propositionibus continetur. Propositio uero omnis aut
+categorica est, quae praedicatiua dicitur, aut hypothetica, quae conditionalis uocatur.
+[1.1.5] Praedicatiua est in qua aliquid de alio praedicatur hoc modo:
+Homo animal est
+hic enim animal de homine praedicatum est; hypothetica est quae cum quodam conditione denuntiat esse
+aliquid si fuerit aliud, ueluti cum ita dicimus:
+Si dies est, lux est
+Hypotheticae autem propositiones ex categoricis constant, ut paulo posterius apparebit, quo fit ut syllogismus
+/208/ quidem, qui ex categoricis propositionibus iunctus est, categoricus appelletur, id est praedicatiuus, qui uero ex
+hypotheticis propositionibus constat, dicatur hypotheticus, id est conditionalis. Ut igitur horum syllogismorum
+differentia peruideatur, spectanda prius est eorum in propositionum natura discretio.
+[1.1.6] Videtur enim in aliquibus propositionibus nihil differre praedicatiua propositio a conditionali, nisi
+tantum quidem orationis modo; uelut si quis ita proponat:
+Homo animal est
+id si ita rursus enuntiet:
+Si homo est, animal est
+hae propositiones orationis quidem modo diuersae sunt, rem uero non uidentur significasse diuersam. Primum
+igitur dicendum est quod praedicatiua propositio uim suam non in conditione sed in sola praedicatione constituit, in
+conditionali uero consequentiae ratio ex conditione suscipitur. Rursus praedicatiua simplex est propositio, conditionalis
+uero esse non poterit, nisi ex praedicatiuis propositionibus coniungatur, ut cum dicimus:
+Si dies est, lux est; Dies est;
+atque:
+Lux est
+duae sunt praedicatiuae, id est simplices propositiones.
+[1.1.7] Ad hoc illud est, quo maxime declaratur utrarumque proprietas, quod praedicatiua quidem propositio
+habet unum terminum subiectum, alterum praedicatum; et id quod in praedicatiua propositione subicitur, illius
+suscipere nomen uidetur quod in eadem propositione praedicatur hoc modo, ut cum dicimus:
+Homo animal est
+homo subiectum est, animal praedicatum, et homo animalis suscipit nomen, cum ipse homo animal esse
+proponitur. /21O/
+[1.2.1] At in his propositionibus quae conditionales dicuntur non est idem praedicationis modus; neque enim
+omnino alterum de altero praedicatur sed id tantum dicitur esse alterum, si alterum fuerit, ueluti cum dicimus:
+
+

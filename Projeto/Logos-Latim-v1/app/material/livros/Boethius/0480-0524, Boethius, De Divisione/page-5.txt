@@ -1,0 +1,61 @@
+finitum et intinitum; quanquam enim sit priuatio, infinitum tamen contrarii imaginatione formatur, est quaedam
+namque, ut dictum est, forma.
+Dignum uero inquisitu est utrum in species an in differentias recte genera diuidantur, definitio namque
+diuisionis est generis in species proximas distributio. Oportet igitur secundum naturam diuisionis et secundum
+definitionem in proprias species semper fieri generis disgregationem (sed hoc interdum fieri nequit propter eam quam
+supra reddidimus causam, multis enim speciebus non sunt nomina) atque ideo, quoniam quaedam sunt prima genera,
+quaedam ultima, quaedam media: primum quidem ut substantia, ultimum ut animal, medium /30/ ut corpus, corpus
+namque animalis genus est, substantia corporis, sed neque super substantiam quicquam inueniri potest quod generis
+loco ualeat collocari neque sub animali, homo namque species, non genus, est.
+Quare antiquior uidebitur speciei diuisio si non sit indigentia nominum, quod si his omnibus non abundamus,
+prima genera usque ad ultima conuenit in differentias separare. Hoc autem fit hoc modo, ut primum genus in suas
+differentias disgregemus non in posteriores, et posterius rursus in suas sed non in posteriores. Neque enim eaedem sunt
+differentiae corporis quae animalis, si quis enim dicat "Substantiae aliud est corporale, aliud incorporale" recte
+diuisionem fecerit, hae namque differentiae propriae substantiae sunt; si quis uero sic, "Substantiarum alia sunt
+animata, alia inanimata", hic non recte substantiae differentias disgregauit, corporis namque differentiae sunt, non
+substantiae, id est secundi generis non primi. Quare manifestum est secundum proprias differentias, non secundum
+posterioris generis, priorum generum diuisionem esse faciendam.
+Quotiens autem genus aut in differentias aut in species soluitur, post diuisionem factam mox definitiones aut
+exempla subdenda sunt, sed si quis definitionibus non abundet satis est exempla subicere, ut cum dicimus "Corporum
+alia sunt animata" subiciamus "ut homines uel ferae; alia inanimata, ut lapides".
+Oportet autem diuisionem quoque, sicut terminum neque diminutam esse, neque superfluam, nam neque
+plures species quam sub genere sunt oportet apponi nec pauciores, ut in se ipsa diuisio sicut terminus conuertatur.
+Conuertitur enim terminus sic: "Virtus est mentis habitus optimus", rursus "Habitus mentis optimus uirtus est". Sic
+etiam diuisio: "Omne genus aliquid eorum erit quae sunt species", rursus "quaelibet species proprium genus est".
+Fit autem generis eiusdem multipliciter diuisio, ut omnium corporum et quaecumque alicuius sunt
+magnitudinis. Sicut enim circulum in semicirculos et in eos quos Graeci *tomeas* uocant (nos diuisiones possumus
+dicere) distribuimus, et tetragonum alias ducto per angulum /32/ diametro in triangula, alias in parallelogrammata, alias
+in tetragona separamus, ita quoque genus, ut cum dicimus "Numerorum alii sunt pares, alii impares" et rursus "alii
+primi, alii non primi", et "Triangulorum alia sunt aequilatera, alia duo sola latera aequa habentia, alia totis inaequalia
+lateribus" et rursus "Triangulorum alia sunt rectiangula, alia acutos habentia tres angulos, alia obtusum". Sic igitur
+generis unius fit diuisio multiplex.
+Illud autem scire perutile est, quoniam genus una quodammodo multarum specierum similitudo est quae earum
+omnium substantialem conuenientiam monstret, atque ideo collectiuum plurimarum specierum genus est, disiunctiuae
+uero unius generis species. Quae quoniam differentiis informantur, ut dictum est, idcirco sub uno genere minus duabus
+speciebus esse non possunt, omnis enim differentia in discrepantium pluralitate constat. Sed de diuisione generis et
+speciei perplura dicta sunt.
+< DEFINITIO >
+Hanc igitur insistentibus uiam promptior per diuisionem generis ad speciei definitionem facultas aperitur,
+oportet autem non solum quas ad definitionem sumamus differentias addiscere, sed ipsius quoque definitionis artem
+diligentissima cognitione complecti. Et illud quidem, an ulla possit definitio demonstrari et quemadmodum per
+demonstrationem ualeat inueniri, et quaecumque de ea subtilius in postremis Analyticis ab Aristotele tractata sunt,
+praetermittam, solam tantum exsequar regulam definiendi.
+Rerum enim aliae sunt superiores, aliae inferiores, aliae mediae.
+Superiores quidem definitio nulla complectitur idcirco quod earum superiora genera inueniri non possunt;
+porro autem inferiores, quae sunt indiuidua, specificis differentiis carent, quocirca ipsae quoque a definitione seclusae
+sunt; mediae igitur quae et habent genera et de aliis uel /34/ de generibus uel de speciebus uel indiuiduis praedicantur
+sub definitionem cadere possunt.
+Data igitur huiusmodi specie quae et genus habeat et de posteriori praedicetur, primo eius sumo genus et illius
+generis diffferentias diuido; et adiungo differentiam generi, et uideo num illa differentia iuncta cum genere aequalis
+possit esse cum ea specie quam circumscribendam definitione suscepi. Quod si minor fuerit species, illam differentiam
+rursus quam dudum cum genere posueramus quasi genus ponimus eamque in alias suas differentias separamus, et
+rursus has duas differentias superiori generi coniungimus, et, si aequauit speciem, definitio speciei esse dicetur, sin
+minus, secundam differentiam rursus in alia separamus. Quas omnes coniungimus cum genere et rursus speculamur si
+omnes differentiae cum genere illi aequales sunt speciei quae definitur. Et postremo totiens differentias differentiis
+distribuimus usque dum omnes iunctae generi speciem aequali definitione describant.
+Huius autem rei clariorem facient exempla notitiam hoc modo. Sit nobis propositum quod definire uelimus
+"nomen". Vocabulum ergo nominis de pluribus nominibus praedicatur et est quodammodo species sub se continens
+indiuidua. Definio ergo nomen sic. Sumo eius genus quod est uox et diuido: "Vocum aliae sunt significatiuae, aliae
+uero minime". Vox autem non significatiua nihil ad nomen, etenim nomen significat; sumo ergo differentiam quae est
+
+

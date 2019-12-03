@@ -1,0 +1,64 @@
+separatis est aliquid formale, ut unum, et aliquid materiale, ut duo, ex
+quibus omnes numeri componuntur.
+|#7
+Deinde cum dicit: et hi quidem infinitum esse parem etc., ostendit
+differentiam eorum quantum ad radicem infiniti.
+Et dicit quod Pythagorici attribuebant infinitum uni radici, scilicet
+numero pari.
+Et hoc manifestabant dupliciter.
+Primo per rationem: quia id quod concluditur ab alio et per aliud
+terminatur, quantum est de se, habet rationem infiniti; quod autem
+concludit et terminat, habet rationem termini. Par autem numerus
+comprehenditur et concluditur sub impari. Si enim proponitur aliquis
+numerus par, undique divisibilis apparet; cum vero addita unitate ad
+imparem numerum reducitur, iam quandam indivisionem consequitur, ac si par
+sub impari constringatur: unde videtur quod par sit per se infinitum, et
+causet in aliis infinitatem.
+Ostendit etiam idem per signum.
+Ad cuius evidentiam sciendum est quod in geometricis, gnomon dicitur
+quadratum super diametrum consistens cum duobus supplementis: huiusmodi
+igitur gnomon circumpositus quadrato, constituit quadratum. Ex huius ergo
+similitudine in numeris gnomones dici possunt numeri qui aliquibus numeris
+adduntur.
+Est autem hic observandum, quod si aliquis accipiat numeros impares
+secundum ordinem progressionis naturalis, et unitati, quae est quadratum
+virtute (inquantum semel unum est unum), addat primum numerum imparem,
+scilicet ternarium, constituetur quaternarius, qui est numerus quadratus;
+nam bis duo sunt quatuor. Si vero huic secundo quadrato addatur secundus
+impar scilicet quinarius, consurgit novenarius, qui est quadratum ternarii;
+nam ter tria sunt novem. Si autem huic tertio quadrato addatur tertius
+impar, scilicet septenarius, consurgit sedecim, qui est quadratum
+quaternarii: et sic semper per ordinatam additionem numerorum imparium
+resultat eadem forma in numeris, scilicet quadratum.
+Per additionem autem parium, semper resultat diversa figura. Nam si primus
+par, scilicet duo, addantur unitati, consurgit ternarius, qui est figurae
+trilaterae; si autem huic addatur secundus par, scilicet quaternarius,
+consurgit septenarius, qui est figurae heptagonae: et sic semper variatur
+figura numerorum ex additione parium.
+Et hoc videtur esse signum quod uniformitas pertinet ad numerum imparem,
+difformitas autem et varietas et infinitum pertinent ad numerum parem.
+Et hoc est quod dicit: signum huius, scilicet quod infinitum sequatur
+numerum parem, est hoc quod contingit in numeris: circumpositis enim
+gnomonibus, idest numeris additis, circa unum, idest circa unitatem, et
+extra, idest circa alios numeros, aliquando quidem fit alia species, idest
+alia forma numeralis, scilicet per additionem numeri paris; aliquando autem
+fit una species, scilicet per additionem numeri imparis. Et sic patet quare
+Pythagoras numero pari attribuerit infinitatem.
+Plato autem attribuebat duabus radicibus, scilicet magno et parvo: haec
+enim duo secundum ipsum sunt ex parte materiae, cui competit infinitum.
+|#8
+Deinde cum dicit: qui autem de natura etc., ponit opiniones
+naturalium Philosophorum de infinito.
+Sciendum est ergo quod omnes naturales Philosophi, qui scilicet naturaliter
+principia rerum tradiderunt, dixerunt quod infinitum non est per se
+subsistens, sicut supra dictum est; sed ponunt infinitum esse accidens
+alicuius naturae ei suppositae.
+Qui ergo posuerunt unum principium tantum materiale, quodcumque sit, de
+numero eorum quae dicuntur elementa, sive aer sive aqua sive aliquid
+medium, dixerunt illud esse infinitum.
+Qui vero fecerunt plura elementa sed finita secundum numerum, nullus eorum
+posuit quod elementa essent infinita secundum quantitatem: ipsa enim
+distinctio elementorum contrariari videbatur infinitati utriusque eorum.
+92
+
+

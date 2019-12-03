@@ -1,0 +1,57 @@
+|#2 Dicit ergo primo, quod demonstrativa scientia non potest esse de eo quod est a fortuna, quod est per
+accidens eveniens. Et hoc probat sic. Omnis syllogismus demonstrativus aut procedit ex propositionibus
+necessariis, aut ex propositionibus quae sunt verae ut frequenter. Ex propositionibus autem necessariis sequitur
+conclusio necessaria, ut supra probatum est. Et similiter ex propositionibus quae sunt verae sicut frequenter,
+sequitur etiam conclusio quae est vera ut frequenter; vel forte etiam necessaria, secundum quod ex contingenti
+potest sequi necessarium, ut ex falso verum. Nunquam autem ex propositionibus quae sunt verae ut frequenter,
+sequitur propositio quae est vera ut in paucioribus; quia sequeretur quod aliquando propositiones essent verae et
+conclusio falsa, quod est impossibile, ut supra ostensum est. Necesse est ergo quod conclusio syllogismi
+demonstrativi vel sit necessaria, vel sit vera sicut frequenter. Sed id quod est a fortuna neque est necessarium,
+neque est sicut frequenter, sed accidit ut in paucioribus, ut in II physicorum probatur. Ergo demonstrativa
+scientia non potest esse de eo quod est a fortuna.
+|#3 Est autem considerandum quod de his quidem quae sunt sicut frequenter, contingit esse demonstrationem,
+in quantum in eis est aliquid necessitatis. Necessarium autem, ut dicitur in II physicorum, aliter est in
+naturalibus, quae sunt vera ut frequenter, et deficiunt in minori parte; et aliter in disciplinis, idest in
+mathematicis, quae sunt semper vera. Nam in disciplinis est necessitas a priori; in naturalibus autem a posteriori
+(quod tamen est prius secundum naturam), scilicet a fine et forma. Unde sic docet ibi Aristoteles ostendere
+propter quid, ut si hoc debeat esse, puta quod oliva generetur, necesse est hoc praeexistere, scilicet semen olivae;
+non autem ex semine olivae generatur oliva ex necessitate, quia potest impediri generatio per aliquam
+corruptionem.
+Unde si fiat demonstratio ex eo quod est prius in generatione, non concludet ex necessitate; nisi forte accipiamus
+hoc ipsum esse necessarium, semen olivae ut frequenter esse generativum olivae, quia hoc facit secundum
+proprietatem suae naturae, nisi impediatur.
+|#4 Deinde cum dicit: neque per sensum etc., ostendit quod scientia non est eorum quae cognoscuntur
+secundum sensum. Et circa hoc duo facit: primo, ostendit quod scientia non consistit in sensu; secundo, ostendit
+quomodo sensus ordinatur ad scientiam; ibi: sunt tamen quaedam reducta etc.. Circa primum duo facit: primo,
+ostendit scientiam non esse per sensum; secundo, praefert scientiam sensui; ibi: universale autem honorabile etc..
+Circa primum duo facit: primo, ostendit veritatem; secundo, excludit quorumdam errorem; ibi: sed manifestum
+est etc..
+|#5 Dicit ergo primo, quod, sicut scientia non est eorum quae sunt a fortuna, ita etiam scientia non consistit in
+cognitione, quae est per sensum.
+Et hoc probat sic. Manifestum est enim quod sensus cognoscit aliquid tale, et non hoc. Non enim obiectum per se
+sensus est substantia et quod quid est, sed aliqua sensibilis qualitas, puta calidum, frigidum, album, nigrum, et
+alia huiusmodi.
+Huiusmodi autem qualitates afficiunt singulares quasdam substantias in determinato loco et tempore existentes:
+unde necesse est quod id quod sentitur, sit hoc aliquid, scilicet singularis substantia, et sit alicubi et nunc, idest in
+determinato loco et tempore. Ex quo patet quod id quod est universale, non potest cadere sub sensu.
+Non enim quod est universale determinatur ad hic et nunc, quia iam non esset universale. Illud enim universale
+dicimus quod est semper et ubique.
+|#6 Quod quidem non est secundum viam affirmationis intelligendum, quod hoc sit de ratione universalis, aut
+eius quod est universale, quod sit semper et ubique. Si enim esset de ratione eius quod est universale, esse
+semper et ubique, puta de ratione hominis aut animalis, oporteret quod quodlibet singulare hominis aut animalis
+esset semper et ubique; quia ratio hominis et animalis in quolibet singularium invenitur. Si vero esset de ratione
+ipsius universalis, sicut de ratione generis est quod contineat sub se species, sequeretur quod nihil esset
+universale, quod non semper et ubique inveniretur; et secundum hoc oliva non esset universale, quia non in omni
+terra potest inveniri. Est ergo hoc intelligendum per modum negationis seu abstractionis; quia scilicet universale
+abstrahit ab omni determinato tempore et loco. Unde quantum est de se, sicut invenitur in quolibet, in uno loco
+vel tempore, sic natum est in omnibus inveniri. Sic igitur patet quod universale non cadit sub sensu.
+Quia igitur demonstrationes praecipue sunt universales, ut supra ostensum est, manifestum est quod scientia per
+demonstrationem acquisita non consistit in cognitione sensus.
+|#7 Deinde cum dicit: sed manifestum est quoniam etc., excludit errorem quorumdam, qui credebant in ipsa
+perceptione sensus consistere scientiam.
+Et videtur haec ratio pertinere ad illos qui non ponebant intellectum differre a sensu, et per consequens nullam
+aliam cognitionem esse nisi sensitivam, ut habetur in III de anima et in IV metaphysicae. Et ad hoc excludendum
+dicit quod si etiam per sensum percipere possemus quod triangulus habet tres angulos aequales duobus rectis,
+70
+
+

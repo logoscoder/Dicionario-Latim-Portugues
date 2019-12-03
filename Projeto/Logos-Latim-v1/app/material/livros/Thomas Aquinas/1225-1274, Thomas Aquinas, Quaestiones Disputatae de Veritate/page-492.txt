@@ -1,0 +1,63 @@
+TTB
+Et videtur quod non.
+AG1
+Liberum enim arbitrium, secundum Augustinum, facultas est voluntatis et rationis.
+Facultas autem dicitur quasi facilis potestas.
+Cum ergo potentiae facilitas ex habitu proveniat quia, secundum Augustinum, habitus est quo facile quis agere
+potest, videtur quod liberum arbitrium sit habitus.
+AG2
+Praeterea, operationum quaedam sunt morales, quaedam naturales. Sed facultas quae est ad operationes morales,
+est habitus, non potentia, sicut patet de virtutibus moralibus.
+Ergo et liberum arbitrium, quod importat facilitatem ad operationes naturales, est habitus, non potentia.
+AG3
+Praeterea, secundum Philosophum in II phys., si natura faceret navim, faceret eam sicut ars. Ergo facilitas
+naturalis est eiusdem conditionis cuius est facilitas quae fit per artem.
+Sed facilitas quae fit per artem, est habitus quidam ex operibus acquisitus, sicut patet in virtutibus moralibus; ut
+arte fieri dicamus omne id quod ratione agitur. Ergo et facultas, sive facilitas naturalis, quae est liberum
+arbitrium, erit habitus quidam.
+AG4
+Ethic., habitus sunt secundum quos nos aliqualiter agimus, potentiae vero secundum quas simpliciter agimus.
+Sed liberum arbitrium nominat non solum id quo agimus, sed id quo aliqualiter agimus, scilicet libere.
+Ergo liberum arbitrium nominat habitum.
+AG5
+Sed dicendum, quod cum dicitur: habitus est quo aliqualiter agimus; intelligendum est bene vel male. Sed contra:
+illud quod est de ratione habitus, omni habitui est commune.
+Sed bene et male agere non est commune omni habitui; nam habitus speculativi non se habent ad bene vel male,
+ut dicitur.
+Ergo bene vel male agere non est de ratione habitus.
+AG6
+Praeterea, id quod tollitur per peccatum, non potest esse potentia, sed habitus. Liberum autem arbitrium tollitur
+per peccatum, quia, ut Augustinus dicit, homo utens male libero arbitrio, et se perdidit et ipsum. Ergo liberum
+arbitrium est habitus, et non potentia.
+AG7
+Sed dicendum, quod verbum Augustini intelligitur de libertate gratiae, quae est per habitum. Sed contra: habitu
+gratiae, secundum Augustinum, nullus male utitur.
+Ergo liberum arbitrium, quo aliquis male utitur, non potest libertas gratiae intelligi.
+AG8
+Praeterea, bernardus dicit in Lib. De libero arbitrio quod liberum arbitrium est habitus animi liber sui; et sic idem
+quod prius.
+AG9
+Praeterea, facilius est exire in actum cognitionis quam operationis. Sed potentiae cognitivae datus est aliquis
+habitus naturalis, scilicet intellectus principiorum, qui est in summo cognitionis. Ergo et potentiae operativae,
+sive motivae, datus est aliquis habitus naturalis. Cum ergo supremum locum in motivis liberum arbitrium tenere
+videatur, videtur quod sit habitus, vel potentia per habitum perfecta.
+AG10
+Praeterea, potentia non restringitur nisi per habitum. Sed voluntas et ratio restringitur in libero arbitrio: voluntas
+enim est possibilium et impossibilium, cum tamen liberum arbitrium non sit impossibilium; similiter ratio est
+eorum quae sunt in nobis, et eorum quae non sunt in nobis: liberum autem arbitrium solum eorum quae sunt in
+nobis. Ergo liberum arbitrium habitum nominat.
+AG11
+Praeterea, sicut potentia nominat aliquid superadditum essentiae, ita facultas dicit aliquid superadditum
+potentiae. Quod autem superadditur potentiae, est habitus. Cum ergo liberum arbitrium sit facultas, videtur quod
+sit habitus.
+AG12
+Praeterea, Augustinus dicit, quod liberum arbitrium est vitalis et rationalis animae motus. Sed motus actum
+nominat.
+Ergo liberum arbitrium est actus, et non potentia.
+AG13
+Praeterea, iudicium, secundum boetium, est actus iudicantis. Arbitrium autem idem est quod iudicium. Ergo et
+arbitrium est actus.
+
+492
+
+

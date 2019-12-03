@@ -1,0 +1,63 @@
+PR19
+Decimonono utrum potentiae sensitivae remaneant in anima separata.
+PR20
+Vicesimo utrum anima separata singularia cognoscat.
+PR21
+Vicesimoprimo utrum anima separata possit pati poenam ab igne corporeo.
+|q0
+|a1 Articulus 1
+TTA
+Et primo quaeritur utrum anima humana possit esse forma et hoc aliquid.
+TTB
+Et videtur quod non.
+AG1
+Si enim anima humana est hoc aliquid, est subsistens et habens per se esse completum.
+Quod autem advenit alicui post esse completum, advenit ei accidentaliter, ut albedo homini et vestimentum.
+Corpus igitur unitum animae advenit ei accidentaliter. Si ergo anima est hoc aliquid, non est forma substantialis
+corporis.
+AG2
+Praeterea, si anima est hoc aliquid, oportet quod sit aliquid individuatum; nullum enim universalium est hoc
+aliquid. Aut igitur individuatur ex aliquo alio, aut ex se.
+Si ex alio, et est forma corporis, oportet quod individuetur ex corpore (nam formae individuantur ex propria
+materia); et sic sequitur quod remoto corpore tollitur individuatio animae; et sic anima non poterit esse per se
+subsistens, nec hoc aliquid. Si autem ex se individuatur, aut est forma simplex, aut est aliquid compositum ex
+materia et forma.
+Si est forma simplex sequitur quod anima individuata, ab alia differre non poterit nisi secundum formam.
+Differentia autem secundum formam facit diversitatem speciei.
+Sequitur igitur quod animae diversorum hominum sint specie differentes; unde et homines specie differrent si
+anima est forma corporis, cum unumquodque a propria forma speciem sortiatur. Si autem anima est composita
+ex materia et forma, impossibile est quod secundum se totam sit forma corporis, nam materia nullius est forma.
+Relinquitur igitur quod impossibile sit animam simul esse hoc aliquid et formam.
+AG3
+Praeterea, si anima est hoc aliquid sequitur quod sit individuum quoddam. Omne autem individuum est in aliqua
+specie et in aliquo genere. Relinquitur igitur quod anima habeat propriam speciem et proprium genus.
+Impossibile est autem quod aliquid propriam speciem habens recipiat superadditionem alterius ad speciei
+cuiusdam constitutionem; quia, ut Philosophus dicit VIII metaph., formae vel species rerum sunt sicut numeri;
+quibus quidquid subtrahitur vel additur, speciem variat.
+Materia autem et forma uniuntur ad speciei constitutionem. Si igitur anima est hoc aliquid, non unietur corpori ut
+forma materiae.
+AG4
+Praeterea, cum Deus res propter sui bonitatem fecerit, quae in diversis rerum gradibus manifestatur, tot gradus
+entium instituit, quot potuit natura pati. Si igitur anima humana potest per se subsistere, quod oportet dicere, si
+est hoc aliquid, sequeretur quod anima per se existens sit unus gradus entium. Formae autem non sunt unus
+gradus entium seorsum sine materiis. Igitur anima, si est hoc aliquid, non erit forma alicuius materiae.
+AG5
+Praeterea, si anima est hoc aliquid, et per se subsistens, oportet quod sit incorruptibilis; cum neque contrarium
+habeat, neque ex contrariis composita sit. Si autem est incorruptibilis, non potest esse proportionata corpori
+corruptibili, quale est corpus humanum.
+Omnis autem forma est proportionata suae materiae. Igitur si anima est hoc aliquid, non erit forma corporis
+humani.
+AG6
+Praeterea, nihil subsistens est actus purus nisi Deus. Si igitur anima est hoc aliquid, utpote per se subsistens, erit
+in ea aliqua compositio actus et potentiae; et sic non poterit esse forma, quia potentia non est alicuius actus. Si
+igitur anima sit hoc aliquid non erit forma.
+AG7
+Praeterea, si anima est hoc aliquid potens per se subsistere, non oportet quod corpori uniatur nisi propter aliquod
+bonum ipsius. Aut igitur propter aliquod bonum essentiale, aut propter bonum accidentale.
+Propter bonum essentiale non, quia sine corpore potest subsistere; neque etiam propter bonum accidentale, quod
+praecipue videtur esse cognitio veritatis quam anima humana per sensus accipit, qui sine organis corporis esse
+non possunt. Sed animae puerorum antequam nascantur morientium, dicuntur a quibusdam perfectam
+
+2
+
+

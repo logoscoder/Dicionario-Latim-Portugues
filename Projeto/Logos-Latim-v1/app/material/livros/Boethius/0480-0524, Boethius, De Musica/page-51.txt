@@ -1,0 +1,61 @@
+Aristoxeno uidentur habere proprietates, ut alia eorum dicantur spissa, alia minime. Spissa sunt, quorum duae grauiores
+proportiones: unam eam quae ad acutum apposita est magnitudine non [1296] uincunt. Non spissa uero quorum duae
+proportiones unam reliquam poterunt superare; est autem enharmonium et chromaticum spissum, diatonicum uero non
+spissum.
+Itaque enharmonium secundum Aristoxenum diuiditur sic 6, 6, 48, ut inter grauem neruum ac prope grauem sit
+quarta pars toni, quae dicitur diesis enharmonios, cum sit tonus 24 unitatibus constitutus. Item secundum interuallum a
+graui neruo ad tertium, sit eadem quarta pars toni. Reliqui uero qui restant ex sexaginta qui totius proportionis sunt inter
+tertium a graui neruo atque acutissimum quartum ponuntur 48, et duae proportiones ad grauem positae, id est 6 ac 6,
+unam reliquam ad acutum locatam, id est 48, non uincunt. Chromatis uero mollis hanc facit diuisionem 8, 8, 44, ut octo
+atque octo sint tertiae partes tonorum; est enim tonus (ut dictum est) 24 unitatum, et dicitur toni pars tertia diesis
+chromatis mollis. Item chromatis hemiolii diatessaron ita partitur, 9, 9, 42. Est autem diesis chromatis hemiolii pars
+octaua toni cum quarta, id est ex 24 sex cum tribus.
+Item chromatis thoniaei talis secundum Aristoxenum partitio est, 12, 12, 36. Scilicet in duobus interuallis
+singula semitonia constituat, et quod reliquum est in ultimo. Atque in his omnibus duae proportiones, quae grauiori
+neruo sunt proximae, reliquam quae ad acutum posita est, magnitudine minime superant, sunt enim (ut dictum est)
+spissorum generum. Spissa quippe genera sunt enharmonium atque chromaticum. Diatonica uero diuisio ipsa quoque
+est duplex. Et mollis quidem diatonici diuisio est hoc modo, 12, 18, 30, ut 12 semitonium sit, decem et octo
+semitonium, et quarta pars toni, 32 uero quod reliquum est. Quorum decem et octo et 12 efficiunt 30, nec superantur ab
+ea parte quae reliqua est. Item diatonici incitati talis partitio est, ut semitonium ac duos habeat integros tonos 12, 24, 24,
+ex quibus 24 et 12, id est 36, non superantur a reliqua parte quae ad acutum est sed potius uincunt. Est igitur secundum
+Aristoxenum tetrachordorum praedicta partitio, quae subiecta descriptione monstratur.
+[PLLXIII:1296; text: Diuisio diatonici incitati, Diatessaron, 60, Tonus, Semitonium, 24, 12, Diuisio diatonici
+mollis, 30, 18, Diuisio chromatici thoniaei, 36] [BOEDIM5 03GF]
+Glareanus ad lectorem.
+Nos totum negotium in tetrachordi hyperboleon ita (ut spero)
+declarauimus, ut facile lector consideret quid me Deus uoluit elaborare. Multa tamen ex superioribus
+praesupponenda sunt, ut quomodo se diuisio generum habeat, alioqui inutilis erit labor. Caetera, mi lector, [1297] tuae
+attentioni consideranda relinquo. Vale, et me ama.
+Id tamen uolo te admoneri, in applicatione grauiores chordas uertisse ad maiorem numerum, cum tamen hic
+numerus non sit chordarum sed potius interuallorum. Ubi ergo nete diezeugmenon erat, ibi apte potuit poni nete
+hyperboleon. Attamen crede parum erroris esse. Nomina enim non omnino speculationem impediant.
+[PLLXIII:1298; text: Diuisio chromatis hemiolii, Diatessaron, 60, Diesis et octa pars toni, 42, 9, Diuisio
+chromatis mollis, 3 pars toni, 44, 8,Diuisio enharmonii, 4 pars toni, quarta pars toni, 48, 6] [BOEDIM5 04GF]
+[PLLXIII:1297-98; text: Hemitonium, 12, Paranete hyperboleon, Tonus,
+24, Trite hyperboleon, Nete diezeugmenon, Paranete hyperboleon, Nete hyperboleon, Hemitonium cum quarta
+parte, 18, Trite hyperboleon, Tonus cum quarta parte, 30, Nete diezeugmenon, Tonus cum hemitonio, 36, Octaua cum
+quarta, 9, Pars octaua cum quarta, Tonus cum 6/8 uel 3/4, 42, Pars tertia, 8, Tonus cum hemitonio et insuper 3/4, 44,
+Quatra pars, 6, Pars quarta, Duo toni, 48, Tetrachordos hyperboleon in genere enharmonio partitum. Tetrachordos
+hyperboleon in chromate molli disectum, Tetrachordos hyperboleon in genere chromatici hemioli diuisum,
+Tetrachordos hyperboleon in chromate tonico separatum, Tetrachordos hyperboleon in genere diatonico molli
+disiunctum, Tetrachordos hyperboleon in diatonico incitato scissum, Chromatici generis tria secundum Aritoxenum,
+Diatonici generi duo] [BOEDIM5 04GF]
+[1297] XVI
+Quomodo Archytas tetrachorda diuidat eorumque descriptio.
+Archytas uero cuncta in ratione constituens non modo sensum aurium in primis consonantiis obseruare
+neglexerit, uerum etiam maxime in tetrachordorum diuisione rationem secutus est. Sed ita, ut neque ea quam quaerebat
+efficaciter expediret, neque sensui proposita ab eo ratio consentiret. Ille enim tria esse genera arbitratur, enharmonium,
+chromaticum, diatonicum. In quibus eosdem grauissimos statuit atque acutissimos sonos, in omnibus quidem generibus
+grauissimos sonos faciens 2016, acutissimos uero 1512; inter hos in tribus generibus neruum grauissimo proximum
+collocat, eum scilicet qui sit 1954, ut ad eum 2016, sesquiuicesimam septimam obtineant proportionem. Post haec uero
+infra acutum neruum, tertium uero a grauissimo eum collocat in [1298] enharmonio genere, qui sit 1890, ad quem 1944
+sesquitricesima quinta proportione iungantur. Idemque 1890 ad acutissimum 1512 in sesquiquarta proportione sit
+constitutus. Item in diatonico genere tertium quidem a grauissimo neruo, secundum uero ab acutissimo eum ponit, qui
+sit 1701, ad quos 1944 sesquiseptima proportione coniuncti sunt. Ipsi autem 1701 ad acutissimum, 1512 sesquioctaua.
+In chromatico uero genere tertium a grauissimo, et secundum ab acutissimo eum ponit, qui ad 1701, qui est tertius a
+grauissimo in diatonico genere eam obtineat proportionem quam obtinent 256 et 243; hic autem est 1792, qui est
+secundus ab acutissimo appositus, habetque proportionem secundus ab acutissimo in diatonico genere, id est 1701 ad
+secundum ab acutissimo in chromatico genere, id est 1762 eam quam habent 243 ad 257, eorumque tetrachordorum,
+secundum Archytae sententiam, diuisorum formam monstrat subiecta descriptio.
+
+

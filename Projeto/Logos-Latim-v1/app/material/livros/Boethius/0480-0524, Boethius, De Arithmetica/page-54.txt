@@ -1,0 +1,64 @@
+ij
+Termini dupli
+
+iij
+
+j
+
+j
+
+ij
+
+j
+
+Termini tripli
+
+Habet autem proprietatem, quemadmodum dictum est, contrariam arithmeticae medietati. In illa enim in
+minoribus terminis maior erat proportio, in maioribus minor. In hac vero in maioribus quidem terminis maior est
+proportio, in minoribus vero minor. Namque in hac dispositione iij iiij vj tres ad quattuor comparati
+sesquitertiam habitudinem, sex vero ad quattuor, sesqualteram reddunt. Sed maior est proportio sesqualtera a
+sesquitertia tantum, quantum pars tertia medietate transcenditur. Iuste igitur medietas quaedam geometrica
+proprieque esse proportionalitas iudicatur, scilicet inter eam, ubi in maioribus terminis minor est proportio et in
+minoribus maior, et inter eam, ubi in maioribus maior est, in minoribus minor. Illa est enim vere proportionalitas,
+quae medietatis quodammodo locum obtinens et in maioribus et in minoribus aequalibus proportionum
+comparationibus continetur. Hoc quoque signum est duarum extremitatum mediam esse quodammodo
+geometricam proportionem. Namque in arithmetica proportione medius terminus eadem sua parte et minorem
+praecedit et a maiore praeceditur, sed alia parte minoris, alia vero parte maioris. Sit enim arithmetica dispositio ij
+iij iiij. Ternarius igitur numerus binarium tertia sua parte praecedit, id est uno, et a quaternario tertia sua parte
+praeceditur, id est uno. At vero ternarius non eadem parte minoris minorem vincit vel maioris a maiore
+superatur. Namque minorem, id est binarium, uno superat, id est ipsius medietate binarii, a quaternario vero uno
+relinquitur, quae pars quaternarii quarta est. Recte igitur dictum est, medium terminum in huiusmodi medietate
+eadem sui parte et minorem vincere et a maiore superari, sed non eisdem partibus vel minoris minorem
+transgredi vel maioris a maiore transcendi. Contrarie armonica medietas proportiones habet. Namque non eadem
+parte sua medius terminus in hac proportione vel minorem vincit vel a maiore superatur, sed eadem parte minoris
+minorem superat, qua parte maioris a maiore superatur. In hac enim dispositione armonica, quae est ij iij vj
+ternarius binarium tertia sui parte vincit, idem ternarius a senario tota sui quantitate superatur, id est tribus,
+idemque ipse ternarius medietate minoris vincit minorem, id est uno, et medietate maioris a maiore termino
+vincitur, id est tribus. Senarii enim medietas ternarius est. In geometrica vero medietate neque eisdem suis
+partibus medius vel vincit minorem vel a maiore vincitur, neque eadem parte vel minoris minorem superat vel
+maioris a maiore relinquitur, sed qua parte sua medius terminus minorem superat, eadem parte sua maior
+terminus medium vincit, quod est ut medietas atque extremitas aequalibus medietatem et extremitatem reliquam
+suis partibus supervadant. In hac enim dispositione, quae est iiij vj viiij tertia sui parte medius senarius
+quaternarium superat, id est duobus, et tertia sui parte rursus novenarius senarium vincit, id est tribus. Habet
+autem aliam proprietatem armonica medietas, ut cum duas extremitates in unum redactas medietas
+multiplicaverit, dupla quantitas colligatur, quam si se multiplicent duae extremitates. Sint enim hi termini: iij iiij
+vj. Si igitur ternarium et senarium iungas, novenarium facies, qui per quaternarium ductus xxxvj efficit. Quod si
+se ipsae extremitates multiplicent et fiant tres sexies, xviij conficiunt, quod est prioris summae dimidium.
+
+viij
+xxvj
+ij iij
+
+j
+
+iiij
+Quare dicta sit armonica medietas ea, quae digesta est
+Considerandum forsitan videatur, cur hanc armonicam medietatem vocemus. Cuius haec ratio est, quoniam
+arithmetica dispositio aequas tantum per differentias dividit quantitates, geometrica vero terminos aequa
+proportione coniungit, at vero armonica ad aliquid quodammodo relata consideratione neque solum in terminis
+speculationem proportionis habet neque solum in differentiis, sed in utrisque communiter. Quaerit enim, ut
+quemadmodum sunt ad se extremi termini, sic maioris ad medium differentia contra differentiam medietatis ad
+ultimum. Ad aliquid autem considerationem armonicae proprie esse, in primi libri rerum omnium divisione
+54
+
+

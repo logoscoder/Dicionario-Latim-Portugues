@@ -1,0 +1,59 @@
+Sed determinate nunc est verum dicere de aliquo singulari quod est album; ergo primo, idest antequam illud
+fieret album, erat verum dicere quoniam hoc erit album. Sed eadem ratio videtur esse in propinquo et in remoto;
+ergo si ante unum diem verum fuit dicere quod hoc erit album, sequitur quod semper fuit verum dicere de
+quolibet eorum, quae facta sunt, quod erit. Si autem semper est verum dicere de praesenti quoniam est, vel de
+futuro quoniam erit, non potest hoc non esse vel non futurum esse.
+Cuius consequentiae ratio patet, quia ista duo sunt incompossibilia, quod aliquid vere dicatur esse, et quod non
+sit. Nam hoc includitur in significatione veri, ut sit id quod dicitur. Si ergo ponitur verum esse id quod dicitur de
+praesenti vel de futuro, non potest esse quin illud sit praesens vel futurum. Sed quod non potest non fieri idem
+significat cum eo quod est impossibile non fieri. Et quod impossibile est non fieri idem significat cum eo quod
+est necesse fieri, ut in secundo plenius dicetur.
+Sequitur ergo ex praemissis quod omnia, quae futura sunt, necesse est fieri. Ex quo sequitur ulterius, quod nihil
+sit neque ad utrumlibet neque a casu, quia illud quod accidit a casu non est ex necessitate, sed ut in paucioribus;
+hoc autem relinquit pro inconvenienti; ergo et primum est falsum, scilicet quod omne quod est verum esse,
+verum fuerit determinate dicere esse futurum.
+|#11 Ad cuius evidentiam considerandum est quod cum verum hoc significet ut dicatur aliquid esse quod est,
+hoc modo est aliquid verum, quo habet esse. Cum autem aliquid est in praesenti habet esse in seipso, et ideo vere
+potest dici de eo quod est: sed quamdiu aliquid est futurum, nondum est in seipso, est tamen aliqualiter in sua
+causa: quod quidem contingit tripliciter.
+Uno modo, ut sic sit in sua causa ut ex necessitate ex ea proveniat; et tunc determinate habet esse in sua causa;
+unde determinate potest dici de eo quod erit.
+Alio modo, aliquid est in sua causa, ut quae habet inclinationem ad suum effectum, quae tamen impediri potest;
+unde et hoc determinatum est in sua causa, sed mutabiliter; et sic de hoc vere dici potest, hoc erit, sed non per
+omnimodam certitudinem.
+Tertio, aliquid est in sua causa pure in potentia, quae etiam non magis est determinata ad unum quam ad aliud;
+unde relinquitur quod nullo modo potest de aliquo eorum determinate dici quod sit futurum, sed quod sit vel non
+sit.
+|#12 Deinde cum dicit: at vero neque quoniam etc., ostendit quod veritas non omnino deest in singularibus
+futuris utrique oppositorum; et primo, proponit quod intendit dicens quod sicut non est verum dicere quod in
+talibus alterum oppositorum sit verum determinate, sic non est verum dicere quod non utrumque sit verum; ut si
+quod dicamus, neque erit, neque non erit.
+Secundo, ibi: primum enim cum sit etc., probat propositum duabus rationibus.
+Quarum prima talis est: affirmatio et negatio dividunt verum et falsum, quod patet ex definitione veri et falsi:
+nam nihil aliud est verum quam esse quod est, vel non esse quod non est; et nihil aliud est falsum quam esse
+quod non est, vel non esse quod est; et sic oportet quod si affirmatio sit falsa, quod negatio sit vera; et e
+converso. Sed secundum praedictam positionem affirmatio est falsa, qua dicitur, hoc erit; nec tamen negatio est
+vera: et similiter negatio erit falsa, affirmatione non existente vera; ergo praedicta positio est impossibilis,
+scilicet quod veritas desit utrique oppositorum.
+Secundam rationem ponit; ibi: ad haec si verum est etc.. Quae talis est: si verum est dicere aliquid, sequitur quod
+illud sit; puta si verum est dicere quod aliquid sit magnum et album, sequitur utraque esse. Et ita de futuro sicut
+de praesenti: sequitur enim esse cras, si verum est dicere quod erit cras. Si ergo vera est praedicta positio dicens
+quod neque cras erit, neque non erit, oportebit neque fieri, neque non fieri: quod est contra rationem eius quod
+est ad utrumlibet, quia quod est ad utrumlibet se habet ad alterutrum; ut navale bellum cras erit, vel non erit. Et
+ita ex hoc sequitur idem inconveniens quod in praemissis.
+|+14 Lectio 14
+|#1
+Ostenderat superius Philosophus ducendo ad inconveniens quod non est similiter verum vel falsum
+determinate in altero oppositorum in singularibus et futuris, sicut supra de aliis enunciationibus dixerat; nunc
+autem ostendit inconvenientia ad quae adduxerat esse impossibilia.
+Et circa hoc duo facit: primo, ostendit impossibilia ea quae sequebantur; secundo, concludit quomodo circa haec
+se veritas habeat; ibi: igitur esse quod est etc..
+|#2 Circa primum tria facit: primo, ponit inconvenientia quae sequuntur; secundo, ostendit haec inconvenientia
+ex praedicta positione sequi; ibi: nihil enim prohibet etc.; tertio, ostendit esse impossibilia inconvenientia
+memorata; ibi: quod si haec possibilia non sunt etc..
+Dicit ergo primo, ex praedictis rationibus concludens, quod haec inconvenientia sequuntur, si ponatur quod
+necesse sit oppositarum enunciationum alteram determinate esse veram et alteram esse falsam similiter in
+
+33
+
+

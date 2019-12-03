@@ -1,0 +1,59 @@
+Est autem primo sciendum quod, sicut dictum est prius, quando modus ponitur cum dicto, illa propositio
+est distinguenda secundum compositionem et diuisionem. Et ideo primo uidendum est de conuersione talium
+propositionum in sensu compositionis et aequiualentium eis, secundo de conuersione talium propositionum in
+sensu diuisionis et aequiualentium eis.
+Est autem primo sciendum quod, sicut dictum est prius, quando modus ponitur cum dicto, illa propositio
+est distinguenda secundum compositionem et diuisionem. Et ideo primo uidendum est de conuersione talium
+propositionum in sensu compositionis et aequiualentium eis, secundo de conuersione talium propositionum in
+sensu diuisionis et aequiualentium eis.
+Circa primum sciendum est breuiter quod tales propositiones conuertuntur sicut suae de inesse, quia in
+conuersione talium arguitur semper per istam regulam 'si unum conuertibilium est necessarium, reliquum est
+necessarium'; uel per istam 'si antecedens est necessarium, consequens est necessarium'. Unde in conuersione
+simplici, large sumpta, arguitur per primam regulam, in conuersione per accidens arguitur per secundam
+regulam. Verbi gratia sic arguendo 'nullum hominem esse asinum est necessarium, igitur nullum asinum esse
+hominem est necessarium', arguitur per istam regulam. Cum ista conuertantur, sicut dictum est prius, 'nullus
+homo est asinus' et 'nullus asinus est homo', si haec sit necessaria
+'nullus homo est asinus' oportet quod haec sit necessaria 'nullus asinus est homo'. Et sicut dictum est de
+istis, ita dicendum est de aliis. Et hoc est uniuersaliter uerum de omnibus, siue sint reduplicatiuae siue exclusiuae
+siue exceptiuae siue quaecumque aliae propositiones categoricae.
+'nullus homo est asinus' oportet quod haec sit necessaria 'nullus asinus est homo'. Et sicut dictum est de
+istis, ita dicendum est de aliis. Et hoc est uniuersaliter uerum de omnibus, siue sint reduplicatiuae siue exclusiuae
+siue exceptiuae siue quaecumque aliae propositiones categoricae.
+Sciendum est etiam quod Philosophus, I Priorum, tantum probat illas de necessario conuerti in sensu
+compositionis uel eis aequiualentes et non alias, quia neutra probatio sua procedit de aliis, sicut ibi patet. Unde
+ista propositio 'si unum conuertibilium est possibile, reliquum est passibile' non ualet nisi quantum ad
+propositiones de possibili sumptas in sensu compositionis. Nec etiam ista 'cuicumque actui repugnat necessitas,
+potentiae eiusdem actus repugnat necessitas eadem', hoc est cuicumque propositioni de inesse repugnat aliqua
+propositio de necessario, propositioni de possibili correspondenti illi de inesse repugnat eadem propositio de
+necessario. Unde si istae duae repugnant 'aliquis homo currit' et 'necesse est nullum animal currere', istae duae
+repugnabunt
+'possibile est aliquem hominem currere' et 'necesse est nullum animal currere'. Et hoc est uerum
+generaliter quando utraque de modo accipitur in sensu compositionis uel aequiualens sibi. Si enim una
+acciperetur in sensu diuisionis, regula non ualeret, nam instantiae sunt multae. Sicut istae duae repugnant
+'aliquod uerum est impossibile' et 'necesse est nullum uerum esse impossibile', et tamen istae duae stant simul
+'aliquod uerum potest esse impossibile' et 'necesse est nullum uerum esse impossibile', illa de necessario sumpta
+in sensu compositionis, quia utraque istarum est uera. Et ita Philosophus in libro Priorum non loquitur de
+conuersione propositionum de necessario nisi quando sumuntur in sensu compositionis uel aequiualenter.
+'possibile est aliquem hominem currere' et 'necesse est nullum animal currere'. Et hoc est uerum
+generaliter quando utraque de modo accipitur in sensu compositionis uel aequiualens sibi. Si enim una
+acciperetur in sensu diuisionis, regula non ualeret, nam instantiae sunt multae. Sicut istae duae repugnant
+'aliquod uerum est impossibile' et 'necesse est nullum uerum esse impossibile', et tamen istae duae stant simul
+'aliquod uerum potest esse impossibile' et 'necesse est nullum uerum esse impossibile', illa de necessario sumpta
+in sensu compositionis, quia utraque istarum est uera. Et ita Philosophus in libro Priorum non loquitur de
+conuersione propositionum de necessario nisi quando sumuntur in sensu compositionis uel aequiualenter.
+Circa conuersionem propositionum de necessario, sumptarum in sensu diuisionis et aequiualentium, est
+sciendum quod non sunt conuertibiles nulla facta mutatione seu uariatione ex parte uocis praeter transpositionem
+terminorum. Non enim sequitur per naturam conuersionis 'nullus homo de necessitate est asinus, igitur nullus
+asinus de necessitate est homo', quia non sequitur in sensu diuisionis acceptis aliis propositionibus. Unde non
+sequitur 'nullum impossibile esse uerum est necessarium, igitur nullum uerum esse impossibile est necessarium',
+quia antecedens est uerum et consequens falsum. Nullum enim impossibile potest esse uerum, et tamen aliquod
+uerum potest esse impossibile. Haec enim modo est uera 'ego non fui
+Romae', et tamen potest esse impossibilis: si enim uadam Romam, postea erit impossibilis.
+Romae', et tamen potest esse impossibilis: si enim uadam Romam, postea erit impossibilis.
+Similiter non sequitur 'creans de necessitate est Deus, igitur Deus de necessitate est creans', quia
+antecedens est uerum et consequens falsum. Similiter non sequitur 'homo de necessitate intelligitur a Deo, igitur
+aliquod intellectum a Deo de necessitate est homo', quia antecedens est uerum et consequens falsum. Similiter
+non sequitur 'homo albus de necessitate est homo, igitur homo de necessitate est homo albus'.
+195
+
+

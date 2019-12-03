@@ -1,0 +1,64 @@
+uel:
+Nullus est homo non iustus
+Sed non hoc dicit, quoniam ex infinito subiecto propositiones diuersae sunt his quae sunt uel ex finito
+praedicato uel ex infinito, subiecto tamen finito. Possunt enim diuersae quidem esse praedicationes, idem tamen
+aliquotiens significare, ut ea quae dicit:
+Omnis est homo iniustus
+cum sit diuersa ab ea quae dicit:
+Nullus est homo iustus
+idem tamen aliquando significant, si affirmatio priuatoria praecesserit. Dictum est enim quod affirmationibus
+praecedentibus negationes sine dubio /341/ sequerentur ergo non hoc dicit, quoniam diuersae sunt ex infinito nomine
+subiecto, praedicato uel finito uel infinito <his quae sunt ex praedicato uel finito uel infinito>, subiecto tamen finito sed
+quod omnino sibi non consentiant nec idem significent id est tota sint propositionis uirtute dissimiles. Atque haec
+quidem dixit de his quae finitum subiectum haberent, infinitum uero praedicatum. Venit autem nunc ad ipsarum
+consequentias quae ex infinito nomine subiecto constant et sicut supra consequentiam earum quae ex utrisque finitis
+erant uel ex infinito praedicato docuit, ita quoque nunc e conuerso quae ex utrisque infinitis nominibus constant uel
+infinito nomine subiecto qualem ad se habeant consequentiam monstrat dicens: illa uero quae est:
+Omnis non iustus non homo
+illi quae est:
+Nullus iustus non homo
+idem significat. Has duas tantum propositiones monstrat, affirmatiuam scilicet uniuersalem ex utrisque
+infinitis quae dicit:
+Omnis non iustus non homo
+ei consentire quae est uniuersalis negatio ex solo infinito subiecto quae dicit:
+Nullus iustus non homo
+In his autem subauditur particula est, ut sit tota propositio:
+Omnis non iustus non homo est
+et rursus:
+Nullus iustus non homo est
+Nam sicut in his, quae finitum habebant subiectum, infinitum uero uel finitum praedicatum, affirmationem ex
+finito subiecto et infinito
+/342/ praedicato eam scilicet quae dicit:
+Est omnis homo non iustus
+sequebatur simplex uniuersalis negatio quae ex utrisque finitis constat id est:
+Nullus homo iustus est
+ita quoque in his permutatis tantum subiectis idem euenit. Nam sicut illic negatio ex utrisque finitis uniuersalis
+sequebatur affirmationem ex finito subiecto et infinito praedicato uniuersalem, ita hic quoque affirmationem ex
+utrisque infinitis uniuersalem sequitur negatio ex infinito subiecto ipsa quoque uniuersalis. Et has quidem duas
+propositiones adscripsit solam in his consequentiam, caeteras autem, quod putabat intellectu esse faciles, persequi
+neglexit. Nos autem eas ne quid relictum uideatur apponimus. Est enim sequentia hoc modo:
+Omnis non homo non iustus est
+Quidam non homo iustus est
+Nullus non homo iustus est
+Non omnis non homo non iustus est
+Omnis non homo iustus est
+Quidam non homo non iustus est
+Nullus non homo non iustus est
+Non omnis non homo iustus est
+/343/ Has igitur si quis diligenter inspexerit duas comparationes duabus conuenientissimam consequentiam
+consensumque monstrabunt.
+LIBER QUINTUS
+[INTRODUCTIO]
+Maximam operis emensi partem ea quae sequuntur licet magnis quaestionibus impedita, tamen audacius atque
+animosius exsequimur nec defatigari in singulis partibus oportet totius dialecticae prodere adgressos atque expedire
+doctrinam. Itaque rectam commentationis seriem conteximus.
+TRANSPOSITA VERO NOMINA VEL VERBA IDEM SIGNIFICANT, UT EST ALBUS HOMO, EST
+HOMO ALBUS. NAM SI HOC NON EST, EIUSDEM MULTAE ERUNT NEGATIONES.
+SED OSTENSUM EST, QUONIAM UNA UNIUS EST. EIUS ENIM QUAE EST EST ALBUS HOMO
+NEGATIO EST NON EST ALBUS HOMO; EIUS VERO QUAE EST EST HOMO ALBUS, SI NON EADEM EST
+EI QUAE EST EST ALBUS HOMO, ERIT NEGATIO VEL EA QUAE EST NON EST NON HOMO ALBUS VEL
+EA QUAE EST NON EST HOMO ALBUS.
+SED ALTERA QUIDEM EST NEGATIO EIUS QUAE EST EST NON HOMO ALBUS, ALTERA /344/
+VERO EIUS QUAE EST EST ALBUS HOMO. QUARE ERUNT DUAE UNIUS.
+
+

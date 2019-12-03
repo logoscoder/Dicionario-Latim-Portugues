@@ -1,0 +1,57 @@
+Secundo sciendum est quod quando exclusiua est negatiua, subiectum supponit sicut in exclusiua
+affirmatiua, et praedicatum similiter, quia sequitur
+'tantum substantia non est accidens, igitur tantum substantia non est hoc accidens'.
+'tantum substantia non est accidens, igitur tantum substantia non est hoc accidens'.
+Tertio sciendum est de suppositione terminorum in exclusiua quando dictio exclusiua ponitur a parte
+praedicati. Et est dicendum quad subiectum supponit in tali sicut supponit in sua praeiacente; et idem est de
+praedicato. Et ratio est quia idem de eodem non potest uere affirmari et negari, et ideo semper ex praeiacente
+sequitur exclusiua quando dictio exclusiua ponitur a parte praedicati. Quod est intelligendum si sit propositio de
+recto; nam si sit propositio de obliquo, tunc non est uniuersaliter uerum. Immo, si sit propositio de obliquo et
+dictio exclusiua sit determinatio praedicati et non determinatio compositionis, tunc praedicatum stat confuse
+tantum. Nam ponatur quod Sortes uideatur a multis hominibus et a nullo alio animali quam ab homine, tunc ista
+propositio est uera 'Sortes uidetur a solo homine', quia istae exponentes sunt uerae
+'Sortes uidetur ab homine' et 'Sortes uidetur a nullo alio quam ab homine', et tamen non sequitur 'Sortes
+uidetur a solo homine, igitur Sortes uidetur a solo isto homine uel a solo illo homine'; immo etiam nec sequitur
+'Sortes uidetur a solo homine, igitur Sortes uidetur ab isto homine'. Et ideo non stat nec confuse et distributiue,
+nec determinate, sed confuse tantum.
+'Sortes uidetur ab homine' et 'Sortes uidetur a nullo alio quam ab homine', et tamen non sequitur 'Sortes
+uidetur a solo homine, igitur Sortes uidetur a solo isto homine uel a solo illo homine'; immo etiam nec sequitur
+'Sortes uidetur a solo homine, igitur Sortes uidetur ab isto homine'. Et ideo non stat nec confuse et distributiue,
+nec determinate, sed confuse tantum.
+Si autem dictio exclusiua sit determinatio compositionis, tunc stat praedicatum sicut in praeiacente.
+Sicut in ista 'homo uidetur tantum ab homine', si li tantum sit determinatio compositionis, tunc habet istas
+exponentes 'homo uidetur ab homine' et 'homo non est aliud quam uisum ab homine'. Ex quibus patet quod
+termini non aliter supponunt in exclusiua quam in sua praeiacente, quia semper talis exclusiua et sua praeiacens
+conuertuntur. Si autem subiectum exclusiuae in qua ponitur dictio exclusiua a parte subiecti sumatur cum
+distributione, tunc subiectum supponit confuse et distributiue, tam affirmatiuae quam negatiuae, quia includit
+contradictoria. Ideo de ista non plus ad praesens.
+Si autem dictio exclusiua sit determinatio compositionis, tunc stat praedicatum sicut in praeiacente.
+Sicut in ista 'homo uidetur tantum ab homine', si li tantum sit determinatio compositionis, tunc habet istas
+exponentes 'homo uidetur ab homine' et 'homo non est aliud quam uisum ab homine'. Ex quibus patet quod
+termini non aliter supponunt in exclusiua quam in sua praeiacente, quia semper talis exclusiua et sua praeiacens
+conuertuntur. Si autem subiectum exclusiuae in qua ponitur dictio exclusiua a parte subiecti sumatur cum
+distributione, tunc subiectum supponit confuse et distributiue, tam affirmatiuae quam negatiuae, quia includit
+contradictoria. Ideo de ista non plus ad praesens.
+Et est notandum quod omnia praedicta intelligenda sunt quando dictio exclusiua proprie accipitur.
+Quando autem accipitur improprie, non sunt omnia praedicta uera. Sed quae sunt uera et quae non, potest patere
+leuiter inspicienti secundum improprias significationes dictionis exclusiuae, de quibus dictum est prius.
+Et est notandum quod omnia praedicta intelligenda sunt quando dictio exclusiua proprie accipitur.
+Quando autem accipitur improprie, non sunt omnia praedicta uera. Sed quae sunt uera et quae non, potest patere
+leuiter inspicienti secundum improprias significationes dictionis exclusiuae, de quibus dictum est prius.
+Ultimo uidendae sunt aliquae regulae circa dictiones exclusiuas. Una est quod ab exclusiua ad
+uniuersalem de terminis transpositis est bona consequentia et e conuerso, quia semper exclusiua et uniuersalis de
+terminis transpositis conuertuntur. Et est ista regula intelligenda quando praeiacens exclusiuae et similiter
+uniuersalis de terminis transpositis sunt conuertibiles, ita quod utraque possit proprie conuerti. Vel si praeiacens
+exclusiuae sit semper conuertibilis, nulla mutatione facta circa terminos praeter solam transpositionem uel aliqua
+alia mutatione, tunc debet consimilis uniuersalis accipi, cum qua conuertatur exclusiua. De quibus
+conuersionibus et de quibus modis conuertendi dicetur in sequentibus.
+Ultimo uidendae sunt aliquae regulae circa dictiones exclusiuas. Una est quod ab exclusiua ad
+uniuersalem de terminis transpositis est bona consequentia et e conuerso, quia semper exclusiua et uniuersalis de
+terminis transpositis conuertuntur. Et est ista regula intelligenda quando praeiacens exclusiuae et similiter
+uniuersalis de terminis transpositis sunt conuertibiles, ita quod utraque possit proprie conuerti. Vel si praeiacens
+exclusiuae sit semper conuertibilis, nulla mutatione facta circa terminos praeter solam transpositionem uel aliqua
+alia mutatione, tunc debet consimilis uniuersalis accipi, cum qua conuertatur exclusiua. De quibus
+conuersionibus et de quibus modis conuertendi dicetur in sequentibus.
+181
+
+

@@ -1,0 +1,41 @@
+Similiter et alterae fient duae conclusiones, si, ut nunc praeposuimus
+priorem propositionem, sic assumamus posteriorem:
+Quoddam iustum non est bonum
+omne honestum bonum
+fit illatio quarti modi in secunda formula duplex:
+Non igitur omne iustum honestum
+uel:
+Quoddam igitur iustum honestum non est
+Quarum utrauis aeque priori propositioni repugnat, quae concesserat:
+Omne iustum honestum
+His quattuor conclusionibus manentibus tantum propositio mutata est,
+si pro eo, quod erat:
+Quoddam iustum non est bonum
+facias:
+Non omne iustum bonum
+bifariam fit sublata illatio; erunt alterae quattuor conclusiones
+isdem immutationibus. Item si pro eadem facias:
+Nullum iustum bonum
+bifariam fit sublata illatio; erunt tertiae quattuor conclusiones
+dumtaxat in his, quae habebunt uniuersalem illationem; ea enim potest
+/212/ sola trifariam tolli. At in caeteris solae octo, quas, si quis
+uelit, singillatim sub unoquoque per omnes formulas poterit suggerere
+ad exemplum quod proposuimus.
+[13]
+* * * ut etiam Peripateticorum more per litteras ordine propositionum
+et partium commutato sed ui manente sit primus indemonstrabilis:
+A de omni B,
+et B de omni C;
+igitur A de omni C
+Incipiunt a declarante atque ideo et a secunda propositione. Hic adeo
+modus secundum hos pertextus retro talis est:
+Omne C B,
+omne B A;
+omne igitur C A
+Stoici porro pro litteris numeros usurpant ut:
+Si primum, secundum;
+atqui primum,
+secundum igitur
+12
+
+

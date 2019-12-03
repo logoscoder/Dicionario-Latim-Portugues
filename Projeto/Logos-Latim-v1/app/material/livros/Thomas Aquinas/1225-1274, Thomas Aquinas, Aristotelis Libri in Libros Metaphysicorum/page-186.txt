@@ -1,0 +1,55 @@
+|#7 Et ex hoc patet quod ipsa substantia dicitur ens ratione suiipsius, quia absolute significantia substantiam
+significant quid est hoc. Alia vero dicuntur entia, non quia ipsa habeant secundum se aliquam quidditatem, quasi
+secundum se entia, cum non ita dicant absolute quid: sed eo quod sunt talis entis, idest eo quod habent aliquam
+habitudinem ad substantiam quae est per se ens; quia non significant quidditatem; inquantum scilicet quaedam
+sunt qualitates talis entis, scilicet substantiae, et quaedam quantitates, et aliae passiones, vel aliquid aliud tale,
+quod significatur per alia genera.
+|#8 Secundo ibi, unde et probat idem per quoddam signum. Quia enim alia entia non sunt entia nisi secundum
+quod referuntur ad substantiam, ideo potest esse dubitatio de aliis entibus in abstracto significatis, quando non
+significant cum aliqua habitudine ad substantiam: utrum sint entia vel non entia, scilicet utrum vadere, sanare et
+sedere et unumquodque istorum in abstracto significatorum sit ens aut non ens. Et similiter est in aliis talibus,
+quae in abstracto significantur; sive significentur per modum actionis, ut praedicta, sive non, ut albedo sive
+nigredo.
+|#9 Pro tanto autem videntur accidentia in abstracto significata esse non entia, quia nihil ipsorum est aptum
+natum secundum se esse; immo cuiuslibet eorum esse est alteri inesse, et non est possibile aliquid eorum separari
+a substantia; et ideo quando significantur in abstracto quasi sint secundum se entia et a substantia separata,
+videtur quod sint non entia. Licet modus significandi vocum non consequatur immediate modum essendi rerum,
+sed mediante modo intelligendi; quia intellectus sunt similitudines rerum, voces autem intellectuum, ut dicitur in
+primo perihermenias.
+|#10 Licet autem modus essendi accidentium non sit ut per se sint, sed solum ut insint, intellectus tamen potest
+ea per se intelligere, cum sit natus dividere ea quae secundum naturam coniuncta sunt.
+Et ideo nomina abstracta accidentium significant entia quae quidem inhaerent, licet non significent ea per
+modum inhaerentium.
+Essent autem significata per huiusmodi nomina non entia, si non inessent in re.
+|#11 Et quia ista in abstracto significata videntur non entia, magis videntur entia nomina accidentium concreta.
+Magis autem videtur aliquid entium esse vadens et sedens et sanans quia determinatur eis aliquod subiectum per
+ipsam nominis significationem, inquantum significantur in concretione ad subiectum. Hoc autem subiectum est
+substantia. Et ideo unumquodque talium nominum, quae significant accidens in concreto, apparet in tali
+categoria, idest videtur importare praedicamentum substantiae; non ita quod praedicamentum substantiae sit pars
+significationis talium nominum (album enim, ut in praedicamentis dicitur, solam qualitatem significat); sed
+inquantum huiusmodi nomina significant accidentia ut inhaerentia substantiae. Bonum autem aut sedens non
+dicitur sine hoc, idest sine substantia. Significat enim accidens concretum substantiae.
+|#12 Et quia accidentia non videntur entia prout secundum se significantur, sed solum prout significantur in
+concretione ad substantiam, palam est quod singula aliorum entium sunt entia propter substantiam. Et ex hoc
+ulterius apparet, quod substantia est primum ens, et ens simpliciter, et non ens secundum aliquid, idest secundum
+quid, sicut est in accidentibus.
+Esse enim album non est simpliciter esse, sed secundum quid. Quod ex hoc patet, quia cum incipit esse albus,
+non dicimus quod incipiat esse simpliciter, sed quia incipiat esse albus. Cum enim socrates incipit esse homo,
+dicitur simpliciter quod incipit esse. Unde patet quod esse hominem significat esse simpliciter. Esse autem
+album significat esse secundum quid.
+|#13 Deinde cum dicit multipliciter quidem.
+Ostendit quomodo substantia dicatur primum; et dicit quod cum hoc quod dico primum dicatur multis modis, ut
+in quinto est habitum, tribus modis substantia est prima inter omnia entia: scilicet secundum cognitionem, et
+secundum definitionem et secundum tempus. Et quod sit prima tempore aliis, ex hoc probatur, quod nullum
+aliorum praedicamentorum est separabile a substantia, sola autem substantia est separabilis ab aliis: nullum enim
+accidens invenitur sine substantia, sed aliqua substantia invenitur sine accidente. Et sic patet, quod non
+quandocumque est substantia, est accidens, sed e contrario: et propter hoc substantia est prior tempore.
+|#14 Et quod etiam sit prima secundum definitionem, patet, quia in definitione cuiuslibet accidentium oportet
+ponere definitionem substantiae. Sicut enim in definitione simi ponitur nasus, ita in definitione cuiuslibet
+accidentis ponitur proprium eius subiectum; et ideo sicut animal est prius definitione quam homo, quia definitio
+animalis ponitur in definitione hominis, eadem ratione substantia est prior definitione accidentibus.
+|#15 Quod etiam sit prior ordine cognitionis, patet. Illud enim est primum secundum cognitionem, quod est
+magis notum et magis manifestat rem. Res autem unaquaeque magis noscitur, quando scitur eius substantia,
+186
+
+

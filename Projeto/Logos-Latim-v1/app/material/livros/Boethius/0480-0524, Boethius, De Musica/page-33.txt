@@ -1,0 +1,18 @@
+colligitur unitatibus 531441, et sit hoc C Quoniam igitur A B minus semitonium, A C maius, differentia eius quod est B
+ab eo quod est C perquirenda est. Ea est 70153, id sit D. Sed hic numerus dudum comma monstrabat; inter maius igitur
+semitonium ac minus comma differentiam facit.
+[PLLXIII:1245; text: semitonium minus. comma, D, 7153, A, 497664, B, 524288, C, 531441, apotome]
+[BOEDIM3 13GF]
+Rursus demonstrandum propono tonum duobus semitoniis minoribus solo commate esse maiorem. Sit A
+numerus 472392. Ab hoc intendatur tonus 531441, et sit hoc D ab eo uero quod est A intendatur semitonium minus,
+quod est B, ac sit B 497664. Item ab eo quod est B semitonium aliud intendatur minus, quod est C, et sit C 524288.
+Quoniam igitur A D tonus est, A C uero duo continent minora semitonia: uideamus [1246] quae sit differentia inter C
+atque D numeros constituta. Est autem E, scilicet unitatem 7153. Demonstratum est igitur tonum duobus semitoniis
+minoribus commate esse maiorem,
+[PLLXIII:1246; text: Semitonium minus, Coma, E, 7153, A, 472392, B, 497664, C, 52488, D, 531441, Tonus
+intensus] [BOEDIM3 13GF]
+Sed quoniam omnia iam quae probanda promisimus propria ratione monstrata sunt, nunc quod superest
+musicae institutioni, regularis monochordi facienda est partitio. Quam rem quoniam longior tractatus extendit, in
+posterioris commentarii disputationem censuimus transferendam.
+
+

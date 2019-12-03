@@ -1,0 +1,58 @@
+Quaelibet autem propositio talis in qua ponitur terminus talis, duas ad minus habet exponentes, et
+aliquando habet plures; quod faciliter uideri potest uidendo definitionem exprimentem quid nominis ipsius
+termini. Unde quaelibet propositio in qua ponitur terminus infinitus habet duas exponentes: unam affirmatiuam,
+in qua iste terminus 'aliquid' in singulari uel in plurali, uel aliquis alius terminus aequipollens tali, subicitur uel
+praedicatur. Unde ista 'asinus est non-homo' aequiualet isti 'asinus est aliquid et asinus non est homo'. Similiter
+ista 'angelus est immaterialis'
+aequiualet isti 'angelus est aliquid et angelus non habet materiain'. Et hoc est intelligendum quando
+terminus talis negatiuus nihil significat negatiue nisi quod terminus oppositus significat affirmatiue. Quod dico
+ad excludendum istam instantiam: ista enim copulatiua 'essentia diuina est aliquid et non est genita' non
+aequiualet isti 'essentia diuina est ingenita'.
+aequiualet isti 'angelus est aliquid et angelus non habet materiain'. Et hoc est intelligendum quando
+terminus talis negatiuus nihil significat negatiue nisi quod terminus oppositus significat affirmatiue. Quod dico
+ad excludendum istam instantiam: ista enim copulatiua 'essentia diuina est aliquid et non est genita' non
+aequiualet isti 'essentia diuina est ingenita'.
+Ex isto patet quod de uirtute sermonis ista est neganda 'chimaera est non-homo', quia habet unam
+exponentem falsam, scilicet istam 'chimaera est aliquid'. Similiter si nullus homo sit albus, haec est neganda de
+uirtute sermonis 'homo albus est non-homo', quia ista exponens est falsa 'homo albus est aliquid'.
+Ex isto patet quod de uirtute sermonis ista est neganda 'chimaera est non-homo', quia habet unam
+exponentem falsam, scilicet istam 'chimaera est aliquid'. Similiter si nullus homo sit albus, haec est neganda de
+uirtute sermonis 'homo albus est non-homo', quia ista exponens est falsa 'homo albus est aliquid'.
+Et si dicatur quod, secundum Aristotelem, alterum contradictoriorum dicitur de quolibet; si igitur
+chimaera non sit nonhomo, igitur chimaera est homo:
+Et si dicatur quod, secundum Aristotelem, alterum contradictoriorum dicitur de quolibet; si igitur
+chimaera non sit nonhomo, igitur chimaera est homo:
+Dicendum est, secundum intentionem Aristotelis, quod non de quolibet termino significatiue sumpto
+dicitur alterum contradictoriorum incomplexorum, sicut de hoc nomine 'chimaera' significatiue sumpto nec
+dicitur 'homo' nec 'non-homo'. Tamen de omni termino supponente significatiue, non includente aequiualenter
+aliquod syncategorema uel aliam determinationem, de quo praedicatur uere 'ens' uel 'aliquid', dicitur alterum
+contradictoriorum. Unde si haec esset uera 'chimaera est aliquid', altera istarum esset uera 'chimaera est homo',
+'chimaera est non-homo'. Et ideo concedendum est quod non de quolibet significatiue sumpto dicitur alterum
+contradictoriorum, tamen hoc non obstante de quolibet tali quidlibet uere affirmatur uel uere negatur. Et hoc
+intendit Aristoteles quando dicit: "De quolibet affirmatio uel negatio", et de nullo eorum ambo. Unde quamuis
+nec 'homo' nec 'non-homo' dicatur de chimaera, tamen homo uere affirmatur uel negatur de chimaera, unde altera
+istarum est uera
+'‚ƒhimaera est homo', 'chimaera non est homo'. Similiter altera istarum est uera 'chimaera est non-homo',
+'chimaera non est non-homo'. Et sic de istis 'homo albus est homo', 'homo albus non est homo', 'homo albus est
+non-homo', 'homo albus non est non-homo'.
+'‚ƒhimaera est homo', 'chimaera non est homo'. Similiter altera istarum est uera 'chimaera est non-homo',
+'chimaera non est non-homo'. Et sic de istis 'homo albus est homo', 'homo albus non est homo', 'homo albus est
+non-homo', 'homo albus non est non-homo'.
+Quod autem neutra istarum sit uera 'homo albus est homo', 'homo albus est non-homo', posito quod
+nullus homo sit albus, potest ostendi: nam si haec sit uera 'homo albus est non-homo', cum sit affirmatiua oportet
+quod subiectum supponat pro aliquo. Quo dato quaero: pro quo supponit? Non pro uoce nec pro conceptu, cum
+supponat significatiue et non materialiter neque simpliciter; igitur supponit pro aliquo alio. Et per consequens
+iste terminus 'homo albus' significatiue sumptus praedicaretur de pronomine demonstrante illud pro quo
+supponit, et per consequens haec esset uera 'hoc est homo a/bus'; quod est manifeste falsum. Quia si sit uera, aut
+demonstratur ens aut non-ens. Si ens, ergo aliquod ens esset homo albus, quod est contra positum; si non-ens,
+igitur aliquod non-ens esset homo albus, et per consequens esset album, quod est manifeste falsum. Et ita patet
+quod haec est falsa 'homo albus est non-homo', si nullus homo sit albus. Et per eandem rationem possunt
+consimiles probari esse falsae.
+Quod autem neutra istarum sit uera 'homo albus est homo', 'homo albus est non-homo', posito quod
+nullus homo sit albus, potest ostendi: nam si haec sit uera 'homo albus est non-homo', cum sit affirmatiua oportet
+quod subiectum supponat pro aliquo. Quo dato quaero: pro quo supponit? Non pro uoce nec pro conceptu, cum
+supponat significatiue et non materialiter neque simpliciter; igitur supponit pro aliquo alio. Et per consequens
+iste terminus 'homo albus' significatiue sumptus praedicaretur de pronomine demonstrante illud pro quo
+170
+
+

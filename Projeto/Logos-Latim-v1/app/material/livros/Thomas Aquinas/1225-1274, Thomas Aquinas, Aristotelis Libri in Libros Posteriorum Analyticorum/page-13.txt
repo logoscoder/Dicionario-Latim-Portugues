@@ -1,0 +1,58 @@
+unius et eiusdem, et notius et minus notum. Hoc autem est impossibile. Ergo impossibile est circulariter
+demonstrare.
+|#4 Sed posset aliquis dicere quod idem potest esse prius et posterius alio et alio modo, scilicet ut hoc sit prius
+quoad nos, et illud sit prius simpliciter.
+Sicut singularia sunt priora quoad nos, et posteriora simpliciter; universalia vero e converso.
+Hoc autem modo inductio facit notum, scilicet altero modo a demonstratione. Nam demonstratio procedit ex
+prioribus simpliciter: inductio autem ex prioribus quoad nos. Sed si sic fieret demonstratio circularis, ut scilicet
+primo concluderetur ex prioribus simpliciter, postea vero ex prioribus quoad nos; sequeretur quod non esset bene
+determinatum superius quid est scire.
+Dictum est enim quod scire est causam rei cognoscere.
+Et ideo ostensum est quod oportet demonstrationem, quae facit scire, ex prioribus simpliciter procedere. Si
+autem demonstratio, nunc ex prioribus simpliciter, nunc ex prioribus quoad nos procederet; oporteret etiam quod
+scire non solum esset causam rei cognoscere, sed dupliciter diceretur quia esset etiam quoddam scire per
+posteriora. Aut ergo oportebit sic dicere, aut oportebit dicere quod altera demonstratio, quae fit ex nobis
+notioribus, non sit simpliciter demonstratio.
+|#5 Ex his autem apparet quare dialecticus syllogismus potest esse circularis. Procedit enim ex probabilibus.
+Probabilia autem dicuntur, quae sunt magis nota vel sapientibus vel pluribus. Et sic dialecticus syllogismus
+procedit ex his quae sunt magis nobis nota. Contingit autem idem esse magis et minus notum quoad diversos; et
+ideo nihil prohibet syllogismum dialecticum fieri circularem. Sed demonstratio fit ex notioribus simpliciter; et
+ideo, ut dictum est, non potest fieri demonstratio circularis.
+|#6 Secundam rationem ponit ibi: accidit autem etc.: quae talis est. Si demonstratio sit circularis, sequitur quod
+in demonstratione probetur idem per idem; ut si dicamus: si est hoc, est hoc.
+Sic autem facile est cuilibet demonstrare omnia.
+Hoc enim poterit facere quilibet, tam sciens quam ignorans. Et sic per demonstrationem non acquiritur scientia:
+quod est contra definitionem demonstrationis. Non ergo potest esse demonstratio circularis. Veritatem autem
+primae consequentiae hoc modo ostendit. Primo enim, dicit quod manifestum est quod accidit, circulari
+demonstratione facta, hoc quod prius dictum est, scilicet quod idem probetur per idem, si quis sumat tres
+terminos. Reflexionem autem fieri per multos, aut per paucos terminos nihil differt (nominat autem hic
+reflexionem processum, qui fit in demonstratione circulari a principio ad conclusionem, et iterum a
+conclusionem ad principium. Huiusmodi ergo reflexio quantum ad vim argumentandi, sive fiat per multa, sive
+per pauca, non differt. Nec differt de paucis, aut de duobus.
+Eadem enim virtus arguendi est, si quis sic procedat: si est a, est b, et si est b, est c, et si est c, est d; et iterum
+reflectat dicens: si est d, est c, et si est c, est b, et si est b, est a; sicut si statim a principio reflecteret dicens: si est
+a, est b, et si est b, est a. Dicit autem per duos terminos, cum supra dixerit, tribus terminis positis, quia in
+deductione, quam faciet, utetur tertio termino, qui sit idem cum primo.
+Deinde, cum dicit: cum enim etc., proponit formam argumentandi in tribus terminis, hoc modo: si sit a, est b; et
+si est b, est c; ergo si est a, ex necessitate est c.
+Deinde, cum dicit: si igitur cum sit a etc., per formam argumentandi praemissam ostendit quod in circulari
+demonstratione concluditur idem per idem, sumptis duobus terminis tantum. Erit enim dicere: si est a, est b; et
+reflectendo (quod est circulariter demonstrare): si est b, est a. Ex quibus duobus sequitur, secundum formam
+arguendi praemissam, si est a, est a. Quod sic patet. Sicut enim in prima deductione, quae fiebat per tres
+terminos, ad b sequebatur c; ita in deductione reflexa duorum terminorum, ad b sequitur a. Ponatur ergo quod
+idem significet a in secunda deductione reflexa, quod c significabat in prima directa, quae est per tres terminos.
+Igitur dicere in secunda deductione, si est b, est a, est hoc ipsum quod erat dicere in prima deductione, si est b,
+est c. Sed cum dicebatur in prima deductione, si est b, est c, sequebatur, si est a, est c. Ergo in deductione
+circulari sequitur, si est a, est a: quia c cum a idem ponitur. Et ita leve erit demonstrare omnia, ut dictum est.
+|#7 Tertiam rationem ponit; ibi: at vero nec hoc possibile est etc.. Quae talis est. Ponentes omnia posse sciri per
+demonstrationem, quia demonstratio est circularis, necesse habent dicere quod omnia possunt demonstrari
+demonstratione circulari; et ita necesse habent dicere quod in demonstratione circulari ex conclusione possit
+concludi utraque praemissarum. Hoc autem non potest fieri nisi in his, quae ad se invicem convertuntur, idest
+convertibilia sunt, sicut propria.
+Sed non omnia sunt huiusmodi. Ergo vanum est dicere quod omnia possunt demonstrari, propter hoc quod
+demonstratio est circularis.
+|#8 Quod autem oporteat in demonstratione circulari omnia esse convertibilia secundum positionem istorum, sic
+ostendit. Ostensum est in libro priorum quod, uno posito, non sequitur ex necessitate aliud; nec posito uno
+13
+
+

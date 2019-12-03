@@ -1,0 +1,61 @@
+Sed quandoque contingit quod demonstrare quia ita est, per aliqua principia, pertinet ad aliquam scientiam, et
+demonstrare principia ex quibus demonstrabatur quia ita est, pertinet ad unam scientiam, quandoque quidem ad
+eamdem, quandoque vero ad aliam. Ad eamdem quidem, sicut geometria demonstrat, quod triangulus habet tres
+angulos aequales duobus rectis, per hoc quod angulus exterior trianguli est aequalis duobus interioribus sibi oppositis,
+quod tantum demonstrare pertinet ad geometriam. Ad aliam vero scientiam, sicut musicus probat quod tonus non
+dividitur in duo semitonia aequalia, per hoc quod proportio sesquioctava cum sit superparticularis, non potest dividi in
+duo aequalia. Sed hoc probare non pertinet ad musicum sed ad arithmeticum. Sic ergo patet, quod quandoque accidit
+diversitas in scientiis propter diversitatem principiorum, dum una scientia demonstrat principia alterius scientiae per
+quaedam altiora principia.
+[81963] In Metaphysic., lib. 3 l. 6 n. 5
+Sed supposita identitate principiorum non potest esse diversitas in scientiis, dummodo sint eadem accidentia et idem
+genus subiectum, quasi una scientia consideret subiectum, et eadem accidentia. Unde sequitur, quod scientia quae
+considerat substantiam consideret etiam accidentia; ita quod si sint plures scientiae considerantes substantias, erunt
+considerantes accidentia. Si vero una earum sola sit quae consideret substantias, una sola erit quae considerabit
+accidentia. Hoc autem est impossibile; quia sic sequeretur non esse nisi unam scientiam, cum nulla scientia sit quae non
+demonstret accidentia de aliquo subiecto: non ergo ad unam scientiam pertinet considerare omnes substantias.
+[81964] In Metaphysic., lib. 3 l. 6 n. 6
+Haec autem quaestio determinatur in quarto huius, ubi ostenditur quod ad primam scientiam, ad quam pertinet
+considerare de ente inquantum est ens, pertinet considerare de substantia inquantum est substantia: et sic considerat
+omnes substantias secundum communem rationem substantiae; et per consequens ad eam pertinet considerare
+communia accidentia substantiae. Particularia vero accidentia quarumdam substantiarum pertinet considerare ad
+particulares scientias, quae sunt de particularibus substantiis; sicut ad scientiam naturalem pertinet considerare
+accidentia substantiae mobilis. Verumtamen in substantiis est etiam ordo: nam primae substantiae sunt substantiae
+immateriales. Unde et earum consideratio pertinet proprie ad philosophum primum. Sicut si non essent aliae substantiae
+priores substantiis mobilibus corporalibus, scientia naturalis esset philosophia prima, ut dicitur infra in sexto.
+[81965] In Metaphysic., lib. 3 l. 6 n. 7
+Deinde cum dicit amplius autem ponit aliam quaestionem de consideratione substantiae et accidentis. Et circa hoc
+etiam tria facit. Primo movet quaestionem, quae est, utrum consideratio huius scientiae sit solum circa substantiam, aut
+etiam circa ea quae accidunt substantiis. Puta si dicamus quod lineae, superficies et solida sint quaedam substantiae, ut
+quidam posuerunt, quaeritur utrum eiusdem scientiae sit considerare ista, et per se accidentia horum, quae
+demonstrantur in scientiis mathematicis; aut alterius.
+[81966] In Metaphysic., lib. 3 l. 6 n. 8
+Secundo ibi nam si obiicit ad unam partem. Si enim eiusdem scientiae est considerare accidentia et substantias; cum
+scientia quae considerat accidentia sit demonstrativa accidentium, sequitur quod scientia quae considerat substantiam,
+sit demonstrativa substantiarum: quod est impossibile: cum definitio declarans substantiam, quae significat quod quid
+est, non demonstretur. Sic ergo non erit eiusdem scientiae substantias considerare et accidentia.
+[81967] In Metaphysic., lib. 3 l. 6 n. 9
+Tertio ibi si vero obiicit in contrarium: quia si diversae scientiae considerant substantiam et accidens, non erit assignare
+quae scientia speculetur accidentia circa substantiam, quia talis scientia considerabit utrumque, cum tamen hoc videatur
+ad omnes scientias pertinere: quia omnis scientia considerat per se accidentia circa subiectum, ut dictum est.
+[81968] In Metaphysic., lib. 3 l. 6 n. 10
+Hanc autem quaestionem determinat philosophus in quarto huius; dicens, quod ad eam scientiam, ad quam pertinet
+considerare de substantia et ente, pertinet etiam considerare de per se accidentibus substantiae et entis. Non tamen
+sequetur quod eodem modo consideret utrumque, scilicet demonstrando substantiam, sicut demonstrat accidens; sed
+definiendo substantiam et demonstrando accidens inesse vel non inesse, ut plenius habetur in fine noni huius.
+Lectio 7
+[81969] In Metaphysic., lib. 3 l. 7 n. 1
+Postquam disputavit philosophus quaestiones pertinentes ad considerationem huius scientiae, hic disputat quaestiones
+pertinentes ad ipsas substantias, de quibus principaliter considerat ista scientia. Et circa hoc tria facit. Primo movet
+quaestiones. Secundo ostendit unde accipi possint rationes ad unam partem, ibi, quomodo ergo dicimus et cetera. Tertio
+obiicit ad partem contrariam, ibi, multis autem modis habentibus difficultatem et cetera. Circa primum movet duas
+quaestiones: quarum prima est, utrum in universitate rerum solae substantiae sensibiles inveniantur, sicut aliqui antiqui
+naturales dixerunt, aut etiam inveniantur quaedam aliae substantiae, praeter sensibiles, sicut posuerunt Platonici.
+[81970] In Metaphysic., lib. 3 l. 7 n. 2
+Secunda quaestio est, supposito quod sint aliquae substantiae, praeter sensibiles, utrum illae substantiae sint unius
+generis, aut magis sint plura genera harum substantiarum. Utramque enim opinionem recipit. Quidam enim posuerunt
+praeter substantias sensibiles esse solas species separatas, idest per se hominem immaterialem, et per se equum: et sic
+de aliis speciebus. Alii vero posuerunt quasdam alias intermedias substantias inter species et sensibilia, scilicet
+mathematica, de quibus dicebant esse mathematicas scientias.
+
+

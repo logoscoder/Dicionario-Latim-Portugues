@@ -1,0 +1,60 @@
+propriam scientiae naturalis, ibi: et naturaliter etc.. Circa primum duo facit: primo ostendit quid sequitur ex
+praemissis circa propositum; secundo incipit argumentari ad propositum ostendendum, ibi: principium autem sit
+hinc etc..
+|#2 Dicit ergo primo quod, determinatis praemissis circa significationem nominum, oportet nunc dicere illud
+quod consequenter se habet in hac consideratione. Dictum est enim supra quod possibile dicitur secundum
+aliquod determinatum, puta potens currere dicitur aliquis secundum centum stadia. Sunt autem in rebus quaedam
+quae possunt esse et non esse. Necesse est ergo ex praemissis quod sit determinatum aliquod plurimum tempus
+et respectu ipsius esse, ita scilicet quod non possit ampliori tempore esse, et respectu ipsius non esse, ita scilicet
+quod non possit ampliori tempore non esse. Et ne hoc intelligatur solum de esse substantiali, subiungit quod,
+cum dicimus possibile vel non possibile rem esse, vel id quod est possibile non esse, potest intelligi secundum
+quamcumque praedicationem, idest secundum quodcumque praedicamentum: puta hominem esse vel non esse,
+quod pertinet ad genus substantiae; aut album esse aut non esse, quod pertinet ad genus qualitatis; aut bicubitum
+esse vel non esse, quod pertinet ad genus quantitatis; aut de quocumque alio consimili.
+Et quod oporteat intelligi secundum aliquod determinatum tempus, cum dicitur aliquid posse esse vel non esse,
+probat ducendo ad impossibile.
+Quia, sicut ipse dicit, si non est aliquod tempus determinatae quantitatis, in quo possit esse vel non esse, sed
+semper accipiatur maius tempore proposito (puta si potest esse in quinquaginta annis, et adhuc plus, et iterum
+plus), et non sit devenire ad aliquod tempus respectu cuius omne tempus in quo potest esse sit minus; cum idem
+possit esse et non esse, ut dictum est, sequitur quod idem possit esse in tempore infinito, et non esse in tempore
+infinito; quia eadem ratio est circa hoc quod est non esse, et circa hoc quod est esse. Non tamen ita quod illud
+tempus respectu cuius aliquid potest non esse, quod concluditur esse infinitum, sit idem cum illo tempore infinito
+respectu cuius aliquid dicitur posse esse; quia sic posset esse et non esse in eodem tempore, quod est impossibile,
+ut infra dicetur: sed quod aliud tempus infinitum sit eius quod est non esse, et aliud eius quod est esse.
+Quod est impossibile: non enim possunt esse duo tempora infinita, quia sic essent duo tempora simul. Hoc autem
+impossibile sequitur ex hoc quod dicitur quod possibile esse vel possibile non esse non intelligitur respectu
+determinati temporis: hoc ergo oportet primo esse manifestum, quod possibile esse dicitur respectu determinati
+temporis, et similiter possibile non esse: quod etiam consonat his quae sunt praemissa de significatione
+possibilis.
+|#3 Deinde cum dicit: principium autem sit hinc etc., incipit argumentari ad propositum. Et circa hoc duo facit:
+primo argumentatur ad propositum per communes rationes; secundo per propriam rationem scientiae naturalis,
+ibi: et naturaliter etc.. Circa primum duo facit: primo ostendit veritatem, scilicet quod incorruptibile et ingenitum
+se consequuntur, et similiter corruptibile et genitum; secundo improbat positionem contrariam, ibi: dicere itaque
+nihil etc.. Circa primum duo facit: primo ostendit propositum, ostendendo quomodo se habeat sempiternum ad
+ingenitum et incorruptibile, et ad genitum et corruptibile; secundo quomodo ista se habeant ad invicem, ibi:
+palam autem et ex determinatione etc.. Circa primum tria facit: primo ostendit quod omne sempiternum est
+incorruptibile et ingenitum; secundo ostendit quod nullum sempiternum est genitum vel corruptibile, neque e
+converso, ibi: quoniam autem negatio etc.; tertio concludit quod omne ingenitum et incorruptibile est
+sempiternum, ibi: igitur si et ingenitum etc.. Circa primum duo facit: primo praemittit quaedam necessaria;
+secundo argumentatur ad propositum, ibi: si itaque aliquid etc..
+|#4 Dicit ergo primo quod oportet hinc sumere principium ad propositum ostendendum, quod impossibile et
+falsum non significant idem. Circa quod quatuor ponit. Quorum primum est quod tam impossibile quam
+possibile, tam verum quam falsum, dicuntur dupliciter. Uno modo ex suppositione, quod scilicet necesse est esse
+verum vel falsum, possibile vel impossibile, suppositis quibusdam: sicut triangulum secundum rei veritatem
+necesse est habere tres angulos aequales duobus rectis, sed tamen hoc est impossibile suppositis quibusdam, puta
+si supponamus quod triangulus sit quadratum, ad quod sequitur triangulum habere quatuor rectos. Similiter etiam
+diametrum quadrati sequetur esse commensurabilem lateri, si quaedam supposita sint vera, puta si ponamus quod
+quadratum diametri sit quadruplum quadrati lateris: sic enim sequetur quod proportio diametri ad latus sit sicut
+proportio numeralis, quae est ratio commensurabilis. Alio modo dicuntur aliqua simpliciter, scilicet absolute et
+secundum se possibilia et impossibilia, falsa et vera.
+Secundum ponit ibi: non autem idem etc.. Et dicit quod non est idem aliquid esse falsum simpliciter, idest
+absolute, et esse impossibile absolute.
+Si enim dicam te stare, qui non stas sed sedes, falsum erit quod dicitur, non autem impossibile; et similiter
+falsum erit et non impossibile, si quis dicat cantare eum qui citharizat sed non cantat; sed quod aliquis simul stet
+et sedeat, vel quod diameter sit commensurabilis lateri, non solum est falsum, sed et impossibile.
+Tertium ponit ibi: non itaque etc.: quod concluditur ex praemissis. Cum enim non idem sit falsum et impossibile,
+sequitur quod non sit idem supponere falsum et impossibile: nam ex falso non sequitur impossibile, sed ex
+impossibili sequitur impossibile.
+56
+
+

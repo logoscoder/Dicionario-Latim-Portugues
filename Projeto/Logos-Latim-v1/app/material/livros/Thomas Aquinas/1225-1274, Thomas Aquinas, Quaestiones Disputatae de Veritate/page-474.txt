@@ -1,0 +1,63 @@
+TTA
+Quinto quaeritur utrum divina voluntas rebus volitis necessitatem imponat.
+TTB
+Et videtur quod sic.
+AG1
+Posita enim causa sufficienti, necesse est effectum poni; quod sic probat Avicenna in sua metaph.. Si enim posita
+causa, non necessario effectus ponitur, ergo adhuc post positionem causae, effectus se habet ad utrumque,
+scilicet ad esse et non esse. Sed quod est in potentia ad duo, non determinatur ad unum eorum, nisi sit aliquid
+determinans. Ergo post positionem causae, adhuc oportet ponere aliquid quod faciat effectum esse; et ita causa
+illa non erat sufficiens; et ita oportet quod, ea posita, necessarium sit effectum poni. Divina autem voluntas
+sufficiens causa est; et non est causa contingens, sed necessaria. Ergo et res volitae a Deo sunt necessariae.
+AG2
+Sed dicendum, quod ex causa necessaria sequitur quandoque effectus contingens propter contingentiam mediae
+causae, sicut ex maiori propositione de necessario, propter assumptionem de contingenti, sequitur conclusio
+contingens. Sed contra: quandocumque ex causa necessaria sequitur effectus contingens propter contingentiam
+causae secundae, hoc provenit ex defectu causae secundae; sicut floritio arborum est contingens, et non
+necessaria, propter defectum virtutis pullulativae qui potest accidere, quae est causa media; quamvis motus solis,
+qui est causa prima, sit causa necessaria. Sed omnem defectum causae secundae potest divina voluntas removere,
+et omne impedimentum. Ergo contingentia causae secundae non impedit quin effectus sit necessarius propter
+necessitatem voluntatis divinae.
+AG3
+Praeterea, quando effectus est contingens propter contingentiam causae secundae, prima causa necessaria
+existente, non esse effectus potest simul stare cum esse primae causae; sicut arborem non florere in vere, potest
+stare cum motu solis. Sed eius non esse, quod est volitum a Deo, non potest stare cum divina voluntate. Haec
+enim duo sunt incompossibilia, quod Deus velit aliquid esse, et illud non sit. Ergo contingentia causarum
+secundarum non impedit quin volita a Deo sint necessaria propter necessitatem divinae voluntatis.
+AG4
+Sed dicendum, quod non esse effectus, quamvis non possit stare cum voluntate divina, tamen, quia causa
+secunda potest deficere, ipse effectus est contingens. Sed contra: effectus non deficit nisi causa secunda
+deficiente. Sed non potest esse quod causa secunda deficiat voluntate divina existente: sic enim simul esset
+divina voluntas et non esse eius quod est volitum a Deo; quod patet esse falsum. Ergo contingentia causarum
+secundarum non impedit quin effectus divinae voluntatis sit necessarius.
+SC
+Sed contra. Omnia bona sunt Deo volente.
+Si ergo voluntas divina necessitatem rebus imponit, omnia bona quae sunt in mundo, erunt ex necessitate; et ita
+tolletur liberum arbitrium, et aliae causae contingentes.
+CO
+Respondeo. Dicendum, quod voluntas divina non imponit necessitatem rebus omnibus.
+Cuius quaedam ratio assignatur a quibusdam ex hoc quod, cum voluntas sit rerum omnium prima causa, producit
+quosdam effectus mediantibus causis secundis, quae contingentes sunt, et deficere possunt; et ideo effectus
+contingentiam causae proximae sequitur, non autem necessitatem causae primae.
+Sed hoc videtur esse consonum his qui ponebant a Deo omnia procedere secundum necessitatem naturae: ut
+quod ab uno simplici procedebat immediate unum habens aliquam multitudinem, et illo mediante procedit
+multitudo.
+Similiter ab uno omnino immobili dicunt procedere aliquid quod est immobile secundum substantiam, mobile
+autem et aliter se habens secundum situm, quo mediante generatio et corruptio in istis inferioribus accidit:
+secundum quam viam non posset poni, a Deo immediate causari multitudinem, et res corruptibiles et
+contingentes. Quod est sanae fidei contrarium, quae ponit multitudinem rerum corruptibilium immediate a Deo
+causatam; utpote prima individua arborum et brutorum animalium.
+Et ideo oportet aliam principalem rationem assignare contingentiae in rebus, cui causa praeassignata subserviat.
+Oportet enim patiens assimilari agenti: et si agens sit fortissimum, erit similitudo effectus ad causam agentem
+perfecta; si autem agens sit debile, erit similitudo imperfecta; sicut propter fortitudinem virtutis formativae in
+semine, filius assimilatur patri non solum in natura speciei, sed in multis aliis accidentibus; e contrario vero,
+propter debilitatem praedictae virtutis, annihilatur praedicta assimilatio, ut dicitur in Lib. De animalibus.
+Voluntas autem divina est agens fortissimum.
+Unde oportet eius effectum ei omnibus modis assimilari: ut non solum fiat id quod Deus vult fieri, quod est quasi
+assimilari secundum speciem; sed ut fiat eo modo quo Deus vult illud fieri, ut necessario vel contingenter, cito
+vel tarde, quod est quasi quaedam assimilatio secundum accidentia. Et hunc quidem modum rebus divina
+voluntas praefinit ex ordine suae sapientiae.
+
+474
+
+

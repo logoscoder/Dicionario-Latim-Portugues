@@ -1,0 +1,57 @@
+Sed haec: de pane fit corpus Christi, est minus propria: quia haec propositio de notat consubstantialitatem, ut
+Ambrosius tangit; tamen quandoque de ponitur pro ex, et sic potest concedi quod de pane fit corpus Christi sicut
+ex pane.
+RA1
+Ad primum ergo dicendum, quod cum dicitur: de pane factum est corpus Christi, ly de potest importare ordinem
+in essendo: quia quod significatur in factum esse, significatur jam esse; et sic non conceditur quod de pane sit
+factum corpus Christi: quia significaretur quod panis haberet ordinem ad corpus Christi in essendo, quod falsum
+est, quia non est materia ejus. Potest etiam importare ordinem in fieri, quod praecessit factum esse; et sic sicut
+conceditur haec: de pane fit corpus Christi; ita potest concedi ista: ex pane factum est corpus Christi.
+RA2
+Ad secundum patet solutio ex dictis.
+Articulus 4D
+AG1
+Potest esse corpus Christi. Motus enim est actus existentis in potentia. Sed panis mutatur in corpus Christi. Ergo
+panis est potentia corpus Christi: ergo potest esse corpus Christi.
+AG2
+Praeterea, Ambrosius dicit, quod panis potest esse corpus Christi consecratione, quae fit Christi sermone.
+SC1
+Sed contra, quod potest esse aliquid nihil prohibet si ponatur illud: quia possibili posito, secundum Philosophum,
+non sequitur inconveniens.
+Sed inconveniens sequitur, si dicatur: panis est corpus Christi. Ergo haec est falsa: panis potest esse corpus
+Christi.
+CO
+Ad quartam quaestionem dicendum, quod cum potentia pertineat ad subjectum, non est dubium quod cum
+dicitur: panis potest esse corpus Christi, importatur unitas subjecti; et ideo non est concedenda, quia nihil panis
+unquam erit aliquid corporis Christi: sed sicut conceditur ista: panis convertitur in corpus Christi, ita potest
+concedi ista: panis potest converti: quia cujus est potentia, ejus est actus, ut dicitur in Lib. De somno et vigilia.
+RA1
+Ad primum ergo dicendum, quod ista definitio non habet locum in ista conversione, ut ex praedictis patet.
+RA2
+Ad secundum dicendum, quod illud verbum Ambrosii exponendum est, sicut prius dictum est.
+
+|+d11.q2 Distinctio 11, Quaestio 2
+|a0 Prologus
+Deinde quaeritur de materia hujus sacramenti; et circa hoc quaeruntur quatuor: 1 utrum panis et vinum sint
+materia hujus sacramenti; 2 qualis panis; 3 quale vinum hujus sacramenti materia esse possit; 4 de aquae
+admixtione.
+|a1 Articulus 1: Utrum sit duplex materia hujus sacramenti.
+Articulus 1A
+AG1
+Ad primum sic proceditur. Videtur quod non debeat esse duplex materia hujus sacramenti. Quanto enim aliquid
+est simplicius, tanto nobilius; unde et simplicissima sunt nobilissima. Sed hoc sacramentum est nobilius aliis.
+Ergo debet esse simplicius.
+Cum ergo alia sacramenta unam tantum materiam habeant, sicut baptismus aquam, confirmatio chrisma; videtur
+quod non debeat esse duplex materia hujus sacramenti.
+AG2
+Praeterea, materia sacramenti debet respondere ei quod est sacramentum et res in sacramento, quia est signum
+ejus. Sed totum illud quod est res et sacramentum, continetur sub specie panis, scilicet totus Christus. Ergo panis
+est tota materia hujus sacramenti; et sic idem quod prius.
+AG3
+Praeterea, hoc sacramentum ordinatur ad usum fidelium. Sed tantum sub una specie populo hoc sacramentum
+ministratur, scilicet sub specie panis. Ergo tantum una ejusdem debet esse materia.
+AG4
+Praeterea, posset contingere quod in aliqua terra triticum haberetur et non vinum, vel e converso.
+1547
+
+

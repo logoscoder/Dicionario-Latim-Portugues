@@ -1,0 +1,59 @@
+|+d23.q2 Distinctio 23, Quaestio 2
+|a0 Prologus
+Deinde quaeritur specialiter de fide; et circa hoc quaeruntur quinque: 1 quid sit fides, 2 de ejus actu; 3 de
+subjecto; 4 utrum sit virtus; 5 de ordine ejus ad alias virtutes.
+|a1 Articulus 1: Utrum definitio apostoli quam ponit de fide, sit conveniens secundum omnem partem.
+AG1
+Ad primum sic proceditur. Apostolus Hebr. 11, 1, dicit, quod fides est substantia sperandarum rerum,
+argumentum non apparentium; et videtur quod inconvenienter definiat fidem. Nullus enim habitus est substantia.
+Fides est habitus. Ergo non est substantia.
+AG2
+Praeterea, definitio debet dari ex prioribus, et ex his quae per se sunt. Sed objectum per se fidei non est res
+speranda, sed res credenda, et spes est posterior fide. Ergo debuit dicere, rerum credendarum, non, sperandarum.
+AG3
+Praeterea, sicut ad fidem sequitur spes, ita et caritas: quia caritas est magis propinqua fini quam spes. Ergo debuit
+dicere, quod est substantia diligendarum rerum magis quam sperandarum.
+AG4
+Praeterea, fides est de his quae sunt supra rationem. Sed argumentum est actus rationis. Ergo fides non est
+argumentum.
+AG5
+Praeterea, idem non debet poni in diversis generibus. Sed argumentum est aliud genus quam substantia. Ergo
+male definit per utrumque.
+AG6
+Praeterea, ea quae sunt vera et non apparentia, sunt dubia. Sed non apparentia possunt esse vera ignota. Ergo
+cum fides sit cognitio quaedam, videtur quod magis debuit dicere, dubiorum, quam, non apparentium.
+AG7
+Praeterea, cognitio praecedit affectionem. Sed hoc quod dicit, argumentum non apparentium, pertinet ad
+cognitionem; quod autem dicit, substantia rerum sperandarum, pertinet ad affectionem. Ergo male ordinavit
+partes definitionis.
+AG8
+Praeterea, unius rei est una definitio sicut unum esse. Sed de fide dantur multae aliae definitiones.
+Ergo haec non videtur esse sufficiens.
+CO
+Respondeo dicendum, quod dicta assignatio apostoli est recta et propria definitio fidei quantum ad ea quae
+exiguntur ad definitionem, quamvis non quantum ad modum definitionis, quam auctores, et etiam Philosophi,
+neglexerunt, sicut etiam et formam syllogismi praetermittunt ponentes ea ex quibus syllogismus formari potest.
+Habitus autem quilibet per actum cognoscitur, et actus ex objecto specificatur, et ex fine bonitatem habet; et ideo
+apostolus definit fidem per duo, scilicet per comparationem ad objectum, quod est res non apparens, scilicet
+secundum naturalem cognitionem; et per comparationem ad finem, in hoc quod dicit: substantia rerum
+sperandarum. Quamvis enim idem sit objectum et finis fidei, non tamen secundum eamdem rationem: est enim
+Deus objectum ejus, inquantum est prima veritas supra posse naturale intellectus nostri elevata; et sic dicitur non
+apparens; est vero finis ejus, secundum quod est quodammodo bonum sua altitudine facultatem humanam
+excedens, sed sua liberalitate seipsum communicabilem praebens; et hoc dicitur res speranda.
+RA1
+Ad primum ergo dicendum, quod fides dicitur substantia, non quia sit in genere substantiae, sed quia quamdam
+proprietatem habet substantiae: sicut enim substantia est fundamentum et basis omnium aliorum entium, ita fides
+est fundamentum totius spiritualis aedificii. Et per hunc modum dicitur etiam quod lux est hypostasis coloris,
+quia in natura lucis omnes colores fundantur.
+RA2
+Ad secundum dicendum, quod in hoc quod dicit, rerum sperandarum, non intendit ponere objectum fidei, sed
+finem. Finis autem fidei ultimus quamvis sit ipsa veritas, cujus visio pro fide redditur, non tamen verum dicit
+rationem finis. Sed cum spes designet quemdam motum tendentis in finem, res speranda importat terminum
+illius motus, et ita importat rationem finis. Finis autem quantum ad intentionem prius est in omnibus habitibus
+qui ad voluntatem pertinent, quamvis sit posterius in adeptione.
+RA3
+Ad tertium dicendum, quod amor est communiter et rei jam adeptae et rei adipiscendae; spes autem est tantum
+rei adipiscendae: quia illud quod videt quis, quid sperat? Roman. 8, 24. Unde cum fides sit de non visis, res
+1097
+
+

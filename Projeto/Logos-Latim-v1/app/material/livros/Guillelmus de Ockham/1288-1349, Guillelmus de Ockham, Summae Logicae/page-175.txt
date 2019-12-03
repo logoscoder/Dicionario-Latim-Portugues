@@ -1,0 +1,57 @@
+'conuenire' secundum quod uerificatur de omnibus exsistentibus in rerum natura et 'differre' pro
+omnibus quae quocumque modo differunt, hoc est sunt et non sunt idem, sic omnes tales et consimiles uerae sunt
+si fiat reduplicatio gratia concomitantiae, quia sicut manifeste patet, quatuor praedictae exponentes talium sunt
+uerae. Si autem fiat reduplicatio gratia causae, sic sunt falsae, nam 'conuenire' non prius conuenit nec dicitur de
+differentibus quam de conuenientibus, nec etiam importat causam talem, ideo falsae sunt, sic accipiendo eas.
+Sed secus est de istis 'aliqua in quantum sunt similia, sunt dissimilia',
+'aliqua in quantum sunt dissimilia, sunt similia', nam ista consequentia non ualet 'ista sunt similia, ergo
+sunt dissimilia', nec e conuerso. Nec etiam sequitur 'conueniunt in hoc praedicabili 'dissimile', igitur sunt similia',
+quia ad hoc quod sint similia requiritur quod habeant qualitates eiusdem speciei specialissimae.
+'aliqua in quantum sunt dissimilia, sunt similia', nam ista consequentia non ualet 'ista sunt similia, ergo
+sunt dissimilia', nec e conuerso. Nec etiam sequitur 'conueniunt in hoc praedicabili 'dissimile', igitur sunt similia',
+quia ad hoc quod sint similia requiritur quod habeant qualitates eiusdem speciei specialissimae.
+Alia regula est quod arguendo ab inferiori ad superius sine distributione a parte subiecti principalis, est
+bona consequentia. Unde ista consequentia est bona 'Sortes in quantum homo est risibilis, igitur animal in
+quantum homo est risibile', quia impossibile est exponentes antecedentis esse ueras sine exponentibus
+consequentis; et hoc siue fiat reduplicatio gratia concomitantiae siue gratia causae.
+Alia regula est quod arguendo ab inferiori ad superius sine distributione a parte subiecti principalis, est
+bona consequentia. Unde ista consequentia est bona 'Sortes in quantum homo est risibilis, igitur animal in
+quantum homo est risibile', quia impossibile est exponentes antecedentis esse ueras sine exponentibus
+consequentis; et hoc siue fiat reduplicatio gratia concomitantiae siue gratia causae.
+Similiter, arguendo a parte praedicati principalis est bona consequentia.
+Sed arguendo ab illo super quod cadit reduplicatio ad suum superius, est fallacia consequentis, sicut hic
+'Sortes in quantum homo est risibilis, igitur Sortes in quantum animal est risibilis'. Nam si ista consequentia esset
+bona, sequeretur quod ista consequentia esset bona 'omnis homo est risibilis, igitur omne animal est risibile', per
+istam regulam: quando reduplicatiua infert reduplicatiuam, exponentes antecedentis inferunt exponentes
+consequentis.
+Sed arguendo ab illo super quod cadit reduplicatio ad suum superius, est fallacia consequentis, sicut hic
+'Sortes in quantum homo est risibilis, igitur Sortes in quantum animal est risibilis'. Nam si ista consequentia esset
+bona, sequeretur quod ista consequentia esset bona 'omnis homo est risibilis, igitur omne animal est risibile', per
+istam regulam: quando reduplicatiua infert reduplicatiuam, exponentes antecedentis inferunt exponentes
+consequentis.
+Verumtamen sciendum est quod aliter posset aliquis uti talibus propositionibus, non de uirtute sermonis;
+et tunc possent negari tales consequentiae. Et sic respondendum esset ad auctoritates si inuenirentur dicere
+oppositum alicuius istorum.
+Verumtamen sciendum est quod aliter posset aliquis uti talibus propositionibus, non de uirtute sermonis;
+et tunc possent negari tales consequentiae. Et sic respondendum esset ad auctoritates si inuenirentur dicere
+oppositum alicuius istorum.
+Secundo uidendum est principaliter de reduplicatiua negatiua, in qua tamen reduplicatio non est negata,
+cuiusmodi est talis propositio 'homo in quantum rationalis non est asinus'.
+Secundo uidendum est principaliter de reduplicatiua negatiua, in qua tamen reduplicatio non est negata,
+cuiusmodi est talis propositio 'homo in quantum rationalis non est asinus'.
+Et est sciendum quod talis propositio reduplicatiua, si fiat reduplicatio gratia concomitantiae, habet
+quatuor exponentes: duas negatiuas et unam affirmatiuam et unam condicionalem. Affirmatiua exponens est illa
+in qua illud super quod cadit reduplicatio uere affirmatur de subiecto principali. Negatiuarum exponentium una
+est praeiacens illius propositionis reduplicatiuae, in qua scilicet praedicatum principale negatur a subiecto
+principali; alia negatiua exponens est illa in qua praedicatum principale negatur ab illo super quod cadit
+reduplicatio uniuersaliter sumpto. Condicionalis est illa in qua a positione illius super quod cadit reduplicatio
+sequitur negatio praedicati principalis. Sicut ista 'homo in quantum risibilis non est asinus' habet istas exponentes
+'homo est risibilis', 'homo non est asinus', 'nullum risibile est asinus', 'si aliquid est risibile, ipsum non est asinus'.
+Et est sciendum quod talis propositio reduplicatiua, si fiat reduplicatio gratia concomitantiae, habet
+quatuor exponentes: duas negatiuas et unam affirmatiuam et unam condicionalem. Affirmatiua exponens est illa
+in qua illud super quod cadit reduplicatio uere affirmatur de subiecto principali. Negatiuarum exponentium una
+est praeiacens illius propositionis reduplicatiuae, in qua scilicet praedicatum principale negatur a subiecto
+principali; alia negatiua exponens est illa in qua praedicatum principale negatur ab illo super quod cadit
+175
+
+

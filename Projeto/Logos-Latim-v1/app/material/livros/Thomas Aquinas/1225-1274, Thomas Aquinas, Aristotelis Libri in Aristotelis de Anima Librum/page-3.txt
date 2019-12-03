@@ -1,0 +1,57 @@
+|#11 Circa substantiam est dubitatio de genere.
+Hoc enim primo quaerimus in definitione cuiuslibet rei, ut scilicet sciamus genus. Et ideo quaerendum est in quo
+genere sit ponenda anima; utrum scilicet in genere substantiae, vel in quanto, vel in quali. Et non solum est
+accipere genus supremum, sed propinquum.
+Neque enim quando hominem definimus, substantiam accipimus, sed animal. Et si anima invenitur in genere
+substantiae, adhuc, cum unumquodque genus dicatur dupliciter, hoc quidem potentia, hoc autem actu,
+quaerendum erit utrum sit potentia, vel actus. Item quia substantiarum quaedam sunt compositae, quaedam
+simplices, quaerendum erit, utrum anima sit composita, aut simplex; et utrum partibilis vel impartibilis. Est
+etiam quaestio utrum sit unius speciei omnis anima ad omnem animam, aut non. Et si non sit unius speciei,
+adhuc est quaestio utrum differant etiam genere, vel non. Item adhuc dubitatio est circa ea quae participant
+definitione. Quaedam enim definiuntur ut genus, quaedam vero ut species. Et ideo videtur esse quaestio, utrum
+definitio animae sit sicut generis, aut sicut speciei specialissimae.
+|#12 Nam aliqui quaerentes de anima videntur intendere solum de anima humana. Et quia apud antiquos
+Philosophos erat duplex opinio de anima. Platonici enim, qui ponebant universalia separata, scilicet quod essent
+formae et ideae, et erant causae rebus particularibus cognitionis et esse, volebant quod esset quaedam anima
+separata per se, quae esset causa et idea animabus particularibus; et quod quicquid invenitur in eis, derivetur ab
+illa. Naturales autem Philosophi volebant, quod non essent substantiae universales nisi particulares tantum, et
+quod universalia nihil sint in rerum natura. Et propter hoc est quaestio, utrum sit quaerenda solum una communis
+ratio animae, sicut dicebant Platonici: vel huius vel illius animae, sicut dicebant naturales, scilicet ut animae
+equi, vel hominis, aut Dei.
+Et dicit Dei quia credebant corpora caelestia esse deos, et dicebant ea esse animata.
+|#13 Aristoteles autem vult quod quaeratur ratio utriusque: et communis animae, et cuiuslibet speciei. Quod
+autem circa hoc dicit animal autem universale, aut nihil est, aut posterius: sciendum est, quod de animali
+universali possumus loqui dupliciter: quia aut secundum quod est universale, quod scilicet est unum in multis aut
+de multis: aut secundum quod est animal: et hoc, vel secundum quod in rerum natura, vel secundum quod est in
+intellectu.
+Secundum autem quod est in rerum natura, Plato voluit animal universale aliquid esse, et esse prius particulari;
+quia, ut dictum est, posuit universalia separata et ideas.
+Aristoteles autem vult quod ut sic, nihil est in rerum natura. Et si aliquid est, dixit illud esse posterius. Si autem
+accipiamus naturam animalis non secundum quod subiacet intentioni universalitatis, sic aliquid est, et prius, sicut
+quod est in potentia, prius est, quam id quod est actu.
+|#14 Consequenter cum dicit amplius autem tangit difficultates, quae emergunt circa potentias animae. In anima
+enim sunt partes potentiales, scilicet intellectivum, sensitivum et vegetativum. Est ergo quaestio, utrum hae sint
+diversae animae, sicut Platonici volebant, et etiam ponebant: an sint partes potentiales animae.
+Et si sint partes potentiales animae, quaeritur etiam, utrum primo debeamus quaerere potentias ipsas quam actus,
+aut primo actus quam potentias, ut intelligere ante intellectum, et sentire, quod est actus, ante sensitivum quod
+est potentia, et similiter in aliis potentiis et actibus. Et si primo debemus quaerere actus quam potentias, adhuc
+erit quaestio utrum sint prius quaerenda obiecta horum actuum quam potentiae, ut puta prius debeat quaeri
+sensibile quam sensitivum, aut intelligibile quam intellectivum.
+|#15 Consequenter etiam cum dicit videtur ponit difficultates, quae emergunt quantum ad illa quae sunt in
+adiutorium definitionis animae. Quia in definitione oportet non solum cognoscere principia essentialia, sed etiam
+accidentalia. Si enim recte definirentur et possent cognosci principia essentialia, definitio non indigeret
+accidentibus. Sed quia principia essentialia rerum sunt nobis ignota, ideo oportet quod utamur differentiis
+accidentalibus in designatione essentialium: bipes enim non est essentiale, sed ponitur in designatione
+essentialis.
+Et per eas, scilicet per differentias accidentales, devenimus in cognitionem essentialium.
+Et ideo difficile est, quia oportet nos prius cognoscere quod quid est animae, ad cognoscendum facilius
+accidentia animae: sicut in mathematicis valde utile est praeaccipere quodquid erat esse recti et curvi et plani ad
+cognoscendum quod rectis trianguli anguli sint aequales. E converso etiam accidentia, si praeaccipiantur,
+multum conferunt ad cognoscendum quod quid erat esse, ut dictum est.
+Si quis ergo assignet definitionem, per quam non deveniatur in cognitionem accidentium rei definitae, illa
+definitio non est realis, sed remota et dialectica. Sed illa definitio per quam devenitur in cognitionem
+accidentium, est realis, et ex propriis, et essentialibus rei.
+|+2 Lectio 2
+3
+
+

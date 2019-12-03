@@ -1,0 +1,51 @@
+Dig.42.4.14.2
+Paulus 2 quaest.
+Creditor autem condicionalis in possessionem non mittitur, quia is mittitur, qui potest bona ex edicto vendere.
+Dig.42.4.15
+Ulpianus 6 fideic.
+Is, qui rem permutatam accepit, emptori similis est: item is, qui rem in solutum accepit vel qui lite aestimata retinuit vel
+ex causa stipulationis non ob liberalitatem est consecutus.
+Dig.42.5.0. De rebus auctoritate iudicis possidendis seu vendundis.
+Dig.42.5.1
+Gaius 23 ad ed. provinc.
+Venire bona ibi oportet, ubi quisque defendi debet, id est.
+Dig.42.5.2
+Paulus 54 ad ed.
+Ubi domicilium habet,
+Dig.42.5.3
+Gaius 23 ad ed. provinc.
+Aut ubi quisque contraxerit. contractum autem non utique eo loco intellegitur, quo negotium gestum sit, sed quo
+solvenda est pecunia.
+Dig.42.5.4
+Paulus 57 ad ed.
+Si servus sub condicione heres institutus sit aut dubium sit, an is heres liberque futurus sit, non est iniquum
+postulantibus creditoribus ita decerni, ut, si ante certum tempus is heres non extiterit, perinde omnia observentur, ac si
+is heres ita institutus non esset: quod plerumque accideret, si sub condicione dandae alicui pecuniae heres institutus sit
+nec dies adpositus sit. sed hoc quantum ad bona ita observandum: ceterum libertas ei quandoque competet et a praetore
+conservanda est, etiamsi certum sit neque heredem neque bonorum possessorem futurum. si quis tamen heredem se
+spondendo vel actiones patiendo defunctum defendat, bona defuncti venire non poterunt.
+Dig.42.5.5
+Ulpianus 60 ad ed.
+Si minor viginti quinque annis, qui habet curatores, a curatoribus non defendatur nec alium defensorem inveniat,
+bonorum venditionem patitur, etsi non latitet, licet non fraudationis causa latitare videtur, qui sui non est idoneus
+defensor.
+Dig.42.5.6pr.
+Paulus 58 ad ed.
+Si non expedierit pupillo hereditatem parentis retinere, praetor bona defuncti venire permittit, ut quod superaverit
+pupillo restituatur.
+Dig.42.5.6.1
+Paulus 58 ad ed.
+Si pupillus, antequam abstineret, aliquid gesserit, servandum est, utique si bona fide gessit.
+Dig.42.5.6.2
+Paulus 58 ad ed.
+Quid ergo, si quibusdam creditoribus solvit, deinde bona venierint? si quaeritur, an repetitio sit, ex causa id statuendum
+iulianus ait, ne alterius aut neglegentia aut cupiditas huic, qui diligens fuit, noceat. quod si utroque instante tibi
+gratificatus tutor solvit, aequum esse aut prius eandem portionem mihi quaeri aut communicandum quod accepisti: et
+hoc iulianus ait. apparet autem loqui eum, si ex bonis paternis solutum sit. quid ergo, si aliunde pupillus solverit? reddi
+ei debebit nec ne? et utrum a creditore an ex hereditate? scaevola noster ait, si aliquid sit in bonis, deducendum ex
+hereditate solidum exemplo eius, qui gessit negotia: sed si nihil sit in bonis, non esse iniquum adversus creditorem
+dandam repetitionem quasi indebiti soluti.
+Dig.42.5.7
+Gaius 23 ad ed. provinc.
+
+

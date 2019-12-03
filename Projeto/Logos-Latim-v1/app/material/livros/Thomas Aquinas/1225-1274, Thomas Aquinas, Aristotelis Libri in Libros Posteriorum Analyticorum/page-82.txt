@@ -1,0 +1,56 @@
+|+3 Lectio 3
+|#1 Postquam Philosophus disputative inquisivit utrum definitio significans quod quid est possit demonstrari,
+hic procedit ulterius ad inquirendum disputative utrum ipsum quod quid est, quod est definitionis significatum,
+possit demonstrative probari.
+Et primo, proponit quod intendit; secundo, exequitur propositum; ibi: syllogismus quidem enim etc.. Movet ergo
+primo quaestionem: utrum possit esse syllogismus aut demonstratio eius quod quid est, ita scilicet quod
+concludatur hoc esse quod quid est huius; aut hoc non sit possibile, sicut supposuit ratio immediate praemissa?
+|#2 Fuit autem necessaria haec disputatio post praemissam, quia in definitione attenditur non solum ut illud
+quod significatur, sit quod quid est, sed etiam ut tali modo tradatur qui competat ad manifestandum quod quid
+est; ita scilicet quod sit ex prioribus et notioribus, et alia huiusmodi habeat quae in definitione sunt observanda.
+Signanter autem dicit, utrum sit syllogismus aut demonstratio: nam rationum subsequentium quaedam
+concludunt quod eius quod quid est non sit demonstratio, quaedam vero quod eius omnino non sit syllogismus.
+|#3 Deinde cum dicit: syllogismus quidem enim aliquid de aliquo etc., procedit disputative ad ostendendum
+quod non sit syllogismus vel demonstratio eius quod quid est. Et primo, excludit quosdam speciales modos,
+quibus posset videri quod possit demonstrari quod quid est; secundo, ponit rationes communes ad hoc; ibi:
+amplius quomodo demonstrabit etc.. Circa primum tria facit: primo, ostendit quod non potest demonstrari quod
+quid est per acceptionem convertibilium terminorum; secundo, quod non potest demonstrari per divisionem; ibi:
+at vero neque per divisionem etc.; tertio, quod non potest demonstrari accipiendo id quod requiritur ad quod quid
+est; ibi: sed utrum sit demonstrare etc.. Circa primum tria facit: primo, praemittit quaedam quae sunt necessaria
+ad propositum ostendendum; secundo, inducit rationem; ibi: si enim ipsius ca proprium est etc.; tertio, manifestat
+inconveniens quod sequitur; ibi: oportet autem in duabus propositionibus etc..
+|#4 Circa primum praesupponit duo. Quorum primum pertinet ad syllogismum, scilicet quod omnis syllogismus
+probat aliquid de aliquo per aliquod medium, ut ex superioribus patet. Aliud autem pertinet ad ipsum quod quid
+est, quod est per syllogismum probandum; ad quod requiruntur duae conditiones. Quarum una est quod quod
+quid est sit proprium: quaelibet enim res habet propriam essentiam sive quidditatem. Et quia non omne quod est
+proprium alicui pertinet ad essentiam eius, sicut risibile homini; ideo requiritur secunda conditio, quod
+praedicetur in quid. Et has duas conditiones necesse est sequi tertiam, scilicet ut quod quid est sit convertibile
+cum eo cuius est.
+|#5 Deinde cum dicit: si enim a ipsi c est proprium etc., ponit rationem ad propositum ostendendum.
+Et circa hoc tria facit: primo, dicit qualem oporteat esse syllogismum qui concludit quod quid est, si hoc sit
+possibile; secundo, concludit inconveniens, quod ex hoc sequitur; ibi: si ergo quod quid est etc.; tertio,
+exemplificat in terminis; ibi: et omnino si est monstrare etc..
+Circa primum tria facit: primo enim ostendit quid requiratur ad syllogismum concludentem quod quid est, ex eo
+quod est proprium; secundo, quid requiratur ex eo quod praedicatur in quid; ibi: at vero et si a etc.; tertio,
+ostendit quod sine his talis syllogismus esse non possit; ibi: si vero aliquis etc..
+Dicit ergo primo quod si a, quod est probandum de c tanquam quod quid est eius, est proprium ipsi c (quod
+requiritur ad quod quid est, ut dictum est), oportebit quod primum, scilicet a, sit proprium medio, quod est b:
+nam si a excedit b, quod universaliter praedicatur de c, sequitur quod a multo magis excedat c. Et similiter
+manifestum est quod oportebit b esse proprium ipsius c: nam si b excedat c, sequitur quod a, quod praedicatur
+universaliter de b, excedat c; et sic non erit proprium eius, ut supponebatur.
+Relinquitur ergo quod si aliquis syllogismus sit, qui concludit quod quid est, oportet esse talem habitudinem
+terminorum eius, ut omnes ad invicem convertantur.
+|#6 Deinde cum dicit: at vero et si a in eo quod quid est etc., ostendit quid debeat habere syllogismus praedictus,
+ex eo quod concludit id quod praedicatur in eo quod quid est. Et dicit quod oportet hoc modo syllogismum
+procedere, ut maior extremitas, quae est a, praedicetur in eo quod quid de medio, quod est b; et b similiter
+praedicetur in eo quod quid de minori extremitate, quae est c; et sic concluditur quod a praedicetur de c in eo
+quod quid est.
+|#7 Deinde cum dicit: si vero aliquis non accepit sic duplicans etc., ostendit quod praedictus modus syllogizandi
+requiratur. Et dicit quod si aliquis non ita accipiat terminos duplicans, idest observans duas conditiones
+praedictas, vel potius accipiens quod quid est ex duabus partibus, non sequitur ex necessitate quod a praedicetur
+de c in eo quod quid est. Sed et si ex una tantum parte praedictae conditiones observentur, non sufficit ad
+propositum. Etsi enim detur quod a praedicetur de b in eo quod quid est, non propter hoc sequitur quod
+praedicetur in eo quod quid de quibuscunque praedicatur b qualitercunque. Et sic sequitur quod ex utraque parte
+82
+
+

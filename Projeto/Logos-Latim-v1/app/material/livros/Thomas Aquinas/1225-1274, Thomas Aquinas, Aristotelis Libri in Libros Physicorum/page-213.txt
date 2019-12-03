@@ -1,0 +1,65 @@
+|#9
+Deinde cum dicit: quoniam autem omnis quidem etc., probat propositum,
+scilicet quod eiusdem rationis sit tempus et magnitudinem semper dividi in
+divisibilia, aut etiam ex indivisibilibus componi.
+Et circa hoc tria facit: primo praemittit quaedam quae sunt necessaria ad
+sequentem probationem; secundo ponit propositum, ibi: haec autem cum sint
+etc.; tertio probat, ibi: quoniam enim ostensum est etc..
+Praemittit ergo primo, quod omnis motus est in tempore; et hoc probatum est
+in quarto: item quod in omni tempore possibile sit moveri; quod ex
+definitione temporis apparet, quae in quarto data est.
+Secundum est, quod omne quod movetur, contingit moveri velocius et tardius;
+idest quod in quolibet mobili est invenire aliquid quod velocius movetur,
+et aliquid quod tardius.
+Sed haec propositio videtur esse falsa. Determinatae enim sunt velocitates
+motuum in natura: est enim aliquis motus ita velox, quod nullus potest esse
+eo velocior, scilicet motus primi mobilis.
+Ad hoc ergo dicendum, quod de natura alicuius rei possumus loqui
+dupliciter: vel secundum rationem communem, vel secundum quod ad propriam
+materiam applicatur. Et nihil prohibet aliquid, quod non impeditur ex
+ratione communi rei, impediri ex applicatione ad aliquam materiam
+determinatam; sicut non impeditur ex ratione formae solis esse plures
+soles, sed ex hoc quod tota materia speciei sub uno sole continetur. Et
+similiter ex communi natura motus non prohibetur quin qualibet velocitate
+data, possit alia maior velocitas inveniri: sed impeditur ex determinatis
+virtutibus mobilium et moventium.
+Hic autem Aristoteles determinat de motu secundum communem rationem motus,
+nondum applicando motum ad determinata moventia et mobilia: et ideo
+frequenter talibus propositionibus utitur in hoc sexto libro, quae sunt
+verae secundum considerationem communem motus, non autem secundum
+applicationem ad determinata mobilia.
+Et similiter non est contra rationem magnitudinis, quod quaelibet magnitudo
+dividatur in minores: et ideo utitur in hoc libro, ut accipiat qualibet
+magnitudine data aliam minorem; licet applicando magnitudinem ad
+determinatam naturam, sit aliqua minima magnitudo; quia quaelibet natura
+requirit determinatam magnitudinem et parvitatem, ut etiam in primo dictum
+est.
+Ex duobus autem praemissis concludit tertium, scilicet quod in omni tempore
+dato contingit et velocius et tardius moveri, quam sit motus datus in tali
+tempore.
+|#10
+Deinde cum dicit: haec autem cum sint etc., ex praemissis concludit
+propositum.
+Et dicit quod cum praemissa sint vera, necesse est quod tempus sit
+continuum, idest divisibile in semper divisibilia.
+Supposito enim quod haec sit definitio continui, necesse est quod tempus
+sit continuum, si magnitudo est continua; quia ad divisionem magnitudinis
+sequitur divisio temporis, et e converso.
+Deinde cum dicit: quoniam enim ostensum est etc., ostendit propositum,
+scilicet quod similiter dividatur tempus et magnitudo.
+Quia enim ostensum est quod velocius pertransit aequale spatium in minori
+tempore, ponatur quod a sit velocius et b sit tardius, et moveatur b
+tardius per magnitudinem quae est cd, in tempore zi.
+Manifestum est ergo quod a quod est velocius, movetur per eandem
+magnitudinem in minori tempore; et sit tempus illud zt.
+Iterum autem quia a quod est velocius, in tempore zt pertransivit totam
+magnitudinem quae est cd, b quod est tardius, in eodem tempore pertransit
+minorem magnitudinem, quae sit ck. Et quia b quod est tardius, pertransit
+magnitudinem ck in tempore zt, a quod est velocius, pertransibit eandem
+magnitudinem adhuc in minori tempore; et sic tempus zt iterum dividetur. Et
+eo diviso, secundum eandem rationem dividetur magnitudo ck; quia tardius in
+parte illius temporis movetur per minorem magnitudinem. Et si dividitur
+magnitudo, iterum dividetur et tempus; quia illam partem magnitudinis
+213
+
+

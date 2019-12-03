@@ -1,0 +1,55 @@
+ualet, quia aliquando non possunt tales partes ordinari secundum superius et inferius nisi etiam tota extrema sic
+ordinentur uel possint sic ordinari, sicut patet hic 'homo albus -- animal album', 'uidens hominem uidens animal' et sic de multis aliis. Et ideo frequenter est talis consequentia bona sed non semper, et ita
+pars extremi non supponit in tali propositione, tamen in alia propositione supponere potest.
+uidens animal' et sic de multis aliis. Et ideo frequenter est talis consequentia bona sed non semper, et ita
+pars extremi non supponit in tali propositione, tamen in alia propositione supponere potest.
+Per tertiam particulam 'significatiue acceptum' excluduntur categoremata talia quando supponunt
+simpliciter uel materialiter. Tunc enim, quia non accipiuntur significatiue, ideo personaliter non supponunt, sicut
+hic 'homo est nomen', 'homo est species', et in consimilibus.
+Per tertiam particulam 'significatiue acceptum' excluduntur categoremata talia quando supponunt
+simpliciter uel materialiter. Tunc enim, quia non accipiuntur significatiue, ideo personaliter non supponunt, sicut
+hic 'homo est nomen', 'homo est species', et in consimilibus.
+[1.70. DE DIVISIONIBUS SUPPOSITIONIS PERSONALIS]
+[1.70. DE DIVISIONIBUS SUPPOSITIONIS PERSONALIS]
+Suppositio personalis potest diuidi primo in suppositionem discretam et communem. Suppositio discreta
+est in qua supponit nomen proprium alicuius uel pronomen demonstratiuum significatiue sumptum; et talis
+suppositio reddit propositionem singularem, sicut hic 'Sortes est homo', 'iste homo est homo', et sic de aliis.
+Suppositio personalis potest diuidi primo in suppositionem discretam et communem. Suppositio discreta
+est in qua supponit nomen proprium alicuius uel pronomen demonstratiuum significatiue sumptum; et talis
+suppositio reddit propositionem singularem, sicut hic 'Sortes est homo', 'iste homo est homo', et sic de aliis.
+Et si dicatur quod haec est uera 'haec herba crescit in horto meo', et tamen subiectum non habet
+suppositionem discretam, dicendum est quod ista propositio est falsa de uirtute sermonis; sed per eam intelligitur
+talis propositio 'talis herba crescit in horto meo', ubi subiectum supponit determinate. Unde aduertendum est
+quod quando aliqua propositio falsa est de uirtute sermonis, sed tamen aliquem sensum uerum habet, ipsa
+accepta in illo sensu, debent subiectum et praedicatum habere eandem suppositionem quam habent in illa quae
+de uirtute sermonis est uera.
+Et si dicatur quod haec est uera 'haec herba crescit in horto meo', et tamen subiectum non habet
+suppositionem discretam, dicendum est quod ista propositio est falsa de uirtute sermonis; sed per eam intelligitur
+talis propositio 'talis herba crescit in horto meo', ubi subiectum supponit determinate. Unde aduertendum est
+quod quando aliqua propositio falsa est de uirtute sermonis, sed tamen aliquem sensum uerum habet, ipsa
+accepta in illo sensu, debent subiectum et praedicatum habere eandem suppositionem quam habent in illa quae
+de uirtute sermonis est uera.
+Suppositio personalis communis est quando terminus communis supponit, sicut hic 'homo currit', 'omnis
+homo est animal'.
+Suppositio personalis communis est quando terminus communis supponit, sicut hic 'homo currit', 'omnis
+homo est animal'.
+Suppositio personalis communis diuiditur in suppositionem confusam et determinatam. Suppositio
+determinata est quando contingit descendere per aliquam disiunctiuam ad singularia; sicut bene sequitur 'homo
+currit, igitur iste homo currit, uel ille', et sic de singulis. Et ideo dicitur suppositio determinata quia per talem
+suppositionem denotatur quod talis propositio sit uera pro aliqua singulari determinata; quae singularis
+determinata sola, sine ueritate alterius singularis, sufficit ad uerificandam talem propositionem. Sicut ad
+ueritatem istius 'homo currit'
+requiritur quod aliqua certa singularis sit uera. Et quaelibet sufficit, etiam posito quod quaelibet alia
+esset falsa; tamen frequenter multae uel omnes sunt uerae. Est igitur regula certa, quod quando sub termino
+communi contingit descendere ad singularia per propositionem disiunctiuam, et ex qualibet singulari infertur
+talis propositio, tunc ille terminus habet suppositionem personalem determinatam. Et ideo in ista propositione
+'homo est animal' utrumque extremum habet suppositionem determinatam, quia sequitur 'homo est animal, igitur
+iste homo est animal uel ille', et sic de singulis. Similiter sequitur 'iste homo est animal', quocumque
+demonstrato,
+'igitur homo est animal'. Similiter sequitur 'homo est animal, igitur homo est hoc animal uel illud animal
+uel illud', et sic de singulis. Et bene sequitur 'homo est hoc animal', quocumque animali demonstrato, 'igitur
+homo est animal'. Ideo tam 'homo' quam 'animal' habet suppositionem determinatam.
+
+129
+
+

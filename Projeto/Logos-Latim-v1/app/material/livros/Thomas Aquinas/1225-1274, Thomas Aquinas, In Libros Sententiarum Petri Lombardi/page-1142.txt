@@ -1,0 +1,62 @@
+gaudium; aut de malo, et sic est tristitia. Si secundo modo, aut de bono, et sic est spes; aut de malo, et sic est
+timor.
+RA1
+Ad primum ergo dicendum, quod amor non dicit terminum in motu concupiscibilis, cum non sequatur ex
+conjunctione rei, sicut delectatio vel gaudium.
+RA2
+Ad secundum dicendum, quod motus concupiscibilis potest ulterius terminari quantum ad futurum; et ideo
+concupiscentia et desiderium non sunt passiones principales: motus autem irascibilis non; et ideo in futuro
+terminatur; et propter hoc spes et timor sunt principales passiones.
+RA3
+Ad tertium dicendum, quod potentia in qua est spes, denominatur ab ira, quia est ultimum in passionibus ejus:
+denominatio autem consuevit fieri ab his quae sunt ultima in re. Non tamen est principalis, quia habet motum in
+nocivum, non quidem fugiendum, quod est de ratione mali et nocivi, sed aggrediendum.
+RA4
+Ad quartum similiter dicendum est de audacia, quod timor qui fugam importat, consequitur ex ratione mali, quod
+de se est fugibile, non autem aggressibile, quod audacia facit; et ideo non est principalis passio.
+RA5
+Ad quintum dicendum, quod poenitentia continetur sub tristitia. Unde sciendum est, quod omnes praedictae
+passiones ad has principales passiones reducuntur vel sicut species ad genus, sicut admiratio ad timorem; vel
+sicut imperfectum ad perfectum, sicut concupiscentia ad gaudium; vel sicut effectus ad causam, et participans ad
+participatum, sicut audacia et ira ad spem: quia spes tendit in bonum arduum, quod de se est tale ut in illud
+debeat tendi; audacia autem et ira tendunt in arduum nocivum repellendum; quod quidem non est tale ut in ipsum
+tendi debeat, sed magis ut fugiatur; tendunt tamen in ipsum inquantum participat aliquid de ratione boni, quod
+est victoria ipsius; et ideo etiam spes participatur quodammodo in audacia et ira, sicut quod est per se, in eo quod
+est per accidens.
+|a5 Articulus 5: Utrum spes possit esse in parte intellectiva.
+AG1
+Ad quintum sic proceditur. Videtur quod spes non possit esse in parte intellectiva. Quia passiones sunt tantum in
+parte sensitiva, ut dicit Philosophus 7 physic.. Sed spes est passio.
+Ergo est in parte sensitiva.
+AG2
+Praeterea, ea quae sunt in parte intellectiva, sunt ipsius animae secundum se sine hoc quod communicat corpori.
+Spes vero non est ipsius animae secundum se, sed cum conjunctione corporis, eadem ratione qua gaudium et
+amor, ut dicitur in 1 de anima. Ergo spes non est in parte intellectiva.
+AG3
+Praeterea, subjectum spei est irascibilis. Sed irascibilis non est in parte intellectiva, sed in sensitiva, quae animus
+dicitur in 3 de anima.
+Cum ergo passio non excedat subjectum suum, nec spes erit in rationali.
+AG4
+Praeterea, sicut dicit Philosophus in Lib. De memor., memoria non est in parte intellectiva: quia concernit
+determinatam temporis differentiam, scilicet praeteritum. Sed sicut memoria concernit praeteritum, ita spes
+concernit futurum.
+Ergo spes non potest esse in parte intellectiva.
+AG5
+Praeterea, in parte intellectiva non sunt contrariae passiones: quia delectationi quae est secundum intellectum,
+nihil est contrarium, ut dicit Philosophus 1 topic.. Cum ergo spes sit passio contrarietatem habens ad timorem et
+desperationem, videtur quod non possit esse in parte intellectiva.
+SC1
+Sed contra, quidquid invenitur communiter in Deo et in nobis de operibus animae, ad partem intellectivam
+pertinet, quae solum est immaterialis, et in hoc Deo similis. Sed delectatio convenit non solum nobis, sed etiam
+Deo, ut dicitur in 7 ethic., quia ipse simplici operatione gaudet. Ergo delectatio est in nobis etiam in parte
+intellectiva; et ita eadem ratione spes, quae est de delectatione futura.
+SC2
+Praeterea, quidquid permanet in nobis post separationem animae a corpore, hoc ad partem intellectivam pertinet,
+quae sola est separabilis, secundum Philosophum. Sed spes est hujusmodi: quia erat in illis patribus qui in Limbo
+erant, ut dicitur in littera. Ergo spes est in parte intellectiva.
+SC3
+Praeterea, ad quamcumque potentiam pertinet objectum passionis, et passio. Sed objectum spei est arduum
+bonum, quod etiam ad intellectivam partem pertinere potest. Ergo spes potest esse in parte intellectiva.
+1142
+
+

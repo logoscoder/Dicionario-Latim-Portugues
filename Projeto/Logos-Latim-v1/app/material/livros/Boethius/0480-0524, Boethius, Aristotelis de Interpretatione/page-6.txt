@@ -1,0 +1,62 @@
+neque 'necessarium esse' sequitur 'possibile esse' neque 'necessarium non esse'; illi enim utraque contingit accidere,
+horum autem utrumlibet uerum fuerit non erunt illa uera; simul enim possibile esse et non esse; sin uero necesse est
+esse uel non esse, non erit possibile utrumque. Relinquitur ergo 'non necessarium non esse' sequi 'possibile esse'; hoc
+enim uerum est et de 'necesse non esse'. Haec enim fit contradictio eius quae sequitur 'non possibile esse'; illud enim
+sequitur hoc quod est '<im>possibile esse' et 'necesse esse non esse', cuius negatio 'non necesse esse non esse'.
+Sequuntur igitur et hae contradictiones secundum praedictum modum, et nihil impossibile contingit sic positis.
+Dubitabit autem aliquis si illud quod est 'necessarium esse', 'possibile' sequitur. Nam si non consequitur,
+contradictio sequitur, 'non possibile esse'; et si quis non hanc dicat esse contradictionem, necesse est dicere 'possibile
+non esse'; sed utraeque falsae sunt de 'necesse esse'. At uero rursus idem uidetur esse possibile incidi et non incidi, et
+esse et non esse, quare erit necesse esse contingere non esse; hoc autem falsum est. Manifestum est autem quoniam non
+omne possibile uel esse uel ambulare et opposita ualet sed est in quibus non sit uerum; et primum quidem in his quae
+non secundum rationem possunt, ut ignis calfactibilis et habet uim irrationabilem (ergo secundum rationem potestates
+ipsae eaedem plurimorum etiam contrariorum sunt; irrationabiles uero non omnes sed, quemadmodum dictum est,
+ignem non esse possibile calefacere et non, uel quaecumque alia semper agunt; aliqua uero possunt et secundum
+irrationabiles potestates simul quaedam opposita; sed hoc quidem idcirco dictum est quoniam non omnis potestas;
+oppositorum est nec quaecumque secundum eandem speciem dicuntur) . Quaedam uero potestates aequiuocae sunt
+'possibile' enim non simpliciter dicitur sed hoc quidem quoniam uerum est ut in actu, ut 'possibile est ambulare'
+quoniam ambulat, et omnino possibile est esse quoniam iam est actu quod dicitur 'possibile', illud uero quod forsitan
+aget, ut 'possibile est ambulare' quoniam ambulabit. Et haec quidem in mobilibus solis est potestas, illa uero et in
+immobilibus; in utrisque uero uerum est dicere non impossibile esse ambulare uel esse et quod ambulat iam et agit, et
+ambulabile. 'Sic' igitur 'possibile' non est uerum de 'necessario' simpliciter dicere, alterum autem uerum est. Quare,
+quoniam partem uniuersale sequitur, illud quod ex necessitate est sequitur 'posse esse' sed non omnino. Et est quidem
+fortasse principium quod necessarium est et quod non necessarium omnium uel 'esse' uel 'non esse', et alia
+quemadmodum ista consequentia considerare oportet.
+Manifestum est autem ex his quae dicta sunt quoniam quod ex necessitate est secundum actum est, quare, si
+priora sunt sempiterna, et quae actu sunt potestate priora sunt. Et haec quidem sine potestate actus sunt, ut primae
+substantiae, alia uero cum possibilitate, quae natura priora sunt, tempore uero posteriora, alia uero numquam sunt actu
+sed potestate solum.
+[14]
+Utrum autem contraria est affirmatio negationi et oratio orationi quae dicit quoniam 'omnis homo iustus' ei
+quae est 'nullus homo iustus' aut 'omnis homo iustus' ei quae est 'omnis homo iniustus est', 'Callias iustus est', 'Callias
+iustus non est', 'Callias iniustus est', quae harum contraria est? Nam si ea quae sunt in uoce sequuntur ea quae sunt in
+anima, illic autem contraria est opinio contrarii, ut 'omnis homo iustus' ei quae est 'omnis homo iniustus', etiam in his
+quae sunt in uoce affirmationibus necesse est similiter sese habere. Quod si neque illic contrarii opinatio contraria est,
+nec affirmatio affirmationi erit contraria sed ea quae dicta est negatio. Quare considerandum est cui opinatio uera falsae
+opinioni contraria est, utrum negationi an certe ei quae contrarium esse opinatur. Dico autem hoc modo: est quaedam
+opinatio uera boni quoniam bonum est, alia uero quoniam non bonum est falsa, alia uero quoniam malum; quae harum
+contraria est uerae? Et si est una, secundum quam contraria? (nam arbitrari contrarias opiniones definiri in eo quod
+contrariorum sunt, falsum est; boni enim quoniam bonum est et mali quoniam malum eadem fortasse opinio est et uera,
+siue plures siue una sit; sunt autem ista contraria; sed non eo, quod contrariorum sint, contrariae sed magis eo quod
+contrarie).
+Si ergo est boni quoniam est bonum opinatio, est autem quoniam non bonum, est uero quoniam aliquid aliud
+quod non est neque potest esse (aliarum quidem nulla ponenda est, neque. quaecumque esse quod non est opinantur
+neque quaecumque non esse quod est -- infinitae enim utraeque sunt, et quae esse opinantur quod non est et quae non
+esse quod est -- sed in quibus est fallacia; hae autem ex his ex quibus sunt generationes; ex oppositis uero generationes,
+quare etiam fallacia); si ergo quod bonum et bonum et non malum est, et hoc quidem secundum se, illud uero
+secundum accidens (accidit enim ei malum non esse), magis autem in unoquoque est uera quae secundum sese est,
+etiam falsa siquidem et uera. Ergo ea quae est 'quoniam non est bonum quod bonum est' secundum se consistentis falsa
+est, illa uero quae est 'quoniam malum' eius quod est secundum accidens, quare magis erit falsa de bono ea quae est
+negationis opinio quam ea quae est contrarii. Falsus est autem magis circa singula qui habet contrariam opinionem;
+contrarium enim est eorum quae plurimum circa idem differunt. Quod si harum contraria est altera, magis uero
+contraria contradictionis, manifestum est quoniam haec erit contraria. Illa uero quae est 'quoniam malum est quod est
+bonum' implicita est; et enim quoniam non bonum est necesse est idem ipsum opinari.
+Amplius, si etiam in aliis similiter oportet se habere, et hic sidetur bene esse dictum; aut enim ubique ea quae
+est contradictionis aut nusquam; quibus uero non est contraria, de his est quidem falsa ea quae est uerae opposita, ut qui
+hominem non putat hominem falsus est.
+Si ergo hae contrariae sunt, et aliae contradictionis.
+Amplius similiter se habet boni quoniam bonum est et non boni quoniam non bonum est, et super has boni
+quoniam non bonum est et non boni quoniam bonum est. Illi ergo quae est non boni quoniam non bonum uerae
+opinioni quae est contraria? Non enim ea quae dicit quoniam malum est; simul enim aliquando erit uera, numquam
+
+

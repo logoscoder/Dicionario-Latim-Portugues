@@ -1,0 +1,58 @@
+concludantur nisi ex necessariis, ut supra probatum est, necesse est quod intellectus, qui est principium scientiae,
+non sit contingentium.
+|#4 Ostenso ergo quod neque scientia neque intellectus sunt contingentium, ponit quamdam divisionem. Et dicit
+quod contingit verum esse et intellectum et scientiam et opinionem et quod per hoc dicitur, idest quod enunciatur
+voce per intellectum et scientiam et opinionem veram. Est enim verum et in compositione et divisione
+intellectus, et in enunciatione exteriori, in quantum significat interiorem veritatem opinionis, scientiae vel
+intellectus. Si ergo cuiuslibet veri vel est intellectus, vel scientia, vel opinio, et sunt quaedam vera contingentia,
+quorum non est neque scientia neque intellectus; relinquitur quod circa huiusmodi sit opinio, sive sint actu vera
+sive sint actu falsa, dummodo possint aliter se habere.
+|#5
+Et ad exponendum quid sit opinio, subiungit quod opinio est acceptio, idest existimatio quaedam,
+immediatae propositionis, et non necessariae.
+Quod potest duobus modis intelligi: uno modo sic quod propositio immediata in se quidem sit necessaria, sed ab
+opinante accipiatur ut non necessaria; alio modo, ut in se sit contingens.
+Dicitur enim immediata propositio, quaecunque per aliquod medium probari non potest, sive sit necessaria sive
+non necessaria. Ostensum est enim supra quod non proceditur in infinitum in praedicationibus, neque quantum
+ad media neque quantum ad extrema; et hoc non solum analytice in demonstrationibus, sed etiam logice
+communiter quantum ad omnes syllogismos. Si igitur sit aliqua propositio contingens mediata, oportet quod
+reducatur ad aliquas immediatas. Non autem reducitur ad immediatas necessarias, quia necessaria non sunt
+propria principia contingentium, neque ex necessariis potest concludi contingens.
+Unde relinquitur quod sit aliqua propositio immediata contingens. Sicut, homo non currit, est mediata; potest
+enim probari per hoc medium, homo non movetur, quae etiam est contingens, sed immediata. Existimatio ergo
+talium propositionum contingentium immediatarum est opinio: sed per hoc non excluditur quin etiam acceptio
+propositionis contingentis mediatae sit opinio. Sic enim se habet circa contingentia, sicut intellectus et scientia
+circa necessaria.
+|#6 Secundo; ibi: et confessum autem est etc., probat idem per id quod communiter apparet. Et dicit quod id
+quod dictum est, scilicet opinionem esse contingentium, est quoddam confessum, idest consentaneum his quae
+apparent: opinio enim videtur sonare aliquid debile et incertum; et videtur esse aliqua talis natura, quae habeat in
+se imbecillitatem et incertitudinem.
+|#7 Tertio; ibi: adhuc autem nullus opinatur probare etc., probat idem per experimentum. Nullus enim quando
+opinatur quod impossibile sit aliter se habere, reputat se opinari; sed tunc reputat se scire: quando autem opinatur
+quod sic est, et quod nihil prohibeat aliter se habere, tunc reputat se opinari: ac si opinio sit talis, idest
+contingentis, scientia autem necessarii.
+|#8 Deinde cum dicit: qualiter igitur est idem opinari etc., movet dubitationem contra praemissa.
+Et primo, movet dubitationes; secundo, solvit; ibi: aut si quidem sic etc.. Circa primum movet duas dubitationes:
+quarum una est de opinabili et scibili. Si enim opinio est contingentis, scientia vero necessarii; non est autem
+idem necessarium et contingens; ergo remanet dubium qualiter possit homo aliquid idem opinari et scire.
+Secunda dubitatio est de scientia et opinione, quare scilicet opinio non sit scientia: si tamen aliquis ponat quod
+de omni cognito possit esse opinio. De quolibet enim cognito potest homo opinari quod possit aliter se habere,
+nisi forte de primis principiis per se notis, quorum contraria non cadunt in existimatione: de quibus tamen non
+est scientia. Sed circa omnia mediata, quorum est demonstratio et scientia, potest aliquis existimare quod
+possibile sit aliter se habere, et ita potest ea opinari. Non enim opinio est solum de his quae sunt contingentia in
+sui natura; quia secundum hoc, non omne quod quis novit, contingeret opinari. Sed opinio est de his quae
+accipiuntur ut contingentia aliter se habere, sive sint talia sive non. Hoc ergo supposito, videtur quod sit idem
+scientia et opinio; quia tam sciens quam opinans consequuntur scientiam et opinionem per aliqua media,
+quousque perveniant ad aliqua immediata, sicut ex dictis patet. Unde si aliquis sit procedens per media ad
+immediata, habet scientiam.
+Quod autem opinio per media veniat ad immediata, manifestat per hoc, quia sicut contingit opinari quia ita est,
+ita contingit opinari propter quid sit ita. Hoc autem quod dico propter quid, significat medium. Unde patet quod
+opinio potest procedere per media ad immediata, sive opinio sit eorum quae in natura sua sunt contingentia, sive
+sit eorum quae accipiuntur ut contingentia.
+|#9 Deinde cum dicit: aut si quidem sic arbitratur etc., solvit praedictas dubitationes. Et primo secundam, quae
+est de identitate scientiae et opinionis; secundo, primam, quae est de identitate sciti et opinati; ibi: eiusdem autem
+etc.. Dicit ergo primo quod si aliquis per media procedat ad immediata, ita quod illa media non arbitretur ut
+contingentia aliter se habere, sed arbitretur ea sic se habere sicut definitiones, quae sunt media per quae
+75
+
+

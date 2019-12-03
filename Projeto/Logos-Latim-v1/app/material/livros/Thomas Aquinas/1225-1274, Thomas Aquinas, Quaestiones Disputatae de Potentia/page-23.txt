@@ -1,0 +1,62 @@
+divina est finis: et non propter aliquem finem. Fini autem congruit ut communicetur secundum omnem
+possibilem modum.
+Unde quamvis ibi in uno supposito perfecte et proprie inveniatur; nihil prohibet quin etiam inveniatur in alio.
+RA15
+Ad decimumquintum dicendum, quod generatio est species mutationis ex parte illa qua natura per generationem
+communicata recipitur in aliqua materia, quae est mutationis subiectum. Hoc autem non accidit in divina
+generatione; ideo ratio non sequitur.
+|a2 Articulus 2
+TTA
+Secundo quaeritur utrum potentia generativa in divinis dicatur essentialiter vel notionaliter.
+TTB
+Et videtur quod notionaliter tantum.
+AG1
+Potentia enim rationem principii habet, ut patet per definitiones positas V metaph..
+Sed principium in divinis respectu divinae personae notionaliter dicitur. Cum ergo potentia generandi hoc modo
+principium importet, videtur quod notionaliter dicatur.
+AG2
+Sed dicitur, quod significat simul essentiam et notionem. Sed contra, in divinis, secundum boetium, sunt haec
+duo praedicamenta; substantia, ad quam pertinet essentia; et ad aliquid, ad quod pertinent notionalia. Non potest
+autem aliquid esse in duobus praedicamentis, quia homo albus non est aliquid unum nisi per accidens, ut habetur
+V metaph.. Ergo potentia generandi non potest in sua ratione utrumque complecti, scilicet substantiam et
+notionem.
+AG3
+Praeterea, principium in divinis distinguitur ab eo cuius est principium. Sed essentia non debet distingui. Ergo
+non competit ei ratio principii: et ita potentia, quae rationem principii includit, non significat essentiam.
+AG4
+Praeterea, in divinis quod est proprium, est relativum et notionale; quod vero est commune, est essentiale et
+absolutum. Potentia autem generandi non est communis patri et filio, sed propria patris. Ergo dicitur relative sive
+notionaliter, non essentialiter nec absolute.
+AG5
+Praeterea, propriae actionis est principium propria forma, non communis; sicut homo per intellectum intelligit:
+nam haec actio est sibi propria respectu animalium aliorum, sicut et forma rationalitatis sive intellectualitatis.
+Sed generatio est propria operatio patris in quantum est pater. Ergo eius principium est paternitas, quae est
+propria forma patris, et non Deitas, quae est forma communis. Paternitas vero ad aliquid dicitur.
+Ergo potentia generandi non solum quantum ad rationem principii, sed etiam quantum ad id quod est principium,
+dicitur ad aliquid.
+AG6
+Praeterea, sicut potentia generandi realiter ab essentia divina non differt, ita nec etiam paternitas. Sed hoc non
+obstante paternitas dicitur tantum ad aliquid. Ergo nec propter hoc debet dici quod potentia generandi, cum
+relatione significet essentiam.
+AG7
+Praeterea, in divinis tria invenimus quae rationem principii habent, scilicet potentiam et scientiam et voluntatem,
+quae essentialiter dicuntur in Deo. Sed scientia et voluntas non simul significantur cum aliqua relatione vel
+notione in divinis. Ergo pari ratione nec potentia; et sic non potest dici quod potentia generandi significet simul
+essentiam ex parte potentiae, et notionem ex parte generationis; sed videtur quod significet tantum notionem per
+rationes inductas.
+SC1
+Sed contra. Est quod magister dicit, 7 dist., I senten., quod potentia generandi in patre est ipsa divina essentia.
+SC2
+Praeterea, Hilarius dicit, quod pater generat virtute naturae divinae. Ergo ipsa natura est generationis principium;
+et sic rationem potentiae habet.
+SC3
+Praeterea, Damascenus dicit, quod generatio est opus naturae existens; et sic idem quod prius.
+SC4
+Praeterea, in divinis est tantum una potentia.
+Sed potentia creandi dicitur essentialis.
+Ergo et potentia generandi.
+CO
+Respondeo. Dicendum quod circa hoc est multiplex opinio.
+23
+
+

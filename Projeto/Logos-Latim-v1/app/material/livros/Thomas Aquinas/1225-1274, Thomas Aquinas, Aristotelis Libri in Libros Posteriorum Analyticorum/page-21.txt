@@ -1,0 +1,59 @@
+Sicut enim tales sophistae dicuntur, idest apparentes et non existentes, in quantum deficiunt a dialectica
+argumentatione; ita dialecticae argumentationes si appareant demonstrative probare et non probent, sophisticae
+sunt, in quantum videntur sua argumentatione scientes, et non sunt.
+|#8 Deinde cum dicit: quod autem ex necessariis etc., ostendit quod supposuerat. Et circa hoc duo facit: primo,
+ostendit quod conclusio necessaria non potest sciri ex principiis non necessariis; secundo, quod licet non possit
+sciri necessarium ex non necessariis, tamen syllogizari potest; ibi: cum quidem igitur conclusio etc..
+Primum ostendit duabus rationibus, quarum prima talis est. Si quis non habeat rationem propter quid
+ostendentem, non efficitur sciens, etiam demonstratione habita: quia scire est causam rei cognoscere, ut supra
+dictum est. Sed ratio, quae infert conclusionem necessariam ex non necessariis principiis, non ostendit propter
+quid.
+Quod exemplificat in terminis communibus. Ponatur enim quod haec conclusio sit necessaria: omne c est a; et
+demonstretur per hoc medium b, quod non sit necessarium medium, sed contingens, puta quod haec propositio
+sit contingens, omne b est a, vel omne c est b, aut utraque; constat quod per hoc medium contingens, quod est b,
+non potest sciri de conclusione necessaria, quae est, omne c est a, propter quid.
+Quod sic probatur. Remota causa propter quam est aliquid, oportet quod removeatur effectus; sed hoc medium
+cum sit contingens, contingit removeri, conclusionem autem removeri non contingit cum sit necessaria;
+relinquitur ergo quod non potest sciri conclusio necessaria per medium contingens.
+|#9 Secundam rationem ponit; ibi: amplius si etc., quae talis est. Si aliquis nunc nescit, cum tamen habeat
+eandem rationem, quam prius habuit, et salvatus est, idest non desiit esse, salva re, idest etiam re scita non
+corrupta, et iterum ipse non est oblitus; manifestum est quod etiam neque prius scivit. In hoc autem Philosophus
+innuit quatuor modos, quibus aliquis amittit scientiam, quam prius habuit. Unus modus est quando excidit a
+mente eius ratio, per quam prius sciebat. Alius modus est per corruptionem ipsius scientis.
+Tertius per corruptionem ipsius rei scitae, sicut si sciam te sedere, dum sedes, te non sedente, haec scientia perit.
+Quartus est per oblivionem. Unde nullo istorum modorum existente, si aliquis modo nesciat aliquid, nec prius
+scivit. Sed ille, qui habet conclusionem necessariam per medium contingens, corrupto medio contingenti, nescit,
+medio non existente, et tamen eandem rationem habet, et salvus est, et salva est res, et non est oblitus.
+Ergo neque prius scivit, quando medium non erat corruptum. Quod autem medium, quod est contingens,
+corrumpatur, probat, quia id quod non est necessarium, oportet quod aliquando corrumpatur.
+Si autem dicatur quod medium nondum est corruptum: quia tamen non est necessarium, manifestum est quod
+contingit ipsum corrumpi.
+Posito autem contingenti, illud quod accidit non est impossibile, sed possibile et contingens. Quod autem
+sequebatur erat impossibile, scilicet, quod aliquis scientiam haberet alicuius, quod postea nesciret, manentibus
+conditionibus supra positis: quod tamen sequitur ex hoc quod est medium esse corruptum; quod et si non sit
+verum, est tamen contingens, ut dictum est.
+|#10 Deinde cum dicit: cum quidem igitur etc., ostendit quod licet per medium contingens non possit sciri
+conclusio necessaria, tamen potest syllogizari conclusio necessaria ex medio non necessario.
+Dicit ergo quod nihil prohibet, cum conclusio necessaria est, medium non necessarium esse per quod ostenditur,
+syllogismo tamen dialectico, non demonstrativo, qui facit scire. Contingit enim necessarium syllogizari ex non
+necessariis, sicut contingit syllogizari verum ex non veris: non tamen contingit e converso; quia cum medium est
+necessarium et conclusio necessaria erit, sicuti ex veris praemissis semper concluditur verum. Quod autem ex
+necessariis semper concludatur necessarium, sic probat: sit enim a de b ex necessitate, idest sit haec propositio
+necessaria: omne b est a; et hoc de c, idest sit haec etiam necessaria: omne c est b; ex his autem duabus
+necessariis sequitur tertia necessaria, scilicet conclusio, quod, omne c est a.
+Ostensum est enim in libro priorum quod ex duabus propositionibus de necessitate sequitur conclusio de
+necessitate. Ostendit etiam consequenter quod si conclusio non esset necessaria, nec medium posset esse
+necessarium. Ponatur enim quod haec conclusio, omne c est a, sit non necessaria, praemissae autem duae sint
+necessariae; secundum id quod praeostensum est, sequitur quod conclusio sit necessaria, cum tamen contrarium
+sit positum, scilicet quod conclusio sit non necessaria.
+|#11 Deinde cum dicit: quoniam igitur etc., infert conclusionem principaliter intentam ex omnibus praedictis,
+dicens quod quia oportet necessarium esse aliquid, si demonstratione sciatur, manifestum est ex praemissis quod
+oportet demonstrationem haberi per medium necessarium: alioquin nesciretur quod conclusio sit necessaria,
+neque propter quid, neque quia, cum necessarium non possit sciri per non necessarium, ut ostensum est. Sed si
+aliquis habeat rationem per medium non necessarium, dupliciter potest esse dispositus.
+Aut enim cum ipse sit non sciens, opinabitur tamen se scire, si accipiat in sua opinione medium non
+necessarium, tanquam necessarium; aut etiam non opinabitur se scire, si scilicet credat non se habere medium
+
+21
+
+

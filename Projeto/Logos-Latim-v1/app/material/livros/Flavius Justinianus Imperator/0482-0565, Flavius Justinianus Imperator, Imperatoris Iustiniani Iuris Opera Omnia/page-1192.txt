@@ -1,0 +1,57 @@
+CJ.12.33.0. Qui militare possunt vel non et de servis ad
+militiam vel dignitatem adspirantibus et ut nemo duplici
+militia vel dignitate et militia simul utatur.
+CJ.12.34.0. Negotiatores ne militent.
+CJ.12.35.0. De re militari.
+CJ.12.36.0. De castrensi peculio militum et
+praefectianorum.
+CJ.12.37.0. De erogatione militaris annonae.
+CJ.12.38.0. De excoctione et translatione militarium
+annonarum.
+CJ.12.39.0. De militari veste.
+CJ.12.40.0. De metatis et epidemeticis.
+CJ.12.41.0. De salgamo hospitibus non praebendo.
+CJ.12.42.0. De commeatu.
+CJ.12.43.0. De tironibus.
+CJ.12.44.0. De litorum et itinerum custodia.
+CJ.12.45.0. De desertoribus et occultatoribus eorum.
+CJ.12.46.0. De veteranis.
+CJ.12.47.0. De filiis officialium militarium qui in bello
+moriuntur.
+CJ.12.48.0. De oblatione votorum.
+CJ.12.49.0. De numerariis actuariis et chartulariis et
+adiutoribus scriniariis et exceptoribus sedis excelsae
+ceterorumque iudicum tam civilium quam militarium.
+CJ.12.50.0. De cursu publico angariis et parangariis.
+CJ.12.51.0. De tractoriis et stativis.
+
+CJ.12.52.0. De apparitoribus praefectorum praetorio et
+privilegiis eorum.
+CJ.12.53.0. De apparitoribus praefecti urbis.
+CJ.12.54.0. De apparitoribus magistrorum militum et
+privilegiis eorum.
+CJ.12.55.0. De apparitoribus proconsulis et legati.
+CJ.12.56.0. De apparitoribus comitis orientis.
+CJ.12.57.0. De cohortalibus principibus corniculariis et
+primipilaribus.
+CJ.12.58.0. De apparitoribus praefecti annonae.
+CJ.12.59.0. De diversis officiis et apparitoribus iudicum et
+probatoriis eorum.
+CJ.12.60.0. De exsecutoribus et exactoribus.
+CJ.12.61.0. De lucris advocatorum et concussionibus
+officiorum sive apparitorum.
+CJ.12.62.0. De primipilo.
+CJ.12.63.0. Publicae laetitiae vel consulum nuntiatores vel
+insinuatores constitutionum et aliarum sacrarum vel
+iudicialium litterarum ex descriptione vel ab invitis ne
+quid accipiant immodicum.
+CJ.12.1.0. De dignitatibus.
+CJ.12.1.1: Imperator Alexander Severus
+Si, ut proponitis, et avum consularem et patrem
+praetorium virum habuistis, et non privatae condicionis
+hominibus, sed clarissimis nupseritis, claritatem generis
+retinetis. * alex. a. severianae. * <a xxx sine die et consule >
+
+1192
+
+

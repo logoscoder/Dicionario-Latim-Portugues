@@ -1,0 +1,69 @@
+Cum illud sit uerius, quoniam qui homo non fuerit, non potest esse grammaticus.
+At si quae uel nunquam de subiecto possunt uere praedicari, ut lapis de homine, uel praedicantur quidem et
+sunt maiora subiecto sed ab eo discedere separarique patiuntur, ut iustitia ab homine, ueras protinus utrasque
+conseruant. Nam qui dicit:
+Quidam homo lapis non est
+uerum dixerit. At si quis respondeat:
+Quidam non homo non [781C] lapis non est
+is quoque uerum dixerit: si quidem de silice uel de huiusmodi caeteris uelit intelligi, quae cum non sint
+homines, non lapides non sunt.
+Item:
+Quidam homo iustus non est
+propositio ueritatem tenet. Sed ne illa quidem falsa est quae proponit:
+Quemdam non hominem non iustum non esse
+hoc enim, ut dictum est, diuinis substantiis inuenitur, ut iustitiam teneant, quamuis ab hominis definitione
+seiunctae sunt.
+Item, si id quod abesse non potest, et sit aequale subiecto, de eodem subiecto praedicetur, ut risibile homini,
+incurrit utrisque mendacium. Nam:
+Quidem homo risibilis non est
+falsa est, cuius falsitati sese aemulam praestat quae proponit:
+Quidam non homo non risibile non est
+quasi qui homo non sit possit esse risibilis. Ita [782A] igitur quidem in affirmationibus uniuersalibus et
+particularibus negatiuis ueritas falsitasque et simul aliquoties inuenitur, et inter utrasque diuiditur. Negationes uero
+uniuersales et particulares affirmationes non simili respondent modo. Sed negationes quidem uniuersales, unam uerum
+dicere, alteram falsam, simul utrasque falsas esse possibile est. Simul autem ueras nunquam esse contingit. Nam si id
+quod adesse subiecto non potest, praedicetur, ut lapis homini, unam ueram faciunt, alteram falsam, ut est:
+Nullus homo lapis est
+uera est; falsa est quae proponit:
+Nullus non homo non lapis est
+omnia quippe animalia praeter hominem ita non sunt lapides, sicut ab hominum natura seiuncta sunt.
+Quidquid uero aliud de subiecto praedicetur, neutri constare [782B]
+ueritas potest, ut si quis proponat:
+Nullus homo rationalis est
+falsum dixerit; aliusque respondeat:
+Nullus non homo non rationalis est
+hanc quoque conuincit ratio mentiri, equus quippe non homo est, nec eum quis dixerit rationis esse participem;
+ut autem simul uerae sint, nullus poterit terminus approbare.
+Particulares autem affirmatiuae in differentiam ueritatis falsitatisque discedunt, quoties aliquid tale de subiecto
+dicitur, quod nunquam possit adesse subiecto, ut lapis: nam si quis enuntiet:
+Quidam homo lapis est
+falsa propositio est; at si quis respondeat:
+Quidam non homo non lapis est
+tenet contrariam ueritatem, equus quippe non homo est, nec lapis esse dicetur. Quidquid uero aliud de subiecto
+praedicabitur, est eas in ueritatis [782C] significationem conuenire, ut:
+Quidam homo rationalis est
+uera est,
+Quidam non homo non rationalis est
+huic quoque ueritas constat, equus quippe non homo est, nec ratione subsistit; ut uero simul falsae sint, nullis
+reperietur exemplis. Ad hunc igitur modum ei de caeteris quae uel subiectum uel praedicatum retinent infinitum, ad
+ueritatis falsitatisque consensum enuntiationum proprietas consideranda est, de quibus modo breuiter quid eueniat
+tetigisse sufficiat, singula uero lectoris exploranda diligentiae, et per conuenientes terminos rimanda permittimus.
+Disponantur igitur propositiones quae ex utrisque simplicibus terminis constant, easque quarum subiectum tantum
+abnuatur ex aduerse parte respiciant.
+SIMPLICES
+Omnis homo rationalis est.
+Nullus homo rationalis est.
+Quidam homo rationalis est.
+Quidam homo rationalis non est.
+Omnis homo risibilis est.
+Nullus homo risibilis est.
+
+EX SUBIECTIS FINITIS
+Omnis non homo rationalis est.
+Nullus non homo rationalis est.
+Quidam non homo rationalis est.
+Quidam non homo rationalis non est.
+Omnis non homo risibilis est.
+Nullus non homo risibilis est.
+
+

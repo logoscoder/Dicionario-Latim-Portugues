@@ -1,0 +1,55 @@
+|#26 Tertiam quaestionem ponit ibi, adhuc autem et est dubitatio, utrum principia sint magis genera quam
+species. Et primo ostendit quod species magis sint principia quam genera; quia quod est simplicius, est magis
+principium. Sed species videntur esse simpliciores.
+Sunt enim indivisibilia, ad quae terminatur divisio generis formalis. Sed genera in plura et differentia specie
+dividuntur: ergo magis videntur principia esse species quam genera. Sed ex ea parte qua genera constituunt
+species, et non e converso, videntur genera esse magis principia.
+Hoc enim est de ratione principii, quod eo remoto alia removentur.
+|#27 Est autem veritas quod universalia sunt principia, scilicet in cognoscendo; et sic genera magis sunt
+principia, quia simpliciora. Et quod dividantur in plura quam species, hoc est, quia continent plura in potentia.
+Sed species continent plura in actu. Unde sunt magis divisibiles per modum resolutionis compositi in simplicia.
+|+2 Lectio 2
+|#1 Postquam movit dubitationem de consideratione huius scientiae, hic movet dubitationem de his quae in hac
+scientia considerantur.
+Et primo de substantiis. Secundo de principiis, ibi, adhuc autem siquidem est.
+Circa hoc movet duas dubitationes: quarum prima est, utrum oporteat aliquid poni in rerum natura existere
+praeter singularia, aut non. Et si dicatur quod non, videtur sequi, quod haec scientia, quae nunc quaeritur, sit
+singularium, et quaelibet alia. Sed hoc videtur impossibile; quia singularia sunt infinita, et infinitorum non est
+scientia. Si autem dicatur, quod aliquid existit praeter singularia, oportet quod sint vel genera, vel species; et sic
+haec scientia esset de generibus vel speciebus.
+Sed quare hoc sit impossibile, dictum est prius; quia nec genera nec species videntur esse principia, cum tamen
+haec sit scientia de principiis.
+|#2 Et veritas haec est, quia nihil est in rerum natura praeter singularia existens, sed tantum in consideratione
+intellectus abstrahentis communia a propriis.
+|#3 Secundam dubitationem ponit ibi, etenim et est utrum sit aliqua substantia separabilis praeter sensibiles
+substantias, quae sunt hic et nunc. Et haec quaestio necessaria est hic ad quaerendum; quia si nihil est praeter
+sensibilia, tunc sola sensibilia sunt entia. Et, cum sapientia sit scientia entium, sequitur quod sapientia sit circa
+sola sensibilia, cum tamen in hac scientia videamur quaerere quamdam aliam naturam separatam. Et sic ad
+propositum huius scientiae pertinet quaerere, si est aliquid separatum a sensibilibus, vel non. Et quicquid horum
+detur, sequitur alia quaestio.
+|#4 Et ideo consequenter dicit adhuc autem movet quaestionem quae videtur sequi, si ponatur aliquid separabile
+a sensibilibus; quae quidem quaestio est, utrum praeter omnes substantias sensibiles sit aliquid separabile, aut
+praeter quasdam tantum. Si praeter quasdam tantum, difficile est assignare rationem praeter quales substantiarum
+sensibilium oportet ponere substantiam separatam, et praeter quales non. Non enim videtur esse ratio aliqua,
+quare praeter homines et equos sensibiles sit homo et equus separatus, et non similiter de aliis animalibus, et
+etiam de aliis inanimatis.
+Si autem praeter omnia sensibilia sit aliqua substantia separata, sequitur quod oporteat ponere aliquas substantias
+separatas, perpetuas, aequales numero substantiis sensibilibus et corruptibilibus; ut scilicet, sicut est homo
+corruptibilis, ita sit homo incorruptibilis, et equus, et bos, et etiam in rebus naturalibus aliis. Et hoc videtur
+cadere in irrationabilia.
+|#5 Deinde cum dicit si autem movet aliam quaestionem, quae videtur sequi, si non sit aliqua substantia
+separata a sensibilibus. Et est quaestio quid sit primum principium, utrum scilicet materia vel forma: ex his enim
+duobus componuntur substantiae sensibiles. Videtur enim primo aspectu quod nihil magis possit poni principium
+quam materia, quae est primum subiectum, et semper manet, sicut primi naturales posuerunt. Sed hoc, ut videtur,
+non potest esse principium, quia materia non est in actu, sed in potentia. Et ita, cum actus naturaliter sit prior
+potentia, ut in nono habitum est, videtur quod sit principium species et forma quae est actus.
+|#6 Sed nec forma potest esse principium, ut videtur, quia forma sensibilis videtur esse corruptibilis. Et ita, si
+forma sensibilis sit primum principium, videtur sequi quod nulla substantia sit perpetua, quae sit separabilis, et
+secundum se existens.
+Quod videtur inconveniens: quia a famosis philosophis quaeritur aliquod principium perpetuum et separatum, et
+aliqua talis substantia: et hoc rationabiliter. Non enim esset ordo perpetuitatis in rebus, nisi esset aliquod
+principium separabile et perpetuum, quod daret rebus perpetuitatem.
+
+307
+
+

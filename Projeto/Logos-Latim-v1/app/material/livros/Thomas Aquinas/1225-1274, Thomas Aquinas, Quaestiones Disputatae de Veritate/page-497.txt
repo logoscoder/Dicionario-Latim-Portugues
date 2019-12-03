@@ -1,0 +1,62 @@
+SC1
+Sed contra. Est quod Damascenus dicit in III Lib., XIV cap.: liberum arbitrium nihil aliud est nisi voluntas.
+SC2
+Praeterea, Philosophus dicit in III ethicorum, quod electio appetitus est praeconsiliati. Electio autem est actus
+liberi arbitrii. Ergo liberum arbitrium est potentia appetitiva. Sed non est appetitus inferior, qui dividitur per
+irascibilem et concupiscibilem: sic enim bruta haberent liberum arbitrium. Ergo est appetitus superior: et hic est
+voluntas secundum Philosophum in III de anima. Ergo liberum arbitrium est voluntas.
+CO
+Respondeo. Dicendum, quod quidam dicunt, liberum arbitrium esse tertiam potentiam a voluntate et ratione,
+propter hoc quod vident actum liberi arbitrii, qui est eligere, differentem esse et ab actu simplicis voluntatis, et ab
+actu rationis. Nam rationis quidem actus in sola cognitione consistit; voluntas autem actum suum habet circa
+bonum quod est finis; liberum vero arbitrium circa bonum quod est ad finem. Sicut ergo bonum quod est ad
+finem, egreditur a ratione finis, appetitus vero boni a cognitione; ita dicunt quodammodo naturali ordine ex
+ratione voluntatem procedere, et ex duabus tertiam potentiam, quae est liberum arbitrium.
+Sed hoc convenienter stare non potest.
+Obiectum enim et id quod est ratio obiecti, ad eamdem potentiam pertinent, sicut color et lumen ad visum. Tota
+autem ratio appetibilitatis eius quod est ad finem, in quantum huiusmodi, est finis. Unde non potest esse quod ad
+aliam potentiam pertineat appetere finem et id quod est ad finem.
+Nec haec differentia, qua finis appetitur absolute, id autem quod est ad finem, in ordine ad alterum, potest
+appetitivarum potentiarum distinctionem inducere. Nam ordinatio unius ad alterum inest appetitui non per se, sed
+per aliud, scilicet per rationem, cuius est ordinare et conferre: unde non potest esse differentia specifica
+constituens speciem appetitus.
+Utrum autem eligere sit actus rationis vel voluntatis, Philosophus sub dubio videtur relinquere in VII ethic.,
+supponens tamen quod aliqualiter sit virtus utriusque; dicens quod electio vel est intellectus appetitivi, vel
+appetitus intellectivi. Sed quod sit appetitus dicit in III ethic., definiens electionem esse desiderium
+praeconsiliati.
+Quod quidem verum esse, et ipsum obiectum demonstrat (nam sicut bonum delectabile et honestum, quae habent
+rationem finis, sunt obiectum appetitivae virtutis, ita et bonum utile, quod proprie eligitur); et patet ex nomine:
+nam liberum arbitrium, ut dictum est, art. 4 huius quaest., est potentia qua homo libere iudicare potest.
+Quod autem dicitur esse principium alicuius actus aliqualiter fiendi, non oportet quod sit principium illius actus
+simpliciter, sed aliqualiter significatur esse principium illius; sicut grammatica per hoc quod dicitur esse scientia
+recte loquendi, non dicitur quod sit principium locutionis simpliciter, quia sine grammatica potest homo loqui,
+sed quod sit principium rectitudinis in locutione. Ita et potentia qua libere iudicamus, non intelligitur illa qua
+iudicamus simpliciter, quod est rationis; sed quae facit libertatem in iudicando, quod est voluntatis.
+Unde liberum arbitrium est ipsa voluntas.
+Nominat autem eam non absolute, sed in ordine ad aliquem actum eius, qui est eligere.
+RA1
+Ad primum ergo dicendum, quod quia liberum arbitrium non nominat voluntatem absolute, sed in ordine ad
+rationem, inde est quod ad hoc significandum voluntas et ratio in definitione liberi arbitrii oblique ponuntur.
+RA2
+Ad secundum dicendum, quod quamvis eligere sit alius actus quam velle, tamen ista differentia non potest
+potentiarum distinctionem inducere.
+RA3
+Ad tertium dicendum, quod quamvis iudicium sit rationis, tamen libertas iudicandi est voluntatis immediate.
+RA4
+Ad quartum dicendum, quod rationales dicimur non solum a potentia rationis, sed ab anima rationali, cuius
+potentia est voluntas; et sic secundum quod rationales sumus, dicimur esse liberi arbitrii. Si tamen rationale a
+rationis potentia sumeretur, praedicta auctoritas significaret rationem esse primam liberi arbitrii originem, non
+autem immediatum electionis principium.
+RA5
+Ad quintum dicendum, quod voluntas quodammodo movet rationem imperando actum eius, et ratio movet
+voluntatem proponendo ei obiectum suum, quod est finis, et inde est quod utraque potentia potest aliqualiter per
+aliam informari.
+|a7 Articulus 7
+TTA
+Septimo quaeritur utrum possit esse aliqua creatura quae liberum arbitrium habeat naturaliter confirmatum in
+bono.
+TTB
+Et videtur quod sic.
+497
+
+

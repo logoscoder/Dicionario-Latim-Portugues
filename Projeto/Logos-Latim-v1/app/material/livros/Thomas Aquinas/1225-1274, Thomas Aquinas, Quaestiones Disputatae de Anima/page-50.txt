@@ -1,0 +1,63 @@
+Praeterea, secundum haec tria attenditur imago trinitatis in anima. Sed anima est ad imaginem trinitatis
+secundum seipsam, et non solum secundum eius accidentia. Ergo praedictae potentiae non sunt accidentia
+animae: sunt igitur de essentia eius.
+AG7
+Praeterea, accidens est quod potest adesse et abesse praeter subiecti corruptionem.
+Sed potentiae animae non possunt abesse.
+Ergo non sunt accidentia animae; et sic idem quod prius.
+AG8
+Praeterea, nullum accidens est principium substantialis differentiae; quia differentia complet definitionem rei,
+quae significat quid est res. Sed potentiae animae sunt principia differentiarum substantialium; sensibile enim
+dicitur secundum sensum, rationale secundum rationem. Ergo potentiae non sunt accidentia animae, sed sunt ipsa
+anima, quae est forma corporis; nam forma est principium substantialis differentiae.
+AG9
+Praeterea, forma substantialis est virtuosior quam accidentalis. Sed accidentalis a seipsa agit, et non per aliam
+potentiam mediam.
+Ergo et substantialis. Cum igitur anima sit forma substantialis, potentiae quibus agit non sunt aliud quam ipsa.
+AG10
+Praeterea, idem est principium essendi et operandi. Sed anima secundum seipsam est principium essendi, quia
+secundum suam essentiam est forma. Ergo sua essentia est principium operandi. Sed potentia nihil est aliud
+quam principium operandi. Essentia igitur animae est eius potentia.
+AG11
+Praeterea, substantia animae, in quantum est in potentia ad intelligibilia, est intellectus possibilis; in quantum
+autem est actu, est agens. Sed esse actu et esse in potentia non significant aliud quam ipsam rem quae est in
+potentia et in actu. Ergo anima est intellectus agens et possibilis; et eadem ratione est suae potentiae.
+AG12
+Praeterea, sicut materia prima est in potentia ad formas sensibiles, ita anima intellectiva est in potentia ad formas
+intelligibiles.
+Sed materia prima est sua potentia.
+Ergo anima intellectiva est sua potentia.
+AG13
+Praeterea, Philosophus in libro ethic.
+Dicit quod homo est intellectus.
+Sed hoc non est nisi ratione animae rationalis.
+Ergo anima est intellectus, et eadem ratione est etiam suae potentiae.
+AG14
+Praeterea, Philosophus in II de anima dicit quod anima est actus primus, sicut scientia. Sed scientia est
+immediatum principium actus secundi, qui est considerare.
+Ergo anima est immediatum principium operationum suarum. Sed immediatum principium operationis dicitur
+potentia. Ergo anima est suae potentiae.
+AG15
+Praeterea, omnes partes sunt consubstantiales toti, quia totum consistit ex partibus.
+Sed potentiae animae sunt partes eius, ut patet in II de anima. Ergo sunt substantiales animae, et non sunt
+accidentia.
+AG16
+Praeterea, forma simplex non potest esse subiectum. Sed anima est forma simplex, ut supra ostensum est. Ergo
+non potest esse subiectum accidentium. Potentiae ergo quae sunt in anima, non sunt eius
+AG17
+Praeterea, si potentiae sunt accidentia animae, oportet quod ab essentia eius fluant; accidentia enim propria
+causantur ex principiis subiecti. Sed essentia animae, cum sit simplex, non potest esse causa tantae diversitatis
+accidentium, quantum apparet in potentiis animae. Potentiae igitur animae non sunt eius accidentia. Relinquitur
+ergo quod ipsa anima sit suae potentiae.
+SC1
+Sed contra. Sicut se habet essentia ad esse, ita posse ad agere. Ergo permutatim, sicut se habent esse et agere ad
+invicem, ita se habent potentia et essentia. Sed in solo Deo idem est esse et agere. Ergo in solo Deo idem est
+potentia et essentia. Anima ergo non est suae potentiae.
+SC2
+Praeterea, nulla qualitas est substantia.
+Sed potentia naturalis est quaedam species qualitatis, ut patet in praedicamentis. Ergo potentiae naturales animae
+non sunt ipsa essentia animae.
+CO
+50
+
+

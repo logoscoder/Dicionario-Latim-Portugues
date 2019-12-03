@@ -1,0 +1,57 @@
+RA3
+Ad tertium patet solutio per id quod dictum est in corp..
+RC
+Ad alia etiam patet solutio ex praedictis.
+
+|+d35.q2 Distinctio 35, Quaestio 2
+|a0 Prologus
+Deinde quaeritur de donis perficientibus in utraque vita: et 1 de dono sapientiae; 2 de dono intellectus; 3 de dono
+scientiae; 4 de dono consilii.
+|a1 Articulus 1: Utrum sapientia sit donum.
+Articulus 1A
+AG1
+Ad primum sic proceditur. Videtur quod sapientia non sit donum. Sapientia enim in littera dicitur cognitio
+divinorum. Hoc autem videtur esse fidei, cujus objectum est veritas prima. Cum ergo fides non sit donum, sed
+virtus, videtur quod nec sapientia.
+AG2
+Praeterea, in littera dicitur, quod sapientia est cultus Dei: et sumitur de job 28, secundum aliam translationem.
+Sed latria, quae cultus dicitur, est virtus, et non donum. Ergo sapientia non est donum.
+AG3
+Praeterea, nullum donum habetur per acquisitionem.
+Sed sapientia habetur per acquisitionem: quia Philosophus philosophiam primam sapientiam nominat, quae per
+doctrinam habetur. Ergo sapientia non est donum.
+SC1
+Sed contra, Isai. 11 computatur inter alia dona.
+SC2
+Praeterea, dona ponuntur virtutibus altiora. Sed inter omnes habitus videtur sapientia nobilissimum, maxime
+eorum quae ad cognitionem pertinent, ut Philosophus dicit in 10 ethic.. Ergo sapientia maxime debet dici donum.
+CO
+Respondeo dicendum ad primam quaestionem, quod sapientia secundum nominis sui usum videtur importare
+eminentem quamdam sufficientiam in cognoscendo, ut etiam in seipso certitudinem habeat de magnis et
+mirabilibus quae aliis ignota sunt, et possit de omnibus judicare, quia unusquisque bene judicat quae cognoscit,
+possit etiam et alios ordinare per dictam eminentiam.
+Haec autem sufficientia in quibusdam quidem est per studium et doctrinam, adjuncta vivacitati intellectus: et
+talis sapientia a Philosopho ponitur virtus intellectualis in 6 ethic.. Sed in quibusdam talis sufficientia accidit per
+quamdam affinitatem ad divina, sicut dicit dionysius de Hierotheo, quod patiendo divina, didicit divina: et de
+talibus dicit apostolus, 1 Cor., 2, 15: spiritualis judicat omnia; et 1 joan. 2, 27: unctio docebit vos de omnibus.
+RA1
+Ad primum ergo dicendum, quod sicut se habet sapientia quae est virtus intellectualis, ad intellectum
+principiorum, quia quodammodo comprehendit ipsum, ut dicitur in 7 ethic., secundum quod ex principiis
+negotiatur circa altissima et difficillima, et de his etiam quodammodo ordinat, inquantum reducit omnia ad unum
+principium, et ejus est disputare contra negantes ipsa: ita se habet sapientia quae est donum, ad fidem, quae est
+cognitio simplex articulorum, quae sunt principia totius christianae sapientiae. Procedit enim sapientiae donum
+ad quamdam deiformem contemplationem, et quodammodo explicitam, articulorum quos fides sub quodam
+modo involuto tenet secundum humanum modum. Et ideo sapientia est donum, fides autem virtus.
+RA2
+Ad secundum dicendum, quod sapientia non dicitur pietas, quae est latria, per essentiam, sed quasi per causam,
+quia proxime ad latriam inclinat.
+RA3
+Ad tertium dicendum, quod aequivocatio est in sapientia, ut dictum est.
+Articulus 1B
+AG1
+Ulterius. Videtur quod sapientia non sit tantum de divinis. Quia, sicut dicit Philosophus in 1 metaph., oportet
+sapientem certissimum esse de omnibus. Ergo non est de divinis tantum.
+AG2
+1295
+
+

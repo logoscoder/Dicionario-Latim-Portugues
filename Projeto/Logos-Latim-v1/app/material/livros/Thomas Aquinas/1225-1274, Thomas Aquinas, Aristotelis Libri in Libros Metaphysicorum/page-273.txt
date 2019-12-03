@@ -1,0 +1,55 @@
+Cuius probatio est, quia cum linea ac, sit diameter circuli, oportet quod transeat per centrum. Dividatur ergo per
+medium in puncto d, et producatur linea db. Sic igitur linea db, aequalis est lineae da, quia sunt protractae a
+centro usque ad circumferentiam; ergo in triangulo dba aequalis est angulus b, angulo a, quia omnis trianguli
+cuius duo latera sunt aequalia, anguli qui sunt supra bases, sunt aequales.
+Duo igitur anguli, a et b, sunt duplum solius anguli b. Sed angulus bdc cum sit exterior, est aequalis duobus
+angulis a et b partialibus: ergo angulus bdc est duplus anguli b partialis.
+|#10 Et similiter probatur quod angulus c est aequalis angulo b trianguli bdc; eo quod duo latera db et dc sunt
+aequalia cum sint protracta a centro ad circumferentiam, et angulus exterior, scilicet adb, est aequalis utrique:
+ergo est duplus anguli b partialis. Sic ergo duo anguli adb et bdc sunt duplum totius anguli abc. Sed duo anguli
+adb et bdc sunt aut recti aut aequales duobus rectis, quia linea db cadit supra lineam ac: ergo angulus abc qui est
+in semicirculo, est rectus.
+|#11 Et hoc est quod Philosophus dicit, quod ideo demonstratur esse rectus ille qui est in semicirculo, quia tres
+lineae sunt aequales: scilicet duae in quas dividitur basis, scilicet da et dc, et tertia quae ex media istarum duarum
+protracta superstat utrique, scilicet bd. Et hanc dispositionem videnti, statim manifestum est scienti principia
+geometriae, quod omnis angulus in semicirculo est rectus.
+|#12 Sic igitur concludit Philosophus manifestum esse, quod quando aliqua reducuntur de potentia in actum,
+tunc invenitur earum veritas. Et huius causa est, quia intellectus actus est. Et ideo ea quae intelliguntur, oportet
+esse actu. Propter quod, ex actu cognoscitur potentia. Unde facientes aliquid actu cognoscunt, sicut patet in
+praedictis descriptionibus. Oportet enim quod in eodem secundum numerum, posterius secundum ordinem
+generationis et temporis sit actus quam potentia, ut supra expositum est.
+|+11 Lectio 11
+|#1 Hic comparat Philosophus actum ad potentiam secundum veritatem et falsitatem.
+Et circa hoc tria facit. Primo ponit quod verum et falsum praecipue dicitur secundum actum. Secundo manifestat
+propositum, ibi, hoc autem in rebus est componi aut dividi. Tertio concludit quoddam corollarium, ibi, palam
+etiam et quia de immobilibus.
+Dicit ergo primo, quod cum ens et non ens ei oppositum dividantur dupliciter: uno modo secundum diversa
+praedicamenta, quae sunt substantia, quantitas, qualitas et cetera; alio modo secundum potentiam et actum, vel
+unius, vel alterius contrariorum, quia utrumque contrariorum contingit actu esse et potentia: hoc quod est in actu,
+maxime proprie dicitur aut verum aut falsum.
+|#2 Deinde cum dicit hoc autem probat quod proposuerat.
+Et circa hoc tria facit. Primo manifestat in substantiis continuis. Secundo in simplicibus, ibi, circa incomposita.
+Tertio colligit utrumque, ibi, esse vero ut verum.
+Circa primum duo facit. Primo manifestat propositum; dicens, quod hoc, scilicet esse verum vel falsum in rebus,
+nihil est aliud quam componi et dividi.
+Unde qui putat dividi quod est divisum in rebus, verus est in sua opinione; ut qui putat hominem non esse
+asinum: et similiter qui putat componi quod est compositum in rebus, ut qui putat hominem esse animal. Ille
+autem mentitur in opinando, qui e contrario habet res aliter in sua opinione, quam res sint in sua natura: ut qui
+putat hominem asinum, aut non esse animal: quia quando aliquid est aut non est, tunc dicitur verum vel falsum.
+|#3 Quod sic considerandum est.
+Non enim ideo tu es albus, quia nos vere existimamus te esse album; sed e converso, ideo existimamus te album,
+quia tu es albus.
+Unde manifestum est, quod dispositio rei est causa veritatis in opinione et oratione.
+|#4 Hoc autem addit ad manifestandum quod supra dixerat, quod verum et falsum est in rebus componi et
+dividi.
+Oportet enim veritatem et falsitatem quae est in oratione vel opinione, reduci ad dispositionem rei sicut ad
+causam. Cum autem intellectus compositionem format, accipit duo, quorum unum se habet ut formale respectu
+alterius: unde accipit id ut in alio existens, propter quod praedicata tenentur formaliter. Et ideo, si talis operatio
+intellectus ad rem debeat reduci sicut ad causam, oportet quod in compositis substantiis ipsa compositio formae
+ad materiam, aut eius quod se habet per modum formae et materiae, vel etiam compositio accidentis ad
+subiectum, respondeat quasi fundamentum et causa veritatis, compositioni, quam intellectus interius format et
+exprimit voce. Sicut cum dico, socrates est homo, veritas huius enunciationis causatur ex compositione formae
+
+273
+
+

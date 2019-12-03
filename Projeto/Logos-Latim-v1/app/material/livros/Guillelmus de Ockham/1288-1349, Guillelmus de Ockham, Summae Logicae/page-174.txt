@@ -1,0 +1,59 @@
+reduplicatiua 'Sortes in quantum homo est coloratus' est similiter falsa, quia scilicet habet unam exponentem
+falsam.
+Si autem reduplicatio fiat gratia causae, tunc ad ueritatem talis reduplicatiuae, praeter quatuor praedictas
+exponentes, requiritur quod illud super quod cadit reduplicatio exprimat causam importati per praedicatum, uel
+quod sit illud cui primo inest praedicatum principale, uel quod illi prius insit praedicatum principale quam
+pronomini demonstranti illud pro quo subiectum principale supponit. Sicut per istam 'isosceles in quantum
+triangulus habet tres' etc. denotatur quod isosceles habet tres etc., et quod isosceles est triangulus, et quod omnis
+triangulus habet tres etc., et quod si aliquid est triangulus, habet tres etc., et simul cum hoc quod hoc praedicatum
+'habere tres' prius uerificetur de triangulo quam de isoscele, illo modo quo logicus utitur 'priori' et 'posteriori',
+quae sunt condiciones propositionum. Similiter per istam 'ignis in quantum calidus est calefactiuus' denotantur
+praedicta, et ideo est uera. Similiter ista est uera 'homo in quantum habens animam intellectiuam est susceptibilis
+disciplinae', quia -- praeter quatuor exponentes -- anima intellectiua est causa disciplinae, et hoc extendendo
+nomen causae ad subiectum alicuius; quod sufficit ad ueritatem talis reduplicatiuae. Sed ista 'homo in quantum
+risibilis est susceptibilis disciplinae' est falsa, quamuis sit uera si fiat reduplicatio gratia concomitantiae; et hoc
+quia praedictae quatuor exponentes sunt uerae.
+Si autem reduplicatio fiat gratia causae, tunc ad ueritatem talis reduplicatiuae, praeter quatuor praedictas
+exponentes, requiritur quod illud super quod cadit reduplicatio exprimat causam importati per praedicatum, uel
+quod sit illud cui primo inest praedicatum principale, uel quod illi prius insit praedicatum principale quam
+pronomini demonstranti illud pro quo subiectum principale supponit. Sicut per istam 'isosceles in quantum
+triangulus habet tres' etc. denotatur quod isosceles habet tres etc., et quod isosceles est triangulus, et quod omnis
+triangulus habet tres etc., et quod si aliquid est triangulus, habet tres etc., et simul cum hoc quod hoc praedicatum
+'habere tres' prius uerificetur de triangulo quam de isoscele, illo modo quo logicus utitur 'priori' et 'posteriori',
+quae sunt condiciones propositionum. Similiter per istam 'ignis in quantum calidus est calefactiuus' denotantur
+praedicta, et ideo est uera. Similiter ista est uera 'homo in quantum habens animam intellectiuam est susceptibilis
+disciplinae', quia -- praeter quatuor exponentes -- anima intellectiua est causa disciplinae, et hoc extendendo
+nomen causae ad subiectum alicuius; quod sufficit ad ueritatem talis reduplicatiuae. Sed ista 'homo in quantum
+risibilis est susceptibilis disciplinae' est falsa, quamuis sit uera si fiat reduplicatio gratia concomitantiae; et hoc
+quia praedictae quatuor exponentes sunt uerae.
+Ex praedictis potest colligi regula talis quod a propositione reduplicatiua ad suam praeiacentem est
+semper consequentia formalis, et hoc quia semper sua praeiacens est una exponens reduplicatiuae, et ideo
+sequitur formaliter
+'homo in quantum animal est sensibilis, igitur homo est sensibilis'; similiter 'ignis in quantum calidus est
+calefactiuus, igitur ignis est calefactiuus'.
+'homo in quantum animal est sensibilis, igitur homo est sensibilis'; similiter 'ignis in quantum calidus est
+calefactiuus, igitur ignis est calefactiuus'.
+Ex istis sequitur quod multae propositiones, quae a multis conceduntur tam in philosophia quam in
+theologia, sunt simpliciter falsae de uirtute sermonis. Cuiusmodi sunt tales 'creatura in quantum est in Deo est
+realiter diuina essentia', 'Pater et Filius spirant in quantum sunt unum', 'homo in quantum creatura non est ens',
+'obiectum in quantum intelligibile habet esse diminutum' et huiusmodi, quia omnes tales habent aliquam
+exponentem falsam. Et eodem modo, proportionaliter, dicendum est de consimilibus. Et si aliquae tales
+propositiones uel consimiles inueniantur in auctoribus, siue Sanctis siue philosophis, exponendae sunt, quia
+auctores frequenter loquuntur non de uirtute sermonis, sicut patet intuenti libros eorum.
+Ex istis sequitur quod multae propositiones, quae a multis conceduntur tam in philosophia quam in
+theologia, sunt simpliciter falsae de uirtute sermonis. Cuiusmodi sunt tales 'creatura in quantum est in Deo est
+realiter diuina essentia', 'Pater et Filius spirant in quantum sunt unum', 'homo in quantum creatura non est ens',
+'obiectum in quantum intelligibile habet esse diminutum' et huiusmodi, quia omnes tales habent aliquam
+exponentem falsam. Et eodem modo, proportionaliter, dicendum est de consimilibus. Et si aliquae tales
+propositiones uel consimiles inueniantur in auctoribus, siue Sanctis siue philosophis, exponendae sunt, quia
+auctores frequenter loquuntur non de uirtute sermonis, sicut patet intuenti libros eorum.
+Per praedicta possunt solui talia sophismata 'aliqua in quantum conueniunt differunt', 'aliqua in quantum
+differunt conueniunt'. Nam accipiendo
+'conuenire' secundum quod uerificatur de omnibus exsistentibus in rerum natura et 'differre' pro
+omnibus quae quocumque modo differunt, hoc est sunt et non sunt idem, sic omnes tales et consimiles uerae sunt
+si fiat reduplicatio gratia concomitantiae, quia sicut manifeste patet, quatuor praedictae exponentes talium sunt
+uerae. Si autem fiat reduplicatio gratia causae, sic sunt falsae, nam 'conuenire' non prius conuenit nec dicitur de
+differentibus quam de conuenientibus, nec etiam importat causam talem, ideo falsae sunt, sic accipiendo eas.
+174
+
+

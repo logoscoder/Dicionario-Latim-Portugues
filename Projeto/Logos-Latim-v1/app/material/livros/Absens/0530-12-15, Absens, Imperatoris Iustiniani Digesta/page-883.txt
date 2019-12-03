@@ -1,0 +1,60 @@
+filia nato
+et
+proneptis
+pater
+avia
+patruus
+filia
+patrui
+nepos eius
+ex filia
+pronepos ex nepote
+filia nato
+item
+proneptis
+pater
+avus
+patruus
+filius
+patrui
+neptis eiusdem
+ex filio
+pronepos ex nepte
+filio nata
+item
+proneptis
+pater
+avia
+patruus
+filius
+patrui
+neptis eiusdem
+ex filio
+pronepos ex nepte
+filio nata
+item
+proneptis
+pater
+avus
+patruus
+filia
+patrui
+neptis eiusdem
+ex filia
+pronepos ex nepte
+filia nata
+item
+proneptis
+pater
+avia
+patruus
+filia
+patrui
+neptis eiusdem
+ex filia
+pronepos ex nepte
+filia nata
+item
+proneptis
+
+

@@ -1,0 +1,63 @@
+6 n S105
+7 am Rande Que dividi non potest VD38
+8 dividu• SG670
+9 filii korr. aus fili SG670
+10 et fehlt V630
+11 spiritus korr. aus spiritu BII13
+12 am Rande Clarus inlustrum VD38
+13 iesu uno korr. aus iesu O93
+14 eadem korr. aus adem SG670
+15 sancta trinitate] trinitate sancta I83
+16 domino deo korr. aus domino P9629
+17 maximus fehlt V630
+18 am Rande benefaciens VD38
+19 alamannicus goticus sarmaticus germanicus korr. aus alamannicus P102
+20 am Rande Inimicorum debellator VD38
+21 patri E97
+22 am Rande verum etiam VD38
+23 am Rande Honoratissimis VD38
+24 constructionem I83; Bcan4; S105; constitutionem korr. aus constructionem SG670
+25 in fehlt I83; Bcan4
+26 orbem S105
+27 posterum korr. aus posteris SG670
+28 am Rande pacientia VD38
+29 misericordi P102
+30 patri O93
+31 et fehlt I83; et] et in S105
+32 noster dominus noster korr. aus noster P102
+33 noster fehlt V630; I83; SG670; E97
+34 silvestrio korr. aus silvestro O93; silvestro V630; I83; VD38; SG670; Bcan4; E97; P102; BII13; S105;
+silvestro korr. aus silvestri P9629
+35 summo korr. aus summi P9629
+36 pontifici O93; V630; P9629
+37 papae V630; I83; Bcan4
+38 am Rande Manifesta VD38
+39 narratione S105
+40 imaginem SG670; S105
+41 populorum korr. aus paganorum O93
+42 in fehlt Bcan4; BII13
+43 universa Bcan4
+44 sn O93; nostra korr. aus in P9629; in VD38
+45 nostra studuit] instituit P102
+46 nostra studuit propagare] studuit propagare nostra V630; E97
+47 am Rande procuravit VD38
+48 instuduit VD38
+49 am Rande Dilatare diffamare VD38
+50 serenitas korr. aus serenitatis P102
+51 am Rande De symbolo et eius expositione V630
+52 fidem nostram korr. aus fidem Bcan4
+53 a korr. aus ad VD38
+54 praefato E97
+55 et oratore nostro] nostro et oratore SG670
+56 silvestro V630; I83; VD38; SG670; Bcan4; E97; P102; BII13; S105; silvestro korr. aus silvestrio P9629
+57 pontife VD38
+58 edocti korr. aus docti P9629; edoctis I83; edocti SG670; Bcan4; S105
+59 docti sumus] doctissimus BII13
+60 simus I83
+61 am Rande pura secreta VD38
+62 nostrum Bcan4
+63 am Rande Pronunciantes VD38
+64 proferentes korr. aus proferents BII13
+5
+
+

@@ -1,0 +1,62 @@
+[1226] [PLLXIII:1226; text: Supersesquisextadecima proportio, Apotome maior Toni pars. 16, 17, 8 1/16,
+Vera sesquioctaua proportio. Tonus, Tonus proportio una commate maior sesquioctaua proportione Tonus superauctus,
+Totum huins toni spatium ex duobus apotomis. Proportio sesquiseptimadecima. Diesin, id est, hemitonium minus
+continens, Proportio itide sesquiseptimadecima Diesin, id est hemitonium minus faciens et continens; 17, 18, 19 1/17,
+Proportio minor sesquioctaeua commate. Tonus non integer ex duabus diesibus deficiens a tono integro commate.
+Proportio sesquioctaua tonum integrum ex diesi et apotome hahens. Tonus non integer, Tonus ex duabus Diesibus. qui
+incommate deficit a uero tono, 17, 18, 19 1/17, 19 1/8, Diesis, id est. bemitonium minus, Super sesquiseptima proportio
+Diesis bemitonium minus, Hemitonium maius, Supersesquisextadecima proportio. Proportio sesquioctaua et 1/8 non
+sesquiseptimadecima.] [BOEDIM3 02GF]
+[1227] II
+Ex sesquitertia proportione sublatis duobus tonis, toni dimidium non relinqui.
+Iam uero si eos numeros disponamus qui de sesquitertia proportione duobus tonis retractis relinquuntur, in his
+considerare possumus utrum ea proportio quae post duos tonos relinquitur, integri loco semitonii censeatur; quod si ita
+repertum, sit, illud quoque est comprobatum diatessaron consonantiam duobus tonis atque integro semitonio copulari.
+Erat igitur superius terminus primus 192. Ad hunc sesquitertiam proportionem tenebant 256. Sed ad primum terminum
+216 faciunt tonum. Ad 216 rursus 243 toni obtinet locum. Est igitur quod relinquitur ex diatessaron tota proportione, ea
+scilicet habitudo quae in 242 et 256 unitatibus constat. Haec igitur si probatur integri toni esse dimidium, dubitari non
+potest diatessaron ex duobus tonis semitonioque constare. Quoniam igitur demonstratum est toni dimidium inter
+sesquisextamdecimam et sesquiseptimamdecimam proportionem locari, ab hac comparatione etiam haec proportio
+metienda est. Ne enim longius progrediamur, sumo ex 243 octam decimam partem, ea fit 13 et semis. Hanc si eisdem
+apposuero, fiunt 256 et semis. Apparet igitnr minorem proportionem esse 256 ad 243 sesquioctauadecima habitudine.
+Quod si dimidius tonus maior quidem est in sesquisextadecima, minor uero in sesquiseptima decima
+proportione, sesquioctauadecima uero minor est sesquiseptimadecima habitudine, ducentorum uero 56 ad ducentos 43
+comparatio, quae scilicet relinquitur ex diatessaron duobus retractis tonis, minor est sesquioctauadecima: non est
+dubium quin haec duorum numerorum proportio semitonio longissime diminutior sit.
+III
+Aduersum Aristoxenum demonstrationes diatessaron consonantiam ex duobus tonis et semitonio non constare,
+nec diapason sex tonis.
+Quod si (ut ait Aristoxenus) diatessaron consonantia ex duobus tonis semitonioque coniungitur, duae
+diatessaron consonantiae necessario quinque tonos efficient, et diapente ac diatessaron iunctae, sicut unum diapason
+iungunt, ita sex tonis continua proportione coaequantur.
+Et quoniam paulo ante sex disposuimus tonos, quorum minimus erat numerus 262144, ad hunc uero ultimus in
+sexto collocabatur tono numerus 531441, quintum uero retinebant tounm 472392, disponantur hoc modo:
+[1228] [PLLXIII:1228,1; text: Tonus primus, Tonus secundus, Tonus tertius, Tonus quartus, Tonus quintus,
+Tonus sextus, 262144, 294912, 331776, 373248, 419904, 472392, 531441, Sex toni, Quinque toni, 531411]
+[BOEDIM3 03GF]
+Nunc igitur de minoribus numeris, id est quinque tonis, loquamur. Si ergo diatessaron duobus tonis ac
+semitonio, bis uero diatessaron quinque consisteret tonis, cum ex 262144 diatessaron intenderem, cumque de 472392
+aliud diatessaron remitterem, idem inter utramque intentionem remissionemue numerus inueniretur. Id autem fit hoc
+modo: a numero qui est 262144 besse diatessaron intendo, id est sesquitertium, qui fit in 349525 et triente. Rursus de
+472392 numeris remitto sesquitertiam proportionem, quae sit in 354294, has igitur proportiones disponamus hoc modo,
+et sit primus quidem numerus A, secundus uero B, tertius C, quartus D.
+[PLLXIII:1228,2; text: Quinque toni, Diatessaron intensum, Diatessaron remissum, A, 262144, B, besse,
+349525 1/3, C, 354294, D, 472392, 4768 2/3, Besse] [BOEDIM3 03GF]
+Quoniam igitur A terminus ab D termino quinque remotus est toni, quoniamque diatessaron in duobus tonis ac
+semitonio iungitur, ut Aristoxenus arbitratur, unumque diatessaron, inter A atque B, aliud uero inter C atque B positum
+est, B et C terminos non oportet esse diuersos sed unos atque eosdem, [1229] ut integre quinque toni ex duabus
+diatessaron consonantiis constare uideantur. Nunc uero quoniam est differentia 4768 et besse, arguitur diatessaron
+minime tonis duobus ac semitonio coniungi.
+IV
+Diapason consonantiam a 6 tonis commate excedi, et qui sit minimus numerus commatis.
+Sed hanc si quaerimus in integris numeris differentiam collocare, quoniam in ea parte quae est besse pars tertia
+si addatur, plenam efficit unitatem, quae pars tertia eiusdem besse dimidium est, si totius differentiae dimidium eidem
+adiecero, quod est 2384 et riens sit omnis summa 7153. Quae dudum commatis [1230] proportionem tenebat.
+Comma enim est quo sex toni superant diapason consonantiam, quod in primis 7153 unitatibus continetur. Ut
+igitur differentiae dimidium proprium adiecimus, ut in 7153 excresceret, ita etiam cunctis A B C D
+terminis medietates proprias adiungamus, eadem erit in omnibus, quae supra proportio, fietque eadem inter
+quinque tonos ac bis diatessaron differentia quae est inter sex tonos ac diapason consonantiam differentia, scilicet 7153
+unitates. Unde colligitur quinque tonos bis diatessaron, et sex tonos unum diapason tamen commate superare. Quod in
+primis 7153 unitatibus inuenitur. Id autem patefaciet haec subiecta descriptio:
+
+

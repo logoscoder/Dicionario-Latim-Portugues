@@ -1,0 +1,60 @@
+Sed omne ens est unum per suam essentiam, ut patet per Philosophum in IV metaphys..
+Ergo omne ens est maxime unum.
+Deus igitur non est magis unum quam alia entia.
+SC
+Sed contra est quod dicit bernardus, quod inter omnia quae unum dicuntur, arcem tenet unitas divinae trinitatis.
+CO
+Respondeo dicendum quod, cum unum sit ens indivisum, ad hoc quod aliquid sit maxime unum, oportet quod sit
+et maxime ens et maxime indivisum. Utrumque autem competit Deo. Est enim maxime ens, inquantum est non
+habens aliquod esse determinatum per aliquam naturam cui adveniat, sed est ipsum esse subsistens, omnibus
+modis indeterminatum. Est autem maxime indivisum, inquantum neque dividitur actu neque potentia, secundum
+quemcunque modum divisionis, cum sit omnibus modis simplex, ut supra ostensum est.
+Unde manifestum est quod Deus est maxime unus.
+RA1
+Ad primum ergo dicendum quod, licet privatio secundum se non recipiat magis et minus, tamen secundum quod
+eius oppositum recipit magis et minus, etiam ipsa privativa dicuntur secundum magis et minus. Secundum igitur
+quod aliquid est magis divisum vel divisibile, vel minus, vel nullo modo, secundum hoc aliquid dicitur magis et
+minus vel maxime unum.
+RA2
+Ad secundum dicendum quod punctus et unitas quae est principium numeri, non sunt maxime entia, cum non
+habeant esse nisi in subiecto aliquo. Unde neutrum eorum est maxime unum. Sicut enim subiectum non est
+maxime unum, propter diversitatem accidentis et subiecti, ita nec accidens.
+RA3
+Ad tertium dicendum quod, licet omne ens sit unum per suam substantiam, non tamen se habet aequaliter
+substantia cuiuslibet ad causandam unitatem, quia substantia quorundam est ex multis composita, quorundam
+vero non.
+|q12 Quaestio 12
+|a0 Prologus
+Quia in superioribus consideravimus qualiter Deus sit secundum seipsum, restat considerandum qualiter sit in
+cognitione nostra, idest quomodo cognoscatur a creaturis.
+Et circa hoc quaeruntur tredecim. Primo, utrum aliquis intellectus creatus possit videre essentiam Dei. Secundo,
+utrum Dei essentia videatur ab intellectu per aliquam speciem creatam. Tertio, utrum oculo corporeo Dei essentia
+possit videri. Quarto, utrum aliqua substantia intellectualis creata ex suis naturalibus sufficiens sit videre Dei
+essentiam.
+Quinto, utrum intellectus creatus ad videndam Dei essentiam indigeat aliquo lumine creato. Sexto, utrum
+videntium essentiam Dei unus alio perfectius videat. Septimo, utrum aliquis intellectus creatus possit
+comprehendere Dei essentiam. Octavo, utrum intellectus creatus videns Dei essentiam, omnia in ipsa cognoscat.
+Nono, utrum ea quae ibi cognoscit, per aliquas similitudines cognoscat. Decimo, utrum simul cognoscat omnia
+quae in Deo videt. Undecimo, utrum in statu huius vitae possit aliquis homo essentiam Dei videre.
+Duodecimo, utrum per rationem naturalem Deum in hac vita possimus cognoscere. Tertiodecimo, utrum, supra
+cognitionem naturalis rationis, sit in praesenti vita aliqua cognitio Dei per gratiam.
+|a1 Articulus 1
+AG1
+Ad primum sic proceditur. Videtur quod nullus intellectus creatus possit Deum per essentiam videre.
+Chrysostomus enim, super ioannem, exponens illud quod dicitur Ioan. I, Deum nemo vidit unquam, sic dicit,
+ipsum quod est Deus, non solum prophetae, sed nec Angeli viderunt nec Archangeli, quod enim creabilis est
+naturae, qualiter videre poterit quod increabile est? dionysius etiam, I cap. De div. Nom., loquens de Deo, dicit,
+neque sensus est eius, neque phantasia, neque opinio, nec ratio, nec scientia.
+AG2
+Praeterea, omne infinitum, inquantum huiusmodi, est ignotum. Sed Deus est infinitus, ut supra ostensum est.
+Ergo secundum se est ignotus.
+AG3
+Praeterea, intellectus creatus non est cognoscitivus nisi existentium, primum enim quod cadit in apprehensione
+intellectus, est ens.
+Sed Deus non est existens, sed supra existentia.
+Ut dicit dionysius.
+Ergo non est intelligibilis; sed est supra omnem intellectum.
+AG4
+49
+
+

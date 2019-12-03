@@ -1,0 +1,57 @@
+Liber nonus
+* 9.1.0. Qui accusare non possunt.
+* 9.2.0. De accusationibus et inscriptionibus.
+* 9.3.0. De exhibendis vel transmittendis reis.
+* 9.4.0. De custodia reorum.
+* 9.5.0. De privatis carceribus inhibendis.
+* 9.6.0. Si reus vel accusator mortuus fuerit.
+* 9.7.0. Si quis imperatori maledixerit.
+* 9.8.0. Ad legem Iuliam maiestatis.
+* 9.9.0. Ad legem Iuliam de adulteriis et de stupro.
+* 9.10.0. Si quis eam cuius tutor fuerit corruperit.
+* 9.11.0. De mulieribus quae servis propriis se iunxerunt.
+* 9.12.0. Ad legem Iuliam de vi publica seu privata.
+* 9.13.0. De raptu virginum seu viduarum nec non sanctimonialium.
+* 9.14.0. De emendatione servorum.
+* 9.15.0. De emendatione propinquorum.
+* 9.16.0. Ad legem Corneliam de sicariis.
+* 9.17.0. De his qui parentes vel liberos occiderunt.
+* 9.18.0. De maleficiis et mathematicis et ceteris similibus.
+* 9.19.0. De sepulchro violato.
+* 9.20.0. Ad legem Fabiam.
+* 9.21.0. Ad legem Viselliam.
+* 9.22.0. Ad legem Corneliam de falsis.
+* 9.23.0. De his qui sibi adscribunt in testamento.
+* 9.24.0. De falsa moneta.
+* 9.25.0. De mutatione nominis.
+* 9.26.0. Ad legem Iuliam de ambitu.
+* 9.27.0. Ad legem Iuliam repetundarum.
+* 9.28.0. De crimine peculatus.
+* 9.29.0. De crimine sacrilegii.
+* 9.30.0. De seditiosis et his qui plebem audent contra publicam quietem colligere.
+* 9.31.0. Quando civilis actio criminali praeiudicet et an utraque ab eodem exerceri potest.
+* 9.32.0. De crimine expilatae hereditatis.
+* 9.33.0. Vi bonorum raptorum.
+* 9.34.0. De crimine stellionatus.
+* 9.35.0. De iniuriis.
+* 9.36.0. De famosis libellis.
+* 9.37.0. De abigeis.
+* 9.38.0. De nili aggeribus non rumpendis.
+* 9.39.0. De his qui latrones vel in aliis criminibus reos occultaverint.
+* 9.40.0. De requirendis.
+* 9.41.0. De quaestionibus.
+* 9.42.0. De abolitionibus.
+* 9.43.0. De generali abolitione.
+* 9.44.0. Ut intra certum tempus criminalis quaestio terminetur.
+* 9.45.0. Ad senatus consultum Turpillianum.
+* 9.46.0. De calumniatoribus.
+* 9.47.0. De poenis.
+* 9.48.0. Ne sine iussu principis certis iudicibus liceat confiscare.
+* 9.49.0. De bonis conscriptorum seu damnatorum.
+* 9.50.0. De bonis mortem sibi consciscentium.
+* 9.51.0. De sententiam passis et restitutis.
+9.1.0. Qui accusare non possunt.
+9.1.1
+474
+
+

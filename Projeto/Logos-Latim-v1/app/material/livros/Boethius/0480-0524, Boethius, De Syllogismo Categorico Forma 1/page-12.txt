@@ -1,0 +1,62 @@
+Hoc enim uidetur [807D] haec propositio dicere, ac si diceret: Quaedam res quae animal non est homo est, qui
+enim dicit:
+Non homo non est
+hominem esse significat quod animal non sit. Hoc uero aperte falsum est, omnis enim homo animal est, et si
+uera fuerit particularis negatio quae dicit:
+Quoddam animal homo non est
+uera erit et eius per contrapositionem conuersio quae dicit:
+Quidam non homo non animal non est.
+Aequale est enim ac si diceret: Res quae homo non est non est non animal sed est animal, ut equus et bos
+homo non est, et non est non animal. Ergo si cum particularis negatio falsa est, falsa est etiam eius per compositionem
+conuersio, et si cum particularis negatio uera est, uera est eius per contrapositionem conuersio, non [808B] est dubium
+quin particularis negatio possit per contrapositionem sibi ipsa conuerti.
+Nunc quoniam ostensum generalem affirmatiuam et particularem negatiuam, per contrapositionem sibi posse
+conuerti, ostendamus generalem negatiuam et particularem affirmatiuam per contrapositionem sibi non posse conuerti.
+Et prius de generali negatione dicendum est. Nam si generalis negatio uera est, non necesse erit per
+contrapositionem sibi conuersam ueram esse. Sed si falsa fuerit et per contrapositionem sibi conuersam falsam esse
+necesse est. Nam si falsa est quae dicit:
+Nullus homo animal est
+falsa erit fortasse eius per contrapositionem conuersio, quae dicit:
+Nullum non animal non homo est.
+Aequale est enim ac si dicat: Nulla res est quae non [808C] sit animal et sit non homo, quod est omnis res quae
+animam non habet homo est, quod aperte falsum est. Item si uera fuerit generalis negatio, falsa erit eius per
+contrapositionem conuersio. Nam si uera est quae dicit:
+Nullus homo est lapis
+falsa erit eius per contrapositionem conuersio quae dicit:
+Nullus non lapis non homo est.
+Aequale est enim ac si dicat: Nulla res est quae cum non sit lapis non homo sit, quod est omnis res
+quaecumque lapis non fuerit homo est, quod falsum est. Innumerabilia enim inuenies quae non sunt lapides, et non
+homines non sunt; ergo quoniam si generalis negatio falsa fuerit, Falsa est eius per contrapositionem conuersio, uel si
+eadem uera fuerit, falsa erit eius per contrapositionem conuersio, non est dubium generalem negationem sibi non posse
+[808D] conuerti, quod enim in aliquo fallit, generaliter colligi non potest.
+Restat igitur ut id quod reliquum est monstremus, particularem affirmationem per contrapositionem sibi non
+posse conuerti. Cum enim fuerit particularis affirmatio uera, uera erit eius etiam per contrapositionem conuersio. Nam
+si uera est quae dicit:
+Quidam homo animal est
+uera est eius per contrapositionem conuersio:
+Quoddam non animal non homo est.
+Aequale est enim ac si dicat: Quaedam res quae animam non habet homo non est, quod uerum est. Lapis enim
+animam non habet, et tamen homo non est. Item si particularis affirmatio quae dicit:
+Quidam lapis homo est
+falsa est, uera erit eius per contrapositionem conuersio quae dicit:
+Quidam [809A] non homo non lapis est.
+Aequale est enim ac si diceret: Quaedam res quae homo non fuerit lapis non est, quod uerum est. Equus enim
+homo non est, et tamen lapis non est. Ergo si cum in quibusdam particularis affirmatio uera fuerit, uera erit eius per
+contrapositionem conuersio, et si cum in quibusdam falsa fuerit particularis affirmatio, uera erit eius per
+contrapositionem conuersio, non est dubium particulares affirmationes per contrapositionem sibi non posse conuerti.
+Generalis enim negatio et particularis affirmatio, quae contraiacentes sunt, in per contrapositionem conuersionibus
+contraria patiuntur. Nam in generalibus negatiuis siue generales negatiuae uerae fuerint siue falsae per
+contrapositionem conuersiones semper falsae sunt; in particularibus autem affirmatiuis, [809B] siue particularis
+affirmatio uera fuerit siue falsa, siue per contrapositionem conuersio uera est. [810A]
+Repetendum est igitur a superioribus et confirmandum quod in simplicibus terminorum conuersionibus
+particularis affirmatio et generalis negatio sibi conuerti possunt. Generales uero affirmatio et particularis negatio sibi
+conuerti uon possunt. In his uero conuersionibus quae per contrapositionem fiunt, contra est; nam generalis affirmatio
+et particularis negatio per contrapositionem sibi ipsis conuerti possunt, generalis uero negatio, et particularis affirmatio
+per contrapositionem sibi ipsis conuerti non possunt, et generalis negatio et particularis affirmatio quae sunt
+contraiacentes in ueri falsique distantia (ut demonstratum est), sibi ipsis inuicem contraria patiuntur.
+Haec de categoricorum syllogismorum categoricis propositionibus dicta sufficiant. Si qua uero in his [810B]
+praetermissa sunt, in Perihermenias Aristotelis commentario diligentius subtiliusque tractata sunt.
+LIBER SECUNDUS
+12
+
+

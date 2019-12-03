@@ -1,0 +1,62 @@
+PR11
+Undecimo utrum istae relationes temporales sint in Deo secundum rationem.
+|a1 Articulus 1
+TTA
+Et primo quaeritur utrum Deus sit simplex.
+TTB
+Et videtur quod non.
+AG1
+Ab uno enim simplici non est natum esse nisi unum: idem enim semper facit idem, secundum Philosophum.
+Sed a Deo procedit multitudo. Ergo ipse non est simplex.
+AG2
+Praeterea, simplex si attingitur, totum attingitur.
+Sed Deus a beatis attingitur: quia, ut dicit Augustinus, attingere mente Deum magna est beatitudo.
+Si ergo sit simplex, totus attingitur a beatis.
+Sed quod totum attingitur, comprehenditur.
+Ergo Deus a beatis comprehenditur, quod est impossibile. Ergo Deus non est simplex.
+AG3
+Praeterea, idem non se habet in ratione diversarum causarum. Sed Deus se habet in ratione diversarum causarum,
+ut patet XI metaph..
+Ergo in eo oportet esse diversa; ergo oportet eum esse compositum.
+AG4
+Praeterea, ubicumque est aliquid et aliquid, est compositio. Sed in Deo est aliquid et aliquid, scilicet proprietas et
+essentia. Ergo in Deo est compositio.
+AG5
+Sed dicendum, quod proprietas est idem quod essentia. Sed contra: affirmatio et negatio non verificantur de
+eodem. Sed essentia divina est communicabilis tribus personis, proprietas autem est incommunicabilis. Ergo
+proprietas et essentia non sunt idem.
+AG6
+Praeterea, de quocumque praedicantur diversa praedicamenta, illud est compositum.
+Sed in divina praedicatione venit substantia et relatio, ut dicit boetius.
+Ergo Deus est compositus.
+AG7
+Praeterea, in qualibet re est substantia, virtus et operatio, ut dicit dionysius; ex quo videtur quod operatio sequitur
+virtutem et substantiam.
+Sed in operationibus divinis est pluralitas. Ergo in substantia eius invenitur multitudo et compositio.
+AG8
+Praeterea, ubicumque invenitur multitudo formarum, ibi oportet esse compositionem.
+Sed in Deo invenitur multitudo formarum; quia, sicut dicit Commentator, omnes formae sunt actu in primo
+motore, sicut sunt in potentia in prima materia. Ergo in Deo est compositio.
+AG9
+Praeterea, quidquid advenit alicui rei post esse completum, inest ei accidentaliter.
+Sed quaedam dicuntur de Deo ex tempore, sicut quod sit creator et Dominus. Ergo insunt ei accidentaliter.
+Accidentis autem ad subiectum est aliqua compositio. Ergo in Deo est compositio.
+AG10
+Praeterea, ubicumque sunt multae res, ibi est compositio. Sed in Deo sunt tres personae, quae sunt tres res, ut
+dicit Augustinus.
+Ergo in Deo est compositio.
+SC1
+Sed contra. Est quod Hilarius dicit: non humano modo ex compositis est Deus, ut in eo aliud sit quod habet, et
+aliud sit ipse qui habet.
+SC2
+Praeterea, boetius dicit: hoc vere unum est in quo nullus est numerus. Ubicumque autem est compositio, est
+aliquis numerus. Ergo Deus est absque compositione omnino simplex.
+CO
+Respondeo. Dicendum quod Deum esse simplicem modis omnibus tenendum est. Quod quidem ad praesens
+tribus rationibus potest probari; quarum prima talis est: ostensum est enim in alia disputatione, omnia entia ab
+uno primo ente esse, quod quidem primum ens Deum dicimus. Quamvis autem in uno et eodem quod quandoque
+invenitur in actu, quandoque in potentia, potentia tempore prius sit actu, natura autem posterius, simpliciter
+tamen oportet actum esse priorem potentia, non solum natura sed tempore, eo quod omne ens in potentia
+183
+
+

@@ -1,0 +1,60 @@
+simul veras aut simul falsas, quia verum nihil aliud est, nisi quando dicitur esse quod est, aut non esse quod non
+est; falsum autem, quando dicitur esse quod non est, aut non esse quod est, ut patet ex IV metaphysicorum.
+|#8 Deinde cum dicit: quaecumque autem universalium etc., ostendit qualiter se habeant veritas et falsitas in his,
+quae videntur esse contradictoria, sed non sunt.
+Et circa hoc tria facit: primo proponit quod intendit; secundo, probat propositum; ibi: si enim turpis non probus
+etc.; tertio, excludit id quod facere posset dubitationem; ibi: videbitur autem subito inconveniens etc..
+Circa primum considerandum est quod affirmatio et negatio in indefinitis propositionibus videntur contradictorie
+opponi propter hoc, quod est unum subiectum non determinatum per signum particulare, et ideo videtur
+affirmatio et negatio esse de eodem. Sed ad hoc removendum Philosophus dicit quod quaecumque affirmative et
+negative dicuntur de universalibus non universaliter sumptis, non semper oportet quod unum sit verum, et aliud
+sit falsum, sed possunt simul esse vera. Simul enim est verum dicere quod homo est albus, et, homo non est
+albus, et quod homo est probus, et, homo non est probus.
+|#9 In quo quidem, ut Ammonius refert, aliqui Aristoteli contradixerunt ponentes quod indefinita negativa
+semper sit accipienda pro universali negativa. Et hoc astruebant primo quidem tali ratione: quia indefinita, cum
+sit indeterminata, se habet in ratione materiae; materia autem secundum se considerata, magis trahitur ad id quod
+indignius est; dignior autem est universalis affirmativa, quam particularis affirmativa; et ideo indefinitam
+affirmativam dicunt esse sumendam pro particulari affirmativa: sed negativam universalem, quae totum destruit,
+dicunt esse indigniorem particulari negativa, quae destruit partem, sicut universalis corruptio peior est quam
+particularis; et ideo dicunt quod indefinita negativa sumenda est pro universali negativa. Ad quod etiam inducunt
+quod Philosophi, et etiam ipse Aristoteles utitur indefinitis negativis pro universalibus; sicut dicitur in libro
+physic. Quod non est motus praeter res; et in libro de anima, quod non est sensus praeter quinque.
+Sed istae rationes non concludunt. Quod enim primo dicitur quod materia secundum se sumpta sumitur pro
+peiori, verum est secundum sententiam Platonis, qui non distinguebat privationem a materia, non autem est
+verum secundum Aristotelem, qui dicit in lib.
+I physic. Quod malum et turpe et alia huiusmodi ad defectum pertinentia non dicuntur de materia nisi per
+accidens. Et ideo non oportet quod indefinita semper stet pro peiori.
+Dato etiam quod indefinita necesse sit sumi pro peiori, non oportet quod sumatur pro universali negativa; quia
+sicut in genere affirmationis, universalis affirmativa est potior particulari, utpote particularem affirmativam
+continens; ita etiam in genere negationum universalis negativa potior est. Oportet autem in unoquoque genere
+considerare id quod est potius in genere illo, non autem id quod est potius simpliciter.
+Ulterius etiam, dato quod particularis negativa esset potior omnibus modis, non tamen adhuc ratio sequeretur:
+non enim ideo indefinita affirmativa sumitur pro particulari affirmativa, quia sit indignior, sed quia de universali
+potest aliquid affirmari ratione suiipsius, vel ratione partis contentae sub eo; unde sufficit ad veritatem eius quod
+praedicatum uni parti conveniat (quod designatur per signum particulare); et ideo veritas particularis affirmativae
+sufficit ad veritatem indefinitae affirmativae. Et simili ratione veritas particularis negativae sufficit ad veritatem
+indefinitae negativae, quia similiter potest aliquid negari de universali vel ratione suiipsius, vel ratione suae
+partis.
+Utuntur autem quandoque Philosophi indefinitis negativis pro universalibus in his, quae per se removentur ab
+universalibus; sicut et utuntur indefinitis affirmativis pro universalibus in his, quae per se de universalibus
+praedicantur.
+|#10 Deinde cum dicit: si enim turpis est etc., probat propositum per id, quod est ab omnibus concessum.
+Omnes enim concedunt quod indefinita affirmativa verificatur, si particularis affirmativa sit vera. Contingit
+autem accipi duas affirmativas indefinitas, quarum una includit negationem alterius, puta cum sunt opposita
+praedicata: quae quidem oppositio potest contingere dupliciter.
+Uno modo, secundum perfectam contrarietatem, sicut turpis, idest inhonestus, opponitur probo, idest honesto, et
+foedus, idest deformis secundum corpus, opponitur pulchro.
+Sed per quam rationem ista affirmativa est vera, homo est probus, quodam homine existente probo, per eamdem
+rationem ista est vera, homo est turpis, quodam homine existente turpi. Sunt ergo istae duae verae simul, homo
+est probus, homo est turpis; sed ad hanc, homo est turpis, sequitur ista, homo non est probus; ergo istae duae sunt
+simul verae, homo est probus, homo non est probus: et eadem ratione istae duae, homo est pulcher, homo non est
+pulcher.
+Alia autem oppositio attenditur secundum perfectum et imperfectum, sicut moveri opponitur ad motum esse, et
+fieri ad factum esse: unde ad fieri sequitur non esse eius quod fit in permanentibus, quorum esse est perfectum;
+secus autem est in successivis, quorum esse est imperfectum. Sic ergo haec est vera, homo est albus, quodam
+homine existente albo; et pari ratione, quia quidam homo fit albus, haec est vera, homo fit albus; ad quam
+sequitur, homo non est albus. Ergo istae duae sunt simul verae, homo est albus, homo non est albus.
+
+28
+
+

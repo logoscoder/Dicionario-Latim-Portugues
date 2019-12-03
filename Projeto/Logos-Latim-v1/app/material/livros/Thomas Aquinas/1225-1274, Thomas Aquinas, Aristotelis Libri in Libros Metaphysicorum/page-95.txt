@@ -1,0 +1,55 @@
+|+5 Lectio 5
+|#1 Hic solvit aliam quaestionem in tertio motam; scilicet utrum ad istam scientiam pertineat considerare prima
+principia demonstrationis.
+Et dividitur in duo. Primo ostendit, quod eius est considerare universaliter de omnibus his principiis. Secundo
+specialiter de primo eorum ibi, congruit autem etc..
+Circa primum tria facit. Primo movet quaestionem, quae est, utrum unius scientiae sit considerare de substantia
+et de principiis quae in scientiis mathematicis vocantur dignitates, aut est alterius et alterius scientiae
+considerare. Appropriat autem ista principia magis mathematicis scientiis, quia certiores demonstrationes habent,
+et manifestius istis principiis per se notis utuntur, omnes suas demonstrationes ad haec principia resolventes.
+|#2 Palam autem secundo solvit: quae quidem solutio est, quia una scientia intendit de utrisque praedictis: et
+haec est philosophia, quae prae manibus habetur.
+|#3 Omnibus enim tertio probat solutionem propositam: et circa hoc duo facit.
+Primo probat propositum. Secundo conclusionem principalem inducit, ibi, quoniam igitur etc..
+Probat autem solutionem propositam dupliciter.
+Primo per rationem. Secundo per signum, ibi, unde nullus etc..
+Ratio talis est. Quaecumque insunt omnibus entibus, et non solum alicui generi entium separatim ab aliis, haec
+pertinent ad considerationem Philosophi: sed praedicta principia sunt huiusmodi: ergo pertinent ad
+considerationem Philosophi.
+Minorem sic probat. Illa, quibus utuntur omnes scientiae, sunt entis inquantum huiusmodi: sed prima principia
+sunt huiusmodi: ergo pertinent ad ens inquantum est ens.
+|#4 Rationem autem, quare omnes scientiae eis utuntur, sic assignat; quia unumquodque genus subiectum
+alicuius scientiae recipit praedicationem entis. Utuntur autem principiis praedictis scientiae particulares non
+secundum suam communitatem, prout se extendunt ad omnia entia, sed quantum sufficit eis: et hoc secundum
+continentiam generis, quod in scientia subiicitur, de quo ipsa scientia demonstrationes affert. Sicut ipsa
+philosophia naturalis utitur eis secundum quod se extendunt ad entia mobilia, et non ulterius.
+|#5 Deinde cum dicit unde nullus probat quod dixerat, per signum. Et primo inducit probationem. Secundo
+excludit quorumdam errorem, ibi, sed quoniam est adhuc.
+Dicit ergo primo, quod nullus intendens primo tradere scientiam alicuius particularis entis, conatus est aliquid
+dicere de primis principiis utrum sint vera aut non: nec geometra, aut arithmeticus, qui tamen istis principiis
+plurimum utuntur, ut supra dictum est. Unde patet quod consideratio dictorum principiorum ad hanc scientiam
+pertinet.
+|#6 Deinde cum dicit nisi physicorum excludit errorem quorumdam: et circa hoc duo facit.
+Primo excludit errorem eorum, qui de praedictis se intromittebant, cum ad eos non pertineret. Secundo eorum,
+qui de eis alio modo volebant tractare quam de eis sit tractandum, ibi, quicumque autem utuntur etc..
+Dicit ergo primo, quod quamvis nulla scientiarum particularium de praedictis principiis se intromittere debeat,
+quidam tamen naturalium de his se intromiserunt; et hoc non sine ratione. Antiqui enim non opinabantur aliquam
+substantiam esse praeter substantiam corpoream mobilem, de qua physicus tractat. Et ideo creditum est, quod
+soli determinent de tota natura, et per consequens de ente; et ita etiam de primis principiis quae sunt simul
+consideranda cum ente. Hoc autem falsum est; quia adhuc est quaedam scientia superior naturali: ipsa enim
+natura, idest res naturalis habens in se principium motus, in se ipsa est unum aliquod genus entis universalis.
+Non enim omne ens est huiusmodi: cum probatum sit in octavo physicorum, esse aliquod ens immobile. Hoc
+autem ens immobile superius est et nobilius ente mobili, de quo considerat naturalis. Et quia ad illam scientiam
+pertinet consideratio entis communis, ad quam pertinet consideratio entis primi, ideo ad aliam scientiam quam ad
+naturalem pertinet consideratio entis communis; et eius etiam erit considerare huiusmodi principia communia.
+Physica enim est quaedam pars philosophiae: sed non prima, quae considerat ens commune, et ea quae sunt entis
+inquantum huiusmodi.
+|#7 Deinde cum dicit quicumque vero excludit alium errorem circa modum tractandi huiusmodi principia.
+Quidam enim tractabant de istis principiis volentes ea demonstrare: et quaecumque isti dixerunt de veritate
+praedictorum principiorum, quomodo oporteat ea recipere per vim demonstrationis, vel quomodo oporteat
+contingere veritatem in omnibus istis ita se habere, hoc fecerunt propter ignorantiam, vel propter imperitiam
+analyticorum, idest illius partis logicae, in qua ars demonstrandi traditur: quia oportet scientes de his pervenire,
+idest omnis scientia per demonstrationem acquisita ex his principiis causatur. Sed non oportet audientes, idest
+95
+
+

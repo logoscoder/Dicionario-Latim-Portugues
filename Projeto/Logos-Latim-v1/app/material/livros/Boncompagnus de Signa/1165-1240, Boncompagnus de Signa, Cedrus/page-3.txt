@@ -1,0 +1,105 @@
+aliter quis: aliquis P3
+
+hoc: modo add. P3ac
+
+ex om. P3
+
+uidetur: uidebitur P3
+
+etiam: in P3
+
+[6.6] Vel aliter: "Quia excedentium proteruitas propter iuris peritorum contrarietates euadere consueuit sepius
+iudicium ulcionis, idcirco ad conseruanda publica et priuata iura hoc statutum lucidum pertractamus, cupientes ut
+quisque intelligat, quod contra tenorem statuti remedium non poterit inuenire."
+Quia P3: non add. codd. ad add. R
+proteruitas: prouertitates R
+om. R codd.
+cupientes ut: quod P3
+poterit: potest P3
+
+sepius iudicium ulcionis om. P3
+
+iura P3:
+
+[6.7] Possunt autem ex hac materia infinita exordia fieri, sed superuacaneum esset prolixitati semper insistere, et
+maxime cum in talibus simplex dicendi modus seruetur.
+superuacaneum: superuaccaneum P3
+prolixitati semper insistere: insistere prolixitati P 3
+3
+R mane~ codd. dicendi simplex tr. P seruetur: obseruetur P3
+
+maxime P3: inane
+
+[6.8] Post exordii uero positionem incipiat narrare dictator, prout uiderit expedire. Ceterum hoc modo incipere
+potest: "Inprimis ergo dicimus, quod potestas habeat nomine feudi ducentas libras imperiales, trecentas corbes
+frumenti et totidem uini, quinquaginta currus feni et ducenta plaustra lignorum," et sic successiue nominentur
+omnia, que fieri debent.
+exordii: exordium P3
+incipiat: d praem. P3ac
+dictator tr. P3 ante positionem
+potestas: potestat P3
+3
+3
+3
+habeat tr. P post feudi
+ducentas: cc. P
+imperiales: imperialium P
+trecentas: ccc. P3
+quinquaginta:
+3
+3
+3
+l. P feni: fe,ni P ducenta: cc. P
+[6.9] "In nomine Patris et Filii et Spiritus Sancti. Amen."
+[6.10] "Nos Titius et Sempronius, de communi consensu et uoluntate consulum societatis Lombardie atque
+Tuscie8 facti rectores et arbritri, statuimus et iuramento precipimus obseruari, ut omnes ciuitates nostre societatis
+sua iura ad inuicem sibi seruent, ecclesias et domos hospitales nullis exactionibus grauare presumant, stratas
+publicas et priuatas custodire studeant et presertim eo tempore, quo generales nundine fiunt, iura uiduarum
+pauperum et orphanorum modis omnibus manutenere procurent."
+Sempronius: Senpronius R Sepronius P3
+uoluntate: omnium add. P3
+omnes om. P3
+sibi tr. P3 ante
+ad
+eo tempore add. P3ac in margine
+quo: quando P3
+fiunt: fuerunt P3
+omnibus modis tr. P3
+[6.11] "Latrones, raptores, homicidas, bannitos, hereticos et falsarios aliquorum preces et munera non iuuent, sed
+quilibet secundum quantitatem et qualitatem perpetrati criminis penam subeat corporalem, ne uenie facilitas det
+illis aut aliis materiam delinquendi."
+homicidas raptores tr. P3
+
+bannitos: sacrilegos inbannitos P3
+
+[6.12] "Iubemus etiam, ut nulli ciues contra nostre societatis honorem alicui principi fauorem uel consilium
+exhibeant aut exhibere permittant."
+etiam om. P3
+[6.13] "Si quis autem in hoc detestabili fuerit excessu repertus, rebus mobilibus spolietur et tamquam criminosus
+et infamis in exilium redigatur, uel quod melius est, tradatur uindicte inclite urbis|[110 ra] Verone, que undecim
+suos proceres interfecit una die propter iamdictum excessum eorumque postea corpora extra Campum Marcium 9
+reiecit, ubi asinorum cadauera traduntur coruis in escam."
+in: de P3
+
+excessu om. P3
+
+inclite: iudice P3
+
+undecim P3: uidelicet R unde cum codd.
+
+[6.14] "Actum etc."
+etc.: est R codd.
+[6.15] Possunt etiam potestates et consules ciuitatum facere pro religiosis domibus aliquod generale statutum
+causa protectionis, hoc modo:
+facere P3: et add. R codd.
+
+domibus: facere repetit P3
+
+[6.16] "In nomine Patris et Filii et Spiritus Sancti. Amen."
+[6.17] "Ego Wilelminus Ranconi,10 Bononiensium potestas et eius consiliarii, considerantes religionis feruorem,
+uite asperitatem, honestatum morum et paupertatem fratrum heremi Camaldulensis, per hoc generale statutum
+decernimus, ut locus ille liber existat ab angariis et parangariis et ab omnibus exactionibus, quas ciuitates facere
+occasione rei publice consueuerunt."
+3
+
+

@@ -1,0 +1,64 @@
+propositionem, negationem facit, si modus aliquis propositionis non praedicetur, quod posterius demonstrandum est,
+[et] uidetur cum adiecta fuerit negatiua particula quandam facere negationem, ut si non particula inugatur ei quod est
+homo faciet non homo. Hoc est enim quod ait: ILLAE VERO QUAE SUNT SECUNDUM INFINITA OPPOSITAE
+NOMINA VEL VERBA, UT IN EO QUOD EST NON HOMO VEL NON IUSTUS, QUASI NEGATIONES SINE
+NOMINE VEL VERBO ESSE VIDENTUR. Si quis enim dicat non currit, haec fit sine nomine negatio; quod si quis
+dicat non homo, haec quoque est sine uerbo negatio. Quae dictiones secundum infirutum nomen et uerbum opponuntur
+fimto uerbo uel nomini quod est currit et homo: uidebuntur ergo hae negationes secundum infinitum nomen uel /338/
+uerbum quae praedicantur SED NON SUNT. Maxima enim probatio has negationes non esse conuincit, quod omnis
+negatio uel uera uel falsa est, quod autem dicimus non homo uel non currit, licet simplicia quoque et finita homo
+scilicet atque currit nihil uerum falsumue significent, tamen haec infinita multo minus aliquid uerum aut falsum
+demonstrant. Non quod simplicia uerum aliquid falsumue significent, idcirco dicimus infinitas dictiones simplicibus
+minus uerum falsumue monstrare sed quod quamquam nihil uerum uel falsum designet simplex nomen aut uerbum,
+tamen definitum quiddam proponit, ut in eo quod est homo finitum quiddam est et una species. Is uero qui dicit non
+homo, praesentem quidem speciem interimit, infinitas tamen alias dat intellegere ipse nihil ponens. Quocirca
+quamquam finita uerba uel nomiha per se uera uel falsa esse non possint nisi cum aliis iuncta sint, tamen longe minus
+ueritatis aut falsitatis capacia sunt nomina infinita uel uerba, quae nec hoc ipsum quidem quod significant ponunt sed
+illud quidem perimunt, nihil autem per se aliud in significatione constituunt: postremo propinquius ad ueritatis uel
+falsitatis finita intellectus. Minus igitur uera uel falsa est dictio nominis infiniti quam alicuius simplicis et finiti
+uocabuli.
+SIGNIFICAT AUTEM EST OMNIS NON HOMO IUSTUS /339/ NULLI ILLARUM IDEM NEC HUIC
+OPPOSITA EA QUAE EST NON EST OMNIS NON HOMO IUSTUS. ILLA VERO QUAE EST OMNIS NON
+IUSTUS NON HOMO ILLI QUAE EST NULLUS IUSTUS NON HOMO IDEM SIGNIFICAT.
+Postquam de propositionibus infinitum habentibus praedicatum sufficienti disputatione locutus est earumque
+oppositiones ostendit consequentiasque demonstrauit, in medio de infinitis nominibus quod non essent negationes
+breuiter pernotauit, nunc redit ad eas propositiones quae subiectum habent infinitum, praedicatum uero uel finitum uel
+infinitum.
+Et primum quidem an eaedem sint idemque significent habeantque ordine aliquam consequentiam hae
+propositiones quae ex infinito subiecto sunt cum his quae ex infinito praedicato sunt uel ex utrisque finitis docet. Ait
+enim has duas propositiones quae sunt EST OMNIS NON HOMO IUSTUS, NON EST OMNIS NON HOMO IUSTUS
+nulli illarum idem significare quae aut ex utrisque finitis esset aut ex praedicato infinito. Et disponantur quidem illae
+quae aut ex utrisque finitis sunt aut ex praedicato infinito. Et primum quidem ponatur simplex affirmatio uniuersalis,
+sub hac negatio uniuersalis ex praedicato infinito superiori simplici affirmationi consentiens. Contra uero ponatur
+uniuersalis simplex negatio et sub hac uniuersalis ex infinito praedicato affirmatio, quas constat sibimet consentire
+praesidente affirmatione uniuersali quae est ex infinito scilicet praedicato.
+/340/
+Est omnis homo iustus
+Nullus est homo iustus
+Nullus est homo non iustus
+Est omnis homo non iustus
+Cum ergo ita sint affirmationes positae et negationes quae simplex quidem subiectum habeant, infinitum uero
+uel simplex praedicatum, nunc Aristoteles dicit quoniam hae propositiones quae subiectum habent infinitum nulli
+illarum superiorum quas disposuimus idem significant.
+Haec enim quae dicit:
+Est omnis non homo iustus
+non consentit ei quae dicit:
+Est omnis homo iustus
+nec rursus ei quae dicit:
+Est omnis homo non iustus
+nec his rursus quae sunt:
+Nullus est homo iustus
+uel:
+Nullus est homo non iustus
+Hae enim omnes hominem subiectum habent, illa uero non hominem.
+Quocirca nec huius negatio, id est uniuersalis affirmationis ex infinito subiecto particularis scilicet negatio,
+cum ulla earum quae finitum subiectum habent poterit consentire. Ea enim quae dicit:
+Non est omnis non homo iustus
+neque cum ea quae proponit:
+Est omnis homo iustus
+neque cum ea quae dicit:
+Est omnis homo non iustus
+neque cum his quae enuntiant:
+Nullus est homo iustus
+
+

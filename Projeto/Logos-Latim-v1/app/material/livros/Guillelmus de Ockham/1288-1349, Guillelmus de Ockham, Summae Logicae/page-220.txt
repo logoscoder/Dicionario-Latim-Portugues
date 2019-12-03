@@ -1,0 +1,58 @@
+fallacia aequiuocationis, et sic de aliis. Unde quando est compositio et diuisio uel amphibolia, in illo sensu in quo
+fallit discursus praemissae non disponuntur in modo et figura praedicto modo. Unde sic arguendo
+'quidquid est uiuens semper est; Sortes est uiuens; ergo Sortes semper est', si li uiuens componatur cum
+li semper, ut sit sensus 'quidquid est uiuelis semper, est', praemissae non sunt dispositae in modo et in figura,
+quia in propositione prima subiectum est hoc totum 'uiuens semper', sed in secunda propositione hoc totum non
+est praedicatum sed 'uiuens' tantum, et ita non est dispositio in figura. Sed si li semper componatur cum li est,
+tunc praemissae sunt dispositae in modo et in figura, et sequitur ista conclusio 'igitur Sortes semper est'.
+'quidquid est uiuens semper est; Sortes est uiuens; ergo Sortes semper est', si li uiuens componatur cum
+li semper, ut sit sensus 'quidquid est uiuelis semper, est', praemissae non sunt dispositae in modo et in figura,
+quia in propositione prima subiectum est hoc totum 'uiuens semper', sed in secunda propositione hoc totum non
+est praedicatum sed 'uiuens' tantum, et ita non est dispositio in figura. Sed si li semper componatur cum li est,
+tunc praemissae sunt dispositae in modo et in figura, et sequitur ista conclusio 'igitur Sortes semper est'.
+Et ita ista est regula generalis quod quando praemissae sunt dispositae ill modo et in figura prima, si
+propositiones sunt de praesenti, siue sint acceptae cum determinationibus aduerbialibus siue aequiualentibus,
+determinantibus compositionem siue non, dummodo illae determinationes ponantur in maiore et in conclusione
+et semper determinent uerbum,
+Syllogismus est bonus et regulatus per dici de omni uel dici de nullo, nisi aequiuocatio uel accentus
+impediat, uel alia fallacia de enumeratis.
+Syllogismus est bonus et regulatus per dici de omni uel dici de nullo, nisi aequiuocatio uel accentus
+impediat, uel alia fallacia de enumeratis.
+Nec aliqua alia fallacia ibi potest assignari. Et hoc est uerum, qualecumque sit uerbum, siue faciat
+propositionem modalem siue non, siue etiam determinatio aduerbialis faciat propositionem modalem siue non.
+Nec aliqua alia fallacia ibi potest assignari. Et hoc est uerum, qualecumque sit uerbum, siue faciat
+propositionem modalem siue non, siue etiam determinatio aduerbialis faciat propositionem modalem siue non.
+Propter quod omnes tales syllogismi, secundum intentionem Aristotelis, sunt boni 'omnis ueniens
+cognoscitur a te; Coriscus est ueniens; igitur Coriscus cognoscitur a te'; 'omnnis persona diuina de necessitate est
+Deus; creans est persona diuina; igitur creans de necessitate est Deus'; 'omnis homo est ens per Se; homo albus
+est homo; igitur homo albus est ens per se'; 'omnis homo per se est animal; album est homo; igitur album per se
+est animial';
+'omnis ignis est per se calefactiuus; siccum est ignis; igitur siccum per se est calefactiuum'; 'omnis
+aedificator per se aedificat; album est aedificator; igitur album per se aedificat'; 'nulla persona diuina intelligitur
+a me; Deus est persona diuina; igitur Deus lion intelligitur a me'; `omniis Deus scitur a philosophis esse
+immortalis; quaelibet persona diuina est Deus; igitur quaelibet persona diunia scitur a philosophis esse
+lmmortalis'; 'omnis anima intellectiua scitur a ponentibus intellectum esse accidens esse substantia; intellectus
+est anima intellectiua; igitur intellectus scitur a ponentibus intellectum esse accidens esse substantia. Et multi
+tales syllogismi innumeri, qui negantur a modernis, sunt optimi syllogismi et regulati per dici de omni uel de
+nullo.
+'omnis ignis est per se calefactiuus; siccum est ignis; igitur siccum per se est calefactiuum'; 'omnis
+aedificator per se aedificat; album est aedificator; igitur album per se aedificat'; 'nulla persona diuina intelligitur
+a me; Deus est persona diuina; igitur Deus lion intelligitur a me'; `omniis Deus scitur a philosophis esse
+immortalis; quaelibet persona diuina est Deus; igitur quaelibet persona diunia scitur a philosophis esse
+lmmortalis'; 'omnis anima intellectiua scitur a ponentibus intellectum esse accidens esse substantia; intellectus
+est anima intellectiua; igitur intellectus scitur a ponentibus intellectum esse accidens esse substantia. Et multi
+tales syllogismi innumeri, qui negantur a modernis, sunt optimi syllogismi et regulati per dici de omni uel de
+nullo.
+Quod enim tales syllogismi sint regulati per dici de omni uel de nullo, secundum intentionem
+Aristotelis, patet manifeste. Nam per istam propositionem 'omnis Deus scitur a philosophis esse immortalis'
+denotatur quod de quocumque dicitur hoc subiectum'Deus' quod de eodem dicitur hoc praedicatum 'scitur a
+philosophis esse immortalis'. Et per istam
+'quaelibet persona diuina est Deus' denotatur quod hoc quod fuit subiectum in prima propositione,
+scilicet 'Deus', dicitur de hoc subiecto 'persona diuina' uniuersaliter sumpto; igitur necessario sequitur conclusio,
+in qua denotatur illud quod fuit praedicatum in prima propositione dici de hoc subiecto 'persona diuina', quod fuit
+subiectum in secunda propositione; et hoc per uirtutem dici de omni. Istae enim sylogismus 'omnis homo currit;
+omne album est homo; igitur omne album currit' non tenet nisi quia per maiorem denotatur quod de quocumque
+dicitur hoc subiectum 'homo' quod de eodem dicitur hoc praedicatum 'currit'; et per minorem denotatur quod
+220
+
+

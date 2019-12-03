@@ -1,0 +1,58 @@
+Ergo et cum corporis defectu.
+SC1
+Sed contra est quod tales prohibebantur a ministerio veteris legis. Ergo multo fortius debent in nova lege
+prohiberi.
+SC2
+De bigamia dicetur in tractatu de matrimonio dist. 27.
+CO
+Ad quartam quaestionem dicendum, quod, sicut ex dictis patet, aliquis efficitur ineptus ad susceptionem ordinis
+vel propter impedimentum actus, vel propter impedimentum claritatis personae; et ideo patientes defectum in
+membris impediuntur a susceptione ordinis, si sit talis defectus qui maculam notabilem inferat, per quem
+obscuretur personae claritas, ut abscissio nasi; vel periculum in executione facere possit; alias non impediuntur.
+Haec autem integritas exigitur de necessitate praecepti, sed non de necessitate sacramenti.
+RA
+Et per hoc patet solutio ad objecta.
+
+|+d25.q3 Distinctio 25, Quaestio 3
+|a0 Prologus
+Deinde quaeritur de simonia; et circa hoc quaeruntur tria: 1 quid sit; 2 in quibus fiat; 3 qualiter.
+|a1 Articulus 1: Utrum definitio data de simonia sit competens.
+Articulus 1A
+AG1
+Ad primum sic proceditur. Videtur quod definitio de simonia data sit incompetens, scilicet: simonia est studiosa
+voluntas emendi vel vendendi aliquid spirituale, vel spirituali annexum. Quia ex simonia aliquis efficitur
+irregularis. Sed pro sola voluntate nullus efficitur irregularis. Ergo simonia non consistit in sola voluntate.
+AG2
+Praeterea, illa sola peccata fiunt per studium quae ex certa malitia committuntur. Sed simonia non semper
+committitur ex certa malitia, sed quandoque ex infirmitate vel ignorantia. Ergo in definitione ejus studiosum
+poni non debet.
+AG3
+Praeterea, omne peccatum in electione principaliter consistit. Sed voluntas eligens non est de impossibili, ut
+dicitur in 3 ethic., cap. 4 vel 5.
+Cum ergo emere spirituale sit impossibile, quia donum Dei pecunia non possidetur, ut dicitur Act. 8; in
+definitione peccati simoniae, voluntas emendi spirituale poni non debet.
+AG4
+Praeterea, simonia a simone mago dicitur.
+Sed ille noluit vendere spiritualia, sed emere. Ergo non debet poni venditio in definitione simoniae.
+AG5
+Praeterea, omnibus temporalibus propter spiritualia uti debemus. Si ergo in emptione annexorum spiritualibus
+simonia consistit, omnis emptio vel venditio simonia erit, quod falsum est.
+CO
+Respondeo dicendum ad primam quaestionem, quod materia Moralium virtutum dividitur in passiones et
+actiones, ut in 3 Lib., dist. 33, dictum est. Sicut autem in passionibus potest esse peccatum ex eo quod est circa
+quod non oportet, vel quantum, vel quomodo, et sic de aliis circumstantiis; ita et in actionibus; unde in emptione
+et venditione, quae sunt quaedam actiones, potest esse peccatum vel in quid vel in quantum. Si in quantum, sic
+est injustitia; sicut cum quis emit aut vendit non justo pretio: si autem in quid, ut cum vendit aut emit quod non
+cadit sub pretio, sic est peccatum simoniaci. Et quia omne peccatum in actu voluntatis consistit, ideo in
+definitione simoniae haec tria praedicta ponuntur; et primo actus voluntatis in hoc quod dicit: studiosa voluntas;
+secundo materia proxima hujus peccati, scilicet emptio et venditio, ibi: emendi vel vendendi; tertio materia
+remota, scilicet objectum actionis praedictae, ibi: spirituale, aut spirituali annexum.
+RA1
+Ad primum ergo dicendum, quod homines judicant ea quae foris parent, sed Deus intuetur cor, ut dicitur 1 Reg.
+16, et ideo in simonia, et in omnibus aliis peccatis, ex sola voluntate efficitur aliquis peccator secundum reatum
+poenae, quae ad judicium Dei pertinet, sed non quantum ad reatum poenae quae pertinet ad judicium ecclesiae;
+unde homicida voluntate incurrit reatum poenae aeternae, sed non irregularitatem, vel excommunicationem, vel
+aliquid hujusmodi; et similiter dicendum est de simoniaco.
+1884
+
+

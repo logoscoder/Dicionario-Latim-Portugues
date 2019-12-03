@@ -1,0 +1,54 @@
+* 7.59.0. De confessis.
+* 7.60.0. Inter alios acta vel iudicata aliis non nocere.
+* 7.61.0. De relationibus.
+* 7.62.0. De appellationibus et consultationibus.
+* 7.63.0. De temporibus et reparationibus appellationum seu consultationum.
+* 7.64.0. Quando provocare necesse non est.
+* 7.65.0. Quorum appellationes non recipiantur.
+* 7.66.0. Si pendente appellatione mors intervenerit.
+* 7.67.0. De his qui per metum iudicis non appellaverunt.
+* 7.68.0. Si unus ex pluribus appellaverit.
+* 7.69.0. Si de momentaria possessione fuerit appellatum.
+* 7.70.0. Ne liceat in una eademque causa tertio provocare vel post duas sententias iudicum (..)
+* 7.71.0. Qui bonis cedere possunt.
+* 7.72.0. De bonis auctoritate iudicis possidendis seu venumdandis et de separationibus.
+* 7.73.0. De privilegio fisci.
+* 7.74.0. De privilegio dotis.
+* 7.75.0. De revocandis his quae per fraudem alienata sunt.
+7.1.0. De vindicta libertate et apud consilium manumissione.
+7.1.1
+Imperator Antoninus . Eorum, qui apud consilium manumittuntur, post causam ab iudicibus probatam et
+manumissionem secutam non solet status in dubium vocari, si dicantur falsa demonstratione liberati. * ANT. A.
+TERTIO. *<A 211 PP. NON. OCT. GENTIANO ET BASSO CONSS.>
+7.1.2
+Imperatores Diocletianus, Maximianus . Nihil civitati Romanae semel praestitae vel addere vel detrahere
+secundam manumissionem potuisse certissimum est. * DIOCL. ET MAXIM. AA. ET CC. SALLUSTIO. *<A
+293 D. PRID. K. MAI AA. CONSS.>
+7.1.3
+Imperatores Diocletianus, Maximianus . Nec mulierem per maritum nec alium per procuratorem vindicta
+manumittere posse non est ambigui iuris. * DIOCL. ET MAXIM. AA. ET CC. ATTIAE. *<>
+7.1.4
+Imperator Constantinus . Apud consilium nostrum vel apud consules praetores praesides magistratusve earum
+civitatum, quibus huiusmodi ius est, adipisci potest patronorum iudicio sedula servitus libertatem. * CONST. A.
+AD MAXIMUM PU. *<A 319 - 323 >
+7.2.0. De testamentaria manumissione.
+7.2.1
+Imperatores Severus, Antoninus . Si codicillos maior viginti annis fecisset, confirmationis tempus libertati non
+nocere certum est: nec enim potestas iuris, sed iudicii consideratur. * SEV. ET ANT. AA. PRIMO.
+*<APROPOSITA.>
+7.2.2
+Imperatores Severus, Antoninus . Ex testamento defuncti libertates praestari non possunt hereditate non adita,
+vel si rei memoria propter crimen quod morte non intercidit damnata est. * SEV. ET ANT. AA. PHILETO. *<>
+7.2.3
+Imperatores Severus, Antoninus . Libertas testamento data adita hereditate contingit, et si heres scriptus per in
+integrum restitutionem abstinuerit hereditate, nihil ea res libertati obest. * SEV. ET ANT. AA.
+EUPHROSYNAE. *<A 207 S. XVII K. MAI. APRO ET MAXIMO CONSS.>
+7.2.4
+Imperatores Severus, Antoninus . Cum testamento directam libertatem pater tuus sit consecutus, quamvis ei
+heres extiteris, frustra tamen, rationes quas tempore servitutis gessit ut reddas, compelleris, cum non ea
+condicione acceperit libertatem.
+1 . Is autem, cui libertas sive fideicommissaria sive directa, si rationes reddidisset, relicta est, ante reliqua illata et
+ea, quae malo consilio amota sunt, ad libertatem non potest pervenire: sin autem non debitor ex rationibus fuerit
+361
+
+

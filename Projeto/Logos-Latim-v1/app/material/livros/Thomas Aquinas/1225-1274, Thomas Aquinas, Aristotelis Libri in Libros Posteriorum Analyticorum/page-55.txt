@@ -1,0 +1,62 @@
+hoc ideo inducit, quia posset aliquis dicere quod primo praedicabitur unum de uno, puta de homine animal; et
+ista praedicatio multiplicabitur quousque poterit inveniri aliquod unum, quod de homine praedicetur. Quibus
+finitis, praedicabuntur duo de uno: puta, dicetur quod homo est animal album; et sic multo plura praedicata
+invenirentur secundum diversas combinationes praedicatorum.
+Rursus, praedicabuntur tria de uno: puta, dicetur quod homo est animal album magnum; et sic semper addendo
+ad numerum, magis multiplicabuntur praedicata, et erit procedere in infinitum in praedicatis, sicut etiam in
+additione numerorum. Sed hoc excludit per praedicationem unius de uno. Quinto, resumit ut non dicamus aliqua
+simpliciter praedicari de ipsis, quae non aliquid sunt, idest de accidentibus, quorum nullum est aliquid
+subsistens. De accidente enim neque subiectum neque accidens proprie praedicatur, ut supra dictum est. Omnia
+enim huiusmodi, quae non sunt aliquid substantiale, sunt accidentia, et de his nihil praedicatur simpliciter
+loquendo: sed haec quidem praedicantur per se, scilicet de subiectis, vel substantialia praedicata vel accidentalia.
+Illa vero secundum alium modum, idest per accidens, scilicet cum praedicantur de accidentibus, aut subiecta, aut
+accidentia.
+Haec enim omnia, scilicet accidentia, habent de sui ratione quod dicantur de subiecto: illud autem quod est
+accidens, non est subiectum aliquod; unde nihil proprie loquendo potest de eo praedicari, quia nihil talium,
+scilicet accidentium, ponimus esse tale, quod dicatur id, quod dicitur, idest quod suscipiat praedicationem eius,
+quod de eo praedicatur, non quasi aliquid alterum existens, sicut accidit in substantiis. Homo enim dicitur animal
+vel album, non quia aliquid aliud sit animal vel album, sed quia ipsummet quod est homo, est animal vel album:
+sed album ideo dicitur homo vel musicum, quia aliquid alterum, scilicet subiectum albi, est homo vel musicum.
+Sed ipsum accidens inest aliis; et alia, quae praedicantur de accidente, praedicantur de altero, idest de subiecto
+accidentis; et propter hoc praedicantur de accidente, ut dictum est. Hoc autem introduxit, quia si accidens
+praedicatur de subiecto, et e converso, et omnia quae accidunt subiecto, praedicentur de se invicem, sequetur
+quod praedicatio procedat in infinitum, quia uni infinita accidunt.
+|#10
+Deinde cum dicit: neque in sursum ergo etc., ostendit propositum ex praemissis, scilicet quod in
+praedicatione, qua praedicatur unum de uno, non proceditur in infinitum, neque in sursum neque in deorsum;
+quia omnia accidentia praedicantur de his, quae pertinent ad substantiam rei, quod erat quinta suppositio.
+Substantialia autem praedicata non sunt infinita (quod erat secunda suppositio); et ita ex parte subiectorum non
+proceditur in infinitum in huiusmodi praedicationibus, quasi in deorsum. In sursum autem neutra sunt infinita,
+scilicet neque substantialia praedicata, neque accidentalia: quia et genera accidentium sunt finita, et in
+unoquoque generum non est procedere in infinitum, neque in sursum neque in deorsum, sicut neque in
+substantialibus praedicatis; quia in quolibet praedicamento genus praedicatur de specie in eo quod quid est. Unde
+concludi potest universaliter quod necesse est esse aliquod primum subiectum, de quo aliquid praedicetur,
+existente statu praedicationis in deorsum: et de hoc aliquid aliud praedicabitur, et hoc habebit statum in sursum:
+et erit invenire aliquid quod non amplius praedicabitur de alio, neque sicut posterius praedicatur de priori per
+accidens, neque sicut prius praedicatur de posteriori per se.
+Hic igitur est unus modus logice demonstrandi propositum, qui sumitur secundum diversos modos
+praedicationis.
+|#11 Deinde cum dicit: adhuc autem alius etc., ponit secundum modum probationis, et dicit quod quando est
+aliqua talis propositio, in qua praedicatur aliquid de subiecto, si aliqua possunt per prius praedicari de illo
+subiecto, talis propositio demonstrabilis erit: puta haec propositio, homo est substantia, demonstratur per hanc,
+animal est substantia, quia de animali per prius praedicatur substantia quam de homine. Si autem aliqua
+propositio est demonstrabilis, non possumus eam melius cognoscere quam sciendo: sicut principia
+indemonstrabilia melius cognoscimus quam sciendo, quia cognoscimus ea ut per se nota. Et iterum huiusmodi
+demonstrabilia non possumus scire nisi per demonstrationem; quia demonstratio est syllogismus faciens scire, ut
+supra dictum est. Item considerandum est quod si aliqua propositio est nota per aliam, si illam per quam nota est
+nescimus, neque cognoscimus eam meliori modo quam sciendo, consequens est quod nec sciamus illam
+propositionem, quae per eam cognoscitur.
+His igitur tribus suppositis, procedit sic. Si contingit aliquid simpliciter scire per demonstrationem, et non ex
+aliquibus nec ex suppositione, necesse est quod sit status in praedicatis, quae accipiuntur ut media. Dicit autem
+simpliciter, et non ex aliquibus, ad excludendum demonstrationes ducentes ad impossibile; in quibus proceditur
+contra positiones aliquas ex aliquibus propositionibus datis. Dicit autem neque ex suppositione, ad excludendum
+demonstrationes quia, quales fiunt in scientiis subalternis; quae supponunt conclusiones superiorum scientiarum,
+ut supra habitum est. Est ergo simpliciter per demonstrationem scire, quando quaelibet propositionum
+praemissarum, si sit demonstrabilis, scitur per demonstrationem; et si non est demonstrabilis, intelligitur per
+seipsam. Et hoc supposito, necesse est quod sit status in praedicationibus, quia si non fuerit status, sed semper
+potest accipi aliquid superius, sequitur quod omnium sit demonstratio, ut primo dicebatur. Si ergo aliqua
+conclusio demonstratur, oportet quod quaelibet praemissarum sit demonstrabilis.
+
+55
+
+

@@ -1,0 +1,36 @@
+Arithmeticam medietatem vocamus, quotiens vel tribus vel quotlibet terminis positis aequalis atque eadem
+differentia inter omnes dispositos terminos invenitur. In qua neglecta proportionis aequalitate terminorum tantum
+differentiarumque speculatio custoditur, ut: j ij iij iiij v vj vij viij viiij x. In hac enim naturalis numeri
+dispositione, si quis continuatim differentias terminorum curet aspicere, secundum arithmeticam medietatem
+aequa terminorum inter se discrepantia est; aequales enim sunt differentiae, sed eadem proportio atque habitudo
+non est. Si igitur in tribus terminis consideratio sit, continua proportionalitas dicitur; sin vero hic alius dux et
+alius comes, illic vero utrique sint alii, vocabitur disiuncta medietas. Si igitur in tribus tantum terminis secundum
+continuam medietatem respexeris vel in quattuor vel in quotlibet aliis secundum disiunctam easdem semper
+differentias terminorum videbis, tantum solis proportionibus permutatis. Id si in uno quis noverit, reliqua eum
+ratio non latebit. Sit continua medietas j ij iij. Hic unus a duobus et duo a tribus solis tantum singulis distant, et
+sunt eaedem differentiae, proportiones vero aliae. Namque duo ad unum duplus est, iij ad ij sesqualter. Et in
+ceteris idem videbis. Sin autem permiscens et aliquos praeteriens eligas et in his aliquam speculationem ponas,
+idem poterit evenire. Nam si aequales terminos intermittas et uno sese in priore dispositione praetereant, si
+singulos intermittas, solius binarii notabitur differentia, sin vero duos praetereas, ternarii, si tres, quaternarii, si
+quattuor, quinarii. Et ad eundem modum uno plus, quam intermiseris, erit illa, quam quaerimus, differentia
+terminorum. Namque si in tribus terminis singuli relinquantur, binarius semper intererit.
+
+Videsne ut, cum superius in naturalis numeri dispositione se termini singulis praeterirent, praetermissis
+duobus et iiij unus ad iij et iiij ad quinarium comparati binarium solum in differentia retinuerint. Nec non etiam
+in disiuncta eadem versabitur observatio.
+
+Talibus igitur vestigiis insistentem nullus ab eadem similitudine error abducet. Namque si duos intermittas,
+ternarius differentiam continebit, si tres, quaternarius, si quattuor, quinarius aeque in continuis proportionibus
+atque disiunctis. Qualitas autem proportionis eadem non erit, quamvis sint aequis termini differentiis distributi.
+Quod si conversim ponantur, ut non eisdem differentiis eadem qualitas proportionis eveniat, geometrica talis
+proportionalitas, non arithmetica nominatur.
+Est autem proprium huius medietatis, quod, si in tribus terminis speculatio sit, compositis extremitatibus
+illa summa, quae inter extremitates est, non loco tantum verum etiam sit quantitate medietas. Ut si ponantur j ij
+iij, unus et iij quattuor reddunt, duo vero, qui medius inter utrosque est, quaternarii medietas invenitur. Quod si
+bis medietatem ducas, aequus erit extremitatibus. Bis enim ij iiij creant. Sin vero disiuncta sit, quod fit ex
+utrisque extremitatibus compositis, hoc ex duabus medietatibus redditur. Si enim sint j ij iij iiij, unus et quattuor
+quinarium creant, ij et iij medii in eundem rursus quinarium surgunt.
+
+49
+
+

@@ -1,0 +1,63 @@
+AG1
+Ulterius. Videtur quod sit virtus generalis.
+Contrarium enim non expellitur nisi a suo contrario.
+Sed poenitentia expellit omne peccatum.
+Ergo contrariatur omni peccato; ergo est generalis virtus.
+AG2
+Praeterea, omnis virtus specialis habet speciale objectum. Sed poenitentia non habet: quia operatur in materia
+omnium virtutum et vitiorum.
+Ergo non est virtus specialis.
+AG3
+Praeterea, poenitere de malis peractis consequitur ex hoc quod homo habet rectam electionem; unde incontinens
+est poenitibilis, non autem intemperatus, quia habet malam electionem. Sed quaelibet virtus facit rectam
+electionem, ut dicitur in 3 ethic.. Ergo poenitere est actus virtutis cujuslibet: ergo poenitentia non est specialis
+virtus.
+AG4
+Praeterea, omnis virtus specialis vel est cardinalis, vel pars ejus, si sit moralis. Sed poenitentia, si sit virtus, non
+potest esse nisi moralis, quia habet passionem annexam. Non autem est cardinalis, neque continetur inter partes
+alicujus cardinalis virtutis a philosophis enumeratas: quia de virtute poenitentiae nullam mentionem fecerunt.
+Ergo non est specialis virtus.
+SC1
+Sed contra, sicut habitus distinguitur ex objectis, ita et passiones. Sed poenitentia passio est distincta ab aliis
+passionibus. Ergo poenitentia virtus est distincta ab aliis virtutibus.
+SC2
+Praeterea, omne quod perficit liberum arbitrium ad actum determinatum, est virtus specialis.
+Sed detestari peccatum spe veniae, ad quod perficit poenitentia, est actus specialis reducibilis ad aliam virtutem.
+Ergo poenitentia est specialis virtus.
+CO
+Ad tertiam quaestionem dicendum, quod quidam dixerunt, quod poenitere non est actus alicujus specialis
+virtutis, sed omnis virtutis communiter.
+Sed hoc non potest esse; quia aliud est de ratione poenitentiae, prout nunc de ipsa loquimur, quod non est de
+ratione virtutis communiter, scilicet de peccato commisso satisfacere.
+Et ideo alii dicunt, quod poenitentia est specialis virtus, et specificatur ex hoc quod detestatur peccatum
+commissum a se. Sed hoc non potest specificare virtutem; quia cum virtus sit peccato contrarium, maxime
+repugnat ei prout est in eodem subjecto; unde hoc est omni virtuti commune quod vitium repellit a subjecto suo.
+Et ideo alii dicunt, quod specificatur ex hoc quod detestatur peccatum a se commissum sub spe veniae. Sed hoc
+non potest esse; quia nulla virtus recipit speciem ex hoc quod imperatur ab alia virtute. Quod autem dicitur: ex
+spe veniae, nihil aliud dicit quam imperium spei. Unde ex hoc non haberet quod esset specialis virtus; sicut nec
+actus castitatis, propter hoc quod a caritate imperatur, speciem recipit virtutis specialis.
+Et ideo aliter dicendum, quod poenitentia accipit specialem rationem objecti ex hoc quod respicit peccatum a se
+commissum ut expiabile per poenitentis actum; et ita actus poenitentiae non est detestari peccatum absolute, quia
+hoc est cujuslibet virtutis; sed detestari aliquid expiabile per actionem ejus et quantum ad culpam et quantum ad
+reatum; hoc enim nulla alia virtus facit.
+RA1
+Ad primum ergo dicendum, quod omnis virtus expellit peccatum oppositum formaliter quantum ad suum actum
+primum, qui est informare subjectum; sed actus secundus in aliis virtutibus, qui est operatio, non ordinatur
+principaliter ad repellendum peccatum, sicut est in poenitentia; et ideo poenitentia non formaliter, sed quasi
+effective peccatum expellit; habet enim peccatum expellendum pro materia, et operatur contra ipsum ut
+expellatur; unde non opponitur omni peccato formaliter, sed alicui tantum, quod est impoenitentia; et propter hoc
+non oportet quod sit generalis virtus.
+RA2
+Ad secundum dicendum, quod quamvis poenitentia habeat actum suum circa materiam omnium vitiorum, et per
+consequens omnium virtutum, tamen considerat specialem rationem objecti in materia circa quam operatur, ut
+dictum est; sicut etiam magnanimitas habet quodammodo pro objecto et materia, actus omnium aliarum virtutum
+in ratione magni; quia operatur magna in omnibus virtutibus, ut dicitur in 4 ethic., cap. 9; et ideo, sicut
+magnanimitas est specialis virtus, ita et poenitentia.
+RA3
+Ad tertium dicendum, quod quamvis detestari absolute mala peracta consequatur omnem virtutem, secundum
+quod habet electionem rectam; tamen ad expiationem detestari, est proprium specialis virtutis.
+RA4
+Ad quartum dicendum, quod haec virtus reducitur ad aliquam cardinalium virtutum, ut dicetur.
+1603
+
+

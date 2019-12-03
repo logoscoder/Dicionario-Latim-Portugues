@@ -1,0 +1,63 @@
+quodam c termino praedicetur, potest a terminus de quodam c termino praedicari. Sed quoniam particularis affirmatio
+sibi ipsi conuertitur, per conuersionem fit conclusio, et dicitur c terminus de quodam a termino praedicari, ut sit sic:
+Omne bonum uirtus est, Quoddam iustum bonum est;
+posset equidem concludi, quoniam:
+Quoddam iustum uirtus est
+sed quia particularis affirmatio conuertitur, dicimus quoniam:
+Quaedam uirtus iusta est.
+<I-8: FAPESMO> Octauus modus primae figurae est, quoties ex uniuersali affirmatione et uniuersali
+negatione particulariter colligitur. Si enim a terminus de omni b termino praedicatus fuerit, b uero terminus de nullo c
+termino praedicetur, non posset [816B] colligi quoniam a terminus de nullo c termino praedicatur. Cur autem non
+possit, in resolutoriis dictum est. Sed quoniam uniuersalis negatiua sibi ipsa conuertitur, potest dici et conuerti,
+quoniam c terminus de nullo b termino praedicatur, b uero terminus de quodam a termino dicitur, quoniam uniuersalis
+affirmatiua purtioulariter sibi ipsa conuertitur: quare c terminus de quodam a termino non praedicabitur, ut sit sic:
+Omne bonum iustum est, Nullum malum bonum est;
+non posset colligi, quoniam:
+Nullum malum iustum est,
+sed conuertitur sic:
+Nullum bonum malum est, Quoddam iustum bonum est; Quoddam igitur iustum malum non est.
+<I-9: FRISESOMORUM> Nonus modus primae figurae est, qui ex particulari [816C] affirmatiua et uniuersali
+negatiua particularem colligit negatiuam per conuersionem. Si enim a terminus de quodam b termino, b uero terminus
+de nullo c termino praedicetur, non potest quidem dici quoniam a terminus de quodam c termino non praedicabitur. Cur
+autem non possit, hoc quoque in resolutoriis diximus; sed quoniam uniuersalis negatio conuerti potest, dicitur quoniam
+c terminns de nullo termino praedicatur, et b terminus de quodam a praedicatur; c igitur terminus de quodam a non
+praedicabitur, ut sit sic:
+Quoddam bonum iustum est, Nullum malum bonum est; Quoddam igitur iustum malum non est. [816D]
+Expeditis igitur nouem primae figurae modis, ad secundae figurae quatuor modos ueniamus. lllud tantum
+constet, quod quemadmodum in prima figura per nouem supradictos modos et affirmatio uniuersalis, et negatio
+uniuersalis, et affirmatio particularis, et negatio particularis, in conclusione colligitur, in secunda figura affirmatiuam
+neque generalem neque particularem posse colligi sed tantum uel particulariter, uel uniuersaliter solas colligi negatiuas.
+<II-1: CESARE> Est autem secundae figurae primus modus hic, quoties ex uniuersali negatione, et uniuersali
+affirmatione, uniuersalis negatiue colligitur. Si enim a terminus de nullo b termino et de omni c termino praedicetur,
+terminus de nullo c termino praedicabitur. Sit enim a bonum, sit b malam, c iustum. Si quis igitur sic dicat: [817A]
+Nullum malum bonum est, Omne iustum bonum est;
+concludit:
+Nullum iustum malum est.
+Liquet igitur maiorem extremitatem de minore in conclusione praedicari. Sed omnes secundae fgurae
+syllogismis quam uis ueri sint, uerum tamen ex seipsis non probatur sed ex primae figurae modis implentur. Namque si
+a terminos de nullo b termino praedicetur, et in omni c termino sit, nondum probatum est quoniam omnino b terminus
+de nullo c termino praedicetur. Sed si quis ex isto secundae figurae primo modo primae figurae secundum modum
+faciat, per conuersionem totus syllogismus conclusioque probata est. Si quis enim in hoc syllogismo qui est a terminus
+in nullo b, et idem a terminus de omni c praedicetur, [817B] et a b propositionem conuertat, ut faciat esse b a, nam
+omnis uniuersalis negatiua conuertitur; si quis igitur dicat quoniam a terminus de nullo b termino praedicatur, et b igitur
+de nullo a termino praedicabitur sed a terminus de omni c termino praedicabitur. Fit igitur primae figurae secundus
+modus ex uniuersali negatiua et uniuersali affirmatiua uniuersalem colligens negatiuam, ut sit conclusio. De nullo igitur
+c termino b praedicabitur. His igitur conuersionibus omnis secundae et tertiae figurae syllogismus conclusioque
+colligitur et probatur. Atque ideo quoniam ex seipsis non sunt probati nisi ex superioribus comprobentur, id est, primae
+figurae modis, quicumque in secunda uel tertia figura inuentus fuerit, imperfectus uocatur syllogismus.
+<II-2: CAMESTRES> Secundus [817C] uero modus secundae figurae est quoties ex uniuersali affirmatiua et
+uniuersali negatiua commutatis ordinibus uniuersalibus rursus negatiua concluditur, Si enim a terminus in omni b
+termino fuerit, et de nullo c termino praedicetur, b term in us de nullo c termino praedicabitur. Sit enim a bonum, b
+iustum, c malum. Si quis igitur sic dicat:
+Omne iustum bonum est, Nullum malum bonum est;
+concludit:
+Nullum igitur malum iustum est.
+Sed haec complexio coniunctioque propositionum duplicem conuersionem habet. Ostenditur enim de secundo
+primae figurae modo sic. Nam si a terminus in omni b termino est, et de nullo c termino praedicatur, [817D] hic
+uniuersalis negatiua conuertitur. Erit igitur ut c terminus de nullo a termino praedicetur. Quod si ita est, erit huiusmodi
+syllogismus: c terminus de nullo a termino praedicatur, a terminus in omni b termino est, c igitur terminus de nullo b
+termino praedicabitur. Ecce una conuersio facta est propositionis negatiuae.
+
+17
+
+

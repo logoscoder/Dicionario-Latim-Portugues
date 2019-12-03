@@ -1,0 +1,61 @@
+syllogismo: quorum duo per accidens aliquo modo coniunguntur, qui quidem se habent sicut medium et minor
+extremitas; tertium vero quod assignatur utrique inesse, est maior extremitas. Causa vero apparentiae in hac
+fallacia est unitas quaedam et identitas eorum quae per accidens quodammodo coniunguntur; causa vero non
+existentiae est diversitas eorumdem: nam sicut dicit Philosophus in primo elenchor., fallacia accidentis fit ex eo
+quod aliquis non potest iudicare idem et diversum, unum et multa.
+Sunt autem tres modi huius fallaciae.
+Primus modus provenit ex eo quod proceditur ab accidente ad subiectum, vel e converso; sicut hic: cognosco
+Coriscum.
+Coriscus est veniens. Igitur cognosco venientem.
+Non sequitur: quia veniens et Coriscus sunt unum per accidens, et non per se. Unde non sequitur quod quicquid
+est verum de uno sit verum de alio. Hoc enim fallit quando aliquid est verum de uno secundum quod est
+diversum ab altero, sicut hic: cognosco Coriscum. Coriscus enim non subiacet cognitioni secundum quod est
+idem venienti. Unde patet quod est diversificatio medii, et sic est fallacia accidentis.
+Similiter hic: iste canis est tuus, et est pater. Igitur est tuus pater. Canis enim et pater sunt unum per accidens.
+Unde non sequitur quod quicquid est verum de uno, sit verum de alio: secundum enim quod canis est pater, non
+convenit ei esse tuum.
+Secundus modus est quando illud quod convenit superiori concluditur in inferiori, vel e converso, sicut hic:
+homo est animal, et animal est genus: igitur homo est genus. Non sequitur: superius enim et inferius aliquo modo
+sunt unum per accidens, licet alio modo sint unum per se.
+Unde ex dictis patet quod si idem verificatur de uno eorum secundum quod idem est alteri, necesse est de altero
+verificari.
+Et secundum hoc sumuntur argumenta dialectica a genere et specie, sive a superiori et inferiori. Quod autem
+verificatur de uno eorum secundum quod differt ab altero, non oportet de altero verificari.
+Tunc autem est variatio medii et fallacia accidentis, sicut est in proposito: nam esse genus non praedicatur de
+animali secundum quod est idem homini, sed secundum quod ab eo differt sicut superius ab inferiori.
+Similiter est hic: triangulus est figura.
+Sed proprietas trianguli est habere tres angulos. Igitur est proprietas figurae. Non sequitur: quia triangulus et
+figura non sunt omnibus modis idem. Unde non oportet quod verificatur de uno, de altero verificari.
+Similiter est hic: socrates est alius ab homine. Ipse autem est homo: igitur est alius a se.
+Tertius modus provenit quando proceditur a specie ad proprium, vel e converso, sicut hic: homo est risibilis.
+Sed risibile est proprium: igitur homo est proprium. Vel sic: homo est species: risibile est homo; ergo risibile est
+species.
+Non sequitur: quia risibile et homo non sunt omnino idem secundum definitionem, et ideo aliquo modo unum se
+habet ad alterum per accidens et extraneum, et propter hoc non est necesse quod quidquid verificatur de uno,
+verificetur de altero.
+Et est sciendum quod non est inconveniens si in aliquibus praedictorum paralogismorum sint assignatae duae
+fallaciae, scilicet figurae dictionis et accidentis, quia secundum quod provenit deceptio ex similitudine dictionis,
+est fallacia figurae dictionis; secundum vero quod provenit ex convenientia rerum, fallacia accidentis est. Homo
+enim et socrates quantum ad rem conveniunt, et quantum ad nomen similitudinem habent.
+Sciendum est etiam quod sicut fit paralogismus accidentis ex propositionibus categoricis, ita ex hypotheticis, ex
+eo quod medium diversimode sumitur. Prout scilicet comparatur ad unam extremitatem, est diversum ab alia,
+sicut hic: si nullum tempus est, dies non est, per locum a toto in quantitate: et si dies non est, nox est, per locum
+ab oppositis. Ergo si nullum tempus est, nox est. Sed si nox est, aliquod tempus est. Igitur si nullum tempus est,
+aliquod tempus est.
+Patet ergo quod illud medium, quod est diem non esse, est diversum ab eo quod est noctem esse, secundum quod
+sequitur ad hoc quod est nullum tempus esse. Ex hoc enim quod est diem non esse, non sequitur noctem esse nisi
+supposito tempore, secundum quod sequitur ad hoc quod est nullum tempus esse, sicut ex hoc quod est videntem
+non esse, sequitur caecum esse, supposito animali quod est natum videre.
+|+13 Capitulus 13: De fallacia secundum quid et simpliciter.
+Sequitur de fallacia secundum quid et simpliciter.
+Simpliciter autem hic dicitur quod nullo modo addito dicitur, ut cum dicitur: socrates est albus, vel socrates
+currit; secundum quid autem dicitur quod cum aliquo addito dicitur, ut: iste currit bene, vel socrates est albus
+secundum dentem.
+Hoc autem quod additur, dupliciter se habet ad id cui additur: nam quandoque non diminuit de ratione eius cui
+additur, et tunc potest procedi ab eo quod est secundum quid ad hoc quod est simpliciter, ut cum dicitur: iste
+currit velociter, igitur currit: velocitas enim nihil diminuit de ratione cursus. Et est in praedicto argumento locus
+a parte in modo.
+
+9
+
+

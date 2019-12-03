@@ -1,0 +1,60 @@
+non animal
+non enim definiunt, quid sit, cum hoc non sit, sed tantum ostendunt aliud praeter hoc esse.
+[05]
+Nunc dicendum est quemadmodum quattuor illae propositiones inter se affectae sint, quas non ab re est in
+quadrata formula spectare. Sunt igitur in superiore linea, ut infra scriptum est, uniuersalis dedicatiua et
+abdicatiua, ut:
+Omnis uoluptas bonum est
+Omnis uoluptas bonum non est
+dicanturque hae inter se incongruae. Item in inferiore linea sub utraque particulares subnotentur:
+Quaedam uoluptas bonum est
+Quaedam non est bonum
+dicanturque inter se hae subpares. Deinde obliquae ducantur lineae angulares, altera pertingens ab uniuersali
+dedicatiua /194/ ad particularem abdicatiuam, altera a particulari dedicatiua ad uniuersalem abdicatiuam; quae
+inter se et quantitate et qualitate contrariae alterutrae nominentur, quod iam necesse est alterutram ueram esse,
+quae dicitur perfecta pugna et integra.
+At inter subpares et incongruas pugna diuidua est, quod incongruae nunquam quidem fiunt simul uerae, interdum
+tamen simul mentiuntur, subpares autem mutata uice nunquam quidem simul mentiuntur, interdum tamen simul
+uerae fiunt et ideo utriusuis harum reuictio confirmat alteram, non tamen et utriusuis confirmatio reuincit
+alteram. De incongruis qui utramuis posuit, utique alteram tollit, non tamen mutata uice qui utramuis tollit,
+utique alteram ponit. Enimuero de alterutris qui utramuis comprobat, utique alteram refutat, qui utramuis tollit,
+utique alteram comprobat. Caeterum uniuersalis utrauis particularem suam comprobata utique confirmat, reuicta
+non utique infirmat. Particularis autem uersa uice uniuersalem suam reuicta utique infirmat, probata non utique
+confirmat. Haec omnia ita /195/ esse, ut dicimus, ex ipsis propositionibus facile ostenditur infra scriptis.
+Omnis uoluptas -------- incongruae -------bonum est
+|
+\ /
+|
+\/
+|
+X
+|
+/\
+|
+/ \
+
+Omnis uoluptas
+bonum non est
+|
+|
+|
+|
+|
+
+Quaedam uoluptas -------- subpares ---------- Quaedam uoluptas
+bonum est
+bonum non est
+[FIGURA]
+Certum est enim, quod concedat, qui aliquid proposuerit. Destruitur autem ultrauis uniuersalis trifariam, dum aut
+particularis eius falsa ostenditur aut utrauis ex duabus caeteris uera, siue incongrua siue subneutra. Instruitur
+autem uno modo, si alterutra eius falsa ostenditur. Contra particularis /196/ uno quidem modo destruitur, si
+alterutra eius uera ostenditur; instruitur autem trifariam, si aut uniuersalis eius uera est aut utrauis ex duabus
+caeteris falsa, siue subpar eius siue subneutra. Eadem seruabimus etiam in aequipollentibus propositionibus.
+Aequipollentes autem dicuntur, quae alia enuntiatione tantundem possunt et simul uerae fiunt aut simul falsae,
+altera ob alteram scilicet, sicut indefinita et particularis.
+Item omnis propositio, si assumat in principio negatiuam particulam, fit alterutra eius aequipollens, ut cum sit
+uniuersalis dedicatiua:
+Omnis uoluptas bonum
+3
+
+

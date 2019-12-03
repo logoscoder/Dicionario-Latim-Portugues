@@ -1,0 +1,55 @@
+denotatur quod de quocumque dicitur hoc totum 'homo qui est albus' quod de eodem dicitur hoc praedicatum
+'currit'. Et tunc ad ueritatem talis requiruntur duae propositiones, scilicet quod 'aliquis homo est albus' et 'quilibet
+talis homo currit'. In alio autem sensu denotatur quod istae duae sunt uerae
+'omnis homo est albus' et 'omnis homo currit'.
+'omnis homo est albus' et 'omnis homo currit'.
+Verumtamen sciendum est, sicut dicetur inferius, quod quandoque est relatio non personalis, et tunc non
+oportet quod in copulatiua correspondente idem habeat in utraque eandem suppositionem. Quandoque autem est
+relatio personalis, et tunc debet habere eandem suppositionem.
+Verumtamen sciendum est, sicut dicetur inferius, quod quandoque est relatio non personalis, et tunc non
+oportet quod in copulatiua correspondente idem habeat in utraque eandem suppositionem. Quandoque autem est
+relatio personalis, et tunc debet habere eandem suppositionem.
+[2.16 DE PROPOSITIONIBUS REDUPLICATIVIS
+IN QUIBUS PONITUR HAEC DICTIO 'IN QUANTUM']
+IN QUIBUS PONITUR HAEC DICTIO 'IN QUANTUM']
+Circa propositiones reduplcatiuas est primo sciendum quod illa propositio uocatur reduplicatiua in qua
+ponitur haec dictio 'in quantum', uel aequiualens, et tenetur reduplicatiue; quia secundum aliquos potest
+aliquando teneri reduplicatiue, et tunc facit propositionem reduplicatiuam, et potest aliquando teneri
+specificatiue, et tunc non facit propositionem reduplicatiuam.
+Circa propositiones reduplcatiuas est primo sciendum quod illa propositio uocatur reduplicatiua in qua
+ponitur haec dictio 'in quantum', uel aequiualens, et tenetur reduplicatiue; quia secundum aliquos potest
+aliquando teneri reduplicatiue, et tunc facit propositionem reduplicatiuam, et potest aliquando teneri
+specificatiue, et tunc non facit propositionem reduplicatiuam.
+Secundo sciendum quod in propositione reduplicatiua ipsa reduplicatio, scilicet haec dictio 'in quantum',
+uel aequiualens, aliquando est affirmata, quia scilicet negatio non praecedit eam, et aliqando est negata, quia
+scilicet negatio praecedit eam, sicut hic 'Sortes non currit in quantum est homo'. Si autem reduplicatio non sit
+negata, uel hoc est in propositione affirmatiua, sicut hic 'Sortes in quantum homo est risibilis', uel in propositione
+negatiua, sicut hic 'Sortes in quantum homo non currit'.
+Secundo sciendum quod in propositione reduplicatiua ipsa reduplicatio, scilicet haec dictio 'in quantum',
+uel aequiualens, aliquando est affirmata, quia scilicet negatio non praecedit eam, et aliqando est negata, quia
+scilicet negatio praecedit eam, sicut hic 'Sortes non currit in quantum est homo'. Si autem reduplicatio non sit
+negata, uel hoc est in propositione affirmatiua, sicut hic 'Sortes in quantum homo est risibilis', uel in propositione
+negatiua, sicut hic 'Sortes in quantum homo non currit'.
+Primo igitur uidendum est quid requiritur ad ueritatem propositionis affirmatiuae reduplicatiuae;
+secundo quid ad ueritatem propositionis negatiuae, in qua tamen reduplicatio non est negata; tertio quid
+requiritur ad ueritatem propositionis in qua reduplicatio est negata.
+Primo igitur uidendum est quid requiritur ad ueritatem propositionis affirmatiuae reduplicatiuae;
+secundo quid ad ueritatem propositionis negatiuae, in qua tamen reduplicatio non est negata; tertio quid
+requiritur ad ueritatem propositionis in qua reduplicatio est negata.
+Circa primum sciendum est quod talis propositio potest distingui, eo quod potest esse reduplicatio gratia
+concomitantiae uel gratia causae. Si fiat reduplicatio gratia concomitantiae, tunc ad ueritatem ipsius requiruntur
+quatuor propositiones tamquam exponentes eam: una, in qua praedicatum principale uere praedicetur de subiecto
+principali; alia, in qua illud super quod cadit reduplicatio praedicetur de subiecto principali; tertia, in qua
+praedicatum principale praedicetur de illo super quod cadit reduplicatio uniuersaliter; quarta erit una
+condicionalis uera, ab illo super quod cadit reduplicatio ad praedicatum principale, illo modo quo ab inferiori ad
+superius dicitur esse bona consequentia et quo modo dicitur quod ex uno conuertibilium sequitur reliquum. Verbi
+gratia ad ueritatem istius 'Sortes in quantum homo est coloratus' requiritur ueritas istius
+'Sortes est coloratus' et istius 'Sortes est homo' et istius 'omnis homo est coloratus' et istius 'si homo est,
+coloratus est' uel istius 'si a est homo, a est coloratum'. Et quia talis condicionalis est falsa, ideo talis
+reduplicatiua 'Sortes in quantum homo est coloratus' est similiter falsa, quia scilicet habet unam exponentem
+falsam.
+'Sortes est coloratus' et istius 'Sortes est homo' et istius 'omnis homo est coloratus' et istius 'si homo est,
+coloratus est' uel istius 'si a est homo, a est coloratum'. Et quia talis condicionalis est falsa, ideo talis
+173
+
+

@@ -1,0 +1,60 @@
+ad obiectum, quod est Deus, cui non potest aliquis nimis credere, sed inquantum ipsa opinio humana est media
+inter contrarias opiniones, ut ex supradictis patet.
+|q65 Quaestio 65
+|a0 Prologus
+Deinde considerandum est de connexione virtutum. Et circa hoc quaeruntur quinque. Primo, utrum virtutes
+morales sint ad invicem connexae. Secundo, utrum virtutes morales possint esse sine caritate. Tertio, utrum
+caritas possit esse sine eis.
+Quarto, utrum fides et spes possint esse sine caritate.
+Quinto, utrum caritas possit esse sine eis.
+|a1 Articulus 1
+AG1
+Ad primum sic proceditur. Videtur quod virtutes morales non sint ex necessitate connexae. Virtutes enim
+morales quandoque causantur ex exercitio actuum, ut probatur in II ethic..
+Sed homo potest exercitari in actibus alicuius virtutis sine hoc quod exercitetur in actibus alterius virtutis.
+Ergo una virtus moralis potest haberi sine altera.
+AG2
+Praeterea, magnificentia et magnanimitas sunt quaedam virtutes morales. Sed aliquis potest habere alias virtutes
+morales, sine hoc quod habeat magnificentiam et magnanimitatem, dicit enim Philosophus, in IV ethic., quod
+inops non potest esse magnificus, qui tamen potest habere quasdam alias virtutes; et quod ille qui parvis est
+dignus, et his se dignificat, temperatus est, magnanimus autem non est.
+Ergo virtutes morales non sunt connexae.
+AG3
+Praeterea, sicut virtutes morales perficiunt partem appetitivam animae, ita virtutes intellectuales perficiunt
+partem intellectivam. Sed virtutes intellectuales non sunt connexae, potest enim aliquis habere unam scientiam,
+sine hoc quod habeat aliam. Ergo etiam neque virtutes morales sunt connexae.
+AG4
+Praeterea, si virtutes morales sint connexae, hoc non est nisi quia connectuntur in prudentia. Sed hoc non sufficit
+ad connexionem virtutum Moralium. Videtur enim quod aliquis possit esse prudens circa agibilia quae pertinent
+ad unam virtutem, sine hoc quod sit prudens in his quae pertinent ad aliam, sicut etiam aliquis potest habere
+artem circa quaedam factibilia, sine hoc quod habeat artem circa alia.
+Prudentia autem est recta ratio agibilium.
+Ergo non est necessarium virtutes morales esse connexas.
+SC
+Sed contra est quod Ambrosius dicit, super Lucam, connexae sibi sunt, concatenataeque virtutes, ut qui unam
+habet, plures habere videatur.
+Augustinus etiam dicit, in VI de Trin., quod virtutes quae sunt in animo humano, nullo modo separantur ab
+invicem.
+Et Gregorius dicit, XXII Moral., quod una virtus sine aliis aut omnino nulla est, aut imperfecta.
+Et tullius dicit, in II de tuscul. Quaest., si unam virtutem confessus es te non habere, nullam necesse est te
+habiturum.
+CO
+Respondeo dicendum quod virtus moralis potest accipi vel perfecta vel imperfecta. Imperfecta quidem moralis
+virtus, ut temperantia vel fortitudo, nihil aliud est quam aliqua inclinatio in nobis existens ad opus aliquod de
+genere bonorum faciendum, sive talis inclinatio sit in nobis a natura, sive ex assuetudine. Et hoc modo
+accipiendo virtutes morales, non sunt connexae, videmus enim aliquem ex naturali complexione, vel ex aliqua
+consuetudine, esse promptum ad opera liberalitatis, qui tamen non est promptus ad opera castitatis. Perfecta
+autem virtus moralis est habitus inclinans in bonum opus bene agendum. Et sic accipiendo virtutes morales,
+dicendum est eas connexas esse; ut fere ab omnibus ponitur. Cuius ratio duplex assignatur, secundum quod
+diversimode aliqui virtutes cardinales distinguunt.
+Ut enim dictum est, quidam distinguunt eas secundum quasdam generales conditiones virtutum, utpote quod
+discretio pertineat ad prudentiam, rectitudo ad iustitiam, moderantia ad temperantiam, firmitas animi ad
+fortitudinem, in quacumque materia ista considerentur.
+Et secundum hoc, manifeste apparet ratio connexionis, non enim firmitas habet laudem virtutis, si sit sine
+moderatione, vel rectitudine, aut discretione; et eadem ratio est de aliis.
+Et hanc rationem connexionis assignat Gregorius, XXII Moral., dicens quod virtutes, si sint disiunctae, non
+possunt esse perfectae, secundum rationem virtutis, quia nec prudentia vera est quae iusta, temperans et fortis
+non est; et idem subdit de aliis virtutibus.
+878
+
+

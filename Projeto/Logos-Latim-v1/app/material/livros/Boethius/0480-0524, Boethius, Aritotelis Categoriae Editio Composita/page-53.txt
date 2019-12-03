@@ -1,0 +1,62 @@
+Quare si particularis affirmatio definita et rursus affirmatio indefinita a se ipsae diuersae sunt, illud uerum est
+oppositas quoque contradictorie negationes habere dissimiles. Quare ea quae est:
+Nullus homo iustus est
+diuersa est ab ea quae dicit:
+Homo iustus non est
+Atque hoc nunc Aristoteles exsequitur: ait enim unam semper negationem contra unam affirmationem posse
+constitui. Et eius causam conatur ostendere, quod omnis negatio eosdem terminos habet in enuntiatione sed enuntiandi
+modo diuersa est. Nam quod ponit affirmatio idem aufert negatio et quod illa praedicatum subiecto iungit hoc illa
+diuidit atque disiungit. Quare si idem praedicatum idem subiectum in negatione est, quod affirmatio ante posuerat, non
+est dubium quin unius affirmationis una negatio uideatur. Nam si duae sint, aut subiectum altera mutatura est aut
+praedicatum. Sed quaecumque sunt huiusmodi, non sunt oppositae. Hoc enim est quod ait: SI AUTEM ALIUD
+ALIQUID VEL /175/ DE ALIO IDEM, NON OPPOSITA SED ERIT AB EA DIVERSA. Sensus enim huiusmodi est:
+si negatio aliud aliquid praedicando neget quam in affirmatione fuit (ut si sit affirmatio "Est homo albus", negatio dicat
+"Non est homo iustus", aliud praedicauit in negatione quam in affirmatione fuerat constitlltum) uel si de alio subiecto
+quam in affirmatione fuerat idem quod in affirmatione fuit dixerit praedicatum (ut si affirmatio sit "Est homo iustus",
+negatio respondeat "Non est leo iustus", idem praedicatum est, subiecta diuersa sunt): si ergo uel aliud quiddam
+praedicet in enuntiatione propositio uel de alio subiecto idem praedicet quod affirmatio ante posuerat, non erunt illa
+affirmatio negatioque oppositae sed tantum a se diuersae; neque enim se perimunt. Et hanc rem demonstratiuam addidit
+et quae esset argumentum unius affirmationis praeter unam negationem esse non posse, siue in singularibus, ut in eo
+quod ipse dicit exemplo: EST SOCRATES ALBUS, NON EST SOCRATES ALBUS, siue in uniuersalibus
+uniuersaliter praedicatis. Cum his particulares in oppositione contradictorie constituuntur, ut in uniuersali uniuersaliter
+affirmatiua:
+Omnis homo albus est
+in uniuersali particulariter negatiua praedicetur:
+Non omnis homo albus est
+illi uero quae est in uniuersali particulariter affirmatiua:
+Quidam homo albus est
+opponatur in uniuersali uniuersaliter propositio negatiua:
+Nullus homo albus est
+illi uero quae in uniuersali non uniuersaliter affirmatiua est:
+Est homo albus
+illa quae in uniuersali non uniuersaliter negatiua est:
+Non est homo albus
+ut quod ait uel de aliquo singularium ad haec exempla pertineat: EST SOCRATES ALBUS, NON EST
+SOCRATES /176/ ALBUS; quod autem secutus est VEL DE ALIQUO UNIVERSALIUM, VEL UNIVERSALITER
+ad illa exempla dictum esse uideatur quae sunt: OMNIS HOMO ALBUS EST, NON OMNIS HOMO ALBUS EST,
+ALIQUI HOMO ALBUS EST, NULLUS HOMO ALBUS EST; quod uero addidit VEL NON UNIVERSALITER
+scilicet in uniuersalibus ad illa exempla rettulerit quae sunt: HOMO ALBUS EST, NON EST HOMO ALBUS.
+Hinc igitur omnia rursus breuissime repetit dicens: iam sese dixisse, quoniam uni negationi una affirmatio
+esset opposita et hoc non quolibet modo sed contradictorie, in quibus scilicet uerum falsumque diuideretur. Dixisse
+etiam commemorat, quae essent hae quas contradictorias nominaret. Dixit autem esse angulares, affirmatiuam
+uniuersalem et negatiuam particularem, rursus affirmatiuam particularem et negatiuam uniuersalem. Disserui quoque,
+inquit, ET QUONIAM ALIAE SUNT CONTRARIAE. Non enim eaedem sunt contrariae quae sunt contradictoriae.
+Contrariae enim sunt sibimet uniuersalis affirmatio uniuersalisque negatio. Exposui illud quoque, inquit, QUONIAM
+NON OMNIS VERA VEL FALSA CONTRADICTIO. Nunc contradictionem non illam proprie sed communiter de his
+dixit quae sibi sunt oppositae siue contrario modo siue subcontrario. Hae namque non semper uerum inter se falsumque
+diuidebant, /177/ ut una semper esset uera, alia falsa. Poterat enim fieri ut contrariae simul inuenirentur falsae,
+subcontrariae simul uerae.
+De his autem, quae proprie contradictoriae sunt, de his sequitur et se iam exposuisse commemorat, et quare
+una uera uel falsa est et quando.
+Idcirco enim affirmatio uniuersalis particulari negationi ui contradictionis opponitur, quod in omnibus a se
+ipsae diuersae sunt et qualitate et quantitate. Illa enim est affirmatio, illa negatio, uniuersalis illa, illa particularis. Ideo
+ergo aut utraeque falsae aut utraeque uerae inueniri non possunt. Quando autem ita fuerit, constat unam ueram esse,
+aliam falsam. Atque hoc est quod ait: ET QUARE ET QUANDO VERA VEL FALSA, dictum esse scilicet memorans,
+quare oppositio et quando una semper uera sit, altera falsa: tunc utique quando angulariter constituuntur, idcirco
+quoniam et quantitate a se propositiones et qualitate diuersae sunt. Nobis autem dicendum est, quando oppositiones
+contrariae uel subcontrariae aut utraeque illae simul falsae sint aut utraeque illae simul uerae aut una falsa, alia rursus
+inueniatur uera. In contrariis enim si ea quae non sunt naturaliter praedicentur, [utraeque] ut albedo, quoniam naturaliter
+homini non est, utraeque falsae sunt quae albedinem praedicant. Falsum est enim:
+Omnis homo albus est
+
+

@@ -1,0 +1,45 @@
+Non est homo albus
+simul nos dicere, quoniam nullus homo albus est, non oportet intellegi. Neque enim semper simul est non est
+homo albus et nullus homo albus est. Nam aliquotiens simul est, scilicet cum prius dicitur uniuersalis negatio,
+cum uero indefinita dicitur prius, non est simul negatio uniuersalis negationi indefinitae. Nam si dicam:
+Nullus homo albus est
+simul dixi, quoniam homo albus non est quod si dicam:
+Homo albus non est
+non est simul dicta negatio uniuersalis, quae est:
+Nullus homo albus est
+quoniam potest quidam esse non albus, de quo dicatur homo albus non est, neque tamen omnes esse non albi.
+Non igitur sunt simul necessario:
+Non est albus homo
+et:
+Nullus homo albus est
+MANIFESTUM EST AUTEM QUONIAM UNA NEGATIO UNIUS AFFIRMATIONIS EST; HOC ENIM
+IDEM OPORTET NEGARE NEGATIONEM, QUOD AFFIRMAUIT AFFIRMATIO, ET DE EODEM.
+Hoc quoque argumentum est negationem indefinitam et uniuersalem idem non significare et a se esse diuersas.
+Nam si unius affirmationis una negatio est, contra eam quae dicit:
+Non est homo albus
+illa est affirmatio quae dicit:
+Est homo albus
+et contra eam quae dicit:
+Nullus homo albus est
+illa affirmatio /98/ est quae dicit:
+Quidam homo albus est
+Sed hae affirmationes diuersae sunt (id est "Est homo albus" et "Quidam homo albus est"): diuersae igitur illae
+quoque sunt quae his proportionaliter opponuntur. Diuersa igitur est negatio quae dicit:
+Nullus homo albus est
+ea quae dicit:
+Non est homo albus
+Docet autem nos unius affirmationis unam esse negationem idque hac ratione demonstrat: oportet enim idem
+praedicatum negare negationem, quod praedicauerit affirmatio, et rursus de eodem subiecto auferre praedicatum
+negationem oportet ad quod affirmatio ante coniunxerat. Quod si fit, dubium non est unius esse affirmationis
+unam negationem. Siue autem hoc in uniuersalibus fiat, siue uniuersaliter praedicatis siue indefinite et non
+uniuersaliter, siue in singularibus, una eademque propositionum natura est, ut unius affirmationis sit tantum
+naturaliter una negatio. Hoc autem inductione probat.
+DICO AUTEM UT EST SOCRATES ALBUS, NON EST SOCRATES ALBUS.
+In hac enim propositione idem subiectum est, idem est praedicatum. Et in medio exemplorum subiecit:
+SI AUTEM ALIUD ALIQUID VEL DE ALIO IDEM, NON OPPOSITA SED ERIT AB EA DIVERSA.
+Sensus huiusmodi est: si autem aliquid aliud praedicauerit negatio quam affirmatio praedicauit uel /99/ de alio
+subiecto idem negatio praedicauerit quod in affirmatione fuerit praedicatum, non sunt sibi oppositae sed a se
+tantum diuersae sunt. Si quis enim dicat:
+25
+
+

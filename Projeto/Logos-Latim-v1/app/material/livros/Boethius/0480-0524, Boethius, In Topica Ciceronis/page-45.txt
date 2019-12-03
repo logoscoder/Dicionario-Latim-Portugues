@@ -1,0 +1,62 @@
+argumentum fiat, rursus ab unius propositionis membris tale argumentum nasci oportebit. Igitur ex his propositionibus,
+dies est, lux est, una esse non potest nisi a conditione copulentur, ut unum sit antecedens, aliud consequens, et ideo in
+his ex antecedenti et consequenti argumentum esse non potest, quoniam duae sunt ex illis quoque propositionibus quae
+sunt, dies est, lux non est: una esse non [1126B] poterit, nisi conditionis adiunctione in unius quodammodo
+propositionis sententiam reducantur cuius propositionis partes sunt repugnantes. Nam, ut in connexa propositione una
+pars antecedens, alia est consequens, ita in repugnanti utraque pars propositionis a semet inuicem repugnat ac dissidet.
+Amplius: repugnans propositio connexae partem contrariarm tenet, nam ut in illa quod antecedit secum id
+quod sequitur trahit, ita in hac propositione partes simul esse non possunt. Contrariae uero differentiae sub eodem
+genere poni solent. Si igitur connexa propositio in conditione est constituta, repugnans quoque in conditione subsistit;
+quod si et consequentiam propositionum et repugnantiam conditio facit, non est dubium quin locus hic iure
+conditionalis uocetur, ac sit unus positus in conditione diuisis partibus, id est in antecedentem consequentemque et
+repugnantem. Connexaeque namque propositionis una pars antecedens est, alia consequens. Repugnantis uero
+propositionis utraque repugnatae dissidet. Itaque connexae propositionis partes antecedens et consequens sunt,
+repugnantis uero repugnantes. Nec illud intelligentiam turbet quod dies est et lux est quadam sibi ratione consentiunt.
+Item dies est et lux non est, quasi a se dissentiunt atque discordant, nam connexa est propositio si cum aliud
+antecesserit, aliud consequatur. Item repugnans, si uno posito aliud inferatur, quod esse non potest nisi id ius
+conditionis efficiat. Quocirca aperte demonstratum esse arbitror conditionalem hunc locum uocari et [1126D] recte
+unum esse a M. Tullio constitutum. Quomodo uero fiat ab antecedentibus et consequentibus et repugnantibus
+argumentum, posterius dicam.
+Sed quoniam nullius facultatis alterius est, quid uel quamque rem consequitur, uel quid cuique repugnet
+inspicere, nisi dialecticae tantam, quae huius quam maxime rei perititiam profitetur, idcirco ait hunc esse locum totum
+dialecticorum.
+Qui etiam ab adiunctis longe lateque diuersus est. Primum quod adiuncta prodere sese atque ostendere inuicem
+poesunt, non uero perficere atque adimplere naturam, ueluti ambulationem pedum strepitus significare quidem ac
+denuntiare potest, efficere uero non potest. Neque etiam ambulationem efficit pedum strepitus, [1127A] nec uero ex
+neccssitate ambulatio ut sit pedum strepitus auctor est sed saepe ita ambulatur, ut nullus pedum strepitus exaudiatur;
+saepe non mulato loco moueri pedes ac strepere praeter ambulationem queunt; idcirco non semper inueniunt ad iuncta:
+propositoque termino quem probare contendimus, saepe ex adiunctis argumenta deficiant, quia ipsa quoque aliquoties
+deficere uidentur adiuncta. Praecedentia uero et consequentia et repugnantia numquam desunt omne enim quidquid in
+rebus est, habet quod se aut sequatur naturaliter, aut praecedat. Est etiam a quo per naturae diuersitatem dissideat, uelut
+animal sequitur quidem hominem, praecedit uero substantiam; dicimus enim:
+Si homo est, animal est
+substantiam uero praecedit, cum proponimus, si animal [1127B] est, substantia est. Repugnat uero mortuo
+cum enuntiamus, si animal est, mortuum non est.
+Praeterea quae sunt adiuncta temporibus distributae sunt, ut ante rem, cum re, post rem. Quae uero sunt
+antecedentia, consequentia, et repugnantia, quomodolibet modo in temporibus sint, nihil refert. Nam priora saepe
+temporibus comitantur, et temporibus posteriora praecedunt, et quae simul temporibus sunt, alias praecedunt, alias uero
+consequuntur, ut superius quoque saepe diximus.
+Amplius, quae antecedentia sunt et consequentia relinquere sese non possunt, nec sibi repugnantia cobaerere,
+et sunt repugnantia necessario sibimet inconnexa; quae uero sunt adiuncta nihil obtinent necessitatis, quia et iungi
+sibimet, et a se separari queunt.
+Quae cum ita sint, quaestio [1127C] difficilis uehementer oboritur, uidetur enim minus intuentibus nihil hic
+locus differre his locis qui dicti sunt uel a genere, uel a specie, uel a contrariis. Nam genus semper speciem sequitur,
+speciem genus praecedit, contraria simul esse non possunt.
+Quae soluenda est hoc modo: Primum quia non omne consequens genus est, nec omnis species antecedens.
+Repugnantia uero ipsa contraria sed contrariorum sunt consequentia, ut in locorum qui a M. Tullio propositi sunt
+expositione monstrauimus. De hinc quia cum a genere fit argumentum, ipsum genus assumitur, eodem quoque modo et
+species, cum ab ea aliquid uolumus approbare, cum uero ab antecedentibus aliquid monstrare contendimus, eo quod in
+conditionali propositione praecessit utimur in assumptione, [1127D] etiamsi non fuerit genus. Item si a consequenti
+argumentum fiat, etiamsi species non sil, a consequenti parte conditionalis propositionis ducitur argumentum, ueluti
+cum ita dicimus: Si ignis est, leuis est, ignis anteoedit, leuitas sequitur; sed neutrum neutri est genus aut species,
+assumitur itaque, atqui ignis est. Nunc igitur id quod antecedebat assumpsi, ex quo monstratur conclusio, leuis igitur
+est. At si ita assumamus sed non est leuis, id quod consequebatur assumpsi. Concluditur ergo atque monstratur, non est
+igitur ignis.
+Vides igitur ut de his praecedentibus etconsequentibus nunc biquamur quae in conditionali propositione posita,
+uel praecedere uel consequi intelliguntur. Cum uero fit ex genere [1128A] argumentum, species quidem est de qua
+aliquid probare contendimus; genus uero assumimus non quasi praecedens sed quasi continens, ut quidquid esse
+consideratur in genere, id formae quoquo debeat aptari. Genus enim quoad permanet, a sua specie non recedit: cum
+uero de specie sumimus argumentum, genus quidem est de quo aliud quaeritur; sed id laboramus, ut quod de genere
+conamur ostendere, id ex specie possit facilius agnosci. Ut cum uxori Fabiae relictum fuisset legatum, si materfanilias
+
+

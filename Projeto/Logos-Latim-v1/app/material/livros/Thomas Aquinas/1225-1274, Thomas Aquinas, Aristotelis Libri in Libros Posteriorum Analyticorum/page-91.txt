@@ -1,0 +1,58 @@
+|#1 Postquam Philosophus ostendit quod in quibusdam per demonstrationem accipitur quod quid est, hic
+ostendit quod hoc non est possibile in omnibus.
+Et ad hoc ostendendum praesupponit quod quorumdam est quaedam altera causa, quorumdam autem non. Quia
+igitur quod quid est accipitur per demonstrationem, cuius medium est causa, manifestum est quod sunt quaedam,
+quorum quod quid est oportet accipere sicut quoddam immediatum principium; ita quod oportet supponere de
+tali re et esse et quid est, vel manifestare aliquo alio modo quam per demonstrationem, puta per effectum vel per
+simile vel aliquo tali modo.
+|#2 Est autem considerandum quod hoc quod dicit, quorumdam non esse aliam causam, potest intelligi
+tripliciter. Uno modo, quod simpliciter et absolute causam non habet sui esse. Et hoc competit soli primo
+principio, quod est causa esse et veritatis in omnibus rebus. Nihil enim prohibet etiam eorum quae ex necessitate
+sunt, esse aliquam causam necessitatis, ut patet in V metaphys..
+Et ideo, cum hic Philosophus pluraliter loquatur, non sic est intelligendum quod hic dicitur, quod aliqua sint,
+quae nullam habent causam sui esse.
+|#3 Alio modo potest intelligi secundum ordinem causarum eiusdem rei. Manifestum est enim in rebus
+habentibus quatuor causas, quod una causa est quodammodo causa alterius. Quia enim materia est propter
+formam et non e converso, ut probatur in II physic., definitio quae sumitur ex causa formali, est causa
+definitionis, quae sumitur ex causa materiali eiusdem rei. Et quia generatum consequitur formam per actionem
+generantis, consequens est quod agens sit quodammodo causa formae et definitio definitionis. Ulterius autem
+omne agens agit propter finem; unde et definitio quae a fine sumitur, est quodammodo causa definitionis quae
+sumitur a causa agente. Ulterius autem non est procedere in generibus causarum: unde dicitur quod finis est
+causa causarum. Potest tamen in singulis causarum generibus a posterioribus ad priora procedi; sed definitiones
+debent dari per causas proximas.
+Et secundum hunc sensum in quibusdam libris interponitur, quod definitiones secundum speciem factae nullum
+habent medium quo demonstrentur: definitiones autem secundum materiam factae possunt habere medium: quia
+scilicet definitiones quae dantur secundum causam materialem possunt demonstrari per definitiones quae dantur
+secundum causam formalem.
+Definitio autem quae datur secundum causam formalem, non potest ulterius demonstrari per aliquod principium
+intrinsecum rei, quod proprie pertinet ad quod quid est, utpote intrans essentiam rei. Sed etsi demonstretur per
+causam efficientem et finalem, dicendum erit quod semper causa superior se habet ut formalis respectu inferioris.
+Praedicta tamen verba non habentur in libris Graecis.
+Unde magis videtur esse Glossa, quae per errorem scriptorum introducta est loco textus.
+|#4 Tertio modo potest intelligi in quantum aliqua sunt, quae non habent causam in genere subiecto alicuius
+scientiae: sicut in genere numeri, de quo est arithmetica, est devenire ad unitatem, cuius in hoc genere non est
+accipere aliud principium. Et hic sensus concordat exemplo quod Philosophus subiungit, dicens quod
+arithmeticus supponit quid est unitas et quia est. Et sicut illa quorum non est alia causa, ita etiam illa quae
+possunt habere medium, et quorum est altera causa, potest manifestari quod quid est: ita tamen quod non
+demonstretur ipsum quod quid est, sed magis medium demonstrationis ut quod quid est accipiatur.
+|#5
+Deinde cum dicit: definitio autem quoniam etc., ostenso qualiter se habeat quod quid est ad
+demonstrationem, ostendit quomodo se habeat definitio. Et circa hoc duo facit: primo, ostendit qualiter definitio
+se habeat ad demonstrationem; secundo, manifestat quod dixerat per exemplum; ibi: differt enim dicere propter
+quid etc..
+Circa primum tria facit: primo, proponit unum modum definitionis significantis quid est; secundo, proponit
+alium modum definitionis significantis propter quid; ibi: alia vero terminus etc.; tertio, ostendit qualiter utraque
+definitio se habeat ad demonstrationem; ibi: quare prima quidem etc..
+|#6 Circa primum, supponit primo quod definitio sit ratio significativa ipsius quod quid est.
+Si autem non posset haberi aliqua alia ratio rei quam definitio, impossibile esset quod sciremus aliquam rem
+esse, quin sciremus de ea quid est; quia impossibile est quod sciamus rem aliquam esse, nisi per aliquam illius
+rei rationem. De eo enim quod est nobis penitus ignotum, non possumus scire si est aut non. Invenitur autem
+aliqua alia ratio rei praeter definitionem: quae quidem vel est ratio expositiva significationis nominis, vel est
+ratio ipsius rei nominatae, altera tamen a definitione, quia non significat quid est, sicut definitio, sed forte
+aliquod accidens. Sicut forte invenitur aliqua ratio, quae exponit quid significat hoc nomen triangulus. Et per
+huiusmodi rationem habentes quia est, adhuc quaerimus propter quid est, ut sic accipiamus quod quid est. Sed
+sicut supra dictum est, hoc difficile est accipere in illis in quibus nescimus an sint. Et huius difficultatis causa
+
+91
+
+

@@ -1,0 +1,64 @@
+difformis, non videtur esse unus, sed magis motus regularis, idest
+uniformis; sicut motus qui est totus in directum, est uniformis.
+Ideo autem motus irregularis non videtur unus, quia est divisibilis in
+partes dissimiles; indivisibilitas autem pertinet ad rationem unius, quia
+unum est ens indivisum. Sed tamen motus irregularis est quodammodo unus.
+Sed unitas motus irregularis et regularis videtur differre secundum magis
+et minus: quia motus regularis est magis unus quam motus irregularis; sicut
+et corpus similium partium est magis unum quam corpus dissimilium.
+|#7
+Deinde cum dicit: est autem et in omni motu etc., ostendit in quibus
+motibus inveniatur regularitas et irregularitas.
+Et dicit quod in omni genere vel specie motus, invenitur regulare et non
+regulare: quia potest aliquid alterari regulariter, sicut quando tota
+alteratio est uniformis; et potest aliquid ferri, idest secundum locum
+moveri, in magnitudine regulari, idest uniformi, sicut si feratur aliquid
+per circulum aut per lineam rectam; et similiter est in augmento et
+decremento.
+|#8
+Deinde cum dicit: irregularitatis autem differentia etc., accedit ad
+determinandum de motu irregulari.
+Et primo assignat modos irregularitatis; secundo ostendit quomodo motus
+irregularis sit unus, quod supra dixerat, ibi: unus igitur etc..
+Circa primum duo facit: primo assignat duos modos irregularitatis in motu;
+secundo infert quasdam conclusiones ex dictis, ibi: unde neque species
+etc..
+Dicit ergo primo quod differentia quae facit irregularitatem motus,
+aliquando est ex parte rei in qua movetur, ut patet praecipue in motu
+locali: quia impossibile est quod motus sit regularis vel uniformis, qui
+non transit per magnitudinem regularem, idest uniformem.
+Dicitur autem magnitudo regularis vel uniformis, cuius quaelibet pars
+uniformiter sequitur ad aliam partem, et sic quaelibet pars potest supponi
+alteri parti, ut patet in linea circulari, et etiam in linea recta.
+Magnitudo autem irregularis est, cuius non quaelibet pars sequitur
+uniformiter ad aliam partem; sicut patet in duabus lineis facientibus
+angulum, quarum una applicatur alteri non in directum, sicut partes unius
+lineae sibi invicem in directum applicantur.
+Et ideo motus circularis est regularis, et similiter motus rectus: sed
+motus reflexi aut obliqui, quia faciunt angulum, non sunt regulares nec in
+magnitudine regulari; vel quicumque alius motus sit per quamcumque
+magnitudinem, cuius quaecumque pars non conveniat cuicumque parti per
+uniformitatem applicationis, vel cuius una pars non convenienter possit
+contingere aliam partem. Si enim illa pars quae continet angulum,
+supponatur illi parti quae angulum non continet, non erit conveniens
+contactus.
+|#9
+Secunda differentia irregularitatem faciens est, non ex parte loci,
+neque ex parte temporis, neque in quod quo, idest neque ex parte eius quod
+dicit quo, idest ex parte cuiuscumque rei in qua fit motus (non enim est
+solum motus in ubi, sed in qualitate et quantitate): vel potest hoc referri
+ad subiectum in quo est motus.
+Sed iste secundus modus irregularitatis accipitur in eo quod ut, idest ex
+diversitate modi motus. Determinatur enim iste secundus modus
+irregularitatis velocitate et tarditate: quia ille motus dicitur regularis,
+cuius est eadem velocitas per totum; irregularis autem, cuius una pars est
+velocior altera.
+|#10
+Deinde cum dicit: unde neque species motus etc., concludit duo
+corollaria ex praemissis.
+Quorum primum est, quod velocitas et tarditas non sunt species motus, neque
+differentiae specificae, quia consequuntur omnes species motus; quia
+velocitate et tarditate determinatur regularitas et irregularitas, quae
+195
+
+

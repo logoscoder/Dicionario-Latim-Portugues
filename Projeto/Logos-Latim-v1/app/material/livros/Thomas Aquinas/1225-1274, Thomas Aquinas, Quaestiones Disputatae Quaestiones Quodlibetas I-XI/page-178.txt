@@ -1,0 +1,62 @@
+|q1 Quaestio 1
+Prologus
+PR
+Quaesitum est primo de Christo capite, deinde de membris de Christo quaesitum est tripliciter:- primo quantum
+ad naturam divinam.
+Secundo quantum ad unionem humanae naturae ad divinam. Tertio quantum ad species sub quibus in sacramento
+altaris continetur.
+TTA
+Circa primum quaerebatur utrum Deus possit facere infinita esse actu.
+TTB
+Et videtur quod non.
+AG
+Deus enim potest facere aliquid maius omni eo quod facit: quia eius potentiam non adaequat opus, ut dicit Hugo
+de sancto victore.
+Sed infinito in actu non potest esse aliquid maius. Ergo non potest esse quod faciat infinitum in actu.
+SC
+Sed contra, Deus potest plus facere quam homo possit dicere vel cogitare, secundum illud Lucae I, 37: non erit
+impossibile apud Deum omne verbum. Sed homo potest dicere esse infinitum in actu, et etiam cogitare; cum
+quidam Philosophi hoc posuerint, ut patet in III physic.. Ergo Deus potest facere infinitum in actu.
+CO
+Respondeo. Dicendum, quod cum dicitur Deum non posse aliquid facere, hoc non est propter defectum divinae
+potentiae, sed propter incompossibilitatem quae importatur in facto. Quod quidem contingit dupliciter.
+Uno modo quia repugnat facto in quantum est factum; sicut dicimus Deum non posse facere aliquam creaturam
+quae se in esse conservet: quia ex hoc ipso quod res aliqua ponitur habere superiorem, ponitur etiam indigere
+conservatore; cum idem sit causa essendi rem, et conservans rem in esse.
+Alio modo quia repugnat huic facto in quantum est hoc factum, sicut si dicamus, Deum non posse facere equum
+rationalem esse. Esse enim rationale, quamvis non repugnet facto in quantum est factum, tamen hoc factum,
+scilicet esse rationale, repugnat omni equo in quantum est equus, in cuius definitione cadit irrationale.
+Quidam autem dicunt, quod Deus non potest facere esse infinitum in actu, quia esse infinitum repugnat facto in
+quantum est factum.
+Est enim contra rationem creaturae ut creatorem adaequet: quod oportet ponere, si esset aliqua creatura infinita:
+infinitum enim infinito maius non est.
+Sed illud non videtur rationabiliter dici.
+Nihil enim prohibet, illud quod est infinitum per unum modum, superari ab eo quod est infinitum pluribus
+modis; sicut si esset aliquod corpus infinitum secundum longitudinem, finitum vero latitudine, esset minus
+corpore longitudine et latitudine infinito. Dato autem quod Deus faceret aliquod corpus infinitum actu, corpus
+quidem hoc esset infinitum quantitate dimensiva, sed de necessitate haberet naturam speciei terminatam, et esset
+limitatum, ex hoc ipso quod esset res naturalis; unde non esset aequale Deo, cuius esse et essentia est modis
+omnibus infinita.
+Alii vero dixerunt, quod esse infinitum in actu secundum aliquem modum non repugnat facto in quantum
+factum, neque huic facto in quantum est hoc factum, quod est ens in actu; aliquo vero modo repugnat enti in actu
+esse infinitum. Et haec est opinio Algazelis.
+Distinguit enim duplex infinitum: scilicet infinitum per se, et infinitum per accidens.
+Cuius distinctionis intellectus hinc accipi potest; quod cum infinitum principaliter in quantitate inveniatur, ut
+dicitur in I physic.: si quantitas, in qua infinitum consistit, habeat talem multitudinem cuius unaquaeque pars ab
+altera dependeat, et certum ordinem habeat, ita quod unaquaeque pars illius multitudinis requiratur per se; tunc
+infinitum in tali quantitate consistens dicetur infinitum per se: sicut patet in hoc quod baculus movetur a manu,
+manus a lacertis et nervis, qui moventur ab anima: quod si in infinitum procedunt, ut scilicet anima ab alio
+moveatur, et sic deinceps, in infinitum, vel baculus aliquid aliud moveat, et sic deinceps, in infinitum, erit
+multitudo istorum moventium et motorum per se infinita.
+Si vero quantitas in qua consistit infinitum, resultet ex aliquibus pluribus, qui eumdem ordinem servent, et
+quorum numerus non requiritur nisi per accidens; tunc erit infinitum per accidens: sicut si aliquis faber cultellum
+faciat, ad cuius constitutionem multis martellis indigeat, ex hoc quod unus post alium frangitur, et unus succedit
+in locum alterius eiusdem ordinem tenens; si talis multitudo in infinitum excrescat, dicetur infinitum per
+accidens, et non per se: accidit enim fabrili operi martellorum infinita multitudo, cum per unum martellum, si
+duraret, aequaliter posset expleri sicut per infinitos.
+Dicunt ergo, quod infinitum per se repugnat ei quod est esse in actu, eo quod oportet in his quae per se ordinem
+habent, compleri postremum, nisi per comparationem quodammodo omnium priorum; et sic ad unum
+constituendum requiretur infinitorum ordinata influentia, si esset aliquid infinitum per se; et ita numquam posset
+178
+
+

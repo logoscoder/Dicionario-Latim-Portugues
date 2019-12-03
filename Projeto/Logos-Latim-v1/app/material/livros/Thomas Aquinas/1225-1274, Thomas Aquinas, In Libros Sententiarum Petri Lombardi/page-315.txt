@@ -1,0 +1,62 @@
+habet aliquid operari vel in omnibus mediis locis vel in aliquibus vel in nullo, secundum hoc potest pertransire
+omnia media vel quaedam vel nullum.
+RA1
+Ad primum ergo dicendum, quod objectio nulla est, si addatur quod Philosophusmet addit. Dicit enim, quod
+medium est in quod primo venit continue mutatum. Angeli autem motus non est continuus, ut dictum est, art. 1,
+hujus quaest..
+RA2
+Ad secundum dicendum, quod ante quodlibet mutatum, est moveri; sed tamen diversimode est in motu Angeli et
+in motu corporis. Quia in motu corporis mutatum esse non est pars moveri, sed terminus ejus; unde totum moveri
+praecedit mutatum esse; et ideo oportet praesupponere ante id in quod dicitur mutatum esse, aliquid in quo
+moveatur. Sed in motu Angeli qui non est continuus, mutatum esse est una pars motus, ultima scilicet; et prima
+pars est unde incipit moveri; et neutra pars est motus, sed successio utriusque.
+Unde moveri praecedit mutatum esse, sicut totum in discretis partem.
+RA3
+Ad tertium dicendum, quod ratio illa procederet in illis quae per essentiam suam sunt determinata ad ubi: quod
+non contingit in Angelo: unde motus ejus est secundum operationes tantum, quae sunt hic et ibi successive.
+RA4
+Ad quartum dicendum, quod dictum illud non est usquequaque sufficiens; quia per hoc quod Angelus intelligit
+hoc et illud, non dicitur esse hic et ibi; quia existens in uno loco, potest intelligere id quod est in alio loco. Sed
+accedit ad veritatem, inquantum successio operationum sequitur successionem quae est in intellectu.
+RA5
+Ad quintum dicendum, quod Angelus potest pertransire per omnia media; non tamen oportet quod numeret
+infinita puncta existentia in linea: quia locus in quo est Angelus, non semper est indivisibilis, sed quandoque
+divisibilis, ut dictum est, in corp. Art.: et cum nullum spatium finitum dividatur in infinita divisibilia actu
+accepta, constat quod omnia media pertransire potest.
+RA6
+Ad sextum dicendum, quod non est eadem ratio de omnibus mediis; quia media possunt accipi divisibilia, et
+haec finita sunt; vel indivisibilia quae infinita sunt, et pertransiri, si actu numerentur, non possunt. Et praeterea in
+uno mediorum locorum habet aliquid operari, et non in alio. Unde sequitur quod per aliquod medium transeat, et
+non per aliud.
+|a3 Articulus 3: Utrum Angelus moveatur in instanti.
+AG1
+Ad tertium sic proceditur. Videtur quod Angelus moveatur in instanti. Mutatio enim Angeli secundum locum, est
+simplicior qualibet mutatione corporali. Sed aliquae mutationes corporales sunt in instanti, ut in 6 physic.,
+Commentator dicit, sicut illuminatio, generatio, corruptio, et hujusmodi. Multo ergo fortius mutatio Angeli.
+AG2
+Praeterea, mutetur Angelus de a in b, sicut in quod primo mutatum est (dicitur autem illud primum mutatum esse
+quod est locus continuus loco in quo prius erat); et si mutatur in tempore, sit tempus in quo mutatur c. Si ergo
+istud tempus mensurat illum motum, oportet quod in ultimo nunc temporis sit in termino motus secundum quod
+est in b. Relinquitur ergo quod in toto tempore praecedente ultimum nunc aut est tantum in a, aut est partim in a
+et partim in b. Sed non partim in utroque, quia indivisibilis est. Ergo in tempore illo erit totus in a. Sed cum
+omne tempus sit divisibile, in quolibet tempore est accipere prius et posterius. Ergo in priori et posteriori parte
+illius temporis Angelus erit in a: ergo quiescit in a: quia potest de eo dici, quod in a est nunc et prius; quod est
+quiescere. Motus ergo Angeli pars erit quies ejus; quod est inconveniens.
+Et, quod plus est, sequitur quod tempus illud in quo positus est in moveri non mensurat motum ejus, sed
+quietem. Ergo videtur quod nullo modo in tempore moveatur.
+AG3
+Praeterea, si movetur in tempore, moveatur, ut dictum est, art. Praec., de a in b, in tempore c. Ponatur ergo quod
+per idem spatium moveatur quoddam corpus, scilicet f, quod movebitur in majori tempore, scilicet d: quia
+Angelus est majoris virtutis quam corpus, et secundum quod additur ad virtutem moventis sic oportet quod
+diminuatur de tempore motus: quia major virtus in minori tempore movet, ut in 6 physic.
+Dicitur. Sed cum omne tempus finitum proportionem habeat ad quodlibet tempus finitum, accipiatur proportio
+duorum temporum, scilicet temporis c, in quo movetur Angelus, et temporis d, in quo movetur corpus, sicut
+proportio tripli ad subtriplum; quia non differt, quaecumque sit. Accipiatur etiam aliud corpus quod excedat
+ipsum, scilicet secundum virtutem in tripla proportione, et sit g. Inde sic. Secundum excessum virtutis moventis
+est diminutio in tempore motus. Sed g excedit d in tripla proportione. Ergo et tempus in quo movetur g per idem
+spatium, erit minus quam d in tripla proportione. Sed hoc est tempus c, in quo movebatur Angelus. Ergo in
+eodem tempore et aequali movebitur virtus corporalis et virtus Angeli, etiam si ponatur Angelus moveri velociter
+quantumcumque potest. Et similis ratio potest accipi ex parte mobilium, secundum quorum etiam proportionem
+315
+
+

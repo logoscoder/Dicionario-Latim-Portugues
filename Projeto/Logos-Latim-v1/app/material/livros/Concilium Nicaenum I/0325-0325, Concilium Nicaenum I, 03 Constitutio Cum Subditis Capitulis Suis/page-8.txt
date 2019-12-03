@@ -1,0 +1,63 @@
+158 examine V1341
+159 presbiteri korr. aus prebiteri W411
+160 examinati korr. aus exminati O93
+161 confessi non korr aus confessi O93
+162 non fehlt V630; W411; V1341
+163 recepit W411
+164 inrepraehensibile korr. aus inpraehensibile O93
+165 Rubrik fehlt V630
+166 X fehlt E97
+167 lapsis] his qui lapsi sunt et W411
+168 sunt ordinati] ordinati sunt W411
+169 vel] vel per E97
+170 contemptu W411
+171 hoc non korr. aus hoc V630
+172 regulae ecclesiasticae] regula ecclesiastica V630: W411; V1341; E97
+173 Rubrik fehlt V630
+174 XI fehlt E97
+175 sancto W411
+176 sunt W411
+177 misericordia W411
+178 circa korr. aus ca E97
+179 quis W411
+180 sunt] sunt et W411
+181 sunt V1341
+182 sine oblatione] ex communionem W411
+183 militae V1341
+184 ut E97
+185 sursum V630
+186 anni W411
+187 sint korr. aus sunt V630; sunt V1341; W411
+188 quod W411
+189 fructu O93
+190 perseverantes E97
+191 locis, interlinear vel solis V630; locis V1341
+192 demonstrant korr. aus demonstant V630
+193 iis E97
+194 coeperunt V630
+195 Licet W411
+196 introerint V1341
+197 Rubrik fehlt V630
+198 XII fehlt E97
+199 iis E97
+200 opere V1341
+201 quis fehlt W411
+202 fraudetur E97
+203 disperatus O93; V1341
+204 aliquis recepta communione supervixerit] aliqui recepta communione supervixerint W411
+205 iis E97
+206 a fehlt W411
+207 tradenda W411
+208 communione W411
+209 et fehlt W411
+210 Rubrik fehlt V630
+211 XIII fehlt E97
+212 hoc V630; W411; V1341; E97
+213 sancto] sanct• synodo E97
+214 Rubrik fehlt V630
+215 CORPUS CHRISTI TRADANT PRESBYTERIS] PRESBITERIS CORPUS CHRISTI TRADANT W411
+216 VEL] vel ne E97
+217 XIIII fehlt E97
+8
+
+

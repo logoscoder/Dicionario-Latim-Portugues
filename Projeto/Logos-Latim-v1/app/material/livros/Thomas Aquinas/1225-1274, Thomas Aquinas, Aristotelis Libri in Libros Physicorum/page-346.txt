@@ -1,0 +1,64 @@
+Vel forte in minori tempore movebitur totum quam pars: quia potentia unita
+maior est quam potentia divisa, et quanto maior est potentia moventis,
+velocior est motus, et tempus minus. Oportet ergo quod hoc intelligatur
+secundum quod accipitur tempus motus secundum partes mobilis: quia una pars
+mobilis in minori tempore pertransit aliquod signum, quam totum mobile. Et
+secundum hoc est impossibile quod tempore infinito moveatur, nisi sit
+mobile infinitum. Impossibile est autem quod mobile infinitum moveatur a
+motore finito: quia semper virtus motoris est maior quam virtus mobilis.
+Unde necesse est quod mobile infinitum moveatur a motore infinito. Et sic,
+sicut impossibile sequitur ex hoc quod ponitur quod motor finitus moveat
+mobile finitum, motu qui sit infinitus secundum partes mobilis; ita, remoto
+hoc inconvenienti, oportet ulterius hoc concludere, quod motus infinitus
+sit mobilis infiniti a motore infinito.
+|#5
+Sed contra hoc potest aliquis obiicere, quod Aristoteles supra non
+probavit motum esse infinitum secundum partes mobilis, sicut motus corporis
+infiniti dicitur infinitus: quia totum universum corporeum finitum est, ut
+probatum est in tertio huius, et probabitur in I de caelo. Unde non videtur
+esse demonstratio Aristotelis sic verificata ad propositum concludendum, ut
+scilicet primus motor qui movet motum infinitum, sit infinitus.
+Sed dicendum quod id quod est prima causa motus infiniti, oportet quod sit
+per se causa infinitatis motus: quia semper causa quae est per se, est
+prior ea quae est per aliud, ut supra dictum est. Virtus autem causae per
+se determinatur ad effectum per se, et non ad effectum per accidens: sic
+enim supra in secundo docuit Aristoteles comparare causas effectibus. Cum
+autem contingat motum esse infinitum dupliciter, sicut dictum est, scilicet
+secundum partes mobilis, et secundum partes longitudinis supra quam transit
+motus; per se infinitum est in motu ex partibus mobilis, per accidens autem
+secundum partes longitudinis: quia quantitas motus quae attenditur secundum
+partes mobilis, competit ei secundum proprium subiectum, et ita inest ei
+per se, quantitas autem motus quae accipitur secundum partes longitudinis,
+accipitur secundum reiterationem motus ipsius mobilis, prout scilicet
+mobile totum, quod complevit motum suum super unam partem longitudinis,
+iterato pertransit aliam. Illud ergo quod est prima causa infinitatis
+motus, habet virtutem super infinitatem motus quae est per se, ut scilicet
+possit movere mobile infinitum si contingat: et ideo necesse est quod sit
+infinitum. Et quamvis primum mobile sit finitum, tamen habet quandam
+similitudinem cum infinito, ut dictum est in tertio.
+Ad hoc autem quod aliquid sit causa motus infiniti per reiterationem motus
+(quod est per accidens), non oportet quod habeat virtutem infinitam, sed
+sufficit si habet virtutem immobilem finitam: quia semper manente eadem
+virtute, poterit reiterare eundem effectum; sicut sol habet virtutem
+finitam, et tamen posset movere inferiora elementa tempore infinito, si
+motus esset sempiternus, secundum positionem Aristotelis. Non enim est
+prima causa infinitatis motus, sed quasi ab alio mota ad movendum tempore
+infinito, secundum positionem praedictam.
+|#6
+Deinde cum dicit: quod autem omnino in finita etc., ostendit quod
+necesse est virtutem quae est in magnitudine, proportionari magnitudini in
+qua est.
+Et primo ostendit quod in magnitudine finita non potest esse potentia
+infinita, quod principalius intendit; secundo quod nec in magnitudine
+infinita potest esse potentia finita, ibi: nullum igitur finitum etc..
+Quod autem in magnitudine finita non contingat esse potentiam infinitam,
+probat, duas suppositiones praemittendo.
+Quarum prima est, quod maior potentia aequalem effectum perficit in minore
+tempore quam minor: sicut maior potentia calefactiva ad aequalem
+caliditatem perducit id in quo agit, in minori tempore; et simile est de
+potentia dulcorantis vel proiicientis, vel cuiuscumque moventis.
+Et ex hac suppositione concludit, quod cum potentia infinita sit maior quam
+potentia finita, necesse est quod si sit aliqua magnitudo finita habens
+346
+
+

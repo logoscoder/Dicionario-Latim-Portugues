@@ -1,0 +1,62 @@
+In nocte non lucet
+fieri potest ut utraeque uerae sint. Nam in nocte lucerna lucere potest, et sol lucere non potest: hoc ideo euenit
+quia lucere aequiuoce et ad lucernae lumen [803D] et ad solis dicitur.
+Amplius si aliud est aliud in subiectis et praedicatis tempus fuerit, uerum falsumque inter se affirmatio
+negatioque non diuidunt. Nam si quis dicat:
+Socrates ambulat
+et respondeatur:
+Socrates non ambulat
+possunt utraeque uerae esse, potest enim fieri ut Socrates alio tempore ambulet, alio tempore non ambulet; sed
+aut stet aut sedeat, aut quodlibet aliud: in talibus ergo propositionibus quales sunt:
+Socrate ambulat
+Socrates non ambulat
+illae inter se uerum falsumque diuidunt quae ad idem subiectum, ad idem praedicatum, ad idem tempus
+dicuntur.
+Sunt etiam aliae quae contradictoriae uocantur, quae sunt huiusmodi, quoties affirmationem uniuersalem tollit
+negatio particularis: [804A]
+Omnis homo iustus est
+Non omnis homo iustus est
+et rursus:
+Nullus homo iustus est
+et:
+Quidam homo iustus est
+in his enim uniuersalis determinatio tollitur. Sed de his alias.
+Et quoniam dictum est de his quae eodem ordine participant, dicamus nunc de his quae ordinis commutatione
+participant. Harum quoque propositionum quae ad comnmutationem ordinis participant duplex modus est. Est enim per
+contrapositionem conuersio, ut si dicas:
+Omnis homo animal est
+Omne non animal non homo est
+simplex conuersio est, ut si dicas:
+Omnis homo <est> risibile
+et conuertas:
+Omne risibile <est> homo
+sed in illis terminorum tantum commutatio conuersionem facit, in quibus neque praedictum subiecto, neque
+subiectum praedicato abundat. In hac enim propositione quae [804B] dicit:
+Omnis homo <est> risibile
+homo subiectum, risibile praedicatum, aequam uim habet, et ideo conuerti potest ut si risibile subiectum et
+homo praedicatum, et dicatur omne risibile homo. In quibus uero unus terminus alio abundauerit, conuerti propositio
+non potest. Nam si dicas:
+Omnis homo animal est
+uera est; non tamen potest ueri ut conuersa haec propositio terminis commutatis uera sit: falsum est enim
+dicere:
+Omne animal homo est.
+Sed hoc cur euenit? Quia homine animal abundat.
+Illa uero conuersio, quae per contrapositionem fit hoc modo fit quoties in affirmatiua subiectum fuerit, idem
+mutatum et factum praedicatum ad negatiuam particulam ponitur, ut est:
+Omnis homo animal est.
+Hic homo subiectum est et ad hoc animal praedicatur. Si uero quis [804C] per contrapositionem conuertat, et
+faciat animal subiectum hominem praedicatum, et ad hominem particulam negatiuam ponat, hoc modo faciet:
+Omne non animal non homo est
+et erit ista conuersio:
+Omnis homo animal est
+Omne non animal non homo est.
+Sed de his posterius tractabimus.
+Nunc ad simplices reuertamur. Cum sint igitur quatuor propositiones quarum quae uniuersales sunt, id est
+affirmatiua et negatiua, duae uero particulares, id est affirmatiua et negatiua, particularis affirmatiua, et uniuersalis
+negatiua commutatis terminis sibi ipsa conuertitur. Conuertuntur autem illae (ut dictum est) quoties, commutatis
+terminis, uel simul uerae sunt, uel simul falsae. Nam si quis dicat:
+Quidam homo animal est
+uera est. Conuersio uero eius:
+Quoddam [804D] animal homo est
+
+

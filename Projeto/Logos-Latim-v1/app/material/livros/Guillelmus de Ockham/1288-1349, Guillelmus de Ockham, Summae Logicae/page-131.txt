@@ -1,0 +1,55 @@
+Prima suppositio confusa et distributiua uocatur suppositio confusa et distributiua mobilis, secunda
+uocatur confusa et distributiua immobilis.
+[1.71. AD VIDENDUM QUANDO TERMINUS COMMUNIS
+HABET UNAM SUPPOSITIONEM ET QUANDO ALIAM]
+HABET UNAM SUPPOSITIONEM ET QUANDO ALIAM]
+Istis uisis uidendum est quando terminus communis habet unam suppositionem personalem et quando
+aliam. Et primo uidendum est de nominibus, secundo de pronominibus relatiuis, quia diuerae regulae dantur de
+istis et de illis.
+Istis uisis uidendum est quando terminus communis habet unam suppositionem personalem et quando
+aliam. Et primo uidendum est de nominibus, secundo de pronominibus relatiuis, quia diuerae regulae dantur de
+istis et de illis.
+Est ergo primo sciendum quod quando in categorica nullum signum uniuersale distribuens totum
+extremum propositionis additur termino, nec mediate nec immediate, hoc est nec a parte eiusdem extremi nec a
+parte extremi praecedentis, nec negatio praecedit nec aliqua dictio includens aequiualenter negationem uel
+signum uniuersale, semper talis terminus communis supponit determinate. Verbi gratia in ista 'homo est animal'
+nullum signum uniuersale additur, nec negatio nec talis dictio aequiualenter includens negationem uel
+signum uniuersale, ideo uterque terminus supponit determinate. Idem est dicendum de ista 'aliquis homo currit',
+quia signum particulare additum uel non additum non uariat suppositionem personalem, quamuis faciat
+frequenter terminum stare personaliter. Similiter in ista 'animal est omnis homo', quamuis ponatur signum
+uniuersale, non tamen praecedit hunc terminum 'animal', ideo li animal supponit determinate. Similiter hic
+'animal non est homo', quamuis ponatur negatio, quia tamen non praecedit istum terminum 'animal', ideo
+'animal' stat determinate.
+'animal' stat determinate.
+Sed in ista 'omnis homo est animal', 'homo' non habet suppositionem determinatam, quia distribuitur
+signo uniuersali, nec 'animal' habet suppositionem determinatam, quia sequitur mediate signum uniuersale. Sed
+hic 'uidens omnem hominem est animal', quia hoc signum 'omnem' non distribuit totum subiectum, ideo non facit
+praedicatum stare nisi determinate. Unde bene sequitur 'uidens omnem hominem est animal, igitur uidens
+omnem hominem est hoc animal, uel uidens omnem hominem est illud animal uel illud', et sic de singulis. Sed in
+ista 'omnem hominem uidens est animal', quia signum distribuit hoc totum 'hominem uidens', ideo praedicatum
+non stat determinate. Et consimiliter est de ista 'cuiuslibet hominis asinus currit', nam hic praedicatum supponit
+confuse tantum; in ista autem 'asinus cuiuslibet hominis currit' praedicatum stat determinate. Similiter in ista
+'homo non est animal', quamuis 'homo' stet uel supponat determinate, tamen 'animal', quia negatio determinans
+uerbum praecedit, ideo non stat deteminate. similiter in ista 'Sortes differt ab homine', praedicatum supponit non
+determinate, quia hoc uerbum 'differt'
+includit negationem aequiualenter.
+includit negationem aequiualenter.
+[1.72. DE DUBIIS QUAE MOVERI POSSUNT CONTRA PRAEDICTA]
+[1.72. DE DUBIIS QUAE MOVERI POSSUNT CONTRA PRAEDICTA]
+Circa praedicta potest dubitari. Primo, quabter supponit 'homo' in ista
+'Sortes fuit homo'; ponatur quod Sortes non sit. similiter, qualiter supponunt termini in illis de praeterito
+et in illis de futuro et de possibili et in aliis propositionibus de modo.
+'Sortes fuit homo'; ponatur quod Sortes non sit. similiter, qualiter supponunt termini in illis de praeterito
+et in illis de futuro et de possibili et in aliis propositionibus de modo.
+Et est ratio dubitationis, quia dictum est prius quod termilius numquam supponit pro aliquo nisi de quo
+uerificatur; sed 'homo', si Sortes non sit, non uerificatur de Sorte, quia tunc est haec falsa 'Sortes est homo'; igitur
+non supponit pro Sorte, et per consequens non supponit determinate.
+Et est ratio dubitationis, quia dictum est prius quod termilius numquam supponit pro aliquo nisi de quo
+uerificatur; sed 'homo', si Sortes non sit, non uerificatur de Sorte, quia tunc est haec falsa 'Sortes est homo'; igitur
+non supponit pro Sorte, et per consequens non supponit determinate.
+Secundo est dubium de istis 'homo albus est homo', 'cantans missam est homo', 'creans est Deus',
+supposito quod nullus sit albus et quod nullus cantet missam et quod Deus non creet. Pro quibus subiecta
+supponunt? Quia uidetur quod pro nulla re significata, quia de nulla tali uerificantur; nec pro se ipsis, quia tunc
+131
+
+

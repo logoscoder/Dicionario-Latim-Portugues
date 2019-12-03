@@ -1,0 +1,62 @@
+Limbo existentibus, ibi: de antiquis vero patribus... Non incongrue dici potest, quod fidem et spem virtutem
+habuerint.
+Hic quaeruntur duo. Primo de spe secundum quod est passio. Secundo de ipsa secundum quod est virtus.
+Circa primum quaeruntur quinque: 1 utrum spes sit passio; 2 in quo sit; 3 de differentia ejus ad alias passiones; 4
+utrum sit una de quatuor passionibus principalibus; 5 utrum possit esse in parte intellectiva.
+|a1 Articulus 1: Utrum spes sit passio.
+AG1
+Ad primum sic proceditur. Videtur quod spes non sit passio. Spes enim est expectatio. Sed expectatio dicit
+immobilitatem. Cum ergo omnis passio in motu consistat, videtur quod spes non sit passio.
+AG2
+Praeterea, opposita sunt in eodem genere.
+Sed Philosophus, 7 physicor., dividit spem contra memoriam, dividens actiones utriusque ad invicem. Cum ergo
+memoria non sit passio, nec spes passio erit.
+AG3
+Praeterea, expectare a spectando dicitur. Spectare autem est videre. Cum ergo videre non sit passio animalis,
+secundum quod proprie loquimur de passionibus animae; videtur quod spes, quae est expectatio, non sit passio.
+AG4
+Praeterea, passio animae in parte sensitiva est, ut dicit Philosophus in 7 physic..
+Sed spes, cum sit de futuro bono, non potest esse in parte sensitiva: quia sensus est praesentium tantum.
+Ergo spes non est passio.
+AG5
+Praeterea, nihil patitur nisi ex praesentia agentis. Sed spes non est de praesentibus, sed de futuris. Ergo non est
+passio.
+SC1
+Sed contra, spes contra timorem dividitur. Sed timor est passio. Ergo et spes.
+SC2
+Praeterea, spes ad appetitivam potentiam pertinet: quia habet bonum pro objecto. Sed motus appetitivae partis
+dicitur passio animae: quia ad eum sequitur delectatio et tristitia, quod proprium est passionum, ut dicitur in 2
+ethic..
+Ergo ut prius.
+SC3
+Praeterea, praesens et praeteritum non diversificant genus. Sed gaudium, quod est de praesenti bono, est in
+genere passionis. Ergo et spes, quae est de bono futuro.
+CO
+Respondeo dicendum, quod, sicut prius, dist. 15, dictum est, quamvis omnis operatio potentiarum animae, quae
+per sua objecta in actum reducuntur, sicut intellectus possibilis, sensus, et appetitus, possint dici passiones,
+tamen proprie loquendo passio est in operationibus appetitus sensitivae partis, secundum quod Damascenus dicit
+in 2 libro, quod passio est motus appetitivae virtutis sensibilis, qui est ex imaginatione boni vel mali.
+Spes autem dicit extensionem appetitus in illud quod appetibile est. Invenitur autem non solum in hominibus, sed
+etiam in aliis animalibus: quod patet, quia inveniuntur animalia operari propter aliquod bonum futurum
+aestimatum possibile, sicut aves faciunt nidum propter filiorum educationem: nec propter finem aliquid facerent
+nisi in finem illum quasi eis possibilem tenderent: quia naturalis appetitus non est impossibilium. Similiter etiam
+patet quod unum animal aggreditur aliud non nisi ex spe victoriae. Patet ergo quod spes sit in appetitu sensitivae
+partis, quae nobis et brutis communis est; et ita sequitur quod sit passio.
+RA1
+Ad primum ergo dicendum, quod appetitivae partis duplex est motus: scilicet prosecutio et fuga.
+Objectum autem spei, quod est bonum difficile et arduum, ratione suae bonitatis natum est movere ad
+prosecutionem: sed ratione suae difficultatis natum est movere ad fugam. Hic tamen motus retardatur per spem:
+et ideo spes importat motum primum, in quo salvatur ratio passionis, tamen cum quiete privante secundum
+motum, qui est fuga.
+RA2
+Ad secundum dicendum, quod dividitur spes contra memoriam non quantum ad essentiam suam, sed quantum ad
+affectum, qui est communis memoriae et spei, scilicet delectatio; unde non sequitur quod in genere conveniant.
+RA3
+Ad tertium dicendum, quod frequenter nomina imponuntur rebus occultis, ex suis signis, sicut essentiales
+differentiae ex accidentibus nominantur.
+Signum autem alicujus quiescentis cum extensione appetitus in aliquid desideratum solet esse quod frequenter
+visum dirigit in illud, ut videat si ex aliqua parte ad ipsum accedat; et ideo dispositio praedicta quietis cum motu
+dicitur expectatio.
+1136
+
+

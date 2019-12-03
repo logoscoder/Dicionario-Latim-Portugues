@@ -1,0 +1,62 @@
+Ad secundum dicendum, quod esse est accidens, non quasi per accidens se habens, sed quasi actualitas cuiuslibet
+substantiae; unde ipse Deus, qui est sua actualitas, est suum esse.
+|a2 Articulus 2
+TTA
+Utrum in Angelo sit aliud suppositum et natura.
+TTB
+Circa secundum sic proceditur: videtur quod in Angelo idem sit suppositum et natura.
+AG1
+In his enim quae sunt composita ex materia et forma differt suppositum et natura: quia suppositum addit supra
+naturam speciei materiam individualem; quod non potest esse in Angelo, si Angelus non sit compositus ex
+materia et forma. Ergo in Angelo non differt suppositum et natura.
+AG2
+Sed dicebat, quod suppositum in Angelo differt a natura, in quantum suppositum intelligitur ut habens esse, non
+autem natura.
+Sed contra: sicut esse non ponitur in definitione naturae, ita non poneretur in definitione suppositi vel singularis,
+si suppositum vel singulare definiretur. Ergo suppositum per esse a natura non differt: nullo ergo modo differunt
+suppositum et natura.
+SC
+Sed contra, in omnibus creaturis natura constituit suppositum. Sed nihil constituit seipsum.
+Ergo in nulla creatura est idem suppositum et natura.
+CO
+Respondeo. Dicendum, quod ad huius quaestionis intelligentiam oportet considerare quid sit suppositum et quid
+natura.
+Natura autem quamvis multipliciter dicatur, tamen uno modo dicitur natura ipsa substantia rei, ut dicitur in V
+metaph., secundum quod substantia significat essentiam vel quidditatem rei, vel quid est. Illud ergo significatur
+nomine naturae, prout hic loquimur de natura, quod significat definitio: unde boetius dicit in libro de duabus
+naturis, quod natura est unumquodque informans specifica differentia: differentia enim specifica est completiva
+definitionis.
+Suppositum autem est singulare in genere substantiae, quod dicitur hypostasis vel substantia prima: et quia
+substantiae sensibiles compositae ex materia et forma sunt magis nobis notae, ideo in eis primo videamus
+quomodo se habet essentia vel natura ad suppositum.
+Dicunt autem quidam, quod forma partis est idem cum forma totius, quae dicitur essentia vel natura, secundum
+rem, sed differt sola ratione: nam forma partis dicitur in quantum facit materiam esse in actu; forma autem totius
+in quantum constituit speciem: sicut anima dicitur forma partis, in quantum facit corpus esse in actu; et similiter
+dicitur anima forma totius in quantum constituit speciem humanam, et sic dicitur humanitas. Et secundum hoc,
+in rebus compositis ex materia et forma, natura est pars suppositi: nam suppositum est individuum compositum
+ex materia et forma, ut dictum est.
+Sed praedicta positio non videtur esse vera, quia, ut dictum est, natura vel essentia dicitur id quod significat
+definitio. Definitio autem in rebus naturalibus non solum significat formam, sed etiam materiam, ut dicitur in
+Lib. VI metaphysic.. Nec potest dici quod materia ponatur in definitione rei naturalis sicut non existens de
+essentia eius: hoc enim est proprium accidentis ut definiatur per aliquod quod non est essentia eius, scilicet per
+subiectum; et ideo habet essentiam incomplete, ut dicitur in VI metaphys..
+Relinquitur ergo quod in rebus compositis ex materia et forma, essentia vel natura non sit sola forma, sed
+compositum ex materia et forma.
+Restat ergo considerandum, cum suppositum vel individuum naturale sit compositum ex materia et forma, utrum
+sit idem essentiae vel naturae. Et hanc quaestionem movet Philosophus in libro VII metaph.
+Ubi inquirit, utrum sit idem unumquodque, et quod quid est eius: et determinat, quod in his quae dicuntur per se,
+idem est res et quod quid est rei; in his autem quae dicuntur per accidens, non est idem. Homo enim nihil est
+aliud quam quod quid est hominis: nihil enim aliud significat homo quam animal gressibile bipes; sed res alba
+non est idem omnino ei quod quid est album, quod scilicet significatur nomine albi: nam album nihil significat
+nisi qualitatem, ut dicitur in praedicamentis: res autem alba est substantia habens qualitatem.
+Secundum hoc ergo, cuicumque potest aliquid accidere quod non sit de ratione suae naturae, in eo differt res et
+quod quid est, sive suppositum et natura.
+Nam in significatione naturae includitur solum id quod est de ratione speciei; suppositum autem non solum habet
+haec quae ad rationem speciei pertinent, sed etiam alia quae ei accidunt; et ideo suppositum signatur per totum,
+natura autem, sive quidditas, ut pars formalis.
+In solo autem Deo non invenitur aliquod accidens praeter eius essentiam, quia suum esse est sua essentia, ut
+dictum est; et ideo in Deo est omnino idem suppositum et natura.
+
+24
+
+

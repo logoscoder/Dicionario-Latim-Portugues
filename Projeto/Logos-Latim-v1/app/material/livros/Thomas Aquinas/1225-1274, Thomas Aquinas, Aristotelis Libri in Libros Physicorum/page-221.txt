@@ -1,0 +1,64 @@
+Inducit etiam solutionem themistii, dicentis quod etsi sit aliqua
+transmutatio in non tempore, tamen hoc latet; et Aristoteles utitur eo quod
+est manifestum, scilicet quod transmutatio sit in tempore.
+Sed hoc reprobat; quia eodem modo se habet de divisione mutationis et
+mutabilis; et adhuc videtur latentius divisibilitas mobilis quam
+mutationis. Unde demonstratio Aristotelis non esset efficax: quia posset
+aliquis dicere, quod licet ea quae mutantur mutationibus manifeste
+divisibilibus, sint divisibilia, sunt tamen aliqua mutabilia latentia, quae
+sunt indivisibilia.
+Ponit etiam solutionem Avempacis, dicentis quod hic non agitur de divisione
+mutabilis secundum quantitatem, sed de divisione mutabilis secundum quod
+subiectum dividitur per accidentia contraria, de quorum uno mutatur in
+alterum.
+|#13
+Et addit postea suam solutionem, quod illae mutationes quae dicuntur
+fieri in non tempore, sunt termini quorundam motuum divisibilium. Accidit
+ergo aliquid transmutari in non tempore, inquantum scilicet quilibet motus
+terminatur in instanti. Et quia illud quod est per accidens praetermittitur
+in demonstrationibus, ideo illo Aristoteles in hac demonstratione utitur,
+ac si omnis mutatio sit divisibilis et in tempore.
+|#14
+Sed si quis recte consideret, haec obiectio non est ad propositum.
+Non enim Aristoteles in sua demonstratione utitur quasi principio, quod
+omnis mutatio sit divisibilis; cum magis e converso ex divisione mobilis
+procedat ad divisionem mutationis, ut infra patebit. Et sicut ipse post
+dicit, divisibilitas per prius est in mobili quam in motu vel mutatione.
+Sed utitur principiis per se notis, quae necesse est concedere in quacumque
+mutatione: scilicet quod illud quod mutatur, quando est secundum totum et
+partes in termino a quo mutatur, nondum mutatur secundum illam mutationem;
+et quod quando est in termino ad quem, non mutatur sed mutatum est; et quod
+non potest esse nec in utroque totum, nec in neutro, sicut expositum est.
+Unde ex necessitate sequitur quod in qualibet mutatione, illud quod
+mutatur, dum mutatur, sit partim in uno termino et partim in alio.
+Sed hoc diversimode invenitur in diversis mutationibus. Nam in illis
+mutationibus, inter quarum extrema est aliquod medium, contingit quod id
+quod mutatur, dum mutatur, partim sit in uno extremo et partim in alio,
+secundum ipsa extrema. In illis vero inter quarum terminos non est aliquod
+medium, id quod mutatur non est secundum diversas partes suas in diversis
+extremis secundum ipsa extrema, sed secundum aliquid eis adiunctum. Sicut
+cum materia mutatur de privatione ad formam ignis, dum est in ipso mutari,
+est quidem sub privatione secundum seipsam; sed partim est sub forma ignis
+non secundum seipsam, sed secundum aliquid ei adiunctum, scilicet secundum
+dispositionem propriam ignis, quam partim recipit antequam formam ignis
+habeat. Unde infra probabit Aristoteles quod etiam generatio et corruptio
+sunt divisibiles: quia quod generatur, prius generabatur; et quod
+corrumpitur, prius corrumpebatur.
+Et forte hoc modo intellexit Alexander quod omnis transmutatio est
+divisibilis, scilicet vel secundum seipsam vel secundum motum ei adiunctum.
+Sic etiam intellexit themistius quod Aristoteles assumpsit id quod erat
+manifestum, et praetermisit id quod erat latens: quia nondum erat locus
+tractandi de divisibilitate vel indivisibilitate mutationum; sed hoc
+reservatur in posterum.
+In omnibus tamen vel divisibilibus vel indivisibilibus salvatur quod
+Aristoteles hic dicit: quia etiam quae dicuntur indivisibiles mutationes,
+sunt quodammodo divisibiles, non secundum propria sua extrema, sed per ea
+quae eis adiunguntur. Et hoc est quod Averroes dicere voluit, quod hoc est
+per accidens, aliquas mutationes esse in non tempore.
+|#15
+Est etiam hic alia dubitatio.
+Non enim videtur hoc verum in motu alterationis, quod id quod alteratur,
+partim sit in uno termino et partim in altero, dum alteratur.
+221
+
+

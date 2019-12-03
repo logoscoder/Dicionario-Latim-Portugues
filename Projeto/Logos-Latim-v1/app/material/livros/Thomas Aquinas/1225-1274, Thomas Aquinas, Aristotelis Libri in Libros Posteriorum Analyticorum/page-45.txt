@@ -1,0 +1,59 @@
+Puta si a demonstretur de b per c, et accipiamus in syllogismo falsitatis medium non c, sed d, ita tamen quod d
+etiam contineatur universaliter sub a et praedicetur universaliter de b, puta si accipiamus pro medio figuram
+contentam tribus lineis rectis; quia hic etiam necesse est minorem propositionem, scilicet db, manere sicut erat in
+syllogismo concludente verum, quamvis per proprium medium; maiorem autem propositionem necesse est
+transmutari in contrariam: et ideo semper minor erit vera, et maior semper erit falsa. Et quantum ad modum
+arguendi ista deceptio est similis ei, quae fit per proprium medium.
+|#4 Deinde cum dicit: si vero non per proprium etc., ostendit quomodo fit syllogismus falsitatis per medium
+extraneum, et dissimile proprio.
+Potest autem hoc medium hoc modo accipi, ut contineatur universaliter sub a, et de nullo b praedicetur.
+Et in hoc casu oportebit utrasque propositiones esse falsas, quia oportebit, ad hoc quod fiat syllogismus in prima
+figura, accipere propositiones e contrario, ut scilicet accipiamus maiorem negativam et dicamus, nullum d est a,
+et minorem affirmativam, et dicamus: omne b est d: et sic patet utrasque esse falsas. Et haec quidem terminorum
+habitudo inveniri non potest in convertibilibus, sicut in subiecto et passione, quae per aliquod medium de
+subiecto concluditur.
+Manifestum est enim quod non potest accipi aliquid, de quo passio universaliter praedicetur, quod a subiecto
+universaliter removeatur. Sed haec habitudo potest inveniri, quando propositio est mediata, ex hoc quod superius
+genus vel passio superioris generis praedicatur de ultima specie; puta si dicamus: omnis homo est vivus. Vivum
+enim potest concludi de homine per medium, quod est animal. Si ergo accipiamus aliquid, de quo vivum
+universaliter praedicetur, sicut est oliva, quae vere removetur ab homine universaliter, erit habitudo terminorum,
+quam quaerimus.
+Haec enim erit falsa: nulla oliva est viva; et minor erit similiter falsa: omnis homo est oliva; et similiter
+conclusio erit falsa: nullus homo est vivus, quod est contrarium propositioni verae mediatae.
+Contingit etiam maiorem esse veram et minorem esse falsam; puta si accipiamus pro medio aliquid, quod non
+contineatur sub a, puta lapidem.
+Tunc enim maior, quae est a.d, erit vera, scilicet, nullus lapis est vivens; quia lapis non continetur sub vivo: sed
+minor erit falsa, scilicet, omnis homo est lapis. Si enim esset haec vera, prima existente vera, sequeretur quod
+conclusio esset vera, cum tamen dictum sit quod sit falsa.
+Non autem potest esse e converso quod minor sit vera si sit medium extraneum, quia medium extraneum non
+poterit universaliter praedicari de b. Oportet autem semper minorem affirmativam accipere in prima figura.
+|#5 Deinde cum dicit: sed per mediam figuram etc., ostendit quomodo fit syllogismus ignorantiae negativus in
+secunda figura. Et dicit quod non potest contingere in secunda figura, quod utraque propositio sit falsa totaliter.
+Si enim debeat concludi haec falsa, nullum b est a, contraria verae; oportet quod a universaliter praedicetur de b.
+Unde non poterit aliquid inveniri, quod universaliter praedicetur de uno, et universaliter negetur de altero; sicut
+supra dictum est, cum agebatur de syllogismo ignorantiae in immediatis.
+Potest tamen altera tantum esse totaliter falsa, quaecunque sit illa. Et hoc manifestat primo in secundo modo
+secundae figurae, in quo maior est affirmativa et minor negativa. Sit ergo medium sic se habens ad extrema, ut
+universaliter de utroque praedicetur sicut vivum praedicatur universaliter et de homine et de animali. Si ergo
+accipiatur maior affirmativa, ut dicamus, omne animal est vivum; et accipiatur minor negativa, ut dicatur, nullus
+homo est vivus; maior erit vera et minor falsa, et conclusio falsa. Similiter etiam si accipiamus in primo modo
+secundae figurae maiorem negativam, ut dicamus, nullum animal est vivum; et minorem affirmativam, ut
+dicamus, omnis homo est vivus; erit maior falsa et minor vera, et conclusio falsa. Ex his dictis epilogando
+concludit dictum esse quando et per quae possit fieri deceptio, si syllogismus deceptivus sit privativus.
+|#6 Deinde cum dicit: si vero sit affirmativus etc., ostendit quomodo fiat affirmativus syllogismus deceptionis in
+propositionibus mediatis. Et primo, quando fit per proprium medium; secundo quando fit per medium simile
+proprio; ibi: similiter autem et si ex alia etc.; tertio, quando fit per medium extraneum; ibi: cum vero fit per non
+proprium etc..
+Dicit ergo primo quod si fiat syllogismus deceptionis affirmativus in propositionibus mediatis, si accipiatur
+proprium medium, ut supra expositum est, impossibile est quod utraque sit falsa.
+Quia cum talis syllogismus non possit fieri nisi in prima figura, utraque existente affirmativa, necesse est quod
+minor propositio maneat hoc modo, sicut erat in vero syllogismo. Unde oportebit maiorem propositionem esse
+mutatam, scilicet de negativa in affirmativam; unde oportebit quod sit falsa. Puta si velimus concludere quod
+omnis homo sit quantitas, quod est contrarium huic, nullus homo est quantitas, cuius proprium medium est
+substantia; accipiemus istam falsam, omnis substantia est quantitas, et hanc veram, omnis homo est substantia.
+|#7 Deinde cum dicit: similiter autem et si etc., ostendit quomodo fit syllogismus ignorantiae, quando accipitur
+medium non proprium, quod sit eiusdem ordinis, sed ex alia coordinatione.
+Puta si dicerem: omne agens est quantitas; omnis homo est agens; ergo omnis homo est quantitas.
+45
+
+

@@ -1,0 +1,63 @@
+[180] portis V630; B132; V1341; perstet W411; peste E97
+[181] habitares W411
+[182] sunt W411
+[183] reddidi W411; redditi E97
+[184] quia et] et quia V630; B132; V1341
+[185] et fehlt W411; E97
+[186] veritatis V630; W411; V1341; E97
+[187] tota W411
+[188] videantur W411
+[189] in terris secessura] interisse censura korr. aus in terris secessura V630; interiisse censura E97
+[190] secensura W411; secensuram V1341
+[191] atterritus B132; acteritur V1341
+[192] dum et lege] elogio W411
+[193] Unde licet eandem legem nostrae gloriae mansuetudo temperare disponat fehlt V1341
+[194] sentia B132
+[195] sententia hos] sententiabus W411
+[196] illos V1341
+[197] illam infamiae notam] illum W411
+[198] tituli V630; B132; V1341
+[199] dignitatis korr. aus dignitas B132
+[200] revestari W411
+[201] devotissime korr. aus devotissimi V630
+[202] optat E97
+[203] nunc vero misericordia praeeunte taliter haec disponite fehlt W411
+[204] ergo E97
+[205] quatinus E97
+[206] ministerium korr. aus misterium V630; misterium B132; V1341
+[207] crudelitatis V630; B132; V1341; credulitati E97
+[208] adhibeant W411
+[209] tam V630; E97
+[210] preceptione W411
+[211] terra B132
+[212] gelibilibus W411
+[213] competit E97
+[214] firmari E97
+[215] evidenturum W411
+[216] exsecranda W411
+[217] rectore B132
+[218] clarissimorum] clarissimorum vel B132
+[219] ispani• E97
+[220] promulgationes W411
+[221] sententias korr. aus sentias V630
+[222] illas V630; V1341
+[223] commissas W411; E97
+[224] inoffensibili korr. aus inoffensibilis B132; inoffensibiles E97
+[225] exerat] et erant W411
+[226] praesentialiter E97
+[227] adsistens W411
+[228] praespicua W411
+[229] oris vestri] ori vestro W411
+[230] conceperant W411
+[231] vos fehlt B132
+[232] huic] seu hic W411
+[233] dilegit W411
+[234] cunctisque W411
+[235] ut sine] quia si W411
+[236] fabore W411
+[237] subvertente V630; B132; V1341; subvertendi W411
+[238] studioque W411
+[239] vestris] vestris se E97
+14
+
+

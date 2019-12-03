@@ -1,0 +1,62 @@
+RA2
+Per hoc patet solutio ad secundum.
+RA3
+Ad tertium dicendum, quod illud quod est in aliquo non sequitur illud in quo est, nisi quando causatur ex
+principiis eius; unde lux quae causatur in aere ab extrinseco, scilicet sole, sequitur motum solis magis quam
+aerem. Similiter et veritas quae est in anima causata a rebus, non sequitur aestimationem animae, sed existentiam
+rerum: quoniam eo quod res est vel non est, dicitur oratio vera vel falsa similiter et intellectus.
+RA4
+Ad quartum dicendum, quod Augustinus loquitur de visione intellectus humani, a qua rei veritas non dependet.
+Sunt enim multae res quae nostro intellectu non cognoscuntur; nulla tamen res est quam intellectus divinus non
+cognoscat actu, et intellectus humanus in potentia; cum intellectus agens dicatur quo est omnia facere, intellectus
+possibilis quo est omnia fieri. Unde in definitione rei verae potest poni visio in actu intellectus divini, non autem
+intellectus humani nisi in potentia, sicut ex superioribus patet.
+|a3 Articulus 3
+TTA
+Tertio quaeritur utrum veritas sit tantum in intellectu componente et dividente.
+TTB
+Et videtur quod non.
+AG1
+Verum enim dicitur secundum comparationem entis ad intellectum. Sed prima comparatio qua intellectus
+comparatur ad res, est secundum quod format quidditates rerum, concipiendo definitiones earum. Ergo in ista
+operatione intellectus principalius et prius invenitur verum.
+AG2
+Praeterea, verum est adaequatio rerum et intellectus. Sed sicut intellectus componens et dividens potest
+adaequari rebus, ita intellectus intelligens quidditates rerum. Ergo veritas non est tantum in intellectu
+componente et dividente.
+SC1
+Sed contra. Est quod dicitur in VI metaph.: verum et falsum non sunt in rebus, sed in mente; in simplicibus
+autem, et quod quid est, nec in mente.
+SC2
+Praeterea, in III de anima, indivisibilium intelligentia in illis est in quibus non est verum et falsum.
+CO
+Responsio. Dicendum, quod sicut verum per prius invenitur in intellectu quam in rebus, ita etiam per prius
+invenitur in actu intellectus componentis et dividentis quam in actu intellectus quidditatem rerum formantis.
+Veri enim ratio consistit in adaequatione rei et intellectus; idem autem non adaequatur sibi ipsi, sed aequalitas
+diversorum est; unde ibi primo invenitur ratio veritatis in intellectu ubi primo intellectus incipit aliquid proprium
+habere quod res extra animam non habet, sed aliquid ei correspondens, inter quae adaequatio attendi potest.
+Intellectus autem formans quidditatem rerum, non habet nisi similitudinem rei existentis extra animam, sicut et
+sensus in quantum accipit speciem sensibilis; sed quando incipit iudicare de re apprehensa, tunc ipsum iudicium
+intellectus est quoddam proprium ei, quod non invenitur extra in re. Sed quando adaequatur ei quod est extra in
+re, dicitur iudicium verum; tunc autem iudicat intellectus de re apprehensa quando dicit aliquid esse vel non esse,
+quod est intellectus componentis et dividentis; unde dicit etiam Philosophus in VI metaph., quod compositio et
+divisio est in intellectu, et non in rebus. Et inde est quod veritas per prius invenitur in compositione et divisione
+intellectus. Secundario autem dicitur verum et per posterius in intellectu formante quiditates rerum vel
+definitiones; unde definitio dicitur vera vel falsa, ratione compositionis verae vel falsae, ut quando scilicet dicitur
+esse definitio eius cuius non est, sicut si definitio circuli assignetur triangulo; vel etiam quando partes
+definitionis non possunt componi ad invicem, ut si dicatur definitio alicuius rei animal insensibile, haec enim
+compositio quae implicatur, scilicet aliquod animal est insensibile, est falsa. Et sic definitio non dicitur vera vel
+falsa nisi per ordinem ad compositionem, sicut et res dicitur vera per ordinem ad intellectum.
+Patet ergo ex dictis quod verum per prius dicitur de compositione vel divisione intellectus; secundo dicitur de
+definitionibus rerum, secundum quod in eis implicatur compositio vera vel falsa; tertio de rebus secundum quod
+adaequantur intellectui divino, vel aptae natae sunt adaequari intellectui humano; quarto dicitur de homine,
+propter hoc quod electivus est verorum vel facit existimationem de se vel de aliis veram vel falsam per ea quae
+dicit vel facit.
+Voces autem eodem modo recipiunt veritatis praedicationem, sicut intellectus quos significant.
+RA1
+Ad primum ergo dicendum, quod quamvis formatio quidditatis sit prima operatio intellectus, tamen per eam non
+habet intellectus aliquid proprium quod possit rei adaequari; et ideo non est ibi proprie veritas.
+RA2
+6
+
+

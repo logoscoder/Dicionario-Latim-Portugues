@@ -1,0 +1,56 @@
+demonstrationes primas in postremis includi: ut si sit haec demonstratio prima: omne b est a: omne c est b: ergo
+omne c est a: hoc includetur in hac, omne c est a: omne d est c: ergo omne d est a. Et ulterius ista in alia, quae
+concludit, omne e est a: ut quasi videatur esse ad hanc ultimam conclusionem unus syllogismus ex pluribus
+syllogismis compositus plura media habens, ut dicatur sic, omne b est a: et omne c est b: et omne d est c: et
+omne e est d: ergo omne e est a. Prima igitur demonstratio, quae habebat unum medium et solum tres terminos,
+est simplex et non resolvitur in aliam demonstrationem, sed omnes aliae resolvuntur in ipsam. Et ideo syllogismi
+primi, qui fiunt ex terminis tribus per unum medium, elementa dicuntur.
+|#8 Deinde cum dicit et transferentes ostendit quomodo elementum dicatur transumptive; dicens, quod ex hac
+praemissa ratione et significatione elementi transtulerunt quidam hoc nomen elementum ad significandum
+aliquid, quod est unum, et parvum, et ad multa utile. Ex hoc enim quod elementum est indivisibile in diversas
+species, acceperunt quod sit unum. Ex eo vero quod est primum, quod sit simplex. Ex eo vero, quod ex elementis
+alia componuntur, acceperunt quod sit utile ad multa. Unde hanc rationem elementi constituerunt, ut elementum
+dicerent omne illud, quod est parvum in quantitate, et simplex, quasi ex aliis non compositum, et indivisibile in
+diversa.
+|#9 Hac autem ratione elementi constituta, per transumptionem contingebat eis ut duos modos elementorum
+adinvenirent; quorum primus est, ut ea quae sunt maxime universalia, dicerent elementa.
+Universale enim est unum secundum rationem, et est simplex, quia eius definitio non componitur ex diversis, et
+est in multis, et sic est ad multa utile, sive sit in omnibus, sicut unum et ens; sive in pluribus, sicut alia genera.
+Per eamdem vero rationem contingebat eis secundo, quod punctum et unitatem dicerent esse principia vel
+elementa, quia utrumque eorum est unum simplex et ad multa utile.
+|#10 Sed in hoc a vera ratione elementi defecerunt, quia universalia non sunt materia, ex quibus componuntur
+particularia, sed praedicant eorum substantiam.
+Similiter et punctus non est materia linearum; non enim linea ex punctis componitur.
+|#11 Hac autem transumptiva elementi ratione constituta, patet solutio cuiusdam quaestionis in tertio libro
+disputatae; scilicet quid sit magis elementum, utrum genus vel species, et utrum genus magis quam differentia.
+Patet enim consequi quod genera magis sunt elementa, quia genera magis sunt universalia et indivisibilia.
+Non enim est ratio eorum et definitio, quam oporteat componi ex genere et differentia; sed definitiones proprie
+dantur de speciebus. Et si aliquod genus definitur, non definitur inquantum est genus, sed inquantum est species;
+et ideo species dividitur in diversa, et propter hoc non habent rationem elementi. Genus autem non dividitur in
+diversa: et ideo dixerunt genera esse elementa magis quam species.
+Alia translatio habet una enim est eorum ratio idest indivisibilis, quia genera, etsi non habeant definitionem,
+tamen id quod significatur per nomen generis, est quaedam conceptio intellectus simplex, quae ratio dici potest.
+|#12 Et sicut genus est magis elementum quam species, quia est simplicius; ita etiam magis quam differentia,
+licet ipsa simplex sit, quia genus est universalius.
+Quod ex hoc patet: quia cuicumque inest differentia, inest genus, cum per se differentiae non transcendant genus:
+non tamen oportet quod ad omne id sequatur differentia cui convenit genus.
+|#13
+Ultimo autem dicit, quod omnibus praedictis modis elementi hoc est commune, esse primum in
+unoquoque, sicut dictum est.
+|+5 Lectio 5
+|#1 Hic distinguit hoc nomen natura: cuius quidem consideratio, licet non videatur ad primum Philosophum, sed
+magis ad naturalem pertinere, ideo tamen hic hoc nomen natura distinguitur, quia natura secundum sui quamdam
+acceptionem de omni substantia dicitur, ut patebit. Et per consequens cadit in consideratione Philosophi primi,
+sicut et substantia universalis.
+Circa hoc autem duo facit. Primo distinguit diversos modos, quibus natura dicitur.
+Secundo reducit omnes ad unum primum, ibi, ex dictis igitur.
+Circa primum duo facit. Primo ponit quinque modos principales. Secundo ponit duos alios adiunctos duobus
+ultimis, ibi, natura autem prima materia.
+Dicit ergo primo, quod natura dicitur uno modo generatio generatorum, vel ut alia litera habet melius,
+nascentium.
+Non enim omnia generata nascentia dici possunt; sed solum in viventibus, sicut in plantis, sive in animalibus, et
+in partibus eorum. Non autem generatio rerum non viventium potest dici natura proprie loquendo secundum
+
+127
+
+

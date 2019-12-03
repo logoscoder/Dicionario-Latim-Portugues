@@ -1,0 +1,62 @@
+species procreari mirabitur. Ex non conuersis autem superparticularibus sed ita ut ex multiplici procreati sunt,
+manentibus, necesse est multiplices superparticulares creari. Ex manentibus uero superpartientibus, ita ut ex
+superparticularibus prodierunt, non alii nisi multiplices superpartientes procreabuntur. Ac de his quidem hactenus,
+diligentius enim in Arithmeticae libris de hac comparatione est disputatum.
+VIII
+Regula quotlibet continuas proportiones superparticulares inueniendi.
+Saepe autem accidit ut tres, uel quatuor, uel quotlibet aequas superparticularium proportiones de musica
+disputator inquirat. Sed ne in casu atque inscitia facientes, error ullus difficultatis impediat, hac regula quotlibet aequas
+proportiones ex multiplicitate ducemus.
+Unusquisque multiplex ab unitate scilicet computatus, tot superparticulares habitudines praecedit, suae scilicet
+in contrariam partem denominationis, quotus ipse ab unitate discesserit. Hoc modo ut duplex sesquialteras antecedat,
+triplex sesquitertias, quadruplex sesquiquartas, ac deinceps in hunc modum. Sit igitur duplorum subiecta descriptio.
+1 2 4 8 16 32
+3 6 12 24 48
+9 18 36 72
+27 54 108
+81 162
+243
+In superiore igitur descriptione binarius primus multiplex, unum ad se ternarium habet, qui possit facere
+sesquialteram proportionem.
+Ternarius uero non habet talium qui eius possit esse sesquialter, quoniam medietate deficit. Rursus
+quaternarius secundus est duplex, hic duos sesquialteros antecedit senarium et nouenarium, qui medietate caret. Atque
+idcirco nullus ei habitudine sesquialtera comparatur, et in caeteris idem est. Tripli uero eodem modo sesquitertios
+creant; sit enim similis in triplo descriptio.
+[PLLXIII:1201; text: Latitudo. In latitudine et unoquoque ordine tripli. 1, 3, 9, 27, 81, 4, 12, 36, 108, 16, 48,
+144, 64, 192, 236, Superas ad proximos inferos sesquitertii. Quadruplares omnes et diagonii] [BOEDIM2 02GF]
+In superiore igitur descriptione sesquitertias proportiones ita natas uidemus, ut primus triplex unum
+sesquitertium antecedat, secundus duos, tertius tres, [1202] semperque pars tertia in ultimo numero naturali quodam
+fine claudatur. Quod si quadruplum statueris eodem modo, sesquiquartos inuenies, si quincuplum sesquiquintos. Ac
+deinceps singuli denominationis multiplicis tot superparticulares praecedunt, quoto loco ipsi a se unitate discesserint.
+Unam uero tantum quadrupli dispositionem ponemus, ut in ea sicut in caeteris lector diligens acumen mentis exerceat.
+[PLLXIII:1202; text: Latitudo, Quadrupli in latitudine. 1, 4, 16, 64,
+236, 5, 20, 80, 320, 25, 100, 400, 125, 500, 625, Sesquiquarti superni ad inferos proximos. Quincupli omnes
+diagonii] [BOEDIM2 03GF]
+Haec igitur speculatio ad hanc utilitatem uidetur inuenta, ut quotienscunsque 4 uel 5, uel quotlibet
+sesquialteros, uel sesquitertios, uel sesquioctauos, uel quotlibet alias proportiones quis inuestigare uoluerit, nullo errore
+labatur, utque non ei numero primo tales proportiones quaerat aptare, qui quanti sint propositi, tot praecedere, et post se
+habere non possit. Sed disponat potius multiplices, uideatque quantos superparticulares requirit, eumque multiplicem
+respiciat, qui eo loco ab unitate recesserit, ut est in superioribus descriptionibus, si tres sesquialteros fortasse quaesierit,
+non a quaternario ingrediatur inuestigationem. Hic enim, quoniam secundus est duplus, duos tantum praecedit,
+tertiumque ei aptare non poterit sed ut ab octonario medietates tentet apponere. Hic enim quoniam tertius est, tres quas
+quaerit sesquialteras proportiones efficiet, et in caeteris eodem modo. Est etiam alia augendi proportiones uia hoc
+modo: Radices proportionum dicuntur in eisdem comparationibus minimae proportionis. Disponatur enim numerus
+naturalis, unitate multiplicatus.
+234567
+Minimae igitur proportiones sunt, ut in sesqualtera 3 ad 2, in sesquitertia 4 ad 3, in sesquiquarta 5 ad 4, et
+deinceps in infinitum, et quaecumque se proportiones unitate praecesserint. Propositum igitur sit duas sesquialteras
+proportiones continua comparatione producere.
+Sumo radicem sesquialteram, eamque dispono, 2 et 3. Multiplico igitur binarium per binarium, fiunt 4. Item
+ternarius per binarium crescat, erunt 6. Rursus lernarium in semetipsum ducemns, fiunt 9, qui disponuntur hoc modo:
+23469
+Inuenimus igitur duas propositas sesquialteras proportiones 6 ad 4, et
+9 ad 6. Sit nunc propositum tres inuenire. Dispono eosdem numeros quos supra in exquirendis duabus
+sesquialteris habitudinibus proposueram, ipsasque sesquialteras proportiones [1203] Multiplico binario quaternarium,
+fiunt octo. Rursus senarium binario, fiunt 12. Rursus nouenarium binario, fiunt 18. Rursus nouenarium ternario, fiunt
+27.
+Disponantur igitur hoc modo:
+23
+466
+8 12 18 28
+
+

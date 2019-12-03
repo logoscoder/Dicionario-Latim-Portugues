@@ -1,0 +1,63 @@
+Praeterea, in scientia naturali determinatur de quibusdam quae non moventur, sicut est anima, ut probatur in I de
+anima, et terra, ut probatur in II caeli et mundi; et etiam omnes formae naturales non fiunt nec corrumpuntur, et
+eadem ratione non moventur nisi per accidens, ut probatur in VII metaphysicae. Ergo non omnia, de quibus est
+physica, sunt in motu.
+AG7
+Praeterea, omnis creatura est mutabilis, cum vera immutabilitas soli Deo conveniat, ut Augustinus dicit. Si ergo
+ad naturalem pertinet consideratio de his, quae in motu sunt, eius erit considerare de omnibus creaturis, quod
+apparet expresse esse falsum.
+SC1
+Sed contra, ad scientiam naturalem pertinet de rebus naturalibus determinare. Sed res naturales sunt, in quibus
+est principium motus.
+Ubicumque autem est motus, oportet et esse materiam, ut dicitur in IX metaphysicae. Ergo scientia naturalis est
+de his quae sunt in motu et materia.
+SC2
+Praeterea, de his, quae sunt in materia et motu, oportet esse aliquam scientiam speculativam, alias non esset
+perfecta traditio philosophiae quae est cognitio entis. Sed nulla alia speculativa scientia est de his, quia neque
+mathematica nec metaphysica. Ergo est de his naturalis.
+SC3
+Praeterea, hoc apparet ex hoc quod dicit Philosophus in VI metaphysicae et in II physicorum.
+CO1
+Responsio. Dicendum quod propter difficultatem huius quaestionis coactus est Plato ad ponendum ideas. Cum
+enim, ut dicit Philosophus in I metaphysicae, crederet omnia sensibilia semper esse in fluxu, secundum
+opinionem Cratyli et Heracliti, et ita existimaret de eis non posse esse scientiam, posuit quasdam substantias a
+sensibilibus separatas, de quibus essent scientiae et darentur diffinitiones.
+Sed hic defectus accidit ex eo quod non distinxit quod est per se ab eo quod est secundum accidens, nam
+secundum accidens falluntur plerumque etiam sapientes, ut dicitur in I elenchorum. Ut autem probatur in VII
+metaphysicae, cum in substantia sensibili inveniatur et ipsum integrum, id est compositum, et ratio, id est forma
+eius, per se quidem generatur et corrumpitur compositum, non autem ratio sive forma, sed solum per accidens.
+Non enim fit domum esse, ut ibidem dicitur, sed hanc domum. Unumquodque autem potest considerari sine
+omnibus his quae ei non per se comparantur. Et ideo formae et rationes rerum quamvis in motu exsistentium,
+prout in se considerantur, absque motu sunt. Et sic de eis sunt scientiae et diffinitiones, ut ibidem Philosophus
+dicit. Non autem scientiae sensibilium substantiarum fundantur super cognitione aliquarum substantiarum a
+sensibilibus separatarum, ut ibidem probatur.
+CO2
+Huiusmodi autem rationes, quas considerant scientiae quae sunt de rebus, considerantur absque motu. Sic oportet
+quod considerentur absque illis, secundum quae competit motus rebus mobilibus. Cum autem omnis motus
+tempore mensuretur et primus motus sit motus localis, quo remoto nullus alius motus inest, oportet quod
+secundum hoc aliquid sit mobile, quod est hic et nunc. Hoc autem consequitur rem ipsam mobilem, secundum
+quod est individuata per materiam exsistentem sub dimensionibus signatis. Unde oportet quod huiusmodi
+rationes, secundum quas de rebus mobilibus possunt esse scientiae, considerant absque materia signata et absque
+omnibus his quae consequuntur materiam signatam, non autem absque materia non signata, quia ex eius notione
+dependet notio formae quae determinat sibi materiam.
+Et ideo ratio hominis, quam significat diffinitio et secundum quam procedit scientia, consideratur sine his
+carnibus et sine his ossibus, non autem sine carnibus et ossibus absolute. Et quia singularia includunt in sui
+ratione materiam signatam, universalia vero materiam communem, ut dicitur in VII metaphysicae, ideo praedicta
+abstractio non dicitur formae a materia absolute, sed universalis a particulari.
+CO3
+Possunt ergo huiusmodi rationes sic abstractae considerari dupliciter.
+Uno modo secundum se, et sic considerantur sine motu et materia signata, et hoc non invenitur in eis nisi
+secundum esse quod habent in intellectu. Alio modo secundum quod comparantur ad res, quarum sunt rationes;
+quae quidem res sunt in materia et motu. Et sic sunt principia cognoscendi illa, quia omnis res cognoscitur per
+suam formam. Et ita per huiusmodi rationes immobiles et sine materia particulari consideratas habetur cognitio
+in scientia naturali de rebus mobilibus et materialibus extra animam exsistentibus.
+RA1
+Ad primum ergo dicendum quod materia non est individuationis principium nisi secundum quod est sub
+dimensionibus signatis exsistens.
+Et sic etiam scientia naturalis a materia abstrahit.
+RA2
+Ad secundum dicendum quod forma intelligibilis est quiditas rei.
+Obiectum enim intellectus est quid, ut dicitur in III de anima.
+44
+
+

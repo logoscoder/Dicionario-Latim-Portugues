@@ -1,0 +1,63 @@
+Praeterea, sicut se habet intellectus in habitu ad intelligibile in habitu, ita se habet intellectus in actu ad
+intelligibile in actu. Sed intellectus in habitu simul plura intelligibilia cognoscit in habitu. Ergo intellectus in actu
+simul plura intelligit in actu.
+AG4
+Praeterea, ad cognitionem intellectus sufficit species rei intelligibilis in intellectu existens.
+Sed species intelligibiles non se impediunt quin simul sint in intellectu, cum non sint contrariae, eo quod sunt a
+materia separatae.
+Ergo intellectus non impeditur quin possit simul plura intelligere.
+AG5
+Praeterea, capacitas intellectus est maior quam cuiuscumque corporis. Sed aliquod corpus est in quo simul
+possunt plures species etiam contrariorum fieri, sicut patet quod in uno puncto aeris, in quo se intersecant duae
+lineae directae a duobus visibilibus ad duos videntes, est species utriusque visibilis.
+Ergo multo fortius plures species actu possunt simul esse in intellectu; et ita intellectus potest simul plura
+intelligere.
+SC
+Sed contra, est quod dicit Philosophus in II topic.: contingit plura scire, intelligere vero unum solum.
+CO
+Respondeo. Dicendum, quod intellectus dupliciter aliquid intelligit, scilicet primo, et ex consequenti.
+Ex consequenti quidem contingit plura simul intelligere, in quantum habent ordinem ad unum intelligibile
+primum; et hoc contingit dupliciter.
+Uno modo ex unitate eius quo intelligitur: sicut quando plura intelligibilia per unam speciem intelliguntur; sicut
+intellectus divinus omnia simul videt per unam essentiam suam; et eodem modo intellectus creatus, videns
+essentiam divinam, potest simul omnia videre quae per essentiam divinam videt.
+Alio modo ex unitate eius quod intelligitur, scilicet quando plura intelliguntur ut unum: totum enim unum est
+primo intellectum, et illa plura sunt intellecta ex consequenti in illo; sicut cum intellectus intelligit lineam, simul
+intelligit partes lineae, ut dicitur in III de anima; et similiter cum intelligit propositionem intelligit simul
+subiectum et praedicatum; et cum intelligit similitudinem vel differentiam aliquorum, simul intelligit ea quorum
+est similitudo vel differentia.
+Sed quod intellectus simul intelligat plura intelligibilia, est primo et principaliter impossibile.
+Cuius ratio est, quia intellectus secundum actum est omnino, id est perfecte, res intellecta, ut dicitur in III de
+anima.
+Quod quidem intelligendum est, non quod essentia intellectus fiat res intellecta, vel species eius, sed quia
+complete informatur per speciem rei intellectae, dum eam actu intelligit. Unde intellectum simul plura actu
+intelligere primo, idem est ac si res una simul esset plura.
+In rebus enim materialibus videmus quod una res numero non potest esse simul plura in actu sed plura in
+potentia, vel secundum dispositionem potest esse unum et idem. Idem enim aer est simul potentia aqua et ignis;
+et possunt etiam simul dispositiones ad utrumque quantum ad aliquid inesse eidem; sicut si aer ex una parte
+calefieret et ex alia inspissaretur.
+Sed quod aer simul actu sit ignis et aqua, est impossibile; et similiter etiam quod aliquid sit simul actu lapis et
+ferrum, quae non videntur contraria, sed disparata.
+Intellectus autem ex ipsa ratione suae potentiae est simul potentia omnia intelligibilia, sicut et sensus omnia
+sensibilia. Potentia autem sensitiva per similitudines sensibilium reducitur in actum dupliciter.
+Uno modo incomplete per modum dispositionis, quando scilicet species sensibiles sunt in ea ut dispositiones,
+quod appellat Avicenna esse ut in thesauro.
+Alio modo perfecte, quando scilicet species sensibiles actu informant potentiam sensitivam, et hoc vocat
+Avicenna apprehensionem sensus, distinguens potentias sensitivas apprehendentes ab illis in quibus sunt formae
+sensibiles ut in thesauro.
+Et similiter in intellectu in habitu sunt similitudines intelligibilium ut dispositiones; sed quando sunt actu
+intellectae, sunt in eo ut formae perficientes, et tunc intellectus fit omnino res intellecta; et hoc contingit per
+intentionem, quae coniungit intellectum intelligibili, et sensum sensibili, ut dicit Augustinus.
+Unde patet quod sicut una res materialis non potest esse simul plura actu, ita unus intellectus non potest simul
+plura intelligere primo; et hoc est quod Algazel dicit, quod sicut unum corpus non potest simul figurari pluribus
+figuris, ita unus intellectus non potest simul plura intelligere.
+Nec potest dici quod intellectus informetur perfecte simul pluribus speciebus intelligibilibus, sicut unum corpus
+simul informatur figura et colore: quia figura et color non sunt formae unius generis, nec in eodem ordine
+accipiuntur, quia non ordinantur ad perficiendum in esse unius rationis; sed omnes formae intelligibiles, in
+quantum huiusmodi sunt unius generis, et in eodem ordine se habent ad intellectum, in quantum perficiunt
+intellectum in hoc, quod est esse intellectum in actu. Unde plures species intelligibiles se habent sicut figurae
+plures, vel plures colores, qui simul in actu in eodem esse non possunt secundum idem.
+RA1
+135
+
+

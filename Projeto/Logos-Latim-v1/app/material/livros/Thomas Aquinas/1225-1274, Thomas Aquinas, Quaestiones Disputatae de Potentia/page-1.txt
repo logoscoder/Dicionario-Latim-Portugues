@@ -1,0 +1,51 @@
+OPERA OMNIA
+SANCTI THOMAE AQUINATIS
+-----oOo----Textum electronicum praeparavit et indexavit
+Ricardo M. Rom n, S. R. E. Presbyterus
+Bonis Auris, MCMXCVIII
+
+|*Q._DISPUTATAE
+QUAESTIONES DISPUTATAE
+
+|*DE_POTENTIA
+|q1 Quaestio 1
+Prologus
+PR1
+Et primo quaeritur utrum in Deo sit potentia.
+PR2
+Secundo utrum potentia Dei sit infinita.
+PR3
+Tertio utrum ea quae sunt naturae impossibilia, Deo sint possibilia.
+PR4
+Quarto utrum iudicandum sit aliquid possibile vel impossibile, secundum causas inferiores vel superiores.
+PR5
+Quinto utrum Deus possit facere quae non facit, et dimittere quae facit.
+PR6
+Sexto utrum Deus possit facere quae alii faciunt, ut peccare, ambulare, etc..
+PR7
+Septimo utrum Deus dicatur omnipotens.
+|a1 Articulus 1
+TTA
+Et primo quaeritur utrum in Deo sit potentia.
+TTB
+Et videtur quod non.
+AG1
+Potentia enim est operationis principium.
+Sed operatio Dei, quae est eius essentia, non habet principium, quia neque est genita neque procedens. Ergo in
+Deo non est potentia.
+AG2
+Praeterea, omne perfectissimum est Deo attribuendum, secundum Anselmum.
+Ergo quod respicit aliquid se perfectius, non debet Deo attribui. Sed omnis potentia respicit se perfectius, scilicet
+passiva formam et activa operationem.
+Ergo potentia Deo attribui non potest.
+AG3
+Praeterea, potentia est principium transmutandi in aliud secundum quod est aliud: secundum Philosophum; sed
+principium relatio quaedam est; et est relatio Dei ad creaturas, prout significatur in potentia creandi vel movendi.
+Nulla autem talis relatio est in Deo secundum rem, sed solum secundum rationem. Ergo potentia non est in Deo
+secundum rem.
+AG4
+Praeterea, habitus est perfectior potentia, utpote operanti propinquior. Sed habitus non ponitur in Deo. Ergo nec
+potentia.
+1
+
+

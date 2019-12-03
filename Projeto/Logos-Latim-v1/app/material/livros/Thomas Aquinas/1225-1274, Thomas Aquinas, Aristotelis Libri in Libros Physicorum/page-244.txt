@@ -1,0 +1,64 @@
+spatii non dividitur in duo media, sed dividitur secundum proportionem
+excessus velocioris ad tardius in motu. Nam in primo tempore, quo movebatur
+solum tardius, accipitur maior magnitudo; in secundo autem tempore, in quo
+velocius pertransit praedictum spatium, cum sit minus, accipitur minor
+magnitudo pertransita a tardiori, et sic semper.
+Unde quia tempus et magnitudo semper dividuntur, videtur accidere ex hac
+ratione quod tardius nunquam iungatur a velociori.
+Sed hoc in idem tendit cum eo quod in prima ratione dicebatur de divisione
+magnitudinis in duo media: quia in utraque ratione videtur accidere quod
+mobile non possit adiungere usque ad terminum quendam, propter divisionem
+magnitudinis in infinitum, quocunque modo dividatur; scilicet vel in duo
+media, sicut prima ratio procedebat, vel secundum excessum velocioris ad
+tardius, sicut procedebat secunda ratio. Sed in hac secunda ratione
+apponitur, quod velocissimum non potest attingere ad tardius dum
+persequitur ipsum: quod dictum est cum quadam tragoedia, idest cum quadam
+magnificatione verborum ad admirationem movendam; sed non facit aliquid ad
+virtutem rationis.
+Unde patet quod necesse est esse eandem solutionem huius secundae rationis
+et primae.
+Sicut enim in prima ratione falsum concludebatur, quod scilicet mobile
+nunquam perveniret ad terminum magnitudinis, propter infinitam magnitudinis
+divisionem; ita falsum est quod vult secunda ratio concludere, quod tardius
+praecedens nunquam iungatur a velociori sequente; quod nihil est aliud quam
+mobile non pervenire ad aliquem terminum.
+Verum est enim quod quamdiu praecedit tardius, non coniungitur sibi
+velocius. Sed tamen quandoque coniungetur sibi, si hoc detur, quod mobile
+possit pertransire finitam magnitudinem in tempore finito. Pertransibit
+enim velocius persequens totam illam magnitudinem qua praecedebat ipsum
+tardius fugiens, et adhuc maiorem, in minori tempore quam tardius moveatur
+ultra per aliquam determinatam quantitatem: et ita non solum attinget
+ipsum, sed etiam ultra transibit. Hae igitur sunt duae rationes zenonis,
+sic solutae.
+|#7
+Tertiam rationem ponit ibi: tertia autem etc.. Et dicit quod tertia
+ratio zenonis erat illa quam supra posuit antequam inciperet rationes
+enumerare, scilicet quod sagitta, quando fertur, quiescit. Et sicut supra
+dictum est, hoc accidere videtur ex eo quod ipse supponit quod tempus
+componatur ex ipsis nunc. Nisi enim hoc concedatur, non poterit syllogizare
+ad propositum.
+|#8
+Quartam rationem ponit ibi: quarta autem etc..
+Circa quam tria facit: primo ponit rationem; secundo solutionem, ibi: est
+autem deceptio etc.; tertio manifestat per exempla, ibi: ut sint stantes
+aequales magnitudines etc..
+Dicit ergo primo quod quarta ratio zenonis procedebat ex aliquibus quae
+moventur in aliquo stadio, ita quod sint duae magnitudines aequales, quae
+moveantur iuxta aequalia, idest per aliquod spatium stadii aequale utrique
+in quantitate: et sit iste motus ex contrarietate, idest ita quod una
+magnitudinum aequalium moveatur per illud spatium stadii versus unam
+partem, et alia versus aliam partem: ita tamen quod una magnitudinum
+mobilium incipiat moveri a fine stadii ei aequalis, alia vero incipiat
+moveri a medietate stadii, sive spatii in stadio dato: et utraque moveatur
+aeque velociter. Hac positione facta, opinabatur zeno quod accideret quod
+tempus dimidium esset aequale duplo: quod cum sit impossibile, volebat ex
+hoc ulterius inferre quod impossibile est aliquid moveri.
+|#9
+Deinde cum dicit: est autem deceptio etc., ponit solutionem.
+Et dicit quod zeno in hoc decipiebatur, quod accipiebat ex una parte mobile
+moveri iuxta magnitudinem motam, et ex alia parte accipiebat quod moveretur
+iuxta magnitudinem quiescentem, aequalem magnitudini motae.
+
+244
+
+

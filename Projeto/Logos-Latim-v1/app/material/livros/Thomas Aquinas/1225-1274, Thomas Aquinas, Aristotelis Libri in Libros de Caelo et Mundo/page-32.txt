@@ -1,0 +1,58 @@
+|+14 Lectio 14
+|#1 Postquam Philosophus ostendit corpus sensibile non esse infinitum, ratione accepta ex parte motus localis,
+hic ostendit idem ratione accepta ex parte actionis et passionis, quae consequuntur omnem motum. Et circa hoc
+duo facit: primo ostendit propositum; secundo excludit quandam obviationem, ibi: sed tamen et quaecumque
+etc..
+|#2 Circa primum ponit talem rationem. Nullum corpus infinitum habet virtutem activam aut passivam aut
+utramque; sed omne corpus sensibile habet virtutem activam aut passivam aut utramque; ergo nullum corpus
+sensibile est infinitum.
+Circa hoc ergo duo facit: primo probat maiorem; secundo ponit minorem et conclusionem, ibi: si igitur omne
+corpus etc.. Circa primum duo facit: primo proponit quod intendit, et dicit manifestum esse ex his quae dicentur,
+quod non solum impossibile est infinitum moveri localiter, sed universaliter est impossibile infinitum pati
+aliquid, vel etiam agere aliquid in corpus finitum.
+Secundo ibi: sit enim infinitum etc., probat propositum. Et primo ostendit quod infinitum non patitur a finito;
+secundo ostendit quod finitum non patitur ab infinito, ibi: sed adhuc neque infinitum etc.; tertio ostendit quod
+infinitum non patitur ab infinito, ibi: neque infinitum utique etc..
+|#3 Dicit ergo primo quod, si corpus infinitum patitur a finito, sit corpus infinitum in quo est a, corpus autem
+finitum in quo est b: et quia omnis motus est in tempore, sit tempus g in quo b movit aut a motum est. Si ergo
+ponamus quod a quod est corpus infinitum, a b quod est corpus finitum, sit alteratum, puta calefactum, aut latum,
+idest motum secundum locum, aut aliquid aliud passum, puta infrigidatum aut humectatum aut quocumque modo
+motum, in tempore g: accipiamus unam partem b moventis, quae sit d (et nihil referret ad propositum si d esset
+quoddam aliud corpus minus quam b)p manifestum est autem quod minus corpus movet minus mobile in aequali
+tempore (hoc tamen supposito, quod in minori corpore sit minor virtus; quod oportet dicere si sit corpus similium
+partium; minor autem virtus in aequali tempore movet minus mobile)p sit ergo corpus e, quod alteratur aut
+qualitercumque movetur a d in tempore g; ita quod intelligamus corpus e esse partem totius infiniti quod est a.
+Sed quia tam d quam b est finitum, et quorumlibet duorum finitorum corporum est aliqua proportio ad invicem;
+secundum illam proportionem quam habet d ad b, accipiatur proportio corporis e ad quodcumque corpus maius
+finitum, puta quod sit f.
+Hac ergo positione facta, ponit quasdam suppositiones.
+Quarum prima est, quod alterans aequale in magnitudine et virtute, in aequali tempore alterabit aequale corpus.
+Secunda est, quod minus corpus alterans in aequali tempore alterabit minus; ita scilicet quod tantum erit corpus
+motum minus altero corpore moto, quantum erit analogum quodcumque maius ad minus, idest, quanta erit
+proportio excessus maioris corporis moventis ad minus.
+Ex praemissis igitur concludit quod infinitum a nullo finito potest moveri secundum quodcumque tempus. Quia
+aliquid minus quam infinitum movebitur in aequali tempore ab illo minori quam sit corpus movens infinitum;
+scilicet e, quod est minus quam a, movebitur a d, quod est minus quam b, secundum praemissa. Id autem quod
+est analogum ad e, idest quod in eadem proportione se habet ad e sicut b ad d, est quoddam finitum: non enim
+potest dici quod ipsum infinitum quod est a, se habeat ad e sicut b se habet ad d, quia infinitum ad finitum
+nullam proportionem habet. Supposito autem quod aliquod finitum se habeat ad e sicut b ad d, erit commutatim
+dicere quod sicut d se habet ad e, ita b se habet ad illud finitum. Sed d movet e in tempore g: ergo b movet
+finitum in tempore g.
+Sed in hoc tempore positum est quod movet totum infinitum quod est a: ergo finitum in eodem tempore movebit
+finitum et infinitum.
+|#4 Deinde cum dicit: sed adhuc neque infinitum etc., probat quod infinitum corpus non movet corpus finitum
+in aliquo tempore: et primo ostendit quod non movet in tempore finito; secundo quod non movet in tempore
+infinito, ibi: sed adhuc in infinito etc..
+Dicit ergo primo quod neque etiam corpus infinitum movebit corpus finitum in nullo tempore, scilicet
+determinato. Si enim detur contrarium, sit corpus infinitum in quo est a, corpus vero finitum quod ab eo movetur
+sit b vel bz, tempus autem in quo movetur sit g. D autem sit quaedam pars finita corporis infiniti quod est a: et
+quia minus in aequali tempore minus movet, consequens est quod corpus finitum quod est d, in g tempore
+moveat minus corpus eo quod est b; et sit id minus z, quod est pars eius. Quia igitur totum bz habet aliquam
+proportionem ad z, accipiatur quod sicut totum bz se habet ad z, ita e se habet ad d, quorum uterque est pars
+infiniti. Ergo commutatim quae est proportio d ad z, eadem est proportio e ad bz. Sed d movet z in g tempore:
+ergo e movebit bz in tempore g. Sed in hoc tempore, bz movebatur a corpore infinito quod est a: sequitur igitur
+quod infinitum et finitum alterent vel qualitercumque moveant in eodem tempore unum et idem mobile. Sed hoc
+est impossibile: supponebatur enim supra quod maius movens movet aequale mobile in minori tempore, quia
+32
+
+

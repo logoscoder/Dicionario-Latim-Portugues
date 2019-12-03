@@ -1,0 +1,55 @@
+Et est primo sciendum quod in isto capitulo accipiendum est semper contingens' pro contingenti ad
+utrumlibet, ut illa sola propositio dicatur contingens quae nec est necessaria nec impossibilis. Et quia talis
+propositio habet duas conuersiones, unam in terminis et aliam per oppositas qualitates, ideo primo dicendum est
+de prima conuersione, secundo de secunda.
+Est autem primo sciendum quod propositiones de contingenti, sumptae in sensu compositionis, et eis
+aequiualentes conuertuntur sicut suae de inesse, quando suae de inesse conuertuntur simpliciter. Et hoc quia talis
+conuersio tenet per hanc regulam 'si unum conuertibilium est contingens, reliquum est contingens'; quae semper
+est uera. Et ideo bene sequitur
+'hominem esse album est contingens, igitur album esse hominem est contingens'. Similiter bene sequitur
+'Deum creare est contingens, igitur creantem esse Deum est contingens'. Et ita particularis affirmatiua et
+uniuersalis negatiua de cantingenti, sumptae in sensu Compositionis, conuertuntur simpliciter. Similiter bene
+sequitur 'haec est contingens: nullus homo est albus; igitur haec est contingens: nullum album est hamo'. Et ita
+est de aliis.
+'hominem esse album est contingens, igitur album esse hominem est contingens'. Similiter bene sequitur
+'Deum creare est contingens, igitur creantem esse Deum est contingens'. Et ita particularis affirmatiua et
+uniuersalis negatiua de cantingenti, sumptae in sensu Compositionis, conuertuntur simpliciter. Similiter bene
+sequitur 'haec est contingens: nullus homo est albus; igitur haec est contingens: nullum album est hamo'. Et ita
+est de aliis.
+Sed quando illa de inesse non conuertitur simpliciter sed per accidens tantum, tunc illa de contingenti in
+sensu compositionis non conuertitur in terminis, quia talis conuersio non potest tenere nisi per hoc medium 'si
+antecedens est contingens, consequens est contingens'; quod est simpliciter falsum, cum ex contingenti sequatur
+necessarium. Et ideo non sequitur
+'omnem hominem esse album est contingens, ergo aliquod album esse hominem est contingens'; sicut
+non sequitur 'omnem substantiam exsistentem in actu esse Deum est contingens, igitur Deum esse substantiam
+exsistentem in actu est contingens', quia antecedens est uerum et consequens falsum. Haec enim est contingens
+'omnis substantia exsistens in actu est Deus', quia potest esse uera et falsa, et tamen haec est necessaria 'Deus est
+substantia exsistens in actu' 'omnem hominem esse album est contingens, ergo aliquod album esse hominem est contingens'; sicut
+non sequitur 'omnem substantiam exsistentem in actu esse Deum est contingens, igitur Deum esse substantiam
+exsistentem in actu est contingens', quia antecedens est uerum et consequens falsum. Haec enim est contingens
+'omnis substantia exsistens in actu est Deus', quia potest esse uera et falsa, et tamen haec est necessaria 'Deus est
+substantia exsistens in actu' Si autem illa de contingenti sumatur in sensu diuisionis uel alia aequiualens ei, tunc si illa propositio
+habeat pro subiecto terminum communem uel aliquid includens terminum communem, cuiusmodi sunt talia
+'hoc album', 'iste homo', 'iste asinus', uel etiam habeat pro subiecto aliquod participium uel aequiualens
+ei, illa propositio est distinguenda, eo quod subiectum potest supponere pro his quae sunt uel pro his quae
+contingunt. Si subiectum talis propositionis accipiatur primo modo, siue etiam subiectum sit nomen proprium uel
+pronomen demonstratiuum, sic non conuertitur in idem genus contingentis, sed conuertitur in illam de inesse et
+in illam de possibili, sumpto subiecto consequentis cum ista additione
+'quod contingit esse'.
+'quod contingit esse'.
+Primum patet, scilicet quod non conuertitur in idem genus contingentis, nam non sequitur 'contingit
+Deum esse creantem, igitur creantem contingit esse Deum'; nec etiam sequitur 'quod contingit esse creantem,
+contingit esse Deum', nam sua repugnans est uera, ista scilicet 'quod contingenter creat, necessario est Deus', et
+per consequens non est contingenter Deus.
+Primum patet, scilicet quod non conuertitur in idem genus contingentis, nam non sequitur 'contingit
+Deum esse creantem, igitur creantem contingit esse Deum'; nec etiam sequitur 'quod contingit esse creantem,
+contingit esse Deum', nam sua repugnans est uera, ista scilicet 'quod contingenter creat, necessario est Deus', et
+per consequens non est contingenter Deus.
+Secundum, scilicet quod conuertitur in illam de inesse, praedicto modo, patet: nam bene sequitur 'Deus
+contingenter est creans, igitur aliquid, quod contingenter est creans, est Deus'.
+Secundum, scilicet quod conuertitur in illam de inesse, praedicto modo, patet: nam bene sequitur 'Deus
+contingenter est creans, igitur aliquid, quod contingenter est creans, est Deus'.
+Ista conuersio potest probari: quia si haec sit uera 'Deus contingenter est creans', manifestum est quod
+utraque istarum est uera 'hoc' 199
+
+

@@ -1,0 +1,62 @@
+Liber octavus
+* 8.1.0. De interdictis.
+* 8.2.0. Quorum bonorum.
+* 8.3.0. Quod legatorum.
+* 8.4.0. Unde vi.
+* 8.5.0. Si per vim vel alio modo absentis perturbata sit possessio.
+* 8.6.0. Uti possidetis.
+* 8.7.0. De tabulis exhibendis.
+* 8.8.0. De liberis exhibendis seu de ducendis et de homine libero exhibendo.
+* 8.9.0. De precario et de Salviano interdicto.
+* 8.10.0. De aedificiis privatis.
+* 8.11.0. De operibus publicis.
+* 8.12.0. De ratiociniis operum publicorum et de patribus civitatum.
+* 8.13.0. De pignoribus.
+* 8.14.0. In quibus causis pignus tacite contrahitur.
+* 8.15.0. Si aliena res pignori data sit.
+* 8.16.0. Quae res pignori obligari possunt vel non et qualiter pignus contrahatur.
+* 8.17.0. Qui potiores in pignore habeantur.
+* 8.18.0. De his qui in priorum creditorum locum succedunt.
+* 8.19.0. Si antiquior creditor pignus vendiderit.
+* 8.20.0. Si communis res pignorata sit.
+* 8.21.0. De praetorio pignore et ut in actionibus etiam debitorum missio praetorii pignoris procedat.
+* 8.22.0. Si in in causa iudicati pignus captum sit.
+* 8.23.0. Si pignus pignori datum sit.
+* 8.24.0. De partu pignoris et omni causa.
+* 8.25.0. De remissione pignoris.
+* 8.26.0. Etiam ob chirographariam pecuniam pignus teneri.
+* 8.27.0. De distractione pignorum.
+* 8.28.0. Debitorem venditionem pignorum impedire non posse.
+* 8.29.0. Si vendito pignore agatur.
+* 8.30.0. De luitione pignoris.
+* 8.31.0. Si unus ex pluribus heredibus creditoris vel debitoris partem suam debiti solverit (..)
+* 8.32.0. Si pignoris conventionem numeratio secuta non sit.
+* 8.33.0. De iure dominii impetrando.
+* 8.34.0. De pactis pignorum et de commissoria lege in pignoribus rescindenda.
+* 8.35.0. De exceptionibus sive praescriptionibus.
+* 8.36.0. De litigiosis.
+* 8.37.0. De contrahenda et committenda stipulatione.
+* 8.38.0. De inutilibus stipulationibus.
+* 8.39.0. De duobus reis stipulandi et duobus reis promittendi.
+* 8.40.0. De fideiussoribus et mandatoribus.
+* 8.41.0. De novationibus et delegationibus.
+* 8.42.0. De solutionibus et liberationibus.
+* 8.43.0. De acceptilationibus.
+* 8.44.0. De evictionibus.
+* 8.45.0. Creditorem evictionem non debere.
+* 8.46.0. De patria potestate.
+* 8.47.0. De adoptionibus.
+* 8.48.0. De emancipationibus liberorum.
+* 8.49.0. De ingratis liberis.
+* 8.50.0. De postliminio et de redemptis ab hostibus.
+* 8.51.0. De infantibus expositis liberis et servis et de his qui sanguinolentos emptos (..)
+* 8.52.0. Quae sit longa consuetudo.
+* 8.53.0. De donationibus.
+* 8.54.0. De donationibus quae sub modo vel condicione vel ex certo tempore conficiuntur.
+* 8.55.0. De revocandis donationibus.
+* 8.56.0. De mortis causa donationibus.
+* 8.57.0. De infirmandis poenis caelibatus et orbitatis et decimariis sublatis.
+* 8.58.0. De iure liberorum.
+420
+
+

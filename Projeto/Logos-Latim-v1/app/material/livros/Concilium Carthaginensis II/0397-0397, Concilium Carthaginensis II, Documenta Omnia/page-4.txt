@@ -1,0 +1,32 @@
+2 CARTAGINIENSIS korr. aus CARTAGINENSIS E97
+3 SECUNDA W411
+4 CCCCXXVIII V630, W411; V1341; E97; CCCXXVIII B132
+5 CCCCXXXIII] CCCCXXVIII INCIPIUNT CAPITULA E97
+6 et fehlt W411
+7 credatur et praedicetur] predicetur et credatur W411
+8 susciperit W411
+9 si fehlt W411
+10 anathimatizetur W411
+11 presbyteri O93
+12 agendam W411; E97
+13 iudicare] iudicare episcopum E97
+14 iudicare sacerdotem] sacerdotem iudicare V1341
+15 sacerdote O93
+16 consultu V630; B132; E97
+17 Ut] Ut episcopus W411
+18 vel subscriptionem fehlt W411
+19 venerit in concilio] in concilio habito verit W411
+20 deponatur] deponatur EXPLICIUNT CAPITULa korr. aus deponatur EXPLICIUNT CAPITULO V630;
+deponatur EXPLICIUNT CAPITULA V1341; deponatur Expliciunt capitula PROLOGUS E97
+21 In B132 folgen folgende Kapitelüberschriften:
+XIIII Ut que in niceno concilio statuta sunt omnimodo conserventur
+XV De avaricia
+XVI Ut non liceat episcopum nisi a plurimis ordinari sed si necessitas fuerit vel a tribus ordinentur episcopis
+XVII Ut de tripoli unus episcopus in legationem veniat et ut presbyter ibidem a quinque audiatur.
+22 imperatori O93; B132; V1341
+23 interlinear quater E97
+24 TERTIO W411; theudosio B132
+25 THEODOSIO] THEODOSIO V O93; theodosio ter E97
+26 VIRIS CLARISSIMIS CONSULIBUS] VOC. CONS. W411
+
+

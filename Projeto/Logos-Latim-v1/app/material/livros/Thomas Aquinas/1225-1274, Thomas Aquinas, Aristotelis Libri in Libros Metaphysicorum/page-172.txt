@@ -1,0 +1,58 @@
+|#4
+Secundum ibi, sed et omnes ostendit differentiam aliarum scientiarum ad istam quantum ad
+considerationem principiorum et causarum; dicens, quod omnes istae scientiae particulares, de quibus nunc facta
+est mentio, sunt circa unum aliquod particulare genus entis, sicut circa numerum vel magnitudinem, aut aliquid
+huiusmodi.
+Et tractat unaquaeque circumscripte de suo genere subiecto, idest ita de isto genere, quod non de alio: sicut
+scientia quae tractat de numero, non tractat de magnitudine. Nulla enim earum determinat de ente simpliciter,
+idest de ente in communi, nec etiam de aliquo particulari ente inquantum est ens. Sicut arithmetica non
+determinat de numero inquantum est ens, sed inquantum est numerus. De quolibet enim ente inquantum est ens,
+proprium est metaphysici considerare.
+|#5 Et, quia eiusdem est considerare de ente inquantum est ens, et de eo quod quid est, idest de quidditate rei,
+quia unumquodque habet esse per suam quidditatem, ideo etiam aliae scientiae particulares nullam mentionem,
+idest determinationem faciunt de eo quod quid est, idest de quidditate rei, et de definitione, quae ipsam significat.
+Sed ex hoc, idest ex ipso quod quid est ad alia procedunt, utentes eo quasi demonstrato principio ad alia
+probanda.
+|#6 Ipsum autem quod quid est sui subiecti aliae scientiae faciunt esse manifestum per sensum; sicut scientia,
+quae est de animalibus, accipit quid est animal per id quod apparet sensui, idest per sensum et motum, quibus
+animal a non animali discernitur. Aliae vero scientiae accipiunt quod quid est sui subiecti, per suppositionem ab
+aliqua alia scientia, sicut geometria accipit quid est magnitudo a Philosopho primo. Et sic ex ipso quod quid est
+noto per sensum vel per suppositionem, demonstrant scientiae proprias passiones, quae secundum se insunt
+generi subiecto, circa quod sunt. Nam definitio est medium in demonstratione propter quid. Modus autem
+demonstrationis est diversus; quia quaedam demonstrant magis necessarie, sicut mathematicae scientiae,
+quaedam vero infirmius, idest non de necessitate; sicut scientiae naturales, in quibus multae demonstrationes
+sumuntur ex his quae non semper insunt, sed frequenter.
+|#7 Alia translatio habet loco suppositionis, conditionem. Et est idem sensus.
+Nam quod supponitur, quasi ex conditione accipitur: et quia principium demonstrationis est definitio, palam est
+ex tali inductione, quod demonstratio non est de substantia rei, idest de essentia eius; nec de definitione, quae
+significat quid est res; sed est aliquis alius modus, quo definitiones ostenduntur; scilicet divisione, et aliis modis,
+qui ponuntur in secundo posteriorum.
+|#8 Et sicut nulla scientia particularis determinat quod quid est, ita etiam nulla earum dicit de genere subiecto,
+circa quod versatur, est, aut non est. Et hoc rationabiliter accidit; quia eiusdem scientiae est determinare
+quaestionem an est, et manifestare quid est. Oportet enim quod quid est accipere ut medium ad ostendendum an
+est. Et utraque est consideratio Philosophi, qui considerat ens inquantum ens. Et ideo quaelibet scientia
+particularis supponit de subiecto suo, quia est, et quid est, ut dicitur in primo posteriorum; et hoc est signum,
+quod nulla scientia particularis determinat de ente simpliciter, nec de aliquo ente inquantum est ens.
+|#9
+Deinde cum dicit quoniam vero ostendit differentiam huius scientiae ad alias, quantum ad modum
+considerandi principia entis inquantum est ens.
+Et quia ab antiquis scientia naturalis credebatur esse prima scientia, et quae consideraret ens inquantum est ens,
+ideo ab ea, quasi a manifestiori incipiens, primo ostendit differentiam scientiae naturalis a scientiis practicis.
+Secundo differentiam eius a scientiis speculativis, in quo ostenditur modus proprius considerationis huius
+scientiae, ibi, oportet autem quod quid erat esse.
+Dicit ergo primo, quod scientia naturalis non est circa ens simpliciter, sed circa quoddam genus entis; scilicet
+circa substantiam naturalem, quae habet in se principium motus et quietis: et ex hoc apparet quod neque est
+activa, neque factiva.
+Differunt enim agere et facere: nam agere est secundum operationem manentem in ipso agente, sicut est eligere,
+intelligere et huiusmodi: unde scientiae activae dicuntur scientiae morales. Facere autem est secundum
+operationem, quae transit exterius ad materiae transmutationem, sicut secare, urere, et huiusmodi: unde scientiae
+factivae dicuntur artes mechanicae.
+|#10 Quod autem scientia naturalis non sit factiva, patet; quia principium scientiarum factivarum est in faciente,
+non in facto, quod est artificiatum; sed principium motus rerum naturalium est in ipsis rebus naturalibus. Hoc
+autem principium rerum artificialium, quod est in faciente, est primo intellectus, qui primo artem adinvenit; et
+secundo ars, quae est habitus intellectus; et tertio aliqua potentia exequens, sicut potentia motiva, per quam
+artifex exequitur conceptionem artis. Unde patet, quod scientia naturalis non est factiva.
+
+172
+
+

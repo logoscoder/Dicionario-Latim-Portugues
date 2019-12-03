@@ -1,0 +1,53 @@
+praedicatum consequentis praedicetur de subiecto suo -- Et secundum hoc potest haec esse uera 'isosceles habet
+tres, etc., quia triangulus habet tres etc.'.
+exprimitur causa sine qua haec non esset uera 'lignum calefit', ideo ista causalis est uera. Vel requiritur
+quod propositio illa sit prior alia, ita quod praedicatum antecedentis prius praedicetur de subiecto suo quam
+praedicatum consequentis praedicetur de subiecto suo -- Et secundum hoc potest haec esse uera 'isosceles habet
+tres, etc., quia triangulus habet tres etc.'.
+Et est sciendum quod hic accipitur causa large, siue sit causa per se siue per accidens, siue uoluntaria
+siue naturalis.
+Et est sciendum quod hic accipitur causa large, siue sit causa per se siue per accidens, siue uoluntaria
+siue naturalis.
+Ex istis patet quod omnes tales sunt falsae 'asinus est risibilis, quia est homo', 'omnis homo peccat, quia
+est liberi arbitrii' et huiusmodi.
+Ex istis patet quod omnes tales sunt falsae 'asinus est risibilis, quia est homo', 'omnis homo peccat, quia
+est liberi arbitrii' et huiusmodi.
+Unde ad necessitatem causalis requiritur necessitas utriusque partis. Sed ad impossibilitatem causalis
+non requiritur impossibilitas nec falsitas alicuius partis, sed sufficit quod antecedens non possit esse causa
+consequentis, modo praedicto accipiendo causam.
+Unde ad necessitatem causalis requiritur necessitas utriusque partis. Sed ad impossibilitatem causalis
+non requiritur impossibilitas nec falsitas alicuius partis, sed sufficit quod antecedens non possit esse causa
+consequentis, modo praedicto accipiendo causam.
+Et est aduertendum quod non dicitur hic antecedens illud quod secundum uocem praecedit, sed illa
+propositio quae immediate sequitur hanc coniunctionem 'quia', illa est antecedens.
+Et est aduertendum quod non dicitur hic antecedens illud quod secundum uocem praecedit, sed illa
+propositio quae immediate sequitur hanc coniunctionem 'quia', illa est antecedens.
+Similiter ad possibilitatem causalis requiritur quod quaelibet pars sit possibilis. Sed hoc non sufficit,
+sicut ad necessitatem non sufficit necessitas utriusque partis.
+Similiter ad possibilitatem causalis requiritur quod quaelibet pars sit possibilis. Sed hoc non sufficit,
+sicut ad necessitatem non sufficit necessitas utriusque partis.
+Ex praedictis patet quod a causali ad alteram partem est consequentia bona sed non e conuerso. Similiter
+a causali ad copulatiuam est bona consequentia sed non e conuerso. Unde bene sequitur 'omnis homo peccat,
+quia est liberi arbitrii; igitur omnis homo peccat et omnis homo est liberi arbitrii'; sed e conuerso non sequitur.
+Ex praedictis patet quod a causali ad alteram partem est consequentia bona sed non e conuerso. Similiter
+a causali ad copulatiuam est bona consequentia sed non e conuerso. Unde bene sequitur 'omnis homo peccat,
+quia est liberi arbitrii; igitur omnis homo peccat et omnis homo est liberi arbitrii'; sed e conuerso non sequitur.
+[2.35 DE PROPOSITIONE TEMPORALI ET QUID REQUIRITUR AD VERITATEM EIUS]
+[2.35 DE PROPOSITIONE TEMPORALI ET QUID REQUIRITUR AD VERITATEM EIUS]
+Propositio temporalis est illa quae componitur ex pluribus categoricis mediante aliquo aduerbio
+temporis. Sicut ista est temporalis 'Sortes currit, dum Plato disputat'; similiter ista 'Sortes fuit albus, quando
+Plato fuit niger'; similiter ista 'Sortes fuit albus, quando Plato non currebat'.
+Plato fuit niger'; similiter ista 'Sortes fuit albus, quando Plato non currebat'.
+Ad ueritatem autem temporalis requiritur ueritas utriusque partis pro eodem tempore uel pro diuerso
+tempore. Unde aliqua sunt aduerbia quae denotant propositiones quas coniugunt esse ueras pro eadem tempore et
+aliqua pro diuerso tempore. Unde ad ueritatem istius 'Deus agit, quando creatura agit'
+requiritur quod utraque istarum sit uera et in eodem tempore. Similiter ad ueritatem istius 'Apostoli
+praedicabant, dum Christus praedicauit'
+requiritur ueritas utriusque partis et quod in eodem tempore fuerint uerae, si fuerint formatae. Sed ad
+ueritatem istius 'Paulus fuit conuersus, postquam Christus fuit passus' requiritur quod istae propositiones fuerint
+uerae pro diuerso tempore; similiter ad ueritatem istius 'Christus praedicauit, antequam patiebatur' requiritur
+quod ambae partes fuerunt uerae pro diuerso tempore.
+
+210
+
+

@@ -1,0 +1,63 @@
+similis
+Quoddam iustum bonum est;
+Quoddam iustum malum non est.
+eadem
+Quoddam iustum malum non est.
+[825C] Quartus modus seoundae figurae quoniam iam primo, cum factus est per conuersionem, in superioris
+primae figurae modum retorqueri non poterat sed per impossibile demonstratum est, hic quoque per impossibile ad
+superiores reducitur modos, et quoniam omnes secundae figurae modi per impossibile monstrantur, idcirco nos quoque
+inchoantes a quarto [825D] omnes per impossibile resoluamus. Nam quartus secundae figurae modus in primum primae
+figurae resoluitur per impossibilitatem, tertius in secundum, secundus in tertium, primus in quartum, quod hoc modo
+liquebit. Si quis ergo duas istas concesserit propositiones, id est:
+Omne bonum uirtus est.
+et:
+Quoddam iustum uirtus non est
+necesse est quoque conclusionem concedat quae est:
+Quoddam igitur iustum bonum non est.
+Nam si haec falsa est, erit ei contraiacens uera quae est, omne iustum bonum est sed illam concessit quae est
+prima quarti modi, id est: [826C]
+Omne bonum uirtus est.
+Ex his igitur concludat:
+Omne igitur iustum uirtus est.
+Sed prius concessit quarti modi secundum propositionem, quae est:
+Quoddam iustum uirtus non est.
+Nunc uero concedit:
+Omne iustum uirtus est
+duas sibi contraiacentes simul conclusurus est, quod fieri non potest.
+Hoc autem idcirco euenit, quia conclusio quarti [826D] modi in primi modi secundam propositionem conuersa
+est: quod si secunda propositio primi modi in quarti conclusione non colligitur, quarti oonclusio, id est particularis
+negatio, permanebit. Sed ne forte nos conturbet quod alios terminos in resoluendo modo posuimus, quam superius in
+disponendo; non enim modo in terminis laboramus sed in figuris et modis et complexionibus construendis atque
+resoluendis operam consumimus. Eodem modo et caeteri secundae figurae in primos quatuor resoluuntur:
+Omne bonum uirtus est,
+eadem
+Omne bonum uirtus est,
+Quoddam iustum uirtus non est;
+Omne iustum bonum est;
+Quoddam igitur iustum bonum non est.
+Omne igitur iustum uirtus est.
+[825D] Tertus secundae figurae modus secundo primae figurae modo sic resoluitur: si quis duas primas tertii
+[826D] modi concesserit, particuiarem quoque negatione concludet, quae est:
+Quoddam igitur iustum bonum [827A] non est.
+Nam si haec falsa est uera erit contraiacens, quae est:
+Omne iustum bonum est.
+Sed etiam illa concessa est, quae est:
+Nullum bonum malum est.
+Ex his ergo colligitur:
+Nullum igitur iustum malum est.
+Sed prius concessa erat:
+Quoddam iustum malum est [828A]
+nunc uero:
+Nullum iustum malum est
+duas sibi contraiacentes, uno tempore concedit, quod fieri non potest. Sublata igitur uniuersali conclusione,
+quae est:
+Omne iustum bonum est
+remanebit particularis negatio, quae est:
+Quoddam iustum bonum non est.
+Nullum bonum malum est,
+conc.
+Nullum bonum malum est.
+Quoddam iustum malum est;
+23
+
+

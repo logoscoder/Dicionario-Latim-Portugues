@@ -1,0 +1,78 @@
+SEPTIMUS
+OCTAVUS
+NONUS
+SECUNDAE FIGURAE MODI
+PRIMUS
+SECUNDUS
+TERTIUS
+QUARTUS
+TERTIAE FIGURAE MODI
+PRIMUS
+SECUNDUS
+TERTIUS
+QUARTUS
+QUINTUS
+SEXTUS
+SEPTIMUS
+
+iustum est.
+Omne bonum uirtus est, Quoddam iustum bonum est; Quaedam igitur uirtus
+iusta est.
+Omne bonum iustum est, Nullum malum honum est; Quoddam igitur iustum
+malum non est.
+Quoddam bonum iustum est, Nullum malum bonum est; Quoddam igitur
+iustum malum non est.
+Nullum malum bonum est, Omne iustum bonum est; Nullum igitur iustum
+malum est.
+Omna iustum bonum est, Nullum malum bonum est; Nullum igitur malum
+iustum est.
+Nullum malum bonum est, Quoddam iustum bonum est; Quoddam igitur
+iustum malum non est.
+Omne iustum bonum est, Quoddam malum bonum non est; Quoddam igitur
+malum iustum non est.
+Omne bonum iustum est, Omne bonum uirtus est; Quaedam igitur uirtus iusta
+est.
+Omne bonum uirtus est, Omne bonum iustum est; Quoddam igitur iustum
+uirtus est.
+Nullum bonum malum est, Omne bonum iustum est; Quoddam igitur iustum
+malum non est
+Quoddam bonum iustum est, Omne bonum uirtus est; Quaedam igitur uirtus
+iusta est.
+Omne bonum uirtus est, Quoddam bonum iustum est; Quoddam igitur iustum
+uirtus est.
+Quoddam bonum malum non est, Omne bonum iustum est; Quoddam igitur
+iustum malum non est.
+Nullum bonum malum est, Quoddam bonum iustum est; Quoddam igitur
+iustum malum non est.
+
+[823A] Hi sunt igitur omnes trium figurarum modi quorum primae figurae quatuor primae indemonstrabiles
+nominantur et directi, id est sine aliqua conuersione monstrati; indemonstrabiles autem quoniam non per alios
+demoiistrantur, et perfecti dicuntur, quoniam per seipsos comprobantur. Et primi quoniam positione et natura primi
+sunt, et in eos omnes caeteri resoluuntur. Illi quoque quinque primae figurae modi imperfecti et per conuersionem sunt.
+Secundae uero figurae, uel tertiae, omnes imperfecti sunt, quoniam per primos primae figurae modos quatuor
+comprobantur, [824A] namque in ipsos resoluuntur: ut eos per conuersionem resoluamus, et per impossibilitatem, ut
+duo illi superius demonstrati sunt, consideremus igitur eorum principia, quoniam unde nascuntur in idipsum
+resoluuntur. Quintus igitur primae figurae modus de prima, primo figurae modo procreatur. Binis enim propositionibus
+prioribus manentibus, conclusio primi modi particulariter conuersa quintum efficit syllogismum, quod in subiecta
+declaratur descriptione:
+Omne iustum bonum est,
+eadem
+Omne iustum bonum est, Omnis uirtus iusta est;
+eadem
+Omnis uirtus iusta est;
+Omnis uirtus bona est.
+Uersa
+Quoddam bonum uirtus est.
+[823B] Sextus uero primae figurae modus de secundo primae figurae modo capit principium. Manentibus enim
+duabus prioribus propositionibus secundi modi, uniuersali [824B] conclusione uniuersaliter conuersa, sextus nascitur
+syllogismus, ut subiecta docet descriptio:
+Nullum bonum malum est,
+eadem
+Nullum bonum malum est,
+Omne iustum bonum est;
+eadem
+Omne iustum bonum est;
+Nullum iustum malum est.
+21
+
+

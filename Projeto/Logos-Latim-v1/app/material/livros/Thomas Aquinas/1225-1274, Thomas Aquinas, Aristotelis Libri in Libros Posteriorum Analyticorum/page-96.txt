@@ -1,0 +1,58 @@
+sicut de his quae proiiciuntur manifestat Philosophus in VIII physic.. Per hunc ergo modum contingit quod causa
+non est simul cum eo cuius est causa, in quantum scilicet prima pars motus est causa secundae, vel primum
+motum movet secundum. Quamvis autem motus in suis partibus successionem habeat, tamen simul est cum
+causa movente. Simul enim dum movens movet, mobile movetur, eo quod motus nihil est aliud quam actus
+mobilis a movente, secundum quem movens dicitur movere et mobile moveri. Et multo magis in his quae sunt
+extra motum, oportet causam simul esse cum suo causato; sive accipiatur aliquid ut terminus motus (sicut
+illuminatio aeris simul est cum solis exortu), sive aliquid accipiatur in his quae sunt penitus immobilia, et in
+causis essentialibus, quae sunt causae ipsius esse.
+|#3 Circa primum ergo duo facit: primo, proponit quod intendit; secundo, manifestat propositum per exempla;
+ibi: ut propter quid factus est defectus etc.. Dicit ergo primo quod quandocunque causa est simul cum suo
+effectu, oportet eamdem causam accipere quantum ad hoc quod est fieri vel factum esse vel futurum esse, quae
+accipitur quantum ad hoc quod est esse: quia si causa est simul cum suo causato, sicut necesse est quod quando
+est causa est effectus, ita necesse est quod quando fit causa fiat effectus, et quando est facta quod sit factus
+effectus, et quando est futura quod sit futurus effectus. Nec est instantia quod dum fit aedificator, addiscendo
+artem aedificativam, nondum fit aedificium, cuius ipse est causa per artem aedificativam; quia aedificator non
+nominat causam aedificii in actu, sed causam in potentia vel in habitu. Sed aedificans nominat causam in actu,
+quam oportet simul esse cum eo cuius est causa, ut dicitur in II physic.. Est autem identitas quantum ad hoc,
+quod in omnibus medium est causa. Sed hoc accipiendum est secundum debitam proportionem; ut scilicet ipsum
+esse causae proportionetur ipsi esse effectus, et fieri causae fieri causati, et factum esse causae facto esse causati,
+et futurum esse causae futuro esse causati.
+|#4 Deinde cum dicit: ut propter quid factus est defectus etc., manifestat quod dixerat per duo exempla, quorum
+primum est de eclipsi lunae.
+Dicimus enim quod heri factus est defectus lunae propter hoc quod heri facta est interpositio terrae inter solem et
+lunam; et quod nunc fit defectus lunae propter hoc quod nunc fit talis interpositio terrae; et quod cras fiet
+defectus lunae propter id quod terra ponetur in medio; et quod nunc est defectus lunae propter id quod nunc est
+interpositio terrae. Secundum autem exemplum est de crystallo: puta si dicamus quid est crystallus; et accipiatur
+hoc pro eius definitione, quod sit aqua condensata vehementer. Sit ergo aqua c, idest minor extremitas; et
+densatum esse sit a, idest maior extremitas; et accipiatur pro medio b, idest quod penitus caret calore.
+Exhalante enim calido inspissatur humidum: unde quando intense exhalat calidum, consequens est quod intense
+inspissetur humidum. Reducendo ergo ad formam syllogisticam, dicemus quod b est in c, quia scilicet crystallus
+habet perfectam exhalationem calidi; in b autem est a, quia illud quod perfecte caret calido, est densatum. Sicut
+igitur huius quod est crystallum esse aquam plene densatam, causa est quod habeat defectum caloris; ita etiam
+causa quod fiat crystallus, causa est quod fiat b. Et eadem ratio est in factum esse, et in futurum esse. Et sic
+concludit quod si sic accipiantur causa et causatum quod sint simul, oportet quod similiter sint simul in fieri, et
+in esse, et in factum esse, et in futurum esse.
+|#5 Deinde cum dicit: in his autem quae non simul etc., ostendit quomodo causa quae non est simul cum
+causato, accipiatur medium demonstrationis.
+Et primo, in his quae fiunt in directum; secundo, in his quae fiunt circulariter; ibi: quoniam autem videmus etc..
+Circa primum tria facit: primo, proponit quaestionem; secundo, interponit quoddam quod necessarium est
+praecognoscere ad solutionem quaestionis: ibi: est igitur a posterius facto etc.; tertio, solvit quaestionem; ibi:
+speculandum est igitur quid est continens etc..
+Circa primum duo facit: primo, proponit quaestionem; secundo, manifestat eam; ibi: sicut videtur nobis etc..
+Movet ergo primo quaestionem utrum in causis quae non simul fiunt cum suis causatis, sit dicere quod causatum
+secundum tempus continuum consequatur ad causam vel non.
+|#6 Deinde cum dicit: sicut videtur nobis alias etc., manifestat quaestionem. Videmus enim quod aliae sunt
+causae aliorum non simul cum eis existentes; sicut eius quod est factum esse est alia causa praecedens, quod est
+fieri; et ipsius fore, idest quod aliquid sit futurum, causa est aliquod futurum fieri; et iterum ipsius fieri causa est
+aliquid quod prius factum est. Est igitur quaestio: utrum istae causae se consequentes sint in tempore continuo
+vel non? hoc enim necessarium est scire demonstratori, quia si non sit continuatio in huiusmodi causis, non erit
+accipere immediatum principium, quia semper inter duo nunc discontinuata est accipere aliquod medium. Et ideo
+si illud nunc in quo est effectus, non sit continuum ad illud nunc in quo est causa, erit in medio aliquid accipere
+quod sit causa media, et sic in infinitum.
+|#7 Deinde cum dicit: est igitur a posterius facto syllogismus etc., manifestat quoddam quod est necessarium ad
+solutionem praemissae quaestionis.
+
+96
+
+

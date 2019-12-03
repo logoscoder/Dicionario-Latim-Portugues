@@ -1,0 +1,60 @@
+|+d3.q3 Distinctio 3, Quaestio 3
+|a0 Prologus
+Deinde quaeritur de cognitione Angelorum, et circa hoc quatuor quaeruntur: 1 utrum Angelus cognoscat per
+species; 2 utrum in superioribus sint species magis universales; 3 utrum per species istas, singularium
+cognitionem habere possint; 4 utrum possint simul plura intelligere.
+|a1 Articulus 1: Utrum Angelus cognoscat res per suam essentiam.
+AG1
+Ad primum sic proceditur. Videtur, quod Angelus per essentiam suam res cognoscat et non per species aliquas.
+Quia, secundum Philosophum, anima est species specierum.
+Sed Angelus simplicior est anima et nobilior.
+Ergo essentia Angeli est similitudo vel species rerum. Sed res potest in similitudine sui cognosci.
+Ergo videtur quod Angelus intuendo essentiam suam, res cognoscat, et non per species aliquas.
+AG2
+Praeterea, omnis species vel est causa rei, vel a re accepta. Sed species rerum in intellectu Angeli non possunt
+esse causatae a rebus, cum Angelus careat potentiis et organis, quibus fit abstractio a sensibilibus: nec iterum
+sunt causae rerum, cum Angeli non sint causatores. Ergo videtur quod Angeli per species non cognoscant.
+AG3
+Praeterea, secundum dionysium, nobiliora in entibus sunt inferiorum exemplaria. Sed in exemplari res optime
+cognoscitur.
+Cum ergo Angeli inter res creatas sint nobilissimi, quasi Deo propinquiores, secundum Augustinum; videtur
+quod natura sua inspecta, alias res cognoscant.
+AG4
+Praeterea, intellectum et intellectus non differunt nisi quando utrumque eorum est in potentia, ut in 1 Lib.
+Dictum est. Ergo omnis intellectus qui est semper in actu, non differt in eo intelligens et intellectum. Sed
+intellectus substantiae separatae videtur semper in actu esse, cum suum intelligere non sequatur transmutationem
+aliquam.
+Ergo videtur quod in ea non differat species intellecta et substantia intellectus; et ita non per species cognoscit.
+SC1
+Sed contra est quod dionysius dicit quod Angeli illuminantur per scibiles rerum rationes. Hae autem non sunt
+nisi species rerum intellectae. Ergo per species rerum cognitionem habent.
+SC2
+Praeterea, in Lib. De causis dicitur, quod omnis intelligentia est plena formis.
+Sed illa quae sunt in intelligentia, sunt in ea per modum intelligibilem, ut in eodem libro dicitur; quae autem sic
+sunt in ea, sunt in ea ad cognoscendum.
+Ergo videtur quod res per formas cognoscant.
+CO
+Respondeo dicendum, quod intellectus angelicus est medius inter intellectum divinum et humanum, et virtute et
+modo cognoscendi. In intellectu enim divino similitudo rei intellectae est ipsa divina essentia, quae est rerum
+causa exemplaris et efficiens; in intellectu vero humano similitudo rei intellectae est aliud a substantia
+intellectus, et est sicut forma ejus; unde ex intellectu et similitudine rei efficitur unum completum, quod est
+intellectus in actu intelligens; et hujus similitudo est accepta a re. Sed in intellectu angelico similitudo rei
+intellectae est aliud a substantia intelligentis, non tamen est acquisita a re, cum non sint ex rebus divisibilibus
+cognitionem congregantes, ut dionysius dicit.
+Nec tamen est causa rei secundum fidem, sed est infusa a Deo ad cognoscendum. Et ratio hujus sumi potest ex
+verbis Commentatoris, in 11 metaph.. Ipse enim dicit quod secundum ordinem simplicitatis naturarum
+separatarum est ordo distantiae speciei intellectae ab intellectu; unde in prima essentia, cui non admiscetur
+potentia aliqua, est omnino idem intelligens et intellectum; in aliis autem secundum quod plus admiscetur de
+potentia, est major distantia inter speciem intellectam et intellectum. Cujus ratio est quia nihil operatur nisi
+secundum quod est in actu; unde illud cujus essentia est purus actus, intelligit sine receptione alicujus
+perficientis, quod sit extra essentiam ejus; illud vero in quo est potentia, non poterit intelligere nisi perficiatur in
+actu per aliquid receptum ab extrinseco; et hoc est lumen intellectivum naturale, quod a Deo in substantias
+intellectivas emittitur. Et quia unumquodque recipitur in aliquo per modum recipientis; lumen illud quod in Deo
+est simplex, recipitur in mente Angeli ut divisum et multiplicatum: omnis enim potentia receptiva de se
+divisibilitatem habet secundum quod non est terminata ad unum, quod fit per actum terminantem: et ideo dicitur
+in libro de causis, quod sicut in natura inferiori multiplicantur singularia, ita et species intelligibiles in
+intelligentiis; utrumque enim est propter multiplicabilitatem potentiae; et istae sunt species per quas Angeli
+cognoscunt.
+431
+
+

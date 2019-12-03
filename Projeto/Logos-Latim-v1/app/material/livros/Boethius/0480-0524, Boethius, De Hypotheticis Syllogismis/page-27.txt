@@ -1,0 +1,61 @@
+non fecerit eam propositionem /358/ quae ex duabus conditionalibus constet. Neque enim idcirco quod
+animatum est corpus est, quia qui homo est animal est, nec conditio sequitur conditionem; sed si eas separes, per seque
+pronunties, utraque habet in terminorum consequentia necessitatem: nam et qui homo est animal est, et quod animatum
+est corpus est, et per se istae propositiones uerae sunt nec conditione iunguntur.
+[3.7.1] Ut igitur singularum natura clarescat, de unaquaque est disserendum. Prima igitur propositio talis esse
+debet, ut si sit a positum, b terminus non continuo subsequatur, itemque, si c ponatur, non necesse sit d terminum
+consequi sed, posito quidem a termino, c terminum, posito uero b, terminum d esse necesse sit. Tunc enim eueniet ut si,
+posito a, fuerit b, necesse sit c posito subsequi d, ut si sint termini a homo, b medicus, c animatum, d artifex. Posito
+enim homine non necesse est ut medicus sit, et cum sit animatum, non necesse est ut sit artifex; at si homo sit, necesse
+est ut sit animatum, et si medicus sit, necesse est ut artifex sit. Hoc itaque posito, eueniet ut si, cum homo sit, medicus
+est, cum sit animatum, sit artifex.
+[3.7.2] Secunda propositio ita esse debet, ut a atque b, itemque c atque d praeter se esse possint sed a praeter c
+esse non possit, b autem atque d simul esse non possint. Tunc enim eueniet ut si, posito a termino, b fuerit consecutum,
+posito c non esse d necesse sit, ut si sit a homo, b niger, c animatum, d albus: homo namque praeter nigrum, et
+animatum praeter album uel esse uel non /360/ esse potest; homo uero praeter animatum, nigrum autem cum albo esse
+non potest, euenitque ut si cum sit homo, niger sit, cum sit animatus non sit albus. Item tertiae propositionis tales
+terminos esse oportebit, ut a praeter b esse possit, c uero uel cum a uel cum d simul esse non possit.
+[3.7.3] Quocirca euenit ut, si a posito fuerit b, negato c termino d esse necesse sit, ut si sit a quidem animatum,
+b medicus, c inanimatum, d artifex: animatum enim praeter medicum esse potest, inanimatum uero neque cum animato
+neque cum artifice iungi potest; itaque si cum animatum est, medicus est, cum inanimatum non sit artifex est. Quarta
+propositio his terminis contexenda est, ut a quidem cum b termino, c autem cum d uel esse uel non esse possit, neque
+uero a cum c, neque b cum d ullo modo esse possibile sit. Tunc enim euenit ut, si a posito, b subsequatur, c negato
+negetur etiam d, ut si sit a homo, b niger, c inanimatum, d album: homo quidem praeter nigrum, inanimatum uero
+praeter album esse et non esse potest; neque tamen homo cum inanimato, neque nigrum cum albo esse possibile est.
+[3.7.4] Si tamen, cum homo sit, niger est, sequitur ut, cum non sit inanimatum, non sit album. Quintae
+propositionis haec membra sunt, ut a praeter b, et c praeter d esse uel non esse possit sed a praeter c esse non possit, b
+atque d numquam simul esse possint, ita ut si alterum non sit, alterum esse necesse sit. Tunc enim eueniet ut si a posito
+b negetur, c posito d sequatur, ut si sit a quidem homo, b aeger, c animatum, d sanus. Homo quidem praeter
+aegritudinem, animatum uero praeter sanitatem et esse et non esse potest; sed si homo sit, animatum esse necesse /362/
+est; itaque fiet ut si, cum homo sit, non sit aeger, cum sit animatus sanus sit.
+[3.7.5] Sexta propositio hos terminos habere desiderat, ut a praeter b, et c praeter d, et esse et non esse possit;
+idem uero a praeter c, et d praeter b esse non possit. Tunc enim eueniet ut si a posito non est b, posito c non sit d, ut si
+sit a homo, b artifex, c animatum, d medicus. Homo quidem praeter artificium, animatum uero praeter medicinam et
+esse et non esse potest; neque uero homo praeter animatum, neque medicus praeter artificium esse potest. Quo fit ut si
+cum homo est, artifex non est, cum sit animatum, non sit medicus.
+[3.7.6] Septimae propositionis hi termini sunt, ut a quidem praeter b esse et non esse possit, c autem neque
+cum d neque cum a esse possit, b etiam cum c simul esse et non esse non possit; ita namque eueniet ut si, posito a esse,
+b denegetur, negato c termino d sequatur, ut si a quidem sit animatum, b sanum, c inanimatum, d aegrum. Animatum
+quidem praeter sanitatem et esse et non esse potest, inanimatum uero neque cum animato neque cum aegro conuenire
+potest; quo fit ut, si cum animatum est, sanum est, cum non sit inanimatum aegrum sit.
+[3.7.7] Item octaua propositio his terminis copulanda est, ut a quidem praeter b terminum et esse et non esse
+possit, c autem cum d non esse possit, /364/ sed a cum c et d praeter b esse non possit. Hoc enim pacto eueniet ut, si a
+posito b denegetur, denegato c termino d terminus non sit, ut si sit a animatum, b artifex, c inanimatum, d medicus.
+Animatum enim praeter artificium et esse et non esse potest, inanimatum uero neque cum animato neque cum medico
+conuenit, medicus uero praeter artificium esse non potest; unde euenit ut, si cum animatum est, non sit artifex, cum non
+sit inanimatum non sit medicus.
+[3.8.1] Nona propositio fiet si a quidem atque b simul esse non possint, c uero possit esse praeter d, cum a uero
+esse non possit.
+Tunc enim eueniet ut, si a denegato, b esse consequitur, c posito d sequatur, ut si sit a quidem inanimatum, b
+medicus, c animatum, d artifex. Inanimatum quippe medicus esse non potest, animatum uero potest non esse artifex;
+inanimatum uero atque animatum simul esse non possunt, quo fit ut si quod non est inanimatum, medicus sit, cum sit
+animatum sit artifex. Decimam propositionem tales termini copulabunt, ut a quidem praeter b, at uero c praeter d esse
+possit sed a cum c, et b cum d esse non possit.
+[3.8.2] Ita enim proueniet ut, si negato a esse, b consequatur, posito c termino d non esse necesse sit, ut si sit a
+inanimatum, b nigrum,c animatum, d album.Inanimatum quippe praeter nigrum, et animatum praeter album esse et non
+esse possunt; sed inanimatum cum animato, et nigrum cum albo simul esse non possunt. Sed si negatum fuerit
+inanimatum et /366/ consecutum fuerit nigrum, posito animato album esse negabitur. Item undecima propositio ea sit,
+ut neque a cum b, neque c cum d simul esse pcssit, a uero sine c et b sine d esse non possit. Ita enim si cum a sit
+negatum, b sequitur, cum c negabitur, d esse necesse est, ut si sit a inanimatum, b medicus, c inuitale, d artifex.
+
+

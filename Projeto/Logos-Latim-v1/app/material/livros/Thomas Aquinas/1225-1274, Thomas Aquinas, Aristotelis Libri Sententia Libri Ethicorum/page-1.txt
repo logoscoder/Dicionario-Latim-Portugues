@@ -1,0 +1,47 @@
+OPERA OMNIA
+SANCTI THOMAE AQUINATIS
+-----oOo----Textum electronicum praeparavit et indexavit
+Ricardo M. Rom n, S. R. E. Presbyterus
+Bonis Auris, MCMXCVIII
+
+|*ARISTOTELIS_LIBRI
+|*ETHICORUM
+SENTENTIA LIBRI ETHICORUM
+|*ETH.1 : LIBER 1
+|+1 Lectio 1
+|#1 Sicut Philosophus dicit in principio metaphysicae, sapientis est ordinare. Cuius ratio est, quia sapientia est
+potissima perfectio rationis, cuius proprium est cognoscere ordinem. Nam etsi vires sensitivae cognoscant res
+aliquas absolute, ordinem tamen unius rei ad aliam cognoscere est solius intellectus aut rationis. Invenitur autem
+duplex ordo in rebus. Unus quidem partium alicuius totius seu alicuius multitudinis adinvicem, sicut partes
+domus ad invicem ordinantur; alius autem est ordo rerum in finem. Et hic ordo est principalior, quam primus.
+Nam, ut Philosophus dicit in XI metaphysicae, ordo partium exercitus adinvicem, est propter ordinem totius
+exercitus ad ducem. Ordo autem quadrupliciter ad rationem comparatur. Est enim quidam ordo quem ratio non
+facit, sed solum considerat, sicut est ordo rerum naturalium.
+Alius autem est ordo, quem ratio considerando facit in proprio actu, puta cum ordinat conceptus suos adinvicem,
+et signa conceptuum, quae sunt voces significativae; tertius autem est ordo quem ratio considerando facit in
+operationibus voluntatis. Quartus autem est ordo quem ratio considerando facit in exterioribus rebus, quarum
+ipsa est causa, sicut in arca et domo.
+|#2 Et quia consideratio rationis per habitum scientiae perficitur, secundum hos diversos ordines quos proprie
+ratio considerat, sunt diversae scientiae. Nam ad philosophiam naturalem pertinet considerare ordinem rerum
+quem ratio humana considerat sed non facit; ita quod sub naturali philosophia comprehendamus et
+mathematicam et metaphysicam. Ordo autem quem ratio considerando facit in proprio actu, pertinet ad
+rationalem philosophiam, cuius est considerare ordinem partium orationis adinvicem, et ordinem principiorum in
+conclusiones; ordo autem actionum voluntariarum pertinet ad considerationem moralis philosophiae. Ordo autem
+quem ratio considerando facit in rebus exterioribus constitutis per rationem humanam, pertinet ad artes
+mechanicas. Sic igitur moralis philosophiae, circa quam versatur praesens intentio, proprium est considerare
+operationes humanas, secundum quod sunt ordinatae adinvicem et ad finem.
+|#3 Dico autem operationes humanas, quae procedunt a voluntate hominis secundum ordinem rationis. Nam si
+quae operationes in homine inveniuntur, quae non subiacent voluntati et rationi, non dicuntur proprie humanae,
+sed naturales, sicut patet de operationibus animae vegetabilis, quae nullo modo cadunt sub consideratione
+moralis philosophiae. Sicut igitur subiectum philosophiae naturalis est motus, vel res mobilis, ita etiam
+subiectum moralis philosophiae est operatio humana ordinata in finem, vel etiam homo prout est voluntarie
+agens propter finem.
+|#4 Sciendum est autem, quod quia homo naturaliter est animal sociale, utpote qui indiget ad suam vitam
+multis, quae sibi ipse solus praeparare non potest; consequens est, quod homo naturaliter sit pars alicuius
+multitudinis, per quam praestetur sibi auxilium ad bene vivendum. Quo quidem auxilio indiget ad duo. Primo
+quidem ad ea quae sunt vitae necessaria, sine quibus praesens vita transigi non potest: et ad hoc auxiliatur homini
+domestica multitudo, cuius est pars. Nam quilibet homo a parentibus habet generationem et nutrimentum et
+disciplinam et similiter etiam singuli, qui sunt partes domesticae familiae, seinvicem iuvant ad necessaria vitae.
+1
+
+

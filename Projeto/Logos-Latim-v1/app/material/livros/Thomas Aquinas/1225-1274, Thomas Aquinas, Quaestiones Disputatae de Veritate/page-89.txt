@@ -1,0 +1,63 @@
+TTA
+Quarto quaeritur utrum pater dicat creaturam verbo quo dicit se.
+TTB
+Et videtur quod non.
+AG1
+Quia cum dicimus: pater dicit se; non significatur ibi nisi dicens et dictum; et ex utraque parte significatur pater
+tantum. Cum ergo pater non producat ex se verbum nisi secundum quod dicit se, videtur quod verbo, quod ex
+patre procedit, non dicatur creatura.
+AG2
+Praeterea, verbum quo unumquodque dicitur, est similitudo illius. Sed verbum non potest dici similitudo
+creaturae, ut Anselmus probat in monolog.; quia vel verbum perfecte conveniret cum creaturis, et sic esset
+mutabile, sicut et creaturae, et periret in eo summa immutabilitas: vel non summe conveniret; et sic non esset in
+eo summa veritas, quia similitudo tanto verior est, quanto magis convenit cum eo cuius est similitudo.
+Ergo filius non est verbum quo creatura dicatur.
+AG3
+Praeterea, verbum creaturarum in Deo dicitur hoc modo sicut verbum artificiatorum in artifice. Sed verbum
+artificiatorum in artifice non est nisi dispositio de artificiatis.
+Ergo et verbum creaturarum in Deo non est nisi dispositio de creaturis. Sed dispositio de creaturis in Deo,
+essentialiter dicitur, et non personaliter. Ergo verbum quo creaturae dicuntur, non est verbum quod personaliter
+dicitur.
+AG4
+Praeterea, verbum omne ad id quod per verbum dicitur, habet habitudinem vel exemplaris vel imaginis.
+Exemplaris quidem, quando verbum est causa rei sicut accidit in intellectu practico; imaginis autem, quando
+causatur a re, sicut accidit in nostro intellectu speculativo. Sed in Deo non potest esse verbum creaturae quod sit
+creaturae imago. Ergo oportet quod verbum creaturae in Deo sit creaturae exemplar. Sed exemplar creaturae in
+Deo est idea. Ergo verbum creaturae in Deo nihil est aliud quam idea. Idea autem non dicitur in divinis
+personaliter, sed essentialiter. Ergo verbum personaliter dictum in divinis, quo pater dicit seipsum, non est
+verbum quo dicuntur creaturae.
+AG5
+Praeterea, magis distat creatura a Deo quam ab aliqua creatura. Sed diversarum creaturarum sunt plures ideae in
+Deo. Ergo et non est idem verbum, quo pater se et creaturam dicit.
+AG6
+Praeterea, secundum Augustinum, eo dicitur verbum quo imago. Sed filius non est imago creaturae.
+Sed solius patris; ergo filius non est verbum creaturae.
+AG7
+Praeterea, omne verbum procedit ab eo cuius est verbum. Sed filius non procedit a creatura. Ergo non est verbum
+quo creatura dicatur.
+SC1
+Sed contra. Anselmus dicit, quod pater dicendo se dixit omnem creaturam. Sed verbum quo se dixit, est filius.
+Ergo verbo, quod est filius, dicit omnem creaturam.
+SC2
+Praeterea, Augustinus, sic exponit, dixit et factum est: id est verbum genuit, in quo erat ut fieret. Ergo verbo,
+quod est filius, dixit omnem creaturam.
+SC3
+Praeterea, eadem est conversio artificis ad artem et ad artificiatum. Sed ipse Deus est ars aeterna, a qua creaturae
+producuntur sicut artificiata quaedam. Ergo pater eadem conversione convertitur ad se et ad omnes creaturas; et
+sic, dicendo se, dicit omnes creaturas.
+SC4
+Praeterea, omne posterius reducitur ad id quod est primum in aliquo genere, sicut ad causam. Sed creaturae
+dicuntur a Deo.
+Ergo reducuntur ad primum, quod a Deo dicitur.
+Sed ipse primo seipsum dicit. Ergo per hoc quod dicit se, dicit omnes creaturas.
+CO
+Responsio. Dicendum, quod filius procedit a patre et per modum naturae, inquantum procedit ut filius, et per
+modum intellectus, inquantum procedit ut verbum.
+Uterque autem processionis modus apud nos invenitur, quamvis non quantum ad idem.
+Nihil enim est apud nos quod per modum intellectus et naturae ex alio procedat, quia intelligere et esse non est
+idem apud nos, sicut apud Deum; uterque autem modus processionis habet similem differentiam, secundum quod
+in nobis et in Deo invenitur.
+
+89
+
+

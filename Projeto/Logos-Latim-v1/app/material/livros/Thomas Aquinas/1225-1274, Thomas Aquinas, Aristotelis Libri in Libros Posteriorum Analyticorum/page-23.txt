@@ -1,0 +1,57 @@
+|#7 Ulterius autem ostendit quod etiam si praemissa essent semper, et necessaria, et vera, et non per se, non
+tamen sciretur de conclusione propter quid; sicut patet in syllogismis, qui fiunt per signa, in quibus
+conclusionem, quae est per se, non scit aliquis per se, neque propter quid.
+Sicut si aliquis probaret quod omne elementum est corruptibile, per hoc quod videtur tempore antiquari, esset
+quidem probatio per signum, non autem per se, neque propter quid: quia propter quid scire est per causam scire.
+Oportet ergo medium esse causam eius, quod in demonstratione concluditur. Et hoc manifestum est ex
+praemissis: quia oportet et medium inesse tertio propter ipsum, idest per se, et similiter primum medio. Primum
+autem et tertium vocat duas extremitates.
+|+15 Lectio 15
+|#1
+Postquam ostendit Philosophus quod demonstratio est ex his quae sunt per se, hic concludit quod
+demonstratio est ex principiis propriis, non extraneis, neque ex communibus. Et dividitur in duas partes: in
+prima, ostendit quod demonstratio procedit ex propriis principiis; in secunda, determinat quae sint principia
+propria et quae communia; ibi: difficile autem etc.. Prima in duas: in prima, ostendit quod demonstratio non
+procedit ex principiis extraneis; in secunda, ostendit quod non procedit ex principiis communibus; ibi: quoniam
+autem manifestum est etc.. Prima in duas: in prima, ex praemissis ostendit quod demonstratio non est ex
+principiis extraneis; in secunda, ex praemissis etiam ostendit quod demonstrationes non sunt de rebus
+corruptibilibus, sed de sempiternis; ibi: manifestum autem et si sint propositiones etc.. Circa primum tria facit:
+primo, proponit intentum; secundo, probat propositum; ibi: tria enim sunt etc.; tertio, concludit intentum; ibi:
+propter hoc geometriae etc..
+|#2 Dicit ergo primo quod, ex quo demonstratio est ex his quae sunt per se, manifestum est quod non contingit
+demonstrare descendentem vel procedentem ex alio genere in aliud genus, sicut non contingit quod geometria ex
+propriis principiis demonstret aliquid descendens in arithmeticam.
+|#3 Deinde cum dicit: tria enim etc., propositum probat. Et circa hoc tria facit. Primo, praemittit quae sint
+necessaria ad demonstrationem, dicens quod in demonstrationibus tria sunt. Unum est, quod demonstratur,
+scilicet conclusio, quae quidem continet in se id, quod per se inest alicui generi: per demonstrationem enim
+concluditur propria passio de proprio subiecto. Aliud autem sunt dignitates, ex quibus demonstratio procedit.
+Tertium autem est genus subiectum, cuius proprias passiones et per se accidentia demonstratio ostendit.
+|#4 Secundo; ibi: ex quibus igitur etc., ostendit quid praedictorum trium possit esse commune diversis scientiis
+et quid non, dicens quod horum trium unum, scilicet dignitates, ex quibus demonstratio procedit, contingit esse
+idem in diversis demonstrationibus et etiam in diversis scientiis: sed in illis scientiis, quarum est diversum genus
+subiectum, sicut in arithmetica, quae est de numeris, et geometria, quae est de magnitudinibus, non contingit
+quod demonstratio, quae procedit ex principiis unius scientiae, puta arithmeticae, descendat ad subiecta alterius
+scientiae, sicut ad magnitudines, quae sunt subiecta geometriae; nisi forte subiectum unius scientiae contineatur
+sub subiecto alterius, sicut si magnitudines contineantur sub numeris (quod quidem qualiter contingat, scilicet
+subiectum unius scientiae contineri sub subiecto alterius, posterius dicetur)p magnitudines enim sub numeris non
+continentur, nisi forte secundum quod magnitudines numeratae sunt. Subiecta etiam diversarum
+demonstrationum sive scientiarum diversa sunt. Arithmetica enim demonstratio semper habet genus proprium
+circa quod demonstrat. Et aliae scientiae similiter.
+|#5 Tertio; ibi: quare aut simpliciter etc., probat propositum. Et circa hoc duo facit. Primo, inducit principale
+propositum per modum conclusionis, eo quod ex praemissis haberi potest, dicens: quare manifestum est quod
+necesse est, aut esse simpliciter idem genus, circa quod sumuntur principia et conclusiones, et sic non est
+descensus, neque transitus de genere in genus: aut si debet demonstratio descendere ab uno genere in aliud,
+oportet esse unum genus sic, idest quodammodo.
+Aliter enim impossibile est quod demonstretur aliqua conclusio ex aliquibus principiis, cum non sit idem genus
+vel simpliciter vel secundum quid.
+Sciendum est autem quod simpliciter idem genus accipitur, quando ex parte subiecti non sumitur aliqua
+differentia determinans, quae sit extranea a natura illius generis; sicut si quis per principia verificata de triangulo
+procedat ad demonstrandum aliquid circa isoscelem vel aliquam aliam speciem trianguli. Secundum quid autem
+est unum genus, quando assumitur circa subiectum aliqua differentia extranea a natura illius generis; sicut
+visuale est extraneum a genere lineae, et sonus est extraneus a genere numeri. Numerus ergo simpliciter, qui est
+genus subiectum arithmeticae, et numerus sonorum, qui est genus subiectum musicae, non sunt unum genus
+simpliciter.
+
+23
+
+

@@ -1,0 +1,62 @@
+est aliquid' ut 'poeta'; ergo etiam 'est' aut non? Secundum accidens enim praedicatur 'esse' de Homero; quoniam enim
+poeta est sed non secundum se, praedicatur de Homero quoniam est. Quare in quantiscumque praedicamentis neque
+contrarietas inest, si definitiones pro nominibus praedicantur, et secundum se praedicantur et non secundum accidens,
+in his et simpliciter uerum erit dicere. Quod autem non est quoniam opinabile est, non est uerum dicere esse aliquid;
+opinatio enim eius non est quoniam est sed quoniam non est.
+[12]
+His uero determinatis perspiciendum est quemadmodum sese habent negationes et affirmationes ad se
+inuicem, hae scilicet quae sunt de 'possibile esse' et 'non possibile' et 'contingere' et 'non contingere' et 'impossibile' et
+de necessario; habet enim aliquas dubitationes. Nam si eorum quae complectuntur illae sibi inuicem oppositae sunt
+contradictiones, quaecumque secundum 'esse' uel 'non esse' disponuntur, ut eius quae est 'esse hominem' negatio 'non
+esse hominem', non autem ea quae est 'esse non hominem', et eius quae est 'esse album hominem' ea quae est 'non esse
+album hominem' sed non ea quae est 'esse non album hominem' (si enim de omnibus aut dictio aut negatio lignum erit
+uerum dicere esse non album hominem; quod si, hoc modo, et quantiscumque 'esse' non additur, idem faciet quod pro
+'esse' dicitur, ut eius quae est 'ambulat homo' non uel quae est 'ambulat non homo' negatio est sed ea quae est 'non
+ambulat homo'; nihil enim differt dicere 'hominem ambulare' uel 'hominem ambulantem esse').
+Quare si hoc modo in omnibus, et eius quae est 'possibile esse' negatio est 'possibile non esse', non ea quae est
+'non possibile esse'. Videtur autem idem posse et esse et non esse; omne enim quod est possibile diuidi uel ambulare et
+non ambulare et non diuidi possibile est; ratio autem est quoniam omne quod sic possibile est non semper in actu est,
+quare inerit ei etiam negatio; potest igitur et non ambulare quod est ambulabile et non uideri quod est uisibile. At uero
+impossibile est de eodem oppositas ueras esse dictiones; non igitur est ista negatio; contingit enim ex his aut idem
+ipsum dicere et negare simul de eodem, aut non secundum 'esse' uel 'non esse' quae apponuntur fieri affirmationes uel
+negationes. Si ergo illud impossibilius est, hoc erit magis eligendum. Est igitur negatio eius quae est 'possibile esse' ea
+quae est 'non possibile esse'. Eadem quoque ratio est et in eo quod est 'contingens esse'; et enim eius negatio 'non
+contingere esse'. Et in aliis quoque simili modo ut 'necessario' et 'impossibili'. Fiunt enim quemadmodum in illis 'esse'
+et 'non esse' appositiones, subiectae uero res hoc quidem album illud uero homo, eodem quoque modo hoc loco 'esse'
+quidem subiectum fit, 'posse' uero et 'contingere' appositiones determinantes, quemadmodum in illis 'esse' et 'non esse'
+ueritatem, similiter autem hae etiam in 'esse possibile' et 'esse non possibile'.
+Eius uero quae est 'possibile est non esse' negatio est 'non possibile est non esse'. Quare et sequi sese inuicem
+uidebuntur; idem enim possibile est esse et non esse; non enim contradictiones sibi inuicem sunt huiusmodi 'possibile
+est esse' et 'possibile est non esse'. Sed 'possibile esse' et 'non possibile esse' numquam simul sunt; opponuntur enim. Ut
+uero 'possibile non esse' et 'non possibile non esse' numquam simul sunt. Similiter autem et eius quae est 'necessarium
+esse' non ea quae est, 'necessarium non esse' sed 'non necessarium esse'; eius uero quae est 'necessarium non esse' ea
+quae est 'non necessarium non esse'. Et eius quae est 'impossibile esse' non 'impossibile non esse' sed 'non impossibile
+esse'; eius uero quae est 'impossibile non esse' ea quae est 'non impossibile non esse'. Et uniuersaliter uero,
+quemadmodum dictum est, 'esse' quidem et 'non esse' oportet ponere quemadmodum subiecta, negationem uero et
+affirmationem haec facientem ad unum apponere. Et has putare oportet esse oppositas dictiones et negationes, 'possibile
+-- non possibile', 'contingens -- non contingens', 'impossibile -- non impossibile', 'necessarium -- non necessarium',
+'uerum -- non uerum'.
+[13]
+Et consequentiae uero secundum ordinem fiunt ita ponentibus: illi enim quae est 'possibile esse' illa quae est
+'contingit esse', et hoc illi conuertit, et 'non impossibile esse' et 'non necessarium esse'; illi uero quae est 'possibile non
+esse' et 'contingere non esse' ea quae est 'non necessarium non esse' et 'non impossibile non esse'; illi uero quae est 'non
+possibile esse' et 'non contingens esse' illa quae est 'necessarium non esse' et 'impossibile esse'; illi uero quae est 'non
+possibile non esse' et 'non contingens non esse' illa quae est 'necesse esse' et 'impossibile non esse'. Considerentur
+autem ex subscriptione quemadmodum dicimus.
+Ergo 'impossibile' et 'non impossibile' illud quod est 'contingens' et 'possibile' et 'non contingens' et 'non
+possibile' sequitur quidem contradictone sed conuersim; illi enim quod est 'possibile esse' negatio 'impossibilis',
+negationem uero affirmatio; illi enim quod est 'non possibile esse' illud quod est 'impossibile esse'; affirmatio enim est
+'impossibile esse', 'non impossibile' uero negatio.
+'Necessarium' uero quemadmodum, considerandum est. Manifestum est quoniam non eodem modo sed
+contrariae sequuntur, contradictoriae autem extra. Non enim est negatio eius quod est 'necesse non esse' 'non necesse
+esse'; contingit enim ueras esse in eodem utrasque; quod enim est necessarium non esse, non est necessarium esse.
+Causa autem est cur non consequatur similiter caeteris, quoniam contrarie 'impossibile' 'necessario' redditur idem
+ualens; nam si impossibile est esse, necesse est hoc non esse sed non-esse; si uero impossibile non esse, hoc
+necessarium est esse; quare, si illa similiter possibile et non, haec e contrario, nam idem significat 'necessarium' et
+'impossibile' sed, quemadmodum dictum est, contrarie. Aut certe impossibile est sic poni 'necessarii' contradictiones?
+Nam quod est necessarium esse, possibile est esse; nam, si non, negatio consequetur; necesse enim est aut dicere aut
+negare; quare si non possibile est esse, impossibile est esse; impossibile igitur est esse quod necesse est esse, quod est
+inconueniens. At uero illud quod est 'possibile esse' 'non impossibile esse' sequitur, hoc uero illud quod est 'non
+necessarium esse'; quare contingit quod est necessarium esse non necessarium esse, quod est inconueniens. At uero
+
+

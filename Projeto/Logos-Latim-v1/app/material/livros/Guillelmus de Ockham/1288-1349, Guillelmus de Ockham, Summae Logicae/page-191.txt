@@ -1,0 +1,59 @@
+sic arguendo 'nullus homo est in domo, igitur nullus exsistens in domo est homo'. Similiter sic arguendo 'nullus
+homo uidet asinum, igitur nullus uidens asinum est homo'. Et hoc est uerum quando obliquitas cadit a parte
+praedicati; quia si cadat a parte subiecti, non oportet. Unde ista 'omnem hominem uidet asinus' debet sic conuerti
+'ergo asiniis uidet hominem'; similiter 'Filium generat Pater, igitur Pater generat Filium'.
+Circa praedicta est sciendum quad quanda in tali propositione ponitur aduerbialis determinatio uel
+aliqua determinatio aequiualens aduerbiali determinationi, illa determinatio in conuersa non debet esse
+determinatia uerbi, sed debet esse determinatio participii eiusdem uerbi. Et tunc in tali casu, siue propositio
+conuertibilis sit in recto siue in obliquo oportet resoluere uerbum in suum participium et in hoc uerbum 'est'; et
+ita oportet aliquam uariationem uocis facere praeter transpositianem terminorum. Et idea ista 'alteratum currit
+uelaciter' non debet sic conuerti 'ergo currens est uelaciter alteratum', nam ponatur quad idem tarde alteretur et
+uelociter currat, tunc est antecedens uerum et consequens falsum; sed debet sic conuerti 'igitur uelociter currens
+est alteratum', ita quad li uelociter sit determinatia huius participii
+'currens' et non huius uerbi 'est'. Similiter ista 'creans semper est Deus'
+non debet sic conuerti 'igitur Deus est semper creans', sed sic 'igitur aliquid quod semper est Deus, est
+creans'.
+[2.22. DE CONVERSIONE PROPOSITIONUM DE INESSE,
+QUAE SUNT DE PRAETERITO ET FUTURO]
+QUAE SUNT DE PRAETERITO ET FUTURO]
+Circa conuersionem propositionum de praeterita et de futuro est primo sciendum quad quaelibet
+propositio de praeterito et de futuro, in qua subicitur terminus communis, est distinguenda penes tertium modum
+aequiuocationis', eo quod subiectum potest supponere pro eo quod est uel pro eo quod fuit, si sit propositio de
+praeterito; hoc est eo quod subiectum potest supponere pro eo de quo uerificatur subiectum per uerbum de
+praesenti, uel pro eo de quo uerificatur subiectum per uerbum de praeterito. Sicut ista 'album fuit Sortes' est
+distinguenda, eo quod
+'album' potest supponere pro eo quod est album uel pro eo quod fuit album. Si autem sit propositio de
+futuro, tunc est distinguenda, eo quod subiectum potest supponere pro eo quod est uel pro eo quod erit, hoc est
+pro eo de quo uerificatur subiectum per uerbum de praesenti uel pro eo de quo uerificatur subiectum per uerbum
+de futuro. Et est ista regula intelligenda quando subiectum supponit personaliter, hoc est significatiue.
+'album' potest supponere pro eo quod est album uel pro eo quod fuit album. Si autem sit propositio de
+futuro, tunc est distinguenda, eo quod subiectum potest supponere pro eo quod est uel pro eo quod erit, hoc est
+pro eo de quo uerificatur subiectum per uerbum de praesenti uel pro eo de quo uerificatur subiectum per uerbum
+de futuro. Et est ista regula intelligenda quando subiectum supponit personaliter, hoc est significatiue.
+Secundo sciendum quod quando subiectum talis propositionis supponit pro eo quod est, tunc illa
+propositio debet conuerti in propositionem de praesenti, accepto subiecto cum hoc uerbo 'fuit' et hoc pronomine
+'qui', et non in propositionem de praeterito. Unde ista consequentia non ualet
+'nullum album fuit homo, igitur nullus homo fuit albus', si subiectum antecedentis sumatur pro eo quod
+est. Nam ponatur quod multi homines, tam uiui quam mortui, fuerint albi, et quod multa alia fuerint alba et modo
+sint, et quod nullus homo sit modo albus, tunc est antecedens uerum et consequens falsum, nam haec est uera
+'nihil quod est album fuit homo', quia quaelibet singularis est uera, per casum; sed haec est falsa 'nullus homo
+fuit albus', qualitercumque subiectum accipiatur. Et idea non debet praedicto modo conuerti, sed sic 'nullum
+album fuit homo, igitur nullus qui fuit homo est albus'. Et eodem modo sequitur e conuerso 'nullus qui fuit homo
+est albus, igitur nullum albuni fuit homo', subiecto consequentis supponente pro his quae sunt alba et non pro his
+quae fuerunt alba. Si autem subiectum in tali propositione accipiatur pro eo quod fuit, sic est simpliciter
+conuertibilis in illam de praeterito et non in illam de praesenti. Bene enim sequitur 'nullum album fuit homo',
+subiecto accepto pro eo quod fuit, 'igitur nullus homo fuit albus'; et hoc si subiectum consequentis accipiatur pro
+eo quod fuit. Impossibile enim est quod aliquis homo fuerit albus et tamen quod nihil quod fuerit album fuerit
+homo.
+'nullum album fuit homo, igitur nullus homo fuit albus', si subiectum antecedentis sumatur pro eo quod
+est. Nam ponatur quod multi homines, tam uiui quam mortui, fuerint albi, et quod multa alia fuerint alba et modo
+sint, et quod nullus homo sit modo albus, tunc est antecedens uerum et consequens falsum, nam haec est uera
+'nihil quod est album fuit homo', quia quaelibet singularis est uera, per casum; sed haec est falsa 'nullus homo
+fuit albus', qualitercumque subiectum accipiatur. Et idea non debet praedicto modo conuerti, sed sic 'nullum
+album fuit homo, igitur nullus qui fuit homo est albus'. Et eodem modo sequitur e conuerso 'nullus qui fuit homo
+est albus, igitur nullum albuni fuit homo', subiecto consequentis supponente pro his quae sunt alba et non pro his
+quae fuerunt alba. Si autem subiectum in tali propositione accipiatur pro eo quod fuit, sic est simpliciter
+conuertibilis in illam de praeterito et non in illam de praesenti. Bene enim sequitur 'nullum album fuit homo',
+191
+
+

@@ -1,0 +1,48 @@
+totiens illam pyramidem curtam esse proponimus. Hoc autem non solis a tetragono pyramidis sed in omnibus ab
+omni multiangulo progredientibus speculari licet.
+De cybis vel asseribus vel laterculis vel cuneis vel sphericis vel parallelepipedis numeris
+Ac de solidis quidem, quae pyramidis formam obtinent, aequaliter crescentibus et a propria velut radice
+multiangula figura progredientibus dictum est. Est alia rursus quaedam corporum solidorum ordinabilis
+compositio, eorum qui dicuntur cybi vel asseres vel laterculi vel cunei vel spherae vel parallelepipeda, quae sunt,
+quotiens superficies contra se sunt, et ductae in infinitum nunquam concurrent. Dispositis enim in ordinem
+tetragonis i iiij viiij xvj xxv, quoniam hi solam longitudinem latitudinemque sortiti sunt et altitudine carent, si
+per latera solam unam multiplicationem recipiant, aequalem provehunt profunditatem. Nam quattuor tetragonus
+duos habet in latere et natus est ex bis duobus. Bis enim duo quattuor faciunt. Hos ergo duos ex ipsius latere si
+multiplices aequaliter, cybi forma nascetur. Nam si bis binos bis facias, octonaria quantitas crescit. Et est primus
+hic cybus. VIIII vero tetragonus, quoniam tres habet in latere et factus est ex tribus in se multiplicatis, si ei unam
+lateris multiplicationem adiunxeris, rursus alius cybus aequabili laterum formatione concrescit. Ter enim tres si
+tertio duxeris, xxvij cybi figura producitur. Et xvj, qui est ex quattuor, si quater augescat, lxiiij cybus pari
+laterum demensione crassabitur. Et sequentes quidem tetragoni secundum eundem modum multiplicatione facta
+provehuntur. Tot autem necesse est unitates cybus habeat in latere, quot habuit primus ille tetragonus, ex quo
+ipse productus est. Nam quoniam quattuor tetragonus duos tantum numeros habet in latere, duos quoque habet
+octonarius cybus. Et quoniam viiij tetragonus tribus per latus unitatibus signabatur, solo ternario xxvij cybi latus
+urgetur. Et quoniam xvj tetragonus iiij unitatum latus habebat, totidem lxiiij cybus in latere gestabit unitates.
+Quare etiam vi et potestate cybi, quod est unitas, unus erit in latere. Omnis enim tetragonus una quidem
+superficies est quattuor angulorum, totidemque laterum. Omnis autem cybus, qui ex tetragonorum superficie in
+profunditatem corporis crevit, per tetragoni scilicet latus multiplicatus, habebit quidem superficies vj, quarum
+singula planitudo tetragono illi priori aequalis est, latera vero xij, quorum unumquodque singulis his, quae
+superioris fuere tetragoni, aequum est, et, ut superius demonstravimus, tot unitatum est; angulos vero viij,
+quorum singulus sub tribus eiusmodi continetur, quales priores fuere tetragoni, unde cybus ipse productus est.
+Ergo ex naturaliter profuso numero qui in subiecta forma descripti sunt subiecti tetragoni nascuntur, et ex his
+tetragonis qui subnotati sunt cybi provehuntur.
+Numerus naturalis:
+j ij iij iiij v vj vij
+Tetragoni:
+j iiij viiij xvj xxv xxxvj xlviiij
+Cybi:
+j viij xxvij lxiiij cxxv ccxvj cccxliij
+Et quoniam omnis cybus ab aequilateris quadratis profectus aequus ipse omnibus partibus est -- nam et
+latitudini longitudo et his duobus compar est altitudo -- et secundum sex partes, id est sursum deorsum dextra
+sinistra ante post, sibi aequalem esse necesse est: huic oppositum contrariumque esse oportebit qui neque
+longitudinem latitudini neque haec duo profunditati gerat aequalia, sed cunctis inaequalibus, quamvis solida sit
+figura, ab aequalitate cybi longissime distare videatur. Hi autem sunt, ut si quis faciat bis tres quater, vel ter
+quattuor quinquies et alia huiusmodi, quae per inaequales spatiorum gradus inaequaliter provehuntur. Haec
+autem forma Graeco nomine scalenos vocatur. Nos vero gradatum possumus dicere, quod a minore modo velut
+gradibus crescat ad maius. Vocant autem eandem figuram Graeci quidam spheniscon; nos autem cuneum
+possumus dicere. Etenim quos ad quamlibet illam rem constringendam cuneos formant neque latitudinis neque
+longitudinis neque altitudinis habita ratione, quantum commodum fuerit, tantum vel altitudini minuitur, vel
+crassitudini profunditatis augetur. Atque ideo hos plerumque necesse est omnibus partibus inaequalibus inveniri.
+Quidam vero hos bomiscos vocant, id est quasdam arulas, quae in Ionica Graeciae regione, ut ait Nicomachus,
+38
+
+

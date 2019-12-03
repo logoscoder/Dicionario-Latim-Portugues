@@ -1,0 +1,66 @@
+mutationem esse priorem aliis motibus. Necesse est ergo motum circularem
+esse priorem recto.
+|#7
+Deinde cum dicit: amplius prior etc., ponit secundam rationem: quae
+talis est.
+Motus qui potest esse perpetuus, est prior eo qui perpetuus esse non
+potest; quia perpetuum est prius non perpetuo, et tempore et natura.
+Circularis autem motus potest esse perpetuus, et nullus aliorum motuum, cum
+oporteat eis succedere quietem: ubi autem quies supervenerit, corrumpitur
+motus. Relinquitur ergo quod motus circularis sit prior omnibus aliis
+motibus. Haec autem quae in hac ratione supponit, ex superioribus patent.
+|+20
+
+Lectio 20
+
+|#1
+Postquam Philosophus ostendit per proprias rationes, quod motus
+circularis est continuus et primus; hic ostendit idem per quasdam logicas
+et communes rationes.
+Et ponit tres rationes.
+Circa quarum primam dicit, quod rationabiliter accidit quod motus
+circularis sit unus et continuus in perpetuum, non autem motus rectus. Quia
+in recto determinatur principium, medium et finis, et omnia haec tria est
+assignare in ipsa linea recta: et ideo est in ipsa linea unde incipiat
+motus, et ubi finiatur; quia omnis motus quiescit apud terminos, scilicet
+vel a quo vel ad quem (has enim duas quietes supra in quinto distinxerat)p
+sed in linea circulari termini non sunt distincti: nulla enim est ratio
+quare unum punctum signatum in linea circulari, sit magis terminus quam
+aliud; quia unumquodque similiter est et principium et medium et finis.
+Et sic quodammodo quod movetur circulariter, semper est in principio et in
+fine, inquantum scilicet quodlibet punctum signatum in circulo potest
+accipi ut principium vel finis: et quodammodo nunquam est in principio vel
+fine, inquantum scilicet nullum punctum circuli est principium vel finis in
+actu.
+Unde sequitur quod sphaera quodammodo movetur, et quodammodo quiescit: quia
+sicut in sexto dictum est, sphaera dum movetur semper obtinet eundem locum
+secundum subiectum, et quantum ad hoc quiescit; alium tamen et alium
+secundum rationem, et quantum ad hoc movetur.
+Ideo autem in ipsa linea circulari non distinguitur principium, medium et
+finis, quia haec tria pertinent ad centrum; a quo sicut a principio
+procedunt lineae ad circumferentiam, et ad ipsum terminantur lineae a
+circumferentia protractae; et est etiam medium totius magnitudinis secundum
+aequidistantiam ad omnia signa circumferentiae.
+Et ideo, quia principium et finis circularis magnitudinis est extra
+circulationem, scilicet in centro, ad quod non pertingit quod circulariter
+movetur; non est assignare in motu circulari ubi quiescat illud quod
+fertur, cum pervenerit ad ipsum: quia quod circulariter movetur, semper
+fertur circa medium, sed non fertur ad ultimum, quia non fertur ad medium
+quod est principium et ultimum.
+Et propter hoc, totum quod sphaerice movetur, quodammodo semper quiescit,
+et quodammodo continue movetur, ut dictum est.
+Ex his ergo quae dicta sunt, sic ratio extrahi potest. Omnis motus qui
+nunquam est in principio et fine, est continuus: sed motus circularis est
+huiusmodi: ergo etc.. Et per idem medium probatur quod motus rectus non
+possit esse continuus.
+|#2
+Deinde cum dicit: accidit autem conversim etc., ponit secundam
+rationem, dicens quod haec duo conversim se sequuntur, scilicet quod motus
+circularis sit mensura omnium motuum, et quod sit primus motuum: omnia enim
+mensurantur primo sui generis, ut in X metaphys. Ostenditur. Et sic ista
+proposito convertibilis est: omne quod est mensura, est primum sui generis;
+et omne quod est primum, est mensura. Sed motus circularis est mensura
+omnium aliorum motuum, ut patet ex his quae in fine quarti sunt dicta: ergo
+342
+
+

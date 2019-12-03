@@ -1,0 +1,55 @@
+Ea enim, quae sunt composita, sunt mutabilia, et ita pluribus modis se possunt habere: quae autem pluribus
+modis habere se possunt, possunt se habere aliter et aliter; quod est contra rationem necessarii.
+Nam necessarium est, quod est impossibile aliter se habere. Unde oportet, quod primum necessarium non aliter
+et aliter se habeat, et per consequens nec pluribus modis.
+Et ita oportet ipsum esse simplex.
+|#15 Tertia conclusio est, quod, cum violentum sit quod movetur ab aliquo exteriori agente praeter naturam
+propriam, principia autem necessaria sunt simplicia et immobilia, ut ostensum est, necessarium est ut si sunt
+aliqua sempiterna et immobilia sicut sunt substantiae separatae, quod in illis non sit aliquid violentum nec
+praeter naturam. Et hoc dicit, ne deceptio accidat in nomine necessitatis, cum dicitur de substantiis
+immaterialibus, nec per hoc intelligitur aliqua violentia in eis esse.
+|+7 Lectio 7
+|#1 Postquam Philosophus distinxit nomina quae significant causas, hic distinguit nomina quae significant id
+quod est subiectum aliquo modo in ista scientia.
+Et dividitur in duas partes. Primo ponit sive distinguit nomina, quae significant subiectum huius scientiae.
+Secundo ea, quae significant partes subiecti, ibi, eadem dicuntur.
+Subiectum autem huius scientiae potest accipi, vel sicut communiter in tota scientia considerandum, cuiusmodi
+est ens et unum: vel sicut id de quo est principalis intentio, ut substantia. Et ideo primo distinguit hoc nomen
+unum. Secundo hoc nomen ens, ibi, ens dicitur etc.. Tertio hoc nomen substantia, ibi, substantia dicitur etc..
+Circa primum duo facit. Primo distinguit unum in per se et per accidens; et ostendit quot modis dicitur unum per
+accidens.
+Secundo quot modis dicitur unum per se, ibi secundum se vero unum etc..
+|#2 Dicit ergo, quod unum dicitur et per se et per accidens. Per accidens autem unum docet considerare primo in
+terminis singularibus; et hoc dupliciter. Uno modo secundum quod accidens comparatur ad subiectum. Alio
+modo secundum quod unum accidens comparatur ad aliud. In utroque autem istorum tria est accipere; scilicet
+unum compositum et duo simplicia.
+Si enim unum per accidens accipiatur secundum comparationem accidentis ad subiectum, sic sunt ista tria:
+primum est Coriscus, secundum est musicus, tertium Coriscus musicus. Et haec tria sunt unum per accidens.
+Nam idem subiecto est Coriscus et musicus. Et similiter, quando comparatur accidens ad accidens, tria est
+accipere; quorum primum est musicum, secundum est iustum, tertium est musicus iustus Coriscus. Et omnia
+praedicta dicuntur esse unum secundum accidens; tamen alia et alia ratione.
+|#3 Iustum enim et musicum, quae sunt duo simplicia in secunda acceptione, dicuntur unum per accidens, quia
+accidunt uni subiecto. Musicus vero et Coriscus, quae sunt duo simplicia in prima acceptione, dicuntur unum per
+accidens, quia alterum eorum, scilicet musicum accidit alteri, scilicet Corisco. Et similiter quantum ad aliquid
+musicus Coriscus cum Corisco, quod est compositum cum uno simplicium, in prima acceptione dicuntur unum
+per accidens, quia inter partes istas quae sunt in hac oratione, idest in hoc termino complexo, scilicet, Coriscus
+musicus, altera pars termini complexi, scilicet musicus, accidit alteri parti per se signatae, scilicet Corisco. Et
+eadem ratione potest dici, quod musicus Coriscus est unum cum iusto Corisco, quae sunt duo composita in
+secunda acceptione, quia ambae partes utriusque compositi accidunt uni, scilicet Corisco. Si enim idem est
+musicus et musicus Coriscus, et iustus et iustus Coriscus, cuicumque accidit musicum accidit musicus Coriscus;
+et quicquid accidit Corisco accidit Corisco iusto. Unde, si musicum accidit Corisco, sequitur, quod musicus
+Coriscus accidit iusto Corisco. Et sic nihil differt dicere musicum Coriscum accidere iusto Corisco, quam
+musicum accidere Corisco.
+|#4 Quia vero huiusmodi praedicata per accidens per prius praedicantur de singularibus, et per posterius de
+universalibus, cum tamen e converso sit de praedicatis per se, manifestat consequenter in terminis universalibus
+quod in singularibus ostenderat; dicens, quod similiter accipitur unum per accidens, si aliquod accidens dicatur
+cum aliquo nomine alicuius generis, vel cuiuscumque universalis, sicut accipitur unum per accidens in praedictis,
+quando accidens adiungitur nomini singulari; sicut cum dicitur, quod homo et musicus homo sunt unum per
+accidens, licet quantum ad aliquid differant.
+|#5 Singulares enim substantiae nec sunt in subiecto, nec de subiecto praedicantur.
+Unde tantum substant et nihil eis substat. Substantiae quidem universales dicuntur de subiecto, sed non sunt in
+subiecto.
+
+132
+
+

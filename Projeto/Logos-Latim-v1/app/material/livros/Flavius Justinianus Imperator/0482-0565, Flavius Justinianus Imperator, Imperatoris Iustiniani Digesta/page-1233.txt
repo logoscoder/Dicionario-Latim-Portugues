@@ -1,0 +1,54 @@
+Dig.44.2.29.1
+Papinianus 11 resp.
+Si debitor de dominio rei, quam pignori dedit, non admonito creditore causam egerit et contrariam sententiam acceperit,
+creditor in locum victi successisse non videbitur, cum pignoris conventio sententiam praecesserit.
+Dig.44.2.30pr.
+Paulus 14 quaest.
+Ex sextante heres institutus, qui intestato legitimus heres esse potest, cum de iure testamenti faceret quaestionem, ab
+uno ex institutis dimidiam partem hereditatis petiit nec optinuit. videtur in illa petitione etiam partem sextantis
+vindicasse et ideo, si coeperit ab eodem ex testamento eandem portionem petere, obstabit ei exceptio rei iudicatae.
+Dig.44.2.30.1
+Paulus 14 quaest.
+Latinus largus: cum de hereditate inter maevium, ad quem pertinebat, et titium, qui controversiam moverat,
+transigeretur, traditio rerum hereditariarum maevio heredi a titio facta est, in qua traditione etiam fundum ei suum
+proprium, quem ante multos annos avo eiusdem maevii heredis obligaverat quemque alii postea in obligationem
+deduxerat, ex causa pacti tradidit. his gestis posterior titii creditor ius suum persecutus est et optinuit. post hoc iudicium
+maevius heres repperit in rebus avitis chirographum eiusdem titii ante multos annos conscriptum, per quod apparuit
+eum fundum, qui in causam transactionis venerat, etiam avo suo ab eodem titio fuisse obligatum. cum ergo constet
+prius avo maevii heredis in obligationem eundem fundum datum, de quo maevius superatus est, quaero, an ius avi sui,
+quod tunc, cum de eodem fundo ageretur, ignorabat, nulla exceptione opposita exsequi possit. respondi: si de
+proprietate fundi litigatur et secundum actorem pronuntiatum fuisset, diceremus petenti ei, qui in priore iudicio victus
+est, obstaturam rei iudicatae exceptionem, quoniam de eius quoque iure quaesitum videtur, cum actor petitionem
+implet. quod si possessor absolutus amissa possessione eundem ab eodem, qui prius non optinuit, peteret, non obesset
+ei exceptio: nihil enim in suo iudicio de iure eius statutum videretur. cum autem pigneraticia actum est adversus
+priorem creditorem, potest fieri, ut de iure possessoris non sit quaesitum, quia non, ut in proprietatis quaestione quod
+meum est alterius non est, ita in obligatione utique consequens est, ut non sit alii obligatum, quod hic probabit sibi
+teneri. et probabilius dicitur non obstare exceptionem, quoniam de iure possessoris quaesitum non est, sed de sola
+obligatione. in proposita autem quaestione magis me illud movet, numquid pignoris ius extinctum sit dominio
+adquisito: neque enim potest pignus perseverare domino constituto creditore. actio tamen pigneraticia competit: verum
+est enim et pigneri datum et satisfactum non esse, quare puto non obstare rei iudicatae exceptionem.
+Dig.44.2.31
+Paulus 3 resp.
+Paulus respondit ei, qui in rem egisset nec tenuisset, postea condicenti non obstare exceptionem rei iudicatae.
+Dig.44.3.0. De diversis temporalibus praescriptionibus et de accessionibus possessionum.
+Dig.44.3.1
+Ulpianus 74 ad ed.
+Quia tractatus de utilibus diebus frequens est, videamus, quid sit experiundi potestatem habere. et quidem in primis
+exigendum est, ut sit facultas agendi. neque sufficit reo experiundi secum facere potestatem, vel habere eum qui se
+idonee defendat, nisi actor quoque nulla idonea causa impediatur experiri. proinde sive apud hostes sit sive rei publicae
+causa absit sive in vinculis sit aut si tempestate in loco aliquo vel in regione detineatur, ut neque experiri neque
+mandare possit, experiundi potestatem non habet. plane is, qui valetudine impeditur, ut mandare possit, in ea causa est,
+ut experiundi habeat potestatem. illud utique neminem fugit experiundi potestatem non habere eum, qui praetoris
+copiam non habuit: proinde hi dies cedunt, quibus ius praetor reddit.
+Dig.44.3.2
+Marcellus 6 dig.
+In tempore constituto iudicatis an intercalaris dies proficere iudicato nec ne debeat, quaeritur. item de tempore, quo lis
+perit, sic sine dubio existimandum est, ut auctum litis tempus intercalari die existimetur, veluti si de usucapione sit
+quaestio, quae tempore constituto expleri solet, aut de actionibus, quae certo tempore finiuntur, ut aediliciae pleraeque
+actiones. et si quis fundum ea lege vendiderit, ut, nisi in diebus triginta pretium esset solutum, inemptus esset fundus,
+dies intercalaris proficiet emptori. mihi contra videtur.
+Dig.44.3.3
+Modestinus 6 diff.
+Longae possessionis praescriptionem tam in praediis quam in mancipiis locum habere manifestum est.
+
+

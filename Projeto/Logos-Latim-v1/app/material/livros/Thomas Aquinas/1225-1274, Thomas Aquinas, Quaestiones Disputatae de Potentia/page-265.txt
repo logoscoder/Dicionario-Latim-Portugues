@@ -1,0 +1,63 @@
+AG4
+Praeterea, omne relativum ad aliud dicitur.
+Non autem potest esse aliud ubi non est distinctio. Ergo relatio distinctionem praesupponit.
+Distinctio autem in divinis personis est secundum originem, prout scilicet unus procedit ab alio. Ergo
+processiones secundum intellectum praecedunt relationes in divinis.
+AG5
+Praeterea, omnis processio praecedit secundum intellectum processionis terminum.
+Filiatio autem quae est relatio filii, est terminus nativitatis, quae est eiusdem filii processio.
+Ergo processio filii praecedit filiationem.
+Sed filiatio et paternitas sunt simul non solum natura et tempore, sed etiam intellectu; quia unum relativorum est
+de intellectu alterius. Nativitas ergo filii praecedit paternitatem secundum intellectum, et multo magis generatio,
+quae est actus patris. Processiones ergo simpliciter relationes praecedunt secundum intellectum in divinis.
+SC1
+Sed contra. Prius secundum intellectum est persona quam actio personalis. Relationes autem sunt constitutivae
+personarum, processiones autem sunt quasi personales actiones.
+Ergo prius secundum intellectum sunt relationes quam processiones.
+SC2
+Praeterea, processio oportet quod sit alicuius ab alio; sicut enim nulla res generat seipsam ut sit, ut Augustinus
+dicit, ita nulla res a seipsa procedit. Processio ergo distinctionem in divinis requirit. Distinctio autem non est in
+divinis nisi per relationes. Ergo processiones in divinis praesupponunt relationes.
+CO
+Respondeo. Dicendum quod ordo absque distinctione non est. Unde ubi non est distinctio secundum rem, sed
+solum secundum modum intelligendi, ibi non potest esse ordo nisi secundum modum intelligendi. Distinctio
+autem secundum rem in divinis non est, nisi personarum ad invicem, et oppositarum relationum; unde in divinis
+non est ordo realis nisi quantum ad personas, inter quas est ordo naturae, secundum Augustinum, prout est alter
+ex altero, non quod alter sit prior altero.
+Processiones autem et relationes non distinguuntur in divinis secundum rem, sed solum secundum modum
+intelligendi. Unde et Augustinus dicit quod proprium patris est quod genuit filium. In quo datur intelligi, quod
+generare filium sit proprietas patris; nec est alia proprietas quam paternitas, quae dicitur esse patris proprietas
+personalis. Non est ergo inter processionem et relationem in divinis quaerendus ordo secundum rem, sed
+secundum modum intelligendi tantum.
+Sicut autem relatio et processio in divinis sunt idem secundum rem, et differunt secundum rationem tantum, ita
+et ipsa relatio, quamvis sit una secundum rem, est tamen multiplex secundum modum intelligendi. Intelligimus
+enim ipsam relationem ut constitutivam personae; quod quidem non habet in quantum est relatio. Quod ex hoc
+patet, quia relationes in rebus humanis non constituunt personas, cum relationes sint accidentia; persona vero est
+aliquid subsistens in genere substantiae; substantia autem per accidens constitui non potest. Sed habet hoc relatio
+in divinis quod personam constituat in quantum est divina relatio; ex hoc enim habet quod sit idem cum divina
+essentia, cum in Deo nullum accidens esse possit: relatio enim, quia secundum rem est ipsa natura divina,
+hypostasim divinam constituere potest. Est ergo alius modus intelligendi quo intelligitur relatio ut constitutiva
+divinae personae, et alius quo intelligitur relatio ut relatio est. Unde nihil prohibet quod quantum ad unum
+modum intelligendi, relatio praesupponat processionem, quantum vero ad alium sit e converso.
+Sic ergo dicendum est, quod si consideretur relatio ut relatio est, praesupponit processionis intellectum; si autem
+consideretur ut est constitutiva personae, sic relatio quae est constitutiva personae, a qua est processio, est prior
+secundum intellectum quam processio; sicut paternitas in quantum est constitutiva personae patris, est prior
+secundum intellectum quam generatio. Relatio autem quae est constitutiva personae procedentis etiam in
+quantum est constitutiva personae, est posterior secundum intellectum quam processio, sicut filiatio quam
+nativitas; et hoc ideo quia persona procedens intelligitur ut terminus processionis.
+RA1
+Ad primum ergo dicendum, quod magister loquitur de paternitate considerata secundum quod relatio est.
+RA2
+Et similiter dicendum ad secundum et tertium.
+RA4
+Ad quartum dicendum, quod in rebus in quibus relationes sunt accidentia, oportet quod relatio praesupponat
+distinctionem; in divinis autem relationes constituunt tres personas distinctas.
+RA5
+Ad quintum dicendum, quod paternitas est de intellectu filiationis, et e converso, secundum quod utrumque
+consideratur ut relatio quaedam. Sic autem dicimus, quod relationes sequuntur processiones ordine intellectus.
+RC
+Aliae duae rationes procedunt de relationibus secundum quod sunt constitutivae personarum.
+
+265
+
+

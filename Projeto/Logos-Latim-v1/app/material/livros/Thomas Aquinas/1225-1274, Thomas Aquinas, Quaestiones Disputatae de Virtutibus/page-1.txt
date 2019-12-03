@@ -1,0 +1,50 @@
+OPERA OMNIA
+SANCTI THOMAE AQUINATIS
+-----oOo----Textum electronicum praeparavit et indexavit
+Ricardo M. Rom n, S. R. E. Presbyterus
+Bonis Auris, MCMXCVIII
+
+|*Q._DISPUTATAE
+QUAESTIONES DISPUTATAE
+|*DE_VIRTUTIBUS
+|q1 Quaestio 1
+Prologus
+PR1
+Et primo enim quaeritur, utrum virtutes sint habitus.
+PR2
+Secundo utrum definitio virtutis quam Augustinus ponit, sit conveniens.
+PR3
+Tertio utrum potentia animae possit esse virtutis subiectum.
+PR4
+Quarto utrum irascibilis et concupiscibilis possint esse subiectum virtutis.
+PR5
+Quinto utrum voluntas sit subiectum virtutis.
+PR6
+Sexto utrum in intellectu practico sit virtus sicut in subiecto.
+PR7
+Septimo utrum in intellectu speculativo sit virtus.
+PR8
+Octavo utrum virtutes insint nobis a natura.
+PR9
+Nono utrum virtutes acquirantur ex actibus.
+PR10
+Decimo utrum sint aliquae virtutes homini ex infusione.
+PR11
+Undecimo utrum virtus infusa augeatur.
+PR12
+Duodecimo de distinctione virtutum.
+PR13
+Decimotertio utrum virtus sit in medio.
+|a1 Articulus 1
+TTA
+Et primo quaeritur utrum virtutes sint habitus.
+TTB
+Et videtur quod non, sed magis actus.
+AG1
+Augustinus enim dicit in Lib. Retract., quod bonus usus liberi arbitrii est virtus. Sed usus liberi arbitrii est actus.
+Ergo virtus est actus.
+AG2
+
+1
+
+

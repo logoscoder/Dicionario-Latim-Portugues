@@ -1,0 +1,57 @@
+Talis autem divisio corporum in superficies non est per illum modum quo corpus aliquod dividitur in suas partes
+corporeas; sic enim et sphaera dividitur in suas partes: sed haec est divisio quasi in ea quae differunt specie ab eo
+quod dividitur. Sic igitur concludit planum esse quod sphaera sit prima solidarum figurarum.
+|#7 Secundam opinionem ponit ibi: est autem et secundum numerum etc.. Et dicit quod quidam assignaverunt
+ordinem figurarum secundum species numerorum, adaptando figuras numeris. Et secundum hoc dicit
+rationabilissimum esse quod circulus adaptetur unitati, propter hoc quod est prima et simplicissima figurarum;
+triangulus autem adaptetur dualitati, propter hoc quod anguli trianguli adaequantur duobus rectis. Si autem
+acciperetur unitas secundum triangulum, sequeretur quod circulus, qui est naturaliter prior triangulo, esset extra
+genus figurae, si triangulus esset prima figurarum.
+|#8 Deinde cum dicit: quoniam autem prima quidem etc., probata minori, syllogizat ad propositum.
+Et dicit quod, quia prima figura debetur primo corpori, cum primum corpus sit id quod est in extrema
+circumferentia totius mundi, consequens est quod tale corpus, quod circulariter fertur, etiam ipsum in seipso sit
+sphaericum.
+|#9 Deinde cum dicit: et continuum igitur illi etc., ostendit quod etiam inferiora caelestia corpora sunt sphaerica.
+Et dicit quod ex quo primum corpus est sphaericum, consequens est quod et corpus consequens continuum illi,
+idest immediate coniunctum ad ipsum, sit sphaericum: illud enim corpus quod est continuum, idest immediate
+coniunctum, sphaerico, oportet quod etiam sit sphaericum.
+Et hoc est verum si corpus primum sit sphaericum non solum secundum suum convexum, sed etiam secundum
+suum concavum: cum enim eadem natura sit primi corporis in concavo et convexo, oportet quod utrobique
+habeat eandem figuram. Et eadem ratio est de corporibus aliis quae sunt in medio horum contenta ab istis, quod
+oportet ea sphaerica esse. Illa enim corpora quae continentur et continguntur a corpore sphaerico secundum
+suum convexum, necesse est esse sphaerica secundum suum convexum; et per consequens secundum concavum,
+si sunt unius naturae.
+Cum igitur sphaerae planetarum inferiorum contingant sphaeram superiorem, sequitur quod tota latio, idest
+totum corpus quod circulariter fertur, habeat sphaericam figuram: quia omnia illa corpora caelestium sphaerarum
+se invicem tangunt, et sunt continua, idest immediate sibi invicem coniuncta. Nec est aliquod corpus
+intermedium quod suppleat vacuitates sphaerarum, ut quidam ponunt: sequeretur enim illa corpora esse otiosa,
+cum non haberent motum circularem.
+|+6 Lectio 6
+|#1 Postquam Philosophus ostendit quod caelum est sphaericae figurae, ex eo quod haec figura est prima
+figurarum, hic ostendit idem ex eo quod haec figura est convenientissima caelo. Et primo ex eo quod est propria
+caelo quantum ad hoc quod est universaliter continens omnia corpora; secundo quantum ad hoc quod motus eius
+est universalis mensura omnium motuum, ibi: adhuc autem si quidem etc..
+|#2 Circa primum praemittit duas suppositiones in superioribus manifestatas. Quarum prima est quod caelum
+movetur circulariter: hoc enim et ad sensum videtur, et supponitur ex probationibus primi libri. Secunda
+suppositio est ex eo quod ostensum est in primo libro, in capitulo de unitate mundi, scilicet quod extra extremam
+circulationem supremae sphaerae non est nec vacuum nec locus.
+Et ex his suppositionibus ex necessitate concludit quod corpus caeli sit sphaericum. Si enim non sit sphaericum,
+oportet quod aut habeat figuram rectilineam totaliter, aut oportet quod habeat quantum ad aliquam partem
+circularem figuram, quae tamen non perveniat ad perfectionem sphaerae. Si vero corpus caeli sit vere
+rectilineum, puta cubicum vel pyramidale, sequetur quod extra caelum sit aliquis locus, et aliquod corpus, et
+aliquod vacuum. Quam quidem consequentiam ex hoc probat, quod corpus rectilineum, si circulariter vertatur,
+non permanebit in eodem loco secundum omnes partes suas: immo sequetur quod ubi primo erat aliqua pars eius,
+nunc nulla pars eius est, et quod iterum ubi nunc non est aliqua pars eius, iterum erit aliqua pars eius; et hoc
+propter permutationem angulorum.
+Cuiuslibet enim corporis rectilineae figurae oportet esse aliquos angulos corporales praeeminentes ceteris
+partibus, quia linea ducta a medio talis corporis est maior linea ducta ad aliquod punctum designatum in
+superficie plana eius: et sic quando, secundum versionem corporis, linea terminata ad angulum pervenerit ad
+locum in quo erat linea ducta ad aliud punctum quod est inter angulos, accipiet plus de loco, et ita erit corpus ubi
+prius non erat; et subsequens linea quae pertinget ad locum anguli, non poterit occupare totum locum qui
+occupabatur ab angulo, et ideo ubi nunc non est corpus, prius erat. Sic ergo extra illum locum in quo nunc est
+caelum, potest esse aliquod corpus, idest aliqua pars eiusdem caeli; et per consequens est ibi locus, qui est
+corporis receptaculum; et consequenter est ibi vacuum, quod nihil aliud est quam locus non plenus corpore cuius
+est capax.
+77
+
+

@@ -1,0 +1,64 @@
+Sed haec positio est impossibilis: quia vel oportet dicere quod locus non
+sit aliquid praeter locatum, vel quod sint aliquae dimensiones spatii per
+se existentes, et tamen subintrantes dimensiones corporum sensibilium: quae
+sunt impossibilia.
+|#4
+Unde Alexander dixit quod ultima sphaera nullo modo est in loco: non
+enim omne corpus de necessitate est in loco, cum locus non cadat in
+definitione corporis. Et propter hoc dixit quod ultima sphaera non movetur
+in loco, neque secundum totum, neque secundum partes.
+Sed quia oportet omnem motum in aliquo genere motus poni, Avicenna eum
+secutus, dixit quod motus ultimae sphaerae non est motus in loco, sed motus
+in situ, contra Aristotelem, qui dicit in quinto huius, quod motus est
+tantum in tribus generibus, scilicet in quantitate, qualitate et ubi.
+Sed hoc non potest stare: impossibile est enim quod motus sit per se
+loquendo in aliquo genere cuius specierum ratio in indivisibili consistit.
+Propter hoc enim in substantia non est motus, quia ratio cuiuslibet speciei
+substantiae consistit in indivisibili, eo quod species substantiae non
+dicuntur secundum magis et minus: et propter hoc, cum motus habeat
+successionem, non producitur in esse forma substantialis per motum, sed per
+generationem, quae est terminus motus. Secus autem est de albedine et
+similibus, quae participantur secundum magis et minus. Quaelibet autem
+species situs habet rationem in indivisibili consistentem; ita quod si
+aliquid additur vel minuitur, non est eadem species situs.
+Unde impossibile est quod in genere situs sit motus.
+Et praeterea, remanet eadem difficultas. Nam situs, secundum quod ponitur
+praedicamentum, importat ordinem partium in loco: licet secundum quod
+ponitur differentia quantitatis, non importet nisi ordinem partium in toto.
+Omne igitur quod movetur secundum situm, oportet quod moveatur secundum
+locum.
+|#5
+Quidam autem alii dixerunt, scilicet Avempace, quod aliter
+assignandus est locus corpori quod movetur circulariter, et aliter corpori
+quod movetur motu recto. Quia enim linea recta est imperfecta, additionem
+recipiens, corpus quod movetur motu recto requirit locum exterius
+continentem: quia vero linea circularis in seipsa perficitur, corpus quod
+circulariter movetur non requirit locum exterius continentem, sed locum
+circa quem revolvatur: unde et motus circularis dicitur esse motus circa
+medium. Sic igitur dicunt quod superficies convexa sphaerae contentae, est
+locus primae sphaerae. Sed hoc est contra suppositiones communes prius de
+loco positas: scilicet quod locus sit continens, et quod locus sit aequalis
+locato.
+|#6
+Et ideo Averroes dixit quod ultima sphaera est in loco per accidens.
+Ad cuius evidentiam considerandum est, quod omne illud quod habet fixionem
+per alterum, dicitur esse per accidens in loco, ex hoc quod id per quod
+figitur, in loco est; ut patet de clavo infixo navi et de homine quiescente
+in navi. Manifestum est autem quod corpora circulariter mota habent
+fixionem per immobilitatem centri: unde ultima sphaera dicitur esse in loco
+per accidens, inquantum centrum circa quod revolvitur, habet esse in loco.
+Quod autem aliae sphaerae inferiores habent per se locum in quo
+continentur, hoc accidit, et non est de necessitate corporis circulariter
+moti.
+Sed contra hoc obiicitur quia, si ultima sphaera sit in loco per accidens,
+sequitur quod moveatur in loco per accidens, et sic motus per accidens est
+prior motu per se. Sed ad hoc respondetur quod ad motum circularem non
+requiritur quod id quod movetur per se circulariter, sit per se in loco:
+requiritur autem ad motum rectum.
+Sed hoc videtur esse contra definitionem Aristotelis, quam supra posuit, de
+eo quod est in loco per accidens. Dixit enim aliqua esse vel moveri in loco
+per accidens, ex hoc quod movetur id in quo sunt: non autem dicitur aliquid
+esse in loco per accidens, ex hoc quod aliquid quod est omnino extrinsecum
+128
+
+

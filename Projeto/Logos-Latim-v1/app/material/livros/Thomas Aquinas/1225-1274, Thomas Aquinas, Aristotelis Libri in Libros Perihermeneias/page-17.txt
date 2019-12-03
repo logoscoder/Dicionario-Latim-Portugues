@@ -1,0 +1,54 @@
+Unde rhetores et poetae plerumque movere auditores nituntur provocando eos ad aliquas passiones, ut
+Philosophus dicit in sua rhetorica.
+Et ideo consideratio dictarum specierum orationis, quae pertinet ad ordinationem audientis in aliquid, cadit
+proprie sub consideratione rhetoricae vel poeticae, ratione sui significati; ad considerationem autem grammatici,
+prout consideratur in eis congrua vocum constructio.
+|+8 Lectio 8
+|#1 Postquam Philosophus definivit enunciationem, hic dividit eam.
+Et dividitur in duas partes: in prima, ponit divisionem enunciationis; in secunda, manifestat eam; ibi: necesse est
+autem etc..
+|#2 Circa primum considerandum est quod Aristoteles sub breviloquio duas divisiones enunciationis ponit.
+Quarum una est quod enunciationum quaedam est una simplex, quaedam est coniunctione una. Sicut etiam in
+rebus, quae sunt extra animam, aliquid est unum simplex sicut indivisibile vel continuum, aliquid est unum
+colligatione aut compositione aut ordine. Quia enim ens et unum convertuntur, necesse est sicut omnem rem, ita
+et omnem enunciationem aliqualiter esse unam.
+|#3 Alia vero subdivisio enunciationis est quod si enunciatio sit una, aut est affirmativa aut negativa. Enunciatio
+autem affirmativa prior est negativa, triplici ratione, secundum tria quae supra posita sunt: ubi dictum est quod
+vox est signum intellectus, et intellectus est signum rei. Ex parte igitur vocis, affirmativa enunciatio est prior
+negativa, quia est simplicior: negativa enim enunciatio addit supra affirmativam particulam negativam. Ex parte
+etiam intellectus affirmativa enunciatio, quae significat compositionem intellectus, est prior negativa, quae
+significat divisionem eiusdem: divisio enim naturaliter posterior est compositione, nam non est divisio nisi
+compositorum, sicut non est corruptio nisi generatorum. Ex parte etiam rei, affirmativa enunciatio, quae
+significat esse, prior est negativa, quae significat non esse: sicut habitus naturaliter prior est privatione.
+|#4 Dicit ergo quod oratio enunciativa una et prima est affirmatio, idest affirmativa enunciatio. Et contra hoc
+quod dixerat prima, subdit: deinde negatio, idest negativa oratio, quia est posterior affirmativa, ut dictum est.
+Contra id autem quod dixerat una, scilicet simpliciter, subdit quod quaedam aliae sunt unae, non simpliciter, sed
+coniunctione unae.
+|#5 Ex hoc autem quod hic dicitur argumentatur Alexander quod divisio enunciationis in affirmationem et
+negationem non est divisio generis in species, sed divisio nominis multiplicis in sua significata. Genus enim
+univoce praedicatur de suis speciebus, non secundum prius et posterius: unde Aristoteles noluit quod ens esset
+genus commune omnium, quia per prius praedicatur de substantia, quam de novem generibus accidentium.
+|#6 Sed dicendum quod unum dividentium aliquod commune potest esse prius altero dupliciter: uno modo,
+secundum proprias rationes, aut naturas dividentium; alio modo, secundum participationem rationis illius
+communis quod in ea dividitur. Primum autem non tollit univocationem generis, ut manifestum est in numeris, in
+quibus binarius secundum propriam rationem naturaliter est prior ternario; sed tamen aequaliter participant
+rationem generis sui, scilicet numeri: ita enim est ternarius multitudo mensurata per unum, sicut et binarius. Sed
+secundum impedit univocationem generis. Et propter hoc ens non potest esse genus substantiae et accidentis:
+quia in ipsa ratione entis, substantia, quae est ens per se, prioritatem habet respectu accidentis, quod est ens per
+aliud et in alio. Sic ergo affirmatio secundum propriam rationem prior est negatione; tamen aequaliter participant
+rationem enunciationis, quam supra posuit, videlicet quod enunciatio est oratio in qua verum vel falsum est.
+|#7 Deinde cum dicit: necesse est autem etc., manifestat propositas divisiones.
+Et primo, manifestat primam, scilicet quod enunciatio vel est una simpliciter vel coniunctione una; secundo,
+manifestat secundam, scilicet quod enunciatio simpliciter una vel est affirmativa vel negativa; ibi: est autem
+simplex enunciatio etc..
+Circa primum duo facit: primo, praemittit quaedam, quae sunt necessaria ad propositum manifestandum;
+secundo, manifestat propositum; ibi: est autem una oratio etc..
+|#8 Circa primum duo facit: primo, dicit quod omnem orationem enunciativam oportet constare ex verbo quod
+est praesentis temporis, vel ex casu verbi quod est praeteriti vel futuri. Tacet autem de verbo infinito, quia
+eumdem usum habet in enunciatione sicut et verbum negativum. Manifestat autem quod dixerat per hoc, quod
+non solum nomen unum sine verbo non facit orationem perfectam enunciativam, sed nec etiam oratio imperfecta.
+Definitio enim oratio quaedam est, et tamen si ad rationem hominis, idest definitionem non addatur aut est, quod
+
+17
+
+

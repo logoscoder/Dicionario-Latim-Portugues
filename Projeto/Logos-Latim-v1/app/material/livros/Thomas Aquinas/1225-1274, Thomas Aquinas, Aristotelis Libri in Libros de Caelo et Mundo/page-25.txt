@@ -1,0 +1,59 @@
+finita sicut et infinita, utraque earum pertransibit aliam. Unde manifestum est quod etiam si non moveatur linea
+finita, simile erit quod pertransitur a linea infinita, ac si pertransiret illam.
+Sed quia dixerat quod similiter se habet sive moveatur altera sive non, ostendit in quo circa hoc posset esse
+differentia: quia si utraque linearum moveatur una contra aliam, velocius separabuntur ab invicem. Sed hoc
+intelligendum est, si sit eadem velocitas, sicut supra dictum est: aliquando tamen nihil prohibet quin linea quae
+movetur iuxta quiescentem, velocius pertranseat eam, quam si moveretur iuxta lineam in contrarium motam;
+puta quando duae lineae quae contra se moverentur, haberent motum lentum, illa vero quae moveretur iuxta
+quiescentem, haberet motum velocem. Sic igitur patet quod nullum impedimentum est quantum ad rationem
+istam, quod linea infinita moveatur iuxta lineam finitam quietam: quia contingit quod linea mota quae est a,
+tardius pertransit lineam b motam, quam si non moveretur, dummodo ponatur quod, linea b quiescente, linea a
+velocius moveretur.
+|#4 Sic igitur ostenso quod nihil differt lineam infinitam moveri iuxta finitam quiescentem, ab eo quod linea
+finita moveretur supra infinitam, ex hoc argumentatur quod, si tempus quo linea finita pertransit lineam
+infinitam, est infinitum, consequens est quod tempus quo linea infinita movetur per lineam finitam, sit infinitum.
+Sic igitur patet quod impossibile est totum corpus infinitum moveri per totum spatium infinitum, in quo
+imaginamur motum eius, tempore scilicet finito: quia si infinitum moveretur etiam per minimum spatium
+finitum, sequeretur quod tempus esset infinitum: probatum est enim quod infinitum movetur per finitum tempore
+infinito, sicut et finitum per infinitum. Videmus autem quod caelum circuit totum spatium suum tempore finito.
+Unde manifestum est quod pertransit tempore finito aliquam lineam finitam, puta quae continet interius totum
+circulum descriptum circa centrum eius, scilicet lineam ab: quod non contingeret si esset infinitum. Impossibile
+est igitur corpus quod circulariter fertur, esse infinitum.
+|+11 Lectio 11
+|#1
+Praemissis tribus rationibus ad probandum quod corpus quod circulariter movetur, non possit esse
+infinitum, hic ponit quartam, quae talis est. Impossibile est lineam esse infinitam, cuius est aliquis finis, nisi forte
+ad alteram partem habeat finem et ad alteram partem sit infinita. Et simile etiam est de superficie, quod si habeat
+finem ad unam partem, quod non contingit eam esse infinitam ad illam partem. Sed quando ad omnem partem
+determinatur, nullo modo potest esse infinita; sicut patet quod non contingit esse tetragonum, idest quadratum,
+infinitum, neque circulum, qui est superficialis figura, neque sphaeram, quae est figura corporea; haec enim sunt
+nomina figurarum, figura autem est quae termino vel terminis comprehenditur. Et sic patet quod nulla superficies
+figurata est infinita. Si ergo neque sphaera est infinita neque quadratum neque circulus, manifestum est quod non
+potest esse motus circularis infinitus. Sicut enim si non est circulus, non potest esse motus circularis, ita si non
+sit infinitus circulus, non potest esse infinitus motus circularis. Sed si corpus infinitum moveatur circulariter,
+necesse est motum circularem esse infinitum: non est ergo possibile quod corpus infinitum circulariter moveatur.
+|#2 Quintam rationem ponit ibi: adhuc autem si g etc., quae talis est. Supponatur quod corporis infiniti
+circulariter moti centrum sit g; ducatur autem per hoc centrum linea ad utramque partem infinita, quae sit linea
+ab; ducatur autem alia linea praeter centrum, cadens ad rectos angulos super lineam ba, in puncto scilicet e, et sit
+etiam haec linea infinita ex utraque parte; et hae duae lineae sint stantes, quasi imaginatae in spatio in quo corpus
+infinitum movetur circulariter.
+Sit etiam tertia linea egrediens a centro, quae sit linea dg, infinita ex parte d (nam ex parte g oportet eam esse
+finitam): haec autem linea moveatur per motum corporis, utpote in eo descripta. Quia igitur linea e est infinita,
+nunquam absolvetur, idest separabitur, ab ea: quia non potest eam pertransire, cum sit infinita, sed semper se
+habebit quemadmodum ge, idest semper continget vel secabit lineam e, sicut secabat eam in principio a quo
+incoepit moveri, puta quando linea gd superponebatur lineae ba et secabat lineam e perpendiculariter in puncto e.
+Recedens enim ab hoc situ incidet lineam e in puncto z, et sic semper in alio et alio puncto secabit illam:
+nunquam tamen totaliter poterit ab ea separari. Impossibile est autem quod motus circularis compleatur, nisi
+linea gd dimittat lineam e: quia oportebit, antequam compleatur motus circularis, quod linea gd pertranseat
+partem circuli quae est in opposito lineae e.
+Sic patet ergo quod linea infinita nullo modo potest circuire circulum, ita scilicet quod totus motus circularis
+compleatur. Et ita sequitur quod corpus infinitum non possit circulariter moveri.
+|#3 Sextam rationem ponit ibi: adhuc si quidem etc.. Et hanc quidem rationem format dupliciter: primo ducendo
+ad impossibile hoc modo.
+Sit caelum infinitum, sicut tu ponis. Manifestum est autem ad sensum quod movetur circumquaque tempore
+finito: videmus enim eius revolutionem perfici in viginti quatuor horis. Ex hoc ergo sequetur quod infinitum sit
+pertransitum tempore finito: et hoc ideo, quia necesse est imaginari aliquod spatium aequale caelo, in quo
+caelum movetur. Hoc autem spatium imaginamur ut quiescens: sic igitur oportebit quod sit quoddam caelum
+25
+
+

@@ -1,0 +1,61 @@
+Quandoque vero id quod additur diminuit aliquid de ratione eius cui additur; ut cum dicitur: Aethiops est albus
+secundum dentem. Nam haec determinatio dentem diminuit aliquid de ratione eius quod dicitur albus: non enim
+potest dici albus, nisi qui totus est albus, vel secundum plures et principaliores partes. Et ideo si concludatur:
+Aethiops est albus secundum dentem, ergo est albus; est locus sophisticus, vel fallacia secundum quid et
+simpliciter, et est deceptio proveniens ex eo quod dictum secundum quid accipitur ac si esset dictum simpliciter.
+Causa apparentiae in hac fallacia est convenientia eius quod est secundum quid, ad id quod est simpliciter; causa
+vero non existentiae est diversitas eorumdem.
+Sunt autem quinque modi huius fallaciae.
+Et primus modus est quando determinatio addita habet oppositionem ad illud cui additur, ut in hoc argumento:
+caesar est homo mortuus. Ergo est homo. Non sequitur: nam esse hominem mortuum habet oppositionem ad
+hominem, eo quod vivum est de ratione hominis, cum homo sit animal et animal est substantia animata sensitiva:
+et sic patet quod haec determinatio mortuus tollit hominis rationem.
+Similiter: iste est bonus latro, igitur est bonus. Nam bonum per se suppositum oppositionem habet ad
+latrocinium. Similiter hic: mendax dicit verum dicendo se dicere falsum. Ergo dicit verum. Non sequitur: nam
+dicere verum opponitur ei quod est dicere falsum, et e converso.
+Secundus modus provenit ex eo quod aliqua determinatio addita pertinet ad animae actum: nam aliqui actus
+animae possunt esse circa existentiam et circa non existentiam, sicut hic: chymaera est animal opinabile, igitur
+chymaera est animal.
+Non sequitur: nam opinabile additum animali diminuit de eius ratione. Similiter hic: caesar est in memoria
+hominum. Igitur caesar est. Similiter hic: tu habes felicitatem in tua voluntate, igitur habes felicitatem.
+Tertius modus est quando determinatio addita significat aliquid in potentia esse, sicut hic: ovum potentialiter est
+animal. Ergo est animal. Non sequitur: nam esse in potentia diminuit de ratione eius quod est esse simpliciter.
+Quartus modus est quando determinatio addita significat partem, sicut hic: Aethiops est albus dente. Ergo est
+albus. Non sequitur: quia esse in parte diminuit de ratione eius quod est esse simpliciter. Sciendum tamen quod
+si a parte sit natum denominari totum, non accidit fallacia, ut patet in hoc processu: iste est Crispus secundum
+capillos. Ergo est Crispus. Bene sequitur: quia homo denominatur Crispus secundum capillos. Et hic modus se
+extendit ad alias partes, scilicet loci, vel temporis, vel aliorum totorum.
+Si vero aliquid additur toti in loco mediante parte in loco, a qua parte totum non est natum denominari, accidit
+fallacia in his processibus, ut: haec diaeta est bona in locis aegrotativis, ergo est bona. Non sequitur: quia hoc
+quod dicit in locis aegrotativis significat partem in loco. Similiter est de toto et parte in tempore, sicut hic: bibere
+vinum est malum aegrotanti.
+Ergo est malum. Et eadem ratio est in omnibus similibus.
+Quintus modus est quando determinatio addita cogit terminum, cui additur, stare materialiter; sicut hic: sapiens
+vult amittere malum. Ergo vult malum.
+Non sequitur: nam amittere malum non dicit malum simpliciter, sed secundum quid. Similiter hic: fur vult
+sumere bonum.
+Igitur vult bonum. Et est eadem ratio in aliis similibus.
+Sic ergo patet ex dictis quod haec fallacia provenit secundum rationem perfecti et imperfecti: nam determinatio
+diminuit, eo quod significat aliquid esse imperfectum.
+|+14 Capitulus 14: De fallacia secundum ignorantiam elenchi.
+Sequitur de fallacia secundum ignorantiam elenchi.
+Est autem elenchus syllogismus contradictionis: qui quandoque est unus, quandoque duo. Unus quidem, quando
+concludit contradictoriam alterius propositionis prius datae: sicut si detur aliquod animal esse incorruptibile, et
+procedatur sic: omne compositum ex contrariis est corruptibile.
+Omne animal est huiusmodi. Ergo omne animal est corruptibile. Haec enim conclusio est contradictoria
+propositionis datae.
+Duo autem syllogismi constituunt elenchum, quando ex duobus syllogismis concluditur contradictorie, sicut si
+supradicto syllogismo contraponatur alius talis syllogismus: nullum beatum est corruptibile.
+Et aliquod animal est beatum: igitur aliquod animal non est corruptibile.
+Quia igitur de ratione elenchi est syllogismus et contradictio, ideo quicquid est contra definitionem syllogismi et
+contradictionis, est contra definitionem elenchi. Et ideo cum in qualibet fallacia defectus accidat propter hoc
+quod aliquid omittitur de definitione syllogismi et contradictionis, ideo omnis fallacia reducitur ad ignorantiam
+elenchi sicut ad generale principium. Quia vero in definitione elenchi ponitur contradictio, quasi differentia quae
+constituit speciem, ideo specialiter omissio eorum quae ad contradictionem requiruntur, ignorantiam elenchi
+constituit secundum quod est fallacia specialis. Sed quia fallacia esse non potest si apparentia desit, oportet ad
+hoc quod circa contradictionem sit fallacia, ut sit apparens contradictio et cum hoc aliquid ad veritatem
+contradictionis desit. Apparens autem contradictio esse non potest, nisi sit unius et eiusdem: quia nisi sit ibi
+unum et idem, non videbitur esse contradictio, ut dicendo: homo currit, asinus non currit. Ex vera autem
+10
+
+

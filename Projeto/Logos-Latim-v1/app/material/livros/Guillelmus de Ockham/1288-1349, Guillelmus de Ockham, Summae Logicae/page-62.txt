@@ -1,0 +1,58 @@
+'nullus homo est animal' et 'aliquis homo est animal' siue 'homo est animal'. Istae etiam contradicunt
+'Sortes est animal', 'Sortes non est animal'.
+Aliquae autem propositiones opponuntur contrarie, scilicet uniuersalis affirmatiua et uniuersalis
+negatiua. Et hoc uerum est quando subiecta sumuntur significatiue, aliter non oportet. Sicut istae non opponuntur
+contrarie 'omnis homo: est terminus communis cum signo uniuersali', 'nullus homo: est terminus communis cum
+signo uniuersali'.
+Aliquae autem propositiones opponuntur contrarie, scilicet uniuersalis affirmatiua et uniuersalis
+negatiua. Et hoc uerum est quando subiecta sumuntur significatiue, aliter non oportet. Sicut istae non opponuntur
+contrarie 'omnis homo: est terminus communis cum signo uniuersali', 'nullus homo: est terminus communis cum
+signo uniuersali'.
+Pro tertio modo oppositionis non habemus nomen impositum. Est tamen tertius modus quando aliquae
+propositiones nec sunt contradictoriae nec contrariae, sed inferunt propositiones contradictorias, uel una infert
+contradictoriam alterius; et propter hoc nullo modo possunt esse simul uerae. Sicut istae propositiones
+opponuntur 'nullum animal currit', 'aliquis homo currit', non tamen contrarie nec contradictorie, quia non habent
+idem subiectum. Sed opponuntur, quia ista 'aliquis homo currit' infert contradictoriam istius
+'nullum animal currit', quia sequitur 'aliquis homo currit, ergo aliquod animal currit'.
+'nullum animal currit', quia sequitur 'aliquis homo currit, ergo aliquod animal currit'.
+Ex praedictis patet quod propositiones subalternae et subcontrariae non opponuntur, quia possunt simul
+esse uerae.
+Ex praedictis patet quod propositiones subalternae et subcontrariae non opponuntur, quia possunt simul
+esse uerae.
+Oppositorum autem incomplexorum quatuor modi ponuntur. Quia quaedam incomplexa sunt contraria,
+scilicet illa quae significant quidquid significant positiue et affirmatiue, non negatiue; hoc est in definitione
+exprimente quid nominis eorum nulla negatio nec aliquid aequiualens negationi debet poni, et simul cum hoc
+quod illa non possunt uerificari de eodem pro eodem simul sed successiue; uel significant res quae possunt
+successiue inesse eidem, non simul, quamuis non possint uerificari de eodem nec simul nec successiue.
+Exemplum primi: sicut est de 'albo' et 'nigro', quia isti termini nihil significant negatiue et tamen isti termini
+significatiue sumpti non possunt uerificari de eodem pro eodem simul, sed successiue possunt. Verumtamen,
+sicut dicetur inferius, in isto modo sunt gradus. Exemplum secundi est de 'albedine' et 'nigredine', quia isti
+termini significant tales res, qui tamen termini nec simul nec successiue possunt uerificari de eodem pro eodem.
+Et in isto modo, sicut in priori, sunt gradus.
+Oppositorum autem incomplexorum quatuor modi ponuntur. Quia quaedam incomplexa sunt contraria,
+scilicet illa quae significant quidquid significant positiue et affirmatiue, non negatiue; hoc est in definitione
+exprimente quid nominis eorum nulla negatio nec aliquid aequiualens negationi debet poni, et simul cum hoc
+quod illa non possunt uerificari de eodem pro eodem simul sed successiue; uel significant res quae possunt
+successiue inesse eidem, non simul, quamuis non possint uerificari de eodem nec simul nec successiue.
+Exemplum primi: sicut est de 'albo' et 'nigro', quia isti termini nihil significant negatiue et tamen isti termini
+significatiue sumpti non possunt uerificari de eodem pro eodem simul, sed successiue possunt. Verumtamen,
+sicut dicetur inferius, in isto modo sunt gradus. Exemplum secundi est de 'albedine' et 'nigredine', quia isti
+termini significant tales res, qui tamen termini nec simul nec successiue possunt uerificari de eodem pro eodem.
+Et in isto modo, sicut in priori, sunt gradus.
+Quaedam autem opposita incomplexa sunt priuatio et habitus, et sunt illa quorum unum significat
+quidquid significat positiue, alterum autem aliquid significat positiue, et illud idem quod suum oppositum
+significat affirmatiue ipsum significat negatiue. Quod patere potest ex definitione exprimente quid nominis
+ipsius, quia in illa definitione negatio praecedit habitum oppositum sibi. Sic se habent 'uisus' et 'caecitas'; nam
+'uisus'
+quidquid significat affirmatiue significat, quia in sua definitione exprimente quid nominis nulla negatio
+debet poni; sed 'caecitas' uel
+'caecus' significat aliquid affirmatiue et aliquid negatiue, quia 'caecus'
+definitur sic 'caecus est ille qui non habet uisum quem natus est habere', ubi aliquid praeponitur
+negationi et significatum illius importatur per
+'caecum' affirmatiue, et aliquid sequitur negationem et significatum illius importatur per 'caecum'
+negatiue. Si autem illud idem, propter sequentem particulam, dicatur importari affirmatiue, non curo; sufficit
+enim mihi quod negatiue importetur. Nec est inconueniens idem per idem importari affirmatiue et negatiue, sicut
+dictum est prius quod idem per idem potest significari in recto et in obliquo.
+62
+
+

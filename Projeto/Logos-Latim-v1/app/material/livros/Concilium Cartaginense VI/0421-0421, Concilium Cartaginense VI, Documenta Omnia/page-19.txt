@@ -1,0 +1,63 @@
+567 NICEM V1341
+568 folgt Capitulatio V630:
+I De eunuchis, qui seipsos absciderunt.
+II De his, qui ex gentilibus post baptismum ad clericatus ordinem promoventur.
+III De commanentibus cum mulieribus.
+IIII De ordinatione episcoporum.
+V De excommunicatis.
+VI De privilegiis, quae quibusdam civitatibus competunt.
+VII De episcopo Heliae, id est Hierusolimorum.
+VIII De his, qui dicuntur cathari, id est mundi.
+VIIII De his, qui ad sacerdotium sine examinatione promoti sunt.
+X De his, qui negaverunt in persecutione et postea ad clericatum promoti sunt.
+XI De his, qui negaverunt et habentur in locis.
+XII De his, qui abrenuntiant et iterum ad saeculum sunt reversi.
+XIII De his, qui in exitu communionem requirunt.
+XIIII De caticuminis lapsis.
+XV De clericis, ne de civitate ad aliam transeant.
+<V630, f. 109vb> XVI De his, qui in ecclesiis, in quibus provecti sunt, minime perduraverint.
+XVII De clericis, qui usuras accipiunt.
+XVIII De privilegiis presbyterorum.
+XVIIII De his, qui a Paulo Samosateno ad ecclesiam veniunt.
+XX De flectendo genu.
+XXI De observatione Niceni concilii, ut nulla de reliquo varietas oriatur in ecclesiis.
+EXPLICIUNT CAPITULA
+569 Rubrik fehlt V630; Rubrik] De his qui se abscidunt aut castraverint W411
+570 HIS W411, V1341
+571 SE W411; SEIPSOS B132; V1341
+572 absciderunt] absciderunt vel castraverint W411
+573 per languorem] languore W411
+574 langorem B132
+575 et B132
+576 abscis B132
+577 et fehlt W411
+578 abstinere W411; B132
+579 et fehlt W411
+580 deberi O93; V1341
+581 prohibere W411
+582 manifestum] manifestum est W411
+583 excogitent B132
+584 audent W411
+585 ipsos fehlt W411
+586 est W411
+587 si W411
+588 sunt] sunt et V1341
+589 inveniuntur V630; W411
+590 autem alias fehlt W411
+591 Rubrik fehlt V630
+592 EUNUCHIS W411
+593 BAPTISMATUM W411
+594 CLERICATUS B132; V1341
+595 ECCLESIASTICUM ORDINEM PROMOVENTUR] CLERUM ADPLICANTUR W411
+596 festinantes W411
+597 per W411
+598 catacizati O93; V1341
+599 presbyterium] presbiterium bene haberi W411
+600 placu W411
+601 etenim W411
+602 neopitum W411
+603 vobis W411
+604 iste cesset] decesset W411
+19
+
+

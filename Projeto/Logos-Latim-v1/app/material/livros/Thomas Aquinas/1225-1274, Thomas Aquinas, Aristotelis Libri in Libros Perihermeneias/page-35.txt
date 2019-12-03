@@ -1,0 +1,58 @@
+|#7 Deinde cum dicit: ac multa nobis manifesta etc., ostendit propositum per sensibilia exempla. Sit enim, puta,
+vestis nova; manifestum est quod eam possibile est incidi, quia nihil obviat incisioni, nec ex parte agentis nec ex
+parte patientis. Probat autem quod simul cum hoc quod possibile est eam incidi, possibile est etiam eam non
+incidi, eodem modo quo supra probavit duas indefinitas oppositas esse simul veras, scilicet per assumptionem
+contrarii. Sicut enim possibile est istam vestem incidi, ita possibile est eam exteri, idest vetustate corrumpi; sed
+si exteritur non inciditur; ergo utrumque possibile est, scilicet eam incidi et non incidi.
+Et ex hoc universaliter concludit quod in aliis futuris, quae non sunt in actu semper, sed sunt in potentia, hoc
+manifestum est quod non omnia ex necessitate sunt vel fiunt, sed eorum quaedam sunt ad utrumlibet, quae non
+se habent magis ad affirmationem quam ad negationem; alia vero sunt in quibus alterum eorum contingit ut in
+pluribus, sed tamen contingit etiam ut in paucioribus quod altera pars sit vera, et non alia, quae scilicet contingit
+ut in pluribus.
+|#8 Est autem considerandum quod, sicut Boethius dicit hic in commento, circa possibile et necessarium
+diversimode aliqui sunt opinati.
+Quidam enim distinxerunt ea secundum eventum, sicut diodorus, qui dixit illud esse impossibile quod nunquam
+erit; necessarium vero quod semper erit; possibile vero quod quandoque erit, quandoque non erit.
+Stoici vero distinxerunt haec secundum exteriora prohibentia. Dixerunt enim necessarium esse illud quod non
+potest prohiberi quin sit verum; impossibile vero quod semper prohibetur a veritate; possibile vero quod potest
+prohiberi vel non prohiberi. Utraque autem distinctio videtur esse incompetens. Nam prima distinctio est a
+posteriori: non enim ideo aliquid est necessarium, quia semper erit; sed potius ideo semper erit, quia est
+necessarium: et idem patet in aliis. Secunda autem assignatio est ab exteriori et quasi per accidens: non enim
+ideo aliquid est necessarium, quia non habet impedimentum, sed quia est necessarium, ideo impedimentum
+habere non potest.
+Et ideo alii melius ista distinxerunt secundum naturam rerum, ut scilicet dicatur illud necessarium, quod in sua
+natura determinatum est solum ad esse; impossibile autem quod est determinatum solum ad non esse; possibile
+autem quod ad neutrum est omnino determinatum, sive se habeat magis ad unum quam ad alterum, sive se
+habeat aequaliter ad utrumque, quod dicitur contingens ad utrumlibet.
+Et hoc est quod Boethius attribuit Philoni.
+Sed manifeste haec est sententia Aristotelis in hoc loco. Assignat enim rationem possibilitatis et contingentiae, in
+his quidem quae sunt a nobis ex eo quod sumus consiliativi, in aliis autem ex eo quod materia est in potentia ad
+utrumque oppositorum.
+|#9 Sed videtur haec ratio non esse sufficiens. Sicut enim in corporibus corruptibilibus materia invenitur in
+potentia se habens ad esse et non esse, ita etiam in corporibus caelestibus invenitur potentia ad diversa ubi, et
+tamen nihil in eis evenit contingenter, sed solum ex necessitate. Unde dicendum est quod possibilitas materiae ad
+utrumque, si communiter loquamur, non est sufficiens ratio contingentiae, nisi etiam addatur ex parte potentiae
+activae quod non sit omnino determinata ad unum; alioquin si ita sit determinata ad unum quod impediri non
+potest, consequens est quod ex necessitate reducat in actum potentiam passivam eodem modo.
+|#10 Hoc igitur quidam attendentes posuerunt quod potentia, quae est in ipsis rebus naturalibus, sortitur
+necessitatem ex aliqua causa determinata ad unum quam dixerunt fatum. Quorum stoici posuerunt fatum in
+quadam serie, seu connexione causarum, supponentes quod omne quod in hoc mundo accidit habet causam;
+causa autem posita, necesse est effectum poni. Et si una causa per se non sufficit, multae causae ad hoc
+concurrentes accipiunt rationem unius causae sufficientis; et ita concludebant quod omnia ex necessitate
+eveniunt.
+|#11
+Sed hanc rationem solvit Aristoteles in VI metaphysicae interimens utramque propositionum
+assumptarum. Dicit enim quod non omne quod fit habet causam, sed solum illud quod est per se. Sed illud quod
+est per accidens non habet causam; quia proprie non est ens, sed magis ordinatur cum non ente, ut etiam Plato
+dixit. Unde esse musicum habet causam, et similiter esse album; sed hoc quod est, album esse musicum, non
+habet causam: et idem est in omnibus aliis huiusmodi. Similiter etiam haec est falsa, quod posita causa etiam
+sufficienti, necesse est effectum poni: non enim omnis causa est talis (etiamsi sufficiens sit) quod eius effectus
+impediri non possit; sicut ignis est sufficiens causa combustionis lignorum, sed tamen per effusionem aquae
+impeditur combustio.
+|#12 Si autem utraque propositionum praedictarum esset vera, infallibiliter sequeretur omnia ex necessitate
+contingere. Quia si quilibet effectus habet causam, esset effectum (qui est futurus post quinque dies, aut post
+quantumcumque tempus) reducere in aliquam causam priorem: et sic quousque esset devenire ad causam, quae
+nunc est in praesenti, vel iam fuit in praeterito; si autem causa posita, necesse est effectum poni, per ordinem
+35
+
+

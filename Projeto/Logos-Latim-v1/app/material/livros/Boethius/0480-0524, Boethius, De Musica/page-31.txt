@@ -1,0 +1,62 @@
+quam inter D atque F. Namque A atque B numerus, uno E addito, effecti sunt D atque F. Minor igitur proportio est inter
+D atque F quam inter A atque B. Sed inter D atque F eadem proportio est quae inter 75 et 74. Inter A igitur atque B
+maior proportio est quam inter 75 et 74. Ac A atque B comma continent. Maior igitur proportio est commatis quam 75
+atque 74.
+[PLLXIII:1239; text: A numerus maior, B numerus minor, maior quam 75 ad 74, 531226, Proportio commatis,
+524288, Differentia, C, 7153, E, Septuagesies 5, Septuagesies 4, eadem proportio quae inter genie, 536475, 52972, F]
+[BOEDIM3 10GF]
+Quoniam igitur ostendimus commatis proportionem maiorem esse quam eam quam 75 continent ad 74
+comparati; nunc ostendendum est quemadmodum minorem inter se proportionem contineant numeri spatium commatis
+continentes, quam 74 ad 73 comparati. Id uero monstrabitur hoc modo: reminiscendum prius est quod secundo
+uolumine dixerimus, cum de mensura differentiae loquebamur. Si enim ex qualibet proportione differentiam eorum
+numerorum, qui eam continent, auferamus, hi qui relinquuntur maiorem obtinebunt proportionem his numeris qui erant
+ante differentiae diminutionem. Sint euim 8 et 6. Ab his propriam aufero differentiam, id est 2, fiunt 6 et 4, Sed in
+superioribus sesquitertia, in hac sesquialtera proportio continetur. Maior uero est sesquialtera proportio sesquitertia
+proportione. Sint igitur iidem A atque B. Qui sunt superius descripti, quorum est differentia C Multiplico differentiam
+C numeri septuagies quater, sit mihi numerus, F, scilicet 529322. Qui A numero comparatus uincitur mumero G,
+scilicet 2119. Rursus idem [1240] C multiplicetur septuagies ter, efficiet numerum K, id est 522169. Qui comparatus B
+numero uincitur eodem G, scilicet 2119. Sublato igitur G de numeris A atque B, effecti sunt F atque K. Minorem igitur
+proportionem retinebit A atque B quam F atque K. Sed F atque K eam retinent proportionem quam 74 ad 73, hi enim
+multiplicato C effecti sunt. Minor est igitur proportio A atque B numerorum comma continentium quam 74 ad 73. Sed
+paulo ante monstratum est eamdem commatis proportionem maiorem esse quam 75 ad 74. Monstrati sunt igitur numeri
+qui comma continent, maiorem quidem inter se habere proportionem quam 75 ad 74, minorem uero quam 74 ad 75,
+quod oportebat ostendere.
+[PLLXIII:1240; text: A numerus maior, proportio minor quam 74, B numerus minor, 531441, 5242883, C,
+52119, 7153, G, 2119, septuagies, F, proportio 74 ad 74, E, septuagies ter, Differentia, 529322, 522169 Differentia C]
+[BOEDIM3 10GF]
+XIII
+Quod semitonium minus maius quidem sit quam 20 ad 19, minus quam 19 1/2 ad 18 1/2.
+Quod si ad semitonium minus talis speculatio conuertatur, eius quoque proportionem facillime reperiemus.
+Quae constat inter 256 et 243. Sit igitur 256 A, 243 B, horum differentia 13 C Dico quoniam A ad B minorem retinet
+proportionem quam 19 1/2 ad 18 1/2; metiatur enim C 19 semis, id quod est A fiunt 253 1/2 quod sit D, qui scilicet
+comparatus ad A, eodem A duobus semisque transcenditur. Sitque haec differentia F, scilicet et 1/2, rursus eadem C
+differentia B numerum metiatur octies decies semis, fient 249 quod sit E. Igitur E comparatus ad B eodem F
+transcenditur, id est duobus et semis. D igitur ab eo quod est A, et rursus E ab eo quod est B, eadem F differentia sunt
+minores.
+Subtracto igitur F ab eo quod est A atque B, facti sunt D atque E.
+Maiorem igitur proportionem tenent inter se D atque E, quam A atque B.
+Sed D atque E eamdem retinent proportionem inter se quam 19 1/2 ad 18 1/2. A igitur ad B minorem retinet
+proportionem quam 19 1/2 ad 18 1/2, quod oportebat ostendere.
+[1241] [PLLXIII:1241,1; text: A numerus maior, proportio maior quam 19 1/2 ad 18 1/2, ab minor, B numerus
+minor, 256, Doties nouies 1/2, Deties octies 1/2, Proportio semitonii minoris, 243, F, 2 1/2, Differentia, C, D, E, 253
+1/2, Proportio 19 1/2 ad 18 1/2, 240 1/2] [BOEDIM3 11GF]
+Videtur tamen eadem proportio 256 ad 243 maior esse ab ea quam continent 20 et 19. Sint enim A B C idem
+qui superius descripti sunt.
+Metiatur igitur C differentia A terminum uigies, fient 260, qui sunt D, qui comparati ad id quod est A eumdem
+quaternario transcendunt, hic sit F. Rursus idem C metiatur B decies nouies, fient 247, hic sit E, qui comparati ad B
+eodem F transcendunt. D igitur numerus, A numerum, et E numerus numerum B, eodem F transcendunt. Adiecto igitur
+F his qui sunt A atque B, facti sunt D atque E. Maior igitur est proportio eorum qui sunt A atque B, quam eorum qui
+sunt D atque E. Sed D atque E uigies atque decies nouies multiplicatus, C numerum efficit. Maior igitur est proportio
+eorum qui sunt A atque B, qui scilicet semitonium continent, quam ea quae est 20 ad 19. Demonstratum igitur est
+semitonium minus maiorem quidem habere proportionem quam 20 ad 16, minorem uero quam 19 1/2 ad 18 1/2. Nunc
+idem minus semitonium commati comparemus quod est ultimum, auditui subiacens ultimaque proportio.
+[PLLXIII:1241,2; text: A, Proportio maior quam 20 ad 19, B, 256, 243, F, 4, Differentia, Differentia 13, C,
+Vigies, decies nouies, 260, proportio 20 ad 19, 247] [BOEDIM3 11GF]
+XIV
+Semitonium minus maius quidem esse tribus commatibus, minus uero quatuor.
+Igitur demonstrandum proponimus semitonium [1242] minus, maius quidem esse commatibus tribus, minus
+uero quatuor, quod hinc facillime possis agnoscere. Sint tres numeri ita dispositi, ut inter se proportionem contineant
+diapason, et eam quae dicitur sex tonorum. Sint enim A 262144. Intendantur igitur ab B quidem quinque toni continui,
+et sit B. 472392; ad C autem diapason consonantia referatur, et sit C 524288.
+
+

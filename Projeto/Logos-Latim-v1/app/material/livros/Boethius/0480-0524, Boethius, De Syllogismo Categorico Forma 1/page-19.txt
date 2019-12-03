@@ -1,0 +1,63 @@
+affirmatiua conuertitur. Concluditur igitur in quarto primae figurae modo, a terminum de quodam b termino non
+praedicari. Sit enim a malum iustum, c bonum. Si quis sic dicat:
+Nullum bonum malum est, Omne bonum iustum est;
+concludat necesse est:
+Quoddam igitur iustum malum non est.
+Ex quo considerandum est maiorem extremitatem [819D] in conclusione praedicari.
+<III-3: DISAMIS> Tertius modus tertiae figurae est, quoties ex particulari et uniuersali affirmatiua particularis
+affirmatio concluditur. Si enim a terminus de quodam c, et b terminus de omni c termino praedicetur, concluditur a
+terminum de quodam b termino praedicari per duplicem conuersionem. Quoniam enim b terminus de omni c termino
+praedicatur, et a terminus de quodam c termino praedicatur, et particularis affirmatiua semper sibi ipsi conuertitur, c
+terminus de quodam a termino praedicabitur. Sunt igitur propositiones sic: b terminus de omni c termino, c uero
+terminus de quodam a termino praedicatur: quod si ita est, colligitur in primae figurae modo tertio b terminum de
+quodam a [820A] termino praedicari. Atque ita particularis affirmatiua conuertitur, et a terminus de quodam b termino
+praedicabitur, eruntque duplices couuersiones, una propositionis, alia conclusionis. Sit enim a iustum, b uirtus, c
+bonum. Si quis igitur sic dicat:
+Quoddam bonum iustum est, Omne bonum uirtus est;
+concludat necesse est:
+Quaedam uirtus iusta est.
+<III-4: DATISI> Quartus modus tertiae figurae est quoties ex uniuersali affirmatione et particulari
+affirmatione affirmatio particularis colligitur. Nam si a terminus de omni c termino praedicetur, b uero terminus in
+quodam c termino sit, concluditur a terminum de quodam b termino praedicari per conuersionem. Si enim b terniinus
+de quodam c termino praedicetur, et c terminus [820B] de quodam b termino praedicatur, quonium particularis
+affirmatiua sibi ipsi conuertitur, et fit syllogismus in primae figurae tertio modo, qui at ex uniuersali affirmatiue et
+particulari affirmatiue, particularem colligens affirmatiuam, ut sit syllogismus hoc modo: a terminus in omni c, et c
+terminus in quodam b. Igitur b terminus in quodam b. Sit n uirtus, h iustum, c bonum. Si quis igitur sic dicat:
+Omne bonum uirtus est, Quoddam bonum iustum est;
+concludet quoniam:
+Quoddam iustum uirtus est.
+<III-5: BOCARDO> Quintus modus tertiae figurae est quoties ex particulari negatione et uniuersali
+affirmatione particularis colligitur negatiua. Sed hic modus per conuersionem probari non potest sed per
+impossibilitatem, sicut [820C] quartus secundae figurae probatus est modus. Si enim a terminus de quodam c termino
+non praedicetur, b uero terminus de omni c termino praedicetur, a terminus de quodam b termino non praedicabitur;
+nam si non ita est, erit illud uerum, a terminum de omni b termino praedicari; sed b terminus de omni c termino
+praedicatur, a igitur terminus de omni c termino praedicabitur, quod fieri non potest. Prius enim ita positus est a
+terminus, ut de quodam c termino non praedicaretur. Quod si generalis affirmatio in conclusione syllogismi non est, ut
+sit a terminus in omni b termino, erit huic contraiacans particularis negatio, ut a terminos de quodam b termino non
+praedicetur. Sit enim a malum, b iustum, c bonum. Si quis igitur sic dicat: [820D]
+Quoddam bonum malum non est, Omne bonum iustum est;
+concludat necesse est:
+Quoddam igitur malum non est.
+<III-6: FERISON> Sextus modus tertiae figurae est quoties ex uniuersali negatiua et particulari affirmatiua
+particularis negatio colligitur per conuersionem. Nam si a terminus in nullo c termino sit, b uero terminus de quodam c
+termino praedicetur, fit conclusio a terminus de quodam b termino non praedicari. Nam si a terminus de nullo c termino
+praedicatur, b uero termimis de quodam c termino praedicabitur, et c terminus de quodam b termino praedicabitur,
+quoniam particularis affirmatiua potest conuerti. Fit igitur talis syllogismus, ut a terminus de nullo c termino
+praedicetur, c terminus [821A] de quodam b termino praedicetur, et a terminus de quodam b termino non praedicetur.
+Sit a malum, b iustum, c bonum. Si quis igitur dicat:
+Nullum bonum malum est, Quoddam bonum iustum est;
+concludit:
+Quoddam iustum malum non est.
+* * * * *
+His igitur expeditis, quid ipse syllogismus sit definiendum est. Definitur autem sic:
+Syllogismus est oratio in qua positis quibusdam atque concessis, aliud quiddam quam sint ea quae posita et
+concessa sunt, necessaria contingit per ipsa quae concessa sunt.
+Orationem diximus esse syllogismum idcirco quoniam omnis definitio a generali trahitur, genus autem
+syllogismi EST ORATIO. Quod autem dictum IN QUA POSITIS QUIBUSDAM ET CONCESSIS, ita intelligendum
+est, [821B] quasi sic dictum esset, secundum quam positis et concessis; ut enim syllogismus fiat, ante aliquid a
+proponente dicitur, quod audiens concedat, quod si ille concesserit, concludit et perficit syllogismum, idoirco, quia
+dubiae res per quaedam CONCESSA et probata monstrantur, conceditur autem aequaliter et negatio uera. Caetera uero
+in syllogismi definitione talia sunt quae non integre dispositos syllogismos a syllogismorum definitione uerorum
+19
+
+

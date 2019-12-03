@@ -1,0 +1,59 @@
+Ad hoc igitur Alexander respondet, quod ex hac demonstratione probatur corpora mundi esse sphaerica quantum
+ad concavum, sicut ex priori, qua procedebat a supremo caelo procedendo, probabatur quod haec corpora essent
+sphaerica quantum ad suum convexum: et secundum hoc neutra demonstrationum est sufficiens sine alia, sed ex
+duabus una demonstratio conficitur. Quod videtur esse contra intentionem Aristotelis, qui utramque
+demonstrationem divisim inducit, quasi utraque sit per se sufficiens.
+Et ideo dicendum est, sicut simplicius dicit, quod per hanc demonstrationem sufficienter probatur corpora mundi
+esse sphaerica, non solum quantum ad concavum, sed etiam quantum ad convexum.
+Quod enim superficies concava aeris sit sphaerica, patet ex hoc, quod superficies convexa aquae est sphaerica.
+Quod autem superficies aeris convexa sit sphaerica, patet eodem modo sicut de aqua, quia scilicet omnes partes
+eius aequaliter concurrunt ad suum locum. Et sic patet quod etiam superficies concava ignis sit sphaerica. Quod
+autem superficies ignis convexa sit sphaerica, patere potest tum ex eo quod continuatur cum sphaera lunae (unde
+et simul revolvitur cum ea, ut manifeste apparet ex motu stellae comatae, quae movetur ab oriente in occidentem
+secundum motum caeli); tum etiam ex hoc quod partes ignis moventur undique aequaliter ad suum ubi.
+|#7 Deinde cum dicit: sed et quod aquae superficies etc., probat quod supposuerat, scilicet quod superficies
+convexa aquae sit sphaerica: nam de terra inferius ostendet. Ad hoc autem ostendendum praemittit duas
+suppositiones. Quarum prima est quod, quia aqua naturaliter est gravis, semper naturaliter fluit ad id quod est
+magis concavum, vel magis infimum. Alia autem suppositio est, quod illud est magis concavum et magis
+infimum, quod est propinquius centro mundi.
+His igitur suppositis, sit centrum mundi a, et signentur in superficie aquae duo puncta b et g, aequaliter distantia
+a centro, et producantur duae lineae quae sunt ab et ag. Deinde coniungantur duo puncta b et g per lineam bg;
+quae quidem linea est recta, si suprema superficies aquae sit plana. Signetur igitur in linea bg, quae est basis
+trianguli, punctum d, et ducatur a centro linea quae est ad. Hanc lineam necesse est esse minorem utraque
+duarum linearum a centro procedentium: si enim esset aequalis, tunc omnes tres lineae essent aequales ab eodem
+puncto procedentes, et ita linea bdg, transiens per summitates earum, esset circularis, ut patet ex III euclidis;
+quod est contra positum, quo posuimus lineam bg esse lineam rectam. Supposito ergo quod linea ad sit minor,
+sequetur quod punctum d minus distabit a centro; et ita locus ille erit profundior, vel magis infimus. Unde
+sequetur, secundum suppositionem praemissam, quod aqua quae est in puncto g et in puncto b, circumfluet ad
+punctum d, donec adaequetur locus medius aliis duobus extremis; et sit linea tota adaequata duobus extremis ex
+concursu aquae, linea ae.
+Oportet igitur quod aqua sit apud omnes lineas egredientes a centro aequales: tunc enim solum aqua quiescit,
+quando omnes lineae sunt aequales.
+Sed linea quae tangit tres lineas egredientes a centro aequales, est circularis, ut probatur in III euclidis.
+Sequitur ergo quod superficies aquae, in qua describitur linea beg, sit superficies sphaerica; et hoc est quod
+demonstrare intendit.
+|#8 Deinde cum dicit: quod quidem igitur sphaericus est etc., concludit ex praemissis manifestum esse quod
+mundus sit sphaericus, tum propter corpus primum quod continet totum mundum, tum etiam propter alia corpora
+ab eo contenta.
+Sunt autem apud nos quaedam corpora sphaerica, quae tamen non perfecte habent sphaericam figuram; sicut
+ipsum corpus terrae dicitur esse sphaericum, cum tamen habeat magnas elevationes montium et concavitates
+vallium. In corporibus etiam artificialibus quae sunt apud nos sphaerica, inveniuntur aliquae tumorositates vel
+depressiones, quibus non obstantibus huiusmodi artificiata dicuntur esse sphaericae figurae, quia huiusmodi
+additiones vel subtractiones secundum sensum quasi non apparent. Ne igitur credatur hoc etiam accidere in
+corpore caelesti, addit quod est secundum diligentiam tornatus, idest carens omni tumorositate et concavitate,
+sicut corpora quae diligenter tornantur; in tantum quod nihil, neque chirocmeton, idest manu elaboratum, se
+habeat similiter ad corpus caeleste quantum ad hoc quod dictum est, neque etiam quodcumque corpus aliud
+naturale quod nostris oculis appareat: quia illa ex quibus huiusmodi corpora constituuntur, non possunt illam
+regularitatem, idest uniformitatem, suscipere per actionem artis vel naturae inferioris, et illam diligentiam
+quantum ad perfectionem sphaericae figurae, quam habet corpus caeleste, quod est naturaliter sphaericae figurae.
+Et hoc probat per proportionem partium mundi ad invicem. Manifestum est enim quod secundum eandem
+proportionem qua aqua excedit terram, semper elementa continentia distant a corporibus contentis, et etiam
+adhuc plus. Aqua autem, quae continet terram, non habet huiusmodi tumorositates et concavitates in superficie
+quas habet terra, sed magis est regularis quam superficies terrae. Similiter oportet quod superficies aeris sit
+magis regularis quam superficies aquae. Unde sequitur quod superficies supremi corporis caelestis sit maxime
+regularis, ita quod in eo omnino nihil sit, nec minimum, superadditum vel subtractum.
+|+7 Lectio 7
+
+79
+
+

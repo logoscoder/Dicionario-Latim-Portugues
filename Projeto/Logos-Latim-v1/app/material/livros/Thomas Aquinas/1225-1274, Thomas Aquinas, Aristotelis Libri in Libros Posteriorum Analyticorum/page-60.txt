@@ -1,0 +1,57 @@
+|#13 Deinde cum dicit: in privativis autem ubi quidem etc., ostendit quomodo utendum sit propositionibus
+immediatis in syllogismis negativis. Et primo, in prima figura; secundo, in secunda; ibi: si vero oporteat
+monstrare etc.; tertio, in tertia; ibi: in tertio autem modo etc.. Dicit ergo primo, quod in negativis syllogismis,
+nihil mediorum acceptorum procedendo ad immediata cadit extra genus terminorum affirmativae propositionis in
+prima figura: puta si demonstrandum sit quod nullum b est a, et accipiatur medium c, tali existente syllogismo,
+nullum c est a; omne b est c; ergo nullum b est a. Si ergo oporteat iterum probare quod in nullo c sit a, oportet
+accipere medium ipsius c et a, quod scilicet praedicetur de c, et per consequens de b, et sic pertinebit ad genus
+terminorum affirmativae propositionis: et ita semper procedetur quod media accepta non cadent extra
+affirmativam propositionem; cadent tamen extra genus praedicati negativi, puta extra genus a.
+|#14 Deinde cum dicit: si vero oporteat demonstrare etc., ostendit qualiter hoc se habeat in secunda figura; et
+dicit quod si oporteat demonstrare quod nullum e sit d, in secunda figura, accipiendo medium c, ut fiat talis
+syllogismus, omne d est c; nullum e est c, aut, quoddam e non est c; ergo nullum, vel, non omne e est d;
+nunquam medius terminus acceptus cadet extra e. Quia si oportebit iterum demonstrare quod nullum e est c,
+oportebit iterum accipere aliquod medium inter e et c; quia oportebit in secunda figura semper probare
+negativam; affirmativa enim in hac figura probari non potest.
+Unde sicut in prima figura media accepta semper accipiuntur ex parte propositionis affirmativae, ita oportet in
+secunda figura semper media accipi ex parte propositionis negativae.
+|#15 Deinde cum dicit: in tertio autem modo etc., ostendit qualiter hoc se habeat in tertia figura; et dicit quod in
+tertia figura media accepta non erunt neque extra praedicatum, quod negatur, neque extra subiectum, a quo
+negatur. Et hoc ideo quia medium subiicitur affirmativae vel negativae utrique; unde si oportet accipere adhuc
+aliquod medium, oportet iterum illud medium subiici utrique affirmando vel negando; et sic media accepta
+nunquam accipientur neque extra praedicatum negatum nec extra subiectum, de quo negatur.
+|+37 Lectio 37
+|#1
+Postquam Philosophus determinavit de syllogismo demonstrativo, hic agit de comparatione
+demonstrationum ad invicem.
+Et quia scientia ex demonstratione causatur, ideo dividitur pars ista in duas partes: in prima, agit de comparatione
+demonstrationis; in secunda, de comparatione scientiae; ibi: certior autem scientia est etc.. Circa primum tria
+facit: primo, movet dubitationem de comparatione demonstrationum; secundo, dicit quo ordine sit procedendum;
+ibi: primo quidem igitur etc.; tertio, prosequitur dubitationes motas; ibi: videbitur quidem igitur etc..
+|#2 Dicit ergo primo quod demonstratio tripliciter dividitur: uno enim modo dividitur in universalem et
+particularem; alio autem modo dividitur in categoricam et privativam, idest affirmativam et negativam; tertio
+modo dividitur in eam quae demonstrat ostensive, et in eam quae ducit ad impossibile. Est ergo quaestio in
+singulis divisionibus qualis potior sit.
+|#3 Deinde cum dicit: primum quidem igitur etc., ostendit quo ordine sit agendum; et dicit quod primo agendum
+est de comparatione universalis et particularis demonstrationis. Et cum hoc fuerit ostensum, tunc dicemus et de
+demonstratione, quae demonstrat aliquid affirmative, et de ea quae demonstrat ad impossibile; utrum scilicet
+affirmativa sit potior, et utrum ea quae est ad impossibile sit potior.
+|#4
+Deinde cum dicit: videbitur quidem igitur etc., prosequitur dubitationes propositas. Et primo, de
+comparatione demonstrationis particularis et universalis; secundo, de comparatione affirmativae et negativae;
+ibi: quod autem affirmativa etc.; tertio, de comparatione ostensivae et ducentis ad impossibile; ibi: quoniam
+autem categorica etc..
+Circa primum tria facit: primo, proponit rationes ad ostendendum quod particularis demonstratio sit potior quam
+universalis; secundo, solvit eas; ibi: aut primum quidem etc.; tertio, ponit rationes in contrarium; ibi: amplius si
+demonstratio etc..
+|#5 Circa primum ponit tres rationes, dicens quod quibusdam forte videbitur per has rationes immediate
+ponendas, quod particularis demonstratio sit dignior quam universalis. Et prima ratio talis est. Illa demonstratio
+est potior, per quam maxime scimus. Et hoc sic probat, quia virtus demonstrationis est scire. Dicitur enim virtus
+uniuscuiusque id quod ultimum potest, sicut hominis qui potest ferre centum libras, virtus non est quod ferat
+decem, sed quod ferat centum, quod est ultimum suae potentiae, ut dicitur in I de coelo et mundo. Hoc autem est
+maximum quod potest facere demonstratio, scilicet quod faciat scire. Unde haec est virtus demonstrationis.
+Unumquodque autem tanto perfectius est, quanto magis attingit ad propriam virtutem, ut patet in VII physic..
+Unde manifeste patet haec propositio, quod tanto est demonstratio potior, quanto magis facit scire. Assumit
+60
+
+

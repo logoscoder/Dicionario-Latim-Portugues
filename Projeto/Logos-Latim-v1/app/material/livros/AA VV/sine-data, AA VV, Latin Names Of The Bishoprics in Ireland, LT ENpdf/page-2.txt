@@ -1,0 +1,56 @@
+Conga: Cong.
+Connerensis, Conorensis: Connor.
+Corcagiensis, Corcensis: Cork.
+Corcumrothensis: Corcumroe, afterwards at Kilfenora.
+Cuilectrannensis: Culfeightrin.
+Cuilrathensis: Coleraine.
+Dalnliguirensis, Damhliagensis: Duleek.
+Darensis: Kildare.
+Dearrhiensis, Derensis: Derry.
+Diuilensis: Dublin (Archbishopric).
+Domnachmor: Donoghmore.
+Donnaclsacheling: Dunshaughlin, Meath.
+Doune: Down, or Dundalethglas.
+Droncliuensis: Drumclive.
+Drumorensis: Dromore.
+Drunimorensis: Dromore.
+Duacum, Duatum: Kilmacduagh, Galway.
+Dublinensis: Dublin (Archbishopric).
+Dulicensis: Duleeek, Meath.
+Dundalcensis: Dundalk.
+Dundalethglas, Dunensis: Down.
+Dunkerrensis: South Kerry, i.e., Ardfert.
+Edumabragh: Kilfenoragh.
+Elnamirand: Error for Cluanard, or Clonard.
+Elphinensis: Elphin.
+Emiliensis: Emly.
+Enachdunensis: Annaghdown, or Enaghdune.
+Enabrensis: Error for Fennabrensis, Kilfenoragh (?).
+Ergallia: Clogher.
+Eripolensis: Jerpont.
+Favoria: Fore, Meath.
+Fernensis: Ferns.
+Finnabrensis: Fenabore, or Kilfenoragh.
+Furensis: Fore, Foure.
+Fynnaborensis: Fenabore, or Kilfenoragh.
+Gathay, Insula de: Inniscathay, or Inniscattery.
+Glandelacensis: Glendelough, or Glendalach.
+Hymlacensis: Imelaco-Ibhair, or Emly.
+Iarmuanensis: Of West Munster.
+Imelacensis: Imelaca-Ibair, Emly.
+Inmelettensis: Emly.
+Iniscathrensis: Inis-scattery.
+Kenanusensis, Kenlis: Kells, Meath.
+Kildabewensis: Error for Killdalua (?).
+Kendaluam: Killaloe.
+Kildarensis: Kildare.
+Kildareuensis: Killaloe (?).
+Kildelo: Killaloe.
+Kilfenorensis: Kilfenoragh.
+Kilkenensis: Kilkenny.
+Kill-Aladh, Killaleth: Killala, co. Mayo.
+Killdalua: Killaloe.
+Killmunduach: Kilmaceduagh, or Kilmacough.
+2
+
+

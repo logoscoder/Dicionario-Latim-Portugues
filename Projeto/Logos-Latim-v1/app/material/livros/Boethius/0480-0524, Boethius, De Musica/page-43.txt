@@ -1,0 +1,62 @@
+XIII
+De consonantiarum speciebus.
+Nunc de speciebus primarum consonantiarum tractandum est; primae autem consonantiae sunt diapason,
+diapente, diatessaron. Species autem est quaedam positio propriam habens formam secundum unum quodque genus in
+uniuscuiusque proportionis consonantiam facientis terminis constituta, ut in diatonico genere. Nam si diezeugmenon
+tetrachordum inter hyperboleon tetrachordum mesenque ponamus, subtracto scilicet synemmenon tetrachordo, erunt 15
+nerui. At si ab his proslambanomenos detrahatur, erunt quatuordecim. Hi ergo disponantur hoc modo. Sit A hypate
+hypaton, B parhypate hypaton, C hypate ilchanos, D hypate meson, E parhypate meson, F lichanos meson, G mese, H
+paramese, I trite diezeugmenon, K paranete diezeugmenon, L nete diezeugmenon, M trite hyperboleon, N paranete
+hyperboleon, O nete hyperboleon. Ab hypate igitur ad paramesen diapason consonantia est. A mese uero ad hypaten
+meson diatessaron, ab eadem uero mese ad lichanon hypaton diapente. Erit igitur diapason quidem octo chordarum.
+Diatessaron uero quatuor, diapente autem quinque. Ac per hoc habebit diatessaron quidem species tres, diapente autem
+species quatuor, diapason uero species septem. Semperque una minus species erit quam fuerint uoces, ut enim a mese
+caeteras ordinamus diatessaron consonantiae species tres sunt, hoc modo: una quidem species erit ab G ad D; secunda
+uero ab F ad C; tertia uero ab E ad B, et huc usque diatessaron species progrediuntur.
+Idcirco quia huc usque species binos continet neruos eiusdem diatessaron, ut G D quidem eos qui sunt E F
+continent, F C eos qui sunt E D, et E B eos continent qui sunt C D; si uero his adiecero diatessaron D A, diuersa non
+erit ab ea quae est G D, unum enim solum G D consonantiae neruum continebit, id est D solum. Excessit igitur G D
+consonantiam, atque ideo diatessaron tres species habere perhibetur.
+Et in caeteris quidem consonantiis idem est. Diapente autem erunt species quatuor hoc modo: Una quidem est
+H ad D; alia uero ab eo quod est G ad C; alia ab eo quod est F ad B; alia autem ab eo quod est E ad A. Diapason uero
+consonantiae 7 erunt species, hoc modo: prima ab eo quod est O ad G secunda ab eo quod est N ad F; tertia ab eo quod
+est M ad E; quarta ab eo quod [1276] est L ad D; quinta ab eo quod est K ad C; sexta ab eo quod est I ad B; septima ab
+eo quod est H ad A. Liquet igitur ex his quae dicta sunt, diatessaron consonantiam semel tantum in immobilibus ac
+statutis uocibus contineri. Nam si ab hypate hypaton incipiam, erit A D, id est ab hypate hypaton in meson hypaten ea
+quae est in ordine prima. Nam caeterae non statutis uocibus terminantur, ut B E C F. Nam parhypate hypaton et
+parhypate meson, lichanos hypaton et lichanos meson mobiles esse monstratae sunt. Quod si rursus ab hypate meson
+diatessaron consonantiam inchoemus, erit species diatessaron statutis uocibus terminata G D, ea quae est prima, id est
+ab hypate meson in mesen. Reliquae minime, ut E H et F I Nam parhypate meson et lichanos meson et trite
+diezeugmeuon non probantur immobiles. Rursus si eamdem diatessaron paramese suscipiat ordiendam, erit quoque
+quae statutis coerceatur sonis, diatessaron species H L, id est a paramese in nete diezeugmenon, quae est prima. Nam
+caeterae quae sunt I M et K N mobilibus terminantur sonis. Nam triten diezeugmenon, et paraneten diezeugmenon, et
+triten hyperboleon, et paraneten hyperboleon mobiles uoces esse praediximus. Item diapente consonantia duas
+tantummodo species tenet, quae statutis uocibus includuntur. Ut si ab hypate meson ordiamur, una quidem est D H, id
+est ab hypate meson in paramesen, ea quae est prima. Altera uero G L, id est a mese in neten diezeugmenon, haec uero
+est quarta. Reliquae uero, id est E I et F K, minime statutis uocibus clausae sunt. Nam parhypate, et lichanos, et trite, et
+paranete instabiles approbantur. Similis autem ratio erit si a nete diezeugmenon in grauiorem partem, id est ad mesen,
+consonantiae huius species considerentur, eisdem enim immobilibus uocibus, quae superius dictae sunt, continebuntur.
+Siue autem ab hypate meson, seu a mese, seu a paramese, siue etiam a nete hyperboleon consonantias ad grauiorem
+partem ducamus. Duarum quae statutis uocibus coerceantur, non poterit esse destructio. Diapason uero consonantiae
+siue ab hypate hypaton in paramesen, siue a nete hyperboleon in mesen ordo sumatur, tres tantummodo species
+obtinebit, quae immobilibus uocibus coerceantur. Nam ab hypaten hypaton ordientibus una est A B, ea quae est prima
+ab hypate hypaton in paramese. Altera D L ea quae quarta ab hypate meson in nete diezeugmenon. Dehinc G O haec
+septima est, id est a mese in neten hyperboleon. Reliquarum uero specierum uoces extimae nullo modo immobilibus
+uocibus constitutae sunt. Nam parhypate, et lichanos, et trite, paranete (ut supra quodque dictum est) immobiles non
+sunt. Similiter autem et per easdem uoces si ab hyperboleon nete ordiamur, specierum ordo contexitur, quorum
+omnium intelligentiam subiecta descriptio docet.
+[1277] Stabiles A Hypate hypaton
+Mobiles B Parhypate hypaton
+Mobiles C Lichanos hypaton
+Stabiles D Hypate meson
+Mobiles E Parhypate meson
+Mobiles F Lichanos meson
+Stabiles G Mese
+Stabiles H Paramese
+Mobiles I Trite diezeugmenon
+Mobiles K Paranete diezeugmenon
+Stabiles L Nete diezeugmenon
+Mobiles M Trite hyperboleon
+Mobiles N Paranete hyperboleon
+
+

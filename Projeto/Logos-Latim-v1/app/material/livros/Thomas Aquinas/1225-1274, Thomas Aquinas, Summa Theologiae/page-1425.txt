@@ -1,0 +1,62 @@
+|a2 Articulus 2
+AG1
+Ad secundum sic proceditur. Videtur quod intellectus non sit pars prudentiae. Eorum enim quae ex opposito
+dividuntur unum non est pars alterius. Sed intellectus ponitur virtus intellectualis condivisa prudentiae, ut patet
+in VI ethic..
+Ergo intellectus non debet poni pars prudentiae.
+AG2
+Praeterea, intellectus ponitur inter dona spiritus sancti, et correspondet fidei, ut supra habitum est.
+Sed prudentia est alia virtus a fide, ut per supradicta patet.
+Ergo intellectus non pertinet ad prudentiam.
+AG3
+Praeterea, prudentia est singularium operabilium, ut dicitur in VI ethic..
+Sed intellectus est universalium cognoscitivus et immaterialium; ut patet in III de anima.
+Ergo intellectus non est pars prudentiae.
+SC
+Sed contra est quod tullius ponit intelligentiam partem prudentiae, et Macrobius intellectum, quod in idem redit.
+CO
+Respondeo dicendum quod intellectus non sumitur hic pro potentia intellectiva, sed prout importat quandam
+rectam aestimationem alicuius extremi principii quod accipitur ut per se notum, sicut et prima demonstrationum
+principia intelligere dicimur. Omnis autem deductio rationis ab aliquibus procedit quae accipiuntur ut prima.
+Unde oportet quod omnis processus rationis ab aliquo intellectu procedat. Quia igitur prudentia est recta ratio
+agibilium, ideo necesse est quod totus processus prudentiae ab intellectu derivetur.
+Et propter hoc intellectus ponitur pars prudentiae.
+RA1
+Ad primum ergo dicendum quod ratio prudentiae terminatur, sicut ad conclusionem quandam, ad particulare
+operabile, ad quod applicat universalem cognitionem, ut ex dictis patet.
+Conclusio autem singularis syllogizatur ex universali et singulari propositione. Unde oportet quod ratio
+prudentiae ex duplici intellectu procedat. Quorum unus est qui est cognoscitivus universalium. Quod pertinet ad
+intellectum qui ponitur virtus intellectualis, quia naturaliter nobis cognita sunt non solum universalia principia
+speculativa, sed etiam practica, sicut nulli esse malefaciendum, ut ex dictis patet.
+Alius autem intellectus est qui, ut dicitur in VI ethic., est cognoscitivus extremi, idest alicuius primi singularis et
+contingentis operabilis, propositionis scilicet minoris, quam oportet esse singularem in syllogismo prudentiae, ut
+dictum est.
+Hoc autem primum singulare est aliquis singularis finis, ut ibidem dicitur.
+Unde intellectus qui ponitur pars prudentiae est quaedam recta aestimatio de aliquo particulari fine.
+RA2
+Ad secundum dicendum quod intellectus qui ponitur donum spiritus sancti est quaedam acuta perspectio
+divinorum, ut ex supradictis patet.
+Aliter autem ponitur intellectus pars prudentiae, ut dictum est.
+RA3
+Ad tertium dicendum quod ipsa recta aestimatio de fine particulari et intellectus dicitur, inquantum est alicuius
+principii; et sensus, inquantum est particularis.
+Et hoc est quod Philosophus dicit, in VI ethic., horum, scilicet singularium, oportet habere sensum, hic autem est
+intellectus.
+Non autem hoc est intelligendum de sensu particulari quo cognoscimus propria sensibilia, sed de sensu interiori
+quo de particulari iudicamus.
+|a3 Articulus 3
+AG1
+Ad tertium sic proceditur. Videtur quod docilitas non debeat poni pars prudentiae. Illud enim quod requiritur ad
+omnem virtutem intellectualem non debet appropriari alicui earum.
+Sed docilitas necessaria est ad quamlibet virtutem intellectualem.
+Ergo non debet poni pars prudentiae.
+AG2
+Praeterea, ea quae ad virtutes humanas pertinent sunt in nobis, quia secundum ea quae in nobis sunt laudamur vel
+vituperamur.
+Sed non est in potestate nostra quod dociles simus, sed hoc ex naturali dispositione quibusdam contingit.
+Ergo non est pars prudentiae.
+AG3
+
+1425
+
+

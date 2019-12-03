@@ -1,0 +1,53 @@
+Liber 6
+Lectio 1
+[82710] In Metaphysic., lib. 6 l. 1 n. 1
+Postquam philosophus in quarto huius ostendit, quod haec scientia considerat de ente et de uno, et de his quae
+consequuntur ad ens inquantum huiusmodi, et quod omnia ista dicuntur multipliciter, et in quinto huius eorum
+multiplicitatem distinxit, hic incipit de ente determinare, et de aliis quae consequuntur ad ens. Dividitur autem pars ista
+in duas. In prima ostendit per quem modum haec scientia debet determinare de ente. In secunda incipit de ente
+determinare, scilicet in principio septimi, ibi, ens dicitur multipliciter. Prima pars dividitur in duas. In prima ostendit
+modum tractandi de entibus, qui competit huic scientiae per differentiam ad alias scientias. In secunda removet a
+consideratione huius scientiae ens aliquibus modis dictum, secundum quos modos ens non intenditur principaliter in
+hac scientia, ibi, sed quoniam ens simpliciter. Prima autem pars dividitur in duas. In prima parte ostendit differentiam
+huius scientiae ad alias, per hoc, quod considerat principia entis inquantum est ens. Secundo, quantum ad modum
+tractandi de huiusmodi principiis, ibi, quoniam vero physica. Circa primum duo facit.
+[82711] In Metaphysic., lib. 6 l. 1 n. 2
+Primo ostendit quomodo haec scientia convenit cum aliis in consideratione principiorum; dicens, quod ex quo ens est
+subiectum in huiusmodi scientia, ut in quarto ostensum est, et quaelibet scientia debet inquirere principia et causas, sui
+subiecti, quae sunt eius inquantum huiusmodi, oportet quod in ista scientia inquirantur principia et causae entium,
+inquantum sunt entia. Ita etiam est et in aliis scientiis. Nam sanitatis et convalescentiae est aliqua causa, quam quaerit
+medicus. Et similiter etiam mathematicorum sunt principia et elementa et causae, ut figurae et numeri et aliarum
+huiusmodi quae perquirit mathematicus. Et universaliter omnis scientia intellectualis qualitercumque participet
+intellectum: sive sit solum circa intelligibilia, sicut scientia divina; sive sit circa ea quae sunt aliquo modo imaginabilia,
+vel sensibilia in particulari, in universali autem intelligibilia, et etiam sensibilia prout de his est scientia, sicut in
+mathematica et in naturali; sive etiam ex universalibus principiis ad particularia procedant, in quibus est operatio, sicut
+in scientiis practicis: semper oportet quod talis scientia sit circa causas et principia.
+[82712] In Metaphysic., lib. 6 l. 1 n. 3
+Quae quidem principia aut sunt certiora quo ad nos sicut in naturalibus, quia sunt propinquiora sensibilibus, aut
+simpliciora et priora secundum naturam, sicut est in mathematicis. Cognitiones autem quae sunt sensitivae tantum, non
+sunt per principia et causas, sed per hoc quod ipsum sensibile obiicitur sensui. Discurrere enim a causis in causata vel e
+contrario, non est sensus, sed solum intellectus. Vel certiora principia dicit ea quae sunt magis nota et exquisita.
+Simplicia autem ea, quae magis superficialiter exquiruntur, sicut est in scientiis moralibus, quorum principia sumuntur
+ex his quae sunt ut in pluribus.
+[82713] In Metaphysic., lib. 6 l. 1 n. 4
+Secundum ibi, sed et omnes ostendit differentiam aliarum scientiarum ad istam quantum ad considerationem
+principiorum et causarum; dicens, quod omnes istae scientiae particulares, de quibus nunc facta est mentio, sunt circa
+unum aliquod particulare genus entis, sicut circa numerum vel magnitudinem, aut aliquid huiusmodi. Et tractat
+unaquaeque circumscripte de suo genere subiecto, idest ita de isto genere, quod non de alio: sicut scientia quae tractat
+de numero, non tractat de magnitudine. Nulla enim earum determinat de ente simpliciter, idest de ente in communi, nec
+etiam de aliquo particulari ente inquantum est ens. Sicut arithmetica non determinat de numero inquantum est ens, sed
+inquantum est numerus. De quolibet enim ente inquantum est ens, proprium est metaphysici considerare.
+[82714] In Metaphysic., lib. 6 l. 1 n. 5
+Et, quia eiusdem est considerare de ente inquantum est ens, et de eo quod quid est, idest de quidditate rei, quia
+unumquodque habet esse per suam quidditatem, ideo etiam aliae scientiae particulares nullam mentionem, idest
+determinationem faciunt de eo quod quid est, idest de quidditate rei, et de definitione, quae ipsam significat. Sed ex
+hoc, idest ex ipso quod quid est ad alia procedunt, utentes eo quasi demonstrato principio ad alia probanda.
+[82715] In Metaphysic., lib. 6 l. 1 n. 6
+Ipsum autem quod quid est sui subiecti aliae scientiae faciunt esse manifestum per sensum; sicut scientia, quae est de
+animalibus, accipit quid est animal per id quod apparet sensui, idest per sensum et motum, quibus animal a non animali
+discernitur. Aliae vero scientiae accipiunt quod quid est sui subiecti, per suppositionem ab aliqua alia scientia, sicut
+geometria accipit quid est magnitudo a philosopho primo. Et sic ex ipso quod quid est noto per sensum vel per
+suppositionem, demonstrant scientiae proprias passiones, quae secundum se insunt generi subiecto, circa quod sunt.
+Nam definitio est medium in demonstratione propter quid. Modus autem demonstrationis est diversus; quia quaedam
+
+

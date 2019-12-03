@@ -1,0 +1,63 @@
+Quinto quaeritur utrum aliqui actus sint indifferentes.
+TTB
+Et videtur quod non.
+AG1
+Ens enim, in quantum est ens, est bonum; enti autem opponitur non ens, bono vero malum. Sed inter ens et non
+ens nihil est medium. Ergo nec inter bonum et malum.
+Necesse est ergo omnes actus esse bonos vel malos et nullum indifferentem.
+AG2
+Sed dicendum, quod ens et bonum non convertuntur in genere moris, sed in genere naturae; et sic non oportet
+quod bonum et malum in genere moris sint immediata.
+Sed contra, maius bonum est bonum moris quam bonum naturae. Ergo maiorem habet oppositionem ad malum.
+Si ergo bonum naturae immediate opponitur malo, multo magis bonum moris.
+AG3
+Praeterea, malum non opponitur bono contrarie, quia malum nihil ponit, sed opponitur ei privative. Privative
+autem opposita non habent medium circa proprium susceptibile; proprium autem susceptibile boni et mali
+moralis est actus humanus. Ergo omnis actus humanus est bonus vel malus, et nullus indifferens.
+AG4
+Praeterea, actus humanus est a voluntate deliberata. Voluntas autem deliberata semper agit propter finem. Ergo
+omnis actus humanus est propter finem. Finis autem omnis aut est bonus aut malus: qui autem est ad bonum est
+bonus; qui vero ad malum, est malus. Ergo omnis actus humanus vel est bonus vel malus, et nullus indifferens.
+AG5
+Praeterea, omnis operatio humana vel est uti vel frui. Quicumque autem utitur, aut recte utitur aut perverse, quod
+est abuti; et similiter quicumque fruitur, aut Deo fruitur, quod est bonum, aut creatura, quod est malum.
+Ergo omnis actus humanus vel est bonus vel malus.
+AG6
+Praeterea, ut Augustinus dicit in lib.
+Lxxxiii quaestionum, in natura nullus actus est casualis; habet enim quilibet actus causas occultas, licet nobis
+ignotas.
+Sed sicut est casuale in natura, ita videtur esse indifferens in moralibus, quod est praeter intentionem boni vel
+mali. Ergo nullus actus moralis est indifferens.
+AG7
+Praeterea, omnis actus procedens a voluntate informata caritate est meritorius; omnis vero actus procedens a
+voluntate non informata caritate est demeritorius, quia omnes tenentur ad conformandum voluntatem suam
+voluntati divinae, praecipue quantum ad modum volendi, ut ea caritate velit quae vult, sicut et Deus; quod non
+potest observare qui caritatem non habet. Ergo quilibet actus est meritorius vel demeritorius, et nullus est
+indifferens.
+AG8
+Praeterea, nullus damnatur nisi pro culpa.
+Sed aliquis damnatur propter hoc quod non habet caritatem, ut patet Matth. XXII, vv. 11-14, de illo qui exclusus
+est a nuptiis propter hoc quod non habuit vestem nuptialem, per quam caritas significatur. Ergo non habere
+caritatem est peccatum, et quidquid fit a non habente caritatem, est demeritorium; et sic idem quod prius.
+AG9
+Praeterea, Philosophus dicit in VII ethic., quod actiones in moralibus sunt sicut conclusiones in syllogisticis, in
+quibus est verum et falsum, sicut et in moralibus bonum et malum. Sed omnis conclusio est vera vel falsa. Ergo
+omnis actus moralis est vel bonus vel malus, et nullus indifferens.
+AG10
+Praeterea, Gregorius VI Moralium, dicit, quod mali inde Dei voluntatem peragunt, unde contrarie nituntur. Multo
+ergo magis illi qui non contrarie nituntur, Dei voluntatem peragunt. Peragere autem Dei voluntatem est bonum.
+Ergo sequitur quod omnis actus sit bonus, et nullus actus sit indifferens.
+AG11
+Praeterea, ad hoc quod aliquis sit actus meritorius in habente caritatem, non requiritur quod actu referatur in
+Deum, sed sufficit quod actu referatur in aliquem finem convenientem, qui habitu refertur in Deum; sicut si
+aliquis volens peregrinari propter Deum, emat equum, nihil actu de Deo cogitans, sed solum de via quam iam in
+Deum ordinaverat: hoc est enim meritorium. Sed constat quod ille qui habet caritatem, se et omnia sua ordinavit
+in Deum, cui inhaeret ut ultimo fini. Ergo quidquid ordinat vel ad se vel ad quodcumque aliud sui, meritorie agit,
+etiam si actu de Deo non cogitet; nisi impediatur per aliquam inordinationem actus, qui non sit referibilis in
+Deum. Sed hoc non potest esse quin sit peccatum saltem veniale. Ergo omnis actus habentis caritatem vel est
+meritorius, vel est peccatum, et nullus indifferens; et eadem ratio videtur de aliis.
+AG12
+
+35
+
+

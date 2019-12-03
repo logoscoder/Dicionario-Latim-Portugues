@@ -1,0 +1,50 @@
+OPERA OMNIA
+SANCTI THOMAE AQUINATIS
+-----oOo----Textum electronicum praeparavit et indexavit
+Ricardo M. Rom n, S. R. E. Presbyterus
+Bonis Auris, MCMXCVIII
+
+|*DE_NATURA_ACCIDENTIS
+(Dubiae authenticitatis)
+|+PR Prologus
+Quoniam omnis cognitio humana a sensu incipit, sensus autem propria obiecta sunt accidentia, ideo et accidentia
+magnam partem conferunt ad cognoscendum quod quid est, ut dicitur primo de anima. De accidente igitur et eius
+origine aliquid breviter dicemus, quo facilius intellectus in quidditatem rei ducatur.
+Sciendum igitur est quod accidens dicitur dupliciter, naturaliter scilicet et logice: naturaliter sicut accidens
+dividitur contra substantiam, et hoc continet novem genera accidentium; logice vero dicitur accidens unum de
+quinque universalibus, de quibus loquitur Porphyrius. Ideo primo modo dictum sequitur naturam rei; accidens
+vero secundo modo dictum sequitur operationem intellectus, qui facit universalitatem in rebus, ut dicit
+Commentator super secundo de anima. Cum autem natura rei praecedat actum intellectus, ideo primo est de
+accidente primo modo dicto agendum.
+|+1 Capitulus 1: De accidente naturali.
+Sciendum est igitur quod ens non dicitur de accidente hoc nisi mediante substantia, de qua per prius dicitur. Haec
+enim est natura omnis analogi, quod illud de quo primo dicitur, erit in ratione omnium quae sunt post: sicut
+sanum, quod prius dicitur de animali quam de urina vel medicina, et ideo sanitas animalis cadit in definitione
+utriusque sanitatis: urina enim dicitur sana inquantum est signum sanitatis in animali; et similiter medicina quia
+est causa sanitatis animalis. Per quem modum cum ens dicatur per prius de substantia quam de accidente, ideo
+ratio entis in substantia necessario cadit in definitione entis in accidente. Dicitur enim quantitas ens, quia est
+mensura per se entis, idest substantiae; et qualitas quia est dispositio per se entis, dicitur ens, et sic universaliter
+de aliis.
+Et quia esse est actus entis, hoc autem verbum inesse est designans inhaerentiam accidentis, ideo inesse rei
+perfectae est esse accidentis, quod extraneum a rei natura esse necesse est. Non enim significatur per hoc inesse,
+quod accidentis esse sit in ipso esse substantiae, cum esse sit formalissimum omni rei, et ideo esse solum per se
+existentibus convenit; sed natura accidentis est inesse, sive inhaerere ipsi rei.
+Et hoc quidem manifestum est, quia quaedam accidentia sunt quibus tantum hoc convenit, scilicet inesse rei,
+secundum suum esse quod in hoc solum consistit; verumtamen eorum subiectum proprium non est esse
+substantiale ipsius rei, sed accidens aliquod, sicut quantitas est subiectum qualitatis. Constat igitur quod esse
+qualitatis est inesse quantitati; hoc etiam reperitur sine subiecto substantiae, ut in sacramento altaris.
+Quantitas autem in rebus naturae est primum et proximum accidens substantiae naturalis, cum tamen sit
+extraneum ab ipsa natura rei cum non sit de constitutione ipsius substantiae sicut sunt sua naturalia principia,
+licet non sit mensura extranea sicut sunt locus et tempus, sed intranea, et tantum una eiusdem rei: quod non est
+verum de loco, cum una res multa loca mutet.
+Nec erit ut in subiecto in ipso esse rei quod est maxime intimum rei, sed in ipsa re cuius esse est actus: hoc enim
+esse est substantiale, non accidentale, cuiusmodi est esse quo designatur ens esse secundo modo, et non primo, ut
+dicitur quinto metaph..
+Et ideo hoc esse formalius se habet ad rem constituendam in genere entis, quam ipsa forma rei quae hoc ipsum
+esse dat, vel materia cui datur, ex quibus compositum resultat cuius est hoc esse ut entis.
+Intimius ergo ad rem ipsam, quae est ens inter omnia, est ipsum esse eius; et post ipsum ipsa forma rei qua res
+habet ipsum esse; et ultimo ipsa materia: quae licet sit fundamentum in re, inter omnia ab ipso tamen esse rei
+magis distat.
+1
+
+

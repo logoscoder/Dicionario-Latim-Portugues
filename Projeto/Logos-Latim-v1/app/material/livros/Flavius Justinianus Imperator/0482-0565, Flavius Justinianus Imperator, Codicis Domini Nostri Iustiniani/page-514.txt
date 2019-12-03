@@ -1,0 +1,62 @@
+Liber decimus
+* 10.1.0. De iure fisci.
+* 10.2.0. De conveniendis fisci debitoribus.
+* 10.3.0. De fide et iure hastae fiscalis et de adiectionibus.
+* 10.4.0. De venditione rerum fiscalium cum privatis communium.
+* 10.5.0. Ne fiscus rem quam vendidit evincat.
+* 10.6.0. De his qui ex publicis rationibus mutuam pecuniam acceperunt.
+* 10.7.0. Poenis fiscalibus creditores praeferri.
+* 10.8.0. De fiscalibus usuris.
+* 10.9.0. De sententiis adversus fiscum latis retractandis.
+* 10.10.0. De bonis vacantibus et de incorporatione.
+* 10.11.0. De delatoribus.
+* 10.12.0. De petitionibus bonorum sublatis.
+* 10.13.0. De his qui se deferunt.
+* 10.14.0. Si liberalitatis imperialis socius sine herede defecerit.
+* 10.15.0. De thesauris.
+* 10.16.0. De annona et tributis.
+* 10.17.0. De indictionibus.
+* 10.18.0. De superindicto.
+* 10.19.0. De exactionibus tributorum.
+* 10.20.0. De superexactionibus.
+* 10.21.0. De capiendis et distrahendis pignoribus tributorum causa.
+* 10.22.0. De apochis publicis et descriptionibus curialium.
+* 10.23.0. De canone largitionalium titulorum.
+* 10.24.0. Ne operae a collatoribus exigantur.
+* 10.25.0. De immunitate nemini concedenda.
+* 10.26.0. De conditis in publicis horreis.
+* 10.27.0. Ut nemini liceat in coemptione specierum se excusare et de munere sitoniae.
+* 10.28.0. De collatione donatorum vel relevatorum aut translatorum seu adaeratorum.
+* 10.29.0. De collatione aeris.
+* 10.30.0. De discussoribus.
+* 10.32.0. De decurionibus et filiis eorum et qui decuriones habentur quibus modis a fortuna curiae (..)
+* 10.33.0. Si libertus aut servus ad decurionatum adspiraverit.
+* 10.34.0. De praediis curialium sine decreto non alienandis.
+* 10.35.0. Quando et quibus debetur quarta pars ex bonis decurionum et de modo distributionis eorum.
+* 10.36.0. De imponenda lucrativis descriptione.
+* 10.37.0. De praebendo salario.
+* 10.38.0. Si curialis relicta civitate rus habitare maluerit.
+* 10.39.0. De municipibus et originariis.
+* 10.40.0. De incolis et ubi quis domicilium habere videtur et de his qui studiorum causa (..)
+* 10.41.0. De honoribus et muneribus non continuandis inter patrem et filium et de intervallis.
+* 10.42.0. De muneribus patrimoniorum.
+* 10.43.0. Quemadmodum civilia munera indicuntur.
+* 10.44.0. De his qui sponte munera susceperunt.
+* 10.45.0. De his qui a principe vacationem acceperunt.
+* 10.46.0. De vacatione muneris.
+* 10.47.0. De decretis decurionum super immunitate quibusdam concedenda.
+* 10.48.0. De excusationibus munerum.
+* 10.49.0. De quibus muneribus vel praestationibus nemini liceat se excusare.
+* 10.50.0. Qui aetate se excusant.
+* 10.51.0. Qui morbo.
+* 10.52.0. De his qui numero liberorum vel paupertate excusationem meruerunt.
+* 10.53.0. De professoribus et medicis.
+* 10.54.0. De athletis.
+* 10.55.0. De his qui non impletis stipendiis sacramento soluti sunt.
+* 10.56.0. Quibus muneribus excusantur ii, qui post impletam militiam vel advocationem (..)
+* 10.57.0. De conductoribus vectigalium fisci.
+* 10.58.0. De libertinis.
+* 10.59.0. De infamibus.
+514
+
+

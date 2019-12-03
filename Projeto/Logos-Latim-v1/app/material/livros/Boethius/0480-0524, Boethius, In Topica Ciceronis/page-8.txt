@@ -1,0 +1,61 @@
+Quod si argumentum quidem sensus ipse totius ratiocinationis intelligatur, argumentatio uero integra ratiocinationis
+prolatio, extra uero et ab utrisque diuersum ualens, uelut locus quidam maxima propositio consideretur, sic quoque
+maximarum differentiae propositionum loci esse uidebuntur. Nam cum differentia ipsa maximam propositionem
+contineat, eiusque sit locus, maxima uero propositio argumentationi [1054A] uel argumento uires ministret, non est
+dubium quin ea toti argumento locus esse uideatur, quod totum intra maximae propositionis ambitum claudit.
+Demonstratum igitur est quae sint argumentorum sedes, id est, ubi argumenta clauduntur (hae sunt autem
+maximarum propositionum differentiae), quae uocantur loci, quid etiam argumentum, quoniam est rei dubiae faciens
+fidem, quae sit uero res dubia, id est pars altera quaestionis, quid sit quaestio, id est dubitabilis propositio, quid sit
+simplex propositio, id est enuntiatio, quae praedicato et subiecto termino contineatur, uerum falsumue designans, quae
+omnia meminisse oportet. Maximarum enim propositionum differentiae quas locos esse praediximus, ab his dicuntur
+terminis qui prius in propositione sunt, posterius [1054B] in quaestione considerantur, praedicato scilicet atque
+subiecto.
+Ex his etiam quae superius dicta sunt quid distent Topica Ciceronis atque Aristotelis apparuit. Aristoteles
+namque de maximis propositionibus disserit, has enim locos argumentorum esse posuit, ut nos quoque supra retulimus.
+Tullius uero locos non maximas propositiones, sed earum continentes differentias uocat, ac de his dicere contendit.
+[2.07] ...SED EX HIS LOCIS IN QUIBUS ARGUMENTA INCLUSA SUNT, ALII IN EO IPSO DE QUO
+AGITUR HAERENT, ALII ASSUMUNTUR EXTRINSECUS. IN IPSO TUM EX TOTO, TUM EX PARTIBUS
+EIUS, TUM EX NOTA, TUM EX EIS REBUS QUAE QUODAMMODO AFFECTAE SUNT AD ID DE QUO
+QUAERITUR. EXTRINSECUS AUTEM EA DUCUNTUR QUAE ABSUNT LONGEQUE DISIUNCTA SUNT.
+Post definitionem loci atque argumenti facit plenissimam [1054C] diuisionem locorum. Ac primum quoniam
+omnis diuisio cuncta debet amplecti, neque superfluum quidquam interponere, nec omittere quid sit necessarium, id M.
+Tullius proposita diuisione patefacit dicens: EX HIS LOCIS IN QUIBUS ARGUMENTA INCLUSA SUNT, ALIOS
+IN EO IPSO DE QUO AGITUR HAERERE, ALIOS EXTRINSECUS ASSUMI. Nihil enim huic diuisioni posse
+uidetur addi uel minui, quandoquidem breuiter cuncta complectitur. Argumentorum enim loci quicumque sumuntur, aut
+in ipso de quo agitur haerent, aut minime. Id autem minime extrinsecus positos esse designat, quod si inter id quod
+dicimus in ipso de quo agitur haerere argumentorum locos, et non haerere nihil est medium. Inter affirmationem enim
+atque negationem nulla est medietas. Cumque in [1054D] ipso de quo agitur non inhaerere locum argumenti, id sit
+extrinsecus assumi, dubium non est quin nihil intersit medium inter ea argumenta quorum in hoc ipso haerent loci de
+quo agitur, et ea quorum extrinsecus assumuntur, EXTRINSECUS AUTEM EA DUCUNTUR QUAE ABSUNT
+LONGEQUE DISIUNCTA SUNT.
+Sed quid ipsum sit de quo agitur facilior explanatio est, si eorum quae prius dicta sunt meminerimus. Nam
+cum de quaestione loqueremur, eamdem diximus esse quaestionem quae esset dubitabilis propositio. Sed quoniam
+propositio subiecto praedicatoque constaret, quaestionem quoque diximus subiecta praedicatoque coniungi.
+Praedicatum igitur uel subiectum est hoc ipsum de quo agitur. Nam cum de alterutra quaestionis [1055A] parte
+dubitetur, in hac ambiguitate quaeritur utrum praedicatus terminus inesse subiecto uideatur, an minime.
+Nam cum omnis quaestio in affirmationem negationemque diuidatur, si praedicatus subiecto inest, fit ex eo
+uera affirmatio; si non inest, fit uera negatio. Sed in quaestionibus disceptandis, alter affirmationem, alter negationem
+tuetur, id est, alter praedicatum inesse subiecto, alter non inesse defendit. Quod uero ex alterutra parte defenditur, hoc
+est ipsum de quo agitur. Ipsum igitur est praedicatus terminus uel subiectus, de quibus agitur. Atque ut id exemplo
+clarius fiat, sit quaestio, an Verres furtum fecerit. Hic Verres subiectum est, furtum facere praedicatum; quod si furtum
+Verri coniungitur, idque argumentationibus comprobatur, [1055B] quaestionis affirmatio demonstrata est. Si furtum a
+Verre seiungitur, quaestionis rursus negatio comprobatur. Ipsum itaque de quo agitur nihil est, nisi uterlibet eorum
+terminus qui in quaestione proponitur, siue praedicatus, siue etiam subiectus.
+Qui quidem termini per se argumenta esse non possunt, neque uero per se argumenta praestare. Si enim ipsi
+simplices ut sunt argumenta esse possunt, uel argumentorum praestare materiam, nullam in quaestione relinquerent
+dubitationem; sed quoniam de ipsis adhuc in quaestione dubitatur an eorum possit esse rata coniunctio, ipsi quidem
+neque per se argumenta esse, neque per se argumenta praestare poterunt, ea uero quae in ipsis insunt, uel extrinsecus
+posita sunt, argumentorum copiam subministrant.
+Nam [1055C] quod Victorinus quaerit, et explicat latius, ne commemoratione quidem mihi dignum uidetur.
+Quaerit enim quaestio ipsa de quo agitur an habeat locum, quod minime oportuit, ut dictum est.
+Locus de quo nunc agimus non cuiuslibet rei locus est sed argumenti, argumentum uero rei dubire faciens
+fidem, res uero dubia pars quaestionis. Quod si argumentum quaestio uel pars quaestionis esse non potest, locus uero de
+quo agimus argumenti est locus, non est dubium quin locus quaestionis esse non possit.
+Amplius, omnis quaestio dubitabilis est, argumentum uero omne quaestionis purgat ambiguum. Non est igitur
+idem argumentum quod quaestio sed loci, argumentorum sunt loci, non sunt igitur quaestionis. Hoc igitur praemisso
+intelligamus ipsum de quo agitur [1055D] quemlibet terminum in quaestione propositum, siue praedicatum, siue
+subiectum, qui cum per se res sint, ipsi quidem argumentum esse non possunt, habere autem in se quaedam possunt, in
+quibus argumenta sint collocata, et quae sedes argumentorum esse intelligantur. Quae quidem cum terminis his de
+quibus agitur inhaerere uideantur, nondum tamen sunt argumenta sed quasi iam argumenta complectentes loci, et uelut
+
+

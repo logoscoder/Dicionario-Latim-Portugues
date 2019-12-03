@@ -1,0 +1,57 @@
+necessarium esse quod triangulus habet tres angulos aequales duobus; sic enim necessarium dicimus quod
+impossibile est non esse. Quaedam vero sunt ut in pluribus, sicut quod homo nascatur cum quinque digitis in
+manibus: hoc enim non semper est ex necessitate, cum contingat aliquem nasci cum sexto digito; sed est ut in
+pluribus.
+Quaedam vero nec sunt ut in pluribus, neque semper ex necessitate, sed contingenter eveniunt; sicut si frigus fiat
+sub cane, idest in diebus canicularibus.
+Sed non semper et ex necessitate neque in pluribus, sed tamen quandoque accidit etiam huiusmodi ens. Quia
+autem raro accidit, et non semper et ex necessitate, neque ut in pluribus, vocatur ens per accidens.
+|#10 Quae enim semper vel in pluribus contingunt, vel ita se habent quod unum est causa alterius; vel ambo
+reducuntur in unam causam quae per se est causa utriusque. Et utroque modo contingunt.
+Si quidem causa indeficienter producit effectum suum, erit quod dicitur ex necessitate. Si autem possunt deficere
+propter aliquod impedimentum, erit ut in pluribus.
+|#11 Si autem ita sit quod duorum unum non sit causa alterius, neque habeant unam causam per se communem,
+quae coniungat ea simul, eorum coniunctio erit raro. Sicut in hoc quod dico musicum aedificare. Nam
+aedificationis causa non est a musica, sed ab arte aedificativa, quae est omnino alia a musica. Similiter est in
+praemisso exemplo. Nam quod sit fervor caloris sub cane, est a sole appropinquante nobis.
+Quod autem sit frigus, est ex aliqua alia causa, puta ex Saturno, aliquo modo coniuncto soli. Unde hoc est per
+accidens, quod sole dies caniculares faciente, frigus sit.
+|#12 Sic igitur manifestum est quod est ens per accidens; quia neque quod est in maiori parte, neque quod est
+semper.
+Omnis autem scientia est de eo quod semper, aut in plus, ut probatum est in primo posteriorum. Unde
+manifestum est, quod scientia non potest esse de eo quod est per accidens.
+|#13 Secundo ibi, quod autem inducit, ad idem manifestandum, quod ens per accidens non habet causas et
+principia talia, qualia habet ens per se; et sic de eo non potest esse scientia, cum omnis scientia sit ex principiis et
+causis. Quod quidem sic probat. Quia si ens per accidens haberet per se causas, omnia essent ex necessitate.
+Entia enim per se talem causam habent, qua posita, de necessitate sequitur effectus.
+Et si aliqua causa sit ad quam non de necessitate sequitur effectus, sed ut in pluribus, hoc est propter
+impedimentum, quod per accidens contingit. Et sic, si ens per accidens tollatur a rebus, omnis causa per se, de
+necessitate inducet suum effectum.
+Sic ergo si ens per accidens de necessitate habet causam per se, qua posita ex necessitate sequitur effectus, licet
+forte eam poni non sit necessarium, nihilominus tamen sequitur quod omnia ex necessitate eveniant.
+Quod sic patet.
+|#14 Sit enim aliquid praeteritum vel praesens quod sit causa futuri effectus.
+Hoc quidem iam positum est. Sed posita causa, ut tu dicis, ex necessitate sequitur effectus. Si igitur hoc praesens
+vel praeteritum, quod iam positum est, est causa huius entis futuri, et illud alterius, non quocumque modo, sed ita
+quod ex necessitate sequatur effectus. Posita enim causa, ex necessitate erit illud cuius causa iam posita est, et
+hoc usque ad ultimum causatum.
+Sed hoc ponebatur esse per accidens.
+Et sic quod ponebatur per accidens, erit ex necessitate. Unde sequitur quod omnia sint ex necessitate, et quod a
+rebus auferatur, quod ad utrumque contingit, idest quod est casuale fortuitum, et accidere, idest ens per accidens.
+Et fieri et non fieri, idest possibile esse et non esse, vel fieri et non fieri.
+|#15 Sed quia posset aliquis obviare huic rationi, dicendo, quod causa futurorum contingentium non est iam
+posita ut praesens et praeterita, sed adhuc est contingens ut futura, et propter hoc effectus sunt adhuc
+contingentes, consequenter hanc obviationem removet, ibi, et si non existens, dicens quod eadem inconvenientia
+accident, si ponatur quod causa futurorum contingentium non sit iam ens quasi praesens vel praeterita, sed quae
+in fieri et quasi futura. Sequitur enim quod omnia ex necessitate accidant sicut et prius. Si enim causa illa futura
+sit, oportet quod sit futura in aliquo tempore determinato, et determinate distincto a praesenti nunc; puta cras. Si
+ergo eclipsis, quae est per se causa quorumdam futurorum accidentium, sit futura cras, et omne quod fit, fit ex
+aliqua causa, oportet quod ipsa eclipsis, quae est futura cras, fiat si hoc fuerit, idest propter aliquid praeexistens,
+et hoc iterum propter aliud; et sic semper propter anticipationem, vel ablationem causarum, auferetur aliquid a
+tempore, quod est inter praesens nunc et eclipsim futuram. Unde, cum illud tempus sit finitum, et omne finitum
+consumatur ablato quodam, quandoque erit devenire ad aliquam causam nunc existentem. Quare, si illa iam
+ponitur, omnes futuri effectus consequuntur ex necessitate.
+Et ita omnia ex necessitate evenient.
+321
+
+

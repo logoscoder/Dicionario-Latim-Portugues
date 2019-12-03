@@ -1,0 +1,60 @@
+ANICII MANLII SEVERINI BOETHII
+INTRODUCTIO AD SYLLOGISMOS CATEGORICOS
+[761C] Multa ueteres philosophiae duces posteriorum studiis contulerunt, in quibus priusquam ad res profunda
+mersas caligine peiuenirent qandam quasi intelligentiae luctatione praeluderent: hinc institutionum breuior compendii
+facilitate doctrina, hinc per ea quae illi *prolegomena* uocant, ad intelligentiam promptior uiam unitur.
+Huius igitur aemulus prouidentiae statui obscurarum aditus doctrinarum praemissae institutionis luce reserare,
+et praesentem operam syllogismis quorum connexionibus omnis ratio continetur, addicere, modumque eum custodire
+dicendi, ut facilitati atque intelligentiae seruientes, astringamus a ueteribus dicta latius, enuntiata breuius porrigamus,
+obscurata improprii nouitate sermonis consueti uocabuli proprietate pandamus. Sed qui ad hoc opus [761D] lector
+accedit, ab eo primitus petitum uelimus ne in hic quae nunquam alias attigerit statim audeat iudicare, neue si quid in
+ludo puerilium disciplinarum rudis adhuc et nondum firmus acceperit, id amplexandum atque etiam colendum putet;
+alia enim teneris atque imbuendis adhuc auribus accomotata, alia firmis ac robustioribus doctrina mentibus, reseruatur.
+Quare si quid est quod discrepet, ne statim obstrepat sed ratione consulta, quid ipse sentiat quid nos afferamus, ueriore
+mentis acumine et subtiliore consideratione diiudicet. Idem namque eueniet, ut quae in primo statim studendi aditu
+didicerunt, perspecta penitus ac potius deprehensa contemnant. At si iam quisque duae scientiae defensor esse cupidus
+malit (habent hoc quoque uitii homines quos comprehendit [762C] discendi uetus ac longa, segnities, ut si arreptis
+semel opinionibus non recedant, ne in senectute discendo, nihil usque in senectutem didicisse uideantur), si, inquam,
+malunt uindicare quam uertere quae uulgatis semel etudiis imbiberunt, nemo expetit ut priora condemnent sed ut
+maiora quaedam construant atque altiora coniungant.
+Non enim una atque eadem diuersarum ratio disciplinarum, cum sit diuersissimis disciplinis una atque eadem
+substantia materies. Aliter enim de qualibet orationis parte grammatico, aliter dialectico disserendum est, nec eodem
+modo lineam uel superficiem mathematicus ac physicus tractant. Quo fit ut altera alteram non impediat disciplina, sed
+multorum consideratione coniuncta fiat uera naturae atque ex omnibus [762D] explicata cognitio.
+Sed de his hactenus; nunc de propositis ordinamur. Quoniam igitur nobis hoc opus est in categoricos
+syllogismos, syllogismorum uero compago propositionibus texitur, propositionum uero partes sunt nomen et uerbum,
+pars autem ab eo cuius pars est, prior est; de nomine et uerbo, quae prima sunt, disputatio prima ponatur, dehinc de
+propositione ad ultimum de syllogismorum connexione tractabitur.
+Nomen est uox significatiua secundum placitum sine tempore, cuius nulla pars significatiua eit separata; quae
+definitio paulo enodatius explicanda est.
+Nomen enim uocem esse dicimus, quoniam uox nominum genus est; omne autem genus de sua specie
+praedicatur, omnisque definitio a genere sumitur, ut si definias hominem [763A] prius animal dicas, quod est genus,
+Post uero differentias iungas quae sunt rationale et mortale.
+Ita igitur nos quoque in nominis difinitione uocem quidem ut genus sumimus, caetera autem uoci quasi
+differentiae aggregamus, uelut quod nomen designatiua uox dicitur. Sunt enim uoces quae nihil designant, ut syllabae,
+nomen uero designatiua uox est, quon iam nomen designat id semper cuius nomen est.
+Secundum placitum uero adiunctum est, quoniam nullum nomen natura significat sed secundum placitum
+ponentis constituentisque uoluntatem. Illud enim unaquaeque res dicitur quodei placuit qui primus rei nomen impressit.
+Aliae enim sunt uoces naturaliter significantes, ut canum latratus, iras canum significat, et aliae eius quaedam uox
+blandimenta; gemitus etiam designant dolorem, [763B] sed non sunt nomina, quia non designant secundum placitum
+sed secundum naturam.
+Sine tempore uero, quod et uerba uoces sunt significatiuae et secundum placitum sed distant a nominibus, quia
+nomina quidem sine tempore sunt, uerba uero cum tempore.
+Cuius nulla pars significatiua est separata, nomina ab oratione disiungit. Oratio namque uox est significatiua
+secundum placitum et aliquoties sine tempore, ut hic uersus:
+Nerine Galathea thymo mihi dulcior Hyblae.
+Sed orationis partes, separatae a tota oratione, designant: nominum uero nihil extra designat, atque in illis
+quidem nominibus quae figurae sunt simplicis nihil pars omnino significare manifestum est, ut in eo quod est Cicero,
+nulla pars separata [763C] designat neque ci, neque ce, neque ro.
+At si nomen compositum fiat, significare aliquid separata, partes uidentur; sed in eodem nomine quod ex
+utrisque compositum est, separate nihil designant, ut si dicam magister, partes eius nominis sunt magis atque ter, quae
+sumpta extrinsecus et a nominis parte separatae significatione non carent, utraque enim ad uerbi aliter significat
+quantitatem; sed cum magister quod est compositum nomen alicuius artis peritum doctoremque significet, magis neque
+partem doctoris, neque totum doctorem poterit designare. Eodem quoque modo ter, neque in toto significat, neque in
+parte doctorem, id est, rem illam quae magistri uocabulo subiecta est nulla ratione designat.
+Compositorum ergo nominum partes nihil eius rei quam in [763D] unum conuenientes uocabulum designabant
+disiunctae distractaeque significant; alia uero significare possunt sed tunc non partes nominis sed ipsa sunt nomina.
+Quod enim coniuncta significant, id diuisa atque se posita non designant. iuncta autem magis et ter doctoris
+significationem tenebant, separata igitur omnem significationem doctoris amitunt.
+
+

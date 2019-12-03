@@ -1,0 +1,56 @@
+|#11 Deinde cum dicit: videbitur autem etc., excludit id quod faceret dubitationem circa praedicta; et dicit quod
+subito, id est primo aspectu videtur hoc esse inconveniens, quod dictum est; quia hoc quod dico, homo non est
+albus, videtur idem significare cum hoc quod est, nullus homo est albus. Sed ipse hoc removet dicens quod
+neque idem significant neque ex necessitate sunt simul vera, sicut ex praedictis manifestum est.
+|+12 Lectio 12
+|#1 Postquam Philosophus distinxit diversos modos oppositionum in enunciationibus, nunc intendit ostendere
+quod uni affirmationi una negatio opponitur, et circa hoc duo facit: primo, ostendit quod uni affirmationi una
+negatio opponitur; secundo, ostendit quae sit una affirmatio vel negatio, ibi: una autem affirmatio etc..
+Circa primum tria facit: primo, proponit quod intendit; secundo, manifestat propositum; ibi: hoc enim idem etc.;
+tertio, epilogat quae dicta sunt; ibi: manifestum est ergo etc..
+|#2 Dicit ergo primo, manifestum esse quod unius affirmationis est una negatio sola. Et hoc quidem fuit
+necessarium hic dicere: quia cum posuerit plura oppositionum genera, videbatur quod uni affirmationi duae
+negationes opponerentur; sicut huic affirmativae, omnis homo est albus, videtur, secundum praedicta, haec
+negativa opponi, nullus homo est albus, et haec, quidam homo non est albus. Sed si quis recte consideret huius
+affirmativae, omnis homo est albus, negativa est sola ista, quidam homo non est albus, quae solummodo removet
+ipsam, ut patet ex sua aequipollenti, quae est, non omnis homo est albus. Universalis vero negativa includit
+quidem in suo intellectu negationem universalis affirmativae, in quantum includit particularem negativam, sed
+supra hoc aliquid addit, in quantum scilicet importat non solum remotionem universalitatis, sed removet
+quamlibet partem eius. Et sic patet quod sola una est negatio universalis affirmationis: et idem apparet in aliis.
+|#3 Deinde cum dicit: hoc enim etc., manifestat propositum: et primo, per rationem; secundo, per exempla; ibi:
+dico autem, ut est socrates albus.
+Ratio autem sumitur ex hoc, quod supra dictum est quod negatio opponitur affirmationi, quae est eiusdem de
+eodem: ex quo hic accipitur quod oportet negationem negare illud idem praedicatum, quod affirmatio affirmavit
+et de eodem subiecto, sive illud subiectum sit aliquid singulare, sive aliquid universale, vel universaliter, vel non
+universaliter sumptum; sed hoc non contingit fieri nisi uno modo, ita scilicet ut negatio neget id quod affirmatio
+posuit, et nihil aliud; ergo uni affirmationi opponitur una sola negatio.
+|#4 Deinde cum dicit: dico autem, ut est etc., manifestat propositum per exempla.
+Et primo, in singularibus: huic enim affirmationi, socrates est albus, haec sola opponitur, socrates non est albus,
+tanquam eius propria negatio. Si vero esset aliud praedicatum vel aliud subiectum, non esset negatio opposita,
+sed omnino diversa; sicut ista, socrates non est musicus, non opponitur ei quae est, socrates est albus; neque
+etiam illa quae est, Plato est albus, huic quae est, socrates non est albus.
+Secundo, manifestat idem quando subiectum affirmationis est universale universaliter sumptum; sicut huic
+affirmationi, omnis homo est albus, opponitur sicut propria eius negatio, non omnis homo est albus, quae
+aequipollet particulari negativae.
+Tertio, ponit exemplum quando affirmationis subiectum est universale particulariter sumptum: et dicit quod huic
+affirmationi, aliquis homo est albus, opponitur tanquam eius propria negatio, nullus homo est albus.
+Nam nullus dicitur, quasi non ullus, idest, non aliquis.
+Quarto, ponit exemplum quando affirmationis subiectum est universale indefinite sumptum et dicit quod isti
+affirmationi, homo est albus, opponitur tanquam propria eius negatio illa quae est, non est homo albus.
+|#5 Sed videtur hoc esse contra id, quod supra dictum est quod negativa indefinita verificatur simul cum
+indefinita affirmativa; negatio autem non potest verificari simul cum sua opposita affirmatione, quia non
+contingit de eodem affirmare et negare.
+Sed ad hoc dicendum quod oportet quod hic dicitur intelligi quando negatio ad idem refertur quod affirmatio
+continebat; et hoc potest esse dupliciter: uno modo, quando affirmatur aliquid inesse homini ratione sui ipsius
+(quod est per se de eodem praedicari), et hoc ipsum negatio negat; alio modo, quando aliquid affirmatur de
+universali ratione sui singularis, et pro eodem de eo negatur.
+|#6 Deinde cum dicit: quod igitur una affirmatio etc., epilogat quae dicta sunt, et concludit manifestum esse ex
+praedictis quod uni affirmationi opponitur una negatio; et quod oppositarum affirmationum et negationum aliae
+sunt contrariae, aliae contradictoriae; et dictum est quae sint utraeque.
+Tacet autem de subcontrariis, quia non sunt recte oppositae, ut supra dictum est. Dictum est etiam quod non
+omnis contradictio est vera vel falsa; et sumitur hic large contradictio pro qualicumque oppositione affirmationis
+et negationis: nam in his quae sunt vere contradictoriae semper una est vera, et altera falsa. Quare autem in
+quibusdam oppositis hoc non verificetur, dictum est supra; quia scilicet quaedam non sunt contradictoriae, sed
+29
+
+

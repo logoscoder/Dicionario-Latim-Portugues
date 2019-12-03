@@ -1,0 +1,58 @@
+quamuis de alio non cogitetur. Similiter, tales consequentiae non ualent 'omnem hominem esse animal est per se
+primo modo, ergo aliquod animal esse hominem est per se primo modo', quia non sequitur
+'antecedens est per se primo modo, ergo consequens est per se primo modo'; nec ualet 'omnem hominem
+esse risibile est per se secundo modo, ergo aliquod risibile esse hominem est per se secundo modo'. Et ita in
+talibus semper aspiciendum est ad tales propositiones 'unum conuetibilium est tale, igitur reliquum est tale',
+'antecedens est tale, igitur consequens est tale', et per istas potest sciri quae propositio in sensu compositionis uel
+aequiualens ei conuertitur sicut sua de inesse et quae non.
+'antecedens est per se primo modo, ergo consequens est per se primo modo'; nec ualet 'omnem hominem
+esse risibile est per se secundo modo, ergo aliquod risibile esse hominem est per se secundo modo'. Et ita in
+talibus semper aspiciendum est ad tales propositiones 'unum conuetibilium est tale, igitur reliquum est tale',
+'antecedens est tale, igitur consequens est tale', et per istas potest sciri quae propositio in sensu compositionis uel
+aequiualens ei conuertitur sicut sua de inesse et quae non.
+Sed circa conuersionem talium propositionum in sensu diuisionis et aequiualentium eis est sciendum
+quod semper uel frequenter conuertuntur sicut aliqua propositionum modalium de quibus dictum est prius in
+speciali. Sicut ista 'album scitur esse homo' non conuertitur in istam
+'igitur aliquis homo scitur esse albus', nam posito quod sciam Sortem esse hominem, et quod sit albus et
+tamen hoc ignorem, tunc haec est uera
+'aliquod album scitur a me esse homo'; quia iste syllogismus expositorius est bonus 'Sortes scitur a me
+esse homo; Sortes est albus; igitur aliquod album scitur a me esse homo'. Et tamen haec est falsa 'aliquis homo
+scitur a me esse albus', ponatur quod nesciam quod aliquis homo est albus, et ideo prima conuertitur in istam
+'igitur aliquid quod scitur esse homo, est album'. Similiter ista conuersio non ualet 'Deus trinus et unus scitur a
+philosophis esse immortalis, igitur aliquod immortale scitur a philosophis esse Deus trinus et unus', sed
+conuertitur in istam 'igitur aliquid quod a philosophis scitur esse immortale, est Deus trinus et unus'.
+'aliquod album scitur a me esse homo'; quia iste syllogismus expositorius est bonus 'Sortes scitur a me
+esse homo; Sortes est albus; igitur aliquod album scitur a me esse homo'. Et tamen haec est falsa 'aliquis homo
+scitur a me esse albus', ponatur quod nesciam quod aliquis homo est albus, et ideo prima conuertitur in istam
+'igitur aliquid quod scitur esse homo, est album'. Similiter ista conuersio non ualet 'Deus trinus et unus scitur a
+philosophis esse immortalis, igitur aliquod immortale scitur a philosophis esse Deus trinus et unus', sed
+conuertitur in istam 'igitur aliquid quod a philosophis scitur esse immortale, est Deus trinus et unus'.
+Et si dicatur quod haec est falsa 'Deus trinus et unus scitur a philosophis esse immortalis', quia
+impossibile est quod philosophi naturaliter sciant istam 'Deus trinus et unus est immortalis', igitur haec non est
+uera 'Deus trinus et unus scitur a philosophis esse immortalis':
+Et si dicatur quod haec est falsa 'Deus trinus et unus scitur a philosophis esse immortalis', quia
+impossibile est quod philosophi naturaliter sciant istam 'Deus trinus et unus est immortalis', igitur haec non est
+uera 'Deus trinus et unus scitur a philosophis esse immortalis':
+Dicendum quod ista est uera 'Deus trinus et unus scitur a philosophis esse immortalis', et tamen ipsi
+nesciunt istam, immo negarent eam et dicerent eam esse falsam, quia dicerent quod implicat falsum, scilicet
+Deum esse trinum et unum. Et tamen ipsa est uera, quia per istam non plus denotatur nisi quod de illo qui est
+trinus et unus, quamuis nesciatur ipsum esse trinum et unum, scitur a philosophis quod est immortalis. Unde per
+istam
+'Deus trinus et unus scitur a philosophis esse immortalis' non denotatur nisi ista copulatiua 'Deus est
+trinus et unus et de illo scitur a philosophis quod est immortalis'. Et hoc est uerum, quia utraque pars istius
+copulatiuae est uera.
+'Deus trinus et unus scitur a philosophis esse immortalis' non denotatur nisi ista copulatiua 'Deus est
+trinus et unus et de illo scitur a philosophis quod est immortalis'. Et hoc est uerum, quia utraque pars istius
+copulatiuae est uera.
+Similiter, quod haec sit uera, patet, nam ista est uera 'aliquid quod scitur a philosophis esse immortale,
+est Deus trinus et unus', quia Deus, qui scitur a philosophis esse immartalis, est Deus trinus et unus. Tunc arguo
+per syllogismum expositorium 'Deus est Deus trinus et unus; Deus est aliquid quod scitur a philosophis esse
+immortale; ergo aliquid quod scitur a philosophis esse immortale, est Deus trinus et unus'. Praemissae sunt uerae,
+ergo conclusio. Et ultra, similiter sequitur 'Deus scitur a philosophis esse immortalis; Deus est trinus et unus;
+igitur Deus trinus et unus scitur a philosophis esse immortalis'. Sic igitur patet euidenter ueritas propositionis
+acceptae et bonitas conuersionis.
+Similiter, quod haec sit uera, patet, nam ista est uera 'aliquid quod scitur a philosophis esse immortale,
+est Deus trinus et unus', quia Deus, qui scitur a philosophis esse immartalis, est Deus trinus et unus. Tunc arguo
+205
+
+

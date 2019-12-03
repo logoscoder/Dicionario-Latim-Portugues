@@ -1,0 +1,60 @@
+RA12
+Ad duodecimum dicendum, quod etiam in disciplinis prius addiscuntur ea per quae alia perfectius intelliguntur,
+quamvis illa facilius sit intelligere vel habere secundum communem modum, sicut facilius est scire argumentari
+eo modo quo etiam idiotae utuntur dialectica quadam, quam scire regulas logicae; et tamen primo addiscuntur
+regulae logicae ad hoc quod aliquis perfectius argumentari valeat quam communiter idiotae argumentantur.
+Et similiter facilius est observare praecepta secundum imperfectum modum quam observare consilia; et tamen
+qui tendunt ad perfectam praeceptorum observationem, oportet quod incipiant a consiliis sicut a quibusdam
+instrumentis.
+RA13
+Ad decimumtertium est dicendum, quod illa quae ibi Dominus superaddit, non sunt consilia, sed praecepta, ut
+patet ex ipsis verbis Domini quae ibi ponuntur, tum etiam ex expositione Augustini in libro de sermone Domini
+in monte.
+RA14
+Ad decimumquartum dicendum, quod observantia praeceptorum secundum imperfectum modum est minimum in
+vita spirituali; sed est maximum, si observentur perfecte.
+RA15
+Ad decimumquintum dicendum, est, quod perfectiora evangelii non solum sunt consilia, sed etiam praecepta, ut
+ex dictis patet.
+RA16
+Ad decimumsextum est dicendum, quod illud a quo non convertitur consequentia essendi, etsi sit prius natura
+quodammodo, non tamen oportet quod semper sit prius tempore.
+Non enim in Angelis vivere praecedit intelligere, quamvis non omne vivens sit intelligens; quia statim a
+principio Angeli vitam perfectam habent; quae est intellectualis. Et similiter qui volunt plenius praecepta
+custodire, statim a principio consilia assumere debent; licet non omnes observantes praecepta, observent consilia.
+|*QUODL_5
+|q1 Quaestio 1
+Prologus
+PR
+Deinde quaesitum est de Deo et Angelis et hominibus de Deo quaesitum est et quantum ad naturam divinam, et
+quantum ad naturam assumptam.
+Quantum ad naturam divinam quaesitum est de scientia, et de potentia.
+Circa scientiam Dei quaesita sunt duo.
+PR1
+Primo utrum Deus sciat primum instans in quo potuit creare mundum.
+PR2
+Secundo utrum praesciti a Deo possint demereri.
+|a1 Articulus 1
+TTA
+Utrum Deus sciat primum instans in quo potuit creare mundum.
+TTB
+Ad primum sic procedebatur: videtur quod Deus sciat primum instans in quo potuit mundum creare.
+AG
+Deus enim potuit creare mundum antequam creaverit; non autem potuit creare ipsum in infinitum ante, quia sic
+esset ei coaeternus.
+Ergo est dare aliquod instans in quo primo potuit creare mundum. Sed Deus sua scientia totum comprehendit.
+Ergo Deus scit primum instans in quo potuit creare mundum.
+SC
+Sed contra, Deus nihil scit quod eius omnipotentiae praeiudicet. Praeiudicaret autem eius omnipotentiae, si esset
+aliquod instans in quo primo potuit creare mundum: quia sic eius potentia ad illud instans limitaretur. Ergo Deus
+nescit primum instans in quo potuit creare mundum.
+CO
+Respondeo. Dicendum quod dupliciter dicitur aliquid fieri in aliqua mensura loci vel temporis.
+Uno modo, praesupposita ipsa mensura; et sic particulares effectus producuntur a Deo vel ab aliis agentibus, in
+loco vel tempore.
+Alio modo ut simul cum eo quod fit, producatur mensura loci vel temporis; et hoc modo mundus a Deo in esse
+producitur: non quidem quasi in aliquo loco vel tempore praeexistente, sed quia simul cum mundo et locus et
+tempus producitur.
+97
+
+

@@ -1,0 +1,62 @@
+Propositiones eas, quae in uniuersalibus non uniuersaliter proferuntur, non semper ueras esse uel falsas conatur
+ostendere. Hoc autem per contraria monstrat. Ea enim propositio quae est:
+Homo albus est
+et huius negatio quae est:
+Homo albus non est
+hoc modo ostenduntur uerum et falsum inter se interdum non posse diuidere: nam si uerum est, ut hae duae
+affirmationes:
+Est homo albus
+et
+Est homo niger
+utraeque uno tempore uerae sint, uerum est quoque affirmationem indefinitam et indefinitam negationem
+utrasque ueras aliquotiens inueniri. Nam si uerum est quoniam est homo albus, uerum itidem quoniam est homo niger
+(nam cum Gallus sit candidus, Aethiops nigerrimus inuenitur): simul ergo uerum est dicere quoniam est homo albus et
+est homo niger. Sed qui niger est albus non est: simul ergo uerum est dicere quoniam est homo albus et non est homo
+albus. Idem quoque et de probo et turpi. Nam si uerum est dicere quoniam est homo probus, si quis hoc de philosopho
+dicat, et rursus uerum est quondam /170/ est homo turpis, si quis hoc de Sulla diceret, uerum est utrumque, et quoniam
+est homo probus et quoniam est homo turpis. Sed qui turpis est, probus non est: simul igitur uerum est dicere quoniam
+EST HOMO PROBUS ET NON EST HOMO PROBUS.
+Sed uidebitur fortasse aliquid sibi dixisse contrarium et difficilior procedit ostensio, quae per huiusmodi
+exempla proponitur, quae contraria esse uideantur. Albus enim et niger et probus et turpis contraria sunt et fortasse
+dubitet quidam, utrum uno tempore contraria haec in aliquibus ualeant reperiri. Sed adiecit exemplum aliud, quod cum
+contrarium non sit, tamen ex eo sicut in contrariis quoque negatio procreatur: ut si quis dicat:
+Est homo probus
+et alius dicat:
+Fit homo probus
+si quis uel alio docente uel se ipso corrigente aliqua disciplina rationis eniteat. Nihil ergo contrarium habet
+esse probum et fieri probum; neque enim ita contrarium est, ut esse hominem probum et esse hominem turpem. Quare
+si nihil habet contrarium, dubium non est quin simul esse possint. Sed quod fit nondum est adhuc cum fit: quare
+nondum est probus qui fit probus. Sed uerum erat dicere cum eo quod est:
+Est probus homo
+quoniam fit probus homo. Sed qui fit probus homo, non est probus homo: uerum est igitur dicere simul,
+quoniam est probus homo et non est probus homo, licet non inualida exempla sint posita de contrariis.
+Nihil enim prohibet uno tempore contraria aliis atque aliis inesse subiectis. Quocirca constat indefinitas per id
+quod in exemplis supra proposuit simul aliquotiens ueras uideri et non semper inter se uerum falsumque partiri. Quod
+uero ait: VIDEBITUR AUTEM SUBITO INCONVENIENS ESSE, IDCIRCO /171/ QUONIAM VIDETUR
+SIGNIFICARE NON EST HOMO ALBUS, SIMUL ETIAM QUONIAM NEMO HOMO ALBUS EST, huiusmodi
+est: dixit enim propositionem affirmationis eam quae dicit:
+Est homo albus
+ueram posse esse cum ea quae dicit:
+Non est homo albus
+Nunc hoc notat: uidetur, inquit, aliquotiens inconueniens esse et incongruum dicere eam quae dicit:
+Est homo albus
+et eam quae est:
+Non est homo albus
+simul ueras esse posse, idcirco quod ea quae est:
+Non est homo albus
+emittit imaginationem quandam quod significet quoniam nullus homo albus est. Videtur enim negatio
+huiusmodi, quae est:
+Non est homo albus
+illud quoque significare simul quoniam nullus homo albus est, ut si quis dixerit:
+Non est homo albus
+hoc eum dixisse putandum sit, quoniam nullus homo albus est. HOC AUTEM, inquit, id est "Non est homo
+albus" et rursus "Nullus homo albus est", NEQUE IDEM SIGNIFICAT neque semper simul sunt. Nam qui dicit:
+Nullus homo albus est
+uniuersalitatem determinans negationem de uniuersalitate proponit, qui uero dicit:
+Non est homo albus
+non omnino de tota uniuersalitate negat sed ei tantum sufficit de particularitate negasse. Atque ea quae est:
+Nullus homo albus est
+si unus homo albus fuerit, falsa est, ea uero quae dicit:
+Non est homo albus
+
+

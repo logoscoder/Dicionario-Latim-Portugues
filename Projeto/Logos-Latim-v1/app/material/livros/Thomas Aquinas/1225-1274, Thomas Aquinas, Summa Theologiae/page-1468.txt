@@ -1,0 +1,61 @@
+Secundo, utrum iniusta agere sit proprium iniusti.
+Tertio, utrum aliquis possit iniustum pati volens. Quarto, utrum iniustitia ex suo genere sit peccatum mortale.
+|a1 Articulus 1
+AG1
+Ad primum sic proceditur. Videtur quod iniustitia non sit vitium speciale.
+Dicitur enim I Ioan. III, omne peccatum est iniquitas.
+Sed iniquitas videtur idem esse quod iniustitia, quia iustitia est aequalitas quaedam, unde iniustitia idem videtur
+esse quod inaequalitas, sive iniquitas.
+Ergo iniustitia non est speciale peccatum.
+AG2
+Praeterea, nullum speciale peccatum opponitur omnibus virtutibus.
+Sed iniustitia opponitur omnibus virtutibus, nam quantum ad adulterium, opponitur castitati; quantum ad
+homicidium, opponitur mansuetudini; et sic de aliis.
+Ergo iniustitia non est speciale peccatum.
+AG3
+Praeterea, iniustitia iustitiae opponitur, quae in voluntate est.
+Sed omne peccatum est in voluntate, ut Augustinus dicit.
+Ergo iniustitia non est speciale peccatum.
+SC
+Sed contra, iniustitia iustitiae opponitur. Sed iustitia est specialis virtus. Ergo iniustitia est speciale vitium.
+CO
+Respondeo dicendum quod iniustitia est duplex. Una quidem illegalis, quae opponitur legali iustitiae. Et haec
+quidem secundum essentiam est speciale vitium, inquantum respicit speciale obiectum, scilicet bonum
+commune, quod contemnit.
+Sed quantum ad intentionem est vitium generale, quia per contemptum boni communis potest homo ad omnia
+peccata deduci.
+Sicut etiam omnia vitia, inquantum repugnant bono communi, iniustitiae rationem habent, quasi ab iniustitia
+derivata, sicut et supra de iustitia dictum est.
+Alio modo dicitur iniustitia secundum inaequalitatem quandam ad alterum, prout scilicet homo vult habere plus
+de bonis, puta divitiis et honoribus; et minus de malis, puta laboribus et damnis. Et sic iniustitia habet materiam
+specialem, et est particulare vitium iustitiae particulari oppositum.
+RA1
+Ad primum ergo dicendum quod sicut iustitia legalis dicitur per comparationem ad bonum commune humanum,
+ita iustitia divina dicitur per comparationem ad bonum divinum, cui repugnat omne peccatum. Et secundum hoc
+omne peccatum dicitur iniquitas.
+RA2
+Ad secundum dicendum quod iniustitia etiam particularis opponitur indirecte omnibus virtutibus, inquantum
+scilicet exteriores etiam actus pertinent et ad iustitiam et ad alias virtutes morales, licet diversimode, sicut supra
+dictum est.
+RA3
+Ad tertium dicendum quod voluntas, sicut et ratio, se extendit ad materiam totam moralem, idest ad passiones et
+ad operationes exteriores quae sunt ad alterum. Sed iustitia perficit voluntatem solum secundum quod se extendit
+ad operationes quae sunt ad alterum. Et similiter iniustitia.
+|a2 Articulus 2
+AG1
+Ad secundum sic proceditur. Videtur quod aliquis dicatur iniustus ex hoc quod facit iniustum. Habitus enim
+specificantur per obiecta, ut ex supradictis patet.
+Sed proprium obiectum iustitiae est iustum, et proprium obiectum iniustitiae est iniustum. Ergo et iustus
+dicendus est aliquis ex hoc quod facit iustum, et iniustus ex hoc quod facit iniustum.
+AG2
+Praeterea, Philosophus dicit, in V ethic., falsam esse opinionem quorundam qui aestimant in potestate hominis
+esse ut statim faciat iniustum, et quod iustus non minus possit facere iniustum quam iniustus.
+Hoc autem non esset nisi facere iniustum esset proprium iniusti.
+Ergo aliquis iudicandus est iniustus ex hoc quod facit iniustum.
+AG3
+Praeterea, eodem modo se habet omnis virtus ad proprium actum, et eadem ratio est de vitiis oppositis. Sed
+quicumque facit aliquid intemperatum dicitur intemperatus.
+Ergo quicumque facit aliquid iniustum dicitur iniustus.
+1468
+
+

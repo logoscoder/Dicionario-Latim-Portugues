@@ -1,0 +1,62 @@
+non necesse est esse uel non esse animatum, quocirca nec uiuere. Quod si assumamus c terminum, si quidem
+negemus, erit syllogismi perfecta necessitas; si uero affirmemus, nulla conclusio est. Nam si non est c, non erit a, si non
+est a, non erit /334/ b, si igitur non sit c, non est b.
+[3.3.4] Quod si affirmetur, nihil est necessarium; siue enim necesse est esse, siue non necesse est esse a, nihil
+ad b, ut in superioribus terminis poterit ostendi: si enim uiuit, et si necesse est esse animatum, non necesse est tantum
+esse animal; quod si non est necesse esse animatum, non necesse est esse uel non esse animal; ut uero necesse sit non
+esse animatum, fieri non potest. Ex octaua enuntiatione conclusio est, cum ita proponitur:
+Si non est a, non est b; Si est a, non est c;
+dico quoniam:
+Si est b, non est c
+nam si est b, est a, quod si est a, non est c, si igitur est b, non erit c.
+[3.3.5] Quod si b terminum neget assumptio, nihil est necessarium: Si enim non sit b, non necesse erit a uel
+esse uel non esse, quo fit ut ne c quidem, uelut in his terminis, si sit a animatum, b animal, c inanimatum. Si igitur
+proponamus:
+Si non est animatum, non est animal; Si est animatum, non est inanimatum;
+et assumamus:
+Sed non est animal
+non necesse est uel esse uel non esse animatum, quocirca ne inanimatum quidem. At si c terminus assumatur,
+si quidem cum affirmatione ponatur, erit necessitas syllogismi: nam si est c, non est a, quod si non est a, non est b, si
+igitur est c, non est b; at si c terminum neget assumptio, nihil est necessarium: nam si non est c, non necesse erit esse
+uel non esse a, quo fit ut ne b quidem.
+[3.3.6] Nam si non est inanimatum, fortasse quidem necesse sit esse animatum sed non necesse est esse
+animal. Inuenientur autem termini ut non sit necesse esse a, ueluti si c ponamus nigrum, a album; negato enim nigro
+non consequitur ut affirmetur album. Et secundae /336/
+quidem figurae inaequimodas complexiones omnes (ut arbitror)
+explicuimus; si uero aequimodae sint, nullus omnino fit syllogismus.
+Aequimodae uero fiunt hoc modo: quotiescumque enim a terminus ad b et ad c simul uel esse uel non esse
+ponitur, quoquomodo b atque c termini uarientur, harum igitur quae aequimodae complexiones esse dicuntur, nulla est
+collectibilis.
+[3.3.7] Sunt autem omnes aequimodae complexiones hae:
+o Si est a est b, si est a est c.
+o Si est a est b, si est a non est c.
+o Si est a non est b, si est a est c.
+o Si est a non est b, si est a non est c.
+o Si non est a est b, si non est a est c.
+o Si non est a est b, si non est a non est c.
+o Si non est a non est b, si non est a est c.
+Si non est a non est b, si non est a non est c.
+[3.4.1] Quarum imbecillam conclusionem atque omni carentem necessitate ex assumptionibus quoquo modo
+factis inueniemus, nec non secundum superius descriptos modos etiam terminos facillime reperire poterimus, per quos
+demonstratur nullam in talibus complexionibus inueniri posse constantiam. Ac de secunda quidem figura, quanti sint
+quotque modis fiant syllogismi diligenter ostendimus. Fiunt autem, si inaequimodae quidem complexiones fuerint, b
+termino assumpto, syllogismi octo,
+/338/ totidemque si c terminus assumatur. Sunt igitur secundae figurae sedecim syllogismi, totidem uero, b
+atque c termino non ita ut oportet assumptis, complexiones fiunt, quibus nihil admodum colligatur.
+[3.4.2] Nunc igitur de tertia figura dicendum est, in qua quidem totidem complexiones fiunt et totidem
+syllogismi sed ita ut non aequimodae propositiones ponantur; quod si aequimodae fuerint, nullus omnino (ut in secunda
+figura dictum est) fiet syllogismus. Exponamus igitur omnes figurae tertiae inaequimodas propositiones:
+o Si est b est a, si est c non est a.
+o Si es b est a, si non est c non est a.
+o Si non est b est a, si est c non est a.
+o Si non est b est a, si non est c non est a.
+Et nunc quidem a cum b esse, cum c uero non esse propositum est; rursus uero a quidem cum b non esse, cum
+c uero esse proponatur:
+o Si est b non est a, si est c est a.
+o Si est b non est a, si non est c est a.
+o Si non est b non est a, si est c est a.
+o Si non est b non est a, si non est c est a.
+[3.4.3] Tertiae igitur figurae primus modus huiusmodi est:
+Si est b, est a; Si est c, non est a;
+
+

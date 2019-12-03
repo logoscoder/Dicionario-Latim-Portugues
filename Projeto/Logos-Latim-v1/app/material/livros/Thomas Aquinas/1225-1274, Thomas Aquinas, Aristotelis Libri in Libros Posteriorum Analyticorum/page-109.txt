@@ -1,0 +1,59 @@
+|+19 Lectio 19
+|#1 Postquam Philosophus determinavit quaestionem motam, utrum ad existentiam effectus sequatur existentia
+causae, et e converso; hic inquirit utrum ad unitatem causae sequatur unitas effectus et e converso. Et circa hoc
+duo facit: primo, ostendit quomodo ad unitatem effectus sequatur unitas causae; secundo, ex hoc manifestat
+consecutionem causae et effectus; ibi: habet autem sic consequi etc.. Circa primum tria facit: primo, proponit
+quaestionem; quae est, utrum contingat quod eiusdem effectus non sit eadem causa in omnibus, sed alia et alia,
+vel non. Videbatur enim in solutione praemissae quaestionis supponi quod contingat unius effectus in diversis
+rebus esse diversas causas.
+|#2 Secundo, ibi: aut si quidem per se etc., solvit quaestionem distinguendo. Contingit enim aliquid assignari
+pro causa alicuius effectus tripliciter: uno modo, accipiendo causam per se, et sic demonstrative concludendo
+effectum; alio modo, accipiendo aliquod signum; tertio modo, accipiendo aliquod accidens. Si ergo accipiatur
+pro causa id quod per se est medium demonstrationis, non potest esse nisi una causa unius effectus in omnibus.
+Et hoc probat quia medium per se in demonstrationibus est ratio ultimi, idest definitio maioris extremitatis. Quae
+tamen si demonstrari indigeat de subiecto, demonstrabitur per definitionem subiecti, ut supra habitum est.
+Manifestum est autem quod unius una est definitio.
+Unde oportet quod unius effectus non accipiatur nisi una causa, quae est medium demonstrationis.
+Si vero non accipiatur quasi causa inferens, id quod est per se medium demonstrationis, sed accipiatur pro medio
+aliquod signum vel aliquod accidens, tunc contingit unius effectus accipi quasi plures causas in diversis, sicut
+patet in exemplo superius posito. Per se enim causa quod aliquid sit vituperabile, est esse praeter rationem
+rectam. Sed quod aliquid sit superabundans vel deficiens, est signum eius quod est praeter rationem rectam.
+|#3 Tertio, ibi: est autem et causam et etc., manifestat positam solutionem, ostendens membra divisionis positae
+esse possibilia. Et dicit quod contingit et id quod est causa et id cuius est causa considerare secundum accidens;
+sicut musicus per accidens est causa domus, cuius per se est causa aedificator, qui tamen est causa receptaculi
+latronum per accidens, si contingat hoc in domo fieri: quinimo etiam ipsa problemata videntur esse per accidens.
+Si vero non accipiantur per accidens causa et causatum, oportet quod medium quod accipitur pro causa, similiter
+se habeat cum effectu, cuius demonstratio quaeritur.
+Utpote si aliqua sint aequivoca, et medium commune quod accipitur, erit aequivocum. Si autem non sint
+aequivoca, sed conveniant quasi in genere, et medium erit commune secundum genus; sicut vicissim analogum,
+idest commutatim proportionari, univoce in multis invenitur, puta in numeris et in lineis, in quibus habet
+quodammodo aliam causam, et quodammodo eamdem.
+Aliam quidem secundum speciem, in quantum scilicet alii sunt numeri et aliae lineae: sed est genere eadem, in
+quantum scilicet tam lineae quam numeri conveniunt in hoc quod habent tale augmentum, ex quo in eis
+commutata proportio demonstratur.
+Aliud autem exemplum subiungit in aequivocis; et dicit quod eius quod est esse simile, alia causa est in
+coloribus et in figuris, quia aequivoce dicitur utrobique. In figuris enim nihil est aliud esse simile, quam quod
+latera habeant analogiam, idest quod sint ad invicem proportionalia, et quod anguli sint aequales. Sed in
+coloribus esse simile est quod faciant eamdem immutationem in sensu, vel aliquid aliud huiusmodi.
+Tertio autem dicit de his quae conveniunt secundum analogiam, quod in his etiam oportet esse medium unum
+secundum analogiam; sicut supra dictum est quod tam iris quam echo est quaedam repercussio.
+|#4 Deinde cum dicit: habet autem sic consequi causam etc., ostendit secundum praemissa qualiter sibi invicem
+causae consequantur. Et circa hoc tria facit: primo, ostendit qualis sit consecutio causae et effectus; secundo,
+ordinat huiusmodi consequentiam in figura syllogistica; ibi: in figuris autem etc.; tertio, movet quamdam
+dubitationem ex praemissis; ibi: si autem in atomum etc..
+Dicit ergo primo quod talis modus consequentiae invenitur inter causam et causatum et subiectum cui inest illud
+causatum, quod si aliquis accipiat secundum unum aliquid particulare id cuius causa quaeritur, erit in plus quam
+causa vel subiectum; sicut habere angulos extrinsecos aequales quatuor rectis convenit triangulo eadem ratione,
+quia tres anguli eius extrinseci simul cum tribus intrinsecis sunt aequales sex rectis. Cum igitur tres intrinseci sint
+aequales duobus rectis, sequitur quod tres extrinseci sint aequales quatuor rectis. Etiam quadrangulus habet
+quatuor angulos aequales quatuor rectis, sed alia ratione.
+Anguli enim eius intrinseci et extrinseci sunt aequales octo rectis; sed anguli intrinseci quadranguli sunt aequales
+quatuor rectis; ergo anguli extrinseci sunt aequales quatuor rectis. Sic igitur habere angulos exteriores aequales
+quatuor rectis, est in plus quam triangulus aut quadrangulus: sed si simul accipiantur, aequaliter se habebunt.
+Quaecunque enim figurae communicant in hoc quod habeant angulos exteriores aequales quatuor rectis, oportet
+quod similiter communicent in medio, quod est causa aequalitatis ad quatuor angulos rectos. Et hoc probat sicut
+et prius, per hoc quod medium est definitio maioris extremitatis.
+
+109
+
+

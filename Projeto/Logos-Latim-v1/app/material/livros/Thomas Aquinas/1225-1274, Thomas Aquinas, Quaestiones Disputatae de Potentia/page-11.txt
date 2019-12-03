@@ -1,0 +1,63 @@
+AG3
+Praeterea, quanto causa magis influit in effectum, tanto secundum eam magis debet iudicium sumi. Sed causa
+prima magis influit in effectum quam causa secunda. Ergo secundum causam primam magis debet iudicari de
+effectu. Effectus ergo iudicandi sunt possibiles vel impossibiles secundum causas superiores.
+AG4
+Praeterea, illuminare caecum est impossibile secundum causas inferiores; et tamen hoc est possibile, cum
+quandoque fiat. Ergo non est iudicandum si aliquid impossibile sit, secundum causas inferiores, sed secundum
+superiores.
+AG5
+Praeterea, mundum fore fuit possibile antequam mundus esset. Non autem fuit possibile secundum causas
+inferiores. Ergo idem quod prius.
+SC1
+Sed contra. Secundum illam causam effectus debet iudicari possibilis a qua recipit possibilitatem. Sed effectus
+recipit possibilitatem vel contingentiam, aut etiam necessitatem, a causa proxima, non autem a remota; sicut
+meritum recipit contingentiam a libero arbitrio, quod est causa proxima; non autem necessitatem a
+praedestinatione divina, quae est causa remota. Ergo secundum causas inferiores, quae sunt proximae, debet
+iudicari aliquid possibile vel impossibile.
+SC2
+Praeterea, quod est possibile secundum causas inferiores, est etiam possibile secundum causas superiores, et ita
+est possibile secundum omnem modum. Sed quod est possibile secundum omnem modum, est possibile
+simpliciter. Ergo secundum causas inferiores est aliquid iudicandum possibile simpliciter.
+SC3
+Praeterea, causae superiores sunt necessariae.
+Si ergo secundum eas essent iudicandi effectus, omnes effectus erunt necessarii: quod est impossibile.
+SC4
+Praeterea, Deo sunt omnia possibilia. Si ergo secundum ipsum possibile et impossibile iudicetur, omnino nihil
+est impossibile: quod est inconveniens.
+SC5
+Praeterea, nominibus utendum est secundum quod plures loquuntur. Sed de potentia hoc modo homines
+loquuntur, quod sint ita ordinatae, potentia, dispositio, necessitas et actus. Haec autem inveniuntur in causis
+inferioribus non superioribus. Ergo non est iudicandum de possibilitate rerum secundum causas superiores, sed
+secundum inferiores.
+CO
+Respondeo. Dicendum quod iudicium de possibili et impossibili potest considerari dupliciter: uno modo ex parte
+iudicantium; alio modo ex parte eius de quo iudicatur. Quantum ad primum, sciendum est, quod si sunt duae
+scientiae, quarum una considerat causas altiores, et alia minus altas; iudicium in utraque non eodem modo
+sumetur, sed secundum causas quas utraque considerat, ut patet in medico et astrologo; quorum astrologus
+considerat causas supremas, medicus autem causas proximas. Unde medicus dabit iudicium de sanitate vel morte
+infirmi secundum causas proximas, id est virtutem naturae et virtutem morbi; astrologus vero secundum causas
+remotas, scilicet secundum positionem siderum.
+Eodem modo est in proposito. Est enim duplex sapientia: scilicet mundana, quae dicitur philosophia, quae
+considerat causas inferiores, scilicet causas causatas, et secundum eas iudicat; et divina, quae dicitur theologia,
+quae considerat causas superiores, id est divinas, secundum quas iudicat. Dicuntur autem superiores causae,
+divina attributa, ut sapientia, bonitas, et voluntas divina, et huiusmodi.
+Sciendum tamen, quod ista quaestio frustra movetur de affectibus qui non possunt esse nisi superiorum
+causarum, id est quos solus Deus facere potest; illos enim non convenit dici possibiles vel impossibiles
+secundum causas inferiores. Sed haec quaestio movetur de illis effectibus qui sunt causarum inferiorum: hi enim
+effectus sunt inferiorum et superiorum: sic enim potest in dubitationem verti. Similiter etiam ista quaestio non
+habet locum in illis possibilibus et impossibilibus, quae non dicuntur secundum aliquam potentiam, sed
+secundum se ipsa. Effectus autem causarum secundarum, de quibus est quaestio, secundum iudicium theologi,
+dicuntur possibiles et impossibiles secundum causas superiores; secundum autem iudicium Philosophi, dicuntur
+possibiles vel impossibiles secundum causas inferiores.
+Si autem consideretur istud iudicium quantum ad naturam eius de quo iudicatur, sic patet quod effectus debent
+iudicari possibiles secundum causas proximas, cum actio causarum remotarum, secundum causas proximas
+determinetur, quas praecipue effectus imitantur: et ideo secundum eas praecipue iudicium de effectibus sumitur.
+Et hoc patet etiam per simile de potentia passiva. Nam materia non dicitur, proprie loquendo, in potentia ad
+aliquid, quae est remota, sicut terra ad scyphum; sed quae est propinqua, uno motore potens exire in actum, ut
+patet per Philosophum, sicut aurum est potentia scyphus sola arte educente in actum. Et similiter effectus, in
+quantum est ex sui natura, non nisi propinquis causis possibiles vel impossibiles dicuntur.
+RA1
+11
+
+

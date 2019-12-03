@@ -1,0 +1,56 @@
+oportet quod argumentetur circa principia communia, quia veritas principiorum communium est manifesta ex
+cognitione terminorum communium, ut entis et non entis, totius et partis, et similium.
+Dicit autem signanter: et si aliqua scientia tentet monstrare communia, quia philosophia prima non demonstrat
+principia communia, sunt enim indemonstrabilia simpliciter; sed aliqui errantes tentaverunt ea demonstrare, ut
+patet in IV metaphysicae.
+Vel etiam quia, etsi non possunt demonstrari simpliciter, tamen Philosophus primus tentat ea monstrare eo modo,
+quo est possibile, scilicet contradicendo negantibus ea, per ea quae oportet ab eis concedi, non per ea, quae sunt
+magis nota.
+|#6 Sciendum est etiam quod primus Philosophus non solum hoc modo demonstrat ea, sed etiam monstrat
+aliquid de eis, sicut de subiectis; sicut quod, impossibile est mente concipere opposita eorum, ut patet in IV
+metaphysicae. Cum ergo disputet circa haec principia et Philosophus primus et dialecticus, tamen aliter et aliter.
+Dialecticus enim non procedit ex aliquibus principiis demonstrativis, neque assumit alteram partem
+contradictionis tantum, sed se habet ad utramque (contingit enim utramque quandoque vel probabilem esse, vel
+ex probabilibus ostendi, quae accipit dialecticus)p et propter hoc interrogat.
+Demonstrator autem non interrogat, quia non se habet ad opposita. Et haec differentia utriusque posita est in his,
+quae de syllogismo sunt, idest in libro priorum. Philosophia ergo prima procedit circa communia per modum
+demonstrationis, et non per modum dialecticae disputationis.
+|+21 Lectio 21
+|#1 Postquam Philosophus ostendit quomodo scientiae demonstrativae se habeant circa principia communia, hic
+ostendit quomodo se habeant circa propria. Et dividitur in duas partes: in prima, ostendit quod in qualibet
+scientia sunt propriae interrogationes, responsiones et disputationes; in secunda, ostendit quomodo in qualibet
+scientia sunt propriae deceptiones; ibi: quoniam autem sunt geometricae etc.. Circa primum duo facit: primo,
+ostendit quod in qualibet scientia sunt propriae interrogationes; secundo, ostendit quod in qualibet scientia sunt
+propriae responsiones et disputationes; ibi: neque omnem interrogationem utique etc.. Circa primum duo facit:
+primo, ostendit quod in qualibet scientia sunt interrogationes propriae; secundo, quae sunt illae; ibi: sed ex
+quibus aut demonstratur etc..
+|#2 Primum sic ostendit. Idem est secundum substantiam interrogatio syllogistica et propositio, quae accipit
+alteram partem contradictionis, licet in modo proferendi differant (hoc enim, quod ad interrogationem
+respondetur, assumitur ut propositio in aliquo syllogismo); in unaquaque autem scientia sunt propriae
+propositiones, ex quibus fit syllogismus: ostensum est enim quod quaelibet scientia ex propriis procedit; ergo in
+qualibet scientia est propria interrogatio. Non ergo quaelibet interrogatio est geometrica, vel medicinalis; et sic
+de aliis scientiis.
+|#3 Sciendum tamen est quod interrogatio aliter est in scientiis demonstrativis et aliter est in dialectica.
+In dialectica enim non solum interrogatur de conclusione, sed etiam de praemissis: de quibus demonstrator non
+interrogat, sed ea sumit quasi per se nota, vel per talia principia probata; sed interrogat tantum de conclusione.
+Sed cum eam demonstraverit, utitur ea, ut propositione, ad aliam conclusionem demonstrandam.
+|#4 Deinde cum dicit: sed ex quibus etc., ostendit quae interrogationes sunt propriae unicuique scientiae. Et
+primo, in quantum assumuntur ut propositiones, ex quibus demonstrator procedit; secundo, in quantum sumuntur
+ut conclusiones; ibi: et de his quidem etc.. Dicit ergo primo quod interrogationes geometricae sunt ex quibus
+demonstratur aliquid circa illa, de quibus est geometria, aut circa illa, quae demonstrantur ex principiis eiusdem
+geometriae; sicut illa, ex quibus demonstratur aliquid in speculativa scientia, idest in perspectiva, quae procedit
+ex principiis geometriae. Et quod dictum est de geometria, intelligendum est de aliis scientiis: quia scilicet
+propositio, vel interrogatio dicitur proprie alicuius scientiae, ex qua demonstratur vel in ipsa scientia, vel in
+scientia ei subalternata.
+|#5 Deinde cum dicit: et de his quidem rationem etc., notificat geometricam interrogationem, prout est
+conclusio, dicens quod de interrogationibus geometricis ponenda est ratio, demonstrando scilicet veritatem
+ipsarum ex principiis geometricis et conclusionibus, quae per illa principia demonstrantur. Non enim cuiuslibet
+demonstrationis geometricae ratio redditur ex primis geometriae principiis, sed interdum ex his quae per prima
+principia sunt conclusa. Interrogationum autem, quae semper sunt conclusiones in demonstrativis scientiis, ratio
+reddi potest in eisdem, sed principiorum ratio non potest reddi a geometra, secundum quod geometra est. Et
+similiter est in aliis scientiis. Nulla enim scientia probat sua principia, secundum quod ostensum est supra. Dicit
+autem, secundum quod geometra est, quia contingit in aliqua scientia probari principia illius scientiae, in
+
+31
+
+

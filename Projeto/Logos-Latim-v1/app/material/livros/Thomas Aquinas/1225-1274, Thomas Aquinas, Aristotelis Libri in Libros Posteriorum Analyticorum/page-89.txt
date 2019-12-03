@@ -1,0 +1,59 @@
+rem esse, sit aliqua causa: propter hoc enim dicitur aliquid causatum, quod habet causam sui esse. Haec autem
+causa essendi aut est eadem, scilicet cum essentia ipsius rei, aut alia.
+Eadem quidem, sicut forma et materia, quae sunt partes essentiae; alia vero, sicut efficiens et finis: quae quidem
+duae causae sunt quodammodo causae formae et materiae, nam agens operatur propter finem et unit formam
+materiae.
+Et si accipiamus causam quae est alia ab essentia rei, quandoque quidem est causa talis per quam possit fieri
+demonstratio, quandoque autem non. Non enim ex omni causa agente sequitur ex necessitate effectus. Ex
+suppositione autem finis sequitur quod sit id quod est ad finem, ut probatur in II physicorum.
+|#3 Supponamus ergo quod sit aliquis effectus, cuius esse causa sit non solum ipsa essentia rei, sed habeat etiam
+aliquam aliam causam, et sit talis per quam possit demonstrari; puta si dicamus quod si homo pertingit ad
+beatitudinem, necesse est praeexistere virtutem. Accipiamus autem quod essentia virtutis sit habitus operans
+secundum rationem rectam. Potest ergo demonstrari esse aliquem habitum secundum rectam rationem
+operantem, si sit aliquis habitus ad beatitudinem perducens. Accipiatur ergo pro medio illa causa alia, quae est
+demonstrativa, et formetur syllogismus in prima figura: quod necesse est fieri, quia oportet quod quid est
+universaliter et affirmative praedicari de re cuius est. Syllogizabitur ergo sic: omnis habitus perducens ad
+beatitudinem est habitus secundum rectam rationem operans; sed virtus est huiusmodi; ergo etc.. Concludit ergo
+quod iste modus, qui est nunc inquisitus, est unus modus ostendendi quod quid est per aliud, quod est causa. Et
+quod iste modus sit conveniens patet, quia necesse est, sicut supra dictum est, quod medium ad probandum quod
+quid est accipiatur ipsum quid est, et similiter medium ad probandum aliqua propria accipiatur aliquid proprium.
+Est autem considerandum quod, cum quid est sit causa ipsius esse rei, secundum diversas causas eiusdem rei
+potest multipliciter quod quid est eiusdem rei assignari. Puta quod quid est domus potest accipi per
+comparationem ad causam materialem, ut dicamus quod est aliquid compositum ex lignis et lapidibus; et etiam
+per comparationem ad causam finalem, ut dicamus quod est artificium praeparatum ad habitandum. Sic ergo
+continget quod, cum sint multa quod quid est eiusdem rei, aliquod illorum monstrabitur, et aliquod non
+monstrabitur, sed supponetur. Unde non sequitur quod sit petitio principii, quia aliud quod quid est supponitur, et
+aliud probatur. Nec tamen est modus probandi quod quid est demonstrative, sed logice syllogizandi; quia non
+sufficienter per hoc probatur quod id quod concluditur, sit quod quid est illius rei de qua concluditur, sed solum
+quod insit ei.
+|#4 Deinde cum dicit: quo autem modo etc., ostendit quomodo per demonstrationem possit accipi quod quid est.
+Et circa hoc duo facit: primo, ostendit quomodo manifestetur quod quid est per demonstrationem in aliquibus;
+secundo, ostendit quod non est ita in omnibus; ibi: est autem quorumdam etc.. Circa primum tria facit: primo,
+praemittit quaedam quae sunt necessaria ad propositum ostendendum; secundo, manifestat propositum; ibi:
+quorum igitur habemus etc.; tertio, epilogat; ibi: quomodo quidem igitur etc..
+|#5 Circa primum praemittit tria; quorum primum est comparatio quaedam ipsius quod quid est ad propter quid.
+Dicit ergo quod ad ostendendum quomodo contingat accipere quod quid est per demonstrationem, oportet iterum
+a principio resumere. Ubi considerandum occurrit quod dupliciter se habet aliquis ad cognoscendum propter
+quid. Quandoque enim habemus quia in nostra cognitione, et quaerimus adhuc propter quid; quandoque autem
+simul manifesta sunt nobis utraque; tertium autem est impossibile, ut scilicet prius cognoscat aliquis de aliqua re
+propter quid quam quia. Et similiter est de eo quod quid erat esse: quia aliquando scimus rem esse, nec tamen
+perfecte scimus quid sit; aliquando autem simul scimus utrumque; sed tertium est impossibile, ut scilicet sciamus
+quid est, ignorantes si est.
+|#6 Secundum ponit ibi: hoc autem si est etc.; et dicit quod rem aliquam esse possumus scire, absque eo quod
+sciamus perfecte quid est, dupliciter.
+Uno modo, secundum quod cognoscimus aliquod accidens eius, puta si per velocitatem motus existimemus
+leporem esse; alio modo, per hoc quod cognoscimus aliquid de essentia eius.
+Quod quidem est possibile in substantiis compositis, ut puta si comprehendamus hominem esse per hoc quod est
+rationalis, nondum cognitis aliis, quae complent essentiam hominis. In substantiis vero simplicibus hoc non
+contingit; quia non potest cognosci aliquid de substantia simplicis rei, nisi tota cognoscatur, ut patet in IX
+metaphys.. Oportet autem quod qui cognoscit aliquam rem esse, per aliquid rei illud cognoscat: et hoc vel est
+aliquid praeter essentiam rei, vel aliquid de essentia ipsius. Et de hoc ponit exemplum, puta si cognoscamus
+tonitruum esse, propter hoc quia percipimus quemdam sonum in nubibus: quod quidem pertinet ad essentiam
+tonitrui; non tamen est tota tonitrui essentia, quia non omnis sonus nubium est tonitruum. Et similiter si
+cognoscamus defectum, idest eclipsim solis vel lunae esse, propter hoc quod est quaedam privatio luminis; cum
+tamen non omnis privatio luminis sit eclipsis.
+Et eadem ratio est si aliquis percipiat hominem esse, propter hoc quod est quoddam animal; vel si percipiat
+animam esse, propter hoc quod est aliquid seipsum movens.
+89
+
+

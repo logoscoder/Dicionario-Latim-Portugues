@@ -1,0 +1,63 @@
+Et propter hoc nulla persona per seipsam facit aliquem gradum, sed comparata alteri personae gradum facit ad
+ipsam. Sed tamen diversa est ratio computandi gradus in diversis lineis. Gradus enim consanguinitatis in linea
+ascendentium contrahitur ex hoc quod una persona ex alia propagatur eorum inter quos gradus consideratur: et
+ideo, secundum computationem canonicam et legalem, persona quae primo in processu propagationis occurrit
+vel ascendendo vel descendendo, distat ab aliquo, puta a Petro, in primo gradu, ut pater et filius; quae autem
+utrinque secundo occurrit, distat in secundo gradu, ut avus et nepos, et sic deinceps. Sed consanguinitas eorum
+qui sunt in linea transversali, contrahitur non ex hoc quod unus eorum ex alio propagatur, sed quia uterque
+propagatur ex uno; et ideo debet gradus in hac linea consanguinitatis computari per comparationem ad unum
+principium ex quo propagantur. Sed secundum hoc est diversa computatio canonica et legalis: quia legalis
+computatio attendit descensum a communi radice ex utraque parte; sed canonica tantum ex altera, ex illa scilicet
+ex qua major numerus graduum invenitur; unde secundum legalem computationem frater et soror, vel duo
+fratres, attinent sibi in secundo gradu, quia uterque a radice communi distat per unum gradum; et similiter filii
+duorum fratrum distant a se invicem in quarto gradu. Sed secundum computationem canonicam duo fratres
+attinent sibi in primo gradu, quia neuter eorum distat a radice communi nisi per unum gradum; sed filius unius
+fratrum distat ab altero fratre in secundo gradu, quia tantum distat a communi radice. Et ideo secundum
+canonicam computationem quoto gradu distat quis ab aliquo superiori, toto distat a quolibet descendentium ab
+ipso, et nunquam minus: quia propter quod unumquodque, illud magis; unde si alii descendentes a communi
+principio conveniunt cum aliquo ratione principii communis, non possunt propinquiores esse descendenti ex alia
+parte, quam sit primum principium ei propinquum. Aliquando tamen plus distat aliquis ab aliquo descendente a
+communi principio, quam distet ipse a principio, quia ille forte plus distat a principio communi quam ipse; et
+secundum remotiorem distantiam oportet consanguinitatem computari.
+RA1
+Ad primum ergo dicendum, quod objectio illa procedit ex falsis. Consanguinitas enim non est collectio, sed
+relatio quaedam aliquarum personarum ad invicem, quarum collectio lineam consanguinitatis facit.
+RA2
+Ad secundum dicendum, quod descensus communiter sumptus attenditur secundum quamlibet consanguinitatis
+lineam: quia carnalis propagatio, ex qua vinculum consanguinitatis contrahitur, descensus quidam est; sed
+descensus talis, scilicet a persona cujus consanguinitas quaeritur, lineam descendentium facit.
+RA3
+Ad tertium dicendum, quod linea dupliciter accipi potest. Aliquando proprie pro ipsa dimensione quae est prima
+species quantitatis continuae; et sic linea recta continet tantum duo puncta in actu quae terminant ipsam, sed
+infinita in potentia, quorum quolibet signato in actu linea dividitur, et fiunt duae lineae. Aliquando vero linea
+sumitur pro his quae linealiter disponuntur; et secundum hoc assignatur in numeris linea et figura, prout unitas
+post unitatem ponitur in aliquo numero, et sic quaelibet unitas adjecta gradum facit in tali linea; et similiter est de
+linea consanguinitatis; unde una linea continet plures gradus.
+RA4
+Ad quartum dicendum, quod sicut similitudo non potest esse ubi non est aliqua diversitas, ita propinquitas non
+est ubi non est aliqua distantia; et ideo distantia quaelibet non opponitur consanguinitati, sed talis distantia quae
+consanguinitatis propinquitatem excludit.
+RA5
+Ad quintum dicendum, quod sicut albedo dicitur major dupliciter, uno modo ex intensione ipsius qualitatis, alio
+modo ex quantitate superficiei: ita consanguinitas dicitur major vel minor dupliciter.
+Uno modo intensive ex ipsa natura consanguinitatis; alio modo quasi dimensive; et sic quantitas consanguinitatis
+mensuratur ex personis inter quas consanguinitatis propagatio procedit; et hoc secundo modo gradus in
+consanguinitate distinguuntur; et ideo contingit quod aliquorum duorum qui sunt in eodem gradu
+consanguinitatis respectu alicujus personae, unus est sibi magis consanguineus quam alius considerando primam
+quantitatem consanguinitatis: sicut pater et frater attinent alicui in primo gradu consanguinitatis, quia ex neutra
+parte incidit aliqua persona media; sed tamen, intensive loquendo, magis attinet alicui personae pater suus quam
+frater, quia frater non attinet ei nisi inquantum est ex eodem patre; et ideo, quanto aliquis est propinquior
+communi principio, a quo consanguinitas descendit, tanto est magis consanguineus, quamvis non sit in
+propinquiori gradu; et secundum hoc propatruus est magis consanguineus alicui quam pronepos ejus, quamvis sit
+in eodem gradu.
+RA6
+Ad sextum dicendum, quod quamvis pater et patruus sint in eodem gradu respectu radicis consanguinitatis, quia
+uterque distat uno gradu ab avo; tamen respectu ejus cujus consanguinitas quaeritur, non sunt in eodem gradu;
+quia pater est in primo gradu; patruus autem non potest esse propinquior quam in secundo, in quo est avus.
+RA7
+Ad septimum dicendum, quod semper duae personae in aequali numero graduum distant a se invicem, quamvis
+quandoque non aequali numero graduum distent a communi principio, ut ex dictis patet.
+
+2024
+
+

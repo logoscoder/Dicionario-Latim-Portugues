@@ -1,0 +1,55 @@
+[2.30 DE PROPOSITIONIBUS HYPOTHETICIS ET PROPRIETATIBUS EARUM]
+Postquam transcurrendo de propositionibus categoricis et proprietatibus earum est tractatum, nunc de
+propositionibus hypotheticis et proprietatibus earum sunt aliqua pauca dicenda.
+Postquam transcurrendo de propositionibus categoricis et proprietatibus earum est tractatum, nunc de
+propositionibus hypotheticis et proprietatibus earum sunt aliqua pauca dicenda.
+Est autem primo sciendum quod illa propositio dicitur hypothetica quae ex pluribus componitur
+categoricis mediante aliquo aduerbio uel coniunctione coniunctis. Et non tantum potest unicum aduerbium uel
+unica coniunctio coniungere propositioes categoricas et facere propositionem hypotheticam, immo etiam possunt
+plures coniunctiones et aduerbia, et aliquando unum aduerbium uel plura aduerbia, et coniunctio uel
+coniunctiones concurrere ad faciendum propositionem hypotheticam. Unde ista est propositio hypothetica
+'Sortes currit uel Plato uel loannes'; similiter ista 'si homo currit, animal currit et Plato disputat'. Et
+secundum hoc aliqua propositio hypothetica componitur ex pluribus quam ex duabus propositionibus categoricis.
+'Sortes currit uel Plato uel loannes'; similiter ista 'si homo currit, animal currit et Plato disputat'. Et
+secundum hoc aliqua propositio hypothetica componitur ex pluribus quam ex duabus propositionibus categoricis.
+Tamen faciliter posset dici quod non est hypothetica ubi concurrunt aduerbium et coniunctio uel etiam
+duae coniunctiones natae facere propositiones hypotheticas diuersarum specierum. Et idem potest dici de
+aduerbiis.
+Tamen faciliter posset dici quod non est hypothetica ubi concurrunt aduerbium et coniunctio uel etiam
+duae coniunctiones natae facere propositiones hypotheticas diuersarum specierum. Et idem potest dici de
+aduerbiis.
+Secundo sciendum est quod propositionum hypotheticarum quinque assignantur species, scilicet
+condicionalis, copulatiua, disiunctiua, causalis, temporalis.
+Secundo sciendum est quod propositionum hypotheticarum quinque assignantur species, scilicet
+condicionalis, copulatiua, disiunctiua, causalis, temporalis.
+Sed uidetur quod praeter istas sunt aliae propositiones hypotheticae: nam omnis propositio uera uel
+falsa, composita ex duabus categoricis, est propositio hypothetica; sed huiusmodi sunt multae praeter praedictas;
+igitur etc. Maior est manifesta satis. Minor patet, nam haec est huiusmodi
+'Sortes est currens ubi Plato disputat'.
+'Sortes est currens ubi Plato disputat'.
+Sed aduertendum est quod quamuis sint multae propositiones hypotheticae praeter praedictas, multae
+tamen uidentur esse aliae a praedictis, quae ad ipsas reduci debent. Unde ista est causalis 'Sortes philosophatur,
+ne sit ignorans', quia aequiualet isti 'quia Sortes non uult esse ignorans, Sortes philosophatur'. Et sicut est de ista,
+ita est de multis aliis.
+Sed aduertendum est quod quamuis sint multae propositiones hypotheticae praeter praedictas, multae
+tamen uidentur esse aliae a praedictis, quae ad ipsas reduci debent. Unde ista est causalis 'Sortes philosophatur,
+ne sit ignorans', quia aequiualet isti 'quia Sortes non uult esse ignorans, Sortes philosophatur'. Et sicut est de ista,
+ita est de multis aliis.
+[2.31 DE PROPOSITIONE CONDICIONALI ET AEQUIVALENTE EI]
+[2.31 DE PROPOSITIONE CONDICIONALI ET AEQUIVALENTE EI]
+Sequitur modo uidere de istis in speciali. Sed quia condicionalis aequiualet uni consequentiae, ita quod
+tunc condicionalis est uera quando antecedens infert consequens et non aliter, ideo differatur usque ad tractatum
+de consequentiis.
+Sequitur modo uidere de istis in speciali. Sed quia condicionalis aequiualet uni consequentiae, ita quod
+tunc condicionalis est uera quando antecedens infert consequens et non aliter, ideo differatur usque ad tractatum
+de consequentiis.
+Hoc tamen sciendum quod illa hypothetica dicitur condicionalis quae componitur ex duabus categoricis,
+coniunctis mediante hac coniunctione
+'si' uel aequiualenti ei. Propter istud ultimum est dicendum quod ista est condicionalis 'Sortes non legit
+nisi sit magister', quia aequiualet isti
+'si Sortes non sit magister, Sortes non legit'. Et uniuersaliter, quando dute propositiones coniunguntur
+mediante aliqua coniunctione, et totum aequiualet uni condicionali, illa propositio dicetur hypothetica et
+condicionalis.
+207
+
+

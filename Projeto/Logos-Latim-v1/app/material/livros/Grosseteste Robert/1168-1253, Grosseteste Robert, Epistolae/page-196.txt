@@ -1,0 +1,43 @@
+38 EPISTOLA 038: FRATRI ERNULPHO, DOMINI PAPAE POENITENTIARIO............................................56
+39 EPISTOLA 039: RANFRIDO, DOMINI PAPAE NOTARIO..............................................................................57
+40 EPISTOLA 040: FRATRI JORDANO, GENERALI PRIORI FRATRUM PRAEDICATORUM..................58
+41 EPISTOLA 041: FRATRI HELIAE, MINISTRO GENERALI FRATUM MINORUM...................................59
+42 EPISTOLA 042: FRATRI ERNULPHO DOMINI PAPAE POENITENTIARIO.............................................60
+43 EPISTOLA 043: JOHANNI DE FERENTINO DOMINI PAPAE CAMERARIO.............................................61
+44 EPISTOLA 044: DOMINO TOMASIO, SANCTAE ROMANAE ECCLESIAE CARDINALI.......................62
+45 EPISTOLA 045: EGIDIO, DEI GRATIA SANCTORUM COSMAE ET DAMIANI DIACONO
+CARDINALI....................................................................................................................................................................63
+46 EPISTOLA 046: EGIDIO, SANCTORUM COSMAE ET DAMIANI DIACONO CARDINALI....................64
+47 EPISTOLA 047: MAGISTRO RICARDO DE CORNUBIA................................................................................65
+48 EPISTOLA 048: DOMINO SIMONI DE MONTEFORTI...................................................................................66
+49 EPISTOLA 049: OTHONI SANCTI NICHOLAI IN CARCERE TULLIANO DIACONO CARDINALI.....67
+50 EPISTOLA 050: ROBERTO, ARCHIDIACONO LINCOLNIENSIS.................................................................68
+51 EPISOLA 051: THOMAE WALENSI, CANONICO LINCOLNIENSI..............................................................69
+52 EPISTOLA 052: OTHONI SANCTI NICHOLAI IN CARCERE TULLIANO DIACONO CARDINALI.....71
+53 EPISTOLA 052BIS: RECTORIBUS ECCLESIARUM, VICARIIS, SACERDOTIBUS PAROCHIALIBUS
+............................................................................................................................................................................................73
+54 EPISTOLA 053: ABBATI SANCTI BENEDICTI FLORIACENSIS ET EJUSDEM LOCI CONVENTUI...77
+55 EPISTOLA 054: ABBATI SANCTI BENEDICTI FLORIACENSIS..................................................................78
+56 EPISTOLA 055: ABBATI LEIRCESTRIAE.........................................................................................................79
+57 EPISTOLA 056: WILLELMO COMITI WARRENE..........................................................................................80
+58 EPISTOLA 057: ABBATI ET CONVENTUI DE BURGO...................................................................................81
+59 EPISTOLA 058: GREGORIO DEI GRATIA SUMMO PONTIFICI..................................................................83
+60 EPISTOLA 059: [RAYNALDO] EPISCOPO OSTIENSI, SANCTAE ROMANAE ECCLESIAE
+CARDINALI....................................................................................................................................................................84
+61 EPISTOLA 060: OTHONI, SANCTI NICHOLAI IN CARCERE TULLIANO DIACONO CARDINALI....85
+62 EPISTOLA 061: OTHONI, SANCTI NICOLAI IN CARCERE TULLIANO DIACONO CARDINALI.......86
+63 EPISTOLA 062: RADULPHO, CICESTRENSI EPISCOPO...............................................................................87
+64 EPISOLA 063: ABBATI A CONVENTUI RAMESEIENSI.................................................................................88
+65 EPISTOLA 064: GREGORIO, DEI GRATIA SUMMO PONTIFICI,................................................................89
+66 EPISTOLA 065: RAIMUNDO, DEI GRATIA SANCTI EUSTACHII DIACONO CARDINALI...................90
+67 EPISTOLA 066: JOHANNI DE FERENTINO DOMINI PAPAE CAMERARIO.............................................91
+68 EPISTOLA 067: EGIDIO, DEI GRATIA SANCTAE ROMANAE ECCLESIAE CARDINALI.....................92
+69 EPISTOLA 068: THOMAE, DEI GRATIA SANCTAE ROMANAE ECCLESIAE CARDINALI.................93
+70 EPISTOLA 069: FRATRI ERNULFO, DOMINI PAPAE POENITENTIARIO...............................................94
+71 EPISTOLA 070: [RAYNALDO,] EPISCOPO OSTIENSI, SANCTAE ROMANAE ECCLESIAE
+CARDINALI....................................................................................................................................................................95
+72 EPISTOLA 071: WILLELMO DECANO ET CAPITULO LINCOLNIENSI....................................................96
+73 EPISTOLA 072: MAGISTRO JOHANNI ROMANO, SUBDECANO EBORACENSI....................................98
+74 EPISTOLA 072BIS: DOMINO CANTUARIENSI................................................................................................99
+
+

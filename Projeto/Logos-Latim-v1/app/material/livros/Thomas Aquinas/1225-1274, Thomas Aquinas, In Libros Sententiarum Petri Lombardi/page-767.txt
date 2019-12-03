@@ -1,0 +1,63 @@
+Ergo videtur quod secundum bonitatem vel malitiam voluntatis sint dicendi boni vel mali. Quod etiam
+Ambrosius significare videtur dicens: affectus tuus nomen operi tuo imponit.
+AG3
+Praeterea, ut in 3 metaph.
+Philosophus dicit, ratio boni a fine sumitur. Sed actus voluntatis habet ordinem ad finem mediante voluntate,
+cujus objectum est finis. Ergo secundum bonitatem vel malitiam voluntatis, dicendus est actus exterior malus vel
+bonus.
+AG4
+Praeterea, malum non est potentius quam bonum. Sed si sit mala voluntas, necessario sequitur quod actus
+exterior sit malus. Ergo et si sit bona voluntas, sequitur quod actus exterior sit bonus.
+AG5
+Praeterea, Augustinus supra dixit quod voluntas est qua peccatur et recte vivitur. Sed voluntas, secundum quod
+ea peccatur, est mala, et secundum quod ea recte vivitur, est bona. Ergo peccatum, et etiam bona operatio, quae
+est recte vivere, judicari debent secundum bonitatem vel malitiam voluntatis.
+SC1
+Sed contra, Philosophus in 2 ethic.
+Dicit, quod quaedam sunt quae bene fieri non possunt: quia cum sint extrema, in eis non est medium accipere.
+Contingit autem in talia opera ingredi propter voluntatem alicujus finis boni. Ergo non est judicandus actus
+exterior bonus propter voluntatis bonitatem.
+SC2
+Praeterea, supra dictum est, quod si fiat contra conscientiam errantem, quae judicat esse faciendum quod malum
+est, peccatur, et similiter si secundum eam fiat. Sed ille qui vult aliquid facere propter hoc quod conscientia sua
+sibi dictat, bonam voluntatem habere videtur. Ergo bona voluntas non sufficit ad hoc quod actus exterior bonus
+dicatur.
+CO
+Respondeo dicendum, quod voluntas dupliciter potest considerari: vel secundum quod est intendens, prout in
+ultimum finem fertur; vel secundum quod est eligens, prout fertur in objectum proximum, quod in finem
+ultimum ordinatur.
+Si consideretur primo modo, sic malitia voluntatis sufficit ad hoc quod actus malus esse dicatur; quia quod malo
+fine agitur, malum est. Non autem bonitas voluntatis intendentis sufficit ad bonitatem actus: quia actus potest
+esse de se malus, qui nullo modo bene fieri potest. Si autem consideretur voluntas secundum quod est eligens,
+sic universaliter verum est quod a bonitate voluntatis dicitur actus bonus, et a malitia malus. Ad bonitatem enim
+consilii, quod electionem praecedit, ut in 5 ethic. Dicitur, tria exiguntur. Unum scilicet, quod consilians
+praestituat sibi debitum finem; quia si aliquis ad malum finem consequendum multas efficaces vias inveniat, non
+dicetur bonus consiliator. Secundo, quod ad finem bonum consequendum adinveniat bonum opus, per quod
+finem consequatur; unde si quis bonum finem consequi intendat per malam actionem, non est bonus consiliator:
+quia, ut ipse dicit, sortitur finem inconvenienti medio, eo quod illud quod ad finem ordinat, non est
+proportionatum fini illi; sicut si aliquis veram conclusionem per medium impertinens concluderet. Tertio
+requiritur ut adinveniat utrumque in tempore convenienti, ne sit praeceps in festinando, vel etiam inutilis in
+tardando. Sed hoc ultimum pertinet ad bonitatem consilii, secundum quod consilium in ratione inquirente et
+inveniente est; alia vero ex parte rei et consiliatoris.
+Cum igitur electio sit quasi consilii conclusio, ut in 3 ethic. Dicitur, oportet quod ad bonitatem voluntatis
+eligentis concurrat bonitas finis, et bonitas ejus quod ad finem ordinatur; et si hoc sit, proculdubio actus exterior
+bonus erit; si autem alterum desit, erit voluntas mala, et actus malus.
+RA1
+Ad primum ergo dicendum, quod arbor est ex qua immediate procedit fructus; unde arbori comparatur voluntas
+secundum quod eligens, quia ex electione immediate sequitur opus.
+RA2
+Ad secundum dicendum, quod secundum voluntatem dicitur actus exterior bonus vel malus; sed non secundum
+voluntatem intendentem solum, sed secundum voluntatem eligentem.
+RA3
+Ad tertium dicendum, quod ad bonitatem rei non solum exigitur bonitas finis ultimi quem respicit voluntas
+intendens, sed etiam bonitas finis proximi, quem respicit voluntas eligens; et ideo non sequitur quod bonitas
+voluntatis intendentis, ad bonitatem actus sufficiat.
+RA4
+Ad quartum dicendum, quod quia bonum perfectius et potentius est quam malum, ideo ad bonum plura exiguntur
+quam ad malum; quia bonum consistit ex una tota et perfecta causa; sed malum ex particularibus defectibus; ut
+dionysius dicit: et ideo defectus voluntatis circa ultimum finem sufficit ad malitiam actionis; non autem bonitas
+finis ultimi sufficit ad bonitatem.
+RA5
+767
+
+

@@ -1,0 +1,517 @@
+1
+
+Tavola cronologica delle lettere
+
+N.
+Seq.
+
+N.
+Mittente
+Progr.
+
+Destinatario
+
+Località
+
+Data
+
+Indiculus
+
+[1]
+
+1
+
+Agostino
+
+Ermogeniano
+
+Cassiciàco
+
+fine del 386
+
+X5. 2
+
+[2]
+
+2
+
+Agostino
+
+Zenobio
+
+Cassiciàco
+
+fine del 386
+
+X5. 3
+
+[3]
+
+3
+
+Agostino
+
+Nebridio
+
+Cassiciàco
+
+inizio del 387
+
+X5. 1
+
+[4]
+
+4
+
+Agostino
+
+Nebridio
+
+Cassiciàco
+
+inizio del 387
+
+X5, 1
+
+[5]
+
+5
+
+Nebridio
+
+Agostino
+
+?
+
+388/391
+
+X5. 1
+
+[6]
+
+6
+
+Nebridio
+
+Agostino
+
+?
+
+388/391
+
+X5. 1
+
+[7]
+
+7
+
+Agostino
+
+Nebridio
+
+Tagaste
+
+388/391
+
+X5. 1
+
+[8]
+
+8
+
+Nebridio
+
+Agostino
+
+Tagaste
+
+388/391
+
+X5. 1
+
+[9]
+
+9
+
+Agostino
+
+Nebridio
+
+?
+
+388/391
+
+X5. 1
+
+[10]
+
+10
+
+Agostino
+
+Nebridio
+
+Tagaste
+
+388/391
+
+X5. 1
+
+[11]
+
+11
+
+Agostino
+
+Nebridio
+
+Tagaste
+
+388/391
+
+X5. 1
+
+[12]
+
+12
+
+Agostino
+
+Nebridio
+
+Tagaste
+
+388/391
+
+X5. 1
+
+[13]
+
+13
+
+Agostino
+
+Nebridio
+
+Cassiciàco
+
+inizio del 387
+
+X5. 1
+
+[14]
+
+14
+
+Agostino
+
+Nebridio
+
+Tagaste
+
+388/391
+
+X5. 1
+
+[15]
+
+15
+
+Agostino
+
+Romaniano
+
+Tagaste
+
+390
+
+X5. 25
+
+[16]
+
+16
+
+Massimo
+
+Agostino
+
+Madaura
+
+prima del 1-III-391
+(1)
+
+I. 24
+
+[17]
+
+17
+
+Agostino
+
+Massimo
+
+Tagaste
+
+390/91
+
+I. 24
+
+[18]
+
+18
+
+Agostino
+
+Celestino
+
+Tagaste
+
+390/91
+
+X5. 5
+
+[19]
+
+19
+
+Agostino
+
+Gaio
+
+Tagaste
+
+390/91
+
+X5. 10
+
+[20]
+
+20
+
+Agostino
+
+Antonino
+
+Tagaste
+
+390/91
+
+X5. 6
+
+[21]
+
+21
+
+Agostino
+
+Valerio
+
+Ippona
+
+poco prima: Pasqua 5
+X . 13
+391
+
+[22]
+
+22
+
+Agostino
+
+Aurelio
+
+Ippona
+
+ca. 392 (2)
+
+X5. 30
+
+[23]
+
+23
+
+Agostino
+
+Massimino
+donatista
+
+Ippona
+
+ca. 392
+
+VI. 34
+
+[24]
+
+24
+
+Paolino
+
+Alipio
+
+Nola
+
+autunno 395 (3)
+
+cf. X5. 38
+
+[25]
+
+25
+
+Paolino
+
+Agostino
+
+Nola
+
+autunno 395
+
+cf. X5. 38
+
+[26]
+
+26
+
+Agostino
+
+Licenzio
+
+Ippona
+
+394/95
+
+X5. 11
+
+[27]
+
+27
+
+Agostino
+
+Paolino
+
+Ippona
+
+inizio estate 396
+
+X5. 38
+
+[28]
+
+28
+
+Agostino
+
+Girolamo
+
+Ippona
+
+fine 394/inizio 395
+(4)
+
+X5. 37
+
+[29]
+
+29
+
+Agostino
+
+Alipio
+
+Ippona
+
+aprile/maggio 395
+(5)
+
+X5. 33
+
+[30]
+
+30
+
+Paolino
+
+Agostino
+
+Nola
+
+primavera 396
+
+X5. 38
+
+[31]
+
+31
+
+Agostino
+
+Paolino
+
+Ippona
+
+inizio 397
+
+X5. 38
+
+[32]
+
+32
+
+Paolino
+
+Romaniano
+
+Nola
+
+poco prima della
+precedente
+
+X5. 38
+
+[33]
+
+33
+
+Agostino
+
+Proculiano
+
+Ippona
+
+prima del 396
+
+VI. 25
+
+[34]
+
+34
+
+Agostino
+
+Eusebio
+
+Ippona
+
+396/97
+
+VI. 28
+
+[35]
+
+35
+
+Agostino
+
+Eusebio
+
+Ippona
+
+396/97
+
+VI. 28
+
+1
+
+

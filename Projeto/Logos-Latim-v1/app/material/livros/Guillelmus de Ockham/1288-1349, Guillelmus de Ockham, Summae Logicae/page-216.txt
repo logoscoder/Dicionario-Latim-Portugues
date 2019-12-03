@@ -1,0 +1,57 @@
+Primum est quod tantum sunt duae praemissae categoricae ponendae in syllogismo et conclusio; et
+tantum tres termini, scilicet maior extremitas et minor et medium. Est autem medium quod ponitur in utraque
+praemissa; maior extremitas est quae cum medio termino ponitur in maiori; minor extremitas quae ponitur cum
+medio in minori propositione, hoc est in secunda propositione.
+Secundum est quod tantum sunt tres figurae. Prima est in qua medius terminus subicitur in prima
+propositione et praedicatur in secunda. Secunda figura est quando medius terminus praedicatur in utraque. Tertia
+figura est quando medius terminus subicitur in utraque. Non est apponenda quarta figura, quia si medius
+terminus praedicetur in prima propositione et subiciatur in secunda, non erit nisi transpositio propositionum
+positarum in prima figura, et ideo non sequitur alia conclusio quam illa quae sequitur ex praemissis dispositis in
+prima figura. Et ideo non est negandum quin possit argui ex duabus praemissis in quarum prima medius terminus
+praedicetur et in secunda subiciatur, sed illa conclusio quae primo sequitur ex illis praemissis erit eadem quae
+sequitur ex eisdem praemissis dispositis in prima figura. Si enim arguatur sic 'omnis homo est animal; omne
+animal est substantia', conclusio quae primo sequitur est ista 'igitur omnis homo est substantia'. Et ista sequitur
+ex praemissis eisdem, dispositis in prima figura, sic 'omne animal est substantia omnis homo est animal; igitur
+omnis homo est substantia'.
+Secundum est quod tantum sunt tres figurae. Prima est in qua medius terminus subicitur in prima
+propositione et praedicatur in secunda. Secunda figura est quando medius terminus praedicatur in utraque. Tertia
+figura est quando medius terminus subicitur in utraque. Non est apponenda quarta figura, quia si medius
+terminus praedicetur in prima propositione et subiciatur in secunda, non erit nisi transpositio propositionum
+positarum in prima figura, et ideo non sequitur alia conclusio quam illa quae sequitur ex praemissis dispositis in
+prima figura. Et ideo non est negandum quin possit argui ex duabus praemissis in quarum prima medius terminus
+praedicetur et in secunda subiciatur, sed illa conclusio quae primo sequitur ex illis praemissis erit eadem quae
+sequitur ex eisdem praemissis dispositis in prima figura. Si enim arguatur sic 'omnis homo est animal; omne
+animal est substantia', conclusio quae primo sequitur est ista 'igitur omnis homo est substantia'. Et ista sequitur
+ex praemissis eisdem, dispositis in prima figura, sic 'omne animal est substantia omnis homo est animal; igitur
+omnis homo est substantia'.
+Tertium praeambulum est quod omnis syllogismus, immediate uel mediate, regulatur per dici de omni
+uel per dici de nullo. Syllogismi enim in prima figura regulantur immediate per dici de omni uel per dici de
+nullo. Syllogismi autem secundae et tertiae figurae reducuntur in syllogismos primae figurae, uel per
+conuersionem uel per impossibile uel per transpositionem propositionum, et ideo mediate regulantur per dici de
+omni uel per dici de nullo. Et quandocumque sic est quod aliquis discursus regulatur per dici de omni uel per dici
+de nullo, siue mediate siue immediate, ille discursus est bonus.
+Tertium praeambulum est quod omnis syllogismus, immediate uel mediate, regulatur per dici de omni
+uel per dici de nullo. Syllogismi enim in prima figura regulantur immediate per dici de omni uel per dici de
+nullo. Syllogismi autem secundae et tertiae figurae reducuntur in syllogismos primae figurae, uel per
+conuersionem uel per impossibile uel per transpositionem propositionum, et ideo mediate regulantur per dici de
+omni uel per dici de nullo. Et quandocumque sic est quod aliquis discursus regulatur per dici de omni uel per dici
+de nullo, siue mediate siue immediate, ille discursus est bonus.
+Est autem dici de omni quando nihil est sumere sub subiecto, quin de eo dicatur praedicatum,. Quod est
+sic intelligendum: non quod praedicatum conueniat cuilibet de quo dicitur subiectum, -- tunc enim non esset dici
+de omni nisi in propositionibus ueris --, sed sufficit quod per talem propositionem denotetur quod nihil sit
+sumere sub subiecto, quin de eo dicatur praedicatum. Et hoc denotatur per omnem propositionem uniuersalem
+affirmatiuam. Dici de nullo est quando per eam denotatur quod de quocumque dicitur subiectum, quod ab eo
+remouetur praedicatum. Et hoc denotatur per omnem propositionem uniuersalem negatiuam, siue sit uera siue
+falsa.
+Est autem dici de omni quando nihil est sumere sub subiecto, quin de eo dicatur praedicatum,. Quod est
+sic intelligendum: non quod praedicatum conueniat cuilibet de quo dicitur subiectum, -- tunc enim non esset dici
+de omni nisi in propositionibus ueris --, sed sufficit quod per talem propositionem denotetur quod nihil sit
+sumere sub subiecto, quin de eo dicatur praedicatum. Et hoc denotatur per omnem propositionem uniuersalem
+affirmatiuam. Dici de nullo est quando per eam denotatur quod de quocumque dicitur subiectum, quod ab eo
+remouetur praedicatum. Et hoc denotatur per omnem propositionem uniuersalem negatiuam, siue sit uera siue
+falsa.
+[3-1.03 DE SYLLOGISMIS FACTIS IN PRIMA FIGURA]
+[3-1.03 DE SYLLOGISMIS FACTIS IN PRIMA FIGURA]
+216
+
+

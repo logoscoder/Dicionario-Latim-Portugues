@@ -1,0 +1,58 @@
+|#4 Secundam rationem ponit ibi: et si demonstrentur per altera etc., quae quidem sumitur ex hoc quod causa et
+causatum per invicem demonstrantur.
+Et circa hoc tria facit: primo, ponit rationem; secundo, removet errorem qui posset consequi; ibi: si autem non
+contingit etc.; tertio, probat quoddam quod supposuerat; ibi: quod autem non deficere etc..
+|#5 Circa primum dicit quod etiam manifestum est quod causa et causatum simul se consequuntur, si hoc verum
+est, quod per invicem demonstrentur; quia ad medium demonstrationis ex necessitate sequitur conclusio. Quod
+autem per invicem demonstrentur, probat in praedicto exemplo.
+Sit enim folium fluere in quo a, quae est maior extremitas; latum folium habere in quo b, quod est medium; vites
+vero accipiantur in quo c, quod est minor extremitas. Sic igitur in b est a, quia omne quod habet latum folium,
+folio fluit; in c autem est b, quia omnis vitis habet lata folia; et sic concluditur quod a est in c, idest quod omnis
+vitis folio fluit. Et in toto hoc processu causa accipitur pro medio, et sic causatum per causam demonstratur.
+Contingit autem et e converso demonstrare causam per causatum, scilicet quod vitis habet lata folia per hoc quod
+fluit folio. Accipiatur enim lata folia habere quasi maior extremitas, quae est d; fluere folio quasi medium, quod
+est e; vitis vero minor extremitas, quae est z. Sic igitur e est in z, quia omnis vitis fluit folio; d autem est in e,
+quia scilicet omne quod fluit folio, habet lata folia; et ex hoc concluditur quod omnis vitis sit lati folii, et
+accipitur pro causa in consequendo folio fluere.
+|#6 Deinde cum dicit: si autem non contingit etc., excludit quemdam errorem, qui posset sequi ex praemissis, ut
+scilicet eadem ratione unum praedictorum demonstretur ex alio. Sed ipse excludens hoc dicit quod si non
+contingit quod aliqua duo sint sibi invicem causae, scilicet in eodem genere (eo quod causa est prior eo cuius est
+causa; non autem contingit idem esse prius et posterius eodem modo); cum causa defectus lunae sit terram esse
+in medio, non est possibile quod defectus lunae sit causa eius quod terra sit in medio. Si igitur demonstratio quae
+est per causam, est demonstratio propter quid, quae autem non est per causam, est ipsius quia, ut in primo
+habitum est; sequitur quod ille qui per defectum lunae demonstrat quod terra sit in medio, cognoscit quidem
+quia, non propter quid.
+|#7 Deinde cum dicit: quod autem non deficere etc., probat quod supposuerat, scilicet quod interpositio terrae
+sit causa defectus, et non e converso; et dicit manifestum esse quod lunam deficere non est causa eius quod est
+terram esse in medio, sed e converso; quia in ratione eclipsis ponitur quod terra sit in medio, ut supra dictum est.
+Cum igitur quid et propter quid sint idem, manifestum est quod defectus lunae cognoscitur per interpositionem
+terrae, sicut per medium propter quid, et non e converso.
+|#8 Deinde cum dicit: aut contingit unius plures causas etc., solvit praemissam quaestionem ostendens in quibus
+verum sit quod causa et causatum semper se consequantur, et in quibus non. Et circa hoc duo facit: primo,
+ostendit in quibus non sit verum; secundo, in quibus sit verum; ibi: aut si semper etc.. Dicit ergo primo quod
+contingit aliquid unum commune habere plures causas secundum quod convenit diversis, sicut esse vituperabile
+convenit audaci propter excessum, timido autem propter defectum. Accipiatur ergo quod aliquod unum
+praedicetur de pluribus primo et immediate, et praedicetur a de b primo, et similiter de c, sicut esse vituperabile
+de superabundantia et defectu; et ista duo, scilicet c et b, praedicentur de d et e, sicut superabundantia convenit
+audaci, defectus autem timido. Praedicabitur itaque a de d et e, quia tam audax quam timidus est vituperabilis.
+Causa autem quod a sit in d est ipsum b: est enim audax vituperabilis propter superabundantiam.
+Quod autem a insit ipsi e, causa est ipsum c: timidus enim vituperabilis est propter defectum.
+Patet ergo quod cum causa sit, necesse est rem esse; quia sive a sit superabundantia, sive defectus, necesse est
+aliquid esse vituperabile. Sed existente re, necesse est quidem quod aliqua causarum sit, non tamen necesse est
+quamlibet causam esse. Sicut posito quod aliquid sit vituperabile, non est necesse quod sit in superabundantia,
+sed necesse est quod sit vel in superabundantia vel in defectu.
+|#9 Deinde cum dicit: aut si semper est universale etc., ostendit in quibus necesse sit simul se consequi causam
+et causatum; et dicit quod si aliquid quaeratur in universali, et accipiatur tam causa quam id cuius causa
+quaeritur, in universali; tunc oportet quod ad causam semper sequatur effectus, et ad effectum causa. Sicut hoc
+quod est fluere folio, non convenit primo pluribus, ut erat in praemisso exemplo, sed determinate uni primo
+communi, quamvis illius communis sint multae species, quibus universaliter convenit quod fluunt folio; puta si
+accipiamus vel plantas vel tales plantas, scilicet lata folia habentes.
+Unde in omnibus istis oportet accipere aequale medium, ita quod convertatur causa et id cuius est causa. Sicut si
+quaeramus quare arbores fluant folio; si accipiatur causa huius esse propter hoc quod humidum est condensatum
+et sic facilius est desiccabile, sequetur quod si causatum sit, quod etiam causa sit; puta si fluit arbor, oportet quod
+sit condensatio humoris. Et e converso, oportet quod posita causa in tali subiecto ponatur effectus; ut puta si
+condensatio humoris est, non in quacunque re sed in arbore, sequitur quod folio fluat.
+
+108
+
+

@@ -1,0 +1,54 @@
+|#11 Ultimo autem cum dicit quare manifestum redit ad concludendum principale propositum; dicens, quod
+manifestum est ex praedictis, quod substantia et forma et species est actus quidam. Et ex hoc manifestum est,
+quod actus est prior quam potentia secundum substantiam et formam. Et est prior tempore, ut supra dictum est,
+quia semper prius exigitur actus secundum quem generans aut movens aut faciens est actu, ante alterum actum
+quo generatum vel factum est in actu, postquam fuit in potentia; quousque veniatur ad primum movens, quod est
+in actu tantum. Id enim, quod exit de potentia in actum, requirit actum praecedentem in agente, a quo reducitur in
+actum.
+|+9 Lectio 9
+|#1 Superius probavit Aristoteles quod actus erat prior potentia, substantia, definitione, et perfectione, per
+rationes ex ipsis corruptibilibus sumptas. Hic autem idem ostendit per comparationem sempiternorum ad
+corruptibilia.
+Et dividitur ista pars in duas. In prima ostendit propositum. In secunda ex proposito ostenso excludit quoddam a
+Platone dictum, ibi, si ergo aliquae sunt naturae.
+Et circa primum duo facit. Primo ostendit propositum, et hoc tali ratione.
+Sempiterna comparantur ad corruptibilia sicut actus ad potentiam. Nam sempiterna, inquantum huiusmodi, non
+sunt in potentia; corruptibilia vero, inquantum huiusmodi, in potentia sunt. Sed sempiterna sunt priora
+corruptibilibus substantia et perfectione: hoc enim manifestum est. Ergo actus est potentia prior substantia et
+perfectione.
+Dicit autem, quod hac ratione magis proprie ostenditur propositum, quia non assumitur actus et potentia in
+eodem, sed in diversis: quod facit probationem magis evidentem.
+|#2 Secundo ibi, ratio vero probat quod supposuerat; scilicet quod nullum sempiternum sit in potentia.
+Et circa hoc duo facit. Primo ponit rationem ad ostendendum hoc; quae talis est.
+Omnis potentia simul est contradictionis.
+Dicit autem hoc non de potentia activa: iam enim supra dictum est, quod potentiae irrationales non sunt ad
+opposita; sed loquitur hic de potentia passiva, secundum quam aliquid dicitur possibile esse et non esse, vel
+simpliciter, vel secundum quid.
+|#3 Hoc autem quod posuerat manifestat per oppositum; quia ubi non est talis potentia, non contingit utraque
+pars contradictionis. Nam quod non est possibile esse, nunquam in aliquo est. Si enim non est possibile esse,
+impossibile est esse, et necesse est non esse. Sed id quod possibile est esse, contingit non esse in actu.
+Manifestum est ergo, quod illud quod possibile est esse, contingit esse et non esse.
+Et sic potentia simul contradictionis est, quia idem est in potentia ad esse et non esse.
+|#4 Sed id quod potest non esse, contingit non esse. Haec enim duo aequipollent.
+Quod autem contingit non esse, est corruptibile, vel simpliciter, vel secundum quid, prout dicitur contingere non
+esse. Sicut si contingat aliquod corpus non esse in aliquo loco, illud est corruptibile secundum locum. Et similiter
+est de quanto et de quali. Sed simpliciter est corruptibile, quod potest non esse secundum substantiam.
+Relinquitur ergo, quod omne quod est in potentia, inquantum huiusmodi, corruptibile est.
+|#5 Secundo ibi, nihil ergo infert conclusionem ex positione praemissa intentam.
+Et circa hoc tria facit. Primo concludit propositum circa sempiterna; inferens ex praedictis, quod si omne, quod
+est in potentia, est corruptibile, sequitur quod nullum incorruptibilium simpliciter, sit ens in potentia, ut
+accipiamus incorruptibile simpliciter et ens in potentia simpliciter secundum substantiam.
+|#6 Sed nihil prohibet, id quod est incorruptibile simpliciter, esse in potentia secundum quid, aut secundum
+quale, aut ubi. Ut luna est in potentia ut sit illustrata a sole, et sol est in potentia, cum est in oriente, quod sit in
+occidente. Patet ergo ex praedictis, quod omnia sempiterna, inquantum huiusmodi, sunt in actu.
+|#7 Secundo ibi, nec eorum concludit idem de necessariis, quod concluserat de sempiternis; quia etiam in ipsis
+rebus corruptibilibus sunt quaedam necessaria, ut hominem esse animal, omne totum esse maius sua parte. Dicit
+ergo, quod neque aliquid eorum, quae sunt ex necessitate, in potentia est. Quae enim necessaria sunt, semper
+sunt in actu, et non possunt esse et non esse. Ea vero, quae sunt necessaria, sunt prima inter omnia, quia eis
+ablatis nihil remanet aliorum; utpote si tollerentur essentialia praedicata, quae necessario praedicantur, non
+possent inesse accidentalia praedicata, quae contingit inesse et non inesse. Et sic relinquitur quod actus est prior
+potentia.
+
+270
+
+

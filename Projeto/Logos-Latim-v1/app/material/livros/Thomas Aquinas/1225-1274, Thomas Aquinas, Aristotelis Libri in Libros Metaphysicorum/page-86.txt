@@ -1,0 +1,54 @@
+Cum ergo hoc sit inconveniens, inconveniens est quod aliquid communiter praedicatum sit hoc aliquid. Haec
+igitur sunt inconvenientia quae sequuntur, si universalia sunt principia.
+|#9 Deinde cum dicit si autem obiicit in contrarium. Cum enim omnes scientiae sint universales, non sunt
+singularium, sed universalium. Si igitur aliqua principia non sint universalia, sed singularia, non erunt scibilia
+secundum seipsa.
+Si ergo de eis debet aliqua scientia haberi, oportebit esse aliqua priora principia, quae sunt universalia. Sic igitur
+oportet prima principia esse universalia, ad hoc quod scientia habeatur de rebus; quia ignoratis principiis necesse
+est alia ignorare.
+|#10 Haec autem quaestio determinatur in septimo huius; ubi ostenditur quod universalia non sunt substantiae,
+nec principia rerum. Non autem propter hoc sequitur, quod si principia et substantiae rerum sint singularia, quod
+eorum non possit esse scientia; tum quia res immateriales etsi sint singulariter subsistentes, sunt tamen etiam
+intelligibiles; tum etiam quia de singularibus est scientia secundum universales eorum rationes per intellectum
+apprehensas.
+|*MPH.4 : LIBER 4
+|+1 Lectio 1
+|#1 In praecedenti libro Philosophus disputative processit de illis, quae debent in hac scientia considerari: hic
+incipit procedere demonstrative determinando veritatem quaestionum prius motarum et disputatarum.
+Fuit autem in praecedenti libro disputatum tam de his quae pertinent ad modum huius scientiae, scilicet ad quae
+se extendit huius scientiae consideratio, quam etiam de his quae sub consideratione huius scientiae cadunt. Et
+quia prius oportet cognoscere modum scientiae quam procedere in scientia ad ea consideranda de quibus est
+scientia, ut in secundo libro dictum est: ideo dividitur haec pars in duas.
+Primo dicit de quibus est consideratio huius scientiae. Secundo dicit de rebus quae sub consideratione huius
+scientiae cadunt, in quinto libro, ibi, principium dicitur aliud quidem etc..
+Prima in duas. Primo subiectum stabilit huius scientiae. Secundo procedit ad solvendum quaestiones motas in
+libro praecedenti de consideratione huius scientiae, ibi, ens autem multis.
+Circa primum tria facit. Primo supponit aliquam esse scientiam cuius subiectum sit ens. Secundo ostendit quod
+ista non est aliqua particularium scientiarum, ibi, haec autem etc.. Tertio ostendit quod haec est scientia quae
+prae manibus habetur, ibi, quoniam autem principia etc..
+Quia vero scientia non solum debet speculari subiectum, sed etiam subiecto per se accidentia: ideo dicit primo,
+quod est quaedam scientia, quae speculatur ens secundum quod ens, sicut subiectum, et speculatur ea quae insunt
+enti per se, idest entis per se accidentia.
+|#2 Dicit autem secundum quod est ens, quia scientiae aliae, quae sunt de entibus particularibus, considerant
+quidem de ente, cum omnia subiecta scientiarum sint entia, non tamen considerant ens secundum quod ens, sed
+secundum quod est huiusmodi ens, scilicet vel numerus, vel linea, vel ignis, aut aliquid huiusmodi.
+|#3 Dicit etiam et quae huic insunt per se et non simpliciter quae huic insunt, ad significandum quod ad
+scientiam non pertinet considerare de his quae per accidens insunt subiecto suo, sed solum de his quae per se
+insunt. Geometra enim non considerat de triangulo utrum sit cupreus vel ligneus, sed solum considerat ipsum
+absolute secundum quod habet tres angulos aequales etc.. Sic igitur huiusmodi scientia, cuius est ens subiectum,
+non oportet quod consideret de omnibus quae insunt enti per accidens, quia sic consideraret accidentia quaesita
+in omnibus scientiis, cum omnia accidentia insint alicui enti, non tamen secundum quod est ens.
+Quae enim sunt per se accidentia inferioris, per accidens se habent ad superius, sicut per se accidentia hominis
+non sunt per se accidentia animalis. Necessitas autem huius scientiae quae speculatur ens et per se accidentia
+entis, ex hoc apparet, quia huiusmodi non debent ignota remanere, cum ex eis aliorum dependeat cognitio; sicut
+ex cognitione communium dependet cognitio rerum propriarum.
+|#4 Deinde cum dicit haec autem hic ostendit, quod ista scientia non sit aliqua particularium scientiarum, tali
+ratione.
+Nulla scientia particularis considerat ens universale inquantum huiusmodi, sed solum aliquam partem entis
+divisam ab aliis; circa quam speculatur per se accidens, sicut scientiae mathematicae aliquod ens speculantur,
+scilicet ens quantum. Scientia autem communis considerat universale ens secundum quod ens: ergo non est
+eadem alicui scientiarum particularium.
+
+86
+
+

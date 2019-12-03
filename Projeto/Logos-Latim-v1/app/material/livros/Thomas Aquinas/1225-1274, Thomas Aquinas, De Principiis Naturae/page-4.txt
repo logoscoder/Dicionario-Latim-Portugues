@@ -1,0 +1,61 @@
+Tertia particula, scilicet et non dividitur secundum formam, ponitur ad differentiam eorum scilicet quae habent
+partes diversas in forma, idest in specie, sicut manus, cuius partes sunt caro et ossa, quae differunt secundum
+speciem.
+Sed elementum non dividitur in partes diversas secundum speciem, sicut aqua, cuius quaelibet pars est aqua. Non
+enim oportet ad esse elementi ut non dividatur secundum quantitatem, sed sufficit si non dividatur secundum
+speciem: et si etiam non dividatur, dicitur elementum, sicut litterae dicuntur elementa dictionum.
+Patet igitur quod principium quodam modo in plus habet se quam causa; et causa in plus quam elementum. Et
+hoc est quod dicit Commentator in quinto metaph..
+|+4 Capitulus 4
+Viso igitur quod quatuor sunt causarum genera, sciendum est quod non est impossibile quod idem habeat plures
+causas: ut idolum cuius causa est cuprum et artifex, sed artifex ut efficiens, cuprum ut materia. Non autem est
+impossibile ut idem sit causa contrariorum: sicut gubernator est causa salutis navis et submersionis, sed huius per
+absentiam, illius quidem per praesentiam.
+Sciendum est etiam quod possibile est ut aliquid idem sit causa et causatum respectu eiusdem, sed diversimode:
+ut deambulatio est causa sanitatis ut efficiens, sed sanitas est causa deambulationis ut finis: deambulatio enim est
+aliquando propter sanitatem. Et etiam corpus est materia animae, anima vero est forma corporis.
+Efficiens enim dicitur causa respectu finis, cum finis non sit in actu nisi per operationem agentis: sed finis dicitur
+causa efficientis, cum non operetur nisi per intentionem finis. Unde efficiens est causa illius quod est finis: ut sit
+sanitas; non tamen facit finem esse finem, et ita non est causa causalitatis finis, idest non facit finem esse
+finalem: sicut medicus facit sanitatem esse in actu, non tamen facit quod sanitas sit finis.
+Finis autem non est causa illius quod est efficiens, sed est causa ut efficiens sit efficiens: sanitas enim non facit
+medicum esse medicum (et dico sanitatem quae fit operante medico), sed facit ut medicus sit efficiens. Unde
+finis est causa causalitatis efficientis, quia facit efficiens esse efficiens: similiter facit materiam esse materiam, et
+formam esse formam, cum materia non suscipiat formam nisi per finem, et forma non perficiat materiam nisi per
+finem. Unde dicitur quod finis est causa causarum, quia est causa causalitatis in omnibus causis.
+Materia enim dicitur causa formae, inquantum forma non est nisi in materia; et similiter forma est causa
+materiae, inquantum materia non habet esse in actu nisi per formam. Materia enim et forma dicuntur relative ad
+invicem, ut dicitur in secundo physicorum. Dicuntur enim ad compositum sicut partes ad totum, et simplex ad
+compositum.
+Sed quia omnis causa, inquantum est causa, naturaliter prior est causato, sciendum quod prius dicitur duobus
+modis, ut dicit Aristoteles in decimosexto de animal.; per quorum diversitatem potest aliquid dici prius et
+posterius respectu eiusdem, et causa et causatum.
+Dicitur enim aliquid prius altero generatione et tempore, et iterum in substantia et complemento. Cum ergo
+naturae operatio procedat ab imperfecto ad perfectum, et ab incompleto ad completum, imperfectum est prius
+perfecto, secundum generationem et tempus, sed perfectum est prius in complemento: sicut potest dici quod vir
+est ante puerum in substantia et complemento, sed puer est ante virum generatione et tempore.
+Sed licet in rebus generabilibus imperfectum sit prius perfecto, et potentia prior actu, considerando in aliquo
+eodem quod prius est imperfectum quam perfectum, et in potentia quam in actu, simpliciter tamen loquendo,
+oportet actum et perfectum prius esse: quia quod reducit potentiam ad actum, actu est, et quod perficit
+imperfectum, perfectum est.
+Materia quidem est prior forma generatione et tempore: prius enim est cui advenit, quam quod advenit.
+Forma vero est prior materia perfectione, quia materia non habet esse completum nisi per formam. Similiter
+efficiens prior est fine generatione et tempore, cum ab efficiente fiat motus ad finem; sed finis est prior efficiente
+inquantum est efficiens, in substantia et complemento, cum actio efficientis non compleatur nisi per finem. Igitur
+istae duae causae, scilicet materia et efficiens, sunt prius per viam generationis; sed forma et finis sunt prius per
+viam perfectionis.
+Et notandum quod duplex est necessitas: scilicet necessitas absoluta et necessitas conditionalis.
+Necessitas quidem absoluta est quae procedit a causis prioribus in viam generationis, quae sunt materia et
+efficiens: sicut necessitas mortis quae provenit ex materia et ex dispositione contrariorum componentium; et
+haec dicitur absoluta quia non habet impedimentum. Haec etiam dicitur necessitas materiae.
+Necessitas autem conditionalis procedit a causis posterioribus in generatione, scilicet a forma et fine: sicut
+dicimus quod necessarium est esse conceptionem, si debeat generari homo; et ista est conditionalis, quia hanc
+mulierem concipere non est necessarium simpliciter, sed sub conditione, si debeat generari homo. Et haec dicitur
+necessitas finis.
+Et est sciendum quod tres causae possunt incidere in unum, scilicet forma, finis, et efficiens: sicut patet in
+generatione ignis. Ignis enim generat ignem, ergo ignis est causa efficiens inquantum generat; et iterum ignis est
+forma inquantum facit esse actu quod prius erat potentia; et iterum est, finis inquantum est intentum ab agente et
+inquantum terminantur ad ipsum operationes ipsius agentis.
+4
+
+

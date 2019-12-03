@@ -1,0 +1,56 @@
+'hoc est aninial' demonstrando illam rem quae est alba; et propter hoc pro illa re subiectum supponit. Et
+sic, proportionaliter, dicendum est de praedicato: nam per istam 'Sortes est albus' denotatur quod Sortes est illa
+res quae habet albedinem, et ideo praedicatum supponit pro illa re quae habet albedinem; et si nulla res haberet
+albedinem nisi Sortes, tunc praedicatum praecise supponeret pro Sorte.
+'hoc est aninial' demonstrando illam rem quae est alba; et propter hoc pro illa re subiectum supponit. Et
+sic, proportionaliter, dicendum est de praedicato: nam per istam 'Sortes est albus' denotatur quod Sortes est illa
+res quae habet albedinem, et ideo praedicatum supponit pro illa re quae habet albedinem; et si nulla res haberet
+albedinem nisi Sortes, tunc praedicatum praecise supponeret pro Sorte.
+Est igitur una regula generalis quod numquam terminus in aliqua propositione, saltem quando
+significatiue accipitur, supponit pro aliquo nisi de quo uere praedicatur.
+Est igitur una regula generalis quod numquam terminus in aliqua propositione, saltem quando
+significatiue accipitur, supponit pro aliquo nisi de quo uere praedicatur.
+Ex quo sequitur quod falsum est, quod aliqui ignorantes dicunt, quod concretum a parte praedicati
+supponit pro forma; uidelicet quod in ista
+'Sortes est albus' li albus supponit pro albedine, nam haec est simpliciter falsa 'albedo est alba',
+qualitercumque termini supponant. Ideo numquam concretum tale supponit pro forma tali significata per suum
+abstractum, secundum uiam Aristotelis. In aliis autem concretis, de quibus dictum est, hoc est bene possibile.
+'Sortes est albus' li albus supponit pro albedine, nam haec est simpliciter falsa 'albedo est alba',
+qualitercumque termini supponant. Ideo numquam concretum tale supponit pro forma tali significata per suum
+abstractum, secundum uiam Aristotelis. In aliis autem concretis, de quibus dictum est, hoc est bene possibile.
+Eodem modo in ista 'homo est Deus' 'homo' uere supponit pro Filio Dei, quia ille uere est homo.
+Eodem modo in ista 'homo est Deus' 'homo' uere supponit pro Filio Dei, quia ille uere est homo.
+[1.64. DE DIVISIONE SUPPOSITIONIS]
+[1.64. DE DIVISIONE SUPPOSITIONIS]
+Sciendum est autem quod suppositio primo diuiditur in suppositionem personalem, simplicem et
+materialem.
+Sciendum est autem quod suppositio primo diuiditur in suppositionem personalem, simplicem et
+materialem.
+Suppositio personalis, uniuersaliter, est illa quando terminus supponit pro suo significato, siue illud
+significatum sit res extra animam, siue sit uox, siue intentio animae, siue sit scriptum, siue quodcumque aliud
+imaginabile; ita quod quandocumque subiectum uel praedicatum propositionis supponit pro suo significato, ita
+quod significatiue tenetur, semper est suppositio personalis. Exemplum primi: sic dicendo 'omnis homo est
+animal', li homo supponit pro suis significatis, quia 'homo' non imponitur nisi ad significandum istos homines;
+non enim significat proprie aliquid commune eis sed ipsosmet homines, secundum Damascenum. Exemplum
+secundi: sic dicendo 'omne nomen uocale est pars orationis', li nomen non supponit nisi pro uocibus; quia tamen
+imponitur ad significandum illas uoces, ideo supponit personaliter. Exemplum tertii: sic dicendo 'omnis species
+est uniuersale' uel 'omnis intentio animae est in anima' utrumque subiectu supponit personaliter, quia supponit
+pro illis quibus imponitur ad significandum. Exemplum quarti: sic dicendo 'omnis dictio scripta est dictio'
+subiectum non supponit nisi pro significatis suis, puta pro scriptis, ideo supponit personaliter.
+Suppositio personalis, uniuersaliter, est illa quando terminus supponit pro suo significato, siue illud
+significatum sit res extra animam, siue sit uox, siue intentio animae, siue sit scriptum, siue quodcumque aliud
+imaginabile; ita quod quandocumque subiectum uel praedicatum propositionis supponit pro suo significato, ita
+quod significatiue tenetur, semper est suppositio personalis. Exemplum primi: sic dicendo 'omnis homo est
+animal', li homo supponit pro suis significatis, quia 'homo' non imponitur nisi ad significandum istos homines;
+non enim significat proprie aliquid commune eis sed ipsosmet homines, secundum Damascenum. Exemplum
+secundi: sic dicendo 'omne nomen uocale est pars orationis', li nomen non supponit nisi pro uocibus; quia tamen
+imponitur ad significandum illas uoces, ideo supponit personaliter. Exemplum tertii: sic dicendo 'omnis species
+est uniuersale' uel 'omnis intentio animae est in anima' utrumque subiectu supponit personaliter, quia supponit
+pro illis quibus imponitur ad significandum. Exemplum quarti: sic dicendo 'omnis dictio scripta est dictio'
+subiectum non supponit nisi pro significatis suis, puta pro scriptis, ideo supponit personaliter.
+Ex quo patet quod non sufficienter describunt suppositionem personalem dicentes quod suppositio
+personalis est quando terminus supponit pro re. Sed ista est definitio quod 'suppositio personalis est quando
+terminus supponit pro suo significato et significatiue'.
+121
+
+

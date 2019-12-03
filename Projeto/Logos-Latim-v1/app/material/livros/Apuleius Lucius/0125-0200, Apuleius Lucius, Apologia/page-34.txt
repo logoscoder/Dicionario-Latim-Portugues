@@ -1,0 +1,31 @@
+14,4 diutino diutina
+14,5 uisitur uisi<te>tur
+14,8 referundum referundam
+15,14 facti [f]acti
+16,1 suda [soli] suda soli
+19,4 etenim omnibus etenim <in> omnibus
+19,7 simulate simulata<m>
+20,1 poscit possit
+24,1 ostendi scis ostendistis
+27,5 simplicia simpliciter
+27,12 puerili pueruli
+28,7 eruptum ereptum
+30,13 (l. 5-6) hin- / nientium hinnientium
+32,6 Scyllam scillam
+32,6 merguntur mercantur
+34,2 ommutescat commutescat
+35,3 hebe[n]tem habentem
+35,3 echinum echi<no>rum
+35,4 ostrea [Pergami] ostrea Pergami
+(Add.: ostracoderma)
+36,7 opera est operaest
+38,5 cum re<s> cognitu cum me<morabiles res et> cognitu
+39,3 (l.3) Ambraciai [finis] Ambraciae sus
+39,3 (l.6) Surrenti[a] Surrenti t<u>
+40,3 usuru<s> est usurust
+40,7 quaeat qu<o> eat
+40,11 numquam si <scisset, n>umquam
+41,5 mediterranis mediterran<e>is
+34
+
+

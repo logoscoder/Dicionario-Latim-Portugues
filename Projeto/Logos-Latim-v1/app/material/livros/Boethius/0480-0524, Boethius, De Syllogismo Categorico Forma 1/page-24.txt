@@ -1,0 +1,67 @@
+contr.
+Omne iustum bonum est.
+Quoddam igitur iustum bonum non est. - perm. contr. - Nullum ergo iustum malum est.
+[827A] Secundus secundae figurae in tertio primae figura, modo sic resoluitur: si quis duas secundae figura,
+propositiones concesserit, conclusionem quoque concedit, quae est:
+Igitur iustum bonum est.
+Nam si haec falsa est, erit uera contraiacens ei particularis affirmatio:
+Quoddam iustum bonum est.
+Sed idem concessit [828A] illam quae est:
+Omne bonum uirtus est
+concludat necesse est:
+Quoddam iustum uirtus est
+qui iam ante concesserat secundam secundi modi quae est:
+Nullum iustum uirtus est
+duas contraiacentes uno tempore concedit, quod fieri non potest.
+Omne bonum uirtus est,
+concessae
+Omne bonum uirtus est,
+Nullum iustum uirtus est;
+contraiac.
+Quoddam iustum bonum est;
+Nullum iustum bonum est.
+permut.
+Quoddam iustum uirtus est.
+[827A] Primae item secundae figurae in quartum primae figurae [827B] sic resoluitur: qui concedit duas primi
+modi propositiones, concedat necesse est et conclusionem. Nam si illa falsa est, erit uera contraiacens ei particularis
+affirmatiua quae est:
+Quiddam iustum bonum est.
+Sed idem concessit illam quae est:
+Nullum bonum malum est
+concludat necesse est:
+Quoddam [828A] igitur iustum malum non est
+qui ante concesserat [828B] illam quae est:
+Omne iustum malum est.
+Uno tempore duas contraiacentes concedit, quod fieri non potest.
+Sublata igitur particulari affirmatione quae est:
+Quoddam iustum bonum est
+remanet illa quae est:
+Nullam iustum bonum est.
+Nullum bonum malum est, - similes Nullum bonum malum est.
+Omne iustum malum est; - contraiac. - Quoddam iustum bonum est.
+Nullum iustum bonum est. - perm. iacen. - Quoddam igitur iustum malum non est.
+[827B] Sequitur ut tertiae figurae modos ad primos quatuor reducamus, quorum quinque per conuersionem et
+per impossibilitatem ad primos quatuor resoluuntur unus uero solus, id est quintus, per solam impossibilitate in priora
+resoluitur. Primus tertiae modus [827C] figurae in tertium primae figurae hoc modo resoluitur: [828B] Si enim prima
+propositio tertii modi primae figurae maneat, et secunda propositio particularis tertii modi prime figurae uniuersaliter
+conuertatur, et sit secunda propositio primi modi tertiae figurae, eadem conclusio, colligitur, id est affirmatio
+particularis.
+Omne bonum iustum est,
+- manet - Omne bonum iustum est,
+Quaedam uirtus bona est; - conu. - Omne bonum uirtus est;
+Quaedam uirtus iusta est. - manet - Quaedam uirtus iusta est.
+[827C] Vel certe sic, quia superius talem syllogismum diximus terminis commutatis, quem Aristoteles
+dissimilem [828C] non putat.
+Omne bonum uirtus est,
+- similes - Omne bonum uirtus est,
+Quoddam iustum bonum est;
+- conu. - Omne honum iustum est;
+Quoddam iustum uirtus est.
+- manet - Quoddam iustum uirtus est.
+[827C] Secundus modus tertiae figurae in quartum modum primae figura, hoc modo resoluitur. Si enim primae
+propositiones secundi tertiae figurae modi, et quarti modi primae figurae maneant, quarti uero modi primae [828C]
+figurae secunda propositio uniuersaliter conuertatur, et secunda sit proposilio secundi modi tertiae figurae, eadem
+conclusio procreatur.
+24
+
+

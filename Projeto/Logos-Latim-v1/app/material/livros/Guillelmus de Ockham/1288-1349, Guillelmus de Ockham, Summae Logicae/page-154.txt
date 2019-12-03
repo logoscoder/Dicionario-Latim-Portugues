@@ -1,0 +1,61 @@
+de talibus 'animalitas distinguitur ab homine', et sic de aliis. Quod autem talis distinctio formalis non sit ponenda
+in creaturis, probaui in primo libro Sententiarum, distinctione secunda.
+[2.03 QUID REQUIRITUR AD VERITATEM PROPOSITIONIS
+INDEFINITAE ET PARTICULARIS]
+INDEFINITAE ET PARTICULARIS]
+Viso quid sufficit ad ueritatem propositionis singularis, uidendum est quid requiritur ad ueritatem
+propositionis indefinitae et particularis.
+Viso quid sufficit ad ueritatem propositionis singularis, uidendum est quid requiritur ad ueritatem
+propositionis indefinitae et particularis.
+Et est primo sciendum quod si non uocetur propositio indefinita nec particularis nisi quando terminus
+sibiectus supponit personaliter, tunc semper indefinita et particularis conuertuntur, sicut istae conuertuntur
+'homo currit', 'aliquis homo currit'; 'animal est homo', 'aliquod animal est homo'; 'animal non est homo',
+'aliquod animal non est homo'. Et ad ueritatem talium sufficit quod subiectum et praedicatum supponant pro
+aliquo eodem, si sit propositio affirmatiua et non addatur signum uniuersale a parte praedicati; quod dico propter
+tales 'aliquod animal est omnis homo', 'aliquis angelus est omnis angelus'. Sed si talis sit negatiua, requiritur
+quod subiectum et praedicatum non supponant pro omni eodem, immo requiritur quod subiectum pro nullo
+supponat, uel quod supponat pro aliquo pro quo praedicatum non supponit. Et hoc quia ad ueritatem talium
+sufficit ueritas cuiuscumque singularis. Sicut ad ueritatem istius
+'aliquod animal est homo' sufficit ueritas istius 'hoc animal est homo' uel
+'illud animal est homo'; similiter ad ueritatem istius animal non est homo'
+sufficit ueritas istius 'hoc animal non est homo', quocumque demonstrato, et hoc quia semper ab
+inferiori ad superius est bona consequentia sine distributione. Et hoc debet intelligi quando superius praedicatur
+de inferiori, quia aliter de uirtute sermonis non arguitur ab inferiori ad superius. Et ideo si nullus homo nec
+aliquod animal sit nisi asinus, haec consequentia non ualet 'homo non est asinus, igitur aliquod animal non est
+asinus'. Similiter non sequitur 'homo albus non est animal, igitur homo non est animal' nisi ista propositio sit uera
+'homo albus est homo'. Tamen affirmatiue bene sequitur, siue superius praedicetur de inferiori siue non, quia
+semper, siue homo sit animal siue non, bene sequitur 'homo currit, igitur animal currit', similiter bene sequitur
+'homo albus est animal, igitur homo est animal', siue homo sit albus siue non. Sic igitur patet quomodo indefinita
+uel particularis est uera si subiectum supponat pro aliquo pro quo non supponit praedicatum. Hoc tame non
+semper requiritur, sed quandoque sufficit quod subiectum indefinitae uel particularis iiegatiuae pro nullo
+supponat. Sicut si nullus homo sit albus, haec est uera 'homo albus non est homo', et tamen subiectum pro nullo
+supponit, quia nec pro substantia nec pro accidente. Ex istis patet quod si ista propositio 'Deus generat Deum' sit
+indefinita, secundum unam opinionem superius dictam, debet simpliciter concedi quod Pater, qui est Deus,
+generat Deum. Et eodem modo de uirtute sermonis posset ista concedi 'Deus non generat Deum', quia haberet
+unam singularem ueram, scilicet 'Filius non generat Deum', similiter Spiritus Sanctus non generat Deum' -- Unde
+hic arguitur ab inferiori ad superius ‚eilius non generat Deum, igitur Deus non generat Deum' sicut hic 'iste
+angelus non intelligit, igitur angelus non intelligit'. Non tamen est intelligendum quod aliquid sit superius in
+Deo et aliquid inferius, quia ista sperioritas et inferioritas non est nis inter terminos, siue termini sint
+uoces siue conceptus siue intentiones animae. Tamen forte aliqui Sancti aliquando negant tales 'Deus non
+generat', 'Deus non spirat' propter aliquos haereticos, ne scilicet uideantur negare istam 'Deus generat Deum'.
+Tamen de uirtute sermonis non oportet secundum istam opinionem; secundum autem aliam opinionem aliter
+debet dici. Secundo sciendum quod qui ponit quod omnis propositio est indefinita in qua subicitur terminus
+communis sine signo, siue supponat personaliter siue simpliciter siue materialiter, consequenter debet dicere
+quod non semper particularis et indefinita conuertuntur. Et hoc quando subiectum indefinitae supponit
+simpliciter et subiectum particularis supponit personaliter; sicut istae duae non conuertuntur 'homo est species'
+et 'aliquis homo est species', quia in ista 'homo est species' potest
+'homo' supponere simpliciter, sed in ista 'aliquis homo est species' li homo propter hoc quod sibi additur
+signum particulare et non comparatur ad aliquid pertinens ad signum, non potest supponere nisi personaliter. Et
+ideo ista 'homo est species' est distinguenda, eo quod 'homo' potest supponere simpliciter uel personaliter; sed
+ista 'aliquis homo est species'
+non est distinguenda, quia li homo, propter hoc quod additur sibi signum particulare, non potest
+supponere in ista nisi tantum personaliter. Tamen in ista 'aliquis homo: componitur ex termino communi et signo
+particulari'
+potest supponere personaliter uel materialiter, et ideo ista et consimiles sunt distinguendae sed aliae
+non. Sed quid sufficit ad ueritatem talis indefinitae si sit indefinita? Dicendum quod ad ueritatem talis sufficit
+quod pro eodem supponant subiectum et praedicatum si sit affirmatiua, uel quod non supponant pro eodem si sit
+negatiua; sicut hoc sufficit ad ueritatem propositionis singularis, quia idem est iudicium de tali propositione et de
+propositione singulari. Et ideo communiter ponitur quod talis propositio est singularis, et potest poni satis
+154
+
+

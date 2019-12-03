@@ -1,0 +1,48 @@
+OPERA OMNIA
+SANCTI THOMAE AQUINATIS
+-----oOo----Textum electronicum praeparavit et indexavit
+Ricardo M. Rom n, S. R. E. Presbyterus
+Bonis Auris, MCMXCVIII
+
+|*DE_FALLACIIS
+(Dubiae authenticitatis)
+|+PR Prologus
+Quod duplex est modus ratiocinandi, scilicet rectus et non rectus.
+Quia logica est rationalis scientia, et ad ratiocinandum inventa; ratiocinari autem contingit recte et non recte:
+utrumque enim ad logici considerationem spectat, ut per rectam ratiocinationem ad rei veram cognitionem
+perveniat, et falsam ratiocinationem vitando errorem falsitatis evitet.
+Uterque ratiocinandi modus competit uni homini, et ad seipsum et ad alium. Nam et secum aliquis considerans
+potest recte et non recte ratiocinari, et cum alio conferens.
+Sed cum aliquis secum considerans ratiocinatur non recte, praeter intentionem hoc accidit quia nullus sui ipsius
+deceptionem intendit. Cum autem ad alium ratiocinatur non recte, contingit quandoque ex intentione
+ratiocinantis, cum scilicet aliquis de altero intendit vel experimentum sumere, vel victoriam habere ad sui
+gloriam.
+Ratiocinatio autem quae ad seipsum est, syllogismus solum dici potest, sive aliqua alia species argumentationis.
+Sed ratiocinatio quae est ad alterum, non solum est syllogismus vel argumentatio, sed disputatio: vertitur enim
+inter duos, scilicet inter opponentem et respondentem. Et ideo de falsis ratiocinationibus tractaturi, primo a
+disputatione incipiendum est.
+|+1 Capitulus 1: De disputatione in genere.
+Disputatio est actus syllogisticus unius ad alterum ad aliquod propositum ostendendum. Per hoc quod dicitur
+actus, tangitur disputationis genus; et per hoc quod dicitur syllogisticus, tangitur disputationis instrumentum,
+scilicet syllogismus, sub quo comprehenduntur omnes aliae species argumentationis et disputationis sicut
+imperfectum sub perfecto; et per hoc distinguitur disputatio ab actibus corporalibus, ut currere vel comedere; et
+ab actibus voluntariis, ut amare et odire.
+Nam per hoc quod dicitur syllogismus ostenditur esse actus rationis, per hoc autem quod dicitur unius ad alterum
+tanguntur duae personae opponentis et respondentis, inter quas vertitur disputatio; etiam hoc additur ad
+differentiam ratiocinationis quam habet qui secum ratiocinatur.
+Per hoc autem quod dicit ad propositum ostendendum tangitur disputationis effectus, sive terminus aut finis
+proximus, et per hoc distinguitur disputatio a syllogismis exemplaribus, qui non inducuntur ad ostendendum
+propositum aliquod, sed ad formam syllogisticam exemplificandam.
+|+2 Capitulus 2: De quatuor speciebus disputationis.
+Disputationis autem quatuor sunt species: scilicet doctrinalis, dialectica, tentativa et sophistica, quae etiam alio
+nomine dicitur litigiosa.
+Doctrinalis sive demonstrativa est quae ad scientiam ordinatur, procedens ex primis et veris et per se notis et
+propriis principiis illius scientiae de qua fit disputatio; et hoc vertitur inter docentem et addiscentem.
+Dialectica vero disputatio etiam est ex probabilibus procedens, et ad opinionem vel propositum tendens.
+Probabilia autem dicuntur quae videntur omnibus aut pluribus vel sapientibus, et his autem omnibus vel
+praecipuis et maxime notis.
+Tentativa autem disputatio est quae ordinatur ad experimentum sumendum de aliquo per ea quae videntur
+respondenti.
+1
+
+

@@ -1,0 +1,62 @@
+Vel ita:
+Atqui cum non sit c, non est d; Cum igitur non sit a, est b.
+Vel ita:
+Atqui cum non sit c, est d; Cum igitur non sit a, non est b.
+Ex sexta decima propositione:
+Si cum non est a, non est b, cum non sit c, non est d; Atqui cum non sit a, non est b; Cum igitur non sit c, non
+est d.
+Vel ita:
+Atqui cum non sit c, est d; Cum igitur non sit a, est b.
+[3.10.1] Ex quibus omnibus quodraginta conclusiones fiunt: sedecim quidem assumpta prima conditione, ita ut
+in prima propositione est posita; sedecim uero assumpta secunda conditione, contrario modo atque in propositione est
+collocata; octo uero ex quinta, septima, tertia decima et quinta decima propositionibus fiunt, assumptis primis quidem
+conditionibus contrario modo atque in propositione proferebantur, secundis uero conditionibus eodem modo assumptis,
+ut in propositione fuerant collocatae.
+[3.10.2] Ut igitur omnium propositionum conclusionumque ratio clarescat, omnes huiusmodi enuntiationes
+cum propositis apposuimus exemplis.
+o Si cum est a homo, est b medicus, cum sit c animatum, est d artifex.
+/378/
+o Si cum est a homo, est b niger, cum sit c animatum, non est d albus.
+o Si cum est a animatum, est b medicus, cum non sit c inanimatum, est d artifex.
+o Si cum est a homo, est b niger, cum non sit c inanimatum, non est d albus.
+o Si cum est a homo, non est b aeger, cum sit c animatum, est d sanus.
+o Si cum est a homo, non est b artifex, cum sit c animatum, non est d medicus.
+o Si cum est a animatum, non est b sanum, cum non sit c inanimatum, est d aegrum.
+o Si cum est a animatum, non est b artifex, cum non sit c inanimatum, non est d medicus.
+o Si cum non est a inanimatum, est b medicus, cum sit c animatum, est d artifex.
+o Si cum non est a inanimatum, est b niger, cum sit c animatum, non est d albus.
+o Si cum non est a inanimatum, est b medicus, cum non sit c inuitale, est d artifex.
+o Si cum non est a inanimatum, est b albus, cum non sit c inuitale, non est d nigrum.
+o Si cum non est a irrationale, non est b aegrum, cum sit c rationale, est d sanum. /380/
+o Si cum non est a inanimatum, non est b artifex, cum sit c animatum, non est d medicus.
+o Si cum non est a irrationale, non est b sanum, cum non sit inanimatum, est d aegrum.
+o Si cum non est a inanimatum, non est b artifex, cum non sit c inuitale, non est d medicus.
+[3.10.3] Ac de his quidem qui per connexionem fiunt haec dicta sunt.
+Hi uero qui in disiunctione sunt positi illis uidentur adiuncti, eorumque modos formasque suscipiunt, quos
+superius in connexione positos ex his propositionibus fieri diximus quae duabus simplicibus iungerentur. Si igitur in
+disiunctione propositarum propositionum ad eas similitudinem demonstrauerim quae in connexione positae ex
+simplicibus copulatae sunt, quot modi qualesque conclusiones sunt in unaquaque illarum quae per connexionem fiunt
+propositionum, tot etiam in his esse necesse est quae per disionctionem pronuntiatae eamdem uim connexioni habere
+monstrantur. Quatuor ergo superius differentias per connexionem enuntiatarum propositionum esse diximus, si ex
+simplicibus propositionibus copularentur, hoc modo:
+Si est a, est b
+Si non est a, non est b
+Si est a, non est b
+Si non est a, est b.
+[3.10.4] Per disiunctionem quoque propositiones quatuor diderentias tenent hoc modo:
+Aut a est aut b est
+Aut a non est aut b non est
+Aut a est aut b non est
+Aut a non est aut b est.
+Quarum quidem ea quae prima est et proponit aut a esse aut b, in his tantum dici potest in quibus alterum
+eorum esse necesse est, uelut in contrariis medietate carentibus, /382/ similisque est ei propositioni quae dicit:
+Si a non est, b est.
+Quae enim proponit:
+Aut a est aut b est
+id intellegit, neque simul utraque esse posse, et, si unum non fuerit, consequi ut sit alterum. Itaque si non sit a,
+erit b; sed haec una est earum propositionum quas in his quae per connexionem fiunt superius numerauimus.
+[3.10.5] Quicumque igitur syllogismi in ea propositione fiunt, quae est:
+Si a non est, b est
+hi etiam in ea faciendi sunt quae per disiunctionem proponitur, cum dicimus:
+
+

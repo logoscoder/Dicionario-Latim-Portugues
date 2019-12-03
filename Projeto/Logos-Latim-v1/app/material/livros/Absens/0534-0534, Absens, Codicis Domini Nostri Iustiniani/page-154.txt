@@ -1,0 +1,61 @@
+Liber quartus
+
+* 4.1.0. De rebus creditis et de iureiurando.
+* 4.2.0. Si certum petatur.
+* 4.3.0. De suffragio.
+* 4.4.0. De prohibita sequestratione pecuniae.
+* 4.5.0. De condictione indebiti.
+* 4.6.0. De condictione ob causam datorum.
+* 4.7.0. De condictione ob turpem causam.
+* 4.8.0. De condictione furtiva.
+* 4.9.0. De condictione ex lege et sine causa vel iniusta causa.
+* 4.10.0. De obligationibus et actionibus.
+* 4.11.0. Ut actiones et ab herede et contra heredem incipiant.
+* 4.12.0. Ne uxor pro marito vel maritus pro uxore vel mater pro filio conveniatur.
+* 4.13.0. Ne filius pro patre vel pater pro filio emancipato vel libertus pro patrono conveniatur.
+* 4.14.0. An servus ex suo facto post manumissionem teneatur.
+* 4.15.0. Quando fiscus vel privatus debitoris sui debitores exigere potest.
+* 4.16.0. De actionibus hereditariis.
+* 4.17.0. Ex delictis defunctorum in quantum heredes conveniantur.
+* 4.18.0. De constituta pecunia.
+* 4.19.0. De probationibus.
+* 4.20.0. De testibus.
+* 4.21.0. De fide instrumentorum et amissione eorum et antapochis faciendis (..)
+* 4.22.0. Plus valere quod agitur quam quod simulate concipitur.
+* 4.23.0. De commodato.
+* 4.24.0. De actione pigneraticia.
+* 4.25.0. De exercitoria et institoria actione.
+* 4.26.0. Quod cum eo qui in aliena est potestate negotium gestum esse dicitur, vel de peculio (..)
+* 4.27.0. Per quas personas nobis adquiritur.
+* 4.28.0. Ad senatus consultum Macedonianum.
+* 4.29.0. Ad senatus consultum Velleianum.
+* 4.30.0. De non numerata pecunia.
+* 4.31.0. De compensationibus.
+* 4.32.0. De usuris.
+* 4.33.0. De nautico fenore.
+* 4.34.0. Depositi.
+* 4.35.0. Mandati.
+* 4.36.0. Si servus se emi mandaverit.
+* 4.37.0. Pro socio.
+* 4.38.0. De contrahenda emptione.
+* 4.39.0. De hereditate vel actione vendita.
+* 4.40.0. Quae res venire non possunt et qui vendere vel emere vetantur.
+* 4.41.0. Quae res exportari non debeant.
+* 4.42.0. De eunuchis.
+* 4.43.0. De patribus qui filios distraxerunt.
+* 4.44.0. De rescindenda venditione.
+* 4.45.0. Quando liceat ab emptione discedere .
+* 4.46.0. Si propter publicas pensitationes venditio fuerit celebrata.
+* 4.47.0. Sine censu vel reliquis fundum comparari non posse.
+* 4.48.0. De periculo et commodo rei venditae.
+* 4.49.0. De actionibus empti et venditi.
+* 4.50.0. Si quis alteri vel sibi sub alterius nomine vel aliena pecunia emerit.
+* 4.51.0. De rebus alienis non alienandis et de prohibita rerum alienatione vel hypotheca.
+* 4.52.0. De communium rerum alienatione.
+* 4.53.0. Rem alienam gerentibus non interdici rerum suarum alienatione.
+* 4.54.0. De pactis inter emptorem et venditorem compositis.
+* 4.55.0. Si servus exportandus veneat.
+* 4.56.0. Si mancipium ita venierit, ne prostituatur.
+154
+
+

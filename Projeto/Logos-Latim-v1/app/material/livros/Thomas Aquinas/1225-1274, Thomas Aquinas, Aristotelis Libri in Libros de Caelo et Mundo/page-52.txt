@@ -1,0 +1,58 @@
+|+24 Lectio 24
+|#1 Postquam Philosophus prosecutus est opiniones aliorum circa propositam quaestionem de mundo, an sit
+genitus et corruptibilis, hic prosequitur praedictam quaestionem secundum suam opinionem.
+Et primo praemittit quaedam quae sunt necessaria ad investigationem propositi; secundo prosequitur propositam
+quaestionem, ibi: determinatis autem his etc.. Circa primum duo facit: primo distinguit multiplicitatem horum
+nominum, quibus utitur in quaestione, scilicet geniti et ingeniti, corruptibilis et incorruptibilis; secundo distinguit
+multiplicitatem quorundam nominum, quae in praedictorum definitione cadunt, scilicet possibilis et impossibilis,
+ibi: si itaque haec sic habent etc.. Circa primum duo facit: primo dicit de quo est intentio; secundo propositum
+prosequitur, ibi: dicitur autem ingenitum etc..
+Circa primum duo facit. Primo dicit de quo est intentio: et dicit quod circa inquisitionem praedictae quaestionis,
+primo oportet distinguere quibus modis aliqua dicuntur generabilia et ingenerabilia, et iterum corruptibilia et
+incorruptibilia.
+|#2 Deinde cum dicit: multipliciter enim dictis etc., assignat rationem suae intentionis. Et dicit quod quando
+aliqua multipliciter dicuntur, contingit quandoque quod illa multiplicitas nullam differentiam inducat quantum ad
+rationem quae proponitur, quando scilicet in illa ratione sumitur nomen solum in una significatione: tunc enim
+multiplicitas differentiam facit in ratione, quando nomen sumitur in diversis significationibus. Sed tamen, licet
+nulla differentia fiat quantum ad rationem, tamen intellectus audientis confuse se habet, si aliquis utatur nomine
+quod multipliciter potest distingui, tanquam distingui non posset: quia quando aliquis utitur indistincte nomine
+multiplici, non est manifestum secundum quam naturam significatam accidit conclusio.
+|#3 Deinde cum dicit: dicitur autem ingenitum etc., distinguit praedicta nomina: et primo ingenitum et genitum;
+secundo corruptibile et incorruptibile, ibi: et corruptibile autem etc..
+Circa primum duo facit: primo distinguit hoc nomen ingenitum; secundo hoc nomen genitum, ibi: eodem autem
+modo etc..
+Ponit autem primo quod hoc nomen ingenitum dicitur tribus modis. Quorum primus est prout dicitur aliquid
+ingenitum, quod quidem nunc est, sed prius non erat, ita tamen quod hoc contingat sine generatione et
+transmutatione eius quod esse incipit; sicut aliqui ponunt exemplum de eo quod est tangi et moveri; dicunt enim
+quod tactum et motum non contingit generari.
+Et hoc probatum est in V physic., quia, cum generatio sit quaedam species motus sive transmutationis, si motus
+generaretur, sequeretur quod mutationis esset mutatio. Sic ergo tactus et motus, licet esse incipiant, tamen
+dicuntur ingenita, quia non generantur, nec nata sunt generari.
+Secundo modo dicitur aliquid esse ingenitum, quod quidem contingit fieri vel non fieri, et tamen nondum est
+factum; sicut hominem qui nascetur cras, contingit in futurum fieri vel non fieri, et tamen dicitur ingenitus, quia
+nondum est natus.
+Similiter enim et hoc potest dici ingenitum, quasi non genitum, quod contingit generari, quia nondum est
+generatum, sicut et illud quod non contingit generari.
+Tertio modo dicitur aliquid ingenitum, quod omnino impossibile est fieri hoc modo ut quandoque sit et
+quandoque non sit, sive per generationem sive quocumque alio modo; et secundum hoc ingenita dicuntur quae
+non possunt esse, vel quae non possunt non esse. Hic autem modus distinguitur in duos: nam impossibile esse
+seu fieri dicitur dupliciter; uno modo absolute, quando scilicet simpliciter non est verum dicere quod hoc
+aliquando fiat; secundo modo prout dicitur aliquid impossibile fieri, quia non de facili potest fieri; et hoc quia
+non cito potest fieri, vel quia non est bene factibile, sicut si dicamus aliquod malum ferrum non esse bene
+fabricabile.
+|#4 Ad evidentiam autem horum modorum, considerandum est quod generatio importat aliquid commune, quod
+est incipere esse; et etiam importat determinatum modum essendi, scilicet per transformationem. Negatio igitur
+quae importatur hoc nomine ingenitum, uno modo potest negare utrumque, scilicet incoeptionem et modum
+incipiendi; vel potest solum negare modum incipiendi.
+Et utrumque contingit dupliciter: uno modo secundum actum, alio modo secundum potentiam.
+Si igitur praedicta negatio non neget incoeptionem, sed solum modum incipiendi, sic est primus modus,
+secundum quem dicitur aliquid ingenitum, quod potest incipere esse, sed non per generationem.
+Si vero neget non potentiam, sed solum actum, ut puta quia potest incipere esse et potest generari, non tamen
+adhuc incoepit esse vel est generatum, sic est secundus modus. Si vero non solum neget modum incipiendi, sicut
+in primo modo, nec solum actum generationis, sicut in secundo, sed simul modum incoeptionis et incoeptionem,
+et quantum ad actum et quantum ad potentiam; sic est tertius modus, qui est perfectissimus, secundum quem
+proprie et simpliciter dicitur aliquid ingenitum; quamvis et hic modus distinguatur secundum quod possibile
+dicitur aliquid vel simpliciter vel secundum quid.
+52
+
+

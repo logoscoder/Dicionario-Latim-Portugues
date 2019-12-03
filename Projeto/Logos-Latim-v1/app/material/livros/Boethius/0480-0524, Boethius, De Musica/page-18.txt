@@ -1,0 +1,61 @@
+primus superparticularis; 6 ad duos triplus, qui secuudus est multiplex: quod si triplum sesquitertio addas, quadruplus
+efficitur; si quadruplum sesquiquarto, quincuplus. Atque in hunc modum iunctis proportionibus multiplicium ac
+superparticularium, in infinitum multiplices procreantur.
+XII
+De arithmetica, geometrica, harmonica medietate.
+Quoniam uero de proportionibus quae erant interim tractanda praediximus, nunc de medietatibus est
+dicendum. Proportio enim est duorum ad se terminorum quaedam comparatio, terminos autem uoco numerorum
+summas. Proportionalitas est aequarum proportionum collectio. Proportionalitas uero in tribus terminis minimis
+constat.
+Constat autem plerumque in pluribus, ut in quatuor uel in sex terminis. Cum enim primus ad secundum
+terminum eamdem retinet proportionem quam secundus ad tertium, dicitur haec proportionalitas.
+Estque inter tres terminos medius, qui secundus est. Has igitur proportiones medii termini coniungentis, trina
+partitio est- Aut enim aequa est differentia minoris termini ad medium, et medii ad maximum sed non aequa proportio,
+ut in his numeris 1, 2, 3; inter unum quippe ac duo et inter duo et tres tantum unitas differentiam tenet. Non est autem
+aequa proportio. Duo quippe ad unum dupli sunt, ternarius ad duo sesquialter. Aut est aequa proportio iu utrisque, non
+uero aequalibus differentiis constituta, ut in his numeris 1, 2, 4. Nam duo ad unum ita sunt dupli, quemadmodum
+quaternarius ad binarium. Sed inter quaternarium binariumque binarius, inter binarium atque unitatem unitas
+differentiam facit. Est uero tertium medietatis genus, quod neque eisdem proportionibus neque eisdem differentiis
+constat. Sed quemadmodum se habet maximus terminus ad minimum, ita sese habet maiorum terminorum differentia
+ad minorum differentiam terminorum, ut in his numeris 3, 4, 6. Nam sex ad 3 duplus est, inter sex uero 4
+binarius interest. Inter quaternarium uero ac ternarium unitas. Sed binarius comparatus ad unitatem rursus
+duplus est; ergo ut est maximus terminus in numeris ad minimum, ita maiorum differentia ad minorum differentiam
+terminorum. Vocatur igitur illa medietas, in qua aequae sunt differentiae, arithmetica. Illa uero in qua aequae
+proportiones, geometrica. Illa autem quam [1206] tertiam descripsimus, harmonica.
+Quarum haec subiiciamus exempla:
+[PLLXIII:1206; text: Arithmetica, Geometrica, Harmonica, 1, 2, 3, 4, 6, aequae differentiae, aequae
+proportiones, diuersae differentiae et proportiones] [BOEDIM2 03GF]
+Non uero ignoramus alias quoque esse proportionum medietates, quas quidem in arithmetica diximus; sed ad
+praesentem tractatum hae sunt interim necessariae. Sed inter has tres medietates proportionalitas quidem proprie, et
+maxime geometrica nuncupatur, idcirco quoniam aequis proportionibus tota contexitur. Sed tamen eodem utemur
+promiscue uocabulo, proportionalitates etiam caeteras nuncupantes.
+XIII
+De continuis medietatibus et disiunctis.
+Sed in his alia continua est proportionalitas, alia disiuncta.
+Continua quidem, ut superius disposuimus. Unus enim idemque numerus medius, nunc quidem maiori
+supponitur, nunc quidem minori praeponitur.
+Quotiens uero duo sunt medii, tunc disiuncta proportionalitas nuncupatur, ut in geometrica hoc modo, 1, 2, 3,
+6. Nam ut est binarius ad unitatem, ita senarius ad ternarium, et uocatur haec disiuncta proportionalitas; unde intelligi
+potest continuam quidem proportionalitatem in tribus et minimis terminis inueniri, disiunctam uero in 4. Potest autem
+in 4 et in pluribus continua esse proportionalitas, siquidem hoc modo sit, 1, 2, 4, 8, 16. Sed hic non erunt duae
+proportiones sed plures, semperque una minus quam sint termini constituti.
+XIV
+Cur ita appellatae sint digestae superius medietates.
+Idcirco autem una eorum medietas arithmetica nuncupatur, quod inter terminos, secundum numerum aequa est
+differentia. Geometrica uero secunda dicitur, quod similis est qualitas proportionis. Harmonica autem uocatur, quoniam
+ita est coaptata, ut in differentiis ac terminis aequalitas proportionum consideretur. Et de his quidem diligentius in
+arithmeticis disputatum est, nunc uero ut commemoremus, tantum ista percurrimus.
+XV
+Quemadmodum ab aequalitate supradictae processerant medietates.
+Sed paulisper quemadmodum istae proportionalitates ab aequalitate procreantur dicendum est. Praedictum est
+enim quod in numero ualet unitas, idem in proportionibus aequalitatem ualere, et sicut numeri caput est unitas, ita
+proportionum aequalitatem esse principium.
+Quocirca hoc modo arithmetica medietas ab aequalitate nascetur: positis enim tribus aequis terminis, hi duo
+modi sunt quibus haec proportionalitas producatur. Ponatur enim primus primo aequus.
+Secundus primo et secundo. Tertius primo secundo ac tertio, quod hoc monstratur exemplo: Sint unitates tres.
+Ponatur igitur primus primo aequus [1207] id est unus. Secundus primo ac secundo, id est duo.
+Tertius primo secundo ac tertio, id est tres, eritque dispositio talis:
+111
+123
+
+

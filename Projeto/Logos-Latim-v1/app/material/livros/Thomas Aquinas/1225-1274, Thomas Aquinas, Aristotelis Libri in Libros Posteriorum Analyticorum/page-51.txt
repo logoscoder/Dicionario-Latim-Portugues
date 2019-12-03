@@ -1,0 +1,57 @@
+Demonstretur ergo haec propositio, nullum c est b, sic quod d universaliter praedicetur de b, maiori existente
+universali affirmativa, et negetur universaliter de c, minori existente universali negativa. Si iterum haec
+propositio, nullum c est d, est mediata, necesse erit accipere aliquod aliud medium, quod etiam praedicetur de d
+universaliter, et universaliter removeatur a c. Et ita, sicut proceditur in negativis demonstrationibus, oportebit
+procedere in affirmativis, scilicet quod b praedicabitur de a, et d de b, et aliquid aliud de d; et sic procedetur in
+infinitum in affirmativis. Quia ergo supponitur quod in affirmativis stetur in sursum, necesse est etiam quod
+stetur in negativis, secundum hunc modum, quo negativa demonstratur in secunda figura.
+|#9 Deinde cum dicit: tertius autem est etc., ostendit idem in tertia figura. Sit ergo medium, ut b, de quo a
+universaliter praedicetur, c vero ab eo removeatur: sequitur particularis negativa, scilicet quod c negetur a
+quodam a. Et quod quidem in praemissa affirmativa, quae est, omne b est a, stetur, habetur ex suppositione; quod
+autem necesse sit stare etiam in hac negativa, nullum b est c, quae est maior, patet, quia si hoc debeat
+demonstrari, necesse est quod vel demonstretur per superius dicta, idest per primam et secundam figuram, vel
+demonstrabitur similiter sicut concludebatur conclusio, scilicet per tertiam figuram: ita tamen quod haec maior
+non assumatur ut universalis, sed ut particularis. Illo autem modo statur, scilicet si procedatur in prima et in
+secunda figura. Si autem procedatur in tertia figura ad concludendum, quoddam b non esse c, accipiatur medium
+e, de quo quidem b universaliter affirmetur, c vero ab eo particulariter negetur. Et hoc iterum similiter continget,
+quod secundum hoc procedetur in demonstratione negativa semper secundum augmentum praedicationis
+affirmativae in inferius: quia b, quod erat primum medium, praedicabitur de e, et e de quodam alio, et sic in
+infinitum. Quia igitur supponitur statum esse in affirmativis in deorsum, manifestum est quod stabitur in
+negativis ex parte ipsius c.
+|#10 Deinde cum dicit: manifestum autem est etc., excludit quamdam obviationem. Posset enim aliquis dicere
+quod necesse est stare in demonstrationibus negativis, statu existente in affirmativis, si semper syllogizetur
+secundum eamdem figuram; sed potest in infinitum procedi, si nunc demonstretur per unam figuram, nunc per
+aliam. Et dicit, manifestum est quod si non procedatur in demonstrationibus una via, sed omnibus, aliquando
+quidem ex prima figura, aliquando autem ex secunda vel tertia, sic etiam oportebit statum esse in negativis, statu
+existente in affirmativis. Huiusmodi enim viae diversae demonstrandi sunt finitae, et quaelibet earum
+multiplicatur non in infinitum, sed finite ascendendo vel descendendo, ut ostensum est. Si autem finita finities
+accipiantur, necesse est totum esse finitum. Unde relinquitur quod omnibus modis necesse sit in
+demonstrationibus negativis esse statum, si sit status in affirmativis.
+|+33 Lectio 33
+|#1 Postquam Philosophus ostendit quod si sit status in extremis, necesse est esse statum in mediis, et si sit
+status in affirmativis, necesse est esse statum in negativis; hic intendit ostendere quod sit status in affirmativis in
+sursum et deorsum.
+Et dividitur in duas partes: in prima parte, ostendit propositum logice, idest per rationes communes omni
+syllogismo, quae accipiuntur secundum praedicata communiter sumpta; in secunda, ostendit idem analytice, idest
+per rationes proprias demonstrationi, quae accipiuntur secundum praedicata per se, quae sunt demonstrationi
+propria; ibi: analytice autem manifestum etc.. Prima autem pars dividitur in duas partes: in prima, ostendit quod
+non sit procedere in infinitum in praedicatis, quae praedicantur in eo quod quid; in secunda, ostendit quod non sit
+procedere in infinitum universaliter in praedicatis affirmativis; ibi: universaliter autem sic dicimus etc..
+|#2 Dicit ergo primo, quod cum ostensum sit quod in privativis non est ire in infinitum, si stetur in affirmativis;
+hic iam manifestum erit quomodo aliqui speculantur in illis, idest in affirmativis, esse statum per logicas
+rationes. Et dicuntur hic logicae rationes, quae procedunt ex quibusdam communibus, quae pertinent ad
+considerationem logicae. Haec autem veritas manifesta est in his, quae praedicantur in eo quod quid est, idest in
+praedicatis, ex quibus quod quid est, idest definitio constituitur. Si enim huiusmodi praedicata dentur esse
+infinita, sequitur et quod non contingat definire aliquid, et quod si definitur aliquid, eius definitio non possit esse
+nota. Et hoc ideo, quia infinita non est pertransire. Non autem contingit definiri, neque definitionem cognosci,
+nisi descendendo perveniatur usque ad ultimum, et ascendendo perveniatur usque ad primum.
+Si ergo contingit aliquid definire, vel si contingit definitionem alicuius esse notam, ex utroque antecedenti
+sequitur hoc consequens, quod in praedictis praedicatis non sit procedere in infinitum, sed in eis contingat stare.
+|#3 Deinde cum dicit: universaliter autem sic etc., ostendit universaliter quod in praedicatis affirmativis non sit
+procedere in infinitum. Et circa hoc duo facit: primo, quaedam praemittit, quae sunt necessaria ad propositum
+ostendendum; secundo, ostendit propositum; ibi: amplius si non est etc..
+Circa primum duo facit: primo, distinguit praedicata per accidens a praedicatis per se; secundo, distinguit
+praedicata per se ad invicem; ibi: quare autem in eo quod quid est etc.. Dicit ergo primo, quod cum ostensum sit
+51
+
+

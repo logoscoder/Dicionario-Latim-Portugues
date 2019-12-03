@@ -1,0 +1,63 @@
+292 professionis V630; V1341; E97
+293 superiore W411
+294 condemnetur W411
+295 Rubrik fehlt V630; E97
+296 nequaquam E97
+297 siluerunt W411
+298 consilia W411
+299 tam W411
+300 eam O93
+301 condemnentur korr. aus condemnetur V630; W411; V1341
+302 quoniam fehlt V630; V1341
+303 existit E97
+304 hii W411; ii E97
+305 religioso korr. aus religiosos V630; relegioso W411
+306 manu O93; E97
+307 deducit vel adduxit] deduxit E97
+308 redibiba W411
+309 sorde W411
+310 revocet korr. aus revocent O93; revocent W411
+311 causa V630; V1341; E97
+312 sanct• W411
+313 qui E97
+314 ingeniorum W411
+315 si fehlt V630; W411; V1341; E97
+316 habito W411
+317 relegioso W411
+318 aut redierint fehlt V630; V1341
+319 prehensi V1341
+320 fieri V630; V1341
+321 alicuius V1341; E97
+322 vigore W411
+323 non poterit] difficile fuerit V630; W411; V1341; E97
+324 canorum W411
+325 et anthemate condemnati fehlt W411
+326 Sed W411
+327 hii W411; ii E97
+328 communionem V630; W411; V1341; excommunicationem korr. aus communicationem E97
+329 noluerit korr aus noluerint O93; noluerint W411
+330 ut fehlt W411; V1341
+331 Similis W411
+332 Rubrik fehlt V630; E97
+333 est patris] patris est E97
+334 patri W411
+335 etate W411
+336 aduliscentia W411
+337 formida W411
+338 causam W411
+339 penitentia W411
+340 coniugatus] coniugatus et W411
+341 adulteri W411
+342 incurruat W411
+343 di W411
+344 aequo korr. aus aequi O93; aquo W411
+345 hoc fehlt W411
+346 legitime W411
+347 et W411
+348 actione W411
+349 hiis W411
+350 ante E97
+351 consensu] consensu alter E97
+11
+
+

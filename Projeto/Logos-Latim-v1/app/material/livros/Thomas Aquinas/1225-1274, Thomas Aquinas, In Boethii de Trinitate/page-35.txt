@@ -1,0 +1,63 @@
+Praeterea, quaelibet species ignis est corpus. Sed lux est quaedam species ignis, ut dicit Philosophus in V
+topicorum. Ergo lux est corpus. Et sic idem quod prius.
+AG5
+Praeterea, in ferro ignito simul est ignis et ferrum. Utrumque autem est corpus. Ergo possibile est simul esse duo
+corpora in eodem loco.
+AG6
+Praeterea, elementa in mixto non sunt corrupta, alias mixtum non sequeretur dominantis motum. Sed omnia
+quattuor elementa sunt corpora et simul in qualibet parte mixti. Ergo possibile est duo corpora esse in eodem
+loco.
+AG7
+Praeterea, quod duo corpora non sint in eodem loco, hoc non potest convenire corporibus ratione materiae, cum
+materiae secundum se non debeatur locus, nec ratione formae propter idem nec ratione dimensionis, cum
+dimensiones non repleant locum, quod patet ex hoc quod quidam locum, ubi erant solae dimensiones, dicebant
+esse vacuum.
+Ergo hoc non convenit corpori nisi ratione aliquorum accidentium posteriorum, quae non sunt omnibus
+corporibus communia et quae possibile est a corporibus separari. Et sic videtur quod duo corpora possint esse in
+eodem loco.
+AG8
+Praeterea, secundum astrologos, qui sequuntur Ptolemaeum, sex planetarum corpora moventur in epicyclis, qui
+sunt circuli intersecantes sphaeras excentricas planetarum. Oportet ergo quod planetae corpus quandoque
+perveniat ad locum sectionis. Sed non potest dici quod ibi sit aliquid vacuum, cum vacuum natura non patiatur,
+neque quod substantia sphaerarum sit divisibilis, ut intelligatur cedere corpori planetae quando pervenit illuc,
+sicut cedit aer lapidi aut alii corpori, cum caeli solidissimi quasi aere fundati sint, ut dicitur iob 37. Ergo oportet
+quod corpus planetae sit simul cum corpore sphaerae eius in eodem loco. Et sic falsum est quod dicit Boethius
+hic quod duo corpora numquam unum obtinent locum.
+SC1
+Sed contra est, quia si duo corpora sunt in eodem loco, eadem ratione et quotlibet. Sed aliquod corpus
+quantumcumque magnum potest dividi in parva cuiuscumque quantitatis secundum aliquem numerum.
+Ergo sequetur quod in loco parvissimo continebitur maximum corpus; quod videtur absurdum.
+SC2
+Praeterea, impossibile est inter duo puncta signata esse plures lineas rectas. Hoc autem sequetur, si duo corpora
+sint in eodem loco.
+Signatis enim duobus punctis ex duabus partibus loci oppositis erunt inter ea duae lineae rectae signatae in
+duobus corporibus locatis.
+Non enim potest dici quod inter illa duo puncta nulla sit linea neque quod unius locati linea magis sit inter ea
+quam alia neque quod sit ibi aliqua una linea praeter corpora locata quae sit inter duo puncta loci, quia sic illa
+linea esset non in subiecto. Ergo impossibile est duo corpora esse in eodem loco.
+SC3
+Praeterea, demonstratum est in geometria quod duo circuli non se contingunt nisi in puncto. Sed ponamus duo
+corpora quae sunt in eodem loco; sequetur quod duo circuli signati in eis se secundum totum contingunt. Ergo
+impossibile est duo corpora esse in eodem loco.
+SC4
+Praeterea, quaecumque uni et eidem sunt eadem, sibi invicem sunt eadem. Sed cum oporteat eandem esse
+dimensionem loci et locati ex eo quod non est ponere dimensiones sine subiecto, si duo corpora sint in eodem
+loco, sequetur dimensiones utriusque corporis esse easdem dimensionibus loci. Ergo sequetur eas esse easdem ad
+invicem, quod est impossibile.
+CO1
+Responsio. Dicendum quod in his quae apud nos sunt, quae omnes esse corpora confitentur, ad sensum videmus
+quod adveniente uno corpore ad locum aliquem aliud corpus a loco illo expellitur. Unde experimento patet
+talium corporum duo in eodem loco esse non posse.
+Quidam autem dicunt quod non prohibentur duo horum corporum ab hoc, quod sint simul, propter corporeitatem
+vel propter aliquid quod sit de ratione corporis, in quantum est corpus; sic enim sequeretur omnino duo corpora
+prohiberi ab hoc quod est esse simul. Sed dicunt quod ab hoc prohibentur propter corpulentiam ipsorum. Sed
+quidquid sit hoc quod corpulentiam nominant, sive sit densitas sive impuritas vel corruptibilitas aliquorum
+corporum vel etiam aliqua natura specialis naturae generali corporeitatis superaddita, non potest esse causa huius
+prohibitionis.
+CO2
+Invenitur enim duplex comparatio corporis ad locum. Una, secundum quam ponitur in loco hoc vel illo
+determinato; et haec comparatio sequitur naturam specialem huius vel illius corporis, sicut quod gravia ex natura
+gravitatis sunt deorsum, levia vero sursum ex natura levitatis.
+35
+
+

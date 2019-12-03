@@ -1,0 +1,60 @@
+65 toletana E97
+66 Patronus, Marcellus, Alicianus, Afrodosius, Iocundus, Olimpius, Severus, Articius, Leonas, Asturius, Helarius, Lampius,
+Serenus, Florus, Leporius, Eustocius, Aurelianus, Lampadius, Exsuperantius] patrono, marcello, aliciano, aflodosio,
+iocundo, olimpio, severo, articio, leona, asturio, hilario, lampio, sereno, floro, leporio, eustochio, aureliano, lampadio,
+exsuperantio E97
+67 Alacianus W411
+68 Afrodisius W411; Afrodosius korr. aus Afrodisius V1341
+69 Ilarius W411
+70 Lampius] Lampadius Exsuperantius V630
+71 Lampius V630
+72 Exsuperantius fehlt V630
+73 gallia V630; V1341; E97
+74 Lucencius is] Lucenciosis W411
+75 actus est fehlt W411
+76 nove W411
+77 qui korr. aus que V630
+78 et fehlt E97
+79 contra E97
+80 priscialiani W411
+81 heresim E97
+82 liberalem E97
+83 dire W411
+84 ceteri W411
+85 intereant E97
+86 Patruinus W411
+87 Quoniam] I capt. Quoniam E97
+88 scismam W411
+89 quid korr. aus qui W411
+90 placet] placet et W411
+91 constituta W411
+92 perpetuo W411; E97
+93 conservandam W411
+94 ab hoc esse] abisese W411
+95 recidendum W411
+96 Universi fehlt W411
+97 omnibus W411
+98 cognitas gestas] cognitis gestis V630; W411; V1341; E97
+99 nicenii W411
+100 corruptionem O93
+101 I fehlt O93; II E97
+102 Placuit] Placuit ut V630; V1341; E97
+103 si fehlt W411
+104 sunt E97
+105 continentis korr. aus continetis W411
+106 quod] quod per V630; W411; E97; quod perro V1341
+107 priores ante] plus ita W411
+108 episcopos V630; V1341
+109 uxoribus] uxoribus suis W411
+110 vixerunt E97
+111 presbyterii E97
+112 commulentur W411
+113 praelio O93; presbyterio W411
+114 episcopatum] episcopo pactum W411
+115 amittatur W411
+116 III E97
+117 ITA W411
+118 ut] ut ad W411
+6
+
+

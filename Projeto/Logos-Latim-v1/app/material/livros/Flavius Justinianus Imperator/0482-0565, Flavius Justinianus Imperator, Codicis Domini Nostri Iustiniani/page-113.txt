@@ -1,0 +1,56 @@
+Liber tertius
+* 3.1.0. De iudiciis.
+* 3.2.0. De sportulis et sumptibus in diversis iudiciis faciendis et de exsecutoribus litium.
+* 3.3.0. De pedaneis iudicibus.
+* 3.4.0. Qui pro sua iurisdictione iudices dare darive possunt.
+* 3.5.0. Ne quis in sua causa iudicet vel sibi ius dicat.
+* 3.6.0. Qui legitimam personam in iudiciis habent vel non.
+* 3.7.0. Ut nemo invitus agere vel accusare cogatur.
+* 3.8.0. De ordine iudiciorum.
+* 3.9.0. De litis contestatione.
+* 3.10.0. De plus petitionibus.
+* 3.11.0. De dilationibus.
+* 3.12.0. De feriis.
+* 3.13.0. De iurisdictione omnium iudicum et de foro competenti.
+* 3.14.0. Quando imperator inter pupillos vel viduas vel miserabiles personas cognoscat (..)
+* 3.15.0. Ubi de criminibus agi oportet.
+* 3.16.0. Ubi de possessione agi oportet.
+* 3.17.0. Ubi fideicommissum peti oportet.
+* 3.18.0. Ubi conveniatur qui certo loco dare promisit.
+* 3.19.0. Ubi in rem actio exerceri debet.
+* 3.20.0. Ubi de hereditate agatur et ubi scripti heredes in possessionem mitti postulare debent.
+* 3.21.0. Ubi agi oportet de ratiociniis tam privatis quam publicis.
+* 3.22.0. Ubi causa status agi debeat.
+* 3.23.0. Ubi quis de curiali vel cohortali aliave condicione conveniatur.
+* 3.24.0. Ubi senatores vel clarissimi civiliter vel criminaliter conveniantur.
+* 3.25.0. In quibus causis militantes fori praescriptione uti non possunt.
+* 3.26.0. Ubi causae fiscales vel divinae domus hominumque eius agantur.
+* 3.27.0. Quando liceat sine iudice unicuique vindicare se vel publicam devotionem.
+* 3.28.0. De inofficioso testamento.
+* 3.29.0. De inofficiosis donationibus.
+* 3.30.0. De inofficiosis dotibus.
+* 3.31.0. De petitione hereditatis.
+* 3.32.0. De rei vindicatione.
+* 3.33.0. De usu fructu et habitatione et ministerio servorum.
+* 3.34.0. De servitutibus et de aqua.
+* 3.35.0. De lege Aquilia.
+* 3.36.0. Familiae erciscundae.
+* 3.37.0. Communi dividundo.
+* 3.38.0. Communia utriusque iudicii tam familiae erciscundae quam communi dividundo.
+* 3.39.0. Finium regundorum.
+* 3.40.0. De consortibus eiusdem litis.
+* 3.41.0. De noxalibus actionibus.
+* 3.42.0. Ad exhibendum.
+* 3.43.0. De aleae lusu et aleatoribus.
+* 3.44.0. De religiosis et sumptibus funerum.
+3.1.0. De iudiciis.
+3.1.1
+Imperatores Severus, Antoninus . Iudicio coepto usurarum stipulatio non est perempta. Superest, ut debitorem
+eius temporis, quod non est in iudicium deductum, convenire possis * SEV. ET ANT. AA. CLEMENTI. *<A
+205 PP. K. APRIL. ANTONINO A. II ET GETA II CONSS.>
+3.1.2
+Imperatores Severus, Antoninus . Licet iudice accepto cum tutore tuo egisti, ipso iure actio tutelae sublata non
+est: et ideo si rursus eundem iudicem petieris, contra utilem exceptionem rei iudicatae, si de specie de qua agis in
+113
+
+

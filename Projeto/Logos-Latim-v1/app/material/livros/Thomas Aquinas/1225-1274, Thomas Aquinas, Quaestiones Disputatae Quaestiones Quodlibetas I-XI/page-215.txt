@@ -1,0 +1,62 @@
+Unde distinguitur modus quo Deus est ubique, et quo aliae res quibus aliquo modo competit esse ubique.
+Nam huiusmodi dicuntur esse ubique, quia sunt tantum in his quae sunt, et praesentia sunt; Deus autem non
+solum in his quae sunt, sed etiam in imaginatis, et in praeteritis et futuris. Item aliae res non sunt ubique sicut in
+loco uno, sed sicut in diversis locis. Sed Deus ita est ubique, quod est in quolibet et in toto; quia eius virtus habet
+efficaciam non solum in id quod est commune universo, sed etiam in id quod est proprium unicuique rei
+particulari; et ideo est in omnibus sicut in uno loco, et sicut in pluribus; quod est proprie esse ubique.
+Unde, cum hoc modo solus Deus sit ubique, solius Dei est proprium esse ubique.
+RA1
+Ad primum ergo dicendum, quod numerus non est in rebus numeratis sicut in loco, sed sicut accidens in
+subiecto. Praeterea, unus numerus, licet sit in omnibus numeratis sicut unica essentia, non tamen est in qualibet
+parte; quia non quaelibet pars numeratur eodem numero. Item numerus non est omnino unus, sed multitudo
+quaedam; Deus autem est in rebus per virtutem suam, et in singulis operatur, ut dictum est.
+RA2
+Ad secundum dicendum, quod universale dicitur esse ubique et semper magis per remotionem quam per
+positionem: non enim dicitur ubique esse et semper, eo quod sit in omni loco et in omni tempore, sed quia
+abstrahit ab his quae determinant locum et tempus determinatum. Et praeterea universalia non sunt subsistentia.
+RA3
+Ad tertium dicendum, quod substantia spiritualis excedit corporalem excessu dignitatis naturae, sed non in
+virtute agendi; immo videmus quod multae substantiae spirituales habent determinata corpora in quibus agant,
+sicut anima rationalis corpus humanum.
+RA4
+Ad quartum dicendum, quod si rex non est ubique per totum regnum, est ex defectu regis terreni, propter
+circumscriptionem suae substantiae. Deus autem cum sit incircumscriptus, est ubique; et tamen, si non esset
+ubique, nihilominus gubernaret omnia providentia sua. Unde in rege terreno non esse praesens est ad defectum,
+sed quod gubernet in absentia est ad commendationem. Deus autem et ubique est, et omnia gubernat.
+RA5
+Ad quintum dicendum, quod huiusmodi distantia et propinquitas creaturarum ad Deum non est secundum locum,
+sed secundum similitudinem et dissimilitudinem: nam illa quae magis assimilantur Deo, dicimus esse sibi
+propinquiora; quae vero magis recedunt a similitudine ipsius, dicimus esse sibi remotiora.
+RA6
+Ad sextum dicendum, quod dato quod tota machina mundialis esset unum corpus continuum, non tamen propter
+hoc posset imaginari quod esset ubique, sed in uno loco tantum: quia totum illud in quo esset, acciperetur pro
+uno loco; et sic non attingeret quodlibet particulare, quod esse ubique complectitur in sua ratione.
+|q2 Quaestio 2
+TTA
+Circa cognitionem vero Dei quaerebatur utrum Deus cognoscat malum per bonum.
+TTB
+Et videtur quod non.
+AG1
+Quia cognoscere unum per aliud pertinet ad defectum cognitionis. Sed in divina cognitione nullus potest esse
+defectus. Ergo videtur quod Deus non cognoscat malum per bonum.
+AG2
+Praeterea, cognoscere unum per aliud est in cognoscendo discurrere. Sed in divina cognitione non est discursus.
+Ergo, cum cognoscere malum per bonum sit cognoscere unum per aliud, videtur quod Deus non cognoscat
+malum per bonum.
+AG3
+Praeterea, quidquid Deus cognoscit, cognoscit per essentiam suam. Sed malum nec est effectus divinae essentiae,
+neque est ei oppositum, ut dicit Augustinus. Ergo videtur quod Deus non cognoscat malum per bonum.
+AG4
+Praeterea, Philosophus dicit in III de anima, quod intellectus qui semper est in actu, non cognoscit privationem.
+Sed intellectus divinus est semper in actu.
+Ergo etc..
+AG5
+Praeterea, omne quod cognoscitur, cognoscitur per aliquam similitudinem in ipso cognoscente existentem. Sed
+malum non habet aliquam similitudinem in Deo. Ergo Deus non cognoscit malum per aliquod bonum quod in eo
+existat.
+SC
+Sed contra, est quod Augustinus dicit, quod malum cognoscitur secundum quod ab ipso bono discordat.
+CO
+215
+
+

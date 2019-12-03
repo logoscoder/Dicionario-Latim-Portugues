@@ -1,0 +1,62 @@
+Sed hoc esse non potest, quia sic sequeretur quod in nobis sint multa libera arbitria propter potentiarum
+multitudinem; multi enim homines sunt multa animalia.
+Nec hoc ad ponendum cogimur ratione praedicta. Omnes enim actus diversarum potentiarum non referuntur ad
+liberum arbitrium nisi mediante uno actu, qui est eligere: secundum hoc enim libero arbitrio movemur, quod
+libero arbitrio moveri eligimus; et sic de aliis actibus. Unde ex hoc non ostenditur liberum arbitrium esse plures
+potentias, sed esse unam potentiam moventem sua virtute potentias diversas.
+Alia vero consideratione movebantur quidam ad ponendum pluralitatem potentiarum in libero arbitrio, ex hoc
+quod videbant in actu liberi arbitrii concurrere aliqua quae ad diversas potentias pertinent; scilicet iudicium,
+quod est rationis, et appetitum, qui est voluntatis. Unde dixerunt liberum arbitrium colligere in se plures
+potentias per modum quo totum integrale continet suas partes.
+Hoc autem esse non potest. Cum enim actus, qui libero arbitrio attribuitur, sit unus specialis actus, scilicet
+eligere, non potest a duabus potentiis immediate progredi; sed progreditur ab una immediate, et ab altera
+mediate, in quantum scilicet quod est prioris potentiae, in posteriori relinquitur.
+Unde restat, quod liberum arbitrium sit una potentia.
+RA1
+Ad primum ergo dicendum, quod Augustinus dicit liberum arbitrium, esse facultatem voluntatis et rationis, quia
+ad actum liberi arbitrii homo per utramque ordinatur potentiam, licet non immediate.
+RA2
+Ad secundum dicendum, quod liberum arbitrium non ordinatur ad actus diversarum potentiarum nisi mediante
+unico actu proprio suo, ut dictum est.
+RA3
+Ad tertium dicendum, quod boetius attribuit libero arbitrio id quod est diversarum potentiarum, in quantum per
+diversas potentias homo ad actum liberi arbitrii ordinatur, ut dictum est, in corp. Articuli.
+RA4
+Ad quartum dicendum, quod in parte irrationali vel inferiori animae est solum simplex apprehensio ex parte
+cognitiva: non autem alia collatio vel ordinatio, sicut est in apprehensiva rationali. Et ideo in parte sensitiva
+appetitus absolute fertur in obiectum sine hoc quod aliquis ordo ex apprehensiva in appetitiva relinquatur. Unde
+in parte sensitiva non est aliqua potentia comprehendens in se aliqualiter apprehensivam et appetitivam, sicut est
+in parte rationali.
+RA5
+Ad quintum dicendum sicut ad quartum.
+|a6 Articulus 6
+TTA
+Sexto quaeritur utrum liberum arbitrium sit voluntas, vel alia potentia a voluntate.
+TTB
+Et videtur quod sit potentia alia.
+AG1
+Illud enim quod praedicatur de aliquo essentialiter, non debet poni oblique in definitione eius; sicut animal non
+ponitur oblique in definitione hominis. Sed ratio et voluntas ponuntur oblique in definitione liberi arbitrii; dicitur
+enim facultas voluntatis et rationis. Ergo liberum arbitrium non est ratio vel voluntas, sed alia potentia ab
+utraque.
+AG2
+Praeterea, differentiae potentiarum cognoscuntur secundum differentias actuum. Sed eligere, quod est actus liberi
+arbitrii, est aliud quam velle, quod est actus voluntatis, ut patet per Philosophum in III ethic..
+Ergo liberum arbitrium est alia potentia a voluntate.
+AG3
+Praeterea, in nominatione liberi arbitrii, arbitrium ponitur in abstracto, sed libertas in concreto. Arbitrium autem
+est rationis, libertas voluntatis. Ergo id quod est rationis, essentialiter convenit libero arbitrio; quod autem est
+voluntatis, quasi denominative et actualiter: et sic liberum arbitrium magis videtur esse ratio quam voluntas.
+AG4
+Praeterea, secundum Damascenum, et Gregorium Nyssenum, secundum hoc sumus arbitrio liberi quod sumus
+rationales. Sed rationales sumus secundum quod habemus rationem.
+Ergo secundum quod habemus rationem sumus arbitrio liberi; et ita videtur quod liberum arbitrium sit ratio.
+AG5
+Praeterea, secundum ordinem habituum est ordo potentiarum. Sed actus fidei, quae est habitus rationis,
+informatur caritate, quae est habitus voluntatis. Ergo et actus rationis informatur voluntate, et non e converso.
+Et ita, si actus liberi arbitrii est duarum potentiarum, scilicet voluntatis et rationis, unius sicut elicientis, et
+alterius sicut informantis, videtur quod sit rationis sicut elicientis; et ita liberum arbitrium essentialiter est ratio,
+et sic altera potentia quam voluntas.
+496
+
+

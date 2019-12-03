@@ -1,0 +1,56 @@
+Est autem genus generalissimum quod non habet genus supra se, hoc est genus generallsstimum est
+illud de quo uniuersaliter Sumpto non praedicatur aliud genus et simul de alio, quamuis secundum aliquam
+opinionem de genere generalissimo praedicetur particulariter aliquod aliud genus. Unde aliqui ponunt quod haec
+est uera 'substantia est quantitas', quia tamen non ponunt istam esse ueram 'omnis substantia est quantitas', ideo
+possunt saluare quod substantia est genus generalissimum. Quamuis etiam aliter possent saluare, scilicet dicendo
+quod genus generalissimum est illud de quo uniuersaliter sumpto non praedicatur in quid aliud genus. Nunc
+autem quamuis dicerent istam esse ueram 'substantia est quantitas', non tamen dicerent quod quantitas
+praedicatur in quid de substantia uniuersaliter sumpta.
+Species autem specialissima est intentio non habens speciem sub se, hoc est species specialissima de
+nullo communi praedicatur in quid, quamuis de multis singularibus possit praedicari in quid. Media autem inter
+speciem specialissimam et genus generalissimum uocantur genera et species subalternae
+Species autem specialissima est intentio non habens speciem sub se, hoc est species specialissima de
+nullo communi praedicatur in quid, quamuis de multis singularibus possit praedicari in quid. Media autem inter
+speciem specialissimam et genus generalissimum uocantur genera et species subalternae
+[1.22. DE COMPARATIONE GENERIS ET SPECIEI AD INVICEM]
+[1.22. DE COMPARATIONE GENERIS ET SPECIEI AD INVICEM]
+Viso quid est genus et quid species, istae intentiones secundum communes proprietates et proprias sunt
+ad inuicem comparandae.
+Viso quid est genus et quid species, istae intentiones secundum communes proprietates et proprias sunt
+ad inuicem comparandae.
+Differunt autem in hoc quod genus praedicatur de specie, sed species non praedicatur de genere. Quod
+non est intelligendum quod species nullo modo praedicetur de genere: hoc enim impossibile est, cum genus
+praedicetur de specie, et per consequens species de genere. Sequitur enim per conuersionem
+'homo est animal, igitur animal est homo'; et ita si genus praedicatur de specie sequitur necessario quod
+species praedicatur de genere. Et ideo sic intelligenda est differentia quod quando genus actualiter continet sub
+se diuersa indiuidua diuersarum specierum tunc genus uere praedicatur de specie uniuersaliter sumpta, sed
+species tunc non praedicatur de genere uniuersaliter sumpto, quamuis praedicetur de genere particulariter
+sumpto. Unde haec modo est uera 'ontnis homo est animal', sed haec est falsa 'omne animal est homo', quamuis
+haec sit uera 'animal est homo', ex quo haec particularis, quae cum indcfinita conuertitur, uera est 'aliquod animal
+est homo'.
+'homo est animal, igitur animal est homo'; et ita si genus praedicatur de specie sequitur necessario quod
+species praedicatur de genere. Et ideo sic intelligenda est differentia quod quando genus actualiter continet sub
+se diuersa indiuidua diuersarum specierum tunc genus uere praedicatur de specie uniuersaliter sumpta, sed
+species tunc non praedicatur de genere uniuersaliter sumpto, quamuis praedicetur de genere particulariter
+sumpto. Unde haec modo est uera 'ontnis homo est animal', sed haec est falsa 'omne animal est homo', quamuis
+haec sit uera 'animal est homo', ex quo haec particularis, quae cum indcfinita conuertitur, uera est 'aliquod animal
+est homo'.
+Verumtamen si nullum animal esset in rerum natura nisi homo, haec tunc esset uera 'omne animal est
+homo' sicut ista 'omnis homo est animal'. Et ita species potest praedicari de genere non tantum particulariter sed
+etiam uniuersaliter, sed non quando diuersa indiuidua diuersarum specierum sunt in rerum natura.
+Verumtamen si nullum animal esset in rerum natura nisi homo, haec tunc esset uera 'omne animal est
+homo' sicut ista 'omnis homo est animal'. Et ita species potest praedicari de genere non tantum particulariter sed
+etiam uniuersaliter, sed non quando diuersa indiuidua diuersarum specierum sunt in rerum natura.
+Est etiam aduertendum quod quamuis genus praedicetur de Specie, praedicatio tamen illa non semper
+est necessaria, sicut haec non est necessaria 'homo est animal'. Si enim nullus homo esset, haec esset falsa 'homo
+est animal'
+sicut haec esset falsa 'aliquod compositum ex corpore et anima intellectiua est animal', propter falsam
+implicationem. Quamuis autem ista sit contingens 'homo est animal', ista tamen condicionalis est necessaria 'si
+homo est, animal est'.
+sicut haec esset falsa 'aliquod compositum ex corpore et anima intellectiua est animal', propter falsam
+implicationem. Quamuis autem ista sit contingens 'homo est animal', ista tamen condicionalis est necessaria 'si
+homo est, animal est'.
+
+43
+
+

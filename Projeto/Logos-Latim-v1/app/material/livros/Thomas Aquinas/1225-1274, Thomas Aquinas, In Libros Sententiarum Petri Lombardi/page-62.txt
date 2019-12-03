@@ -1,0 +1,59 @@
+Dicendum, quod voluntatem oportet quod praecedat aliqua cognitio. Est enim duplex actus voluntatis.
+Unus imperfectus, scilicet appetere; et iste actus praecedit cognitionem perfectam eorum quae acquiruntur in
+cognitione. Per appetitum enim sciendi aliquid movetur aliquis ad considerationem alicujus, cujus cognitionem
+considerando accipit; sed tamen hunc actum voluntatis praecedit cognitio indeterminata qua res scitur in
+universali, et per illam cognitionem imperfectam tendit appetitus in perfectionem ipsius: si enim esset omnino
+ignotum, non quaereretur. Est et alius actus voluntatis perfectus, quo voluntas quiescit et placet sibi in re jam
+habita; et ita voluntas sciendi sequitur cognitionem perfectam.
+Utrum Deus filium volens aut nolens genuit.
+Videtur quod necessarium sit alterum dare, cum fiat divisio per affirmationem et negationem.
+Dicendum, quod nolens et volens non opponuntur contradictorie; sed volens et non volens. Differt enim nolo et
+non volo; quia cum dicitur: non volo, negatur actus; et ideo opponitur sicut negatio ad affirmationem: sed in hoc
+verbo nolo et in toto condeclinio ejus remanet actus voluntatis affirmatus, et negatio fertur ad nolitum. Unde
+sensus est: nolo hoc; id est, volo hoc non esse. Unde non oportet dici nolens vel volens, quia lapis nec volens est
+nec nolens. Et similiter in proposito neutrum dandum est. Sed danda est ista, non volens, si volens dicat
+voluntatem accedentem vel antecedentem. Si autem dicat voluntatem concomitantem danda est ista, volens
+genuit.
+
+|+d7.q1 Distinctio 7, Quaestio 1
+|a0 Prologus
+Postquam ostendit principium divinae generationis proprium, quod est natura et non voluntas; hic inquirit de
+communitate principii, utrum scilicet generandi potentia sit communis patri et filio; et dividitur in duas: in prima
+inquirit de communitate potentiae generativae sumptae in concreto; in secunda de communitate ejusdem sumptae
+in abstracto, ibi: item quaeritur a quibusdam, si pater potens sit natura gignere filium, et an hoc sit aliqua potentia
+quae sit in filio. Prima in tres: primo determinat quaestionem; secundo movet dubitationem, ibi: sed vehementer
+nos movet quod Augustinus ait; tertio ponit solutionem, ibi: quomodo ergo accipietur quod supra dictum est?
+circa primum tria facit: primo movet quaestionem; secundo ponit determinationem, ibi: cui versutiae facile
+respondemus; tertio confirmat per similitudinem, ibi: ex simili quoque hoc videre possumus.
+Sed vehementer nos movet quod Augustinus ait.
+Hic ponit dubitationem: et primo ponit ad unam partem auctoritatem Augustini; secundo ad partem contrariam
+inducit quorumdam rationem, ibi: hoc autem videtur quibusdam non posse stare.
+Quomodo ergo accipietur quod supra dictum est? hic solvit: et primo insinuat solvendi difficultatem; secundo
+prosequitur solutionem, ibi: potest ergo sic intelligi.
+Hic quaeruntur duo: primo de potentia generandi in Deo. Secundo de communitate ipsius.
+Circa primum tria quaeruntur: 1 utrum in Deo sit potentia ad generandum; 2 quid sit illa potentia, an sit
+absolutum aliquid vel ad aliquid; 3 de comparatione ipsius ad potentiam creandi.
+|a1 Articulus 1: Utrum potentia generativa sit in Deo.
+AG1
+Ad primum sic proceditur. Videtur quod in Deo non sit potentia ad generandum. Quidquid enim exit ab aliqua
+potentia, sive sit potentia agentis sive materiae, prius est in potentia quam sit in actu.
+Sed generatio filii a patre non est hujusmodi, cum sit aeterna. Ergo non exit ab aliqua potentia. Ergo in Deo non
+est potentia ad generandum.
+AG2
+Praeterea, illud quod per se est naturae, non exit ab ea mediante aliqua potentia, sicut anima dat tale esse corpori
+nullo mediante. Sed generatio est per se opus naturae, ut dicit Damascenus.
+Ergo non est opus potentiae; et sic idem quod prius.
+AG3
+Praeterea, omnis potentia vel est activa vel passiva. Sed in patre non est potentia passiva ad generandum filium,
+quia secundum eam magis diceretur mater quam pater. Nec est etiam in eo potentia activa; quia, secundum
+Philosophum, potentia activa est principium transmutationis in aliud, secundum quod est aliud: unde potentia
+activa exigit materiam in quam agat. Generatio autem filii non est ex materia. Ergo videtur quod in Deo non sit
+potentia ad generandum.
+SC1
+Contra, Augustinus arguit: si pater non potuit generare filium aequalem et coaeternum sibi, impotens fuit. Ergo
+ex hoc videtur quod potentia divina etiam se extendat ad generationem filii.
+SC2
+
+62
+
+

@@ -1,0 +1,56 @@
+|+13 Lectio 13
+|#1 Postquam Philosophus determinavit de oppositione enunciationum et ostendit quomodo dividunt verum et
+falsum oppositae enunciationes; hic inquirit de quodam quod poterat esse dubium, utrum scilicet id quod dictum
+est similiter inveniatur in omnibus enunciationibus vel non.
+Et circa hoc duo facit: primo, proponit dissimilitudinem; secundo, probat eam; ibi: nam si omnis affirmatio etc..
+|#2 Circa primum considerandum est quod Philosophus in praemissis triplicem divisionem enunciationum
+assignavit, quarum prima fuit secundum unitatem enunciationis, prout scilicet enunciatio est una simpliciter vel
+coniunctione una; secunda fuit secundum qualitatem, prout scilicet enunciatio est affirmativa vel negativa; tertia
+fuit secundum quantitatem, utpote quod enunciatio quaedam est universalis, quaedam particularis, quaedam
+indefinita et quaedam singularis.
+|#3 Tangitur autem hic quarta divisio enunciationum secundum tempus. Nam quaedam est de praesenti,
+quaedam de praeterito, quaedam de futuro; et haec etiam divisio potest accipi ex his quae supra dicta sunt:
+dictum est enim supra quod necesse est omnem enunciationem esse ex verbo vel ex casu verbi; verbum autem
+est quod consignificat praesens tempus; casus autem verbi sunt, qui consignificant tempus praeteritum vel
+futurum.
+Potest autem accipi quinta divisio enunciationum secundum materiam, quae quidem divisio attenditur secundum
+habitudinem praedicati ad subiectum: nam si praedicatum per se insit subiecto, dicetur esse enunciatio in materia
+necessaria vel naturali; ut cum dicitur, homo est animal, vel, homo est risibile.
+Si vero praedicatum per se repugnet subiecto quasi excludens rationem ipsius, dicetur enunciatio esse in materia
+impossibili sive remota; ut cum dicitur, homo est asinus. Si vero medio modo se habeat praedicatum ad
+subiectum, ut scilicet nec per se repugnet subiecto, nec per se insit, dicetur enunciatio esse in materia possibili
+sive contingenti.
+|#4 His igitur enunciationum differentiis consideratis, non similiter se habet iudicium de veritate et falsitate in
+omnibus.
+Unde Philosophus dicit, ex praemissis concludens, quod in his quae sunt, idest in propositionibus de praesenti, et
+in his quae facta sunt, idest in enunciationibus de praeterito, necesse est quod affirmatio vel negatio determinate
+sit vera vel falsa. Diversificatur tamen hoc, secundum diversam quantitatem enunciationis; nam in
+enunciationibus, in quibus de universalibus subiectis aliquid universaliter praedicatur, necesse est quod semper
+una sit vera, scilicet affirmativa vel negativa, et altera falsa, quae scilicet ei opponitur.
+Dictum est enim supra quod negatio enunciationis universalis in qua aliquid universaliter praedicatur, est
+negativa non universalis, sed particularis, et e converso universalis negativa non est directe negatio universalis
+affirmativae, sed particularis; et sic oportet, secundum praedicta, quod semper una earum sit vera et altera falsa
+in quacumque materia. Et eadem ratio est in enunciationibus singularibus, quae etiam contradictorie opponuntur,
+ut supra habitum est.
+Sed in enunciationibus, in quibus aliquid praedicatur de universali non universaliter, non est necesse quod
+semper una sit vera et altera sit falsa, qui possunt ambae esse simul verae, ut supra ostensum est.
+|#5 Et hoc quidem ita se habet quantum ad propositiones, quae sunt de praeterito vel de praesenti: sed si
+accipiamus enunciationes, quae sunt de futuro, etiam similiter se habent quantum ad oppositiones, quae sunt de
+universalibus vel universaliter vel non universaliter sumptis. Nam in materia necessaria omnes affirmativae
+determinate sunt verae, ita in futuris sicut in praeteritis et praesentibus; negativae vero falsae. In materia autem
+impossibili, e contrario. In contingenti vero universales sunt falsae et particulares sunt verae, ita in futuris sicut
+in praeteritis et praesentibus. In indefinitis autem, utraque simul est vera in futuris sicut in praesentibus vel
+praeteritis.
+|#6 Sed in singularibus et futuris est quaedam dissimilitudo. Nam in praeteritis et praesentibus necesse est quod
+altera oppositarum determinate sit vera et altera falsa in quacumque materia; sed in singularibus quae sunt de
+futuro hoc non est necesse, quod una determinate sit vera et altera falsa. Et hoc quidem dicitur quantum ad
+materiam contingentem: nam quantum ad materiam necessariam et impossibilem similis ratio est in futuris
+singularibus, sicut in praesentibus et praeteritis. Nec tamen Aristoteles mentionem fecit de materia contingenti,
+quia illa proprie ad singularia pertinent quae contingenter eveniunt, quae autem per se insunt vel repugnant,
+attribuuntur singularibus secundum universalium rationes.
+Circa hoc igitur versatur tota praesens intentio: utrum in enunciationibus singularibus de futuro in materia
+contingenti necesse sit quod determinate una oppositarum sit vera et altera falsa.
+|#7 Deinde cum dicit: nam si omnis affirmatio etc., probat praemissam differentiam.
+31
+
+

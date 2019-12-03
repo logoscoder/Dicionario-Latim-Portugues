@@ -1,0 +1,60 @@
+Sic igitur si consideretur aliquod bonum, si quidem sit per sensum tactus apprehensum, et ad consistentiam
+humanae vitae pertinens in individuo vel in specie, sicut sunt delectabilia ciborum et venereorum; erit pertinens
+ad virtutem temperantiae.
+Delectationes autem aliorum sensuum, cum non sint vehementes, non praestant aliquam difficultatem rationi, et
+ideo circa eas non ponitur aliqua virtus, quae est circa difficile, sicut et ars, ut dicitur in II ethic..
+Bonum autem non sensu, sed interiori virtute apprehensum, ad ipsum hominem pertinens secundum seipsum, est
+sicut pecunia et honor; quorum pecunia ordinabilis est de se ad bonum corporis; honor autem consistit in
+apprehensione animae. Et haec quidem bona considerari possunt vel absolute, secundum quod pertinent ad
+concupiscibilem; vel cum arduitate quadam, secundum quod pertinent ad irascibilem.
+Quae quidem distinctio non habet locum in bonis quae delectant tactum, quia huiusmodi sunt quaedam infima, et
+competunt homini secundum quod convenit cum brutis. Circa bonum igitur pecuniae absolute sumptum,
+secundum quod est obiectum concupiscentiae vel delectationis aut amoris, est liberalitas. Circa bonum autem
+huiusmodi cum arduitate sumptum, secundum quod est obiectum spei, est magnificentia. Circa bonum vero quod
+est honor, si quidem sit absolute sumptum, secundum quod est obiectum amoris, sic est quaedam virtus quae
+vocatur philotimia, idest amor honoris.
+Si vero cum arduitate consideretur, secundum quod est obiectum spei, sic est magnanimitas. Unde liberalitas et
+philotimia videntur esse in concupiscibili, magnificentia vero et magnanimitas in irascibili. Bonum vero hominis
+in ordine ad alium, non videtur arduitatem habere, sed accipitur ut absolute sumptum, prout est obiectum
+passionum concupiscibilis. Quod quidem bonum potest esse alicui delectabile secundum quod praebet se alteri
+vel in his quae serio fiunt, idest in actionibus per rationem ordinatis ad debitum finem; vel in his quae fiunt ludo,
+idest in actionibus ordinatis ad delectationem tantum, quae non eodem modo se habent ad rationem sicut prima.
+In seriis autem se exhibet aliquis alteri dupliciter. Uno modo, ut delectabilem decentibus verbis et factis, et hoc
+pertinet ad quandam virtutem quam Aristoteles nominat amicitiam; et potest dici affabilitas. Alio modo praebet
+se aliquis alteri ut manifestum, per dicta et facta, et hoc pertinet ad aliam virtutem, quam nominat veritatem.
+Manifestatio enim propinquius accedit ad rationem quam delectatio; et seria quam iocosa. Unde et circa
+delectationes ludorum est alia virtus, quam Philosophus eutrapeliam nominat.
+Sic igitur patet quod, secundum Aristotelem, sunt decem virtutes morales circa passiones, scilicet fortitudo,
+temperantia, liberalitas, magnificentia, magnanimitas, philotimia, mansuetudo, amicitia, veritas et eutrapelia. Et
+distinguuntur secundum diversas materias vel secundum diversas passiones; vel secundum diversa obiecta. Si
+igitur addatur iustitia, quae est circa operationes, erunt omnes undecim.
+RA1
+Ad primum ergo dicendum quod omnia obiecta eiusdem operationis secundum speciem, eandem habitudinem
+habent ad rationem; non autem omnia obiecta eiusdem passionis secundum speciem, quia operationes non
+repugnant rationi, sicut passiones.
+RA2
+Ad secundum dicendum quod alia ratione diversificantur passiones, et alia virtutes, sicut dictum est.
+RA3
+Ad tertium dicendum quod magis et minus non diversificant speciem, nisi propter diversam habitudinem ad
+rationem.
+RA4
+Ad quartum dicendum quod bonum fortius est ad movendum quam malum quia malum non agit nisi virtute boni,
+ut dionysius dicit, IV cap. De div. Nom..
+Unde malum non facit difficultatem rationi quae requirat virtutem, nisi sit excellens, quod videtur esse unum in
+uno genere passionis. Unde circa iras non ponitur nisi una virtus, scilicet mansuetudo, et similiter circa audacias
+una sola, scilicet fortitudo. Sed bonum ingerit difficultatem, quae requirit virtutem, etiam si non sit excellens in
+genere talis passionis. Et ideo circa concupiscentias ponuntur diversae virtutes morales, ut dictum est.
+|q61 Quaestio 61
+|a0 Prologus
+Deinde considerandum est de virtutibus cardinalibus. Et circa hoc quaeruntur quinque. Primo, utrum virtutes
+morales debeant dici cardinales, vel principales. Secundo, de numero earum. Tertio, quae sint. Quarto, utrum
+differant ab invicem. Quinto, utrum dividantur convenienter in virtutes politicas, et purgatorias, et purgati animi,
+et exemplares.
+|a1 Articulus 1
+AG1
+Ad primum sic proceditur. Videtur quod virtutes morales non debeant dici cardinales, seu principales. Quae enim
+ex opposito dividuntur, sunt simul natura, ut dicitur in praedicamentis, et sic unum non est altero principalius.
+Sed omnes virtutes ex opposito dividunt genus virtutis.
+862
+
+

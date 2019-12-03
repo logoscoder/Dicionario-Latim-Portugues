@@ -1,0 +1,61 @@
+Unde in hoc ponimus beatitudinem rationalis creaturae, quod Deum per essentiam videbit: sicut Philosophi, qui
+posuerunt animas nostras fluere ab intelligentia agente, posuerunt ultimam felicitatem hominis in continuatione
+intellectus nostri ad ipsam.
+RA1
+Ad primum ergo dicendum, quod proportio dupliciter dicitur.
+Uno modo, proprie, secundum quod importat quemdam determinatum excessum; et sic proportio requiritur inter
+intellectum et intelligibile ad hoc quod sit cognitio cum comprehensione, qualiter divina essentia nunquam
+videbitur ab intellectu creato.
+Alio modo dicitur communiter pro qualibet habitudine; et sic infinitum potest habere proportionem ad finitum, si
+sit perfectio eius, vel aliquam huiusmodi habitudinem habeat ad ipsum. Et talis proportio sufficit ad hoc quod
+intellectus noster videat divinam essentiam attingendo, non comprehendendo.
+RA2
+Ad secundum dicendum, quod obiectio illa procedit de distantia secundum proprietatem naturae, non solum
+secundum rationem cognitionis; nam spiritus creatus non est sensibilis, sed spiritus increatus est intelligibilis.
+|*QUODL_11
+|q1 Quaestio 1
+PR
+Quaesitum fuit de Deo, de Angelis, et hominibus.
+De Deo vero quaesitum fuit: de immensitate ipsius, de cognitione eius, et de praedestinatione.
+TTA
+Circa immensitatem vero Dei quaesitum fuit utrum solius Dei sit proprium esse ubique.
+TTB
+Ostendebatur quod non.
+AG1
+Numerus enim est in rebus numeratis.
+Sed constat quod omnes partes universi sunt numeratae. Ergo numerus est in omnibus partibus universi; et sic
+videtur quod sit ubique; non est ergo proprium solius Dei esse ubique.
+AG2
+Praeterea, universale est quod est ubique et semper. Sed universale non est hoc quod Deus. Ergo non est
+proprium solius Dei esse ubique et semper.
+AG3
+Praeterea, substantia spiritualis excedit corporalem. Sed hoc quod dicitur esse ubique, pertinet ad substantiam
+corporalem, quia in solis corporalibus est proprie assignare locum.
+Ergo multo magis esse ubique pertinet ad substantias spirituales; et sic videtur quod non sit solius Dei proprium.
+AG4
+Praeterea, ad commendationem terreni regis pertinet quod possit gubernare etiam in absentia sua regnum. Sed
+Deus est commendabilior omni rege. Ergo videtur quod etiam competat sibi ad suam commendationem quod
+gubernet totum mundum vel aliquas partes in absentia sua per providentiam; et sic non videtur quod sit Dei
+proprium esse ubique.
+AG5
+Praeterea, constat quod quaedam dicuntur Deo esse propinqua, et quaedam remota; et quanto magis sunt remota,
+tanto magis sunt corruptibilia. Non autem possent dici aliqua propinqua et aliqua remota, si Deus esset ubique.
+Ergo videtur quod Deus non sit ubique.
+AG6
+Praeterea, dato quod tota machina mundialis esset unum corpus continuum, constat quod illud corpus esset
+ubique. Non ergo est solius Dei proprium esse ubique.
+SC
+Contra, Ambrosius probat spiritum sanctum esse Deum, quia est ubique. Sed si esse ubique non esset solius Dei
+proprium, ratio sua non valeret. Cum ergo ratio huiusmodi valeat, videtur quod sit solius Dei proprium esse
+ubique.
+CO
+Respondeo. Dicendum, quod spiritualia dicuntur esse in loco, non quidem per contactum magnitudinis, sed
+virtutis; et ideo secundum rationem virtutis cuiuslibet rei spiritualis oportet nos loqui de loco in quo est.
+Virtus autem Dei est infinita: quae quidem infinitas apparet quantum ad duo.
+Primo quia non solum excedit creaturas quae sunt, fuerunt et erunt, sed etiam omnes quae possunt imaginari.
+Ergo Deus non solum est in illis quae sunt, fuerunt et erunt; sed etiam in illis quae possunt imaginari esse.
+Secundo, quia virtus Dei simul et semel in omnibus operatur, et in singulis secundum proprium modum rerum: et
+ideo esse ubique proprie acceptum, soli Deo competit; aliis autem rebus competit esse ubique improprie.
+214
+
+

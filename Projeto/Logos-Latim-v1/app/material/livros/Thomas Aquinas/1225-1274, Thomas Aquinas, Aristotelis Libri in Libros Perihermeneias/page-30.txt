@@ -1,0 +1,60 @@
+contrariae, quae possunt simul esse falsae. Contingit etiam affirmationem et negationem non proprie opponi; et
+ideo contingit eas esse veras simul. Dictum est autem quando altera semper est vera, altera autem falsa, quia
+scilicet in his quae vere sunt contradictoria.
+|#7 Deinde cum dicit: una autem affirmatio etc., ostendit quae sit affirmatio vel negatio una. Quod quidem iam
+supra dixerat, ubi habitum est quod una est enunciatio, quae unum significat; sed quia enunciatio, in qua aliquid
+praedicatur de aliquo universali universaliter vel non universaliter, multa sub se continet, intendit ostendere quod
+per hoc non impeditur unitas enunciationis.
+Et circa hoc duo facit: primo, ostendit quod unitas enunciationis non impeditur per multitudinem, quae
+continetur sub universali, cuius ratio una est; secundo, ostendit quod impeditur unitas enunciationis per
+multitudinem, quae continetur sub sola nominis unitate; ibi: si vero duobus etc..
+Dicit ergo primo quod una est affirmatio vel negatio cum unum significatur de uno, sive illud unum quod
+subiicitur sit universale universaliter sumptum sive non sit aliquid tale, sed sit universale particulariter sumptum
+vel indefinite, aut etiam si subiectum sit singulare.
+Et exemplificat de diversis sicut universalis ista affirmativa est una, omnis homo est albus; et similiter
+particularis negativa quae est eius negatio, scilicet non est omnis homo albus.
+Et subdit alia exempla, quae sunt manifesta.
+In fine autem apponit quamdam conditionem, quae requiritur ad hoc quod quaelibet harum sit una, si scilicet
+album, quod est praedicatum, significat unum: nam sola multitudo praedicati impediret unitatem enunciationis.
+Ideo autem universalis propositio una est, quamvis sub se multitudinem singularium comprehendat, quia
+praedicatum non attribuitur multis singularibus, secundum quod sunt in se divisa, sed secundum quod uniuntur
+in uno communi.
+|#8
+Deinde cum dicit: si vero duobus etc., ostendit quod sola unitas nominis non sufficit ad unitatem
+enunciationis.
+Et circa hoc quatuor facit: primo, proponit quod intendit; secundo, exemplificat; ibi: ut si quis ponat etc.; tertio,
+probat; ibi: nihil enim differt etc.; quarto, infert corollarium ex dictis; ibi: quare nec in his etc..
+Dicit ergo primo quod si unum nomen imponatur duabus rebus, ex quibus non fit unum, non est affirmatio una.
+Quod autem dicit, ex quibus non fit unum, potest intelligi dupliciter.
+Uno modo, ad excludendum hoc quod multa continentur sub uno universali, sicut homo et equus sub animali:
+hoc enim nomen animal significat utrumque, non secundum quod sunt multa et differentia ad invicem, sed
+secundum quod uniuntur in natura generis.
+Alio modo, et melius, ad excludendum hoc quod ex multis partibus fit unum, sive sint partes rationis, sicut sunt
+genus et differentia, quae sunt partes definitionis: sive sint partes integrales alicuius compositi, sicut ex lapidibus
+et lignis fit domus.
+Si ergo sit tale praedicatum quod attribuatur rei, requiritur ad unitatem enunciationis quod illa multa quae
+significantur, concurrant in unum secundum aliquem dictorum modorum; unde non sufficeret sola unitas vocis.
+Si vero sit tale praedicatum quod referatur ad vocem, sufficiet unitas vocis; ut si dicam, canis est nomen.
+|#9 Deinde cum dicit: ut si quis etc., exemplificat quod dictum est, ut si aliquis hoc nomen tunica imponat ad
+significandum hominem et equum: et sic, si dicam, tunica est alba, non est affirmatio una, neque negatio una.
+Deinde cum dicit: nihil enim differt etc., probat quod dixerat tali ratione. Si tunica significat hominem et equum,
+nihil differt si dicatur, tunica est alba, aut si dicatur, homo est albus, et, equus est albus; sed istae, homo est
+albus, et equus est albus, significant multa et sunt plures enunciationes; ergo etiam ista, tunica est alba, multa
+significat.
+Et hoc si significet hominem et equum ut res diversas: si vero significet hominem et equum ut componentia
+unam rem, nihil significat, quia non est aliqua res quae componatur ex homine et equo.
+Quod autem dicit quod non differt dicere, tunica est alba, et, homo est albus, et, equus est albus, non est
+intelligendum quantum ad veritatem et falsitatem. Nam haec copulativa, homo est albus et equus est albus, non
+potest esse vera nisi utraque pars sit vera: sed haec, tunica est alba, praedicta positione facta, potest esse vera
+etiam altera existente falsa; alioquin non oporteret distinguere multiplices propositiones ad solvendum rationes
+sophisticas.
+Sed hoc est intelligendum quantum ad unitatem et multiplicitatem. Nam sicut cum dicitur, homo est albus et
+equus est albus, non invenitur aliqua una res cui attribuatur praedicatum; ita etiam nec cum dicitur, tunica est
+alba.
+|#10 Deinde cum dicit: quare nec in his etc., concludit ex praemissis quod nec in his affirmationibus et
+negationibus, quae utuntur subiecto aequivoco, semper oportet unam esse veram et aliam falsam, quia scilicet
+negatio potest aliud negare quam affirmatio affirmet.
+
+30
+
+

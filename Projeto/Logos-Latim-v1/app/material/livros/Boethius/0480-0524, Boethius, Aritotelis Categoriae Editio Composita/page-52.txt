@@ -1,0 +1,62 @@
+etiam si unus homo albus non fuerit, uera est. Quare non significant idem.
+Dico autem, quoniam nec omnino, quotienscumque dictum fuerit:
+Non est homo albus
+mox significat quoniam nullus homo albus est. Nam cum dico:
+Nullus homo albus est
+haec eadem significat quoniam non est homo albus (uniuersalis enim intra se continet indefinitam): /172/ cum
+autem dicimus:
+Non est homo albus
+non omnino significat nullus homo albus est, indefinita enim non intra se continet uniuersalem. Superius
+namque monstrauimus, quod indefinitae uim particularium optinerent. Quare si, cum est uniuersalis negatio, est
+indefinita negatio, cum uero est indefinita negatio, non omnino est uniuersalis negatio, non conuertitur secundum
+subsistendi consequentiam. Quare non sunt simul. Quae enim non conuertuntur, simul non sunt, ut nos
+Praedicamentorum liber edocuit.
+Quare neque idem significant negationes:
+Non est homo albus
+Nullus homo albus est
+neque simul sunt, quoniam non conuertuntur ad consequentiam subsistendi.
+Syrianus tamen nititur indefinitam negationem uim definitae optinere negationis ostendere. Hoc multis probare
+nititur argumentis Aristotele maxime reclamante. Nec hoc tantum suis sed Platonicis quoque Aristotelicisque rationibus
+probare contendit: eam quae dicit:
+Non est homo iustus
+huiusmodi esse qualis est ea quae dicit:
+Nullus homo iustus est
+Sed nos auctoritati Aristotelicae seruientes id quod ab illo ueraciter dicitur approbamus. Nam quod Syrianus
+dicit indefinitam quidem affirmationem particularis optinere uim, indefinitam uero negationem uniuersalis, quam
+mendaciter diceretur quamque utraeque in particularibus rectissime proponerentur, et supra monstrauimus et in his
+libris quos de categoricis syllogismis composuimus in primo libro diligenter expressimus.
+Nunc nobis ipse quoque Aristoteles testis est et Syrianus facillima ratione conuincitur, quod in Analyticis
+quoque ex duabus indefinitis dicit non posse colligi syllogismum /173/ cum ex affirmatiua particulari et negatiua
+uniuersali particularis negatiua possit esse collectio. Quod si indefinitae affirmatio et negatio et negationis uniuersalis et
+particularis affirmationis uim optinerent, numquam diceret Aristoteles has propositiones non colligere syllogismum.
+Sed illud uerius est, quoniam ex duabus particularibus nihil in qualibet propositionum complexione colligitur, quod in
+his propositionibus quae indefinitae sunt nihil colligi dixit, quia particularium uim propositiones indefinitas arbitratus
+est optinere. Quare multis modis Syriani argumenta franguntur.
+Sed nos expositionis cursum ad sequentia conuertamus.
+MANIFESTUM EST AUTEM QUONIAM UNA NEGATIO UNIUS AFFIRMATIONIS EST; HOC ENIM
+IDEM OPORTET NEGARE NEGATIONEM, QUOD AFFIRMAUIT AFFIRMATIO, ET DE EODEM, VEL DE
+ALIQUO SINGULARIUM VEL DE ALIQUO UNIVERSALIUM, VEL UNIVERSALITER VEL NON
+UNIVERSALITER. DICO AUTEM UT EST SOCRATES ALBUS, NON EST SOCRATES ALBUS. SI AUTEM
+ALIUD ALIQUID VEL DE ALIO IDEM, NON OPPOSITA SED ERIT AB EA DIVERSA. HUIC VERO QUAE EST
+OMNIS HOMO ALBUS EST ILLA QUAE EST NON OMNIS HOMO ALBUS EST, ILLI VERO QUAE EST
+ALIQUI HOMO ALBUS EST ILLA QUAE EST NULLUS HOMO ALBUS EST, ILLI AUTEM QUAE EST EST
+HOMO ALBUS ILLA QUAE EST NON EST HOMO ALBUS.
+Hinc quoque apparet affirmationem indefinitam et /174/ indefinitam negationem non semper unam in ueritate
+aliam in falsitate consistere.
+Atque hinc docetur indefinitam negationem non idem ualere, quod uniuersalis negatio potest, et est alia
+uniuersalis, alia indefinita negatio. Nam si unicuique affirmationi una negatio uidetur opponi cumque diuersae sint
+affirmatio quae dicit:
+Est homo albus
+et ea quae dicit:
+Est quidam homo albus
+diuersas quoque habebunt in negationibus enuntiationes. Et illa quidem quae indefinita est affirmatio habebit
+indefinitam negationem, ut ea quae dicit:
+Est homo albus
+huic opponitur:
+Non est homo albus
+ea uero quae dicit:
+Est quidam homo albus
+negationem habebit oppositam eam quae dicit:
+Nullus homo albus est
+
+

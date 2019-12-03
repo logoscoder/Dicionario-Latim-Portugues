@@ -1,0 +1,62 @@
+Quarto utrum caritas sit una virtus.
+PR5
+Quinto utrum caritas sit virtus specialis.
+PR6
+Sexto utrum caritas possit esse cum peccato mortali.
+PR7
+Septimo utrum obiectum diligibile ex caritate sit rationalis natura.
+PR8
+Octavo utrum diligere inimicos sit de perfectione consilii.
+PR9
+Nono utrum ordo aliquis sit in caritate.
+PR10
+Decimo utrum sit possibile caritatem esse perfectam in hac vita.
+PR11
+Undecimo utrum omnes teneantur ad perfectam caritatem.
+PR12
+Duodecimo utrum caritas semel habita possit amitti.
+PR13
+Tertiodecimo utrum per unum actum peccati mortalis caritas amittatur.
+|a1 Articulus 1
+TTA
+Et primo quaeritur utrum caritas sit aliquid creatum in anima vel sit ipse spiritus sanctus.
+TTB
+Et videtur quod caritas non sit aliquid creatum in anima.
+AG1
+Sicut enim dicit Augustinus, sicut anima est vita corporis, ita Deus est vita animae.
+Sed anima est vita corporis sine medio.
+Ergo et Deus est vita animae sine medio.
+Cum igitur vita animae sit ex hoc quod est in caritate: quia qui non diligit, manet in morte, ut dicitur I Ioan. III,
+14, homo non est in caritate per aliquid quod sit medium inter Deum et hominem, sed per ipsum Deum. Caritas
+ergo non est aliquid creatum in anima, sed ipse Deus.
+AG2
+Sed dicebatur, quod similitudo illa attenditur quantum ad hoc quod anima est vita corporis hominis ut motor, non
+quantum ad hoc quod est vita corporis ut forma. Sed contra, quanto aliquod agens est virtuosius, tanto minorem
+dispositionem requirit in patiente: ignis enim magnus sufficiens est etiam ligna minus desiccata comburere. Sed
+Deus est agens infinitae virtutis. Ergo si est vita animae, sicut movens ipsam ad diligendum; videtur quod non
+requiratur aliqua dispositio creata ex parte ipsius animae.
+AG3
+Praeterea, inter ea quae sunt idem, non cadit medium. Sed anima diligens Deum est idem cum Deo: quia, ut
+dicitur I ad corinth.
+Cap. VI, 17, qui adhaeret Deo, unus spiritus est. Ergo non cadit aliqua caritas creata media inter animam
+diligentem et Deum dilectum.
+AG4
+Praeterea, dilectio qua diligimus proximum caritas est. Sed dilectio qua diligimus proximum, ipse Deus est; dicit
+enim Augustinus in VIII de Trinit.: qui proximum diligit, consequens est ut ipsam dilectionem diligat. Deus
+autem dilectio est.
+Consequens ergo est ut praecipue Deum diligat.
+Ergo caritas non est aliquid creatum, sed ipse Deus.
+AG5
+Sed dicebatur, quod Deus est dilectio qua diligimus proximum causaliter. Sed contra, Augustinus in eodem dicit,
+quod cum testimonio verborum ioannis aperte declarat, ipsam supernam dilectionem, qua nos diligimus invicem,
+non solum ex Deo esse, sed etiam Deum esse. Non solum ergo causaliter, sed essentialiter dilectio Deus est.
+AG6
+Praeterea, Augustinus dicit in V de trinitate: non dicturi sumus caritatem non propterea esse dictam Deum, quod
+ipsa caritas sit ipsa substantia quae Dei digna sit nomine; sed quod donum sit Dei, sicut dictum est de eo: tu es
+patientia mea; quia ab ipso nobis est. Non autem sic dictum est: Domine, tu caritas mea; sed ita dictum est: Deus
+caritas est; sicut dictum est: Deus spiritus est. Videtur ergo quod Deus dicatur caritas non solum causaliter, sed
+essentialiter.
+AG7
+47
+
+

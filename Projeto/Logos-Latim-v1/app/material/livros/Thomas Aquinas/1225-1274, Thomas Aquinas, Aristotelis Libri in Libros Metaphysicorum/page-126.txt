@@ -1,0 +1,56 @@
+Dicit autem causas singulares, quia actus singularium sunt, ut in primo huius habitum est.
+|+4 Lectio 4
+|#1 Hic distinguit hoc nomen elementum.
+Circa quod duo facit. Primo assignat diversos modos elementi. Secundo ostendit quid in omnibus sit commune,
+ibi, omnium autem commune.
+Circa primum duo facit. Primo ostendit quomodo elementum proprie dicatur.
+Secundo quomodo dicatur transumptive, ibi, et transferentes elementum etc..
+Ponit ergo primo, quamdam elementi descriptionem; ex qua colligi potest, quod quatuor sunt de ratione elementi.
+Quorum primum est, ut sit causa sicut ex quo: per quod patet, quod elementum ponitur in genere causae
+materialis.
+|#2 Secundum est, quod sit principium ex quo aliquid fiat primo. Cuprum enim est ex quo fit statua; non tamen
+est elementum, quia habet aliquam aliam materiam ex qua fit.
+|#3 Tertium est, quod sit inexistens sive intrinsecum: per quod differt elementum ab omni eo ex quo fit aliquid
+sicut ex transeunte, sive sit privatio, aut contrarium, sive materia contrarietati et privationi subiecta, quae est
+materia transiens.
+Ut cum dicimus, quod homo musicus fit ex homine non musico, vel musicum ex non musico. Elementa enim
+oportet manere in his quorum sunt elementa.
+|#4 Quartum est, quod habeat aliquam speciem, quae non dividatur in diversas species: per quod differt
+elementum a materia prima, qua nullam speciem habet, et etiam ab omnibus materiis, quae in diversas species
+resolvi possunt, sicut sanguis et huiusmodi. Propter hoc dicit, quod elementum est ex quo aliquid componitur,
+quantum ad primum. Primo, quantum ad secundum. Inexistente, quantum ad tertium. Indivisibili specie in aliam
+speciem, quantum ad quartum.
+|#5 Hanc autem definitionem manifestat in quatuor, in quibus utimur nomine elementi. Dicimus enim ipsas
+literas esse elementa vocis, quia ex eis omnis vox componitur, et primo. Quod ex hoc patet, quia omnes voces in
+literas resolvuntur, sicut in ultima. Quod est enim ultimum in resolutione, oportet esse primum in compositione.
+Literae autem non resolvuntur ulterius in alias voces specie diversas. Sed, si aliquo modo dividantur, particulae
+in quas fit divisio, erunt conformes, idest unius speciei, sicut omnes particulae aquae sunt aqua. Dividitur autem
+litera secundum tempora prolationis, prout litera longa dicitur habere duo tempora, brevis vero unum. Nec tamen
+partes, in quas sic dividuntur literae, sunt diversae secundum speciem vocis. Non est autem ita de syllaba: nam
+eius partes sunt diversae secundum speciem: alius enim sonus est secundum speciem, quem facit vocalis et
+consonans, ex quibus syllaba componitur.
+|#6
+Secundum exemplum ponit in corporibus naturalibus, in quibus etiam quaedam dicimus elementa
+quorumdam.
+Illa enim dicuntur corporum esse elementa, in quae ultimo resolvuntur omnia corpora mixta: et per consequens
+ea sunt, ex quibus primo componuntur huiusmodi corpora.
+Ipsa autem corpora, quae elementa dicuntur, non dividuntur in alia corpora specie differentia, sed in partes
+consimiles, sicut quaelibet pars aquae est aqua. Et quicumque posuerunt tale corpus esse unum, scilicet in quod
+omnia resolvuntur, et ipsum non resolvitur in alia, dixerunt unum esse elementum. Quidam vero aquam, quidam
+autem aerem, quidam autem ignem. Qui vero posuerunt plura talia corpora, dixerunt etiam esse elementa plura.
+Sciendum est, quod cum in definitione elementi ponatur, quod non dividitur in diversa secundum speciem, non
+est intelligendum de partibus in quas aliquid dividitur divisione quantitatis: sic enim lignum esset elementum,
+quia quaelibet pars ligni est lignum: sed de divisione, quae fit secundum alterationem, sicut corpora mixta
+resolvuntur in simplicia.
+|#7 Tertium exemplum ponit in demonstrationibus; in quibus etiam utimur nomine elementi, sicut dicitur liber
+elementorum euclidis. Et dicit, quod modo simili et propinquo dictis dicuntur elementa, quae sunt
+diagrammatum, idest descriptionum geometralium elementa. Et non solum hoc potest dici in geometria, sed
+universaliter in omnibus demonstrationibus.
+Illae enim demonstrationes, quae existunt in tribus terminis tantum, dicuntur esse aliorum elementa. Nam ex his
+componuntur aliae demonstrationes, et in ea resolvuntur. Quod sic patet. Secunda enim demonstratio accipit pro
+principio conclusionem primae demonstrationis, inter cuius terminos intelligitur medium, quod fuit primae
+demonstrationis principium. Et sic secunda demonstratio erit ex quatuor terminis; prima ex tribus tantum, tertia
+vero ex quinque, quarta ex sex, et sic quaelibet demonstratio unum terminum addit. In quo manifestum est
+126
+
+

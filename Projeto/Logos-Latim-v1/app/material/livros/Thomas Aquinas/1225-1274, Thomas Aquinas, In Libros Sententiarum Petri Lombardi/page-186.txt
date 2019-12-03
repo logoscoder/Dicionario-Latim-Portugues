@@ -1,0 +1,58 @@
+Aequalitatis autem, qualis aut quantus sit.
+Videtur hoc esse falsum: quia unitas qualitatis non causat aequalitatem, sed similitudinem, ut Philosophus dicit.
+Sed dicendum, quod in divinis non attenditur aequalitas nisi secundum quantitatem virtutis. Haec autem
+quantitas in qualitate fundatur; et ideo dicitur secundum qualitatem aequalitas attendi.
+
+|+d21.q1 Distinctio 21, Quaestio 1
+|a0 Prologus
+Ostensa aequalitate personarum, quia usus fuit Magister quibusdam locutionibus in sua propositione, in quibus
+dictiones exclusivae terminis personalibus addebantur, ut cum dicitur: solus pater tantum habet de potentia,
+quantum omnes tres simul; et similia: ideo in parte ista inquirit de veritate omnium locutionum, qualiter
+hujusmodi dictiones exclusivae nominibus divinis adjungi possint. Dividitur ergo in partes duas: in prima
+inquirit, utrum dictio exclusiva possit adjungi nomini personali in subjecto posito cum praedicato personali; in
+secunda inquirit, utrum possit adjungi nomini personali quando praedicatur de ipso essentiale, verbi gratia: solus
+pater est Deus, ibi: post haec quaeritur, utrum, sicut dicitur, solus pater est pater, vel, solus filius est filius; ita
+possit dici, solus pater est Deus, vel, solus filius est Deus. Et haec in duas: in prima ostendit quod hujusmodi
+locutiones non sint concedendae simpliciter, ut cum dicitur: solus pater est Deus; in secunda ostendit quod
+secundum aliquem intellectum concedi possunt; et si concedantur, non sequitur inconveniens, ibi: verumtamen,
+ut ait Augustinus, etsi de solo patre praedicta dicerentur, non tamen excluderetur filius vel spiritus sanctus. Prima
+in duas: in prima ostendit quod dictio exclusiva non potest poni ex parte subjecti, quando nomen essentiale de
+persona praedicatur, ut cum dicitur: solus pater est Deus; in secunda ostendit quod nec addi potest ex parte
+praedicati, ut dicatur: pater est solus Deus; quamvis quidam contrarium dicant, quorum dicta auctoritatibus
+Augustini refellit, ibi: atque solum hic in parte subjecti tantum accipere quidam volunt.
+Et haec in duas: in prima ostendit quod nomen essentiale adjunctum dictioni exclusivae, non potest praedicari de
+singulis personis, ut dicatur: pater est solus Deus, et filius est solus Deus; sed de omnibus simul, ut dicatur:
+trinitas est solus Deus; in secunda inquirit, quomodo talis praedicatio de trinitate verificari possit, ibi: sed iterum
+quaeritur, quomodo ipsam trinitatem dicimus solum Deum.
+Hic quaeruntur duo. Primo, utrum dictio exclusiva possit in divinis addi ex parte subjecti. Secundo, utrum ex
+parte praedicati.
+Circa primum quaeruntur duo: 1 utrum possit addi ex parte subjecti termino essentiali cum praedicato essentiali
+vel personali; 2 utrum possit addi termino personali cum praedicato essentiali.
+|a1 Articulus 1: Utrum ista propositio, solus Deus est Deus, sit falsa.
+Articulus 1A
+AG1
+Ad primum sic proceditur. Videtur quod haec sit falsa: solus Deus est Deus. Omne enim adjectivum ponit rem
+suam circa suum substantivum.
+Sed solus est quoddam adjectivum. Ergo cum dicitur: solus Deus, implicat solitudinem circa Deum. Sed sicut
+dicit Hilarius, et habitum est supra distinctione 2, nobis neque solitarius est Deus, neque diversus confitendus.
+Ergo videtur quod haec sit falsa: solus Deus est Deus.
+AG2
+Praeterea, hoc nomen Deus intantum habet naturam termini communis, ut quod de Deo dicitur de omnibus
+personis dicatur, ut cum dicitur: Deus creat; vel saltem de aliqua, ut cum dicitur: Deus generat. Unde potest fieri
+descensus sub hoc nomine Deus, in subjecto posito pro aliqua personarum. Si igitur haec est vera: solus Deus est
+Deus, aliqua istarum erit vera: solus pater est Deus, vel solus filius est Deus, vel solus spiritus sanctus est Deus.
+Sed quaelibet harum falsa est. Ergo et prima.
+AG3
+Item, secundum Philosophum, solum idem est quod non cum alio.
+Sed Deo, praecipue post rerum creationem, nunquam convenit cum alio non esse, quia in participationem sui
+esse res creando adduxit. Ergo non potest dici aliquo modo solus Deus.
+AG4
+Contra, proprium est quod convenit uni soli.
+Sed esse divinum vel omnipotentem est proprium Deo. Ergo solus Deus est Deus vel omnipotens.
+CO
+Respondeo dicendum, quod, secundum Philosophum, solum idem est quod non cum alio, in quo consortium
+removetur.
+
+186
+
+

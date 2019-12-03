@@ -1,0 +1,53 @@
+OPERA OMNIA
+SANCTI THOMAE AQUINATIS
+-----oOo----Textum electronicum praeparavit et indexavit
+Ricardo M. Rom n, S. R. E. Presbyterus
+Bonis Auris, MCMXCVIII
+
+|*DE_PROP._MODALIBUS
+DE PROPOSITIONIBUS MODALIBUS
+(Dubiae authenticitatis)
+Quia propositio modalis a modo dicitur, ad sciendum quid sit propositio modalis oportet prius scire quid sit
+modus.
+Est autem modus determinatio adiacens rei, quae quidem fit per adiectionem nominis adiectivi, quod determinat
+substantivum, ut cum dicitur homo est albus, vel per adverbium, quod determinat verbum, ut homo currit bene.
+Sciendum etiam quod triplex est modus. Quidam determinat subiectum propositionis, ut homo albus currit.
+Quidam determinat praedicatum, ut socrates est homo albus, vel socrates currit velociter.
+Quidam determinat compositionem ipsam praedicati ad subiectum, ut cum dicitur socrates currere est
+impossibile: et ab hoc solo modo dicitur propositio modalis. Aliae vero propositiones quae modales non sunt,
+dicuntur de inesse.
+Modi autem qui compositionem determinant, sunt sex, scilicet: verum, falsum, necessarium, impossibile,
+possibile, contingens.
+Verum autem et falsum nihil addunt supra significationes propositionum de inesse: idem enim significatur cum
+dicitur socrates non currit et socrates currere est falsum, et socrates currit, et socrates currere est verum. Quod
+non contingit de aliis quatuor modis, quia non idem significatur cum dicitur socrates currit et socrates currere est
+possibile.
+Et ideo praetermisso de vero et falso, de aliis quatuor consideremus.
+Quia vero praedicatum determinat subiectum, et non e converso, ideo ad hoc quod propositio sit modalis oportet
+quod quatuor praedicti modi praedicentur, et verbum importans compositionem ponatur pro subiecto: quod
+quidem fit si pro verbo indicativo propositionis sumatur infinitivus, et pro nominativo accusativus; et dicitur
+dictum propositionis, sicut huius propositionis socratem currit, dictum est socratem currere. Quando ergo dictum
+ponitur pro subiecto, et modus pro praedicato, tunc est propositio modalis, ut cum dicitur socratem currere est
+possibile.
+Si autem convertatur, erit de inesse, ut possibile est socratem currere.
+Propositionum autem modalium quaedam est de dicto, quaedam est de re.
+Modalis de dicto est, in qua totum dictum subiicitur et modus praedicatur, ut socrates currere est possibile;
+modalis de re est, in qua modus interponitur dicto, ut socratem possibile est currere. Sciendum est autem quod
+omnes modales de dicto sunt singulares, eo quod modus praedicatur de hoc vel de illo sicut de quodam singulari.
+Modalis autem de re diiudicatur: universalis, particularis, indefinita vel singularis secundum subiectum dicti,
+sicut de propositionibus de inesse; unde haec omnem hominem possibile est currere est universalis, et sic de
+aliis.
+Item sciendum est quod propositio modalis dicitur affirmativa vel negativa secundum affirmationem vel
+negationem modi, et non dicti: unde haec socratem non currere est possibile est affirmativa; haec vero socratem
+currere non est possibile est negativa. Attendendum est autem quod necessarium habet similitudinem cum signo
+universali affirmativo, quia quod necesse est esse, semper est; impossibile cum signo universali negativo, quia
+quod est impossibile esse, nunquam est. Contingens vero et possibile similitudinem habent cum signo particulari:
+quia quod est contingens et possibile, quandoque est, quandoque non est. Et ideo necesse est esse et impossibile
+est esse sunt contrariae; et possibile est esse et possibile est non esse subcontrariae; necesse est esse et possibile
+est esse subalternantur, et similiter impossibile est esse et possibile est non esse; sed necesse est esse et possibile
+est non esse contradictoriantur, similiter impossibile est esse et possibile est esse, ut patet in sequenti figura.
+Notandum, quod omnes propositiones, quae sunt in eodem ordine, aequipollent. Lex autem et modus
+argumentandi in contrariis, subalternis et contradictoriis eodem modo attenditur in his sicut in propositionibus de
+1
+
+

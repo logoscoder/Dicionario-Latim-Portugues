@@ -1,0 +1,61 @@
+ratione erit tertia res quae est quod quid erat esse ei, quod est quod quid esse unius; et sic in infinitum. Cum ergo non sit
+procedere in infinitum, palam est quod unum et idem est in his, quae dicuntur primo et per se, et non per accidens,
+unumquodque et id quod est unicuique esse, idem esse.
+[82943] In Metaphysic., lib. 7 l. 5 n. 22
+Deinde cum dicit sophistici autem dicit palam esse quod eadem solutione qua soluta est prima quaestio, solvuntur
+sophistici elenchi, qui faciunt ad hanc positionem, ad ostendendum scilicet quod non idem sunt quod quid erat esse rei
+et res. Ut cum quaerunt sophistae, si est idem Socrates et Socrati esse, et ostendunt, quod non, quia si idem est Socrates
+et Socrati esse, Socrates autem est albus, sequetur quod idem sit album et Socrati esse et cetera. Solutio patet ex
+praecedentibus. Sic enim non differt, nec ex quibus interrogabit aliquis, nec ex quibus fuerit solvens, idest non differt
+ex quibus procedat aliquis argumentando, nec quibus quaestionibus adaptet aliquis solutionem, dummodo sit eadem
+radix solutionis. Patet igitur ex dictis, quando quod quid erat esse uniuscuiusque est idem cum unoquoque, et quando
+non. Est enim idem in his quae sunt per se, non in his quae sunt per accidens.
+[82944] In Metaphysic., lib. 7 l. 5 n. 23
+Sciendum est etiam ad evidentiam eorum, quae dicta sunt, quod quod quid est esse est id quod definitio significat.
+Unde, cum definitio praedicetur de definito, oportet quod quid est esse de definito praedicari. Non igitur est quod quid
+est esse hominis humanitas quae de homine non praedicatur, sed animal rationale mortale. Humanitas enim non
+respondetur quaerenti quid est homo, sed animal rationale et mortale. Sed tamen humanitas accipitur ut principium
+formale eius, quod est quod quid erat esse; sicut animalitas sumitur ut principium generis, et non genus; rationalitas ut
+principium differentiae, et non ut differentia.
+[82945] In Metaphysic., lib. 7 l. 5 n. 24
+Humanitas autem pro tanto non est omnino idem cum homine, quia importat tantum principia essentialia hominis, et
+exclusionem omnium accidentium. Est enim humanitas, qua homo est homo: nullum autem accidentium hominis est,
+quo homo sit homo, unde omnia accidentia hominis excluduntur a significatione humanitatis. Hoc autem ipsum quod
+est homo, est quod habet principia essentialia, et cui possunt accidentia inesse. Unde, licet in significatione hominis non
+includantur accidentia eius, non tamen homo significat aliquid separatum ab accidentibus; et ideo homo significat ut
+totum, humanitas significat ut pars.
+[82946] In Metaphysic., lib. 7 l. 5 n. 25
+Si autem est aliqua res, in qua non sit aliquod accidens, ibi necesse est, quod nihil differat abstractum a concreto. Quod
+maxime patet in Deo.
+Lectio 6
+[82947] In Metaphysic., lib. 7 l. 6 n. 1
+Postquam philosophus ostendit quid est quod quid erat esse, et quorum est, et quod non est aliud ab eo cuius est, hic
+intendit ostendere, quod quidditates et formae existentes in istis sensibilibus non generantur ab aliquibus formis extra
+materiam existentibus, sed a formis quae sunt in materia. Et hic erit unus modorum, quo destruitur positio Platonis
+ponentis species separatas, quas ponebat esse necessarias ad hoc, quod per eas scientia de istis rebus sensibilibus
+haberetur, et ad hoc, quod earum participatione res sensibiles existerent, et ad hoc, quod essent principia generationis
+rerum sensibilium. Ostendit autem iam in praecedenti capitulo, quod species separatae non sunt necessariae ad
+scientiam rerum sensibilium, nec ad esse earum; cum ad hoc sufficiat quod quid est rei sensibilis in re sensibili
+existens, et idem ei. Unde restat ostendere, quod species separatae non sunt necessariae ad generationem sensibilium,
+quod ostendit in hoc capitulo. Dividitur ergo in partes duas. In prima praemittit quaedam, quae sunt necessaria ad
+propositum ostendendum. In secunda ostendit propositum, ibi, quoniam vero ab aliquo fit quod fit. Circa primum duo
+facit. Primo proponit quasdam divisiones circa rerum generationem. Secundo manifestat eas, ibi, et generationes autem
+naturales. Ponit autem duas divisiones: quarum prima accipitur penes ea quae generantur, et modum generationis.
+Secunda penes ea quae ad generationem requiruntur: et hanc ponit ibi, omnia vero quae fiunt. Dicit ergo primo, quod
+eorum quae fiunt, quaedam fiunt a natura, quaedam ab arte, et quaedam a casu sive automato, idest per se vano. Cuius
+divisionis ratio est, quia causa generationis, aut est causa per se, aut est causa per accidens. Si enim est causa per se: vel
+est principium motus in quo est, et sic est natura; vel est extra ipsum, et sic est ars. Natura enim est principium motus,
+in eo in quo est. Ars vero non est in artificiato quod fit per artem, sed in alio.
+[82948] In Metaphysic., lib. 7 l. 6 n. 2
+Si vero est causa per accidens, sic est casus et fortuna. Fortuna quidem in his quae aguntur ab intellectu. Casus autem
+etiam in aliis. Utrumque vero sub automato, idest sub per se vano comprehenditur, quia vanum est quod est ordinatum
+ad finem, et non attingit ad illum. Et tam casus quam fortuna invenitur in his quae fiunt propter aliquid, cum accidit
+aliquid praeter id quod intendebatur ab aliqua causa per se determinata. Unde et per se dicitur, inquantum causam
+determinatam habet; et vanum, inquantum praeter intentionem accidit.
+[82949] In Metaphysic., lib. 7 l. 6 n. 3
+Deinde cum dicit omnia vero ponit secundam divisionem, quae sumitur penes ea, quae ad generationem requiruntur.
+Omnia enim quae fiunt, fiunt ab aliquo agente, et ex aliquo, sicut ex materia, et iterum fiunt aliquid quod est terminus
+generationis. Et, quia supra dixerat quod hoc aliquid proprie est in substantiis, ideo hic docet generalius esse
+sumendum, ut per aliquid intelligatur quodlibet praedicamentum, in quo potest esse generatio simpliciter vel secundum
+
+

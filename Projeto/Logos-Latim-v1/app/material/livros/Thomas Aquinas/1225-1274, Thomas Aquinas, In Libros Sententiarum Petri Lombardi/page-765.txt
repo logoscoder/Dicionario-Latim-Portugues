@@ -1,0 +1,59 @@
+Alii autem dicunt, unam esse voluntatem. Ista opinio videbatur ponere, quod quia voluntas naturaliter vult
+bonum, iste motus voluntatis semper maneat, et secundum additionem actus voluntatis deliberative dicitur bonus
+vel malus simpliciter.
+Sed si per motum intelligebant actum quemdam voluntatis, qui est operatio; sic falsum dicebant: quia voluntas
+non est determinata naturaliter ad unum, ut semper agat. Si autem per motum intelligebant inclinationem
+voluntatis in bonum, sic verum dicebant; quia illa inclinatio semper manet eadem, sive quis ex deliberatione
+bonum sive malum velit.
+
+|+d40.q1 Distinctio 40, Quaestio 1
+|a0 Prologus
+In parte praecedenti determinavit de peccato, secundum quod in actu voluntatis consistit; in parte ista determinat
+de eo, secundum quod consistit in actu exteriori, et dividitur in partes duas: in prima parte ostendit, unde actus
+exteriores dicantur boni vel mali; in secunda movet quasdam quaestiones circa praedeterminata, 41 dist.: cumque
+intentio, ut supra dictum est, bonum opus faciat, et fides intentionem dirigat, non immerito quaeritur, utrum
+omnis intentio, omneque illorum opus malum sit qui fidem non habent. Prima dividitur in duas: in prima ostendit
+actus exteriores ex voluntate bonos vel malos esse; in secunda inquirit, utrum sit verum universaliter in omnibus:
+sed quaeritur utrum opera omnia hominis ex affectu et fine sint bona vel mala. Et dividitur in duas: in prima ad
+determinationem quaestionis inducit duas opiniones; in secunda inducit tertiam, quae utrique quantum ad aliquid
+contradicit, ibi: Augustinus evidentissime docet... Omnes actus secundum intentionem et causam judicandos
+bonos vel malos praeter quosdam. Et dividitur in duas; in prima confirmat hanc tertiam opinionem per dicta
+Augustini; in secunda ostendit, quomodo illi qui alias opiniones sustinent, auctoritates inductas solvunt, ibi: quae
+tamen quidam contendunt nunquam habere bonam causam.
+Hic quinque quaeruntur: 1 utrum bonum et malum sint differentiae specificae actionis; 2 si bonitas et malitia
+exterioris actus ex voluntate dependent; 3 si actus exterior addat in bonitate et malitia supra interiorem actum
+voluntatis; 4 si eadem actio potest esse bona et mala; 5 si aliqua actio potest esse hoc modo indifferens ut neque
+sit bona neque mala.
+|a1 Articulus 1: Utrum bonum et malum sint differentiae essentiales actionis.
+AG1
+Circa primum sic proceditur. Videtur quod bonum et malum non sunt essentiales differentiae actionis. Nulla
+enim essentialis differentia convenit secundum quid alicui, sed per se. Bonum autem et malum non conveniunt
+actioni secundum quod actio, sed secundum objectum et finem. Ergo bonum et malum non sunt essentiales
+differentiae actionis.
+AG2
+Praeterea, omnis differentia, ut in 4 metaph.
+Dicitur, entis et unius praedicationem recipit. Sed malum, cum sit privatio, est non ens.
+Ergo non potest esse essentialis differentia actionis.
+AG3
+Praeterea, essentialis differentia est de essentia ejus cujus est differentia constitutiva; sicut rationale de essentia
+hominis. Si ergo bonum et malum sunt differentiae essentiales actionis, aliqua actio erit de cujus essentia est
+malum. Sed nullum malum est a Deo. Ergo erit aliqua actio cujus essentia non est a Deo, quod supra improbatum
+est.
+AG4
+Praeterea, ea quae differunt per differentias essentiales, non conveniunt in specie. Sed in quibusdam actiones
+bonae et malae sunt eaedem specie; sicut concubitus matrimonialis et fornicarius: cum idem effectus in specie
+per utramque actionem sequatur, scilicet hominis generatio. Ergo bonum et malum non sunt differentiae
+essentiales actionis.
+AG5
+Praeterea, sicut bonum et malum invenitur in actionibus hominis et habitibus; ita etiam invenitur in aliis rebus.
+Sed in aliis bonum et malum non sunt essentiales differentiae. Ergo nec in hominum actionibus.
+SC1
+Sed contra, illud quod ponitur in definitione alicujus est essentiale sibi. Sed bonum ponitur in definitione virtutis
+ab Augustino dicente, quod virtus est bona qualitas mentis, ut supra, 27 dist.
+Dictum est. Ergo malum et bonum sunt differentiae essentiales habituum. Sed secundum differentiam habituum
+est differentia actionum ex habitibus procedentium, cum similes habitus similes actus reddant, ut in 2 ethic.
+Dicitur. Ergo bonum et malum sunt essentiales differentiae actionum.
+SC2
+765
+
+

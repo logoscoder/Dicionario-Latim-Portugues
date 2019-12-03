@@ -1,0 +1,58 @@
+primo subiecto, puta numero, quasi praedicata de eo: quia si impar per se praedicatur de numero, oportet quod
+quidquid per se praedicatur de impari, etiam per se praedicetur de numero. Et iterum oportet quod numerus
+omnibus illis insit; quia si numerus ponitur in definitione imparis, oportet quod ponatur in definitione omnium
+eorum, quae definiuntur per impar. Et ita sequitur quod mutuo sibi invicem insint. Ergo erunt convertibilia et non
+se invicem excedentia; sic enim propriae passiones se habent ad sua subiecta. Unde si etiam sint infinita per se
+praedicata secundum hunc modum, non erit ad propositum, quo aliquis intendit ponere infinita in praedicatis
+esse, vel in sursum vel in deorsum.
+|#8 Deinde cum dicit: neque etiam quaecunque sunt etc., probat propositum in primo modo dicendi per se: et
+dicit quod illa, quae praedicantur in eo quod quid est, idest quasi posita in definitione subiecti, non possunt esse
+infinita, quia non contingeret definire, ut supra probatum est. Ex hoc ergo concludit quod si omnia, quae
+praedicantur in demonstrationibus, per se praedicantur, et in praedicatis per se non est procedere in infinitum in
+sursum, necesse est quod praedicata in demonstrationibus stent in sursum.
+Et ex hoc etiam sequitur quod stent in deorsum, quia ex quacunque parte ponatur infinitum, tollitur scientia et
+definitio, ut ex supra dictis patet.
+|#9 Deinde cum dicit: si autem sic est etc., concludit ex praemissis quod si est status in sursum et deorsum,
+quod media non contingit esse infinita.
+Supra enim ostendit quod extremis existentibus determinatis, media non possunt esse infinita.
+|#10 Deinde cum dicit: si vero hoc est etc., concludit ulterius quod in demonstrationibus non proceditur in
+infinitum: et dicit quod si praedicta sunt vera, necesse est esse aliqua prima principia demonstrationum, quae non
+demonstrantur; et sic non omnium erit demonstratio, secundum quod quidam dicunt, ut in principio huius libri
+dictum est. Et quod hoc sequatur ostendit.
+Posito enim quod sint aliqua principia demonstrationum, necesse est quod illa sint indemonstrabilia; quia cum
+omnis demonstratio sit ex prioribus, ut supra habitum est, si principia demonstrarentur, sequeretur quod aliquid
+esset prius principiis; quod est contra rationem principii.
+Et ita, si non sunt omnia demonstrabilia, sequetur quod non procedant demonstrationes in infinitum.
+Omnia autem praedicta consequuntur ex hoc quod ostensum est, quod non proceditur in infinitum in mediis: quia
+nihil est aliud ponere verum esse quodcunque praedictorum, scilicet vel quod demonstrationes procedant in
+infinitum, vel quod omnia sint demonstrabilia, vel quod nulla sint demonstrationum principia, quam ponere
+nullum spatium esse immediatum et indivisibile; idest ponere duos terminos sibi invicem non cohaerere in aliqua
+propositione affirmativa vel negativa, nisi per medium. Si enim aliqua propositio sit immediata, sequitur quod sit
+indemonstrabilis; quia cum aliquid demonstratur, oportet sumere terminum immittendo, idest, quod sit infra
+praedicatum et subiectum; de quo scilicet per prius praedicetur praedicatum quam de subiecto, vel a quo prius
+removeatur. Non autem in demonstrationibus accipitur medium assumendo extrinsecus: hoc enim esset assumere
+extraneum medium, et non proprium, quod contingit in litigiosis et dialecticis syllogismis. Si ergo
+demonstrationes contingit in infinitum procedere, sequitur quod sint media infinita inter duos terminos. Sed hoc
+est impossibile, si praedicationes steterint in sursum et deorsum, ut supra probatum est. Et quod stent
+praedicationes in sursum et deorsum, prius ostendimus logice, et postea analytice, ut expositum est. Per hanc
+igitur conclusionem ultimo inductam manifestat intentionem totius capituli, et quare quaelibet propositio sit
+inducta.
+|+36 Lectio 36
+|#1 Postquam Philosophus ostendit quod non contingit procedere in infinitum in demonstrationibus, hic inducit
+quaedam corollaria ex dictis. Et circa hoc duo facit: primo, ostendit quod necesse est accipere aliquas primas
+propositiones; secundo, quomodo illis primis sit utendum in demonstrationibus; ibi: cum autem oportet
+demonstrare etc..
+Circa primum duo facit: primo, ostendit quod necesse est devenire ad aliquod primum, quando unum de pluribus
+praedicatur; secundo, quando unum praedicatur de uno; ibi: manifestum autem etc.. Circa primum quatuor facit:
+primo, proponit intentum; secundo, manifestat propositum; ibi: ut scaleno etc.; tertio, probat; ibi: sit autem b etc.;
+quarto, excludit quamdam obviationem; ibi: in eodem quidem genere etc..
+|#2
+Dicit ergo primo, quod demonstratis praemissis, scilicet quod non sit procedere in infinitum in
+praedicationibus et demonstrationibus, manifestum est quod si aliquid praedicatur de duobus, puta a de c et d, ita
+scilicet quod unum eorum non praedicetur de altero, aut nullo modo, sicut animal praedicatur de homine et bove,
+quorum unum nullo modo de alio praedicatur, aut non de omni, puta animal praedicatur de homine et masculo,
+quorum neutrum de altero universaliter praedicatur; sic, inquam, se habentibus terminis, manifestum est quod
+
+57
+
+

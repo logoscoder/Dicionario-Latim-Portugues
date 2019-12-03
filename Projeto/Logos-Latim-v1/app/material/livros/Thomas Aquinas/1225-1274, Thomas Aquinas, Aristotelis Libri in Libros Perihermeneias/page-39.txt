@@ -1,0 +1,58 @@
+Sicut enim illud quod non est absolute necessarium, fit necessarium ex suppositione eiusdem, quia necesse est
+esse quando est; ita etiam quod non est in se necessarium absolute fit necessarium per disiunctionem oppositi,
+quia necesse est de unoquoque quod sit vel non sit, et quod futurum sit aut non sit, et hoc sub disiunctione: et
+haec necessitas fundatur super hoc principium quod, impossibile est contradictoria simul esse vera vel falsa.
+Unde impossibile est neque esse neque non esse; ergo necesse est vel esse vel non esse.
+Non tamen si divisim alterum accipiatur, necesse est illud esse absolute.
+Et hoc manifestat per exemplum: quia necessarium est navale bellum esse futurum cras vel non esse; sed non est
+necesse navale bellum futurum esse cras; similiter etiam non est necessarium non esse futurum, quia hoc pertinet
+ad necessitatem absolutam; sed necesse est quod vel sit futurum cras vel non sit futurum: hoc enim pertinet ad
+necessitatem quae est sub disiunctione.
+|#4 Deinde cum dicit: quare quoniam etc. Ex eo quod se habet circa res, ostendit qualiter se habeat circa
+orationes.
+Et primo, ostendit quomodo uniformiter se habet in veritate orationum, sicut circa esse rerum et non esse;
+secundo, finaliter concludit veritatem totius dubitationis; ibi: quare manifestum etc..
+Dicit ergo primo quod, quia hoc modo se habent orationes enunciativae ad veritatem sicut et res ad esse vel non
+esse (quia ex eo quod res est vel non est, oratio est vera vel falsa), consequens est quod in omnibus rebus quae ita
+se habent ut sint ad utrumlibet, et quaecumque ita se habent quod contradictoria eorum qualitercumque
+contingere possunt, sive aequaliter sive alterum ut in pluribus, ex necessitate sequitur quod etiam similiter se
+habeat contradictio enunciationum.
+Et exponit consequenter quae sint illae res, quarum contradictoria contingere queant; et dicit huiusmodi esse
+quae neque semper sunt, sicut necessaria, neque semper non sunt, sicut impossibilia, sed quandoque sunt et
+quandoque non sunt. Et ulterius manifestat quomodo similiter se habeat in contradictoriis enunciationibus; et
+dicit quod harum enunciationum, quae sunt de contingentibus, necesse est quod sub disiunctione altera pars
+contradictionis sit vera vel falsa; non tamen haec vel illa determinate, sed se habet ad utrumlibet.
+Et si contingat quod altera pars contradictionis magis sit vera, sicut accidit in contingentibus quae sunt ut in
+pluribus, non tamen ex hoc necesse est quod ex necessitate altera earum determinate sit vera vel falsa.
+|#5 Deinde cum dicit: quare manifestum est etc., concludit principale intentum et dicit manifestum esse ex
+praedictis quod non est necesse in omni genere affirmationum et negationum oppositarum, alteram determinate
+esse veram et alteram esse falsam: quia non eodem modo se habet veritas et falsitas in his quae sunt iam de
+praesenti et in his quae non sunt, sed possunt esse vel non esse. Sed hoc modo se habet in utriusque, sicut dictum
+est, quia scilicet in his quae sunt necesse est determinate alterum esse verum et alterum falsum: quod non
+contingit in futuris quae possunt esse et non esse.
+Et sic terminatur primus liber.
+|*HER.2 : LIBER 2
+|+1 Lectio 1
+|#1 Postquam Philosophus in primo libro determinavit de enunciatione simpliciter considerata; hic determinat
+de enunciatione, secundum quod diversificatur per aliquid sibi additum.
+Possunt autem tria in enunciatione considerari: primo, ipsae dictiones, quae praedicantur vel subiiciuntur in
+enunciatione, quas supra distinxit per nomina et verba; secundo, ipsa compositio, secundum quam est verum vel
+falsum in enunciatione affirmativa vel negativa; tertio, ipsa oppositio unius enunciationis ad aliam. Dividitur
+ergo haec pars in tres partes: in prima, ostendit quid accidat enunciationi ex hoc quod aliquid additur ad dictiones
+in subiecto vel praedicato positas; secundo, quid accidat enunciationi ex hoc quod aliquid additur ad
+determinandum veritatem vel falsitatem compositionis; ibi: his vero determinatis etc.; tertio, solvit quamdam
+dubitationem circa oppositiones enunciationum provenientem ex eo, quod additur aliquid simplici enunciationi;
+ibi: utrum autem contraria est affirmatio etc..
+Est autem considerandum quod additio facta ad praedicatum vel subiectum quandoque tollit unitatem
+enunciationis, quandoque vero non tollit, sicut additio negationis infinitantis dictionem.
+Circa primum ergo duo facit: primo, ostendit quid accidat enunciationibus ex additione negationis infinitantis
+dictionem; secundo, ostendit quid accidat circa enunciationem ex additione tollente unitatem; ibi: at vero unum
+de pluribus etc..
+Circa primum duo facit: primo, determinat de enunciationibus simplicissimis, in quibus nomen finitum vel
+infinitum ponitur tantum ex parte subiecti; secundo, determinat de enunciationibus, in quibus nomen finitum vel
+infinitum ponitur non solum ex parte subiecti, sed etiam ex parte praedicati; ibi: quando autem est tertium
+adiacens etc..
+
+39
+
+

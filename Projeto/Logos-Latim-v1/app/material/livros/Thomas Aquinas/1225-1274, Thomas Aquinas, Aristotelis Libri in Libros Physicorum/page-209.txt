@@ -1,0 +1,64 @@
+Circa primum tria facit: primo ponit propositum; secundo exemplificat, ibi:
+ut si ipsa abc etc., tertio probat, ibi: si igitur praesentis motus etc..
+Propositum est istud: si magnitudo ex indivisibilibus componitur, et motus
+qui transit per magnitudinem, componetur ex indivisibilibus motibus,
+aequalibus numero indivisibilibus ex quibus componitur magnitudo.
+|#3
+Exemplificat autem sic. Sit linea abc, quae componatur ex tribus
+indivisibilibus, quae sunt a et b et c; et sit o mobile quod movetur in
+spatio lineae abc, et motus eius sit dez: oportebit quod si partes spatii
+vel lineae sint indivisibiles, quod etiam partes praedicti motus sint
+indivisibiles.
+Deinde cum dicit: si igitur praesentis motus etc., probat propositum.
+Et circa hoc tria facit: primo praemittit quaedam necessaria ad propositi
+probationem; secundo probat quod si magnitudo componitur ex punctis, quod
+motus componitur non ex motibus, sed ex momentis, ibi: secundum a igitur
+etc.; tertio ostendit esse impossibile quod motus componatur ex momentis,
+ibi: et motum esse aliquid etc..
+|#4
+Praemittit ergo primo duo.
+Primum est quod secundum quamcumque partem praesentis motus necesse est
+aliquid moveri; et e converso, si aliquid movetur, necesse est quod adsit
+sibi aliquis motus.
+Et si hoc est verum, oportet quod mobile o moveatur per a, quae est pars
+totius magnitudinis, ea parte motus quae est d; et secundum b, aliam partem
+magnitudinis, moveatur alia parte motus quae est e; et secundum c, tertiam
+partem magnitudinis, moveatur tertia parte motus quae est z; ita quod
+singulae partes motus respondeant singulis partibus magnitudinis.
+Secundum proponit, ibi: si igitur necesse est etc.: et dicit quod necesse
+est id quod movetur ab uno termino in alium, non simul moveri et motum
+esse, inquantum movetur et quando movetur; sicut si aliquis vadit thebas,
+impossibile est haec duo simul esse, scilicet ire thebas et ivisse thebas.
+Haec autem duo supponit quasi per se manifesta.
+Nam quod necesse sit moveri ad praesentiam motus, apparet etiam in omnibus
+accidentibus et formis: quia ad hoc quod aliquid sit album, necesse est
+habere albedinem; et e converso, si albedo adsit, necesse est quod sit
+album. Quod vero non simul sit moveri et motum esse, apparet ex ipsa motus
+successione: quia impossibile est aliqua duo tempora simul esse, ut in
+quarto habitum est: unde impossibile est quod simul sit motum esse, quod
+est terminus motus, cum ipso moveri.
+|#5
+Deinde cum dicit: secundum a igitur etc., probat propositum ex
+praemissis.
+Si enim praesente aliqua parte motus necesse est aliquid moveri, et si
+movetur necesse est adesse motum; si mobile quod est o, movetur secundum
+impartibilem partem magnitudinis quae est a, oportet quod adsit ei aliquis
+motus qui est d. Aut ergo o simul movetur per a et motum est, aut non
+simul.
+Si autem non simul, sed posterius devenerit quam venit, idest sed posterius
+motum est quam movetur, sequitur quod a sit divisibilis: quia cum veniret,
+idest dum erat in ipso moveri, neque quiescebat in a, quiete scilicet
+praecedente motum, neque transierat totum ipsum a, quia iam non moveretur
+per a (nihil enim movetur per spatium per quod iam pertransivit); sed
+oportet quod medio modo se habeat. Ergo cum movetur per a, partem eius iam
+transivit et in parte eius adhuc manet: et ita sequitur quod a sit
+divisibilis; quod est contra suppositum.
+Si vero simul venerit et venit, idest si simul motum est et movetur per a,
+sequitur quod cum veniens venit, erit ibi ventum, et erit motum ubi
+movetur: quod est contra secundam suppositionem.
+Sic igitur patet quod secundum impartibilem magnitudinem non potest aliquid
+moveri: quia vel oporteret quod simul esset moveri et motum esse, vel quod
+magnitudo divideretur.
+209
+
+

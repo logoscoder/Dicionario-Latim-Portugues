@@ -1,0 +1,61 @@
+Articulus 3A
+AG1
+Ad tertium sic proceditur. Videtur quod delectationi tristitia non sit contraria. Passiones enim non distinguuntur
+secundum suas causas. Sed causa tristitiae est motus et labor, ut dicit Philosophus in 7 ethic.: unde juvenes, qui
+sunt in motu, delectationes appetunt quasi medicinas contra tristitiam: causa autem delectationis est operatio.
+Motus autem et operatio non sunt contraria, cum aliquando ad invicem conjungantur.
+Ergo nec delectatio tristitiae contrariatur.
+AG2
+Praeterea, unum contrariorum non est materia alterius. Sed delectatio potest esse materia tristitiae; quia, ut dicit
+Philosophus in 9 ethic., pravus post parum tristatur de hoc quod delectatus est; similiter etiam tristitia est materia
+delectationis; et poenitenti indicitur ut semper doleat, et de dolore gaudeat. Ergo delectatio et tristitia non sunt
+contraria.
+AG3
+Praeterea, delectatio et gaudium non sunt penitus idem, ut ex praedictis patet. Sed tristitia opponitur gaudio. Ergo
+non opponitur delectationi.
+SC1
+Sed contra, medicinae fiunt per contraria, ut dicitur in 2 ethic.. Sed delectationes sunt medicinae contra tristitias,
+ut dicitur in 7 ethic.. Ergo delectatio et tristitia sunt contraria.
+SC2
+Praeterea, bonum et malum sunt contraria. Sed delectatio opponitur tristitiae, ut bonum malo, ut dicitur in 7
+ethic.. Ergo sunt contraria.
+CO
+Respondeo dicendum ad primam quaestionem, quod cujuslibet passionis ratio formalis ex objecto sumitur; unde
+et passiones et actus penes objecta distinguuntur. Objectum autem delectationis bonum est, tristitiae vero malum;
+unde oportet tristitiam delectationi formaliter contrariari.
+RA1
+Ad primum ergo dicendum, quod quamvis motus per se operationi non contrarietur, est tamen in motu aliquid
+invenire ex quo tristitiam causat, quod contrariatur operationi, secundum quod est delectationis causa. Operatio
+enim delectationis causa existit, secundum quod est conveniens operanti. In motu autem, in quo est processus de
+uno ad aliud, oportet aliquid esse non conveniens ei quod movetur, cum ea inter quae est motus, sint contraria; et
+ideo motus ratione contrarietatis quam habet ad mobile, lassitudinem et tristitiam inducit; et propter hoc
+praecipue motus innaturales et violenti lassitudinem causant. Sic ergo motus ratione contrarietatis causat
+tristitiam, operatio vero delectationem ratione convenientiae; unde oportet quod delectatio et tristitia opponantur
+secundum oppositionem convenientiae et contrarietatis.
+RA2
+Ad secundum dicendum, quod tristitia non est materia delectationis, nec delectatio tristitiae, per se loquendo; sed
+per accidens tantum, inquantum accidit delectationi esse malum, quod est propria tristitiae materia; et tristitiae
+esse bonum, quod est propria materia delectationis; et hoc quidem accidere potest in istis contrariis, ut unum per
+accidens sit alterius materia propter communitatem suorum objectorum, quae sunt bonum et malum; quorum
+unum potest alteri adjungi ratione diversorum.
+Quod enim est secundum unam rationem bonum, potest esse secundum alteram rationem malum. Accidit etiam
+quod hujusmodi contraria consistunt in actu animae, quae reflectitur super actum suum, inquantum scit se scire,
+et vult se velle; unde et tristitia potest esse materia gaudii, et etiam ipsum gaudium; quod in rebus naturalibus
+accidere non potest, ut aliquid sit materia sui ipsius, vel etiam contrarii.
+RA3
+Ad tertium dicendum, quod si fiat vis in verbis; sicut delectatio distinguitur a gaudio, ita dolor a tristitia, ut sic
+per oppositum tristitia respondeat gaudio, dolor vero delectationi: sed quia dolor proprie accipitur in sensu, et
+praecipue in sensu tactus: delectatio etiam proprie loquendo se extendit ad interiores vires; ideo delectationi non
+solum dicimus opponi dolorem, sed etiam tristitiam.
+Articulus 3B
+AG1
+Ulterius. Videtur quod delectationi quae est in considerando, sit aliqua tristitia contraria. Fatigatio enim est
+tristitiae causa. Sed in considerando accidit fatigatio. Ergo in considerando accidit tristitia; ergo delectationi quae
+est in considerando, aliqua tristitia contraria est.
+AG2
+Praeterea, sicut contingit aliquid considerare ut conveniens, ita contingit considerare aliquid ut nocivum. Sed
+consideratio convenientis causat delectationem.
+Ergo consideratio nocivi causat tristitiam; et sic idem quod prius.
+2250
+
+

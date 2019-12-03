@@ -1,0 +1,62 @@
+Duo quidem tetrachorda quae sibimet quidem coniuncta sunt, a mese uero disiuncta, trium generum snperior
+descriptio, quemadmodum locarentur ostendit. Nunc ad aliud tetrachordum ueniendum est, quod synemmenon uocatur,
+quod iunctum est ei quae est mese. Quoniam enim inter neten diezeugmenon et mesen diapente consonantiam esse
+praediximus, est autem diapente consonantia trium tonorum ac semitonii. Tres uero sunt toni in hoc pentachordo,
+quorum unus quidem netes diezeugmenon ad paraneten diezeugmenon diatonon. Alter uero paranetes diezeugmenon
+diatonon ad triten diezeugmenon diatonon. Tertius autem parameses ad mesen, reliquumque semitonium trites
+diezeugmenon diatoni ad paramesen, quoniamque netes diezeugmenon et parameses tetrachordum ab ea quae est mese,
+eo tono disiunctum est, quod est inter paramesen ac mesen. Si ex eo pentachordo, quod est a nete dizeugmenon ad
+mesen, unum abstulerimus tonum, eum scilicet qui continetur inter neten diezeugmenon et paraneten diezeugmenon
+diatonon, poterimus aliud tetrachordum ad mesen iungere, ut fiat synemmenon. quod est coniunctum hoc modo. Nam
+quoniam paranetes diezeugmenon diatoni, quae est CC, numerus est 3456, horum tertia eisdem addita faciet mesen. Hic
+ergo numerus in diezeugmenon tetrachordo [1264] CC litteris adnotatus, tono distabat a nete diezeugmenon in genere
+diatonico, et paranete diezeugmenon diatonos uocabatur, in synemmenon autem tetrachordo, id est, coniunctarum sit
+nete synemmenon in tribus generibus constituta Y
+littera pernotata, et ab ea octaua pars auferatur quae est 432 eisque apponatur, fient 5888 quae est paranete
+synemmenon et T littera pernotata. Huius pars sumatur octaua ea quae est 486; haec summa si eisdem, quorum octaua
+est, aggregetur, fient 4374, quae est trite synemmenon diatonos, id est, E. Sed quoniam nete synemmenon ad mesen, id
+est 3456 ad 4608, sesquitertiam obtinet proportionem quae est diatessaron, trite autem synemmenon, ad netem
+synemmenon, id est 4374 ad 3456, duorum tonorum obtinet proportionem, relinquitur trites synemmenon diatoni ad
+mesen proportio semitonii, et coniunctum est hoc tetrachordum cum mese, atque ideo synemmenon quasi continuum et
+coniunctum uocatur. Et diatonici quidem generis hoc modo est facta proportio. Chromatici uero talis diuisio est: sumo
+netes synemmenon et paranetes synemmenon diatonici, id est 3456 et 3888 differentiam, ea est 432; hanc si diuido ut
+semitonium fiat, fiunt 216; hanc adiicio ad 3888 ut tria semitonia fiant, erunt 414, quae est paranete synemmenon
+chromatica, cui littera S superapposita est. Ab hac igitur, id est, paranete synemmenon chromatica, ad triten
+synemmenon prius quidem diatonicam, nunc uero chronicam semitonium est. A qua trite synemmenon chromatica
+usque mesen aliud semitonium reperitur. Sed quoniam a nete synemmenon usque ad triten synemmenon diatonicam uel
+chromaticam duo toni sunt, quae est diatonico uel chromatico generibus trite synemmenon diatonos uel chromatica,
+eadem in genere enharmonio paranete synemmenon enharmonios est, habens summam 4374, quae sit R, A, qua usque
+ad meson semitonium est, hoc partior in duas dieses hoc modo: Sumo differentiam paranetes synemmenon enharmonii
+et meses, id est 4374 et 4608, facit 234; hanc diuido, fient 117; hanc adiicio paranete synemmenon enharmonios, id est
+4374, fient 4491, quae P littera pernotatur, et sit ea trite synemmenon enharmonios. Eritque semitonium quod
+continetur inter paraneten synemmenon enharmonion et mesen, id est inter 4374 et 4608, diuisum per triten
+synemmenon enharmonion eam, scilicet quae est 4491. Quocirca huius quoque tetrachordi expedita ratio est. Nunc
+autem facienda est descriptio, iuncta tamen cum caeteris tetrachordis, id est hyperboleon ac diezeugmenon, ut paulatim
+fiat descriptionis rata progressio.
+[1265-66] [PLLXIII:1265-66; text: Diatonicum, Chromaticum, Enharmonium, Mese, Paramese, Trite
+diezeugmenon, Trite synemmenon, Paranete diezeugmenon, Paranete synemmenon, Nete diezeugmenon, Nete
+synemmenon, Trite hyperboleon, Paranete hyperboleon, Nete hyperboleon, Hemitonium minus, Hemitonium maius,
+Tonus, Tria hemitonia, Diesis, Ditonus, Hemitonium, 5072, 4608, 4491, 4374, 4104, 4096, 3888, 3648, 3456, 3072,
+2994, 2916, 2736, 2592, 2304, E, T, S, P, R, D, X, Y, CC, DD, FF, NN, LL, BB, Z, AA, EE, Diapason totius distantiae
+duorum tetrachordorum, puta diezeugmenon et hyperboleon in tribus modulandi generibus, Quanquam ex duobus
+tetrachordis non nisi disdiatessaron, ubique tamen tonus appositus est. Qui est quidem a paramese ad mesen ratio uerae
+distantiae dupla est, ut id pernotatur facillime] [BOEDIM4 12GF]
+[1265] IX
+Monochordi meson per tria genera partitio.
+Ex his igitur quae praedicta sunt, in caeteris non arbitror diutius laborandum esse. Ad horum enim exemplar
+etiam reliqua tetrachorda meson atque hypaton texenda sunt. Ac primum quidem diatonici generis meson tetrachordon
+hoc ordine describemus. Meses enim quae est O 4608 sumo tertiam partem, ea est 1536; hanc eidem copulo, fient 6144,
+ea sit H hypate meson diatessaron ad mesen continens consonantiam, haec duobus tonis ac semitonio ita diuiditur:
+Sumo enim meses, id est 4608, octauam partem, quae est 576; hanc eidem adiungo, fient 5184, ea est lichanos meson
+diatonos, id est M. Cuius interim pars sumitur octaua, ea est 648; hanc eidem adiungo, fient 5832. Ea sit I parhypate
+meson diatonos tonum obtinens ad lichanon meson diatonon, duobus autem tonis distans a mese. Relinquitur igitur
+semitonium inter hypaten meson diatonon [1266] et parhypaton meson diatonon constitutum, id es inter 6164 et 5832.
+Idem uero tetrachordum meses atque hypates meson in chromatico genere tali ratione partimur. Sumo meses
+differentiam ad lichanon meson diatonon, id est 4608 ad 5184, ea est 576; hanc dimidiam partior, fient 288; eadem
+adiicio numero maiori, id est 5184, fient 5472, quae fit N lichanos meson chromatice. Relinquuntur igitur duo
+semitonia, unum inter lichanon mesen chromaticen et parhypaten meson chromaticen, id est inter 5472 et 5832, et aliud
+inter parhypate meson chromaticen et hypaten meson, id est inter 5832 et 6144.
+Enharmonium uero genus hoc modo diuidimus, quoniam ea quae erat ptahypate meson diatonos, uel ea quae
+erat parhypate meson chromatice, duos tonos distabat a mese obtinens numerum 5832, ea in enharmonio genere erit
+
+

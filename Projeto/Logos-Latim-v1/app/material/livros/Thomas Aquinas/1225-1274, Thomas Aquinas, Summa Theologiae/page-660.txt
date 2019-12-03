@@ -1,0 +1,62 @@
+Praeterea, Philosophus dicit, in III ethic., quod si per plura aliquid fieri potest, consilio inquiritur per quod
+facillime et optime fiat; si autem per unum, qualiter per illud fiat.
+Sed omne quod fit, fit per unum vel per multa.
+Ergo de omnibus quae fiunt a nobis, est consilium.
+SC
+Sed contra est quod Gregorius Nyssenus dicit, quod de his quae secundum disciplinam vel artem sunt operibus,
+non est consilium.
+CO
+Respondeo dicendum quod consilium est inquisitio quaedam, ut dictum est.
+De illis autem inquirere solemus, quae in dubium veniunt, unde et ratio inquisitiva, quae dicitur argumentum, est
+rei dubiae faciens fidem. Quod autem aliquid in operabilibus humanis non sit dubitabile, ex duobus contingit.
+Uno modo, quia per determinatas vias proceditur ad determinatos fines, sicut contingit in artibus quae habent
+certas vias operandi; sicut scriptor non consiliatur quomodo debeat trahere litteras, hoc enim determinatum est
+per artem. Alio modo, quia non multum refert utrum sic vel sic fiat, et ista sunt minima, quae parum adiuvant vel
+impediunt respectu finis consequendi; quod autem parum est, quasi nihil accipit ratio.
+Et ideo de duobus non consiliamur, quamvis ordinentur ad finem, ut Philosophus dicit, scilicet de rebus parvis; et
+de his quae sunt determinata qualiter fieri debent, sicut est in operibus artium, praeter quasdam coniecturales, ut
+Gregorius Nyssenus dicit, ut puta medicinalis, negotiativa, et huiusmodi.
+RA1
+Ad primum ergo dicendum quod electio praesupponit consilium ratione iudicii vel sententiae. Unde quando
+iudicium vel sententia manifesta est absque inquisitione, non requiritur consilii inquisitio.
+RA2
+Ad secundum dicendum quod ratio in rebus manifestis non inquirit, sed statim iudicat. Et ideo non oportet in
+omnibus quae ratione aguntur, esse inquisitionem consilii.
+RA3
+Ad tertium dicendum quod quando aliquid per unum potest fieri, sed diversis modis, potest dubitationem habere,
+sicut et quando fit per plura, et ideo opus est consilio. Sed quando determinatur non solum res, sed modus, tunc
+non est opus consilio.
+|a5 Articulus 5
+AG1
+Ad quintum sic proceditur. Videtur quod consilium non procedat modo resolutorio. Consilium enim est de his
+quae a nobis aguntur. Sed operationes nostrae non procedunt modo resolutorio, sed magis modo compositivo,
+scilicet de simplicibus ad composita.
+Ergo consilium non semper procedit modo resolutorio.
+AG2
+Praeterea, consilium est inquisitio rationis. Sed ratio a prioribus incipit, et ad posteriora devenit, secundum
+convenientiorem ordinem cum igitur praeterita sint priora praesentibus, et praesentia priora futuris, in
+consiliando videtur esse procedendum a praesentibus et praeteritis in futura. Quod non pertinet ad ordinem
+resolutorium.
+Ergo in consiliis non servatur ordo resolutorius.
+AG3
+Praeterea, consilium non est nisi de his quae sunt nobis possibilia, ut dicitur in III ethic..
+Sed an sit nobis aliquid possibile, perpenditur ex eo quod possumus facere, vel non possumus facere, ut
+perveniamus in illud.
+Ergo in inquisitione consilii a praesentibus incipere oportet.
+SC
+Sed contra est quod Philosophus dicit, in III ethic., quod ille qui consiliatur, videtur quaerere et resolvere.
+CO
+Respondeo dicendum quod in omni inquisitione oportet incipere ab aliquo principio. Quod quidem si, sicut est
+prius in cognitione, ita etiam sit prius in esse, non est processus resolutorius, sed magis compositivus, procedere
+enim a causis in effectus, est processus compositivus, nam causae sunt simpliciores effectibus.
+Si autem id quod est prius in cognitione, sit posterius in esse, est processus resolutorius, utpote cum de effectibus
+manifestis iudicamus, resolvendo in causas simplices. Principium autem in inquisitione consilii est finis, qui
+quidem est prior in intentione, posterior tamen in esse. Et secundum hoc, oportet quod inquisitio consilii sit
+resolutiva, incipiendo scilicet ab eo quod in futuro intenditur, quousque perveniatur ad id quod statim agendum
+est.
+RA1
+Ad primum ergo dicendum quod consilium est quidem de operationibus. Sed ratio operationum accipitur ex fine,
+et ideo ordo ratiocinandi de operationibus, est contrarius ordini operandi.
+660
+
+

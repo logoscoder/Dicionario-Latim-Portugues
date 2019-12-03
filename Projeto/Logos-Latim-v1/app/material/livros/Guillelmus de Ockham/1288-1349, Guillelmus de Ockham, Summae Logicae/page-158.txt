@@ -1,0 +1,57 @@
+Ex istis etiam sequitur quod falsum est quod isti dicunt, quod si sit tantum unum album et tantum unum
+nigrum et tantum unum medium quod quaelibet istarum est falsa 'omne album est', 'omne nigrum est', 'omne
+medium est'; et negant istum syllogismum 'omne coloratum est; omne album est coloratum; igitur omne album
+est'.
+Similiter, posito quod nullus asinus sit, negant istum syllogismum 'omne animal est homo; omnis asinus
+est animal; igitur omnis asinus est homo', dicentes quod 'esse' aequiuocatur, quia in primis maioribus accipitur
+'esse' quod est operatio entis, et hoc est 'esse' eius quod est, in minoribus autem accipitur 'esse'
+habitudinis siue consequentiae, cuiusmodi
+'esse' est cum dicitur 'si est album, est coloratum'.
+'esse' est cum dicitur 'si est album, est coloratum'.
+Istud est omnino irrationabiliter dictum, nam hoc est destruere omnem formam syllogisticam. Dicam
+enim quandocumque placet mihi quod 'esse' in propositionibus aequiuocatur, et ad placitum assignabo fallaciam
+aequiuocationis in quocumque syllogismo.
+Istud est omnino irrationabiliter dictum, nam hoc est destruere omnem formam syllogisticam. Dicam
+enim quandocumque placet mihi quod 'esse' in propositionibus aequiuocatur, et ad placitum assignabo fallaciam
+aequiuocationis in quocumque syllogismo.
+Similiter, sicut syllogismus tenet in omnibus terminis, ita tenet quantumcumque res uarietur. Sed
+secundum Aristotelem nunc est bonus syllogismus 'omne coloratum est; omne album est coloratum; igitur omne
+album est', similiter iste syllogismus est bonus nunc de facto 'omne animal est homo; omnis asinus est animal;
+igitur omnis asinus est homo', quia quilibet istorum regulatur per dici de omni.
+Similiter, sicut syllogismus tenet in omnibus terminis, ita tenet quantumcumque res uarietur. Sed
+secundum Aristotelem nunc est bonus syllogismus 'omne coloratum est; omne album est coloratum; igitur omne
+album est', similiter iste syllogismus est bonus nunc de facto 'omne animal est homo; omnis asinus est animal;
+igitur omnis asinus est homo', quia quilibet istorum regulatur per dici de omni.
+Et certe, qui negat tales syllogismos, ipse est inhabilis ad percipiendum quamcumque ueritatem. Ergo
+quantumcumque omnia alba corrumperentur et omnes asini, adhuc essent boni syllogismi et regularentur per dici
+de omni ita tunc sicut nunc.
+Et certe, qui negat tales syllogismos, ipse est inhabilis ad percipiendum quamcumque ueritatem. Ergo
+quantumcumque omnia alba corrumperentur et omnes asini, adhuc essent boni syllogismi et regularentur per dici
+de omni ita tunc sicut nunc.
+Et ideo distinctiones tales, quod 'esse' uel est operatio entis uel esse habitudinis, et consimiles, friuolae
+sunt, et ponuntur ab illis qui nesciunt distinguere inter propositionem categoricam et condicionalem. Unde istae
+propositiones distinguuntur 'asinus est animal' et 'si asinus est, animal est', quia una est categorica et alia
+condicionalis et hypothetica, nec conuertuntur; sed una potest esse uera, alia exsistente falsa. Sicut haec est modo
+falsa 'Deus non-creans est Deus', et tamen ista condicionalis est uera 'si Deus non-creans est, Deus est' et 'si hoc
+est Deus noncreans, est Deus'.
+Et ideo distinctiones tales, quod 'esse' uel est operatio entis uel esse habitudinis, et consimiles, friuolae
+sunt, et ponuntur ab illis qui nesciunt distinguere inter propositionem categoricam et condicionalem. Unde istae
+propositiones distinguuntur 'asinus est animal' et 'si asinus est, animal est', quia una est categorica et alia
+condicionalis et hypothetica, nec conuertuntur; sed una potest esse uera, alia exsistente falsa. Sicut haec est modo
+falsa 'Deus non-creans est Deus', et tamen ista condicionalis est uera 'si Deus non-creans est, Deus est' et 'si hoc
+est Deus noncreans, est Deus'.
+Similiter, nulla potest inueniri ratio quare 'esse' dicat habitudinem uel consequentiam in una
+propositione categorica magis squam in alia, et ita uel semper uel numquam in consimili propositione dicet
+habitudinem uel consequentiam. Et ita uel quaelibet erit conuertibilis cum condicionali uel nulla; sed non nulla,
+per istum, igitur quaelibet. Et per consequens, illo casu posito, haec est falsa 'omne animal est homo', quia ista
+condicionalis est falsa 'si animal est, homo est', per eum. Et ita in eodem passu manifeste dixit contradictoria et
+uidebatur propriam uocem ignorare.
+Similiter, nulla potest inueniri ratio quare 'esse' dicat habitudinem uel consequentiam in una
+propositione categorica magis squam in alia, et ita uel semper uel numquam in consimili propositione dicet
+habitudinem uel consequentiam. Et ita uel quaelibet erit conuertibilis cum condicionali uel nulla; sed non nulla,
+per istum, igitur quaelibet. Et per consequens, illo casu posito, haec est falsa 'omne animal est homo', quia ista
+condicionalis est falsa 'si animal est, homo est', per eum. Et ita in eodem passu manifeste dixit contradictoria et
+uidebatur propriam uocem ignorare.
+158
+
+

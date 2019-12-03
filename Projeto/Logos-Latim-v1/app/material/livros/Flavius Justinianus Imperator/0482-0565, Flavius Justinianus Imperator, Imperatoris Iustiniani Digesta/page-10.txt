@@ -1,0 +1,58 @@
+TITULI TOTIUS OMNIUM DIGESTORUM SEU PANDECTARUM URIS ENUCLEATI EX OMNI IURE VETERI
+COLLECTI AUCTORITATE DOMINI NOSTRI SACRATISSIMI JUSTINIANI AUGUSTI
+1
+
+FELICITER INCIPIT LIBER PRIMUS.
+
+1.1.0. De iustitia et iure.
+1.2.0. De origine iuris et omnium magistratuum et successione prudentium.
+1.3.0. De legibus senatusque consultis et longa consuetudine.
+1.4.0. De constitutionibus principum.
+1.5.0. De statu hominum.
+1.6.0. De his qui sui vel alieni iuris sunt.
+1.7.0. De adoptionibus et emancipationibus et aliis modis quibus potestas solvitur.
+1.8.0. De divisione rerum et qualitate.
+1.9.0. De senatoribus.
+1.10.0. De officio consulis.
+1.11.0. De officio praefecti praetorio.
+1.12.0. De officio praefecti urbi.
+1.13.0. De officio quaestoris.
+1.14.0. De officio praetorum.
+1.15.0. De officio praefecti vigilum.
+1.16.0. De officio proconsulis et legati.
+1.17.0. De officio praefecti Augustalis.
+1.18.0. De officio praesidis.
+1.19.0. De officio procuratoris Caesaris vel rationalis.
+1.20.0. De officio iuridici.
+1.21.0. De officio eius, cui mandata est iurisdictio.
+1.22.0. De officio adsessorum.
+Explicitus est liber primus.
+
+Incipit liber secundus.
+2.1.0. De iurisdictione.
+2.2.0. Quod quisque iuris in alterum statuerit, ut ipse eodem iure utatur.
+2.3.0. I quis ius dicenti non obtemperaverit.
+2.4.0. De in ius vocando.
+2.5.0. Si quis in ius vocatus non ierit sive quis eum vocaverit, quem ex edicto non debuerit.
+2.6.0. In ius vocati ut eant aut satis vel cautum dent.
+2.7.0. Ne quis eum qui in ius vocabitur vi eximat.
+2.8.0. Qui satisdare cogantur vel iurato promittant vel suae promissioni committantur.
+2.9.0. Si ex noxali causa agatur, quemadmodum caveatur.
+2.10.0. De eo per quem factum erit quominus quis in iudicio sistat.
+2.11.0. Si quis cautionibus in iudicio sistendi causa factis non obtemperaverit.
+2.12.0. De feriis et dilationibus et diversis temporibus.
+2.13.0. De edendo.
+2.14.0. De pactis.
+2.15.0. De transactionibus.
+Explicitus est liber secundus.
+
+Incipit liber tertius.
+3.1.0. De postulando.
+3.2.0. De his qui notantur infamia.
+3.3.0. De procuratoribus et defensoribus.
+3.4.0. Quod cuiuscumque universitatis nomine vel contra eam agatur.
+3.5.0. De negotiis gestis.
+3.6.0. De calumniatoribus.
+Explicitus est liber tertius.
+
+

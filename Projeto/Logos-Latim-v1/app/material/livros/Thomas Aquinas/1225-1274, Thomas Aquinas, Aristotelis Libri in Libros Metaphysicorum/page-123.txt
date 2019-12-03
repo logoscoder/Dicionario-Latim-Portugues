@@ -1,0 +1,58 @@
+|#12 Secundum ponit ibi, et adinvicem dicit, quod etiam contingit, quod aliqua duo adinvicem sibi sunt causae:
+quod impossibile est in eodem genere causae. Manifestum vero fit multipliciter dictis causis.
+Sicut dolor ex incisione vulneris est causa sanitatis, ut efficiens sive principium motus: sanitas autem est causa
+illius doloris, ut finis. Secundum enim idem genus causae aliquid esse causam et causatum est impossibile. Alia
+litera habet melius laborare causa est euexiae, idest bonae dispositionis, quae causatur ex labore moderato, qui ad
+digestionem confert et superfluos humores consumit.
+|#13
+Sciendum est autem, quod cum sint quatuor causae superius positae, earum duae sibiinvicem
+correspondent, et aliae duae similiter. Nam efficiens et finis sibi correspondent invicem, quia efficiens est
+principium motus, finis autem terminus.
+Et similiter materia et forma: nam forma dat esse, materia autem recipit. Est igitur efficiens causa finis, finis
+autem causa efficientis.
+Efficiens est causa finis quantum ad esse quidem, quia movendo perducit efficiens ad hoc, quod sit finis. Finis
+autem est causa efficientis non quantum ad esse, sed quantum ad rationem causalitatis. Nam efficiens est causa
+inquantum agit: non autem agit nisi causa finis. Unde ex fine habet suam causalitatem efficiens. Forma autem et
+materia sibiinvicem sunt causa quantum ad esse. Forma quidem materiae inquantum dat ei esse actu; materia
+vero formae inquantum sustentat ipsam. Dico autem utrumque horum sibi invicem esse causam essendi vel
+simpliciter vel secundum quid. Nam forma substantialis dat esse materiae simpliciter. Forma autem accidentalis
+secundum quid, prout etiam forma est. Materia etiam quandoque non sustentat formam secundum esse
+simpliciter, sed secundum quod est forma huius, habens esse in hoc, sicut se habet corpus humanum ad animam
+rationalem.
+|#14 Tertium ponit ibi, amplius autem dicit, quod idem contrariorum contingit esse causam. Quod etiam
+difficile videbatur vel impossibile, si similiter ad utrumque referatur; sed dissimiliter est causa utriusque.
+Illud enim, quod per sui praesentiam est causa huius, quando est absens causamur idest accusamus ipsum de
+contrario, idest dicimus ipsum esse causam contrarii. Sicut patet, quod gubernator per sui praesentiam est causa
+salutis navis, dicimus eius absentiam esse causam perditionis.
+Ne autem putetur quod hoc sit referendum ad diversa genera causarum sicut et priora duo, ideo subiungit quod
+utrumque istorum reducitur ad idem genus causae, scilicet ad causam moventem.
+Eodem enim modo oppositum est causa oppositi, quo haec est causa huius.
+|+3 Lectio 3
+|#1 Hic Philosophus reducit omnes causas in quatuor modos causarum praedictos; dicens, quod omnia quae
+dicuntur causae, incidunt in praedictos quatuor modos. Dicuntur enim elementa, idest literae, causae syllabarum,
+et materia artificialium dicitur esse causa factorum per artem, et ignis et terra et huiusmodi omnia simplicia
+corpora, dicuntur esse causae corporum mixtorum. Et partes dicuntur esse causa totius. Et suppositiones, idest
+propositiones praemissae, ex quibus propositis syllogizatur, dicuntur esse causa conclusionis.
+Et in omnibus istis est una ratio causae, secundum quod dicitur causa illud ex quo fit aliquid, quod est ratio
+causae materialis.
+|#2 Sciendum est autem, quod propositiones dicuntur esse materia conclusionis, non quidem secundum quod
+sub tali forma existunt, vel secundum virtutem earum; (sic enim magis se habent in ratione causae efficientis);
+sed quantum ad terminos, ex quibus componuntur. Nam ex terminis praemissarum componitur conclusio, scilicet
+ex maiori et ex minori extremitate.
+|#3 Inter ea autem ex quibus res integratur, aliquid se habet per modum subiecti, sicut partes et alia quae
+praedicta sunt; alia vero se habent ut quod quid erat esse, scilicet totum, et compositio, et species, quae pertinent
+ad rationem formae, secundum quam quidditas rei completur.
+Sciendum est enim, quod quandoque una res simpliciter est alicuius materia, sicut argentum phialae; et tunc
+forma correspondens tali materiae potest dici species.
+Quandoque autem plures adinvicem adunatae sunt materia alicuius rei. Quod quidem contingit tripliciter.
+Quandoque enim adunantur secundum ordinem tantum, sicut homines in exercitu, vel domus in civitate; et sic
+pro forma respondet totum, quod designatur nomine exercitus vel civitatis. Quandoque autem non solum
+adunantur ordine, sed contactu et colligatione, sicut apparet in partibus domus; et tunc respondet pro forma
+compositio.
+Quandoque autem super hoc additur alteratio componentium, quod contingit in mixtione; et tunc forma est ipsa
+mixtio, quae tamen est quaedam compositionis species. Ex quolibet autem trium horum sumitur quod quid est
+rei, scilicet ex compositione et specie et toto: sicut patet si definiretur exercitus, domus et phiala. Sic ergo
+habemus duos modos causae.
+123
+
+

@@ -1,0 +1,54 @@
+Working methods
+7. Scott and Kilcullen will be responsible for Part 3 and Part 1 Books 1-5 inclusive.
+Knysh will be responsible for Part 1 Books 6 and 7. Leppin will be responsible for
+Part 2. Kilcullen and Scott will be responsible for Part 1 Books 1-5 inclusive and for
+Part 3.
+8. After initial publication on the Web, editors will check and comment on one another's
+work. The editor originally responsible for the section will decide which suggestions
+to adopt. All adopted suggestions will be acknowledged in later versions, either
+specifically or (if the suggestor agrees) in general terms.
+9.
+
+After web publication the editors listed in paragraph 7 will prepare the same portions of the work for
+printed publication.
+10. The translation will not be published in printed form but only the Latin text. The final version of the
+whole web site (text, translations, essays) will be kept permanently available either by the British
+Academy or by arrangement with some electronic publisher.
+
+SECTION 2. EDITORIAL CONVENTIONS
+11. Footnotes. There will be three series of footnotes. The first will provide the critical
+apparatus, the second will provide notes (including references and comments), the
+third will provide chapter descriptions cited from the manuscript traditions. Each
+series will be printed as a continuous paragraph, not in columns. Historical
+information will be given in the introduction or (briefly) in the second series of
+footnotes, or in end notes (referred to from the second series of footnotes).
+12. Quotations. We will not follow Offler's practice of italicising quotations or borrowed
+words. For explicit quotations we will use quotation marks (double outer, single
+inner). Significant variations from the modern text will be noted in the second footnote
+series, minor variations will not be signalled. Unacknowledged quotations will be
+indicated in notes without any signal in the text. (see note 2)
+13. Spelling. There are two options between which we have not yet decided. Either (a) we will consistently
+use modern Latin spelling, or (b) we will follow the spelling conventions of the earliest manuscripts.
+(see note 3) We are still studying the MS conventions. (see note 4) In either case we will follow modern
+English punctuation conventions. (see note 5) We will use arabic numerals in the text, as the MSS do.
+(see note 6)
+14. Language of the apparatus. Offler's language in introductions and in the second footnote series is
+English, but in the apparatus he uses Latin. We will use English in the apparatus also. In the apparatus
+the English words will be "omitted", "added" "deleted" and "gap"; we will add "(?)"to indicate a
+doubtful reading. The function of Latin words such as conieci, supplevi, scripsi, seclusi, correxi, etc., in
+Offler's apparatus (see note 7) will be performed by sigla - see below. (see note 8)
+15. Editors' sigla: Ki, Kn, Le and Sc (respectively for Kilcullen, Knysh, Leppin and Scott) will be used to
+indicate editorial conjectures. Editors' sigla will facilitate clear acknowledgment of help or suggestions
+given by one editor to another.
+16. Lemmata. In the apparatus there will be a lemma for every variant. (see note 9) Each lemma will be
+separated from the variant by "]". For omissions the lemma will be the word or words omitted. For
+additions the lemma will be the word immediately before the addition. (see note 10) For transpositions
+the lemma will be the words transposed. Transpositions will be treated as substitutions ("ut non] non
+ut", not "trs"). Omission dots will be used if the lemma includes more than two words.
+17. Witnesses regularly reported and others not. We will select some witnesses, including at least one
+from each of the main families, of which all the variant readings will be reported (subject to the clause
+on "insignificant variants" below). Other witnesses will be reported only when editors judge them to be
+important (this will eliminate a lot of variants due to carelessness, e.g. in Fr); readers will be advised
+1003
+
+

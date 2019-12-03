@@ -1,0 +1,64 @@
+Quod enim generatur, desinit non esse et incipit esse. Oportet autem aliud
+tempus assignari ei quod est esse rei generatae vel corruptae, et aliud ei
+quod est non esse: puta si ex aere generetur ignis, in toto tempore ab erat
+non ignis sed aer; in toto autem tempore bc est ignis. Cum ergo hoc signum
+temporis quod est b, sit utrique tempori commune, videtur quod in illo
+instanti communi sit simul esse ignis et non esse eiusdem.
+Hanc ergo dubitationem Philosophus solvens, dicit manifestum esse quod nisi
+aliquis illud signum temporis, quod dividit tempus prius a posteriori,
+faciat semper esse posterioris rei, idest quod in illo instanti hoc modo se
+habeat res sicut in tempore sequenti, sequitur quod idem sit ens et non ens
+simul, et sequitur quod quando aliquid factum est, sit non ens. Tunc enim
+factum est, quando generatio terminatur, scilicet in illo nunc quod dividit
+tempus prius et posterius: si ergo in toto tempore priori erat non ens, in
+hoc etiam nunc quando iam generatum est, est etiam non ens, quia istud nunc
+est finis prioris temporis.
+Quomodo autem ista inconvenientia non sequantur ostendit, subdens quod unum
+et idem numero signum, scilicet nunc, est commune utrique tempori, scilicet
+priori et posteriori: sed quamvis sit unum subiecto, non tamen est unum
+ratione, sed duo; est enim finis prioris temporis et principium
+posterioris. Sed si accipiatur in ipso nunc quod res est, idest si
+accipiatur secundum quod est unum re, semper tenet se cum posteriori
+passione.
+Vel aliter: quamvis ipsum nunc sit finis temporis prioris et principium
+posterioris, et sic sit communis utrique; tamen secundum quod est rei,
+idest secundum quod comparatur ad rem quae movetur, semper est posterioris
+passionis; quia res quae movetur, in illo instanti est subiecta passioni
+posterioris temporis.
+|#9
+Sic ergo obiectione et solutione posita, manifestat utrumque per
+exempla: et primo obiectionem, cum dicit: sit tempus etc..
+Dicit ergo: sit tempus acb; res autem quae movetur sit d; quod quidem d in
+a tempore sit album, in b autem non album.
+Videtur ergo sequi quod in c sit album et non album. Et quomodo hoc
+sequatur ostendit subdens: si enim in toto tempore a est album, sequitur
+quod in quolibet accepto in ipso a sit album; et similiter si in toto
+tempore b est non album, sequitur quod in quolibet ipsius accepto sit non
+album: cum ergo c sit acceptum in utroque, quia est huius finis et illius
+principium, videtur sequi quod in c sit album et non album.
+|#10
+Secundo ibi: non ergo dandum est etc., manifestat solutionem supra
+positam.
+Et dicit quod non est concedendum quod in quolibet accepto in a sit album,
+sed est excipiendum ultimum nunc, quod est c, quod quidem iam est
+postremum, idest ultimus terminus mutationis: puta si album vel fiebat vel
+corrumpebatur in toto a, in c non corrumpitur nec fit album, sed iam factum
+est et corruptum. Quod autem factum est, est; quod autem corruptum est, non
+est. Unde manifestum est quod in c primo verum est dicere hoc esse album,
+si ibi terminetur generatio albi, aut esse non album, si ibi terminetur
+corruptio albi. Aut si hoc non dicatur, sequentur inconvenientia supra
+posita, scilicet quod cum aliquid est iam generatum, adhuc est non ens, et
+cum corruptum est, adhuc est ens. Aut etiam sequitur quod aliquid simul sit
+album et non album, et universaliter ens et non ens.
+|#11
+Deinde cum dicit: si autem quodcumque etc., infert quoddam
+corollarium ex praemissis, scilicet quod tempus non dividatur in
+indivisibilia tempora: quia hoc posito, non poterit solvi praemissa
+dubitatio.
+Dicit ergo quod necesse est omne quod est prius non ens et postea ens,
+aliquando fieri ens: et iterum necesse est quod cum aliquid fit, non est.
+Si autem haec duo quae supponit, sunt vera, impossibile est quod tempus
+dividatur in indivisibilia tempora.
+336
+
+

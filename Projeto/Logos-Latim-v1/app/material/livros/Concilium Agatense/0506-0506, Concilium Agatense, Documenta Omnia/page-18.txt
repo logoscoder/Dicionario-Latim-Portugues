@@ -1,0 +1,63 @@
+530 LI O93
+531 capitale crimen] crimen capitale W411
+532 officio W411
+533 Rubrik fehlt V630
+534 eclesie W411; ECCLESIAE V1341
+535 LII O93
+536 condito korr. aus condicto V1341
+537 ligaverit W411
+538 Rubrik fehlt V630
+539 EPISTOLIS W411
+540 PONTIFICI W411
+541 PROFICISCUNT W411
+542 LIII O93
+543 antistis O93; antistitis korr. aus antistis V630
+544 eis V630
+545 Rubrik fehlt V630
+546 PARROCIANIS W411
+547 distruentibus W411
+548 LIIII O93
+549 venditori V1341
+550 et fehlt W411
+551 vertente W411
+552 Rubrik fehlt V630
+553 LV O93
+554 diocesem W411
+555 nomine W411
+556 scripturam faciat korr. aus scripturam V630
+557 tenuit W411
+558 ecclesiae fehlt W411
+559 Rubrik fehlt V630
+560 utantur W411
+561 LVI O93
+562 Episcopis, presbyteris, diaconibus] Episcopus presbiter diaconus W411
+563 diaconis V1341
+564 fuerit fehlt W411; V1341
+565 se a communione suspendat] abstineat W411
+566 presbyter duobus mensibus se abstineat fehlt W411
+567 se fehlt V1341
+568 diaconus uno] una diaconus W411
+569 Rubrik fehlt V630
+570 LVII O93
+571 In venditionibus] Venditiones W411
+572 praesumserint W411
+573 ab fehlt W411
+574 abbates W411
+575 liceat V630; W411; V1341
+576 otium W411
+577 LVIII O93
+578 Vor Unum] NE UNUS ABBA duobus cenobiis preferatur W411
+579 praesidere korr. aus praesididere O93
+580 LVIIII O93
+581 Vor Cellulas] NE MONASTERIUM SINE notitia episcopi construatur W411
+582 LX O93
+583 Vor Clerici] DE REBUS ECLESIE usu conlatis ut prescriptione temporis non vendantur W411
+584 quilibet] quolibet etiam W411
+585 quantacumque W411
+586 possiderint W411
+587 administrationis W411
+588 prolixe W411
+589 praevaricatorias V630
+18
+
+

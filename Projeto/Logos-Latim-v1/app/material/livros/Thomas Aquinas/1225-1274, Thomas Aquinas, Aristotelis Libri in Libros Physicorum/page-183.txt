@@ -1,0 +1,64 @@
+Quia si mutatio quaedam per se est de mutatione praecedente in mutationem
+subsequentem, non oportet quod semper sit mutatio in mutationem
+contingentem, idest quam contingat simul esse cum mutatione praecedente:
+sicut dealbatio simul potest esse cum aegrotatione, sed sanatio non potest
+simul esse cum aegrotatione, quia sunt contrariae mutationes.
+Contingit tamen quod aegrotationi succedat in eodem subiecto sicut
+dealbatio, ita et sanatio.
+Et hoc est quod dicit, quod mutatio quae ponitur esse de una mutatione in
+aliam, non semper erit in mutationem contingentem, cum quandoque succedat
+non contingens. Et illa etiam mutatio non contingens est ex quodam in
+quoddam alterum, idest inter duos alios terminos. Quare ista mutatio non
+contingens, in quam aliquis mutatur de aegrotatione, erit sanatio opposita
+aegrotationi.
+Quod autem hoc sit inconveniens, patet ex propositione supra inducta,
+scilicet quod simul dum est prima mutatio, mutabitur in secundam: simul
+ergo dum aliquis movetur ad aegritudinem, mutabitur ad sanationem.
+Sanationis autem terminus est sanitas: est enim de quodam in quoddam aliud,
+ut dictum est. Unde relinquitur quod simul dum aliquid movetur ad
+aegritudinem, moveatur etiam ad sanitatem: quod est moveri ad duo contraria
+simul, et intendere ea simul; quod est impossibile. Sic igitur manifestum
+est quod nulla mutatio est per se de una mutatione in aliam.
+Sed quod hoc contingat esse per accidens, ut praemisit, manifestat subdens
+quod per accidens hoc contingit, sicut quando subiectum nunc mutatur una
+mutatione et postmodum alia: puta si dicatur aliquid mutari per accidens de
+recordatione in oblivionem, vel in quamcumque aliam mutationem: quia
+subiectum mutationis quandoque mutatur in scientiam, quandoque in aliquid
+aliud, puta in sanitatem.
+|#13
+Secundam rationem ponit ibi: amplius autem in infinitum etc., et
+praemittit duas conditionales.
+Quarum prima est, quod si mutatio est mutationis vel generatio
+generationis, quocumque modo necesse est procedere in infinitum: quia eadem
+ratione generatio secunda habebit aliam generationem, et sic in infinitum.
+Secunda conditionalis est, quod si ordinentur hoc modo generationes et
+mutationes, quod mutatio sit mutationis et generatio generationis, si
+ultima mutatio vel generatio erit, necesse est quod prima sit. Hanc autem
+secundam conditionalem sic probat. Sit enim aliquid quod generetur
+simpliciter, puta ignis: si generationis est generatio, oportet dicere quod
+etiam ista simpliciter generatio aliquando generabatur, et hoc ipsum fieri
+fiebat. Cum autem fiebat ipsa generatio, nondum erat illud quod generatur
+simpliciter, scilicet ignis; quia aliquid non est dum fit, sed quando iam
+factum est, tunc primo est. Quamdiu ergo fiebat generatio ignis, ignis
+nondum erat factus: nondum ergo erat. Et iterum ipsa generatio suae
+generationis eadem ratione aliquando fiebat: et sicut quando fiebat
+generatio ignis, nondum erat ignis, ita sequitur quod quamdiu fiebat
+generatio generationis ignis, nondum esset generatio ignis.
+Ex quo manifestum est quod generatio ignis esse non potest, nisi completa
+sua generatione: et eadem ratione nec illa, nisi fuerit praecedens; et sic
+usque ad primam. Si igitur non fuerit prima generatio, non erit ultima,
+quae est generatio ignis. Sed si procedatur in generationibus in infinitum,
+non est accipere primam mutationem vel generationem, quia in infinitis non
+est primum. Unde sequitur quod neque sit habitum, idest consequenter se
+habens, in generationibus et mutationibus.
+Si autem non sit aliqua generatio nec mutatio, nihil fit neque movetur. Si
+igitur generationis sit generatio, et mutationis sit mutatio, nihil fit
+neque movetur.
+Est autem attendendum, quod haec ratio non excludit quin mutatio possit
+sequi mutationem per accidens in infinitum: quod oportet dicere secundum
+opinionem Aristotelis, qui posuit motum aeternum. Sed intendit ostendere,
+sicut prius dictum est, quod mutatio non sit mutationis per se in
+infinitum.
+183
+
+

@@ -1,0 +1,53 @@
+|#9 Ex duabus enim substantiis actu existentibus non potest fieri aliquid unum: actus enim cuiuslibet est id quo
+ab altero distinguitur. Substantia autem intellectualis est substantia actu existens, ut ex praemissis apparet.
+Similiter autem et corpus.
+Non igitur potest aliquid unum fieri, ut videtur, ex substantia intellectuali et corpore.
+|#10 Adhuc. Forma et materia in eodem genere continentur: omne enim genus per actum et potentiam dividitur.
+Substantia autem intellectualis et corpus sunt diversa genera. Non igitur videtur possibile unum esse formam
+alterius.
+|#11 Amplius. Omne illud cuius esse est in materia, oportet esse materiale. Sed si substantia intellectualis est
+forma corporis, oportet quod esse eius sit in materia corporali: non enim esse formae est praeter esse materiae.
+Sequetur igitur quod substantia intellectualis non sit immaterialis, ut supra ostensum est.
+|#12 Item. Impossibile est illud cuius esse est in corpore, esse a corpore separatum.
+Intellectus autem ostenditur a philosophis esse separatus a corpore, et quod neque est corpus neque virtus in
+corpore. Non est igitur intellectualis substantia forma corporis: sic enim esse eius esset in corpore.
+|#13 Adhuc. Cuius esse est commune corpori, oportet et operationem corpori communem esse: unumquodque
+enim agit secundum quod est ens; nec virtus operativa rei potest esse sublimior quam eius essentia, cum virtus
+essentiae principia consequatur.
+Si autem substantia intellectualis sit forma corporis, oportet quod esse eius sit sibi et corpori commune: ex forma
+enim et materia fit aliquid unum simpliciter, quod est secundum esse unum. Erit igitur et operatio substantiae
+intellectualis communis corpori, et virtus eius virtus in corpore. Quod ex praemissis patet esse impossibile.
+
+|+57 Capitulus 57: Positio Platonis de unione animae intellectualis ad corpus.
+|#1 Ex his autem et similibus rationibus aliqui moti, dixerunt quod nulla substantia intellectualis potest esse
+forma corporis.
+Sed quia huic positioni ipsa hominis natura contradicere videbatur, qui ex anima intellectuali et corpore videtur
+esse compositus, excogitaverunt quasdam vias per quas naturam hominis salvarent.
+|#2 Plato igitur posuit, et eius sequaces, quod anima intellectualis non unitur corpori sicut forma materiae, sed
+solum sicut motor mobili, dicens animam esse in corpore sicut nautam in navi.
+Et sic unio animae et corporis non esset nisi per contactum virtutis, de quo supra dictum est.
+|#3 Hoc autem videtur inconveniens.
+Secundum praedictum enim contactum non fit aliquid unum simpliciter, ut ostensum est. Ex unione autem
+animae et corporis fit homo. Relinquitur igitur quod homo non sit unum simpliciter: et per consequens nec ens
+simpliciter, sed ens per accidens.
+|#4 Ad hoc autem evitandum, Plato posuit quod homo non sit aliquid compositum ex anima et corpore: sed
+quod ipsa anima utens corpore sit homo; sicut Petrus non est aliquid compositum ex homine et indumento, sed
+homo utens indumento.
+|#5 Hoc autem esse impossibile ostenditur. Animal enim et homo sunt quaedam sensibilia et naturalia.
+Hoc autem non esset si corpus et eius partes non essent de essentia hominis et animalis, sed tota essentia
+utriusque esset anima, secundum positionem praedictam: anima enim non est aliquid sensibile neque materiale.
+Impossibile est igitur hominem et animal esse animam utentem corpore, non autem aliquid ex corpore et anima
+compositum.
+|#6
+Item. Impossibile est quod eorum quae sunt diversa secundum esse, sit operatio una. Dico autem
+operationem unam, non ex parte eius in quod terminatur actio, sed secundum quod egreditur ab agente: multi
+enim trahentes navim unam actionem faciunt ex parte operati, quod est unum, sed tamen ex parte trahentium sunt
+multae actiones, quia sunt diversi impulsus ad trahendum, cum enim actio consequatur formam et virtutem,
+oportet quorum sunt diversae formae et virtutes, esse et actiones diversas.
+Quamvis autem animae sit aliqua operatio propria, in qua non communicat corpus, sicut intelligere; sunt tamen
+aliquae operationes communes sibi et corpori, ut timere et irasci et sentire et huiusmodi: haec enim accidunt
+secundum aliquam transmutationem alicuius determinatae partis corporis, ex quo patet quod simul sunt animae
+et corporis operationes. Oportet igitur ex anima et corpore unum fieri, et quod non sint secundum esse diversa.
+139
+
+

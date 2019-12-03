@@ -1,0 +1,47 @@
+Dig.50.17.45.1
+Ulpianus 30 ad ed.
+Privatorum conventio iuri publico non derogat.
+Dig.50.17.46
+Gaius 10 ad ed. provinc.
+Quod a quoquo poenae nomine exactum est, id eidem restituere nemo cogitur.
+Dig.50.17.47pr.
+Ulpianus 30 ad ed.
+Consilii non fraudulenti nulla obligatio est: ceterum si dolus et calliditas intercessit, de dolo actio competit.
+Dig.50.17.47.1
+Ulpianus 30 ad ed.
+Socii mei socius meus socius non est.
+Dig.50.17.48
+Paulus 35 ad ed.
+Quidquid in calore iracundiae vel fit vel dicitur, non prius ratum est, quam si perseverantia apparuit iudicium animi
+fuisse. ideoque brevi reversa uxor nec divortisse videtur.
+Dig.50.17.49
+Ulpianus 35 ad ed.
+Alterius circumventio alii non praebet actionem.
+Dig.50.17.50
+Paulus 39 ad ed.
+Culpa caret qui scit, sed prohibere non potest.
+Dig.50.17.51
+Gaius 15 ad ed. provinc.
+Non videtur quisquam id capere, quod ei necesse est alii restituere.
+Dig.50.17.52
+Ulpianus 44 ad ed.
+Non defendere videtur non tantum qui latitat, sed et is qui praesens negat se defendere aut non vult suscipere actionem.
+Dig.50.17.53
+Paulus 42 ad ed.
+Cuius per errorem dati repetitio est, eius consulto dati donatio est.
+Dig.50.17.54
+Ulpianus 46 ad ed.
+Nemo plus iuris ad alium transferre potest, quam ipse haberet.
+Dig.50.17.55
+Gaius 2 de testam. ad ed. urb.
+Nullus videtur dolo facere, qui suo iure utitur.
+Dig.50.17.56
+Gaius 3 de legatis ad ed. urb.
+Semper in dubiis benigniora praeferenda sunt.
+Dig.50.17.57
+Gaius 18 ad ed. provinc.
+Bona fides non patitur, ut bis idem exigatur.
+Dig.50.17.58
+Ulpianus 2 disp.
+
+

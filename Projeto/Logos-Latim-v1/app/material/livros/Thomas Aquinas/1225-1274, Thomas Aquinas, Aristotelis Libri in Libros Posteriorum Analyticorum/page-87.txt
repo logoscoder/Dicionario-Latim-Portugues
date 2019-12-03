@@ -1,0 +1,57 @@
+demonstrandum quod quid est: nisi forte modus demonstrationis qui est ad sensum, sicut cum aliquid
+demonstratur digito. Manifestum est autem quod hic modus non potest competere in proposito: quia quod quid
+est non est obiectum sensus, sed intellectus, ut dicitur in III de anima. Relinquitur ergo quod nullo modo possit
+demonstrari quod quid est.
+|+6 Lectio 6
+|#1 Postquam Philosophus ostendit quod non contingit demonstrare quod quid est, inducendo per singulos
+modos quibus aliquid demonstrari potest, hic ostendit propositum per rationes communes. Et circa hoc tria facit:
+primo, praemittit quoddam quod est necessarium ad propositum ostendendum; secundo, ostendit propositum; ibi:
+at vero si demonstrabit quod quid est etc.; tertio, epilogat quae dicta sunt; ibi: ex his igitur neque definitio etc..
+|#2 Dicit ergo primo quod non videtur esse possibilis aliquis modus, quo aliquis demonstret quod quid est esse
+hominis; et hoc ideo, quia necesse est quod quicunque scit quod quid est esse hominis, vel cuiuscunque alterius
+rei, quod sciat rem illam esse. Quia enim non entis non est aliqua quidditas vel essentia, de eo quod non est,
+nullus potest scire quod quid est; sed potest scire significationem nominis, vel rationem ex pluribus nominibus
+compositam: sicut potest aliquis scire quid significat hoc nomen tragelaphus vel Hircocervus, quod idem est,
+quia significat quoddam animal compositum ex hirco et cervo; sed impossibile est scire quod quid est
+Hircocervi, quia nihil est tale in rerum natura.
+|#3 Deinde cum dicit: at vero si demonstrabit quid est etc., ex eo quod praemissum est, procedit ad propositum
+ostendendum. Et circa hoc duo facit: primo, ostendit quod non potest ostendi quod quid est demonstratione;
+secundo, quod non potest ostendi definitione; ibi: si ergo et definiens demonstrat etc.. Circa primum ponit tres
+rationes; quarum prima talis est. Sicut definitio inducitur ad manifestandum aliquid unum, in quantum scilicet ex
+partibus definitionis fit unum per se, non per accidens, ita etiam oportet quod demonstratio, quae utitur
+definitione tanquam medio, unum aliquid demonstret: oportet enim conclusionem esse medio proportionatam. Et
+ita patet quod per unam et eamdem demonstrationem non possunt diversa demonstrari. Sed aliud est quod quid
+est homo, et esse hominem: in solo enim primo essendi principio, quod est essentialiter ens, ipsum esse et
+quidditas eius est unum et idem; in omnibus autem aliis, quae sunt entia per participationem, oportet quod sit
+aliud esse et quidditas entis. Non est ergo possibile quod eadem demonstratione demonstret aliquis quid est et
+quia est.
+|#4 Secundam rationem ponit ibi: postea et per demonstrationem etc.; quae talis est. Secundum commune
+sapientum dictum, necessarium est quod omne, idest totum quod per demonstrationem demonstratur, sit ipsum
+quia est, nisi forte aliquis dicat quod hoc ipsum quia est sit substantia alicuius rei. Hoc autem est impossibile.
+Hoc enim ipsum quod est esse, non est substantia vel essentia alicuius rei in genere existentis. Alioquin oporteret
+quod hoc quod dico ens esset genus, quia genus est quod praedicatur de aliquo in eo quod quid. Ens autem non
+est genus, ut probatur in III metaph.. Et propter hoc etiam Deus, qui est suum esse, non est in genere. Si autem
+quia est esset substantia alicuius rei, simul cum aliquis ostenderet quia est, ostenderet quid est, et ita non totum
+quod demonstratio demonstrat, esset quia est. Illud autem est falsum. Ergo patet quod demonstratio solum
+demonstrat quia est.
+Demonstrat enim enunciationem aliquam, quae significat esse vel non esse. Et hoc etiam apparet in processu
+scientiarum. Geometra enim accipit quid significat hoc nomen triangulus, et demonstrat quod sit, puta cum
+demonstrat super lineam rectam datam triangulum aequilaterum constituere. Si igitur aliquis demonstraret solum
+quid est triangulus, praeter morem demonstrationum quibus utuntur scientiae, non demonstraret hoc totum quod
+est triangulum esse, sed demonstraret solum hoc quod dico triangulum.
+Sicut enim propter hoc quod esse non est substantia rei, ille qui demonstrat esse, hoc solum demonstrat; ita si
+aliquis demonstraret quid est, hoc solum demonstraret. Sequeretur igitur quod aliquis sciens per definitionem
+quid est, nesciret an est, quod est impossibile, ut ex praedictis patet.
+|#5 Tertiam rationem ponit ibi: manifestum autem est secundum nunc etc.; quae per exempla consuetarum
+definitionum manifestat idem, quod in praecedenti ratione est conclusum, scilicet quod monstrans quid est non
+monstrat quia est.
+Unde dicit manifestum esse non solum secundum praedicta, sed etiam secundum modos terminorum, idest
+definitionum, quae nunc sunt in usu, quod illi qui definiunt, non manifestant quia est.
+Puta qui definit circulum, dicens quod est aliquid ex cuius medio lineae ad circumferentiam ductae sunt
+aequales, adhuc restat quaestio propter quid oporteat poni esse id quod definitur; puta propter quid oporteat poni
+quod sit circulus, qui praedicto modo definitur. Convenit enim aliquam similem rationem dicere montis aenei,
+puta quod est corpus aeneum in altum et usquequaque diffusum; et tamen adhuc restat quaerere an sit aliquid tale
+in rerum natura. Et hoc ideo quia termini, idest rationes definitivae, non declarant quod illud de quo assignantur,
+87
+
+

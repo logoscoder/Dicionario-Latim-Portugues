@@ -1,0 +1,59 @@
+demonstratio sit syllogismus faciens scire. Sed in prima figura maxime fit syllogismus propter quid (quod patet
+ex hoc quod mathematicae scientiae, ut arithmetica et geometria, et quaecunque aliae propter quid demonstrant,
+ut plurimum prima figura utuntur); ergo prima figura est maxime faciens scire et maxime accommoda
+demonstrationibus.
+Causa autem, quare demonstratio propter quid maxime fit in prima figura, haec est. Nam in prima figura medius
+terminus subiicitur maiori extremitati, quae est praedicatum conclusionis, et praedicatur de minori termino, qui
+est subiectum conclusionis. Oportet autem in demonstratione propter quid medium esse causam passionis, quae
+praedicatur in conclusione de subiecto.
+Et unus modus dicendi per se est quando subiectum est causa praedicati, ut interfectum interiit, sicut supra
+dictum est; et hoc competit primae figurae, in qua medium subiicitur maiori extremitati, ut dictum est.
+|#3 Secundam rationem ponit; ibi: postea ipsius quod quid est etc., quae talis est. Quod quid est potissimum
+locum in demonstrativis scientiis habet, quia, sicut dictum est, definitio aut est principium demonstrationis, aut
+conclusio, aut demonstratio positione differens. Ad investigandum autem definitionem sola prima figura
+convenit.
+Nam in sola prima figura concluditur universalis affirmativa, quae sola competit ad scientiam quod quid est.
+Nam quod quid est per affirmationem cognoscitur: praedicatur enim definitio de definito affirmative et
+universaliter; non enim quidam homo est animal bipes, sed omnis homo.
+Ergo prima figura maxime est faciens scire et accommoda demonstrationibus.
+|#4 Tertiam rationem ponit; ibi: amplius haec quidem etc., quae talis est. Aliae figurae in demonstrationibus
+indigent prima; prima autem non indiget aliis; ergo prima figura efficacius facit scire quam aliae. Quod autem
+aliae figurae indigeant prima ex hoc manifestum est, quod oportet ad perfectam scientiam habendam, quod
+propositiones mediatae, quae sumuntur in demonstrationibus, ad immediata reducantur. Quod quidem fit
+dupliciter, scilicet densando media et augmentando.
+Densando quidem, quando medium acceptum mediate coniungitur utrique extremorum, vel alteri. Unde, quando
+accipiuntur media alia inter medium primum et extrema, fit quasi quaedam condensatio mediorum. Sicut si
+acciperetur primo sic: omne e est c; omne c est a: et deinde inter c et e, sumatur medium d; et inter c et a medium
+b. Augmentando autem, quando medium est immediatum minori extremitati, et mediatum maiori. Tunc enim
+oportet accipere plura media alia supra medium primo acceptum. Ut si dicatur: omne e est d; omne d est a; et
+postea supra d accipiantur alia media. Haec autem condensatio et augmentatio mediorum fit solum per primam
+figuram: tum, quia solum in prima figura concluditur universalis affirmativa; tum, quia solum in prima figura
+medium sumitur inter extrema. In secunda autem figura medium accipitur extra extrema, quasi praedicatum de
+eis. In tertia vero figura, infra extrema, quasi subiectum de eis.
+|#5 Deinde cum dicit: sicut autem esse etc., docet quomodo propositio negativa possit esse immediata.
+Et circa hoc duo facit. Primo, proponit intentum, dicens quod sicut contingit a esse in b individualiter, idest
+immediate, sic et conceditur non esse, idest ita potest concedi quod propositio significans a non esse in b sit
+immediata.
+Unde exponit, quid est individualiter esse vel non esse, scilicet quando affirmativa vel negativa non habet
+medium per quod probetur.
+|#6 Secundo; ibi: cum igitur aut a quidem etc., manifestat propositum. Et circa hoc duo facit: primo, ostendit
+quomodo propositio negativa sit mediata; secundo, quomodo sit immediata; ibi: si vero neutrum etc.. Circa
+primum duo facit: primo, manifestat propositum; secundo, ostendit quoddam quod supposuerat; ibi: quod autem
+contingit b non esse etc.. Dicit ergo primo quod cum a, idest maior terminus, aut b, idest minor terminus, sunt in
+quodam toto, sicut species in genere, aut etiam ambo sunt sub aliquo genere, non contingit a non esse in b primo,
+idest non contingit quod haec propositio, nullum b est a, sit immediata. Et primo manifestat hoc quando a est in
+quodam toto, scilicet c; b autem in nullo; ut puta, si a sit homo, c substantia, b quantitas: potest enim syllogismus
+fieri ad probandum quod a nulli b insit per hoc, quod c omni a inest, b autem nulli; ut si fiat syllogismus in
+secunda figura, talis: omnis homo est substantia; nulla quantitas est substantia; ergo nulla quantitas est homo. Et
+similiter est, si b, idest minor terminus, sit in quodam toto, ut in d, a autem non sit in aliquo toto; syllogizari
+poterit quod a sit in nullo b. Ut sit a substantia, b linea, d quantitas; et fiat syllogismus in prima figura sic: nulla
+quantitas est substantia; omnis linea est quantitas; ergo nulla linea est substantia.
+Eodem autem modo poterit demonstrari conclusio negativa, si utrumque sit in quodam toto; ut si sit a linea, c
+quantitas, b albedo, et d qualitas; potest syllogizari in secunda figura, et in prima. In secunda figura sic: omnis
+linea est quantitas; nulla albedo est quantitas; ergo nulla albedo est linea. In prima figura sic: nulla qualitas est
+linea; omnis albedo est qualitas; ergo nulla albedo est linea. Est autem intelligendum, propositionem negativam
+esse mediatam, utroque terminorum existente in quodam toto, non quidem in eodem, sed in diversis. Si enim sint
+in eodem toto, erit propositio immediata, sicut, nullum rationale est irrationale, vel nullum bipes est quadrupes.
+39
+
+

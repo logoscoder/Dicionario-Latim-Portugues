@@ -1,0 +1,62 @@
+conditionalibus syllogismis, que eorum natura sit, propositionumque contextio, ut cum haec ad scientiam rite praelibata
+peruenerint, Tulliana facilius noscantur exempla.
+Omne igitur quod in quaestione dubitatur, aut uerisimilibus aut necessariis probabitur argumentis.
+Argumentum uero omne aut in syllogismi ordinem cadit, aut ex syllogismo uires accipit. Syllogismus uero omnis
+propositionibus constat.
+Propositiones autem uel simplices sunt, uel compositae. Simplices sunt quae simplicibus orationis partibus
+coniunguntur. Copulant autem incompositam propositionem simplices orationis partes, nomen et uerbum, ueluti cum
+dicimus, dies est, uel dies uernus est, uel dies serenus est; hic [1130C] enim omnem uim propositionis nomen connectit
+et uerbum.
+Omnis autem simplex propositio ex subiecto praedicatoque consistit.
+Subiectum est de quo dicitur id quod praedicatur. Praedicatum est quod de eo dicitur quod subiectum est.
+Verbum autem aliquoties praedicato nomini adiungitur, aliquoties ipsum praedicatur. [1130D] Praedicato nomini
+adiungitur, ut in hac propositione quae dicit, dies serenus est: dies enim subiectus est, serenus praedicatus; est uero
+uerbum sereno adiunctum est, quod diximus esse praedicatum. At si talis sit propositio, quae solo nomine constet et
+uerbo, ueluti cum dicimus, dies est, tunc dies subiicitur, est uerbum sine dubio praedicatur; sine uerbo autem nulla est
+propositio: omnis enim propositio uel uera uel falsa est; nisi autem uerbum sit quodlibet adiunctum, quo esse aliquid
+aut non esse dicatur, nulla ueritas aut falsitas in propositionibus deprehenditur.
+Saepe autem propositiones etiam ex totis orationibus constant; ut si dicamus: Transire in Africam utile est
+Romanis; hic enim subiectum quidem est transire in Africam, utile autem Romanis praedicatum, est uero praedicato
+coniungitur.
+Huiusmodi [1131A] igitur omnes propositiones praedicatiuae dicuntur. Praedicatiuae uero appellantur, quia
+aliud de alio praedicant. Omnesque qui ex his propositionibus fiunt syllogismi, secundum enuntiationum suarum
+formas praedicatiui appellantur.
+Ex his autem praedicatiuis propositionibus existunt compositae propositiones, quarum alia quidem copulatiua
+coniunctione nectuntur, ut et dies est, et lux est; alia uero per conditionem fiunt, quae etiam conditionales enuntiationes
+uocantur. Hae uero sunt quae coniunctione quadam partibus interposita ad consequentiam conditionemque ducuntur.
+Age enim sint duae propositiones praedicatiuae: una quidem, quae dicit, animal est; alia uero quae proponit, homo est.
+His si coniunctis interueniat, faciet, si homo est, animal est. Vides [1131B] igitur ut duas praedicatiuas propositiones in
+unam conditionem coniunctio copulauerit. Quae cum ita sint, omnes hae propositiones hypotheticae, id est
+conditionales, uocantur, atque ex his syllogismi tales existunt, quibus hypotheticis uel conditionalibus nomen est.
+Omnis autem hypothetica propositio, uel per connexionem fit, uel per disiunctionem. Per connexionem hoc
+modo, si dies est, lux est. Per disiunctionem ita, aut dies est, aut nox est. Earum uero quae per connexionem fiunt, aliae
+ex duabus affirmatiuis copulatae sunt, ut si dies est, lux est, namque dies est, et lux est, utraeque aliquid affirmant; aliae
+ex duabus negatiuis, ut si lux non est, dies non est, nam lucem non esse, et diem non esse, utraque negatio est; aliae
+uero ex affirmatiua negatiuaque coniunctae [1131C] sunt, ut si dies est, nox non est; aliae uero ex negatiua
+affirmatiuaque copulantur, ut si dies non est, nox est: omnes tamen in connexione positae sunt. Aut enim affirmatio
+affirmationem sequitur, aut negatio negationem, eique connexa est, aut affirmationem negatio, aut negationem
+affirmatio.
+Sed ex connexis repugnantes manifestum esi nasci, namque ubi affirmatio sequitur affirmationem, his si media
+negatio interposita sit, repugnantiam facit hoc modo:si dies est, lax est. Hic affirmatio sequitur affirmationem; at cum
+dico, si dies est, lux non est, repugnant inter se partes propostionis connexae, interposita negatione. Item quoties
+negatio sequitur negationem, si posteriori propositionis parti negatiuum dematur aduerbium, repugnantes fiunt hoc
+modo, si animal [1131D] non est, homo non est; haec connexio est ex duabus proposita negatiuis. At si posteriori parti,
+id est homo non est, negatiuum detrahatur aduerbium, fiet, si animal non est, homo est, quod repugnat; at si affirmatio
+negationem sequatur, siue posteriori parti negatio iungatur, siue priori auferatur, repugnantes fiunt, hoc modo, si dies
+non est, nox est. Hic igitur affirmatio sequitur negationem. Siue igitur posteriori parti, id est, nox est, negatio copuletur,
+ut sit ita, si dies non est, nox non est, siue priori auferatur, ut sit ita, si dies est, nox non est, repugnantem fieri
+propositionem nec esse est. Quod si negatio affirmationem sequatur, et posteriori parti negatiuum aduerbium
+subtrahatur, propositionis connexae partes in [1132A] repugnuntiam cadunt, hoc modo, si uigilat, non stertit. Hic
+affirmationem sequitur negatio sed si posteriori parti, id est, non stertit, negatio dematur, fiet, si uigilat stertit, et erit
+repugnans.
+Sed in connexis atque disiunctis propositionibus illud intelligendum est, quod in earum partibus et uis
+quaestionis includitur et argumenti. Age enim dubitetur an lux sit, idque approbandum sit ex eo quod dies est. Si igitur
+ita fiat propositio, si dies est, lux est, ea quidem pars totius propositionis quae sequitur, id est, lux est, quaestionis est.
+De ea namque quaeritur an lux sit. Ea uero quae prior est, id est, dies est, uim continet argumenti. Ex eo enim quod dies
+est, lux esse probabitur, et in caeteris quidem uel connexis, uel disiunctis eadem ratio est.
+In omnibus uero his quoniam [1132B] syllogismus atque argumentatio ad demonstrandam partem alteram
+quaestionis accommodatur, quaestio uero omnis dubitabilis est, oportet syllogismos qui acommodantur ambiguae
+quaestioni indubitabiles esse atque perspicuos, qui ut tales sint, ex claris atque apertis et in ueritate patentibus
+propositionibus necesse est constent; propositiones uero partim per se notae sunt, partim aliquibus probationibus
+
+

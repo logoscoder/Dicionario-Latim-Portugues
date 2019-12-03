@@ -1,0 +1,58 @@
+|#1
+Postquam Philosophus determinavit de demonstratione propter quid, hic ostendit differentiam inter
+demonstrationem quia, et demonstrationem propter quid. Et circa hoc duo facit: primo, ostendit differentiam
+utriusque in eadem scientia; secundo, in diversis; ibi: alio autem modo etc..
+Circa primum duo facit: primo, ponit duplicem differentiam utriusque demonstrationis in eadem scientia;
+secundo, manifestat per exempla; ibi: ut quod prope sint planetae etc..
+|#2 Dicit ergo primo: superius dictum est quod demonstratio est syllogismus faciens scire, et quod demonstratio
+ex causis rei procedit et primis et immediatis. Quod intelligendum est de demonstratione propter quid. Sed tamen
+differt scire quia ita est, et propter quid ita est. Et cum demonstratio sit syllogismus faciens scire, ut dictum est,
+oportet etiam quod demonstratio quae facit scire quia, differat a demonstratione quae facit scire propter quid. Et
+horum quidem differentia primo consideranda est in eadem scientia; postea consideranda est in diversis.
+|#3 In una autem scientia dupliciter differt utrumque praedictorum, secundum duo quae requirebantur ad
+demonstrationem simpliciter, quae facit scire propter quid; scilicet quod sit ex causis, et quod sit ex immediatis.
+Uno igitur modo differt scire quia ab hoc quod est scire propter quid; quia scire quia est si non fiat syllogismus
+demonstrativus per non medium, idest per immediatum, sed fiat per mediata. Sic enim non accipietur prima
+causa, cum tamen scientia, quae est propter quid, sit secundum primam causam.
+Et ita non erit scientia propter quid.
+|#4 Alio modo differunt, quia scire quia est quando fit syllogismus non quidem per media, idest per mediata,
+sed per immediata, sed non fit per causam: sed fit per convertentiam, idest per effectus convertibiles et
+immediatos. Et tamen talis demonstratio fit per notius, scilicet nobis: alias non faceret scire. Non enim
+pervenimus ad cognitionem ignoti, nisi per aliquid magis notum. Nihil enim prohibet duorum aeque
+praedicantium, idest convertibilium, quorum unum sit causa, et aliud effectus, notius esse aliquando non causam,
+sed magis effectum. Nam effectus aliquando est notior causa quoad nos et secundum sensum, licet causa sit
+semper notior simpliciter, et secundum naturam. Et ita per effectum notiorem causa potest fieri demonstratio non
+faciens scire propter quid, sed tantum quia.
+|#5 Deinde cum dicit: ut quod prope etc., manifestat praedictam differentiam per exempla. Et dividitur in duas
+partes: in prima, ponit exempla de demonstratione quia, quae est per effectum; in secunda, de demonstratione
+quia, quae est per causam mediatam; ibi: amplius in quibus medium etc.. Prima in duas: in prima, ponit exempla
+de syllogismo qui fit per effectum convertibilem; in secunda, de syllogismo qui fit per effectum non
+convertibilem; ibi: in quibus autem media etc.. Prima dividitur in duas partes secundum duo exempla quae ponit;
+secunda pars incipit ibi: item sic lunam etc.. Circa primum duo facit: primo, ponit exemplum de demonstratione
+quia, quae est per effectum; secundo, docet quomodo posset converti in demonstrationem propter quid; ibi:
+contingit autem etc..
+|#6 Dicit ergo primo quod demonstratio quia per effectum est, si quis concludat quod planetae sunt prope
+propter hoc quod non scintillant.
+Non enim non scintillare est causa quod planetae sint prope, sed e converso. Propter hoc enim non scintillant
+planetae, quia sunt prope.
+Stellae enim fixae scintillant, quia visus in comprehensione earum caligat propter earum distantiam.
+Formetur ergo syllogismus sic: omne non scintillans est prope; planetae sunt non scintillantes; ergo sunt prope.
+Sit in quo c planetae, idest accipiatur planetae quasi minor extremitas. In quo autem b sit non scintillare, idest
+non scintillare accipiatur medius terminus. In quo autem a sit prope esse, idest prope esse accipiatur ut maior
+extremitas. Vera igitur est haec propositio: omne c est b, quia planetae non scintillant. Et iterum verum est quod
+omne b est a, quia omnis stella non scintillans prope est. Huiusmodi autem propositionis veritas oportet quod
+accipiatur per inductionem, aut per sensum, quia effectus hic est notior causa quantum ad sensum. Et sic sequitur
+conclusio quod omne c sit a. Et sic demonstratum est quod planetae sive stellae erraticae sunt prope. Hic igitur
+syllogismus non est propter quid, sed est quia. Non enim propter hoc quod non scintillant, planetae sunt prope,
+sed propter id quod prope sunt, non scintillant.
+|#7 Deinde cum dicit: contingit autem et per alterum etc., docet quomodo demonstratio quia convertatur in
+demonstrationem propter quid, dicens quod contingit et per alterum demonstrare alterum, idest per hoc quod est
+prope esse, demonstrare quod non scintillant; et sic erit demonstratio propter quid. Ut sit c erraticae, idest
+accipiatur stella erratica minor extremitas; in quo b sit prope esse, idest prope esse accipiatur ut medius terminus,
+quod supra erat maior extremitas; a sit non scintillare, idest accipiatur non scintillare maior extremitas, quod
+supra erat medius terminus. Est igitur et b in c, quia omnis planeta prope est; et a est in b, quia omnis planeta, qui
+prope est, non scintillat; quare sequitur quod et a sit in c, scilicet, quod omnis planeta non scintillet. Et sic erit
+syllogismus propter quid, cum accepta sit prima et immediata causa.
+35
+
+

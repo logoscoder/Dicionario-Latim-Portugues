@@ -1,0 +1,62 @@
+Et hoc videtur magis consonum intentioni Aristotelis.
+Unde ad huius distinctionis probationem inducit communem loquendi consuetudinem, secundum quam
+qualitates quae secundum rationem suam sunt facile mobiles, si ex aliquo accidenti difficile mobiles reddantur,
+habitus dicuntur, et e converso est de qualitatibus quae secundum suam rationem sunt difficile mobiles; nam si
+aliquis imperfecte habeat scientiam, ut de facili possit ipsam amittere, magis dicitur disponi ad scientiam quam
+scientiam habere. Ex quo patet quod nomen habitus diuturnitatem quandam importat; non autem nomen
+dispositionis.
+Nec impeditur quin secundum hoc facile et difficile mobile sint specificae differentiae, propter hoc quod ista
+pertinent ad passionem et motum, et non ad genus qualitatis. Nam istae differentiae, quamvis per accidens
+videantur se habere ad qualitatem, designant tamen proprias et per se differentias qualitatum. Sicut etiam in
+genere substantiae frequenter accipiuntur differentiae accidentales loco substantialium, inquantum per eas
+designantur principia essentialia.
+|a3 Articulus 3
+AG1
+Ad tertium sic proceditur. Videtur quod habitus non importet ordinem ad actum.
+Unumquodque enim agit secundum quod est actu.
+Sed Philosophus dicit, in III de anima, quod cum aliquis fit sciens secundum habitum, est etiam tunc in potentia,
+aliter tamen quam ante addiscere.
+Ergo habitus non importat habitudinem principii ad actum.
+AG2
+Praeterea, illud quod ponitur in definitione alicuius, per se convenit illi. Sed esse principium actionis ponitur in
+definitione potentiae; ut patet in V metaphys..
+Ergo esse principium actus per se convenit potentiae. Quod autem est per se, est primum in unoquoque genere.
+Si ergo etiam habitus sit principium actus, sequitur quod sit posterior quam potentia. Et sic non erit prima species
+qualitatis habitus vel dispositio.
+AG3
+Praeterea, sanitas quandoque est habitus, et similiter macies et pulchritudo. Sed ista non dicuntur per ordinem ad
+actum.
+Non ergo est de ratione habitus quod sit principium actus.
+SC
+Sed contra est quod Augustinus dicit, in libro de bono coniugali, quod habitus est quo aliquid agitur cum opus
+est.
+Et Commentator dicit, in III de anima, quod habitus est quo quis agit cum voluerit.
+CO
+Respondeo dicendum quod habere ordinem ad actum potest competere habitui et secundum rationem habitus; et
+secundum rationem subiecti in quo est habitus. Secundum quidem rationem habitus, convenit omni habitui
+aliquo modo habere ordinem ad actum. Est enim de ratione habitus ut importet habitudinem quandam in ordine
+ad naturam rei, secundum quod convenit vel non convenit. Sed natura rei, quae est finis generationis, ulterius
+etiam ordinatur ad alium finem, qui vel est operatio, vel aliquod operatum, ad quod quis pervenit per
+operationem. Unde habitus non solum importat ordinem ad ipsam naturam rei, sed etiam consequenter ad
+operationem, inquantum est finis naturae, vel perducens ad finem.
+Unde et in V metaphys. Dicitur in definitione habitus, quod est dispositio secundum quam bene vel male
+disponitur dispositum aut secundum se, idest secundum suam naturam, aut ad aliud, idest in ordine ad finem.
+Sed sunt quidam habitus qui etiam ex parte subiecti in quo sunt, primo et principaliter important ordinem ad
+actum.
+Quia ut dictum est, habitus primo et per se importat habitudinem ad naturam rei. Si igitur natura rei in qua est
+habitus, consistat in ipso ordine ad actum, sequitur quod habitus principaliter importet ordinem ad actum.
+Manifestum est autem quod natura et ratio potentiae est ut sit principium actus.
+Unde omnis habitus qui est alicuius potentiae ut subiecti, principaliter importat ordinem ad actum.
+RA1
+Ad primum ergo dicendum quod habitus est actus quidam, inquantum est qualitas, et secundum hoc potest esse
+principium operationis. Sed est in potentia per respectum ad operationem.
+Unde habitus dicitur actus primus, et operatio actus secundus; ut patet in II de anima.
+RA2
+Ad secundum dicendum quod non est de ratione habitus quod respiciat potentiam, sed quod respiciat naturam. Et
+quia natura praecedit actionem, quam respicit potentia; ideo prior species qualitatis ponitur habitus quam
+potentia.
+RA3
+
+812
+
+

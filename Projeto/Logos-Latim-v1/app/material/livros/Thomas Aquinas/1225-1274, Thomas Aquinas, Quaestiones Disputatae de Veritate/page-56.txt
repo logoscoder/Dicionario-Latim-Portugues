@@ -1,0 +1,62 @@
+substantiae et accidenti, potest esse impositum secundum considerationem alicuius convenientiae inter ea, unde
+non erit aequivocum, sed analogum.
+RA8
+Ad octavum dicendum, quod hoc nomen animal imponitur non ad significandum figuram exteriorem, in qua
+pictura imitatur animal verum, sed ad significandum interiorem naturam, in qua non imitatur; et ideo nomen
+animalis de vero et picto aequivoce dicitur; sed nomen scientiae convenit creaturae et creatori secundum id in
+quo creatura creatorem imitatur; et ideo non omnino aequivoce praedicatur de utroque.
+|a12 Articulus 12
+TTA
+Duodecimo quaeritur utrum Deus sciat singularia futura contingentia.
+TTB
+Et videtur quod non.
+AG1
+Nihil enim potest sciri nisi verum, ut dicitur in I poster.. Sed in contingentibus singularibus et futuris non est
+veritas determinata, ut dicitur Lib. I periher.. Ergo Deus non habet scientiam de futuris singularibus et
+contingentibus.
+AG2
+Praeterea, illud ad quod sequitur impossibile, est impossibile. Sed ad hoc quod Deus sciat singulare contingens et
+futurum, sequitur impossibile, scilicet quod scientia Dei fallatur. Ergo impossibile est quod sciat singulare
+futurum contingens. Probatio mediae.
+Detur quod Deus sciat aliquod futurum contingens singulare, ut socratem sedere. Aut ergo possibile est socratem
+non sedere, aut non est possibile. Si non est possibile; ergo impossibile socratem non sedere, ergo socratem
+sedere est necessarium. Datum autem fuerat quod esset contingens. Si autem sit possibile non sedere, hoc posito
+non debet sequi aliquod inconveniens. Sequitur autem quod scientia Dei fallatur. Ergo non erit impossibile
+scientiam Dei falli.
+AG3
+Sed dicebat, quod contingens ut in Deo est necessarium est. Sed contra, illud quod est in se contingens, non est
+necessarium quoad Deum, nisi secundum quod est in ipso. Sed secundum quod est in ipso, non est distinctum ab
+eo. Si igitur non est scitum a Deo nisi secundum quod est necessarium, non erit scitum ab eo secundum quod est
+in propria natura existens, secundum quod est a Deo distinctum.
+AG4
+Praeterea, secundum Philosophum in I prior., ex maiori de necesse et minori de inesse sequitur conclusio de
+necesse. Sed haec est vera: omne scitum a Deo necesse est esse. Si enim non esset quod Deus scit esse, scientia
+eius esset falsa. Si ergo aliquid esse est scitum a Deo, illud necesse est esse. Sed nullum contingens necesse est
+esse. Ergo nullum contingens scitur a Deo.
+AG5
+Sed dicebat, quod cum dicitur: omne scitum a Deo necesse est esse; non importatur necessitas ex parte creaturae,
+sed solum ex parte Dei scientis. Sed contra: cum dicitur: omne scitum a Deo necesse est esse; necessitas
+attribuitur supposito dicti. Sed suppositum dicti est id quod est scitum a Deo, non ipse Deus sciens. Ergo non
+importatur per hoc necessitas nisi ex parte rei scitae.
+AG6
+Praeterea, quanto aliqua cognitio est certior in nobis, tanto minus potest esse de contingentibus; scientia enim
+non est nisi de necessariis, quia certior est opinione, quae potest esse de contingentibus. Sed scientia Dei est
+certissima. Ergo non potest esse nisi de necessariis.
+AG7
+Praeterea, in omni vera conditionali, si antecedens est necessarium absolute, et consequens erit absolute
+necessarium. Sed ista conditionalis est vera: si aliquid est scitum a Deo, illud erit. Cum ergo hoc antecedens: hoc
+esse scitum a Deo sit absolute necessarium, et consequens erit absolute necessarium: ergo omne quod scitum est
+a Deo, necesse est absolute esse. Quod autem hoc sit necessarium absolute: hoc esse scitum a Deo; sic probabat.
+Hoc est quoddam dictum de praeterito. Sed omne dictum de praeterito, si est verum, est necessarium, quia quod
+fuit, non potest non fuisse.
+Ergo hoc est absolute necessarium.
+AG8
+Praeterea, omne aeternum est necessarium. Sed omne quod Deus scivit, ab aeterno scivit. Ergo eum scivisse, est
+necessarium absolute.
+AG9
+Praeterea, unumquodque sicut se habet ad esse, sic se habet ad verum. Sed futura contingentia non habent esse.
+Ergo nec veritatem; ergo non potest de eis scientia esse.
+AG10
+56
+
+

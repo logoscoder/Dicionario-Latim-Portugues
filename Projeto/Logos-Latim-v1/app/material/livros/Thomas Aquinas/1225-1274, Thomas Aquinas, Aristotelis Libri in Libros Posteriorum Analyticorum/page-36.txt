@@ -1,0 +1,56 @@
+|#8 Deinde cum dicit: item sic lunam demonstrant etc., ponit aliud exemplum ad idem, dicens quod sic (idest
+demonstratione faciente scire quia), demonstrant quod luna sit circularis per incrementa, quibus scilicet omni
+mense augetur et minuitur, sic argumentantes: omne quod sic augetur quasi circulariter, circulare est; augetur
+autem sic luna; ergo est circularis. Sic igitur factus est syllogismus demonstrans quia. Sed e converso, posito
+medio ipsius, fit syllogismus propter quid, scilicet si ponatur circulare ut medius terminus, et augmentum ut
+maior extremitas.
+Non enim ideo circularis est luna, quia sic augetur, sed quia circularis est, ideo talia augmenta recipit.
+Sit ergo luna in quo c, idest minor extremitas; augmentum in quo b, idest medius terminus; circularis autem in
+quo a, idest maior extremitas.
+Et hoc intelligendum est in syllogismo quia. E converso autem in syllogismo propter quid.
+|#9 Deinde cum dicit: in quibus autem media etc., ostendit quod sit demonstratio quia per effectum non
+convertibilem, dicens quod in illis etiam syllogismis in quibus media non convertuntur cum extremis, et accipitur
+ut notius quoad nos, scilicet loco medii, quod non est causa, sed magis effectus, demonstratur quidem quia, sed
+non propter quid. Et quidem si tale medium convertatur cum maiori extremitate, et excedat minorem,
+manifestum est quod conveniens fit syllogismus.
+Sicut si probetur de venere quod sit prope, quia non scintillat. Si autem e converso minor terminus esset in plus
+quam medium assumptum; non esset conveniens syllogismus. Non enim potest de stella universaliter concludi
+quod sit prope, propter hoc quod non scintillat. In comparatione autem ad maiorem terminum est e converso.
+Nam si medium sit in minus quam maior terminus conveniens fit syllogismus. Sicut si per hoc, quod est moveri
+motu progressivo, probetur de aliquo quod habeat animam sensibilem. Si autem sit in plus, non fit conveniens
+syllogismus.
+Nam ab effectu, qui a pluribus causis procedere potest, non potest una illarum concludi. Sicut non potest
+concludi, quod aliquis habeat febrem, ex excitatione pulsus.
+|+24 Lectio 24
+|#1 Postquam manifestavit Philosophus per exempla, qualiter demonstratur quia per effectum; hic ostendit
+qualiter demonstratur quia per non immediata.
+Et circa hoc duo facit: primo, manifestat propositum; secundo, ostendit qualiter in huiusmodi demonstrationibus
+media se habeant ad conclusiones; ibi: comparantur autem huiusmodi etc..
+Circa primum tria facit: primo, proponit intentum; secundo, manifestat per exemplum; ibi: ut quare non respirat
+etc.; tertio, ordinat in forma syllogistica; ibi: syllogismus autem etc..
+Dicit ergo primo quod non solum in his quae probantur per effectum demonstratur quia et non propter quid, sed
+etiam in quibus medium extra ponitur.
+|#2 Dicitur autem medium extra poni quando est diversum a maiori termino, ut accidit in syllogismis negativis.
+Vel medium extra poni dicitur, quando est extra genus, quasi communius, et non convertitur cum maiori termino.
+Quod autem per tale medium non possit demonstrari propter quid probat ex hoc, quod demonstratio propter quid
+est per causam. Tale autem medium non est causa proprie loquendo.
+|#3 Deinde cum dicit: ut quare non respirat etc., manifestat quod dixerat per exemplum, dicens: ut si quis velit
+probare, quod non respirat paries, quia non est animal, non demonstrat propter quid, nec accipit causam. Quia si
+non esse animal esset causa non respirandi, oporteret quod esse animal esset causa respirandi: quod falsum est.
+Multa enim sunt animalia quae non respirant.
+Oportet enim, si negatio est causa negationis, quod affirmatio sit causa affirmationis; sicut non esse calidum et
+frigidum in mensura est causa quod aliquis non sanetur, et esse calidum et frigidum in mensura est causa quod
+aliquis sanetur. Similiter autem est e converso, quod si affirmatio est causa affirmationis, et negatio est causa
+negationis. In praemissis autem hoc non contingit, quia affirmatio non est causa affirmationis; quia non omne
+quod est animal respirat.
+|#4 Deinde cum dicit: syllogismus autem etc., ordinat praedictum exemplum in forma syllogistica, dicens quod
+syllogismum praedictum oportet fieri in media figura. Et hoc ideo est, quia in prima figura non potest esse,
+quando conclusio est negativa, quod maior sit affirmativa; quod oportet in praedicto exemplo esse. Nam
+respirare, quod est maior terminus, oportet quod coniungatur cum animali, quod est medius terminus, secundum
+affirmationem. Sed paries, quod est minor terminus, oportet quod coniungatur cum animali, quod est medium,
+secundum negationem. Et sic oportet quod maior sit affirmativa et minor negativa. Quod quidem nunquam fit in
+prima figura; sed solum in secunda. Accipiatur ergo animal a, idest medius terminus; b respirare, idest maior
+extremitas; et paries c, idest minor extremitas. Sic igitur a est in omni b, quia omne respirans est animal; in nullo
+36
+
+

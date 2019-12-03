@@ -1,0 +1,55 @@
+intelligitur individuare nisi per subiectum. Et inde est, quod in solo quantitatis genere aliqua significantur ut
+subiecta, alia ut passiones.
+|#8 Tertio ibi, secundum accidens distinguit modos quantitatis per accidens: et ponit duos modos quantitatis per
+accidens: quorum unus est secundum quod aliqua dicuntur quanta per accidens ex hoc solo, quod sunt accidentia
+alicuius quanti, sicut album et musicum per hoc quod sunt accidentia alicuius subiecti, quod est quantum.
+|#9 Alio modo dicuntur aliqua quanta per accidens non ratione subiecti, in quo sunt, sed eo quod dividuntur
+secundum quantitatem ad divisionem alicuius quantitatis; sicut motus et tempus, quae dicuntur quaedam quanta
+et continua, propterea quod ea, quorum sunt, sunt divisibilia, et ipsa dividuntur ad divisionem eorum. Tempus
+enim est divisibile et continuum propter motum; motus autem propter magnitudinem; non quidem propter
+magnitudinem eius quod movetur, sed propter magnitudinem eius in quo aliquid movetur.
+Ex eo enim quod illa magnitudo est quanta, et motus est quantus. Et propter hoc quod motus est quantus,
+sequitur tempus esse quantum. Unde haec non solum per accidens quantitates dici possunt, sed magis per
+posterius, inquantum quantitatis divisionem ab aliquo priori sortiuntur.
+|#10 Sciendum est autem, quod Philosophus in praedicamentis posuit tempus quantitatem per se, cum hic ponat
+ipsum quantitatem per accidens; quia ibi distinxit species quantitatis secundum diversas rationes mensurae.
+Aliam enim rationem mensurae habet tempus, quod est mensura extrinseca, et magnitudo, quae est mensura
+intrinseca. Et ideo ponitur ibi ut alia species quantitatis. Hic autem considerat species quantitatis quantum ad
+ipsum esse quantitatis. Et ideo illa, quae non habent esse quantitatis nisi ex alio, non ponit hic species quantitatis,
+sed quantitates per accidens, ut motum et tempus. Motus autem non habet aliam rationem mensurae quam
+tempus et magnitudo. Et ideo nec hic nec ibi ponitur quantitatis species. Locus autem ponitur ibi species
+quantitatis, non hic, quia habet aliam rationem mensurae, sed non aliud esse quantitatis.
+|+16 Lectio 16
+|#1 Hic distinguit modos qualitatis: et circa hoc duo facit.
+Primo ponit quatuor modos qualitatis.
+Secundo reducit eos ad duos, ibi, fere vero secundum duos modos.
+Dicit ergo primo, quod unus modus qualitatis est secundum quod qualitas dicitur differentia substantiae, idest
+differentia, per quam aliquid ab altero substantialiter differt, quae intrat in definitionem substantiae. Et propter
+hoc dicitur, quod differentia praedicatur in quale quid.
+Ut si quaeratur, quale animal est homo? respondemus quod bipes: et quale animal equus? respondemus quod
+quadrupes: et qualis figura est circulus? respondemus quod agonion, id est sine angulo; ac si ipsa differentia
+substantiae qualitas sit. Uno igitur modo ipsa differentia substantiae qualitas dicitur.
+|#2
+Hunc autem modum qualitatis Aristoteles in praedicamentis praetermisit, quia non continetur sub
+praedicamento qualitatis, de quo ibi agebat. Hic autem agit de significationibus huius nominis, qualitas.
+|#3 Secundum ponit ibi, alio vero dicit, quod alius modus qualitatis vel qualis est secundum quod immobilia et
+mathematica dicuntur qualia. Mathematica enim abstrahunt a motu, ut in sexto huius dicetur. Mathematica enim
+sunt numeri, et magnitudines; et in utrisque utimur nomine qualis. Dicimus enim superficies esse quales,
+inquantum sunt quadratae vel triangulares.
+Et similiter numeri dicuntur quales, inquantum sunt compositi. Dicuntur autem numeri compositi, qui
+communicant in aliquo numero mensurante eos; sicut senarius numerus et novenarius mensurantur ternario, et
+non solum ad unitatem comparationem habent, sicut ad mensuram communem. Numeri autem incompositi, vel
+primi in sua proportione dicuntur, quos non mensurat alius numerus communis, nisi sola unitas.
+|#4 Dicuntur etiam numeri quales ad similitudinem superficiei et solidi, idest corporis. Secundum quidem
+imitationem superficiei, inquantum numerus ducitur in numerum, vel eumdem vel alium; ut cum dicitur bis tria,
+vel ter tria. Et hoc est quod dicit quoties quanti. Nam designatur quasi una dimensio in hoc quod dicitur tria,
+quasi vero secunda dimensio, hoc quod dicitur bis tria, vel etiam ter tria.
+|#5 Ad imitationem vero solidi, quando est duplex ductus, vel eiusdem numeri in seipsum, vel diversorum
+numerorum in unum, ut cum dicitur ter tria ter, vel bis tria bis, vel bis tria quater. Et hoc est quod dicit quoties
+quot quanti.
+Sic enim considerantur in numero quasi tres dimensiones ad modum solidi. In hac autem numerorum
+ordinatione, aliquid consideratur per modum substantiae; sicut hoc quod dico tria, vel quicumque numerus qui in
+alium ducitur. Aliquid vero per modum quantitatis; sicut ipse ductus unius numeri in alterum, vel in se ipsum; ut
+152
+
+

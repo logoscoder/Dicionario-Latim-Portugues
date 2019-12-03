@@ -1,0 +1,54 @@
+|#3 Ex positione autem epicyclorum ulterius sequitur, vel quod sphaera, per quam movetur epicyclus, non sit
+integra et continua, vel quod sit divisibilis et rarefactibilis et condensabilis ad modum quo aer dividitur et
+inspissatur et rarescit aliquo corpore moto. Sequitur etiam, quod ipsum corpus stellae movetur per seipsum, et
+non solum ad motum orbis; et quod ex motu corporum caelestium perveniat sonus, quod Pythagorici
+consenserunt.
+|#4 Sed tamen omnia huiusmodi sunt contra ea quae determinata sunt in scientia naturali. Unde ad haec
+evitanda eudoxus hoc videns, posuit cuique planetae sphaeras plures concentricas mundo, quarum unaquaque
+habet motum proprium, et ex omnibus illis motibus causatur id quod apparet de motu planetarum. Posuit igitur
+eudoxus motum tam solis quam lunae esse in tribus sphaeris.
+|#5 Primus enim tam solis quam lunae, qui est motus diurnus, quo revolvuntur ab oriente ad occidentem, et
+hunc motum dicit esse astrorum planorum, idest stellarum sine errore, scilicet fixarum; quia sicut supra dictum
+est, cum nondum esset deprehensus motus stellarum fixarum, qui est ab occidente in orientem, esse contrarium
+motui primo, putabatur, quod motus diurnus esset proprius octavae sphaerae, quae est sphaera stellarum fixarum.
+Non autem putabatur, quod sola prima sphaera sufficeret ad deferendas omnes sphaeras planetarum motu diurno,
+sicut Ptolemaeus ponit: sed ponebat quod quilibet planeta habeat propriam sphaeram, quae revolveret ipsum
+motu diurno. Ad hunc ergo motum causandum ponebat primam sphaeram solis et lunae.
+|#6 Secundam autem sphaeram ponebat ad causandum motum solis et lunae, qui est per medium zodiaci, qui
+vocatur motus longitudinis, secundum quem movetur tam sol quam luna de occidente in orientem contra motum
+firmamenti.
+|#7 Tertiam autem sphaeram ponebat ad causandum illum motum, qui obliquatur secundum latitudinem
+animalium, quae figurantur in zodiaco, prout quandoque est Australior, quandoque borealior videtur planeta a
+media linea zodiaci.
+Sed hic motus latitudinis magis apparet, et secundum maiorem diversitatem, in luna quam in sole. Et ideo
+subiungit, quod in maiori latitudine tam obliquatur motus secundum quem fertur luna, quam motus secundum
+quem fertur sol. Et quidem lunae Ptolemaeus ponit motum latitudinis, non autem solis. Posuit igitur eudoxus
+tertium motum, ut simplicius dicit, quia opinabatur quod etiam sol declinaret a media linea zodiaci versus duos
+polos; et hoc suspicabatur eo quia non semper in eodem loco sol oritur in tropicis aestivis et hiemalibus.
+Si autem in uno et eodem tempore fieret restitutio longitudinis et latitudinis sufficeret ad hoc una sphaera per
+obliquitatem maximi circuli, secundum quam sol movetur. Sed, quia non sic se habet, sed in alio tempore
+pertransit circulum per longitudinem, in alio vero tempore restitutio fit latitudinis, necesse fuit ad hoc ponere
+tertiam sphaeram. Hanc autem tertiam sphaeram ponebat in sole revolvi versus eamdem partem cum secunda,
+sed circa axem alterum, et super alios polos. In luna autem ad eamdem cum prima sphaera. Sed in utroque
+ponebat motum huius tertiae sphaerae esse tardiorem, quam secundae.
+|#8 Sed aliorum quinque planetarum motum cuiuslibet posuit in quatuor sphaeras; ita quod prima sphaera et
+secunda est eiusdem rationis cum prima et secunda solis et lunae; quia motus primus, quem ponebat esse
+stellarum fixarum, et motus secundus, qui est per medium zodiaci secundum longitudinem, apparet communiter
+in omnibus planetis.
+|#9 Deinde unicuique planetarum ponebat tertiam sphaeram ad causandum motum latitudinis, cuius polos, circa
+quos revolvitur, ponebat esse in media linea zodiaci.
+Sed quia ponebat omnes sphaeras esse concentricas, ex quo zodiacus transibat per polos circuli maximi tertiae
+sphaerae, sequebatur e converso, quod circulus maximus tertiae sphaerae transiret per polos zodiaci. Unde
+sequebatur quod motus tertiae sphaerae deferret planetam usque ad polos zodiaci, quod nunquam videtur.
+|#10 Et ideo necesse fuit quod poneret quartam sphaeram, quae ipsum planetam ferret, quae revolvitur in
+contrarium tertiae, ab oriente scilicet ad occidentem aequali tempore, unde impedit ne plus divertatur secundum
+latitudinem a zodiaco.
+Et hoc est quod dicit, quod quartum motum stellae dicebat esse secundum quemdam circulum obliquatum ad
+medium tertiae sphaerae, hoc est ad maximum circulum eius.
+|#11 Si igitur cum quolibet quinque planetarum posuerit quatuor sphaeras, sequitur quod quinque planetarum
+sunt viginti sphaerae. Quibus si addantur tres solis et tres lunae, erunt omnes viginti sex, ita quod intelligatur
+corpus cuiuslibet planetae esse defixum in ultima sphaerarum suarum.
+|#12 Calippus autem.
+358
+
+

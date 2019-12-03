@@ -1,0 +1,66 @@
+sit motus. Videtur enim in primo aspectu quod vel sit simpliciter actus,
+vel simpliciter potentia, vel quod contineatur sub privatione, sicut
+antiqui posuerunt ipsum contineri sub non ente et sub inaequalitate.
+Sed nullum horum est possibile, ut supra ostensum est: unde relinquitur
+solus praedictus modus ad definiendum motum; ut scilicet motus sit actus
+talis qualem diximus, scilicet existentis in potentia.
+Talem autem actum considerare difficile est propter permixtionem actus et
+potentiae: tamen esse talem actum non est impossibile, sed contingens.
+|+4
+
+Lectio 4
+
+|#1
+Postquam Philosophus definivit motum, hic ostendit cuius actus sit
+motus, utrum scilicet mobilis vel moventis.
+Et potest dici quod hic ponit aliam definitionem motus, quae se habet ad
+praemissam ut materialis ad formalem, et conclusio ad principium.
+Et haec est definitio: motus est actus mobilis inquantum est mobile.
+Haec enim definitio concluditur ex praemissa.
+Quia enim motus est actus existentis in potentia inquantum huiusmodi;
+existens autem in potentia inquantum huiusmodi, est mobile, non autem
+movens, quia movens inquantum huiusmodi est ens in actu; sequitur quod
+motus sit actus mobilis inquantum huiusmodi.
+|#2
+Circa hoc ergo tria facit: primo ostendit quod motus est actus
+mobilis; secundo quomodo se habet motus ad moventem, ibi: motivi autem
+actus etc.; tertio movet dubitationem, ibi: habet autem defectum etc..
+Circa primum duo facit: primo ponit definitionem motus, scilicet quod motus
+est actus mobilis; secundo ex hoc declarat quoddam quod poterat esse
+dubium, ibi: et dubium autem etc..
+Circa primum tria facit: primo investigat definitionem motus; secundo
+concludit eam, ibi: unde motus etc.; tertio manifestat eam, ibi: accidit
+autem etc..
+Ad investigandum autem definitionem motus, praemittit quod moveri etiam
+accidit moventi.
+Et circa hoc duo facit: primo probat quod omne movens movetur; secundo
+ostendit unde accidat ei moveri, ibi: ad hoc enim agere etc..
+|#3
+Quod autem movens moveatur, ostendit ex duobus.
+Primo: quidem quia omne quod prius est in potentia et postea in actu,
+quodammodo movetur; movens autem invenitur prius esse movens in potentia et
+postea movens in actu; movens ergo huiusmodi movetur. Et hoc est quod
+dicit, quod omne movens, cum ita se habeat quod quandoque sit in potentia
+mobile, idest ad movendum, movetur, sicut dictum est: hoc enim ex dictis
+apparet. Dictum est enim quod motus est actus existentis in potentia; et
+hoc contingit in omni movente naturali; unde dictum est supra quod omne
+movens physicum movetur.
+|#4
+Secundo, ibi: et cuius immobilitas etc., ostendit idem alio modo.
+Cuicumque sua immobilitas est eius quies, huic inest motus; quies enim et
+motus, cum sint opposita, habent fieri circa idem: sed moventis
+immobilitas, idest cessatio a movendo, dicitur quies; dicuntur enim quaedam
+quiescere, quando cessant agere: omne igitur tale movens, scilicet cuius
+immobilitas est quies, movetur.
+|#5
+Deinde cum dicit: ad hoc enim agere etc., ostendit unde accidat
+moventi quod moveatur.
+Non enim accidit ei ex hoc quod movet, sed ex hoc quod movet tangendo: quia
+movere est agere ad hoc quod aliquid moveatur; id autem quod sic a movente
+patitur, movetur. Sed hoc quod est agere facit tactu; nam corpora tangendo
+agunt: unde sequitur quod et simul patiatur, quia quod tangit, patitur.
+Sed hoc intelligendum est quando est mutuus tactus scilicet quod aliquid
+tangit et tangitur, ut contingit in his quae communicant in materia, quorum
+84
+
+

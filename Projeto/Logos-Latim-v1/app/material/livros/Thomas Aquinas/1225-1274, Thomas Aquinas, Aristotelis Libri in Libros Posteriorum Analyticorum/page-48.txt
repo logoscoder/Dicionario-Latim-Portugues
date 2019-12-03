@@ -1,0 +1,56 @@
+|#5 Deinde cum dicit: habet autem se sic etc., manifestat quod dixerat, dicens quod hoc, quod dictum est, quod
+demonstrator ad veritatem ex his quae sunt procedit, sic se habet ut dicetur.
+Invenitur enim aliquid, quod de alio praedicatur, non secundum accidens, et hoc exponit per affirmativam,
+ostendens quid praedicetur secundum accidens. Dupliciter enim aliquid praedicatur secundum accidens: uno
+modo, quando subiectum praedicatur de accidente, puta cum dicimus, album est homo; alio modo dissimiliter,
+quando accidens praedicatur de subiecto, sicut cum dicitur, homo est albus. Et differt hic modus a primo,
+quoniam hic, quando accidens praedicatur de subiecto, dicitur, homo est albus, non quia aliquid alterum sit
+album, sed quia ipse homo est albus: et tamen est propositio per accidens, quia album non convenit homini
+secundum propriam rationem. Non enim ponitur in definitione eius, neque e converso. Sed quando dicitur,
+album est homo, hoc non dicitur, quia esse hominem insit albo, sed quia esse hominem inest subiecto albi, cui
+scilicet accidit esse album. Unde hic modus est magis remotus a praedicatione per se, quam primus. Sunt autem
+quaedam, quae neutro istorum modorum per accidens praedicantur; et ista dicuntur per se. Et talia sunt, ex
+quibus demonstrator procedit. Sed hoc dialecticus non requirit, et ideo quaestio, quae infra proponitur de
+huiusmodi quae per se praedicantur, non habet locum in syllogismis dialecticis, sed solum in syllogismo
+demonstrativo.
+|#6 Deinde cum dicit: sit igitur c huiusmodi etc., movet quaestiones intentas. Et circa hoc duo facit: primo,
+movet quaestiones in quibus locum habent; secundo, ostendit in quibus locum non habent; ibi: sed in
+convertentibus etc.. Circa primum duo facit: primo, movet quaestiones in demonstrationibus affirmativis;
+secundo, ostendit quod hae quaestiones similiter locum habent in demonstrationibus negativis; ibi: similiter
+autem dico et in privativis etc.. Circa primum duo facit: primo, movet quaestiones; secundo, ostendit ad quid
+huiusmodi quaestiones pertineant; ibi: est autem hoc intendere etc..
+|#7 Circa primum movet tres quaestiones secundum tres terminos syllogismi. Et primo, movet quaestionem ex
+parte maioris extremitatis, utrum sit abire in infinitum ascendendo. Et in hac quaestione supponitur ultimum
+subiectum, quod non praedicatur de alio, et alia praedicantur de ipso. Sit ergo hoc c, et in c primo et immediate
+sit b, et in b sit e quasi de eo universaliter praedicatum, et iterum f sit in e similiter de eo universaliter
+praedicatum. Est ergo quaestio: utrum iste ascensus alicubi stet, ita scilicet quod sit devenire ad aliquid quod
+praedicetur de aliis universaliter, et nihil aliud praedicetur de ipso; aut hoc non sit necesse, sed contingat
+ascendere in infinitum?
+|#8 Secundo, ibi: et iterum si de a quidem etc., movet quaestionem ex parte minoris termini, utrum scilicet sit
+ire in infinitum descendendo.
+Et in hac quaestione supponitur esse aliquod primum praedicatum universale, quod de aliis praedicetur, et nihil
+sit universalius eo, quod praedicetur de ipso. Sit ergo a tale, quod nihil de eo praedicetur sicut totum universale
+de parte, a vero praedicetur de c primo et immediate, et c de I, et I de b. Est ergo quaestio: utrum necesse sit hic
+descendendo stare, aut contingat in infinitum ire?
+|#9 Et ostendit consequenter differentiam harum duarum quaestionum, quia in prima quaestione quaerebatur: si
+aliquis incipiat a particularissimo subiecto, quod nulli inest per modum quo totum universale inest parti, sed alia
+insunt ei, utrum contingat procedere in infinitum ascendendo? secunda vero quaestio est: si aliquis incipiat ab
+universalissimo praedicato, quod praedicatur de aliis sicut totum universale de parte, et nihil hoc modo
+praedicatur de illo, utrum contingat descendendo procedere in infinitum?
+|#10 Tertio, ibi: amplius media etc., movet tertiam quaestionem ex parte medii termini. Et in hac quaestione
+supponuntur duo extrema determinata, scilicet universalissimum praedicatum, et particularissimum subiectum; et
+quaeritur cum hoc, utrum possint esse infinita media: puta, si a sit universalissimum praedicatum, et c sit
+particularissimum subiectum, et inter a et c sit medium b, et inter a et b iterum sit aliud, et similiter inter b et c, et
+horum etiam mediorum sint alia media, inter ipsa scilicet et extrema, tam ascendendo quam descendendo. Est
+ergo quaestio: utrum hoc possit procedere in infinitum, aut hoc sit impossibile?
+|#11 Deinde cum dicit: est autem hoc intendere etc., ostendit ad quid tendant huiusmodi quaestiones; in quo
+declaratur quod huiusmodi quaestiones pertinent ad materiam, de qua nunc agitur, scilicet ad demonstrationes.
+Dicit ergo quod intendere inquisitioni veritatis in istis quaestionibus idem est ac si quaeratur, utrum
+demonstrationes procedant in infinitum, vel ascendendo vel descendendo. Ascendendo quidem, ita quod
+quaelibet propositio, ex qua demonstratio procedit, sit demonstrabilis per aliam priorem demonstrationem; et hoc
+est quod subiungit, et si est demonstratio omnis, idest cuiuslibet propositionis. Quod quidam existimantes, circa
+principia erraverunt, ut dicitur in IV metaphysicae. Descendendo autem, si ex qualibet propositione demonstrata
+contingat iterum ad aliam demonstrationem posteriorem procedere. Et hoc est unum membrum dubitationis, si
+48
+
+

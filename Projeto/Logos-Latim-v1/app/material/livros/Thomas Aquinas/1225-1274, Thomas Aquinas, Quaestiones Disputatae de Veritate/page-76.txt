@@ -1,0 +1,63 @@
+Praeterea, quidquid habet naturam aliquam, habet ideam in Deo. Sed vitium, cum sit virtuti contrarium, ponit
+aliquam naturam in genere qualitatis. Ergo habet ideam in Deo. Sed ex hoc ipso quod est vitium, est malum.
+Ergo malum habet ideam in Deo.
+AG6
+Praeterea, si malum non habet ideam, non est hoc nisi quia malum non est ens.
+Sed formae cognitivae possunt esse de non entibus; nihil enim prohibet imaginari montes aureos, aut chimaeram.
+Ergo nihil etiam prohibet mali ideam esse in Deo.
+AG7
+Praeterea, inter res signatas non habere signum est esse signatum, ut patet in ovibus quae signantur. Sed idea est
+quoddam signum ideati. Ergo ex hoc ipso quod, rebus bonis habentibus ideam in Deo, malum non habet, debet
+dici ipsum esse ideatum vel formatum.
+AG8
+Praeterea, quidquid est a Deo, habet ideam in eo. Sed malum est a Deo, poenae scilicet. Ergo habet ideam in
+ipso.
+SC1
+Sed contra. Omne ideatum habet esse terminatum per ideam. Sed malum non habet esse terminatum, cum non
+habeat esse, sed privatio sit entis. Ergo malum non habet ideam in Deo.
+SC2
+Praeterea, secundum dionysium, idea vel exemplar est praedefinitio divinae voluntatis.
+Sed voluntas Dei non habet se nisi ad bona. Ergo malum non habet ideam in Deo.
+SC3
+Praeterea, malum est privatio speciei, modi et ordinis, secundum Augustinum.
+Sed ipsas ideas Plato species appellavit. Ergo malum non potest habere ideam.
+CO
+Responsio. Dicendum, quod idea secundum propriam sui rationem, ut patet ex dictis, importat formam, quae est
+principium formationis alicuius rei. Unde, cum nihil quod est in Deo, possit esse mali principium, non potest
+malum ideam habere in Deo, si proprie accipiatur idea. Sed nec etiam si accipiatur communiter pro ratione vel
+similitudine; quia, secundum Augustinum, malum dicitur ex hoc ipso quod non habet formam. Unde, cum
+similitudo attendatur secundum formam aliquo modo participatam, non potest esse quod malum similitudinem
+aliquam in Deo habeat, cum aliquid dicatur malum ex hoc ipso quod a participatione divinitatis recedit.
+RA1
+Ad primum igitur dicendum, quod scientia simplicis notitiae non solum est de malis, sed etiam de quibusdam
+bonis, quae nec sunt, nec erunt, nec fuerunt: et respectu horum ponitur idea in scientia simplicis notitiae, non
+autem respectu malorum.
+RA2
+Ad secundum dicendum, quod non negatur malum habere ideam in Deo ratione oppositionis tantum; sed quia
+non habet aliquam naturam per quam aliquo modo participet aliquid quod sit in Deo, ut sic similitudo eius accipi
+possit.
+RA3
+Ad tertium dicendum, quod illa communitas qua aliquid communiter praedicatur de ente et non ente, est rationis
+tantum, quia negationes et privationes non sunt nisi entia rationis: talis autem communitas non sufficit ad
+similitudinem de qua nunc loquimur.
+RA4
+Ad quartum dicendum, quod hoc principium: nullum totum est maius sua parte, esse falsum, quoddam verum
+est; unde cognoscere hoc esse falsum, est cognoscere quoddam verum. Falsitas tamen eius principii non
+cognoscitur nisi per privationem veritatis, sicut caecitas per privationem visus.
+RA5
+Ad quintum dicendum, quod sicut actiones malae quantum ad id quod habent de entitate, bonae sunt, et a Deo
+sunt, ita est etiam et de habitibus qui sunt earum principia vel effectus; unde ex hoc quod sunt mala, non ponunt
+aliquam naturam, sed solum privationem.
+RA6
+Ad sextum dicendum, quod aliquid dicitur non ens dupliciter. Uno modo, quia non esse cadit in definitione eius,
+sicut caecitas dicitur non ens; et talis non entis non potest concipi aliqua forma neque in intellectu neque in
+imaginatione; et huiusmodi non ens est malum. Alio modo, quia non invenitur in rerum natura, quamvis ipsa
+privatio entitatis non claudatur in eius definitione; et sic nihil prohibet imaginari non entia, et eorum formas
+concipere.
+RA7
+Ad septimum dicendum, quod ex hoc ipso, quod malum non habet ideam in Deo, a Deo cognoscitur per ideam
+boni oppositi; et per hunc modum se habet ad cognitionem ac si haberet ideam; non autem ita quod privatio ideae
+respondeat ei pro idea, quia in Deo privatio esse non potest.
+76
+
+

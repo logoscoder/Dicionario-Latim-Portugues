@@ -1,0 +1,61 @@
+Ad nonum dicendum, quod intentio Augustini non fuit dicere: quod Deus pater remaneat ingenitus, remota
+paternitate, nisi forte prout ingenitus tunc importaret conditionem naturae, et non proprietatem personae.
+Fuit autem eius intentio ostendere quod, remota paternitate, potest remanere ingenitum in communi. Non enim
+oportet quod quidquid est ingenitum, sit pater.
+RA10
+Ad decimum dicendum, quod ratio bonitatis non constituit rationem essentiae, immo intelligitur bonum ut
+informativum entis; sed proprietas constituit hypostasim; et ideo non est simile.
+RA11
+Ad undecimum dicendum, quod licet intellectus possit aliqua coniuncta dividere, non tamen omnia: non enim
+potest dividere illa quorum unum est de ratione alterius; non enim potest dividere animal ab homine. Proprietas
+autem est de ratione hypostasis, et ideo ratio non sequitur.
+RA12
+Ad ultimum dicendum, quod remoto eo quod est in aliquo sicut in subiecto, vel sicut in loco, remanet id in quo
+est; non autem remoto eo quod est in aliquo sicut pars essentiae eius. Non enim remoto rationali, remanet homo;
+et similiter nec remota proprietate, remanet hypostasis.
+|q9 Quaestio 9
+Prologus
+PR1
+Et primo quaeritur utrum quomodo se habeat persona ad essentiam, subsistentiam et hypostasim.
+PR2
+Secundo quid sit persona.
+PR3
+Tertio utrum in Deo possit esse persona.
+PR4
+Quarto utrum hoc nomen persona in divinis significet aliquid relativum vel absolutum.
+PR5
+Quinto utrum numerus personarum sit in divinis.
+PR6
+Sexto utrum nomen personae convenienter possit pluraliter praedicari in divinis.
+PR7
+Septimo quomodo termini numerales praedicentur in divinis, utrum scilicet positive, vel remotive tantum.
+PR8
+Octavo utrum in Deo sit aliqua diversitas.
+PR9
+Nono utrum in divinis sint tres personae tantum, an plures vel pauciores.
+|a1 Articulus 1
+TTA
+Et primo quaeritur quomodo se habeat persona ad essentiam, subsistentiam et hypostasim.
+TTB
+Et videtur quod omnino sint idem.
+AG1
+Dicit enim Augustinus in VII de Trin., quod idem intelligunt Graeci cum confitentur in Deo tres hypostases, et
+Latini cum confitentur tres personas. Ergo hypostasis et persona significant idem.
+AG2
+Sed dicendum, quod persona differt ab hypostasi in hoc quod hypostasis significat individuum cuiuscumque
+naturae in genere substantiae, persona vero solum individuum rationalis naturae. Sed contra est quod boetius
+dicit, quod Graeci utuntur hoc nomine hypostasis solum pro individuo rationalis naturae. Si ergo persona
+significat individuum rationalis naturae, omnino sunt idem hypostasis et persona.
+AG3
+Praeterea, nomina imponuntur a rationibus rerum quas significant. Sed eadem ratio individuationis est in his
+quae sunt rationalis naturae, et in aliis substantiis. Ergo individuum rationalis naturae non debet habere speciale
+nomen prae aliis individuis in genere substantiae, ut per hoc sit differentia inter hypostasim et personam.
+AG4
+Praeterea, nomen subsistentiae a subsistendo sumitur. Nihil autem subsistit nisi individua in genere substantiae,
+in quibus sunt et accidentia et secundae substantiae, quae sunt genera et species, ut dicitur in praedicamentis.
+Sola ergo individua in genere substantiae sunt subsistentiae. Individuum autem in genere substantiae est
+hypostasis vel persona. Ergo idem est subsistentia quod hypostasis et persona.
+AG5
+223
+
+

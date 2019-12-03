@@ -1,0 +1,62 @@
+necesse est. Omnia igitur ex necessitate aut erunt aut ex necessitate non erunt. Nihil ergo nec casus nec liberum
+arbitrium nec possibilitas ulla in rebus est, siquidem tenet cuncta necessitas.
+Aristoteles uero sumens istam hypotheticam propositionem, si omne quod in futuro dicitur aut uerum definite
+aut falsum est definite, omnia ex necessitate fieri et nihil casu nihil iudicio nihil possibilitate, ea conuenienti ordine
+monstrat. Et posito unam ueram, alteram falsam definite esse omnia ex necessitate contingere ex consensu rerum
+propositionumque demonstrat hoc modo: proponit enim hanc conditionem et hanc ueram esse ex rerum ipsarum
+necessitate confirmat. Est autem conditio: si omnis affirmatio uel negatio in futurum ducta uera uel falsa est definite, et
+omne quidquid fit ex necessitate fieri et nihil neque casu neque propria et libera uoluntate atque iudicio nec uero aliqua
+possibilitate, quae hic omnia utrumlibet uocabulo nuncupauit.
+Ponit enim hanc conditionem dicens: NAM SI OMNIS AFFIRMATIO VEL NEGATIO VERA VEL FALSA
+EST (subaudiendum est "definite"), et OMNE NECESSE EST ESSE VEL NON ESSE. <NAM> SI HIC QUIDEM
+DICAT FUTURUM ALIQUID, ILLE VERO NON DICAT HOC IDEM IPSUM, MANIFESTUM /205/ EST,
+<QUONIAM NECESSE EST> VERUM DICERE ALTERUM IPSORUM, SI OMNIS AFFIRMATIO [uel negatio]
+VERA VEL FALSA EST. UTRAQUE ENIM NON ERUNT SIMUL IN TALIBUS. Ergo sensus huiusmodi est: si
+omnis, inquit, affirmatio uel negatio uera uel falsa est definite, et omne necesse est aut esse aut non esse, quod uel
+affirmatio ponit uel negatio perimit. Nam si quilibet dixerit esse aliquid et alius dixerit idem ipsum non esse, unus
+quidem affirmat, alter negat sed in affirmatione et negatione, quae in contradictione ponuntur, una semper uera est,
+altera falsa. Neque enim fieri potest ut utraeque sint uerae. Non enim nunc sermo est aut de subcontrarus aut de
+indefinitis. Namque subcontrariae, id est particularis negatio et affirmatio particularis, et indefinitae utraeque uerae in
+eodem esse poterant, contradictoriae autem minime. Neque enim fieri potest, ut hae quae uel in singularibus
+contradictiones sunt uel in uniuersalibus angulariter opponuntur simul umquam uerae sint. Hoc est enim quod ait
+UTRAQUE ENIM NON ERUNT SIMUL IN TALIBUS, id est utraeque enuntiationes non erunt uerae in
+enuntiationibus contradictoriis.
+Posita ergo hac conditione: si omnis affirmatio definite uera uel falsa sit, omnia ex necessitate euenire, hanc
+ipsam rerum ipsarum et propositionum consequentiam et similitudinem monstrare contendit dicens: NAM SI VERUM
+EST DICERE, QUONIAM ALBUM VEL NON ALBUM EST, NECESSE EST ESSE ALBUM VEL NON ALBUM,
+ET SI EST ALBUM VEL NON ALBUM, VERUM EST VEL AFFIRMARE VEL NEGARE; ET /206/ SI NON EST,
+MENTITUR, ET SI MENTITUR, NON EST. QUARE NECESSE EST <AUT> AFFIRMATIONEM AUT
+NEGATIONEM VERAM ESSE. Omnis, inquit, affirmatio omnisque negatio cum rebus ipsis uel uera uel falsa est,
+huius autem rei exempla ex praesentibus sumit. Nam sicut se habent secundum necessitatem in praesenti tempore
+enuntiationes, ita se habebunt etiam in futuro.
+Speculemur igitur in praesenti quae sit rerum propositionumque necessitas. Si qua enim propositio de qualibet
+re dicta uera est, illam rem quam dixit esse necesse est. Si enim dixerit, quoniam nix alba est, et hoc uerum est,
+ueritatem propositionis sequitur necessitas rei. Necesse est enim esse niuem albam, si propositio quae de ea re
+praedicata est uera est. Quod si dixerit quis non esse albam picem et haec uera est, manifestum est rem quoque
+propositionis consequi ueritatem.
+Amplius quoque et propositiones rerum necessitates sequuntur. Si enim est aliqua res, uerum est de ea dicere
+quoniam est, et si non est aliqua res, uerum est de ea dicere quoniam non est. Ita secundum ueritatem affirmationis et
+negationis necessitas rei substantiam sequitur et rerum necessitas propositionum comitatur necessitatem.
+Atque hoc quidem in ueris. In falsis quoque idem est e contrario. Nam si falsa est affirmatio, rem de qua
+loquitur non esse necesse est, ut si falsa est affirmatio quae dicit picem esse albam, non esse albam picem necesse est.
+Rursus si falsa est negatio quae dicit niuem non esse albam, esse albam niuem necesse est. Rursus si res non est,
+affirmatio quoque de ea re necessarie falsa est. Quod si rursus res non /207/ sit id quod potest dicere falsa negatio, sine
+ulla dubitatione illa negatio falsa est et hoc esse necesse est, ut quoniam de niue potest dicere falsa negatio, quoniam
+alba non est, hoc ipsum quod falsa negatio dicit, id est albam non esse, non est. Nix enim non alba non est.
+Quare rerum necessitati falsitas ueritasque conuertitur. Nam si est aliquid, uere de eodem dicitur, quoniam est,
+et si uere dicitur, illam rem de qua uere aliquid praedicatur esse necesse est; quod si non est id quod dicitur, falsa
+enuntiatio est, et si enuntiationes falsae sunt, res non esse necesse est.
+Quod si haec ita sunt, positum est autem omnem affirmationem et negationem ueram esse definite, quoniam
+propositionum ueritatem uel falsitatem rerum necessitas secundum esse uel non esse consequitur (esse quidem
+secundum ueritatem, ut dictum est, non esse secundum falsitatem): nihil fit casu neque libera uoluntate nec aliqua
+possibilitate. Haec enim quae utrumlibet uocamus talia sunt, quae cum nondum sunt facta et fieri possunt et non fieri, si
+autem facta sint, non fieri potuerunt, ut hodie me Vergilii librum legere, quod nondum feci, potest quidem non fieri,
+potest etiam fieri, quod si fecero, potui non facere. Haec igitur huiusmodi sunt quaecumque utrumlibet dicuntur.
+Utrumlibet autem quid sit ipse planius monstrat dicens: utrumlibet enim nihil magis sic uel non sic se habet aut habebit.
+Est enim utrumlibet quod uel ad esse uel ad non esse aequaliter sese habeat, id est neque illud esse necesse sit /208/
+neque non esse necesse sit.
+Putauerunt autem quidam, quorum Stoici quoque sunt, Aristotelem dicere in futuro contingentes nec ueras esse
+nec falsas. Quod enim dixit nihil se magis ad esse habere quam ad non esse, hoc putauerunt tamquam nihil eas
+interesset falsas an ueras putari. Neque ueras enim neque falsas esse arbitrati sunt. Sed falso. Non enim hoc Aristoteles
+
+

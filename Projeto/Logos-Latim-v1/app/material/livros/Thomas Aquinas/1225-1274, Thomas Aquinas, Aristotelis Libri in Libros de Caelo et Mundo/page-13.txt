@@ -1,0 +1,58 @@
+|+6 Lectio 6
+|#1 Postquam Philosophus ostendit differentiam quinti corporis ad alia corpora quae sunt hic, ex parte levitatis
+et gravitatis, secundum quod corpora habent inclinationem ad motum localem; hic ostendit differentiam quinti
+corporis ad corpora quae sunt hic, secundum alios motus; ostendens scilicet quod illud corpus non subiicitur aliis
+motibus, quibus haec corpora subiiciuntur. Et primo ostendit hoc per rationem; secundo per signa, ibi: videtur
+autem et ratio etc..
+Circa primum duo facit. Primo proponit quod intendit: et dicit quod sicut dictum est de quinto corpore quod caret
+gravitate et levitate, similiter rationabile est aestimare de ipso quod sit ingenitum et incorruptibile et
+inaugmentabile et inalterabile, idest non subiectum generationi et corruptioni, neque augmento neque alterationi.
+Secundo ibi: propter fieri quidem etc., probat propositum: et primo ostendit corpus caeleste esse ingenerabile et
+incorruptibile; secundo quod est inaugmentabile, ibi: at vero et augmentabile etc.; tertio quod non est alterabile,
+ibi: si autem est et inaugmentabile etc..
+|#2 Circa primum ponit talem rationem. Omne generabile fit ex contrario et subiecto quodam, sive materia: nam
+ex contrario fit aliquid sicut ex non permanente, ex subiecto autem sicut ex permanente, ut patet in I physic.. Et
+similiter etiam omne corruptibile corrumpitur existente aliquo subiecto. Est etiam omnis corruptio a contrario
+activo: omnis etiam corruptio terminatur in contrarium, sicut dictum est in primis sermonibus, idest in I physic..
+Sed corpori quinto non est aliquid contrarium: ergo nec est generabile nec corruptibile. Mediam probat per hoc
+quod contrariorum contrarii sunt motus, sicut leve movetur sursum et grave deorsum: sed motui naturali quinti
+corporis, qui est motus circularis, nullus motus est contrarius, ut infra probabitur: ergo huic corpori nihil est
+contrarium. Et ita recte videtur natura fecisse, eximens hoc corpus a contrarietate, tanquam futurum, idest debens
+esse, ingenitum et incorruptibile.
+|#3 Sed circa ea quae hic Aristoteles dicit, duplex consideratio occurrit: una quidem circa positionem eius, qua
+ponit corpus caeli esse ingenerabile et incorruptibile; alia autem est circa rationem ipsius. Sciendum est autem
+circa primum, quod quidam posuerunt corpus caeli esse generabile et corruptibile secundum suam naturam, sicut
+ioannes grammaticus, qui dictus est Philoponus. Et ad suam intentionem adstruendam, primo utitur auctoritate
+Platonis, qui posuit caelum esse genitum et totum mundum. Secundo inducit talem rationem. Omnis virtus
+corporis finiti est finita, ut probatur in VIII physic.: sed virtus finita non potest se extendere ad durationem
+infinitam (unde per virtutem finitam non potest aliquid moveri tempore infinito, ut ibidem probatur): ergo corpus
+caeleste non habet virtutem ut sit infinitum tempore. Tertio obiicit sic.
+In omni corpore naturali est materia et privatio, ut patet ex I physic.: sed ubicumque est materia cum privatione,
+est potentia ad corruptionem: ergo corpus caeleste est corruptibile. Si quis autem dicat quod non est eadem
+materia caelestium corporum et inferiorum, obiicit in contrarium: quia secundum hoc oporteret quod materia
+esset composita, ex eo scilicet quod est commune utrique materiae, et ex eo quod facit diversitatem inter
+materias.
+|#4 Sed haec necessitatem non habent. Quod enim Plato posuit caelum genitum, non intellexit ex hoc quod est
+generationi subiectum, quod Aristoteles hic negare intendit: sed quod necesse est ipsum habere esse ab aliqua
+superiori causa, utpote multitudinem et distensionem in suis partibus habens; per quod significatur esse eius a
+primo uno causari, a quo oportet omnem multitudinem causari.
+|#5 Quod autem obiicit virtutem corporis caelestis esse finitam, solvit Averroes dicendo quod in corpore
+caelesti est virtus sive potentia ad motum secundum locum, non est autem virtus sive potentia ad esse, neque
+finita neque infinita.
+Sed in hoc manifeste dixit contra Aristotelem, qui infra in hoc eodem libro ponit in sempiternis virtutem ad hoc
+quod sint semper. Fuit autem deceptus per hoc quod existimavit virtutem essendi pertinere solum ad potentiam
+passivam, quae est potentia materiae; cum magis pertineat ad potentiam formae, quia unumquodque est per suam
+formam. Unde tantum et tamdiu habet unaquaeque res de esse, quanta est virtus formae eius. Et sic non solum in
+corporibus caelestibus, sed etiam in substantiis separatis est virtus essendi semper.
+Dicendum est ergo quod id quod requirit virtutem infinitam, oportet esse infinitum. Infinitum autem, secundum
+Philosophum in I physic., pertinet ad quantitatem; ita quod id quod quantitate caret, neque finitum neque
+infinitum est.
+Motus autem quantitatem habet, quae mensuratur tempore et magnitudine, ut patet in VI physic.: et ideo virtus
+quae potest in motum sempiternum, potest in effectum infinitum: et propter hoc talem virtutem oportet esse
+infinitam. Ipsum autem esse alicuius rei secundum se consideratum non est quantum: non enim habet partes, sed
+totum est simul. Accidit autem ei quod sit quantum, uno quidem modo secundum durationem, inquantum est
+subiectum motui et per consequens tempori, sicut esse rerum variabilium: unde virtus cuiuslibet rei corporalis
+cuius esse subiectum est variationi, non potest nisi in durationem finitam.
+13
+
+

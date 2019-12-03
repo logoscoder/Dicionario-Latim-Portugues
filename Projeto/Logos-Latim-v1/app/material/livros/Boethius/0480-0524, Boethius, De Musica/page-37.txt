@@ -1,0 +1,62 @@
+quae est proslambanomenos; consonabit igitur proslambanomenos ad mesen diapason, mese ad neten hyperboleon
+diapason, proslambanomenos ad netem hyperboleon bis diapason. Rursus quoniam aequae sunt partes A C, C D, D E,
+E B. Est antem A B quatuor earumdem partium, C B autem trium, A B sesquitertia est ab ea quae est C B. Rursus quia
+trium est aequalium partium C B sed D B duarum, erit igitur C B sesquialtera eius quae est D B. Rursus quoniam C B
+est trium partium aequalium, qualis est una E B, tripla igitur est C B ab ea quae est E B; erit igitur C B lychanos
+hypaton diatonos, consonabitque proslambanomenos quidem ad lychanon hypaton diatonon diatessaron consonantiam.
+Eadem uero lychanos hypaton diatonos consonabit ad mesen consonantiam diapente. Eademque lychanos diatonos
+consonabit ad neten hyperboleon, diapason et diapente. Rursus si de tota A B nonam partem auferam, eam quae est A
+F, erunt partes octo F B. Erit igitur F B hypate hypaton, ad quam sesquioctauam contineat proportionem A B, id est
+proslambanomenos, in musica uero tonum.
+[1255] [PLLXIII:1255; text: Bis diapason, Diapason, Diatessaron, Diapason et Diapete, Tonus, Diapente, A, F,
+C, D, E, B, Proslambanomenos, Hypate hypaton, Luehanos hypaton, Mese, Nete hypmboieon, Z, Lychanos hypaton
+diapason [Phi], Diapason dupla, 3, B, Diapason quadruplus, Diatessaron sesquitertia, Diapason et diapente tripla, Nete
+hyperboleon] [BOEDIM4 05GF]
+Quanto spatium maius erit, tanta maior grauitas; ubi uero minus, ibi maior acuties. Dum ergo A B in quadruplo
+spatio excedit E B, erit recte proslambanomenos in quadruplo grauior, et C B acutior in quadruplo, et eadem chorda A
+B ad F B est sesquioctaua spatio, quare tono ab F B uincitur; erit ergo hypate hypaton. Eadem rursus ad C B
+sesquitertia est spatio, erit ergo C B lychanos hypaton diatonos.
+Vincetque C B in acumine ipsum A B consonantia diatessaron. Insuper idem A B spatio duplum est ad D B;
+erit idcirco acumine duplum D B ad A B. Et sic C B neten hyperbol constituet, quod doctus lector facile conspiciet dum
+acutius contemplatur.
+Superior uero descriptio inferiora signa quae continet, eius sunt descriptionis, ubi chordis notulas apposuimus,
+quoniam earum nomina longum fuit ascribere. Item si A B tribus incisionibus partiamur, erit pars tertia A G. Duae
+igitur eiusdem erunt G B. Consonabit igitur A B proslambanomenos ad G B, quae est hypate meson, diapente
+consonantiam in proportione sesquialtera constitutam; C B autem ad G B erit sesquioctaua, et continebit tonum, idque
+ordine cadit. Nam lychanos hypaton diatonos, id est C B, ad eam quae est hypate meson, id est G B, continet tonum.
+Rursus A B quidem proslambanomenos ad C B lychanon hypaton diatonos consonantiam habet diatessaron, A B autem
+proslambanomenos ad G B hypate meson habet consonantiam diapente. Item C B ad D B, id est lychanos hypaton
+diatonos ad mesen habet consonantiam diapente, G B autem ad D B, id est hypate meson ad mesen, habet
+consonantiam diatessaron. Lychanos autem hypaton, id est C B, ad totius chordae modum ab eo quod est A usque ad id
+quod est LL, hanc, id est A, proslambanomenon 9216 diuido, dimidiam ad O, ut sit tota A dupla ad [1256] hypaten
+meson comparata, id est G B, distabit tono. Si autem eius quae est C B quartam partem sumpsero, erit C K. Igitur C B
+ad K B obtinet sesquitertiam proportionem, K B autem ab ea quae est D B sesquioctaua proportione distabit. Erit igitur
+K B quidem lychanos diatonos meson, et erit C B, id est lychanos hypaton diatonos, ad K B, id est lychanos diatonon
+meson diatessaron consonantiam continens.
+Rursus si eius quae est D B nonam partem sumpsero, erit mihi D L Igitur L B erit paramese. Si autem eius
+quae est D B quartam partem sumpsero, erit D N. Igitur N B erit nete synemmenon. Si autem eius quae est D B tertiam
+partem sumpsero, erit D N. Igitur N B erit nete diezeugmenon. Si autem K B in duas partes aequas fuerit diuisa, erit K
+X, eritque X B paranete hyperboleon.
+[PLLXIII:1256; text: Proslambanomenos, Lychanos hypalon meson, Hypale meson, Lychanos meson, Mese,
+Paramese, Nete synemmenon, Diapete, A, C, G, K, D, L, M, N, X, B, Diatessaron, Tonus, Paranele byperboleon, Nete
+diezeugmenon, F, E, T] [BOEDIM4 07GF]
+V
+Monochordi netarum hyperboleon per tria genera partitio.
+Nunc igitur diatonici generis descriptio facta est in eo scilicet modo qui est simplicior ac princeps, quem
+Lydium nuncupamus. De quibus modis nunc disserendum non est; ut uero per tria genera currat mixta descriptio, et
+omnibus propria numerorum pluralitas apponatur ad conseruandas scilicet proportiones, uel tonorum atque dieseon,
+excogitatus est numerus qui haec omnia posset explere, ut maximus quidem ad proslambanomenon describatur, qui sit
+9216; minimus uero 2304. Reliquorum uero sonorum proportiones in horum medietate texentur. Sane ab inferiore
+procedimus omniumque nomina chordarum non solum nominibus. uerum etiam oppositis litteris demonstramus. Sed ita
+ut quoniam trium generum est facienda partitio, neruorumque modus litterarum excedit numerum, ubi defecerint
+litterae, easdem geminemus rursus hoc modo, ut quando ad Z fuerit usque peruentum, ita describamus reliquos neruos:
+bis A id est AA, et bis B, id est BB, et bis C, id est CC Sit igitur primus quidem numerus maximusque qui
+proslambanomenon obtineat locum 9216. Sitque [1257] ea quae est O.
+Item O sit dupla ab ea quae est LL, Erit igitur A quidem proslambanomenos, O autem mese, et LL nete
+hyperboleon; habebit igitur A quidem 9216, O uero horum dimidium, id est 4608, ut mese ad proslambanomenon
+diapason consonantia conueniat. Ea uero quae est LL dimidium est meses, ut sit proslambanomenos ab ea quae est nete
+hyperboleon quadrupla, et bis diapason ad eam consonet symphoniam, sitque LL 2304. Si igitur ex 2304 octauam
+abstulero partem, id est 288, eisdemque adiecero, fient mihi 2592, eritque NN 2592 quae sit paranete hyperboleon ad
+neten hyperboleon obtinens distantiam tonum.
+
+

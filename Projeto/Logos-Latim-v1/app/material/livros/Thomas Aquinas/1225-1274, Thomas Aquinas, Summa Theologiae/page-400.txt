@@ -1,0 +1,62 @@
+Intellectus autem humanus, qui est infimus in ordine intellectuum, et maxime remotus a perfectione divini
+intellectus, est in potentia respectu intelligibilium, et in principio est sicut tabula rasa in qua nihil est scriptum, ut
+Philosophus dicit in III de anima.
+Quod manifeste apparet ex hoc, quod in principio sumus intelligentes solum in potentia, postmodum autem
+efficimur intelligentes in actu. Sic igitur patet quod intelligere nostrum est quoddam pati, secundum tertium
+modum passionis. Et per consequens intellectus est potentia passiva.
+RA1
+Ad primum ergo dicendum quod obiectio illa procedit de primo et secundo modo passionis, qui sunt proprii
+materiae primae.
+Tertius autem modus passionis est cuiuscumque in potentia existentis quod in actum reducitur.
+RA2
+Ad secundum dicendum quod intellectus passivus secundum quosdam dicitur appetitus sensitivus, in quo sunt
+animae passiones; qui etiam in I ethic. Dicitur rationalis per participationem, quia obedit rationi.
+Secundum alios autem intellectus passivus dicitur virtus cogitativa, quae nominatur ratio particularis.
+Et utroque modo passivum accipi potest secundum primos duos modos passionis, inquantum talis intellectus sic
+dictus, est actus alicuius organi corporalis. Sed intellectus qui est in potentia ad intelligibilia, quem Aristoteles
+ob hoc nominat intellectum possibilem, non est passivus nisi tertio modo, quia non est actus organi corporalis. Et
+ideo est incorruptibilis.
+RA3
+Ad tertium dicendum quod agens est nobilius patiente, si ad idem actio et passio referantur, non autem semper, si
+ad diversa.
+Intellectus autem est vis passiva respectu totius entis universalis. Vegetativum autem est activum respectu
+cuiusdam entis particularis, scilicet corporis coniuncti. Unde nihil prohibet huiusmodi passivum esse nobilius tali
+activo.
+|a3 Articulus 3
+AG1
+Ad tertium sic proceditur. Videtur quod non sit ponere intellectum agentem. Sicut enim se habet sensus ad
+sensibilia, ita se habet intellectus noster ad intelligibilia. Sed quia sensus est in potentia ad sensibilia non ponitur
+sensus agens, sed sensus patiens tantum. Ergo, cum intellectus noster sit in potentia ad intelligibilia, videtur quod
+non debeat poni intellectus agens, sed possibilis tantum.
+AG2
+Praeterea, si dicatur quod in sensu etiam est aliquod agens, sicut lumen, contra, lumen requiritur ad visum
+inquantum facit medium lucidum in actu, nam color ipse secundum se est motivus lucidi. Sed in operatione
+intellectus non ponitur aliquod medium quod necesse sit fieri in actu. Ergo non est necessarium ponere
+intellectum agentem.
+AG3
+Praeterea, similitudo agentis recipitur in patiente secundum modum patientis. Sed intellectus possibilis est virtus
+immaterialis.
+Ergo immaterialitas eius sufficit ad hoc quod recipiantur in eo formae immaterialiter. Sed ex hoc ipso aliqua
+forma est intelligibilis in actu, quod est immaterialis.
+Ergo nulla necessitas est ponere intellectum agentem, ad hoc quod faciat species intelligibiles in actu.
+SC
+Sed contra est quod Philosophus dicit, in III de anima, quod sicut in omni natura ita et in anima est aliquid quo
+est omnia fieri, et aliquid quo est omnia facere.
+Est ergo ponere intellectum agentem.
+CO
+Respondeo dicendum quod, secundum opinionem Platonis, nulla necessitas erat ponere intellectum agentem ad
+faciendum intelligibilia in actu; sed forte ad praebendum lumen intelligibile intelligenti, ut infra dicetur.
+Posuit enim Plato formas rerum naturalium sine materia subsistere, et per consequens eas intelligibiles esse, quia
+ex hoc est aliquid intelligibile actu, quod est immateriale. Et huiusmodi vocabat species, sive ideas, ex quarum
+participatione dicebat etiam materiam corporalem formari, ad hoc quod individua naturaliter constituerentur in
+propriis generibus et speciebus; et intellectus nostros, ad hoc quod de generibus et speciebus rerum scientiam
+haberent.
+Sed quia Aristoteles non posuit formas rerum naturalium subsistere sine materia; formae autem in materia
+existentes non sunt intelligibiles actu, sequebatur quod naturae seu formae rerum sensibilium, quas intelligimus,
+non essent intelligibiles actu. Nihil autem reducitur de potentia in actum, nisi per aliquod ens actu, sicut sensus
+fit in actu per sensibile in actu. Oportebat igitur ponere aliquam virtutem ex parte intellectus, quae faceret
+intelligibilia in actu, per abstractionem specierum a conditionibus materialibus.
+Et haec est necessitas ponendi intellectum agentem.
+400
+
+

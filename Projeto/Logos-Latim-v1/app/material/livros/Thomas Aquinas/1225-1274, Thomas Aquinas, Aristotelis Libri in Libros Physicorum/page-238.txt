@@ -1,0 +1,64 @@
+quod sint inaequales; quia quaecumque mensurantur a quodam uno, sive
+secundum multitudinem sive secundum magnitudinem, oportet ea esse finita.
+Ideo autem dico multitudinem et magnitudinem, quia nihil minus mensuratur
+aliquid per hoc quod habet finitam magnitudinem, sive partes mensurantes
+sint aequales sive inaequales. Quando enim sunt aequales, tunc pars
+mensurat totum et multitudine et magnitudine; quando vero sunt inaequales,
+mensurat multitudine, sed non magnitudine. Sic ergo patet quod omne tempus
+quod habet partes finitas numero et quantitate, sive sint aequales sive
+inaequales, est finitum. Sed spatium finitum mensuratur aliquibus finitis,
+ex quantis contingit componi ab; et oportet esse aequales numero partes
+temporis et partes magnitudinis, et quaslibet esse finitas quantitate: ergo
+relinquitur quod per totum spatium moveatur in tempore finito.
+|#5
+Deinde cum dicit: eadem autem ratio est etc., ostendit quod e
+converso, si tempus est finitum, et magnitudo est finita.
+Et dicit quod per eandem rationem potest ostendi, quod infinitum spatium
+non potest pertransiri in tempore finito: neque iterum potest quies esse
+infinita in tempore finito: et hoc indifferenter, sive moveatur aliquid
+regulariter, idest aeque velociter, sive non regulariter.
+Quia ex quo tempus ponitur finitum, accipiatur aliqua pars temporis quae
+mensuret totum tempus, in qua mobile pertransit aliquam partem magnitudinis
+(non autem totam, quia totam pertransit in toto tempore); et iterum in
+aequali tempore pertransit aliam partem magnitudinis. Et similiter pro
+unaquaque parte temporis accipietur aliqua pars magnitudinis: et hoc
+indifferenter, sive pars magnitudinis secundo accepta, sit aequalis primae
+parti (quod contingit quando aeque velociter movetur), sive sit inaequalis
+(quod contingit quando non aeque velociter movetur)p hoc enim nihil
+differt, dummodo ponatur quod quaelibet pars magnitudinis accepta sit
+finita: quod oportet dicere; alioquin tantum moveretur in parte temporis,
+quantum in toto. Sic enim manifestum est quod per divisionem temporis
+auferetur totum spatium infinitum per aliquam finitam ablationem: quia cum
+tempus dividatur in partes finitas aequales, et tot oporteat esse partes
+magnitudinis quot temporis, sequitur quod spatium infinitum consumetur,
+facta finita ablatione, eo quod tot modis oportet dividi magnitudinem sicut
+et tempus. Hoc autem est impossibile.
+Ergo manifestum est quod infinitum spatium non pertransitur in tempore
+finito. Et hoc indifferenter, sive magnitudo spatii sit infinita ex una
+parte, sive ex utraque: quia eadem ratio est de utroque.
+|#6
+Deinde cum dicit: demonstratis autem his etc., ostendit quod
+infinitum et finitum similiter invenitur in mobili, sicut in magnitudine et
+tempore.
+Et circa hoc tria facit: primo ostendit quod mobile non est infinitum, si
+tempus et magnitudo sint finita; secundo quod mobile non est infinitum, si
+magnitudo sit infinita et tempus finitum, ibi: at vero neque infinitum
+etc.; tertio quod mobile non potest esse infinitum, si magnitudo sit finita
+et tempus infinitum, ibi: amplius autem et tempore etc..
+Primum ostendit duabus rationibus. Circa quarum primam dicit quod
+demonstrato quod magnitudo finita non pertransitur tempore infinito, neque
+infinita finito, manifestum est ex eadem causa, quod neque infinitum mobile
+potest pertransire finitam magnitudinem in tempore finito. Accipiatur enim
+aliqua pars temporis finiti. In illa parte spatium finitum pertransibit non
+totum mobile, sed pars mobilis, et in alia parte temporis similiter, et sic
+de aliis. Et sic oportebit accipere tot partes mobilis, quot accipiuntur
+partes temporis. Infinitum autem non componitur ex partibus finitis, ut
+ostensum est.
+Ergo sequetur quod mobile quod movetur in toto tempore finito, sit finitum.
+|#7
+Secundam rationem ponit ibi: quoniam autem finitum etc..
+Et differt haec secunda ratio a priori, quia in priori assumebatur pro
+principio idem medium ex quo superius demonstrabat: hic autem accipitur pro
+238
+
+

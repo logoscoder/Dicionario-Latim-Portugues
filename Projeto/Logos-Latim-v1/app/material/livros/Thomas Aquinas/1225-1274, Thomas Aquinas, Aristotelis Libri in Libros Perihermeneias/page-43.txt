@@ -1,0 +1,59 @@
+affirmatio; sicut homo mortuus non est homo simpliciter, sed secundum privationem; et idem dicendum est de
+negativa, quae est de infinito praedicato. Duae vero, quae sunt de finito praedicato, non se habent ad speciem
+affirmationis et negationis secundum privationem, sed simpliciter. Haec enim, homo est iustus, est simpliciter
+affirmativa, et haec, homo non est iustus, est simpliciter negativa.
+Sed nec hic sensus convenit verbis Aristotelis.
+Dicit enim infra: haec igitur quemadmodum in resolutoriis dictum est, sic sunt disposita; ubi nihil invenitur ad
+hunc sensum pertinens. Et ideo Ammonius ex his, quae in fine I priorum dicuntur de propositionibus, quae sunt
+de finito vel infinito vel privativo praedicato, alium sensum accipit.
+|#9 Ad cuius evidentiam considerandum est quod, sicut ipse dicit, enunciatio aliqua virtute se habet ad illud, de
+quo totum id quod in enunciatione significatur vere praedicari potest: sicut haec enunciatio, homo est iustus, se
+habet ad omnia illa, de quorum quolibet vere potest dici quod est homo iustus; et similiter haec enunciatio, homo
+non est iustus, se habet ad omnia illa, de quorum quolibet vere dici potest quod non est homo iustus.
+Secundum ergo hunc modum loquendi, manifestum est quod simplex negativa in plus est quam affirmativa
+infinita, quae ei correspondet.
+Nam, quod sit homo non iustus, vere potest dici de quolibet homine, qui non habet habitum iustitiae; sed quod
+non sit homo iustus, potest dici non solum de homine non habente habitum iustitiae, sed etiam de eo qui penitus
+non est homo: haec enim est vera, lignum non est homo iustus; tamen haec est falsa, lignum est homo non iustus.
+Et ita negativa simplex est in plus quam affirmativa infinita; sicut etiam animal est in plus quam homo, quia de
+pluribus verificatur.
+Simili etiam ratione, negativa simplex est in plus quam affirmativa privativa: quia de eo quod non est homo non
+potest dici quod sit homo iniustus.
+Sed affirmativa infinita est in plus quam affirmativa privativa: potest enim dici de puero et de quocumque
+homine nondum habente habitum virtutis aut vitii quod sit homo non iustus, non tamen de aliquo eorum vere dici
+potest quod sit homo iniustus. Affirmativa vero simplex in minus est quam negativa infinita: quia quod non sit
+homo non iustus potest dici non solum de homine iusto, sed etiam de eo quod penitus non est homo.
+Similiter etiam negativa privativa in plus est quam negativa infinita. Nam, quod non sit homo iniustus, potest
+dici non solum de homine habente habitum iustitiae, sed de eo quod penitus non est homo, de quorum quolibet
+potest dici quod non sit homo non iustus: sed ulterius potest dici de omnibus hominibus, qui nec habent habitum
+iustitiae neque habent habitum iniustitiae.
+|#10 His igitur visis, facile est exponere praesentem litteram hoc modo. Quarum, scilicet quatuor enunciationum
+praedictarum, duae quidem, scilicet infinitae, se habebunt ad affirmationem et negationem, idest ad duas
+simplices, quarum una est affirmativa et altera negativa, secundum consequentiam, idest in modo consequendi ad
+eas, ut privationes, idest sicut duae privativae: quia scilicet, sicut ad simplicem affirmativam sequitur negativa
+infinita, et non convertitur (eo quod negativa infinita est in plus), ita etiam ad simplicem affirmativam sequitur
+negativa privativa, quae est in plus, et non convertitur. Sed sicut simplex negativa sequitur ad infinitam
+affirmativam; quae est in minus, et non convertitur; ita etiam negativa simplex sequitur ad privativam
+affirmativam, quae est in minus, et non convertitur. Ex quo patet quod eadem est habitudo in consequendo
+infinitarum ad simplices quae est etiam privativarum.
+|#11 Sequitur, duae autem, scilicet simplices, quae relinquuntur, remotis duabus, scilicet infinitis, a quatuor
+praemissis, minime, idest non ita se habent ad infinitas in consequendo, sicut privativae se habent ad eas; quia
+videlicet, ex una parte simplex affirmativa est in minus quam negativa infinita, sed negativa privativa est in plus
+quam negativa infinita: ex alia vero parte, negativa simplex est in plus quam affirmativa infinita, sed affirmativa
+privativa est in minus quam infinita affirmativa.
+Sic ergo patet quod simplices non ita se habent ad infinitas in consequendo, sicut privativae se habent ad
+infinitas.
+|#12 Quamvis autem secundum hoc littera Philosophi subtiliter exponatur, tamen videtur esse aliquantulum
+expositio extorta.
+Nam littera Philosophi videtur sonare diversas habitudines non esse attendendas respectu diversorum; sicut in
+praedicta expositione primo accipitur similitudo habitudinis ad simplices, et postea dissimilitudo habitudinis
+respectu infinitarum. Et ideo simplicior et magis conveniens litterae Aristotelis est expositio Porphyrii quam
+Boethius ponit; secundum quam expositionem attenditur similitudo et dissimilitudo secundum consequentiam
+affirmativarum ad negativas.
+Unde dicit: quarum, scilicet quatuor praemissarum, duae quidem, scilicet affirmativae, quarum una est simplex
+et alia infinita, se habebunt secundum consequentiam ad affirmationem et negationem; ut scilicet ad unam
+affirmativam sequatur alterius negativa.
+
+43
+
+

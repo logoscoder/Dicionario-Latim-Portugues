@@ -1,0 +1,56 @@
+quia res non cognoscitur ab anima nisi per aliquam sui similitudinem existentem vel in sensu vel in intellectu.
+Litterae autem ita sunt signa vocum, et voces passionum, quod non attenditur ibi aliqua ratio similitudinis, sed
+sola ratio institutionis, sicut et in multis aliis signis: ut tuba est signum belli. In passionibus autem animae oportet
+attendi rationem similitudinis ad exprimendas res, quia naturaliter eas designant, non ex institutione.
+|#10 Obiiciunt autem quidam, ostendere volentes contra hoc quod dicit passiones animae, quas significant
+voces, esse omnibus easdem. Primo quidem, quia diversi diversas sententias habent de rebus, et ita non videntur
+esse eaedem apud omnes animae passiones.
+Ad quod respondet Boethius quod Aristoteles hic nominat passiones animae conceptiones intellectus, qui
+numquam decipitur; et ita oportet eius conceptiones esse apud omnes easdem: quia, si quis a vero discordat, hic
+non intelligit. Sed quia etiam in intellectu potest esse falsum, secundum quod componit et dividit, non autem
+secundum quod cognoscit quod quid est, idest essentiam rei, ut dicitur in III de anima; referendum est hoc ad
+simplices intellectus conceptiones (quas significant voces incomplexae), quae sunt eaedem apud omnes: quia, si
+quis vere intelligit quid est homo, quodcunque aliud aliquid, quam hominem apprehendat, non intelligit
+hominem. Huiusmodi autem simplices conceptiones intellectus sunt, quas primo voces significant. Unde dicitur
+in IV metaphysicae quod ratio, quam significat nomen, est definitio. Et ideo signanter dicit: quorum primorum
+hae notae sunt, ut scilicet referatur ad primas conceptiones a vocibus primo significatas.
+|#11 Sed adhuc obiiciunt aliqui de nominibus aequivocis, in quibus eiusdem vocis non est eadem passio, quae
+significatur apud omnes. Et respondet ad hoc Porphyrius quod unus homo, qui vocem profert, ad unam
+intellectus conceptionem significandam eam refert; et si aliquis alius, cui loquitur, aliquid aliud intelligat, ille qui
+loquitur, se exponendo, faciet quod referet intellectum ad idem.
+Sed melius dicendum est quod intentio Aristotelis non est asserere identitatem conceptionis animae per
+comparationem ad vocem, ut scilicet unius vocis una sit conceptio: quia voces sunt diversae apud diversos; sed
+intendit asserere identitatem conceptionum animae per comparationem ad res, quas similiter dicit esse easdem.
+|#12 Tertio, ibi: de his itaque etc., excusat se a diligentiori harum consideratione: quia quales sint animae
+passiones, et quomodo sint rerum similitudines, dictum est in libro de anima. Non enim hoc pertinet ad logicum
+negocium, sed ad naturale.
+|+3 Lectio 3
+|#1 Postquam Philosophus tradidit ordinem significationis vocum, hic agit de diversa vocum significatione:
+quarum quaedam significant verum vel falsum, quaedam non.
+Et circa hoc duo facit: primo, praemittit differentiam; secundo, manifestat eam; ibi: circa compositionem enim
+etc..
+Quia vero conceptiones intellectus praeambulae sunt ordine naturae vocibus, quae ad eas exprimendas
+proferuntur, ideo ex similitudine differentiae, quae est circa intellectum, assignat differentiam, quae est circa
+significationes vocum: ut scilicet haec manifestatio non solum sit ex simili, sed etiam ex causa quam imitantur
+effectus.
+|#2 Est ergo considerandum quod, sicut in principio dictum est, duplex est operatio intellectus, ut traditur in III
+de anima; in quarum una non invenitur verum et falsum, in altera autem invenitur. Et hoc est quod dicit quod in
+anima aliquoties est intellectus sine vero et falso, aliquoties autem ex necessitate habet alterum horum. Et quia
+voces significativae formantur ad exprimendas conceptiones intellectus, ideo ad hoc quod signum conformetur
+signato, necesse est quod etiam vocum significativarum similiter quaedam significent sine vero et falso,
+quaedam autem cum vero et falso.
+|#3 Deinde cum dicit: circa compositionem etc., manifestat quod dixerat.
+Et primo, quantum ad id quod dixerat de intellectu; secundo, quantum ad id quod dixerat de assimilatione vocum
+ad intellectum; ibi: nomina igitur ipsa et verba etc..
+Ad ostendendum igitur quod intellectus quandoque est sine vero et falso, quandoque autem cum altero horum,
+dicit primo quod veritas et falsitas est circa compositionem et divisionem.
+Ubi oportet intelligere quod una duarum operationum intellectus est indivisibilium intelligentia: in quantum
+scilicet intellectus intelligit absolute cuiusque rei quidditatem sive essentiam per seipsam, puta quid est homo vel
+quid album vel quid aliud huiusmodi.
+Alia vero operatio intellectus est, secundum quod huiusmodi simplicia concepta simul componit et dividit.
+Dicit ergo quod in hac secunda operatione intellectus, idest componentis et dividentis, invenitur veritas et
+falsitas: relinquens quod in prima operatione non invenitur, ut etiam traditur in III de anima.
+
+5
+
+

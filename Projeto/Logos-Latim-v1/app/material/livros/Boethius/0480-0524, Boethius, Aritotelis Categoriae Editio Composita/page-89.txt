@@ -1,0 +1,62 @@
+particulari simplici affirmationi. Nam si non omnis homo iniustus est, quidam homo iustus est. Sed particularis
+affirmatio simplex sequitur uniuersalem affirmationem simplicem. Quando enim uera est uniuersalis affirmatio quae
+dicit:
+Omnis est homo iustus
+uera est et particularis affirmatio quae proponit:
+Quidam homo iustus est
+Sed est quae dicit:
+Quidam homo iustus est
+consentit particularis negatio priuatoria quae proponit:
+Non omnis est homo iniustus
+Quocirca etiam particularis negatio priuatoria uniuersali simplici affirmationi consentiet. Sequitur igitur eam
+quae dicit:
+Omnis est homo iustus
+uniuersalem scilicet simplicem affirmationem ea quae proponit:
+Non omnis est homo iniustus
+particularis negatio priuatoria. Sed huic particulari negationi priuatoriae quae dicit:
+Non omnis est homo iniustus
+consentit infinita particularis negatio quae dicit:
+Non omnis est homo non iustus
+Nam si uerum est quoniam non omnis est homo iniustus, et uerum est quoniam non omnis est homo non
+iustus. Idem est enim esse iniustum quod non iustum. Sed priuatoria particularis negatio sequitur simplicem
+uniuersalem affirmationem: infinita igitur negatio particularis sequitur simplicem uniuersalem affirmationem eique
+consentit, si prius affirmatio uniuersalis uera sit. Quocirca eam quae dicit:
+Omnis est homo iustus
+uniuersalem simplicem /300/ affirmationem sequuntur sine dubio particularis negatio priuatoria:
+Non omnis est homo iniustus
+et particularis negatio infinita:
+Non omnis est homo non iustus
+Quare hic quoque affirmationem negationes sequuntur. Sed hoc non conuertitur. Quoniam enim (ut dictum est)
+negatio particularis priuatoria quae dicit:
+Non omnis est homo iniustus
+consentit particulari affirmationi simplici, ei scilicet quae dicit:
+Quidam homo iustus est
+hanc autem particularem affirmationem non sequitur uniuersalis affirmatio (neque enim, si uerum est quendam
+esse hominem iustum, idcirco iam et omnem esse hominem iustum necesse est): quare non sequitur affirmatio
+uniuersalis simplex:
+Omnis est homo iustus
+affirmationem particularem simplicem:
+Quidam est homo iustus
+(potest enim hac uera id est particulari uniuersalis esse falsa) sed particularis affirmatio simplex particulari
+negationi priuatoriae consentit: quare nec priuatoriam particularem negationem simplex affirmatio sequitur uniuersalis.
+Eam igitur quae dicit:
+Non omnis est homo iniustus
+non sequitur affirmatio uniuersalis simplex quae proponit:
+Omnis homo iustus est
+Sed particularis priuatoria negatio consentit particulari negationi infinitae: uniuersalis igitur affirmatio simplex
+non sequitur particularem negationem infinitam. Ea igitur quae dicit:
+Omnis est homo iustus
+affirmatio uniuersalis simplex non sequitur eam quae dicit:
+Non omnis est homo non iustus
+particularem infinitam negationem. Duae igitur negationes infinita et priuatoria particulares sequuntur
+uniuersalem affirmationem simplicem, sicut in his quoque erat quae sunt /301/ indefinitae. Duae enim negationes
+infinita et priuatoria indefinitae simplicem affirmationem sequebantur indefinitam. Sed non e conuerso. Affirmatio
+enim uniuersalis simplex non sequitur negationes particularem infinitam et priuatoriam, sicut nec indefinita qunque
+affirmatio simplex indefinitas sequebatur negationes priuatoriam atque infinitam. Quare in hoc uno ordine similiter sese
+habent definitae his quae sunt indefinitae. Aequaliter enim affirmationibus ueris uerae sunt negationes, ueras negationes
+affirmationum ueritas non sequitur nec his consentit.
+Rursus in altera parte perspiciamus, quemadmodum affirmationes uniuersales priuatoriam scilicet et infinitam
+particularis negatio simplex sequatur. Namque affirmationem uniuersalem priuatoriam:
+Omnis est homo iniustus
+
+

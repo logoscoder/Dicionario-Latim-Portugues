@@ -1,0 +1,51 @@
+Incipit liber quartus de legatis et fideicommissis, ex ordine liber trigensimus tertius.
+33.1.0. De annuis legatis et fideicommissis.
+33.2.0. De usu et de usu fructu et reditu et habitatione et operis per legatum vel fideicommissum datis.
+33.3.0. De servitute legata.
+33.4.0. De dote praelegata.
+33.5.0. De optione vel electione legata.
+33.6.0. De tritico vino vel oleo legato.
+33.7.0. De instructo vel instrumento legato.
+33.8.0. De peculio legato.
+33.9.0. De penu legata.
+33.10.0. De suppellectile legata.
+
+Incipit ex ordine digestorum liber trigensimus quartus.
+34.1.0. De alimentis vel cibariis legatis.
+34.2.0. De auro argento mundo ornamentis unguentis veste vel vestimentis et statuis legatis.
+34.3.0. De liberatione legata.
+34.4.0. De adimendis vel transferendis legatis vel fideicommissis.
+34.5.0. De rebus dubiis.
+34.6.0. De his quae poenae causa relinquuntur.
+34.7.0. De regula Catoniana.
+34.8.0. De his quae pro non scriptis habentur.
+34.9.0. De his quae ut indignis auferuntur.
+
+Incipit ex ordine digestorum liber trigensimus quintus.
+35.1.0. De condicionibus et demonstrationibus et causis et modis eorum, quae in testamento scribuntur.
+35.2.0. Ad legem Falcidiam.
+35.3.0. Si cui plus, quam per legem Falcidiam licuerit, legatum esse dicetur.
+
+Incipit ex ordine digestorum liber trigensimus sextus.
+36.1.0. Ad senatus consultum Trebellianum.
+36.2.0. Quando dies legatorum vel fideicommissorum cedat.
+36.3.0. Ut legatorum seu fideicommissorum servandorum causa caveatur.
+36.4.0. Ut in possessionem legatorum vel fideicommissorum servandorum causa esse liceat.
+Explicit de legatis et fideicommissis liber septimus, ex ordime digestorum liber trigensimus sextus.
+
+Incipit de bonorum possessionibus liber primus, ex ordine liber trigensimus septimus.
+37.1.0. De bonorum possessionibus.
+37.2.0. Si tabulae testamenti extabunt.
+37.3.0. De bonorum possessione furioso infanti muto surdo caeco competente.
+37.4.0. De bonorum possessione contra tabulas.
+37.5.0. De legatis praestandis contra tabulas bonorum possessione petita.
+37.6.0. De collatione bonorum.
+37.7.0. De dotis collatione.
+37.8.0. De coniungendis cum emancipato liberis eius.
+37.9.0. De ventre in possessionem mittendo et curatore eius.
+37.10.0. De Carboniano edicto.
+37.11.0. De bonorum possessione secundum tabulas.
+37.12.0. Si a parente quis manumissus sit.
+37.13.0. De bonorum possessione ex testamento militis.
+
+

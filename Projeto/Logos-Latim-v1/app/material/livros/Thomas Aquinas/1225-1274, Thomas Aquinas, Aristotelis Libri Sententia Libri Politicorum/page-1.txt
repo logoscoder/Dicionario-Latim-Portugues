@@ -1,0 +1,47 @@
+OPERA OMNIA
+SANCTI THOMAE AQUINATIS
+-----oOo----Textum electronicum praeparavit et indexavit
+Ricardo M. Rom n, S. R. E. Presbyterus
+Bonis Auris, MCMXCVIII
+
+|*ARISTOTELIS_LIBRI
+|*POLITICORUM
+SENTENTIA LIBRI POLITICORUM
+|*PR Prooemium
+|#1 Sicut Philosophus docet in secundo physicorum, ars imitatur naturam. Cuius ratio est, quia sicut se habent
+principia adinvicem, ita proportionabiliter se habent operationes et effectus. Principium autem eorum quae
+secundum artem fiunt est intellectus humanus, qui secundum similitudinem quamdam derivatur ab intellectu
+divino, qui est principium rerum naturalium. Unde necesse est, quod et operationes artis imitentur operationes
+naturae; et ea quae sunt secundum artem, imitentur ea quae sunt in natura. Si enim aliquis instructor alicuius artis
+opus artis efficeret; oporteret discipulum, qui ab eo artem suscepisset, ad opus illius attendere, ut ad eius
+similitudinem et ipse operaretur. Et ideo intellectus humanus ad quem intelligibile lumen ab intellectu divino
+derivatur, necesse habet in his quae facit informari ex inspectione eorum quae sunt naturaliter facta, ut similiter
+operetur.
+|#2 Et inde est quod Philosophus dicit, quod si ars faceret ea quae sunt naturae, similiter operaretur sicut et
+natura: et e converso, si natura faceret ea quae sunt artis, similiter faceret sicut et ars facit. Sed natura quidem
+non perficit ea quae sunt artis, sed solum quaedam principia praeparat, et exemplar operandi quodam modo
+artificibus praebet. Ars vero inspicere quidem potest ea quae sunt naturae, et eis uti ad opus proprium
+perficiendum; perficere vero ea non potest. Ex quo patet quod ratio humana eorum quae sunt secundum naturam
+est cognoscitiva tantum: eorum vero quae sunt secundum artem, est et cognoscitiva et factiva: unde oportet quod
+scientiae humanae, quae sunt de rebus naturalibus, sint speculativae; quae vero sunt de rebus ab homine factis,
+sint practicae, sive operativae secundum imitationem naturae.
+|#3 Procedit autem natura in sua operatione ex simplicibus ad composita; ita quod in eis quae per operationem
+naturae fiunt, quod est maxime compositum est perfectum et totum et finis aliorum, sicut apparet in omnibus
+totis respectu suarum partium. Unde et ratio hominis operativa ex simplicibus ad composita procedit tamquam ex
+imperfectis ad perfecta.
+|#4 Cum autem ratio humana disponere habeat non solum de his quae in usum hominis veniunt, sed etiam de
+ipsis hominibus qui ratione reguntur, in utrisque procedit ex simplicibus ad compositum. In aliis quidem rebus
+quae in usum hominis veniunt, sicut cum ex lignis constituit navem et ex lignis et lapidibus domum. In ipsis
+autem hominibus, sicut cum multos homines ordinat in unam quamdam communitatem. Quarum quidem
+communitatum cum diversi sint gradus et ordines, ultima est communitas civitatis ordinata ad per se sufficientia
+vitae humanae. Unde inter omnes communitates humanas ipsa est perfectissima. Et quia ea quae in usum
+hominis veniunt ordinantur ad hominem sicut ad finem, qui est principalior his quae sunt ad finem, ideo necesse
+est quod hoc totum quod est civitas sit principalius omnibus totis, quae ratione humana cognosci et constitui
+possunt.
+|#5 Ex his igitur quae dicta sunt circa doctrinam politicae, quam Aristoteles in hoc libro tradit, quatuor accipere
+possumus.
+Primo quidem necessitatem huius scientiae.
+
+1
+
+

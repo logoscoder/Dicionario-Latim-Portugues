@@ -1,0 +1,62 @@
+nunquid conuertere uere potest, ut omne animal hominem esse pronuntiet? Quare cum aliquoties uniuersalis
+affirmatio conuersa propriam [786C] non teneat ueritatem, dicitur conuersionis naturam non posse suscipere.
+Negatio quoque particularis interdum uidetur posse conuerti, ueluti si quis enuntiet quemdam hominem
+lapidem non esse, uerum loquetur, cum dixerit quemdam lapidem hominem non esse; sed est instabilis et incerta
+conuersio: nam cum quidam homo grammaticus non sit, falsum est dicere quemdam grammaticum hominem non esse.
+Ita igitur haec quoque conuersio protinus a sua ueritate deficit.
+Superius igitur propositarum quatuor enuntiationem duae quidem oppositae, id est particularis affirmatio et
+uniuersalis negatio, conuersionem sui firmam perpetuamque suscipiunt; duae uero oppositae, id est affirmatio
+uniuersalis et negatio particularis, conuersionis non tenent firmitatem [786D] sed quia uniuersalis affirmatio, quae in
+sui conuersione uidetur instabilis, si uera est, particularem quoque affirmationem ueram esse necesse est. Si autem
+particularis affirmatio conuersa non amittit propriam ueritatem, uniuersalis quoque affirmatio conuersa particulari
+affirmationi eamdem ueritatem sonabit, uelut his exemplis probabitur. Si quis enim proponat omnem hominem esse
+animal, uerum dixerit, huius subalterna particularis affirmatio quemdam hominem esse animal, ea quoque uera est,
+quoniam uniuersalis affirmationis ueritas antecessit. Sed eamdem conuerti sibi uerissime potest, dicitur enim quoddam
+animal esse hominem. Quocirca affirmatio uniuersalis quae proponit omnem hominem esse animal, et conuersa
+particularis affirmatio [787A] quae pronuntiat quoddam animal esse hominem, utraeque simul a ueritatis significatione
+non deficiunt. Ita igitur uniuersalis affirmatio, quae sui conuersionem perpetuam ferre non poterat, per accidens
+particulari affirmationi conuersa est. Per accidens autem idem quoniam particularis affirmatio principe sibi ipsa loco
+conuertitur, conuersae autem particulari affirmationi uniuersalis affirmatio eamdem retinet in ueritate sententiam.
+Eadem ideo est etiam uniuersalis negationis, quae quoniam ipsa principaliter conuerti potest, conuersaeque negationi
+uniuersali illa quae subalterna est eamdem. ueritatis refert sententiam. Particularis negatio conuersa ad ueritatis
+signiticationem poterit conuenire, ut si quis nullum hominem esse lapidem confiirmet, et huius [787B] conuersio est,
+nullum lapidem esse bominem, quae cum uera praecedat, subalternae particularis negatiuae perficit ueritatem: ea uero
+est, quidam lapis homo non est, quae comparata uniuersali negationi quae dicit nullum hominem esse lapidem, quamuis
+terminis discrepans, tamen similis ueritate proponitur. Igitur particularis negatio, quae sibi ipsi conuerti non poterit,
+uniuersali negationi per accidens conuerti potest. Per accidens autem idcirco quoniam uniuersalis negatio in se ipsam
+priore loco conuerti potest. Per conuersionem autem sui cum particulari negatione similem ueritatis uidetur obtinere
+sententiam. Itaque concludendum est particularem quoque affirmationem uniuersalemque negationem conuersionem
+sui firmam ac stabilem custodire.
+Affirmationem [787C] autem uniuersalem particularemque negationem in conuertendo firmas esse non posse
+sed hanc affirmationi particulari, illam uniuersali negationi per accidens, posse conuerti.
+Restat nunc de ea propositionum conuenientia uel participatione disserere, in qua utrinque terminorum ordine
+permutato, uni uel utrique eorum negatiuum copulatur aduerbium.
+Sed quanquam huiusmodi participationis plures esse differentias nouerimus, ad instructionem tamen [787D]
+Categoricorum Syllogismorum de hac tantum proposuisse sufficiat, quarum quidem propositionum pars ex simplicibus
+nominibus constat, pars uero ex infinitis. Nam propositio uniuersalis, quae est:
+Omnis homo animal est
+ex utrisque nominibus finitis constat. Namque et homo et animal finita nomina esse manifestum est. Ea uero
+affirmatio quae proponit omne non animal non hominem esse infinitorum terminorum positione coniuncta est. Non
+animal enim et non homo nomina esse infinita, in nominis definitione praediximus, quae quidem sese ad ueritatis
+falsitatisue rationem sic habent, ut enim negationibus adiunctis infinita nomina simplicibus opponuntur, ita etiam
+conuersio propositionum econtrario contingit quam paulo ante in simplicibus hababatur. [788A]
+Atque in his enuntiationibus conuerti termini per appositionem dicuntur, unusque enim terminorum negatione
+praeposita terminis simpliciter pronuntiatis uidetur oppositus.
+Huius uero participationis est triplex modus: aut enim praedicato tantum termino, negatio iungitur, aut
+subiecto, aut utrique termini denegantur. Primum igitur supposita descriptione pandantur exempla.
+Post autem quemadmodum se habent ad ueritatis falsitatisue consensum consequentis ordine disputetur.
+Ac primum quidem de hac disserimus cuius subiectum praedicatumque negatur. Post uero cuius subiectum
+solum, postremo cuius qui praedicatur terminus cum negatione profertur. Atque earum quidem naturam atque ordinem
+ex simplicibus informabimus. Simplices autem, in quantitatum [788B] differentiis constitutas, quatuor esse
+monstrauimus. Sit igitur prima quidem affirmatio uniuersalis, quae proponat omnem hominem esse animal; aduersum
+hanc collocetur affirmatio uniuersalis, quae non solum conuersis terminis enuntietur uerum in uno quoque termino
+negatiuum aduerbium habeat adiunctum hoc modo:
+Omne non animal non homo est.
+Rursus proponatur uniuersalis negatio, ea quae est:
+Nullus homo animal est
+huic aduersam teneat locum uniuersalis negatio terminis cum negatione conuersis, id:
+Nullum non animal non homo est.
+Item sit particularis affirmatio simplex:
+Quidam homo animal est
+
+

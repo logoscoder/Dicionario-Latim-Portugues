@@ -1,0 +1,51 @@
+OPERA OMNIA
+SANCTI THOMAE AQUINATIS
+-----oOo----Textum electronicum praeparavit et indexavit
+Ricardo M. Rom n, S. R. E. Presbyterus
+Bonis Auris, MCMXCVIII
+
+|*Q._DISPUTATAE
+QUAESTIONES DISPUTATAE
+|*DE_VERITATE
+|q1 Quaestio 1
+Prologus
+PR1
+Primo quid est veritas.
+PR2
+Secundo utrum veritas principalius inveniatur in intellectu quam in rebus.
+PR3
+Tertio utrum veritas sit tantum in intellectu componente et dividente.
+PR4
+Quarto utrum sit tantum una veritas qua omnia sunt vera.
+PR5
+Quinto utrum aliqua alia veritas praeter primam veritatem sit aeterna.
+PR6
+Sexto an veritas creata sit immutabilis.
+PR7
+Septimo utrum veritas in divinis dicatur essentialiter vel personaliter.
+PR8
+Octavo utrum omnis veritas sit a veritate prima.
+PR9
+Nono utrum veritas sit in sensu.
+PR10
+Decimo utrum res aliqua sit falsa.
+PR11
+Undecimo utrum falsitas sit in sensibus.
+PR12
+Duodecimo utrum falsitas sit in intellectu.
+|a1 Articulus 1
+TTA
+Quaestio est de veritate.
+Et primo quaeritur quid est veritas?
+TTB
+Videtur autem quod verum sit omnino idem quod ens.
+AG1
+Augustinus in Lib. Solil.
+Dicit, quod verum est id quod est. Sed id quod est, nihil est nisi ens. Ergo verum significat omnino idem quod
+ens.
+AG2
+Respondens dicebat quod sunt idem secundum supposita, sed ratione differunt.
+Contra, ratio cuiuslibet rei est id quod significatur per suam definitionem.
+1
+
+

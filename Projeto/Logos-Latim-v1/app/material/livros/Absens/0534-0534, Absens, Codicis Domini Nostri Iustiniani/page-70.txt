@@ -1,0 +1,60 @@
+Liber secundus
+* 2.1.0. De edendo.
+* 2.2.0. De in ius vocando.
+* 2.3.0. De pactis.
+* 2.4.0. De transactionibus.
+* 2.5.0. De calculi errore.
+* 2.6.0. De postulando.
+* 2.7.0. De advocatis diversorum iudiciorum.
+* 2.8.0. De advocatis fisci.
+* 2.9.0. De errore advocatorum vel libellos seu preces concipientium.
+* 2.10.0. Ut quae desunt advocationi partium iudex suppleat.
+* 2.11.0. De causis, ex quibus infamia alicui inrogatur.
+* 2.12.0. De procuratoribus.
+* 2.13.0. Ne liceat potentioribus patrocinium litigantibus praestare vel actiones in se transferre.
+* 2.14.0. De his, qui potentiorum nomine titulos praediis adfigunt vel eorum nomina in lite praetendunt
+* 2.15.0. Ut nemo privatus titulos praediis suis vel alienis imponat vel vela regalia suspendat.
+* 2.16.0. Ut nemini liceat sine iudicis auctoritate signa imprimere rebus, quas alius tenet.
+* 2.17.0. Ne fiscus vel res publica procurationem alicui patrocinii causa in lite praestet.
+* 2.18.0. De negotiis gestis.
+* 2.19.0. De his quae vi metusve causa gesta sunt.
+* 2.20.0. De dolo malo.
+* 2.21.0. De in integrum restitutione minorum viginti quinque annis.
+* 2.22.0. De filio familias minore.
+* 2.23.0. De fideiussoribus minorum.
+* 2.24.0. Si tutor vel curator intervenerit.
+* 2.25.0. Si in communi eademque causa in integrum restitutio postuletur.
+* 2.26.0. Si adversus rem iudicatam.
+* 2.27.0. Si adversus venditionem.
+* 2.28.0. Si adversus venditionem pignoris.
+* 2.29.0. Si adversus donationem.
+* 2.30.0. Si adversus libertatem.
+* 2.31.0. Si adversus transactionem vel divisionem minor restitui velit.
+* 2.32.0. Si adversus solutionem a debitore vel a se factam.
+* 2.33.0. Si adversus dotem.
+* 2.34.0. Si adversus delictum suum.
+* 2.35.0. Si adversus usucapionem.
+* 2.36.0. Si adversus fiscum
+* 2.37.0. Si adversus creditorem.
+* 2.38.0. Si ut se hereditate abstineat.
+* 2.39.0. Si ut omissam hereditatem vel bonorum possessionem vel quid aliud adquirat.
+* 2.40.0. In quibus causis in integrum restitutio necessaria non est.
+* 2.41.0. Qui et adversus quos in integrum restitui non possunt.
+* 2.42.0. Si minor se maiorem dixerit vel probatus fuerit.
+* 2.43.0. Si saepius in integrum restitutio postuletur.
+* 2.44.0. De his qui veniam aetatis impetraverunt.
+* 2.45.0. Si maior factus ratum habuerit.
+* 2.46.0. Ubi et apud quem cognitio restitutionis agitanda sit.
+* 2.47.0. De reputationibus, quae fiunt in iudicio in integrum restitutionis.
+* 2.48.0. Etiam per procuratorem causam in integrum restitutionis agi posse.
+* 2.49.0. In integrum restitutione postulata ne quid novi fiat.
+* 2.50.0. De restitutione militum et eorum qui rei publicae causa afuerunt.
+* 2.51.0. De uxoribus militum vel eorum qui rei publicae causa absunt.
+* 2.52.0. De temporibus in integrum restitutionis tam minorum aliarumque personarum (..)
+* 2.53.0. Quibus ex causis maiores in integrum restituuntur.
+* 2.54.0. De alienatione iudicii mutandi causa facta.
+* 2.55.0. De receptis.
+* 2.56.0. De satisdando.
+70
+
+

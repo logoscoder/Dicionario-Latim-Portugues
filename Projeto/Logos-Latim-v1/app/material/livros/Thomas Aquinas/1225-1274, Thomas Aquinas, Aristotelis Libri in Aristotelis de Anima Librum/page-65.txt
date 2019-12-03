@@ -1,0 +1,56 @@
+|#2 Cum autem corpora sint visibilia per suos colores, sequitur quod diaphanum secundum seipsum sit
+invisibile. Quia vero eadem est potentia cognoscitiva oppositorum, sequitur, quod visus qui cognoscit lucem,
+cognoscat et tenebram. Licet igitur diaphanum secundum se careat colore et lumine, quorum est susceptivum, et
+sic secundum se visibile non sit, eo modo quo sunt visibilia, lucida et colorata, tamen potest dici visibile, sicut
+videtur tenebrosum quod vix videtur. Diaphanum igitur est huiusmodi, idest tenebrosum, cum non est actu
+diaphanum, sed in potentia tantum. Eadem enim natura est subiecta quandoque quidem tenebrarum, quandoque
+autem luminis. Et sic diaphanum carens lumine, quod ei accidit, dum est in potentia diaphanum, oportet, quod sit
+tenebrosum.
+|#3 Deinde cum dicit non omnia quia iam determinatum est de colore, quod videtur in lumine, determinat de
+alio visibili, quod supra dixit esse innominatum. Et dicit quod non omnia sunt visibilia in lumine, sed solum
+proprius color uniuscuiusque corporis in lumine visibilis est: quaedam enim non videntur in lumine, sed in
+tenebris, sicut animalia quae in tenebris videntur ignita, et lucentia, haec sunt multa, sed non habent unum nomen
+commune, sicut putredines quercuum, et aliquod cornu alicuius animalis et capita quorumdam piscium, et
+squamae, et oculi quorumdam animalium. Sed licet ista videantur in tenebris, nullius tamen horum proprius color
+in tenebris videtur. Videntur ergo ista in tenebris et in lumine; sed in tenebris, ut lucentia; in lumine autem, ut
+colorata.
+|#4 Sed propter quam causam sic videantur in tenebris lucentia, alia ratio est.
+Non enim hic inducitur hoc, nisi quasi per accidens, ad ostendendum comparationem visibilis ad lumen. Videtur
+autem visibilitatis eorum in tenebris haec esse ratio: quia huiusmodi ex sua compositione habent aliquid lucis,
+inquantum lucidum ignis et diaphanum aeris et aquae non est totaliter in eis comprehensum per opacum terrae.
+Sed quia modicum habent de luce, eorum lux ad praesentiam maioris luminis occultatur. Unde in lumine non
+videntur, ut lucentia, sed ut colorata tantum. Lux autem eorum propter sui debilitatem non potest diaphanum
+perfecte reducere in actum, secundum quod natum est moveri a colore; unde sub eorum luce, nec eorum color,
+nec aliorum videtur; sed solum lux ipsorum. Lux enim, cum sit efficacior ad movendum diaphanum, quam color,
+et magis visibilis, cum minori immutatione diaphani videri potest.
+|#5 Deinde cum dicit nunc autem ostendit quomodo color perveniat ad visum.
+Et circa hoc duo facit. Primo ostendit quod est necessarium ad hoc, quod visus moveatur a colore. Secundo
+ostendit aliquid simile, quod est necessarium in aliis sensibilibus, ibi, eadem autem ratio. Circa primum duo
+facit. Primo determinat veritatem. Secundo excludit errorem, ibi, non enim bene hoc. Dicit ergo primo, quod per
+supradicta, intantum manifestum fit, quod illud quod videtur in lumine, est color, et quod sine lumine videri non
+potest, quia, ut supra dictum est, hoc est de ratione coloris quod sit motivum diaphani; quod quidem fit per
+lumen, quod est actus diaphani; et ideo sine lumine color videri non potest.
+|#6 Cuius signum est: quia si aliquis ponat corpus coloratum super organum visus, non videbitur: quia non est
+ibi diaphanum in actu, quod moveatur a colore. Nam etsi pupilla sit quoddam diaphanum, non tamen erit
+diaphanum in actu, si superponatur sibi corpus coloratum. Oportet autem quod color moveat diaphanum in actu,
+puta aerem vel aliquid huiusmodi; et ab hoc movetur sensitivum, idest organum visus, sicut a corpore sibi
+continuato.
+Corpora enim non se immutant, nisi se tangant.
+|#7 Deinde cum dicit non enim excludit errorem; dicens, quod non bene dixit democritus, qui opinatus fuit,
+quod si medium, quod est inter rem visam et oculum esset vacuum, quod posset aliquid quantumcumque parvum
+videri per quantamcumque distantiam, puta si formica esset in caelo.
+Sed hoc est impossibile. Oportet enim, ad hoc quod aliquid videatur, quod organum visus patiatur a visibili.
+Ostensum est autem, quod non patitur ab ipso visibili immediate, quia visibile superpositum oculo non videtur.
+Relinquitur ergo, quod oporteat organum visus pati a visibili per aliquod medium: necesse est ergo esse aliquod
+medium inter visibile et visum. Si autem est vacuum, nihil est medium, quod posset immutare et immutari.
+Relinquitur ergo, quod si esset vacuum, omnino nihil videretur.
+|#8 Incidit autem in hanc opinionem democritus, quia putabat, quod causa quare distantia impedit visionem
+alicuius rei, sit per medium quod resistit immutationi visibilis: hoc autem est falsum. Non enim diaphanum habet
+contrarietatem ad lumen vel colorem, sed est in ultima dispositione ad eorum receptionem: cuius signum est
+quod subito immutatur a lumine vel colore. Causa autem, quare distantia impediat visum, est, quia omne corpus
+videtur sub quodam angulo cuiusdam trianguli, vel magis pyramidis, cuius basis est in re visa, et angulus est in
+oculo videntis.
+
+65
+
+

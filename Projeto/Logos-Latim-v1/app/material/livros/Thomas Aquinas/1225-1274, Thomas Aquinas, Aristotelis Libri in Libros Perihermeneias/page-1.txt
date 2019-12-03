@@ -1,0 +1,48 @@
+OPERA OMNIA
+SANCTI THOMAE AQUINATIS
+-----oOo----Textum electronicum praeparavit et indexavit
+Ricardo M. Rom n, S. R. E. Presbyterus
+Bonis Auris, MCMXCVIII
+
+|*ARISTOTELIS_LIBRI
+|*PERIHERMENEIAS
+IN LIBROS PERIHERMENEIAS
+|*PR Prooemium
+|#1 Dilecto sibi praeposito lovaniensi frater Thomas de Aquino salutem et verae sapientiae incrementa.
+Diligentiae tuae, qua in iuvenili aetate non vanitati sed sapientiae intendis studio provocatus, et desiderio
+satisfacere cupiens, libro Aristotelis, qui peri hermeneias dicitur, multis obscuritatibus involuto, inter multiplices
+occupationum mearum sollicitudines, expositionem adhibere curavi, hoc gerens in animo sic altiora pro posse
+perfectioribus exhibere, ut tamen iunioribus proficiendi auxilia tradere non recusem. Suscipiat ergo studiositas
+tua praesentis expositionis munus exiguum, ex quo si profeceris, provocare me poteris ad maiora.
+|*HER.1 : LIBER 1
+|#1
+Sicut dicit Philosophus in III de anima, duplex est operatio intellectus: una quidem, quae dicitur
+indivisibilium intelligentia, per quam scilicet intellectus apprehendit essentiam uniuscuiusque rei in seipsa; alia
+est operatio intellectus scilicet componentis et dividentis.
+Additur autem et tertia operatio, scilicet ratiocinandi, secundum quod ratio procedit a notis ad inquisitionem
+ignotorum.
+Harum autem operationum prima ordinatur ad secundam: quia non potest esse compositio et divisio, nisi
+simplicium apprehensorum.
+Secunda vero ordinatur ad tertiam: quia videlicet oportet quod ex aliquo vero cognito, cui intellectus assentiat,
+procedatur ad certitudinem accipiendam de aliquibus ignotis.
+|#2 Cum autem logica dicatur rationalis scientia, necesse est quod eius consideratio versetur circa ea quae
+pertinent ad tres praedictas operationes rationis. De his igitur quae pertinent ad primam operationem intellectus,
+idest de his quae simplici intellectu concipiuntur, determinat Aristoteles in libro praedicamentorum.
+De his vero, quae pertinent ad secundam operationem, scilicet de enunciatione affirmativa et negativa,
+determinat Philosophus in libro perihermeneias. De his vero quae pertinent ad tertiam operationem determinat in
+libro priorum et in consequentibus, in quibus agitur de syllogismo simpliciter et de diversis syllogismorum et
+argumentationum speciebus, quibus ratio de uno procedit ad aliud. Et ideo secundum praedictum ordinem trium
+operationum, liber praedicamentorum ordinatur ad librum perihermeneias, qui ordinatur ad librum priorum et
+sequentes.
+|#3 Dicitur ergo liber iste, qui prae manibus habetur, perihermeneias, quasi de interpretatione.
+Dicitur autem interpretatio, secundum Boethium, vox significativa, quae per se aliquid significat, sive sit
+complexa sive incomplexa. Unde coniunctiones et praepositiones et alia huiusmodi non dicuntur interpretationes,
+quia non per se aliquid significant.
+Similiter etiam voces significantes naturaliter, non ex proposito aut cum imaginatione aliquid significandi, sicut
+sunt voces brutorum animalium, interpretationes dici non possunt. Qui enim interpretatur aliquid exponere
+intendit. Et ideo sola nomina et verba et orationes dicuntur interpretationes, de quibus in hoc libro determinatur.
+Sed tamen nomen et verbum magis interpretationis principia esse videntur, quam interpretationes.
+Ille enim interpretari videtur, qui exponit aliquid esse verum vel falsum.
+1
+
+

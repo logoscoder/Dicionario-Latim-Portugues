@@ -1,0 +1,57 @@
+secundum hoc necessarium est quod totum divisum sub altero oppositorum contineatur, dum tamen accipiantur
+primae differentiae alicuius generis. Differentiae enim quae sunt immediatae si comparentur ad genus inferius,
+non sunt immediatae si comparentur ad genus superius. Sicut par et impar sunt immediata si comparentur ad
+numerum, cuius sunt propriae differentiae; non autem si comparentur ad quantitatem.
+|#6 Deinde cum dicit: ad construendum autem terminum etc., postquam exclusit ea quae non requiruntur ad
+divisiones definiti, hic ostendit quae secundum rei veritatem requirantur. Et primo, proponit quod intendit;
+secundo, manifestat propositum; ibi: est autem horum unum.
+Dicit ergo primo quod ad hoc quod aliquis constituat terminum, idest definitionem, per viam divisionis, tria
+oportet considerare: quorum primum est, ut ea quae accipiuntur, praedicentur in eo quod quid est; secundum est,
+ut ordinetur quid sit primum et quid secundum; tertium est, quod accipiantur omnia quae pertinent ad quod quid
+est, et nihil eorum praetermittatur.
+|#7 Deinde cum dicit: est autem horum unum etc., manifestat propositum. Et primo, ostendit quomodo tria
+praedicta possunt observari; secundo, ostendit quod praedicta tria observata sufficiant; ibi: manifestum est autem
+etc.. Circa primum tria facit. Primo ostendit quomodo observetur primum: et dicit quod unum horum (scilicet
+quod accipiantur ea quae praedicantur in eo quod quid est) observatur, primo quidem per hoc quod homo potest
+inducere syllogismos quod id quod assumitur insit, sicut cum disputatur ad problema de accidente; secundo, ut
+ostendatur quod praedicatur in eo quod quid, per ea quibus disputatur ad problema de genere.
+|#8 Secundo, ibi: ordinare autem sicut oportet etc., manifestat quomodo observetur secundum, scilicet debita
+ordinatio partium; et dicit quod tunc ordinantur partes definitionis sicut oportet, si aliquis primo accipiat id quod
+est primum; et hoc erit si aliquis primo accipiat id quod consequitur ad alia posterius accepta, et non e converso.
+Hoc enim est communius et prius. Necesse est autem aliquid huiusmodi accipi in definitione tanquam genus,
+puta cum dicitur quod homo est animal gressibile bipes. Si enim est gressibile bipes, est animal, sed non e
+converso. Cum ergo iam acceperimus animal tanquam primum, idem modus observandus est in ordinatione
+inferiorum.
+Accipietur enim quasi secundum in definitione illud quod secundum rationem praemissam erit primum inter
+omnia sequentia; et similiter accipietur tertium id quod est primum respectu habitorum, idest consequentium.
+Semper enim, remoto superiori, illud quod est habitum, idest immediate consequens, erit primum omnium
+aliorum.
+Et ita est etiam in omnibus aliis, puta in quarto et in quinto, si tot oporteat partes definitionis esse.
+|#9 Tertio, ibi: quod autem haec omnia sint etc., manifestat, qualiter possit tertium observari. Et dicit quod
+manifestum erit omnia quae pertinent ad quod quid est accipi in definitione secundum modum supra dictum, ex
+hoc scilicet quod dividendo aliquod genus accipimus primas eius differentias, sub quibus divisum universaliter
+continetur; sicut quod omne animal est hoc vel illud, puta rationale vel irrationale, et accipimus quod illud quod
+intendimus definire, est hoc, puta rationale. Et iterum accipiemus hoc totum, scilicet animal rationale, et
+dividemus ipsum per differentias proprias; sed quando iam devenerimus ad ultimam differentiam, iam non erit
+dividere per alias differentias specificas: sed statim ultima differentia addita, hoc, cuius definitio quaeritur, in
+nullo differet specie a simul toto, idest a ratione congregata ab omnibus partibus acceptis; sicut homo non
+differet specie ab aliquo eorum de quibus praedicatur animal rationale mortale.
+|#10
+Deinde cum dicit: manifestum enim est etc., ostendit quod tria praedicta observata sufficiant ad
+definiendum, quia definitio neque superfluum neque diminutum habebit. Quod autem non apponatur aliquid plus
+quam debeat, manifestum est per primum trium praedictorum; quia scilicet accepta sunt solum ea quae
+praedicantur in eo quod quid et talia necesse erat accipere. Similiter etiam manifestum est quod nihil deficit. Aut
+enim deficeret genus, aut differentia. Sed quod genus non deficiat, patet ex secundo trium praedictorum.
+Acceptum est enim primum id sine quo non sunt alia, et quod potest esse sine aliis, et hoc est genus. Et cum
+genere postea acceptae sunt differentiae. Sed quod differentiae omnes sint acceptae, patet per tertium
+praedictorum trium; quia non amplius potest accipi posterior differentia post illam cuius diximus non esse aliam
+differentiam; quia iam sequeretur quod ultimum acceptum adhuc differret differentia essentiali, cum tamen
+dictum sit, quod non differat. Similiter etiam ex praemissis patet quod non intermittatur aliqua differentia in
+medio, per hoc scilicet quod semper accipiuntur primae differentiae. Unde relinquitur quod sufficiat tria
+praedicta ad definiendum observari.
+|+16 Lectio 16
+|#1 Postquam Philosophus docuit investigare quod quid est secundum modum maxime congruum, qui est per
+divisionem generis, hic docet investigare quod quid est alio modo. Et circa hoc tria facit: primo, docet
+104
+
+

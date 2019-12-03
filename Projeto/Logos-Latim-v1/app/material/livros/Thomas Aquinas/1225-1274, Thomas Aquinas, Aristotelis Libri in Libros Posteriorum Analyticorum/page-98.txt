@@ -1,0 +1,60 @@
+consequenter se habentia, quorum nihil est medium eiusdem generis, sicut duo milites in acie, vel duo clerici in
+choro. Habitum autem supra id quod est consequenter addit contactum, sicut dicitur in V physicor..
+Sic ergo dicit quod fieri non potest esse consequenter se habens et contiguum cum hoc quod est factum esse. Et
+hoc probat, quia neque etiam factum esse est contiguum, scilicet ut consequenter se habens cum alio factum esse;
+eo quod duo facta esse hoc modo se habent ut quaedam ultima et indivisibilia in tempore, sicut duo puncta in
+linea. Unde sicut duo puncta non sunt consequenter se habentia ad invicem, ita etiam neque duo facta esse; quia
+tam puncta quam facta esse sunt sicut indivisibilia, et talia non se habent consequenter in continuis, ut probatur
+in VI physicor.. Et quia duo facta esse non sunt consequenter se habentia, propter hoc etiam manifestum est quod
+fieri et factum esse non consequenter se habent. Fieri enim est divisibile, sicut et moveri; sed factum esse est
+indivisibile, sicut et punctus. Sicut igitur se habet linea ad punctum, sic se habet fieri ad factum esse. Sunt enim
+infinita facta esse in eo quod est fieri, sicut et infinita puncta sunt potentialiter in linea. Et haec est causa quare in
+linea non possunt accipi duo puncta consequenter se habentia, quia scilicet inter quaelibet duo puncta est
+accipere aliud punctum: et similiter inter quaelibet duo facta esse est accipere aliud. Unde duo facta esse non se
+habent consequenter. Et quia factum esse est terminus eius quod est fieri, sequitur consequenter quod nec fieri se
+habeat consequenter cum eo quod est factum esse: quia tunc duo facta esse se haberent consequenter ad invicem.
+Sed fieri immediate terminatur ad factum esse, sicut linea ad punctum. De his autem patet magis in universalibus
+de motu, idest in libro physicorum. Tractatur enim de his in sexto illius libri.
+|#3 Deinde cum dicit: de hoc quidem igitur etc., ostendit secundum praedicta quomodo accipi possit immediate
+vel mediate effectus causae in his quae non simul sunt. Et primo, ostendit propositum; secundo, manifestat per
+exempla; ibi: habet autem sic se in operibus etc.. Circa primum duo facit: primo, ostendit propositum in
+praeteritis; secundo, in futuris; ibi: similiter autem in eo quod erit etc.. Circa primum duo facit: primo, ostendit
+propositum; secundo, excludit quamdam obviationem; ibi: aut semper intercidet etc..
+|#4
+Dicit ergo primo quod ex praemissis accipi potest quomodo causa, quae accipitur ut medium in
+demonstratione, se habeat consequenter ei quod est in fieri vel generari: quia etiam in his demonstrationibus,
+quae syllogizant de his quae sunt in fieri, necesse est accipere esse aliquod medium et primum quae sint
+immediata; sicut si concludamus quod a factum est propter hoc quod c factum est; ita scilicet quod posterius
+factum sit c, et prius a. Puta si dicamus: iste sanatus est; ergo bibit medicinam: a priori enim non sequeretur
+syllogismus, ut supra dictum est; sed ipsum c accipitur ut principium, quamvis sit posterius in fieri, propter id
+quod est magis proximum ipsi nunc praesenti quam a.
+Praesens autem nunc est principium temporis, quia secundum ipsum distinguitur praeteritum et futurum, et sic
+oportet praesens nunc accipere ut principium notificandi temporis successionem. In praeteritis enim tanto aliquid
+est posterius in fieri, quanto est proximius in praesenti nunc; in futuris autem est e converso. Sicut igitur c
+accipitur ut principium syllogizandi, eo quod est posterius in fieri quam a, et propinquius praesenti nunc; ita et
+accipiamus d propinquius praesenti nunc quam c, et concludamus quod si factum est d, quod prius factum est c;
+puta si perfecit opus sani hominis, prius sanatus est. Possumus ergo concludere quod si factum est d, necesse est
+quod prius factum sit a: et accipitur pro causa id quod erat in medio, scilicet c. Facto enim d, necesse est quod
+prius factum fuerit c; et facto c, necesse est quod prius factum fuerit a; ergo facto d, necesse est quod prius
+factum fuerit a. Puta si hic homo iam perfecit opus sani hominis, sequitur quod prius fuerit sanatus; et si est
+sanatus, necesse est quod prius biberit medicinam. Sic igitur semper accipiendo medium, puta aliquid aliud inter
+c et a, sicut c acceptum est medium inter d et a, stabitur alicubi ad aliquod immediatum.
+|#5 Deinde cum dicit: aut semper intercidet propter etc., ponit quamdam obviationem. Potest enim aliquis
+dicere quod nunquam veniatur ad immediatum, sed semper erit accipere aliquod medium inter duo facta esse,
+propter hoc quod in ipso fieri sunt infinita facta esse, eo quod factum esse non consequenter se habet ad aliud
+factum esse, ut dictum est.
+Sed hanc obviationem excludit ipse, quia quamvis sint infinita facta esse in uno fieri, tamen necesse est incipere
+ab aliquo medio, scilicet ab ipso nunc, tanquam a primo: dictum est enim quod id quod est posterius, est
+principium syllogizandi; respectu autem omnium in praeterito factorum, postremum est ipsum praesens nunc;
+unde necesse est ipsum praesens nunc accipere ut primum et immediatum principium. Quodlibet autem aliorum
+factorum accipitur ut principium mediatum.
+|#6 Deinde cum dicit: similiter autem est etc., manifestat idem in futuris; et dicit quod, sicut se habet in eo quod
+factum est, similiter se habet et in eo quod factum erit; quia si verum est quod erit d, necesse est quod prius
+verificetur quod sit a; et huiusmodi causa accipietur c, quod cadit medium inter d et a. Quia si erit d, necesse est
+quod prius erit c; et si erit c, necesse est quod prius sit futurum a.
+Et similiter etiam in his potest fieri obiectio de infinita divisione futuri in instantia, vel motus in momenta; quia
+sicut in praeteritis, ita et in futuris non consequenter se habent indivisibilia.
+
+98
+
+

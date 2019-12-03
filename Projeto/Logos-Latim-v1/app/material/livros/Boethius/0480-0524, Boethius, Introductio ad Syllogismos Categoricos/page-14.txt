@@ -1,0 +1,63 @@
+Particularium uero affirmationes quidem simul uerae sunt, si id quod uel adesse possit [784B] uel abesse
+praedicetur, siue illud maius sit ut iustitia homine, seu minus ut grammaticus ab homine. Si quid uero aliud fuerit
+praedioatum, ueritas in eas ac falsitas distribuitur, ita ut nunquam communem consonent falsitatem. Particulares
+quoque negatiuae in similibus terminis ueritate concordant. Nam si quod adesse uel abesse potest, siue illud maius sit ut
+iustus ab homine, siue minus, ut grammaticus ab homine, de subiecto praedicetur, ueritas utrisque constabit. In aliis
+uero cunctis praedicationibus uni ueritas, alteri falsitas cedit. Nunquam tamen utraeque in prodenda falsitate
+consentient.
+Praeter hanc autem inter se conuenientiam propositionum, habent aliquid hae proprium quae praedicatum
+adiecia negatione pronuntiant, quod caeteris inesse non possit. [784C] Affirmationes namque negationibus,
+negationesque affirmationibus, quarum uniuersalis est propositio, [785A] itemque particulares affirmationes
+negationibus, negationes affirmationibus ita conueniunt, ut nunquam neque in falsitate, neque in ueritate discordent.
+Conuenientium [786A] autem ordinem seriemque describimus quas si quis in superius posita respexerit; uidebit
+angulariter conuersas.
+Omnis homo rationalis est
+--- Nullus homo non rationalis est.
+Omnis homo non rationalis est --- Nullus homo rationalis est
+Quidam homo non rationalis est --- Quidam homo rationalis non est.
+Quidam homo rationalis est --- Quidam homo non rationalis non est.
+[785A] Quod idcirco in his tantum uidetur euenire, quod de eodem subiecto uterque intelligitur ordo
+oppositionis. Nam quae dicit:
+Omnis homo rationalis est
+de homine rationale praedicauit; item quae proponit:
+Omnis homo non rationalis est
+de eodem homine rationale seiunxit, ut merito simplices affirmationes negationi consentiant. At non in aliis
+intelligitur idem [785B] esse subiectum. Nam et illa quae proponit omnem non hominem esse rationalem, et illa quae
+enuntiat omnem non hominem esse non risibilem, de homine non loquantur sed quolibet alio quod hominis negatione
+relinquitur. Atque ideo uelut extraneae atque a semet alienae, nec in ueritate possidet aliquam nec in falsitate
+concordiam.
+Indefinitas autem propositiones, quoniam particularibus similes esse monstrauimus, adiungendas superioribus
+non putaui. Id enim indefinitis necesse est euenire, quod particularibus solet incurrere.
+Expeditis igitur his propositionibus quae ex utrisque communicant terminia atque eodem ordine collocatis,
+nunc eam propositionum conuenientiam uel participationem loquimur, quae in utrisque quidem terminis conuenientia
+sed [785C] ordinis commutatione consistunt, cuius disceptationis hic finis est, de propositionum conuersione docuisse,
+quid enim est aliud propositiones mutato ordine conuenire utrisque terminis, nisi propositiones conuerti? Conuerti
+autem uel sibi uel aliis propositiones dicuntur, quoties, mutato ordine terminorum, id est quod subiectum fuerat
+praedicato et quod praedicabatur ante subiecto, ueritatem simul obtinent uel falsitatem. De quibus plenissime hic
+disputandi sumemus exordium.
+Quatuor propositiones esse praediximus, quae habeant differentias quantitatum et utrisque terminis absque
+ordinis permutatione participant. Hae uero sunt affirmatio uniuersalis, negatio uniuersalis, affirmatio particularis,
+negatio particularis.
+Harum igitur particularis [785D] affirmatio particulariter quidem sibi ipsa conuertitur, uniuersali autem
+affirmationi per accidens, et rursus uniuersalis negatio, loco principe sui recipit conuersionem, ad particularem uero
+negationem per accidens conuerti potest.
+Affirmationis uero uniuersalis ad se ipsam perpetua non potest esse conuersio, ad particularem uero
+affirmationem per accidens potest. Nec uero negationis particularis ad se ipsam principaliter stabilis ac firma conuersio
+est sed negationi uniuersali secundo loco atque accidentaliter. Quae omnia facilius declarantur exemplis.
+Affirmatio enim particularis, ut ea quae proponit:
+Quidam homo albus est
+facile sibi ipsa conuertitur, si dicamus, quoddam album homo est, atque in utrisque simul ueritas constat. At si
+quis proponat quendam hominem esse lapidem, [786A] eamque conuertat dicens quemdam lapidem esse hominem,
+mansit in utrisque mendacium. Hoc igitur modo affirmatio particularis sui recipit conuersionem.
+Item negatio uniuersalis conuerti potest, ut si quis enuntiet nullum hominem esse lapidem, eamdemque
+conuersis terminis dicat nullum lapidem esse hominem, simul ueritatem tuentur. At si quis [786B] dicat nullum
+hominem esse animal, atque eamdem sub terminorum conuersione proponat dicens nullum animal esse hominem;
+neutra suam perdidit falsitatem. Hoc igitur modo uniuersalis quoque negatio sibi ipsa conuertitur, uniuersalis uero
+affirmatio non tenet perpetuam conuersionem: quamuis enim quoties de speciebus propria praedicentur conuerti
+uniuersales affirmationes queant, ut si quis dicat:
+Omnis homo risibilis est
+poterit terminorum ordinem permutare, omne risibile esse hominem, tamen non est haec aequalis atque in
+omnibus terminis fida conuersio. Quid enim cum quis ita proponit:
+Omnis homo animal est
+
+

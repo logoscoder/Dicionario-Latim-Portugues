@@ -1,0 +1,55 @@
+|+11 Lectio 11
+|#1 Postquam Philosophus determinavit de oppositione enunciationum, comparando universales enunciationes
+ad indefinitas, hic determinat de oppositione enunciationum comparando universales ad particulares.
+Circa quod considerandum est quod potest duplex oppositio in his notari: una quidem universalis ad
+particularem, et hanc primo tangit; alia vero universalis ad universalem, et hanc tangit secundo; ibi: contrariae
+vero etc..
+|#2 Particularis vero affirmativa et particularis negativa, non habent proprie loquendo oppositionem, quia
+oppositio attenditur circa idem subiectum; subiectum autem particularis enunciationis est universale
+particulariter sumptum, non pro aliquo determinato singulari, sed indeterminate pro quocumque; et ideo, cum de
+universali particulariter sumpto aliquid affirmatur vel negatur, ipse modus enunciandi non habet quod affirmatio
+et negatio sint de eodem: quod requiritur ad oppositionem affirmationis et negationis, secundum praemissa.
+|#3 Dicit ergo primo quod enunciatio, quae universale significat, scilicet universaliter, opponitur contradictorie
+ei, quae non significat universaliter sed particulariter, si una earum sit affirmativa, altera vero sit negativa (sive
+universalis sit affirmativa et particularis negativa, sive e converso); ut cum dicitur, omnis homo est albus, non
+omnis homo est albus: hoc enim quod dico, non omnis, ponitur loco signi particularis negativi; unde aequipollet
+ei quae est, quidam homo non est albus; sicut et nullus, quod idem significat ac si diceretur, non ullus vel non
+quidam, est signum universale negativum.
+Unde hae duae, quidam homo est albus (quae est particularis affirmativa), nullus homo est albus (quae est
+universalis negativa), sunt contradictoriae.
+|#4 Cuius ratio est quia contradictio consistit in sola remotione affirmationis per negationem; universalis autem
+affirmativa removetur per solam negationem particularis, nec aliquid aliud ex necessitate ad hoc exigitur;
+particularis autem affirmativa removeri non potest nisi per universalem negativam, quia iam dictum est quod
+particularis affirmativa non proprie opponitur particulari negativae. Unde relinquitur quod universali
+affirmativae contradictorie opponitur particularis negativa, et particulari affirmativae universalis negativa.
+|#5 Deinde cum dicit: contrariae vero etc., tangit oppositionem universalium enunciationum; et dicit quod
+universalis affirmativa et universalis negativa sunt contrariae; sicut, omnis homo est iustus, nullus homo est
+iustus, quia scilicet universalis negativa non solum removet universalem affirmativam, sed etiam designat
+extremam distantiam, in quantum negat totum quod affirmatio ponit; et hoc pertinet ad rationem contrarietatis; et
+ideo particularis affirmativa et negativa se habent sicut medium inter contraria.
+|#6 Deinde cum dicit: quocirca has quidem etc., ostendit quomodo se habeant affirmatio et negatio oppositae ad
+verum et falsum.
+Et primo, quantum ad contrarias; secundo, quantum ad contradictorias; ibi: quaecumque igitur contradictiones
+etc.; tertio, quantum ad ea quae videntur contradictoria, et non sunt; ibi: quaecumque autem in universalibus etc..
+Dicit ergo primo quod quia universalis affirmativa et universalis negativa sunt contrariae, impossibile est quod
+sint simul verae. Contraria enim mutuo se expellunt. Sed particulares, quae contradictorie opponuntur
+universalibus contrariis, possunt simul verificari in eodem; sicut, non omnis homo est albus, quae contradictorie
+opponitur huic, omnis homo est albus, et, quidam homo est albus, quae contradictorie opponitur huic, nullus
+homo est albus.
+Et huiusmodi etiam simile invenitur in contrarietate rerum: nam album et nigrum numquam simul esse possunt
+in eodem, sed remotiones albi et nigri simul possunt esse: potest enim aliquid esse neque album neque nigrum,
+sicut patet in eo quod est pallidum. Et similiter contrariae enunciationes non possunt simul esse verae, sed earum
+contradictoriae, a quibus removentur, simul possunt esse verae.
+|#7 Deinde cum dicit: quaecumque igitur contradictiones etc., ostendit qualiter veritas et falsitas se habeant in
+contradictoriis.
+Circa quod considerandum est quod, sicut dictum est supra, in contradictoriis negatio non plus facit, nisi quod
+removet affirmationem.
+Quod contingit dupliciter. Uno modo, quando est altera earum universalis, altera particularis, ut supra dictum est.
+Alio modo, quando utraque est singularis: quia tunc negatio ex necessitate refertur ad idem (quod non contingit
+in particularibus et indefinitis), nec potest se in plus extendere nisi ut removeat affirmationem. Et ideo singularis
+affirmativa semper contradicit singulari negativae, supposita identitate praedicati et subiecti.
+Et ideo dicit quod, sive accipiamus contradictionem universalium universaliter, scilicet quantum ad unam earum,
+sive singularium enunciationum, semper necesse est quod una sit vera et altera falsa. Neque enim contingit esse
+27
+
+

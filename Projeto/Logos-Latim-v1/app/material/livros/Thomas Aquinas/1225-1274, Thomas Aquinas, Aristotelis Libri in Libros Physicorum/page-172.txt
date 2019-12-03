@@ -1,0 +1,63 @@
+unitates unum numerum, et multae mensurae panni unam quantitatem panni. Et
+hoc verum est, quando accipitur mensura unius generis.
+Sic igitur patet quod tempus primo mensurat et numerat primum motum
+circularem, et per eum mensurat omnes alios motus. Unde est unum tempus
+tantum propter unitatem primi motus; et tamen quicumque sentit quemcumque
+motum, sentit tempus, eo quod ex primo motu causatur mutabilitas in omnibus
+mobilibus, ut supra dictum est.
+|#13
+Deinde cum dicit: dicitur autem recte etc., manifestat quoddam, quod
+supra dixerat, qualiter sit intelligendum.
+Dixerat enim quod idem est numerus septem canum et septem equorum. Quomodo
+ergo hoc sit verum ostendit: et dicit quod recte potest dici, si aequalis
+est numerus aliquarum rerum diversarum, puta ovium et canum, quod idem sit
+numerus utrorumque, ut puta si tam oves quam canes sint decem. Sed non
+potest dici quod hoc ipsum quod est esse decem, sit idem canum et ovium:
+non enim eadem decem sunt decem canes et decem oves. Et hoc ideo, quia
+genus potest cum additione unitatis vel identitatis praedicari de pluribus
+individuis existentibus in una specie, et similiter genus remotum de
+pluribus speciebus existentibus sub uno genere propinquo; neque tamen
+species de individuis, neque genus propinquum de speciebus diversis potest
+praedicari cum additione unitatis vel identitatis.
+Et huius consequenter ponit exemplum.
+Sunt enim duae species trianguli, scilicet aequilaterus, idest habens tria
+latera aequalia, et gradatus, idest habens tria latera inaequalia; figura
+autem est genus trianguli. Non ergo possumus dicere quod aequilaterus et
+gradatus sit idem triangulus; sed possumus dicere quod sunt eadem figura,
+quia utrumque continetur sub triangulo, qui est una species figurae.
+Et huius assignat rationem: quia cum idem et diversum seu differens
+opponantur, ibi possumus identitatem dicere, ubi differentia non invenitur;
+sed non possumus dicere identitatem, ubi invenitur differentia. Manifestum
+est autem quod aequilaterus et gradatus differunt ad invicem differentia
+trianguli, idest quae est proprie trianguli divisiva; et hoc ideo quia sunt
+diversae species trianguli. Sed aequilaterus et gradatus non differunt
+secundum differentiam figurae, sed sub una et eadem differentia divisiva
+figurae continentur.
+Et hoc sic patet. Si enim dividamus figuram in suas species, quae per
+differentias constituuntur, invenietur quod alia erit circulus, et alia
+triangulus, et sic de aliis speciebus figurae; sed si dividamus triangulum,
+inveniemus quod alia species eius est aequilaterus, et alia gradatus.
+Manifestum est igitur quod aequilaterus et gradatus sunt una figura, quia
+continentur sub una specie figurae, quae est triangulus: sed non sunt unus
+triangulus, quia sunt diversae trianguli species.
+Et similiter est in proposito. Numerus enim dividitur in diversas species,
+quarum una est decem. Omnia ergo quae sunt decem, dicuntur habere unum
+numerum; quia non differunt ad invicem secundum speciem numeri, cum
+contineantur sub una numeri specie. Sed non potest dici quod sint eadem
+decem; quia ea quibus applicatur numerus denarius, differunt, cum quaedam
+horum sint canes et quaedam equi.
+Videtur autem hoc introduxisse Aristoteles, ne aliquis ad sustinendam
+unitatem temporis sit contentus eo quod dicitur unum numerum esse aequalium
+numero, licet diversorum: quia licet sit idem denarius vel ternarius
+propter unitatem speciei, non tamen est idem denarius vel ternarius propter
+diversitatem quae est secundum numerum ex parte materiae. Unde secundum
+istam rationem sequeretur quod tempus esset unum specie, sed non numero.
+Et ideo ad accipiendam veram temporis unitatem, oportet recurrere ad
+unitatem primi motus, qui primo mensuratur tempore, et quo etiam mensuratur
+tempus.
+Ultimo autem epilogando concludit, dictum esse de tempore, et de iis quae
+sunt propria ad considerationem temporis.
+|*PHY.5 : LIBER 5
+172
+
+

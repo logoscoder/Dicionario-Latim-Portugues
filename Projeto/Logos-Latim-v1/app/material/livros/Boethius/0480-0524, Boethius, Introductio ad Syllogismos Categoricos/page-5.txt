@@ -1,0 +1,62 @@
+Socrates quidem ac sapiens terminos esse manifestom est. Est uero uerbum non est terminus sed designatio
+qualitatis, et qualis propositio sit negatiuam affirmatio significat, et nunc quidem solo est uerbo propositioni
+accommodato facta est affirmatio. At si non, quod est abuerbium negatiuam esset ad iunctum ita diceretur:
+Socrates sapiens non est
+atque hoc modo mutata qualitate fieret de affirmatione negatio.
+"Est" igitur et "non est" non sunt termini sed, ut dictum est, significatio qualitatis. Eadem omnia etiam in
+indefinita propositione conueniunt; quod si sint tales orationes: [769B]
+Socrates est, dies est
+"est" ui gemina fungitur, scilicet praedicati, est enim uerbum de Socrate et die praedicatum, et signi qualitatis,
+idem namque est solum positum affirmationem efficit, cum negatiuo aduerbio negationem. At si sint propositiones
+quae differentias secum habeant quantitatum, ut sunt uniuersales ac particulares, eadem uis permanet terminorum;
+"omnis" enim ac "nullus" et "quidam" terminis non annumerantur sed enuntiationem significant qualitatem.
+Atque ideo recte quod subiicitur ac praedicatur termini nuncupati sunt, quoniam in eos tantum resoluitur
+propositio. Caetera enim quae simplicibus enuntationibus adiunguntur, aut qualitatem propositionum retinent, aut
+quantitatem significant.
+Propositionum uero simplicium aliae sunt quae in nulla [769C] parte conueniunt, ut:
+Plato philosophus est
+et:
+Virtus bona est
+utraque enim aliud quiddam de alio praedicatur, nec babent aliquid in proponendi ratione commune. Illa enim
+Platonem philosophum dicit, illa uirtutem bonam esse pronuntiat. Aliae uero sunt quae aliqua terminorum
+participatione iunguntur. Id autem duobus fieri modis potest, aut enim ordine eodem, aut per ordinis commutationem.
+Eodem uero ordine duplici modo, si uel simplices terminos in utriusque constituas uel si per oppositionem fiat
+participatio terminorum: quod tribus neque amplius continget modis, nam uel praedicato, uel subiecto, uel utriusque
+terminis negatio copulatur. Ordinis etiam commutatione conueniunt duobus modis, aut enim per simplicem terminorum
+praedicationem, aut [769D] per eorumdem terminorum oppositionem. Haec quoque oppositio terminorum triplicem
+recipit modum, cum negatio uel praedicato, uel subiecto, uel utrisque coniungitur; illae uero quae altero termino
+participant et tribus modis, uel cum in una propositione quod praedicatur in altera subiectum est, uel cum idem in
+utriusque praedicatur, uel cum idem in utrisque subiectus est. Et quoniam omnium sibimet conuenientium
+propositionum ordinatissimam fecimus diuisionem, nunc de singulis quibusque tractemus, ac primum de ea
+propositionum conuenientia, quae cum utrisque participet terminis, participandi tamen ordinem seruent, ea est
+huiusmodi:
+Omnis homo sapiens est Nullus homo sapiens est.
+Utraque [770A] enim propositio hominem subiicit, et praedicat sapientiam, et cum utroque termino congruant,
+sunt tamen diuersae, quoniam haec affirmatio est, illa negatio. Et hoc quidem exempli gratia dictum sit, plenius uero
+fiet de tali participatione tractatus hoc modo.
+Cunctarum simplicium propositionum differentias, uel in qualitate, uel in quantitate sitas esse ostendimus; in
+quantitate cum uniuersaliter pronuntiat [F. pronuntiantur] uel particulariter uel indefinite, uel singulariter proferuntur, in
+qualitate uero cum hae quidem affirmatiuae sunt, illae uero negatiuae. Si igitur duas affirmatiuas aggregamus fiunt
+mixtae cum utrisque octo differentiae, quae simul qualitatem quantitatemque contineant. Sunt autem mixtae hae,
+affirmatio uniuersalis, negatio uniuersalis, affimatio particularis, [770B] negatio particularis, affirmatio indefinita,
+negatio indefinita, affirmatio singularis, negatio singularis.
+Quarum quidem indefinitas singularesque segregemus, et de uniuersalibus ac particularibus disseramus.
+Describatur ergo uniuersalis primum affirmatio:
+Omnis homo iustus est
+cuius aduersum tenet locum negatiua propositio uniuersalis:
+Nullus homo iustus est
+item sub uniuersali affirmatione ponatur particalaris affirmatio, quidam homo iustus est, hanc aduersa fronte
+respiciat, sitque uniuersali negatiuae supposita particularis negatio:
+Quidam homo iustus non est.
+Uniuersalis affirmatio:
+Omnis homo iustus est.
+Uniuersalis negatio:
+Nullus homo iustus est. [770C]
+Particularis affirmatio:
+Quidam homo iustus est
+Particularis negatio:
+Quidam homo iustus non est
+Harum igitur affirmatio atque negatio uniuersalis qualitate quidem discrepant sed quantitate concordant; nam
+quod haec quidem affirmatio est, illa uero negatiua est, sunt in qualitate diuersae, quia uero utraque unuersalis est
+
+

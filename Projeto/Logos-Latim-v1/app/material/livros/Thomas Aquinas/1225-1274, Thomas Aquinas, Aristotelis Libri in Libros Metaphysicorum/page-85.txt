@@ -1,0 +1,56 @@
+|+15 Lectio 15
+|#1 Postquam Philosophus inquisivit quae sunt principia, hic inquirit quomodo sunt.
+Et primo utrum sint in potentia vel in actu. Secundo utrum sint universalia vel singularia, ibi, et utrum
+universalia etc..
+Circa primum tria facit. Primo movet dubitationem. Secundo obiicit ad unam partem, ibi, nam si aliter etc..
+Tertio obiicit in contrarium, ibi, si vero potestate etc..
+Quaerit ergo primo, utrum prima principia sint in potentia, vel aliquo alio modo, idest in actu. Et haec dubitatio
+inducitur propter antiquos naturales, qui ponebant sola principia materialia, quae sunt in potentia. Platonici
+autem ponentes species quasi principia formalia, ponebant eas esse in actu.
+|#2 Deinde cum dicit nam si aliter probat quod principia sint in potentia. Si enim essent aliter, scilicet in actu,
+sequeretur quod aliquid esset prius principiis; potentia enim actu prius est. Quod patet ex hoc, quod prius est a
+quo non convertitur consequentia essendi: sequitur autem si est, quod possit esse; non autem ex necessitate
+sequitur, si est possibile, quod sit actu. Hoc autem est inconveniens quod aliquid sit prius primo principio; ergo
+impossibile quod primum principium sit aliter quam in potentia.
+|#3 Deinde cum dicit si vero obiicit in contrarium; quia si principia rerum sint in potentia, sequitur quod nihil sit
+entium in actu; nam illud quod est possibile esse, nondum est ens. Et hoc probat per hoc quod id quod fit, non est
+ens; quod enim est, non fit. Sed nihil fit nisi quod possibile est esse; ergo omne quod est possibile esse, est non
+ens. Si igitur principia sint tantum in potentia, erunt non entia. Si autem principia non sint, nec effectus sunt:
+sequitur ergo quod contingit nihil esse in entibus. Et concludit epilogando quod secundum praedicta necessarium
+est dubitare de principiis propter praemissas rationes.
+|#4 Haec autem quaestio determinabitur in nono huius, ubi ostendetur quod actus est simpliciter prior potentia,
+sed potentia est prior actu tempore in eo quod movetur de potentia ad actum. Et sic oportet primum principium
+esse in actu et non in potentia ut ostendit in duodecimo huius.
+|#5
+Deinde cum dicit et utrum inquirit utrum principia sint per modum universalium aut per modum
+singularium: et circa hoc tria facit.
+Primo proponit dubitationem. Secundo obiicit ad unam partem, ibi, nam si universalia etc.. Tertio obiicit ad
+aliam, ibi, si autem non universalia etc..
+Est ergo dubitatio, utrum principia sint universalia, vel existant per modum quorumdam singularium.
+|#6 Deinde cum dicit nam si probat quod principia non sunt universalia tali ratione. Nullum communiter
+praedicatum de multis significat hoc aliquid, sed significat tale sive quale; non quidem secundum qualitatem
+accidentalem, sed secundum qualitatem substantialem; est enim quaedam substantialis qualitas, ut infra in quinto
+huius dicetur. Et ratio huius est quia hoc aliquid dicitur secundum quod in se subsistit; quod autem in se subsistit,
+non potest esse in multis ens, quod est de ratione communis. Quod enim in multis est, in se subsistens non est;
+nisi et ipsum esset multa, quod est contra rationem communis.
+Nam commune est, quod est unum in multis. Sic igitur patet, quod nullum communium significat hoc aliquid,
+sed significat formam in multis existentem.
+|#7 Addit autem minorem, scilicet quod substantia significat hoc aliquid. Et hoc quidem verum est quantum ad
+primas substantias, quae maxime et proprie substantiae dicuntur, ut habetur in praedicamentis: huiusmodi enim
+substantiae sunt in se subsistentes. Relinquitur ergo quod principia, si sunt universalia, non sunt substantiae.
+Et ita vel substantiarum non erunt aliqua principia, vel oportebit dicere quod non sint substantiae substantiarum
+principia.
+|#8
+Sed quia aliquis posset concedere quod aliquid communiter praedicatum significet hoc aliquid,
+consequenter diluitur cum dicit sed si est.
+Ostendit quod inconveniens ex hoc sequitur.
+Si enim id quod communiter praedicatur sit hoc aliquid, sequeretur quod omne id de quo illud commune
+praedicatur, sit hoc aliquid quod est commune. Sed planum est, quod de socrate praedicatur et homo et animal,
+quorum utrumque, scilicet homo et animal, est quoddam commune praedicatum. Unde si omne commune
+praedicatum sit hoc aliquid, sequitur quod socrates sit tria hoc aliquid, quia socrates est socrates, quod est hoc
+aliquid: ipse etiam est homo, quod est secundum praedicta hoc aliquid: ipse etiam est animal, quod similiter est
+hoc aliquid. Erit ergo tria hoc aliquid. Et ulterius sequitur quod sit tria animalia: nam animal praedicatur de ipso
+et de homine et de socrate.
+85
+
+

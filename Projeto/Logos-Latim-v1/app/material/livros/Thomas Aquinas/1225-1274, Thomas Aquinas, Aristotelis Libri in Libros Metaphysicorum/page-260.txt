@@ -1,0 +1,56 @@
+|#9 Deinde cum dicit palam autem ponit comparationem quorumdam modorum potentiae superius sub eis
+positorum.
+Dictum est supra quod aliquid dicitur habere potentiam activam vel passivam, quandoque quidem ex hoc solum
+quod potest agere vel pati, quandoque vero ex hoc quod potest bene agere vel pati. Dicit ergo quod ad potentiam
+bene faciendi vel patiendi sequitur potentia faciendi, sed non e converso. Sequitur enim, si aliquis benefacit,
+quod faciat, sed non e converso.
+|+3 Lectio 3
+|#1 Postquam Philosophus comparavit superius potentias adinvicem, hic incipit ostendere quomodo potentia et
+actus se habent in eodem subiecto: et dividitur in duas partes.
+In prima excludit quorumdam falsas opiniones.
+In secunda determinat veritatem, ibi, omnibus autem potentiis.
+Prima autem dividitur in duas. In prima excludit opinionem dicentium nihil esse possibile, nisi quando est actu.
+In secunda excludit opinionem dicentium e converso omnia esse possibilia, licet non sint actu, ibi, si autem est
+quod dictum est possibile.
+Circa primum duo facit. Primo excludit dictam positionem erroneam. Secundo ostendit quid sit esse possibile, et
+quid sit esse actu, ibi, est autem possibile.
+Circa primum tria facit. Primo ponit opinionem. Secundo destruit eam, ibi, quibus accidentia etc.. Tertio
+concludit suam intentionem, ibi, si ergo non contingit.
+Dicit ergo primo, quod quidam dixerunt quod tunc solum est aliquid in potentia, quando est in actu; utputa quod
+ille qui non aedificat actu, non potest aedificare; sed tunc solum potest, quando actu aedificat. Et similiter dicunt
+de aliis. Et ratio huius positionis esse videtur, quia opinabantur quod omnia ex necessitate contingerent
+secundum aliquam commixtionem causarum. Et sic, si omnia ex necessitate eveniunt, sequitur quod ea quae non
+eveniunt, non possibile est esse.
+|#2 Deinde cum dicit quibus accidentia ponit rationes contra praedictam positionem ducentes ad inconvenientia:
+quarum prima talis est. Aedificantem esse, est esse potentem aedificare. Si igitur nullus est potens facere nisi
+quando facit, non est aliquis aedificator nisi quando aedificat; et similiter est de aliis artibus. Nam omnes artes
+sunt potentiae quaedam, ut dictum est. Sequitur ergo quod nullus habeat artem aliquam, nisi quando secundum
+eam operatur.
+|#3 Sed id ostenditur impossibile, suppositis duobus: quorum unum est, quod ille, qui prius non habuit aliquam
+artem, impossibile est quod eam habeat postmodum, nisi addiscat eam, vel eam aliquo modo accipiat, scilicet
+inveniendo.
+|#4 Aliud est, quod si quis habuit aliquam artem, impossibile est eum postmodum non habere eamdem, nisi eam
+aliquo modo abiiciat, vel per oblivionem, aut per aliquam infirmitatem, aut per longitudinem temporis, quo
+aliquis scientia non utitur. Haec enim est causa oblivionis. Non autem potest esse quod aliquis amittat artem
+corrupta re, sicut quandoque convenit quod vera cognitio amittitur mutata re; ut cum quis opinatur vere socratem
+sedere, eo surgente perit eius vera opinio: hoc autem non potest dici circa artem. Nam ars non est cognitio eius
+quod est, sed eius quod faciendum est. Et ita quamdiu durat materia, ex qua ars potest aliquid facere, semper res
+artis est. Unde non potest ars amitti corrupta re nisi modis praemissis.
+|#5 Ex his autem duobus propositis Philosophus sic arguit. Si aliquis non habet artem nisi quando ea utitur, tunc
+quando incipit uti, de novo habet artem; ergo oportet vel quod discat eam, vel qualitercumque acquirat eam. Et
+similiter quando desinit uti arte, sequitur quod arte careat; et ita amittet artem quam prius habebat, vel oblivione,
+vel passione, vel tempore.
+Quorum utrumque patet esse falsum.
+Non igitur verum est quod solum tunc aliquis habeat potentiam quando operatur.
+|#6 Deinde cum dicit et inanimata secundam rationem ponit, quae quidem procedit in irrationabilibus, quae sunt
+in rebus inanimatis, scilicet calidum et frigidum, dulce et amarum, et alia huiusmodi, quae sunt principia activa
+immutantia sensus, et ita sunt quaedam potentiae.
+Si igitur potentia non inest alicui nisi quando agit, sequitur quod nihil est calidum vel frigidum, dulce vel
+amarum, et huiusmodi, nisi quando sentitur immutans sensum.
+Hoc autem patet esse falsum. Nam si hoc esset verum, sequeretur quod opinio Protagorae esset vera, quae
+dicebat omnes proprietates et naturas rerum consistere solum in sentiri et opinari. Ex quo consequebatur
+contradictoria simul esse vera, cum diversi circa idem contradictorie opinentur.
+
+260
+
+

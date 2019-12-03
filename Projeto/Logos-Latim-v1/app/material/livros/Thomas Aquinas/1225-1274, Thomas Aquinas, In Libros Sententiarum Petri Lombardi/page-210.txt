@@ -1,0 +1,63 @@
+Contra, secundum Philosophum, unum opponitur multitudini, sicut privatio habitui. Sed privatio non praedicat
+aliquid positive.
+Ergo nec unum. Sed ex unitatibus constituitur numerus.
+Ergo nec numerus aliquid positive praedicat.
+SC2
+Praeterea, Philosophus dicit, quod unum dicitur ex eo quod non dividitur. Sed hoc est negatio tantum. Ergo
+videtur quod unum nihil positive praedicet, et eadem ratione nec numerus ex unitatibus constitutus.
+CO
+Respondeo dicendum, quod de quidditate unitatis invenitur diversitas et inter Philosophos et inter Magistros.
+Avicenna enim dicit, quod unum quod convertitur cum ente, est idem quod unum quod est principium numeri; et
+multitudo quae est numerus, est idem quod multitudo quae dividit ens; et sic vult quod utrumque aliquid positive
+addat supra ea quibus adjungitur, eo quod in uno intelligitur esse non solum sicut in subjecto, sed sicut illud
+quod clauditur in intellectu suo. Unde unum est quoddam esse quod non dividitur. Et istud esse non dicit quod sit
+esse substantiae: quia sic non inveniretur in accidentibus unitas et numerus. Nec etiam est esse commune ad
+substantiam et ad accidens, quia sic inveniretur aliquis numerus qui non esset accidens.
+Sed dicit, quod est esse accidentis, et per illud esse adveniens post esse completum substantiae dicitur substantia
+una; sicut per esse albedinis dicitur esse substantia alba; et inde probat quod numerus est accidens tantum. Et
+secundum hoc unitas dicit intentionem accidentalem, et ex aggregatione talium intentionum efficitur numerus,
+qui est species quantitatis. Et hanc positionem sequentes quidam theologi, dicunt, quod unitas et numerus
+transferuntur in divinam praedicationem, non quantum ad esse accidentis vel quantitatis, sed quantum ad
+rationem propriam unitatis vel numeri: et ita positive aliquid in Deo praedicant, sicut scientia et bonitas, et alia
+quae sic de Deo dicuntur.
+Alii Philosophi, scilicet Aristoteles et Averroes, dicunt, quod unum et multa quae dividunt ens, non sunt idem
+cum uno quod est species quantitatis. Et hoc rationabile est.
+Non enim convenit aliquid contentum sub inferiori esse differentiam superioris, sicut rationale non est differentia
+substantiae. Unde nec multitudo quae est sub quantitate, potest esse differentia entis simpliciter.
+Dicunt ergo, quod unum quod convertitur cum ente, nihil positive addit ad id cui adjungitur, eo quod res non
+dicitur esse una per aliquam dispositionem additam: quia sic esset abire in infinitum, si ista etiam dispositio, cum
+sit una, per aliquam aliam unitatem una esset. Unde dicunt, quod unum claudit in intellectu suo ens commune, et
+addit rationem privationis vel negationis cujusdam super ens, idest indivisionis. Unde ens et unum convertuntur,
+sicut quae sunt idem re, et differunt per rationem tantum, secundum quod unum addit negationem super ens.
+Unde si consideretur ratio unius quantum ad id quod addit supra ens, non dicit nisi negationem tantum: et eadem
+ratione multitudo non addit supra res multas nisi rationem quamdam, scilicet divisionis. Sicut enim unum dicitur
+ex eo quod non dividitur, ita multa dicuntur ex eo quod dividuntur; prima autem ratio divisionis, secundum quam
+aliquid ab aliquo distinguitur, est in affirmatione et negatione; et ideo multitudo dicit in ratione sua negationem,
+secundum scilicet quod multa sunt quorum unum non est alterum: et hujusmodi divisionis hoc modo acceptae in
+ratione multitudinis, negatio importatur in ratione unius.
+Et sic accepta, unum, et multa sunt de primis differentiis entis, secundum quod ens dividitur in unum et multa et
+in actum et in potentiam. Unde sic accepta non determinantur ad aliquod genus; et sic haec multitudo sic accepta
+non est numerus qui est species quantitatis: nec hoc unum sic acceptum, est unum quod est principium numeri.
+Sed secundum praedictos Philosophos, Aristotelem, Averroem et Avicennam, unum, secundum quod est
+principium numeri, ponit aliquid additum ad esse, scilicet esse mensurae, cujus ratio primo invenitur in unitate,
+et deinde consequenter in aliis numeris et deinceps in quantitatibus continuis; et deinde translatum est hoc nomen
+ad alia omnia genera, ut dicit Philosophus. Quidam vero medium inter utrumque tenent, consentientes Aristoteli
+in hoc quod unum quod convertitur cum ente, non addit aliquid positive supra id cui adjungitur; Avicennae vero
+in hoc quod dicit, unum, secundum quod est principium numeri, et secundum quod convertitur cum ente, esse
+idem, et non differre nisi ratione; et sic, secundum eos, addit aliquid positive supra id cui adjungitur. Ratio autem
+eorum quod unum utroque modo differat tantum ratione, est. Cum enim unum sequatur actum formae
+distinguentis, ex hoc quod forma dat esse, habet unum quod convertitur cum ente; sed ex secundo actu formae,
+qui est distinguere ab aliis, habet quod sit principium numeri, et quod computetur in genere accidentis: quia ista
+distinctio secundum rationem sequitur esse completum. Sed hoc non potest stare: quia si unitas quae est
+principium numeri, dicatur secundum rationem privationis, tunc non erit aliquid nisi in anima; ita etiam nec
+numerus cujus est principium, unde non posset esse species in aliquo genere. Est ergo differentia inter duas
+opiniones primas, quia prima non distinguit inter unum et multa, prout sunt in genere quantitatis, et prout sunt
+primae differentiae entis; secunda autem opinio distinguit, ut dictum est, Paulo Sup., et hanc credo esse
+veriorem. Dico ergo secundum hanc, quod numerus et unitas, secundum quod sunt in genere quantitatis, non
+inveniuntur nisi in quibus invenitur commensuratio quantitatis: unde inveniuntur tantum in rebus habentibus
+quantitatem continuam; unde Philosophus dicit, quod numerum cognoscimus divisione continui: et hic tantum
+numerus est subjectum arithmetici, ut etiam Avicenna dicit. Unde iste numerus et unitas non venit in divinam
+praedicationem; sed tantum unum et multitudo secundum quod sunt de aliis quae consequuntur universaliter ens:
+210
+
+

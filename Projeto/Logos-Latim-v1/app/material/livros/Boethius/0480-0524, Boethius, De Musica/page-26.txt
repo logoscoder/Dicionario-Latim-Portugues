@@ -1,0 +1,61 @@
+LIBER TERTIUS
+primum
+[1223] Aduersus Aristoxenum demonstratio superparticularem proportionem diuidi in aequa non posse, atque
+ideo nec tonum.
+Superiore uolumine demonstratum est diatessaron consonantiam ex duobus tonis copulari ac semitonio,
+diapentes uero ex tribus tonis ac semitonio constare. Sed ea semitonia dimidium toni integrum non posse perficere, si
+sigillatim considerata tractentur, atque ideo diapason ad sex tonos nullo modo peruenire. Sed quoniam Aristoxenus
+musicus, iudicio aurium cuncta permittens, haec semitonia non arbitratur esse secundum Pythagoricos contractiora
+dimidio sed sicut semitonia dicuntur, ita esse dimidietates tonorum, de eisdem rursus paulisper est disputandum,
+demonstrandumque prius nullam superparticularem habitudinem noto numero posse diuidi in integram medietatem.
+Inter duos enim numeros superparticularem proportionem continentes, siue illi sint principales, quorum est unitas
+differentia, siue posteriores, nullus ita poterit medius numerus collocari, ut quam minimus proportionem tenet ad
+medium, eam medius teneat ad extremum, scilicet ut in geometrica proportione sed aut differentias aequas facere
+potest, ut sit aequalitas secundum arithmeticam medietatem, aut harmonicam inter eosdem terminos medius numerus
+collocatus faciet medietatem, aut quamlibet aliam, quarum in arithmeticis fecimus mentionem. Quod si id
+demonstrabitur, nec illud quidem constare poterit, sesquioctauam proportionem, quae tonus est in dimidia posse
+discerni, quandoquidem sesquioctaua omnis insuperparticulari inaequalitatis genere consistit. Id uero melius inductione
+monstrabitur. Nam si per singulas proportiones consideratione deducta, scilicet superparticulares, nulla prorsus occurrit
+quae, interposito medio termino, aequis proportionibus diuidatur, non est dubium quod superparticularis comparatio
+non possit in aequa partiri. Quod si uidetur consonum auribus aliquid canere, cum cuilibet [1224] uoci duobus tonis ac
+semitonio integro distans uocula comparetur, id non esse consonum natura monstratur. Sed quoniam sensus omnis quae
+minima sunt comprehendere nequeat, idcirco hanc differentiam, quae ultra consonum procedit, sensum aurium non
+posse distinguere, fore autem ut deprehendatur, si frequentissime talis particula per eosdem crescat errores. Nam quod
+in minimo haud sane cernitur, compositum coniunctumque cum iam magnum esse coeperit peruidetur. A qua igitur
+proportione est ordiendum an compendium dabimus quaestioni, si ab eo de quo quaeritur ordiamur. Id uero est tonus, in
+duo aequa possit partiri necne. Nunc igitur de tono est pertractandum, et quemadmodum non possit in duo aequa diuidi
+demonstrandum est. Quam demonstrationem si quis ad reliquas superparticulares comparationes transferat, similiter
+demonstrabitur superparticularem in aequa noto atque integro numero separari non posse. Primi igitur tonum
+continentes numeri sunt 8 atque 9. Sed quoniam se isti ita naturaliter consequuntur, ut medius inier eos numerus non sit,
+eosdem binario, quo scilicet minimo possum, mulplico. Fiunt igitur 16 ac 18, inter hos uero naturaliter numerus cadit
+qui est 17; igitur 18 ad 16 tonus est. Sed 10 et 8 ad 10 et 7, comparatus habet eum tonum, et eius septimam decimam
+partem. Septima decima uero pars minor est sexta decima naturaliter. Maior est igitur proportio quae sub 16 ac 17
+numeris continetur, quam ea quae sub 17 ac 18. Qui disponantur hoc modo, et sit A 16, C 17, B 18. Medietas igitur
+integra toni inter C ac B nullo modo cadet. Minor est enim C B proportio C A proportione. Ad maiorem igitur partem
+medietas rata ponenda est. Sit uero medietas D. Quoniam igitur D B quidem proportio, quod est integrum dimidium
+toni, maior est C B proportione, quae est minor pars toni, A C autem proportio quae est maior pars toni A D
+proportione maior est, quod est dimidium toni, est autem A C proportio sesquisextadecima, C B autem
+sesquiseptimadecima, non est dubium quin integra medietas inter sesquisextamdecimam [1225] ac
+sesquiseptimamdeciam cadat. Sed hoc integro numero nullo modo poterit inueniri.
+[PLLXIII:1225; text: Integra toni medietas. Integra toni medietas si dari queat. 16, 17, 18, A, D, C, B, Diesis
+homiionium minus, Comma, Sesquiseprima decima pportio Diesis hemitoniuminus minor toni pars, Apotome 16
+pportirotio, Acotomo mair touu pars, Tonus sesquioctaua proportio. Totum hoc spatium.] [BOEDIM3 01GF]
+Quoniam uero ad 16 numerum 17 numerus comparatus, supersesquisextamdecimam obtinet proportionem, si
+eiusdem 17 numeri sextam decimam requiramus, erit unitas, atque unitatis pars 16, hanc si eidem 17 numero
+coniungamus, fiunt 18 et pars sexta decima. Si igitur 18 et pars sexta decima 16 numero comparetur, recte toni
+mensuram uidetur excedere, cum ad eum solus 18 numerus sesquioctauam custodiat proportionem. Unde fit ut quoniam
+supersesquisextadecima proportio tonum bis aucta transcendit, non sit integrum toni dimidium.
+Quidquid enim bis ductum transcendit aliquid, id ultra dimidium illius esse uidebitur quod transcendit.
+Quocirca super sesquisextadecima, non erit toni dimidium. Ac per hoc, nec alia ulla maior sesquisextadecima
+proportione toni poterit esse dimidium, cum ipsa sesquisextadecima integro toni dimidio sit maior. Sed quoniam,
+sesquisextamdecimam proportionem continua sequitur sesquiseptimadecima, uideamus an ea tonum bis multiplicata
+non impleat, 17 igitur numeri sesquiseptimamdecimam partem tenet terminus 18. In eadem igitur proportione si ad 18
+numerum alium comparemus, erit 19 et septimadecima pars. Quod si ad 17 terminum in sesquioctaua proportione
+positum numerum comparemus, fient 19, et pars octaua. Maior uero est pars octaua parte septima decima. Maior igitur
+est proportio numerorum 17 ac 19 et octaua quam ea quae in 17 ac 19 et parte septima decima continetur, quae sunt
+scilicet bis sesquiseptimaedecimae proportiones.
+Duae igitur sesquiseptimaedecimae unum tonum non uidentur implere. Non est igitur sesquiseptimadecima
+toni dimidium, quoniam quae duplicata non implet integrum non continet dimidium. Semper enim dimidium
+duplicatum e cuius dimidium est coaequatur.
+
+

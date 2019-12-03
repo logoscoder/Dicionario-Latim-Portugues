@@ -1,0 +1,61 @@
+[82909] In Metaphysic., lib. 7 l. 4 n. 13
+Secundum est, quod quaedam accidentia sunt simplicia, et quaedam copulata. Simplicia dicuntur, quae non habent
+subiectum determinatum, quod in eorum definitione ponatur, sicut curvum et concavum et alia mathematica. Copulata
+autem dicuntur, quae habent determinatum subiectum, sine quo definiri non possunt.
+[82910] In Metaphysic., lib. 7 l. 4 n. 14
+Est ergo dubitatio, si aliquis velit dicere quod ratio, quae est ex additione, non est definitio illorum accidentium quae
+sunt simplicia, sed copulatorum erit definitio. Videtur enim, quod nullius eorum possit esse definitio. Palam est ergo,
+quod si illa definiuntur, necesse est eorum definitionem ex additione facere, cum sine propriis subiectis definiri non
+possint. Sicut si accipiamus haec tria, idest nasus, et concavitas, et simitas: concavitas est simpliciter accidens,
+praecipue in comparatione ad nasum, cum non sit nasus de intellectu concavi. Simitas autem est accidens compositum,
+cum sit nasus de intellectu eius. Et ita simitas erit quoddam dictum ex duobus, inquantum significat hoc in hoc, idest
+determinatum accidens in determinato subiecto, et nec concavitas nec simitas est passio nasi secundum accidens, sicut
+album inest Calliae et homini per accidens, inquantum Callias est albus, cui accidit hominem esse. Sed simum est
+passio nasi secundum se. Naso enim inquantum huiusmodi competit esse simum. Alia autem translatio loco eius quod
+est concavum, habet aquilinum. Et est planior sensus; quia in definitione aquilini ponitur nasus, sicut in definitione
+simi. Sed sicut masculinum per se competit animali, et aequale quantitati, et omnia alia quaecumque secundum se
+dicuntur existere in aliquo, quia de omnibus est eadem ratio, et huiusmodi sunt in quibus, idest in quorum rationibus
+existit nomen eius cuius est passio, idest substantia, aut etiam ratio eius. Semper enim in definitionibus potest poni ratio
+loco nominis: sicut si dicimus quod homo est animal rationale mortale, potest poni loco nominis animalis definitio, ut
+dicatur quod homo est substantia animata sensibilis rationalis mortalis. Similiter si dicam quod masculus est animal
+potens generare in alio, possum etiam dicere quod masculus est substantia animata sensibilis potens generare in aliquo
+alio.
+[82911] In Metaphysic., lib. 7 l. 4 n. 15
+Et sic patet, quod non contingit separatim ostendere, idest notificare aliquod praedictorum accidentium quae diximus
+copulata, sicut contingit notificare album sine hoc quod in eius definitione sive ratione ponatur homo. Sed non contingit
+ita notificare femininum sine animali; quia oportet quod animal ponatur in definitione feminini sicut et in definitione
+masculini. Quare patet, quod non est alicuius praedictorum accidentium copulatorum quod quid erat esse et definitio
+vera, si nulla definitio est ex additione, sicut contingit in definitionibus substantiarum.
+[82912] In Metaphysic., lib. 7 l. 4 n. 16
+Aut si est aliqua definitio eorum, cum non possint nisi ex additione definiri, aliter erit definitio eorum quam
+substantiarum, quemadmodum diximus in solutione secunda. Et sic in hac conclusione innuit solutionem dubitationis
+praemissae. Quod enim dicebatur, quod nulla definitio est ex additione, verum est de definitione prout invenitur in
+substantiis. Sic autem praedicta accidentia non habent definitionem, sed alio modo per posterius.
+[82913] In Metaphysic., lib. 7 l. 4 n. 17
+Deinde cum dicit est autem ponit secundam dubitationem: circa quam duo facit. Primo movet dubitationem. Secundo
+ponit solutionem, ibi, sed latet et cetera. Dicit ergo primo, quod est alia dubitatio de praedictis. Aut enim est idem
+dicere nasus simus et nasus concavus, aut non. Si idem, sequetur quod idem sit simum et concavum: quod patet esse
+falsum, cum alia sit definitio utriusque.
+[82914] In Metaphysic., lib. 7 l. 4 n. 18
+Si autem non est idem dicere nasum simum et nasum concavum, propter hoc quod simum non potest intelligi sine re
+cuius est per se passio, idest sine naso, cum simum sit concavitas in naso, concavum vero potest dici sine naso;
+sequetur, si hoc quod dico simum plus habet quam concavum, quod hoc, scilicet quod est nasus, vel non possit dici
+nasus simus, vel si dicatur, erit bis idem dictum, ut dicamus, quod nasus simus est nasus nasus concavus. Semper enim
+loco nominis potest poni definitio illius nominis. Unde cum dicitur nasus simus, poterit removeri nomen simi, et addi
+naso definitio simi, quae est nasus concavus. Sic ergo videtur dicere, quod nasum simum, nihil aliud est quam dicere,
+nasum nasum concavum, quod est inconveniens. Propter quod, inconveniens videtur dicere quod in talibus accidentibus
+sit quod quid erat esse.
+[82915] In Metaphysic., lib. 7 l. 4 n. 19
+Quod si hoc non est verum, quod in eis non sit quod quid erat esse, in infinitum fiet repetitio eiusdem nominis, semper
+posita nominis definitione pro nomine. Constat enim, quod cum dico, nasus concavus, loco concavi potest accipi
+simum, quia concavitas in naso non est nisi simitas, et loco simi iterum nasus concavus, et sic in infinitum.
+[82916] In Metaphysic., lib. 7 l. 4 n. 20
+Palam est itaque, ut videtur, quod solius substantiae est definitio. Si enim esset aliorum praedicamentorum, oporteret
+quod esset ex additione subiecti, sicut definitio aequalitatis et definitio imparis oporteret quod sumeretur ex definitione
+suorum subiectorum. Non enim definitio imparis est sine numero; nec definitio feminini, quod significat quamdam
+qualitatem animalis, est sine animali. Si ergo definitio aliquorum est ex additione, sequetur quod bis accidat idem
+dicere, sicut in praemissis est ostensum. Unde, si verum est quod hoc inconveniens sequatur, sequitur quod accidentia
+copulata non habent definitionem.
+[82917] In Metaphysic., lib. 7 l. 4 n. 21
+
+

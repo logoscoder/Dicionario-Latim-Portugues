@@ -1,0 +1,55 @@
+OPERA OMNIA
+SANCTI THOMAE AQUINATIS
+-----oOo----Textum electronicum praeparavit et indexavit
+Ricardo M. Rom n, S. R. E. Presbyterus
+Bonis Auris, MCMXCVIII
+
+|*ARISTOTELIS_LIBRI
+|*PHYSICORUM
+IN LIBROS PHYSICORUM
+|*PHY.1 : LIBER 1
+|+1
+
+Lectio 1
+
+|#1
+Quia liber physicorum, cuius expositioni intendimus, est primus liber
+scientiae naturalis, in eius principio oportet assignare quid sit materia
+et subiectum scientiae naturalis.
+Sciendum est igitur quod, cum omnis scientia sit in intellectu, per hoc
+autem aliquid fit intelligibile in actu, quod aliqualiter abstrahitur a
+materia; secundum quod aliqua diversimode se habent ad materiam, ad
+diversas scientias pertinent.
+Rursus, cum omnis scientia per demonstrationem habeatur, demonstrationis
+autem medium sit definitio; necesse est secundum diversum definitionis
+modum scientias diversificari.
+|#2
+Sciendum est igitur quod quaedam sunt quorum esse dependet a materia,
+nec sine materia definiri possunt: quaedam vero sunt quae licet esse non
+possint nisi in materia sensibili, in eorum tamen definitione materia
+sensibilis non cadit. Et haec differunt ad invicem sicut curvum et simum.
+Nam simum est in materia sensibili, et necesse est quod in eius definitione
+cadat materia sensibilis, est enim simum nasus curvus; et talia sunt omnia
+naturalia, ut homo, lapis: curvum vero, licet esse non possit nisi in
+materia sensibili, tamen in eius definitione materia sensibilis non cadit;
+et talia sunt omnia mathematica, ut numeri, magnitudines et figurae.
+Quaedam vero sunt quae non dependent a materia nec secundum esse nec
+secundum rationem; vel quia nunquam sunt in materia, ut Deus et aliae
+substantiae separatae; vel quia non universaliter sunt in materia, ut
+substantia, potentia et actus, et ipsum ens.
+|#3
+De huiusmodi igitur est metaphysica: de his vero quae dependent a
+materia sensibili secundum esse sed non secundum rationem, est mathematica:
+de his vero quae dependent a materia non solum secundum esse sed etiam
+secundum rationem, est naturalis, quae physica dicitur.
+Et quia omne quod habet materiam mobile est, consequens est quod ens mobile
+sit subiectum naturalis philosophiae. Naturalis enim philosophia de
+naturalibus est; naturalia autem sunt quorum principium est natura; natura
+autem est principium motus et quietis in eo in quo est; de his igitur quae
+habent in se principium motus, est scientia naturalis.
+|#4
+Sed quia ea quae consequuntur aliquod commune, prius et seorsum
+determinanda sunt, ne oporteat ea multoties pertractando omnes partes
+1
+
+

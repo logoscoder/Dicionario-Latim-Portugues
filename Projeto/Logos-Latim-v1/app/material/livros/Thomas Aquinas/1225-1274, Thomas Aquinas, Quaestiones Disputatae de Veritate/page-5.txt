@@ -1,0 +1,63 @@
+animam, sicut nec cum ipsa convertitur: converti enim est conversim praedicari; ergo nec verum convertetur cum
+ente; quod est falsum.
+AG3
+Praeterea, omne quod est in aliquo, consequitur id in quo est. Si ergo veritas principaliter est in anima, tunc
+iudicium de veritate erit secundum aestimationem animae; et ita redibit antiquorum Philosophorum error, qui
+dicebant, omne quod quis opinatur in intellectu esse verum, et duo contradictoria simul esse vera; quod est
+absurdum.
+AG4
+Praeterea, si veritas principaliter est in intellectu, oportet quod aliquid quod ad intellectum pertinet, in definitione
+veritatis ponatur. Sed Augustinus huiusmodi definitionem reprobat in Lib. Solil., sicut istam: verum est quod ita
+est ut videtur: quia secundum hoc, non esset verum quod non videtur; quod patet esse falsum de occultissimis
+lapillis, qui sunt in visceribus terrae; et similiter reprobat et improbat istam: verum est quod ita est ut cognitori
+videtur, si velit et possit cognoscere, quia secundum hoc non esset aliquid verum, nisi cognitor vellet et posset
+cognoscere. Ergo et eadem ratio esset de quibuscumque aliis definitionibus in quibus aliquid ad intellectum
+pertinens poneretur. Ergo veritas non est principaliter in intellectu.
+SC1
+Contra. Philosophus dicit in VI metaphysic.: non est falsum et verum in rebus sed in mente.
+SC2
+Praeterea, veritas est adaequatio rei et intellectus. Sed haec adaequatio non potest esse nisi in intellectu. Ergo nec
+veritas est nisi in intellectu.
+CO
+Solutio. Dicendum, quod non oportet in illis quae dicuntur per prius et per posterius de multis, quod illud prius
+recipiat praedicationem communis, quod est ut causa aliorum, sed illud in quo est primo ratio illius communis
+completa; sicut sanum per prius dicitur de animali, in quo primo perfecta ratio sanitatis invenitur, quamvis
+medicina dicatur sana ut effectiva sanitatis. Et ideo, cum verum dicatur per prius et posterius de pluribus, oportet
+quod de illo per prius dicatur in quo primo invenitur completa ratio veritatis.
+Complementum autem cuiuslibet motus vel operationis est in suo termino. Motus autem cognitivae virtutis
+terminatur ad animam: oportet enim quod cognitum sit in cognoscente per modum cognoscentis: sed motus
+appetitivae terminatur ad res; inde est quod Philosophus in III de anima ponit circulum quemdam in actibus
+animae, secundum, scilicet, quod res quae est extra animam, movet intellectum, et res intellecta movet
+appetitum, et appetitus tendit ad hoc ut perveniat ad rem a qua motus incepit.
+Et quia bonum, sicut dictum est, dicit ordinem entis ad appetitum, verum autem dicit ordinem ad intellectum;
+inde est quod Philosophus dicit VI metaphys., quod bonum et malum sunt in rebus, verum autem et falsum sunt
+in mente. Res autem non dicitur vera nisi secundum quod est intellectui adaequata; unde per posterius invenitur
+verum in rebus, per prius autem in intellectu.
+Sed sciendum, quod res aliter comparatur ad intellectum practicum, aliter ad speculativum.
+Intellectus enim practicus causat res, unde est mensura rerum quae per ipsum fiunt: sed intellectus speculativus,
+quia accipit a rebus, est quodammodo motus ab ipsis rebus, et ita res mensurant ipsum. Ex quo patet quod res
+naturales, a quibus intellectus noster scientiam accipit, mensurant intellectum nostrum, ut dicitur X metaph.: sed
+sunt mensuratae ab intellectu divino, in quo sunt omnia sicut omnia artificiata in intellectu artificis. Sic ergo
+intellectus divinus est mensurans non mensuratus; res autem naturalis, mensurans et mensurata; sed intellectus
+noster mensuratus et non mensurans res quidem naturales, sed artificiales tantum.
+Res ergo naturalis inter duos intellectus constituta, secundum adaequationem ad utrumque vera dicitur;
+secundum enim adaequationem ad intellectum divinum dicitur vera, in quantum implet hoc ad quod est ordinata
+per intellectum divinum, ut patet per Anselmum in Lib. De verit. Et per Augustinum in Lib. De vera religione, et
+per Avicennam in definitione inducta, scilicet: veritas cuiusque rei est proprietas sui esse quod stabilitum est ei;
+secundum autem adaequationem ad intellectum humanum dicitur res vera, in quantum est nata de se facere
+veram aestimationem; sicut e contrario falsa dicuntur quae sunt nata videri quae non sunt, aut qualia non sunt, ut
+dicitur in V metaphysic..
+Prima autem ratio veritatis per prius inest rei quam secunda, quia prius est eius comparatio ad intellectum
+divinum quam humanum; unde, etiam si intellectus humanus non esset, adhuc res verae dicerentur in ordine ad
+intellectum divinum. Sed si uterque intellectus, rebus remanentibus per impossibile, intelligeretur auferri, nullo
+modo ratio veritatis remaneret.
+RA1
+Responsio ergo ad primum quod, sicut ex iam dictis patet, verum per prius dicitur de intellectu vero, et per
+posterius de re sibi adaequata; et utroque modo convertitur cum ente, sed diversimode, quia secundum quod
+dicitur de rebus, convertitur cum ente per praedicationem: omne enim ens est adaequatum intellectui divino, et
+potens adaequare sibi intellectum humanum, et e converso. Si autem accipiatur prout dicitur de intellectu, sic
+convertitur cum ente quod est extra animam, non per praedicationem, sed per consequentiam; eo quod cuilibet
+intellectui vero oportet quod respondeat aliquod ens, et e converso.
+5
+
+

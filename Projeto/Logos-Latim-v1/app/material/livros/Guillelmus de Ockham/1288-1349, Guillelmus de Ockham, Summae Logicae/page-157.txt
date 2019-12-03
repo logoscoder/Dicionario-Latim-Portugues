@@ -1,0 +1,56 @@
+Ex hoc patet falsitas quorundam quae ponuntur a quibusdam. Unum est quod hoc signum 'omnis' exigit
+tria appellata. Nam ponatur quod unus solus angelus intelligat et nullus homo, tunc haec est uera 'omne
+intelligens creatum est angelus', et tamen non sunt tria de quibus uerificatur hoc nomen 'intelligens creatum'
+Quod autem ista sit uera, probo: quia quaelibet singularis est uera. Similiter, praedicatum uere supponit pro
+quolibet pro quo supponit subiectum et uerificatur de quocumque de quo uerificatur subiectum, igitur est
+simpliciter uera
+Ex hoc patet falsitas quorundam quae ponuntur a quibusdam. Unum est quod hoc signum 'omnis' exigit
+tria appellata. Nam ponatur quod unus solus angelus intelligat et nullus homo, tunc haec est uera 'omne
+intelligens creatum est angelus', et tamen non sunt tria de quibus uerificatur hoc nomen 'intelligens creatum'
+Quod autem ista sit uera, probo: quia quaelibet singularis est uera. Similiter, praedicatum uere supponit pro
+quolibet pro quo supponit subiectum et uerificatur de quocumque de quo uerificatur subiectum, igitur est
+simpliciter uera
+Similiter, si sint tantum duo homines et illi sint albi, haec est uera
+'omnis homo est albus', quia nullam habet singularem falsam, et tamen non habet tria appellata.
+'omnis homo est albus', quia nullam habet singularem falsam, et tamen non habet tria appellata.
+Ex isto patet quod male soluunt aliqui hoc sophisma 'omnis phoenix est', dicentes istam propositionem
+esse falsam eo quod 'omnis' exigit tria appellata, et quod haec est uera 'aliqua phoenix non est' eo quod 'phoenix'
+aequaliter supponit pro ente et pro non-ente. Quia quaero: qualiter 'omnis'
+exigit tria appellata? Aut in rerum natura, et tunc esset haec falsa 'omne coloratum est' si esset unum
+tantum coloratum. Quod non potest concedi, nam eius contradictoria est falsa 'aliquod coloratum non est', quia
+nullam singularem habet ueram. Nec potest dici quod 'coloratum' aequaliter supponit pro ente et pro non-ente,
+quia manifestum est quod non supponit pro non-ente, sicut nec praedicatur de non-ente. Unde sicut haec est falsa
+'non-ens est coloratum', ita haec est falsa 'coloratum supponit pro non-ente', quia dictum est prius quod
+numquam terminus supponit pio aliquo nisi de quo uerificatur. Si autem 'omnis' exigit tria appellata ita quod
+terminus cui additur supponat pro tribus, sic non est haec falsa 'omnis phoenix est' propter hoc quod tantum una
+phoenix est, quia per istum
+'phoenix' aequaliter supponit pro ente et pro non-ente; et non magis pro uno non-ente quam pro duobus,
+igitur pro tribus supponit ad minus, et ita
+'phoenix' aequaliter supponit pro ente et pro non-ente; et non magis pro uno non-ente quam pro duobus,
+igitur pro tribus supponit ad minus, et ita
+Praeterea, si 'phoenix' supponeret aequaliter pro ente et pro nonente, eadem ratione 'animal', et per
+consequens haec esset falsa 'omne animal est', quod iste alibi negat.
+Praeterea, si 'phoenix' supponeret aequaliter pro ente et pro nonente, eadem ratione 'animal', et per
+consequens haec esset falsa 'omne animal est', quod iste alibi negat.
+Et ideo dicendum est quod nec ista propositio 'omnis phoenix est' nec aliqua alia est falsa propter
+praedictam causam, sicut nec sua contradictoria propter praedictam causam est uera. Unde si nullus homo rideat
+nisi Sortes, haec non est uera 'aliquod ridens non est homo', immo erit falsa, et per consequens sua contradictoria
+erit uera 'omne ridens est homo'. Similiter, si nullus homo sit albus nisi Sortes, haec erit falsa
+'aliquis homo albus non est homo', et per consequens haec erit uera 'omnis homo albus est homo', et
+tamen non sunt tres homines albi.
+'aliquis homo albus non est homo', et per consequens haec erit uera 'omnis homo albus est homo', et
+tamen non sunt tres homines albi.
+Nec ualet proteruire, quod isto posito ista non contradicunt 'omnis homo albus est homo', 'aliquis homo
+albus non est homo', quia mutatio rei non uariat formam propositionum, nec per consequens facit quod
+propositiones aliquae contradicant uno tempore et non alio.
+Nec ualet proteruire, quod isto posito ista non contradicunt 'omnis homo albus est homo', 'aliquis homo
+albus non est homo', quia mutatio rei non uariat formam propositionum, nec per consequens facit quod
+propositiones aliquae contradicant uno tempore et non alio.
+Ex istis etiam sequitur quod falsum est quod isti dicunt, quod si sit tantum unum album et tantum unum
+nigrum et tantum unum medium quod quaelibet istarum est falsa 'omne album est', 'omne nigrum est', 'omne
+medium est'; et negant istum syllogismum 'omne coloratum est; omne album est coloratum; igitur omne album
+est'.
+
+157
+
+

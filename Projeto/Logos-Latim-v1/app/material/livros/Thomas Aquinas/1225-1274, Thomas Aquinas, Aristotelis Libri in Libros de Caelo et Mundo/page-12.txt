@@ -1,0 +1,59 @@
+|#3 Utitur autem tali modo definiendi, ut observet se a contrarietate Platonis, qui dicebat quod in mundo
+secundum se non est sursum et deorsum, propter rotunditatem mundi: corpus enim rotundum est undique
+uniforme. Dicebat autem quod sursum et deorsum est in mundo solum quoad nos, qui nominamus sursum id
+quod est supra caput nostrum, deorsum autem id quod est sub pedibus nostris: si autem essemus e contrario
+situati, e contrario nominaremus sursum et deorsum.
+Sic ergo Plato non accipit id quod est sursum et deorsum, secundum rei naturam, sed quoad nos. Aristoteles
+autem utitur his nominibus secundum communem modum loquendi, prout dicit in II topic. Quod nominibus
+utendum est ut plures: unde sursum et deorsum appellat in mundo id quod communiter ab hominibus appellatur
+sursum et deorsum. Nec tamen est distinctum solum quoad nos, sed etiam secundum naturam.
+Sicut enim in nobis distinguitur dextrum et sinistrum secundum diversam habitudinem ad motum animalem qui
+est secundum locum, ita sursum et deorsum determinatur in mundo secundum habitudinem ad motus simplicium
+corporum, quae sunt principales partes mundi. Et propter hoc ipse dicit quod sursum est locus in quem feruntur
+levia, deorsum autem locus in quem feruntur gravia. Et hoc rationabiliter: nam sicut in nobis nobilior pars est
+quae est sursum, ita in mundo corpora levia sunt nobiliora, quasi formaliora. Hic tamen, ut sine calumnia
+procedat ad propositum ostendendum, definit grave et leve per habitudinem ad medium.
+|#4 Deinde cum dicit: gravissimum autem etc., definit gravissimum et levissimum. Et dicit quod gravissimum
+est quod substat omnibus quae deorsum feruntur: levissimum autem est quod supereminet omnibus quae sursum
+feruntur. Et est intelligendum inter ea quae sursum et deorsum feruntur: nam caelum non est levissimum,
+quamvis omnibus superemineat, quia non sursum fertur.
+Est autem attendendum quod hic iam utitur eo quod est sursum et deorsum, tanquam sursum et deorsum esse
+accipiat ad quae terminatur motus qui est a medio, vel ad medium.
+|#5 Deinde cum dicit: necesse autem etc., ostendit propositum ex praemissis, dicens necessarium esse quod
+omne corpus quod fertur deorsum aut sursum, habeat absolute gravitatem, tanquam gravissimum, sicut terra,
+quae substat omnibus; aut quod habeat levitatem absolute, sicut ignis, qui superstat omnibus; aut habeat ambo,
+non quidem respectu eiusdem, sed respectu diversorum.
+Media enim elementa, scilicet aer et aqua, sunt ad invicem gravia et levia: sicut aer est levis per respectum ad
+aquam, quia superfertur ei, et eadem ratione aqua ad terram; aer vero ad ignem quidem est gravis, quia substat ei,
+et similiter aqua ad aerem. Corpus autem quod circulariter movetur, impossibile est quod habeat gravitatem aut
+levitatem. Neque enim potest moveri ad medium vel a medio secundum naturam, neque praeter naturam. Et quod
+non possit secundum naturam hoc modo moveri, manifestat per hoc quod motus rectus, qui est ad medium vel a
+medio, est naturalis quatuor elementis: dictum est autem supra quod unus motus est naturalis uni simplicium
+corporum: ergo sequeretur quod corpus quod circulariter fertur, sit eiusdem naturae cum aliquo corporum quod
+movetur motu recto; cuius contrarium est supra ostensum. Similiter non potest dici quod motus rectus praeter
+naturam conveniat corpori quod circulariter fertur. Quia si unus contrariorum motuum inest alicui corpori praeter
+naturam, alius motus erit ei secundum naturam, ut ex supra dictis patet. Si ergo motus deorsum sit quinto corpori
+praeter naturam, motus sursum erit ei secundum naturam, et e converso. Utrumque autem eorum est falsum, ut
+patet per praecedentem rationem. Sequitur ergo quod corpus quintum, quod circulariter fertur, non moveatur a
+medio vel ad medium, neque secundum naturam neque praeter naturam. Omne autem corpus habens gravitatem
+aut levitatem, movetur uno horum motuum secundum naturam, et altero praeter naturam. Ergo corpus quintum
+neque habet gravitatem neque levitatem.
+|#6 Deinde cum dicit: quoniam autem in idem etc., excludit quandam obviationem. Dicebant enim quidam quod
+partes elementorum sunt corruptibiles, ita quod extra proprium locum existentes, moventur naturaliter motu
+recto: ipsa autem elementa secundum suam totalitatem sunt incorruptibilia, et nunquam extra proprium locum
+esse possunt: unde in locis suis moventur circulariter.
+Et sic corpus quod circulariter movetur in suo loco secundum suam totalitatem, non oportet quod careat gravitate
+et levitate. Ad hoc igitur excludendum, Philosophus proponit quod in eundem locum feruntur naturaliter pars et
+totum, sicut tota terra et unus bolus eius. Et hoc patet ex quiete: quia unumquodque movetur naturaliter ad locum
+in quo quiescit naturaliter, in eodem autem loco quiescit naturaliter tota terra et pars eius. Unde manifestum est
+quod tota terra habet inclinationem naturalem quod moveatur ad medium, si esset extra suum locum.
+|#7 Sic ergo ex praemissis duo sequuntur. Quorum primum est quod totum corpus quintum nullam levitatem
+neque gravitatem habet: quia, ut patet ex ratione praedicta, moveretur naturaliter ad medium vel a medio.
+Secundo sequitur ex suppositione nunc inducta, quod si aliqua pars detraheretur a corpore caelesti, non
+moveretur neque sursum neque deorsum: quia cum sit eadem ratio de toto et partibus, non convenit neque toti
+quinto corpori neque alicui parti eius quod moveatur vel secundum naturam vel praeter naturam alio motu quam
+circulari.
+
+12
+
+

@@ -1,0 +1,60 @@
+[83382] In Metaphysic., lib. 9 l. 3 n. 17
+Sciendum tamen est ad huius intellectum, quod possibile dupliciter dicitur. Uno modo secundum quod dividitur contra
+necesse; sicut dicimus illa possibilia quae contingunt esse et non esse. Et sic accepto possibili, non habet locum quod
+hic dicitur. Nihil enim prohibet quod antecedens sit contingens esse et non esse, consequens tamen sit necessarium;
+sicut patet in hac conditionali, si Socrates ridet, est homo.
+[83383] In Metaphysic., lib. 9 l. 3 n. 18
+Alio vero modo possibile dicitur secundum quod est commune ad ea quae sunt necessaria, et ad ea quae contingunt esse
+et non esse, prout possibile contra impossibile dividitur. Et sic loquitur hic philosophus; dicens de possibili, quod
+necesse est consequens esse possibile, si antecedens fuit possibile.
+[83384] In Metaphysic., lib. 9 l. 3 n. 19
+Detur enim haec conditionalis esse vera, si est a, est b, et detur antecedens, scilicet a, esse possibile. Aut igitur necesse
+est b esse possibile, aut non. Si est necesse, habetur propositum. Si non est necesse, nihil prohibet ponere oppositum,
+scilicet b non esse possibile. Sed haec non potest stare. Nam a ponitur esse possibile; et quando ponitur esse possibile,
+simul ponitur quod nihil impossibile sequitur ex eo. Sic enim superius definitum est possibile, ad quod nihil sequitur
+impossibile. Sed b sequitur ad a, ut positum est; et b ponebatur esse impossibile. Nam idem est esse impossibile, quod
+non esse possibile. Igitur a non erit possibile, si sequitur ad ipsum b quod erat impossibile. Ponatur ergo b esse
+impossibile: et si est impossibile, et posito a, necesse est esse b, erit ergo impossibile et primum et secundum, scilicet a
+et b.
+[83385] In Metaphysic., lib. 9 l. 3 n. 20
+Ubi advertendum est quod bene sequitur, si consequens est impossibile, quod antecedens sit impossibile; non tamen e
+converso. Nihil enim prohibet ex impossibili sequi aliquid necessarium, ut in hac conditionali: si homo est asinus,
+homo est animal. Unde non sic intelligendum est quod philosophus dicit hic, si primum erat impossibile, idest
+antecedens, ergo et secundum erat impossibile, scilicet consequens. Sed ita debet intelligi: si consequens est
+impossibile, utrumque erit impossibile. Sic ergo manifestum est quod si sic se habent, scilicet a et b, quod a existente,
+necesse est b esse, et necessario sequitur quod si a est possibile, quod b erit possibile. Et si b non est possibile, a
+possibili existente, non ita se habebunt a et b ut positum est, scilicet quod ad a sequitur b. Sed oportet quod a possibili
+existente, necesse est b possibile esse, si existente a, necesse est esse b. Cum enim dico: si est a, est b, hoc significatur
+quod necesse sit b esse possibile si a possibile est; ita tamen quod quando et eodem modo sit possibile b esse, quando et
+quomodo est possibile a. Non enim possibile est ut sit quocumque tempore et quocumque modo.
+Lectio 4
+[83386] In Metaphysic., lib. 9 l. 4 n. 1
+Postquam philosophus exclusit falsas opiniones circa potentiam et actum, hic determinat veritatem; et circa hoc duo
+facit. Primo ostendit quomodo actus praecedat potentiam in subiecto. Secundo quomodo potentia praecedens actum, ad
+actum reducatur, ibi, quoniam autem possibile. Dicit ergo primo, quod cum potentiarum quaedam sint inditae his
+quorum sunt, sicut sensus animalibus; quaedam vero per consuetudinem acquirantur, sicut ars tibicinandi et aliae
+huiusmodi artes operativae; quaedam vero acquirantur per doctrinam sive disciplinam, sicut medicina et aliae
+huiusmodi artes: dictarum potentiarum quaecumque per consuetudinem et rationem nobis insunt, necesse est primum
+agere et praeexercitari in eorum actibus antequam acquirantur; sicut tibicinando, aliquis fit tibicinator; et considerando
+medicinalia, aliquis fit medicus. Sed aliae potentiae, quae non acquiruntur per consuetudinem, sed insunt a natura et
+sunt in patiendo, sicut patet de potentiis sensitivis, non procedunt a suis actibus. Non enim aliquis videndo acquirit
+sensum visus; sed ex eo quod potentiam visivam habet, fit actu videns.
+[83387] In Metaphysic., lib. 9 l. 4 n. 2
+Deinde cum dicit quoniam autem ostendit quomodo potentiae praecedentes actum reducuntur ad actum; et circa hoc
+duo facit. Primo enim ostendit quomodo in hoc differunt diversae potentiae adinvicem, scilicet rationales et irrationales.
+Secundo ostendit qualiter rationales potentiae ad actum reducantur, ibi, necesse ergo. Circa primum tria facit. Primo
+praemittit quaedam necessaria ad praedictam differentiam considerandam: quorum unum est, quod in ratione possibilis
+oportet multa considerare. Non enim dicitur possibile respectu cuiusque, sed respectu alicuius determinati. Unde
+oportet possibile, esse aliquid possibile, utputa ambulare vel sedere. Et similiter quod potest aliquid facere vel pati, non
+potest illud quocumque tempore facere aut pati; sicut arbor non potest fructificare nisi determinato tempore. Et ideo
+cum dicitur aliquid esse possibile, oportet determinare quando sit possibile. Et similiter oportet determinare quomodo
+sit possibile. Non enim possibile, quocumque modo potest agere aliquid vel pati; sicut aliquis sic potest ambulare,
+scilicet tarde, non autem velociter. Et simile est de aliis circumstantiis quae consueverunt determinari in definitionibus
+rerum; sicut quo instrumento, quo loco, et alia huiusmodi.
+[83388] In Metaphysic., lib. 9 l. 4 n. 3
+Aliud quod praetermittit est, quod quaedam sunt possibilia secundum rationem, et potentiae horum possibilium sunt
+rationales. Quaedam vero possibilia sunt irrationalia, et potentiae irrationales. Et quidem potentiae rationales non
+possunt esse nisi in rebus animatis; sed potentiae irrationales possunt esse in ambobus, scilicet in rebus animatis et
+inanimatis. Et non solum in plantis et brutis animalibus, quae ratione carent, sed etiam in ipsis hominibus, in quibus
+
+

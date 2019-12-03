@@ -1,0 +1,59 @@
+|#21 Alii vero, sequentes Porphyrium, referunt hoc ad contrarietatem praedicati.
+Contingit enim quandoque quod praedicatum negatur de subiecto propter hoc quod inest ei contrarium; sicut si
+dicatur, homo non est albus, quia est niger; et sic id quod significatur per hoc quod dicitur, non est albus, potest
+esse contrarium. Non tamen semper: removetur enim aliquid a subiecto, etiam si contrarium non insit, sed
+aliquid medium inter contraria; ut cum dicitur, aliquis non est albus, quia est pallidus; vel quia inest ei privatio
+actus vel habitus seu potentiae; ut cum dicitur, aliquis non est videns, quia est carens potentia visiva, aut habet
+impedimentum ne videat, vel etiam quia non est aptus natus videre; puta si dicatur, lapis non videt. Sic igitur illa,
+quae significantur contingit esse contraria, sed ipsae enunciationes non sunt contrariae, quia ut in fine huius libri
+dicetur, non sunt contrariae opiniones quae sunt de contrariis, sicut opinio quod aliquid sit bonum, et illa quae
+est, quod aliquid non est bonum.
+|#22 Sed nec hoc videtur ad propositum Aristotelis pertinere, quia non agit hic de contrarietate rerum vel
+opinionum, sed de contrarietate enunciationum: et ideo magis videtur hic sequenda expositio Alexandri.
+Secundum quam dicendum est quod in indefinitis enunciationibus non determinatur utrum praedicatum
+attribuatur subiecto universaliter (quod faceret contrarietatem enunciationum), aut particulariter (quod non
+faceret contrarietatem enunciationum); et ideo huiusmodi enunciationes indefinitae non sunt contrariae
+secundum modum quo proferuntur. Contingit tamen quandoque ratione significati eas habere contrarietatem,
+puta, cum attribuitur aliquid universali ratione naturae universalis, quamvis non apponatur signum universale; ut
+cum dicitur, homo est animal, homo non est animal: quia hae enunciationes eamdem habent vim ratione
+significati; ac si diceretur, omnis homo est animal, nullus homo est animal.
+|#23 Deinde cum dicit: in eo vero quod etc., removet quoddam quod posset esse dubium. Quia enim posuerat
+quamdam diversitatem in oppositione enunciationum ex hoc quod universale sumitur a parte subiecti
+universaliter vel non universaliter, posset aliquis credere quod similis diversitas nasceretur ex parte praedicati, ex
+hoc scilicet quod universale praedicari posset et universaliter et non universaliter; et ideo ad hoc excludendum
+dicit quod in eo quod praedicatur aliquod universale, non est verum quod praedicetur universale universaliter.
+Cuius quidem duplex esse potest ratio.
+Una quidem, quia talis modus praedicandi videtur repugnare praedicato secundum propriam rationem quam
+habet in enunciatione.
+Dictum est enim supra quod praedicatum est quasi pars formalis enunciationis, subiectum autem est pars
+materialis ipsius: cum autem aliquod universale profertur universaliter, ipsum universale sumitur secundum
+habitudinem quam habet ad singularia, quae sub se continet; sicut et quando universale profertur particulariter,
+sumitur secundum habitudinem quam habet ad aliquod contentorum sub se; et sic utrumque pertinet ad
+materialem determinationem universalis: et ideo neque signum universale neque particulare convenienter additur
+praedicato, sed magis subiecto: convenientius enim dicitur, nullus homo est asinus, quam, omnis homo est nullus
+asinus; et similiter convenientius dicitur, aliquis homo est albus, quam, homo est aliquid album.
+Invenitur autem quandoque a philosophis signum particulare appositum praedicato, ad insinuandum quod
+praedicatum est in plus quam subiectum, et hoc praecipue cum, habito genere, investigant differentias
+completivas speciei, sicut in II de anima dicitur quod anima est actus quidam.
+Alia vero ratio potest accipi ex parte veritatis enunciationis; et ista specialiter habet locum in affirmationibus
+quae falsae essent si praedicatum universaliter praedicaretur. Et ideo manifestans id quod posuerat, subiungit
+quod nulla affirmatio est in qua, scilicet vere, de universali praedicato universaliter praedicetur, idest in qua
+universali praedicato utitur ad universaliter praedicandum; ut si diceretur, omnis homo est omne animal. Oportet
+enim, secundum praedicta, quod hoc praedicatum animal, secundum singula quae sub ipso continentur,
+praedicaretur de singulis quae continentur sub homine; et hoc non potest esse verum, neque si praedicatum sit in
+plus quam subiectum, neque si praedicatum sit convertibile cum eo. Oporteret enim quod quilibet unus homo
+esset animalia omnia, aut omnia risibilia: quae repugnant rationi singularis, quod accipitur sub universali.
+|#24 Nec est instantia si dicatur quod haec est vera, omnis homo est omnis disciplinae susceptivus: disciplina
+enim non praedicatur de homine, sed susceptivum disciplinae; repugnaret autem veritati si diceretur, omnis
+homo est omne susceptivum disciplinae.
+|#25 Signum autem universale negativum, vel particulare affirmativum, etsi convenientius ponantur ex parte
+subiecti, non tamen repugnat veritati etiam si ponantur ex parte praedicati. Contingit enim huiusmodi
+enunciationes in aliqua materia esse veras: haec enim est vera, omnis homo nullus lapis est; et similiter haec est
+vera, omnis homo aliquod animal est. Sed haec, omnis homo omne animal est, in quacumque materia proferatur,
+falsa est. Sunt autem quaedam aliae tales enunciationes semper falsae; sicut ista, aliquis homo omne animal est
+(quae habet eamdem causam falsitatis cum hac, omnis homo omne animal est); et si quae aliae similes, sunt
+semper falsae: in omnibus enim eadem ratio est. Et ideo per hoc quod Philosophus reprobavit istam, omnis homo
+omne animal est, dedit intelligere omnes consimiles esse improbandas.
+26
+
+

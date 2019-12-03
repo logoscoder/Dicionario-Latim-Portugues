@@ -1,0 +1,61 @@
+Postquam prosecutus est philosophus quaestionem, quae mota fuerat de oppositione aequalis ad magnum et parvum,
+hic prosequitur quaestionem motam de oppositione unius ad multa. Et circa hoc duo facit. Primo obiicit ad
+quaestionem. Secundo determinat veritatem, ibi, sed forsan multa dicuntur et cetera. Circa primum tria facit. Primo
+assignat rationem dubitationis; dicens, quod sicut dubitabile est de oppositione aequalis ad magnum et parvum,
+similiter quidem potest dubitari de uno et multis, utrum opponantur adinvicem. Et ratio dubitationis est, quia si multa
+absque distinctione opponantur uni, sequuntur quaedam impossibilia, nisi distinguatur de multo, sicut ipse post
+distinguit.
+[83646] In Metaphysic., lib. 10 l. 8 n. 2
+Deinde cum dicit nam unum probat quod dixerat. Probat enim, quod si unum opponitur multis, quod unum sit paucum
+vel pauca. Et hoc duabus rationibus: quarum prima talis est. Multa opponuntur paucis. Si igitur multa opponuntur uni
+simpliciter sine distinctione; cum unum uni sit contrarium, sequitur quod unum sit paucum vel pauca.
+[83647] In Metaphysic., lib. 10 l. 8 n. 3
+Secunda ratio talis est. Duo sunt multa. Quod probatur ex hoc quod duplex est multiplex. Sed multa opponuntur paucis.
+Ergo duo opponuntur aliquibus paucis. Sed duo non possunt esse multa ad aliquid paucum, nisi ad unum. Nihil enim
+minus est duobus nisi unum. Sequitur igitur quod unum sit paucum.
+[83648] In Metaphysic., lib. 10 l. 8 n. 4
+Deinde cum dicit amplius si ostendit hoc esse impossibile, scilicet quod unum sit paucum. Ita enim se habent unum et
+paucum ad pluralitatem, sicut productum et breve ad longitudinem. Utraque enim utriusque, proprie passiones sunt. Sed
+omne breve est longitudo quaedam. Ergo omne paucum est pluralitas quaedam. Si ergo unum est paucum, quod necesse
+videtur dicere si duo sunt multa, sequitur quod unum sit quaedam pluralitas.
+[83649] In Metaphysic., lib. 10 l. 8 n. 5
+Et ita unum erit non solum multum, sed etiam multa. Nam omne multum est etiam multa; nisi forte hoc differat in
+humidis facile divisibilibus, ut sunt aqua, oleum, aer et huiusmodi, quae nominat hic continua bene terminabilia. Nam
+humidum est, quod bene terminatur termino alieno. In talibus enim etiam aliquid continuum dicitur multum, sicut multa
+aqua vel multus aer, quia propter facilitatem divisionis sunt propinqua multitudini. Sed cum horum aliquid est
+continuum, ita dicitur esse multum singulariter, quod non dicitur esse multa pluraliter. Sed in aliis non dicimus multum,
+nisi quando sunt divisa actu. Non enim si lignum sit continuum, dicimus quod sit multum, sed magnum. Divisione
+autem actu adveniente, non solum dicimus quod sit multum, sed quod etiam sit multa. In aliis igitur non differt dicere
+multum et multa, sed solum in continuo bene terminabili. Si igitur unum sit multum, sequitur quod sit multa; quod est
+impossibile.
+[83650] In Metaphysic., lib. 10 l. 8 n. 6
+Deinde cum dicit sed forsan solvit propositam dubitationem. Et circa hoc duo facit. Primo ostendit quod multum non
+eodem modo opponitur uni et pauco. Secundo ostendit qualiter multum opponitur uni, ibi, opponitur itaque unum
+multis et cetera. Circa primum duo facit. Primo solvit propositam dubitationem. Secundo ex dictis excludit quemdam
+errorem, ibi, quapropter nec recte et cetera. Duo autem superius in obiiciendo tetigerat, ex quibus impossibile hoc sequi
+videbatur: scilicet quod multum sit multa, et quod multa opponantur paucis. Primo ergo manifestat primum; dicens,
+quod forsan in quibusdam multa dicuntur indifferenter sicut multum. Sed in quibusdam multum et multa accipiuntur ut
+aliquid differens; scilicet in continuo bene terminabili; sicut de una aqua continua dicimus quod est aqua multa, et non
+quod sunt aquae multae. Sed in his quae sunt divisa actu, quaecumque sint illa, in his indifferenter dicitur et multum et
+multa.
+[83651] In Metaphysic., lib. 10 l. 8 n. 7
+Deinde cum dicit uno quidem manifestat secundum, scilicet qualiter multa opponantur paucis; dicens, quod multa
+dicuntur dupliciter. Uno enim modo significant pluralitatem excedentem, vel simpliciter, vel per respectum ad aliquid.
+Simpliciter quidem, sicut dicimus aliqua esse multa, eo quod excedunt pluralitatem, quae solet communiter in rebus sui
+generis reperiri, ut si dicamus multam pluviam, quando ultra communem cursum pluit. Per respectum autem ad aliquid,
+ut si dicamus decem homines multos in comparatione ad tres. Et similiter paucum dicitur pluralitas habens defectum,
+idest deficiens a pluralitate excedente.
+[83652] In Metaphysic., lib. 10 l. 8 n. 8
+Alio modo dicitur multum absolute, sicut numerus dicitur quaedam multitudo. Et sic multum opponitur tantum uni, non
+autem pauco. Nam multa secundum hanc significationem sunt quasi plurale eius quod dicitur unum; ut ita dicamus
+unum et multa, ac si diceremus unum et una pluraliter, sicut dicimus album et alba, et sicut mensurata dicuntur ad
+mensurabile. Nam multa mensurantur per unum, ut infra dicetur. Et secundum hanc significationem, a multis dicuntur
+multiplicia. Manifestum est enim quod secundum quemlibet numerum dicitur aliquid multipliciter; sicut a binario,
+duplum, et ternario triplum, et sic de aliis. Unusquisque enim numerus est multa hoc modo, quia refertur ad unum, et
+quia quodlibet mensurabile est uno. Et hoc, secundum quod multa opponuntur uni, non autem secundum quod
+opponuntur pauco.
+[83653] In Metaphysic., lib. 10 l. 8 n. 9
+Unde et ipsa duo quae sunt numerus quidam, sunt multa secundum quod multa opponuntur uni. Sed secundum quod
+multa significant pluralitatem excedentem, duo non sunt multa, sed sunt pauca. Nihil enim est paucius duobus, quia
+
+

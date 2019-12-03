@@ -1,0 +1,57 @@
+Vel dicendum quod in omni demonstratione, oportet quod procedatur ex his, quae sunt notiora quoad nos, non
+tamen singularibus, sed universalibus. Non enim aliquid potest fieri nobis notum, nisi per id quod est magis
+notum nobis.
+Quandoque autem id quod est magis notum quoad nos, est etiam magis notum simpliciter et secundum naturam;
+sicut accidit in mathematicis, in quibus, propter abstractionem a materia, non fiunt demonstrationes nisi ex
+principiis formalibus.
+Et in talibus fiunt demonstrationes ex his quae sunt notiora simpliciter. Item, quandoque id quod est notius quoad
+nos non est notius simpliciter, sicut accidit in naturalibus, in quibus essentiae et virtutes rerum, propter hoc quod
+in materia sunt, sunt occultae, sed innotescunt nobis per ea, quae exterius de ipsis apparent. Unde in talibus fiunt
+demonstrationes ut plurimum per effectus, qui sunt notiores quoad nos, et non simpliciter.
+Nunc autem non loquitur de hoc modo demonstrationum, sed de primo.
+Quia vero in hac manifestatione hoc etiam omiserat manifestare, quod demonstratio esset ex propriis principiis,
+consequenter subdit quod hoc habetur etiam ex praemissis. Per hoc enim quod dicitur quod demonstratio est ex
+primis, habetur quod sit ex propriis principiis, sicut et superius dictum est. Idem enim videtur esse primum et
+principium: nam primum in unoquoque genere et maximum est causa omnium eorum, quae sunt post, ut dicitur
+in II methaphysicae.
+|+5 Lectio 5
+|#1 Quia superius Philosophus dixerat quod demonstratio est ex primis et immediatis, et haec ab ipso nondum
+manifestata erant, ideo intendit ista notificare.
+Et dividitur in partes tres: in prima, ostendit quid sit propositio immediata; in secunda vero ostendit quod
+oporteat huiusmodi propositiones esse notiores conclusione; ibi: quoniam autem oportet credere et scire etc.; in
+tertia, excludit quosdam errores, qui ex praedictis occasionem habebant; ibi: quibusdam quidem igitur etc..
+Circa primum duo facit: primo, ostendit quid sit propositio immediata; secundo, dividit ipsam; ibi: immediati
+autem principii etc.. Circa primum hoc modo procedit. Primo namque, resumit quod supra dictum erat, scilicet
+quod principium demonstrationis sit propositio immediata: nam et supra dixerat quod demonstratio est ex primis
+et immediatis.
+|#2 Secundo, ibi: immediata autem etc., definit immediatam propositionem, et dicit quod immediata propositio
+est qua non est altera prior. Cuius quidem notificationis ratio ex praedictis apparet.
+Dictum est enim supra quod demonstratio est ex prioribus. Quandocunque igitur aliqua propositio est mediata,
+idest habens medium per quod demonstretur praedicatum de subiecto, oportet quod priores ea sint propositiones
+ex quibus demonstratur: nam praedicatum conclusionis per prius inest medio quam subiecto; cui etiam per prius
+inest medium quam praedicatum. Relinquitur ergo quod illa propositio, qua non est altera prior, sit immediata.
+|#3 Tertio, ibi: propositio autem est etc., ostendit quid sit propositio, quae ponitur in definitione immediatae
+propositionis. Et circa hoc tria facit. Primo namque definit propositionem simpliciter, dicens quod propositio est
+altera pars enunciationis, in qua praedicatur unum de uno. Habet enim enunciatio duas partes, scilicet
+affirmationem et negationem. Oportet autem quod omnis syllogizans alteram earum proponat, non autem
+utramque: hoc enim est proprium eius, qui a principio quaestionem movet. Unde per hoc separatur propositio a
+problemate. Sicut etiam in uno syllogismo non concluditur nisi unum, ita oportet quod propositio, quae est
+syllogismi principium, sit una. Una autem est in qua est unum de uno. Unde per hoc quod Philosophus dicit
+unum de uno, separatur propositio ab enunciatione, quae dicitur plures, in qua plura de uno vel unum de pluribus
+praedicatur.
+|#4 Secundo, ibi: dialectica etc., ponit differentiam inter dialecticam propositionem et demonstrativam, dicens
+quod cum propositio accipiat alteram partem enunciationis, dialectica indifferenter accipit quancunque earum.
+Habet enim viam ad utranque partem contradictionis, eo quod ex probabilibus procedit. Unde etiam et in
+proponendo accipit utramlibet partem contradictionis et quaerendo proponit. Demonstrativa autem propositio
+accipit alteram partem determinate, quia nunquam habet demonstrator viam, nisi ad verum demonstrandum.
+Unde etiam semper proponendo accipit veram partem contradictionis.
+Propter hoc etiam non interrogat, sed sumit, qui demonstrat, quasi notum.
+|#5 Tertio, ibi: enunciatio autem etc., definit enunciationem quae ponitur in definitione propositionis, dicens
+quod enunciatio complectitur utranque partem contradictionis, ut ex dictis patet.
+Quid autem sit contradictio consequenter ostendit, dicens quod contradictio est oppositio, cuius non est medium
+secundum se. Quamvis enim in privatione et habitu, et in contrariis immediatis non sit medium circa
+determinatum subiectum, tamen est medium simpliciter, nam lapis neque caecus, neque videns est, et albedo
+neque par, neque impar est. Et hoc etiam quod habent de immediatione circa determinatum subiectum, habent in
+9
+
+

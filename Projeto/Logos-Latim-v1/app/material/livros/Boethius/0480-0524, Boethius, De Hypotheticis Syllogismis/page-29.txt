@@ -1,0 +1,62 @@
+Atqui cum sit a, est b; Cum igitur sit c, non est d
+Vel ita:
+Atqui cum sit c, non est d; Cum igitur sit a, est b.
+Vel ita:
+Atqui cum sit c, est d; Cum igitur sit a, non est b.
+Ex sexta:
+Si cum est a, non est b, cum sit c non est d.
+Atqui cum sit a, non est b; Cum igitur sit c, non est d.
+Vel ita:
+Atqui cum sit c, est d; Cum igitur sit a, est b.
+[3.9.4] Ex septima item fiunt quatuor syllogismi hoc modo:
+Si cum est a, non est b, cum non sit c, est d; Atqui cum est a, non est b; Cum igitur non sit c, est d.
+Vel ita:
+Atqui cum sit a, est b; Cum igitur non sit c, non est d.
+Vel ita:
+Atqui cum non sit c, non est d; Cum igitur sit a, est b.
+Vel ita:
+Atqui cum non sit c, est d; Cum igitur sit a, non est b.
+Ex octaua propositione:
+Si cum est a, non est b, cum non sit /374/ c, non est d.
+Atqui cum sit a, non est b; Cum igitur non sit c, non est d.
+Vel ita:
+Atqui cum non sit c, est d; Cum igitur sit a, est b.
+[3.9.5] Hactenus quidem ex his propositionibus quae a esse proponebant, atque ita caeteros terminos
+affirmando negandoque uariabant, ostendimus qui fierent syllogismi. Nunc ex his propositionibus quinam syllogismi
+fiant dicendum est, quae ita caeteros terminos uariant, ut a non esse proponant. Ex nona enim propositione ita fit
+syllogismus:
+Si cum non est a, est b, cum sit c, est d; Atqui cum non sit a, est b; Cum igitur sit c, est d.
+Vel ita:
+Atqui cum sit c, non est d; Cum igitur non sit a, non est b.
+Item ex decima:
+Si cum non est a, est b, cum sit c, non est d; Atqui cum non est a, est b; Cum igitur sit c, non est d.
+Vel ita:
+Atqui cum sit c, est d; Cum igitur non sit a, non est b.
+[3.9.6] Ex undecima:
+Si cum non est a, est b, cum non sit c, est d.
+Atqui cum non est a, est b; Cum igitur non sit c, est d.
+Vel ita:
+Atqui cum non sit c, non est d; Cum igitur non sit a, non est b.
+Ex duodecima:
+Si cum non est a, est b, cum non sit c, non est d; Atqui cum non sit a, est b; Cum igitur non sit c, non est d.
+Vel ita:
+Atqui cum non sit c, est d; Cum igitur non sit a, non est b.
+Item ex tertia decima, quae quatuor colligit syllogismos hoc modo:
+Si cum non est a, non est b, cum sit c, est d; Atqui cum non sit a, non est b; Cum igitur sit c, est d.
+Vel ita:
+Atqui cum non sit a, est b; Cum igitur sit c, non est d.
+Vel ita:
+Atqui cum sit c, non est d; Cum igitur non sit a, est b.
+Vel ita:
+Atqui cum sit c, est d; Cum igitur non sit a, non est b.
+[3.9.7] Item ex quarta decima:
+Si cum non est a, non est b, cum sit c, non est d; Atqui cum non est a, non /376/ est b; Cum igitur sit c, non est
+d.
+Vel ita:
+Atqui cum sit c, est d; Cum igitur non sit a, est b.
+Quinta decima rursus quatuor colligit syllogismos, hoc modo:
+Si cum non est a, non est b, cum non sit c, est d; Atqui cum non sit a, non est b; Cum igitur non sit c, est d.
+Vel ita:
+Atqui cum non est a, est b; Cum igitur non sit c, non est d.
+
+

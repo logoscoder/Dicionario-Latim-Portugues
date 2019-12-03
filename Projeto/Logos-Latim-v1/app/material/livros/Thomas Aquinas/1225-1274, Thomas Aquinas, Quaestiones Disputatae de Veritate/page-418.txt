@@ -1,0 +1,63 @@
+Sed dicebat, quod bonum determinat ens secundum rationem. Sed contra: aut illi rationi respondet aliquid in re,
+aut nihil.
+Si nihil, sequetur quod ratio illa sit cassa et vana; si autem aliquid respondet in re, ergo habetur propositum, quod
+bonum aliquid realiter addat super ens.
+AG9
+Praeterea, relatio specificatur secundum id ad quod dicitur. Sed bonum dicit relationem ad determinatum
+terminum, scilicet ad finem. Ergo bonum dicit specificam relationem. Sed omne ens specificatum addit aliquid
+realiter super ens commune. Ergo et bonum realiter aliquid addit
+AG10
+Praeterea, sicut bonum et ens convertuntur, ita homo et risibile. Sed risibile, quamvis convertatur cum homine,
+addit tamen realiter super hominem; scilicet ipsam hominis proprietatem, quae est de genere accidentium. Ergo
+et bonum realiter addit
+SC1
+Sed contra. Est quod Augustinus dicit, quod in quantum Deus bonus est, sumus; in quantum vero sumus, boni
+sumus. Ergo videtur quod bonum non addat aliquid super ens.
+SC2
+Praeterea, quaecumque ita se habent quod unum addit super alterum re vel ratione, unum eorum potest intelligi
+sine altero. Sed ens non potest intelligi sine bono. Ergo bonum non addit aliquid super ens nec re nec ratione.
+Probatio mediae. Plus potest facere Deus quam homo intelligere. Sed non potest Deus facere aliquod ens quod
+non sit bonum; quia hoc ipso quod est a bono, bonum est, ut patet per boetium in Lib. De hebdom..
+Ergo nec intellectus potest hoc intelligere.
+CO
+Responsio. Dicendum est, quod tripliciter potest aliquid super alterum addere.
+Uno modo quod addat aliquam rem quae sit extra essentiam illius rei cui dicitur addi; sicut album addit aliquid
+super corpus, quia essentia albedinis est praeter essentiam corporis.
+Alio modo dicitur aliquid addere super alterum per modum contrahendi et determinandi; sicut homo addit aliquid
+super animal: non quidem ita quod sit in homine aliqua res quae sit penitus extra essentiam animalis, alias
+oporteret dicere, quod non totum quod est homo esset animal, sed animal esset pars hominis; sed animal per
+hominem contrahitur, quia id quod determinate et actualiter continetur in ratione hominis, implicite et quasi
+potentialiter continetur in ratione animalis.
+Sicut est de ratione hominis quod habeat animam rationalem, de ratione autem animalis est quod habeat animam,
+non determinando ad rationalem vel non rationalem; ista tamen determinatio ratione cuius homo super animal
+addere dicitur, in aliqua re fundatur.
+Tertio modo dicitur aliquid addere super alterum secundum rationem tantum; quando scilicet aliquid est de
+ratione unius quod non est de ratione alterius: quod tamen nihil est in rerum natura, sed in ratione tantum, sive
+per illud contrahatur id cui dicitur addi, sive non. Caecum enim addit aliquid supra hominem, scilicet caecitatem,
+quae non est aliquid ens in natura, sed rationis tantum ens est comprehendentis privationes; et per hoc homo
+contrahitur, non enim omnis homo caecus est; sed cum dicimus talpam caecam, non fit per hoc additum aliqua
+contractio.
+Non autem potest esse quod super ens universale aliquid addat aliquid primo modo, quamvis illo modo possit
+fieri additio super aliquod ens particulare; nulla enim res naturae est quae sit extra essentiam entis universalis,
+quamvis aliqua res sit extra essentiam huius entis.
+Secundo autem modo inveniuntur aliqua addere super ens, quia ens contrahitur per decem genera, quorum
+unumquodque addit aliquid super ens; non quidem aliquod accidens, vel aliquam differentiam quae sit extra
+essentiam entis, sed determinatum modum essendi, qui fundatur in ipsa essentia rei.
+Sic autem bonum non addit aliquid super ens: cum bonum dividatur aequaliter in decem genera, ut ens, ut patet
+in I ethicor.: et ideo oportet quod vel nihil addat super ens, vel addat aliquid, quod sit in ratione tantum.
+Si enim adderet aliquid reale, oporteret quod per rationem boni contraheretur ens ad aliquod speciale genus. Cum
+autem ens sit id quod primo cadit in conceptione intellectus, ut Avicenna dicit, oportet quod omne aliud nomen
+vel sit synonymum enti: quod de bono dici non potest, cum non nugatorie dicatur ens bonum; vel addat aliquid
+ad minus secundum rationem; et sic oportet quod bonum, ex quo non contrahit ens, addat aliquid super ens, quod
+sit rationis tantum.
+Id autem quod est rationis tantum, non potest esse nisi duplex, scilicet negatio et aliqua relatio. Omnis enim
+positio absoluta aliquid in rerum natura existens significat.
+Sic ergo supra ens, quod est prima conceptio intellectus, unum addit id quod est rationis tantum, scilicet
+negationem: dicitur enim unum quasi ens indivisum. Sed verum et bonum positive dicuntur; unde non possunt
+addere nisi relationem quae sit rationis tantum.
+Illa autem relatio, secundum Philosophum in V metaph., invenitur esse rationis tantum, secundum quam dicitur
+referri id quod non dependet ad id ad quod refertur, sed e converso, cum ipsa relatio quaedam dependentia sit,
+sicut patet in scientia et scibili, sensu et sensibili. Scientia enim dependet a scibili, sed non e converso: unde
+418
+
+

@@ -1,0 +1,62 @@
+RA2
+Ad secundum dicendum, quod potentia motiva brutorum secundum se considerata non magis inclinatur ad unum
+oppositorum quam ad alterum; et sic dicitur quod possunt moveri et non moveri. Sed iudicium quo applicatur
+potentia motiva ad alterum oppositorum, est determinatum; et sic non sunt liberi arbitrii.
+RA3
+Ad tertium dicendum, quod quamvis in brutis sit quaedam indifferentia actionum, tamen non potest proprie dici
+quod sit in eis libertas actionum, sive agendi vel non agendi: tum quia actiones, cum per corpus exerceantur, cogi
+possunt vel prohiberi, non solum in brutis, sed in hominibus, unde nec ipse homo dicitur liber actionis suae; tum
+etiam, quia quamvis sit indifferentia ad agere et non agere in bruto, considerata ipsa actione secundum seipsam,
+tamen considerato ordine eius ad iudicium, a quo provenit quod est determinatum ad unum, etiam ad ipsas
+actiones obligatio quaedam derivatur, ut non possit in eis inveniri ratio libertatis absolute.
+Tamen, dato quod in eis esset libertas aliqua, et iudicium aliquod, non tamen sequeretur quod esset in eis libertas
+iudicii, cum iudicium eorum sit naturaliter determinatum ad unum.
+RA4
+Ad quartum dicendum, quod incipere a versione, vel esse ex nihilo, non assignat Damascenus causam libertatis
+arbitrii, sed causam flexibilitatis liberi arbitrii in malum; causam autem liberi arbitrii assignat tam Damascenus
+quam Gregorius quam Augustinus rationem.
+RA5
+Ad quintum dicendum, quod quamvis potentia motiva in brutis non sit determinata ad unum, tamen iudicium
+eorum de agendis est determinatum ad unum, ut dictum est, in corp. Et ad 3 arg..
+RA6
+Ad sextum dicendum, quod cum bruta sint facta in obsequium hominis, secundum hoc de brutis disponitur quod
+hominibus expedit, propter quos facta sunt. Puniuntur ergo bruta lege divina, non propter hoc quod ipsa peccent,
+sed propter hoc quod ex eorum poena homines puniantur in eorum possessione, vel terreantur ex ipsa poenae
+acerbitate, vel etiam instruantur ex mysterii significatione.
+RA7
+Ad septimum dicendum, quod tam homines quam bruta beneficiis inducuntur, et flagellis prohibentur, vel
+praeceptis et prohibitionibus; sed diversimode: quia in potestate hominum est ut eisdem rebus similiter
+repraesentatis, sive sint praecepta et prohibitiones, sive sint beneficia et flagella, eligant vel fugiant iudicio
+rationis; sed in brutis est iudicium naturale determinatum ad hoc quod id quod uno modo proponitur vel occurrit,
+eodem modo accipiatur vel fugiatur.
+Contingit autem ex memoria praeteritorum beneficiorum vel flagellorum ut bruta aliquid apprehendant quasi
+amicum, et prosequendum vel sperandum; et aliquid quasi inimicum, et fugiendum vel timendum: et ideo post
+flagella, ex passione timoris, quae inde eis insurgit, inducuntur ad obediendum nutui instructoris.
+Nec est necessarium huiusmodi brutis fieri propter libertatem arbitrii, sed propter indifferentiam actionum.
+RA8
+Ad octavum dicendum, quod secundum Augustinum super Genesim ad litteram, praeceptum divinum brutis
+factum, non ita factum esse credendum est ut vox aliqua iussionis de nube facta sit eis aliquibus verbis, quae
+rationales animae audientes, intelligere atque obedire solent: non enim hoc acceperunt ut possint bestiae vel aves.
+In suo tamen genere obtemperant Deo: non rationalis voluntatis arbitrio; sed, sicut movet illa omnia temporibus
+opportunis, non ipse temporaliter motus, moventur bruta temporaliter, ut iussa eius efficiant.
+|a3 Articulus 3
+TTA
+Tertio quaeritur utrum liberum arbitrium sit in Deo.
+TTB
+Et videtur quod non.
+AG1
+Liberum enim arbitrium est facultas voluntatis et rationis. Sed ratio non competit Deo, cum nominet cognitionem
+discursivam; Deus autem simplici intuitu omnia cognoscit.
+Ergo Deo liberum arbitrium non competit.
+AG2
+Praeterea, liberum arbitrium est facultas qua bonum et malum eligitur, ut per Augustinum patet. Sed in Deo non
+est facultas eligendi malum. Ergo in Deo non est liberum arbitrium.
+AG3
+Praeterea, liberum arbitrium est potentia ad oppositos actus se habens. Sed Deus non se habet ad opposita, cum
+sit immutabilis, nec in malum flecti possit. Ergo liberum arbitrium non est in Deo.
+AG4
+Praeterea, actus liberi arbitrii est eligere, ut patet per definitionem inductam. Electio autem Deo non competit;
+cum sequatur consilium, quod est dubitantis et inquirentis.
+490
+
+

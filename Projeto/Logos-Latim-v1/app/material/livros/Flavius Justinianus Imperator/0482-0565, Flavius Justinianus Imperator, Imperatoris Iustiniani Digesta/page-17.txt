@@ -1,0 +1,53 @@
+37.14.0. De iure patronatus.
+37.15.0. De obsequiis parentibus et patronis praestandis.
+Explicit ex ordine degestorum trigensimus septimus.
+
+Incipit liber trigensimus octavus, de bonorum possessionibus secundus.
+38.1.0. De operis libertorum.
+38.2.0. De bonis libertorum.
+38.3.0. De libertis universitatium.
+38.4.0. De adsignandis libertis.
+38.5.0. Si quid in fraudem patroni factum sit.
+38.6.0. Si tabulae testamenti nullae extabunt, unde liberi.
+38.7.0. Unde legitimi.
+38.8.0. Unde cognati.
+38.9.0. De successorio edicto.
+38.10.0. De gradibus et adfinibus et nominibus eorum.
+38.11.0. Unde vir et uxor.
+38.12.0. De veteranorum et militum successione.
+38.13.0. Quibus non competit bonorum possessio.
+38.14.0. Ut ex legibus senatusve consultis bonorum possessio detur.
+38.15.0. Quis ordo in possessionibus servetur.
+38.16.0. De suis et legitimis heredibus.
+38.17.0. Ad senatus consultum Tertullianum et Orphitianum.
+Explicitus est liber ex ordone digestorum trigensimus octavus, de bonorum possessionibus secundus.
+
+Incipit ex ordine liber trigensimus nonus.
+39.1.0. De operis novi nuntiatione.
+39.2.0. De damno infecto et de suggrundis et proiectionibus.
+39.3.0. De aqua et aquae pluviae arcendae.
+39.4.0. De publicanis et vectigalibus et commissis.
+39.5.0. De donationibus.
+39.6.0. De mortis causa donationibus et capionibus.
+Explicit liber ex ordine digestorum trigensimus nonus.
+
+Incipit ex ordine liber quadragensimus.
+40.1.0. De manumissionibus.
+40.2.0. De manumissis vindicta.
+40.3.0. De manumissionibus quae servis ad universitatem pertinentibus imponuntur.
+40.4.0. De manumissis testamento.
+40.5.0. De fideicommissariis libertatibus.
+40.6.0. De ademptione libertatis.
+40.7.0. De statuliberis.
+40.8.0. Qui sine manumissione ad libertatem perveniunt.
+40.9.0. Qui et a quibus manumissi liberi non fiunt et ad legem Aeliam Sentiam.
+40.10.0. De iure aureorum anulorum.
+40.11.0. De natalibus restituendis.
+40.12.0. De liberali causa.
+40.13.0. Quibus ad libertatem proclamare non licet.
+40.14.0. Si ingenuus esse dicetur.
+40.15.0. Ne de statu defunctorum post quinquennium quaeratur.
+40.16.0. De collusione detegenda.
+Explicit liber ex ordine digestorum quadragensimus.
+
+

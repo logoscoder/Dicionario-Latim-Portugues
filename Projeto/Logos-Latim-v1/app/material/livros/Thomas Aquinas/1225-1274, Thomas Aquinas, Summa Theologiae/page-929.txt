@@ -1,0 +1,62 @@
+CO
+Respondeo dicendum quod opinio stoicorum fuit, quam tullius prosequitur in paradoxis, quod omnia peccata
+sunt paria. Et ex hoc etiam derivatus est quorundam haereticorum error, qui, ponentes omnia peccata esse paria,
+dicunt etiam omnes poenas inferni esse pares. Et quantum ex verbis tullii perspici potest, stoici movebantur ex
+hoc quod considerabant peccatum ex parte privationis tantum, prout scilicet est recessus a ratione, unde
+simpliciter aestimantes quod nulla privatio susciperet magis et minus, posuerunt omnia peccata esse paria.
+Sed si quis diligenter consideret, inveniet duplex privationum genus. Est enim quaedam simplex et pura privatio,
+quae consistit quasi in corruptum esse, sicut mors est privatio vitae, et tenebra est privatio luminis. Et tales
+privationes non recipiunt magis et minus, quia nihil residuum est de habitu opposito. Unde non minus est
+mortuus aliquis primo die mortis, et tertio vel quarto, quam post annum, quando iam cadaver fuerit resolutum. Et
+similiter non est magis tenebrosa domus, si lucerna sit operta pluribus velaminibus, quam si sit operta uno solo
+velamine totum lumen intercludente.
+Est autem alia privatio non simplex, sed aliquid retinens de habitu opposito; quae quidem privatio magis
+consistit in corrumpi, quam in corruptum esse, sicut aegritudo, quae privat debitam commensurationem
+humorum, ita tamen quod aliquid eius remanet, alioquin non remaneret animal vivum; et simile est de
+turpitudine, et aliis huiusmodi. Huiusmodi autem privationes recipiunt magis et minus ex parte eius quod
+remanet de habitu contrario, multum enim refert ad aegritudinem vel turpitudinem, utrum plus vel minus a debita
+commensuratione humorum vel membrorum recedatur. Et similiter dicendum est de vitiis et peccatis, sic enim in
+eis privatur debita commensuratio rationis, ut non totaliter ordo rationis tollatur; alioquin malum, si sit integrum,
+destruit seipsum, ut dicitur in IV ethic.; non enim posset remanere substantia actus, vel affectio agentis, nisi
+aliquid remaneret de ordine rationis. Et ideo multum interest ad gravitatem peccati, utrum plus vel minus
+recedatur a rectitudine rationis.
+Et secundum hoc dicendum est quod non omnia peccata sunt paria.
+RA1
+Ad primum ergo dicendum quod peccata committere non licet, propter aliquam deordinationem quam habent.
+Unde illa quae maiorem deordinationem continent, sunt magis illicita; et per consequens graviora peccata.
+RA2
+Ad secundum dicendum quod ratio illa procedit de peccato, ac si esset privatio pura.
+RA3
+Ad tertium dicendum quod virtutes sunt aequales proportionaliter in uno et eodem, tamen una virtus praecedit
+aliam dignitate secundum suam speciem; et unus etiam homo est alio virtuosior in eadem specie virtutis, ut supra
+habitum est.
+Et tamen si virtutes essent pares, non sequeretur vitia esse paria, quia virtutes habent connexionem, non autem
+vitia seu peccata.
+|a3 Articulus 3
+AG1
+Ad tertium sic proceditur. Videtur quod peccatorum gravitas non varietur secundum obiecta. Gravitas enim
+peccati pertinet ad modum vel qualitatem ipsius peccati.
+Sed obiectum est materia ipsius peccati.
+Ergo secundum diversa obiecta, peccatorum gravitas non variatur.
+AG2
+Praeterea, gravitas peccati est intensio malitiae ipsius.
+Peccatum autem non habet rationem malitiae ex parte conversionis ad proprium obiectum, quod est quoddam
+bonum appetibile; sed magis ex parte aversionis. Ergo gravitas peccatorum non variatur secundum diversa
+obiecta.
+AG3
+Praeterea, peccata quae habent diversa obiecta, sunt diversorum generum. Sed ea quae sunt diversorum generum,
+non sunt comparabilia, ut probatur in VII physic..
+Ergo unum peccatum non est gravius altero secundum diversitatem obiectorum.
+SC
+Sed contra, peccata recipiunt speciem ex obiectis, ut ex supradictis patet.
+Sed aliquorum peccatorum unum est gravius altero secundum suam speciem, sicut homicidium furto.
+Ergo gravitas peccatorum differt secundum obiecta.
+CO
+Respondeo dicendum quod, sicut ex supradictis patet, gravitas peccatorum differt eo modo quo una aegritudo est
+alia gravior, sicut enim bonum sanitatis consistit in quadam commensuratione humorum per convenientiam ad
+naturam animalis, ita bonum virtutis consistit in quadam commensuratione humani actus secundum
+convenientiam ad regulam rationis.
+
+929
+
+

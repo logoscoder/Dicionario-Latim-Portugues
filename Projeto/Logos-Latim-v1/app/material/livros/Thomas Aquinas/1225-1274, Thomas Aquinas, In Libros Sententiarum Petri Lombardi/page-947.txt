@@ -1,0 +1,59 @@
+Ulterius. Videtur quod Christus, secundum quod homo, sit suppositum, vel res naturae. Suppositum enim vel res
+naturae dicitur aliquis ex hoc quod habet naturam humanam. Sed Christus, secundum quod homo, habet
+humanam naturam.
+Ergo, secundum quod homo, est suppositum, vel res naturae.
+AG2
+Praeterea, humana natura ita vere est in Christo, sicut accidentia humanae naturae. Sed Christus, secundum quod
+homo, est subjectum accidentium humanae naturae. Ergo et secundum quod homo, est suppositum, vel res
+naturae.
+AG3
+Praeterea, Christus, secundum quod homo, est res quaedam. Sed non est res nullius naturae.
+Ergo est, secundum quod homo, res naturae.
+SC1
+Sed contra, suppositum humanae naturae est idem quod hypostasis vel persona. Sed Christus, secundum quod
+homo, non est hypostasis vel persona.
+Ergo nec suppositum, vel res naturae.
+CO
+Ad tertiam quaestionem dicendum, quod in propositionibus per se aliter est ex parte subjecti, et ex parte
+praedicati: quia ex parte subjecti sufficit quod secundum unum tantum eorum quae in subjecto continentur,
+praedicatum per se subjecto conveniat; ex parte autem praedicati oportet quod quidquid est in praedicato, per se
+conveniat subjecto; unde haec non est per se: homo est animal album; haec autem est per se: albus homo est
+animal. Secundum hoc dico, quod in hoc quod dico, suppositum, vel res naturae, duo importantur; scilicet
+respectus ad naturam communem; et aliud subsistens, cui inest respectus ille: quorum unum inest Christo
+secundum quod homo, scilicet respectus ad naturam communem; non autem alterum, ut patet ex praedictis, et
+ideo haec est falsa: Christus secundum quod homo, est suppositum, vel res naturae; tamen magis accedit ad
+veritatem quam aliqua praedictarum, inquantum ista nomina imponuntur per respectum ad naturam communem:
+unde si suppositum sumatur adjective, est vera: Christus enim, secundum quod homo, supponitur humanae
+naturae, vel est aliquod suppositum humanae naturae; et hoc etiam valet ad ea quae dicta sunt de persona et
+individuo.
+RA1
+Et per hoc etiam patet solutio ad primum.
+RA2
+Ad secundum dicendum, quod quia accidentia non pertinent ad esse rei sicut natura communis, ideo in nomine
+subjecti non includitur nisi respectus ad accidens; non autem ratio per se existentis, ut significatum ejus, sed
+sicut praesuppositum; et ideo non est similis ratio de subjecto et supposito.
+RA3
+Ad tertium dicendum, quod Christus, secundum quod homo, est quaedam res, et etiam secundum quod homo, est
+alicujus naturae; non tamen sequitur quod sit res naturae secundum quod homo; quia plus est in significatione
+compositi quam in significationibus componentium: quod et in istis accidit; sicut non omnis arma gerens est
+armiger.
+
+|+d10.q2 Distinctio 10, Quaestio 2
+|a0 Prologus
+PR
+Deinde quaeritur de filiatione per adoptionem: et circa hoc quaeruntur duo: 1 quaeritur de ea ex parte adoptantis;
+2 ex parte adoptati.
+|a1 Articulus 1: Utrum Deo conveniat aliquem in filium adoptare.
+Articulus 1A
+AG1
+Ad primum sic proceditur. Videtur quod Deo non competat aliquem in filium adoptare. Adoptio enim est
+alicujus extraneae personae in filium vel nepotem, vel deinceps, legitima assumptio.
+Sed Deo non est aliqua persona extranea, quia omnes ipse condidit. Ergo ei non competit adoptare.
+AG2
+Praeterea, apud nos adoptans non est principium essendi adoptato. Sed Deus est omnibus principium essendi.
+Ergo non competit ei aliquem adoptare.
+AG3
+
+947
+
+

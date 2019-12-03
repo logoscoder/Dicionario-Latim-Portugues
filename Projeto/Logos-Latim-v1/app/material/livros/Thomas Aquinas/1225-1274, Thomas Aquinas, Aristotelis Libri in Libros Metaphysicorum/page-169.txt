@@ -1,0 +1,58 @@
+|#8
+Alio modo dicuntur diversa genere, quae dicuntur secundum diversam figuram categoriae, idest
+praedicationis entis. Alia namque entia significant quid est, alia quale, alia aliis modis, sicut divisum est prius,
+ubi tractavit de ente. Istae enim categoriae nec resolvuntur invicem, quia una non continetur sub alia. Nec
+resolvuntur in unum aliquid, quia non est unum aliquod genus commune ad omnia praedicamenta.
+|#9 Patet autem ex dictis quod aliqua continentur sub uno praedicamento, et sunt unum genere hoc modo
+secundo, quae tamen sunt diversa genere primo modo. Sicut corpora caelestia et elementaria, et colores, et
+sapores. Primus autem modus diversitatis secundum genus consideratur magis a naturali, et etiam a Philosopho,
+quia est magis realis. Secundus autem modus consideratur a logico, quia est rationis.
+|#10
+Deinde cum dicit falsum dicitur hic distinguit nomina, quae significant defectum entis, vel ens
+incompletum.
+Et primo hoc nomen falsum. Secundo hoc nomen accidens.
+Circa primum tria facit. Primo ostendit quomodo dicatur falsum in rebus. Secundo quomodo in definitionibus,
+ibi, ratio vero falsa. Tertio quomodo sit falsum in hominibus, ibi, sed et homo falsus.
+Dicit ergo primo, quod falsum dicitur uno modo in rebus, per hoc quod oratio significans rem non congrue
+componitur.
+Quod quidem contingit dupliciter.
+Uno modo per hoc, quod aliquid componitur quod non debet componi, sicut est in falsis contingentibus. Alio
+modo per hoc quod est impossibile componi, sicut est in falsis impossibilibus. Si enim dicamus diametrum esse
+commensurabilem quadrati lateri, est falsum impossibile, quia impossibile est commensurabile componi
+diametro. Si autem dicatur te sedere, te stante, est falsum contingens, quia praedicatum non inest subiecto, licet
+non sit impossibile inesse. Unde unum istorum, scilicet impossibile, est falsum semper; sed aliud, scilicet
+contingens, non est falsum semper. Sic igitur falsa dicuntur, quae omnino sunt non entia. Nam oratio tunc esse
+falsa dicitur, quando non est id quod oratione significatur.
+|#11 Secundo modo dicitur falsum in rebus ex eo, quod aliqua quidem sunt entia in se, sed tamen sunt apta nata
+videri aut qualia non sunt, aut quae non sunt, sicut schiagraphia, idest umbrosa descriptio.
+Umbrae enim quandoque videntur res, quarum sunt umbrae, sicut umbra hominis videtur homo. Et eadem ratio
+est de somniis, quae videntur res verae, tamen non sunt nisi rerum similitudines. Et similiter dicitur aurum
+falsum, quod habet similitudinem auri veri. Differt autem hic modus a primo: quia in primo dicebatur aliquod
+falsum, ex eo quod non erat. Hic autem dicuntur aliqua falsa quae quidem in se sunt aliquid, sed non sunt illa
+quorum faciunt phantasiam, idest quorum habent apparentiam. Patet ergo quod res dicuntur falsae, aut quia non
+sunt, aut quia ab eis est apparentia eius quod non est.
+|#12 Deinde cum dicit ratio vero ostendit quomodo est falsum in definitionibus: et dicit quod ratio, idest
+definitio, inquantum est falsa, est non entium. Dicit autem inquantum est falsa, quia definitio dicitur falsa
+dupliciter. Aut secundum se; et sic non est definitio alicuius, sed penitus non entis. Aut est definitio vera in se,
+sed falsa est prout attribuitur alteri quam proprio definito, et sic dicitur falsa inquantum non est eius.
+|#13 Unde patet, quod omnis definitio, quae est vera definitio alicuius rei, est falsa definitio alterius; ut definitio
+quae est vera de circulo, est falsa de triangulo.
+Definitio autem cuiuslibet rei significans quod quid est, quodam modo est una tantum unius, et quodam modo
+sunt multae unius. Aliquo enim modo ipsum subiectum per se sumptum, et ipsum passum, idest cum passione
+sumptum, est idem, sicut socrates et socrates musicus.
+Aliquo modo non: est enim idem per accidens, sed non per se. Patet autem, quod eorum sunt definitiones
+diversae. Alia enim est definitio socratis et socratis musici; et tamen ambae sunt quodammodo eiusdem.
+|#14 Sed illa definitio, quae est falsa secundum se, non potest esse definitio alicuius rei. Definitio autem falsa
+secundum se vel simpliciter, dicitur ex eo, quod una pars definitionis non potest stare cum altera; sicut si
+diceretur, animal inanimatum.
+|#15 Patet autem ex hoc, quod stulta fuit opinio antisthenis. Volebat enim, quod quia voces sunt signa rerum,
+quod sicut res non habet aliam essentiam nisi propriam, ita in propositione nihil posset praedicari de aliquo, nisi
+propria eius definitio, ut simpliciter vel semper de uno subiecto dicatur unum praedicatum. Et ex hoc sequitur,
+quod non sit contradictio; quia, si de homine praedicatur animal, quod est in eius ratione, non poterit de ipso
+praedicari non animal; et ita non poterit formari negativa propositio. Et ex hac positione etiam sequitur, quod non
+contingit aliquem mentiri: quia propria definitio rei vere praedicatur de re. Unde, si de nullo potest praedicari nisi
+propria definitio, nulla propositio erit falsa.
+
+169
+
+

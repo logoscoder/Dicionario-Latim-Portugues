@@ -1,0 +1,61 @@
+Quidam enim dicunt, quod sunt ex materia et forma compositi. Alii dicunt, quod sunt compositi ex esse et quod
+est, ut boetius dicit.
+Et utroque modo oportet ponere potentialitatem in Angelo.
+De primo enim modo patet. Similiter patere potest de secundo, quia omne quod non est suum esse, oportet quod
+habeat esse receptum ab alio, quod est sibi causa essendi.
+Et ita, in se consideratum, est in potentia respectu illius esse, quod recipit ab alio. Et hoc modo ad minus
+potentialitatem ponere oportet in Angelo, quia Angelus non est suum esse, hoc enim solius Dei est. Et ita
+relinquitur quod Angelus possit esse subiectum accidentalis formae.
+RA1
+Ad primum ergo dicendum, quod substantialis simplicitas in Angelis excludit compositionem materiae et
+formae, non autem compositionem ex esse et quod est; quam compositionem ad minus accidentalis compositio
+in Angelis praesupponit. Et iterum non oportet quod, si esse accidentale causatur a substantiali, compositio
+accidentalis a compositione substantiali causetur; quia substantia aliquo modo simplex potest esse subiectum
+accidentis, ut dictum est.
+RA2
+Ad secundum dicendum, quod boetius loquitur de illa forma simplici quae est actus purus, cui nihil
+potentialitatis admiscetur; et talis est solus Deus.
+|q4 Quaestio 4
+Prologus
+PR
+Deinde quaeritur de sacramento altaris. Et circa hoc quaeruntur tria.
+PR1
+Primo utrum corpus Christi secundum totam suam quantitatem contineatur sub speciebus panis.
+PR2
+Secundo utrum in eodem instanti sit panis et corpus Christi.
+PR3
+Tertio utrum Deus possit facere quod albedo et aliae qualitates sint sine quantitate, sicut facit quod quantitas in
+sacramento altaris sit sine subiecto.
+|a1 Articulus 1
+TTA
+Utrum corpus Christi secundum totam suam quantitatem contineatur sub speciebus panis.
+TTB
+Circa primum sic proceditur: videtur quod non possit totum corpus Christi sub illis speciebus panis contineri.
+AG
+Non enim potest etiam per miraculum fieri ut duo contradictoria sint simul vera, ut Augustinus dicit contra
+faustum. Hoc autem sequeretur, si totum corpus Christi subesset illis speciebus. Si enim est sub illis speciebus
+totum, non est maius illis speciebus, cum non excedat eas; et tamen secundum rei veritatem est maius, cum sit
+bicubitum vel amplius; et sic erit eodem maius et non maius.
+Ergo non potest, etiam per miraculum, fieri quod sub illis speciebus contineatur totum.
+SC
+Sed contra, ubicumque est pars alicuius corporis, est totum corpus, nisi corpus sit divisum. Sed corpus Christi
+non est divisum, cum sit impassibile. Ergo, cum aliquid corporis Christi sit sub illis speciebus, ut dicitur Matth.
+XXVI, 26: hoc est corpus meum; oportet quod sub illis speciebus totum corpus Christi contineatur.
+CO
+Respondeo. Dicendum, quod sub illis speciebus absque dubio continetur totum corpus Christi, et tota quantitas
+eius.
+Ad cuius evidentiam sciendum est, quod in sacramento altaris dupliciter aliquid continetur: uno modo ex VI
+sacramenti; alio modo ex naturali concomitantia. Verbi gratia, sub speciebus panis continetur et corpus et
+sanguis Christi: sed corpus ex VI sacramenti, sanguis ex concomitantia naturali, quia corpus Christi non est sine
+sanguine; sub speciebus autem vini est e converso.
+Illud autem continetur sub sacramento ex VI sacramenti quod est transubstantiationis terminus; et propter hoc
+anima et divinitas non continetur in sacramento ex VI sacramenti, cum panis et vinum in ea non convertantur,
+sed ex naturali concomitantia, qua anima inseparabiliter unitur illi corpori, et divinitas humanitati.
+Cum autem ex parte panis substantia transeat, et quantitas maneat cum reliquis accidentibus, patet quod directe
+transubstantiationis terminus est substantia corporis Christi; et sic ipsa substantia corporis Christi est ibi ex VI
+sacramenti, sed quantitas ex naturali concomitantia.
+Unde patet quod substantia corporis Christi immediate habet ordinem ad dimensiones panis remanentes;
+quantitas autem corporis Christi quasi ex consequenti.
+141
+
+

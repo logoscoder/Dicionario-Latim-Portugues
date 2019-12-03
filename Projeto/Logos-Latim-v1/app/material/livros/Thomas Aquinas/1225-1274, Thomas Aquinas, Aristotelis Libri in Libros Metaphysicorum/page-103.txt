@@ -1,0 +1,53 @@
+|#6 Si verum sit quod aliquid sit homo et non homo, verum est quod id non erit homo, nec erit non homo. Et
+hoc patet. Horum enim duorum quae sunt homo et non homo, sunt duae negationes, scilicet non homo et non non
+homo. Si autem ex primis duabus fiat una propositio, ut dicamus, socrates non est homo nec non homo, sequitur
+quod nec affirmatio nec negatio sit vera, sed utraque falsa.
+|#7 Deinde cum dicit amplius autem ponit quartam rationem quae sumitur ex certitudine cognitionis; et est talis.
+Si affirmatio et negatio simul verificantur, aut ita est in omnibus, aut ita est in quibusdam, et in quibusdam non:
+si autem non est verum in omnibus, illae, in quibus non est verum, erunt confessae, idest simpliciter et absolute
+concedendae, vel erunt certae, idest certitudinaliter verae secundum aliam translationem; idest in eis ita erit vera
+negatio, quod affirmatio erit falsa, vel e converso.
+|#8 Si autem hoc est verum in omnibus, quod contradictio verificetur de eodem, hoc contingit dupliciter. Uno
+modo quod de quibuscumque sunt verae affirmationes, sunt verae negationes, et e converso.
+Alio modo quod de quibuscumque verificantur affirmationes, verificentur negationes, sed non e converso.
+|#9 Et si hoc secundum sit verum, sequitur hoc inconveniens, quod aliquid firmiter vel certitudinaliter est non
+ens; et ita erit firma opinio, quae scilicet est de negativa; et hoc ideo, quia negativa semper est vera, eo quod
+quandocumque est affirmativa vera, est etiam negativa vera. Non autem affirmativa semper erit vera, quia
+positum est, quod non de quocumque est vera negativa, sit vera affirmativa; et ita negativa erit firmior et certior
+quam affirmativa: quod videtur esse falsum: quia dato quod non esse sit certum et notum, tamen semper erit
+certior affirmatio quam negatio ei opposita, quia veritas negativae semper dependet ex veritate alicuius
+affirmativae. Unde nulla conclusio negativa infertur, nisi in praemissis sit aliqua affirmativa. Conclusio vero
+affirmativa ex negativa non probatur.
+|#10 Si autem dicatur primo modo, scilicet quod de quibuscumque est affirmare, ita de eis est negare; similiter
+de quibuscumque est negare, de eis est affirmare, ut scilicet affirmatio et negatio convertantur: hoc contingit
+dupliciter: quia si semper negatio et affirmatio sunt simul verae, aut erit divisim dicere de utraque quod sit vera,
+verbi gratia, quod sit divisim dicere quod haec est vera, homo est albus, iterum haec est vera, homo non est
+albus: aut non est divisum utramque dicere veram sed solum coniunctim, ut si dicamus quod haec copulativa sit
+vera, homo est albus et homo non est albus.
+|#11 Et siquidem dicamus hoc secundo modo, ut scilicet non sit utraque vera divisim sed solum coniunctim,
+tunc sequuntur duo inconvenientia: quorum primum est, quod non dicet ea, idest quod non asseret nec
+affirmationem nec negationem, et quod ambae erunt nihil, idest quod ambae sunt falsae: vel secundum aliam
+translationem et non erit nihil, idest sequitur quod nihil sit verum, nec affirmatio nec negatio. Et si nihil est
+verum, nihil poterit dici nec intelligi. Quomodo enim aliquis pronuntiabit vel intelliget non entia? quasi dicat,
+nullo modo.
+|#12 Secundum inconveniens est, quia sequitur quod omnia sint unum, quod in priori ratione est dictum.
+Sequitur enim quod sit idem homo et Deus et triremis, et etiam contradictiones eorum, scilicet non homo et non
+Deus et non triremis.
+Et sic patet, quod si affirmatio et negatio simul dicuntur de unoquoque, tunc nihil differt unum ab alio. Si enim
+unum ab alio differret, oporteret quod aliquid diceretur de uno, quod non diceretur de alio.
+Et sic sequeretur quod aliquid esset verum determinate et proprium huic rei, quod non conveniret alteri. Et sic
+non de quolibet verificaretur affirmatio vel negatio.
+Constat autem quod ea quae nullo modo differunt, sunt unum; et ita sequetur omnia unum esse.
+|#13 Si autem dicatur primo modo, scilicet quod non solum coniunctim est dicere affirmationem et negationem,
+sed etiam divisim, sequuntur quatuor inconvenientia: quorum unum est, quod haec positio significat ipsum
+dictum, idest demonstrat hoc esse verum quod immediate est dictum. Unde alia litera habet accidit quod dictum
+est, scilicet quod omnia sunt unum; quia sic etiam similiter affirmatio et negatio de unoquoque dicetur, et non
+erit differentia unius ad aliud.
+|#14 Secundum est quod omnes verum dicerent, quia quilibet vel dicit affirmationem vel negationem, et utraque
+est vera; et omnes mentientur, quia contradictorium eius quod quisque dicit, erit verum. Et idem etiam homo
+seipsum dicere falsum confitetur; quia cum dicit negationem esse veram, dicit se falsum dixisse cum dixit
+affirmationem.
+
+103
+
+

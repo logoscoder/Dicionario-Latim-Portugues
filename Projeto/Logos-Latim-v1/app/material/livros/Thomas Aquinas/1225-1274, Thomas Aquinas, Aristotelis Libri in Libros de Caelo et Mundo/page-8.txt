@@ -1,0 +1,58 @@
+|#2 Sed videtur hoc esse falsum, quod unus motus simplex sit solum unius corporis simplicis: motus enim
+deorsum est naturalis aquae et terrae, et motus sursum est naturalis igni et aeri.
+Sed dicendum quod motus localis attribuitur elementis, non secundum calidum et frigidum, humidum et siccum,
+secundum quae distinguuntur quatuor elementa, ut patet in II de generat.: haec enim sunt principia alterationum.
+Motus autem localis attribuitur elementis secundum gravitatem et levitatem. Unde duo corpora gravia
+comparantur ad motum localem sicut unum corpus; et similiter duo corpora levia. Humidum enim et siccum,
+secundum quae differunt terra et aqua vel ignis et aer, accidentalem habitudinem habent ad motum localem. Et
+tamen in gravi et levi differentia quaedam est: nam ignis est levis simpliciter et absolute, terra autem gravis; aer
+autem est levis per comparationem ad duo elementa, et similiter aqua est gravis. Unde non omnino est idem
+secundum speciem motus aquae et terrae, vel ignis et aeris: quia non sunt idem termini, secundum quos
+specificantur eorum motus: aer enim natus est moveri ad locum qui subsidet igni, aqua autem ad locum qui
+supereminet terrae.
+|#3 Item videtur quod non sit necessarium, si corporis simplicis est unus motus simplex, quod propter hoc
+aliquis motus simplex sit alicuius corporis simplicis: sicut etiam non est necessarium quod tot sint corpora
+composita quot sunt motus compositi, qui diversificantur in infinitum.
+Sed dicendum est quod, sicut motus simplex localis non respondet corpori simplici quantum ad calidum et
+frigidum, humidum et siccum, ita etiam neque motus compositus respondet corpori mixto secundum gradus
+mixtionis praedictarum qualitatum, sed secundum compositionem gravis et levis; secundum cuius diversitatem
+diversificatur obliquatio corporis mixti a simplici motu gravis vel levis. Utraque autem diversitas non tendit in
+infinitum secundum speciem, sed solum secundum numerum.
+|#4 Item videtur quod secundum hoc sint multa corpora simplicia: quia sicut motus sursum et deorsum videntur
+esse motus simplices, ita motus qui est dextrorsum vel sinistrorsum, et qui est ante et retro. Et dicendum est
+quod, cum corpora simplicia sint essentiales et primae partes universi, oportet quod motus simplices, qui sunt
+naturales corporibus simplicibus, attendantur secundum conditionem universi. Quod cum sit sphaericum, ut infra
+probabitur, oportet quod motus eius attendatur per comparationem ad medium, quod est immobile: quia omnis
+motus fundatur supra aliquod immobile, ut dicitur in libro de causa motus animalium. Et ideo oportet esse solum
+tres motus simplices, secundum diversas habitudines ad medium: scilicet eum qui est a medio, et eum qui est ad
+medium, et eum qui est circa medium. Dextrum autem et sinistrum, ante et retro, considerantur in animalibus, et
+non in toto universo, nisi secundum quod ponuntur in caelo, ut in secundo dicetur: et secundum hoc motus
+circularis caeli est secundum dextrum et sinistrum, ante et retro.
+|#5 Item videtur quod motus rectus et circularis non sint eiusdem rationis. Est enim motus rectus corporis
+nondum habentis complementum suae speciei, ut in quarto dicetur, et existentis extra proprium locum: motus
+autem circularis est corporis habentis complementum suae speciei, et in loco proprio existentis. Unde non videtur
+quod secundum eandem rationem motus simplices corporales sint simplicium corporum; sed quod alii motus sint
+corporum prout sunt in fieri, circularis autem prout sunt in facto esse. Sed dicendum quod, quia motus
+proportionatur mobili tanquam actus eius, conveniens est quod corpori quod est separatum a generatione et a
+corruptione, et non potest per violentiam expelli a proprio loco, debeatur motus circularis, qui est corporis in suo
+loco existentis: corporibus autem aliis generabilibus et corruptibilibus debetur motus extra proprium locum, qui
+est absque complemento speciei.
+Non tamen ita quod corpus quod movetur naturaliter motu recto, non habeat primum complementum suae
+speciei, quod est forma; hanc enim sequitur talis motus: sed quia non habet ultimum complementum, quod est in
+consecutione finis, qui est locus conveniens et conservans.
+|#6 Secundam rationem ponit ibi: adhuc si qui praeter naturam etc.: in qua praesupponit duo principia. Quorum
+unum est quod motus qui est praeter naturam, idest violentus, contrarietur motui naturali; sicut terra movetur
+deorsum secundum naturam, sursum autem contra naturam. Secundum principium est quod unum uni est
+contrarium, ut probatum est in X metaphys..
+Oportet autem et tertium supponere, quod sensu videtur, scilicet esse aliquod corpus circulariter motum. Et si
+quidem ille motus sit illi corpori naturalis, habemus propositum secundum praemissam rationem, quod scilicet
+illud corpus naturaliter motum circulo, sit aliud a quatuor corporibus simplicibus. Si vero motus huiusmodi non
+sit ei naturalis, oportet quod sit ei contra naturam.
+Ponatur ergo primo quod illud corpus circulariter motum sit ignis, ut quidam dicunt, vel quodcumque aliud
+quatuor elementorum. Oportebit ergo quod motus naturalis ignis, qui est moveri sursum, sit contrarius motui
+circulari. Sed hoc non potest esse: quia uni unum est contrarium, motui autem sursum contrariatur motus
+deorsum, et sic non potest ei contrariari motus circularis. Et eadem ratio est de aliis tribus elementis.
+
+8
+
+

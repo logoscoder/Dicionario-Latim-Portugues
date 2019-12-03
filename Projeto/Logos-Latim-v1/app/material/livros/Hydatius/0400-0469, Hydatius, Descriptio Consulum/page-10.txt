@@ -1,0 +1,63 @@
+72 (Aer. Hisp. 110) Vespasiano IV et Tito II.
+73 Domitiano II et Messalino.
+74 Vespasiano V et Tito III.
+75 Vespasiano VI et Tito IV.
+76 Vespasiano VII et Tito V.
+77 Vespasiano VIII et Domitiano III [Al. Tito VI, cui Domitianus suffectus]. His conss. Judaei pervicti sunt.
+78 Commodus et Priscus omissi.
+79 Vespasiano IX et Tito VI [Al. Tito VII].
+80 Tito VII et Domitiano IV [Al. Tito VIII et Dom. VII].
+81 Galba [Al. Silvano] et Pollione.
+82 (Aer. Hisp. 120) Domitiano V et Flavio Sabino.
+83 Domitiano VI et Rufo.
+84 Domitiano VII et Appio Sabino II.
+85 Domitiano VIII et Fulvio.
+86 Domitiano IX et Dolabella.
+87 Domitiano X et Saturnino.
+88 Domitiano XI et Rufo.
+89 Fulvio et Atratino.
+90 Domitiano XII et Nerva II.
+91 Glabrione et Trajano.
+92 (Aer. Hisp. 130) Domitiano XIII et Saturnino.
+93 Pompeiano et Prisciano [Al. Pompeio et Prisco].
+94 Asprenate et Laterano [Al. Arretino Clemente].
+95 Domitiano XIV et Clemente [Al. T. Fl. Clemente].
+96 Valente et Vetere. His conss. excessit Domitianus in palatio Romae.
+97 Nerva III et Rufo III.
+98 Nerva IV et Trajano II.
+99 Palma et Senecione [Al. add. II].
+100 Trajano III et Pontino [Al. Frontone].
+101 Trajano IV et Paeto.
+102 (Aer. Hisp. 140) Severiano et Syrio [Al. Senecione III et Sura].
+103 Trajano V et Maximo.
+104 Suburano [Al. Surano] II et Marcello
+105 Candido II et Quadrato.
+106 Commodo et Cereali.
+107 Syra III [Al. Sura IV] et Senecione II.
+108 Gallo et Bradua.
+109 Palma II et Tullo.
+110 Orfito et Prisciano [Al. Crispino].
+111 Pisone et Juliano [Al. Bolano].
+112 (Aer. Hisp. 150) Trajano VI et Africano. His conss. persecutio Christianorum.
+113 Celso II et Prisciano [Al. Crispino] II.
+114 Hasta et Voluso [Al. Vopisco].
+115 Messala et Pedone.
+116 Aeliano et Vetere.
+117 Aproniano et Nigro.
+118 Hadriano [Al. add. II] et Salinatore.
+119 Hadriano IV [Al. III] et Rustico.
+120 Severo II et Fulvo.
+121 Vero II et Augure.
+122 (Aer. Hisp. 160) Aviola et Pansa
+123 Aproniano et Paupino [Al. Paetino].
+124 Glabrione et Torquato.
+125 Asiatico [Al. add. II] et Aquilino.
+126 Vero III et Ambibulo.
+127 Titiano et Gallicano.
+128 Torquato et Libone.
+129 Marcello [Al. Q. Jul. Balbo] et Celso.
+130 Catullino et Libone [Al. Apro].
+131 Pontiano et Rufo [Al. Rufino].
+10
+
+

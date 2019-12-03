@@ -1,0 +1,61 @@
+[82210] In Metaphysic., lib. 4 l. 8 n. 10
+Si autem dicatur primo modo, scilicet quod de quibuscumque est affirmare, ita de eis est negare; similiter de
+quibuscumque est negare, de eis est affirmare, ut scilicet affirmatio et negatio convertantur: hoc contingit dupliciter:
+quia si semper negatio et affirmatio sunt simul verae, aut erit divisim dicere de utraque quod sit vera, verbi gratia, quod
+sit divisim dicere quod haec est vera, homo est albus, iterum haec est vera, homo non est albus: aut non est divisum
+utramque dicere veram sed solum coniunctim, ut si dicamus quod haec copulativa sit vera, homo est albus et homo non
+est albus.
+[82211] In Metaphysic., lib. 4 l. 8 n. 11
+Et siquidem dicamus hoc secundo modo, ut scilicet non sit utraque vera divisim sed solum coniunctim, tunc sequuntur
+duo inconvenientia: quorum primum est, quod non dicet ea, idest quod non asseret nec affirmationem nec negationem,
+et quod ambae erunt nihil, idest quod ambae sunt falsae: vel secundum aliam translationem et non erit nihil, idest
+sequitur quod nihil sit verum, nec affirmatio nec negatio. Et si nihil est verum, nihil poterit dici nec intelligi. Quomodo
+enim aliquis pronuntiabit vel intelliget non entia? Quasi dicat, nullo modo.
+[82212] In Metaphysic., lib. 4 l. 8 n. 12
+Secundum inconveniens est, quia sequitur quod omnia sint unum, quod in priori ratione est dictum. Sequitur enim quod
+sit idem homo et Deus et triremis, et etiam contradictiones eorum, scilicet non homo et non Deus et non triremis. Et sic
+patet, quod si affirmatio et negatio simul dicuntur de unoquoque, tunc nihil differt unum ab alio. Si enim unum ab alio
+differret, oporteret quod aliquid diceretur de uno, quod non diceretur de alio. Et sic sequeretur quod aliquid esset verum
+determinate et proprium huic rei, quod non conveniret alteri. Et sic non de quolibet verificaretur affirmatio vel negatio.
+Constat autem quod ea quae nullo modo differunt, sunt unum; et ita sequetur omnia unum esse.
+[82213] In Metaphysic., lib. 4 l. 8 n. 13
+Si autem dicatur primo modo, scilicet quod non solum coniunctim est dicere affirmationem et negationem, sed etiam
+divisim, sequuntur quatuor inconvenientia: quorum unum est, quod haec positio significat ipsum dictum, idest
+demonstrat hoc esse verum quod immediate est dictum. Unde alia litera habet accidit quod dictum est, scilicet quod
+omnia sunt unum; quia sic etiam similiter affirmatio et negatio de unoquoque dicetur, et non erit differentia unius ad
+aliud.
+[82214] In Metaphysic., lib. 4 l. 8 n. 14
+Secundum est quod omnes verum dicerent, quia quilibet vel dicit affirmationem vel negationem, et utraque est vera; et
+omnes mentientur, quia contradictorium eius quod quisque dicit, erit verum. Et idem etiam homo seipsum dicere
+falsum confitetur; quia cum dicit negationem esse veram, dicit se falsum dixisse cum dixit affirmationem.
+[82215] In Metaphysic., lib. 4 l. 8 n. 15
+Tertium est quia manifestum est quod adhuc non poterit esse perscrutatio vel disputatio. Non enim potest disputari cum
+aliquo qui nihil concedit. Ille enim nihil dicit, quia nec dicit absolute quod est ita, nec dicit quod non est ita; sed dicit
+quod est ita et non est ita. Et iterum ambo ea negat dicens quod nec est ita nec non ita, sicut ex praecedenti ratione
+apparet. Si enim non omnia ista neget, sequitur quod ipse noverit aliquid determinate verum; quod est contra positum.
+Vel secundum quod alia translatio habet, et planius, iam utique erit determinatum.
+[82216] In Metaphysic., lib. 4 l. 8 n. 16
+Quartum sequitur per definitionem veri et falsi. Verum enim est cum dicitur esse quod est vel non esse quod non est.
+Falsum autem est cum dicitur non esse quod est, aut esse quod non est. Ex quo patet per definitionem veri et falsi, quod
+quando affirmatio est vera, tunc negatio est falsa: tunc enim dicit non esse, quod est: et si negatio est vera, tunc
+affirmatio est falsa: tunc enim dicitur esse de eo quod non est. Non ergo contingit vere idem affirmare et negare. Sed
+forte adversarius ad hoc ultimum poterit dicere, quod hic est petitio principii. Qui enim ponit contradictionem simul
+esse veram, non recipit hanc definitionem falsi, scilicet quod falsum est dicere quod non est esse, vel quod est non esse.
+Lectio 9
+[82217] In Metaphysic., lib. 4 l. 9 n. 1
+Hic ponit quintam rationem, quae sumitur ex veritatis ratione, quae talis est. Dictum est quod affirmatio et negatio
+simul vera ponuntur: ergo ille, qui suscipit sive opinatur sic se habere, idest affirmationem tantum aut non sic se habere,
+scilicet ille, qui opinatur negationem esse veram tantum, mentitus est: qui vero opinatur ambo simul, dicit verum. Cum
+igitur verum sit quando ita est in re sicut est in opinione, vel sicut significatur voce, sequitur quod ipsum quod dicit erit
+aliquid determinatum in rebus, scilicet quia entium natura talis erit qualis dicitur, ut non patiatur affirmationem et
+negationem simul. Vel secundum aliam literam quia talis est entium natura: quasi dicat, ex quo hoc quod dicitur est
+determinate verum, sequitur quod res habeat naturam talem. Si autem dicatur quod ille qui existimat simul
+affirmationem et negationem, non opinatur verum, sed magis ille qui existimat illo modo, quod vel tantum affirmatio
+vel tantum negatio sit vera, adhuc manifestum est quod entia se habebunt in aliquo modo determinate. Unde alia
+translatio habet planius quodammodo et hoc erit verum determinate, et non erit simul non verum ex quo sola affirmatio
+vel negatio est vera.
+[82218] In Metaphysic., lib. 4 l. 9 n. 2
+Sed si omnes praedicti, scilicet et illi qui dicunt utramque partem contradictionis, et illi qui dicunt alteram mentiuntur,
+et omnes etiam verum dicunt; cum tali qui hoc ponit, non est disputandum nec aliquid dicendum ut disputetur cum eo;
+
+

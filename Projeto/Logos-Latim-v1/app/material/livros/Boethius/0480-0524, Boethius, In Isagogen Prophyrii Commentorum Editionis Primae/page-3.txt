@@ -1,0 +1,61 @@
+[1.03.14] Quoniam uero finis ille logicae quem sola speculatur philosophia ad alias eius partes suam operam
+pollicetur, instrumentum esse philosophiae non negamus.
+[1.03.15] Est autem finis logicae inuentio iudiciumque rationum.
+[1.03.16] Quod scilicet non esse mirum uidebitur quod eadem pars, eadem quoddam ponitur instrumentum, si
+ad partes corporis animum reducamus quibus et fit aliquid ut his quasi quibusdam instrumentis utamur, et in toto tamen
+corpore partium obtinent locum. Manus enim ad tractandum, oculi ad /143/ uidendum, caeteraeque corporis partes
+proprium quoddam uidentur habere officium. Quod tamen si ad totius utilitatem corporis referatur, instrumenta
+quaedam corporis esse deprehenduntur quae etiam partes esse nullus abnuerit.
+[1.03.17] Ita quoque logica disciplina pars quidem philosophiae est, quoniam eius philosophia sola magistra
+est, supellex uero quod per eam inquisita philosophiae ueritas uestigatur.
+[ 1.04 ]
+[1.04.01] Sed quoniam, quantum mihi quoque breuitas succincta largita est, ortum logicae et quid ipsa logica
+esset explicui, nunc de eo nobis libro pauca dicenda sunt quem in praesens sumpsimus exponendum.
+[1.04.02] Titulo enim proponit Porphyrius introductionem se in Aristotelis Praedicamenta conscribere.
+[1.04.03] Quid uero ualeat haec introductio uel ad quid lectoris animum praeparet breuiter explicabo.
+[1.04.04] Aristoteles enim librum qui De decem praedicamentis inscribitur hac intentione composuit ut
+infinitas rerum diuersitates quae sub scientiam cadere non possent paucitate generum comprehenderet, atque ita quod
+per incomprehensibilem multitudinem sub disciplinam uenire non poterat per generum, ut dictum est, paucitatem animo
+fieret scientiaeque subiectum.
+[1.04.05] Decem igitur genera rerum esse omnium considerauit -- id est unam substantiam et accidentia nouem
+(quae sunt qualitas, quantitas, relatio, ubi, quando, facere et pati, situs, habere) -- quae quoniam genera essent suprema
+et quibus nullum aliud superponi genus posset, omnem necesse est multitudinem rerum horum decem generum species
+/144/ inueniri.
+[1.04.06] Quae quidem genera a se omnibus differentiis distributa sunt nec quicquam uidentur habere
+commune nisi tantum nomen, quoniam omnia esse praedicantur. Quippe substantia est, qualitas est, quantitas est, et de
+aliis omnibus 'est' uerbum communiter praedicatur sed non est eorum communis una substantia uel natura sed tantum
+nomen. Itaque decem genera ab Aristotele reperta omnibus a se differentiis distributa sunt.
+[1.04.07] Sed quae aliquibus differentiis disiunguntur necesse est ut habeant proprium quiddam quod ea in
+singularem solitariamque uindicet formam. Non est autem idem proprium quod accidens: accidentia enim et uenire et
+abesse possunt, propria ita sunt insita ut absque his quorum sunt propria esse non possint.
+[1.04.08] Quae cum ita sint cumque Aristoteles decem rerum genera repperisset quae uel intellegendo mens
+caperet uel loquendo disputator efferret (quicquid enim intellectu capimus id ad alterum sermone uulgamus), euenit ut
+ad horum decem praedicamentorum intellegentiam quinque harum rerum tractatus incurreret, scilicet generis, speciei,
+differentiae, proprii, accidentis.
+[1.04.09] Generis quidem quoniam oportet ante praediscere quid sit genus ut decem illa quae Aristoteles
+caeteris anteposuit rebus genera esse possimus agnoscere.
+[1.04.10] Speciei uero cognitio plurimum ualet ut quae cuiusque generis sit species possit agnosci. Si enim
+quid sit species intellegimus, nihil impediti errore turbamur. Fieri enim potest ut per speciei inscientiam saepe
+quantitatis species in relatione ponamus et cuiuslibet primi generis species alteri cuilibet /145/ generi subdamus atque
+ita fiat permixta rerum atque indiscreta confusio; quod ne accidat quae sit natura speciei ante noscendum est. Nec uero
+in hoc tantum prodest speciei cognoscenda natura ne priorum generum species inuicem permutemus, uerum etiam ut in
+eodem quolibet genere proximas species generi nouerimus eligere, ut ne substantiae mox animal dicamus esse speciem
+potius quam corpus aut corporis hominem potius quam animatum corpus.
+[1.04.11] At uero differentiarum scientia in his maximum retinet locum. Qui enim omnino qualitatem a
+substantia uel caetera a se genera distare cognoscimus nisi eorum differentias uiderimus? Quomodo autem discernere
+eorum differentias possumus si quid ipsa sit differentia nesciamus? Nec hunc solum nobis inscientia differentiae
+offundit errorem, uerum etiam specierum quoque tollit omne iudicium. Nam omnes species differentiae informant;
+ignorata differentia species quoque necesse est ignorari. Quomodo uero fieri potest ut quamlibet differentiam possimus
+agnoscere si omnino quae sit nominis huius significatio nesciamus?
+[1.04.12] Iam uero proprii tantus usus est ut Aristoteles quoque singulorum praedicamentorum propria
+perquisiuerit. Quae propria esse quis deprehenderit antequam quid omnino sit proprium discat? Nec in his tantum
+propriis haec cognitio ualet quae singulis nominibus efferuntur, ut hominis risibile, uerum etiam in his quae in locum
+definitionis adhibentur. Omnia enim propria rem subiectam quodam termino descriptionis includunt, quod suo quoque
+loco /146/ oportunius commemorabo.
+[1.04.13] Accidentis quoque cognitio quantum afferat quis dubitare queat, cum uideat inter decem
+praedicamenta nouem accidentis naturas?
+Quae quomodo accidentia esse putabimus si omnino quid sit accidens ignoremus, cum praesertim nec
+differentiarum nec proprii scientia nota sit nisi accidentis naturam firmissima consideratione teneamus? Fieri enim
+potest ut differentiae loco uel proprii per inscientiam accidens apponatur. Quod esse uitiosissimum etiam definitiones
+
+

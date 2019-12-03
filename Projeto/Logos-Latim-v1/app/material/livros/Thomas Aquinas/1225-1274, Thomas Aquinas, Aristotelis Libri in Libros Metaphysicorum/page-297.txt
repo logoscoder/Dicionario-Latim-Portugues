@@ -1,0 +1,54 @@
+Alio modo opponitur pluralitas uni ut ad aliquid, sicut scientia ad scibile. Et hoc dico si accipiatur pluralitas quae
+est numerus, et unum quod habet rationem mensurae, et est principium numeri.
+|+9 Lectio 9
+|#1 Postquam Philosophus determinavit de contrariis, hic determinat de mediis contrariorum; et circa hoc duo
+facit.
+Primo proponit de quo est intentio; dicens: quia contrariorum contingit aliquid esse medium, ut supra dictum est,
+et quaedam contrariorum medium habent, ostendendum est quod necesse est media esse ex contrariis. Non autem
+hoc solum ostendit, sed etiam quaedam alia quae ad huius probationem sunt necessaria.
+|#2 Deinde cum dicit omnia namque prosequitur suam intentionem; et circa hoc tria facit.
+Primo ostendit, quod media sunt in eodem genere cum contrariis. Secundo ostendit, quod media sunt inter
+contraria tantum, ibi, at vero media etc..
+Tertio vero ostendit, quod media componuntur ex contrariis, quod est principaliter intentum, ibi, si vero sunt in
+eodem genere.
+Dicit ergo primo, quod omnia media sunt in eodem genere cum his quorum sunt media. Quod sic probat. Quia
+haec est diffinitio mediorum, quod media sunt inter quae prius venit illud quod mutatur de uno extremorum,
+quam in alterum extremum.
+|#3 Et hoc manifestat per duo exempla. Primo quidem in sonis. Sunt enim quidam soni graves, et quidam acuti,
+et quidam medii. Et secundum hanc distinctionem sonorum, distinguuntur chordae in musicis instrumentis. Illae
+enim chordae, quae reddunt graves sonos, dicuntur hypatae, quia principales. Illae vero quae reddunt acutos
+sonos, dicuntur netae. Si igitur musicus paulatim a gravibus ad acutos descendere velit, quod est transire per
+mediam rationem, necesse est quod prius veniat ad sonos medios. Secundo autem manifestat in coloribus. Si
+enim aliquid mutatur ex albo in nigrum, oportet quod primum veniat ad medios colores quam ad nigrum. Et
+similiter est in aliis mediis.
+|#4 Sic igitur patet quod de mediis fit transmutatio ad extrema, et e converso.
+Sed in his quae sunt in diversis generibus, non fit transmutatio in invicem nisi per accidens, sicut patet in colore
+et figura.
+Non enim mutatur aliquid de colore in figuram aut e converso; sed de colore in colorem, et de figura in figuram.
+Unde necesse est quod media et extrema sint in eodem genere.
+|#5 Deinde cum dicit at vero ostendit quod media sunt inter contraria; et circa hoc duo facit.
+Primo ostendit quod media necesse est esse inter opposita. Secundo inter quae opposita, quia inter contraria, ibi,
+oppositorum vero.
+Dicit ergo primo, quod omnia media necesse est esse inter opposita. Quod sic probat. Quia solum ex oppositis,
+per se loquendo, fiunt mutationes, ut probatur in primo physicorum. Ex nigro enim aliquid fit album per se
+loquendo. Dulce autem non fit ex nigro nisi per accidens, inquantum dulce convenit esse album. Sed media sunt
+inter illa ex quibus est mutua transmutatio, sicut per definitionem mediorum suprapositam patet. Impossibile est
+ergo quod media sint non oppositorum; quia sequeretur quod esset permutatio non ex oppositis.
+|#6 Deinde cum dicit oppositorum enim manifestat inter quae opposita possint esse media; dicens, quod inter
+opposita in contradictione nullo modo potest esse medium.
+Contradictio enim est oppositio, cuius altera pars ex necessitate adest cuicumque subiecto, sive sit ens, sive non
+ens. De quolibet enim ente vel non ente necesse est dicere quod sedet, vel non sedet. Et sic patet, quod
+contradictio nullum habet medium.
+|#7 Sed aliorum oppositorum alia sunt ad aliquid, alia privatio et forma, alia ut contraria. Eorum autem, quae
+sunt ad aliquid, quaedam se habent ut contraria, quae ex aequo adinvicem referuntur; et ista habent medium.
+Quaedam vero non se habent ut contraria, quae non ex aequo adinvicem referuntur, sicut scientia et scibile; et
+ista non habent medium. Cuius causa est, quia media et extrema sunt in eodem genere. Haec autem non sunt in
+eodem genere, cum unum secundum se referatur, ut scientia, non autem aliud, ut scibile. Quomodo ergo scientiae
+et scibilis potest aliquid esse medium? sed magni et parvi potest esse aliquid medium, idest aequale, ut supra
+dictum est. Et similiter eorum quae referuntur adinvicem, ut contraria. Quomodo autem ea quae opponuntur
+privative habeant media vel non habeant, et quomodo haec oppositio aliquo modo pertinet ad contrarietatem, hic
+tacet, quia supra exposuit.
+
+297
+
+

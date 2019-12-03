@@ -1,0 +1,51 @@
+OPERA OMNIA
+SANCTI THOMAE AQUINATIS
+-----oOo----Textum electronicum praeparavit et indexavit
+Ricardo M. Rom n, S. R. E. Presbyterus
+Bonis Auris, MCMXCVIII
+
+|*Q._DISPUTATAE
+QUAESTIONES DISPUTATAE
+|*DE_SPIRIT._CREATURIS
+DE SPIRITUALIBUS CREATURIS
+Prooemium
+Prologus
+PR1
+Et primo enim quaeritur: utrum substantia spiritualis sit composita ex materia et forma.
+PR2
+Secundo utrum substantia spiritualis possit uniri corpori.
+PR3
+Tertio utrum substantia spiritualis, quae est anima humana, uniatur corpori per medium.
+PR4
+Quarto utrum tota anima sit in qualibet parte corporis.
+PR5
+Quinto utrum aliqua substantia spiritualis creata, sit non unita corpori.
+PR6
+Sexto utrum substantia spiritualis caelesti corpori uniatur.
+PR7
+Septimo utrum substantia spiritualis corpori aereo uniatur.
+PR8
+Octavo utrum omnes Angeli differant specie ab invicem.
+PR9
+Nono utrum intellectus possibilis sit unus in omnibus hominibus.
+PR10
+Decimo utrum intellectus agens sit unus omnium hominum.
+PR11
+Undecimo utrum potentiae animae sint idem quod animae essentia.
+|q0
+|a1 Articulus 1
+TTA
+Et primo quaeritur utrum substantia spiritualis creata sit composita ex materia et forma.
+TTB
+Et videtur quod sic.
+AG1
+Dicit enim boetius in Lib. De Trin.: forma simplex, subiectum esse non potest.
+Sed substantia spiritualis creata, est subiectum scientiae et virtutis et gratiae. Ergo non est forma simplex. Sed
+nec est materia simplex, quia sic esset in potentia tantum, non habens aliquam operationem. Ergo est composita
+ex materia et forma.
+AG2
+Praeterea, quaelibet forma creata est limitata et finita. Sed forma limitatur per materiam.
+Ergo quaelibet forma creata est forma in materia. Ergo nulla substantia creata est forma sine materia.
+1
+
+

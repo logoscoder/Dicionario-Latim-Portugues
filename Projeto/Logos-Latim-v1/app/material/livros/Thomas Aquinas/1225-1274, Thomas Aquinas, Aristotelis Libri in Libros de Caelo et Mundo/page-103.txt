@@ -1,0 +1,59 @@
+scilicet quod prima sphaera movet corpus stellae ab oriente in occidentem, secundum motum diurnum; secunda
+movet corpus stellae e converso ab occidente in orientem in zodiaco, qui dicitur motus longitudinis; tertia autem
+sphaera movet corpus stellae motu latitudinis, secundum quod contingit quod stella quandoque est Australior,
+quandoque borealior in zodiaco. Ponebat autem polos huius tertiae sphaerae esse in zodiaco; unde sequebatur
+quod circulus maior, aeque distans ab utroque polo, transiret per polos zodiaci; ex quo sequi videbatur quod
+planetae, secundum motum latitudinis, quandoque pervenirent usque ad polos zodiaci; quod tamen nunquam
+apparet.
+Unde ponebat quartam sphaeram, quae moveret stellam in oppositum huius motus, ita quod nunquam pervenit ad
+polos zodiaci. Soli autem et lunae non attribuit motum huius quartae sphaerae; sed apparentia eorum conatus est
+salvare, solum ponendo tres sphaeras, proportionales primis tribus sphaeris aliorum planetarum; ita tamen quod
+luna habet maiorem motum latitudinis quam sol, sicut expositum est in XII metaphys..
+|#3 Secundum hanc ergo positionem, Aristoteles hic quaestionem format. Et dicit quod, cum multa sint talia
+dubitabilia circa stellas, non minime videtur mirabile, propter quam causam non semper astra quae plus distant a
+motu primae sphaerae moventur pluribus motibus, sed intermedia moventur plurimis, scilicet quinque planetae,
+qui, secundum positionem eudoxi, moventur quatuor motibus. Rationabile enim utique esse videtur quod, cum
+prima sphaera moveatur uno solo motu, quod astrum ei propinquissimum moveatur paucissimis motibus, puta
+duobus; habitum autem, idest consequenter se habens, moveatur tribus, vel quocumque tali ordine progrediatur.
+Sed nunc accidit contrarium, secundum positionem eudoxi, secundum quem sol et luna moventur paucioribus
+motibus, idest solis tribus, quam quaedam stellarum errantium, quas ponebat habere quatuor motus; quamvis
+quinque planetae longius distent a medio mundi, idest terrae, et propinquiores sint primo corpori, idest supremae
+sphaerae, ipsis, idest sol et luna, secundum opinionem quae habebatur tempore Aristotelis et Platonis.
+|#4 Est autem ulterius sciendum quod, quia secundum suppositiones eudoxi non poterant omnia apparentia circa
+stellas salvari, quidam alius astrologus, callippus nomine, ad instantiam Aristotelis, correxit eudoxi
+suppositiones; addens quidem marti et veneri et mercurio, unicuique unam sphaeram et unum motum; soli autem
+et lunae, unicuique duos. Et sic Saturno et iovi assignavit quatuor motus, unicuique autem inferiorum planetarum
+quinque: et sic non haberet locum dubitatio quam hic movet Aristoteles, quia superiores planetae, secundum
+hunc modum, paucioribus motibus moventur quam inferiores.
+Ponebat etiam unicuique planetarum quasdam alias sphaeras revolventes, ut expositum est in XII metaphys..
+|#5 Sed nec secundum hanc positionem poterant omnia apparentia circa stellas salvari, praecipue quantum ad
+propinquitatem et remotionem stellarum a nobis; quae deprehenditur ex hoc quod planetae, eadem dispositione
+aeris existente, quandoque maiores, quandoque minores videntur.
+Similiter etiam inconveniens videbatur quod tanta multitudo sphaerarum ad movendum planetas concurreret; et
+praecipue videbatur superfluum quod cuilibet planetae attribueretur una sphaera quae ipsum revolveret ab oriente
+in occidentem motu diurno, cum hoc causari possit suprema sphaera, totum caelum hoc motu revolvente.
+Et ideo hipparchus et Ptolomaeus posuerunt unicuique planetae unam solam sphaeram; quam tamen posuerunt
+non esse supremae sphaerae concentricam, sed habere aliud centrum praeter terram; ita quod, cum planeta est in
+parte sphaerae magis distante a nobis, corpus planetae minus videtur et tardioris motus; cum autem est in
+opposita parte, videtur maius et velocioris motus. Praeter hoc autem posuerunt quosdam parvos circulos, quos
+epicyclos dicunt, qui moventur super huiusmodi sphaeris; ita quod corpora planetarum in huiusmodi epicyclis
+moventur, non tanquam infixa in huiusmodi circulis, sed quasi motu progressivo eos regyrant. Sic igitur praeter
+motum diurnum, quem toti caelo attribuunt ex motu primae sphaerae, quatuor planetis, scilicet Saturno, iovi,
+marti et veneri, attribuunt tres motus: quorum unus est secundum quem corpus stellae circuit epicyclum;
+secundus est secundum quem centrum epicycli circuit sphaeram; tertius autem est secundum quem ipsa sphaera
+movetur ab occidente in orientem, quibuslibet centum annis gradu uno, secundum motum stellarum fixarum, qui
+quidem dicitur motus augis vel apogaei, idest maximae distantiae in circulo excentrico.
+Super hos autem tres motus addunt quartum motum mercurio, quo dicunt centrum sphaerae ipsius moveri in
+quodam circulo parvo circa centrum mundi. Quos etiam quatuor motus attribuunt lunae, superaddentes ei
+quintum. Cum enim circulus sphaerae lunaris, super quem intelligitur moveri centrum epicycli eius, declinet a
+zodiaco ad meridiem et septentrionem, necesse est quod huiusmodi circulus secet zodiacum in duobus punctis,
+qui dicuntur nodi, sive caput et cauda; in quibus tantum locis luna existente, possunt contingere eclipses lunares
+et solares; quae non semper contingunt in eadem parte circuli. Et ideo ex hoc ponunt quintum motum in luna,
+secundum quem praedicti nodi moventur; qui dicitur motus capitis et caudae. Corpus autem solis non dicunt
+moveri in aliquo epicyclo, sed in suo excentrico. Unde non attribuunt soli nisi duos motus: unum scilicet quo
+corpus solis movetur in excentrico; et alius est motus augis, quem attribuunt sphaerae solis, sicut attribuunt
+sphaeris aliorum planetarum.
+
+103
+
+

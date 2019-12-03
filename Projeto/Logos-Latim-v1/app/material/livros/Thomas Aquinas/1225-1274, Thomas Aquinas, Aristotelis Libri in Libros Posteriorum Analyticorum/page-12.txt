@@ -1,0 +1,55 @@
+Neutrum autem horum est verum, nec necessario consequitur ex rationibus eorum.
+|#3 Deinde, cum dicit: supponentes etc., ponit rationes quibus in praedictos errores incidunt. Et primo ponit
+rationem dicentium quod non est scientia. Quae talis est. Principia demonstrationis aut procedunt in infinitum aut
+est status in eis. Si proceditur in infinitum, non est in eis accipere prima: quia infinita non est transire, ut ad
+primum veniatur: et ita non est primum cognoscere. Et in hoc recte argumentantur.
+Nam posteriora non possunt cognosci, ignoratis primis. Si autem stetur in principiis, oportet quod prima
+nesciantur; si scire solum est per demonstrationem: non enim prima habent aliqua priora, per quae
+demonstrentur. Si autem prima ignorentur, oportet et posteriora iterum non scire simpliciter nec proprie: sed
+solum sub hac conditione, si principia sunt. Non enim potest per aliquid ignotum aliquid cognosci, nisi sub hac
+conditione, si illud primum quod ignotum est, sit. Ergo sequitur utroque modo, sive principia stent, sive in eis
+procedatur in infinitum, quod nullius rei est scientia.
+|#4
+Secundo, cum dicit: quidam autem etc., ponit rationem dicentium omnium esse scientiam per
+demonstrationem: quia praemissae radici, scilicet quod non esset scire nisi per demonstrationem, addebant aliam,
+scilicet quod posset circulariter demonstrari. Sic enim sequebatur quod etiamsi in principiis demonstrationis
+esset status, prima tamen principia erat scire per demonstrationem: quia illa prima dicebant demonstrari ex
+posterioribus. Nam circulariter demonstrare est demonstrare ex invicem, idest ut quod primo fuit principium,
+postmodum fiat conclusio et e converso.
+|#5 Deinde, cum dicit: nos autem dicimus etc., excludit falsas radices praedictarum rationum.
+Et primo, hoc quod supponebant quod non esset scire nisi per demonstrationem. Secundo, hoc quod dicebant
+quod contingeret circulariter demonstrari; ibi: circulo quoque etc.. Dicit ergo primo quod non omnis scientia est
+demonstrativa, idest per demonstrationem accepta; sed immediatorum principiorum est scientia indemonstrabilis,
+idest non per demonstrationem accepta.
+|#6 Sciendum est tamen quod hic Aristoteles large accipit scientiam pro qualibet certitudinali cognitione, et non
+secundum quod scientia dividitur contra intellectum, prout dicitur quod, scientia est conclusionum et intellectus
+principiorum.
+|#7 Quod autem hoc necessarium sit, scilicet quod certa cognitio aliquorum habeatur sine demonstratione, sic
+probat. Necesse est scire priora, ex quibus est demonstratio; sed haec aliquando contingit reducere in aliqua
+immediata: alias oporteret dicere quod inter duo extrema, scilicet subiectum et praedicatum essent infinita media
+in actu; immo plus, quod non esset aliqua duo accipere, inter quae non essent infinita media. Qualitercunque
+autem media assumantur, est accipere aliquid alteri immediatum. Immediata autem, cum sint priora, oportet esse
+indemonstrabilia. Et ita patet quod necesse est aliquorum scientiam habere sine demonstratione.
+|#8 Si ergo quaeratur quomodo immediatorum habeatur scientia, respondet quod non solum eorum est scientia,
+immo eorum cognitio est principium quoddam totius scientiae. Nam ex cognitione principiorum derivatur
+cognitio conclusionum, quarum proprie est scientia. Ipsa autem principia immediata non per aliquod medium
+extrinsecum cognoscuntur, sed per cognitionem propriorum terminorum. Scito enim quid est totum et quid est
+pars, cognoscitur quod omne totum est maius sua parte: quia in talibus propositionibus, ut supra dictum est,
+praedicatum est de ratione subiecti. Et ideo rationabiliter cognitio horum principiorum est causa cognitionis
+conclusionum: quia semper, quod est per se, est causa eius, quod est per aliud.
+|+8 Lectio 8
+|#1
+Postquam Philosophus exclusit unam falsam radicem, ostendens quod non omnis scientia est per
+demonstrationem, hic excludit aliam, ostendens quod non contingit circulariter demonstrare.
+|#2 Ad cuius evidentiam sciendum est quod circularis syllogismus dicitur, quando ex conclusione et altera
+praemissarum conversa concluditur reliqua.
+Sicut si fiat talis syllogismus: omne animal rationale mortale est risibile; omnis homo est animal rationale
+mortale; ergo omnis homo est risibilis: assumatur autem conclusio tanquam principium, et adiungatur ei minor
+conversa, hoc modo: omnis homo est risibilis; omne animal rationale mortale est homo; sequitur quod, omne
+animal rationale mortale sit risibile: quae erat maior primi syllogismi.
+|#3 Ostendit autem Aristoteles per tres rationes quod non contingit circulariter demonstrare.
+Quarum prima est. In circulari syllogismo idem fit et principium et conclusio. Principium autem demonstrationis
+est prius et notius conclusione: ut supra ostensum est. Sequitur ergo quod idem sit prius et posterius respectu
+12
+
+

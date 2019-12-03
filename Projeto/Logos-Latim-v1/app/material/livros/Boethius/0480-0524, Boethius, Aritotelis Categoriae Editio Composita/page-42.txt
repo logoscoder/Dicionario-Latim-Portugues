@@ -1,0 +1,62 @@
+Non Socrates iustus est
+sed:
+Socrates iustus non est
+Et nisi aliquotiens ambiguitas impediret, ad praedicatum semper negatio poneretur. Sed omnia quaecumque in
+determinatione ponuntur talia sunt, quae aut totum colligant in affirmatiuo, ut est 'omnis', aut totum perimant in
+negatiuo, ut est 'nullus', aut colligant in affirmatiuo partem, ut est 'quidam', aut interimant in negatiuo partem, ut
+'quidam non', aut in negatiuo perimant totum particulariter, ut est 'non omnis'.
+Sed 'quidam non' et 'non omnis' particulares negationes sunt. Siue /145/ enim quis partem ex toto subripiat,
+particulare est quod relinquit, quia a totius perfectione discessit, siue quis totum esse neget, partem relinquat, rursus
+particulare est quod fit reliquum. Nam cum dico:
+Quidam homo iustus non est
+abstuli partem, et rursus cum dico:
+Non omnis homo iustus est
+cum negaui omnem, aliquem qui iustus non esset ostendi.
+Haec igitur, 'omnis' et 'quidam', determinationes planissimae sunt et communi intellegentiae subiectae. Has
+duae particulares respiciunt negationes, ut ea quae est quidam non determinationem particularem negat, ea uero quae
+est non omnis uniuersalem negat determinationem sed utraque negationem (ut dictum est) in particularitatem
+constringunt. Quod autem dicimus 'nullus' proprium quoddam uidetur esse uocabulum. 'Non omnis' enim quod dicitur
+omnem per aduerbium negatiuum quod est 'non' adimit. Rursus cum dicimus 'quidam non', ei quod est 'quidam'
+aduerbium quod est 'non' additum a subiecto termino particulare separat.
+'Nullus' uero quid separet in uocabulo ipso non monstrat et uidetur quodammodo non potius esse negatio quam
+affirmatio. Neque enim aduerbium est nec coniunctio. Aduerbium namque atque coniunctio declinationibus carent,
+nullus uero quod dicimus et generibus subiacet et inflectitur casibus. Quid igitur est? An erit nomen? Sed nulla negatio
+nomen esse monstratur. Quid sit ergo tali inuestigatione quaerendum est.
+Videtur enim quod dicitur 'nullus' tale esse tamquam si dicamus nec /146/ unus. Nam qui dicit:
+Nullus homo animal est
+tantundem ualet quantum nec unus homo animal est. Quod uero dicimus 'ullus' hoc ab eo deriuatum est quod
+est unus. Diminutio namque unius ullus est tamquam si diceremus unulus. Ergo plus negat quisquis etiam
+diminutionem negat, ut si quis dicat non modo non habet gemmam, quod maius est, uerum etiam nec gemmulam, quod
+est minus. Sic ergo qui negare uult etiam unum plus negat si dicat nec ipsum unius diminutiuum illud esse quod dicitur:
+ut si quis uelit dicere nec unum esse hominem in theatro, ita dicat: non modo illic unus homo non est, uerum nec ullus.
+Cum ergo dicimus 'nullus' ita proponimus tamquam si dicamus 'nec ullus'. Tenet igitur haec in se determinatio, quae est
+'nullus', uicem negationis et nominis. Negationis quidem in eo quod est nec, nominis uero in eo quod est ullus, quod est
+diminutiuum unius. Ita igitur maxima fit negatio rei paruissimae quod est unus, si ipsius diminutiuum quoque subtrahat,
+quod est ullus. Quare et omnem et quendam statim tollit negatio, quae unius quoque ipsius diminutiuum praedicatione
+subducit, ut ea quae est:
+Nullus homo iustus est
+Hoc enim tantum est, tamquam si dicat "Non ullus homo iustus est", hoc idem ualet tamquam si dicatur "Nec
+unus homo iustus est". Quare quoniam de his sufficienter est dictum, ad Aristotelis uerba consequenti ordine ueniamus.
+SI ERGO UNIVERSALITER ENUNTIET IN UNIVERSALI QUONIAM EST AUT NON, ERUNT
+CONTRARIAE ENUNTIATIONES. DICO AUTEM IN UNIVERSALI ENUNTIATIONEM /147/ UNIVERSALEM,
+UT OMNIS HOMO ALBUS EST, NULLUS HOMO ALBUS EST.
+Demonstrare oppositionem contradictionis intendit. Sed quoniam uiam reperiendae ordinemque permiscuit,
+idcirco nos pauca quaedam prius ordinata expositione praedicimus, ne lector confusionis caligine atque obscuritate
+turbetur. Omnium propositionum quae sunt simplices, quas categoricas Graeci uocant, nos praedicatiuas dicere
+possumus, quatuor sunt diuersitates: aut enim est affirmatio et negatio uniuersalis, ut est:
+Omnis homo iustus est
+Nullus homo iustus est
+aut affirmatio et negatio particularis, ut est:
+Quidam homo iustus est
+Quidam homo iustus non est
+aut affirmatio et negatio indefinita, ut:
+Homo iustus est
+Homo iustus non est
+aut de singulari subiecto affirmatio et negatio, ut:
+Cato iustus est
+Cato iustus non est
+Harum uero inter se ueritas falsitasque non se habet similiter sed diuerse. Et prius de uniuersalibus atque
+particularibus id est de his quae determinatae sunt dicendum est, post de reliquis disputabitur.
+Disponantur igitur affirmatio uniuersalis quae est:
+
+

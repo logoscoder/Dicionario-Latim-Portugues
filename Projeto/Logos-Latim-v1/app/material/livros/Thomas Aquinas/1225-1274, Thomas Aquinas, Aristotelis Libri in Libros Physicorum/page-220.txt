@@ -1,0 +1,63 @@
+Illud dicimus quiescere, quod se habet similiter et nunc et prius, et
+secundum se totum et secundum partes suas. Ex hoc enim aliquid dicitur
+moveri, quod nunc et prius dissimiliter se habet, vel secundum locum vel
+secundum quantitatem vel secundum qualitatem.
+Sed in ipso nunc non est aliquid prius; quia sic nunc esset divisibile quia
+ly prius pertinet ad praeteritum: ergo non contingit in nunc quiescere. Ex
+hoc autem ulterius concludit, quod necesse est omne quod movetur, et omne
+quod quiescit, moveri et quiescere in tempore.
+|#10
+Deinde cum dicit: quod mutatur autem omne etc., ostendit quod omne
+quod movetur est divisibile, tali ratione.
+Omnis mutatio est ex quodam in quiddam: sed quando aliquid est in termino
+ad quem mutatur, ulterius non mutatur, sed iam mutatum est; non enim simul
+aliquid movetur et mutatum est, ut supra dictum est. Quando vero est
+aliquid in termino ex quo mutatur, secundum se totum et secundum omnes
+partes suas, tunc non mutatur: dictum est enim quod illud quod similiter se
+habet et ipsum et omnes partes eius, non mutatur, sed magis quiescit.
+Addit autem et omnes partes eius; quia cum aliquid incipit mutari, non
+simul totum egreditur de loco quem prius occupabat, sed pars post partem.
+Neque iterum potest dici quod sit in utroque termino secundum se totum et
+secundum partes suas, dum movetur: sic enim aliquid esset simul in duobus
+locis.
+Neque iterum potest dici quod in neutro terminorum sit: loquimur enim nunc
+de proximo termino in quem mutatur, et non de ultimo extremo; sicut si ex
+albo aliquid mutetur in nigrum, nigrum est ultimum extremum, fuscum vero
+est proximum. Et similiter si sit una linea divisa in tres partes aequales,
+scilicet linea abcd, manifestum est quod mobile, quod in principio motus
+est in parte ab sicut in loco sibi aequali, contingit in aliqua parte sui
+motus non esse neque in ab neque in cd: quandoque enim est totum in bc.
+Cum ergo dicitur quod illud quod mutatur, quando mutatur, non potest in
+neutro esse, accipitur non extremus terminus, sed proximus.
+Relinquitur ergo quod omne quod mutatur, dum mutatur, secundum aliquid sui
+est in uno, et secundum aliquid sui est in altero; sicut cum aliquid
+mutatur de ab in bc, in ipso moveri pars egrediens de loco ab, ingreditur
+locum bc; et quod movetur de albo in nigrum, pars quae desinit esse alba,
+fit fusca vel pallida.
+Sic igitur manifestum est quod omne quod mutatur, cum sit partim in uno et
+partim in altero, est divisibile.
+|#11
+Sciendum est autem quod Commentator in hoc loco movet dubitationem
+de hoc, quod si Aristoteles non intendit hic demonstrare quod mobile sit
+divisibile, nisi de mobili quod movetur motu quem dixit esse in solis
+tribus generibus, scilicet quantitate, qualitate et ubi, demonstratio sua
+non erit universalis, sed particularis: quia illud etiam quod mutatur
+secundum substantiam, divisibile invenitur. Unde videtur quod intelligat de
+eo quod transmutatur secundum quamcumque transmutationem, ut includatur
+generatio et corruptio in substantia. Et hoc etiam ex ipsis verbis eius
+apparet: non enim dicit quod movetur sed quod mutatur.
+Sed tunc videtur sua demonstratio non valere: quia aliquae transmutationes
+sunt indivisibiles, sicut ipsa generatio substantialis et corruptio, quae
+non sunt in tempore; et in huiusmodi transmutationibus non est verum, quod
+illud quod mutatur, sit partim in uno et partim in alio; non enim cum ignis
+generatur, partim est ignis et partim non ignis.
+|#12
+Et inducit ad hoc plures solutiones: quarum una est Alexandri,
+dicentis quod nulla transmutatio est indivisibilis, aut in non tempore.
+Sed hoc reprobatur; quia per hoc destruitur quoddam probabile et famosum
+apud Aristotelem et omnes Peripateticos, scilicet quod aliquae
+transmutationes sint in non tempore, ut illuminatio et alia huiusmodi.
+
+220
+
+

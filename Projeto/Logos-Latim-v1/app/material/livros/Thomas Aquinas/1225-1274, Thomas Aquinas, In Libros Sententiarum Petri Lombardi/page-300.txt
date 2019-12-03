@@ -1,0 +1,62 @@
+AG3
+Praeterea, ut dictum est, idea se habet ad rem cujus est, sicut forma artis, quae est in mente artificis, ad
+artificiatum. Sed diversitas artificiatorum provenit ex pluralitate formarum quae sunt in mente artificis, et non e
+contrario. Ergo videtur quod nec diversitas rerum possit inducere pluralitatem idearum.
+AG4
+Praeterea, sicut idea dicitur relative ad ideatum, ita et scientia dicitur per respectum ad scibile.
+Sed quamvis sint plura scita a Deo, tamen est una ejus scientia. Ergo rerum omnium quae ab ipso producuntur,
+est una tantum idea.
+SC1
+Sed contra, illud in quo non est pluralitas aliqua, non potest pluraliter consignificari. Sed Augustinus, pluraliter
+ideas nominat, dicens, quod ideae sunt rationes rerum stabiles, in mente divina existentes; et cum ipsae nec
+oriantur nec intereant, secundum eas tamen fit omne quod interit et oritur. Ergo ideae sunt plures.
+SC2
+Praeterea, secundum Damascenum, differentia est causa numeri. Sed, secundum Augustinum, Deus alia ratione
+creavit hominem et equum. Ergo videtur quod sint plures rationes ideales rerum in Deo.
+CO
+Respondeo dicendum, quod cum Deus de singulis rebus propriam cognitionem habeat, oportet quod essentia sua
+sit similitudo singularium rerum, secundum quod diversae res diversimode et particulariter ipsam imitantur
+secundum suam capacitatem, quamvis ipsa se totam imitabilem praebeat; sed quod perfecte non imitantur eam
+creaturae, sed difformiter, hoc est ex earum diversitate et defectu, ut dicit dionysius.
+Unde cum hoc nomen idea nominet essentiam divinam secundum quod est exemplar imitatum a creatura, divina
+essentia erit propria idea istius rei secundum determinatum imitationis modum. Et quia alio modo imitantur eam
+diversae creaturae, ideo dicitur quod est alia idea vel ratio qua creatur homo et equus; et exinde sequitur quod
+secundum respectum ad plures res quae divinam essentiam diversimode imitantur, sit pluralitas in ideis, quamvis
+essentia imitata sit una: verbi gratia, sicut ex praedictis, dist. 2, quaest. 1, art. 3, patet, quidquid perfectionis in
+rebus est, hoc totum Deo secundum unum et idem indivisibile convenit, scilicet esse, vivere et intelligere et
+omnia hujusmodi. Cum autem omnes creaturae imitentur ipsam essentiam quantum ad esse, non tamen omnes
+quantum ad vivere: nec iterum illa quae imitantur ipsam quantum ad esse, eodem modo esse participant, cum
+quaedam aliis nobilius esse possideant: et ex hoc efficitur alius respectus essentiae divinae ad ea quae habent
+tantum esse et ad ea quae habent esse et vivere, et similiter ad ea quae diversimode esse habent; et ex hoc sunt
+plures rationes ideales, secundum quod Deus intelligit essentiam suam ut imitabilem per hunc vel per illum
+modum. Ipsae enim rationes imitationis intellectae, seu modi, sunt ideae; idea enim, ut ex dictis patet, art.
+Praeced., nominat formam ut intellectam, et non prout est in natura intelligentis.
+RA1
+Ad primum ergo dicendum, quod idea non nominat tantum essentiam, sed essentiam imitabilem; unde secundum
+quod est multiplex imitabilitas in essentia divina, propter plenitudinem suae perfectionis, est pluralitas idearum.
+RA2
+Ad secundum dicendum, quod quamvis relationes quae sunt Dei ad creaturam, realiter in creatura fundentur,
+tamen secundum rationem et intellectum in Deo etiam sunt; intellectum autem dico non tantum humanum sed
+etiam angelicum et divinum; et ideo quamvis creaturae ab aeterno non fuerint, tamen intellectus divinus ab
+aeterno fuit intelligens essentiam suam diversimode a creaturis imitabilem; et propter hoc fuit ab aeterno
+pluralitas idearum in intellectu divino, non in natura ipsius.
+Non enim eodem modo est in Deo forma equi et vita; quia forma equi non est in Deo nisi sicut ratio intellecta;
+sed ratio vitae in Deo est non tantum sicut intellecta, sed etiam sicut in natura rei firmata.
+RA3
+Ad tertium dicendum, quod quamvis pluralitas idearum attendatur secundum respectus ad res; non tamen
+pluralitas rerum est causa pluralitatis idearum, sed e contrario; non enim quia res diversimode imitatur divinam
+essentiam, ideo intellectus ejus intuetur eam diversimode imitabilem, sed potius e contrario. Intellectus enim
+divinus est causa rerum; distinctio autem idealium rationum est secundum operationem intellectus divini, prout
+intelligit essentiam suam diversimode imitabilem a creaturis.
+RA4
+Ad quartum dicendum, quod essentia divina una est, et respectus plures; et ideo illud quod nominat tantum
+essentiam, non potest pluraliter significari; sicut est scientia, quae tenet se magis ex parte scientis, ut forma
+ipsius. Ratio autem se tenet magis ex parte rei, ut consignificari et significari pluraliter possit; dicimus enim
+rationes plures. Idea autem quasi medio modo se habet; quia essentiam et rationem imitationis, quae est
+secundum respectum, importat; et ideo etsi inveniatur in nomine ideae consignificata pluralitas, ut cum pluraliter
+profertur, raro tamen aut nunquam invenitur significata per additionem termini numeralis, ut sic dicantur plures
+ideae; pluralitas enim exprimitur magis significando quam consignificando.
+|a3 Articulus 3: Utrum in Deo sint ideae omnium quae cognoscit.
+300
+
+

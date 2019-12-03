@@ -1,0 +1,50 @@
+OPERA OMNIA
+SANCTI THOMAE AQUINATIS
+-----oOo----Textum electronicum praeparavit et indexavit
+Ricardo M. Rom n, S. R. E. Presbyterus
+Bonis Auris, MCMXCVIII
+
+|*Q._DISPUTATAE
+QUAESTIONES DISPUTATAE
+|*DE_UNIONE_VERBI
+Prooemium
+Prologus
+PR1
+Et primo enim quaeritur, utrum haec unio facta sit in persona, vel in natura.
+PR2
+Secundo utrum in Christo sit una tantum hypostasis.
+PR3
+Tertio utrum Christus sit unum neutraliter, vel duo.
+PR4
+Quarto utrum in Christo sit unum tantum esse.
+PR5
+Quinto utrum in Christo sit una tantum operatio.
+|q0
+|a1 Articulus 1
+TTA
+Et primo quaeritur utrum haec unio facta sit in persona, vel in natura.
+TTB
+Videtur autem quod in natura.
+AG1
+Dicit enim Athanasius quod sicut anima rationalis et caro unus est homo; ita Deus et homo unus est Christus.
+Sed anima rationalis et caro uniuntur in unam naturam humanam. Ergo Deus et homo uniuntur in unam naturam
+Christi.
+AG2
+Praeterea, Damascenus dicit in III libro: hoc facit haereticis errorem, quia dicunt idem naturam et hypostasim.
+Sed hoc non videtur falsum esse: quia in quolibet simplici, et praecipue in Deo, idem est suppositum et natura.
+Ergo non est falsum quod haeretici dicunt, quod si unio facta sit in persona, sit facta in natura.
+AG3
+Praeterea, Damascenus dicit in III libro, quod inconvertibiliter et inalterabiliter unitae sunt ad invicem duae
+naturae.
+Sed unio naturarum videtur importare unionem naturalem. Ergo unio facta est in natura.
+AG4
+Praeterea, in omnibus illis in quibus suppositum aliquid habet praeter naturam speciei, vel accidens vel naturam
+individualem necesse est quod differat suppositum a natura, ut patet per Philosophum in VII metaph.. Sed si unio
+humanae naturae ad verbum non est facta in natura humana, non pertinebit ad naturam speciei ipsius verbi. Ergo
+sequetur quod suppositum verbi sit aliud a natura divina; quod est impossibile. Videtur ergo quod unio facta sit
+in natura.
+AG5
+Praeterea, omnis unio terminatur ad aliquod unum, quod est posterius ipsa unione.
+1
+
+

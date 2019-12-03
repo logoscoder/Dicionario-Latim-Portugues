@@ -1,0 +1,57 @@
+Et inde est quod omnes scientiae fiunt per definitionem. Probat autem hoc per exemplum in rebus naturalibus.
+Hoc enim quod est folio fluere, consequitur ad vitem et excedit ipsam, quia est in pluribus; consequitur etiam ad
+ficum et excedit eam: non tamen est excessivum omnium quibus convenit, sed est eorum sicut aequalium. Si
+ergo aliquis velit accipere id quod est primum medium respectu omnium, erit haec definitio eius quod est folio
+fluere; quae quidem definitio erit primum medium ad alia, eo quod omnia talia sunt. Et iterum huius accipietur
+aliquod aliud medium, puta quod succus densatur per desiccationem, vel aliquod aliud huiusmodi.
+Unde si quaeratur quid est folio fluere, dicemus quod nihil aliud est quam condensari succum seminis in
+contactu, scilicet folii ad ramum.
+|#5 Deinde cum dicit: in figuris autem sic assignabit etc. Ordinat modum praedictae consecutionis in figura
+syllogistica; et dicit quod si quaeratur consecutio causae et causati, sic poterit assignari secundum figuras
+syllogismorum. Sit enim a in omni b; b autem in unoquoque eorum quae sunt d, sed in plus quam d. Sic igitur b
+universaliter erit in his quae continentur sub d, secundum quod universaliter dicitur inesse quod non convertitur.
+Sed et primum universale est, cui unumquodque quidem contentorum sub eo non convertitur; omnia autem simul
+accepta convertuntur cum primo universali, et excedunt quodlibet eorum quae sub eo continentur.
+Sic igitur quod a sit in ipsis quae continentur sub d, causa est b. Oportet ergo quod a extendatur in plus quam b.
+Si autem non, sed se haberet ex aequo, quare magis b esset causa in inferendo quod a sit in d, quam e converso?
+potest enim ex utroque convertibilium concludi aliud. Ponatur igitur ulterius quod a praedicetur de omnibus in
+quibus est e, sed non convertitur. Oportet ergo dicere quod illa omnia quae continentur sub e, sint aliquid unum
+diversum ab eo quod est b. Si enim non esset aliud e quam b, quomodo esset verum dicere quod a inesset omni
+b, et non e converso, cum a non sit nisi in e et in b? et ita sequeretur, si e et b non essent aliud, quod a non esset
+in plus quam e. Supponatur ergo quod a sit in plus quam d et quam e. Quare ergo non poterit inveniri aliqua
+causa propter quam insit omnibus quae sunt in d? et haec causa est b. Sed adhuc quaerendum est utrum et omnia
+quae continentur sub e, habeant aliquam unam causam; et sit talis causa c. Sic igitur concludit quod contingit
+eiusdem esse plures causas, sed non in eodem secundum speciem. Sicut eius quod est a, causa est et b et c: sed b
+est causa quod a insit his quae continentur sub d, c autem est causa quod a insit his quae continentur sub e. Et
+ponit exemplum in rebus naturalibus. Sit enim hoc quod est esse longae vitae, quasi a; quadrupedia quasi d; sed
+non habere choleram, scilicet superfluam, sit quasi b, quod est causa in quadrupedibus longae vitae; volatilia
+autem sint quasi e; siccum autem esse, vel aliquid aliud huiusmodi, quod est in eis causa longae vitae, aut aliquid
+aliud huiusmodi sit quasi c.
+|#6 Deinde cum dicit: si autem in atomum etc., movet quamdam dubitationem ex praemissis. Dictum est enim
+supra quod non statim a principio venitur in aliquod atomum, idest indivisibile, in quo inveniatur illud cuius
+causa quaeritur; sed statim inveniuntur multa et indivisa, in quibus illud unum invenitur, et non est unum
+medium, per quod de omnibus illud unum demonstretur, et causae plures sunt. Est ergo dubitatio, si illorum
+plurium mediorum oporteat aliquam causam accipere, utrum oporteat eam accipere ex parte universalis primi,
+puta ex parte ipsius a; vel ex parte singularium, idest eorum quae sunt minus communia, sicut supra
+accipiebantur e et d, vel quadrupedia et aves. Et ad hoc respondet dicens quod oportet semper media accipere
+quae sunt propinquiora subiecto, in quo quaeritur causa illius communis causati; et sic oportet procedere
+quousque perveniatur ad id quod est immediatum communi causato. Et huius rationem assignat, quia illud quod
+est ex parte eius quod continetur sub aliquo communi, est ei causa quod sit sub illo communi; sicut si d est sub b,
+et si c sit causa d quod b insit ei. Et ex hoc sequitur ulterius quod c sit causa quod a insit d; et quod a insit c, b est
+causa.
+Ipsi autem b inest a per seipsum et immediate.
+|#7 Ultimo autem epilogat ea quae dicta sunt in tota doctrina analyticorum; et dicit quod manifestum est ex
+praemissis, tam in libro priorum quam in hoc libro posteriorum, de syllogismo et de demonstratione, quid sit et
+quomodo fiat utrumque; et similiter manifestum est de scientia demonstrativa, quomodo fiat in nobis. Hoc enim
+ad idem pertinet, quia demonstratio est syllogismus faciens scire, ut supra habitum est.
+|+20 Lectio 20
+|#1 Postquam Philosophus ostendit quomodo cognoscatur illud quod est principium demonstrationis sicut
+medium, scilicet quid et propter quid, hic ostendit quomodo cognoscantur prima principia demonstrationis
+communia. Et primo, dicit de quo est intentio; secundo, exequitur propositum; ibi: quod quidem igitur etc.. Dicit
+ergo primo quod ex his quae sequuntur, manifestum erit de principiis primis indemonstrabilibus, qualiter eorum
+cognitio fiat in nobis, et quo habitu cognoscantur; hoc tamen ordine observato, ut prius circa hoc dubitationes
+ponamus.
+
+110
+
+

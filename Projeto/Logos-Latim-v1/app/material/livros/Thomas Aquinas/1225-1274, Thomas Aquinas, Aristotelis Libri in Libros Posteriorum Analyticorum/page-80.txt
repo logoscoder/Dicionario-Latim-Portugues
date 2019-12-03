@@ -1,0 +1,56 @@
+Et quia nos coniiceremus quod semper hoc modo accideret lunae defectus, statim in nostra scientia sensus rei
+singularis fieret universale. Et ex hoc exemplo concludit quod idem est scire quod quid est et propter quid. Nam
+ex hoc quod videmus terram interpositam inter solem et lunam, sciremus et quid est defectus lunae et propter
+quid luna deficit: quorum unum, scilicet scire quid est, refertur ad scientiam qua scimus de aliquo quod
+simpliciter sit, non autem quod aliquid insit alicui; sed propter quid refertur ad cognitionem eorum quae insunt,
+sicut cum dicimus quod tres anguli sunt aequales duobus rectis, aut maiores aut minores.
+Ultimo autem epilogando concludit principale propositum, scilicet manifestum esse ex praedictis, in omnibus
+quae quaeruntur esse medii quaestionem.
+|+2 Lectio 2
+|#1 Postquam Philosophus ostendit quod omnis quaestio est quodammodo quaestio medii, quod quidem est
+quod quid est et propter quid, hic incipit manifestare qualiter medium nobis innotescat; et dividitur in partes
+duas: in prima parte ostendit quomodo quod quid est et propter quid se habent ad demonstrationem; in secunda
+parte ostendit quomodo oporteat investigare quod quid est et propter quid; ibi: quomodo autem oportet venari
+etc.. Prima autem pars dividitur in partes duas: in prima, manifestat quomodo se habeat ad demonstrationem ly
+quid est; in secunda, manifestat quomodo se habeat ad demonstrationem ly propter quid, quod significat causam;
+ibi: quoniam autem scire opinamur cum sciamus causam etc..
+|#2 Circa primum duo facit: primo, dicit de quo est intentio; secundo, prosequitur propositum; ibi: principium
+autem sit futurorum etc.. Dicit ergo primo quod quia omnis quaestio, ad cuius determinationem demonstratio
+inducitur, est quaestio medii, quod est quid et propter quid, oportet primo dicere per quem modum hoc ipsum
+quod quid est nobis ostendatur, utrum scilicet per demonstrationem, vel per divisionem, vel quovis alio modo. Et
+iterum oportet dicere quis sit modus reducendi ea quae apparent de re, ad quod quid est. Et quia definitio est
+oratio significans quod quid est, oportet etiam scire quid sit definitio et quae sint definibilia. In his autem hoc
+ordine procedemus: primo quidem opponendo; secundo autem veritatem determinando.
+|#3 Deinde cum dicit: principium autem sit futurorum etc., exequitur propositum ordine praedicto.
+Unde primo, procedit circa praemissa disputative opponendo; secundo, veritatem determinando; ibi: iterum
+autem speculandum est quid horum etc.. Circa primum duo facit: primo, procedit disputando de ipsa definitione,
+quae significat quod quid est; secundo, de ipso quod quid est per definitionem significato; ibi: ipsius autem quid
+est utrum syllogismus etc.. Circa primum tria facit: primo, inquirit disputative utrum omnium quorum est
+demonstratio, sit definitio; secundo, utrum e converso omnium quorum est definitio, sit demonstratio; ibi: quid
+autem cuius est definitio etc.; tertio, utrum alicuius eiusdem sit definitio et demonstratio; ibi: sed utrum si non
+omnis etc..
+Circa primum duo facit: primo, dicit de quo est intentio; secundo, exequitur propositum; ibi: dubitabit enim
+utique aliquis etc.. Dicit ergo primo quod inter ea quae in futurum dicenda sunt, principium oportet sumere ab eo
+quod est convenientissimum habitarum, idest consequentium rationum. Quod quidem est de hoc quod posset
+aliquis dubitare utrum contingat idem et secundum idem scire per definitionem et demonstrationem.
+|#4 Deinde cum dicit: definitio quidem enim quod quid est etc., probat quod non omnium quorum est
+demonstratio, sit definitio. Et hoc quadrupliciter.
+Primo quidem, quia definitio est indicativa eius quod quid est; omne autem quod pertinet ad quod quid est,
+praedicatur et affirmative et universaliter; ergo definitio est solum eorum contentiva sive significativa, quae
+praedicantur affirmative et universaliter. Sed non omnes syllogismi sunt demonstrativi conclusionum
+affirmativarum universalium; sed quidam sunt negativi, puta omnes qui sunt in secunda figura; quidam vero
+particulares, puta omnes qui sunt in tertia figura. Non ergo omnium est definitio, quorum est demonstratio.
+|#5 Secundo, ibi: postea neque eorum quae sunt etc., ostendit idem dicens quod neque definitio etiam potest
+esse omnium eorum quae concluduntur per syllogismos affirmativos, quod contingit esse solum in prima figura,
+sicut demonstrative syllogizatur quod omnis triangulus habet tres angulos aequales duobus rectis. Huius autem
+quod dictum est, scilicet quod non omnium quae sic syllogizantur, possit esse definitio, ratio est, quia scire
+aliquid demonstrative nihil aliud est quam demonstrationem habere. Ex quo patet quod si omnium horum
+scientia solum per demonstrationem habetur, non est eorum definitio.
+Ea enim quorum est definitio, cognoscuntur per definitionem. Sequeretur igitur quod aliquis non habens horum
+demonstrationem sciret ea; eo quod nihil prohibet aliquem habentem definitionem non simul habere
+demonstrationem; quamvis definitio sit demonstrationis principium. Non enim quicunque cognoscit principia,
+scit conclusionem deducere demonstrando.
+
+80
+
+

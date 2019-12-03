@@ -1,0 +1,62 @@
+SC
+Contra, unius perfectibilis una est perfectio.
+Sed corpus humanum est unum perfectibile.
+Ergo anima, quae est eius perfectio, est una.
+CO
+Respondeo. Dicendum, quod circa ordinem formarum est duplex opinio.
+Una est Avicebron, et quorumdam sequacium eius; qui dicunt, quod secundum ordinem generum et specierum
+sunt diversae formae substantiales sibi invicem advenientes, sicut est substantia, est corpus, est animatum, et est
+animal. Dicunt ergo, quod quaedam forma substantialis est per quam est substantia tantum, et postea est
+quaedam alia per quam est corpus, deinde est et alia per quam est animatum, et alia per quam est animal, et alia
+per quam est homo; et sic dicunt de aliis formis substantialibus rerum.
+Sed haec positio stare non potest: quia, cum forma substantialis sit quae facit hoc aliquid, et dat esse substantiale
+rei, tunc sola prima forma esset substantialis, cum ipsa sola daret esse substantiale rei, et faceret hoc aliquid;
+omnes autem post primam essent accidentaliter advenientes, nec darent esse rei simpliciter, sed esse tale: et sic in
+amissione vel acquisitione ipsarum non esset generatio et corruptio, sed tantum alteratio. Unde patet hoc non
+esse verum.
+Simile etiam esset in potentiis animae; nam sola prima, scilicet vegetabilis, esset forma substantialis, et faceret
+hoc aliquid; aliae vero essent accidentales: quod omnino est falsum.
+Et ideo dicendum est, quod huiusmodi formae differunt secundum perfectum et imperfectum.
+Est enim aliqua forma quae non dat nisi esse corpus tantum; aliqua est magis perfecta, quae etiam dat esse et
+vivere quocumque modo vivendi; aliqua, quae cum his dat etiam sensum. Unde patet quod semper ultima est
+perfectior primis, et habet se ad priores sicut perfectissima ad imperfectissimas; et ideo quidquid continetur in
+ipsis, totum est virtute in ultima.
+Unde dicendum est, quod una et eadem essentia est animae sensitivae et intellectivae; sed intellectiva habet se ad
+sensitivam sicut perfectum ad imperfectum. Quod autem specialiter anima sensitiva et intellectiva sint unius
+essentiae, signum est, quia nisi vires animae radicarentur in una essentia, nunquam una impediretur ab alia, nec
+etiam virtus unius redundaret in aliam. Item cum intellectus non habeat determinatum organum in corpore, quo
+mediante exerceat operationes suas; ad quid uniretur corpori, nisi esset eiusdem essentiae cum anima sensitiva?
+sic ergo patet quod una essentia est animae sensitivae et intellectivae; sed differunt secundum perfectum et
+imperfectum, ut dictum est.
+RA1
+Ad primum ergo dicendum, quod anima sensitiva educitur de potentia materiae in brutis: in nobis vero non, sed
+est per creationem, cum eius essentia sit essentia animae rationalis, quae est per creationem.
+RA2
+Ad secundum dicendum, quod non est inconveniens aliquid idem existens secundum diversas vires vel partes
+moveri ad opposita: et ideo, licet substantia animae humanae sit eadem sensitivae et intellectivae, tamen potest
+secundum diversas partes et vires moveri ad opposita; ut scilicet sensus moveatur ad ea quae sunt sibi propria, et
+ratio ad ea ad quae ordinatur.
+RA3
+Ad tertium dicendum, quod licet incorruptibile non sit idem cum corruptibili, tamen invenitur aliquid
+incorruptibile quod habet aliquam proprietatem communem corruptibili.
+Et sic est in anima rationali: nam ipsa substantia animae est incorruptibilis, nihilominus tamen habet aliquid in
+se, scilicet sensitivum, quod est commune etiam corruptibili.
+RA4
+Ad quartum dicendum, quod licet anima sensitiva sit communis in nobis et brutis quantum ad rationem generis,
+tamen quantum ad rationem speciei, alia est in homine et alia in brutis; et similiter alia in asino, et alia in equo et
+in bove. Et secundum quod differunt aliqua specie, ita etiam differt in eis anima sensitiva; et ideo non sequitur, si
+in brutis educatur de potentia materiae, quod etiam in homine: quia in homine est altioris speciei, et est per
+creationem.
+|q6 Quaestio 6
+TTA
+De corpore autem quaesitum est utrum corpus resurgat idem numero.
+TTB
+Et ostendebatur quod non.
+AG1
+Quia, secundum Philosophum in top., illud dicitur idem numero quod est idem proprio, accidente, et definitione.
+Sed corpus in resurrectione non habebit eadem propria, quia modo risibile, tunc non; non eadem accidentia, quia
+nunc albus, Crispus, niger, et huiusmodi, quae tunc non erunt; non eamdem etiam definitionem, quia modo
+definitur per mortale, tunc vero non mortale erit. Ergo videtur quod non resurget idem numero.
+219
+
+

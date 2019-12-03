@@ -1,0 +1,63 @@
+AG2
+Praeterea, quidquid praedicatur de aliquo potest supponere illud. Sed essentia praedicatur de patre et vere. Ergo
+potest supponere pro patre, et ita potest recipere praedicationem patris. Ergo potest concedi quod essentia
+generet.
+AG3
+Item, si essentia est pater, ergo est pater filii.
+Sed relativa dicuntur ad convertentiam. Ergo et filius erit filius essentiae. Ergo essentia generat.
+AG4
+Item, essentia est res generans. Sed res generans est generans. Ergo essentia est generans.
+AG5
+Item, sicut se habet essentia ad personam, ita persona ad essentiam. Sed de persona praedicantur attributa
+essentiae, sicut potentia, bonitas, etc..
+Ergo et de essentia proprietates personae. Ergo potest dici, quod essentia est generans.
+SC1
+Contrarium ostenditur per rationes Magistri.
+CO
+Respondeo dicendum, quod in creaturis actus sunt suppositorum; et essentia non agit, sed est principium actus in
+supposito: non enim humanitas generat, sed socrates virtute suae naturae.
+In creaturis autem essentia realiter differt a supposito; et ideo nullus actus proprie de essentia praedicatur nisi
+causaliter. In divinis autem essentia realiter non differt a supposito, sed solum ratione, sive quantum ad modum
+significandi: quia suppositum est distinctum, et essentia est communis.
+Et ideo in divinis quaecumque praedicantur de supposito non secundum modum quo differt ab essentia,
+praedicantur etiam de essentia: dicimus enim, quod essentia creat et gubernat et hujusmodi.
+Sed actus qui dicitur de supposito secundum modum secundum quem differt ab essentia, non potest de essentia
+praedicari; et hujusmodi est actus generandi, qui praedicatur de supposito patris, secundum quod distinctum est a
+supposito filii: unde non est concedendum quod essentia generet, sed quod pater generat virtute essentiae, vel
+naturae. Unde etiam dicit Damascenus, quod generatio est opus divinae naturae existens.
+RA1
+Ad primum ergo dicendum, quod affirmatio et negatio dicuntur maxime opponi, quia in eis non importatur
+aliqua convenientia: in privative enim oppositis importatur convenientia quantum ad subjectum, quia nata sunt
+fieri circa idem; in contrariis autem relativis etiam quantum ad genus, quia scilicet sunt in eodem genere. Unde
+in utraque oppositione utrumque extremorum significatur per modum entis et naturae cujusdam. Illud autem in
+quo invenitur aliquid non permixtum contrario, est maximum et primum in genere illo, et causa omnium
+aliorum; et ideo oppositio affirmationis et negationis, cui non admiscetur aliqua convenientia, est prima et
+maxima oppositio, et causa omnis oppositionis et distinctionis; et ideo oportet quod in qualibet alia oppositione
+includatur affirmatio et negatio, sicut primum in posteriori.
+Unde plura requiruntur ad alias oppositiones quam ad oppositionem contradictionis, quia se habent ex additione
+ad ipsam. Unde non oportet quod, si contrarietas non inveniatur nisi in diversis realiter, quod affirmatio et
+negatio inveniatur in diversis realiter; immo sufficit etiam distinctio rationis ad affirmationem et negationem,
+cum quaelibet distinctio, ut dictum est, includat affirmationem et negationem: et talis distinctio, scilicet rationis,
+est inter essentiam et personam. Sed opposita relative aliquando requirunt diversitatem vel distinctionem realem;
+et talia sunt quae divinas personas distinguunt: aliquando autem distinctionem rationis tantum; ut cum dicitur
+idem eidem idem: et hoc melius dicetur in tractatu de relationibus, dist. 26, quaest. 2, art. 1.
+RA2
+Ad secundum dicendum, quod essentia non praedicatur de supposito ratione modi significandi in utroque, sed
+ratione indifferentiae secundum rem propter simplicitatem divinae naturae, et ideo non oportet quod supponat
+patrem.
+RA3
+Ad tertium dicendum, quod cum dicitur essentia est pater, est duplex locutio ex eo quod ly pater potest teneri
+quasi adjective, ut ponat formam suam circa essentiam; et sic falsa est, quia proprietates non determinant
+essentiam: vel potest sumi substantive, et tunc supponit pater in praedicato pro persona patris; et sic vera est, nec
+oportet quod fiat hoc modo conversio: ergo filius est filius essentiae; sed, ergo filius est filius patris, qui est
+essentia.
+RA4
+Ad quartum dicendum, quod cum dicitur, essentia est res generans, ly res potest supponere essentiam, vel
+personam. Si essentiam, sic falsa est, quia sic adjectivum poneret formam suam circa essentiam; si personam, sic
+vera est; et tunc non sequitur: ergo essentia est generans, quia tunc non circa idem ponetur forma adjectivi.
+RA5
+Ad quintum dicendum, quod cum essentia et persona differant in modo significandi, illud quod praedicatur de
+persona ratione modi significandi secundum quod ab essentia distinguitur, non praedicatur de essentia, ut
+54
+
+

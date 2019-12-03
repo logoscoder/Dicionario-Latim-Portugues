@@ -1,0 +1,60 @@
+|#3 Sed quia etiam sunt quaedam figurae non habentes angulos, quae tamen non sunt sphaericae, ideo idem
+ostendit consequenter de huiusmodi figuris. Et dicit quod simile inconveniens sequitur si attribuatur caelo aliqua
+alia figura, a cuius medio non omnes lineae protractae sint aequales, quod est proprium sphaerae. Et has figuras
+dicit esse duas, lenticularem scilicet et ovalem. In figura enim ovali, linea quae designat longitudinem, est maior
+ea quae designat profunditatem: est enim figura ovalis quasi ex duabus pyramidalibus rotundis coniunctis in basi.
+Figura autem lenticularis est quasi facta ad modum rotae, cuius latitudo est maior quam grossities. In omnibus
+enim huiusmodi figuris accidit secundum aliquem modum quod extra ultimum motum supremae sphaerae est
+locus et vacuum, propter hoc quod totum secundum omnes partes suas non semper retinet eundem locum. Et hoc
+quidem accidit, si poli super quos revolvitur corpus ovalis figurae, accipiantur ex parte minoris diametri ipsius:
+tunc enim oportet quod maiores diametri circumvolvantur, et sic occupabit unum caput ovi motum aliquem
+locum, in quo prius nulla pars ovi erat. Si vero longitudo ovi acciperetur in motu ipsius sicut axis immobilis,
+fieret revolutio semper secundum partes circulares, ita quod una pars succederet alteri. Et similiter est etiam
+imaginandum in figura lenticulari: et ita etiam est de figura columnari, et de quacumque alia huiusmodi.
+Unde patet quod sola sphaerica figura est quae, a quacumque parte moveatur, non occupat de novo aliquem
+locum secundum aliquam sui partem, sed semper una pars eius succedit alteri.
+Unde talis figura est convenientissima caelo.
+|#4
+Deinde cum dicit: adhuc autem si quidem etc., probat idem per aliam rationem, quae sumitur ex
+mensuratione motuum. Et primo ponit hanc suppositionem, quod motus caeli sit mensura omnium motuum, ut
+habitum est in IV physic.. Et huius rationem assignat, quia solus motus caeli est continuus et regularis et
+sempiternus: aliter enim per ipsum motum caeli non posset certificari quantitas aliorum motuum, quod est
+mensurare ipsos.
+Si enim non esset motus caeli continuus, sed interpolatus, non esset aequalitas temporis inter motum
+mensurantem et mensuratum; si autem non esset regularis, sed quandoque velocior quandoque tardior, non
+haberet in se certitudinem determinatam, per quam posset certificari quantitas aliorum motuum; si autem non
+esset sempiternus, non mensurarentur secundum ipsum motus qui fuerunt ante et qui erunt post, secundum
+opinionem ponentium motum secundum suum genus esse aeternum.
+His autem suppositis, argumentatur ad propositum sic. Manifestum est quod id quod est minimum in unoquoque
+genere, est mensura illius generis, ut habetur in X metaphys., sicut in melodia tonus, et in ponderibus uncia, et in
+numeris unitas; manifestum est autem quod minimus motus est qui est velocissimus, qui scilicet habet minimum
+de tempore, quod est mensura motus; omnium ergo motuum velocissimus est motus caeli. Et accipitur hic motus
+velocissimus, qui citius peragit cursum suum ex parte brevitatis temporis, licet non supponatur aequalitas ex
+parte magnitudinis super quam transit motus, sicut supponitur in VI physic., ubi dicitur quod velocius est quod
+pertransit in minori tempore aequale spatium vel etiam maius. Unde hic subdit quod velocissimus motus
+attenditur secundum minimam magnitudinem.
+Inter omnes autem lineas quae ab eodem in idem redeunt, minima est circularis: quia in figuris rectilineis sunt
+anguli, ad quos lineae protractae a medio sunt maiores, et sic anguli illarum figurarum excedunt lineam
+circularem. Et ideo oportet quod caelum, quod movetur circulariter quasi ab eodem in idem, et velocissimo
+motu, quod motus eius sit super lineam circularem.
+Et ita oportet quod ipsum sit sphaericum.
+|#5 Deinde cum dicit: sumet autem utique quis etc., ostendit quod caelum sit sphaericae figurae, ratione sumpta
+ex corporibus inferioribus. Et primo ponit rationem; secundo probat quod supposuerat, ibi: sed et quod aquae
+superficies etc..
+Dicit ergo primo quod aliquis potest sumere fidem ad ostendendum caelum esse sphaericum, ex corporibus
+inferioribus, quae sunt collocata circa medium mundi. Aqua enim est circa terram, licet non ex omni parte
+cooperiat terram (quod est propter necessitatem generationis et conservationis vitae, maxime animalium et
+plantarum), aer autem circumdat aquam, ignis autem circumdat aerem; et secundum eandem rationem superiora
+corpora circumdant inferiora usque ad supremum caelum. Huiusmodi enim corpora non sunt continua, ut sit
+totum unum corpus, quia sic non esset quodlibet ipsorum sphaericum, sed totum (pars enim corporis continui
+non est actu figurata); sed haec corpora tangunt se invicem absque aliqua interpolatione alterius corporis, vel
+etiam vacui, ut democritus posuit; et hoc supra nominavit continuum. Superficies autem unius horum inferiorum
+corporum est sphaerica: illud autem quod continuatur, idest sine interpolatione coniungitur, corpori sphaerico
+continenti, aut etiam quod movetur circa corpus sphaericum contentum, necesse est esse sphaericum. Unde ab
+inferiori probari potest ascendendo usque ad supremum caelum, quod caelum sit sphaericum.
+|#6 Sed videtur quod haec probatio non habeat necessitatem. Si enim detur quod aqua sit sphaericae figurae, ex
+hoc manifeste habebitur quod aer sit sphaericae figurae quantum ad eius concavum; non autem oportet, ut
+videtur, quod quantum ad convexum.
+78
+
+

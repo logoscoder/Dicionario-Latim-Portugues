@@ -1,0 +1,58 @@
+|#24 Et secundum hunc modum democritus recte dicit, quod impossibile est unum fieri ex duobus, et ex uno
+fieri duo.
+Est enim intelligendum, quod duo in actu existentia, nunquam faciunt unum. Sed ipse non distinguens inter
+potentiam et actum, posuit magnitudines indivisibiles esse substantias. Voluit enim, quod sicut in eo quod est
+unum, non sunt multa in actu, ita nec in potentia. Et sic quaelibet magnitudo est indivisibilis. Vel aliter. Recte,
+inquam, dixit democritus, supposita sua positione, qua ponebat magnitudines indivisibiles esse etiam rerum
+substantias, et sic esse semper in actu, et ita ex eis non fieri unum. Et sicut est in magnitudinibus, ita est in
+numero, si numerus est compositio unitatum, sicut a quibusdam dicitur.
+Oportet enim quod vel dualitas non sit unum quid, sive quicumque alius numerus; sive quod unitas non sit actu
+in ea. Et sic dualitas non erunt duae unitates, sed aliquid ex duabus unitatibus compositum.
+Aliter numerus non esset unum per se et vere, sed per accidens, sicut quae coacervantur.
+|#25 Deinde cum dicit habet autem movet dubitationem circa praedicta; dicens, quod id, quod accidit ex
+praedictis, habet dubitationem. Dictum est enim, quod ex universalibus non potest esse aliqua substantia, propter
+hoc quod universale non significat hoc aliquid, sed quale. Secundo dictum est, quod ex substantiis in actu non
+potest esse aliqua substantia. Et sic videtur sequi, quod substantia non potest componi neque ex substantiis: ergo
+sequitur quod omnis substantia sit incomposita. Et ita, cum definitiones non dentur de substantiis incompositis
+(quod patet per hoc quod definitio est ratio habens partes, ut supra dictum est), sequitur, quod nullius substantiae
+sit definitio. Sed omnibus videtur, ut supra ostensum est, quod definitio, vel est solum substantiae, vel eius
+maxime. Nunc autem conclusum est, quod substantiae non sit definitio: ergo sequitur quod nullius sit definitio.
+|#26 Dicendum est autem ad praedictam dubitationem, quod quodam modo substantia est ex substantiis,
+quodam modo non. Hoc autem erit manifestum magis ex posterioribus in hoc capitulo, et in octavo. Est enim ex
+substantiis in potentia, sed non in actu.
+|+14 Lectio 14
+|#1 Postquam Philosophus ostendit universalia non esse substantias absolute, hic ostendit, quod non sunt
+substantiae a sensibilibus separatae: et dividitur in partes duas.
+In prima ostendit, quod universalia non sunt substantiae separatae. In secunda manifestat quoddam, quod in
+superioribus dubium reliquerat, ibi, manifestum autem est quod substantiarum.
+Circa primum duo facit. Primo ostendit universalia non esse substantias separatas.
+Secundo ostendit quod si sunt separatae, non sunt definibiles, ibi, quoniam vero substantia altera.
+Circa primum duo facit. Primo ostendit inconvenientia, quae sequuntur ponentibus universalia esse substantias
+separatas, comparando genus ad species. Secundo comparando genus ad individua, ibi, amplius autem in
+sensibilibus.
+Circa primum tria facit. Primo proponit quamdam divisionem. Secundo prosequitur primum membrum
+divisionis, ibi, ratione namque palam. Tertio secundum, ibi, sed si alterum in unoquoque.
+Dicit ergo primo, quod ex praedictis etiam manifestum esse potest quid accidat de inconvenientibus, dicentibus
+ideas esse substantias et separabiles, quae dicuntur esse species universales, et simul cum hoc ponentibus
+speciem esse ex genere et differentiis. Hae enim duae positiones simul coniunctae, scilicet quod species
+componantur ex genere et differentia, et quod species universales sunt substantiae separatae, quae dicuntur ideae,
+ducunt ad inconvenientia. Si enim ponantur species esse separatae, constat quod unum genus est in pluribus
+speciebus simul, sicut animal in homine et equo. Aut ergo hoc ipsum quod est animal in homine et equo existens,
+est unum et idem numero; aut alterum in homine, et alterum in equo.
+Inducit autem hanc divisionem, quia Plato ponebat ideas specierum, non autem generum, cum tamen poneret
+communiter universalia esse substantias.
+|#2 Deinde cum dicit ratione namque prosequitur primum membrum divisionis.
+Et primo ostendit, quod sit unum et idem animal. Secundo ostendit inconvenientia, quae sequuntur hoc posito,
+ibi, si quidem ergo.
+Dicit ergo, quod manifestum est, quod animal est unum et idem in homine et equo secundum rationem. Si enim
+assignetur ratio animalis secundum quod dicitur de utrolibet, scilicet homine vel equo, eadem ratio assignabitur,
+quae est substantia animata sensibilis: univoce enim praedicatur genus de speciebus, sicut et species de
+individuis. Si ergo propter hoc, quod species praedicatur secundum unam rationem de omnibus individuis, est
+aliquis homo communis, qui est ipsum quod est homo secundum se existens, et est hoc aliquid, idest quoddam
+demonstrabile subsistens et separatum a sensibilibus, sicut Platonici ponunt; necesse est pari ratione et ea, ex
+quibus species constat, scilicet genus et differentiam, ut animal et bipes, significare similiter hoc aliquid, et esse
+separabilia a suis inferioribus, et esse substantias per se existentes. Quare sequitur quod animal erit unum
+numero per se existens, quod praedicatur de homine et equo.
+232
+
+

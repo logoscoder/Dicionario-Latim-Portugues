@@ -1,0 +1,57 @@
+aequalis diametro, sed quia omnem distantiam mensuramus per lineam rectam. Cuius ratio est, quia omnis
+mensura debet esse certa et determinata et minima: inter duo autem puncta mensura lineae rectae est certa et
+determinata, quia non potest esse nisi una; et est minima omnium linearum quae sunt inter duo puncta. Lineae
+vero curvae inter duo puncta describi possunt infinitae, quae omnes sunt maiores linea recta inter eadem puncta
+descripta.
+Unde distantia quae est inter duo puncta, mensuratur per lineam rectam, et non per lineam curvam semicirculi,
+seu cuiuslibet alterius portionis circuli, aut maioris aut minoris circuli.
+Cum igitur de ratione contrarietatis sit quod habeat maximam distantiam, ut dicitur in X metaphys., cum
+distantia quae est inter duo puncta non mensuretur secundum lineam curvam sed secundum rectam, consequens
+est quod contrarietas terminorum non faciat contrarietatem in motibus qui sunt super semicirculum, sed solum in
+motibus qui sunt super diametrum.
+|#9 Obiicit autem contra hoc ioannes grammaticus, quia non solum geometrae et astrologi accipiunt quantitatem
+lineae curvae per lineam rectam, sed etiam e converso: probant enim quantitatem chordae per arcum, et
+quantitatem arcus per chordam. Sed in hoc deficit ab intellectu Aristotelis.
+Non enim hoc intendit Aristoteles, quod linea curva mensuretur per rectam; sed quod distantia quae est inter
+quaelibet duo puncta, mensuretur per lineam rectam, ratione iam dicta.
+Obiicit etiam quod maxima distantia est in caelo, quae est inter duo puncta opposita, puta inter principium arietis
+et principium librae: et tunc, si contrarietas est maxima distantia, potest secundum hanc distantiam attendi
+contrarietas in motu circulari. Sed dicendum est quod ista distantia maxima attenditur secundum quantitatem
+diametri, et non secundum quantitatem semicirculi: alioquin plus distaret principium arietis a principio sagittarii,
+quod respicit trino aspectu, quam a principio librae, quod respicit aspectu rectae oppositionis.
+|#10 Deinde cum dicit: similiter autem et utique etc., ostendit non esse contrarietatem in motu circulari
+secundum duos semicirculos. Et dicit quod similis est ratio, si quis describens circulum totum, ponat motum qui
+est in uno semicirculo, contrarium ei qui est in alio semicirculo. Sit enim circulus cuius diameter sit ez, dividens
+ipsum in duos semicirculos, in uno quorum describatur I, in alio t. Posset ergo aliquis dicere quod motus qui est
+ab e ad z per semicirculum I, contrariatur motui qui est a z ad e per semicirculum t. Sed hoc improbatur eadem
+ratione qua et primum: quia scilicet distantia quae est inter e et z, non mensuratur semicirculo, sed diametro.
+Et adhuc alia ratio est: quia unus motus continuus est, qui incipiens ab e, venit in z per I semicirculum, et iterum
+per t semicirculum redit a z in e; duo autem motus contrarii non possunt sibi invicem continuari, ut patet in VIII
+physic..
+|#11 Deinde cum dicit: si autem et istae etc., ostendit quod etiam si istae partes motuum circularium essent
+contrariae, non tamen propter hoc sequeretur quod contrarietas esset in motibus circularibus secundum totum:
+non enim sequitur ad contrarietatem partium contrarietas totius. Et sic patet quod id quod iam ostendit
+Philosophus de contrarietate partium motus circularis, ex abundanti prosecutus est, ut totaliter a motu circulari
+contrarietatem excluderet.
+|#12 Deinde cum dicit: at vero etc., ostendit quod toti motui circulari non est alius totus motus circularis
+contrarius: et hoc duabus rationibus.
+Quarum prima sumitur ex consideratione ipsius motus circularis in communi. Sit ergo unus circulus, super quem
+in tribus punctis describantur a et b et g. Super hunc autem circulum intelligantur duo motus circulares, quorum
+unus incipiat ab a, et per b vadat in g, et sic revertatur ad a; alius autem motus e converso, incipiens ab a, primo
+vadat ad g, et sic transiens per b revertatur ad a. Dicit ergo hos duos motus non esse contrarios. Uterque enim
+horum motuum ab eodem incipit, scilicet ab a, et in idem terminatur, scilicet in ipsum a; et sic patet quod isti duo
+motus non incipiunt a contrario, neque terminantur ad contrarium; contrarius autem motus localis est qui est a
+contrario in contrarium.
+Patet ergo praedictos motus circulares non esse contrarios.
+|#13 Obiicit autem contra hoc iterum ioannes grammaticus. Primo quidem quia in diversis videtur esse diversa
+ratio contrarietatis. Moveri enim a contrario in contrarium determinat contrarietatem in motibus rectis: unde non
+oportet, si talis contrarietas non est in motibus circularibus, quod propter hoc nulla contrarietas in eis esse possit.
+Item, sicut est de ratione motus contrarii in motibus rectis quod sit de contrario in contrarium, ita est de ratione
+motus quod sit de uno in aliud.
+Per hoc autem quod motus circularis est ab eodem in idem, non solum excluditur quod non sit de contrario in
+contrarium, sed etiam quod non sit de uno in aliud. Ergo non solum excluditur a motibus circularibus quod non
+sint contrarii, sed etiam quod penitus non sint motus.
+
+20
+
+

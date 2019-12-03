@@ -1,0 +1,62 @@
+Item, eorum quae in infinitum distant, non potest esse indifferentia. Sed creatura est imago Dei, a quo tamen in
+infinitum distat. Ergo indifferens male ponitur in definitione imaginis.
+AG4
+Praeterea, in definitionibus non debet esse circulus. Sed ex hac definitione sequitur circulus; definit enim
+imaginem per rem imaginatam, et imaginatum non potest definiri nisi per imaginem.
+Ergo videtur quod male definiat.
+AG5
+Item, de ratione imaginis est aequalitas et similitudo, ut patet ex alia ejus definitione, quod imago est rei, ad rem
+coaequandam, indiscreta et unita similitudo. Cum igitur in praedicta definitione nihil ponatur ad aequalitatem et
+similitudinem pertinens, videtur quod sit diminuta.
+CO
+Respondeo dicendum, quod ratio imaginis consistit in imitatione; unde et nomen sumitur.
+Dicitur enim imago quasi imitago. De ratione autem imitationis duo consideranda sunt; scilicet illud in quo est
+imitatio, et illa quae se imitantur. Illud autem respectu cujus est imitatio, est aliqua qualitas, vel forma per
+modum qualitatis significata. Unde de ratione imaginis est similitudo. Nec hoc sufficit, sed oportet quod sit
+aliqua adaequatio in illa qualitate vel secundum qualitatem vel secundum proportionem; ut patet quod in imagine
+parva, aequalis est proportio partium ad invicem sicut in re magna cujus est imago; et ideo ponitur adaequatio in
+definitione ejus. Exigitur etiam quod illa qualitas sit expressum et proximum signum naturae et speciei ipsius;
+unde non dicimus quod qui imitatur aliquem in albedine, sit imago illius; sed qui imitatur in figura, quae est
+proximum signum et expressum speciei et naturae. Videmus enim diversarum specierum in animalibus diversas
+esse figuras. Ex parte autem imitantium duo sunt consideranda; scilicet relatio aequalitatis et similitudinis, quae
+fundatur in illo uno in quo se imitantur; et adhuc ulterius ordo: quia illud quod est posterius ad similitudinem
+alterius factum, dicitur imago; sed illud quod est prius, ad cujus similitudinem fit alterum, vocatur exemplar,
+quamvis abusive unum pro alio ponatur.
+Et ideo Hilarius ad significandum ordinem et relationem se imitantium, dixit: imago est ejus rei ad quam
+imaginatur; ad designandum vero id in quo est imitatio, dixit: species indifferens.
+RA1
+Ad primum igitur dicendum, quod non in imitatione quorumcumque exteriorum est ratio imaginis; sed eorum
+quae sunt signa quodammodo speciei et naturae; et ideo posuit speciem potius quam qualitatem.
+RA2
+Ad secundum dicendum, quod ista definitio data est per causam: non enim illud quod est imago, est ipsa species
+in qua fit imitatio, proprie loquendo; sed indifferentia speciei est causa quare dicatur imago. Vel dicatur, quod
+utrumque potest dici imago; et illud quod imitatur, et id in quo est imitatio, quamvis non ita proprie; et sic definit
+Hilarius.
+RA3
+Ad tertium dicendum, quod unumquodque quantum attingit ad rationem imaginis, tantum attingit ad rationem
+indifferentiae: secundum enim quod differt, non est imago. Invenitur tamen quidam gradus perfectionis imaginis.
+Dicitur enim quandoque imago alterius, in quo invenitur aliquid simile qualitati alterius, quae designat et
+exprimit naturam ipsius; quamvis illa natura in ea non inveniatur; sicut lapis dicitur esse imago hominis
+inquantum habet similem figuram, cui non subsistit natura illa cujus est signum; et sic imago Dei est in creatura,
+sicut imago regis in denario, ut dicit Augustinus; et sic est imperfectus modus imaginis. Sed perfectior ratio
+invenitur quando illi qualitati quae designat naturam substantiae, subest natura in specie, sicut est imago hominis
+patris in filio suo: quia habet similitudinem in figura, et in natura quam figura significat. Sed perfectissima ratio
+imaginis est quando eamdem numero formam et naturam invenimus in imitante cum eo quem imitatur; et sic est
+filius perfectissima imago patris: quia omnia attributa divina, quae sunt per modum qualitatis significata, simul
+cum ipsa natura sunt in filio, non solum secundum speciem, sed secundum unitatem in numero.
+RA4
+Ad quartum dicendum, quod hoc quod dicit: ejus rei ad quam imaginatur, est circumlocutio exemplaris. Unde
+ponitur in virtute unius dictionis, et ponitur convenienter in definitione imaginis, sicut prius in definitione
+posterioris, et non e converso.
+Exemplar enim prius est imagine; unde non est ibi circulus.
+RA5
+Ad quintum dicendum, quod indifferentia speciei intelligitur et similitudo et aequalitas, qualis ad imaginem
+requiritur; unde illae duae definitiones quasi in idem redeunt.
+|a2 Articulus 2: Utrum imago dicatur essentialiter.
+AG1
+Ad secundum sic proceditur. Videtur quod imago non dicatur essentialiter. Ut enim supra, dist. 27, dictum est ab
+Augustino, nihil est absurdius quam imaginem ad se dici. Sed illud quod essentialiter dicitur in divinis, ad se
+dicitur. Ergo absurdum est ut essentialiter dicatur.
+244
+
+

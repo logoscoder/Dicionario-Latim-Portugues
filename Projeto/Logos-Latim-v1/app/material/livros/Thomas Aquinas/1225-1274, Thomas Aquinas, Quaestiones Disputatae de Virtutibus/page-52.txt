@@ -1,0 +1,63 @@
+|a2 Articulus 2
+TTA
+Secundo quaeritur utrum caritas sit virtus.
+TTB
+Et videtur quod non.
+AG1
+Virtus enim est circa difficile, secundum Philosophum in VI ethic.. Sed caritas non est circa difficile, quinimmo,
+ut Augustinus dicit in Lib. De verbis Domini: omnia gravia et immania, facilia et prope nulla facit amor. Ergo
+caritas non est virtus.
+AG2
+Sed dicebatur, quod illud quod est virtutis, est difficile in principio, sed facile est in fine. Sed contra, in principio
+nondum est virtus. Si igitur solum in principio sit difficile, virtus non erit circa difficile.
+AG3
+Praeterea, difficultas in virtutibus accidit ex contrarietate; inde enim fit difficile temperantiam servare propter
+contrarias concupiscentias.
+Sed caritas est circa summum bonum, cui non est aliquid contrarium. Ergo id quod est caritatis, non est difficile
+neque in fine neque in principio.
+AG4
+Praeterea, diligere vel amare quoddam velle est. Sed apostolus dicit, Rom. VII, 18: velle adiacet mihi. Ergo
+diligere adiacet nobis; non ergo ad hoc aliqua virtus caritatis requiritur.
+AG5
+Praeterea, in mente nostra non est nisi intellectus et appetitus. Sed intellectus elevatur in Deum per fidem,
+affectus per spem.
+Non ergo oportet ponere tertiam virtutem caritatis ad elevandum mentem in Deum.
+AG6
+Sed dicendum, quod spes elevat, sed non coniungit; unde necessaria est caritas, quae coniungat. Sed contra, spes,
+quia non coniungit, semper distantis est; unde illis qui per beatitudinis fruitionem coniunguntur Deo, non
+congruit spes. Si ergo caritas coniungit, pari ratione non competit illis qui nondum sunt coniuncti, scilicet
+existentibus in via. Sed virtus perficit nos in via; est enim dispositio perfecti ad optimum.
+Ergo caritas non est virtus.
+AG7
+Praeterea, gratia sufficienter coniungit nos Deo. Non igitur requiritur virtus caritatis ad hoc quod per ipsam Deo
+coniungamur.
+AG8
+Praeterea, caritas est quaedam amicitia hominis ad Deum. Sed amicitia hominis ad hominem non numeratur a
+philosophis inter virtutes politicas. Ergo nec caritas Dei debet numerari inter virtutes theologicas.
+AG9
+Praeterea, nulla passio est virtus. Amor est passio. Ergo non est virtus.
+AG10
+Praeterea, virtus est in medio secundum Philosophum. Sed caritas non est in medio; quia in amore Dei non potest
+esse aliquid superfluum. Ergo caritas non est virtus.
+AG11
+Praeterea, affectus est magis corruptus per peccatum quam intellectus; quia peccatum in voluntate est, ut
+Augustinus dicit.
+Sed intellectus noster non potest Deum videre immediate per seipsum in statu viae. Ergo nec affectus noster
+potest diligere Deum immediate per seipsum in statu viae. Sed diligere Deum per seipsum attribuitur caritati.
+Ergo caritas non debet inter virtutes quae perficiunt nos in via numerari.
+AG12
+Praeterea, virtus est ultimum de potentia rei, ut dicitur in I de caelo.
+Sed delectatio est ultimum quod pertinet ad affectum. Ergo magis delectatio debet esse virtus quam amor.
+AG13
+Praeterea, omnis virtus habet debitum modum; unde dicit Augustinus, quod peccatum, quod opponitur virtuti, est
+privatio modi, speciei et ordinis. Sed caritas non habet modum; quia, sicut dicit bernardus, modus caritatis est
+sine modo diligere. Ergo caritas non est virtus.
+AG14
+Praeterea, una virtus non denominatur ab alia; quia omnes species eiusdem generis ex opposito dividuntur. Sed
+caritas denominatur ab aliis virtutibus; dicitur enim I ad corinth. XIII, 4: patiens est, benigna caritas est. Ergo
+caritas non est virtus.
+AG15
+
+52
+
+

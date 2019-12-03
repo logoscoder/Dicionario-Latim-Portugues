@@ -1,0 +1,66 @@
+|#5
+Deinde cum dicit: quod quidem igitur semper motus erat etc., epilogat
+quae dixerat: scilicet quod motus semper fuerit et semper erit, et quod est
+aliquod primum principium motus perpetui, et quis sit primus motus, et quem
+motum contingat esse perpetuum, et quod primum movens sit immobile.
+Haec enim omnia in praecedentibus declarata sunt.
+|+21
+
+Lectio 21
+
+|#1
+Postquam Philosophus ostendit qualis sit primus motus, hic ostendit
+quale sit primum movens.
+Et dividitur in partes duas: primo dicit de quo est intentio; secundo
+exequitur propositum, ibi: horum autem unum quidem etc..
+Dicit autem primo, quod cum dictum sit supra quod primum movens est
+immobile, nunc dicendum est quod primum movens est indivisibile et nullam
+habens magnitudinem, sicut omnino incorporeum.
+Sed antequam hoc ostendamus, oportet praedeterminare quaedam quae exiguntur
+ad huius probationem.
+|#2
+Deinde cum dicit: horum autem unum quidem etc., exequitur propositum.
+Et primo praemittit quaedam quae sunt necessaria ad principalis propositi
+ostensionem; secundo ostendit principale propositum, ibi: determinatis
+autem his etc..
+Circa primum tria facit: primo ostendit quod ad motum infinitum requiritur
+potentia infinita; secundo quod potentia infinita non potest esse in
+magnitudine finita, ibi: quod autem omnino in finita magnitudine etc.;
+tertio quod primum motorem oportet esse unum, qui moveat motum continuum et
+sempiternum, ibi: de his autem quae feruntur etc..
+Dicit ergo primo, quod inter ea quae praedeterminanda sunt ante principale
+propositum, unum est quod impossibile est aliquod finitum secundum
+potentiam, movere per tempus infinitum. Quod sic ostendit.
+Tria sunt in quolibet motu: quorum unum est id quod movetur, aliud est
+ipsum movens, tertium autem est tempus in quo fit motus.
+Oportet autem quod aut omnia ista sint infinita, aut omnia sint finita, aut
+quod quaedam sint finita et quaedam infinita, vel duo tantum vel unum.
+Ponatur ergo primo quod a sit movens, et b sit mobile, et tempus infinitum
+sit c. Et ponatur quod aliqua pars ipsius a, quae est d, moveat aliquam
+partem b, quae est e.
+His ergo positionibus factis, concludi potest quod d movet e in tempore non
+aequali ipsi c, in quo a movebat b, sed in tempore minori.
+Probatum est enim in sexto quod totum mobile in maiori tempore pertransit
+aliquod signum, quam pars eius. Cum ergo tempus quod est c sit infinitum,
+relinquitur quod tempus in quo d movet e, non erit infinitum, sed finitum.
+Et sit illud tempus z; ut sicut a movet b in tempore c infinito, ita d
+moveat e in tempore z finito. Cum autem d sit pars ipsius a, si subtrahendo
+ab a addam ipsi d, totaliter ipsum a auferetur vel consumetur, cum sit
+finitum: omne enim finitum consumitur per subtractionem, si eadem quantitas
+semper sumatur, ut in tertio dictum est.
+Et similiter consumetur ipsum b, si continue subtrahatur aliquid ab ipso et
+apponatur ipsi e; quia b etiam ponebatur esse finitum.
+Sed quantumcumque auferam a tempore quod est c, etiam secundum eandem
+quantitatem auferendo, non consumetur totum c; quia ponitur esse infinitum.
+Ex hoc concludit quod totum a movet totum b in tempore aliquo finito, quod
+est pars ipsius c. Quod quidem sic sequitur ex praemissis, quia secundum
+proportionem qua additur ad mobile et ad motorem, additur etiam ad tempus
+motus. Cum ergo subtrahendo a toto mobili et motore, et addendo ad partes
+ipsorum, consumatur quandoque totum mobile et totum movens, ita quod totum
+quod erat in toto addetur parti; sequetur quod proportionaliter addendo ad
+tempus, resultabit tempus finitum, in quo totum movens movebit totum
+mobile. Et sic oportet quod si movens est finitum et mobile finitum, quod
+tempus sit finitum.
+344
+
+

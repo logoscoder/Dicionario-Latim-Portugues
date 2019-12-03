@@ -1,0 +1,61 @@
+species: sed hoc non facit ad propositum, quia nihil prohibet de aliquo indivisibili praedicari aliquid quod est
+commune ad multa. Unde oportet intelligere quod passio divisibilis secundum speciem intelligatur sicut color
+medius, qui componitur ex duabus speciebus coloris, quae sunt album et nigrum: talem autem passionem non
+videtur possibile inesse rei omnino simplici, quia, cum passiones propriae causentur a subiecto, necesse est quod
+passionis compositae sint diversa principia; quod repugnat simplicitati subiecti. Exponit autem consequenter de
+divisibili secundum accidens. Et dicit quod passio dicitur secundum accidens divisibilis, si subiectum cui accidit
+sit divisibile; sicut dividitur albedo per divisionem subiecti.
+Unde omnes passiones quae sunt simplices secundum speciem, inveniuntur divisibiles hoc modo, scilicet
+secundum subiectum, inquantum scilicet insunt corpori naturali.
+Et ideo circa tales passiones, quae uno vel altero modo sunt divisibiles, est considerandum quod impossibile
+sequatur dicentibus lineas indivisibiles vel superficies, ex quibus componantur corpora naturalia, ex talibus quae
+non sunt susceptiva passionum corporum naturalium.
+|#6 Deinde cum dicit: si itaque impossibilium etc., ponit speciales rationes ad improbandum positionem
+praedictam. Circa quarum primam duo facit: primo proponit rationem; secundo probat ea quae supposuerat, ibi:
+sed et quod punctum etc..
+Dicit ergo primo impossibile esse, si utrumque eorum ex quibus aliquid componitur, nullam habeat gravitatem,
+quod compositum ex ambobus habeat gravitatem. Sed corpora sensibilia habent gravitatem; aut omnia, sicut
+dicebat democritus, aut quaedam, scilicet terra et aqua, sicut ipsimet Platonici dicebant. Ergo corpus sensibile
+non potest componi ex rebus non habentibus gravitatem.
+Sed punctum nullam habet gravitatem: ergo ex punctis non potest componi aliquid habens gravitatem.
+Componitur autem ex eis secundum praedictam positionem linea: ergo etiam linea non potest habere gravitatem.
+Et per consequens neque superficies, quae componitur ex lineis: et ulterius neque corpus, quod componitur ex
+superficiebus: quod est contra praedicta. Est autem considerandum quod ista ratio tenet in partibus quantitativis,
+quae sunt eiusdem naturae et rationis et ad invicem et cum toto: non autem tenet in partibus essentialibus,
+quarum est alia ratio et ab invicem et a toto. Unde non sequitur, si materia non est gravis nec forma, quod
+compositum non sit grave: quia materia est gravis in potentia, per formam autem fit aliquid grave actu.
+|#7 Deinde cum dicit: sed et quod punctum etc., probat quae supposuerat in ratione praemissa.
+Et primo probat quod punctum non sit grave; secundo quod ex non gravibus non potest componi aliquid grave,
+ibi: sed adhuc neque ex non habentibus etc..
+Primum autem probat tribus rationibus. Quarum prima talis est. Omne grave potest esse aliquo alio gravius, et
+omne leve contingit esse aliquo levius: sed tamen non est necesse omne quod est gravius aut levius, esse grave
+aut leve.
+Videtur autem quod hic dicitur esse falsum: nam comparativum praesupponit positivum; omne enim albius est
+album. Dicunt ergo quidam quod comparativum, si proprie accipiatur, praesupponit positivum, et infert ipsum:
+sed quandoque comparatio est abusiva, puta cum aliquid comparative dicitur respectu oppositi, sicut si dicatur
+cygnus albior corvo; vel etiam si aliquid dicatur comparative propter hoc quod minus participat de opposito, puta
+si dicatur aliquis Aethiops esse albior corvo, quia est minus niger; et sicut dicitur aliquod minus malum esse
+eligibilius magis malo, cum tamen malum non sit eligibile, nec Aethiops sit albus. Et per hunc modum hic
+Philosophus dicit quod non omne gravius est grave, nec omne levius est leve: unde ad designandam abusivam
+comparationem, addidit forte.
+Sed quia non est consuetudo Aristotelis ut ex abusivis locutionibus argumentetur, ideo dicendum est quod
+quaedam sunt quae dicuntur tantum absolute, sicut album vel dulce; et in talibus comparativum praesupponit
+positivum, et infert ipsum. Quaedam autem sunt quae quandoque dicuntur absolute, quandoque autem relative,
+sicut grave et leve: nam, ut in quarto dicetur, ignis dicitur absolute levis, terra autem absolute gravis; aer autem
+ad ignem quidem gravis, ad aquam autem et terram levis. Sic et aqua ad terram quidem est levis, ad ignem autem
+et ad aerem gravis. Manifestum est autem quod id quod est absolute grave, est etiam grave per comparationem
+ad alia; et id quod est absolute leve, est etiam leve per comparationem ad alia; et per hunc modum omne grave
+est gravius, et omne leve est levius. Non tamen sequitur quod omne levius est leve, aut omne gravius sit grave:
+quia non sequitur, si est leve ad alia, quod sit leve absolute; et eadem ratio est de gravi. Et quod haec sit ratio
+dicti, patet ex exemplo quod ponit. Magnum enim, communiter acceptum, dicitur ad aliquid, ut patet in
+praedicamentis: sed applicatum alicui rei, dicitur absolute magnum quod pertingit ad quantitatem debitam illi rei;
+sicut homo dicitur magnus absolute, qui attingit ad perfectam hominis quantitatem. Et ita patet quod magnum
+dicitur absolute, et ad aliquid. Et inde est quod omne magnum absolute dicitur magnum ad aliquid, quod est esse
+maius: non autem omne maius est magnum absolute; multa enim sunt quae absolute considerata sunt parva, quae
+tamen aliis sunt maiora.
+Si igitur omne grave est gravius quodam alio, necesse est quod omne grave sit maius alio quodam in gravitate. Et
+ita sequitur quod sit divisibile: nam omne maius dividitur in aequale et plus. Sed punctum est indivisibile, ut
+supponitur ex eius definitione. Ergo punctum non est grave.
+128
+
+

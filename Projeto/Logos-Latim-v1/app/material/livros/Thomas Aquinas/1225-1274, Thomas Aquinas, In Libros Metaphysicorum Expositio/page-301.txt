@@ -1,0 +1,62 @@
+substantiam et accidens sit aliquod medium: tum quia sunt diversorum generum, inter huiusmodi autem non cadit
+medium, ut supra in decimo ostensum est: tum quia etiam definitiones substantiae et accidentis immediatae sunt. Est
+enim substantia ens per se; accidens vero ens per se non est, sed in alio.
+[83953] In Metaphysic., lib. 11 l. 12 n. 7
+Dicendum est ergo quod nec formae substantiales possunt esse contrariae, quia contraria sunt extrema quaedam
+cuiusdam determinatae distantiae, et quodammodo continuae, cum sit motus de uno contrario in aliud contrarium. Unde
+in illis generibus in quibus talis distantia continua et determinata non invenitur, non potest contrarium inveniri. Sicut
+patet in numeris. Distantia enim numerorum adinvicem non intelligitur secundum aliquam continuitatem, sed
+secundum additionem unitatum. Unde numerus numero non est contrarius. Et similiter nec figura figurae.
+[83954] In Metaphysic., lib. 11 l. 12 n. 8
+Eodem autem modo est in substantiis; quia ratio cuiuslibet speciei constituitur in quodam determinato indivisibili. Sed
+cum forma sit differentiae principium; si formae substantiales non sunt adinvicem contrariae, sequitur quod non sit
+contrarietas in differentiis; cum tamen supra ostensum sit, quod genus dividitur in contrarias differentias.
+[83955] In Metaphysic., lib. 11 l. 12 n. 9
+Dicendum est igitur quod forma substantialis secundum quod in se consideratur, constituit speciem in genere
+substantiae: secundum autem quod una forma habet sibi intellectam privationem alterius formae, sic diversae formae
+sunt contrariarum differentiarum principia. Nam privatio quodammodo contrarium est. Et per hunc modum opponuntur
+animatum et inanimatum, rationale et irrationale et huiusmodi.
+[83956] In Metaphysic., lib. 11 l. 12 n. 10
+Deinde cum dicit neque ad ostendit non per se esse motum in genere ad aliquid, sed solum per accidens. Sicuti enim
+aliquid movetur per accidens, quando non fit motus in eo, nisi quodam altero moto; ita et in aliquo dicitur esse motus
+per accidens, quando non fit motus in eo, nisi quodam altero moto. Hoc autem invenimus in genere ad aliquid; quod
+nisi aliquid alterum permutetur, non verum est dicere quod in eo fiat permutatio, sicut non fit de aequali inaequale, non
+facta permutatione secundum quantitatem. Et similiter non fit de dissimili simile, nisi facta permutatione secundum
+qualitatem. Videmus etiam quod unum relativorum dicitur permutari facta permutatione circa alterum; sicut alterum per
+se manens de sinistro fit dextrum, altero secundum locum permutato. Relinquitur igitur quod in ad aliquid non est
+motus nisi per accidens.
+[83957] In Metaphysic., lib. 11 l. 12 n. 11
+Deinde cum dicit neque facientis ostendit, quod neque in agere et pati sit motus: et hoc quatuor rationibus: quarum
+prima talis est. Agere et pati sunt motus, et significant motum. Si igitur in agere et pati esset motus, sequeretur, quod
+motus sit alicuius motus, et generatio generationis, et permutatio permutationis. Sed hoc est impossibile; ergo, et hoc
+quod in agere et pati sit motus. Quod autem impossibile sit motum esse motus, sic ostendit. Motum enim esse motus
+contingit dupliciter: aut ut eius quod movetur, aut ut termini. Eius quidem quod movetur: sicut dicimus motum esse
+hominis, quia homo movetur, quia ex albo in nigrum permutatur. Unde et similiter motus movebitur, et aut calefiet, aut
+infrigidabitur, aut mutabitur secundum locum, aut augebitur. Hoc autem est impossibile; quia motus non potest esse
+subiectum caloris aut frigoris, aut alicuius huiusmodi. Relinquitur igitur quod non contingat motum esse motus sicut
+subiecti.
+[83958] In Metaphysic., lib. 11 l. 12 n. 12
+Sed neque etiam sicut termini; ita scilicet quod aliquod subiectum alterum permutetur de una specie permutationis in
+aliam, sicut homo permutatur de languore in sanitatem. Hoc enim est impossibile nisi per accidens.
+[83959] In Metaphysic., lib. 11 l. 12 n. 13
+Unde consequenter ostendit quod est impossibile per se, quia omnis motus est permutatio de uno in aliud. Et similiter
+generatio et corruptio est mutatio de uno in aliud, licet termini permutationis non sic opponantur in generatione et
+corruptione sicut in motu, ut supra dictum est. Si igitur sit aliqua permutatio de una permutatione in aliam, puta de
+sanatione in quamdam aliam permutationem, sequetur quod simul dum aliquid permutatur de sanitate in aegritudinem,
+permutetur de illa permutatione in aliam permutationem; quia adhuc uno extremorum permutationis existente, fit
+transmutatio de illo extremo in aliud. Et sic, si duae transmutationes sunt extrema unius permutationis, sequetur, quod
+durante prima transmutatione, fiat transmutatio in aliam. Et sic simul, dum aliquod movetur de sanitate in aegritudinem,
+transmutabitur de sanatione in aliam transmutationem.
+[83960] In Metaphysic., lib. 11 l. 12 n. 14
+Sed hoc non videtur, nisi inquantum una mutatio succedit alteri. Contingit autem quod ad hanc mutationem qua aliquid
+movetur de sanitate in aegritudinem, succedat quaevis alia mutatio; puta dealbatio, vel denigratio, mutatio secundum
+locum, vel quaecumque alia. Unde manifestum est, quod si aliquis languet per hoc quod movetur de sanitate in
+aegritudinem, quod ex hac mutatione permutari poterit in quamcumque aliam mutationem. Neque est mirum, quia
+poterit ex hac mutatione mutari ut in quiete. Contingit enim post hanc mutationem aliquem quiescere.
+[83961] In Metaphysic., lib. 11 l. 12 n. 15
+Sed cum omnis mutatio sit in non contingens, idest in oppositum, quod non contingit simul verum esse cum suo
+opposito, sequitur quod si permutatio sit de mutatione in mutationem, quod semper sit in oppositam mutationem quam
+appellat non contingentem. Et illa transmutatio in quam fit transitus, oportet quod sit de aliquo in aliquid. Quare non
+fiet transitus de permutatione languoris, nisi in oppositam mutationem quae dicitur sanatio.
+
+

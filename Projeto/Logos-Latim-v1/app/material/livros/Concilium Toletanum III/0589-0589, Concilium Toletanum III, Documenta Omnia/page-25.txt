@@ -1,0 +1,63 @@
+751 heresi W411
+752 arriane W411
+753 dogmata W411
+754 damnata W411
+755 portacalensis E97
+756 heresi W411
+757 arriane W411
+758 dogmata W411
+759 damnata W411
+760 Eriusclus V630; Friusclus V1341; E97
+761 desertosane V630
+762 heresi korr. aus herese W411
+763 arriane W411
+764 dogmata W411
+765 damnata W411
+766 sanctam fehlt W411
+767 herese W411
+768 arriane W411
+769 conversi korr. aus conversa O93
+770 inlustri W411
+771 proceri W411
+772 Eleva V1341; E97
+773 subscripserunt] subscripserunt PROLOGUS E97
+774 gothicae korr. aus gotiae O93
+775 gloriosissimus korr. aus gloriosissimis O93
+776 domnus korr. aus dominus O93; dominus V630; V1341; E97
+777 pro reparandis] properandis V630
+778 reparandos W411
+779 confirmandos W411
+780 interlinear vel regulis E97
+781 moribus korr. aus morbus O93; mores W411
+782 affatus V630; V1341; E97
+783 modum korr. aus modo O93
+784 quoadusque korr. aus quoadque O93; quodadusque V630; quam W411
+785 constiterit korr. aus constituerit O93; constituerit W411
+786 gloriosius korr. aus glorius V1341
+787 eminet korr. aus enim et V1341
+788 prospiciendae] prospicienda et W411
+789 commoditati korr. aus commodati O93
+790 ad W411
+791 At V630; E97; Ad W411
+792 populis V630; W411
+793 regimini W411
+794 positis V630
+795 gubernentur korr. aus gubernantur O93; gubernetur W411
+796 ad ea quae sunt] adque W411
+797 scire W411
+798 motibus, interlinear vel ri E97
+799 regi• W411
+800 pace W411; pacis korr. aus paci V1341
+801 propacande W411; propagandae korr. aus pagandae V1341
+802 inare W411
+803 sublima W411
+804 serenae lucis] serena luce W411
+805 ostendere, sic enim agit, qui multiplici bono se a deo remunerari confidit korr. aus ostendere O93
+806 bono fehlt V630; V1341
+807 bono se] se dono E97
+808 a deo fehlt E97
+809 confidit, interlinear vel ten E97
+810 confidat W411; contendit V630; V1341
+25
+
+

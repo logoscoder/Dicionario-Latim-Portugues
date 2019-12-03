@@ -1,0 +1,63 @@
+9 occupant W411
+10 ecclesiam V630
+11 ordinare korr. aus ordinari V630; V1341
+12 possessiones W411
+13 alia V630
+14 diocesea W411
+15 construxerint W411
+16 decipiunt W411
+17 consulatur V630; consuleantur W411
+18 promoveantur korr. aus proveantur V1341
+19 non fehlt W411
+20 nisi korr. aus si V630
+21 profiteant W411
+22 exset W411
+23 EXPLICIUNT CAPITULA fehlt V630; W411; V1341
+24 INCIPIUNT fehlt W411
+25 et fehlt
+26 CYRO W411
+27 IUSTINIANENSI W411
+28 RECEPIT W411
+29 usquam V630; V1341
+30 in baptismate fehlt W411
+31 ommonebitur W411
+32 quos W411
+33 dico fehlt W411
+34 ut fehlt W411
+35 necessaria korr. aus cessaria V630
+36 reticrismatia W411; rechrismatio V630; V1341
+37 episcopus] episcopus et W411
+38 presbyteris] presbyter hos W411
+39 consolationis W411
+40 ut W411
+41 paenitentium korr. aus paenitentum V630; penitentum W411
+42 communionem cum korr. aus communionem V1341
+43 inpositionem W411
+44 recipiat W411
+45 confugierint W411
+46 refentia W411
+47 et fehlt W411; vel V1341
+48 colonarium] colonaria in W411; colonariam korr. aus colonarium V1341
+49 inpremere W411
+50 animadversione] anima adversione W411
+51 nec eum] sic quoque non W411
+52 eius als tironisches Zeichen geschrieben W411
+53 habitabit W411
+54 ordinare praesumat fehlt W411
+55 quia non] non quia O93
+56 quia] nec eum qui fortasse W411
+57 remansit] est ordinare praesumat W411
+58 QUIS W411
+59 alienos korr. aus lienos V630
+60 ordinaverunt W411
+61 accusantur W411
+62 aut fehlt W411
+63 eis V630; V1341; eorum W411
+64 habitant W411
+65 suia W411
+66 negotio fehlt W411
+67 ut W411
+68 ecclesiastici W411
+4
+
+

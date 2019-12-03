@@ -1,0 +1,62 @@
+Duorum enim ordinum bis diapason consonantium cuius mese fuerit grauior, eiusdem totus ordo quoque
+grauior erit. Nam caeterae singulae singulis comparatae nihilominus grauiores inuenientur, itaque si media ab alia
+media tono aut acutior uideatur, aut grauior, omnes quoque nerui si id eodem genere sint, singuli sibimet comparati
+tono acutiores aut grauiores esse uidebuntur. Quatuor autem mediis si prima ad quartam diatessaron distantiam seruet,
+prima uero a secunda tono differat, secunda quoque a tertia eodem differat tono, tertia ad quartam semitonii faciet
+differentiam hoc modo: sint 4 mediae A B C D, et A ei quae est D comparata seruet ad eam sesquitertiam
+proportionem, quae est diatessaron. Item A a B distet tono, B a C distet tono, relinquitur ut C ad D semitonii distantiam
+seruet.
+[PLLXIII:1283; text: Sesquitertia ratio. Diatessaron, A, B, C, D, Tonus, Semitonium] [BOEDIM4 19GF]
+Et si quinque sint mediae eodem modo. Si enim prima a quinta sesquialtera disteterit proportione, primaque a
+secunda, ac secunda a tertia, quartaque a quinta, singulis disteterint tonis, tertia ad quartam semitonii faciet
+differentiam. Item quaecumque mediae aliorum modorum proslambanomenos accedunt hae grauiores modos operantur.
+Quae netis, illae acutiores efficiunt. Quoniam igitur in superiore pagina descriptis modis partem sinistram legentis
+proslambanomeni primi tenent. Dextera uero legentis extremis clauditur netis, erit omnibus quidem acutior modis, qui
+inscribitur hypermixolydius, omnibus uero grauioris qui hypodorius. Nos uero a grauissimo hypodorio inchoantes,
+caeteros quam inter se habent differentiam designabimus. Namque in hypodorio modo mese quae est [Omega] ab ea
+mese quae est in modo hypophrygio tono distabit. Quod in hoc facile perspicietur, si quis ad mesen hypophrygii, quae
+est [Psi] eiusdem hypophrygii [Omega] comparet, quae est hypodorii quidem mese, in hypophrygia autem lichanos
+meson. Nam [Psi] atque [Omega] tono differunt, quod pagina interiecta [1284] demonstrat. Item mese hypolydii ab ea
+quae est mese hypophrygii toni differentiam facit. Namque C, quae est mese hypolydii, tono distat a [Psi], quae est
+hypolydii quidem lichanos mesen, in hypophrygio autem mese. Item mese hypolydii, quae est C, ab ea quae est mese
+dorii semitonio distat. Quod hinc poterit agnosci, quoniam ordinem sursum prodeuntem eius meses, quae est hypolydii,
+atque eum ordinem in sursum prodeuntem eius meses quae est dorii, unus uersiculus, non pagina distinguit. Quo fit ut
+mese hypodorii ab ea mese quae est dorii, integra diatessaron consonantia distet, idque probatur hoc modo: nam quae
+est mese [Omega] in hypodorio, eadam est [Omega] in dorio; hypate meson est ab ea quae est mese, quouis modo uel
+genere diatessaron consonantia differens. Item mese dorii quae est [Pi] ab ea mese quae est phrygii, id est M, distat
+tono. Nam quae est mese in dorio, [Pi] eadem in phrygio lichanos meson. Rursus mese phrygii quae est M, ab ea mese
+quae est lydii, id est I distat tono.
+Nam quae in phrygio est M mese, in lydio est lichanos mese. Rursus mese lydii modi ab ea mese quae est
+myxolydii; id est H, semitonio distat. Etenim si ordo qui rectus lydii continet mesen ei ordini qui rectus mixolydii
+mesen habet comparatus, non paginula sed uersu disiungitur. Ea quoque mese quae est myxolydii H ad eam mesen
+quae est hypermixolydii, id est [Gamma], toni differentiam facit; idcirco quoniam H quae in mixolydio mese est eadem
+in hypermixolydio lichanos meson est. Unde fit ut mese dorii ab ea mese quae est mixolydii diatessaron consonantia
+distet. Id probatur hoc modo: nam meson quae est dorii id est [Pi] eadem est mixolydii, id est [Pi] hypate meson, quae
+ad cuiuslibet modi mesen diatessaron consonantiam seruat. Item mese dorii, id est [Pi], ad eam mesen quae est
+hypermixolydii quae est r diapente consonantiam seruat. Ea enim mese quae est dorii id est [Pi], in ordine
+hypermixolydii lichanos hypaton est; lichanos autem hypaton ad mesem in diatonico genere in quolibet modo si
+comparetur, diapente consonantia distat. Cur autem octauus modus, qui est hypermixolydius, adiectus est, hic patet. Sit
+bis diapason consonantia haec.
+ABCDEFGHIKLMNOP
+XVII
+Ratio superius dispositae modorum descriptionis.
+Diapason igitur consonantiam seruat A ad id quod est H, octo enim uocibus continetur: primam igitur dicimus
+esse speciem diapason ea quae est A H, secundam uero B I, tertiam C K, quartam D L, quintam E M, sextam F N,
+septimam G O. Relinquitur igitur extra H P, quae ut totus ordo impleatur adiecta est, atque hic est octauus modus, quem
+Ptolemaeus super annexuit.
+[1285] XVIII
+Quemadmodum indubitanter musicae consonantiae aure diiudicari possint.
+Ut uero indubitanter consonantiarum ratio colligatur, tali breuissimo ac simplici effici poterit instrumento. Sit
+igitur regula diligenter extensa A D, cui duo hemispheria, quas magadas Graeci uocant, insuper apponantur, ita ut ab ea
+quae est E curuatura ad id quod est B deducta linea rectos circa se angulos reddat: item ab ea quae est F curuatura ad id
+quod est C punctum deducta linea rectos circum se angulos efficiat. Sint uero hae aequaliter undique perpolitae ad
+eosdem usus, sint eisdem aliae aequales paratae, super has intendatur neruus aequalis undique, is qui est A E F D. Si
+igitur diatessaron consonantiam qualis sit reperire uoluero, hoc modo faciam: ab E puncto, quo neruus semisphaerium
+tangit, usque ad F punctum, quo rursus ab alia parte altero neruus semisphaerio iungitur, diuido spatium quod est E F
+septem partibus, et ad partem quartam septimarum appono punctum quod est K; est igitur E K ad eam quae est K F
+sesquitertia. Si igitur K ad aequum superioribus semisphaeriis apposuero, atque alterutra uicissim E K et K F plectro
+adhibito pellantur, diatessaron distantiam consonabit. Sin uero simul partes idem C K et K F utrasque percussero,
+diatessaron consonantiam [1286] nosco. Quod si diapente efficere uolumus, quinque partibus totam chordam, id est
+spatium ab E ad diuido ac tres uni proportioni, duas uero reliquae dabo, atque ita posito semisphaerio, secundum
+
+

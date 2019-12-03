@@ -1,0 +1,66 @@
+|#3
+Sed hoc est falsum, quia id quod est unum uno modo, potest esse multa
+alio modo: sicut quod est unum subiecto, potest esse multa ratione, sicut
+album et musicum idem sunt subiecto sed ratione multa; alia enim est ratio
+musici et alia albi. Unde concludi potest quod unum sit multa.
+Alio etiam modo contingit quod id quod est unum toto et actu, sit multa
+secundum partium divisionem: unde totum est unum in sua totalitate, sed
+habet partium multitudinem.
+Et quamvis ad id quod est unum subiecto et multa ratione aliquod remedium
+adinvenirent, auferentes hoc verbum est, vel commutantes ut supra dictum
+est; tamen hic, scilicet in toto et partibus, omnino deficiebant respondere
+nescientes; et confitebantur tanquam aliquid inconveniens, unum esse multa.
+Sed hoc non est inconveniens quando unum et multa non accipiuntur ut
+opposita. Unum enim in actu et multa in actu opponuntur; sed unum in actu
+et multa in potentia non sunt opposita. Et propter hoc subdit quod unum
+dicitur multipliciter, scilicet unum in potentia et unum in actu: et sic
+idem nihil prohibet esse unum in actu et multa in potentia, sicut patet de
+toto et partibus.
+|#4
+Ultimo autem inducit conclusionem principaliter intentam, scilicet
+quod ex praedictis rationibus patet quod impossibile est omnia entia esse
+unum.
+|+5
+
+Lectio 5
+
+|#1
+Postquam Philosophus improbavit positionem Parmenidis et melissi, hic
+incipit solvere eorum rationes. Et circa hoc tria facit: primo ostendit
+quomodo rationes eorum sunt solvendae; secundo solvit rationem melissi,
+ibi: quod quidem igitur etc.; tertio solvit rationem Parmenidis, ibi: et ad
+Parmenidem etc..
+|#2
+Dicit ergo primo: quod non est difficile solvere rationes ex quibus
+syllogizant Parmenides et melissus, quia utrique sophistice syllogizant et
+in eo quod assumunt falsas propositiones, et in eo quod non servant debitam
+formam syllogismi. Sed ratio melissi est magis onerosa, idest magis vana et
+fatua, et non habens defectum, idest non inducens dubitationem. Assumit
+enim quod contrariatur naturalibus principiis et est manifeste falsum,
+scilicet quod ens non generetur.
+Unde non est grave si uno inconvenienti dato alia sequantur.
+|#3
+Deinde cum dicit: quod quidem igitur etc., solvit rationem melissi:
+quae talis erat.
+Quod factum est, habet principium; ergo quod non est factum, non habet
+principium: sed ens non est factum; ergo non habet principium, et per
+consequens non habet finem: sed quod non habet principium et finem, est
+infinitum; ergo ens est infinitum.
+Quod autem est infinitum, est immobile; non enim haberet extra se quo
+moveretur: iterum quod est infinitum est unum, quia si esset multa,
+oporteret esse aliquid extra infinitum: ergo ens est unum et infinitum et
+immobile.
+Ad ostendendum autem quod ens non generatur, inducebat quandam rationem qua
+etiam utebantur quidam Philosophi naturales: unde ponit eam infra circa
+finem huius primi libri.
+|#4
+Hanc autem rationem improbat quantum ad quatuor.
+Primo quidem quantum ad hoc quod dicit: quod factum est habet principium,
+ergo quod non est factum non habet principium. Hoc enim non sequitur, sed
+est fallacia consequentis.
+Arguit enim a destructione antecedentis ad destructionem consequentis, cum
+recta forma argumentandi sit e converso arguere.
+
+11
+
+

@@ -1,0 +1,62 @@
+PR13
+Tertiodecimo utrum aliquis in gratia existens possit vitare peccatum mortale.
+PR14
+Quartodecimo utrum liberum arbitrium possit in bonum sine gratia.
+PR15
+Quintodecimo utrum homo sine gratia possit se praeparare ad gratiam habendam.
+|a1 Articulus 1
+TTA
+Et primo quaeritur utrum in homine sit liberum arbitrium.
+TTB
+Et videtur quod non.
+AG1
+Ut enim dicitur hierem. X, 23, non est hominis via, nec viri est ut ambulet et dirigat gressus suos. Secundum hoc
+autem dicitur aliquis esse liberi arbitrii, quod est Dominus suorum operum. Ergo homo non est liberi arbitrii.
+AG2
+Sed diceretur, quod verbum prophetae intelligitur de actibus meritoriis, qui non sunt in naturali hominis
+potestate. Sed contra: ad ea quae non sunt in potestate nostra, non sumus liberi arbitrii. Si ergo merita non sunt in
+potestate nostra, non sumus liberi arbitrii ad merendum; et sic actus meritorii non procedent ex libero arbitrio.
+AG3
+Praeterea, secundum Philosophum in I metaphysicorum, liberum est quod sui causa est. Sed mens humana habet
+aliam causam sui motus quam seipsam, scilicet Deum: quia Rom. I, 26, super illud, propterea tradidit illos Deus,
+dicit Glossa: manifestum est Deum operari in mentibus hominum ad convertendas voluntates eorum in
+quodcumque voluerit. Ergo mens humana non est liberi arbitrii.
+AG4
+Sed diceretur, quod mens humana est sicut causa principalis sui actus, Deus autem sicut remota; et hoc non
+impedit mentis libertatem.
+Sed contra: quanto aliqua causa magis influit in effectum, tanto est principalior.
+Sed causa prima plus influit in effectum quam secunda, ut dicitur in Lib. De causis. Ergo causa prima est
+principalior quam secunda. Et ita mens nostra non est principalis causa sui actus, sed Deus.
+AG5
+Praeterea, omne quod movet, est sicut instrumentum, ut patet per Commentatorem in VIII physic.. Instrumentum
+autem non est liberum ad agendum, cum non agat nisi secundum quod aliquis eo utitur.
+Cum ergo mens humana non operetur nisi mota a Deo, videtur quod non sit liberi arbitrii.
+AG6
+Praeterea, liberum arbitrium dicitur esse facultas voluntatis et rationis, qua bonum eligitur gratia assistente, vel
+malum eadem deficiente. Sed multi sunt qui non habent gratiam. Ergo non possunt libere eligere bonum; et ita
+non habent liberum arbitrium ad bona.
+AG7
+Praeterea, servitus libertati opponitur.
+Sed in homine invenitur servitus peccati, quia qui facit peccatum, servus est peccati, ut dicitur Ioan. VIII, 34.
+Ergo in homine non est liberum arbitrium.
+AG8
+Praeterea, Anselmus dicit in libro de libero arbitrio: si haberemus potentiam peccandi et non peccandi, gratia non
+indigeremus.
+Potentia autem peccandi et non peccandi est liberum arbitrium. Ergo, cum gratia indigeamus, liberum arbitrium
+non habemus.
+AG9
+Praeterea, ab optimo unumquodque denominandum est, ut ex Philosopho habetur in II de anima. Sed optimum
+inter humanos actus sunt actus meritorii. Cum igitur ad hos homo non sit liberi arbitrii, quia, ut dicitur Ioan. XV,
+5, sine me nihil potestis facere, quod de actibus meritoriis intelligitur: videtur quod homo non sit dicendus liberi
+arbitrii.
+AG10
+Praeterea, Augustinus dicit: quia homo noluit abstinere a peccato cum potuit, inflictum est ei non posse cum
+velit. Ergo non est in potestate hominis peccare et non peccare. Et sic videtur non esse Dominus suorum actuum,
+nec liberi arbitrii.
+AG11
+Praeterea, bernardus, distinguit triplicem libertatem: scilicet libertatem arbitrii, libertatem consilii, et libertatem
+beneplaciti; et dicit, quod libertas arbitrii est qua discernimus quid liceat, libertas consilii qua discernimus quid
+expediat, libertas beneplaciti qua discernimus quid libeat. Sed discretio humana per ignorantiam est sauciata.
+483
+
+

@@ -1,0 +1,55 @@
+|#23 In recto quidem, quando accidens significatur ut accidens in concretione ad subiectum: ut cum dico, simus
+est nasus concavus. Tunc enim nasus ponitur in definitione simi quasi genus, ad designandum quod accidentia
+non habent subsistentiam, nisi ex subiecto. Quando vero accidens significatur per modum substantiae in
+abstracto, tunc subiectum ponitur in definitione eius in obliquo, ut differentia; sicut dicitur, simitas est concavitas
+nasi.
+|#24 Patet igitur quod cum dico, nasum simum, non oportet loco simi accipere nasum concavum; quia nasus
+non ponitur in definitione simi, quasi sit de essentia eius; sed quasi additum essentiae.
+Unde simum et concavum per essentiam idem sunt. Sed simum addit supra concavum, habitudinem ad
+determinatum subiectum: et sic determinato subiecto quod est nasus, nihil differt simus a concavo; nec oportet
+aliquid loco simi ponere nisi concavum: et sic non erit dicere loco eius, nasus concavus, sed solum concavus.
+|#25 Ultimo concludit ex praedictis, quod palam est, quod definitio quae est ratio eius quod quid erat esse, et
+ipsum quod quid erat esse, solum est substantiarum, sicut prima solutio habebat. Vel est primo et simpliciter
+earum, et per posterius et secundum quid accidentium, ut in secunda solutione dicebatur.
+|+5 Lectio 5
+|#1 Postquam determinavit Philosophus quid est quod quid erat esse, et quorum, consequenter inquirit quomodo
+se habeat quod quid erat esse ad id cuius est, utrum scilicet ut idem, vel ut diversum.
+Et circa hoc tria facit. Primo movet quaestionem.
+Secundo solvit eam, ibi, singulum enim non aliud. Tertio ostendit quod ex solutione praedicta, possunt solvi
+sophisticae rationes, quae circa haec fiunt, ibi, sophistici vero elenchi.
+Dicit ergo primo, quod perscrutandum est utrum quod quid erat esse cuiuscumque, et unumquodque cuius est
+quod quid erat esse, sit idem aut diversum; sicut utrum quod quid erat esse homini et homo sit idem aut
+diversum, et similiter de aliis. Hoc enim inquirere et manifestare, est aliquid praeopere, idest praenecessarium ad
+perscrutationem de substantia, quam intendimus facere in sequentibus.
+Intendit enim inquirere inferius, utrum universalia sint substantiae rerum, et utrum partes definitorum intrent in
+definitionem eorum; et ad hoc valet ista perscrutatio, quam nunc proponit.
+|#2 Deinde cum dicit singulum enim solvit propositam quaestionem.
+Et circa hoc tria facit. Primo ponit quaestionis solutionem. Secundo probat eam, ibi, in dictis vero secundum se.
+Tertio ostendit contrarium solutionis praedictae esse absurdum et impossibile, ibi, absurdum vero apparebit.
+Circa primum duo facit. Primo enim ostendit quid prima facie circa quaestionem propositam verum esse
+videatur. Secundo ostendit in quo eius contrarium accidat, ibi, in dictis quidem itaque.
+Dicit ergo primo, quod statim, in primo aspectu, hoc videtur esse dicendum, quod in omnibus rebus singulum
+non sit aliud a sui substantia. Hoc autem quod est quod quid erat esse, est substantia eius cuius est quod quid erat
+esse. Unde videtur per hanc rationem in primo aspectu quod quod quid erat esse sit idem, et non alterum ab
+unoquoque cuius est.
+|#3 Deinde cum dicit in dictis quidem.
+Ostendit in quibus quod praemissum est non sit verum; dicens, quod quod quid erat esse pro tanto videtur esse
+non aliud ab eo cuius est, quia est eius substantia: itaque in illis, quae praedicantur secundum accidens, et non
+dicunt substantiam subiecti, videtur esse diversum quod quid erat esse praedicati a subiecto. Alterum enim est id
+quod est esse albo homini, idest quod quid erat esse albi hominis, ab eo quod est albus homo.
+|#4 Quod sic videtur, quia cum dicitur, homo albus, supponitur homo; idem enim est homo, et homo albus, ut
+dicunt. Si enim albus haberet esse aliud a subiecto, aliquid praedicaretur de composito, ratione albi, vel posset
+praedicari, quia non esset contra rationem albi. Quod enim praedicatur de homine albo, non praedicatur de eo
+nisi quia praedicatur de homine. Accidens enim non est subiectum, nisi ratione substantiae. Unde secundum
+quod in albo intelligitur homo, homo et homo albus sunt idem; et pro tanto id quod erit esse albo homini, erit
+etiam esse homini.
+Si ergo quod quid erat esse albi hominis, sit idem albo homini, erit etiam idem homini: sed non est idem homini,
+ergo quod quid erat esse albi hominis non est idem albo homini. Et sic in his quae sunt secundum accidens, quod
+quid erat esse alicuius non erit idem cum eo cuius est quod quid erat esse.
+|#5 Quod autem quod quid erat esse albi hominis non sit idem homini, patet, quia non est necesse, quod
+quaecumque dicuntur secundum accidens de aliquo subiecto, quod sint eadem illi: subiectum enim est
+quodammodo medium inter duo accidentia, quae praedicantur de ipso, inquantum illa duo accidentia non
+uniuntur nisi unitate subiecti, sicut album et musicum unitate hominis de quo praedicantur: est ergo homo ut
+199
+
+

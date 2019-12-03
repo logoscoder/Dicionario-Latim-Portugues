@@ -1,0 +1,62 @@
+uera est. Item:
+Quidam homo lapis est
+falsa est, quemadmodum et eius conuersio:
+Quidam lapis homo est
+nam et ista falsa est. Est igitur particularis affirmatiua quae commutatis terminis sibi ipsa conuertitur. Idem
+uere patitur uniuersalis negatio. Si quis enim dicat:
+Nullus homo lapis est
+uera est, et potest conuerti:
+Nullus lapis homo est
+nam et ista uera est. Item:
+Nullus homo rhetor est
+falsa est, et eius conuersio:
+Nullus rhetor homo est
+falsa est. In quatuor igitur his propositionibus quae tantum contraiacentes sibi ipsae conuertuntur, id est
+particularis affirmatio et uniuersalis negatio. Aliae uero duae sibi ipsis non conuertuntur.
+Nam neque uniuersalis affirmatio, neque particul&ris negatio sibi ipsa [805A] conuertitur. Si quis enim dicat:
+Omnis homo animal est
+uera est. Si quis uero conuertat:
+Omne animal homo est
+falsum est. Non igitur sibi ipsi conuerti potest, quoniam conuersa prioris ueritatem non recipit. Neque uero
+particularis negatio sibi conuertitur. Nam si quis dicat:
+Quidam homo grammaticus non est
+uera est; si uero conuertat:
+Quidam grammaticus homo non est
+falsa est: omnis enim grammaticus homo est.
+Repetendum est igitur a capite quod cum quatuor propositiones sint, affirmatio uniuersalis, negatio uniuersalis,
+affirmatio particularis, negatio particularis, particularis affirmatio et uniuersalis, negatio quae contraiacentes sunt, sibi
+[805B] ipsis conuerti possunt. Uniuersalis uero affirmatio et particularis negatio, quae ipsae contraiacentes sunt,
+nunquam possunt sibi ipsis conuerti. Nec hoc nos turbet quod quaedam affirmationes uniuersales et quaedam
+particulares negationes conuerti possunt. Potest enim dici:
+Omnis homo risibilis est
+Omne risibile homo est
+et utraeque uerae sunt. Et item:
+Omnis homo hinnibilis est
+falsa est; et:
+Omne hinnibile homo est
+et haec quoque falsa est. Item in particulari negatione:
+Quidam homo non est lapis
+uera est; et:
+Quidam lapis non est homo
+uera est. Item:
+Quidam homo non est risibile
+falsa est;
+Quoddam risibile homo non est
+et haec quoque falsa est. Ergo uidentur posse uniuersales affirmationes et particulares negationes conuerti, et
+conuertuntur quidem sed non uniuersaliter.
+Generaliter autem dico propositiones posse conuerti, quoties uniuersaliter, id est in omnibus conuertuntur.
+Istae [805C] autem in duabus solis materiebus conuerti possunt. Si quis enim proprium cuiuslibet speciei ad ipsam
+speciem cuius est proprium uelut ad subiectum praedicet, potest conuertere. Nam quia risibile proprium est homini, si
+praedices risibile, et subiicias hominem, ut est:
+Omnis homo risibile est
+potes iterum subiicere risibile et hominem praedicare, ut si dicas:
+Omne risibile est homo.
+In illis uero simul falsae sunt generalium affirmationum conuersiones, in quibus id quod praedicatur ad
+subiectum nullo tempore uere dici potest, ut si quis dicat:
+Omnis homo lapis est
+falsa est. Et iterum:
+Omnis lapis homo est
+
+9
+
+

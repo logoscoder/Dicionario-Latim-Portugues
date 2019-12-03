@@ -1,0 +1,50 @@
+OPERA OMNIA
+SANCTI THOMAE AQUINATIS
+-----oOo----Textum electronicum praeparavit et indexavit
+Ricardo M. Rom n, S. R. E. Presbyterus
+Bonis Auris, MCMXCVIII
+
+|*QUODLIBETUM_XII
+QUODLIBETUM 12
+|+1 Quaestio 1
+|+PR Prologus
+Quaesitum est de rebus quae sunt supra hominem, et de rebus humanis.
+PR1
+Circa primum quaesitum est de Deo, de Angelis et de caelo.
+Circa primum quaesitum est de Deo quantum ad suum esse, quantum ad suam potentiam, quantum ad eius
+praedestinationem.
+TTA
+Circa primum quaesitum est utrum in Deo sit tantum unum esse, scilicet essentiale, aut praeter illud sit etiam in
+Deo esse personale.
+TTB
+Et videtur quod sic.
+AG1
+Quia aliud est patrem esse, aliud filium esse et aliud spiritum sanctum esse. Sed esse essentiale non est aliud et
+aliud. Ergo, etc..
+AG2
+Praeterea, proprium formae est quod det esse. Sed in divinis sunt tres proprietates personales, quae obtinent
+vicem formae.
+Ergo, etc..
+SC
+Contra, Augustinus dicit: in divinis tantum unum esse.
+CO
+Respondeo. Dicendum, quod veritas fidei habet quod in divinis solum est distinctio quae est secundum relationes
+oppositas; relatio autem, sicut et quaelibet forma, habet esse ex comparatione ad illud cui inest. Unde esse
+filiationis est per comparationem ad subiectum cui inest.
+Relatio autem in divinis non distinguitur ab eo cui inest vel in quo est, quia est ipsa res quae refertur; sed
+distinguitur solum ex parte eius cui opponitur. Et ex hac parte non consideratur esse relationis, sed distinctio et
+oppositio eius.
+Et ideo est in Deo unum tantum esse, scilicet essentiale.
+RA1
+Ad primum ergo dicendum, quod esse dupliciter dicitur: quandoque enim esse idem est quod actus entis;
+quandoque autem significat compositionem enuntiationis, et sic significat actum intellectus: quo modo
+intelligitur quando dicitur quod aliud est esse patris et aliud filii, non primo modo.
+RA2
+Ad secundum dicendum, quod sicut et quaelibet forma, paternitas facit esse, scilicet patrem, qui est divinum
+esse, et facit tantum unum esse, in quantum paternitas facit esse.
+|+2 Quaestio 2
+PR
+Deinde quaesitum est de potentia Dei.
+1
+
+

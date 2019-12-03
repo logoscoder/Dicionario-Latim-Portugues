@@ -1,0 +1,59 @@
+Sophistica autem est tendens ad gloriam ut sapiens esse videatur: unde dicitur sophistica quasi apparens
+sapientia. Et procedit ex his quae videntur esse vera sive probabilia, et non sunt, vel simpliciter falsas
+propositiones assumendo, quae videntur esse verae, vel in virtute falsarum propositionum argumentando.
+Logicales enim argumentationes sunt in virtute verarum propositionum, ex quibus tota virtus argumentationis
+pendet, sicut ista argumentatio: socrates est homo, ergo socrates est animal, procedit ex virtute huius
+propositionis: de quocumque praedicatur species, et genus: quae est simpliciter vera. Sophistice sic
+argumentatur: socrates est animal, ergo est homo, quae in virtute huius propositionis falsae procedit: de
+quocumque praedicatur genus, et species.
+|+3 Capitulus 3: De disputatione sophistica.
+Relictis aliis disputationibus, ad praesens de his quae ad sophisticam pertinent intendimus. Quia vero sophistica,
+ut dictum est, ad gloriam tendit, volens sapiens videri: hoc autem assequi studet per hoc quod de adversario cum
+quo disputat victoriam habeat apparentem: quod quidem fit, cum ipsum ad aliquod inconveniens ducat: ideo
+terminus disputationis sophisticae est aliquod inconveniens, ad quod sophista ducere nititur respondentem, et hoc
+dicitur meta, idest finis vel terminus.
+Unde de duobus oportet tractare: primo de huiusmodi metis; secundo de modis argumentandi quibus sophistae
+nituntur ad metas ducere respondentem.
+Sunt autem metae quinque: scilicet redargutio, falsum, inopinabile, soloecismus et nugatio.
+Redargutio est praenegati concessio, vel praeconcessi negatio in eadem disputatione VI argumentationis factae;
+ut si respondens negaverit se carnes crudas comedisse, sophistice contra arguat sic. Quicquid emisti comedisti;
+carnes crudas emisti: ergo carnes crudas comedisti. Si VI huiusmodi argumentationis respondens concedat quod
+prius negaverit, est redargutus: et talis modus argumentandi dicitur elenchus, si bonus sit syllogismus: vel dicitur
+apparens elenchus si videatur et non sit aut syllogismus, aut contradictio. Est enim elenchus syllogismus
+contradictionis.
+Si autem non in eadem disputatione, vel VI argumenti, sed propria voluntate aliquis negat concessum, vel
+concedat negatum, non est redargutio.
+Falsum autem, secundum quod hic sumitur, est aliquod manifestum falsum, vel concessio alicuius manifeste
+falsi, quod respondens concedere cogitur VI sophisticae argumentationis; sicut hic: omnis canis est latrabilis.
+Caeleste sidus est canis.
+Ergo caeleste sidus est latrabile.
+Inopinabile est quod est contra communem opinionem omnium, vel plurium, quod tamen non est falsum. Differt
+autem a falso, quia omne falsum est inopinabile, sed non convertitur: quia aliquid est contra opinionem
+communem, quod tamen non est falsum, erit tamen inopinabile, sicut stellam esse maiorem terra, et aliquem
+regem divitem et felicem esse miserum et infelicem et infortunatum, si ipse sit victus. Ad quod potest sophistice
+sic aliquis duci. Quemcumque contingit ab aliquo vinci, est infelix, quia ille qui vincitur est infelix. Sed regem
+contingit ab hoste vinci, ergo est infelix.
+Soloecismus est vitium in contextu partium orationis contra regulas artis grammaticae factum, ut vir alba et
+homines currit; et ad hoc potest aliquis sic sophistice duci: tu scis hoc. Hoc autem est lapis. Ergo tu scis lapis,
+quod grammatice non dicitur.
+Nugatio autem est eiusdem rei ex eadem parte inutilis repetitio, ut homo homo currit. Dico autem ex eadem
+parte, quia si ponatur idem in subiecto et in praedicato, non erit nugatio, ut hic homo est homo. Inutilis autem
+repetitio dicitur, quia si idem repetatur ad maiorem expressionem non erit nugatio, ut cum dicitur, Deus Deus
+meus respice in me. Ad hoc potest aliquis sic duci sophistice: iste nasus est nasus simus. Sed simus idem est
+quod nasus simus. Igitur iste nasus est nasus nasus simus.
+Et est sciendum quod ista inconvenientia respiciunt diversas scientias.
+Nam redargutio est contra metaphysicam, ad quam pertinet consideratio huius primi principii. Contradictoria non
+sunt simul vera. Falsum vero est contra scientiam naturalem, quae considerat res sensibiles, in quibus veritas et
+falsitas est manifesta; et similiter contra mathematicam, in qua est maxima certitudo. Inopinabile vero est contra
+dialecticam, quae procedit ex probabilibus quae sunt secundum opinionem omnium vel plurium sapientum.
+Soloecismus est contra grammaticam. Nugatio est contra rhetoricam, cuius est ornate loqui. Et sic dum in
+scientiis singulis ad inconveniens sophista ducit respondentem, apparet circa omnia sciens esse.
+|+4 Capitulus 4: De fallaciis in genere.
+Nunc restat videre de modis argumentationum, quibus ad praedicta inconvenientia sophista nititur ducere
+respondentem.
+Est autem sciendum quod, sicut argumentatio dialectica firmitatem habet ex loco vero, ita argumentatio
+sophistica apparentem firmitatem habet ex loco apparenti.
+
+2
+
+

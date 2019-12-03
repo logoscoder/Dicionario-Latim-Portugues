@@ -1,0 +1,58 @@
+Hoc autem contingit, ut scilicet praeexistat aliquid evidens, si sit, idest contingat, separatim, idest distinctim,
+definiri per ea quae singulariter dicuntur, idest quae proprie conveniunt et distincte huic vel illi; sicut si aliquis
+velit notificare quid est simile, non considerabit ad omne id quod potest simile dici, sed de quibusdam similibus;
+puta quomodo dicatur simile in coloribus, et quomodo dicatur simile in figuris.
+Dicitur enim simile in coloribus ex unitate coloris; dicitur autem simile in figuris ex eo quod anguli sunt
+aequales, et latera proportionalia.
+Similiter etiam in aliis, si velit definire acutum non respiciet ad omne quod dici potest acutum, sed respiciet ad
+acutum secundum quod dicitur in voce. Et per hunc modum patet quod aliquis definire intendens refugit statim
+ne contingat aliqua aequivocatio. Et per hoc patet esse convenientem modum definiendi, quo ex inferioribus
+proceditur ad commune; in quantum scilicet in specialibus specialia definire facilius est, et magis in talibus
+potest esse nota univocatio.
+|#8 Deinde cum dicit: si autem non oportet etc., excludit quemdam modum procedendi in definitionibus.
+Et dicit quod sicut non oportet disputare per metaphoras, ita etiam non oportet definire per metaphoras; utpote si
+dicamus quod homo est arbor inversa: nec oportet in definitionibus assumere quaecunque metaphorice dicuntur.
+Cum enim definitiones sint praecipua et efficacissima media in disputationibus, si definitiones darentur per
+metaphoras, sequeretur quod oporteret ex metaphoris disputare. Hoc autem fieri non debet, quia metaphora
+accipitur secundum aliquid simile, non autem oportet ut id quod est simile secundum unum, sit simile quantum
+ad omnia.
+|+17 Lectio 17
+|#1 Postquam ostendit Philosophus quomodo oportet investigare quod quid est, hic ostendit quomodo oportet
+investigare propter quid. Et circa hoc duo facit: primo, ostendit quomodo oporteat investigari propter quid;
+secundo, movet quasdam quaestiones circa ipsum propter quid; ibi: de causa autem et cuius est causa etc.. Circa
+primum duo facit: primo, ostendit quomodo alicuius quaestionis propositae possit investigari propter quid;
+secundo, ostendit quomodo diversae quaestiones communicant in propter quid; ibi: eadem autem problemata
+etc.. Circa primum duo facit: primo, docet accipere propter quid, accipiendo commune univocum; secundo,
+accipiendo commune analogum; ibi: amplius autem alius modus etc.. Circa primum duo facit: primo, docet
+investigare propter quid, accipiendo commune univocum, quod est genus nominatum; secundo, accipiendo
+quodcunque aliud commune; ibi: nunc quidem igitur etc..
+|#2 Dicit ergo primo quod ad hoc quod habeamus propter quid circa singula problemata quae ponuntur, oportet
+considerare divisiones et subdivisiones, et sic ad singula procedere disputando, supposito communi genere. Ut si
+aliquis velit considerare propter quid aliquid conveniat aliquibus animalibus, oportet accipere qualia sunt quae
+conveniunt omni animali. Quibus acceptis, oportet iterato accipere secundum divisionem qualia sunt quae
+consequuntur primo ad aliquod commune, quod sub animali continetur, puta qualia consequuntur ad omnem
+avem: et sic semper debemus procedere accipiendo illud quod est primum, in quod scilicet fit immediate divisio;
+quod etiam supra observabatur in divisionibus quibus proceditur ad investigandum quod quid est. Sic autem
+procedendo manifestum est quod semper poterimus dicere propter quid aliqua insunt his quae continentur sub
+aliquo communi; ut si velimus scire propter quid aliqua insunt homini et equo, puta somnus et vigilia. Sit ergo
+animal in quo a, quod est medium; b autem, idest maior extremitas, accipiatur pro his quae inhaerent omni
+animali, sicut somnus et vigilia; quaedam autem animalium species, puta homo, equus, bos, accipiantur ut minor
+extremitas, scilicet cde. Sic igitur manifestum est propter quid b, idest somnus vel vigilia sit in d, puta in homine,
+quia propter a, idest propter hoc quod homo est animal. Et similiter est faciendum in aliis, et in omnibus est
+eadem ratio observanda.
+Huiusmodi autem documenti ratio est, quia subiectum est causa propriae passionis. Et ideo si volumus
+investigare causam alicuius passionis, propter quam insit quibusdam rebus inferioribus, oportet accipere
+commune quod est proprium subiectum, per cuius definitionem accipitur causa illius passionis.
+|#3 Deinde cum dicit: nunc quidem igitur etc., ostendit quomodo oportet investigare propter quid est, reducendo
+in aliquod commune, quod non sit genus nominatum; et dicit quod ea quae supra dicta sunt, dicuntur secundum
+illa communia, quibus nomina sunt assignata; sed oportet non solum in talibus considerare, sed et si quid aliud
+appareat commune quod insit aliquibus, etiamsi non sit genus, vel si non sit nominatum.
+Deinde oportet considerare ad quae hoc commune consequatur, et quae sunt illa quae consequuntur ad hoc
+commune innominatum acceptum.
+Sicut habere cornua est quoddam commune, cui non est nomen impositum, et quod non est genus. Ad hoc autem
+commune sequuntur duo: quorum unum est, quod omne animal habens cornua habet multos ventres propter
+necessitatem ruminationis; quorum unus vocatur echinus, in interioribus existens, asper et capedines habens, ut
+
+106
+
+

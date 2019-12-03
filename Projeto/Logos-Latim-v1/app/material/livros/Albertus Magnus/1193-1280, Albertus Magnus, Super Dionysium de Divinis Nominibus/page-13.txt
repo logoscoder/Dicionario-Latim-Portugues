@@ -1,0 +1,44 @@
+Articulus 1
+[88409] Albertus Magnus, Super De div. nom. (De pulchro), q. 9 a. 1 arg. 1 Videtur enim hoc esse falsum; quia
+natura pulcritudinis communis est forma pulcrorum, et non efficiens; ergo non sunt omnia pulcra in ipso sicut in
+efficiente.
+[88410] Albertus Magnus, Super De div. nom. (De pulchro), q. 9 a. 1 arg. 2 Praeterea, sicut habitum est, bonum
+separatur a pulcro secundum intentionem: haec autem quae hic dicuntur de pulcro videntur magis bono
+convenire; ergo non debet ea attribuere pulcro.
+[88411] Albertus Magnus, Super De div. nom. (De pulchro), q. 9 a. 1 arg. 3 Praeterea, videtur quod non omnia
+fiant pulcri causa: multi enim operantur propter aliquod turpe, sicut fornicari.
+[88412] Albertus Magnus, Super De div. nom. (De pulchro), q. 9 a. 1 arg. 4 Praeterea, si omnia operantur
+propter pulcritudinem primi, tamen non consequuntur ipsam per suam operationem, immo, quandoque incidunt
+per operationes in magnas turpitudines: videtur quod nobile desiderium posset frustrari, quod reputat
+philosophus inconveniens in primo Ethicorum.
+[88413] Albertus Magnus, Super De div. nom. (De pulchro), q. 9 a. 1 arg. 5 Praeterea, turpe destruitur per
+pulcrum; nihil autem appetit sui destructionem; ergo ipse non appetit pulcrum.
+[88414] Albertus Magnus, Super De div. nom. (De pulchro), q. 9 a. 1 ad 1 Solutio. Dicendum ad primum, quod
+sicut dicitur in tertio physicorum, tres causae in unam incidunt: hoc autem non potest esse secundum intentionem
+causae, quia intentiones oppositae sunt, nec iterum secundum esse; quia cum forma sit effectiva per actum
+agentis, impossibile est ut idem sit esse efficiens et forma; unde impossibile est quod sit idem esse efficiens et
+forma. Propter quod etiam ibidem dicitur a philosopho, quod forma et efficiens non incidunt in idem numero, sed
+in idem specie: et ideo dicimus, quod incidunt in unum secundum intentionem causae, quod agens est unicum;
+quia natura ignis est una, cui accedit in generante intentio causae finalis secundum quod terminat motum agentis
+formae, secundum quod terminat potentiam materiae; et ideo si consideratur natura pulcritudinis, habet se in
+ratione trium causarum respectu pulcrorum.
+[88415] Albertus Magnus, Super De div. nom. (De pulchro), q. 9 a. 1 ad 2 Ad secundum dicendum, quod bonum
+non se habet per se nisi ad intentionem finis; pulcrum autem, quia dicit resplendentiam formae super partes
+proportionatas materiae, habet se ad recipiendum intentiones trium causarum; et ideo quod hic dicitur, potius
+convenit pulcro quam bono.
+[88416] Albertus Magnus, Super De div. nom. (De pulchro), q. 9 a. 1 ad 3 Ad tertium dicendum, quod nihil
+desiderat aliquid per suam operationem, nisi secundum similitudinem quam habet divinae pulcritudinis: unde et
+fornicator desiderat delectationem, quae proprie et vere in solo Deo est. Et ideo quamvis non omnia pertingant ad
+divinam pulcritudinem, vel desiderent eam, secundum quod est in ipso Deo, desiderant tamen eam in ipsa
+similitudine, et tamen non perveniunt ad eam.
+[88417] Albertus Magnus, Super De div. nom. (De pulchro), q. 9 a. 1 ad 4 Et similiter dicendum ad quartum.
+[88418] Albertus Magnus, Super De div. nom. (De pulchro), q. 9 a. 1 ad 5 Ad quintum dicendum, quod turpe,
+etiam in quantum turpe, desiderat pulcrum, ut dicitur in primo physicorum, non tamen sequitur quod desiderat
+suam destructionem; quia turpe non habet destructionem, cum sit privatio, sed potius per pulcrum est sua
+constitutio, et hinc desiderat sicut imperfectum perfectionem.
+
+Quaestio 10
+Expositio textus
+13
+
+

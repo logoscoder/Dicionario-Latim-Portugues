@@ -1,0 +1,58 @@
+Quando autem accipitur improprie et transumptiue, tunc additur uerbo, et tunc excludit omne aliud uerbum a
+subiecto quod importat actionem uel passionem distinctam. Sicut per istam
+'homo tantum uidet' denotatur quod homo uidet et quod non audit nec percutit, et sic de aliis. Unde ista
+propositio 'homo tantum currit' est distinguenda penes secundum modum aequiuocationis, eo quod dictio
+exclusiua potest sumi proprie, et tunc sunt istae duae suae exponentes 'homo currit'
+et 'homo non est aliud a currente', et cum hoc stat quod homo sit uidens et percutiens, et sic de aliis. Si
+autem sumatur improprie, tunc est falsa, quia tunc denotatur quod homo sit currens et non audiens nec uidens, et
+sic de aliis.
+et 'homo non est aliud a currente', et cum hoc stat quod homo sit uidens et percutiens, et sic de aliis. Si
+autem sumatur improprie, tunc est falsa, quia tunc denotatur quod homo sit currens et non audiens nec uidens, et
+sic de aliis.
+Consimilis distinctio posset poni de talibus 'homo est tantum albus', 'lac est tantum dulce', 'ignis est
+tantum calidus', 'terra est tantum frigida', et sic de aliis, quia si sumatur dictio exclusiua proprie, tunc est
+quaelibet illarum uera, quia tunc istae sunt exponentes 'homo est albus' et
+'homo non est aliud ab albo'; 'lac est dulce' et 'lac non est aliud a dulci', et sic de aliis. Si autem dictio
+exclusiua sumatur improprie, tunc excluduntur omnia praedicabilia importantia accidentia distincta ab illo
+accidente quod importatur per praedicatum. Sicut per istam 'homo est tantum albus' denotatur quod homo sit
+albus et quod nullum praedicabile importans accidens distinctum ab albedine praedicatur de homine; et ita
+denotatur quod homo non sit calidus nec humidus nec siccus nec frigidus nec lucidus, et sic de aliis. Et sicut
+dictum est de ista propositione, ita uniformiter dicendum est de aliis.
+'homo non est aliud ab albo'; 'lac est dulce' et 'lac non est aliud a dulci', et sic de aliis. Si autem dictio
+exclusiua sumatur improprie, tunc excluduntur omnia praedicabilia importantia accidentia distincta ab illo
+accidente quod importatur per praedicatum. Sicut per istam 'homo est tantum albus' denotatur quod homo sit
+albus et quod nullum praedicabile importans accidens distinctum ab albedine praedicatur de homine; et ita
+denotatur quod homo non sit calidus nec humidus nec siccus nec frigidus nec lucidus, et sic de aliis. Et sicut
+dictum est de ista propositione, ita uniformiter dicendum est de aliis.
+Circa tertium principale, [scilicet] qualiter termini supponunt in propositionibus exclusiuis, est
+sciendum quod quando dictio exclusiua ponitur a parte subiecti et subiectum sumitur sine distributione, si
+subiectum sit terminus communis, ipsum supponit confuse tantum, quia sicut dictum est prius, suppositio
+confusa tantum est quando non contingit descendere ad inferiora nec per disiunctiuam nec per copulatiuam.
+Nunc autem non sequitur 'tantum homo currit, igitur tantum iste homo currit uel tantum ille homo currit', et sic
+de singulis aliis. Nec etiam sequitur
+'tantum homo currit, igitur tantum iste homo currit et tantum ille homo currit', et sic de singulis. Et ita
+terminus subiectus in tali propositione supponit confuse tantum, sed praedicatum supponit confuse et
+distributiue, nam contingit descendere ad inferiora per copulatiuam. Unde bene sequitur 'tantum homo currit,
+igitur tantum homo est hoc currens', quocumque curreinte demonstrato; nam sequitur 'tantum homo currit, igitur
+nihil aliud ab homine currit', et ultra 'ergo nullum currens est aliud ab homine', et ultra 'ergo hoc currens non est
+aliud ab homine'. Et manifestum est quod si currit, est aliquid, igitur est homo, et per consequens homo est hoc
+currens, igitur tantum homo est hoc currens; quia quando praedicatum est pronomen demonstratiuum uel
+aequiualens, ab indefinita ad exclusiuam respectu eiusdem praedicati est bona consequentia.
+'tantum homo currit, igitur tantum iste homo currit et tantum ille homo currit', et sic de singulis. Et ita
+terminus subiectus in tali propositione supponit confuse tantum, sed praedicatum supponit confuse et
+distributiue, nam contingit descendere ad inferiora per copulatiuam. Unde bene sequitur 'tantum homo currit,
+igitur tantum homo est hoc currens', quocumque curreinte demonstrato; nam sequitur 'tantum homo currit, igitur
+nihil aliud ab homine currit', et ultra 'ergo nullum currens est aliud ab homine', et ultra 'ergo hoc currens non est
+aliud ab homine'. Et manifestum est quod si currit, est aliquid, igitur est homo, et per consequens homo est hoc
+currens, igitur tantum homo est hoc currens; quia quando praedicatum est pronomen demonstratiuum uel
+aequiualens, ab indefinita ad exclusiuam respectu eiusdem praedicati est bona consequentia.
+[Immo, qualecumque sit praedicatum consequentia est bona ab indefinita seu particulari ad exclusiuam.
+Nam ista consequentia est bona 'homo tantum est risibilis, igitur tantum animal est risibile', nam tenet per
+regulam illam
+'ab inferiori ad superius sine distributione, siue illud superius supponat confuse tantum siue determinate,
+est consequentia bona'; sicut sequitur
+'omnis homo est homo, igitur omnis homo est animal'].
+'omnis homo est homo, igitur omnis homo est animal'].
+180
+
+

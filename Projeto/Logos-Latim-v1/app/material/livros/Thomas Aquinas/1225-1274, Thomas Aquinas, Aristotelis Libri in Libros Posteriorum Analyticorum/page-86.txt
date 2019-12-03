@@ -1,0 +1,59 @@
+definitio syllogismi non est aliquid eorum ex quibus procedit syllogismus. Et similiter si aliquis velit syllogizare
+quod quid erat esse alicuius rei, non oportet quod accipiat quid sit quod quid erat esse: sed oportet hoc seorsum
+haberi in mente, praeter ea quae ponuntur in definitione vel syllogismo.
+Huiusmodi enim rationes syllogismi et definitionis se habent in definiendo et syllogizando, sicut regulae artis, ad
+quas debet aspicere artifex in operando. Artifex autem qui facit cultellum, non facit operando regulam,
+secundum quam operatur: sed secundum regulam, quam habet in mente, examinat an cultellus bene sit factus. Ita
+etiam ille qui syllogizat non accipit rationem syllogismi in syllogizando: sed per rationem syllogismi examinat
+syllogismum factum an sit bonus.
+Unde si aliquis dubitet, syllogismo facto, an sit syllogizatum vel non, poterit syllogizans obviare, ostendendo
+quod sit syllogizatum, ostendendo quod syllogismus sit tale aliquid. Similiter etiam ei qui intendit syllogizare
+quod quid erat esse, convenit ut habeat seorsum in mente rationem eius quod quid erat esse: ut si aliquis dicat
+quod non est syllogizatum quod quid erat esse, ipse dicat quod immo, quia tale aliquid ponitur quod quid erat
+esse. Sic ergo patet quod syllogizans quod quid erat esse, neque debet sumere quid est syllogismus, neque quid
+est quod quid erat esse.
+|#5 Deinde cum dicit: et si ex suppositione etc., ostendit quod non potest demonstrari quod quid est unius rei ex
+quod quid est alterius rei. Et circa hoc duo facit: primo, proponit quod intendit; secundo, probat propositum; ibi:
+etenim hic accipiens etc.. Dicit ergo primo quod etiam non probatur quod quid est, si aliquis velit hoc probare ex
+suppositione quod quid est alterius rei. Puta si aliquis sic procedat accipiens quod idem sit esse divisibili et malo,
+idest quod divisio sit quod quid est mali, et ulterius argumentetur sic: in omnibus quae habent contrarium,
+contrarii est contrarium quod quid est; sed bono est contrarium malum, et indivisibile est contrarium divisibili;
+sequitur ergo quod indivisibile sit quod quid est ipsius boni.
+Et sumuntur ista exempla secundum opinionem Platonis, qui posuit quod eadem est ratio unius et boni. Videmus
+enim quod unumquodque appetit unitatem sicut proprium bonum. Unum autem est idem quod indivisibile; et sic
+per oppositum sequitur quod malum sit idem quod divisibile.
+Unumquodque enim refugit divisionem sui, quia per hoc tendit ad diminutum et imperfectum.
+|#6 Deinde cum dicit: etenim hic accipiens etc., probat propositum, scilicet quod non possit demonstrari quod
+quid est; et hoc duabus rationibus.
+Quarum prima est, quia etiam in hoc modo probationis demonstrat aliquis accipiendo quod quid erat esse, et ita
+accipit quod oportet probare.
+|#7
+Secundam rationem ponit ibi: accipit autem ad demonstrandum etc.; et dicit quod non solum est
+inconveniens quod accipiatur quod quid erat esse ad demonstrandum, sed et alterum inconveniens fit quod
+accipitur quod quid erat esse ad demonstrandum quod quid erat esse: quia etiam in demonstrationibus in quibus
+probatur hoc de hoc, puta passio de subiecto, accipitur pro medio quod quid erat esse, non tamen quod quid erat
+esse quod accipitur, est ipsummet quod debet concludi, vel aliquid quod habeat eamdem rationem et convertatur.
+Eamdem autem rationem habet quod bonum sit indivisibile, et malum divisibile; et haec duo convertuntur, quia
+posito uno ponitur alterum, et e converso.
+|#8 Deinde cum dicit: ad utrosque autem et secundum divisionem etc., inducit rationem communem contra eum
+qui demonstrat ex suppositione et divisione; et dicit quod eadem oppositio habet locum contra utrosque, scilicet
+contra eum qui vult demonstrare quod quid est per divisionem, et contra eum qui utitur suppositione quod quid
+est in syllogismo. Manifestum est enim quod definitio significat unum aliquid: unde ea quae ponuntur in
+definitione, ad significandum unitatem, debent poni absque copula; puta ut dicatur quod homo est animal
+gressibile bipes, non autem debet dici quod homo sit animal et bipes.
+Unde si aliquis vult probare quod quid est, oportet quod probet ex his, quae assumuntur, fieri unum. Sed non est
+necessarium, secundum praedictas vias divisionis et suppositionis, quod ex his quae accipiuntur ad definiendum,
+fiat unum praedicatum: sed poterit esse quod sint multa, puta si dicatur quod homo est grammaticus et musicus.
+Videtur igitur quod secundum vias praedictas, non probetur quod quid est.
+|#9 Deinde cum dicit: qualiter igitur definiens etc., concludit ex praemissis quod nullo modo potest probari
+quod quid est; et dicit: si igitur neque per terminos convertibiles, neque per divisionem, neque per suppositionem
+demonstratur quod quid est, quomodo igitur definiens poterit demonstrare substantiam rei vel quod quid est? iam
+enim ex praemissis patet quod non probat, sicut manifestum faciens ex his quae sunt per se nota, quod necesse
+sit alterum aliquid sequi per ea quae dicta sunt, quod requiritur ad demonstrationem.
+Relinquitur autem praeter tres modos quartus modus, qui est per inductionem. Sed nec contingit probare quod
+quid est per singularia manifesta, ita scilicet quod aliquid praedicetur de omnibus, et non sit aliquid eorum quod
+aliter se habeat: quia sic inducendo non demonstrabit quod quid est, sed demonstrabit aliquid esse vel non esse,
+puta quod omnis homo est animal, vel nullus homo est lapis. Nullus autem alius modus relinquitur ad
+86
+
+

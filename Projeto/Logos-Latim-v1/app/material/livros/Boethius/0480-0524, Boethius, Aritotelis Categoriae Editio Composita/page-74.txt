@@ -1,0 +1,65 @@
+Omnis homo ambulat
+Nullus homo ambulat
+contra has diuisse ex infinito nomine uniuersales:
+Omnis non homo ambulat
+Nullus non homo ambulat
+Rursus particulares ex finito nomine subiecto sint:
+Quidam homo ambulat
+Quidam homo non ambulat
+rursus contra has diuisae ex infinito nomine subiecto hae:
+Quidam non homo ambulat
+Quidam non homo non ambulat
+Hoc autem subiecta descriptione declaratur:
+Indefinitae ex simplici nomine subiecto:
+Homo ambulat Homo non ambulat
+Indefinitae ex infinito nomine subiecto:
+Non homo ambulat
+Non homo non ambulat
+Uniuersales ex simplici nomine subiecto:
+Omnis homo ambulat
+Nullus homo ambulat
+Uniuersales ex infinito nomine subiecto:
+Omnis non homo ambulat Nullus non homo ambulat
+Particulares ex simplici nomine subiecto:
+Quidam homo ambulat Quidam homo non ambulat
+Particulares ex infinito nomine subiecto:
+Quidam non homo ambulat
+Quidam non homo non ambulat
+Haec ergo partiens et de propositionibus ex duobus terminis constitutis faciens propositionem colligit omnis ex
+subiecto nomine propositiones et eas tantum ad diuisionem sumit, quae ex infinito nomine fiunt, faciens huiusmodi
+diuisionem principalem, ut sit: propositionum aliae sunt ex finito nomine, aliae ex infinito.
+Oportuerat quidem uolentem cuncta partiri ad differentias propositionum non solum infinita sumere nomina
+sed etiam uerba. Sed quoniam nouerat nomen quidem infinitum conseruare propositionem quam inuenisset, ut si in
+affirmatiua diceretur affirmatiuam seruaret enuntiationem, ut est:
+Non homo ambulat
+si in negatiua negatiuam, ut est:
+Non homo non ambulat
+uerba uero quae sunt infinita iuncta in propositione non affirmationem sed perficere negationem, idcirco de his
+reticuit, quod hae magis quae ex uerbo infinito sunt ad unam qualitatem pertinent propositionis id est ad negatiuam.
+Semper enim fit ex infinito uerbo negatio. Haec igitur colligens ait: QUONIAM AUTEM EST DE ALIQUO
+SUBIECTO AFFIRMATIO SIGNIFICANS ALIQUID id est praedicans, hoc est quoniam omnis propositio ex subiecto
+et praedicato. Quod autem subiectum EST VEL NOMEN VEL INNOMINATUM. Innominatum autem est quod
+propositum subruit nomen, ut est 'non homo'. Nomen enim quod est 'homo' differt nominis infiniti priuatione quod est
+'non homo' atque ideo et innominatum uocauit.
+Qualis autem debeat esse propositio de qua tractat ostendit dicens: UNUM AUTEM OPORTET ESSE ET DE
+UNO HOC QUOD EST IN AFFIRMATIONE, id est ex duobus terminis propositionem oportere consistere.
+Commemorat quoque quid sit innominatum se supra dixisse, quoniam quod diceremus 'non homo' nomen quidem
+Aristoteles non diceret sed quod nomen simpliciter non uocaret hoc addito infinito nomen diceret infinitum, idcirco
+quoniam unum quidem significat sed infinitum. 'Non homo' enim quod significationem eius quod dicimus homo tollit
+unum est et unam per se significationem subripiens, multa sunt quae intellegentium sensibus relinquantur.
+Commemorat etiam quoniam 'non currit' uerbum superius infinitum uocauit et non simpliciter uerbum.
+QUONIAM ergo aliquid de aliquo affirmatio est, hoc autem quod subiectum est aut nomen esse oportet aut
+innominatum id est infinitum nomen, duplex propositionis species inuenitur. Omnis enim affirmatio uel ex nomine est
+et uerbo uel ex infinito nomine et uerbo. Eodem quoque modo et negatio. Neque enim reperietur ulla umquam
+affirmatio, cui negatio inueniri non possit. Quod si duplex species affirmationum, duplex quoque species est
+negationum. Illud /260/ quoque commemorat quod supra iam dixit. Nam licet ex nomine et uerbo et rursus ex eo, quod
+non est nomen sed infinitum, nomine et uerbo sit affirmatio et negatio praedicatiua id est categorica: ut autem praeter
+uerbum sit ulla affirmatio aut negatio aut praeter id quod idem significet uerbo uel in subauditione uel aliquo alio modo
+fieri non potest.
+Ponit quoque uerba quae paene in omnibus propositionibus aut sub ipsa cadunt aut quae idem ualeant. EST
+ENIM, inquit, VEL ERIT VEL FUIT <VEL FIT>, VEL QUAECUMQUE ALIA consignificant tempus, uerba sunt,
+sicut ex his doceri possumus quae ante posita sunt atque concessa, cum definitio uerborum daretur: uerba esse quae
+consignificarent tempus.
+Quare si haec consignificant tempus, non est dubium quin uerba sins.
+
+

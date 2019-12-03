@@ -1,0 +1,55 @@
+Et ideo sola oratio enunciativa, in qua verum vel falsum invenitur, interpretatio vocatur.
+Caeterae vero orationes, ut optativa et imperativa, magis ordinantur ad exprimendum affectum, quam ad
+interpretandum id quod in intellectu habetur. Intitulatur ergo liber iste de interpretatione, ac si dicetur de
+enunciativa oratione: in qua verum vel falsum invenitur. Non autem hic agitur de nomine et verbo, nisi in
+quantum sunt partes enunciationis. Est enim proprium uniuscuiusque scientiae partes subiecti tradere, sicut et
+passiones. Patet igitur ad quam partem philosophiae pertineat liber iste, et quae sit necessitas istius, et quem
+ordinem teneat inter logicae libros.
+|+1 Lectio 1
+|#1 Praemittit autem huic operi Philosophus prooemium, in quo sigillatim exponit ea, quae in hoc libro sunt
+tractanda. Et quia omnis scientia praemittit ea, quae de principiis sunt; partes autem compositorum sunt eorum
+principia; ideo oportet intendenti tractare de enunciatione praemittere de partibus eius.
+Unde dicit: primum oportet constituere, idest definire quid sit nomen et quid sit verbum.
+In Graeco habetur, primum oportet poni et idem significat. Quia enim demonstrationes definitiones
+praesupponunt, ex quibus concludunt, merito dicuntur positiones. Et ideo praemittuntur hic solae definitiones
+eorum, de quibus agendum est: quia ex definitionibus alia cognoscuntur.
+|#2 Si quis autem quaerat, cum in libro praedicamentorum de simplicibus dictum sit, quae fuit necessitas ut hic
+rursum de nomine et verbo determinaretur; ad hoc dicendum quod simplicium dictionum triplex potest esse
+consideratio. Una quidem, secundum quod absolute significant simplices intellectus, et sic earum consideratio
+pertinet ad librum praedicamentorum.
+Alio modo, secundum rationem, prout sunt partes enunciationis; et sic determinatur de eis in hoc libro; et ideo
+traduntur sub ratione nominis et verbi: de quorum ratione est quod significent aliquid cum tempore vel sine
+tempore, et alia huiusmodi, quae pertinent ad rationem dictionum, secundum quod constituunt enunciationem.
+Tertio modo, considerantur secundum quod ex eis constituitur ordo syllogisticus, et sic determinatur de eis sub
+ratione terminorum in libro priorum.
+|#3 Potest iterum dubitari quare, praetermissis aliis orationis partibus, de solo nomine et verbo determinet. Ad
+quod dicendum est quod, quia de simplici enunciatione determinare intendit, sufficit ut solas illas partes
+enunciationis pertractet, ex quibus ex necessitate simplex oratio constat. Potest autem ex solo nomine et verbo
+simplex enunciatio fieri, non autem ex aliis orationis partibus sine his; et ideo sufficiens ei fuit de his duabus
+determinare.
+Vel potest dici quod sola nomina et verba sunt principales orationis partes. Sub nominibus enim
+comprehenduntur pronomina, quae, etsi non nominant naturam, personam tamen determinant, et ideo loco
+nominum ponuntur: sub verbo vero participium, quod consignificat tempus: quamvis et cum nomine
+convenientiam habeat. Alia vero sunt magis colligationes partium orationis, significantes habitudinem unius ad
+aliam, quam orationis partes; sicut clavi et alia huiusmodi non sunt partes navis, sed partium navis
+coniunctiones.
+|#4 His igitur praemissis quasi principiis, subiungit de his, quae pertinent ad principalem intentionem, dicens:
+postea quid negatio et quid affirmatio, quae sunt enunciationis partes: non quidem integrales, sicut nomen et
+verbum (alioquin oporteret omnem enunciationem ex affirmatione et negatione compositam esse), sed partes
+subiectivae, idest species. Quod quidem nunc supponatur, posterius autem manifestabitur.
+|#5 Sed potest dubitari: cum enunciatio dividatur in categoricam et hypotheticam, quare de his non facit
+mentionem, sicut de affirmatione et negatione. Et potest dici quod hypothetica enunciatio ex pluribus categoricis
+componitur. Unde non differunt nisi secundum differentiam unius et multi.
+Vel potest dici, et melius, quod hypothetica enunciatio non continet absolutam veritatem, cuius cognitio
+requiritur in demonstratione, ad quam liber iste principaliter ordinatur; sed significat aliquid verum esse ex
+suppositione: quod non sufficit in scientiis demonstrativis, nisi confirmetur per absolutam veritatem simplicis
+enunciationis. Et ideo Aristoteles praetermisit tractatum de hypotheticis enunciationibus et syllogismis. Subdit
+autem, et enunciatio, quae est genus negationis et affirmationis; et oratio, quae est genus enunciationis.
+|#6 Si quis ulterius quaerat, quare non facit ulterius mentionem de voce, dicendum est quod vox est quoddam
+naturale; unde pertinet ad considerationem naturalis philosophiae, ut patet in secundo de anima, et in ultimo de
+generatione animalium. Unde etiam non est proprie orationis genus, sed assumitur ad constitutionem orationis,
+sicut res naturales ad constitutionem artificialium.
+
+2
+
+

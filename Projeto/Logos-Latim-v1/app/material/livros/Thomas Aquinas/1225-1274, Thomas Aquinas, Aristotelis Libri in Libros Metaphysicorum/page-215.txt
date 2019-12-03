@@ -1,0 +1,55 @@
+Et sic in definitione syllabae ponitur litera, et per consequens definitio eius, quia semper uti possumus
+definitione pro nomine.
+Et tamen circulus dividitur in incisiones ut in partes, sicut syllaba in elementa, idest in literas.
+|#3 Quod autem hic dicitur, quod sicut se habet definitio ad rem, ita se habet pars definitionis ad partem rei,
+videtur habere dubitationem. Definitio enim est idem rei. Unde videtur sequi quod partes definitionis sint idem
+partibus rei; quod patet esse falsum. Nam partes definitionis praedicantur de definitio, sicut de homine, animal et
+rationale; nulla autem pars integralis praedicatur de toto.
+|#4 Sed dicendum est, quod partes definitionis significant partes rei, inquantum a partibus rei sumuntur partes
+definitionis; non ita quod partes definitionis sint partes rei. Non enim animal est pars hominis, neque rationale;
+sed animal sumitur ab una parte, et rationale ab alia.
+Animal enim est quod habet naturam sensitivam, rationale vero quod habet rationem.
+Natura autem sensitiva est ut materialis respectu rationis. Et inde est quod genus sumitur a materia, differentia a
+forma, species autem a forma et materia simul.
+Nam homo est, quod habet rationem in natura sensitiva.
+|#5 Deinde cum dicit amplius autem ponit secundam dubitationem, quae est de prioritate partium. Omnes enim
+partes videntur esse priores toto, sicut simplex composito.
+Acutus enim angulus est pars recti anguli. Dividitur enim rectus angulus in duos vel plures angulos acutos. Et
+similiter digitus est pars hominis. Unde videtur, quod acutus angulus sit naturaliter prior recto, et digitus prior
+homine.
+|#6 Sed e contra videntur illa esse priora, scilicet rectus acuto, et homo digito.
+Et hoc dupliciter. Primo quidem secundum rationem. Per huic enim modum illa dicuntur esse priora, quae in
+eorum rationibus ponuntur, et non e contrario.
+Acutus enim et digitus dicuntur esse secundum rationem, idest definiuntur ex illis, scilicet homine et recto, ut
+dictum est.
+Unde videtur, quod homo et rectus angulus sint priores digito et acuto angulo.
+|#7 Secundo vero prout dicuntur esse aliqua priora ex eo, quod est esse sine invicem. Quae enim possunt esse
+sine aliis, et non e contrario, dicuntur esse priora, ut in quinto est habitum, sicut unum duobus.
+Homo autem potest esse sine digito.
+Digitus autem non potest esse sine homine, quia digitus abscisus non est digitus, ut infra dicetur. Unde videtur,
+quod homo sit prior digito. Et eadem ratio est de recto et acuto.
+|#8 Deinde cum dicit aut multipliciter solvit propositas quaestiones; et dividitur in tres partes. In prima ponit
+solutionem.
+In secunda exponit eam, ibi, dictum est igitur nunc ipsum.
+Tertio determinat quamdam dubitationem, quae ex praedicta solutione oriri potest, ibi, dubitatur autem merito.
+Ad evidentiam autem horum, quae in hoc capitulo dicuntur, sciendum est, quod circa definitiones rerum, et
+earum essentias duplex est opinio. Quidam enim dicunt, quod tota essentia speciei est ipsa forma, sicut quod tota
+essentia hominis est anima.
+Et propter hoc dicunt, quod eadem secundum rem est forma totius quae significatur nomine humanitatis, et
+forma partis, quae significatur nomine animae, sed differunt solum secundum rationem: nam forma partis dicitur
+secundum quod perficit materiam, et facit eam esse in actu: forma autem totius, secundum quod totum
+compositum per eam in specie collocatur. Et ex hoc volunt, quod nullae partes materiae ponantur in definitione
+indicante speciem, sed solum principia formalia speciei. Et haec opinio videtur Averrois et quorumdam
+sequentium eum.
+|#9 Sed videtur esse contra intentionem Aristotelis. Dicit enim superius in sexto, quod res naturales habent in
+sui definitione materiam sensibilem, et in hoc differunt a mathematicis. Non autem potest dici, quod substantiae
+naturales definiantur per id quod non sit de essentia earum. Substantiae enim non habent definitionem ex
+additione, sed sola accidentia, ut supra est habitum. Unde relinquitur quod materia sensibilis sit pars essentiae
+substantiarum naturalium, non solum quantum ad individua, sed etiam quantum ad species ipsas. Definitiones
+enim non dantur de individuis, sed de speciebus.
+|#10 Unde est alia opinio, quam sequitur Avicenna; et secundum hanc forma totius, quae est ipsa quidditas
+speciei, differt a forma partis, sicut totum a parte: nam quidditas speciei, est composita ex materia et forma, non
+tamen ex hac forma et ex hac materia individua. Ex his enim componitur individuum, ut socrates et callias. Et
+215
+
+

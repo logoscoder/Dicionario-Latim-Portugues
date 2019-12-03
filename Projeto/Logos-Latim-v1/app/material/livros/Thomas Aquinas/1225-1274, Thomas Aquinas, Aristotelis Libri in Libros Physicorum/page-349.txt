@@ -1,0 +1,64 @@
+Haec autem est differentia inter agens per intellectum et agens materiale,
+quia actio agentis materialis proportionatur naturae agentis; tanta enim
+procedit calefactio quantus est calor: sed actio agentis per intellectum,
+non proportionatur naturae ipsius, sed formae apprehensae; non enim
+aedificator tantum aedificat quantum potest, sed quantum exigit ratio
+formae conceptae.
+Sic igitur si aliqua esset virtus infinita in magnitudine, sequeretur quod
+motus ab ipsa procedens esset secundum proportionem eius: et ita procedit
+demonstratio praesens. Si autem sit virtus infinita non in magnitudine,
+motus ab ipsa non procedit secundum proportionem virtutis, sed secundum
+rationem formae apprehensae, idest secundum quod convenit fini et naturae
+subiecti.
+Est etiam aliud attendendum, quod sicut probatum est in sexto huius, nihil
+movetur nisi magnitudinem habens: unde velocitas motus est effectus
+receptus a movente in aliquo habente magnitudinem. Manifestum est autem,
+quod nihil habens magnitudinem potest recipere effectum aequalem
+proportionaliter potentiae quae non est in magnitudine; quia omnis natura
+corporea comparatur ad naturam incorpoream sicut quoddam particulare ad
+absolutum et universale. Unde non potest concludi, si virtus infinita non
+sit in magnitudine, quod ex ea consequatur in aliquo corpore infinita
+velocitas, quae est effectus proportionatus tali potentiae, ut dictum est.
+Sed nihil prohibet in aliqua magnitudine recipi effectum virtutis quae est
+in magnitudine, quia causa proportionatur effectui. Unde si poneretur quod
+aliqua virtus infinita esset in magnitudine, sequeretur quod effectus
+correspondens esset in magnitudine, scilicet velocitas infinita. Et hoc est
+impossibile: ergo et primum.
+|#11
+Ex his autem patet solutio tertiae dubitationis. Nam moveri tempore
+infinito non repugnat rationi magnitudinis motae: convenit enim magnitudini
+circulari, ut supra ostensum est. Sed moveri velocitate infinita, idest in
+non tempore, contrariatur rationi magnitudinis, ut in sexto probatum est.
+Unde a primo movente infinitae virtutis, secundum Aristotelem, causatur
+motus diuturnitatis infinitae; non autem motus velocitatis infinitae.
+|#12
+Ad quartam vero dubitationem, solvit Alexander, ut Averroes dicit
+hic in commento, quod corpus caeleste acquirit aeternitatem a motore
+separato, quod est infinitae virtutis, sicut et perpetuitatem motus.
+Unde sicut non est ex infinitate caelestis corporis quod in perpetuum
+moveatur, ita non est ex infinitate corporis caelestis quod in perpetuum
+duret; sed utrumque est ex infinitate motoris separati.
+Hanc autem responsionem Averroes improbare nititur et hic in commento, et
+in XI metaphys., dicens quod impossibile est quod aliquid acquirat
+perpetuitatem essendi ab alio; quia sequeretur quod id quod in se est
+corruptibile, fieret aeternum. Sed perpetuitatem motus potest aliquid
+acquirere ab altero: eo quod motus est actus mobilis a movente. Dicit ergo
+quod in corpore caelesti, quantum est de se, non est aliqua potentia ad non
+esse, quia eius substantiae non est aliquid contrarium: sed in ipso est
+aliqua potentia ad quietem, quia motui eius contrariatur quies. Et inde est
+quod non indiget acquirere perpetuitatem essendi ab alio: sed perpetuitatem
+motus ab alio acquirere indiget.
+Quod autem in corpore caelesti non sit aliqua potentia ad non esse, ex hoc
+contingere dicit, quod corpus caeleste dicit non esse compositum ex materia
+et forma quasi ex potentia et actu; sed dicit ipsum esse materiam actu
+existentem, et formam eius dicit animam ipsius; ita tamen quod non
+constituatur in esse per formam, sed solum in moveri. Et sic dicit in eo
+esse, non potentiam ad esse, sed solum ad ubi, sicut Philosophus dicit in
+XI metaphys..
+|#13
+
+Sed haec solutio et veritati repugnat, et intentioni Aristotelis.
+
+349
+
+

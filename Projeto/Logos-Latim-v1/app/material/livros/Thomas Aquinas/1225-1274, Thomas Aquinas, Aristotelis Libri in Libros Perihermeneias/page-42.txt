@@ -1,0 +1,59 @@
+vero oppositio est, homo est non iustus, homo non est non iustus. Non enim negatio fit nisi per appositionem
+negativae particulae ad hoc verbum est, quod est nota praedicationis.
+|#4 Deinde cum dicit: dico autem, ut est iustus etc., exponit quod dixerat, est tertium adiacens, et dicit quod
+cum dicitur, homo est iustus, hoc verbum est, adiacet, scilicet praedicato, tamquam tertium nomen vel verbum in
+affirmatione. Potest enim ipsum est, dici nomen, prout quaelibet dictio nomen dicitur, et sic est tertium nomen,
+idest tertia dictio. Sed quia secundum communem usum loquendi, dictio significans tempus magis dicitur
+verbum quam nomen, propter hoc addit, vel verbum, quasi dicat, ad hoc quod sit tertium, non refert utrum
+dicatur nomen vel verbum.
+|#5 Deinde cum dicit: quare quatuor erunt etc., concludit numerum enunciationum.
+Et primo, ponit conclusionem numeri; secundo, ponit earum habitudinem; ibi: quarum duae quidem etc.; tertio,
+rationem numeri explicat; ibi: dico autem quoniam est etc..
+Dicit ergo primo quod quia duae sunt oppositiones, quando est tertium adiacens praedicatur, cum omnis
+oppositio sit inter duas enunciationes, consequens est quod sint quatuor enunciationes illae in quibus est, tertium
+adiacens, praedicatur, subiecto finito non universaliter sumpto.
+Deinde cum dicit: quarum duae quidem etc., ostendit habitudinem praedictarum enunciationum ad invicem; et
+dicit quod duae dictarum enunciationum se habent ad affirmationem et negationem secundum consequentiam,
+sive secundum correlationem, aut analogiam, ut in Graeco habetur, sicut privationes; aliae vero duae minime.
+Quod quia breviter et obscure dictum est, diversimode a diversis expositum est.
+|#6
+Ad cuius evidentiam considerandum est quod tripliciter nomen potest praedicari in huiusmodi
+enunciationibus. Quandoque enim praedicatur nomen finitum, secundum quod assumuntur duae enunciationes,
+una affirmativa et altera negativa, scilicet homo est iustus, et homo non est iustus; quae dicuntur simplices.
+Quandoque vero praedicatur nomen infinitum, secundum quod etiam assumuntur duae aliae, scilicet homo est
+non iustus, homo non est non iustus; quae dicuntur infinitae. Quandoque vero praedicatur nomen privativum,
+secundum quod etiam sumuntur duae aliae, scilicet homo est iniustus, homo non est iniustus; quae dicuntur
+privativae.
+|#7 Quidam ergo sic exposuerunt, quod duae enunciationes earum, quas praemiserat scilicet illae, quae sunt de
+infinito praedicato, se habent ad affirmationem et negationem, quae sunt de praedicato finito secundum
+consequentiam vel analogiam, sicut privationes, idest sicut illae, quae sunt de praedicato privativo. Illae enim
+duae, quae sunt de praedicato infinito, se habent secundum consequentiam ad illas, quae sunt de finito praedicato
+secundum transpositionem quandam, scilicet affirmatio ad negationem et negatio ad affirmationem. Nam homo
+est non iustus, quae est affirmatio de infinito praedicato, respondet secundum consequentiam negativae de
+praedicato finito, huic scilicet homo non est iustus. Negativa vero de infinito praedicato, scilicet homo non est
+non iustus, affirmativae de finito praedicato, huic scilicet homo est iustus. Propter quod theophrastus vocabat
+eas, quae sunt de infinito praedicato, transpositas. Et similiter etiam affirmativa de privativo praedicato respondet
+secundum consequentiam negativae de finito praedicato, scilicet haec, homo est iniustus, ei quae est, homo non
+est iustus.
+Negativa vero affirmativae, scilicet haec, homo non est iniustus, ei quae est, homo est iustus. Disponatur ergo in
+figura.
+Et in prima quidem linea ponantur illae, quae sunt de finito praedicato, scilicet homo est iustus, homo non est
+iustus. In secunda autem linea, negativa de infinito praedicato sub affirmativa de finito et affirmativa sub
+negativa.
+In tertia vero, negativa de privativo praedicato similiter sub affirmativa de finito et affirmativa sub negativa: ut
+patet in subscripta figura. (figura)p sic ergo duae, scilicet quae sunt de infinito praedicato, se habent ad
+affirmationem et negationem de finito praedicato, sicut privationes, idest sicut illae quae sunt de privativo
+praedicato. Sed duae aliae quae sunt de infinito subiecto, scilicet non homo est iustus, non homo non est iustus,
+manifestum est quod non habent similem consequentiam. Et hoc modo exposuit herminus hoc quod dicitur, duae
+vero, minime, referens hoc ad illas quae sunt de infinito subiecto.
+Sed hoc manifeste est contra litteram. Nam cum praemisisset quatuor enunciationes, duas scilicet de finito
+praedicato et duas de infinito, subiungit quasi illas subdividens, quarum duae quidem etc.. Duae vero, minime;
+ubi datur intelligi quod utraeque duae intelligantur in praemissis. Illae autem quae sunt de infinito subiecto non
+includuntur in praemissis, sed de his postea dicetur. Unde manifestum est quod de eis nunc non loquitur.
+|#8 Et ideo, ut Ammonius dicit, alii aliter exposuerunt, dicentes quod praedictarum quatuor propositionum
+duae, scilicet quae sunt de infinito praedicato, sic se habent ad affirmationem et negationem, idest ad ipsam
+speciem affirmationis et negationis, ut privationes, idest ut privativae affirmationes seu negationes. Haec enim
+affirmatio, homo est non iustus, non est simpliciter affirmatio, sed secundum quid, quasi secundum privationem
+42
+
+

@@ -1,0 +1,61 @@
+Si est animal, non est inanimatum; Si non est animal, non est rationabile;
+assumamus igitur non esse inanimatum, non necesse erit esse animal, quocirca nec rationabile.
+[3.2.4] Rursus si c terminus assumatur, si quidem esse ponatur, necesse erit non esse b; at si non est c, nullus
+est syllogismus. Nam quoniam propositum est:
+Si a sit, non esse b; Si a non sit, non esse c;
+necesse est ut, cum sit c, sit etiam a, at si sit a, non sit b; si igitur sit c, non erit b. Quod si c non esse ponatur,
+nullus est syllogismus, ueluti in hac propositione:
+Si est animal non est inanimatum; Si non est animal, non est rationabile.
+Si quis igitur assumat non esse rationabile, non necesse erit esse animal, quocirca ne inanimatum quidem uel
+esse uel non esse.
+[3.2.5] Atque in his quidem quatuor propositionibus ita a terminus positus est, ut ad b quidem esse diceretur,
+ad c uero non esse; quod si ordo mutetur, rursus quatuor erunt alii syllogismi, si b terminus assumatur, quatuor etiam
+alii, si c; ex utraque autem parte quaternae complexiones erunt, quae nullos faciant syllogismos. Sit enim quinta
+propositio:
+Si non est a, /330/ est b; Si est a, est c;
+dico quia:
+Si non est b, erit c.
+Assumatur enim:
+Atqui non est b
+erit igitur a (hic enim consequentiae ratus ordo constabat); sed cum est a, est c, si igitur non est b, erit c.
+[3.2.6] Quod si b esse ponatur, nihil sit necessarium; si enim est b, non erit a, quod si a non est, nihil ad c,
+quocirca nullus est syllogismus. Non esse autem a, si b sit, ea propositio monstrat per quam dicimus:
+Si a non est, est b
+haec enim immediatis tantum contrariis conuenit. Age enim sit a quidem animal, b uero insensibile, c
+animatum, et proponatur:
+Si animal non est, insensibile est; Si animal est, animatum est;
+et ponatur esse insensibile, non necesse est esse uel non esse animal, quocirca ne animatum quidem esse uel
+non esse necesse est.
+[3.2.7] Quod si c terminus assumatur, si quidem negatiue, faciet syllogismum, affirmatiue uero, nullo modo.
+Nam si non est c, non est a; quod si non est a, est b, si igitur c non est b est; quod si sit c, non necesse est esse uel non
+esse a, quo fit ut ne b quidem esse aut non esse necesse sit. Nam si est animatum, non necesse est esse uel non esse
+animal, cum uero animal non sit, non necesse est esse uel non esse insensibile. Propositio uero eadem quae superius.
+[3.3.1] Rursus ex sexta propositione fit syllogismus hoc modo:
+Si non est a, est b; Si est a, non est c;
+dico quia:
+Si non est b, non erit c;
+si enim non est b, est a, at si est a, non est c; si /332/ igitur non est b, non erit c. Quod si b terminum ponat
+assumptio, nulla est necessitas conclusionis; si enim est b, non est a. Id enim ex superioribus manifestum est. At si non
+est a, nihil ad c; tunc enim c non erat, si esset a. Exemplum uero hoc est, ut si sit a animal, b insensibile, c inanimatum.
+Si igitur sit propositio talis:
+Si non est animal, est insensibile; Si est animal, non est inanimatum; Atqui est insensibile;
+non est igitur animal sed non consequitur ut sit uel non sit inanimatum.
+[3.3.2] Quod si c terminum sumpseris, si quidem affirmes, facies syllogismum; nam si est c, non erit a, quod si
+a non sit, erit b, si igitur c fuerit, erit b. At si negaueris, nihil est necessarium. Si enim assumas:
+Atqui non est c
+non necesse erit esse uel non esse a, quocirca ne b quidem; nam si inanimatum negaueris, non necesse est esse
+uel non esse animal, quocirca ne insensibile quidem esse uel non esse. Ex septima propositione conclusio est cum ita
+proponimus:
+Si non est a, non est b; Si est a, est c
+dico quia:
+Si est b, erit c
+nam quoniam ita propositum est, si non esset a, non esse b, si sit b erit a. Atqui si sit a, erit c; si igitur sit b, erit
+c.
+[3.3.3] Quod si b terminum neget assumptio, nulla est in conclusione necessitas. Nam si non sit b, nihil erit
+necessarium esse uel non esse a, quocirca ne c quidem, uelut in his terminis. Si enim sit a animatum, b animal, c uiuere,
+si sic enuntiemus:
+Si non est animatum, non est animal; Si est animatum uiuit;
+si igitur assumamus:
+Atqui non est animal;
+
+

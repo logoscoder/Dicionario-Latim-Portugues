@@ -1,0 +1,63 @@
+[200] voluit fehlt W411
+[201] venundare W411; E97
+[202] videamur W411; E97
+[203] V fehlt E97
+[204] ut fehlt W411
+[205] de V1341
+[206] INVITATUR W411
+[207] si ipse] se ipsi W411
+[208] obtulerit E97
+[209] Hoc E97
+[210] mmeminerit W411
+[211] leve V630; V1341
+[212] sta W411
+[213] temeritas] temritas si E97
+[214] substantiale W411
+[215] consecratur W411
+[216] VI fehlt E97
+[217] Placuit korr. aus Placuit ut V1341
+[218] basilica V1341
+[219] questo W411
+[220] aut W411
+[221] ibi de] ibidem W411
+[222] vel V630; V1341
+[223] terra sua] terram suam W411
+[224] quaestus causa] ipse W411
+[225] ut W411
+[226] conditam V630
+[227] VII fehlt E97
+[228] ECCLESIE W411
+[229] ii E97
+[230] BAPTISMO W411
+[231] voluntare W411
+[232] suo korr. aus suos V630
+[233] offerre W411
+[234] illi V630; W411; V1341
+[235] violenter korr. aus videnter V630
+[236] a baptismo] ad baptismum W411
+[237] si fehlt W411
+[238] pertimiscentes V630; W411
+[239] a fehlt V630; V1341; ad W411
+[240] VIII fehlt E97
+[241] accusationem W411
+[242] inpedit W411
+[243] pauli korr. aus pau V630
+[244] requiratur V1341
+[245] ab illo fehlt E97
+[246] approbare E97
+[247] excommunicatione W411
+[248] VIIII fehlt E97
+[249] POST W411
+[250] concilio korr. aus concilia V630; E97; concilio V1341
+[251] fuerint korr. aus fuerant O93; fuerint korr. aus fuerat E97
+[252] ordinati V1341
+[253] omnismodis W411
+[254] quo korr. aus quod V630; quorum W411
+[255] cota W411
+[256] astanti E97
+[257] principium W411
+[258] Tertia V1341
+[259] dimisso korr. aus demisso V630; dimisso E97
+7
+
+

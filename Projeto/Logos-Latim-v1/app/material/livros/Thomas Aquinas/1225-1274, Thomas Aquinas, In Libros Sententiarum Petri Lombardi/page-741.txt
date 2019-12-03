@@ -1,0 +1,59 @@
+suos determinant, non tamen a se habent quod agant, sed a primo agente, quod eis et esse et posse et agere
+confert.
+
+|+d37.q2 Distinctio 37, Quaestio 2
+|a0 Prologus
+Deinde quaeritur de causa peccati; et circa hoc duo quaeruntur: 1 utrum ipsius peccati Deus causa sit, absolute
+loquendo; 2 utrum sit causa actionis in qua deformitas culpae consistit, secundum quod actio est.
+|a1 Articulus 1: Utrum Deus sit simpliciter causa peccati.
+AG1
+Ad primum sic proceditur. Videtur quod simpliciter peccati Deus causa sit. Quia, ut in Glossa ad Rom. 9, dicitur,
+Deus operatur in cordibus hominum, et inclinat voluntates eorum in quodcumque voluerit, sive in bonum, sive in
+malum.
+Sed ex hoc dicitur auctor bonorum operum, quia voluntatem hominis in bonum inclinat. Ergo et eadem ratione
+potest dici auctor peccatorum, quae sunt mala opera.
+AG2
+Praeterea, quidquid est causa causae, est causa causati. Sed peccati causa est voluntas peccantis.
+Cum igitur voluntatis causa sit Deus, videtur quod et peccati.
+AG3
+Praeterea, in eamdem causam reducitur salus et periculum alicujus: idem enim nauta est causa salutis et
+periclitationis navis, ut in 2 phys., dicitur. Sed Deus est causa salutis humanae, quae est per bona opera. Ergo
+cum periclitatio animae sit per peccatum, videtur quod etiam Deus sit peccati causa.
+AG4
+Praeterea, quaecumque operatio convenit rei secundum hoc quod sibi a Deo datum est, a Deo est. Sed
+operationes quae sunt peccata, conveniunt homini secundum inclinationem virium sensibilium, quae homini a
+Deo sunt datae. Ergo et peccatum hominis in Deum sicut in causam reducitur.
+AG5
+Praeterea, peccatum est tenebra spiritualis.
+Sed tenebrarum Deus auctor est: isa. 45, 7: formans lucem, et creans tenebras. Ergo peccati Deus causa est.
+SC1
+Sed contra, fulgentius dicit.
+Illius rei Deus est ultor, cujus non est auctor.
+Sed peccati est ultor. Ergo ejus non est auctor.
+SC2
+Praeterea, quidquid fit Deo volente, fit Deo auctore, et e converso. Sed mala non fiunt Deo volente. Ergo nec eo
+auctore.
+CO
+Respondeo dicendum, quod peccati auctor Deus nullo modo dicendus est. Qui enim agit propter finem, non
+deficit a fine nisi propter defectum alicujus, vel sui ipsius, vel alterius; et ille in quo invenitur defectus, erit causa
+obliquationis a fine, sive sit ipsum principale agens, vel materia, vel instrumentum agentis, vel quidquid aliud: et
+ideo illud in quo nullo modo defectus cadere potest, non potest esse causa recessus a fine in his quae ad finem
+ordinata sunt. Cum igitur peccatum dicatur propter inordinationem a fine ad quem natura rationalis ordinata est,
+non potest esse causa peccati Deus, in quo nullus defectus cadere potest; sed oportet quod peccatum causetur
+defectu illius agentis quod est possibile ad defectum, sicut est voluntas rationalis creaturae.
+RA1
+Ad primum ergo dicendum, quod Deus non eodem modo inclinat voluntatem in bonum et in malum. Inclinat
+siquidem voluntatem in bonum administrando virtutem agendi, et directe movendo ad bonum; sed ad malum
+dicitur inclinare, inquantum gratiam non praebet, per quam quis a malo retraheretur; et non quod directe
+voluntatem in malum ordinet.
+RA2
+Ad secundum dicendum, quod peccatum refertur in voluntatem sicut in causam: et quamvis voluntas sit creata a
+Deo inquantum est quoddam ens, non tamen quantum ad hoc quod defectus ex ipsa incidere potest: est enim
+possibilis ad defectum ex hoc quod ex nihilo est. Quamvis autem Deus sit causa voluntatis faciens eam ex nihilo;
+hoc tamen quod est ex nihilo esse, non habet ab alio, sed a se: unde secundum hoc non habet causam aliam; et
+ideo defectus qui sequitur ex ea secundum quod ex nihilo est, non oportet quod in ulteriorem causam reducatur.
+RA3
+
+741
+
+

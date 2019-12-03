@@ -1,0 +1,62 @@
+Sed quoniam paululum de commatis ratione praediximus, non est diffugiendum et in quali proportione idem
+ipsum comma contineatur ostendere. Est enim comma quod ultimum comprehendere possit auditus, dicendumque est
+semitonium minus ac semitonium maius, quantis silligatim commatibus constare uideantur. Ipse quoque tonus quantis
+rursus commatibus coniungitur. Ac primum hinc conueniens sumatur initium.
+XI
+Demonstratio, Archytae superparticularem in aequa diuidi non posse, eiusque reprehensio.
+Superparticularis proportio scindi in aequa medio proportionaliter interposito numero non potest. Id uero
+posterius firmiter demonstrabitur. Quam enim demonstrationem ponit Archytas, nimium fluxa est. Haec uero est
+huiusmodi: Sit, inquit, superparticularis proportio A B. Sumo in eadem proportione minimos C E. Quoniam igitur sunt
+minimi in eadem [1237] proportione C E, et sunt superparticulares, E numerus C numerum parte una sua eiusque
+transcendit. Sit autem haec D. Dico quoniam D non erit numerus sed unitas. Si enim est numerus D et pars eius est qui
+est E, metietur D numerus E numerum. Quocirca et E numerum metietur. Quo fit ut C quoque metiatur, utrumque igitur
+C et E numeros metietur D numerus, quod est impossibile. Qui enim sunt minimi in eadem proportione quibuslibet aliis
+numeris, hi primi ad se inuicem sunt, et solam differentiam retinent unitatem; unitas igitur est D: igitur E numerus C
+numerum unitate transcendit. Quocirca nullus incidet medius numerus, qui eam proportionem aequaliter scindat. Quo
+fit ut nec inter eos qui eamdem his proportionem tenent, medius possit numerus collocari, qui eamdem proportionem
+aequaliter scindat.
+[PLLXIII:1237; text: Superparticularis proportio 6 ad 4, Minimiciusde proportio 3 ad 2, minima duser, A, C,
+D, E, B, 4, 2, 1, 3, 6] [BOEDIM3 09GF]
+Et secundum Archytae quidem rationem idcirco in superparticulari nullus medius terminus cadit, qui
+aequaliter diuidat proportionem, quoniam minimi in eadem proportione sola differunt unitate. Quasi uero non etiam in
+multiplici proportione minimi eamdem unitatis differentiam sortiantur. Cum plures uideamus esse multiplices praeter
+eos qui in radicibus collocati sunt, inter quos medius terminus scindens aequaliter eamdem proportionem possit aptari.
+Sed haec qui arithmeticos nostros diligenter inspexerit, facilius intelliget.
+Addendum uero est id ita euenire, ut Archytas putat, in sola superparticulari proportione. Non autem
+uniuersaliter est dicendum.
+Nunc autem ad sequentia conuertamur.
+XII
+In qua numerorum proportione sit comma, et quoniam in ea quae maior sit quam 75 ad 74, minor quam 74 ad
+73.
+Primum igitur dico quoniam hi numeri qui comma continent maiorem inter se retinent proportionem quam 75
+ad 74, minorem quam 74 ad 73. Id uero ita demonstrabitur: ac primo quidem illud reminiscendum est, quod sex toni
+diapason commate transcendunt. Sit igitur A quidem 262144, B autem diapason ad eum contineat consonantiam in
+duplici scilicet constituta 524288, C uero sex tonis ab A numero discedat et sit 531441. Quae omnia ex secundi
+uoluminis tonorum dispositione sunt colligenda. Inter B igitur [1238] atque C commatis proportio continetur. Aufero
+igitur numerum de numero C, et relinquit D in 7153 unitatibus collocatus. Quid numerus minor D est quam sit
+septuagesima tertia pars B numeri, maior uero est quam septuagesima quarta sit. Nam si eumdem D numerum, qui est
+in 7153, septuagies ter multiplicem fiet mihi E numerus in 522169 unitatibus constitutus. Si eum septuagies quater
+multiplicem, fit numerns F 529322. Quorum quidem E, qui per septuaginta tres auctus est, minor est B numero; F
+autem qui per 74, maior est B numero. Recte igitur dictum est D, eius quod est B, minorem quidem esse quam
+septuagesimam tertiam partem, maiorem uero quam septuagesimam quartam. Quodcirca et C numerus B numerum
+minore quidem parte eius quod est B eumdem B superat, quam septuagesima tertia, maiore uero quam septuagesima
+quarta. Eius igitur quod est C proportio ad id quod est B maior quidem est quam 75 ad 74, minor uero quam 74 ad 73.
+Nam in priore unitas septuagesima quarta est minoris, in posteriore uero eadem unitas septuagesima tertia.
+[PLLXIII:1238; text: Sextoni, Diapason, septuagies ter, septuagies quater, e minor b, s minor [rob], A, B, C,
+262144, 524288, 531441, E, 522169, F, 529322, 7153, Differentia D] [BOEDIM3 09GF]
+Idem aliter explicandum, illo prius praesumpto, quod si cui proportioni propria numerorum differentia
+aequaliter augeatur, minor inter eos qui post additionem fiunt proportio continebitur quam inter priores qui ante
+additionem illam quadam proportione distabant. Ut sex et quatuor si utrisque binarius, quae est differentia sua
+apponatur, fient 8 et 6 sed inter 6 et 4 sesquialtera, inter 8 et 6 sesquitertia proportio continetur, minor uero est
+proportio sesquitertia sesquialtera proportione; hoc igitur ita praedicto, disponantur superiores numeri qui proportionem
+commatis continebant, id est 531441, et sit A. Sit etiam B 524288; horum differentia sit C 7153; C igitur numerus
+maiorem numerum eo qui est A septuagies quinquies metiatur. Si igitur C numerum A septuagies quinquies
+multiplices, fiet mihi D qui est 536475. Igitur D numerus eum qui est A, numero eo qui est E antecedit, id est 5034.
+Rursus C numerus eum qui est B metiatur septuagies quater multipliceturque, fiet igitur numerus F 529322. Qui F eo
+qui est B [1239] maior est eodem E numero qui est 5034. Ergo D numerus eum qui est A transcendit E numero, B
+autem numerus ab eo qui est F uincitur eodem E numero. Si igitur A numero eumdem E apponamus, fiet D. Si uero B
+numero eumdem E apponamus, fiet F. Sed D numerus septuagies quinquies auctus est, per C scilicet multiplicatum. F
+autem septuagies quater multiplicato C creuit; obtinent igitur inter se proportionem D atque F quam habent 75 ad 74.
+Sed D atque F sunt A atque B uno eis addito E, maiorem igitur necessarie est proportionem contineri inter A atque B
+
+

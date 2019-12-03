@@ -1,0 +1,62 @@
+affirmatiua erit uel negatiua, et si affirmatiua quinque modis uel inesse significans, uel necessario inesse dupliciter, uel
+contingenter inesse dupliciter, itemque totidem negabitur modis, simul non amplius quam decies proponetur.
+[1.8.5] Quo fit ut tertia propositio cum duabus superioribus, centum inter se modis copulatis atque complexis,
+iuncta atque commissa, mille omnes faciat complexiones. Centum namque duarum propositionum modi, cum decem
+modis tertiae propositionis complicati, mille perficiunt; decies enim centum mille sunt. Rursus quoniam ex duabus
+hypotheticis iuncta conditionalis quatuor categoricis copulatur, et duae inter se primae categoricae centum
+complexionibus iungebantur, necesse est ut posteriores quoque duae centum complexionibus connectantur; quod si
+centum superiorum propositionum categoricarum modi centum posteriorum categoricarum modis complicentur, fient
+decem milia complexiones.
+[1.8.6] In illis autem propositionibus quae tribus uariantur figuris, siquidem medius terminus similiter et in
+prima et in secunda hypothetica proponatur, mille erunt complexiones, ad earum similitudinem quae ex tribus
+categoricis connectuntur; tunc enim unus atque idem terminus in utrisque tres neque amplius faciet enuntiationes.
+Similiter uero in utrisque proponitur hoc modo:
+Si est a, est b; si est b, est c
+hic enim b terminus, et ad a terminum, et ad c positus est, esse significans.
+[1.8.7] Idem in necessariis et contingentibus intelligendum est. At si ita proponatur:
+Si est a, est b, et, si necesse est esse b, est uel non est c
+duae propositiones conditionales, id est quatuor praedicatiuae fiunt.
+Quo fit ut secundum eas quae ex quatuor praedicatiuis connectuntur, decem millia faciunt complexiones.
+Atque hi numeri tam in prima quam in secunda uel tertia figura sunt inspiciendi. Et nos quidem quantus esse
+propositionum numerus posset, ascripsimus.
+[1.9.1] Numquam tamen dissimiliter medius terminus enuntiatur: namque ut fiat extremorum conclusio,
+medius terminus intercedit, cuius communitas extrema coniungit. Quod si medius diuersis modis in utraque
+propositione dicatur, nec connectuntur extrema, atque ideo ne syllogismus quidem ullus fieri potest, cum praesertim ne
+una quidem propositio dici possit, in qua medius terminus dissimiliter enuntiatur.
+[1.9.2] Longe autem multiplex propositionum numerus existeret, si inesse significantes et necessarias et
+contingentes affirmatiuas negatiuasque propositiones per uniuersales ac particulares, uel oppositas ac subalternas
+uariaremus; sed id non conuenit, quia conditionalium termini propositionum indefinito maxime enuntiantur modo.
+[1.9.3] Atque ideo superuacuum iudicaui determinatarum secundum quantitatem propositionum quaerere
+multitudinem, cum determinatae conditionales proponi non soleant; fere autem /250/ hypotheticae propositiones ne per
+necessitatem quidem uel per contingens enuntiantur sed illae maximae in usum collocutionis deducuntur, quae inesse
+significant. Omnes uero necessariam tenere consequentiam uolunt, et quae inesse significant, et quibus necessitas
+additur, et quibus praedicatio possibilitatis aptatur; haec enim terminis applicatur.
+[1.9.4] Necessitas uero hypotheticae propositionis, et ratio earum propositionum ex quibus iunguntur inter se
+connexiones, consequentiam quaerit, ut cum dico:
+Si Socrates sedet, et uiuit
+neque sedere eum, neque uiuere necesse est sed, si sedet, uiuere necesse est. Item cum dicimus:
+Si sol mouetur, necessario ueniet ad occasum
+tantumdem significat quantum, si sol mouetur, ueniet ad occasum.
+Necessitas enim propositionis in consequentiae immutabilitate consistit.
+[1.9.5] Item cum dicimus:
+Si possibile est legi librum, possibile est ad uersum tertium perueniri
+rursus necessitas consequentiae conseruata est; nam si possibile est legi librum, necesse est etiam id esse
+possibile, ut ad uersum tertium perueniatur. Opponuntur autem hypotheticis propositionibus illne solse quae earum
+substantiam perimunt. Substantia uero propositionum hypotheticarum in eo est, ut earum consequentiae necessitas
+ualeat permanere.
+[1.9.6] Si quis igitur recte conditionali propositioni repugnabit, id efficiet ut earum destruat /252/
+consequentiam, ueluti cum ita dicimus:
+Si a est, b est
+non in eo pugnabit si monstret, aut non esse a, aut non esse b sed si posito quidem a, ostendit non statim
+consequi esse b sed posse esse a, etiamsi b terminus non sit. Uel si negatiua sit conditionalis, eodem destruetur modo:
+ut cum dicimus:
+Si a est, b non est
+non ostendendum est, aut non esse a, aut b esse; sed cum a sit, posse esse b terminum.
+[1.9.7] Sunt autem hypotheticae propositiones, aliae quidem affirmatiuae, aliae negatiuae; sed de his nunc
+loquor quae in consequentia positae in connexione esse dicuntur: affirmatiuae quidem, ut cum dicimus:
+Si est a, est b
+Si a non est, b est
+negatiuae uero:
+Si a est, b non est
+
+

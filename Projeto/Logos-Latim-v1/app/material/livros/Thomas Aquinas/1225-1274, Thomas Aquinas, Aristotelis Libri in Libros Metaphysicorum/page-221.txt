@@ -1,0 +1,54 @@
+Non enim est hoc nisi illorum qui per intellectum supra sensibilia elevari possunt.
+|#6 Et similiter si hominis species semper apparet in carnibus et ossibus et talibus partibus, oportet quaerere,
+utrum istae partes sint speciei humanae et rationis, idest definitionis hominis; aut non sunt partes speciei, sed
+solum materia speciei, sicut aes circuli. Sed quia talis species non fit in aliis partibus materialibus quam in istis,
+ideo de facili non possumus separare hominem per intellectum a carnibus et ossibus. Videtur enim eadem ratio
+esse hic et in circulo, si omnes circuli essent aerei.
+|#7
+Deinde cum dicit quoniam autem procedit ulterius prosequendo opinionem praetactam quantum ad
+mathematica; dicens, quod quia videtur hoc contingere in aliquibus, scilicet quod materia non sit pars speciei,
+quamvis species non inveniatur nisi in illa materia, sed non est manifestum quando et in quibus hoc contingat vel
+non contingat, ideo aliqui circa hoc dubitant non solum in naturalibus, sed etiam in mathematicis, ut in circulo et
+triangulo.
+|#8 Videtur enim eis, quod sicut materia sensibilis non est pars speciei in naturalibus, ita etiam quod materia
+intelligibilis non sit pars speciei in mathematicis.
+Materia autem figurarum mathematicarum intelligibilis, est continuum, ut linea vel superficies. Et ideo vult,
+quod linea non sit pars speciei circuli vel trianguli; quasi non sit competens quod triangulus et circulus
+definiantur per lineas et continuum, cum non sint partes speciei; sed omnia ista similiter dicantur ad circulum et
+triangulum, sicut carnes et ossa ad hominem, et aes et lapides ad circulum.
+|#9 Removendo autem a triangulo et circulo continuum, quod est linea, nihil remanet nisi unitas et numerus,
+quia triangulus est tres lineas habens, et circulus unam. Et ideo, quia lineas non dicunt esse partes speciei,
+referunt omnes species ad numeros, dicentes quod numeri sunt species mathematicorum omnium. Dicunt enim
+quod ratio duorum est ratio lineae rectae, propter hoc quod linea recta duobus punctis terminatur.
+|#10 Sed circa hoc inter Platonicos ponentes ideas, est differentia quaedam.
+Quidam enim non ponentes mathematica media inter species et sensibilia, dicentes species esse numeros, dicunt
+ipsam lineam esse dualitatem, quia non ponunt lineam mediam differentem a specie lineae.
+|#11 Quidam vero dicunt quod dualitas est species lineae, et non linea. Linea enim est quoddam mathematicum
+medium inter species et sensibilia; et dualitas est ipsa species. Et secundum eos, in quibusdam non differunt
+species et cuius est species, sicut in numeris, quia ipsas species dicebant esse numeros. Unde idem dicebant esse
+dualitatem et speciem dualitatis.
+Sed lineae hoc non accidit, secundum eos, quia linea iam dicit aliquid participans speciem, cum multae lineae
+inveniantur esse in una specie; quod non esset si ipsamet linea esset ipsa species.
+|#12 Deinde cum dicit accidit itaque improbat praedictam solutionem; et ponit tres rationes: quarum prima est.
+Si soli numeri sint species, omnia ista quae participant uno numero participant una specie.
+Multa autem sunt diversa specie quae participant uno numero. Unus enim et idem numerus est in triangulo
+propter tres lineas, et in syllogismo propter tres terminos, et in corpore propter tres dimensiones.
+Accidit igitur multorum specie diversorum esse unam speciem. Quod non solum Platonicis sed etiam
+Pythagoricis accidit, qui etiam ponebant naturam omnium rerum esse numeros.
+|#13 Secundam ponit ibi, et contingit.
+Quae talis est. Si carnes et ossa non sunt partes speciei humanae, nec lineae speciei trianguli, pari ratione nulla
+materia est pars speciei. Sed secundum Platonicos, in numero dualitas attribuitur materiae, unitas autem speciei:
+ergo sola unitas est species.
+Dualitas autem, et per consequens omnes alii numeri, tamquam materiam implicantes, non erunt species. Et sic
+una tantum erit species omnium rerum.
+|#14 Tertiam ponit ibi, quamvis sic.
+Quae talis est. Illa sunt unum quorum species una est. Si igitur omnium species est una, sequetur quod omnia sint
+unum secundum speciem, et non solum quae videntur esse diversa. Potest tamen dici quod hoc tertium non est
+alia ratio a secunda; sed est inconveniens, quod ex secunda conclusione sequitur secundae rationis.
+|#15 Posita ergo ratione cui praemissa solutio innitebatur, et positis rationibus contra praemissam solutionem,
+concludit: dictum esse quod illa quae sunt circa definitiones habent dubitationem et qua de causa. Et sic patet
+quod per omnia praemissa ostendere voluit difficultatem praemissae dubitationis.
+
+221
+
+

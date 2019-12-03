@@ -1,0 +1,60 @@
+|#11 Secundo, ibi: sic enim erunt etc., excusat se ab additione alterius particulae, quae videbatur apponenda:
+quod scilicet demonstratio ex propriis principiis procederet. Sed ipse dicit quod hoc intelligitur per ea, quae dicta
+sunt. Nam si propositiones demonstrationis sunt causae conclusionis, necesse est quod sint propria principia eius:
+oportet enim causas esse proportionatas effectibus.
+|#12 Tertio, ibi: syllogismus quidem etc., manifestat praemissae consequentiae necessitatem, dicens quod licet
+syllogismus non requirat praemissas conditiones in propositionibus, ex quibus procedit, requirit tamen eas
+demonstratio: aliter enim non faceret scientiam.
+|#13
+Deinde, cum dicit: verum quidem etc., manifestat positam definitionem, manifestans etiam quod
+immediate dixerat, scilicet quod nisi praemissae conditiones demonstrationi adessent, scientiam facere non
+posset. Primo ergo, ostendit quod semper procedit ex veris ad hoc quod scientiam faciat: quia quod non est, non
+est scire; sicut diametrum esse symmetrum, idest commensurabilem lateri quadrati (dicuntur enim quantitates
+incommensurabiles, quarum non potest accipi aliqua mensura communis; et huiusmodi quantitates sunt, quarum
+non est proportio ad invicem sicut numeri ad numerum; quod de necessitate contingit de diametro quadrati et
+eius latere, ut patet ex X euclidis)p quod autem non est verum, non est: nam esse et esse verum convertuntur.
+Oportet ergo id quod scitur esse verum.
+Et sic conclusionem demonstrationis, quae facit scire, oportet esse veram, et per consequens eius propositiones:
+non enim contingit verum sciri ex falsis, etsi concludi possit ex eis, ut infra ostendet.
+|#14
+Secundo, ibi: ex primis autem etc., ostendit quod demonstratio sit ex primis et immediatis, sive
+indemonstrabilibus. Non enim contingit aliquem habere scientiam, nisi habeat demonstrationem eorum, quorum
+potest esse demonstratio, et hoc dico per se, et non per accidens. Et hoc ideo dicit, quia possibile esset scire
+aliquam conclusionem, non habentem demonstrationem praemissorum, etiam si essent demonstrabilia: quia
+sciret eam per alia principia; et hoc esset secundum accidens. Detur ergo quod aliquis demonstrator syllogizet ex
+demonstrabilibus, sive mediatis: aut ergo habet illorum demonstrationem, aut non habet: si non habet, ergo non
+scit praemissa, et ita nec conclusionem propter praemissa; si autem habet, cum in demonstrationibus non sit abire
+in infinitum, ut infra ostendet, tandem erit devenire ad aliqua immediata et indemonstrabilia.
+Et sic oportet quod demonstratio ex immediatis procedat, vel statim, vel per aliqua media.
+Unde et in primo libro topicorum dicitur quod demonstratio est ex primis et veris, aut ex his quae per ea fidem
+sumpserunt.
+|#15 Tertio, ibi: causas quoque etc., probat quod demonstrationis propositiones sint causae conclusionis, quia
+tunc scimus, cum causas cognoscimus.
+Et ex hoc concludit ulterius quod sint priores et notiores, quia omnis causa est naturaliter prior et notior suo
+effectu. Oportet autem quod causa conclusionis demonstrativae sit notior, non solum quantum ad cognitionem
+quid est, sed etiam quantum ad cognitionem quia est. Non enim ad demonstrandum quod eclipsis solis est,
+sufficit scire quod est lunae interpositio, sed oportet etiam scire quod luna interponitur inter solem et terram.
+Et quia prius et notius dicitur dupliciter, scilicet quoad nos, et secundum naturam; dicit consequenter quod ea, ex
+quibus procedit demonstratio, sunt priora et notiora simpliciter et secundum naturam, et non quoad nos. Et ad
+huius expositionem dicit quod priora et notiora simpliciter sunt illa, quae sunt remota a sensu ut universalia.
+Priora autem et notiora quoad nos sunt proxima sensui, scilicet singularia, quae opponuntur universalibus, sive
+oppositione prioris et posterioris, sive oppositione propinqui et remoti.
+|#16 Videtur autem contrarium huius haberi in I physic., ubi dicitur quod universalia sunt priora quoad nos, et
+posteriora secundum naturam.
+Sed dicendum est quod hic loquitur de ordine singularis ad universale simpliciter, quorum ordinem oportet
+accipere secundum ordinem cognitionis sensitivae et intellectivae in nobis. Cognitio autem sensitiva est in nobis
+prior intellectiva, quia intellectualis cognitio ex sensu procedit in nobis. Unde et singulare est prius et notius
+quoad nos quam universale. In I autem physic. Non ponitur ordo universalis ad singulare simpliciter, sed magis
+universalis ad minus universale, ut puta, animalis ad hominem, et sic oportet quod quoad nos, universalius sit
+prius et magis notum. In omni enim generatione, quod est in potentia est prius tempore et posterius natura, quod
+autem est completum in actu est prius natura et posterius tempore. Cognitio autem generis est quasi potentialis,
+in comparatione ad cognitionem speciei, in qua actu sciuntur omnia essentialia rei. Unde in generatione scientiae
+nostrae prius est cognoscere magis commune quam minus commune.
+Item, in libro physic. Dicitur quod innata est nobis via ex nobis notioribus; non ergo demonstratio fit ex his quae
+sunt priora simpliciter, sed quoad nos. Sed dicendum quod hic loquitur secundum quod id quod est in sensu est
+notius quoad nos, eo quod est in intellectu. Ibi autem secundum quod id quod est notius quoad nos, est etiam in
+intellectu. Ex singularibus autem quae sunt in sensu, non sunt demonstrationes, sed ex universalibus tantum,
+quae sunt in intellectu.
+8
+
+

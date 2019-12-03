@@ -1,0 +1,60 @@
+RA2
+Ad secundum dicendum, quod, sicut ibidem Commentator exprimit, subintratio illa fit per condensationem, et
+dicuntur habere spiritualem virtutem propter raritatem. Esset autem erroneum dicere corpora gloriosa esse
+spiritualia hoc modo, quod sint aeri ventisque similia, ut patet per Gregorium, Lib. XIX Moralium.
+|a2 Articulus 2
+TTA
+Utrum corpus gloriosum esse simul in eodem loco cum alio corpore fieri possit miraculo.
+TTB
+Ad secundum sic proceditur: videtur quod corpus gloriosum nullo modo possit esse simul cum alio corpore in
+eodem loco.
+AG1
+Sicut enim se habet corpus unum ad unum locum, ita duo corpora ad duo loca.
+Ergo, commutatim, sicut unum corpus ad duo loca, ita duo corpora ad unum locum.
+Sed unum corpus nullo modo potest esse in duobus locis. Ergo nec duo corpora in uno loco.
+AG2
+Praeterea, si duo corpora sint in uno loco, sumantur duo puncta in duabus extremitatibus loci. Sequitur ergo quod
+inter ista duo puncta erunt duae lineae rectae duorum corporum in eodem loco existentium, quod est impossibile.
+Ergo impossibile est duo corpora esse in eodem loco.
+SC
+Sed contra, est quod Christus intravit ad discipulos ianuis clausis, ut habetur Ioan. XX: quod esse non potest, nisi
+corpus eius simul cum corpore portarum fuisset in eodem loco.
+Potest ergo corpus gloriosum cum alio corpore esse in eodem loco.
+CO
+Respondeo. Dicendum, quod sicut iam dictum est, duo corpora esse in eodem loco prohibentur ex
+dimensionibus, quia materia corporalis secundum dimensiones dividitur; dimensiones autem distinguuntur
+secundum situm.
+Deus autem, qui est omnium causa prima, potest conservare effectus in esse sine causis proximis; unde, sicut
+conservat in sacramento altaris accidentia sine subiecto, ita potest conservare distinctionem materiae corporalis
+et dimensionum in ea absque diversitate situs.
+Miraculose ergo fieri potest quod duo corpora sint in eodem loco; unde corpori Christi attribuitur a sanctis, quod
+exivit per clausum virginis uterum, et quod intravit ianuis clausis per virtutem divinam.
+Et similiter dico, quod corpus gloriosum, quod erit configuratum corpori claritatis Christi, poterit esse cum alio
+corpore in eodem loco, non propter aliquam virtutem creatam inditam, sed sola divina virtute assistente, et hoc
+operante; sicut corpus Petri sua umbra sanabat infirmos, sed divina virtute assistente miracula faciente.
+RA1
+Ad primum ergo dicendum, quod proportione commutata sic est utendum: sicut se habet primum ad secundum,
+ut duo ad tria, ita se habet tertium ad quartum; ergo commutatim, sicut se habet primum ad tertium, ita et
+secundum ad quartum, id est tria ad sex. Et secundum hoc ratio sic deberet procedere.
+Sicut se habet unum corpus ad unum locum, ita duo corpora ad duo loca; ergo sicut unum ad duo corpora, ita
+unus locus ad duo loca; et sic non sequitur quod si unum corpus non potest esse in duobus locis, duo corpora non
+possint esse in uno loco.
+Unum enim corpus esse localiter in duobus locis implicat contradictionem, quia de ratione loci est quod sit
+terminus locati; terminus autem est, extra quem nihil est rei; unde nihil locati potest esse in loco exteriori.
+Quod si ponatur esse in duobus locis, sequitur quod sit extra suum locum, et ita sequitur quod sit locatum et non
+locatum. Nec est instantia de corpore Christi, quia non est in sacramento altaris localiter, sed per conversionem.
+RA2
+Ad secundum dicendum, quod duas lineas rectas mathematicas esse infra duo puncta, est impossibile, quia in eis
+nulla alia ratio distinctionis potest intelligi nisi ex situ; sed duas lineas naturales esse intra duo puncta est
+impossibile quidem per naturam, sed possibile per miraculum: quia remanet alia ratio distinctionis in lineis
+duabus ex diversitate corporum subiectorum, quae conservatur virtute divina, etiam remota diversitate situs.
+|*QUODL_2
+|q1 Quaestio 1
+Prologus
+PR
+Quaesitum est de Christo, de Angelis et de hominibus.
+Circa Christum quaesita sunt duo de passione eius.
+PR1
+20
+
+

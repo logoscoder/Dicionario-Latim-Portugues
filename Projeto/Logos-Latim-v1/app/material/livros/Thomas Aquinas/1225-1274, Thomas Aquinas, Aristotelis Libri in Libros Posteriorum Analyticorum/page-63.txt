@@ -1,0 +1,59 @@
+in ipsum finem; quia ratio universalis sumitur ex parte formae, quae est simplex, et habet rationem finis, in
+quantum terminat infinitatem materiae.
+Manifestum est autem quod infinita in quantum huiusmodi non sunt scibilia, sed in quantum aliqua sunt finita in
+tantum sunt scibilia; quia materia non est principium cognoscendi rem, sed magis forma. Manifestum est ergo
+quod universalia sunt magis scibilia quam particularia. Ergo etiam sunt magis demonstrabilia, quia demonstratio
+est syllogismus faciens scire. Sed magis demonstrabilium est potior demonstratio: simul enim intenduntur ea,
+quae dicuntur ad invicem; demonstratio autem ad demonstrabile dicitur. Et sic cum universalia sint magis
+demonstrabilia, demonstratio universalis erit potior.
+|#5 Quartam rationem ponit ibi: amplius si magis praeponenda etc., quae talis est. Cum demonstrationis finis sit
+scientia, quanto demonstratio plura facit scire, tanto potior est. Et hoc est quod dicit, quod magis praeferenda est
+demonstratio, secundum quam homo cognoscit hoc et aliud, quam illa secundum quam homo cognoscit unum
+solum.
+Sed ille qui habet cognitionem de universali, cognoscit etiam particulare, dummodo sciat quod sub universali
+contineatur particulare; sicut qui cognoscit omnem mulam esse sterilem, scit hoc animal, quod cognoscit esse
+mulam, esse sterile: sed ille qui cognoscit particulare, non propter hoc cognoscit universale. Non enim si
+cognosco hanc mulam esse sterilem, propter hoc cognosco omnem mulam esse sterilem. Relinquitur ergo quod
+demonstratio universalis, per quam cognoscitur universale et particulare, sit potior quam particularis, per quam
+cognoscitur solum particulare.
+|#6 Quintam rationem ponit ibi: amplius autem et sic etc., quae talis est. Quanto medium demonstrationis est
+propinquius primo principio, tanto demonstratio est potior. Et hoc probat, quia si illa demonstratio, quae procedit
+ex principio immediato, est certior ea quae non procedit ex principio immediato, sed ex mediato, necesse est
+quod quanto aliqua demonstratio procedit ex medio propinquiori principio immediato, tanto sit potior. Sed
+universalis demonstratio procedit ex medio propinquiori principio, quod est propositio immediata. Et hoc
+manifestat in terminis. Si enim oporteat demonstrare a, quod est universalissimum, de d, quod est
+particularissimum, puta substantiam de homine, et accipiantur media b et c, puta animal et vivum, ita quod b sit
+superius quam c, sicut vivum quam animal; manifestum est quod b, quod est universalius, erit immediatum ipsi
+a, et per hoc magis cognoscetur quam per c, quod est minus universale. Unde relinquitur quod demonstratio
+universalis potior sit quam particularis. Addit autem quasdam praedictarum rationum logicas esse: quia scilicet
+procedunt ex communibus principiis, quae non sunt demonstrationi propria; sicut praecipue tertia et quarta, quae
+accipiunt pro medio id quod est commune omni cognitioni. Aliae vero tres praedictarum rationum, scilicet
+prima, secunda et quinta, magis videntur esse analyticae, utpote procedentes ex propriis principiis
+demonstrationis.
+|#7
+Sextam rationem ponit ibi: maxime autem manifestum est etc., et dicit quod maxime evidens est
+universalem demonstrationem principaliorem esse ex ipsis propositionibus, ex quibus utraque demonstratio
+procedit. Nam universalis demonstratio procedit ex universalibus propositionibus.
+Particularis autem demonstratio procedit ex aliqua particulari propositione. Propositionum autem universalis et
+particularis talis est comparatio, quod ille qui habet cognitionem de priori, scilicet de universali, cognoscit
+quodammodo posteriorem, scilicet in potentia. Nam in universali sunt in potentia particularia, sicut in toto sunt
+in potentia partes. Puta si aliquis cognoscit quod omnis triangulus habet tres angulos aequales duobus rectis, iam
+in potentia cognoscit hoc de isoscele.
+Sed ille qui cognoscit aliquid in particulari, non propter hoc cognoscit in universali, neque in actu neque in
+potentia. Non enim universalis propositio continetur in particulari, neque in actu neque in potentia. Si igitur
+demonstratio est potior, quae ex potioribus propositionibus procedit, sequitur quod demonstratio universalis sit
+potior. Est autem attendendum quod haec ratio non differt a quarta supraposita, nisi quod ibi fiebat comparatio
+conclusionum, quae cognoscuntur per demonstrationem, hic autem fit comparatio propositionum, ex quibus
+demonstratio procedit.
+|#8
+Septimam rationem ponit ibi: et universalis quidem etc., quae talis est. Universalis demonstratio
+intelligibilis est, idest in ipso intellectu terminatur, quia finitur ad universale, quod solo intellectu cognoscitur.
+Sed demonstratio particularis in intellectu incipiens terminatur ad sensum, quia concludit particulare, quod
+directe per sensum cognoscitur; et per quamdam applicationem, seu reflexionem, ratio demonstrans usque ad
+particulare producitur. Cum igitur intellectus sit potior sensu, sequitur quod demonstratio universalis potior sit
+quam particularis. Ultimo epilogando concludit hoc esse manifestum per omnia supra dicta.
+|+39 Lectio 39
+
+63
+
+

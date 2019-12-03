@@ -1,0 +1,42 @@
+De scientia Dei
+Printed Source: Die Philosophischen Werke des Robert Grosseteste, Bischofs von Lincoln (Münster i. W.,
+Aschendorff, 1912.), pp. 145 - 147.
+INC: Si Deus scit antichristum esse vel fuisse vel fore, antichristus est vel fuit vel erit.
+EXPL: Deus enim, dicitur esse in tempore, quia nulli tempore deest, vel quia est in simplicitate aeternitatis, a qua
+fluit omne tempus secundum illud: "Qui tempus ab aevo ire iubes".
+pp. 145 - 146: Si Deus scit antichristum esse vel fuisse vel fore, antichristus est vel fuit vel erit.Sed antecedens
+est necessarium. Ergo et consequens est necessarium. Si autem antecedens est contingens, accidit permutationem
+aut deceptionem posse cadere in Deum. Et etiam si consequens fuerit contingens, cum sit convertibile cum
+antecedente, alia inconvenientia videntur accidere: si enim antichristus erit, Deus scit illud, aut aliquid latet eum,
+quod est inconveniens. Si vero scit illud, et illud est contingens, quia est contingens, quod potest evenire, quod
+numquam sit: accidente ergo illo, cum Deus non sciat falsa, Deus non sciet antichristum esse vel fuisse vel fore,
+et ita possibile est, Deum non scire, quod scit; et accidit ei permutatio, aut, si permanet in opinione priori, accidit
+ei deceptio, quod absit. Posito per impossibile, quod cursum Socratis cras futurum nunc viderem praesentem, in
+me statim verum et necessarium esset, me vidisse cursum Socratis futurum. Et tamen cursus Socratis adhoc esset
+contingens. Similiter cum omnia ab aeterno fuerint Deo praesentia, nonne necesse est, ipsum scire, quae in se
+ipsis sunt futura et contingentia, et eius scientiam de permutationibus esse impermutabilem? Et cum non possit
+falli in sua scientia et ex sua scientia sequitur esse rerum et e contrario. Quis dubitat ex necessario sequi
+contingens et e contrario a destructione contingentis ex contingenti impossibile? Concedendum est igitur ex
+necessario sequi contingens et ex contingenti impossibile. Sed necessitas est duplex: una, quae cogit rem ad esse
+et est necessitas antecedens; alia, quae sequitur esse rei et non cogit rem ad esse et est necessitas consequens.
+Necessitas enim motus solaris et lunaris cogit eclipsim ad esse. Sed necessitas huiusmodi: me vidisse heri
+Socratem currere, non cogit Socratem ad currendum, sed consecuta est cursum Socratis.
+p. 146: Item quod necessarium est, incessanter est. Sed incessanter esse aut est in omni tempore esse, aut in
+simplicitate aeternitatis esse. Necessarium itaque, quod cogit rem ad esse, incessanter erit in omni tempore, et
+non potest antecedere ad contingens. Necessarium autem, quod consequitur esse rei et cuius incessanter esse est
+in simplicitate aeternitatis, necessario antecedit ad contingens, ut Deum scire, antichristum fore est necessarium.
+Ex quo sequitur antichristum fore, quod est contingens. Et iterum ex hoc: "antichristum non fore", quod est
+contingens, sequitur Deum non scire antichristurn fore, quod est impossibile.
+p. 146: Quod autem dicitur in logica, quod ex necessario non sequitur contingens et ex contingente non sequitur
+impossibile, intelligendum est de contingente et necessario et impossibili, quorum una est mensura, verbi gratia,
+ut necessarii mensura sit tempus secundum suam universalitatem, sicut est contingentis secundum suam partem.
+p. 146: Cum autem per mensurationem aeternitatis infinitae imaginatur mensuratum a temporis totalitate, accidit
+nobis ab hac imaginatione deceptio, a qua non possumus absolvi, donec mentis oculus purgatus a temporis
+compositione ascendat ad contemplationem simplicis aeternitatis.
+p. 147: Et nota, quod aliter dicitur solem moveri in omni tempore et Deum esse in omni tempore.Deus enim,
+dicitur esse in tempore, quia nulli tempore deest, vel quia est in simplicitate aeternitatis, a qua fluit omne tempus
+secundum illud: "Qui tempus ab aevo ire iubes".
+
+1
+
+

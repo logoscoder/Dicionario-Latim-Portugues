@@ -1,0 +1,57 @@
+vel significat totam essentiam subiecti, sicut definitio: et hoc significat cum dicit: quod vere illud est; vel
+significat partem essentiae, sicut genus, vel differentia: et hoc significat cum dicit; aut quod vere illud aliquid.
+Alio modo, et melius, ut ostendatur distinctio ex parte subiecti, quod quandoque est convertibile cum praedicato
+essentiali, sicut definitum cum definitione: et hoc significat cum dicit: quod vere illud est; quandoque vero est
+pars subiectiva praedicati, sicut homo animalis: et hoc significat cum dicit: aut quod vere illud aliquid.
+Homo enim aliquod animal est. Sed illa quae non significant substantiam, sed dicuntur de aliquo subiecto, quod
+quidem subiectum nec vere, idest essentialiter, est illud praedicatum, neque aliquid eius; omnia huiusmodi
+praedicata sunt accidentalia.
+|#8 Deinde cum dicit: ut de homine est album etc., manifestat praemissam differentiam per exempla: et dicit
+quod cum dicimus, homo est albus, praedicatum illud est accidentale, quia homo non est quod vere album est,
+idest esse album non est essentia hominis; neque quod vere album aliquid, ut supra expositum est. Sed cum
+dicitur, homo est animal, forsan homo est quod vere est animal: animal enim significat essentiam hominis, quia
+illud ipsum quod est homo, est essentialiter animal. Et quamvis illa, quae non significant substantiam, sint
+accidentia, non tamen per accidens praedicantur. Praedicantur enim de quodam subiecto non propter aliquod
+aliud subiectum: puta cum dico, homo est albus, praedicatur album de homine, non ea ratione, quod aliquod
+aliud subiectum sit album, ratione cuius homo dicatur albus; sicut supra dictum est in his, quae praedicantur per
+accidens.
+|#9 Deinde cum dicit: species enim gaudeant etc., excludit quamdam obviationem. Posset enim aliquis dicere
+quod praedicata, quae significant substantiam, non sunt vere et essentialiter id, de quo praedicantur, vel aliquid
+eius: neque accidentia, quae sunt in individuis sicut in subiectis, conveniunt huiusmodi communibus praedicatis
+essentialibus; quia huiusmodi praedicata universalia significant quasdam essentias semper separatas per se
+subsistentes, sicut Platonici dicebant.
+Sed ipse respondet quia, si supponantur species, idest ideae, esse, debent gaudere, quia secundum Platonicos
+habent aliquod nobilius esse, quam res nobis notae naturales. Huiusmodi enim res sunt particulares et materiales,
+illae autem sunt universales et immateriales. Sunt enim quaedam praemonstrationes respectu naturalium, idest
+quaedam exemplaria horum: ut accipiantur hic monstra vel praemonstrationes sicut praemonstratur aliquid ad
+aliquid probandum. Quia ergo sunt praemonstrationes vel exemplaria rerum naturalium, necesse est quod in istis
+rebus naturalibus inveniantur aliquae participationes illarum specierum, quae pertinent ad essentiam harum
+rerum naturalium. Et ideo si sint huiusmodi species separatae, sicut Platonici posuerunt, nihil pertinent ad
+rationem praesentem. Nos enim intendimus de huiusmodi rebus, de quibus in nobis scientia per demonstrationem
+acquiritur. Et huiusmodi sunt res in natura existentes nobis notae, de quibus demonstrationes fiunt. Et ideo si
+detur quod animal sit quoddam separatum, quasi praemonstratio existens animalium naturalium, tunc cum dico,
+homo est animal, secundum quod hac propositione utimur in demonstrando, ly animal significat essentiam rei
+naturalis, de qua fit demonstratio.
+|+34 Lectio 34
+|#1 Praemissis his, quae necessaria sunt ad propositum demonstrandum, de distinctione praedicatorum ad
+invicem, hic accedit ad propositum ostendendum, scilicet quod non procedatur in praedicatis in infinitum. Et
+dividitur haec pars in partes duas, secundum duos modos quibus ostendit propositum.
+Secunda pars incipit ibi: adhuc autem alius etc.. Circa primum duo facit: primo, ostendit quod non est procedere
+in infinitum in praedicatis per modum circulationis; secundo, quod non procedatur in infinitum in eis secundum
+rectitudinem in sursum neque in deorsum; ibi: sed utique quod neque in sursum etc.. Circa primum tria facit:
+primo, praemissis suppositis, addit quaedam adhuc necessaria ad propositum ostendendum; secundo, ex his et
+aliis praemissis concludit propositum; ibi: impossibile est aeque praedicari etc.; tertio, probat; ibi: aut enim sicut
+substantia etc..
+|#2 Primo ergo proponit duo: quorum unum est, quia cum praedicatum, quod significat accidens, significet
+aliquod genus accidentis, puta qualitatem, non potest esse quod duo se habeant hoc modo ad invicem, quod
+primum sit qualitas secundi, et secundum sit qualitas primi; alia est enim ratio qualitatis, et eius cui qualitas
+inest.
+Secundum est, quod universaliter non est possibile quod qualitas habeat quamcunque aliam qualitatem sibi
+inhaerentem; quia nullum accidens est subiectum alterius accidentis per se loquendo.
+Soli enim substantiae convenit proprie ratio subiecti.
+|#3 Deinde cum dicit: impossibile est aeque etc., proponit, quasi ex praemissis concludens, quod intendit
+probare, et dicit: si ista sunt vera, quae praemissa sunt, impossibile est quod fiat mutua praedicatio ad invicem
+sic, idest secundum aliquem praedictorum modorum. Non autem ita hoc dicitur, quin contingat vere praedicari
+53
+
+

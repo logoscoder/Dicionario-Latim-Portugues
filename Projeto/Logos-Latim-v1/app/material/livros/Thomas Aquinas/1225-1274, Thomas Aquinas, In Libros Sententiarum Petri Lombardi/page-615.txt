@@ -1,0 +1,60 @@
+|+d24.q2 Distinctio 24, Quaestio 2
+|a0 Prologus
+Deinde quaeritur de virtutibus libero arbitrio annexis; et quaeruntur quatuor: 1 de sensualitate, quid sit; 2 de
+superiori et inferiori parte rationis; 3 de synderesi; 4 de conscientia.
+|a1 Articulus 1: Utrum notificatio sensualitatis posita in littera sit conveniens.
+AG1
+Ad primum sic proceditur. Videtur quod inconvenienter notificetur in littera sensualitas. Differt enim sensualitas
+a ratione, ut in littera dicitur.
+Sed inferior portio rationis est quaedam vis ex qua procedit appetitus rerum ad corpus pertinentium: quia
+temporalibus administrandis intendit, ut in littera dicitur. Ergo inconvenienter per haec sensualitas describitur.
+AG2
+Praeterea, ut in littera dicitur, quidquid commune cum bestiis habemus, hoc ad sensualitatem pertinet. Sed vires
+sensitivae apprehensivae nobis pecoribusque communes sunt. Ergo ad sensualitatem pertinent. Sed ex
+apprehensivis non procedit appetitus et motus. Ergo inconvenienter per haec sensualitas describitur.
+AG3
+Praeterea, secundum Philosophum in 2 elenc., eadem est ratio rei et unius rei. Sed sensualitas non est una vis
+animae: quia si colligit apprehensivas et appetitivas, constat quod plures sunt: similiter etiam si colligit
+appetitivas tantum, quia appetitus sensibilis, qui nobis et pecoribus communis est, in duo dividitur, scilicet in
+desiderium et in animum, ut in 3 de anima dicitur, sive irascibilem et concupiscibilem, quod idem est. Ergo
+videtur quod inconvenienter dicat sensualitatem esse vim animae quamdam.
+AG4
+Praeterea, unius virtutis est unus actus. Sed ipsi sensualitati duos actus attribuit, idest appetitum et motum. Ergo
+inconvenienter eam describit sicut unam quamdam vim.
+AG5
+Praeterea, si sensualitas est una vis, non potest esse nisi quod sit appetitus sensibilis. Sed appetitus non est ex
+appetitu. Ergo videtur quod inconvenienter dicat sensualitatem esse ex qua est appetitus rerum ad corpus
+pertinentium.
+CO
+Respondeo dicendum, quod differt sensualitas et sensibilitas; sensibilitas enim omnes vires sensitivae partis
+comprehendit, tam apprehensivas de foris, quam apprehensivas de intus, quam etiam appetitivas; sensualitas
+autem magis proprie illam tantum partem nominat per quam movetur animal in aliquod appetendum vel
+fugiendum. Sicut autem est in intelligibilibus, quod illud quod est apprehensum, non movet voluntatem nisi
+apprehendatur sub ratione boni vel mali, propter quod intellectus speculativus nihil dicit de imitando, vel
+fugiendo, ut in 3 de anima dicitur; ita etiam est in parte sensitiva, quod apprehensio sensibilis non causat motum
+aliquem, nisi apprehendatur sub ratione convenientis vel inconvenientis: et ideo dicitur in 2 de anima, quod ad ea
+quae sunt in imaginatione hoc modo nos habemus ac si essemus considerantes aliqua terribilia in picturis, quae
+passionem non excitarent vel timoris vel alicujus hujusmodi. Vis autem apprehendens hujusmodi rationes
+convenientis et non convenientis, videtur virtus aestimativa, per quam agnus fugit lupum et sequitur matrem;
+quae hoc modo se habet ad appetitum partis sensibilis, sicut se habet intellectus practicus ad appetitum
+voluntatis; unde, proprie loquendo, sensualitas incipit ex confinio aestimativae et appetitivae consequentis, ut
+hoc modo se habeat sensualitas ad partem sensitivam, sicut se habet voluntas et liberum arbitrium ad partem
+intellectivam. Hoc autem conveniens quod sensualitatem movet, aut ratio suae convenientiae, aut est apprehensa
+a sensu, sicut sunt delectabilia secundum singulos sensus, quae animalia persequuntur: aut est non apprehensa a
+sensu; sicut inimicitiam lupi neque videndo neque audiendo ovis percipit, sed aestimando tantum: et ideo motus
+sensualitatis in duo tendit: in ea scilicet quae secundum exteriores sensus delectabilia sunt; et hoc est quod
+dicitur, quod ex sensualitate est motus qui intenditur in corporis sensus: aut ad ea quae nociva vel convenientia
+corpori secundum solam aestimationem cognoscuntur; et sic ex sensualitate dicitur esse appetitus rerum ad
+corpus pertinentium.
+RA1
+Ad primum ergo dicendum, quod ex ratione inferiori est etiam motus et appetitus eorum quae ad corpus
+pertinent; non tamen sicut ex proximo principio, sed sicut ex remoto, inquantum vires sensibiles per imperium
+movet, quae sunt aliqualiter obedientes rationi, ut in 1 ethic.
+Dicitur. Vel dicendum, quod ratio hujusmodi motum causat, non concernendo intentiones particulares et
+materiae concretas, sicut sensualitas; sed magis universales, et a materiae appendiciis separatas.
+RA2
+Ad secundum dicendum, quod ad sensualitatem aliquid pertinet dupliciter: vel sicut existens de essentia ejus; et
+sic videtur tantum appetitivam partem continere: vel sicut praeambulum ad ipsum, sicut et ratio ad liberum
+615
+
+

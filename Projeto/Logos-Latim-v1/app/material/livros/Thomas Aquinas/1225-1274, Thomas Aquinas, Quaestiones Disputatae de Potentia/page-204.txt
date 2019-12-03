@@ -1,0 +1,62 @@
+Unde sicut accidit aedificatori quod domus sit, ita Deo quod creatura. Omne enim dicimus per accidens se habere
+ad aliquid, sine quo illud esse potest.
+|a9 Articulus 9
+TTA
+Nono quaeritur utrum huiusmodi relationes, quae sunt inter creaturas et Deum, sint realiter in ipsis creaturis.
+TTB
+Et videtur quod non.
+AG1
+Aliquae enim relationes inveniuntur in quibus ex nulla parte relatio aliquid realiter ponit, sicut Avicenna dicit de
+relatione quae est inter ens et non ens. Sed nulla extrema relationis magis ad invicem distant quam Deus et
+creatura. Ergo ista relatio non ponit aliquid realiter ex parte neutra.
+AG2
+Praeterea, omne illud negandum est ad quod sequitur processus in infinitum. Sed si in creatura relatio ad Deum
+sit res aliqua, erit procedere in infinitum: relatio enim illa aliquid creatum erit, si est res quaedam; et ita erit alia
+relatio ipsius ad Deum pari ratione, et sic in infinitum. Non ergo ponendum est quod in creatura ad Deum relatio
+sit res aliqua.
+AG3
+Praeterea, nihil refertur nisi ad determinatum et unum; unde duplum non refertur ad quodlibet, sed ad dimidium,
+et pater ad filium, et sic de aliis. Oportet ergo secundum differentiam eorum quae referuntur, esse differentias
+eorum ad quae fit relatio. Sed Deus est unum ens simpliciter. Ergo non potest ad ipsum fieri relatio omnium
+creaturarum, aliqua relatione reali.
+AG4
+Praeterea, secundum hoc, creatura refertur ad Deum secundum quod ab ipso procedit.
+Sed creatura procedit a Deo secundum ipsam substantiam. Ergo secundum suam substantiam refertur ad Deum,
+et non secundum aliquam relationem supervenientem.
+AG5
+Praeterea, relatio est aliquid medium inter extrema relationis. Sed nihil potest esse realiter medium inter Deum et
+creaturam immediate a Deo creatam. Ergo relatio ad Deum non est aliqua res in creatura.
+AG6
+Praeterea, Philosophus dicit, quod si omnia apparentia essent vera, res sequeretur opinionem nostram et sensum.
+Sed constat quod omnes creaturae sequuntur aestimationem, sive scientiam, sui creatoris. Ergo creaturae omnes
+substantialiter referuntur ad Deum, et non per aliquam relationem inhaerentem.
+AG7
+Praeterea, inter quae est maior distantia, minus videtur esse relatio. Sed est maior distantia creaturae ad Deum
+quam unius creaturae ad aliam. Non est autem relatio creaturae ad creaturam res aliqua, ut videtur, nam cum non
+sit substantia, oportet quod sit accidens; et ita, quod subiecto insit, et quod ab eo removeri non possit sine
+mutatione subiecti: cuius contrarium supra de relatione est dictum. Ergo nec relatio creaturae ad Deum est res
+aliqua.
+AG8
+Praeterea, sicut ens creatum distat a non ente in infinitum, ita etiam a Deo in infinitum distat. Sed inter ens
+creatum et non ens purum, non est aliqua relatio, ut Avicenna dicit. Ergo nec inter ens creatum et ens increatum.
+SC1
+Sed contra. Est quod Augustinus dicit: quod temporaliter dici incipit Deus quod antea non dicebatur, manifestum
+est relative dici, non tamen secundum accidens Dei, quod ei aliquid acciderit; sed plane secundum accidens eius
+ad quod Deus incipit dici relative. Sed accidens res aliqua in subiecto est. Ergo relatio ad Deum est res aliqua in
+creatura.
+SC2
+Praeterea, omne quod refertur ad aliquid per sui mutationem realiter refertur ad ipsum.
+Sed creatura refertur ad Deum per sui mutationem.
+Ergo realiter refertur ad Deum.
+CO
+Respondeo. Dicendum quod relatio ad Deum est aliqua res in creatura. Ad cuius evidentiam sciendum est, quod
+sicut dicit Commentator in XI metaph., quia relatio est debilioris esse inter omnia praedicamenta, ideo
+putaverunt quidam eam esse ex secundis intellectibus. Prima enim intellecta sunt res extra animam, in quae
+primo intellectus intelligenda fertur. Secunda autem intellecta dicuntur intentiones consequentes modum
+intelligendi: hoc enim secundo intellectus intelligit in quantum reflectitur supra se ipsum, intelligens se
+intelligere et modum quo intelligit.
+Secundum ergo hanc positionem sequeretur quod relatio non sit in rebus extra animam, sed in solo intellectu,
+sicut intentio generis et speciei, et secundarum substantiarum.
+204
+
+

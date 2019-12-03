@@ -1,0 +1,62 @@
+In potentiis ergo animae non est ordo.
+AG3
+Praeterea, in potentiis ordinatis hoc invenitur, quod operatio unius dependet ab operatione alterius. Sed actus
+unius potentiae animae non dependet ab actu alterius, potest enim visus exire in actum absque auditu, et e
+converso.
+Non ergo inter potentias animae est ordo.
+SC
+Sed contra est quod Philosophus, in II de anima, comparat partes sive potentias animae figuris.
+Sed figurae habent ordinem ad invicem. Ergo et potentiae animae.
+CO
+Respondeo dicendum quod, cum anima sit una, potentiae vero plures; ordine autem quodam ab uno in
+multitudinem procedatur; necesse est inter potentias animae ordinem esse. Triplex autem ordo inter eas
+attenditur. Quorum duo considerantur secundum dependentiam unius potentiae ab altera, tertius autem accipitur
+secundum ordinem obiectorum. Dependentia autem unius potentiae ab altera dupliciter accipi potest, uno modo,
+secundum naturae ordinem, prout perfecta sunt naturaliter imperfectis priora; alio modo, secundum ordinem
+generationis et temporis, prout ex imperfecto ad perfectum venitur.
+Secundum igitur primum potentiarum ordinem, potentiae intellectivae sunt priores potentiis sensitivis, unde
+dirigunt eas et imperant eis. Et similiter potentiae sensitivae hoc ordine sunt priores potentiis animae nutritivae.
+Secundum vero ordinem secundum, e converso se habet. Nam potentiae animae nutritivae sunt priores, in via
+generationis, potentiis animae sensitivae, unde ad earum actiones praeparant corpus. Et similiter est de potentiis
+sensitivis respectu intellectivarum. Secundum autem ordinem tertium, ordinantur quaedam vires sensitivae ad
+invicem, scilicet visus, auditus et olfactus. Nam visibile est prius naturaliter, quia est commune superioribus et
+inferioribus corporibus.
+Sonus autem audibilis fit in aere, qui est naturaliter prior commixtione elementorum, quam consequitur odor.
+RA1
+Ad primum ergo dicendum quod alicuius generis species se habent secundum prius et posterius, sicut numeri et
+figurae, quantum ad esse; licet simul esse dicantur inquantum suscipiunt communis generis praedicationem.
+RA2
+Ad secundum dicendum quod ordo iste potentiarum animae est et ex parte animae, quae secundum ordinem
+quendam habet aptitudinem ad diversos actus, licet sit una secundum essentiam; et ex parte obiectorum; et etiam
+ex parte actuum, ut dictum est.
+RA3
+Ad tertium dicendum quod ratio illa procedit de illis potentiis in quibus attenditur ordo solum secundum tertium
+modum.
+Illae autem potentiae quae ordinantur secundum alios duos modos, ita se habent quod actus unius dependet ab
+altera.
+|a5 Articulus 5
+AG1
+Ad quintum sic proceditur. Videtur quod omnes potentiae animae sint in anima sicut in subiecto. Sicut enim se
+habent potentiae corporis ad corpus, ita se habent potentiae animae ad animam.
+Sed corpus est subiectum corporalium potentiarum.
+Ergo anima est subiectum potentiarum animae.
+AG2
+Praeterea, operationes potentiarum animae attribuuntur corpori propter animam, quia, ut dicitur in II de anima,
+anima est quo sentimus et intelligimus primum.
+Sed propria principia operationum animae sunt potentiae.
+Ergo potentiae per prius sunt in anima.
+AG3
+Praeterea, Augustinus dicit, XII super Gen. Ad litt., quod anima quaedam sentit non per corpus, immo sine
+corpore, ut est timor et huiusmodi; quaedam vero sentit per corpus.
+Sed si potentia sensitiva non esset in sola anima sicut in subiecto, nihil posset sine corpore sentire.
+Ergo anima est subiectum potentiae sensitivae; et pari ratione, omnium aliarum potentiarum.
+SC
+Sed contra est quod Philosophus dicit, in libro de somno et vigilia quod sentire non est proprium animae neque
+corporis, sed coniuncti.
+Potentia ergo sensitiva est in coniuncto sicut in subiecto. Non ergo sola anima est subiectum omnium
+potentiarum suarum.
+CO
+
+388
+
+

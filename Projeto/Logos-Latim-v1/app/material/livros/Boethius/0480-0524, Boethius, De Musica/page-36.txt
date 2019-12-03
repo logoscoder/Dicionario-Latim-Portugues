@@ -1,0 +1,62 @@
+enim litteris fiunt in quamlibet partem imminutis, nunc etiam inflexis, tota haec notarum descriptio constituta est. Nos
+uero cauemus aliquid ab antiquitatis auctoritate transuertere. Erunt igitur priores ac superiores notulae dictionis, id est
+uerborum, secundae uero atque inferiores percussionis. Proslambanomenos qui acquisitus dici potest, Z non integrum et
+tau iacens [signum]. Hypate hypaton, quae est principalis principalium, L conuersum et [Gamma] rectum [signum].
+Parhypate hypaton, id est subprincipalis principalium, B non integrum, et [Gamma] supinum [signum].
+Hypaton enharmonios, quae est principalium enharmonios, V supinum, et [Gamma] conuersum, [1252] retro habens
+uirgulam [signum]. Hypate chromaticae, quae est principalium extenta, [signum] supinum babens lineam et [Gamma]
+conuersum duas habens lineas [signum]. Hypaton diatonos, quae est principalium extenta, [Phi] Graecum et digammon
+[Phi]F. Hypate meson, quae est principalis mediarum, C et C CC Parhypate meson, quae est subprincipalis mediarum,
+P et C supinum [signum]. Meson enharmonios, quae est mediarum enharmonios, [Pi] Graecum C et C conuersum
+[signum]
+Meson chromaticae, quae est mediarum chromatica, [Pi] Graecum habens uirgulam, et C conuersum per
+medium habens uirgulam C Meson diatonos, quae est mediarum extenta, M Graecum [Pi] [Pi] Graecum diductum
+[signum] Mese, quae est media. I et A iacens [signum]. Trite synemmenon, quae est tertia coniunctarum, [Phi] et
+[Lambda] supinum [signum]. Synemmenon enharmonios, quae est coniunctarum enharmonios, H Graecum et
+[Lambda] iacens conuersum per medium habens uirgulam [signum]. Synemmenon chromaticae, quae est coniunctarum
+chromatica H Graecum habens uirgulam, et [Lambda] conuersum habens uirgulam [signum]. Synemmenon diatonos,
+quae est coniunctarum extenta L et N [signum]. Nete synemmenon, quae est ultima coniunctarum, M quadratum
+supinum et Z [signum]. Paramese, quae est sub media, Z et [Pi] Graecum iacens [signum]. Trite diezeugmenon, quae
+tertia diuisarum, E quadratum et [Pi] Graecum supinum [signum]. Diezeugmenon enharmonios, quae est diuisarum
+enharmonios, [Delta] et [Pi] Graecum iacens conuersum [signum]. Diezeugmenon chromaticae, quae est diuisarum
+chromatica, [Delta] habens uirgulam et [Pi] Graecum iacens conuersum, habens lineam angularem. [signum]
+Diezeugmenon diatonos, quae est diuisarum diatonos, [Omega] quadraum supinum et [signum]. Nete diezeugmenon,
+quae est ultima diuisarum, [Phi] iacens et N inuersum diductum [signum] Trite hyperboleon, quae est tertia
+excellentium, [Gamma] deorsum respiciens dextrum et semi [Delta] sinistrum sursum respiciens [signum].
+Hyperboleon enharmonios, quae est excellentium enharmonios T supinum et semi A dextrum supinum [signum].
+Hyperboleon chromaticae, quae est excellentium chromatica, T supinum habens lineam et semi A dextrum supinum
+habens retro lineam [signum]. Hyperboleon diatonos, quae est excellentium extenta, M Graecum habens acutam et [Pi]
+diductum habens acutam [signum]. Nete hyperboleon, I habens acutam, et A iacens habens auctam [signum].
+[1253-54] [PLLXIII:1253-54; text: Proslambanomenos. Hypate hypaton. Parhypate hypaton. Lychanos
+hypaton enharmonios. Lychanos hypaton chromaticae. Lychanos hypaton diatonos. Hypate meson. Parhypate meson.
+Lychanos meson enharmonios. Lychanos meson chromaticae. Lychanos meson diatonos. Mese. Trite synemmenon.
+Paranete synemmenon enharmonios. Paranete synemmenon chromaticae. Paranete synemmenon diatonos. Nete
+synemmenon extensa. Nete synemmenon ultima. Paramese, Trite diezeugmenon. Paranete diezeugmenon enharmonios.
+Paranete diezeugmenon chromaticae. Paranete diezeugmenon diatonos. Nete diezeugmenon. Trite hyperboleon.
+Paranete hyperboleon enharmonios. Paranete hyperboleon chroma icae. Paranete hyperboleon diatonos. Nete
+hyperboleon.] [BOEDIM4 06GF]
+[1253] IV
+Monochordi regularis partitio in genere diatonico.
+Sed iam tempus est ad regularis monochordi diuisionem uenire. De qua re illud est praedicendum, quod siue in
+mensura nerui, siue in numeris, atque in eorum proportione statuatur describenda diuisio, maius spatium chordae et
+maior numeri multitudo sonos grauiores efficiet. At si fuerit nerui longitudo contractior, et in numeris aeque non multa
+pluralitas, acutiores uoces edi necesse est. Atque ex hac comparatione, quantum unaquaeque fuerit uel longior uel
+plurium numerorum, aliaque uel contractior, uel paucioribus signata numeris, tanto uel grauior uel acutior inuenitur.
+Nec lectorem res illa conturbet, quod intendentes saepe spatia proportionum numero maiore signauimus, remittentes
+uero minore, cum intensio acumen faciat, remissio grauitatem. Illic enim tantum proportionum spatia signabamus, nihil
+de grauitatis aut acuminis proprietate laborantes, atque ideo et in acumen maioribus numeris intendimus, et minoribus
+in grauitatem saepe remisimus. Hic uero ubi chordarum spatia sonosque metiemur, naturam rerum sequi necesse est,
+maiorique longitudini chordarum ex qua grauitas existit, ampliores, minori uero ex qua uocis acumen nascitur, dare
+breuiores. Sit chorda intensa A B, huic aequa sit regula quae propositis partitionibus diuidatur, ut, ea regula chorda
+apposita, eaedem diuisiones in nerui longitudine signentur quas ante assignaueramus in regula. Nos uero nunc
+diuidimus ita, quasi ipsam chordam et non regulam partiamur. Diuidatur igitur A B in quatuor partes, per tria puncta
+quae sunt C D E. Erit igitur tota quidem A B dupla ab his quae sunt D B, A D; sigillatim uero A D, D B duplae sunt ab
+his quae sunt A C, C D, D E, E B. Erit igitur A B quidem grauissima, [1254] id est proslambanomenos, D B autem
+mese. Est enim dimidia totius, et sicut A B ab ea quae est B D dupla est spatio, ita B D ab ea quae est A B, dupla est
+acumine. Nam, ut superius dictum est, spatii et acuminis semper ordo conuersus est. Nam tanto est chorda maior in
+acumine, quanto fuerit minor in spatio, quocirca erit et E B nete hyperboleon quoniam E B eius quae est D B, dimidia
+quidem in quantitate, dupla uero in acumine. Rursus quoniam eadem E B eius quae est A B quarta pars est in spatio,
+quadrupla erit ab eadem in acumine. Erit igitur (ut dictum est) nete hyperboleon dupla in acumine ab ea quae est mese.
+Mese autem dupla in acumine ab ea quae est proslambanomenos. Nete uero hyperboleon quadrupla in acumine ab ea
+
+

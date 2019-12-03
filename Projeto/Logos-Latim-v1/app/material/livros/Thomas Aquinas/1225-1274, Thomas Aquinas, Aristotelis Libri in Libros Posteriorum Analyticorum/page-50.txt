@@ -1,0 +1,59 @@
+physicorum, quod scilicet consequenter se habet, cum tangat; et hoc videbatur in praedicta probatione supponi,
+scilicet quod a praedicaretur de aliquo medio quasi habito, idest immediate sequenti.
+Sed ille qui ponit media infinita, dicet quod hoc non contingit accipere. Dicit enim quod inter quoscunque
+terminos acceptos est aliquod medium.
+|#5 Sed Philosophus dicit quod nihil differt, sive sic accipiantur infinita media quod sint habita ad invicem,
+sicut contingit in discretis; puta, in civitate domus domui est habita, et in numeris unitas unitati: sive non possit
+inveniri in mediis aliquid habitum, sed semper inter duo media sit aliquod medium accipere; sicut accidit in
+continuis, in quibus inter quaelibet duo signa, sive inter duo puncta, semper est aliquod medium accipere. Et
+quod hoc nihil differat ad propositum, sive uno modo, sive alio, sic manifestat subdens: quia supposito quod sint
+infinita media inter a et c, quorum quodlibet vocatur b, quodcunque horum accipio, necesse est quod inter illud et
+a et c sint infinita media, vel non sint infinita respectu alterius eorum. Verbi gratia: ponamus quod media sint
+habita ad invicem, sicut accidit in discretis, et accipiamus aliquod medium quod sit habitum ad ipsum a; necesse
+erit quod inter illud medium et c sint adhuc infinita media. Et similiter si ponantur quaedam finita media inter a
+et illud medium acceptum. Et eadem ratio est si ponatur medium acceptum immediate coniungi ipsi c, vel per
+finita media ab eo distare. Ex quo igitur semper a medio accepto oportet accipere infinita media ad alterum
+extremorum, non differt utrum statim coniungatur alii extremorum, idest sine medio, vel non statim, idest per
+aliqua media: quia etiam si coniungatur uni extremo sine medio, necesse est quod postea inveniantur infinita
+media respectu alterius; et ita semper oportebit, si est infinitum in mediis, quod inveniatur infinitum in
+praedicationibus vel ascendendo vel descendendo, sicut praedicta probatio procedebat.
+|#6 Deinde cum dicit: manifestum est autem etc., ostendit quod si in affirmativis demonstrationibus non
+proceditur in infinitum, neque in privativis in infinitum proceditur; et sic quaestio de demonstrationibus negativis
+reducitur ad quaestionem de affirmativis. Et circa hoc tria facit: primo, proponit quod intendit; secundo, probat
+propositum; ibi: tripliciter enim demonstratur etc.; tertio, excludit quamdam obviationem; ibi: manifestum est
+autem etc.. Dicit ergo primo, quod manifestum erit ex sequentibus, quod si in praedicativa, idest affirmativa
+demonstratione statur utrinque, idest in sursum et deorsum, necesse erit quod stetur in negativa demonstratione.
+Et ad exponendum hoc quod propositum est, dicit: sit ita quod non contingat ab ultimo, idest ab infimo subiecto,
+ire in sursum in infinitum versus praedicata universalia. Et exponit quid est ultimum, scilicet illud quod non inest
+alicui alii tanquam minus particulari, sed aliud sit in illo, et sit illud z. Et sit etiam quod incipiendo a primo
+versus ultimum non procedatur in infinitum. Et exponit quid sit primum illud, scilicet quod praedicatur de aliis,
+et nihil aliud praedicatur de eo, quasi eo universalius; ut sic primum intelligatur universalissimum, ultimum
+autem particularissimum. Si igitur ex utraque parte stetur in demonstrationibus affirmativis, dicit consequens
+esse quod etiam stetur in demonstrationibus negativis.
+|#7 Deinde cum dicit: tripliciter enim etc., probat propositum. Et primo in prima figura; secundo in secunda; ibi:
+iterum sit b quidem etc.; tertio in tertia; ibi: tertius autem est etc.. In tribus enim figuris contingit negativam
+concludi. Dicit ergo primo quod tripliciter potest demonstrari propositio negativa, per quam significatur aliquid
+non esse. Uno quidem modo in prima figura, secundum hunc modum, quod b insit c universaliter, minori
+existente universali affirmativa; a vero insit nulli b, maiori existente universali negativa. Quia igitur supponitur
+quod in affirmativis stetur et in sursum et in deorsum, necesse est quod ista propositio, quae est b-c, affirmativa,
+si non sit immediata, et quodcunque aliud spatium accipitur, existente aliquo medio inter b et c, necesse erit
+reducere in immediata; quia ista distantia, quae attenditur secundum habitudinem medii ad minorem
+extremitatem, est affirmativa, in qua supponitur esse status. Si autem accipiamus alterum spatium, quod est inter
+b et a, manifestum est quod, si haec propositio, nullum b est a, non est immediata, necesse est quod a removeatur
+ab aliquo alio per prius quam a b, et illud sit d; quod si accipiatur ut medium inter a et b, necesse est quod
+praedicetur universaliter de b, quia oportet minorem esse affirmativam. Et iterum si haec non sit immediata,
+nullum d est a, oportet quod a negetur ab aliquo alio per prius quam a d, puta sit illud e; quod eadem ratione
+oportebit universaliter praedicari de d. Quia ergo ascendendo statur in affirmativis, ut supponitur, sequitur per
+consequens quod sit devenire ad aliquid, de quo primo et immediate negetur ipsum a. Alioquin adhuc
+procederetur amplius in affirmativis, sicut ex praedictis patet.
+|#8 Deinde cum dicit: iterum si b quidem etc., probat idem in negativa, quae concluditur in secunda figura. Sit
+enim ita quod b, quod est medium, praedicetur universaliter de a et negetur universaliter de c, et ex his
+concludatur quod, nullum c sit a. Si autem negativam iterum demonstrari oporteat, propter hoc quod est mediata,
+necesse est quod vel demonstretur in prima figura, de quo modo demonstrationis iam ostensum est quod habet
+statum, si in affirmativis sit status; aut oportet quod demonstretur per hunc modum, idest per secundam figuram;
+aut per tertium, idest per tertiam figuram. Dictum est autem in prima figura, quod habet statum in negativis, si sit
+status in affirmativis. Sed hoc quidem demonstrabitur nunc quantum ad secundam figuram.
+
+50
+
+

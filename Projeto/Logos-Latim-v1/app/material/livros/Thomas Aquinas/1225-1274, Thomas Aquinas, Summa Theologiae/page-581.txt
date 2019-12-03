@@ -1,0 +1,61 @@
+|q118 Quaestio 118
+|a0 Prologus
+Deinde considerandum est de traductione hominis ex homine.
+Et primo, quantum ad animam; secundo, quantum ad corpus.
+Circa primum quaeruntur tria. Primo, utrum anima sensitiva traducatur cum semine. Secundo, utrum anima
+intellectiva.
+Tertio, utrum omnes animae fuerint simul creatae.
+|a1 Articulus 1
+AG1
+Ad primum sic proceditur. Videtur quod anima sensitiva non traducatur cum semine, sed sit per creationem a
+Deo.
+Omnis enim substantia perfecta quae non est composita ex materia et forma, si esse incipiat, hoc non est per
+generationem, sed per creationem, quia nihil generatur nisi ex materia. Sed anima sensitiva est substantia
+perfecta, alioquin non posset movere corpus, et cum sit forma corporis, non est ex materia et forma composita.
+Ergo non incipit esse per generationem, sed per creationem.
+AG2
+Praeterea, principium generationis in rebus viventibus est per potentiam generativam; quae, cum numeretur inter
+vires animae vegetabilis, est infra animam sensitivam. Nihil autem agit ultra suam speciem. Ergo anima sensitiva
+non potest causari per vim generativam animalis.
+AG3
+Praeterea, generans generat sibi simile, et sic oportet quod forma generati sit actu in causa generationis. Sed
+anima sensitiva non est actu in semine, nec ipsa nec aliqua pars eius, quia nulla pars animae sensitivae est nisi in
+aliqua parte corporis; in semine autem non est aliqua corporis particula, quia nulla particula corporis est quae
+non fiat ex semine, et per virtutem seminis. Ergo anima sensitiva non causatur ex semine.
+AG4
+Praeterea, si in semine est aliquod principium activum animae sensitivae, aut illud principium manet, generato
+iam animali; aut non manet. Sed manere non potest. Quia vel esset idem cum anima sensitiva animalis generati,
+et hoc est impossibile, quia sic esset idem generans et generatum, faciens et factum.
+Vel esset aliquid aliud, et hoc etiam est impossibile, quia supra ostensum est quod in uno animali non est nisi
+unum principium formale, quod est una anima. Si autem non manet, hoc etiam videtur impossibile, quia sic
+aliquod agens ageret ad corruptionem sui ipsius, quod est impossibile.
+Non ergo anima sensitiva potest generari ex semine.
+SC
+Sed contra, ita se habet virtus quae est in semine, ad animalia quae ex semine generantur, sicut se habet virtus
+quae est in elementis mundi, ad animalia quae ex elementis mundi producuntur, sicut quae ex putrefactione
+generantur. Sed in huiusmodi animalibus animae producuntur ex virtute quae est in elementis; secundum illud
+Gen. I, producant aquae reptile animae viventis.
+Ergo et animalium quae generantur ex semine, animae producuntur ex virtute quae est in semine.
+CO
+Respondeo dicendum quod quidam posuerunt animas sensitivas animalium a Deo creari.
+Quae quidem positio conveniens esset, si anima sensitiva esset res subsistens, habens per se esse et operationem.
+Sic enim, sicut per se haberet esse et operationem, ita per se deberetur ei fieri. Et cum res simplex et subsistens
+non possit fieri nisi per creationem, sequeretur quod anima sensitiva procederet in esse per creationem. Sed ista
+radix est falsa, scilicet quod anima sensitiva per se habeat esse et operationem, ut ex superioribus patet, non enim
+corrumperetur, corrupto corpore.
+Et ideo, cum non sit forma subsistens, habet se in essendo ad modum aliarum formarum corporalium, quibus per
+se non debetur esse, sed esse dicuntur inquantum composita subsistentia per eas sunt. Unde et ipsis compositis
+debetur fieri. Et quia generans est simile generato, necesse est quod naturaliter tam anima sensitiva, quam aliae
+huiusmodi formae, producantur in esse ab aliquibus corporalibus agentibus transmutantibus materiam de
+potentia in actum, per aliquam virtutem corpoream quae est in eis.
+Quanto autem aliquod agens est potentius, tanto potest suam actionem diffundere ad magis distans, sicut quanto
+aliquod corpus est magis calidum, tanto ad remotius calefactionem producit. Corpora igitur non viventia, quae
+sunt inferiora naturae ordine, generant quidem sibi simile, non per aliquod medium, sed per seipsa; sicut ignis
+per seipsum generat ignem.
+Sed corpora viventia, tanquam potentiora, agunt ad generandum sibi simile et sine medio, et per medium. Sine
+medio quidem, in opere nutritionis, in quo caro generat carnem, cum medio vero, in actu generationis, quia ex
+anima generantis derivatur quaedam virtus activa ad ipsum semen animalis vel plantae, sicut et a principali
+agente derivatur quaedam vis motiva ad instrumentum.
+581
+
+

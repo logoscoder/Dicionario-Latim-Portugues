@@ -1,0 +1,59 @@
+Praeterea, universale et particulare differunt, sicut commune et proprium. Sed in divinis invenitur commune et
+proprium; quia essentia est communis, et relatio est propria personae. Ergo est ibi universale et particulare.
+AG3
+Item, supra, dist. 5, ex verbis Hilarii habitum est, quod filius Dei generis sui potestatem in habitu assumptae
+humanitatis exercuit. Genus autem suum nominat naturam suam. Ergo videtur quod essentia sit genus et
+universale respectu personarum.
+AG4
+Praeterea, scientia est species cognitionis.
+Sed de Deo utrumque dicitur, scilicet quod cognoscit et scit. Ergo videtur quod in divinis sit totum universale.
+SC1
+Contra, ubicumque est universale et particulare, particularia sunt potentia in suis universalibus sicut differentiae
+in genere. Sed in divinis non est aliquid in potentia. Ergo non est ibi universale et particulare.
+SC2
+Praeterea, omne superius est pars integralis constituens definitionem inferioris; unde dicit Porphyrius, quod
+genus se habet ad similitudinem materiae, et differentia ad similitudinem formae, et species ad similitudinem
+compositi.
+Sed in divinis non est totum integrale et pars. Ergo etiam nec totum universale et pars sibi respondens.
+CO
+Respondeo dicendum, quod in divinis non potest esse universale et particulare. Et hujus ratio potest quadruplex
+assignari: primo, quia, secundum Avicennam, ubicumque est genus et species, oportet esse quidditatem
+differentem a suo esse, ut prius, dist. 8, quaest. 1, art. 1, dictum est; et hoc in divinis non competit; secundo, quia
+essentia universalis non est eadem numero in suis inferioribus, sed secundum rationem tantum; essentia autem
+divina est eadem numero in pluribus personis; tertio, quia universale exigit pluralitatem in his quae sub ipso
+continentur vel in actu vel in potentia: in actu sicut est in genere, quod semper habet plures species; in potentia
+sicut in aliquibus speciebus, quarum forma, quantum est de se, possibilis est inveniri in multis, cum omnis forma
+sit de se communicabilis; sed quod inveniatur tantum in uno, est ex parte materiae debitae illi speciei, quae tota
+adunatur in uno individuo, ut patet in sole, qui constat ex tota sua materia; et ista pluralitas est secundum
+numerum, qui numerus simpliciter est fundatus in substantiali distinctione: tres autem personae non numerantur
+tali numero, ut dictum est, art. Antec., et ideo essentia non habet rationem universalis; quarto, quia particulare
+semper se habet ex additione ad universale. In divinis autem, propter summam simplicitatem, non est possibilis
+additio, et ideo nec universale nec particulare.
+RA1
+Ad primum igitur dicendum, quod modus praedicandi proportionatur ipsis rebus de quibus fit praedicatio; cum,
+secundum Hilarium, sermo sit rei subjectus. Unde sicut nulla res in creaturis invenitur similis ex toto unitati
+essentiae in tribus personis, sed secundum aliquid: ita etiam nullus modus praedicandi in creaturis est similis
+huic modo praedicandi quo essentia vel Deus de tribus personis praedicatur.
+Dico igitur, quod secundum id quod tactum est in objectione, habet similitudinem cum modo praedicandi totius
+universalis, sed differt secundum alia quae supra, in corp. Art., dicta sunt.
+RA2
+Ad secundum dicendum, quod commune, quantum est de se, non determinat rei communitatem, vel rationis,
+sicut universale; et ideo essentia potest dici communis, non autem universalis.
+RA3
+Ad tertium dicendum, quod Hilarius loquitur ad similitudinem creaturarum, prout communiter loquendo
+dicimus, genus hominum unum genus esse, secundum quod est multitudo aliquorum se habentium ad unum
+principium; ita etiam dicitur genus divinum ipsa pluralitas personarum, secundum ordinem emanationis ab uno
+principio, qui est pater.
+RA4
+Ad quartum dicendum, quod in creaturis quaedam inveniuntur quae tam secundum rationem generis, quam
+secundum rationem speciei dicunt aliquid perfectionis. Unde attribuitur Deo utrumque secundum propriam
+rationem, sicut patet in cognitione et scientia. Et haec quidem quamvis in creaturis se habeant sicut genus et
+species, tamen in divinis non sic se habent; quia unum, secundum rem nihil addit super alterum, sed solum
+secundum rationem.
+
+|+d19.q5 Distinctio 19, Quaestio 5
+|a0 Prologus
+
+174
+
+

@@ -1,0 +1,63 @@
+|a2 Articulus 2: Utrum ista propositio, solus pater est Deus, sit vera.
+AG1
+Ad secundum sic proceditur. Videtur quod haec sit vera: solus pater est Deus, vel, solus filius est Deus. Sicut
+enim esse Deum convenit tribus personis, ita et esse altissimum. Sed de filio legitur: tu solus altissimus. Ergo
+potest dici: solus filius est Deus.
+AG2
+Praeterea, haec, solus pater est Deus, habet duas expositivas: unam indefinitam, vel singularem, quae convertitur
+sicut particularis affirmativa, scilicet haec: pater est Deus; aliam negativam universalem, scilicet: nullus alius a
+patre est Deus; et utraque harum convertitur simpliciter. Sed haec est vera in aliquo sensu: solus Deus est pater.
+Ergo a simplici conversa haec erit vera: solus pater est Deus.
+AG3
+Praeterea, si haec est falsa: solus pater est Deus, hoc non erit nisi quia per dictionem exclusivam excluduntur
+aliae personae divinae a participatione praedicati. Sed per dictionem exclusivam adjunctam patri non
+excluduntur filius et spiritus sanctus. Ergo haec est simpliciter vera: solus pater est Deus. Media probatur per
+auctoritatem Augustini in littera qui dicit: si de solo patre praedicta dicerentur, non tamen excluderetur filius nec
+spiritus sanctus, quia hi unum sunt. Probatur etiam per rationem sic. Major est unio filii ad patrem, quam partis
+ad totum. Sed dictio exclusiva adjuncta toti, non excludit partem: non enim sequitur: solus socrates est albus,
+ergo pes ejus non est albus. Ergo cum exclusio fiat ratione diversitatis, videtur quod non excludatur filius per
+dictionem exclusivam adjunctam patri.
+AG4
+Praeterea, dictio exclusiva non removet a consortio nisi hoc quod est separatum ab eo cui adjungitur. Sed filius
+est in patre, ut supra, distin. 9, quaest. 1, art. 1, probatum est. Ergo cum dicitur: solus pater, non excluditur filius.
+AG5
+Praeterea, dictio exclusiva adjuncta antecedenti, non excludit consequens; non enim sequitur: solus homo currit,
+ergo animal non currit, vel: solum animal non currit, ergo homo non currit.
+Sed filius sequitur ad patrem et e converso, ut habitum est ex Ambrosio, dist. 9. Ergo videtur quod cum dicitur:
+solus pater, non excludatur filius nec e converso; et ita haec erit vera: solus pater est Deus.
+SC1
+Contra est quod in littera dicitur.
+SC2
+Praeterea, hujus propositionis: solus pater est Deus, una expositiva est: nullus alius a patre est Deus. Sed haec est
+falsa, quia filius, qui est alius a patre, est Deus. Ergo haec est falsa: solus pater est Deus.
+CO
+Respondeo dicendum, quod secundum quosdam dictio exclusiva adjuncta uni relativorum in creaturis non
+excludit alterum: non enim sequitur: tantum pater est, ergo filius non est; quia ad unum relativorum sequitur
+alterum. Sed hoc videtur esse falsum, quia dictio exclusiva adjuncta supposito excludit omne aliud suppositum.
+Unde cum filius sit aliud suppositum a patre, excluditur filius, cum dicitur: solus pater. Nec hoc impeditur per
+hoc quod unum sine altero esse non potest: quia generatio etiam non potest esse sine alteratione et loci
+transmutatione; et tamen cum dicitur: sola generatio est, excluditur omnis alia mutatio.
+Praeterea, quamvis relativa consequantur se in esse, non tamen consequuntur se in aliis praedicamentis: non
+enim sequitur, si pater est musicus, quod filius est musicus. Et praeterea, cum solus sit determinatio suppositi,
+excludit omne aliud suppositum.
+Diversitatem autem suppositorum non tollit relativorum consecutio. Unde non est aliqua ratio quare respectu
+horum praedicatorum, unum non excluderetur per exclusionem adjunctam alteri.
+Et ideo dicendum est, quod dictio exclusiva adjuncta patri excludit filium, quantum pertinet ad oppositionem
+relationis. Tamen intelligendum est quod diversimode se habet in creaturis et in divinis quantum ad duo: primo,
+quia in creaturis pater et filius non sunt unum in essentia, unde filius est alius a patre, et aliud; quod tamen non
+est verum in divinis. Secundo, quia in creaturis per paternitatem additur novum esse quod est esse accidentale, et
+non idem, quod est esse subjecti. In divinis autem paternitas non addit secundum rem aliud esse quam esse
+essentiae, in quo pater et filius communicant. Cum ergo loquimur in humanis, dicentes: solus pater, excluditur
+omnibus modis filius, quia filius est alius et aliud a patre. Et praeterea, si esset unum in essentia cum patre,
+adhuc excluderetur ab illo, inquantum est alius a patre secundum esse relationis superadditum essentiae; unde
+secundum quid esset aliud a filio, quamvis in essentia convenirent. Sed in divinis pater et filius sunt unum in
+essentia, et tamen distinguuntur relationibus; et tamen illae relationes non addunt aliquid secundum rem ad
+essentiam. Unde ratione illius distinctionis nullo modo potest dici filius aliud a patre, sed tantum alius. Unde
+cum dicitur: solus pater, potest intelligi fieri exclusio alius masculine, et sic excluditur filius: et hoc magis
+proprium est considerata consignificatione vocabulorum; vel aliud neutraliter, et sic non excluditur filius, quia
+filius non est aliud a patre, cum essentia divina quae est in filio sit totum id quod est pater, et non aliqua pars
+ejus. Secundum hoc ergo haec est distinguenda: solus pater est Deus, per tres sensus praedictos. Quia si solus
+implicet solitudinem circa patrem, falsa est. Si autem excludit a forma subjecti, sic vera est; et est sensus: ille qui
+188
+
+

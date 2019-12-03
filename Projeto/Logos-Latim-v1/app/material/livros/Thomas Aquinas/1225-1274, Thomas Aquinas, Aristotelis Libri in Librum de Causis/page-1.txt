@@ -1,0 +1,50 @@
+OPERA OMNIA
+SANCTI THOMAE AQUINATIS
+-----oOo----Textum electronicum praeparavit et indexavit
+Ricardo M. Rom n, S. R. E. Presbyterus
+Bonis Auris, MCMXCVIII
+
+|*ARISTOTELIS_LIBRI
+|*DE_CAUSIS
+IN LIBRUM DE CAUSIS
+|+PR Prooemium
+Sicut Philosophus dicit in X ethicorum, ultima felicitas hominis consistit in optima hominis operatione quae est
+supremae potentiae, scilicet intellectus, respectu optimi intelligibilis. Quia vero effectus per causam cognoscitur,
+manifestum est quod causa secundum sui naturam est magis intelligibilis quam effectus, etsi aliquando quoad
+nos effectus sint notiores causis propter hoc quod ex particularibus sub sensu cadentibus universalium et
+intelligibilium causarum cognitionem accipimus. Oportet igitur quod simpliciter loquendo primae rerum causae
+sint secundum se maxima et optima intelligibilia, eo quod sunt maxime entia et maxime vera cum sint aliis
+essentiae et veritatis causa, ut patet per Philosophum in II metaphysicae, quamvis huiusmodi primae causae sint
+minus et posterius notae quoad nos: habet enim se ad ea intellectus noster sicut oculus noctuae ad lucem solis
+quam propter excedentem claritatem perfecte percipere non potest. Oportet igitur quod ultima felicitas hominis
+quae in hac vita haberi potest, consistat in consideratione primarum causarum, quia illud modicum quod de eis
+sciri potest, est magis amabile et nobilius omnibus his quae de rebus inferioribus cognosci possunt, ut patet per
+Philosophum in I de partibus animalium; secundum autem quod haec cognitio in nobis perficitur post hanc
+vitam, homo perfecte beatus constituitur secundum illud evangelii: haec est vita aeterna ut cognoscant te Deum
+verum unum.
+Et inde est quod Philosophorum intentio ad hoc principaliter erat ut, per omnia quae in rebus considerabant, ad
+cognitionem primarum causarum pervenirent. Unde scientiam de primis causis ultimo ordinabant, cuius
+considerationi ultimum tempus suae vitae deputarent: primo quidem incipientes a logica quae modum
+scientiarum tradit, secundo procedentes ad mathematicam cuius etiam pueri possunt esse capaces, tertio ad
+naturalem philosophiam quae propter experientiam tempore indiget, quarto autem ad moralem philosophiam
+cuius iuvenis esse conveniens auditor non potest, ultimo autem scientiae divinae insistebant quae considerat
+primas entium causas.
+Inveniuntur igitur quaedam de primis principiis conscripta, per diversas propositiones distincta, quasi per
+modum sigillatim considerantium aliquas veritates. Et in Graeco quidem invenitur sic traditus liber Procli
+Platonici, continens CCXI propositiones, qui intitulatur elementatio theologica; in arabico vero invenitur hic
+liber qui apud Latinos de causis dicitur, quem constat de arabico esse translatum et in Graeco penitus non haberi:
+unde videtur ab aliquo Philosophorum Arabum ex praedicto libro Procli excerptus, praesertim quia omnia quae
+in hoc libro continentur, multo plenius et diffusius continentur in illo.
+Intentio igitur huius libri qui de causis dicitur, est determinare de primis causis rerum. Et, quia nomen causae
+ordinem quemdam importat et in causis ordo ad invicem invenitur, praemittit, quasi quoddam principium totius
+sequentis operis, quamdam propositionem ad ordinem causarum pertinentem, quae talis est.
+|+1 Lectio 1
+Omnis causa primaria plus est influens super suum causatum quam causa secunda universalis.
+Ad cuius manifestationem unum corollarium inducit, per quod manifestatur primum sicut per quoddam signum;
+unde subdit: cum ergo removet causa secunda universalis virtutem suam a re, causa universalis prima non aufert
+virtutem suam ab ea. Et ad huius probationem inducit tertium, dicens: quod est quia universalis causa prima agit
+in causatum causae secundae antequam agat in ipsum causa universalis secunda. Et ex hoc concludit quod
+secundo positum est, et convenienter. Necesse est enim id quod prius advenit ultimo abscedere; videmus enim ea
+1
+
+

@@ -1,0 +1,60 @@
+Haec autem duo, scilicet ex quo motus procedit et in quod terminatur, differunt specie: sunt enim contraria, ut
+patet in V physic.; contrarietas autem est differentia secundum formam, ut dicitur in X metaphys.. Hoc autem
+quod dictum est, probat per hoc, quod omnis transmutatio est finita, ut probatur in VI physic., et etiam per ea
+quae supra dicta sunt, scilicet quod nihil movetur ad id ad quod non potest pervenire; nihil autem potest
+pervenire ad infinitum; unde oportet omnem mutationem esse finitam.
+Si autem non esset aliquod determinatum in quod tendit motus, differens specie ab eo a quo motus incipit,
+oporteret motum esse infinitum: nulla enim ratio esset quare motus magis terminaretur hic quam alibi; sed eadem
+ratione qua incoepit illinc moveri, inciperet moveri et hinc. Manifestat etiam per exemplum quod dictum est.
+Illud enim quod sanatur, movetur ex infirmitate in sanitatem; et illud quod augmentatur, movetur ex parvitate in
+magnitudinem: oportet igitur etiam illud quod fertur, idest quod movetur secundum locum, moveri a quodam
+determinato in quoddam determinatum; et haec sunt locus unde incipit motus, et locus quo tendit. Sic igitur
+oportet quod specie differat locus a quo aliquid movetur localiter, et in quem naturaliter fertur; sicut id quod
+sanatur non tendit ubicumque contingit, quasi a casu, neque ex sola voluntate moventis, sed ad aliquid
+determinatum, ad quod natura inclinatur.
+Sic igitur et ignis et terra et alia corpora naturalia non feruntur ad infinitum, idest ad aliquod indeterminatum,
+sicut posuit democritus; sed feruntur in loca opposita locis in quibus prius erant. Contrariatur autem sursum
+secundum locum ei quod est deorsum. Sequitur ergo quod sursum et deorsum sunt termini naturalium motuum
+corporum simplicium.
+|#9 Tertio ibi: quoniam autem et qui in circuitu etc., excludit quandam obviationem, qua posset aliquis obviare
+ex motu circulari, qui non videtur esse ex opposito in oppositum, sed magis ex eodem in idem. Sed ipse dicit
+quod etiam motus circularis aliqualiter habet oppositum in termino. Dicit autem aliqualiter, propter duo.
+Primo quidem quia non invenitur oppositio in motu circulari secundum aliqua puncta in circulo designata, prout
+sunt puncta ipsius circuli, sed solum prout sunt extrema diametri, secundum quam mensuratur maxima distantia
+in circulo, ut supra dictum est: unde subdit: ea quae secundum diametrum, scilicet extrema, opposita sunt.
+Secundo quia, sicut totum corpus sphaericum non mutat locum subiecto sed solum ratione, partes autem eius
+variant locum etiam subiecto; ita si accipiatur totus motus circularis, non invenitur aliqua oppositio in terminis
+nisi secundum rationem, prout scilicet idem, a quo et in quod est motus circularis, accipitur ut principium et ut
+finis; sed accipiendo partes motus circularis, accipitur ibi oppositio secundum lineam rectam, ut supra dictum
+est; et ideo subdit quod toti circulationi non est aliquid contrarium.
+Sic ergo patet quod etiam in his quae circulariter feruntur, mutatio est aliquo modo in opposita et finita. Et sic
+universaliter concludit quod intendit, scilicet quod necesse est esse aliquem finem motus localis; non autem in
+infinitum fertur corpus naturale, idest ad aliquod indeterminatum, sicut posuit democritus motum atomorum.
+|#10 Deinde cum dicit: argumentum autem etc., probat idem per signum: quam quidem probationem vocat
+argumentum, eo quod talis probatio est quasi coniecturalis. Et dicit quod argumentum eius quod corpus naturale
+non feratur in infinitum sed ad aliquod certum, est quod terra, quanto magis appropinquat ad medium, velocius
+fertur (quod potuit deprehendi ex maiori eius impulsu, prout scilicet a gravi cadente fortius impellitur aliquid
+iuxta terminum sui motus): et eadem ratio est de igne, quod motus eius in tanto est velocior, quanto magis
+appropinquat ad locum sursum. Si ergo in infinitum ferretur terra vel ignis, in infinitum posset velocitas eius
+augeri. Et ex hoc concludit quod in infinitum posset augeri gravitas vel Levitas corporis naturalis. Sicut enim
+velocitas corporis gravis est maior, quanto grave corpus amplius descendit, quod quidem corpus grave est velox
+per suam gravitatem; sic etiam ita poterit esse additio infinita ad velocitatem, si sit additio infinita ad gravitatem
+vel levitatem.
+Ostensum est autem supra quod non potest esse gravitas vel Levitas infinita, et quod non potest aliquid moveri
+ad id ad quod non potest pertingere.
+Sic igitur additio gravitatis non potest esse in infinitum; et per consequens nec additio velocitatis.
+Unde nec motus corporum naturalium potest esse in infinitum.
+|#11 Sciendum est autem quod causam huius accidentis, quod terra velocius movetur quanto magis descenderit,
+hipparchus assignavit ex parte moventis per violentiam; a quo quantum elongatur motus, tanto minus remanet de
+virtute moventis, et sic motus fit tardior; unde motus violentus in principio quidem intenditur, in fine autem
+remittitur intantum quod finaliter grave non potest plus sursum ferri, sed incipit moveri deorsum, propter
+parvitatem eius quod remanserat de virtute motoris violenti; quae quanto magis minoratur, tanto motus
+contrarius fit velocior. Sed ista ratio est particularis solum in his quae moventur naturaliter post motum
+violentum; non autem habet locum in his quae moventur naturaliter eo quod generantur extra propria loca. Alii
+vero assignaverunt huius causam ex quantitate medii per quod fit motus, puta aeris, qui minor restat quanto plus
+proceditur in motu naturali; et ideo minus potest impedire motum naturalem. Sed et haec ratio non minus
+competeret in motibus violentis quam naturalibus; in quibus tamen contrarium accidit, ut infra dicetur. Et ideo
+dicendum est cum Aristotele quod causa huius accidentis est, quod quanto corpus grave magis descendit, tanto
+39
+
+

@@ -1,0 +1,61 @@
+etiam ex dicente et verbo: nihil enim potest amari cuius verbum in intellectu non praeconcipitur. Et sic oportet
+quod ille qui procedit per modum voluntatis, sit ab eo qui procedit per modum intellectus, et per consequens
+quod distinguatur ab eo.
+RA26
+Ad quartum dicendum, quod qui est ab alio in divinis, potest esse dupliciter: scilicet vel per modum verbi, vel
+per modum amoris; et ideo qui est ab alio secundum quod communiter dicitur, non sufficit ad constituendum
+personam incommunicabilem, sed solum secundum quod ad propria determinatur.
+RA27
+Ad quintum dicendum, quod in divinis sunt quatuor relationes, nedum duae; sed solum tres ex eis sunt
+personales, nam una earum,- scilicet communis spiratio,- non est proprietas personalis, cum sit communis
+duabus personis: et ideo non sunt in divinis nisi tres personae.
+RC
+Alias rationes concedimus.
+|q10 Quaestio 10
+Prologus
+PR1
+Et primo quaeritur utrum sit aliqua processio in divinis.
+PR2
+Secundo utrum in divinis sit tantum una processio.
+PR3
+Tertio de ordine processionum ad relationem
+PR4
+Quarto utrum spiritus sanctus procedat a filio.
+PR5
+Quinto utrum spiritus sanctus remaneret a filio distinctus, si ab eo non procederet.
+|a1 Articulus 1
+TTA
+Et primo quaeritur utrum sit aliqua processio in divinis personis.
+TTB
+Et videtur quod non.
+AG1
+Omne enim quod procedit ab aliquo, distat ab eo. Sed divinarum personarum non est aliqua distantia ab invicem:
+dicit enim filius, Ioan. XIV, 10: ego in patre et pater in me est; et idem dici potest de spiritu sancto, quod scilicet
+sit in patre et filio, et e converso. Ergo in divinis una persona non procedit ab alia.
+AG2
+Praeterea, nihil quod ad motum pertinet, Deo proprie attribui potest, sicut nec aliquid quod materiam importat.
+Processio autem significat quemdam motum. Ergo non proprie potest dici in divinis.
+AG3
+Praeterea, omne procedens praeintelligitur processioni: nam procedens est processionis subiectum: sed in divinis
+non potest esse aliquid procedens processioni praeintellectum: essentia enim divina non est procedens, sicut nec
+genita; relatio autem non praeintelligitur processioni, sed e converso, sicut iam dictum est. Non ergo potest esse
+processio in divinis.
+AG4
+Praeterea, omne procedens sicut ab aliquo procedit, ita oportet quod procedat in aliquid. Quod autem in aliquid
+procedit, non est per se subsistens. Cum ergo personae divinae sint per se subsistentes, non videtur eis competere
+quod procedant.
+AG5
+Praeterea, cum creaturae nobiliores sint etiam Deo similiores, quod invenitur in inferioribus creaturis, non autem
+in superioribus, nec etiam in Deo invenitur sicut quantitas dimensiva, materia, et alia huiusmodi.
+Processio autem invenitur in inferioribus creaturis, in quibus unum individuum generat aliud eiusdem speciei;
+quod non contingit in creaturis superioribus. Ergo neque in Deo processio invenitur.
+AG6
+Praeterea, illud quod derogat divinae dignitati, nullo modo est Deo attribuendum.
+In hoc autem maxime consideratur divina dignitas, quod est prima causa essendi non habens ab alio esse, cui
+videtur repugnare processio: nam omne procedens quodammodo ab alio est. Non ergo dicendum est quod aliquid
+sit procedens in divinis.
+AG7
+Praeterea, persona est hypostasis proprietate distincta ad dignitatem pertinente.
+254
+
+

@@ -1,0 +1,66 @@
+per divisionem. Sequetur ergo quod minor potentia moveat in minori tempore;
+quod est impossibile. Relinquitur ergo quod in magnitudine infinita erat
+potentia infinita, quia scilicet potentia magnitudinis infinitae excedit
+omnem potentiam finitam.
+Et hoc probatum est per subtractionem temporis: quia omnis potentiae
+finitae necesse est ponere quoddam determinatum tempus in quo movet. Quod
+ex hoc apparet: quia si tanta potentia movet in tanto tempore, maior
+movebit in minori tempore, sed tamen determinato, idest finito, secundum
+conversam proportionem; ut scilicet quantum additur ad potentiam, tantum
+diminuatur de tempore. Et sic quantumcumque addas ad potentiam finitam,
+dummodo remaneat potentia finita, semper habebit tempus finitum: quia erit
+accipere aliquod tempus quod erit tanto minus tempore prius dato, quanto
+potentia superexcrescens ex additione, est maior potentia prius data.
+Sed potentia infinita excellit in movendo omne determinatum tempus, sicut
+in omnibus aliis infinitis contingit: quia omne infinitum, sicut multitudo
+et magnitudo, excedit omne determinatum sui generis. Et sic manifestum est
+quod potentia infinita excedit omnem potentiam finitam, ex quo excessus
+potentiae super potentiam est sicut minoratio temporis a tempore, ut dictum
+est. Unde patet quod conclusio praedicta, scilicet quod magnitudinis
+infinitae sit potentia infinita, ex necessitate sequitur ex praemissis.
+|#19
+Deinde cum dicit: est autem hoc demonstrare etc., ponit ad idem
+aliam demonstrationem, quae non differt a prima nisi in hoc, quod prima
+concludebat accipiendo potentiam finitam existentem in magnitudine finita
+alterius generis, haec autem secunda demonstratio procedit accipiendo
+quandam aliam potentiam finitam, existentem in alia magnitudine finita
+eiusdem generis, cuius est magnitudo infinita: puta si sit aer magnitudinis
+infinitae, habens potentiam finitam, accipiemus quandam potentiam finitam
+existentem in aliqua magnitudine finita alterius aeris.
+Hac positione facta, manifestum est quod potentia finita magnitudinis
+finitae aliquoties multiplicata, mensurabit potentiam finitam, quae est in
+magnitudine infinita; quia omne finitum mensuratur ab aliquo finito minori
+aliquoties sumpto, vel etiam exceditur. Cum ergo in magnitudine eiusdem
+generis oporteat quod maior magnitudo habeat maiorem potentiam, sicut maior
+aer habet maiorem potentiam quam minor; necesse erit quod illa magnitudo
+finita quae habebit eandem proportionem ad magnitudinem finitam prius
+acceptam, quam habet potentia finita infinitae magnitudinis ad potentiam
+magnitudinis finitae prius acceptae, habeat aequalem potentiam potentiae
+magnitudinis infinitae. Sicut si potentia finita magnitudinis infinitae
+erit centupla potentiae finitae cuiusdam magnitudinis finitae datae,
+oportebit quod magnitudo quae est centupla illius magnitudinis finitae,
+habeat aequalem potentiam magnitudini infinitae; ex quo proportionaliter in
+re eiusdem generis augetur magnitudo et potentia. Hoc autem est impossibile
+quod conclusum est; quia oporteret quod vel magnitudo finita esset aequalis
+infinitae, vel quod minor magnitudo eiusdem generis habeat aequalem
+potentiam maiori. Est ergo impossibile et primum ex quo sequitur, scilicet
+quod magnitudo infinita habeat potentiam finitam.
+Sic ergo epilogando concludit duas conclusiones demonstrativas, scilicet
+quod in magnitudine finita non possit esse potentia infinita, et quod in
+magnitudine infinita non possit esse potentia finita.
+|+22
+
+Lectio 22
+
+|#1
+Postquam Philosophus ostendit duo quae sunt necessaria ad principale
+propositum ostendendum, scilicet quod potentia finita non possit movere
+tempore infinito, et quod potentia infinita non possit esse in magnitudine
+finita; nunc accedit ad probandum tertium, scilicet unitatem primi motoris.
+Et circa hoc duo facit: primo enim ostendit quod propter diversitatem
+motorum, deficit continuitas vel unitas motus, in quibusdam mobilibus quae
+videntur continue moveri; secundo ostendit ex hoc quod primum motorem
+necesse est esse unum, ibi: quoniam autem in his etc..
+352
+
+

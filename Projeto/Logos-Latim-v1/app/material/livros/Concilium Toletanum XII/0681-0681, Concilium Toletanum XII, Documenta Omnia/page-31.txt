@@ -1,0 +1,63 @@
+[1194] februarium korr. aus fabruarium V630
+[1195] anno] anno regni W411
+[1196] ervigi O93; V1341
+[1197] DCCXVIII V630; B132; V1341; DCCXVIIII] DCCXVIII EXPLICIT TOLETANUM concilium
+duodecimum E97
+[1198] hispalensis W411; ispalensis E97
+[1199] sedis fehlt E97
+[1200] edicta V630
+[1201] tolitane W411
+[1202] instituta a nobis] a nobis instituta V630; B132; V1341; E97
+[1203] nobis] nobis edita W411
+[1204] iulianus E97
+[1205] bracarensis W411; B132; E97
+[1206] instituta a nobis] a nobis instituta V630; B132; V1341; E97
+[1207] edicta V630
+[1208] emeretensis korr. aus emerentensis V630; emeretensis korr. aus eretensis B132
+[1209] instituta a nobis] a nobis instituta V630; B132; V1341; E97
+[1210] Affalius V630
+[1211] instituta a nobis] a nobis instituta B132; V1341; E97
+[1212] hilicitaneque W411
+[1213] Ilicitanae et Iotanae] hilicita nectiotane V630; B132; elicita nectiotane V1341; E97
+[1214] subscripsi In Christi nomine Palmacius Urcitanae ecclesiae episcopus haec synodica instituta a nobis
+edita subscripsi korr. aus subscripsi E97
+[1215] Simpronus V1341; Lipronius E97
+[1216] Ercavicensis] ercavicensis ecclesiae W411; ercavincensis B132; ercavicensis E97
+[1217] egobriensis B132
+[1218] ecclesiae fehlt V1341; E97
+[1219] talicensis V630; B132; V1341; E97
+[1220] episcopus sedis] sedis episcopus W411; E97
+[1221] Geneta E97
+[1222] Geta Elibensis] Getelipensis B132
+[1223] elipensis V630; W411; V1341; E97
+[1224] Insidorus V630; W411; B132; V1341
+[1225] sitalensis V630; B132; V1341; E97
+[1226] similiter fehlt B132
+[1227] subscripsit V1341
+[1228] valeriensis korr. aus valeriens V630; valeriensis E97
+[1229] segoviensis V630; W411; B132; V1341; E97
+[1230] Gentivus korr. aus Gentius O93
+[1231] episcopus] episcopus similiter V630; W411; B132; V1341; E97
+[1232] portucalensis V630; W411; V1341; E97; portucalis B132
+[1233] ecclesiae fehlt W411
+[1234] Antianius W411
+[1235] ecclesiae episcopus] episcopus ecclesiae V630; B132
+[1236] similiter fehlt W411
+[1237] similiter fehlt W411
+[1238] Preparatus B132
+[1239] episcopus] episcopus similiter V630; B132; V1341; E97
+[1240] Providentius korr. aus Provedentius V1341
+[1241] ecclesi• episcopus korr. aus ecclesi• V630
+[1242] episcopus fehlt B132
+[1243] similiter fehlt W411
+[1244] Sesibado V630; W411; B132; V1341; E97
+[1245] ducitae korr. aus ducita V630; tucitane W411; ducita B132; V1341; E97
+[1246] episcopus sedis ecclesiae] ecclesiae episcopus W411
+[1247] eclesiae] •cclesi• similiter E97
+[1248] episcopus] episcopus similiter V630; B132; V1341; E97
+[1249] subscripsi korr. aus subscripsi Iohannes pacensis ecclesi• episcopus subscripsi similiter O93
+[1250] sigotiensis V1341; E97
+[1251] ecclesiae episcopus] episcopus sedis ecclesi• similiter V630; B132; V1341; E97
+31
+
+

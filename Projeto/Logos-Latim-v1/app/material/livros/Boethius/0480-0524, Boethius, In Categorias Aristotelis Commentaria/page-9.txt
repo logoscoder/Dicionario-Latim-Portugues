@@ -1,0 +1,59 @@
+subaudiendo scilicet siue substantiae sint siue accidentia sed non omnia indiuidua non sunt in subiecto. Indiuidua enim
+accidentia IN SUBIECTO ESSE NIHIL PROHIBET.
+QUAEDAM ENIM GRAMMATICA, cum sit indiuidua et de subiecto non praedicetur, tamen IN SUBIECTO
+EST, id est in anima. Sed ut congregatim dicatur, sensus huiusmodi est, omnia quidem quaecumque sunt indiuidua, de
+subiecto quidem nullo dicuntur sed non omnia non sunt in subiecto. Nam cum particularis substantia in subiecto non
+sit, ut Plato, particulare tamen accidens in subiecto [175A] est, ut quaedam grammatica in anima.
+Illud quoque magna attentione notandum est, quis sit huius ordo propositi. Nam cum sint quattuor
+complexiones, factae ex quattuor rebus, quarum duae natura discrepant, ut substantia et accidens, duae quantitate, ut
+particularitas et uniuersalitas coniunctis compositisque his quattuor omnibus, dissentientem lateribus dispositionem
+fecit. Posuit enim prius substantiam uniuersalem dicens, quod in subiecto non est et de subiecto dicitur. Post hanc
+primam positionem totis discrepantem rebus, rem subdit, id est accidens particulare, quod in subiecto esset, et de
+subiecto non praedicatur. Nam cum accidens dixit, a substantia disgregauit, quod particulare addidit ab uniuersali
+disiunxit. Rursus ex alio latere disposuit in diuisione [175B] accidens uniuersale, dicens quod in subiecto est, et de
+subiecto praedicatur; et ultimo substantiam particularem contrariam superiori accidenti dixit, quod neque in subiecto
+est, neque de subiecto praedicatur substantia, particularitem uniuersalitati accidentis opponens. Sed ut planius quod
+dicimus sit, figuram descriptionemque subiecimus in qua superius latus substantia accidentique notauimus, reliquum
+particularitatis et uniuersalitatis titulo inscripsimus, Arisiotelicam complexionem angulariter et per latera designantes.
+[175B][175C]
+[03]
+
+QUANDO ALTERUM DE ALTERO PRAEDICATUR UT DE SUBIECTO, QUAECUMQUE DE EO QUOD
+PRAEDICATUR DICUNTUR, OMNIA ETIAM DE SUBIECTO DICENTUR, UT HOMO DE QUODAM
+HOMINE PRAEDICATUR, ANIMAL VERO DE HOMINE, ERGO ET DE [175D]
+QUODAM HOMINE ANIMAL PRAEDICABITUR; QUIDAM ENIM HOMO ET HOMO EST ET ANIMAL.
+Cum superius de his quae in subiecto sunt (id est de accidentibus) loqueretur, definitionem constitutae in
+subiecto rei, et praeter subiectum nullo modo permanentis, in media tractatione disposuit, dicens illud esse quod neque
+pars esset alicuius nec sine subiecto posset ullo modo permanere. Patefacto igitur quid sit esse in subiecto, nunc quid sit
+praedicari de subiecto declarat. Duobus enim modis praedicationes fiunt, uno secundum accidens, alio de subiecto: de
+homine namque praedicatur album, dicitur enim homo albus, rursus de eodem homine praedicatur animal, dicitur enim
+homo animal. Sed illa prior praedicatio, quae est:
+Homo albus est secundum accidens [176A] est: namque accidens quod est album de subiecto homine
+praedicatur sed non in eo quod quid sit, nam cum album sit accidens, homo substantia, accidens de substantia in eo
+quod quid sit praedicari non potest; ergo ista praedicatio secundum accidens dicitur. De subiecto uero praedicari est,
+quoties altera res de altera in ipsa substantia praedicatur, ut animal de homine; nam quoniam animal et substantia est et
+genus hominis, idcirco in eo quod quid sit de homine praedicatur. Quare illa sola de subiecto praedicari dicuntur
+quaecumque in cuiuslibet rei substantia et in definitione ponuntur; ergo quotiescumque huiusmodi fuerit praedicatio, ut
+ALTERUM DE ALTERO UT DE SUBIECTO PRAEDICETUR, id est ut de eius substantia dicatur, ut animal de
+homine, hanc proprietatem [176B] euenire necesse est, ut si DE EO QUOD PRAEDICATUR, quidpiam UT DE
+SUBIECTO, id est eius substantia, praedicetur necessario idem hoc quod de praedicato dicitur, dicatur etiam de
+praedicati subiecto, ut homo praedicatur quidem de Socrate in eo quod quid sit. Interrogantibus enim quid sit Socrates
+"hominem" respondemus. At uero de ipso homine in eo quod quid sit animal dicitur, in substantia enim hominis animal
+praedicatur, atque ita fit ut animal quidem de homine, homo uero de Socrate in eo quod quid sit ut de subiecto
+praedicentur. Ergo quoniam ista consequentia, et animal de Socrate in eo quod quid sit praedicabitur. Potest enim dici
+interrogantibus quid est Socrates "animal". Ergo manifestum est quod si qua res de alia ut de subiecto praedicetur, ut
+homo de Socrate, de eadem uero re quae praedicatur, de [176C] homine scilicet, alia rursus superior ut de subiecto
+praedicetur, ut animal necesse erit et hanc eamdem de subiecto eius de quo ipsum dicitur praedicari, ut animal de
+Socrate, Socrates namque subiectus est homini, de quo animal praedicatur. Ergo constat huiusmodi definitio quae dicit:
+quoties ALTERUM DE ALTERO PRAEDICATUR UT DE SUBIECTO, si quid sit quod DE EO QUOD
+PRAEDICATUR in eo quod quid sit dici possit, hoc idem ipsum de eo quod prius subiectum erat possit praedicari.
+Sed fortasse quisquam dicat minime uerum esse quod dictum est, nam cum homo de Socrate praedicetur
+(Socrates enim homo est), de homine uero species (homo enim species est), Socrates species esse non dicitur. Et rursus
+cum animal de homine praedicetur, de animali uero genus (animal enim genus est), [176D] homo generis uocabulo
+caret: non enim dicitur homo esse genus, homo enim genus non est sed tantum species.
+His dicendum est quod minus aduerterint illam esse definitionem de subiecto praedicationis, quae in eo quod
+quid sit unumquodque et in eius substantia praedicaretur, nunc autem species de homine non in eo quod quid sit
+praedicatur. Neque enim si quis hominis definitionem reddat speciem nominauit sed designatiuam nomen est tantum,
+utrum de pluribus speciei differentibus praedicatur hoc nomen quod est homo, an certe tantum de solis indiuiduis. Nam
+
+

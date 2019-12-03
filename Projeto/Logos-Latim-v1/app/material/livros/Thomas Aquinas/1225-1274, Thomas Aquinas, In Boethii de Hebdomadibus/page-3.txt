@@ -1,0 +1,61 @@
+incorpoream solus intellectus sapientum consurgit; nam vulgarium hominum intellectus non transcendunt
+imaginationem, quae est solum corporalium rerum: et ideo ea quae sunt propria corporum, puta, esse in loco
+circumscriptive, intellectus sapientum statim removet a rebus incorporeis; quod vulgus facere non potest.
+|+2 Lectio 2
+Supra boetius dixerat, hoc ordine se processurum ut prius praemitteret quosdam terminos et regulas, ex quibus ad
+ulteriora procederet; et ideo secundum ordinem praetaxatum, primo incipit praemittere quasdam regulas, sive
+conceptiones quasdam sapientum. Secundo ex illis incipit argumentari, ibi, quaestio vero huiusmodi est.
+Sicut ante dictum est, illae propositiones sunt maxime notae quae utuntur terminis quos omnes intelligunt.
+Ea autem quae in omni intellectu cadunt, sunt maxime communia quae sunt: ens, unum et bonum. Et ideo ponit
+hic boetius primo quasdam conceptiones pertinentes ad ens. Secundo quasdam pertinentes ad unum, ex quo
+sumitur ratio simplicis et compositi, ibi, omni composito etc.. Tertio ponit quasdam conceptiones pertinentes ad
+bonum, ibi, omnis diversitas discors.
+Circa ens autem consideratur ipsum esse quasi quiddam commune et indeterminatum: quod quidem dupliciter
+determinatur; uno modo ex parte subiecti, quod esse habet; alio modo ex parte praedicati, utpote cum dicimus de
+homine, vel de quacumque alia re, non quidem quod sit simpliciter, sed quod sit aliquid, puta album vel nigrum.
+Primo ergo ponit conceptiones quae accipiuntur secundum comparationem esse ad id quod est. Secundo ponit
+conceptiones quae accipiuntur secundum comparationem eius quod est esse simpliciter, ad id quod est esse
+aliquid, ibi, diversum est tamen.
+Circa primum duo facit. Primo ponit differentiam eius quod est esse, ad id quod est. Secundo manifestat
+huiusmodi differentiam, ibi, ipsum enim esse nondum est.
+Dicit ergo primo, quod diversum est esse, et id quod est. Quae quidem diversitas non est hic referenda ad res, de
+quibus adhuc non loquitur, sed ad ipsas rationes seu intentiones. Aliud autem significamus per hoc quod dicimus
+esse, et aliud: per hoc quod dicimus id quod est; sicut et aliud significamus cum dicimus currere, et aliud per hoc
+quod dicitur currens.
+Nam currere et esse significantur in abstracto, sicut et albedo; sed quod est, idest ens et currens, significantur
+sicut in concreto, velut album.
+Deinde cum dicit, ipsum enim esse, manifestat praedictam diversitatem tribus modis: quorum primus est, quia
+ipsum esse non significatur sicut ipsum subiectum essendi, sicut nec currere significatur sicut subiectum cursus:
+unde, sicut non possumus dicere quod ipsum currere currat, ita non possumus dicere quod ipsum esse sit: sed
+sicut id ipsum quod est, significatur sicut subiectum essendi, sic id quod currit significatur sicut subiectum
+currendi: et ideo sicut possumus dicere de eo quod currit, sive de currente, quod currat, inquantum subiicitur
+cursui et participat ipsum; ita possumus dicere quod ens, sive id quod est, sit, inquantum participat actum
+essendi: et hoc est quod dicit: ipsum esse nondum est, quia non attribuitur sibi esse sicut subiecto essendi; sed id
+quod est, accepta essendi forma, scilicet suscipiendo ipsum actum essendi, est, atque consistit, idest in seipso
+subsistit.
+Non enim ens dicitur proprie et per se, nisi de substantia, cuius est subsistere.
+Accidentia enim non dicuntur entia quasi ipsa sint, sed inquantum eis subest aliquid, ut postea dicetur.
+Secundam differentiam ponit ibi, quod est, participare, quae quidem differentia sumitur secundum rationem
+participationis. Est autem participare quasi partem capere; et ideo quando aliquid particulariter recipit id quod ad
+alterum pertinet, universaliter dicitur participare illud; sicut homo dicitur participare animal, quia non habet
+rationem animalis secundum totam communitatem; et eadem ratione socrates participat hominem; similiter etiam
+subiectum participat accidens, et materia formam, quia forma substantialis vel accidentalis, quae de sui ratione
+communis est, determinatur ad hoc vel ad illud subiectum; et similiter effectus dicitur participare suam causam,
+et praecipue quando non adaequat virtutem suae causae; puta, si dicamus quod aer participat lucem solis, quia
+non recipit eam in ea claritate qua est in sole.
+Praetermisso autem hoc tertio modo participandi, impossibile est quod secundum duos primos modos ipsum esse
+participet aliquid. Non enim potest participare aliquid per modum quo materia vel subiectum participat formam
+vel accidens: quia, ut dictum est, ipsum esse significatur ut quiddam abstractum. Similiter autem nec potest
+aliquid participare per modum quo particulare participat universale: sic enim etiam ea quae in abstracto dicuntur,
+participare aliquid possunt, sicut albedo colorem; sed ipsum esse est communissimum: unde ipsum quidem
+participatur in aliis, non autem participat aliquid aliud. Sed id quod est, sive ens, quamvis sit communissimum,
+tamen concretive dicitur; et ideo participat ipsum esse, non per modum quo magis commune participatur a minus
+communi, sed participat ipsum esse per modum quo concretum participat abstractum.
+Hoc est ergo quod dicit, quod id quod est, scilicet ens, participare aliquo potest; sed ipsum esse nullo modo
+participat aliquo: et hoc modo probat ex eo quod supra dictum est, scilicet quod ipsum esse nondum est.
+Manifestum est enim quod id quod est, non potest aliquo participare: unde consequens est quod participatio
+conveniat alicui cum iam est. Sed ex hoc aliquid est quod suscipit ipsum esse, sicut dictum est. Unde relinquitur
+quod id quod est, aliquid possit participare; ipsum autem esse non possit aliquid participare.
+3
+
+

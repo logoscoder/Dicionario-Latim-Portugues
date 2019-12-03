@@ -1,0 +1,61 @@
+Et hoc patet, quia septimus dies, qui significat quietem Dei in seipso, habet mane; unde matutina cognitio est
+secundum quod Angelus Deum cognoscit.
+RA6
+Ad sextum patet responsio ex dictis.
+|q9 Quaestio 9
+Prologus
+PR1
+Primo utrum unus Angelus alium illuminet.
+PR2
+Secundo utrum inferior Angelus semper illuminetur a superiori.
+PR3
+Tertio utrum unus Angelus alium illuminando, eum purget.
+PR4
+Quarto utrum unus Angelus alii loquatur.
+PR5
+Quinto utrum inferiores Angeli superioribus loquantur.
+PR6
+Sexto utrum requiratur determinata distantia localis ad hoc quod unus Angelus alii loquatur.
+PR7
+Septimo utrum unus Angelus possit alii loqui, ita quod alii locutionem eius non percipiant.
+|a1 Articulus 1
+TTA
+Quaestio est de communicatione scientiae angelicae per illuminationes et locutiones.
+Et primo quaeritur utrum unus Angelus alium illuminet.
+TTB
+Et videtur quod non.
+AG1
+Quia, ut dicit Augustinus, solus Deus potest mentem formare. Sed illuminatio Angeli est quaedam formatio
+mentis illuminati, ergo solus Deus potest Angelum illuminare.
+AG2
+Praeterea, in Angelis non est aliud lumen nisi gratiae et naturae. Sed lumine naturae unus Angelus alium non
+illuminat, quia unusquisque habet naturalia sua immediate a Deo; similiter nec lumine gratiae, quae immediate a
+solo Deo est. Ergo unus Angelus alium non potest illuminare.
+AG3
+Praeterea, sicut se habet corpus ad lumen corporale, ita spiritus ad lumen spirituale.
+Sed corpus illuminatum a lumine superexcedenti, non illuminatur simul a lumine minori; sicut aer illuminatus a
+lumine solis, non simul illuminatur a luna. Ergo, cum plus excedat lumen spirituale divinum quodlibet lumen
+creatum, quam lumen solis lumen candelae vel stellae; videtur quod, cum omnes Angeli illuminentur a Deo,
+quod unus ab alio non illuminetur.
+AG4
+Praeterea, si unus Angelus alium illuminat, aut hoc est per medium, aut sine medio.
+Sed non sine medio, quia sic oporteret unum Angelum alteri illuminato per ipsum esse coniunctum; quod esse
+non potest cum solus Deus mentibus illabatur. Similiter nec per medium: quia nec per corporale medium, cum
+non sit spiritualis luminis receptivum; nec per spirituale, quia hoc spirituale medium non potest poni aliud quam
+Angelus; et sic vel esset abire in infinitum in mediis: quod si esset, non posset sequi aliqua illuminatio, cum sit
+impossibile infinita pertransire; vel erit devenire ad hoc quod unus Angelus alium immediate illuminet: quod
+ostensum est esse impossibile. Ergo impossibile est quod unus Angelus alium illuminet.
+AG5
+Praeterea, si unus Angelus alium illuminet, aut hoc est per hoc quod tradit ei lumen proprium, aut per hoc quod
+dat ei aliquod aliud lumen. Sed non primo modo, quia sic unum et idem lumen esset in diversis illuminatis.
+Nec iterum secundo modo, quia sic oporteret quod illud lumen esset factum a superiori Angelo; ex quo
+sequeretur quod Angelus esset creator illius luminis, cum illud lumen non fiat ex materia. Ergo videtur quod
+unus Angelus alium non illuminet.
+AG6
+Praeterea, si unus Angelus ab alio illuminatur, oportet quod Angelus illuminatus reducatur de potentia in actum,
+quia illuminari est quoddam fieri. Sed quandocumque aliquid reducitur de potentia in actum, oportet in eo
+aliquid corrumpi. Cum igitur in Angelis nihil corrumpatur, videtur quod unus ab alio non illuminetur.
+AG7
+196
+
+

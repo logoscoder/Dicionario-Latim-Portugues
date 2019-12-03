@@ -1,0 +1,52 @@
+terminum multiplica et post iunge terminos, et iuxta eum, qui inde confectus est, committe illum numerum, qui
+ex differentiis et termino minore productus est, cuius cum latitudinem inveneris, addis eam minori termino, et
+quod exinde colligitur, medium terminum pones. X enim et xl faciunt l. Differentia autem inter x et xl. xxx sunt,
+quem si multiplices in denarium, id est in minorem, decies xxx oportet ccc efficies. Quos ccc iuxta eum
+committe, qui ex iunctis utrisque confectus est, id est iuxta l. Facient enim quinquagies senos. Et invenitur
+latitudo senarius. Hunc igitur si minori termino addas, facient xvj et hic numerus medius constitutus inter x et xl
+armonicam proportionem medietatemque servabit.
+De tribus medietatibus, quae armonicae et geometricae contrariae sunt
+Hae quidem sunt apud antiquiores inventae probataeque medietates, quas idcirco longius enodatiusque
+tractavimus, quod hae maxime in antiquorum lectionibus inveniuntur, et ad omnem paene vim cognitionis eorum
+versatur utilitas. Ceteras autem praetereundo transcurrimus idcirco, quoniam non multum nobis in lectionibus
+prosunt, sed tantum ad inplendam denarii numeri quantitatem. Quae ne lateant neve sint aliquibus ignorata,
+depromimus. Videntur enim hae supra dictis medietatibus esse contrariae, ex quibus originem trahunt. Ex his
+enim etiam istae sunt constitutae. Est autem quarta medietas, quae opposita videtur armonicae. In qua tribus
+terminis positis, quemadmodum est maximus terminus ad parvissimum, sic differentia minorum ad differentiam
+maximorum, ut sunt iij v vj. Sex ad ternarium duplus est, et sunt minores termini v et iij, maximi vero huius
+dispositionis vj et v. Differentia vero minorum, quinarii scilicet et ternarii, ij sunt, maiorum, quinarii et senarii, j.
+Qui ij ad j comparati duplum faciunt. Ergo quemadmodum est maximus terminus ad parvissimum, sic minorum
+terminorum differentia est ad differentiam maximorum. Liquet autem oppositam et quodammodo contrariam
+esse hanc medietatem armonicae medietati idcirco, quod in illa quemadmodum est maximus terminus ad
+parvissimum, sic terminorum maiorum differentia ad differentiam minorum, hic autem e contrario. Est autem
+propriam huius medietatis, quoniam quod continetur sub maximo termino et medio duplum est eo, quod
+continetur sub medio atque parvissimo. Sexies enim quinque xxx sunt, quinquies vero tres xv.
+Duae vero aliae medietates, quinta scilicet et sexta geometricae medietati contrariae sunt et eidem videntur
+oppositae. Est autem quinta medietas, quotiens in tribus terminis quemadmodum est medius terminus ad
+minorem terminum, ita eorum differentia ad differentiam medii atque maioris. Nam in hac dispositione ij iiij v
+quaternarius ad binarium duplus est. Sed inter quaternarium et binarium ij sunt, inter quaternarium vero et
+maiorem terminum, id est quinque, j. Et ij ad j dupli sunt. Contrarium autem geometricae medietati in hac
+proportione est, quod in illa quemadmodum major terminus ad minorem est, sic maiorum differentia ad
+differentiam minorum; hic vero contrarie, quemadmodum minores ad se termini sunt, sic minorum differentia
+terminorum ad maiorum differentiam comparatur. Est autem proprium in hac quoque dispositione, quod illud,
+quod continetur sub maiore termino et medietate duplum est eo, quod sub utrisque extremitatibus continetur.
+Nam quinquies iiij sunt xx, quinquies vero ij sunt x. Et xx denarii duplus est.
+Sexta vero medietas est, quando tribus terminis constitutis quemadmodum est maior terminus ad medium,
+sic minorum terminorum differentia ad differentiam maximorum. In dispositione enim, quae est j iiij vj,
+maximus terminus ad medium sesqualter est, differentia vero minorum, id est unius et iiij ternarius est, maiorum
+vero, id est quaternarii et senarii, binarius. Ternarius autem binario comparatus sesqualteram habitudinem
+proportionis efficiet. Eodem autem modo haec quoque medietas geometricae contraria est, quemadmodum et
+quinta, propter proportionem differentiarum a minoribus ad maiores terminos conversam.
+De quattuor medietatibus, quas posteri ad implendum denarium limitem adiecerunt
+Et hae quidem sunt sex medietates, quarum tres usque a Pythagora ad Platonem Aristotelemque manserunt.
+Post vero, qui insecuti sunt, has tres alias, de quibus supra disseruimus, suis commentariis addiderunt. Sequens
+autem aetas, quemadmodum diximus, ad inplendam denariam quantitatem alias quattuor medietates apposuit,
+quas non adeo quis in veterum libris inveniat. Has igitur nos quam possumus brevissime disponamus. Prima
+enim quae est earum, in ordine vero septima medietas, hoc modo coniungitur, cum in tribus terminis
+quemadmodum est maximus terminus ad ultimum, sic maximi et parvissimi termini differentia ad minorum
+differentiam terminorum, ut in hac dispositione: vj viij viiij. Novenarius igitur ad senarium sesqualter est,
+quorum est differentia ternarius, minorum vero terminorum, id est octonarii et senarii binarius differentia est, qui
+ad superiorem ternarium comparatus facit sesqualteram proportionem. Secunda vero inter quattuor, sed octava in
+58
+
+

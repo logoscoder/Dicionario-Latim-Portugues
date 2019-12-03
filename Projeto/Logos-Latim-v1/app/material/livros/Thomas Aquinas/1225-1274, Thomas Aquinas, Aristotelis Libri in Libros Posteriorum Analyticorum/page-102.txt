@@ -1,0 +1,59 @@
+Circa primum duo facit: primo, ostendit veritatem; secundo, excludit errorem; ibi: nihil autem oportet
+dividentem etc.. Circa primum tria facit: primo, ostendit qualiter per divisionem generis investigentur
+definitionis particulae; secundo, quomodo processus divisionis sit utilis ad propositum; ibi: divisiones autem
+quae sunt etc.; tertio, quomodo sunt cavenda ea, quae circa hunc processum defectum inducere possunt; ibi:
+differt autem etc..
+Circa primum duo facit: primo, ostendit quod oportet uti divisione generis ad definiendum; secundo, quomodo
+oportet accipere differentias; ibi: post autem accepto etc..
+|#2
+Dicit ergo primo quod cum aliquis vult negotiari, ad definiendum, aliquod totum, idest universale,
+congruum est ut primo dividat genus in primas partes illius generis, quae sunt indivisibiles secundum speciem,
+puta quod dividat numerum in binarium et ternarium: et hac divisione praemissa, per quam cognoscitur genus,
+tentet postea accipere definitionem singularum specierum; sicut etiam fit in aliis, puta in recta linea et in circulo
+et in recto angulo. Omnia enim haec congrue definiuntur, praemissa divisione generis.
+|#3 Deinde cum dicit: post haec autem accipientem etc., ostendit qualiter sint accipiendae differentiae; et dicit
+quod postquam acceperimus per divisionem generis in species quid sit genus, puta utrum sit in genere qualitatis
+vel quantitatis, oportet ad investigandum differentias considerare proprias passiones, quae, sicut dictum est, sunt
+signa manifestantia formas proprias specierum. Et hoc oportet primum facere per aliqua communia. Si enim nos
+congregemus accidentia ex generibus communioribus (quae hic dicuntur indivisibilia, quia non resolvuntur in
+aliqua priora genera), statim ex definitionibus eorum erunt manifesta ea quae quaerimus. Oportet enim omnium
+definitionum esse principium id quod simplex est, idest genus commune: et huiusmodi simplicibus solum per se
+insunt accidentia, quae communiter inveniuntur in multis; omnibus autem aliis conveniunt secundum illa. Sicut
+album et nigrum per se quidem conveniunt corpori terminato, et secundum hoc commune conveniunt et homini
+et equo et quibuscunque aliis. Unde si oporteret accipere definitionem alicuius, cui universaliter conveniret
+album, puta definitionem nivis, oporteret recurrere ad genus communius, quod est corpus terminatum, et ex eo
+investigare causam albedinis; et secundum hoc ostenderetur nobis quare nix universaliter sit alba. Et illa causa
+poterit pertinere ad quod quid est nivis; puta inspissatio humidi, quae facit humidum terminari cum
+conservatione lucis.
+|#4 Deinde cum dicit: divisiones autem quae sunt etc., ostendit quomodo praedictus processus conferat ad
+definitiones; et dicit quod ad hoc quod aliquis praedicto modo procedat ad definiendum, scilicet dividendo genus
+in species, utile est quod homo accipiat divisionem generis per differentias. Sed tamen quomodo per hoc
+manifestetur quod quid est, dictum est in praecedentibus.
+Sunt quidem utiles praedictae divisiones ad accipiendum quod quid est sic solum, sicut dictum est; sed ad
+syllogizandum quod quid est nihil videntur facere, ut prius dictum est. Sed videtur quod dividentes statim
+accipiant omnia non syllogizata, sicut si a principio aliquis accepisset, antequam divideret.
+|#5 Deinde cum dicit: differt autem aliquid prius etc., ostendit quid oporteat cavere, ne circa praedictum
+processum defectus accidat. Et circa hoc duo facit: primo, ostendit quod oportet cavere inordinationem: secundo,
+quod oportet cavere diminutionem; ibi: amplius autem ad nil relinquendum etc.. Dicit ergo primo quod multum
+differt quid prius et quid posterius praedicetur inter ea quae ponuntur in definitione. Potest enim uno modo sic
+dici, quod homo est animal mansuetum bipes; alio modo potest aliter ordinari, ut dicatur quod homo est bipes
+animal mansuetum.
+Et quod hoc differat ad definiendum patet per hoc, quod oportet omne quod definitur constitui ex duobus, scilicet
+ex genere et differentia. Sic igitur si mansuetum accipitur ut differentia animalis, oportet quod animal
+mansuetum sit aliquid unum quod accipiatur ut genus, ex quo et alia differentia quae est bipes, constituatur
+homo. Et eadem ratio est de quocunque alio quod fit unum ex pluribus per se, et non per accidens. Sicut igitur
+differt quod accipiatur hoc vel illud pro genere vel differentia, aut quod accipiatur aliquid ut est differentia
+constitutiva generis et divisiva eiusdem; ita differt ad definiendum quod sic vel aliter partes definitionis
+ordinentur. Si enim dicam quod homo est animal mansuetum bipes, accipietur animal ut genus, mansuetum
+autem ut differentia constitutiva eius, bipes autem ut differentia divisiva ipsius. E converso autem erit si dicatur
+quod homo est animal bipes mansuetum.
+Quia igitur differentia ordinis facit differentiam in quod quid est, consequens est quod ille qui dividit, non solum
+supponat ea quae accipiuntur ad definiendum, sed etiam petat ordinem eorumdem. Et sic manifestum est quod
+definitio non syllogizat quod quid est.
+|#6 Deinde cum dicit: amplius autem ad nil relinquendum etc., docet cavere diminutionem, ostendens quomodo
+fieri possit ut nil praetermittatur eorum quae requiruntur ad quod quid est; et dicit quod hoc contingit fieri solum
+isto modo quo dicetur. Ad cuius evidentiam considerandum est, quod omnes differentiae superiorum generum
+pertinent ad quod quid est alicuius speciei.
+102
+
+

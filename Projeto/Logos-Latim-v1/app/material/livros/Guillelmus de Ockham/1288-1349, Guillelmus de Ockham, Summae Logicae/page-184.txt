@@ -1,0 +1,55 @@
+Circa quartum sciendum est quod multae regulae dantur de exceptiuis. Una est quod si praeiacens
+exceptiuae sit uera, exceptiua est falsa. Hoc patet per praedicta.
+Alia est quod numquam exceptiua est propria nisi cuius praeiacens est uniuersalis. Unde haec est
+impropria 'homo praeter Sortem currit'; unde talis nec est uera nec est falsa.
+Alia est quod numquam exceptiua est propria nisi cuius praeiacens est uniuersalis. Unde haec est
+impropria 'homo praeter Sortem currit'; unde talis nec est uera nec est falsa.
+Ex ista sequitur alia, scilicet quod non semper ab uniuersali ad suam indefinitam uel particularem est
+consequentia bona. Unde non sequitur
+'omnis homo praeter Sortem currit, igitur aliquis homo praeter Sortem currit', nec sequitur 'igitur homo
+praeter Sortem currit'.
+'omnis homo praeter Sortem currit, igitur aliquis homo praeter Sortem currit', nec sequitur 'igitur homo
+praeter Sortem currit'.
+Alia sequitur, quod non cuilibet propositioni uniuersali contradicit propositio indefinita nec particularis
+ei correspondens. Non enim istae cantradicunt 'omnis homo praeter Sortem currit', 'aliquis homo praeter
+Sortem non currit'; nec istae 'nullus homo praeter Sortem currit' et
+'aliqlius homo praeter Sortem currit'.
+'aliqlius homo praeter Sortem currit'.
+Ex ista sequitur alia, scilicet quod non semper loco istius 'non omnis'
+licitum est ponere hoc totum 'allquis non'. Istae enim non aequiualent 'non omnis homa praeter Sortem
+currit', aliquis homo praeter Sortem non currit', quia una est impropria et neque uera neque falsa, et alia est
+propria et uera uel falsa.
+licitum est ponere hoc totum 'allquis non'. Istae enim non aequiualent 'non omnis homa praeter Sortem
+currit', aliquis homo praeter Sortem non currit', quia una est impropria et neque uera neque falsa, et alia est
+propria et uera uel falsa.
+Alia regula sequens est quod sunt aliquae propositiones uniuersales contrariae, quae tamen non habent
+aliquas propositiones categoricas subcontrarias quae sunt indefinitae uel particulares, habentes subiecta
+determinata signis particularibus. Hoc patet per praedicta.
+Alia regula sequens est quod sunt aliquae propositiones uniuersales contrariae, quae tamen non habent
+aliquas propositiones categoricas subcontrarias quae sunt indefinitae uel particulares, habentes subiecta
+determinata signis particularibus. Hoc patet per praedicta.
+Alia regula est quod semper illud quod excipitur in exceptiua, debet esse aliquid contentum sub
+subiecto. Et ideo quaelibet talis est impropria
+'omnis homo praeter animal currit', 'omne animal praeter substantiam est animatum'.
+'omnis homo praeter animal currit', 'omne animal praeter substantiam est animatum'.
+Alia regula est quod quando illud super quod cadit exceptio est commune, ad ueritatem talis exceptiuae
+non requiritur quod praedicatum uniuersaliter insit illi super quo cadit exceptio, si sit exceptiua negatiua, uel
+quod remoueatur uniuersaliter, si sit exceptiua affirmatiua.
+Alia regula est quod quando illud super quod cadit exceptio est commune, ad ueritatem talis exceptiuae
+non requiritur quod praedicatum uniuersaliter insit illi super quo cadit exceptio, si sit exceptiua negatiua, uel
+quod remoueatur uniuersaliter, si sit exceptiua affirmatiua.
+Sciendum est etiam quod 'praeter' numquam tenetur diminutiue nisi quando additur termino numerali
+uel termino importanti aliquod totum. Quando autem tenetur diminutiue et additur termino numerali, tunc non
+denotatur praedicatum remoueri ab illo cui additur sed magis a subiecto. Sicut per istam 'decem praeter quinque
+sunt quinque' non denotatur quinque remoueri a quinque sed a decem. Similiter etiam per talem non denotatur
+praedicatum inesse illi cui additur haec dictio 'praeter', sicut per istam 'decem praeter quatuor sunt sex' non
+denotatur quod quatuor sunt sex, sed quod residua a quatuor sunt sex. Et ita est de aliis. Et ista de exceptiuis ad
+praesens dicta sufficiant.
+Sciendum est etiam quod 'praeter' numquam tenetur diminutiue nisi quando additur termino numerali
+uel termino importanti aliquod totum. Quando autem tenetur diminutiue et additur termino numerali, tunc non
+denotatur praedicatum remoueri ab illo cui additur sed magis a subiecto. Sicut per istam 'decem praeter quinque
+sunt quinque' non denotatur quinque remoueri a quinque sed a decem. Similiter etiam per talem non denotatur
+praedicatum inesse illi cui additur haec dictio 'praeter', sicut per istam 'decem praeter quatuor sunt sex' non
+184
+
+

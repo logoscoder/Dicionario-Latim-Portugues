@@ -1,0 +1,62 @@
+Secundum hoc igitur sciendum est, quod materia signata est individuationis principium, a qua abstrahit omnis
+intellectus, secundum quod dicitur abstrahere ab hic et nunc.
+Intellectus autem naturalis non abstrahit a materia sensibili non signata: considerat enim hominem et carnem et
+os, in cuius definitione cadit sensibilis materia non signata: sed a materia sensibili totaliter abstrahit intellectus
+mathematicus, non autem a materia intelligibili non signata.
+Unde patet quod abstractio, quae est communis omni intellectui, facit formam esse universalem.
+RA2
+Ad secundum dicendum, quod secundum Philosophum in III de anima, non solum intellectus est movens in
+nobis, sed etiam phantasia, per quam universalis conceptio intellectus ad particulare operabile applicatur; unde
+intellectus est quasi movens remotum; sed ratio particularis et phantasia sunt movens proximum.
+RA3
+Ad tertium dicendum, quod homo praecognoscit singularia per imaginationem et sensum, et ideo potest applicare
+cognitionem universalem quae est in intellectu, ad particulare: non enim, proprie loquendo, sensus aut intellectus
+cognoscunt, sed homo per utrumque, ut patet in I de anima.
+RA4
+Ad quartum dicendum, quod illud quod potest virtus inferior, potest etiam superior; non tamen eodem modo, sed
+nobiliori; unde eamdem rem quam cognoscit sensus, cognoscit et intellectus, nobilius tamen, quia immaterialius;
+et sic non sequitur, quod si sensus singulare cognoscit, quod intellectus cognoscat.
+|a7 Articulus 7
+TTA
+Septimo quaeritur utrum Deus cognoscat singulare nunc esse vel non esse, propter positionem Avicennae
+superius tactam; et hoc est quaerere, utrum cognoscat enuntiabilia, et praecipue circa singularia.
+TTB
+Et videtur quod non.
+AG1
+Quia intellectus divinus semper se habet secundum eamdem dispositionem; sed singulare, secundum quod nunc
+est et nunc non est, habet dispositionem diversam. Ergo intellectus divinus non cognoscit singulare nunc esse et
+nunc non esse.
+AG2
+Praeterea, inter potentias animae, illae quae aequaliter se habent ad rem praesentem et absentem, ut imaginatio,
+non cognoscunt an res nunc sit vel non sit; sed hoc cognoscunt illae solum potentiae quae non sunt rerum
+absentium sicut praesentium, sicut sensus.
+Sed intellectus divinus eodem modo se habet ad res praesentes et absentes. Ergo non cognoscit res nunc esse vel
+non esse, sed cognoscit earum naturam simpliciter.
+AG3
+Praeterea, secundum Philosophum in VI metaphysicae, compositio quae significatur cum dicitur aliquid esse vel
+non esse, non est in rebus, sed in intellectu nostro tantum. Sed in intellectu divino non potest esse aliqua
+compositio. Ergo non cognoscit rem esse vel non esse.
+AG4
+Praeterea, Ioan. I, 3 et 4, dicitur: quod factum est, in ipso vita erat: quod exponens Augustinus dicit, quod res
+creatae, sunt in Deo sicut arca in mente artificis. Sed artifex per similitudinem arcae, quam habet in mente sua,
+non cognoscit an arca sit vel non sit.
+Ergo nec Deus cognoscit singulare esse vel non esse.
+AG5
+Praeterea, quanto aliqua cognitio est nobilior, tanto est divinae cognitioni similior.
+Sed cognitio intellectus comprehendentis definitiones rerum est nobilior quam sensitiva cognitio: quia intellectus
+definiens ad interiora rei progreditur, sed sensus circa exteriora versatur. Cum ergo intellectus definiens non
+cognoscat an res sit vel non sit, sed naturam rei simpliciter; sensus autem cognoscat: videtur quod iste modus
+cognitionis sit Deo maxime attribuendus qua cognoscitur rei natura simpliciter, sine hoc quod sciatur esse res vel
+non esse. Ergo nec Deus cognoscit singulare nunc esse vel non esse.
+AG6
+Praeterea, Deus cognoscit unamquamque rem per ideam rei quae est apud ipsum.
+Sed illa idea aequaliter se habet ad rem sive sit sive non sit; alias per eam futura non cognoscerentur ab eo. Ergo
+Deus non cognoscit an res sit vel non sit.
+SC1
+Sed contra. Quanto aliqua cognitio est perfectior, tanto plures conditiones in re cognita comprehendit. Sed divina
+cognitio est perfectissima. Ergo cognoscit rem secundum omnem conditionem eius; et ita cognoscit eam esse vel
+non esse.
+SC2
+46
+
+

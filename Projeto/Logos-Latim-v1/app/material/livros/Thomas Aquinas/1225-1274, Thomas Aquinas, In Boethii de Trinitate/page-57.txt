@@ -1,0 +1,63 @@
+Ergo in divinis oportet ad imaginationem deduci.
+AG6
+Praeterea, cum intellectus non utatur organo corporali, ex laesione organi corporalis non impeditur actio
+intellectus, nisi quatenus ad imaginationem convertitur. Sed per laesionem organi corporalis, scilicet cerebri,
+impeditur intellectus in consideratione divinorum. Ergo intellectus divina considerans ad imaginationem
+deducitur.
+SC1
+Sed contra est quod Dionysius dicit 1 c. Mysticae theologiae ad timotheum loquens: tu, inquit, o amice timothee,
+circa mysticas visiones sensus derelinque. Sed imaginatio non est nisi sensibilium, cum sit motus factus a sensu
+secundum actum, ut dicitur in II de anima.
+Ergo cum divinorum considerationes sint maxime mysticae, in eis non debemus ad imaginationes deduci.
+SC2
+Praeterea, in cuiuslibet scientiae consideratione vitandum est illud quod in ea errorem facit. Sed, sicut dicit
+Augustinus in I libro de trinitate, primus error circa divina est eorum, qui ea, quae de corporalibus rebus
+noverunt, ad res divinas transferre conantur. Cum ergo imaginatio non sit nisi corporalium rerum, videtur quod
+in divinis non debeamus ad imaginationes deduci.
+SC3
+Praeterea, virtus inferior non se extendit in id quod est superioris proprium, ut patet per Boethium in V de
+consolatione. Sed cognoscere divina et spiritualia pertinet ad intellectum et intelligentiam, ut dicitur in libro de
+spiritu et anima. Cum ergo, ut ibidem dicitur, imaginatio sit infra intelligentiam et intellectum, videtur quod in
+divinis et spiritualibus non debeamus ad imaginationem deduci.
+CO1
+Responsio. Dicendum quod in qualibet cognitione duo est considerare, scilicet principium et terminum.
+Principium quidem ad apprehensionem pertinet, terminus autem ad iudicium; ibi enim cognitio perficitur.
+Principium igitur cuiuslibet nostrae cognitionis est in sensu, quia ex apprehensione sensus oritur apprehensio
+phantasiae, quae est motus a sensu factus, ut dicit Philosophus, a qua iterum oritur apprehensio intellectiva in
+nobis, cum phantasmata sint intellectivae animae ut obiecta, ut patet in III de anima.
+CO2
+Sed terminus cognitionis non semper est uniformiter: quandoque enim est in sensu, quandoque in imaginatione,
+quandoque autem in solo intellectu. Quandoque enim proprietates et accidentia rei, quae sensu demonstrantur,
+sufficienter exprimunt naturam rei, et tunc oportet quod iudicium de rei natura quod facit intellectus conformetur
+his quae sensus de re demonstrat. Et huiusmodi sunt omnes res naturales, quae sunt determinatae ad materiam
+sensibilem, et ideo in scientia naturali terminari debet cognitio ad sensum, ut scilicet hoc modo iudicemus de
+rebus naturalibus, secundum quod sensus eas demonstrat, ut patet in III caeli et mundi; et qui sensum neglegit in
+naturalibus, incidit in errorem. Et haec sunt naturalia quae sunt concreta cum materia sensibili et motu et
+secundum esse et secundum considerationem.
+CO3
+Quaedam vero sunt, quorum iudicium non dependet ex his quae sensu percipiuntur, quia quamvis secundum esse
+sint in materia sensibili, tamen secundum rationem diffinitivam sunt a materia sensibili abstracta.
+Iudicium autem de unaquaque re potissime fit secundum eius diffinitivam rationem. Sed quia secundum
+rationem diffinitivam non abstrahunt a qualibet materia, sed solum a sensibili et remotis sensibilibus
+condicionibu remanet aliquid imaginabile, ideo in talibus oportet quod iudicium sumatur secundum id quod
+imaginatio demonstrat. Huiusmodi autem sunt mathematica. Et ideo in mathematicis oportet cognitionem
+secundum iudicium terminari ad imaginationem, non ad sensum, quia iudicium mathematicum superat
+apprehensionem sensus. Unde non est idem iudicium quandoque de linea mathematica quod est de linea
+sensibili, sicut in hoc quod recta linea tangit sphaeram solum secundum punctum, quod convenit rectae lineae
+separatae, non autem rectae lineae in materia, ut dicitur in I de anima.
+CO4
+Quaedam vero sunt quae excedunt et id quod cadit sub sensu et id quod cadit sub imaginatione, sicut illa quae
+omnino a materia non dependent neque secundum esse neque secundum considerationem, et ideo talium cognitio
+secundum iudicium neque debet terminari ad imaginationem neque ad sensum. Sed tamen ex his, quae sensu vel
+imaginatione apprehenduntur, in horum cognitionem devenimus vel per viam causalitatis, sicut ex effectu causa
+perpenditur, quae non est effectui commensurata, sed excellens, vel per excessum vel per remotionem, quando
+omnia, quae sensus vel imaginatio apprehendit, a rebus huiusmodi separamus; quos modos cognoscendi divina
+ex sensibilibus ponit Dionysius in libro de divinis nominibus. Uti ergo possumus in divinis et sensu et
+imaginatione sicut principiis nostrae considerationis, sed non sicut terminis, ut scilicet iudicemus talia esse
+divina, qualia sunt quae sensus vel imaginatio apprehendit. Deduci autem ad aliquid est ad illud terminari.
+Et ideo in divinis neque ad imaginationem neque ad sensum debemus deduci, in mathematicis autem ad
+imaginationem et non ad sensum, in naturalibus autem etiam ad sensum. Et propter hoc peccant qui uniformiter
+in his tribus speculativae partibus procedere nituntur.
+57
+
+

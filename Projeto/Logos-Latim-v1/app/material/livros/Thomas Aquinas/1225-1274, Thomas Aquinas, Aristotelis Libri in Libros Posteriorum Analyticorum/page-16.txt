@@ -1,0 +1,58 @@
+|#4 Secundus modus dicendi per se est, quando haec praepositio per designat habitudinem causae materialis,
+prout scilicet id, cui aliquid attribuitur, est propria materia et proprium subiectum ipsius.
+Oportet autem quod proprium subiectum ponatur in definitione accidentis: quandoque quidem in obliquo, sicut
+cum accidens in abstracto definitur, ut cum dicimus, quod simitas est curvitas nasi; quandoque vero in recto, ut
+cum accidens definitur in concreto, ut cum dicimus quod simus est nasus curvus. Cuius quidem ratio est, quia
+cum esse accidentis dependeat a subiecto, oportet etiam quod definitio eius significans esse ipsius contineat in se
+subiectum. Unde secundus modus dicendi per se est, quando subiectum ponitur in definitione praedicati, quod
+est proprium accidens eius. Et hoc est quod dicit, et per se dicuntur quibuscunque eorum, idest de numero eorum,
+quae insunt ipsis, idest subiectis accidentium, ipsa subiecta insunt in ratione demonstrante quid est ipsum
+accidens, idest in definitione accidentis.
+Sicut rectum et circulare insunt lineae per se: nam linea ponitur in definitione eorum. Et eadem ratione par et
+impar per se insunt numero, quia numerus in eorum definitione ponitur: nam par est numerus medium habens. Et
+similiter primum et compositum per se praedicantur de numero, et numerus in definitione eorum ponitur.
+Est enim primum in numeris, numerus qui nullo alio numero mensuratur, sed sola unitate, ut septenarius.
+Compositus autem numerus est, quem etiam alius numerus mensurat, sicut novenarius.
+Et similiter isopleuros, idest aequilaterum, et scalenon, idest trium inaequalium laterum et altera parte longius,
+per se insunt triangulo, et triangulus ponitur in definitione eorum. Et ideo subiungit quod, subiecta quae insunt
+omnibus praemissis accidentibus in ratione dicente quid est, idest in definitione, sicut alicui praedictorum
+accidentium inest linea, alicui vero numerus, et similiter in aliis, unicuique, inquam, ipsorum subiectorum, per se
+inesse dico suum accidens.
+|#5 Quae vero praedicata neutraliter insunt, idest neque ita quod ponantur in definitione subiectorum, neque
+subiecta in definitione eorum, sunt accidentia, idest per accidens praedicantur, sicut musicum et album
+praedicantur de animali per accidens.
+|#6 Deinde cum dicit: amplius quod non etc., ponit alium modum eius, quod est per se, prout per se significat
+aliquid solitarium, sicut dicitur quod per se est aliquod particulare, quod est in genere substantiae, quod non
+praedicatur de aliquo subiecto. Et huius ratio est, quia cum dico, ambulans vel album, non significo ambulans vel
+album, quasi aliquid per se solitarium existens, cum intelligatur aliquid aliud esse quod sit ambulans vel album.
+Sed in his, quae significant hoc aliquid, scilicet in primis substantiis, hoc non contingit. Cum enim dicitur
+socrates vel Plato, non intelligitur quod sit aliquid alterum, quam id quod vere ipsa sunt, quod scilicet sit
+subiectum eorum. Sic igitur hoc modo quae non praedicantur de subiecto sunt per se, quae vero dicuntur de
+subiecto, scilicet sicut in subiecto existentia, accidentia sunt. Nam quae dicuntur de subiecto, sicut universalia de
+inferioribus, non semper accidentia sunt. Sciendum est autem quod iste modus non est modus praedicandi, sed
+modus existendi.
+Unde etiam in principio non dixit, per se dicuntur, sed, per se sunt.
+|#7 Deinde cum dicit: item alio modo etc., ponit quartum modum, secundum quod haec praepositio per designat
+habitudinem causae efficientis vel cuiuscunque alterius. Et ideo dicit quod quidquid inest unicuique propter
+seipsum, per se dicitur de eo; quod vero non propter seipsum inest alicui, per accidens dicitur, sicut cum dico:
+hoc ambulante coruscat. Non enim propter id quod ambulat, coruscavit; sed hoc dicitur secundum accidens. Si
+vero quod praedicatur insit subiecto propter seipsum, per se inest, ut si dicamus quod interfectum interiit:
+manifestum est enim quod propter id quod illud interfectum est, interiit, et non est accidens quod interfectum
+interierit.
+|#8 Deinde cum dicit: quae ergo dicuntur etc., ostendit qualiter utatur praedictis modis demonstrator.
+Ubi notandum est quod cum scientia proprie sit conclusionum, intellectus autem principiorum, proprie scibilia
+dicuntur conclusiones demonstrationis, in quibus passiones praedicantur de propriis subiectis. Propria autem
+subiecta non solum ponuntur in definitione accidentium, sed etiam sunt causae eorum. Unde conclusiones
+demonstrationum includunt duplicem modum dicendi per se, scilicet secundum et quartum. Et hoc est quod dicit
+quod illa quae praedicantur in simpliciter scibilibus, hoc est, in conclusionibus demonstrationum, sic sunt per se,
+sicut inesse praedicantibus, idest sicut quando subiecta insunt in definitione accidentium, quae de eis
+praedicantur, aut inesse propter ipsa, idest quando praedicata insunt subiecto propter ipsum subiectum, quod est
+causa praedicati. Et consequenter ostendit quod huiusmodi scibilia sunt necessaria: quia non contingit quin
+proprium accidens praedicetur de subiecto. Sed hoc est duobus modis. Quandoque quidem simpliciter, sicut cum
+unum accidens convertitur cum subiecto, ut habere tres cum triangulo, et risibile cum homine. Quandoque autem
+duo opposita sub disiunctione accepta ex necessitate subiecto insunt, ut lineae aut rectum aut obliquum, et
+numero par aut impar. Cuius rationem ostendit, quia contrarium, privatio et contradictio sunt in eodem genere.
+
+16
+
+

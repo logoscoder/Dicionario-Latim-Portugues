@@ -1,0 +1,61 @@
+TTA
+Si aliquid esset in nihilum redactum, utrum Deus possit illud reparare idem numero.
+TTB
+Circa secundum sic proceditur: videtur quod Deus non possit id quod in nihilum redactum est, idem numero
+reparare.
+AG1
+Dicit enim Philosophus in II de generatione, quod ea quorum substantia corrumpitur, non reiterantur eadem
+numero. Sed eorum quae in nihilum rediguntur, substantia corrumpitur. Ergo eadem numero iterari non possunt.
+AG2
+Sed contra, est quod Augustinus dicit, IV de Civit. Dei: si caro humana omnibus periisset modis, nec ulla eius
+materies in ullis latebris remansisset, nonne si vellet, eam repararet omnipotens? sed nulla materia remanente de
+re corrupta, quod corrumpitur, in nihilum redigitur. Ergo Deus id quod in nihilum est redactum, potest idem
+numero reparare.
+AG3
+Praeterea, differentia est causa numeri, sicut Damascenus dicit. Sed nihilum non facit aliquam differentiam: quia
+non entis non sunt species et differentiae, secundum Philosophum.
+Ergo id quod reparatur a Deo potest esse unum et idem numero, quamvis in nihilum fuerit redactum.
+CO
+Respondeo. Dicendum, quod in his quae in nihilum redigi possunt, est quaedam differentia attendenda.
+Quaedam enim sunt quorum unitas in sui ratione habet durationis continuitatem, sicut patet in motu et tempore;
+et ideo interruptio talium indirecte contrariatur unitati eorum secundum numerum. Ea vero quae contradictionem
+implicant, non continentur sub numero Deo possibilium, quia deficiunt a ratione entis: et ideo, si huiusmodi in
+nihilum redigantur, Deus ea non potest eadem numero reparare. Hoc enim esset facere contradictoria simul esse
+vera; puta si motus interruptus esset unus.
+Alia vero sunt quorum unitas non habet in sui ratione continuitatem durationis, sicut unitas rerum permanentium,
+nisi per accidens, in quantum eorum esse subiectum est motui: sic enim et mensurantur huiusmodi tempore, et
+eorum esse est unum et continuum, secundum unitatem et continuitatem temporis. Et quia natura agens non
+potest ista producere sine motu, inde est quod naturale agens non potest huiusmodi reparare eadem numero, si in
+nihilum redacta fuerint, vel si fuerint secundum substantiam corrupta. Sed Deus potest reparare huiusmodi et
+sine motu, quia in eius potestate est quod producat effectus sine causis mediis; et ideo potest eadem numero
+reparare, etiamsi in nihilum elapsa fuerint.
+RA1
+Unde patet responsio ad primum et secundum.
+RA3
+Ad tertium dicendum, quod nihilum non est differentia alicuius entis, si per hoc quod aliquid reducatur in
+nihilum, interrumpatur continuatio essendi, quae pertinet ad unitatem motus, et eorum quae consequuntur ad
+motum.
+|q4 Quaestio 4
+Prologus
+PR
+Deinde quaesitum est de personalibus quae pertinent ad personam filii. Primo quantum ad naturam divinam.
+Secundo quantum ad naturam assumptam.
+Circa primum quaesita sunt duo.
+PR1
+Primo utrum pater eodem verbo dicat se et creaturam.
+PR2
+Secundo utrum filius sua filiatione distinguatur a spiritu sancto.
+|a1 Articulus 1
+TTA
+Utrum pater eodem verbo dicat se et creaturam.
+TTB
+Ad primum sic proceditur. Videtur quod pater non eodem verbo dicat se et creaturam.
+AG1
+Dicere enim se, soli patri convenit, ut Augustinus dicit, VII de Trinit.. Sed dicere creaturam convenit toti
+trinitati: ea enim quae important respectum ad creaturam, toti trinitati conveniunt, ut patet per dionysium, II cap.
+De divin. Nomin.. Ergo pater non eodem verbo dicit se et creaturam.
+AG2
+
+73
+
+

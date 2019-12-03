@@ -1,0 +1,57 @@
+particularia. Quantum vero ad naturalem subsistentiam, particularia magis sunt entia, quae dicuntur primae et
+principales substantiae.
+|#9 Tertiam rationem solvit ibi: amplius neque una necessitas etc., et dicit quod quamvis in propositionibus vel
+demonstrationibus universalibus significetur aliquid unum secundum se, puta triangulus, nulla tamen necessitas
+est quod propter hoc aliquis opinetur quod triangulus sit quoddam unum praeter multa; sicut in his quae non
+significant substantiam, sed aliquod genus accidentis, cum ea absolute significamus, puta dicendo albedinem, vel
+paternitatem, non propter hoc cognoscimus aliquem opinari quod huiusmodi sint praeter substantiam. Intellectus
+enim potest intelligere aliquid eorum, quae sunt coniuncta secundum rem, sine hoc quod actu intelligat aliud, nec
+tamen intellectus est falsus. Sicut si album sit musicum, possum intelligere album et aliquid attribuere ei et
+demonstrare de ipso, puta quod sit disgregativum visus, nulla consideratione habita de musico. Si tamen aliquis
+intelligeret album non esse musicum, esset intellectus falsus. Sic igitur cum dicimus aut intelligimus quod albedo
+est color, nulla mentione facta de subiecto, verum dicimus. Esset autem falsum si diceremus, albedo, quae est
+color, non est in subiecto. Et similiter cum dicimus homo est animal, vere loquimur, non facta mentione de
+aliquo particulari homine. Esset tamen falsum si diceremus, homo est animal, existens separatus a particularibus
+hominibus. Si autem hoc est, ergo sequitur quod demonstratio non sit causa falsae opinionis, qua quis opinatur
+universale esse extra singularia, sed audiens, qui male intelligit. Unde ex hoc nihil derogatur universali
+demonstrationi.
+|+38 Lectio 38
+|#1 Postquam Philosophus solvit rationes, quae sunt ad partem falsam, hic inducit rationes ad partem veram,
+scilicet ad ostendendum quod demonstratio universalis sit potior. Et circa hoc ponit septem rationes, annectens
+eas praemissis solutionibus, ex quibus etiam propositum concludi potest, ut supra patuit.
+|#2 Prima ergo ratio talis est. Demonstratio est syllogismus ostendens causam et propter quid: sic enim contingit
+scire, sicut supra habitum est.
+Sed universale est magis tale quam particulare.
+Iam enim ostensum est in prima solutione quod universali magis inest per se aliquid quam particulari. Illud
+autem cui inest aliquid per se, est causa eius: subiectum enim est causa propriae passionis, quae ei per se inest.
+Universale autem est primum cui propria passio inest, ut ex supra dictis patet: unde patet quod proprie causa est
+id quod est universale. Ex quo concludit propositum, scilicet quod demonstratio universalis sit dignior, utpote
+magis declarans causam et propter quid.
+|#3 Secundam rationem ponit ibi: amplius usque ad hoc etc., et sumitur haec ratio a causis finalibus. Ubi
+considerandum est quod aliquid est finis alterius et quantum ad fieri, et quantum ad esse: quantum ad fieri
+quidem, sicut generatio est propter formam; quantum ad esse autem, sicut domus est propter habitationem. Dicit
+ergo quod usque ad illum terminum quaerimus propter quid fiat aliquid, aut propter quid sit aliquid, quousque
+non sit aliquid aliud assignare quam hoc ad quod perventum est, propter quod fiat vel sit illud, de quo quaeritur
+propter quid.
+Et quando hoc invenimus, tunc opinamur nos scire propter quid; et hoc ideo quia illud quod iam sic est ultimum
+ut non sit aliquid aliud ulterius quaerendum, est id quod est vere finis et terminus, qui quaeritur cum quaerimus
+propter quid. Et ponit exemplum, puta si quaeramus cuius causa aliquis venit, et respondeatur, ut accipiat
+argentum: hoc autem propter quid? ut scilicet reddat debitum: et hoc propter hoc aliud, ut scilicet non iniuste
+agat. Et sic semper procedentes, quando iam non erit amplius propter aliquid aliud sicut propter finem, puta cum
+pervenerimus ad ultimum finem, qui est beatitudo, dicemus quod propter hoc venit sicut propter finem. Et
+similiter est in omnibus aliis, quae sunt vel fiunt propter finem, et quando ad hoc pervenerimus, sciemus propter
+quid venit. Si igitur ita se habet in aliis causis sicut in causis finalibus, quod tunc maxime scimus quando ad
+ultimum fuerit perventum; ergo in aliis tunc maxime sciemus, quando perveniemus ad hoc, quod hoc inest huic
+non amplius propter aliquid aliud: et hoc contingit cum pervenerimus ad universale.
+Et hoc manifestat in tali exemplo. Si enim quaeramus de isto triangulo particulari, quare anguli eius extrinseci
+sunt aequales quatuor rectis; respondebitur quod hoc contingit huic triangulo quia est isosceles; isosceles autem
+est talis quia est triangulus; triangulus autem est talis quia est figura rectilinea talis. Si ergo amplius non possit
+procedi, tunc maxime scimus: hoc autem est, quando pervenitur ad universale. Ergo universalis demonstratio
+potior est particulari.
+|#4 Tertiam rationem ponit ibi: amplius quantocumque etc., et dicit quod quanto magis proceditur versus
+particularia, tanto magis itur versus infinitum; quia, ut dicitur in III physic., infinitum congruit materiae, quae est
+individuationis principium. Sed quanto magis proceditur versus universale, tanto magis itur in aliquid simplex et
+
+62
+
+

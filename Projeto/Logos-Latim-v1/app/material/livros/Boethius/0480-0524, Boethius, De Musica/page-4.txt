@@ -1,0 +1,61 @@
+genus inaequalitatis, quod appellatur multiplex superpartiens, quando maior numerus minorem numerum habet in se
+totum plusquam semel, et eius plusquam unam aliquam partem. Et si bis maior numerus minorem numerum continebit,
+duasque eius insuper partes, uocabitur duplex superbipartiens, ut sunt tres ad octo, et rursus triplex superbipartiens, ut
+sunt tres ad undecim. Ac de his idcirco nunc strictim ac breuiter explicamus, quoniam in libris quos de Arithmetica
+Institutione conscripsimus. diligentius enodauimus.
+V
+Quae inaequalitatis species consonantiis aptentur.
+Ex his igitur inaequalitatis generibus postrema duo, quoniam ex superioribus mixta sunt, relinquamus. De
+tribus uero prioribus speculatio facienda est. Obtinere igitur maiorem ad consonantias potestatem uidetur multiplex,
+consequenter autem superparticularis.
+Superpartiens uero ab harmoniae concinentia separatur, ut quibasdam praeter Ptolemaeum uidetur.
+VI
+Cur multiplicitas et superparticularitas consonantiis deputentur.
+Ea namque probantur comparationi consentanea, quae sunt natura simplicia. Et quoniam grauitas et acumen in
+quantitate consistunt, ea maxime uidebuntur seruare naturam concinentiae, quae discretae [1175] proprietatem
+quantitatis poterunt custodire. Nam cum sit alia quidem discreta quantitas, alia uero continua, ea quae discreta est in
+minimo quidem finita est sed in infinitum per maiora procedit. Namque in ea minima unitas eademque finita est. In
+infinitum uero modus pluralitatis augetur, ut numerus qui cum a finita incipiat unitate, crescendi non habet finem.
+Rursus quae est continua, tota quidem finita est sed per infinita minuitur. Linea enim quae continua est, in infinita
+semper partitione diuiditur. Cum sit eius summa, uel bipedalis, uel quaecumque alia definita mensura. Quocirca
+numerus semper in infinita concrescit, continua uero quantitas in infinita minuitur, Multiplicitas igitur quoniam
+crescendi ffnem non habet, numeri maxime seruat naturam. Superparticularitas autem, quoniam in infinitum minorem
+minuit proprietatem seruat continuae quantitatis.
+Minuit autem minorem, cum semper eum continet, et eius uel dimidiam partem, uel tertiam, uel quartam, uel
+quintam. Nam semper pars a maiore numero denominata ipsa decrescit. Nam cum tertia a tribus denominata sit, quarta
+uero a quatuor, cum quatuor tres superent, quarta potius quam tertia minutior inuenitur. Superpartiens uero iam
+quodammodo a simplicitate discedit. Duas enim, uel tres, uel quatuor habet insuper partes, et a simplicitate discedens
+exuberat ad quamdam partium pluralitatem. Rursus multiplicitas omnis in integritate se continet. Nam duplum bis habet
+totum minorem; triplum item tertio continet totum minorem, atque ad eumdem modum et caetera.
+Superparticularitas uero nihil integrum seruat sed uel dimidio superat, uel tertia, uel quarta, uel quinta. Sed
+tamen diuisionem singulis ac simplicibus partibus operatur. Superpartiens autem inaequalitas nec seruat integrum nec
+singulis adimit partes. Atque ideo secundum Pythagoricos, minime musicis consonantiis adhibetur.
+Ptolemaeus tamen etiam hanc proportionem inter consonantias ponit, ut posterius ostendam.
+VII
+Quae proportiones quibus consonantiis musicis aptentur
+Illud tamen esse cognitum debet, quod omnes musicae consonantiae, aut in duplici, aut in triplici, aut in
+quadrupla, aut in sesquialtera aut in sesquitertia proportione consistunt. Et uocabitur quidem quae in numeris
+sesquitertia est, diatessaron in sonis. Quae in numeris sesquialtera, diapente appellatur in uocibus Quae uero in
+proportionibus dupla est diapason in consonantiis. Tripla uero diapente ac diapason. Quadrupla autem bisdiapason. Et
+nunc quidem uniuersaliter atque indiscrete dictum sit. Posterius uero omnis ratio proportionum lucebit.
+VIII
+Quid sit tonus, quid interuallum, quid concinentia.
+Sonus igitur est uocis casus, emmeles, id est aptus melo, in unam intensionem. Sonum uero non generalem
+nunc uolumus definire; sed eum qui graece dicitur phthongus, dictus a similitudine loquendi [phthengesthai].
+Interuallum uero est soni acuti grauisque [1176] distantia. Consonantia est acuti soni grauisque mixtura, suauiter
+uniformiterque auribus accidens. Dissonantia uero est duorum sonorum sibimet permixtorum ad aurem ueniens aspera
+atque iniucunda percussio.
+Nam dum sibimet misceri nolunt, et quodammodo integer uterque nititur peruenire, cumque alter alteri officit,
+ad sensum insuauiter uterque transmittitur.
+IX
+Non omne iudicium dandum esse sensibus sed amplius rationi esse credendum in quo de sensuum fallacia.
+Sed de his ita proponimns, ut non omne iudicium sensibus demus, quanquam a sensu aurium huiusce artis
+sumatur omne principium. Nam si nullus esset auditus, nulla omnino disputatio de uocibus exstitisset.
+Sed principium quodammodo, et quasi admonitionis uicem tenet auditus.
+Postrema ergo perfectio, agnitionisque uis in ratione consistit, quae certis regulis sese tenens nullo unquam
+errore prolabitur. Nam quid diutius dicendum est de errore sensuum, quando nec omnibus eadem sentiendi uis, nec
+eidem homini semper aequalis? Frustra autem uario iudicio quisquam committet, quod ueraciter affectat inquirere.
+Idcirco Pythagorici medio quodam feruntur itinere. Nam nec omne iudicium dedunt auribus, et quaedam tamen ab eis
+non nisi auribus explorantur.
+
+

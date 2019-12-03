@@ -1,0 +1,59 @@
+magnitudines per accidens, motis corporibus. Et ad huius probationem inducit definitionem naturae, quae est
+principium motus in eis in quibus est, ut dicitur in II physic..
+Ex hoc autem sic argumentatur. Corpora naturalia sunt quae habent naturam: sed natura est principium motus in
+eis in quibus est: ergo corpora naturalia habent principium motus in seipsis. Sed quaecumque moventur
+quocumque motu, moventur localiter, non autem e converso, ut patet in VIII physic., eo quod motus localis est
+primus motuum. Omnia ergo corpora naturalia moventur naturaliter motu locali, non autem omnia aliquo
+aliorum motuum.
+|#4 Sed videtur hoc esse falsum: caelum enim est corpus naturale, nec tamen eius motus videtur esse a natura,
+sed magis ab aliquo intellectu, sicut ex his quae determinantur in VIII physic. Et XII metaphysic. Patet. Sed
+dicendum est quod duplex est principium motus: unum quidem activum, quod est ipse motor, et tale principium
+motus animalium est anima: aliud autem est principium motus passivum, scilicet secundum quod corpus habet
+aptitudinem ut sic moveatur, et huiusmodi principium motus est in gravibus et levibus. Non enim componuntur
+ex movente et moto, ut Philosophus dicit in VIII physic.: quod quidem, inquit, nihil horum, scilicet gravium et
+levium, ipsum movet seipsum, manifestum est: sed motus habent principium, non movendi neque faciendi, sed
+patiendi.
+Sic igitur dicendum est quod principium activum motus caelestium corporum est intellectualis substantia:
+principium autem passivum est natura illius corporis, secundum quam natum est tali motu moveri. Et esset simile
+in nobis si anima non moveret corpus nostrum nisi secundum naturalem inclinationem eius, scilicet deorsum.
+|#5 Deinde cum dicit: omnis autem motus etc., ponit distinctionem localium motuum. Et primo distinguit
+communiter motus locales tam compositos quam simplices; secundo distinguit motus simplices, ibi: circulatio
+quidem igitur etc.. Circa primum duo facit. Primo proponit quod intendit, scilicet quod omnis motus localis (qui
+vocatur latio) aut est circularis, aut rectus, aut mixtus ex his, sicut motus obliquus eorum quae hac illacque
+feruntur.
+Secundo ibi: simplices enim etc., probat quod dixerat, per hoc quod motus simplices non sunt nisi duo, scilicet
+rectus et circularis. Et huius causam assignat ex hoc quod solae sunt duae magnitudines simplices, scilicet recta
+et circularis: motus autem localis secundum loca specificatur, sicut et quilibet alius motus secundum suos
+terminos.
+|#6 Sed videtur quod probatio Aristotelis non sit conveniens: quia, ut dicitur in I poster., transcendentem in
+aliud genus non contingit demonstrare.
+Inconvenienter igitur per divisionem magnitudinum, quae pertinet ad mathematicum, concluditur aliquid circa
+motus, qui pertinent ad naturalem. Sed dicendum quod scientia quae se habet ex additione ad aliam, utitur
+principiis eius in demonstrando, sicut geometria utitur principiis arithmeticae: magnitudo enim addit positionem
+supra numerum, unde punctus dicitur esse unitas posita. Similiter autem corpus naturale addit materiam
+sensibilem supra magnitudinem mathematicam: et ideo non est inconveniens si naturalis in suis
+demonstrationibus utatur principiis mathematicis: non enim est omnino aliud genus, sed quodammodo sub illo
+continetur.
+Item videtur esse falsum quod solae duae magnitudines sint simplices, scilicet recta et circularis.
+Elix enim videtur esse una linea simplex, quia omnis pars eius est uniformis; et tamen linea elica nec est recta
+nec est circularis. Sed dicendum quod elix, si quis eius originem consideret, non est linea simplex, sed mixta ex
+recta et circulari.
+Causatur enim elix ex duobus motibus imaginatis, quorum unus est lineae circumeuntis columnam, alius autem
+est puncti moti per lineam: si enim uterque motus simul et regulariter perficiatur, constituetur elica linea per
+motum puncti in linea mota.
+Item videtur quod motus circularis non sit simplex.
+Partes enim sphaerae circulariter motae non uniformiter moventur, sed pars quae est circa polos vel circa
+centrum, movetur tardius, quia peragit minorem circulum in eodem tempore: et ita motus sphaerae videtur
+compositus ex tardo et veloci. Sed dicendum quod continuum non habet partes in actu, sed solum in potentia:
+quod autem non est actu, non movetur actu: unde partes sphaerae, cum sint corpus continuum, non moventur
+actu. Unde non sequitur quod in motu sphaerico vel circulari sit diversitas actualis, sed solum potentialis; quae
+non repugnat simplicitati de qua nunc loquimur; omnis enim magnitudo habet pluralitatem potentialem.
+|#7 Deinde cum dicit: circulatio quidem igitur etc., distinguit motus simplices. Et primo ponit unum, scilicet
+circularem; secundo ponit duos rectos, ibi: rectus autem etc.; tertio concludit numerum ternarium simplicium
+motuum, ibi: itaque necesse etc.. Dicit ergo primo quod circulatio, idest motus circularis, dicitur qui est circa
+medium.
+Et est intelligendum circa mundi medium: rota enim, quae movetur circa medium sui, non movetur proprie
+circulariter; sed motus eius est compositus ex elevatione et depressione.
+6
+
+

@@ -1,0 +1,58 @@
+possibili, sumpta in sensu compositionis, et aequiualens ei est eodem modo conuertenda sicut sua de inesse, quia
+in omnibus talibus conuersionibus arguitur per istam regulam 'si unum conuertibilium est possibile, reliquum est
+passibile', uel per istam 'si antecedens est possibile, consequens est possibile', quae regulae sunt semper uerae.
+Sic autem accipiendo 'passibile' est sciendum quod eaedem regulae quae dictae sunt de conuersione
+propositionum de necessario' attendendae sunt circa conuersionem propositionum de possibili. Nam illa de
+possibili, sumpta in sensu compositionis, et aequiualens ei est eodem modo conuertenda sicut sua de inesse, quia
+in omnibus talibus conuersionibus arguitur per istam regulam 'si unum conuertibilium est possibile, reliquum est
+passibile', uel per istam 'si antecedens est possibile, consequens est possibile', quae regulae sunt semper uerae.
+Sed si sumantur tales propositiones in sensu diuisionis uel eis aequiualentes, tunc non eodem modo
+conuertuntur. Unde non sequitur 'Deus potest esse non creans, igitur non creans potest esse Deus', et hoc si
+subiectum consequentis accipiatur pro eo quod est. Similiter non sequitur
+'uiator potest esse damnatus, igitur damnatus potest esse uiator', sed sequitur 'igitur aliquis, qui potest
+esse damnatus, est uiator'.
+'uiator potest esse damnatus, igitur damnatus potest esse uiator', sed sequitur 'igitur aliquis, qui potest
+esse damnatus, est uiator'.
+Verumtamen ut plenius pateat qualiter tales propositones de possibili debent conuerti, est sciendum
+quod quanda subiectum propositianis de possibili est terminus communis uel includens terminum comniunem,
+propositio est distinguenda, eo quod subiectum potest supponere pro his quae sunt uel pro his quae possunt esse;
+quae regula intelligenda est, proportianaliter, sicut dictum est prius de propositionibus de praeterito et de futura.
+Si autem accipiatur subiectum antecedentis pro his quae sunt, tunc conuertitur in illam de passibili, subiecto
+consequentis accepto pro his quae possunt esse, sed non accepto subiecto consequentis pro his quae sunt. Unde
+bene sequitur 'aliquis, qui est uiator, potest esse damnatus, igitur aliquis, qui potest esse damnatus, potest esse
+uiator'. Similiter sequitur 'Deus potest esse non creans, igitur qui potest esse non creans, potest esse Deus'. [Et
+non solum sequitur illa de possibili, sed etiam cum tali additione 'qui potest esse' sequitur illa de inesse, sicut
+sequitur 'Deus potest esse non creans, igitur qui potest esse non creans, est Deus']. Sed si subiectum antecedentis
+accipiatur pro his quae possunt esse, tunc sequitur illa de possibili, subiecto consequentis accepto pro his quae
+possunt esse, et non sequitur illa de inesse. Si autem praedicatum antecedentis sit terminus singularis uel
+pronomen demonstratiuum sine addito, sequitur illa de possibili absolute; sicut sequitur 'creans potest esse Deus,
+igitur Deus potest esse creans', siue subiectum antecedentis accipiatur pro his quae sunt siue pro his quae possunt
+esse.
+Verumtamen ut plenius pateat qualiter tales propositones de possibili debent conuerti, est sciendum
+quod quanda subiectum propositianis de possibili est terminus communis uel includens terminum comniunem,
+propositio est distinguenda, eo quod subiectum potest supponere pro his quae sunt uel pro his quae possunt esse;
+quae regula intelligenda est, proportianaliter, sicut dictum est prius de propositionibus de praeterito et de futura.
+Si autem accipiatur subiectum antecedentis pro his quae sunt, tunc conuertitur in illam de passibili, subiecto
+consequentis accepto pro his quae possunt esse, sed non accepto subiecto consequentis pro his quae sunt. Unde
+bene sequitur 'aliquis, qui est uiator, potest esse damnatus, igitur aliquis, qui potest esse damnatus, potest esse
+uiator'. Similiter sequitur 'Deus potest esse non creans, igitur qui potest esse non creans, potest esse Deus'. [Et
+non solum sequitur illa de possibili, sed etiam cum tali additione 'qui potest esse' sequitur illa de inesse, sicut
+sequitur 'Deus potest esse non creans, igitur qui potest esse non creans, est Deus']. Sed si subiectum antecedentis
+accipiatur pro his quae possunt esse, tunc sequitur illa de possibili, subiecto consequentis accepto pro his quae
+possunt esse, et non sequitur illa de inesse. Si autem praedicatum antecedentis sit terminus singularis uel
+pronomen demonstratiuum sine addito, sequitur illa de possibili absolute; sicut sequitur 'creans potest esse Deus,
+igitur Deus potest esse creans', siue subiectum antecedentis accipiatur pro his quae sunt siue pro his quae possunt
+esse.
+Per praedicta patet quod tales consequentiae non ualent 'uidens potest esse caecus, igitur caecus potest
+esse uidens'; 'uerum potest esse impossibile, igitur impossibile potest esse uerum'; 'nullum necessarium potest
+esse falsum, igitur nullum falsum potest esse necessarium'. Et hoc si subiectum
+Consequentis accipiatur pro his quae sunt; aliter consequentiae sunt bonae.
+Consequentis accipiatur pro his quae sunt; aliter consequentiae sunt bonae.
+[2.26 DE CONVERSIONE PROPOSITIONUM DE IMPOSSIBILI]
+[2.26 DE CONVERSIONE PROPOSITIONUM DE IMPOSSIBILI]
+Circa conuersionem propositionum de impossibili est sciendum quod propositiones de impossibili,
+acceptae in sensu compositionis, conuertuntur sicut suae de inesse, quando illae de inesse conuertuntur
+simpliciter, quia tunc arguitur per istam regulam 'si unum conuertibilium est impossibile, reliquum est
+197
+
+

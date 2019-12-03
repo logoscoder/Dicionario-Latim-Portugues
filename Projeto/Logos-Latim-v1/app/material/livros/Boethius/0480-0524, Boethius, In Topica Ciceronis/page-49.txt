@@ -1,0 +1,62 @@
+Qui modus a superioribus plurimum distat, quod in eo modo [1134B] qui sit ab antecedentibus, ponitur
+antecedens, ut id quod sequitur astruatur. In modo uero qui sit a consequentibus, perimitur consequens, ut id quod
+praecesserat, auferatur. In hoc uero neutrum est, nam neque antecedens ponitur, ut quod sequitur, confirmetur, nec
+interimitur subsequens, ut id quod praecesserat, euertatur; sed ponitur antecedens, ut id quod sequitur, interimatur.
+Hic autem propositionis modus partes inter se suas continet repugnantes, aduersum quippe est ac repugnat, si
+dies est, non esse lucem. Sed idcirco rata positio est, quia consequentium repugnantia facta per mediam negationem alia
+negatione destruitur, et ad uim affirmationis omnino reuocatur. Nam quia consequens esse intelligitur, ac uerum, si dies
+est esse lucem, [1134C] repugnat ac falsum est, si dies est, non esse lucem, quae denegata rursus uera est ita, non si
+dies est, lux non est, et si consimilis affirmationi, si dies est, lux est, quia facit affirmationem geminata negatio.
+Similiter uero fiunt ex repugnantibus propositionis partibus argumenta, uel si duabus negationibus, uel si
+negatione et affirmatione, uel si affirmatione et negatione iungatur. Quomodo uero fiant ex talibus connexis
+repugnantes, superius dictum est. Fit uero ex ea propositione quae duabus iungitur negatiuis ex repugnantibus
+argumentum hoc modo: sit propositio, si non est lux, dies non est; fiat repugnans ita, si non est lux, est dies; huic
+iungamus negationem ut fiat uera ita:
+Non si lux non est, dies est; Atqui lux non est, Dies igitur non est.
+Item fit ex negatione [1134D] atque affirmatione propositio haec: si dies non est, nox est; huic additur ex
+posteriore parte negatio, et fit ita: si dies non est, nox non est; fit repugnans, haec nihilominus abnuatur ut sit uera, non
+si dies non est, nox non est, assumimusque, atqui dies non est concludimus, nox igitur est.
+Item ex eadem propositione, quae ex negatiua affirmatiuaque coniungitur et dicit: si dies non est, nox est, si a
+priori parte negatio subtrahatur, fiet repugnans, hoc modo: si dies est, nox est; huic apponatur negatio, ut uera esse
+possit, hoc modo: non si dies est, nox est, assumamque, atqui dies est, concluditur, nox igitur non est.
+At si sit ex affirmatione et negatione propositio coniuncta, uelut haec: [1135A] si uigilat non stertit, demitur
+posteriori parti negatio, ut fiat ita: si uiglat stertit; sed haec repugnat. Tota rursus propositio denegatur, ut fiat uera hoc
+modo: non si uigilat stertit; assumimus, at qui uigilat; concludamus necesse est, non stertit igitur.
+Sed hae quatuor ex repugnantibus conclusiones in tertio modo consistere intelliguntur, quarum quidem Tullius
+tres commemorauit, unamque praecepto docuit, eam quam propositio talis efficit, quae duabus iungitur affirmatiuis;
+duas uero exemplo, scilicet eam quae ex tali propositione nascitur, quae duae copulant negationes, et eam quae ex
+propositione tali connexa procreatur, quae ex affirmatione negationeque consistit. Reliquam uero praeteriit, quod
+illarum similitudine etiam haec in tertium conclusionis modum uidebatur [1135B] incidere.
+Quartus modus in disiunctione consistit, hoc modo:
+Aut dies est, aut nox est; Sed dies est, Nox igitur non est.
+Huius haec ratio est, quia disiunctiua enuntiatione proposita, prior pars eius assumitur affirmando, ut
+subsequens auferatur; ex ea enim propositione quae dicit, aut dies est, aut nox est, assumimus, atqui dies est, scilicet
+affirmantes esse diem, quam assumptionis affirmationem consequitur non esse noctem.
+Quintus modus est, cum in eadem disiunctiua propositione, id quod primum est, negando assumitur, ut id quod
+est posterius inferatur, hoc modo aut dies est, aut nox est, atqui dies non est, per negationem scilicet facta est
+assumptio, consequitur esse noctem.
+Sextus uero [1135C] modus ac septimus ex quarti et quinti modi disiunctiua propositione deducuntur, una
+negatione uidelicet adiuncta, et disiunctiua propositione detracta, additaque coniunctiua his propositionibus quae
+superius in disiunctione sunt positae, hoc modo: non et dies est et nox est. Dudum igitur in disiunctiua ita fuit, ut aut
+dies est, aut nox est. Ex hac igitur propositione sublata, aut coniunctione, quae erat disiunctiua adlecimus, et quae
+copulatiua est, praeposuimusque negationem. Itaque fecimus ex partibus disiunctiuae propositionis copulatis, addita
+negatione, propositionem sexti atque septimi modi, quae est, non et dies est et nox est, in qua is assumatur esse diem,
+noctem non esse consequitur ita, atqui dies est, non est igitur nox. Septimus [1135D] uero modus est, cum prima pars
+prorositionis negando assumitur, ut posterior subsequatur, hoc modo:
+Non et dies est et nox est; Atqui dies non est, Nox igitur est.
+Atque hic modus propositionum in solis his inueniri potest, quorum alterum esse nec esse est, ut diem uel
+noctem, aegritudinem uel salutem, et quidquid medium non habet.
+Quo autem modo omnium syllogismorum conditionalium ueritas sese habeat, his diligentissime expliculmus
+libris quos de hypotheticis conscripsimus syllogismis. Nunc uero, non quod de his perfectior consideratio inueniri
+potest apposuimus sed id quod ad explanandum M. Tullii sententiam poterat accommodari.
+Ut igitur cuncta quae diximus breuiter colligantur, primus modus est quoties in connexa propositione primum
+ut in [1136A] propositione locatur, assumitur, ut consequatur secundum, hoc modo:
+Si dies est, lux est, Atqui dies est, Lux igitur est.
+Secundus modus est quoties in connexa propositione secundum econtrario assumitur quam in propositione
+collocatum est, ut id quod primum est auferatur, hoc modo:
+Si dies est, lux est; Atqui non est lux, Non est igitur dies.
+Tertius modus estcum connexa propositionis partes ex affirmationibus iunctae, negatione diuiduntur, totique
+propositioni negatio rursus adiungitur, assumiturque, quod prius est, sicut in propositione est enuntiatum, ut econtrario
+concludatur secundum quod in propositione prolatum est, hoc modo:
+
+

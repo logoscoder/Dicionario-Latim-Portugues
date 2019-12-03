@@ -1,0 +1,62 @@
+consequitur igitur ut sit b. Si enim ex consequentia primae propositionis id quod secundum est assumendo
+ponamus, nullus efficitur syllogismus.
+[2.2.2] Age enim sit huiusmodi consequentia, ut si sit a, sit b assumaturque quod sequitur hoc modo:
+At est b
+non consequitur ut sit uel non sit a. Id uero clarius fiet exemplo: sit enim propositio:
+Si homo est, animal est
+assumaturque esse animal, scilicet quod consequitur, non necesse erit esse hominem uel non esse; potest enim,
+cum sit animal, homo uel esse uel non esse. Secundus uero modus est eorum in quibus prior propositionis pars in
+assumptione repetitur, uenit autem ex secunda propositione superius digesta, hoc modo:
+Si est a, non est b; Atqui est a; Non est igitur b.
+Id enim propositum fuerat, si esset a, non esset b. Sumpto igitur praecedente, consequentis /262/ est facta
+conclusio; quod si consequens sumas, nullus uidetur fieri syllogismus, quia nec consequitur ulla necessitas, hoc modo:
+Si est a, non est b; Atqui non est b;
+non necesse est esse a uel non esse.
+[2.2.3] Age enim ita sit propositio:
+Si est nigrum, album non est
+et id quod sequitur assumatur:
+Atqui non est album
+non necesse erit esse nigrum uel non esse, quia cum non sit album potest aliquid esse medium. Tertius uero
+modus est talium syllogismorum qui uenit ex tertia propositione, quorum in assumptione id ponitur quod praecedit hoc
+modo:
+Si non est a, est b; Atqui non est a; Est igitur b.
+Haec igitur conclusio rursus ex conditione propositionis euenit: id enim fuerat propositum, ut si non esset a
+esset b; quod si conuertas et sumas esse b, id est quod sequitur, non necesse erit uel esse uel non esse id quod praecedit.
+[2.2.4] Sed huius exemplum non potest inueniri, eo quod si ita proponitur, ut:
+Cum non sit a sit b
+nihil esse medium uideatur inter a atque b; sed in his si alterum non fuerit, statim necesse est esse alterum, et si
+alterum fuerit, statim alterum non esse necesse est. Videtur ergo quodammodo et sequenti posito in his fieri
+syllogismus; sed quantum ad rerum naturam ita est, quantum uero ad propositionis ipsius pertinet conditionem, minime
+consequitur. /264/ Quod quidem ex his patet quae superius dicta sunt.
+In utrisque enim superioribus modis sequenti posito nihil ex necessitate collectum est, hic uero tertius modus,
+quantum ad complexionem propositionum pertinet, in quo ponendo si id quod consequebatur assumitur, nullum efficit
+syllogismum.
+[2.2.5] Quantum uero ad rerum naturam, in quibus solis hae propositiones enuntiari possunt, uidetur esse
+necessaria consequentia hoc modo, ut:
+Si dies non est, nox sit
+Si nox sit, dies non sit
+ex necessitate consequitur; similesque sunt hi syllogismi his qui in disiunctione sunt constituti, de quibus paulo
+posterius commemorabo, quorumque ad illos et differentias et similitudines dabo. Quartus uero modus est ex quarta
+propositione, cum ita proponitur:
+Si a non est, b non est; Atqui non est a; Non est igitur b
+rursus enim id quoque consequi ex propositione monstratur, quae proposuit non fore b, si a prior terminus non
+fuisset.
+[2.2.6] At si id quod consequitur assumamus, nulla uidetur fieri posse necessitas, ueluti si ita dicamus:
+Non est autem b
+non necesse erit uel esse uel non esse a. Age enim proponatur si animal non est, non esse hominem,
+assumaturque:
+At non est homo
+non necesse est ut uel sit animal uel non sit. Demonstratum igitur est in huiusmodi syllogismis, si id quidem
+quod praecedit ponendo assumatur, perfectos atque ex ipsis propositionibus probabiles et necessarios fieri syllogismos.
+[2.2.7] Si uero id quod sequitur ponendo assumatur, nullam fieri necessitatem, praeter in tertio modo, qui cum
+sit similis his syllogismis /266/ qui secundum disiunctionem propositis enuntiationibus fiunt, uidetur in rebus de quibus
+proponi possit seruare necessitatem, cum in complexione non seruet, quod ex caeteris tribus modis arguitur primo,
+secundo atque quarto, in quibus assumpta ponendo sequente propositionis parte, nihil ex necessitate conficitur. Ac de
+his quidem syllogismis, qui duobus terminis coniunguntur, quorum prima pars propositionis ponendo assumitur,
+quantum ad institutionis pertinet modum, sufficienter expressimus.
+[2.3.1] Nunc uero de his dicendum est, quorum consequens propositionis pars ita assumitur, ut perimatur. Ex
+his quoque quatuor fiunt modi, cum prior propositionis pars in assumptione non possit interimi, ut ulla syllogismi
+necessitas consequatur. Est igitur primus modus talium syllogismorum a prima ueniens propositione sic:
+Si est a, est b; Atqui non est b; Non est igitur a.
+
+

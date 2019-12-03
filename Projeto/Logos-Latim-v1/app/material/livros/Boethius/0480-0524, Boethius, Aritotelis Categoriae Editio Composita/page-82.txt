@@ -1,0 +1,61 @@
+Hoc autem non conuertitur. Neque enim simplicem negatiuam sequitur priuatoria affirmatiua. Nam si uerum
+est dicere quoniam non est iustus homo, non est omnino uerum quoniam est iniustus homo. De equo enim uerum est
+dicere quoniam equus non est iustus homo (nam qui omnino homo non est nec iustus homo est) sed non de eodem equo
+dici potest uere quoniam equus est iniustus homo. Nam qui homo non est nec iniustus esse potest. Quare ueritatem
+negatiuae simplicis non sequitur ueritas priuatiuae affirmationis, ueritatem autem affirmationis priuatoriae sequitur ex
+necessitate ueritas simplicis negatiuae.
+Quocirca monstratum est hoc in utrisque, quoniam affirmationem quidem simplicem sequeretur negatio
+priuatoria, negationem uero priuatoriam non sequitur affirmatio simplex; rursus affirmationem priuatoriam sequitur
+negatio simplex, negationem simplicem non sequitur affirmatio priuatoria.
+His ergo ita positis de infinitis priuatoriisque tractemus.
+Priuatoriae namque et infinitae affirmationes affirmationibus, negationes consentiant negationibus /281/ hoc
+modo. Affirmatio enim priuatoria quae dicit:
+Est iniustus homo
+consentit infinitae affirmationi quae dicit:
+Est non iustus homo
+Idem enim significant utraeque et priuatoria affirmatio et infinita affirmatio et quamquam in aliquo sermone
+prolatione discrepant, tamen significatione nil discrepant, nisi tantum quod quem illa iniustum ponit id est priuatoria,
+haec ponit esse non iustum. Et rursus negatio priuatoria quae est:
+Non est iniustus homo
+consentit atque concordat ei negationi quae est infinita:
+Non est non iustus homo
+Hae quoque idem, quod sibi istae consentiunt. Sequitur autem simplicem affirmationem eam quae dicit:
+Est iustus homo
+priuatoria negatio quae dicit:
+Non est iniustus homo
+sequitur igitur eandem ipsam simplicem affirmationem infinita negatio, id est eam quae dicit:
+Est iustus homo
+ea quae proponit:
+Non est non iustus homo
+Nam si sibi priuatoria negatio et infinita consentiunt, quam consequitur priuatoria negatio, eandem quoque
+infinita negatio consequitur. Sed affirmationem simplicem quae proponit:
+Est iustus homo
+priuatoria negatio sequitur quae dicit:
+Non est iniustus homo
+quare sequitur etiam eandem simplicem affirmationem quae enuntiat:
+Est iustus homo
+infinita negatio:
+Non est non iustus homo
+Rursus e diuersa parte idem euenit: quoniam affirmationem priuatoriam quae dicit:
+Est iniustus homo
+sequebatur negatiua simplex quae proponit:
+Non est iustus homo
+sequitur quoque infinitam affirmationem quae dicit:
+Est /282/ non iustus homo
+simplex negatio quae dicit:
+Non est iustus homo
+Nam si priuatoria affirmatio et infinita consentiunt, quae sequitur priuatoriam, eadem sequitur infinitam. Sed
+priuatoriam affirmationem quae dicit:
+Est iniustus homo
+sequitur simplex negatio quae proponit:
+Non est iustus homo
+sed priuatoria affirmatio et infinita affirmatio idem significant sibique consentiunt: sequitur igitur simplex
+negatio quae est:
+Non est iustus homo
+infinitam affirmationem quae dicit:
+Est non iustus homo
+Sed hoc e conuerso non euenit.
+Nunc enim demonstratum est quod simplicem affirmationem sequeretur infinita negatio et simplex negatio
+ueritatem infinitae affirmationis sequeretur sed non est e conuerso, ut rursus infinitam negationem sequatur finita
+
+

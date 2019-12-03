@@ -1,0 +1,49 @@
+OPERA OMNIA
+SANCTI THOMAE AQUINATIS
+-----oOo----Textum electronicum praeparavit et indexavit
+Ricardo M. Rom n, S. R. E. Presbyterus
+Bonis Auris, MCMXCVIII
+
+|*ARISTOTELIS_LIBRI
+IN LIBROS DE
+|*DE_GENER._ET_CORR.
+IN LIBRUM DE GENERATIONE ET CORRUPTIONE
+|+PR Prooemium
+|#1 Sicut tradit Philosophus in III de anima, scientiae secantur quemadmodum et res: nam omnes habitus
+distinguuntur per obiecta, ex quibus speciem habent. Res autem quas considerat naturalis, sunt motus et mobile:
+dicit enim Philosophus in II physic. Quod quaecumque mota movent, sunt physicae speculationis. Et ideo oportet
+quod secundum differentiam motuum et mobilium, distinguantur et ordinentur partes scientiae naturalis.
+Primus autem motuum est motus localis, qui est perfectior ceteris, et communis omnibus corporibus naturalibus,
+ut probatur in VIII physic.. Et ideo post considerationem motuum et mobilium in communi, quae fuit tradita in
+libro physicorum, primo oportuit quod tractaretur de corporibus secundum quod moventur motu locali, in libro
+de caelo; quae est secunda pars scientiae naturalis.
+Restat igitur consideratio de motibus aliis consequentibus, qui non sunt communes omnibus corporibus, sed
+inveniuntur in solis inferioribus.
+Inter quos principatum obtinet generatio et corruptio. Alteratio enim ordinatur ad generationem sicut ad finem,
+qui est perfectior naturaliter his quae sunt ad finem. Augmentum etiam consequenter se habet ad generationem:
+nam augmentum non fit sine quadam particulari generatione, qua scilicet nutrimentum convertitur in nutritum;
+sicut Philosophus dicit in II de anima quod cibus nutrit inquantum est potentia caro, augmentat autem inquantum
+est potentia quanta caro. Et ideo necesse est, quia hi motus quodammodo consequenter se habent ad
+generationem, quod simul de his et de generatione et corruptione tractetur.
+|#2 Est autem considerandum quod de unoquoque quod in pluribus invenitur, prius est considerandum in
+communi, quam ad species descendere: alioquin oporteret idem dicere multoties, ita scilicet quod in singulis id
+quod est commune repeteretur, sicut probat Philosophus in I de partibus animalium. Et ideo prius oportuit de
+generatione et corruptione in communi determinare, quam ad partes eius descendere. Similiter etiam considerare
+oportet quod, si in aliquo genere aliquod primum invenitur quod sit causa aliorum, eiusdem considerationis est
+commune genus et id quod est primum in genere illo: quia illud primum est causa totius generis, oportet autem
+eum qui considerat genus aliquod, causas totius generis considerare. Et inde est quod Philosophus in
+metaphysica simul determinat de ente in communi et de ente primo, quod est a materia separatum. Sunt autem in
+genere generabilium et corruptibilium quaedam prima principia, scilicet elementa, quae sunt causa generationis
+et corruptionis et alterationis in omnibus aliis corporibus.
+Et inde est quod Aristoteles in hoc libro, qui est tertia pars scientiae naturalis, determinat non solum de
+generatione et corruptione in communi et aliis motibus consequentibus, sed etiam de generatione et corruptione
+elementorum.
+His igitur praelibatis ad demonstrandum intentionem Aristotelis in hoc libro, accedendum est ad expositionem
+eius.
+|+1 Lectio 1
+|#1
+In hoc igitur libro Philosophus primo ponit prooemium, demonstrans suam intentionem: secundo
+prosequitur propositum, ibi: antiquorum quidem igitur etc..
+1
+
+

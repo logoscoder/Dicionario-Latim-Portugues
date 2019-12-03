@@ -1,0 +1,64 @@
+Dicit ergo primo, quod si sit aliquod mobile quod aeque velociter moveatur
+per totum, necesse est, si pertransit finitam magnitudinem, quod hoc sit in
+tempore finito.
+Accipiatur enim una pars magnitudinis, quae mensuret totum; puta sit tertia
+vel quarta pars magnitudinis. Si ergo mobile aeque velociter movetur per
+totum, et aeque velox est quod aequale spatium in aequali tempore
+pertransit, sequitur quod in aequalibus temporibus, et tot quot sunt partes
+magnitudinis, pertranseat mobile totam magnitudinem: puta, si accepta sit
+quarta pars magnitudinis, eam pertransibit in aliquo tempore, et aliam
+quartam in alio tempore aequali; et sic totam magnitudinem pertransit in
+quatuor aequalibus temporibus.
+Quia ergo partes magnitudinis sunt finitae numero, et unaquaeque etiam est
+finita secundum quantitatem, et tot modis pertransit omnes partes, idest in
+totidem temporibus aequalibus; sequitur quod totum tempus in quo pertransit
+totam magnitudinem, sit finitum.
+Mensurabitur enim a tempore finito: quia erit toties tantum quantum est
+tempus in quo pertransit partem, quoties magnitudo tota est tanta quanta
+est pars. Et sic totum tempus erit multiplicatum secundum multiplicationem
+partium. Omne autem multiplicatum mensuratur a submultiplici, sicut duplum
+a dimidio, et triplum a subtriplo, et sic de aliis. Tempus autem quo
+pertransit partem est finitum: quia si detur quod sit infinitum, sequetur
+quod in aequali tempore pertranseat totum et partem; quod est contra id
+quod suppositum est. Et sic oportet quod totum tempus sit finitum; quia
+nullum infinitum mensuratur a finito.
+|#4
+Sed quia posset aliquis dicere, quod licet partes magnitudinis sint
+aequales, et mensurent totam magnitudinem, tamen potest contingere quod
+partes temporis non sunt aequales, sicut quando non est aequalis velocitas
+in toto motu; et sic tempus quo movetur per partem magnitudinis, non
+mensurabit tempus quo movetur per totam: ideo consequenter ibi: sed si non
+sit etc., ostendit quod hoc nihil differt quantum ad propositum.
+Sit enim ab spatium finitum, quod pertransitum sit in tempore infinito quod
+est cd.
+Necesse est autem in omni motu, quod prius pertranseatur una pars quam
+altera: et hoc etiam manifestum est, quod in priori parte temporis et
+posteriori, altera et altera pars magnitudinis pertransitur. Et ita oportet
+quod neque duae partes magnitudinis pertranseantur in una et eadem parte
+temporis; neque quod in duabus partibus temporis pertranseatur una et eadem
+pars magnitudinis. Et sic oportet, si in aliquo tempore pertransita est
+aliqua pars magnitudinis, quod in pluri tempore pertranseatur non solum
+illa pars magnitudinis, sed etiam cum hac et altera: et hoc indifferenter,
+sive aeque velociter moveatur mobile, sive non; vel per hoc quod velocitas
+semper magis ac magis intenditur, sicut in motibus naturalibus, vel per hoc
+quod magis et magis remittitur, sicut in motibus violentis.
+His igitur suppositis, accipiatur aliqua pars spatii ab, quae quidem pars
+sit ae, et mensuret totum ab, ita scilicet quod sit aliquota pars eius, vel
+tertia vel quarta. Haec igitur pars spatii pertransita est in aliquo
+tempore finito. Non enim potest dari quod sit pertransita in tempore
+infinito; quia totum spatium pertransitum est in tempore infinito, et in
+minori pertransitur pars quam totum.
+Item accipiamus aliam partem spatii quae sit aequalis parti ae, et eadem
+ratione necesse est quod haec pars pertranseatur in tempore finito, quia
+totum spatium pertransitur in tempore infinito.
+Et sic semper accipiendo, accipiam tot tempora finita, quot sunt partes
+spatii; ex quibus constituetur totum tempus, in quo movetur per totum
+spatium.
+Impossibile est autem quod aliqua pars infiniti mensuret totum, neque
+secundum magnitudinem neque secundum multitudinem: quia impossibile est
+quod infinitum constet ex partibus finitis numero, quarum etiam unaquaeque
+sit finita quantitate, sive dicatur quod illae partes sint aequales, sive
+
+237
+
+

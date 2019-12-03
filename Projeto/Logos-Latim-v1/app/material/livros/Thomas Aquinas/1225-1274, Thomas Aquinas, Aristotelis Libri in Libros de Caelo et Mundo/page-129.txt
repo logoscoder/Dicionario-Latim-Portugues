@@ -1,0 +1,56 @@
+|#8 Secundam rationem ponit ibi: adhuc si grave etc.; quae talis est. Grave et leve consequuntur ad rarum et
+spissum: videmus enim quod secundum differentiam raritatis et densitatis, elementa differunt in gravitate et
+levitate. Sed spissum in hoc differt a raro, quod in aequali mole, idest sub eisdem dimensionibus, plura continet,
+quia plus habet de materia, ut in IV physic.
+Habetur. Cum autem corpora quaedam sint gravia, quaedam levia, si punctum ponitur grave, pari ratione ponitur
+leve; et si ponitur spissum, pari ratione ponitur rarum. Sed illud quod ponitur spissum, oportet esse divisibile,
+inquantum plura continet sub minori mole: similiter id quod est rarum, oportet quod sit divisibile, inquantum
+aequale continet sub maiori mole. Punctum autem est indivisibile: ergo neque est spissum neque rarum; et per
+consequens neque grave neque leve.
+|#9 Tertiam rationem ponit ibi: si autem omne grave etc.; quae talis est. Omne grave aut est molle aut durum:
+cuius ratio est, quia gravitas consequitur duo elementa, scilicet terram et aquam, quorum unum, scilicet aqua,
+cedit tangenti, et ideo est principium mollitiei; alterum autem, scilicet terra, non cedit, et ideo est principium
+duritiei.
+Manifestum est autem quod omne molle est divisibile: quia cedit tangenti infra seipsum; quod non posset esse
+nisi haberet plures partes, quarum una quodammodo resurgeret in locum alterius. Et eadem ratione oportet
+durum esse divisibile: non enim posset dici non cedens, nisi haberet quo cederet. Cum igitur punctum sit
+indivisibile, non erit durum neque molle: et ita non erit grave.
+|#10 Deinde cum dicit: sed adhuc neque ex non habentibus etc., ostendit quod nullum grave potest componi ex
+duobus vel pluribus, quorum nullum est grave. Sed hoc est intelligendum de compositione qua aliquid
+componitur ex partibus quantitativis: nam ex partibus essentialibus componitur aliquid grave, puta ex materia et
+forma, quorum neutrum est grave.
+Ad hoc autem ostendendum inducit duas rationes.
+Quarum prima est quae procedit secundum quorundam opinionem, qui dicebant quod ex aliquibus non gravibus,
+quando multiplicabantur, componebatur aliquid grave: quando autem erant in minori numero, non constituebatur
+ex eis aliquid grave. Oportet igitur quod determinent quot existentibus constituatur gravitas: alioquin quod
+dicitur sine certa ratione, videtur esse fictitium.
+|#11 Secundam rationem ponit ibi: et si omnis gravitas etc.; quae talis est. Omnis gravitas maior alia gravitate,
+excedit minorem gravitatem per aliquam gravitatem: quia per additionem similium fit aliquid maius. Et ex hoc
+sequitur, secundum positionem praedictam, quod quodlibet indivisibile habeat gravitatem. Ponamus enim quod
+sit aliquod corpus ex quatuor punctis constitutum, gravitatem habens: sit aliud corpus constitutum ex pluribus
+punctis, puta ex quinque. Et sic erit gravius; ita scilicet quod oportebit id in quo excedit, esse grave. Et quamvis
+non omne gravius sit grave, ut supra dictum est, tamen omne quod est gravius gravi, oportet esse grave, sicut
+omne quod est albius albo, oportet esse album. Et ideo, cum illud quod est maius in uno puncto, sit gravius
+corpore quod est sibi aequale si auferatur ab eo unum punctum, sequetur quod unum punctum sit grave; quod est
+impossibile, ut ex praemissis patet. Ergo relinquitur impossibile esse quod ex non gravibus fiat aliquod grave.
+|+4 Lectio 4
+|#1 Praemissa prima ratione quam Aristoteles posuit ad improbandum opinionem Platonis, ponentis corpora ex
+superficiebus generari, hic ponit secundam rationem. Ad cuius evidentiam sciendum est quod Plato, quia non
+distinguebat inter unum quod est principium numeri, et unum quod convertitur cum ente, quod significat
+substantiam rei, ponebat per consequens quod unum quod est principium numeri, esset substantia rei: et per
+consequens omnes res ponebat esse numeros.
+Unde et dimensiones quantitatis continuae dicebat esse quosdam numeros positionem habentes: et sic secundum
+ipsum punctus est unitas positionem habens, et sic de aliis. Et quia dualitatem attribuebat materiae, unitatem
+autem formae, aestimabat quod formae omnium corporum essent accipiendae secundum rationem figurarum,
+secundum quas corpora terminantur. Ultimi autem termini dimensionum sunt puncta, quae sunt unitates positae,
+ut dictum est. Et ideo diversas figuras corporeas diversis corporibus attribuebat: sicut figuram pyramidalem igni,
+figuram autem octo basium aeri, figuram autem viginti basium aquae, figuram autem cubicam terrae, figuram
+autem duodecim basium aetheri, idest caelo.
+Manifestum est autem figuras corporeas ex superficiebus constitui, inquantum ad invicem coniunguntur
+secundum tactum linearem: sic enim faciunt angulum corporalem. Et ideo, formalem compositionem corporum
+distribuens, Plato dicebat quod corpora componuntur ex superficiebus secundum lineam coniunctis.
+|#2 Contra hoc igitur obiicit Aristoteles, dicens inconveniens esse si ponatur superficies componi sive coniungi
+ad instituendum corpus, solum secundum linearem contactum. Et hoc manifestat per exemplum lineae. Linea
+129
+
+

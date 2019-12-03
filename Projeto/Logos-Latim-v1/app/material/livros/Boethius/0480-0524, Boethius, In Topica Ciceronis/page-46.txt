@@ -1,0 +1,61 @@
+esset, quoniam non conuenit in manum, scilicet, ab in manus conuentione, quae est species uxoris, uxorem quod est
+matris familiae genus a legati iure seiungimus, et legatum ad speciem, id est matremfamilias deriuamus.
+Sed illud interius dispiciendum uidetur, [1128B] num locus ab antecedentibus et consequentibus totus
+superuacaneus esse uideatur, cum quolibet modo fuerint ex eo argumenta composita, a caeteris locis quos superius
+deseripsimus non recedant. Nam quodcumque ab antecedentibus et consequentibus ducitur argumentum, id uel a toto,
+uel a partibus, uel a coniugatis, uel ab aliquo reliquorum tractum esse perpenditur hoc modo: Si utilis est acquitas
+constituta ad res suas obtinendas, utile est ius ciuile, ad id quod praecedit, quod sequitur igitur, hoc est a definitione
+argumentum, scilicet ab assumptione praecedentis. At si ita dicam: Sed non est utile ius ciuile, non est igitur utilis
+aequitas constituta ad res suas obtinendas, hic per consequentis assumptionem a definitionis loco sumptum est
+argumentum. [1128C] Item a partium enumeratione, si neque censu, neque caeteris non est liber, at censu uel caeteris,
+est igitur liber: at non est liber; neque censu igitur, neque caeteris manumissus est.
+Sed notandum est quae sit uis uniuscuiusque argumenti, et quonam modo proferatur. Sunt enim argumenta
+quae predicatiuis apta sint syllogismis ut a definitione fiat sic: ius ciuile est aequitas constituta his qui eiusdem sunt
+ciuitatis ad res suas obtinendas. Id uero utile est, utile est igitur ius ciuile. Item a partibus: Qui neque censu neque
+uindicta, neque testamento est manumissus, hic ex seruitute liber factus non est; Stichus uero neque testamento, neque
+censu, neque uindicta manumissus est; Stichus igitur liber non est: et in caeteris, eodem modo.
+Omnia uero quaecumque per [1128D] categoricum syllogismum proferri possunt, eadem per conditionalem
+syllogismum dici queunt. Omnis namque praedicatiua propositio in conditionalem uerti potest, hoc modo: omnis homo
+animal est, praedicatiua est; haec facile uertitur in conditionalem ita, si homo est, animal est. Non uero omnis
+conditionalis in praedicatiuam uerti potest, uelut haec: si peperit, cum uiro concubuit. Nemo enim dicere potest ipsum
+peperisse, id esse quod cum uiro concumbere, quo modo dicimus hominem, id esse quod animal sit.
+Alia enim ratio est in his propositionibus quae ita dicuntur, quae peperit, cum uiro concubuit. Haec enim
+similis est ei quae dicit, si peperit, cum uiro concubuit sed praedicatiua propositio [1129A] id esse subiectum dicit,
+quod fuerit praedicatum. Conditionalis uero id ponit, ut si id quod antecedens fuerit necessario comitetur quod
+subsequitur. Cum uero praedicatiua est propositio, si ea uertetur in conditionalem, alia nimirum redditur propositio.
+Nam cum dicitur, omnis homo animal est, ipse homo animal esse proponitur; cum uero, si homo est, aninial est, non id
+sentitur, ut ille qui homo est, animal sit sed proposito esse hominem, consequi ut sil animal.
+Ergo conditionalis syllogismus in antecessione et consecutione positus, licet per definitionem, et per partium
+enumerationem, et per coniugationem, et quolibet alio fiat modo, tamen in propria forma se continet, et est
+conditionalis, id est utens propria potestate, ut quodammodo caetera [1129B] argumenta suae ueluti naturae uideatur
+habere subiecta. Ut cum sit a definitione argumentum, si quidem per praedicatiuam formam factus fuerit syllogismus, a
+definitione ductum esse dicatur. Sin uero per hypothesin facta fuerit argumentatio, conditionalis fit syllogismus, quem
+discernat assumptio, utrum ab antecedentis, an a consequentis parte promatur. Quo fit ut etiamsi per caeteros locos
+conditionale argumentum proferatur, tamen suam quamdam habeat formam, quandoquidem in antecessione et
+consecutione est constitutus. Tunc enim definitio, partes, coniugatio, et caetera ueluti res ipsa, fiunt ac non locus, cum
+uenerint in conditionem; at si conditio cesset, ex ipsis profectum uidebitur argumentum. Quod si propositionem
+conditio copulauerit, ipsa [1129C] quidem ea sunt quae in propositionibus continentur ueluti quaedam argumenti
+partes, locus uero in conditione est constitutus.
+Atque haec ita dicta sunt, quasi aliter conditionalis hic locus tractari non ualeat, [1130A] nisi eorum aliquem
+quos praediximus includat: nam potest praeter eos etiam saepe reperiri, ut cum dicimus: si homo est, risibilis est; si
+coruus est, niger est. Hic enim nec definitionem, nec partes, nec ullum alium locum superius enumeratum continet
+argumentum. Amplius, facile est in singulis eorum differentias praeuidere: locus quippe a toto a substantia trahitur, a
+partibus uero a rei compositione. Nam in simplicibus terminis tale argumentum non potest inueniri, a nota, ab
+interpretatione; a coniugatis; ab eo quod ex eodem utrumque deducitur; a genere; a continenti; a forma, ab eo quod
+continetur; a differentia, ab eo quod discrepat; a similibus, ab eadem qualitate; a contrariis, ab eo quod a se longe
+diuersa sunt; a causis, ab his qui efficiendi uim habent; [1130B] ab effectis, ab his quae uim alterius efficientiae
+susceperunt; ab adiunctis, a uicinitate naturae; a comparatione maiorum, parium uel minorum; a relatione, ad aequalem
+uel inaequalem quantitatem. Ab antecedentibus uero longe alius modus est: constat enim in eo quod si propositum quid
+fuerit, aliud quiddam modis omnibus existet, quod consequens appellatur; huius uero intelligentia consistit in eo quod
+praecedente quolibet, aliud subsecutum; repugnantium uero intelligentia consistit, non modo quod neque sequi, neque
+antecedere possunt, uerum etiam quod simul esse non possunt, quae in conditione consistere dubium non est.
+His igitur ita expeditis, quoniam M. Tullius proprietatem loci succincte, ut in transcursu potuit, euidenter
+expressit, [1130C] nunc quibus modis eodem loco uti conueniat, adiungit. Quae Topicorum pars, quoniam diligentius
+explananda est, finem quarto uolumini faciam, quinto caetera redditurus.
+LIBER QUINTUS
+[1129C] De omnibus quidem hypotheticis syllogismis, Patrici rhetorum peritissime, plene abundanterque
+digessimus his libris, quos de eorum principaliter institutione conscripsimus, a quibus integram perfectamque
+doctrinam, cui resoluendi illa uacuum tempus esi, lector accipiet. Sed quia nunc Ciceronis [1129D] Topica sumpsimus
+exponenda, atque in his aliquorum M. Tullius modorum meminit, dicendum mihi breuiter existimo de his septem
+
+

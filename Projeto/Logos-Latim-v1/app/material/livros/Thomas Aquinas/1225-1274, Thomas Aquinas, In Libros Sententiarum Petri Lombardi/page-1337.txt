@@ -1,0 +1,61 @@
+Ad primum ergo dicendum, quod quamvis assertio illius qui dicit verum, putans esse falsum, non sit mendacium
+absolute, est tamen mendacium in comparatione ad dicentem, unde et ipse mentiri dicitur; unde et in hoc perjurio
+est aliquo modo mendacium.
+RA2
+Ad secundum dicendum, quod futurum non potest habere veritatem determinatam nisi in sua causa quae
+determinatur ad effectum illum. Causa autem contingentium quae per nos fiunt, est nostra voluntas; quae quidem
+determinatur ad effectum per propositum fixum de aliquo faciendo; et tale propositum significat se habere qui
+jurat se aliquid facturum; unde ex hoc ipso quod jurat illud ad quod fixum propositum non habet, mendacium
+incurrit, et perjurium.
+RA3
+Ad tertium dicendum, quod juramentum non est exhibendum nisi de eo de quo quis certitudinem habet; unde
+quicumque jurat aliquid, significat se de hoc certum esse. De falso autem certitudo esse non potest; unde qui
+jurat falsum quod putat esse verum, ex ipso modo assertionis quodammodo mendacium incurrit, quamvis
+assertum ipsum secundum se non sit mendacium.
+RA4
+Ad quartum dicendum, quod juramentum promissorium, in quo deest justitia vel judicium, aliquo modo continet
+mendacium quantum ad id quod fieri debet: quia unusquisque tenetur abstinere ab eo quod est illicitum, et bonis
+et perfectionibus non contra niti; unde ex hoc quod jurat aliquid illicitum, obligatus remanet quodammodo ad
+mentiendum.
+RA5
+Ad quintum dicendum, quod non omnis perversitas juramenti facit perjurium, sed illa tantum quae est in ejus
+complemento, ut dictum est.
+|a5 Articulus 5: Utrum omne perjurium sit peccatum mortale.
+Articulus 5A
+AG1
+Ad quintum sic proceditur. Videtur quod non omne perjurium sit peccatum mortale. Sicut enim contingit mentiri
+jocose, ita et perjurare. Sed mendacium jocosum non est peccatum mortale.
+Ergo nec perjurium.
+AG2
+Praeterea, contingit quod propter consuetudinem jurandi aliquis ex lapsu linguae falsum jurat; et esset grave
+dicere, quod talis mortaliter peccaret. Ergo non omne perjurium est mortale peccatum.
+AG3
+Praeterea, sicut jurare falsum, ita etiam jurare sine causa prohibetur praecepto secundo Decalogi: non assumes
+nomen Dei tui in vanum. Sed jurare sine causa non semper est peccatum mortale.
+Ergo nec jurare falsum: ergo ut prius.
+SC1
+Sed contra, Augustinus in quodam sermone dicit, quod falsa juratio perniciosa est. Sed nihil dicitur esse
+perniciosum nisi peccatum mortale. Ergo perjurium est peccatum mortale.
+SC2
+Praeterea, omne quod est contrarium praecepto legis, est peccatum mortale. Sed perjurium directe contrariatur
+huic praecepto: non assumes nomen Dei tui in vanum. Ergo etc..
+CO
+Respondeo dicendum ad primam quaestionem, quod juramentum est duplex. Quoddam in quo aliquis percipit se
+jurare; et tunc si falsum jurat, credo quod semper peccet mortaliter, sive sit juramentum solemne, sive non
+solemne; et praecipue quando percipit esse falsum quod jurat.
+Quoddam vero juramentum est in quo homo non attendit ad juramentum, et quasi non percipit se jurare, sed ex
+lapsu linguae in juramentum prolabitur; et quia tunc quasi nesciens jurat, et nesciens non reputatur voluntarius,
+ideo in tali casu videtur quis non voluntarie jurare. Unde si sit falsum hoc de quo jurat, sive percipiat esse
+falsum, sive non, dummodo non sit mendacium perniciosum, non dico quod sit peccatum mortale, sed veniale;
+valde tamen cavendum propter vicinitatem ad mortale.
+RA1
+Ad primum ergo dicendum, quod non est simile de mendacio et perjurio: quia juramentum non est nisi cum
+magna cautela adhibendum, ut dictum est, et propter utilitatem aliquam; unde si jocose aliquis perjurat, non
+excusabitur.
+RA2
+Ad secundum patet solutio ex dictis.
+RA3
+Ad tertium dicendum, quod jurare sine causa non directe opponitur illi praecepto, sed indirecte.
+1337
+
+

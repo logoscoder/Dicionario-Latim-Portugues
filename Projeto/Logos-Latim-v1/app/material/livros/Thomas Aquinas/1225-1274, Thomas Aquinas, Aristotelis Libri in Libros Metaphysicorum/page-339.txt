@@ -1,0 +1,58 @@
+Dicit ergo primo, quod substantia sensibilis est mutabilis, ut dictum est.
+Omnis autem mutatio est ex oppositis, aut ex mediis, ut supra ostensum est. Non autem est mutatio ex
+quibuscumque oppositis: fit enim album ex non albo, non tamen ex quolibet non albo: nam vox est non album;
+sed corpus non fit album ex voce, sed ex non albo, quod est nigrum vel medium. Et ideo dicit quod mutatio fit ex
+opposito, quod est contrarium.
+Nec est instantia de substantia in qua fit mutatio, cum tamen substantiae nihil sit contrarium; quia in substantia
+est privatio quae quodammodo computatur inter contraria, ut in decimo ostensum est.
+|#6 Quia igitur omnis mutatio est de contrario in contrarium, necesse est subesse aliquod subiectum, quod possit
+mutari de contrario in contrarium. Et hoc Philosophus probat dupliciter. Primo quidem, quia unum contrariorum
+non transmutatur in alterum; non enim ipsa nigredo fit albedo. Unde, si debeat fieri transmutatio de nigro in
+album, oportet aliquid esse praeter nigredinem quod fiat album.
+|#7
+Alio modo probat idem ex hoc, quod in qualibet transmutatione invenitur aliquid manens; sicut in
+transmutatione, quae est de nigro in album, corpus manet; aliud vero, scilicet contrarium, ut puta nigrum, non
+manet. Unde manifestum est, quod materia est aliquid tertium praeter contraria.
+|#8 Deinde cum dicit si itaque ostendit cuiusmodi ens sit materia; et dicit, quod transmutationes sunt quatuor:
+generatio quidem et corruptio simplex secundum substantiam; et augmentum et diminutio secundum
+quantitatem; alteratio secundum passionem, quae est tertia species qualitatis; latio, idest loci mutatio, secundum
+ubi. Et manifestum est, quod omnes istae transmutationes erunt secundum contrarietates, quae sunt secundum
+unumquodque horum generum: ut puta, alteratio in contrarietatem qualitatis; augmentum in contrarietatem
+quantitatis, et sic de aliis.
+Et ita, cum in qualibet transmutatione sit quoddam tertium praeter contrarium, quod dicitur materia, necesse est,
+quod id quod transmutatur, sive subiectum transmutationis, quantum est de se, sit in potentia ad utrumque
+contrarium. Aliter enim non esset susceptivum utriusque, nec posset de uno in aliud transmutari. Sicut igitur
+corpus, quod transmutatur de albedine in nigredinem, inquantum est corpus, est in potentia ad utrumque, ita
+materia in generatione substantiae, quae est subiectum generationis et corruptionis, quantum est de se, est in
+potentia ad formam et privationem, nec formam nec privationem, quantum est de se, actu habens.
+|#9 Deinde cum dicit quoniam autem hic Philosophus secundum veritatem determinat de ipsa materia.
+Circa quod duo facit. Primo solvit dubitationem.
+Secundo ostendit quomodo aliqui antiqui dixerunt simile praedictae solutioni, ibi, et hoc est Anaxagorae.
+Solvit autem hanc dubitationem antiquorum naturalium Philosophorum, qui removebant generationem propter
+hoc, quod non credebant quod posset aliquid fieri ex non ente, quia ex nihilo fit nihil; nec etiam ex ente, quia sic
+esset antequam fieret.
+|#10 Hanc ergo dubitationem Philosophus solvit, ostendendo qualiter aliquid fit ex ente et ex non ente; dicens,
+quod duplex est ens, scilicet ens actu, et ens potentia. Omne igitur, quod transmutatur, transmutatur ex ente in
+potentia in actu ens; sicut cum aliquid alteratur ex albo in potentia in actu album. Et similiter est in motu ipsius
+augmenti et decrementi; quia transmutatur aliquid de potentia magno vel parvo, in actu magnum vel parvum.
+Unde et in genere substantiae fiunt omnia ex non ente et ente. Ex non ente quidem secundum accidens,
+inquantum fit aliquid ex materia subiecta privationi, secundum quam dicitur non ens. Sed per se fit aliquid ex
+ente, non autem in actu, sed in potentia, scilicet ex materia, quae est ens in potentia, ut supra ostensum est.
+|#11
+Sciendum est autem, quod praedictae positioni antiquorum naturalium negantium generationem et
+dicentium, quod generatio non est aliud quam alteratio, voluerunt obviare quidam posteriores dicentes
+generationem esse per segregationem ab aliquo mixto et confuso.
+|#12 Philosophus ergo tertio cum dicit et hoc est ostendit quod etiam omnes sic dicentes, aliquid simile
+praedictae positioni dicere voluerunt, sed non attingunt. Dicit ergo quod hoc, scilicet materia quae est ens in
+potentia ad omnia, esse illud unum quod Anaxagoras posuit. Dicebat enim quod omne quod generatur ex aliquo,
+est in eo ex quo generatur. Et sic a principio omnia erant mixta in quodam uno, nesciens distinguere inter
+potentiam et actum. Sed dignius est ponere materiam, in qua omnia sunt in potentia, quam ponere omnia simul in
+actu, ut videtur ex verbis Anaxagorae. Et hoc est quod empedocles dixit, quod a principio omnia erant mixta et
+confusa per amicitiam, et postea lis segregavit. Et similiter Anaximander dixit, quod in uno confuso
+praeexstiterant omnia contraria. Et democritus etiam dixit, quod omnia, quae fiunt, prius erant in potentia, sed
+non in actu.
+Unde manifestum est, quod omnes isti Philosophi tetigerunt quodammodo materiam, sed non perfecte ad eam
+pervenerunt.
+339
+
+

@@ -1,0 +1,82 @@
+Omnis homo rationalis est.
+Nullus homo rationalis est.
+Quidam homo rationalis est.
+Quidam homo rationalis non est.
+Omnis homo grammaticus est.
+Nullus homo grammaticus est.
+Quidam homo grammaticus est.
+Quidam homo grammaticus non est.
+Omnis homo lapis est.
+Nullus homo lapis est.
+Quidam homo lapis est.
+Quidam homo lapis non est.
+Omnis homo iustus est.
+Nullus homo iustus est.
+Quidam homo iustus est.
+Quidam homo iustus non est.
+Omnis homo risibilis est.
+Nullus homo risibilis est.
+Quidam homo risibilis est.
+Quidam homo risibilis non est.
+
+Omnis non homo non rationalis est.
+Nullus non homo non rationalis est.
+Quidam non homo non rationalis est.
+Quidam non homo non rationalis non est.
+Omnis non homo non grammaticus est.
+Nullus non homo non grammaticus est.
+Quidam non homo non grammaticus est.
+Quidam non homo non grammaticus non est.
+Omnis non homo non lapis est
+Nullus non homo non lapis est.
+Quidam non homo non lapis est.
+Quidam non homo non lapis non est.
+Omnis non homo non iustus est.
+Nullus non homo non iustus est.
+Quidam non homo non iustus est.
+Quidam non homo non iustus non est.
+Omnis non homo non risibilis est.
+Nullus non homo non risibilis est.
+Quidam non homo non risibilis est.
+Quidam non homo non risibilis non est.
+
+[779C] Harum igitur talis est consocianda falsitate uel ueritate proprietas, ut affirmationes quidem inter se
+uniuersales particularesque negationes uel in ueritate uel in mendacio consentire queant, uel uerum inter se falsumque
+diuidere. Si quid enim de subiecto tale praedicetur quod uel de subiecto nequeat segregari, ut ab homine rationabilitas,
+uel a subiecto quidem recedere queat sed subiecti naturam non possit aequare, ut hominis grammaticus, unam ueram,
+alteram falsam esse proueniet. Nam qui dicit:
+Omnis homo rationalis est
+uerum loquitur, et qui dixerit:
+Omnis non homo non rationalis est
+mentietur. Diuinae namque substantiae rationis quidem compotes sunt sed homines non sunt.
+Item si quis [780C] pronuntiet, omnis homo grammaticus, est falsum dixerit. At qui proponit:
+Omnis non homo non grammaticus est
+uerum dixerit. Nam qui homo non est, grammaticus esse non potest. At si id de subiecto praedicetur quod uel
+nunquam subiecto ualeat conuenire, ut lapis homini, uel conueniens ab eo possit abscedere, cum sit maius atque
+uniuersalius subiecto, ut iustitia homini, simul utrisque falsitas prouenit. Nam si quis dicit:
+Omnis homo lapis est
+falsam fecerit propositionem. Eodem quoque modo qui dixerit, omnis non homo non lapis est, cum silex homo
+non sit sed lapis. Item propositio:
+Omnis homo iustus est
+falsa est, cuius sequitur falsitatem:
+Omnis non homo non iustus est.
+Nam [781A] diuinis substantiis adest semper iustitia, cum non sit humanitas.
+At si quid tale de subiecto praedicetur quod et semper ei copuletur, neque tamen subiectum possit excedere, ut
+risibile homini, utrinque sententia in significandi ueritate concurrit:
+Omnis homo risibilis est
+uera est:
+Omnis non homo non risibilis est
+haec retinet ueritatem. Nam quia risibile hominis proprium est, recte dicitur non esse risibile quidquid homo
+non fuerit. Eadem omnia in particulari negatione redduntur. Nam siue quae sunt maiora subiecto atque ab eo discedere
+nequeunt, at rationabilitas ab homine, uel quae discedunt quidem sed sunt maiora subiecto, ut grammaticus homine, de
+subiecto praedicentur, unam ueram, alteram falsam faciunt. Nam qui dicit:
+Quidam homo rationalis [781B] non est
+falsum proposuit; qui uero respondet:
+Quidam non homo non rationalis non est
+uerum loquitur. Diuina quippe substantia non est quidam homo sed carere non potest humanae ratione
+naturae. Item:
+Quidam homo grammaticus non est
+uera est sed falsa est si dicam:
+Quidam non homo non grammaticus non est.
+
+

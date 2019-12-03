@@ -1,0 +1,61 @@
+|a1 Articulus 1: Utrum aliqua creatura sit simplex.
+AG1
+Ad primum sic proceditur. Videtur quod aliqua creatura simplex sit. Forma enim est compositioni contingens,
+simplici et invariabili essentia consistens.
+Sed forma est creatura. Ergo etc..
+AG2
+Praeterea, resolutio intellectus non stat quousque invenit compositionem, sive sint separabilia secundum rem,
+sive non; multa enim separantur intellectu quae non separantur actu, secundum boetium. Illud ergo in quo ultima
+stat resolutio intellectus est omnino simplex. Sed ens commune est hujusmodi. Ergo etc..
+AG3
+Praeterea, si omnis creatura est composita, constat quod non est composita nisi ex creaturis.
+Ergo et componentia sua erunt composita. Igitur universaliter in infinitum (quod natura et intellectus non
+patitur); vel erit devenire ad prima componentia simplicia, quae tamen creaturae sunt. Ergo etc..
+AG4
+Si dicatur, quod illa componentia non possunt esse simplicia, quia habent habitudinem concretam, quod sint ab
+alio: contra, illud quod est extrinsecum rei, non facit compositionem cum re ipsa.
+Sed agens est extrinsecum a re. Ergo per hoc quod res est ab aliquo agente, non inducitur in ipsam aliqua
+compositio.
+SC1
+Contra, boetius: in omni eo quod est citra primum, differt et quod est et quo est. Sed omnis creatura est citra
+primum.
+Ergo est composita ex esse et quod est.
+SC2
+Praeterea, omnis creatura habet esse finitum.
+Sed esse non receptum in aliquo, non est finitum, immo absolutum. Ergo omnis creatura habet esse receptum in
+aliquo; et ita oportet quod habeat duo ad minus, scilicet esse, et id quod esse recipit.
+CO
+Respondeo dicendum, quod omne quod procedit a Deo in diversitate essentiae, deficit a simplicitate ejus. Ex hoc
+autem quod deficit a simplicitate, non oportet quod incidat in compositionem; sicut ex hoc quod deficit a summa
+bonitate, non oportet quod incidat in ipsam aliqua malitia. Dico ergo quod creatura est duplex. Quaedam enim
+est quae habet esse completum in se, sicut homo et hujusmodi, et talis creatura ita deficit a simplicitate divina
+quod incidit in compositionem. Cum enim in solo Deo esse suum sit sua quidditas, oportet quod in qualibet
+creatura, vel in corporali vel in spirituali, inveniatur quidditas vel natura sua, et esse suum, quod est sibi
+acquisitum a Deo, cujus essentia est suum esse; et ita componitur ex esse, vel quo est, et quod est. Est etiam
+quaedam creatura quae non habet esse in se, sed tantum in alio, sicut materia prima, sicut forma quaelibet, sicut
+universale; non enim est esse alicujus, nisi particularis subsistentis in natura; et talis creatura non deficit a
+simplicitate, ita quod sit composita. Si enim dicatur, quod componitur ex ipsa sua natura et habitudinibus quibus
+refertur ad Deum vel ad illud cum quo componitur, item quaeritur de illis habitudinibus utrum sint res, vel non:
+et si non sunt res, non faciunt compositionem; si autem sunt res, ipsae non referuntur habitudinibus aliis, sed se
+ipsis: quia illud quod per se est relatio, non refertur per aliam relationem. Unde oportebit devenire ad aliquid
+quod non est compositum, sed tamen deficit a simplicitate primi: et defectus iste perpenditur ex duobus: vel quia
+est divisibile in potentia vel per accidens, sicut materia prima, et forma, et universale; vel quia est componibile
+alteri, quod divina simplicitas non patitur.
+RA
+Et per hoc patet solutio ad ea quae objecta sunt.
+Primae enim rationes procedebant de illis creaturis quae non habent esse completum, quae non componuntur ex
+aliis sicut ex partibus; et aliae duae procedebant de creaturis quae habent esse completum.
+|a2 Articulus 2: Utrum anima sit simplex.
+AG1
+Ad secundum sic proceditur. Videtur quod anima sit simplex. Sicut enim dicit Philosophus, anima est forma
+corporis. Sed ibidem dicit, quod forma neque est materia neque compositum. Ergo anima non est composita.
+AG2
+Praeterea, omne quod est compositum, habet esse ex suis componentibus. Si igitur anima sit composita, tunc ipsa
+in se habet aliquod esse, et illud esse nunquam removetur ab ea. Sed ex conjunctione animae ad corpus
+relinquitur esse hominis.
+Ergo esse hominis est esse duplex, scilicet esse animae, et esse conjuncti: quod non potest esse, cum unius rei sit
+unicum esse.
+AG3
+83
+
+

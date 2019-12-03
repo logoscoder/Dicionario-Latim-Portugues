@@ -1,0 +1,58 @@
+ideo, quando coincidunt in unum, illud quod est unius sensus, per se cognoscitur ab illo sensu, per accidens
+autem ab alio.
+Ideo videndo album per se, videmus dulce per accidens.
+|#17 Si autem non sit sensibile proprie ab aliquo sensu, numquam hoc erit quod sentiatur per accidens ab aliquo
+alio sensu ex coincidentia duorum sensuum vel sensibilium in idem; sed omnino secundum accidens sensibile
+est, ut supra dictum est; sicut filium Cleonis secundum accidens sentimus, non quia filius Cleonis est, sed quia
+albus, cui accidit esse filium Cleonis. Hoc autem, scilicet esse filium Cleonis, non ita est sensibile visu per
+accidens, quod sit aliquo alio sensu sensibile per se, sicut erat de dulci, communium autem sensibilium habemus
+sensum communem non secundum accidens, id est communia sensibilia communiter sentiuntur a diversis
+sensibus per se, et non secundum accidens.
+Unde sequitur, quod non sit aliquis proprius sensus eorum; quia tunc non sentiremus ea per se aliis sensibus, sed
+sentiremus ea per accidens, sicut sentimus filium Cleonis.
+|#18 Sentiunt enim sensus propria sensibilia adinvicem secundum accidens, ut puta visus sensibile auditus, et e
+converso. Non enim visus cognoscit sensibile auditus, neque auditus sensibile visus, secundum quod ipsa sunt;
+quia visus nihil patitur ab audibili, nec auditus a visibili. Sed secundum quod fit unus sensus, id est una sensatio
+secundum actum, ut ita loquar, in eodem sensibili. Et dico eumdem sensum actu, ex eo quod simul fit actio
+utriusque sensus respectu eiusdem sensibilis; sicut cholera simul percipitur per gustum quod sit amara, et per
+visum quod sit rubicunda; et ideo statim ad aspectum rubicundi iudicamus aliquid esse amarum. Non est autem
+aliquis alius sensus cuius proprium sit cognoscere quod album et amarum sunt unum.
+Haec enim unitas non est nisi per accidens; et quod est per accidens tantum, non potest esse obiectum alicuius
+potentiae. Et ideo quia visus non percipit illud quod est gustus, nisi per accidens, frequenter in talibus decipitur
+sensus, et iudicamus quod si aliquid sit rubeum, quod sit cholera.
+|#19 Deinde cum dicit inquirit autem inquirit causam pluralitatis sensuum. Et hoc est quoddam consequens
+speciem totam et in talibus assignanda est causa finalis, ut Philosophus docet in ultimo de generatione
+animalium. Secus autem de accidentibus individui, quorum assignanda est ratio ex parte materiae, vel agentis.
+Unde et hic assignat causam finalem. Dicit ergo, quod aliquis potest quaerere, cuius causa habemus plures
+sensus, et non unum tantum. Et est responsio ad hoc, ut nos non lateant ea quae consequuntur ad sensibilia
+propria, et sunt communia diversis sensibilibus, sicut motus et magnitudo et numerus. Si enim esset solus sensus
+visus; cum ipse coloris tantum sit, et color et magnitudo se consequantur, quia simul cum colore immutatur
+sensus a magnitudine; inter colorem non possemus discernere et magnitudinem, sed viderentur esse idem. Sed
+nunc quia magnitudo sentitur alio sensu quam visu, color autem non, hoc ipsum manifestat nobis quod aliud est
+color et magnitudo. Et simile est de aliis sensibilibus communibus.
+|#20 Potest autem et haec ratio assignari distinctionis sensuum. Manifestum est enim quod cum potentia dicatur
+ad obiectum, oportet quod secundum differentiam obiectorum, diversificentur potentiae sensitivae. Obiectum
+autem sensibile est, prout est immutativum sensus: unde secundum diversa genera immutationum sensus a
+sensibili, oportet esse diversos sensus. Immutatur autem sensus a sensibili uno modo per contactum, et sic est
+sensus tactus, qui est discretivus eorum ex quibus constat animal, et sensus gustus, qui est perceptivus qualitatum
+quae designant convenientiam nutrimenti, quo conservatur corpus animalis. Alio modo immutatur sensus per
+medium. Et haec quidem immutatio, aut est cum alteratione sensibilis, et sic odor immutat sensum cum aliqua
+resolutione odorabilis.
+Aut cum aliquo motu locali, et sic immutat sonus. Aut absque immutatione sensibili, sed per solam
+immutationem spiritualem medii et organi, et sic immutat color.
+|+2 Lectio 2
+|#1
+Postquam Philosophus ostendit quod non sit alius sensus proprius, praeter quinque, procedit ad
+inquirendum, utrum sit aliqua potentia sensitiva communis his quinque sensibus. Et hoc quidem investigat ex
+quibusdam actionibus, quae non videntur alicuius sensus propriae esse, sed videntur exigere aliam potentiam
+sensitivam communem. Huiusmodi autem actiones sunt duae. Una est secundum quod nos percipimus actiones
+propriorum sensuum, puta quod sentimus nos videre et audire.
+Alia est secundum quod discernimus inter sensibilia propria diversorum sensuum, puta quod aliud sit dulce, et
+aliud album.
+Primo ergo inquirit cui sit attribuenda prima harum actionum. Secundo, cui sit attribuenda secunda, ibi,
+uniuscuiusque quidem igitur. Circa primum tria facit. Primo movet quaestionem, dicens: quoniam sentimus quod
+videmus, et similiter sentimus quod audimus, et sic de unoquoque sensibilium; necessarium est aut per visum
+sentire quod ipse visus videt, aut per aliam virtutem; et sic de aliis sensibus.
+86
+
+

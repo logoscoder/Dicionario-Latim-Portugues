@@ -1,0 +1,62 @@
+[PLLXIII:1271-72,2; text: Henrici Glareani speculatio. Plana monochordi regularis partitio in tribus generibus.
+Proslambanomenos, Hypate hypaton, Parhypate hypaton, Lichanos hypaton, Hypate meson, Parhypate meson,
+Lichanos meson, Mese, Trite synemmenon, Paranete synemmenon, Nete synemmenon, Nete diezeugmenon, Trite
+hyperboleon, Paranete hyperboleon, Nete hyperboleon, Secupla ratio, Sesquitertia ratio, Diapente, Diatessaron,
+Tetrachordos bypaton cum proslambanomene in tribus modulandi generibus, Tetrachordos meson in iisdem,
+Tetrachordos hyperboleon in tribus modulandi generibus, Tetrachord syemmenon in iisdem iribus generibus,
+Diatonico, Enharmonico, Chromatico, sesquitertia, 9216, 8192, 7984, 7776, 6912, 6144, 5998, 5832, 5472, 5184, 5144,
+4608, 4491, 4374, 4104, 3888, 3456, 3072, 2994, 2916, 2736, 2592, 2304] [BOEDIM4 15GF]
+[1273] [PLLXIII:1273; text: Sesquitertia ratio. Diatessaron, Tetrachordos diezeugmenon in tribus.
+Enharmonico, sesquitertia, Chromatico, Diatonico, Paramese, 4096, Trite diezeugmenon, 3888, Paranete
+diezeugmenon, 3456, Nete diezeugmenon, 3072, 3648, 3992] [BOEDIM4 11GF]
+XI
+Ratio superius dispositae descriptionis.
+In superiore igitur forma obtinet quidem consonantiam diapason proslambanomenos ad mesen, mese autem ad
+neten hyperboleon. Bis diapason autem proslambanomenos ad neten hyperboleon. Diatessaron autem consonantiam
+seruat hypate hypaton ad hypaten meson. Hypate meson ad mesen mese, ad neten synemmenon, paramese ad neten
+diezeugmenon, nete diezeugmenon ad neten hyperboleon. Atque hoc ita fit, ut his consonantiis integra tetrachorda
+numeremus. Atque ut clarius omnis in hac forma respiciatur ordo neruorum, secundum tria genera 5 tantum notantur
+esse tetrachorda. Primum atque grauissimum hypaton, cuius est princeps hypate hypaton, ultima autem hypate meson,
+secundum uero meson cuius est princeps hypate meson, extrema uero mese. Tertium synemmenon, cuius est princeps
+mese, finalis nete synemmenon. Quartum diezeugmenon, cuius est prima paramese, nete uero diezeugmenon extrema.
+Quintum uero est hyperboleon cuius est quidem princeps nete diezeugmenon, ad neten uero hyperboleon terminatur
+extrema.
+XII
+De stantibus et mobilibus uocibus.
+Harum uero omnium uocum partim sunt in totum immobiles, partim in totum mobiles, partim uero nec in
+totum immobiles, nec in totum mobiles. In totum immobiles sunt proslambanomenos, hypate hypaton, hypate meson,
+mese, nete synemmenon, paramese, nete diezeugmenon, nete hyperboleon. Idcirco quoniam in omnibus tribus
+generibus eaedem sunt, nec nomina nec loca permutantes, siue pentachorda, siue tetrachorda contineant. Pentachorda
+quidem ut proslambanomenos ad hypaten meson, et mese ad neten diezeugmenon. Tetrachorda uero ut hypate hypaton
+ad hypaten meson, hypate meson ad mesen. Mobiles uero sunt quae secundum singuia [1274] genera permutantur hoc
+modo ut paranete et lichanos diatonici et chromatici, trite et parhypate enharmonici. Alia est enim paranete hyperboleon
+diatonos, alia paranete hyperboleon chromatica, alia trite enharmonios. Diuersae sunt etiam paranete diezeugmenon
+diatonos, atque chromatica. Nec est eadem quae in generibus caeteris trite diezeugmenon enharmonios, neque eaedem
+sunt paranete synemmenon diatonos et chromatica et trite synemmenon enharmonios, his qui sunt in reliquis generibus
+trite. Distant etiam lichanos meson diatonos et lichanos meson chromatice, et parhypate meson enharmonios nulli
+aliorum generum parhypate similis inuenitur. Nec eosdem locos ac numeros seruant lichanos hypaton diatonos et
+lichanos hypaton chromatice. Nam parhypate hypaton enharmonios aliorum generum parhypatis reperitur esse
+dissimilis. Non in totum uero immobiles aut mobiles sunt, quae in duobus quidem generibus manent, id est chromatico
+et diatonico sed in enharmonio permutantur. Id autem sic consideratur trite hyperboleon, diatonos, et trite hyperboleon
+chromatice eadem in superiori forma descripta est, hisdem numeris
+2829. At uero cum enharmonium genus aspicimus triten aliam reperimus, id est 2916. Quae igitur uox duobus
+fuit generibus communis, eadem in tertio permutata est. Idem est et in diezeugmenon tetrachordo. Nam trite
+diezeugmenon diatonos et trite diezeugmenon chromatica eaedem sunt, sibique consentiunt, trite autem diezeugmenon
+enharmonios a superiore distat, in synemmenis etiam idem est. Trite enim synemmenon diatonos et trite synemmenon
+chromatice eaedem sunt. Ted trite synemmenon enharmonios est diuersa. Item parhypate meson diatonos, et parhypate
+meson chromatica eaedem notantur. Sed in enharmonio genere sicut superius trite ita hic parhypate iuxta hypates
+meson quidem inueniuntur, ui autem ac soni acumine diuersae sunt caeteris. Rursus parhypate hypaton diatonos et
+parhypate hypaton chromatica eadem est.
+Sed non eadem est cum in enharmonio genere quaeritur. Sed ut harum non plena mutabilitas clarius
+colliquescat ad hyperboleon tetrachordum redeamus, in hoc igitur quae in diatonico atque in chromatico genere trite
+hyperboleon est, eadem mutatur in enharmonio, et fit paranete.
+Item quae trite diezeugmenon in diatonico uel chromatico genere uocabatur, paranete in enharmonio dicitur
+quae trite synemmenon in chromatico uel diatonico fuit, in enharmonio in paraneten transit.
+Quae uero parhypate meson in chromatico uel diatonico uidebatur, eadem lichanos meson in enharmonio
+reperitur. Quae autem parhypate hypaton, uel in diatonico uel in chromatico dicebatur, lichanos hypaton in enharmonio
+nuncupatur. Sunt igitur quidem immobiles, proslambanomenos, hypate [1275] hypaton, hypate meson, mese, nete
+synemmenon, paramese, nete diezeugmenon, nete hyperboleon, mobiles uero quas lychanos, uel paranetas, uel
+diatonicas, uel chromaticas, uel enharmonicas nominamus. Non in totum mobiles aut immobiles, quas parhypatas tritas
+in diatonico uel chromate, lichanos autem uel paranetas in enharmonico genere dicimus.
+
+

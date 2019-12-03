@@ -1,0 +1,55 @@
+|#6 Secundam rationem ponit ibi qualiter autem quae talis est. Posset aliquis dicere, quod Plato non posuit
+magnitudinem in intellectu propter multa intelligibilia; sed oportet quod sit in intellectu magnitudo etiam propter
+unumquodque intelligibilium.
+|#7 Contra. Hoc non potest esse. Plato enim ponit, et opinatus est, quod intelligere non fiat per acceptionem
+specierum in intellectu, sed quod intellectus intelligat per quemdam contactum, inquantum scilicet occurrit et
+obviat speciebus intelligibilibus; et istum contactum attribuit circulo, sicut supra dictum est. Quaero ergo a te, si
+intellectus est magnitudo, et intelligit secundum contactum, qualiter intelligat. Aut enim hoc quod intelligit,
+tangit secundum totum, aut secundum partem eius: si secundum totum contingens intelligit totum, tunc partes
+non erunt necessariae, sed erunt frustra; et sic non est necesse, quod sit intellectus magnitudo et circulus. Si vero
+secundum partes contingens, intelligit partes, aut hoc erit secundum plures partes, aut secundum unam tantum: si
+secundum unam tantum, sic idem quod prius, quia aliae erunt superfluae, et sic non erit necessarium ponere
+intellectum habere partes. Si vero contingens secundum omnes partes, intelliget, aut hoc erit secundum partes
+punctales, aut secundum partes quantitativas: si secundum partes punctales, tunc, cum in qualibet magnitudine
+sint infinita puncta, oportet quod infinities tangat antequam intelligat; et sic nunquam intelliget, cum non sit
+infinita pertransire.
+|#8 Dicit autem partes punctuales, non quod velit magnitudinem in partes punctales dividi, sed disputat ad
+rationem Platonis, qui fuit huius opinionis, quod corpus componeretur ex superficiebus, et superficies ex lineis,
+et linea ex punctis. Quod ipse improbat in sexto (in principio) physicorum, ubi ostendit quod punctum additum
+puncto nihil addit.
+|#9 Si vero intelligit contingens secundum partes quantitativas, tunc, cum quaelibet pars dividatur in multas
+partes, sequitur, quod multoties intelligat, idem. Item cum omnis quantitas sit divisibilis in infinitum secundum
+eamdem proportionem, et non secundum eamdem quantitatem, sequitur quod infinities intelligat, quod est
+inconveniens. Videtur ergo quod non contingat nisi semel; et sic nullo modo debet attribui intellectui magnitudo,
+neque quantum ad multa intelligibilia, neque quantum ad unum.
+|#10 Et notandum, quod hic Aristoteles occulte ostendit, quod intellectus de natura sua non est partibilis, sed
+quid impartibile. Intelligibile enim in unaquaque re est quidditas, et natura rei est tota in qualibet parte, sicut
+natura speciei est tota in quolibet individuo: tota enim natura hominis est in quolibet individuo, et hoc est
+indivisibile: unde illud quod est intelligibile in qualibet re, est indivisibile, et per consequens intellectus.
+|#11
+Tertiam rationem ponit cum dicit amplius quomodo quae talis est. Constat quod si nos ponimus
+intellectum impartibilem, de facili patebit ratio, quomodo intelligat impartibile et partibile: quia impartibile
+intelliget secundum proprietatem suae naturae, eo quod impartibilis est, ut dictum est; partibile vero intelliget
+abstrahendo a partibili. Sed si intellectus ponatur partibilis secundum quod Plato vult, impossibile erit invenire
+rationem quomodo intelligit impartibile. Et sic videtur, quod inconvenienter Plato ponat intellectum esse
+magnitudinem seu partibilem.
+|#12 Quartam rationem ponit cum dicit necessarium autem quae talis est. Tu dicis intellectum esse circulum, et
+dicis intellectum moveri: sed motus circuli est circulatio, motus vero intellectus est intelligentia, hoc est
+intelligere: ergo si intellectus est circulus, de necessitate intelligentia erit circulatio. Sed hoc est falsum; quia cum
+in circulatione non sit invenire actu principium neque finem, ut probatur in octavo physicorum, sequitur etiam
+quod intelligentia seu operatio ipsius intellectus, quae est intelligere, nunquam terminatur. Sed hoc est falsum:
+quia intelligentia habet actu et principium et finem: ergo intelligentia et circulatio non sunt idem, et per
+consequens nec intellectus est circulus.
+|#13 Quod autem intelligentia habeat principium et finem actu, probatur: quia omnis intelligentia aut est
+practica, aut speculativa: sed constat quod practicarum intelligentiarum termini sunt, idest fines. Nam omnes sunt
+alterius causa, scilicet operis, et ad opus terminantur. Speculativae etiam intelligentiae finem habent, scilicet
+rationes, omnes enim terminantur ad aliquas rationes: quae quidem rationes, aut sunt definitio, scilicet in simplici
+intelligentia, aut demonstratio, scilicet cum componit et dividit. Sed demonstrationes primae ex principiis certis
+sunt, et habent quodammodo finem syllogismum aut conclusionem.
+|#14 Et si dicatur, quod ex una conclusione sequitur alia, et sic non terminatur; nihilominus tamen potest dici,
+quod conclusiones non sunt circulares, quia non est circulo demonstrare, ut probatur in primo posteriorum, sed
+tendunt in rectum; et impossibile est in rectum invenire motum infinitum seu processum.
+
+19
+
+

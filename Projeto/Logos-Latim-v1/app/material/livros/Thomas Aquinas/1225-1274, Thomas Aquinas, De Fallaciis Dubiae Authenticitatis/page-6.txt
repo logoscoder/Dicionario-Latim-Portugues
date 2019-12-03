@@ -1,0 +1,61 @@
+Sed non omne animal est rationale. Ergo omne animal est irrationale. Non valet: quia prima est duplex, eo quod
+praedicatum potest attribui coniunctim subiecto, et sic est composita et vera: est enim sensus, quod de quolibet
+animali est verum dicere, quod est rationale vel irrationale.
+Vel potest attribui divisim, et sic est falsa: est enim sensus quod altera istarum sit vera. Omne animal est
+rationale, vel omne animal est irrationale; cum tamen utraque sit falsa: unde est fallacia divisionis.
+Potest etiam sic formari paralogismus: quicquid non est rationale vel irrationale, nec est rationale nec irrationale.
+Sed non omne animal est rationale vel irrationale: ergo animal est quod nec est rationale nec irrationale. Non
+sequitur: nam minor est in sensu diviso vera, in sensu composito falsa: unde est fallacia compositionis.
+Est autem sciendum quod quando praedicatum comparatur ad subiectum coniunctim, tunc coniunctio coniungit
+terminos; et sic accipitur in VI unius propositionis, quia duo termini coniunctim accepti sumuntur ut unum
+praedicatum, et cum simul attribuantur subiecto subiectum erit etiam unum; ex uno autem subiecto et uno
+praedicato fit una oratio. Quando vero termini in praedicato positi copulato vel diviso divisim subiecto
+attribuuntur, sic accipiuntur ut duo praedicata, et per consequens ut duo subiecta eis respondentia, et sic
+intelliguntur quasi duae orationes per coniunctionem copulativam vel disiunctivam.
+Tertius modus est quando una dictio potest coniungi diversis dictionibus in locutione positis: erit autem tunc
+secundum hoc composita oratio, quando coniungitur cum dictione cui magis apparet, vel apta nata coniungi;
+diversa vero, quando ab ea disiungitur. Sicut in hoc paralogismo patet: quod potest unum solum ferre, plura
+potest ferre. Sed quod solum unum potest ferre, non potest nisi unum ferre. Ergo quod non potest nisi unum
+solum ferre, potest plura ferre. Non valet: nam prima est duplex, ex eo quod haec dictio solum potest coniungi
+cum hac dictione potest, cum qua magis videtur coniungi, et sic est composita et falsa: est enim sensus, quod ille
+qui non potest portare nisi unum solum pondus, potest plura portare. Vel potest dividi ab hoc verbo potest et
+coniungi cum hac dictione ferre, et sic est divisa et vera: est enim sensus quod ille qui modo potest ferre unum
+solum pondus, potest quandoque plura ferre: unde est fallacia compositionis.
+Item: quicumque vivit, semper est. Iste asinus vivit: ergo semper est. Non sequitur: nam prima est duplex, ex eo
+quod hoc adverbium semper potest componi cum verbo est cum quo magis videtur componi, et sic est composita
+et falsa. Vel dividi ab eo, et componi cum hoc verbo vivit, et sic est divisa et vera, unde est fallacia
+compositionis.
+E contrario est fallacia divisionis, ut patet in his paralogismis: quocumque vides hunc percussum, illo percussus
+est.
+Sed oculo vides hunc percussum: ergo oculo percussus est. Non valet: quia minor est duplex, eo quod iste
+ablativus oculo potest componi cum hoc verbo, vides, cum quo magis videtur componi, et sic est composita et
+vera: vel dividi ab eo, et componi cum hoc participio, percussum, et sic et divisa et falsa; unde est fallacia
+divisionis. Item: quicumque est hodie natus, hodie primo incoepit esse. Sed tu es hodie natus, constat enim quod
+hodie es, et es natus: ergo hodie coepisti esse.
+Non valet: quia minor est duplex, ex eo quod hoc adverbium, hodie, potest componi cum hoc verbo, es, et sic est
+composita et vera; vel cum hoc participio, natus, et sic est divisa et falsa.
+Et est notandum quod obliqui et adverbia magis videntur determinare verbum quam participium, et magis
+verbum principale quam secundarium, quod implicatur in subiecto. Cum enim dicitur: quicumque currit,
+movetur; movetur est verbum principale, currit secundarium in subiecto implicatum.
+|+9 Capitulus 9: De fallacia accentus.
+Sequitur de fallacia accentus.
+Accentus autem, secundum quod hic sumitur, est modus pronuntiandi aliquam dictionem. Fallacia autem
+accentus est deceptio proveniens ex eo quod aliqua dictio diversimode pronunciata diversa significat.
+Sicut enim fallacia secundum compositionem et divisionem est eadem oratio materialiter, diversificata secundum
+formam; ita hic est eadem dictio materialiter, diversificata secundum diversum modum pronuntiandi: et ideo
+sicut ibi est potentialis multiplicitas orationis, ita est hic potentialis multiplicitas dictionis. Causa apparentiae
+huius fallaciae est materialis unitas dictionis; causa non existentiae est diversitas significationis sive dictionis
+diversimode pronuntiatae.
+Sunt autem quatuor modi huius fallaciae, secundum quod quatuor modis contingit diversificari modos
+pronuntiandi dictionem. Primo namque variatur per diversos sonos sive accentus, qui sunt tres: scilicet accentus
+gravis, acutus et circumflexus.
+Accentus acutus, sive sonus, est qui acuit sive elevat syllabam, sicut patet in media syllaba cum dicitur martinus,
+media syllaba acuitur sive elevatur. Gravis autem accentus est qui deprimit syllabam et deponit, sicut patet in
+media huius dictionis Dominus et ultima syllaba huius dictionis Lucas. Circumflexus vero accentus est qui acuit
+syllabam, et postea deprimit, ut Roma.
+Primus ergo modus huius fallaciae est qui provenit ex eo quod aliqua dictio potest pronuntiari gravi accentu, vel
+acuto, vel circumflexo. Acuto, ut patet in hoc paralogismo: quoscumque iustum est pendere, iustum est pati
+poenam. Sed bonos viros iustum est pendere. Ergo bonos viros iustum est pati poenam. Non sequitur: quia in
+6
+
+

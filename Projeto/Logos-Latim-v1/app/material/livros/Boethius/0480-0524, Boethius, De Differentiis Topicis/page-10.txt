@@ -1,0 +1,62 @@
+proprio. Maxima [1190D] propositio: si quod similiter inest, non est proprium, nec id de quo quaeritur esse proprium
+potest. Locus a similibus.
+(Hic uero in gemina diuiditur, haec enim similitudo aut in qualitate consistit, aut in quantitate; sed in quantitate
+paritas, id est aequalitas nuncupatur, in qualitate similitudo.)
+Rursus ab eo quod est magis: si quaeratur an sit animalis definitio, quod ex se moueri possit, dicemus sic:
+magis oportet animalis definitionem esse quod naturaliter uiuat quam quod ex se moueri possit; non est autem haec
+definitio animalis quod naturaliter uiuat; nec ea quidem igitur quae minus uidetur esse, quod ex se moueri possit,
+animalis definitio putanda [1191A] est. Quaestio de definitione. Maxima propositio: si id quod magis uidetur inesse
+non est, nec id quod minus uidebitur inesse inerit. Locus ab eo quod magis est.
+A minoribus uero conuerso modo. Nam si est hominis definitio, animal gressibile bipes, cum id minus uideatur
+esse definitio hominis, quam animal rationale mortale, sitque definitio hominis ea quae dicit alias gressibile bipes, erit
+definitio hominis animal rationale mortale. Quaestio definitione. Maxima propositio: si id quod minus uidetur inesse
+inest, id quod magis uidebitur inesse, inerit.
+Multae autem sunt diuersitates locorum ab eo quod est magis et minus argumenta ministrantium, quos in
+expositione Topicorum Aristotelis diligentius persecuti sumus.
+Item a proportione, ut si quaeratur an sorte [1191B] sint eligendi in ciuitatibus magistratus, dicamus minime.
+Quia ne in nauibus quidem gubernator sorte praeficitur, est enim proportio. Nam ut sese gubernator habet ad nauim, ita
+magistratus ad ciuitatem. Sic autem locus distat ab eo qui a similibus ducitur. Ibi enim una res unicuilibet alii
+comparatur. In proportione uero non est similitudo rerum sed quaedam habitudinis comparatio. Quaestio de accidente.
+Maxima propositio: quod in unaquaque re euenit, id in eius proportionali euenire necesse est. Locus a proportione.
+Ex oppositis uero multiplex est locus. Quattuor enim sibimet opponuntur modis, aut enim ut contraria aduerso
+sese loco constituta respiciunt, aut ut priuatio et habitos, aut ut relatio, aut ut affirmatio et negatio. Quorum discretiones
+in eo libro [1191C] qui de Decem Praedicamentis scriptus est commemoratae sunt, ab his hoc modo argumenta
+nascuntur.
+A contrariis, si quaeratur an sit uirtutis proprium laudari, dicam minime, quia nec uitii quidem uituperari.
+Quaestio de proprio. Maxima propositio: contraria contrariis conueniunt. Locus ab oppositis, id est ex contrario. Rursus
+in quaestione sit positum, an proprium sit oculos habentium uidere. Dicam non, eos namque qui uident, alios etiam
+caecos esse contingit. Nam in quibus est habitus, in eisdem etiam poterit esse priuatio, et quod est proprium non potest
+a subiecto discedere. Et quoniam ueniente caecitate uisus abscedit, non esse proprium habentium oculos uidere
+conuincitur. Quaestio de proprio Maxima propositio: ubi priuatio abesse potest, habitus proprium non est. Locus ab
+oppositis [1191D] secundum habitum et priuationem.
+Rursus sit in quaestione propositum, an patris sit proprium procreatorem esse. Dicam recte uideri, quia filii est
+proprium procreatum esse: ut enim sese habet pater ad filium, ita procreator ad procreatum. Quaestio de proprio.
+Maxima propositio: oppositorum ad se relatorum propria, et ipsa ad se referuntur. Locus a relatiuis oppositis.
+Item sit in quaestione propositum an sit animalis proprium moueri. Negetur, quia nec inanimati quidem est
+proprium non moueri. Quaestio de proprio. Maxima propositio: oppositorum opposita propria esse oporters. Locus ab
+oppositis secundum affirmationem et negationem. Moueri enim [1192A] et non moueri secundum affirmationem et
+negationem sibimet opponuntur.
+Ex transumptione hoc modo fit, cum ex his terminis in quibus quaestio constituta est, ad aliud quiddam notius
+dubitatio transfertur, et ex eius probatione ea quae in quaestione posita sunt confirmantur, ut Socrates cum quid posset
+in unoquoque iustitia quaereret, omnem tractatum ad reipublicae transtulit magnitudinem, atque ex eo quod illic
+efficeret, in singulis etiam ualere confirmauit. Qui locus a toto forsitan esse uidebitur. Sed quoniam non inhaeret his de
+quibus proponitur terminis sed extraposita res hoc tantum quia notior uidetur, assumitur, idcirco ex transumptione locus
+hic conuenienti uocabulo nuncupatus est.
+Fit uero haec transumptio et in nomine quoties [1192B] ab obscuro uocabulo ad notius argumentatio
+transfertur hoc modo, ut si quaeratur an philosophus inuideat, sitque in cognitum quid philosophi significet nomen.
+Dicemus ad uocabulum, transferentes notius non inuidere, quia sapiens sit. Notius uero est sapientis uocabulum quam
+philosophi.
+Ac de his quidem locis qui extrinsecus assumuntur liquide dictum est, nunc de mediis disputabitur. Medii
+autem loci sumuntur uel ex casu, uel ex coniugatis, uel ex diuisione nascentes.
+Casus est alicuius nominis principalis inflexio in aduerbium, ut a iustitia inflectitur iuste. Casus igitur est a
+iustitia id quod dicimus iuste. Coniugata uero dicuntur quae ab eodem diuerso modo deducta fluxerunt, ut a iustitia
+iustum, iustus. Haec igitur inter se et cum ipsa iustitia coniugata dicuntur.
+Ex quibus omnibus in promptu sunt argumenta. [1192C] Nam si id quod iuste est bonum est, et quod iustum
+est bonum est, et si qui iustus est bonus est, et iustitia bona est. Haec igitur secundum proprii nominis similitudinem
+consequuntur.
+Medii uero loci appellantur, quoniam si de iustitia quaeritur, et a casu uel a coniugatis argumenta ducuntur
+neque ab ipsa substantia proprie neque coniuncte, neque ab iis quae sunt extrinsecus posita uidentur trahi sed ex
+ipsorum casibus, id est quadam ex ipsis leui mutatione deductis. Iure igitur hi loci medii inter eos qui ab ipsis et eos qui
+sunt extrinsecus collocantur.
+
+

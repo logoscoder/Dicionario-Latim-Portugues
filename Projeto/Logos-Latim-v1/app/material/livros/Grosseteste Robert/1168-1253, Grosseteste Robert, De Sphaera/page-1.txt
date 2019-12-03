@@ -1,0 +1,59 @@
+De sphaera
+Printed Source: Die Philosophischen Werke des Robert Grosseteste, Bischofs von Lincoln (Münster i. W.,
+Aschendorff, 1912.), pp. 11 - 32.
+INC: Intentio nostra in hoc tractatu est describere figuram machinae mundanae et centrum [et situm] et figuras
+corporum eam constituentium et motus corporum superiorum et figuras circulorum suorum.
+EXPL: Verumtamen non est necesse, quod in omnibus, sed in his locis, in quibus locus lunae apparens in
+ecliptica vel prope eclipticam minus distat ab ea, quam quantitate duarum semidiametrorum scilicet solis et
+lunae.
+
+<Caput 1>
+p. 11: Intentio nostra in hoc tractatu est describere figuram machinae mundanae et centrum [et situm] et figuras
+corporum eam constituentium et motus corporum superiorum et figuras circulorum suorum.Quia igitur huius
+mundi machina sphaerica est, dicendum est in primis quid sit sphaera? -- Est autem sphaera transitus semicirculi
+diametro eius fixa, quousque ad locum suum, unde incepit, redeat. -- Sit igitur semicirculus A B C;
+circumvolvatur super A B diametrum fixam: manifestum est, quod motu suo describit corpus, a cuius medio scil.
+0 omnes lineae exeuntes ad eius circumferentiam sunt aequales et erit corpus illud cuiusmodi corpus dicimus
+esse sphaeram. -- Tale autem corpus est tota mundi machina.
+p. 11: Imaginemur igitur super 0 centrum D E F semicirculum describi: manifestum est ergo, quod superficies
+inter A B C semicircumferentiam et D E F semicircumferentiam si circumvolvatur super A B diametrum, motu
+suo describet corpus, cuius ultima superficies et intima, erunt sphaericae. Et corpus illud totum interius et
+exterius sphaericum nihil habens extra se omnia corpora continens in se consimilis figurae et situs corpus huius
+mundi est unum, quod quintam essentiam nominant philosophi, sive aethera, sive corpus coeli, et praeter
+elementares proprietates circulariter mobile. In quo septem planetae cum stellis fixis continentur.
+p. 12: Posito iterum 0 centro et pauciore spatio occupato describatur semicirculus G H J: superficies igitur
+contenta inter D E F semicircumferentiam et G H J semicircumferentiam, corpus interius et exterius sphaericum
+describet contiguum exterius quintae essentiae et intra se continens reliqua corpora. Huius figurae et situs est
+corpus ignis.
+p. 12: Superficies iterum inter G H J semicircumferentiam et K L M contenta circumvolutione sua describet
+corpus, cuius figurae et situs similitudinem obtinet aër.
+p. 12: Item superficies inter K L M et N R P semicircumferentiam contenta circumrotatione sua describet corpus,
+cuius corporis figurae et situs similitudinem obtinet aqua. -- Circuitio iterum N R Q semicirculi describet corpus
+sphaericum in medio praedictorum corporum contentum, cuius figurae et situs similitudinem obtinet terra. -Verumtamen ut animalia terrena habitaculum et receptaculum haberent, aqua in concavitates terrae recessit et
+apparuit superficies terrae arida et separata. Estque terra cum aquis in se contentis sicut sphaera terrae solum.
+p. 12: Quod autem omnia praedicta corpora sphaerica sunt et rationibus naturalibus et experimentis astronomicis
+ostenditur. Quia namque a natura rei est forma et unumquodque praedictorum corporum naturalium naturae
+unius est, cuius scilicet quaelibet pars participat cum toto in nomine et diffinitione, necessefuit, ut unumquodque
+haberet uniformem figuram, cuius quaelibet pars esset toti consimilis. Talis autem nulla est praeter sphaericam.
+-- Praeterea quia omne ponderosum tendit ad centrum et locus profundior est, qui est circa centrum, necesse fuit,
+duo corpora ponderosa sphaericam habere figuram. Et similiter est de duobus levibus, quia locus levis elevatior
+est, qui magis distat a centro: et omne leve ad magis elevatum tendit.
+p. 12: De quinta essentia ostendit philosophus, quod ipsa est sphaerica: quia necesse est motus rectos, qui sunt
+gravium et levium elementorum, reduci ad motum circularem, qui est de necessitate quintae essentiae. Sed si
+movetur circulariter, de necessitate est sphaerica, quia sit esset angulosum, de necessitate esset locus vacuus.
+p. 13: Experimento etiam scitur, quod terra est rotunda. Si enim esset plana, cum visus recte protendatur, visus
+omnium hominum supra superficiem terrae existentium ad eundem locum in coelo terminarentur. Sed notum est
+experimento, quod, qui sunt in terra in die super Arim civitatem vident polum septentrionalem et ipse est
+terminator visus eorum et quanto homines magis accedunt ab illa civitate versus septentrionem, tanto magis
+elevatur eis polus et finitur visus eorum sub polo. Hoc autem non posset accidere, nisi terra esset rotunda. -Quod autem sit rotunda versus oriens et occidens, patet per hoc, quod prius est dies his, qui magis accedunt
+orienti et tardius his, qui sunt propinquiores occidenti. Et similiter nox. -- Et hoc scitur per eclipses lunares.
+Eadem enim eclipsis visa est apud Arim in vespere eorum, quae fuit in media nocte eorum, qui fuerunt in
+oriente, et non apparuit eis, qui fuerunt in occidente. Similiter alia eclipsis, quae fuit in media nocte eorum, qui
+fuerunt apud Arim fuit in vespere occidentalium et in mane orientalium.
+p. 13: Quod autem coelum sit sphaericum, patet per apparentiam nobis in visu. Videmus enim stellam unam in
+coelo non motam et omnes reliquas stellas moveri circulariter circa ipsam et stellas ei propinquiores circulos
+breviores describere, et remotiores maiores. -- Apparet etiam nobis unaquaeque stella in ortu suo et in medio
+coeli et in occasu eiusdem magnitudinis. Istae autem dispositiones non possent esse nisi in sphaerico et in
+1
+
+

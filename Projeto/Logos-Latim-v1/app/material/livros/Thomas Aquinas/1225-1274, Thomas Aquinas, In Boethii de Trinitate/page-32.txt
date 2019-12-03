@@ -1,0 +1,63 @@
+Praeterea, omnia accidentia, cum sint formae, ex se ipsis sunt communicabilia et universalia. Sed nihil tale potest
+esse alteri principium individuationis. Ergo accidentia non sunt individuationis principium. Sed aliqua sunt
+secundum numerum diversa, in quantum in sua individuatione dividuntur. Igitur accidentia non possunt esse
+principium diversitatis secundum numerum.
+AG4
+Praeterea, sicut ea, quae differunt genere vel specie in genere substantiae, differunt secundum substantiam et non
+solum secundum accidens, ita et ea quae differunt secundum numerum. Sed aliqua dicuntur diversa genere vel
+specie per id quod est in genere substantiae. Igitur et similiter dicuntur diversa numero per id quod est in genere
+substantiae et non per accidentia.
+AG5
+Praeterea, remota causa removetur effectus. Sed omne accidens contingit a subiecto removeri vel actu vel
+cogitatione. Si ergo accidens est principium identitatis secundum numerum et diversitatis, contingeret actu vel
+cogitatione eadem quandoque esse unum secundum numerum, quandoque vero diversa.
+AG6
+Praeterea, posterius numquam est causa prioris. Sed inter omnia accidentia primum locum tenet quantitas, ut
+dicit Boethius in commento praedicamentorum. Inter quantitates autem naturaliter numerus prior est, cum sit
+simplicior et magis abstractus. Ergo impossibile est quod aliquod aliud accidens sit principium pluralitatis
+secundum numerum.
+SC1
+Sed contra est quod dicit Porphyrius quod individuum facit collectio accidentium, quae in alio reperiri non
+possunt. Sed illud, quod est principium individuationis, est principium diversitatis secundum numerum. Ergo
+accidentia sunt principium pluralitatis secundum numerum.
+SC2
+Praeterea, in individuo nihil invenitur nisi forma et materia et accidentia. Sed diversitas formae non facit
+diversitatem secundum numerum, sed secundum speciem, ut patet in X metaphysicae.
+Diversitatem vero secundum genus facit diversitas materiae. Dicit enim Philosophus in X metaphysicae quod
+genere differunt, quorum non est materia communis nec generatio ad invicem. Ergo diversitatem secundum
+numerum nihil potest facere nisi diversitas accidentium.
+SC3
+Praeterea, illud, quod invenitur commune in pluribus specie differentibus, non est causa diversitatis secundum
+numerum, quia divisio generis in species praecedit divisionem speciei in individua. Sed materia invenitur
+communis in diversis secundum speciem, quia eadem materia formis contrariis subditur; alias habentia contrarias
+formas non transmutarent invicem. Ergo materia non est principium diversitatis secundum numerum, nec forma,
+ut probatum est. Ergo relinquitur quod accidentia sint huius diversitatis causa.
+SC4
+Praeterea, in genere substantiae nihil invenitur nisi genus et different sed individua unius speciei non differunt
+genere nec substantialibus differentiis. Ergo non differunt nisi differentiis accidentalibus.
+CO1
+Responsio. Dicendum quod ad evidentiam huius quaestionis et eorum, quae in littera dicuntur, oportet videre,
+quid sit causa huius triplicis diversitatis, quae in littera assignatur. Cum autem in individuo composito in genere
+substantiae non sint nisi tria, scilicet materia, forma et compositum, oportet ex aliquo horum cuiuslibet harum
+diversitatum causas invenire. Sciendum est ergo quod diversitas secundum genus reducitur in diversitatem
+materiae, diversitas vero secundum speciem in diversitatem formae, sed diversitas secundum numerum partim in
+diversitatem materiae, partim in diversitatem accidentis. Cum autem genus sit principium cognoscendi, utpote
+prima diffinitionis pars, materia autem secundum se sit ignota, non potest secundum se ex ea accipi diversitas
+generis, sed solum illo modo, quo cognoscibilis est. Est autem cognoscibilis dupliciter. Uno modo per analogiam
+sive per proportionem, ut dicitur in I physicorum. Hoc est, ut dicamus illud esse materiam quod hoc modo se
+habet ad res naturales sicut lignum ad lectum. Alio modo cognoscitur per formam, per quam habet esse in actu.
+Unumquodque enim cognoscitur, secundum quod est in actu, et non secundum quod est in potentia, ut dicitur in
+IX metaphysicae.
+CO2
+Et secundum hoc dupliciter sumitur diversitas generis ex materia.
+Uno modo ex diversa analogia ad materiam, et sic penes materiam distinguuntur prima rerum genera. Id enim,
+quod est in genere substantiae, comparatur ad materiam sicut ad partem sui; quod vero est in genere quantitatis,
+non habet materiam partem sui, sed comparatur ad ipsam sicut mensura, et qualitas sicut dispositio. Et his
+duobus generibus mediantibus omnia alia genera nanciscuntur diversas comparationes ad materiam, quae est
+pars substantiae, ex qua substantia habet rationem subiecti, secundum quam ad accidentia comparatur. Alio
+modo penes materiam sumitur diversitas generis, secundum quod materia est perfecta per formam. Cum enim
+materia sit potentia pura et Deus actus purus, nihil est aliud materiam perfici in actum qui est forma, nisi
+
+32
+
+

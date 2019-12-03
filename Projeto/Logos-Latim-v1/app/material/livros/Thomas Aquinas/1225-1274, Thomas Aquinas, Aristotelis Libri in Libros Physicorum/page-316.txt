@@ -1,0 +1,63 @@
+|#1
+Postquam Philosophus ostendit quod movens seipsum dividitur in duas
+partes, quarum una movet et non movetur, alia autem movetur; hic ostendit
+quomodo huiusmodi partes se habeant ad invicem.
+Et circa hoc tria facit: primo proponit quod intendit; secundo ostendit
+propositum, ibi: sit enim a movens etc.; tertio concludit conclusionem
+principaliter intentam ex omnibus praemissis, ibi: manifestum igitur ex his
+etc..
+Dicit ergo primo, quod cum movens dividatur in duo, quorum unum movetur
+etiam ab alio, aliud vero movens est immobile: et iterum mobile dividatur
+in duo; est enim quoddam mobile quod etiam movet, quoddam vero mobile quod
+nihil movet: oportet dicere quod movens seipsum componatur ex duabus
+partibus, quarum una sit sic movens quod tamen sit immobilis, alia vero sic
+moveatur quod tamen non moveat.
+Quod autem subdit ex necessitate, dupliciter potest intelligi: quia si
+intelligatur quod pars mota moventis seipsum non moveat aliquid quod sit
+pars moventis seipsum, sic legenda est littera, quod necessitas remaneat
+affirmata, cadens super hoc quod dicit non movente.
+Probat enim statim impossibile esse, quod eius quod primo movet seipsum,
+sit tertia pars, quae moveatur a parte mota. Si vero intelligatur quod pars
+mota non moveat aliquid extrinsecum, sic hoc quod dicit ex necessitate,
+cadit sub negatione: non enim est de necessitate moventis seipsum, quod
+pars eius mota moveat aliquid extrinsecum; nec tamen est impossibile.
+|#2
+Qualiter autem hoc contingat, ostendit consequenter cum dicit: sit
+enim a movens etc..
+Et circa hoc duo facit: primo ostendit propositum; secundo solvit quandam
+dubitationem, ibi: dubitationem autem habet etc..
+Circa primum duo facit: primo ostendit qualiter partes moventis seipsum se
+habeant ad invicem; secundo qualiter secundum eas totum dicitur seipsum
+movere, ibi: si igitur continuum est etc..
+Circa primum duo facit: primo ostendit quod in movente seipsum sunt solae
+duae partes, quarum una movet et non movetur, alia movetur et non movet;
+secundo quomodo hae duae partes ad invicem coniungantur, ibi: contacta
+autem utraque etc..
+Primum ostendit sic. Si dicatur quod pars mota moventis seipsum, iterum
+moveat aliquid aliud, quod sit pars eiusdem moventis seipsum: sit ergo
+prima pars moventis seipsum a, quod sit movens immobile: secunda vero pars
+sit b, quod moveatur ab a, et moveat tertiam partem, quae est c, quae sic
+moveatur a b, quod nihil aliud moveat quod sit pars moventis seipsum. Non
+enim potest dici quod fiat descensus in infinitum in partibus moventis
+seipsum, scilicet quod pars mota iterum moveat aliam: quia sic movens
+seipsum esset in infinitum, quod est impossibile, ut supra ostensum est.
+Erit ergo aliqua pars moventis seipsum, quae est mota non movens, quam
+dicimus c. Et licet contingat per multa media quae sunt moventia et mota,
+pervenire in ultimum motum quod dicitur c; accipiatur loco omnium mediorum,
+unum medium quod sit b. Sic ergo hoc totum quod est abc movet seipsum. A
+quo toto si auferatur haec pars quae est c, adhuc ipsum ab movebit seipsum:
+quia una pars eius est movens, scilicet a, et alia mota, scilicet b, quod
+requirebatur ad hoc quod aliquid sit movens seipsum, ut supra ostensum est.
+Sed c non movebit seipsum, neque aliquam aliam partem, secundum supposita.
+Similiter etiam bc non movet seipsum sine a, quia b non movet nisi
+inquantum movetur ab alio quod est a, quod non est pars eius.
+Relinquitur ergo quod solum ab moveat seipsum primo et per se.
+Unde necesse est quod movens seipsum habeat duas partes, quarum una sit
+movens immobilis, alia vero sit mota, quam necesse est nihil movere quod
+sit pars moventis seipsum: hoc enim conclusum est per praemissam rationem.
+Vel nihil movens ex necessitate: quia non est de necessitate moventis
+seipsum, quod pars mota moveat aliquid aliud etiam extrinsecum.
+
+316
+
+

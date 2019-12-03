@@ -1,0 +1,60 @@
+Deinde considerandum est de bonitate et malitia quantum ad exteriores actus. Et circa hoc quaeruntur sex. Primo,
+utrum bonitas et malitia per prius sit in actu voluntatis, vel in actu exteriori secundo, utrum tota bonitas vel
+malitia actus exterioris dependeat ex bonitate voluntatis. Tertio, utrum sit eadem bonitas et malitia interioris et
+exterioris actus. Quarto, utrum actus exterior aliquid addat de bonitate vel malitia supra actum interiorem.
+Quinto, utrum eventus sequens aliquid addat de bonitate vel malitia ad actum exteriorem. Sexto, utrum idem
+actus exterior possit esse bonus et malus.
+|a1 Articulus 1
+AG1
+Ad primum sic proceditur. Videtur quod bonum et malum per prius consistat in actu exteriori quam in actu
+voluntatis.
+Voluntas enim habet bonitatem ex obiecto, ut supra dictum est.
+Sed actus exterior est obiectum interioris actus voluntatis, dicimur enim velle furtum, vel velle dare
+eleemosynam. Ergo malum et bonum per prius est in actu exteriori, quam in actu voluntatis.
+AG2
+Praeterea, bonum per prius convenit fini, quia ea quae sunt ad finem, habent rationem boni ex ordine ad finem.
+Actus autem voluntatis non potest esse finis, ut supra dictum est, actus alicuius alterius potentiae potest esse
+finis. Ergo per prius consistit bonum in actu potentiae alterius,
+AG3
+Praeterea, actus voluntatis formaliter se habet ad actum exteriorem, ut supra dictum est.
+Sed id quod est formale, est posterius, nam forma advenit materiae. Ergo per prius est bonum et malum in actu
+exteriori quam in actu voluntatis.
+SC
+Sed contra est quod Augustinus dicit, in libro retract., quod voluntas est qua peccatur, et recte vivitur.
+Ergo bonum et malum morale per prius consistit in voluntate.
+CO
+Respondeo dicendum quod aliqui actus exteriores possunt dici boni vel mali dupliciter. Uno modo, secundum
+genus suum, et secundum circumstantias in ipsis consideratas, sicut dare eleemosynam, servatis debitis
+circumstantiis, dicitur esse bonum. Alio modo dicitur aliquid esse bonum vel malum ex ordine ad finem, sicut
+dare eleemosynam propter inanem gloriam, dicitur esse malum. Cum autem finis sit proprium obiectum
+voluntatis, manifestum est quod ista ratio boni vel mali quam habet actus exterior ex ordine ad finem, per prius
+invenitur in actu voluntatis, et ex eo derivatur ad actum exteriorem. Bonitas autem vel malitia quam habet actus
+exterior secundum se, propter debitam materiam et debitas circumstantias, non derivatur a voluntate, sed magis a
+ratione. Unde si consideretur bonitas exterioris actus secundum quod est in ordinatione et apprehensione rationis,
+prior est quam bonitas actus voluntatis, sed si consideretur secundum quod est in executione operis, sequitur
+bonitatem voluntatis, quae est principium eius.
+RA1
+Ad primum ergo dicendum quod actus exterior est obiectum voluntatis, inquantum proponitur voluntati a ratione
+ut quoddam bonum apprehensum et ordinatum per rationem, et sic est prius quam bonum actus voluntatis.
+Inquantum vero consistit in executione operis, est effectus voluntatis, et sequitur voluntatem.
+RA2
+Ad secundum dicendum quod finis est prior in intentione, sed est posterior in executione.
+RA3
+Ad tertium dicendum quod forma, secundum quod est recepta in materia, est posterior in via generationis quam
+materia, licet sit prior natura, sed secundum quod est in causa agente, est omnibus modis prior. Voluntas autem
+comparatur ad actum exteriorem sicut causa efficiens. Unde bonitas actus voluntatis est forma exterioris actus,
+sicut in causa agente existens.
+|a2 Articulus 2
+AG1
+Ad secundum sic proceditur. Videtur quod tota bonitas et malitia actus exterioris dependeat ex voluntate.
+Dicitur enim Matth. VII, non potest arbor bona malos fructus facere, nec arbor mala facere fructus bonos.
+Per arborem autem intelligitur voluntas, et per fructum opus, secundum Glossam.
+Ergo non potest esse quod voluntas interior sit bona, et actus exterior sit malus; aut e converso.
+AG2
+Praeterea, Augustinus dicit, in libro retract., quod non nisi voluntate peccatur.
+Si ergo non sit peccatum in voluntate, non erit peccatum in exteriori actu. Et ita tota bonitas vel malitia exterioris
+actus ex voluntate dependet.
+AG3
+693
+
+

@@ -1,0 +1,96 @@
+Quidam homo risibilis est.
+Quidam homo risibilis non est.
+Omnis homo iustus est.
+Nullus homo iustus est.
+Quidam homo iustus est.
+Quidam homo iustus non est.
+Omnis homo grammaticus est.
+Nullus homo grammaticus est.
+Quidam homo grammaticus est.
+Quidam homo grammaticus non est.
+Omnis homo lapis est.
+Nullus homo lapis est.
+Quidam homo lapis est.
+Quidam homo lapis non est.
+
+Quidam non homo risibilis est.
+Quidam non homo risibilis non est.
+Omnis non homo iustus est.
+Nullus non homo iustus est.
+Quidam non homo iustus est.
+Quidam non homo iustus non est.
+Omnis non homo grammaticus est.
+Nullus non homo grammaticus est.
+Quidam non homo grammaticus est.
+Quidam non homo grammaticus non est.
+Omnis non homo lapis est
+Nullus non homo lapis est.
+Quidam non homo lapis est.
+Quidam non homo lapis non est.
+
+[783A] In harum igitur affirmationibus quidem uniuersalibus ueritas et falsitas distribuitur, si quis tale de
+subiecto praedicetur quod abesse non possit, siue illud maius sit, ut animal homine, siue aequale, ut risibile homini. In
+his enim unam ueram, alteram falsam esae neoesse est, quidquid uero praeter ea fuerit praedicatum, unam semper
+ueritas, alteram semper falsitas non sequetur: ut autem simul uerae sint nequit ostendi.
+Particularium uero in affirmationibus quidem, siquidem ea praedicentur quae ualeant transire subiectum, siue
+ab eo separari nequeunt, ut animal ab homine, seu possint, ut iustitia ab homine, [784A] loquitur utraque uera sententia.
+Quidquid uero praeter ea fuerit praedicatum, unam ueritas, alteram falsitas tenet; falsae uero simul nequeunt inueniri.
+Negationes uero particulares siquidem id praedicent quod a subiecto non possit abscedere, siue illud maius sit, ut
+rationale homine, seu aequale, ul risibile homini, uni constabit ueritas, aItera mentietur. Si quid uero praeter ei fuerit
+praedicatum, ueras semper utrasque constat, ut ineas communis falsitasnunquam possit incidere.
+Item disponantur in ordinem primum quidem simplices, has e regione respiciant quae subiecto simplici
+denegantur praedicato.
+SIMPLICES
+Omnis homo lapis est.
+Nullus homo lapis est.
+Quidam homo lapis est.
+Quidam homo lapis non est.
+Omnis homo animal est.
+Nullus homo animal est.
+Quidam homo animal est.
+Quidam homo animal non est.
+Omnis homo risibilis est.
+Nullus homo risibilis est.
+Quidam homo risibilis est.
+Quidam homo risibilis non est.
+Omnis homo iustus est.
+Nullus homo iustus est.
+Quidam homo iustus est.
+Quidam homo iustus non est.
+Omnis homo grammaticus est.
+Nullus homo grammaticus est.
+Quidam homo grammaticus est.
+Quidam homo grammaticus non est.
+
+EX INFINITO PRAEDICATO
+Omnis homo non lapis est
+Nullus homo non lapis est.
+Quidam homo non lapis est.
+Quidam homo non lapis non est.
+Omnis homo non animal est
+Nullus homo non animal est.
+Quidam homo non animal est.
+Quidam homo non animal non est.
+Omnis non homo non risibilis est.
+Nullus non homo non risibilis est.
+Quidam non homo non risibilis est.
+Quidam non homo non risibilis non est.
+Omnis non homo non iustus est.
+Nullus non homo non iustus est.
+Quidam non homo non iustus est.
+Quidam non homo non iustus non est.
+Omnis non homo non grammaticus est.
+Nullus non homo non grammaticus est.
+Quidam non homo non grammaticus est.
+Quidam non homo non grammaticus non est.
+
+[783B] Harum igitur affirmationes uniuersales, siquidem praedicent quod subiecto nequeat conuenire, ut lapis
+homini, uel a subiecto, cum sit aequale uel sit maius, non possit abscedere, ut animal uel risibile ab homine, unam
+semper necesse est ueritatem. alteram proferre mendacium: quidquiduero praeterea fuerit praedicatum, utrisque falsitas
+inuenitur, ut ad ueritatem conuenire non possint.
+Negationes uero uniuersales siquidem id de subiecto praedicent quod subiecto adesse possit et abesse, ita ut
+excedat, ut uirtus hominem, uel id quod adesse quidem queat sed non possit adaequare subiectum, ut grammaticus
+hominem, utraeque in falsitate communicant. Quidquid uero aliud fuerit praedicatum, unam ueritas, alteram falsitas
+consequetur; ut autem simul uerae sint, [783C] nequit ostendi.
+
+

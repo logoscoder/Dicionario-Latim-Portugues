@@ -1,0 +1,56 @@
+|#4
+Deinde cum dicit: termini quidem similiter etc., concludit comparationem utriusque demonstrationis
+praemanifestatae. Et primo ostendit in quo conveniunt, quia in simili ordinatione terminorum. Nam sicut in
+demonstratione negativa accipitur b medium inter a et c, ita in ea quae ducit ad impossibile. Secundo autem
+ostendit differentiam, quia differt in utraque demonstratione quae negativa propositio sit notior, utrum scilicet
+ista propositio, nullum b est a, vel ista, nullum c est a: quia in demonstratione ducente ad impossibile accipitur
+ista propositio, c non est a, ut notior; quia ex hoc quod est a non esse in c, ostenditur a non esse in b, unde haec, c
+non est a, sumitur ut notior. Sed quando illa quae ponitur ut praemissa in syllogismo, accipitur ut notior, tunc est
+demonstrativa, idest ostensiva demonstratio negativa.
+|#5 Deinde cum dicit: natura autem prior est etc., ostendit propositum hoc modo. Ista propositio, b non est a, est
+naturaliter prior quam ista propositio, c non est a. Et hoc probat per hoc, quod praemissa, ex quibus infertur
+conclusio, sunt naturaliter priora conclusione. Sed in ordine syllogismi, c non est a ponitur ut conclusio, sed b
+non est a ponitur ut id ex quo conclusio infertur; ergo b non est a est naturaliter prior.
+|#6 Consequenter cum dicit: non enim si contingit etc., removet quamdam obviationem. Posset enim aliquis
+dicere quod etiam ista negativa, c non est a, est id ex quo concluditur in demonstratione ad impossibile quod b
+non est a.
+Sed hoc excludit, dicens quod per hoc quod conclusio interimitur et ex eius interemptione interimitur aliquod
+praemissorum, non efficitur quod id quod prius erat conclusio sit principium et e converso, simpliciter et
+secundum naturam, sed solum quoad aliquem. Nam ista est habitudo conclusionis et principiorum, quod
+interempta conclusione, interimitur principium. Sed illud quidem est sicut principium, ex quo syllogismus
+procedit, quod se habet ad conclusionem ut totum ad partem; et conclusio se habet ad principium ut pars ad
+totum. Nam subiectum conclusionis negativae sumitur sub subiecto primae propositionis. Non autem ita se
+habent ac et ab propositiones ad invicem, quod ac comparetur ad ab ut totum ad partem. Non enim ba accipitur
+sub ca, sed potius e converso.
+Unde relinquitur quod licet interempto ca, concludatur interemptio eius quod est ba, naturaliter tamen ca est
+conclusio et ba est principium; et per consequens b non est a est naturaliter notior quam c non est a.
+|#7 Et ex hoc sic argumentatur. Illa demonstratio est dignior, quae procedit ex notioribus et prioribus. Sed
+demonstratio negativa procedit ex notiori et priori quam demonstratio ducens ad impossibile. Utraque enim facit
+scire per aliquam negativam propositionem; sed demonstratio negativa procedit ad faciendam fidem ex hac
+propositione negativa, b non est a, quae est naturaliter prior; demonstratio autem ducens ad impossibile procedit
+ad faciendum fidem ex hac propositione negativa, c non est a, quae est posterior naturaliter. Relinquitur ergo
+quod demonstratio negativa sit potior ea quae ducit ad impossibile.
+Sed affirmativa est potior negativa, ut supra ostensum est; ergo demonstratio affirmativa ostensiva est multo
+potior ea quae ducit ad impossibile.
+|+41 Lectio 41
+|#1 Postquam Philosophus comparavit demonstrationes ad invicem, hic agit de comparatione scientiae, quae est
+demonstrationis effectus. Et dividitur in duas partes: in prima parte comparat scientiam ad scientiam; in secunda,
+comparat scientiam ad alios modos cognoscendi; ibi: scibile autem et scientia differunt etc.. Circa primum duo
+facit: primo, comparat scientiam ad scientiam secundum certitudinem; secundo, secundum unitatem et
+pluralitatem; ibi: una scientia autem etc..
+|#2 Circa primum ponit tres modos, quibus una scientia est alia certior. Primum modum ponit dicens, quod illa
+scientia est prior et certior quam alia, quae scilicet eadem facit cognoscere et quia et propter quid. Non autem est
+illa certior, quae est cognoscitiva solum ipsius quia, separatim ab ea quae cognoscit propter quid: haec enim est
+dispositio scientiae subalternantis ad subalternatam, ut supra dictum est: nam scientia subalternata separatim scit
+quia, nesciens propter quid. Sicut chirurgicus scit quod vulnera circularia tardius curantur, non autem scit propter
+quid. Sed huiusmodi cognitio pertinet ad geometram, qui considerat rationem circuli, secundum quam partes eius
+non appropinquant sibi per modum anguli, ex qua propinquitate contingit quod vulnera triangularia citius
+sanantur.
+|#3 Secundum modum ponit dicens, quod illa scientia, quae non est de subiecto, est certior illa quae est de
+subiecto. Et accipitur hic subiectum pro materia sensibili, quia, ut Philosophus docet in II physicorum, quaedam
+scientiae sunt pure mathematicae, quae omnino abstrahunt secundum rationem a materia sensibili, ut geometria
+et arithmetica: quaedam autem scientiae sunt mediae, quae scilicet principia mathematica applicant ad materiam
+sensibilem, sicut perspectiva applicat principia geometriae ad lineam visualem, et harmonica, idest musica,
+66
+
+

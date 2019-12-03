@@ -1,0 +1,59 @@
+|q48 Quaestio 48
+|a0 Prologus
+Deinde considerandum est de effectibus irae. Et circa hoc quaeruntur quatuor. Primo, utrum ira causet
+delectationem. Secundo, utrum maxime causet fervorem in corde. Tertio, utrum maxime impediat rationis usum.
+Quarto, utrum causet taciturnitatem.
+|a1 Articulus 1
+AG1
+Ad primum sic proceditur. Videtur quod ira non causet delectationem. Tristitia enim delectationem excludit. Sed
+ira est semper cum tristitia, quia, ut dicitur in VII ethic., omnis qui facit aliquid per iram, facit tristatus.
+Ergo ira non causat delectationem.
+AG2
+Praeterea, Philosophus dicit, in IV ethic., quod punitio quietat impetum irae, delectationem pro tristitia faciens,
+ex quo potest accipi quod delectatio irato provenit ex punitione, punitio autem excludit iram. Ergo, adveniente
+delectatione, ira tollitur. Non est ergo effectus delectationi coniunctus.
+AG3
+Praeterea, nullus effectus impedit causam suam, cum sit suae causae conformis.
+Sed delectationes impediunt iram, ut dicitur in II rhetoric..
+Ergo delectatio non est effectus irae.
+SC
+Sed contra est quod Philosophus, in eodem libro, inducit proverbium, quod ira multo dulcior melle distillante in
+pectoribus virorum crescit.
+CO
+Respondeo dicendum quod, sicut Philosophus dicit in VII ethic., delectationes, maxime sensibiles et corporales,
+sunt medicinae quaedam contra tristitiam, et ideo quanto per delectationem contra maiorem tristitiam vel
+anxietatem remedium praestatur, tanto delectatio magis percipitur; sicut patet quod quando aliquis sitit,
+delectabilior fit ei potus.
+Manifestum est autem ex praedictis quod motus irae insurgit ex aliqua illata iniuria contristante; cui quidem
+tristitiae remedium adhibetur per vindictam. Et ideo ad praesentiam vindictae delectatio sequitur, et tanto maior,
+quanto maior fuit tristitia.
+Si igitur vindicta fuerit praesens realiter, fit perfecta delectatio, quae totaliter excludit tristitiam, et per hoc
+quietat motum irae. Sed antequam vindicta sit praesens realiter, fit irascenti praesens dupliciter. Uno modo, per
+spem, quia nullus irascitur nisi sperans vindictam, ut supra dictum est.
+Alio modo, secundum continuam cogitationem. Unicuique enim concupiscenti est delectabile immorari in
+cogitatione eorum quae concupiscit, propter quod etiam imaginationes somniorum sunt delectabiles.
+Et ideo, cum iratus multum in animo suo cogitet de vindicta, ex hoc delectatur. Tamen delectatio non est
+perfecta, quae tollat tristitiam, et per consequens iram.
+RA1
+Ad primum ergo dicendum quod non de eodem iratus tristatur et gaudet, sed tristatur de illata iniuria, delectatur
+autem de vindicta cogitata et sperata. Unde tristitia se habet ad iram sicut principium, sed delectatio sicut
+effectus vel terminus.
+RA2
+Ad secundum dicendum quod obiectio illa procedit de delectatione quae causatur ex reali praesentia vindictae,
+quae totaliter tollit iram.
+RA3
+Ad tertium dicendum quod delectationes praecedentes impediunt ne sequatur tristitia; et per consequens
+impediunt iram.
+Sed delectatio de vindicta consequitur ipsam.
+|a2 Articulus 2
+AG1
+Ad secundum sic proceditur. Videtur quod fervor non sit maxime effectus irae. Fervor enim, sicut supra dictum
+est, pertinet ad amorem. Sed amor, sicut supra dictum est, principium est et causa omnium passionum. Cum ergo
+causa sit potior effectu, videtur quod ira non faciat maxime fervorem.
+AG2
+Praeterea, illa quae de se excitant fervorem, per temporis assiduitatem magis augentur, sicut amor diuturnitate
+convalescit.
+Sed ira per tractum temporis debilitatur, dicit enim Philosophus, in II rhetoric., quod tempus quietat iram.
+806
+
+

@@ -1,0 +1,63 @@
+Nos autem Porphyrium sequentes eique doctissimo uiro consentientes haec dicimus: quatuor esse
+propositiones, quarum duae quidem ex finitis nominibus sunt, duae uero ex infinitis nommibus praedicatis.
+Sunt autem ex finitis nominibus hoc modo: affirmatio est iustus homo, negatio non est iustus homo. Ex
+infinitis uero nominibus praedicatis affirmatio est quae dicit:
+Est non iustus homo
+negatio quae proponit:
+Non est non iustus homo
+Sed has ex infinitis nominibus praedicatis propositiones in reliquo sermone infinitas uocabimus, ut affirmatio
+infinita sit extra expositionem ea quae dicit:
+Est non iustus homo
+negatio infinita ea quae dicit:
+Non est non iustus homo
+ut quod dicturi eramus propositionem ex nomine infinito praedicato hanc infinitam nominemus, illas autem
+duas quae nullum nomen habent infinitum nec subiectum nec praedicatum simplices uocamus.
+Sunt ergo simplices propositiones hae:
+Est homo iustus
+Non est homo iustus
+Priuatorias autem propositiones uoco quaecumque habent priuationem.
+Priuatoriae autem sunt hoc modo:
+Est iniustus homo
+haec enim iustitia subiectum priuabit, et rursus:
+Non est iniustus homo
+haec rursus iniustitia subiectum priuabit. Ergo cum sint duae propositiones simplices, una affirmatiua, /277/
+altera negatiua, et sint duae priuatoriae, eae quoque una affirmatiua, una negatiua, necnon etiam sint aliae infinitae,
+affirmatiua rursus et negatiua, dico quoniam, quemadmodum se priuatoriae propositiones affirmatio scilicet et negatio
+ad affirmationes et negationes simplices habuerint, sic se habebunt etiam quae sunt infinitae ad easdem ipsas simplices
+scilicet secundum consequentiam.
+Quod autem dico tale est. Disponantur prius duae simplices id est affirmatio quae dicit:
+Est iustus homo
+et rursus negatio quae dicit:
+Non est iustus homo
+Sub his autem disponantur priuatoriae: sub affirmatione quidem simplici priuatoria negatiua, sub negatiua
+simplici affirmatiua priuatoria, ut sub ea quae dicit:
+Est homo iustus
+ponatur ea quae dicit:
+Non est homo iniustus
+et sub ea quae dicit:
+Non est homo iustus
+ponatur ea quae proponit:
+Est homo iniustus
+Rursus sub priuatoriis disponantur infinitae: sub affirmatione affirmatio, sub negatione negatio. Sub
+affirmatione quidem priuatoria quae dicit:
+Est iniustus homo
+disponatur affirmatiua infinita:
+Est non iustus homo
+sub negatiua uero priuatoria quae dicit:
+Non est iniustus homo
+ponatur negatiua infinita quae dicit:
+Non est non iustus homo
+Hoc autem subiecta descriptio docet: /278/
+SIMPLICES
+Affirmatio:
+Negatio:
+Est iustus homo Non est iustus homo
+PRIVATORIAE
+Negatio: Affirmatio:
+Non est iniustus homo
+Est iniustus homo
+INFINITAE
+Negatio: Affirmatio:
+Non est non iustus homo Est non iustus homo
+
+

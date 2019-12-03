@@ -1,0 +1,54 @@
+cogitet quod diametrum quadrati commensurari lateri est impossibile: dico quod ponentes hanc positionem,
+quantum ad aliquid dicunt verum, et quantum ad aliquid dicunt falsum.
+|#14 Sunt enim aliqua, de quibus nihil prohibebit dicere quod sunt possibilia esse aut fieri, cum tamen nunquam
+sint futura, nec unquam fiant; sed hoc non potest dici de omnibus. Sed secundum ea quae superius dicta sunt, et
+quae nunc oportet nos supponere, illa solum possibile est esse aut fieri, licet non sint, quibus positis non sequitur
+aliquid impossibile. Posito autem quod diametrum commensuraretur, sequitur aliquid impossibile. Et ideo non
+potest dici quod diametrum commensurari, sit possibile. Est enim non solum falsum, sed impossibile.
+|#15 Quaedam vero sunt falsa tantum, sed non impossibilia, sicut socratem sedere et stare. Non enim idem est
+falsum esse et esse impossibile; sicut te stare nunc est falsum, sed non impossibile. Praedicta ergo positio
+quantum ad aliqua, vera est, quia quaedam sunt possibilia, licet sint falsa.
+Non autem quantum ad omnia; quia quaedam sunt falsa et impossibilia.
+|#16 Deinde cum dicit simul autem quia dixerat quod possibile iudicatur aliquid ex hoc, quod ex ipso non
+sequitur impossibile, ostendit qualiter habeant se consequentia possibilia; dicens, quod ex definitione possibilis
+superius posita non solum destruitur praemissa positio, sed etiam simul est manifestum quod si alicuius
+conditionalis antecedens est possibile, et consequens possibile erit. Ut si haec conditionalis sit vera, si est a est b,
+necesse est si a sit possibile, quod b sit possibile.
+|#17 Sciendum tamen est ad huius intellectum, quod possibile dupliciter dicitur.
+Uno modo secundum quod dividitur contra necesse; sicut dicimus illa possibilia quae contingunt esse et non
+esse. Et sic accepto possibili, non habet locum quod hic dicitur. Nihil enim prohibet quod antecedens sit
+contingens esse et non esse, consequens tamen sit necessarium; sicut patet in hac conditionali, si socrates ridet,
+est homo.
+|#18 Alio vero modo possibile dicitur secundum quod est commune ad ea quae sunt necessaria, et ad ea quae
+contingunt esse et non esse, prout possibile contra impossibile dividitur. Et sic loquitur hic Philosophus; dicens
+de possibili, quod necesse est consequens esse possibile, si antecedens fuit possibile.
+|#19 Detur enim haec conditionalis esse vera, si est a, est b, et detur antecedens, scilicet a, esse possibile. Aut
+igitur necesse est b esse possibile, aut non. Si est necesse, habetur propositum. Si non est necesse, nihil prohibet
+ponere oppositum, scilicet b non esse possibile. Sed haec non potest stare. Nam a ponitur esse possibile; et
+quando ponitur esse possibile, simul ponitur quod nihil impossibile sequitur ex eo. Sic enim superius definitum
+est possibile, ad quod nihil sequitur impossibile.
+Sed b sequitur ad a, ut positum est; et b ponebatur esse impossibile. Nam idem est esse impossibile, quod non
+esse possibile.
+Igitur a non erit possibile, si sequitur ad ipsum b quod erat impossibile. Ponatur ergo b esse impossibile: et si est
+impossibile, et posito a, necesse est esse b, erit ergo impossibile et primum et secundum, scilicet a et b.
+|#20 Ubi advertendum est quod bene sequitur, si consequens est impossibile, quod antecedens sit impossibile;
+non tamen e converso. Nihil enim prohibet ex impossibili sequi aliquid necessarium, ut in hac conditionali: si
+homo est asinus, homo est animal. Unde non sic intelligendum est quod Philosophus dicit hic, si primum erat
+impossibile, idest antecedens, ergo et secundum erat impossibile, scilicet consequens. Sed ita debet intelligi: si
+consequens est impossibile, utrumque erit impossibile.
+Sic ergo manifestum est quod si sic se habent, scilicet a et b, quod a existente, necesse est b esse, et necessario
+sequitur quod si a est possibile, quod b erit possibile. Et si b non est possibile, a possibili existente, non ita se
+habebunt a et b ut positum est, scilicet quod ad a sequitur b. Sed oportet quod a possibili existente, necesse est b
+possibile esse, si existente a, necesse est esse b. Cum enim dico: si est a, est b, hoc significatur quod necesse sit b
+esse possibile si a possibile est; ita tamen quod quando et eodem modo sit possibile b esse, quando et quomodo
+est possibile a.
+Non enim possibile est ut sit quocumque tempore et quocumque modo.
+|+4 Lectio 4
+|#1 Postquam Philosophus exclusit falsas opiniones circa potentiam et actum, hic determinat veritatem; et circa
+hoc duo facit.
+Primo ostendit quomodo actus praecedat potentiam in subiecto. Secundo quomodo potentia praecedens actum,
+ad actum reducatur, ibi, quoniam autem possibile.
+
+262
+
+

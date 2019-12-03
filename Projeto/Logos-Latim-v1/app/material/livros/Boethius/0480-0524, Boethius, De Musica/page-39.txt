@@ -1,0 +1,62 @@
+duobus tonis qui continuentur inter triten hyperboleon diatonicam, et neten hyperboleon. Subtractis uero quatuor
+semitoniis, reliquum ex toto tetrachordo spatium semitonii est, quod continetur inter neten diezeugmenon, et trite
+hyperboleon. Constat igitur et hoc tetrachordum ex duobus tonis ac semitonio, diuisum in uno quidem spatio tribus
+semitoniis. In duobus autem spatiis, duobus semitoniis. Tria uero spatia neruis quatuor continentur. In enharmonio uero
+genere summa est id pernoscendi facilitas, ab ea enim quae est nete hyperboleon, id est 2304, paranete hyperboleon
+enharmonios, id est 2916, duos tonos integros distat, quos hoc modo notabimus.
+Relinquitur igitur ex totius tetrachordi duobus tonis ac semitonio unum quidem semitonium quod continetur
+inter neten diezeugmenon et paraneten hyperboleon enharmonion. Quod scilicet diuisimus in duas dieses trite
+hyperboleon enharmonion. Media interiecta, spatiumque dieseos hoc modo signauimus [signum] ita igitur nobis
+hyperboleon tetrachordum descriptum est. Quo peracto ad diezeugmenon tetrachordum ueniamus. Nec immorandum
+est eisdem commemorationibus in caeteris. Cum ab hac descriptione etiam in aliis sumi possit exemplum.
+VII
+Monochordi netarum diezeugmenon per tria genera partitio.
+Netes igitur diezeugmenon, quae est 3072, si dimidium sumam, erunt
+1536. Qui eisdem additi fiunt 4608 quae est mese, quam O littera designauimus; quod si eisdem netes
+diezeugmenon, id est DD, scilicet 3072, auferam tertiam partem, erunt 1024. Qui eisdem coniuncti facient 4096 quae
+uocabitur paramese, X littera subnotata. Nete igitur diezeugmenon, id est 3072, ad mesen, id est 4608, quoniam in
+sesquialtera comparatione consistit, diapente consonabit symphoniam.
+Eadem uero nete diezeugmenon, id est 3072, ad paramesen, id est 4096, quae ad eam in sesquitertia
+proportione composita est, diatessaron retinet consonantiam. Si igitur ab ea quae est nete diezeugmenon 3072 octauam
+auferam partem, [1261] id est 384, eisque adiiciam, fient 3456, eritque paranete diezeugmenon diatonos, CC litteris
+pernotata, ad neten diezeugmenon obtinens tonum. Ab hac uero si octauam auferam partem, id est de 3456, que est 432,
+eosque eidem adiungam, erunt 3888. Eritque ea Y trite diezeugmenon diatonos. Sed quoniam nete dizeugmenon ad
+paramesen sesquitertiam obtinebat proportionem, trite autem diezeugmenon diatonos a nete dizeugmenon duos tonos
+abest, continebitur inter triten diezeugmenon et paramesen semitonium minus.
+Diatonicum igitur genus, hoc quoque tetrachordo ac pentachordo ita expletum est, ut tetrachordi quidem eius,
+quod est netes diezeugmenon ad paramesen, diatessaron consonantia sit. Pentachordi uero eius quod est netes
+diezeugmenon ad mesen, diapente sit consonantia.
+[PLLXIII:1261; text: nto ohoiaiii dzeuomenon, Mese, Paramese, zeugnonon, rinclazeuomenon, Neiodioziu, O,
+X, Y, CC, CC, 4506, 4090, 380, 3456, 3072, homitomi, Tonus, Tetracho dumniiazeu menon, Diapente, Diatessaron]
+[BOEDIM4 10GF]
+Enharmonium uero atque chromaticum genus hac ratione texemus: Sumo distantiam netes et paranetes
+diezeugmenon diatoni, id est 3072 et 3456, est eorum differentia 384; hanc diuido, erunt 192; hanc si sumam et ei quae
+est paranete diezeugmenon diatonos adiungam, id est 3456, fient 3648, haec erit paranete dizeugmenon chromatica, BB
+geminatis litteris adnotata distans nete diezeugmenon tono et semitonio, id est tribus semitoniis, continens ad triten
+diezeugmenon dudum quidem diatonicam. Nunc [1262] uero chromaticam, id est 5888, semitonium reliquum ab eo
+tono, quod diuisum est inter paraneten diatonon diezeugmenon, et triten diatonon diezeugmenon, et sit reliquum aliud
+ex tetrachordo semitonium inter triten diezeugmenon chromaticam et paramesen, quod scilicet ex diatessaron
+consonantia relinquitur, ea quae est inter neten diezeugmenon et paramesen subtractis duobus tonis, quod nete
+diezeugmenon chromatica, et trite diezeugmenon chromatica continebant. Quae autem in diatonico genere trite
+diezeugmenon diatonica est. In chromatico autem diezeugmenon chromatica, ea in enharmonio genere paranete
+diezeugmenon enharmonios dicitur, integros enim duos tonos distat ab ea quae est nete diezeugmenon et notetur AA.
+Et inter neten diezeugmenon et paraneten enharmonion diezeugmenon nulla interest chorda, atque ideo paranetes
+uocabulo nuncupatur. Semitonium uero quod est inter paraneten enharmonion diezeugmenon et paramesen, id est inter
+AA et X hac ratione partimur, ut fiant duae dieses. Sumo differentiam paranetes enharmonii diezeugmenon et
+parameses, id est 3888 et 4096, ea est 208, hanc diuido, fient 104, hos appono 3888, fient 3992. Ea erit trite
+diezeugmenon enharmonios Z littera pernotata. Huius igitur tetrachordi per tria genera descriptionem subter adieci,
+superiusque dispositum hyperboleon tetrachordum aggregaui, uti esset utrorumque una descriptio, et paulatim iuncta
+dispositionis totius forma consurgeret.
+[PLLXIII:1262; text: Tetrachordum hyperboleon, Enharmonium, Chromaticum, Diat nicum, Diatessaron in
+tribus generibus. nete diezeugmenon, trite hyperboleon, paranete hyperboleon, nete hyperboleon, DD, FF, NN, LL, CC,
+D, 3072, 2916, 2592, 2304, Hemitonium minus, Tonus, 2736, Hemitonium maius, Traib hemitonia, 2994, Diesis, Duo
+toni] [BOEDIM4 10GF]
+[1263] [PLLXIII:1263; text: Tetrachrdum diezeugmenon, Enharmonium, Chromaticum, Diatonicum,
+paramese, trite diezeugmenon diat diaton, paranete diezeugmenon, nete diezeugmenon, X, Y, CC, DD, Z, AA, BB, D,
+4096, 3808, 3456, 3072, Hemitonium minus, Tonus, trite diezeugmenon, paranete diezeugmenon chromaticum, nete =
+diezeugmenon, 3888, 3648, Tria hemitoncanu maius duo minora, trite diezeugmenon enharmonium, 3992] [BOEDIM4
+11GF]
+VIII
+Monochordi netarum synemmenon per tria genera partitio.
+
+

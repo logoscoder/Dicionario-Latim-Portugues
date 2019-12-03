@@ -1,0 +1,61 @@
+CJ.4.7.0. De condictione ob turpem causam.
+CJ.4.8.0. De condictione furtiva.
+CJ.4.9.0. De condictione ex lege et sine causa vel iniusta
+causa.
+CJ.4.10.0. De obligationibus et actionibus.
+CJ.4.11.0. Ut actiones et ab herede et contra heredem
+incipiant.
+CJ.4.12.0. Ne uxor pro marito vel maritus pro uxore vel
+mater pro filio conveniatur.
+CJ.4.13.0. Ne filius pro patre vel pater pro filio emancipato
+vel libertus pro patrono conveniatur.
+CJ.4.14.0. An servus ex suo facto post manumissionem
+teneatur.
+CJ.4.15.0. Quando fiscus vel privatus debitoris sui debitores
+exigere potest.
+CJ.4.16.0. De actionibus hereditariis.
+CJ.4.17.0. Ex delictis defunctorum in quantum heredes
+conveniantur.
+CJ.4.18.0. De constituta pecunia.
+CJ.4.19.0. De probationibus.
+CJ.4.20.0. De testibus.
+CJ.4.21.0. De fide instrumentorum et amissione eorum et
+antapochis faciendis et de his quae sine scriptura fieri
+possunt.
+
+CJ.4.22.0. Plus valere quod agitur quam quod simulate
+concipitur.
+CJ.4.23.0. De commodato.
+CJ.4.24.0. De actione pigneraticia.
+CJ.4.25.0. De exercitoria et institoria actione.
+CJ.4.26.0. Quod cum eo qui in aliena est potestate negotium
+gestum esse dicitur, vel de peculio seu quod iussu aut de in
+rem verso.
+CJ.4.27.0. Per quas personas nobis adquiritur.
+CJ.4.28.0. Ad senatus consultum macedonianum.
+CJ.4.29.0. Ad senatus consultum velleianum.
+CJ.4.30.0. De non numerata pecunia.
+CJ.4.31.0. De compensationibus.
+CJ.4.32.0. De usuris.
+CJ.4.33.0. De nautico fenore.
+CJ.4.34.0. Depositi.
+CJ.4.35.0. Mandati.
+CJ.4.36.0. Si servus se emi mandaverit.
+CJ.4.37.0. Pro socio.
+CJ.4.38.0. De contrahenda emptione.
+CJ.4.39.0. De hereditate vel actione vendita.
+CJ.4.40.0. Quae res venire non possunt et qui vendere vel
+emere vetantur.
+CJ.4.41.0. Quae res exportari non debeant.
+CJ.4.42.0. De eunuchis.
+CJ.4.43.0. De patribus qui filios distraxerunt.
+CJ.4.44.0. De rescindenda venditione.
+CJ.4.45.0. Quando liceat ab emptione discedere .
+CJ.4.46.0. Si propter publicas pensitationes venditio fuerit
+celebrata.
+CJ.4.47.0. Sine censu vel reliquis fundum comparari non
+posse.
+
+243
+
+

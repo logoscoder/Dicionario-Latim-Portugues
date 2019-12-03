@@ -1,0 +1,62 @@
+AG3
+Praeterea, omnes homines conveniunt in primis conceptionibus intellectus. His autem assentiunt per intellectum
+agentem.
+Ergo conveniunt omnes in uno intellectu agente.
+SC
+Sed contra est quod Philosophus dicit, in III de anima, quod intellectus agens est sicut lumen.
+Non autem est idem lumen in diversis illuminatis.
+Ergo non est idem intellectus agens in diversis hominibus.
+CO
+Respondeo dicendum quod veritas huius quaestionis dependet ex praemissis. Si enim intellectus agens non esset
+aliquid animae, sed esset quaedam substantia separata, unus esset intellectus agens omnium hominum. Et hoc
+intelligunt qui ponunt unitatem intellectus agentis. Si autem intellectus agens sit aliquid animae, ut quaedam
+virtus ipsius, necesse est dicere quod sint plures intellectus agentes, secundum pluralitatem animarum, quae
+multiplicantur secundum multiplicationem hominum, ut supra dictum est.
+Non enim potest esse quod una et eadem virtus numero sit diversarum substantiarum.
+RA1
+Ad primum ergo dicendum quod Philosophus probat intellectum agentem esse separatum, per hoc quod
+possibilis est separatus; quia, ut ipse dicit, agens est honorabilius patiente. Intellectus autem possibilis dicitur
+separatus, quia non est actus alicuius organi corporalis. Et secundum hunc modum etiam intellectus agens dicitur
+separatus, non quasi sit aliqua substantia separata.
+RA2
+Ad secundum dicendum quod intellectus agens causat universale abstrahendo a materia. Ad hoc autem non
+requiritur quod sit unus in omnibus habentibus intellectum, sed quod sit unus in omnibus secundum habitudinem
+ad omnia a quibus abstrahit universale, respectu quorum universale est unum. Et hoc competit intellectui agenti
+inquantum est immaterialis.
+RA3
+Ad tertium dicendum quod omnia quae sunt unius speciei, communicant in actione consequente naturam speciei,
+et per consequens in virtute, quae est actionis principium, non quod sit eadem numero in omnibus. Cognoscere
+autem prima intelligibilia est actio consequens speciem humanam. Unde oportet quod omnes homines
+communicent in virtute quae est principium huius actionis, et haec est virtus intellectus agentis.
+Non tamen oportet quod sit eadem numero in omnibus. Oportet tamen quod ab uno principio in omnibus
+derivetur. Et sic illa communicatio hominum in primis intelligibilibus, demonstrat unitatem intellectus separati,
+quem Plato comparat soli; non autem unitatem intellectus agentis, quem Aristoteles comparat lumini.
+|a6 Articulus 6
+AG1
+Ad sextum sic proceditur. Videtur quod memoria non sit in parte intellectiva animae.
+Dicit enim Augustinus, XII de Trin., quod ad partem superiorem animae pertinent quae non sunt hominibus
+pecoribusque communia. Sed memoria est hominibus pecoribusque communis, dicit enim ibidem quod possunt
+pecora sentire per corporis sensus corporalia, et ea mandare memoriae.
+Ergo memoria non pertinet ad partem animae intellectivam.
+AG2
+Praeterea, memoria praeteritorum est. Sed praeteritum dicitur secundum aliquod determinatum tempus. Memoria
+igitur est cognoscitiva alicuius sub determinato tempore; quod est cognoscere aliquid sub hic et nunc. Hoc autem
+non est intellectus, sed sensus.
+Memoria igitur non est in parte intellectiva, sed solum in parte sensitiva.
+AG3
+Praeterea, in memoria conservantur species rerum quae actu non cogitantur. Sed hoc non est possibile accidere in
+intellectu, quia intellectus fit in actu per hoc quod informatur specie intelligibili; intellectum autem esse in actu,
+est ipsum intelligere in actu; et sic intellectus omnia intelligit in actu, quorum species apud se habet.
+Non ergo memoria est in parte intellectiva.
+SC
+Sed contra est quod Augustinus dicit, X de Trin., quod memoria, intelligentia et voluntas sunt una mens.
+CO
+Respondeo dicendum quod, cum de ratione memoriae sit conservare species rerum quae actu non
+apprehenduntur, hoc primum considerari oportet, utrum species intelligibiles sic in intellectu conservari possint.
+Posuit enim Avicenna hoc esse impossibile.
+In parte enim sensitiva dicebat hoc accidere, quantum ad aliquas potentias, inquantum sunt actus organorum
+corporalium, in quibus conservari possunt aliquae species absque actuali apprehensione. In intellectu autem, qui
+caret organo corporali, nihil existit nisi intelligibiliter. Unde oportet intelligi in actu illud cuius similitudo in
+403
+
+

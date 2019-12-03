@@ -1,0 +1,61 @@
+Si ergo sit aliquis intellectus in quo non possit esse alternatio opinionum, vel cuius acceptionem non potest
+subterfugere res aliqua, in eo est immutabilis veritas. Talis autem est intellectus divinus, ut ex superioribus patet.
+Unde veritas divini intellectus est immutabilis. Veritas autem intellectus nostri mutabilis est. Non quod ipsa sit
+subiectum mutationis, sed inquantum intellectus noster mutatur de veritate in falsitatem; sic enim formae
+mutabiles dici possunt. Veritas autem intellectus divini est secundum quam res naturales dicuntur verae, quae est
+omnino immutabilis.
+RA1
+Ad primum ergo dicendum quod Augustinus loquitur de veritate divina.
+RA2
+Ad secundum dicendum quod verum et ens sunt convertibilia.
+Unde, sicut ens non generatur neque corrumpitur per se, sed per accidens, inquantum hoc vel illud ens
+corrumpitur vel generatur, ut dicitur in I physic.; ita veritas mutatur, non quod nulla veritas remaneat, sed quia
+non remanet illa veritas quae prius erat.
+RA3
+Ad tertium dicendum quod propositio non solum habet veritatem sicut res aliae veritatem habere dicuntur,
+inquantum implent id quod de eis est ordinatum ab intellectu divino; sed dicitur habere veritatem quodam
+speciali modo, inquantum significat veritatem intellectus. Quae quidem consistit in conformitate intellectus et
+rei. Qua quidem subtracta, mutatur veritas opinionis, et per consequens veritas propositionis. Sic igitur haec
+propositio, socrates sedet, eo sedente vera est et veritate rei, inquantum est quaedam vox significativa; et veritate
+significationis, inquantum significat opinionem veram. Socrate vero surgente, remanet prima veritas, sed mutatur
+secunda.
+RA4
+Ad quartum dicendum quod sessio socratis, quae est causa veritatis huius propositionis, socrates sedet, non
+eodem modo se habet dum socrates sedet, et postquam sederit, et antequam sederet. Unde et veritas ab hoc
+causata, diversimode se habet; et diversimode significatur propositionibus de praesenti, praeterito et futuro. Unde
+non sequitur quod, licet altera trium propositionum sit vera, quod eadem veritas invariabilis maneat.
+|q17 Quaestio 17
+|a0 Prologus
+PR
+Deinde quaeritur de falsitate. Et circa hoc quaeruntur quatuor.
+Primo, utrum falsitas sit in rebus. Secundo, utrum sit in sensu.
+Tertio, utrum sit in intellectu.
+Quarto, de oppositione veri et falsi.
+|a1 Articulus 1
+AG1
+Ad primum sic proceditur. Videtur quod falsitas non sit in rebus.
+Dicit enim Augustinus, in libro soliloq., si verum est id quod est, falsum non esse uspiam concludetur, quovis
+repugnante.
+AG2
+Praeterea, falsum dicitur a fallendo.
+Sed res non fallunt, ut dicit Augustinus in libro de vera relig., quia non ostendunt aliud quam suam speciem.
+Ergo falsum in rebus non invenitur.
+AG3
+Praeterea, verum dicitur in rebus per comparationem ad intellectum divinum, ut supra dictum est.
+Sed quaelibet res, inquantum est, imitatur Deum. Ergo quaelibet res vera est, absque falsitate. Et sic nulla res est
+falsa.
+SC
+Sed contra est quod dicit Augustinus, in libro de vera relig., quod omne corpus est verum corpus et falsa unitas;
+quia imitatur unitatem, et non est unitas. Sed quaelibet res imitatur divinam bonitatem, et ab ea deficit.
+Ergo in omnibus rebus est falsitas.
+CO
+Respondeo dicendum quod, cum verum et falsum opponantur; opposita autem sunt circa idem; necesse est ut ibi
+prius quaeratur falsitas, ubi primo veritas invenitur, hoc est in intellectu.
+In rebus autem neque veritas neque falsitas est, nisi per ordinem ad intellectum. Et quia unumquodque secundum
+id quod convenit ei per se, simpliciter nominatur; secundum autem id quod convenit ei per accidens, non
+nominatur nisi secundum quid; res quidem simpliciter falsa dici posset per comparationem ad intellectum a quo
+dependet, cui comparatur per se; in ordine autem ad alium intellectum, cui comparatur per accidens, non posset
+dici falsa nisi secundum quid.
+99
+
+

@@ -1,0 +1,59 @@
+Ad secundum dicendum quod illi qui cadunt de trabe in alto posita, patiuntur perturbationem imaginationis,
+propter timorem casus imaginati.
+RA3
+Ad tertium dicendum quod omnis timens refugit id quod timet, et ideo, cum pigritia sit timor de ipsa operatione,
+inquantum est laboriosa, impedit operationem, quia retrahit voluntatem ab ipsa.
+Sed timor qui est de aliis rebus, intantum adiuvat operationem, inquantum inclinat voluntatem ad operandum ea
+per quae homo effugit id quod timet.
+|q45 Quaestio 45
+|a0 Prologus
+Deinde considerandum est de audacia. Et circa hoc quaeruntur quatuor. Primo, utrum audacia sit contraria timori.
+Secundo, quomodo audacia se habeat ad spem. Tertio, de causa audaciae.
+Quarto, de effectus ipsius.
+|a1 Articulus 1
+AG1
+Ad primum sic proceditur. Videtur quod audacia non contrarietur timori.
+Dicit enim Augustinus, in libro octoginta trium quaest., quod audacia vitium est.
+Vitium autem virtuti contrariatur. Cum ergo timor non sit virtus, sed passio, videtur quod timori non contrarietur
+audacia.
+AG2
+Praeterea, uni unum est contrarium. Sed timori contrariatur spes. Non ergo contrariatur ei audacia.
+AG3
+Praeterea, unaquaeque passio excludit passionem oppositam.
+Sed id quod excluditur per timorem, est securitas, dicit enim Augustinus, II confess., quod timor securitati
+praecavet ergo securitas contrariatur timori. Non ergo audacia.
+SC
+Sed contra est quod Philosophus dicit, in II rhetoric., quod audacia est timori contraria.
+CO
+Respondeo dicendum quod de ratione contrariorum est quod maxime a se distent, ut dicitur in X metaphys..
+Illud autem quod maxime distat a timore, est audacia, timor enim refugit nocumentum futurum, propter eius
+victoriam super ipsum timentem; sed audacia aggreditur periculum imminens, propter victoriam sui supra ipsum
+periculum.
+Unde manifeste timori contrariatur audacia.
+RA1
+Ad primum ergo dicendum quod ira et audacia, et omnium passionum nomina, dupliciter accipi possunt. Uno
+modo, secundum quod important absolute motus appetitus sensitivi in aliquod obiectum bonum vel malum, et sic
+sunt nomina passionum. Alio modo, secundum quod simul cum huiusmodi motu important recessum ab ordine
+rationis, et sic sunt nomina vitiorum. Et hoc modo loquitur Augustinus de audacia, sed nos loquimur nunc de
+audacia secundum primum modum.
+RA2
+Ad secundum dicendum quod uni secundum idem, non sunt plura contraria, sed secundum diversa, nihil prohibet
+uni plura contrariari.
+Et sic dictum est supra quod passiones irascibilis habent duplicem contrarietatem, unam secundum oppositionem
+boni et mali, et sic timor contrariatur spei; aliam secundum oppositionem accessus et recessus, et sic timori
+contrariatur audacia, spei vero desperatio.
+RA3
+Ad tertium dicendum quod securitas non significat aliquid contrarium timori, sed solam timoris exclusionem, ille
+enim dicitur esse securus, qui non timet. Unde securitas opponitur timori sicut privatio, audacia autem sicut
+contrarium. Et sicut contrarium includit in se privationem, ita audacia securitatem.
+|a2 Articulus 2
+AG1
+Ad secundum sic proceditur. Videtur quod audacia non consequatur spem.
+Audacia enim est respectu malorum et terribilium, ut dicitur in III ethic..
+Spes autem respicit bonum.
+Ut supra dictum est.
+Ergo habent diversa obiecta, et non sunt unius ordinis. Non ergo audacia consequitur spem.
+AG2
+793
+
+

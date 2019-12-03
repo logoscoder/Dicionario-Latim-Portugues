@@ -1,0 +1,31 @@
+32 habitent V630
+33 fideles korr. aus fidelibus W411
+34 existunt korr. aus exisunt V630
+35 XVIIIIkorr. aus XVIII W411
+36 clerici korr. aus cleri W411
+37 cum korr. aus um E97
+38 venerint korr. aus venerit W411
+39 audeat korr. aus audat W411
+40 ordinare B132
+41 probabilis korr. aus probabile W411
+42 Nec V630
+43 ad viduas vel virgines] ad virgines vel ad viduas korr. aus vel viduas W411
+44 soli] soli non W411
+45 proficiscatur korr. aus profiscatur V1341
+46 missa a korr. aus missa V1341
+47 a fehlt W411
+48 ieiunis korr. aus ieienis O93; ieiuniis V630; W411
+49 peccatorum V630
+50 iussum W411
+51 penitenter V630
+52 apostolocis V630
+53 a fehlt W411
+54 interlinear scenicis W411
+55 reconciliatio W411
+56 iam B132
+57 morentur korr. aus moretur W411
+58 Rubrik auf Rasur (Ut non liceat fieri translationes episcoporum): De rebaptizacionibus et reordinationibus vel
+translationibus episcoporum B132; Rubrik] De iis qui nichil habentes in ecclesiis ordinantur E97
+59 Rubrik] Ut preter scripturas canonicas nichil in ecclesia legatur sub nomine divinarum scripturarum E97
+
+

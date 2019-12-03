@@ -1,0 +1,56 @@
+Oportet enim hic minorem manere, maiorem vero mutari de negativa in affirmativam. Unde et haec deceptio
+similis est priori deceptioni, sicut dicebatur in syllogismo privativo.
+|#8 Deinde cum dicit: cum vero sit non etc., ostendit quomodo fiat syllogismus deceptionis affirmativus per
+medium extraneum; et dicit quod si accipiatur tale medium extraneum, quod contineatur sub maiori extremitate,
+tunc maior propositio erit vera, et minor falsa. Potest enim a, quae est maior extremitas, de pluribus universaliter
+praedicari, quae non sunt sub invicem; puta habitus de grammatica et virtute. Haec enim est mediata, nulla
+grammatica est virtus. Possumus ergo concludere contrarium huius, scilicet: omnis grammatica est virtus, per
+aliquod medium, quod contineatur sub virtute; et tunc maior erit vera, et minor falsa. Puta si dicamus: omnis
+temperantia est virtus; omnis grammatica est temperantia; ergo omnis grammatica est virtus. Si vero accipiatur
+aliquod medium, quod non sit sub a, maior semper erit falsa, quia accipitur affirmativa.
+Sed minorem contingit esse cum hac quandoque quidem falsam, et tunc ambae erunt falsae, puta si dicamus:
+omnis albedo est virtus; omnis grammatica est albedo; ergo etc.; quandoque autem potest esse vera: nihil enim
+prohibet, sic se habentibus terminis, quod a removeatur ab omni d, et d sit in omni b, sicut est in his terminis,
+animal, scientia, musica. Animal enim, quod est maior extremitas, removetur universaliter ab omni scientia; unde
+haec, quae sumitur ut maior in syllogismo ignorantiae, omnis scientia est animal, est falsa. Minor vero, scilicet,
+omnis musica est scientia, est vera; sed conclusio falsa contraria negativae verae mediatae. Contingit etiam quod
+et a sit in nullo d, et d in nullo b, ut dictum est.
+Sic igitur patet quod quando medium non continetur sub maiori extremitate, possunt esse utraeque falsae et altera
+earum, quaecunque contingit, quia et maior et minor potest esse falsa: maior autem non potest esse vera, sic se
+habentibus terminis, ut supra dictum est.
+Ultimo autem epilogando concludit manifestum esse ex praedictis, quot modis et per quas propositiones veras
+vel falsas possunt fieri deceptiones per syllogismum, tam in propositionibus immediatis, quam in propositionibus
+mediatis, quae demonstratione probantur.
+|+30 Lectio 30
+|#1 Postquam Philosophus determinavit de ignorantia dispositionis, quae fit per syllogismum; hic determinat de
+ignorantia simplicis negationis, quae fit absque syllogismo. Et primo, ostendit in quibus habeatur talis ignorantia
+ex necessitate; secundo, probat propositum; ibi: siquidem addiscimus etc..
+|#2 Dicit ergo primo quod si alicui deficiat aliquis sensus, puta visus aut auditus, necesse est quod deficiat ei
+scientia propriorum sensibilium illius sensus. Puta, si cui deficit sensus visus, necesse est quod deficiat ei
+scientia de coloribus.
+Et sic habebit de coloribus ignorantiam negationis, omnino ignorans colorem. Sed hoc intelligendum est quando
+nunquam habuit sensum visus, sicut patet in caeco nato. Si quis enim amittat visum prius habitum, non propter
+hoc oportet quod careat scientia colorum; quia ex his, quae prius sensit, remanet in eo memoria colorum.
+|#3 Contingit autem de aliquibus rebus haberi ignorantiam negationis, quae tamen cognosci possunt per sensum
+quem habemus: sicut si aliquis habens visum semper fuisset in tenebris, careret quidem scientia colorum, sed
+non ex necessitate, quia posset huiusmodi scientiam accipere sentiendo colores: quod non contingit in eo, qui
+caret sensu visus. Et ideo addit quod impossibile est accipere; quia videlicet ille, qui caret potentia visiva, non
+potest percipere cognitionem colorum.
+|#4 Deinde cum dicit: siquidem addiscimus etc., probat propositum per hoc quod duplex est modus acquirendi
+scientiam. Unus quidem per demonstrationem, alius autem per inductionem; quod etiam in principio huius libri
+positum est. Differunt autem hi duo modi, quia demonstratio procedit ex universalibus; inductio autem procedit
+ex particularibus. Si ergo universalia, ex quibus procedit demonstratio, cognosci possent absque inductione,
+sequeretur quod homo posset accipere scientiam eorum, quorum non habet sensum. Sed impossibile est
+universalia speculari absque inductione.
+Et hoc quidem in rebus sensibilibus est magis manifestum, quia in eis per experientiam, quam habemus circa
+singularia sensibilia, accipimus universalem notitiam, sicut manifestatur in principio metaphysicae.
+|#5 Sed maxime hoc videtur dubium in his, quae dicuntur secundum abstractionem, sicut in mathematicis. Cum
+enim experientia a sensu ortum habeat, ut dicitur in principio metaphysicae, videtur quod hoc locum non habeat
+in his, quae sunt abstracta a materia sensibili. Et ideo ad hoc excludendum dicit quod etiam ea, quae dicuntur
+secundum abstractionem, contingit nota facere per inductionem; quia in unoquoque genere abstractorum sunt
+quaedam particularia, quae non sunt separabilia a materia sensibili, secundum quod unumquodque eorum est
+hoc. Quamvis enim linea secundum abstractionem dicatur, tamen haec linea, quae est in materia sensibili, in
+quantum est individuata abstrahi non potest, quia individuatio eius est ex hac materia.
+46
+
+

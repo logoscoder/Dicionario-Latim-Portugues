@@ -1,0 +1,55 @@
+|#10 Deinde cum dicit multi autem assignat etiam secundum hunc modum rationem distinctionis colorum.
+Et dicit, quod eodem modo multiplicantur medii colores secundum hunc modum generationis eorum, sicut et
+secundum praedictum, scilicet secundum diversas proportiones. Est enim accipere quamdam proportionem
+coloris infra positi, quod dicit esse in profundo, ad colorem supra positum, quem dicit esse in superficie. Et
+quidam tamen colores, supra et infra positi, non sunt in proportione aliqua numerali, et ideo causantur colores ut
+delectabiles et indelectabiles, ut supra dictum est.
+|+8 Lectio 8
+|#1 Positis duobus modis generationis colorum mediorum, hic comparat praedictos modos adinvicem.
+Et circa hoc tria facit. Primo excludit quamdam positionem, ex qua procedebat unus praedictorum modorum.
+Secundo comparat praedictos modos adinvicem, ibi, in his autem quae secus invicem. Tertio ostendit quantum
+ad quid utrique praedictorum modorum sustineri possint, ibi, quare si non contingit.
+Dicit ergo primo, quod antiqui posuerunt colorem nil aliud esse quam quemdam effluxum a corporibus visis,
+sicut supra democritus, et etiam empedocles posuerunt, quod visio sit propter huiusmodi causam, scilicet propter
+defluxum idolorum a corporibus visis. Et quia unumquodque videtur per proprium colorem, ideo crediderunt
+nihil aliud esse colorem quam huiusmodi defluxionem. Sed hoc dicere est omnino incongruum.
+|#2 Non enim poterant ponere, quod huiusmodi corpora, defluentia a corporibus visis ingrederentur intra
+oculum, quia sic corrumperetur substantia eius: unde oportebat omnibus modis quod visio fieret per contactum
+corporum resolutorum ad ipsum oculum, ex huiusmodi contactu immutatum ad videndum.
+Si ergo immutatio talis sufficit ad causandum visionem, melius est dicere quod visio fiat per hoc quod medium
+statim a principio moveatur a sensibili, quam dicere visionem fieri per contactum et defluxionem. Natura enim
+per pauciora se expedit inquantum potest.
+|#3 Sunt autem et alia, quibus praedicta positio ostenditur esse falsa. Primo quidem, quia si visio fieret per
+contactum, tunc sensus visus non distingueretur a tactu, quod patet esse falsum. Visus enim non est
+cognoscitivus contrarietatum tactus. Secundo, quia corpora visa per continuum defluxum diminuerentur, et
+tandem totaliter consumerentur, nisi aliis defluxionibus supervenientibus, eorum quantitas servaretur. Tertio quia
+huiusmodi corpora defluentia a rebus visis cum sint subtilissima, a ventis propellerentur. Unde non fieret recta
+visio. Quarto, quia visus non indigeret lumine ad videndum, ex quo visio fieret per contactum visibilis: et multa
+alia huiusmodi inconvenientia sequuntur quae, quia manifesta sunt, Philosophus praetermisit.
+|#4 Deinde cum dicit in his autem comparat praedictos modos adinvicem. Ubi considerandum est quod primum
+modus generationis mediorum colorum assignabatur ab illis, qui ponebant colorem esse defluxionem.
+Et ideo, postquam Aristoteles ostendit falsitatem huius positionis secundum se, concludit inconveniens, quod
+sequitur in eis hac assignatione generationis colorum mediorum. Et dicit, quod qui ponunt medios colores
+generari, per hoc quod colores extremi secus invicem ponuntur necesse est eis dicere non solum quod magnitudo
+sit invisibilis, sed etiam, quod aliquod tempus sit insensibile ad hoc quod habeant propositum; quia ponebant
+visionem fieri per motum localem corporum defluentium. Nihil autem movetur ad aliquam distantiam secundum
+motum localem, nisi in tempore. Oportet autem assignare aliquod tempus, in quo defluxus fiat a re visa ad
+oculum; et tanto oportet ponere maius tempus, quanto fuerit maior distantia.
+|#5 Manifestum est autem quod corporum minimorum secus invicem positorum non est omnino eadem distantia
+ad oculum: et sic oportet diversa esse tempora, in quibus perveniunt motus ab eis ad oculum. Non ergo videbitur
+totum, quod ex huiusmodi corporibus componitur, ut unum, sicut supra ponebatur nisi lateat tempus, in quo unus
+motus praeoccupat alium. Et ita necesse est ponere tempus insensibile in hoc modo generationis colorum. Sed
+hic, in secundo modo generationis colorum nulla necessitas est quod ponatur tempus insensibile, quia non
+ponitur visio fieri per defluxum secundum motum localem, sed ille color, qui in superficie, ponitur immobilis
+existens, idest cum maneat immobilis secundum locum, immutatur tamen per motum alterationis ab inferiori
+colore, ita ut non similiter moveat, visum, sicut per se moveret vel color supra positus vel suppositus, vel alius
+color medius apparebit et nec album nec nigrum.
+|#6 Est autem considerandum quod ponentibus visum fieri per defluxionem et tactum, etiam remota generatione
+mediorum colorum, quam ponebant, sequitur tempus esse insensibile. Oportet enim eos dicere quod nullum
+corpus totum simul videatur, sed per aliquam temporis successionem, cum ponant visum fieri per contactum.
+Non est autem possibile quod totum aliquod magnum corpus, vel defluxus eius, simul tangatur a pupilla, propter
+eius parvitatem. Et ideo sequitur tempus esse insensibile, cum de aliquibus nobis videatur, quod simul ea tota
+videamus.
+19
+
+

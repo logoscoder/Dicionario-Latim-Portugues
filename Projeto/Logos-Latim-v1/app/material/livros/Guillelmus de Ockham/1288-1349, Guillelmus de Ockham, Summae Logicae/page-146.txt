@@ -1,0 +1,52 @@
+Et ista iam dicta de terminis et suppositionibus sufficiant. -- Et in hoc completur prima pars huius
+Summae.
+==========================================================================
+==========================================================================
+GUILLELMI DE OCKHAM SUMMA TOTIUS LOGICAE: PARS II
+GUILLELMI DE OCKHAM SUMMA TOTIUS LOGICAE: PARS II
+GUILLELMI DE OCKHAM SUMMA TOTIUS LOGICAE: PARS II
+[2.01 DE DIVISIONE PROPOSITIONUM IN GENERALI]
+[2.01 DE DIVISIONE PROPOSITIONUM IN GENERALI]
+Postquam dicta sunt aliqua de terminis, nunc secundo dicendum est de propositionibus. Et primo
+ponendae sunt aliquae diuisiones; secundo uidendum est quid ad ueritatem propositionum requiritur et sufficit;
+tertio de conuersione propositionum sunt aliqua pertractanda.
+Postquam dicta sunt aliqua de terminis, nunc secundo dicendum est de propositionibus. Et primo
+ponendae sunt aliquae diuisiones; secundo uidendum est quid ad ueritatem propositionum requiritur et sufficit;
+tertio de conuersione propositionum sunt aliqua pertractanda.
+Circa primum sciendum est quod una diuisio propositionum est quod propositionum alia est categorica,
+alia hypothetica. Propositio categorica est illa quae habet subiectum et praedicatum et copulam, et non includit
+plures tales propositiones.
+Circa primum sciendum est quod una diuisio propositionum est quod propositionum alia est categorica,
+alia hypothetica. Propositio categorica est illa quae habet subiectum et praedicatum et copulam, et non includit
+plures tales propositiones.
+Propositio hypotlietica est illa quae ex pluribus categoricis est composita. Et illa diuiditur in quinque
+species, secundum communem opinionem, scilicet in copulatiuam, disiunctiuam, condicionalem, causalem et
+temporalem.
+Propositio hypotlietica est illa quae ex pluribus categoricis est composita. Et illa diuiditur in quinque
+species, secundum communem opinionem, scilicet in copulatiuam, disiunctiuam, condicionalem, causalem et
+temporalem.
+Copulatiua est illa quae componitur ex pluribus propositionibus, siue categoricis siue hypotheticis, siue
+una categorica et alia liypotiietica, mediante liac coniunctione 'et'. Exemplum primi, sicut hic 'Sortes currit et
+Plato disputat'. Exemplum secundi 'si Sortes est, animal est, uel
+Sortes currit et Plato disputat'. Exemplum tertii 'si homo currit, animal currit et Sortes disputat'. Tamen
+quia tales raro sunt in usu, ideo intendo loqui praecise de primis, quae scilicet componuntur ex duabus
+categoricis.
+Sortes currit et Plato disputat'. Exemplum tertii 'si homo currit, animal currit et Sortes disputat'. Tamen
+quia tales raro sunt in usu, ideo intendo loqui praecise de primis, quae scilicet componuntur ex duabus
+categoricis.
+Disiunctiua propositio est illa quae componitur ex pluribus propositiombus mediante liac coniunctione
+'uel'.
+Disiunctiua propositio est illa quae componitur ex pluribus propositiombus mediante liac coniunctione
+'uel'.
+Condicionalis est illa quae componitur ex pluribus propositionibus mediante hac coniunctione 'si', sicut
+hic 'si homo currit, animal currit', uel hic
+'homo est, si Sortes est'; quia non refert istam coniunctionem praeponere primae propositioni uel ponere
+eam inter illas propositiones.
+'homo est, si Sortes est'; quia non refert istam coniunctionem praeponere primae propositioni uel ponere
+eam inter illas propositiones.
+Propositio causalis est illa quae componitur ex pluribus propositionibus mediante hac coniunctione
+'quia', sicut hic 'quia homo currit, homo mouetur'.
+
+146
+
+

@@ -1,0 +1,63 @@
+per miraculum fieri. Probatio mediae. Sint duo corpora in eodem loco, quorum unum dicatur a, et aliud b. Aut
+ergo dimensiones a erunt eaedem cum dimensionibus loci, aut aliae. Si aliae, ergo erunt aliquae dimensiones
+separatae; quod non potest poni, quia dimensiones quae sunt inter terminos loci, non sunt in aliquo subjecto, nisi
+sint in corpore locato. Si autem sunt eaedem, ergo eadem ratione dimensiones b erunt eaedem cum
+dimensionibus loci. Sed quaecumque uni et eidem sunt eadem, sibi invicem sunt eadem. Ergo dimensiones a et b
+sunt eaedem. Sed duorum corporum non possunt esse eaedem dimensiones, sicut nec eadem albedo. Ergo a et b
+sunt unum corpus; et erant duo: ergo sunt simul unum et duo.
+AG2
+Praeterea, contra communes animi conceptiones non potest aliquid miraculose fieri, ut scilicet pars non sit minor
+toto: quia contraria communibus conceptionibus directe contradictionem includunt. Similiter nec conclusiones
+geometriae quae a communibus conceptionibus infallibiliter deducuntur, sicut quod triangulus non habeat tres
+angulos aequales duobus rectis. Similiter nec aliquid potest fieri in linea contra definitionem lineae: quia
+separare definitionem a definito est ponere duo contradictoria esse simul. Sed duo corpora esse in eodem loco est
+contra conclusiones geometriae, et contra definitionem lineae. Ergo non potest per miraculum fieri. Probatio
+mediae. Conclusio est geometriae quod duo circuli non tangant se nisi in puncto. Si autem duo corpora circularia
+essent in eodem loco, duo circuli designati in eis se tangerent secundum totum. Similiter etiam est contra
+definitionem lineae quod infra duo puncta sit plusquam una linea recta; quod contingeret, si duo corpora essent
+in eodem loco, quia infra duo puncta signata in diversis superficiebus loci essent duae lineae rectae duorum
+corporum locatorum.
+AG3
+Praeterea, hoc non videtur posse fieri per miraculum, quod corpus inclusum in alio corpore non sit in loco: quia
+sic haberet locum communem et non proprium; quod non potest esse. Sed hoc sequeretur, si duo corpora essent
+in eodem loco.
+Ergo hoc non potest fieri per miraculum. Probatio mediae. Sint duo corpora in eodem loco, quorum unum
+secundum quamlibet dimensionem sit majus alio: corpus minus erit inclusum corpore majore, et locus corporis
+majoris erit locus ejus communis; locum autem proprium non habebit, quia non erit aliqua superficies corporis
+actu signata quae contineat ipsam, quod est de ratione loci. Ergo non habebit locum proprium.
+AG4
+Praeterea, locus proportionaliter respondet locato. Sed nunquam potest per miraculum fieri quod idem corpus sit
+simul in diversis locis, nisi per aliquam conversionem, sicut accidit in sacramento altaris. Ergo nullo modo potest
+per miraculum fieri quod duo corpora sint simul in eodem loco.
+SC1
+Sed contra est quod beata virgo filium suum miraculose peperit. Sed in illo partu oportuit duo corpora esse simul
+in eodem loco: quia corpus pueri exiens claustra pudoris non fregit. Ergo potest miraculose fieri quod duo
+corpora sint in eodem loco.
+SC2
+Praeterea, hoc idem potest ostendi per hoc quod Dominus ad discipulos intravit januis clausis: joan. 20.
+CO
+Ad tertiam quaestionem dicendum, quod, sicut ex dictis patet, propter hoc necesse est duo corpora in duobus
+locis esse, quia diversitas materiae requirit distinctionem in situ; et ideo videmus quod quando conveniunt duo
+corpora in unum, destruitur esse distinctum utriusque, et acquiritur utrique simul unum esse indistinctum, ut
+patet in mixtionibus. Non potest ergo esse quod corpora duo remaneant duo, et tamen sint simul, nisi utrique
+conservetur esse distinctum, quod prius habebat, secundum quod utrumque erat ens indivisum in se, et divisum
+ab aliis. Hoc autem esse distinctum dependet a principiis rei essentialibus sicut a causis proximis, sed a Deo sicut
+a causa prima; sicut supra, dist. 12, quaest. 1, art. 1, quaestiunc. 3, ad 3, dictum est, quod esse accidentis
+dependet a subjecto sicut a causa proxima, sed a Deo sicut a causa prima. Et quia causa prima potest conservare
+rem in esse cessantibus causis secundis, ut patet per primam propositionem libri de causis; ideo divina virtute, et
+ea sola, fieri potest ut accidens sit sine subjecto, ut patet in sacramento altaris; et similiter divina virtute fieri
+potest, et ea sola, quod corpori remaneat esse distinctum ab alio corpore, quamvis ejus materia non sit distincta
+in situ ab alterius corporis materia; et sic miraculose fieri potest quod duo corpora sint in eodem loco.
+RA1
+Ad primum ergo dicendum, quod ratio illa est sophistica, quia procedit ex suppositione falsi, vel petit
+principium. Procedit enim ratio illa ac si inter duas superficies oppositas loci alicujus esset aliqua dimensio
+propria loco, cui oporteret quod uniretur dimensio corporis locati advenientis; sic enim sequeretur quod
+dimensiones duorum corporum locatorum fierent una dimensio, si utraque unum fieret cum dimensione loci.
+Haec autem suppositio falsa est; quia secundum hoc, quandocumque corpus acquireret novum locum, oporteret
+aliquam immutationem fieri in dimensionibus loci vel locati. Non enim potest esse quod aliqua duo fiant de novo
+unum, nisi altero eorum immutato. Si autem, ut se rei veritas habet, loco non debentur aliae dimensiones quam
+dimensiones locati, patet quod ratio nihil probat, sed petit principium; quia secundum hoc nihil est aliud dictum
+quod dimensiones locati fiunt eaedem cum dimensionibus loci, nisi quod dimensiones locati continentur infra
+2093
+
+

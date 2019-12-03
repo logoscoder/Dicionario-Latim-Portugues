@@ -1,0 +1,61 @@
+DUAE VERO MINIME. Neque enim ita affirmant et negant duae simplices, sicut duae priuatoriae. Affirmatio namque
+simplex ab affirmatione priuatoria discrepat, et rursus negatio simplex a negatione priuatoria longe dissidet atque
+discordat.
+Sed haec (ut diximus) Alexandri expositio est post multas alias simplicior, non tamen repudianda sed illa
+superior uerior esse uidetur, quod Aristoteles ipse testatur. Ait enim paulo post: HAEC IGITUR, QUEMADMODUM
+IN RESOLUTORIIS DICTUM EST, SIC SUNT DISPOSITA.
+Hanc enim consequentiam quam insuperiori expositione memoraui priuatoriarum et infinitarum ad simplices
+in primi libri Priorum Resolutoriorum quae *analytika* Graeci uocant fine disposuit. Dicit autem Porphyrius fuisse
+quosdam sui temporis, qui hunc exponerent librum, et quoniam ab Hermino uel Aspasio uel Alexandro expositiones
+singulas proferentes multa contraria et expositionibus male ab illis editis dissidentia /294/ reperirent, arbitratos fuisse
+librum hunc Aristotelis, ut dignum esset, exponi non posse multosque illius temporis uiros totam huius libri praeterisse
+doctrinam, quod inexplicabilem putarent esse caliginem. Nos autem breuissime hunc locum in prima editione
+praeteriimus sed quod illic pro intellectus simplicitate breuiter posuimus, hic omni latitudine totam sententiae uim et
+prolixitatem digessimus. Quare quoniam superiora digne (ut mihi uidetur) expressimus, sequentis textus ordinem
+sententiamque uideamus.
+SIMILITER AUTEM SE HABET ET SI UNIVERSALIS NOMINIS SIT AFFIRMATIO, UT OMNIS EST
+HOMO IUSTUS, NON OMNIS EST HOMO IUSTUS; OMNIS EST HOMO NON IUSTUS, NON OMNIS EST
+HOMO NON IUSTUS. SED NON SIMILITER ANGULARES CONTINGIT VERAS ESSE. CONTINGIT AUTEM
+ALIQUANDO.
+De indefinitis quaedam propositionibus praelocutus nunc de his quae terminatae sunt secundum uniuersalitatis
+et particularitatis adiectionem dicit, quod etiam ipsae similiter se habeant, sicut illae quoque quae sine ulla
+determinatione dicebantur, simplex scilicet oppositio atque infinita. Quod uero ait: SIMILITER AUTEM SE HABET
+ET SI UNIVERSALIS NOMINIS SIT AFFIRMATIO, alii ita intellexerunt, ut quod ait similiter referant ad numerum
+oppositionum et propositionum. Nam sicut in his quae indefinitae sunt et /295/ indeterminatae duae sunt oppositiones,
+una simplicis negationis et simplicis affirmationis, altera infinitae affirmationis et infinitae negationis, quatuor autem
+propositiones, quod supra iam dictum est, ita quoque in his quae terminationem secundum uniuersalitatem
+particularitatemque habent quatuor fiunt propositiones et oppositio duplex.
+Oppositio enim una est uniuersalis affirmationis simplicis et particularis negationis simplicis, ut est:
+Omnis homo iustus est
+Non omnis homo iustus est
+Et haec quidem una est oppositio. Alia uero infinitae uniuersalis affirmationis et infinitae particularis
+negationis, ut:
+Omnis homo non iustus est
+Non omnis homo non iustus est
+Quare hic quoque, cum duae sint oppositiones, erunt sine dubio quatuor propositiones, sicut in his de quibus
+supra dixerat, quae scilicet determinatione carebant.
+Alii uero qui Aristotelis animum penitus inspexerunt non aiunt similiter solum se habere determinatas
+propositiones ad numerum oppositionum et propositionum sed etiam ad consequentiam. Nam quae est consequentia
+negationum ad affirmationes in his propositionibus simplicibus et infinitis, quae praeter determinationem dicuntur,
+eadem se similitudo habet in his quae terminatione proferuntur. Sed quoniam non in omnibus omnia similia habent,
+idcirco addidit notans: SED NON SIMILITER ANGULARES CONTINGIT VERAS ESSE. CONTINGIT AUTEM
+ALIQUANDO.
+Sensus autem totus huiusmodi est: similiter, inquit, se habent hae propositiones quae /296/ secundum
+determinationem dicuntur infinitae ad simplices et simplices ad infinitas, quemadmodum illae quoque sese habebant
+quae sine determinatione indefinitae dicebantur. Sed habent quandam dissimilitudinem, quod angulares propositiones
+in his quae cum determinatione dicuntur non eodem modo uerae sunt, quomodo illae quae sine determinatione
+proferebantur uel infinitae uel simplices.
+Videamus ergo prius an eadem in his quae determinatae sunt sit consequentia quae in his est quae indefinitae
+proferuntur, post uideamus quae sit in angularibus dissimilitudo. Disponantur ergo non solum eae quae simplices uel
+infinitae sunt sed etiam quae sunt priuatoriae. Et prius quidem disponantur hoc modo: simplex affirmatio et simplex
+negatio et hae quidem indefinitae, id est praeter uniuersalitatis aut particularitatis adiectionem. Sub his sub affirmatione
+quidem simplici ponatur negatio priuatoria, sub negatione uero simplici affirmatio priuatoria: hae quoque rursus
+indefinitae.
+Sub his autem ponantur sub affirmatione priuatoria et sub simplici negatione affirmatio infinita, sub priuatoria
+autem negatione et sub simplici affirmatione ponatur negatiue infinita, et hae quoque indefinitae et indeterminatae sine
+ulla uel uniuersalitate uel particularitate. Sub his autem disponantur hae quas determinatas uel uniuersalitatis quantitate
+uel particularitatis uocamus. Et primo quidem affirmatio uniuersalis simplex, contra hanc negatio particularis simplex.
+Sub affirmatione autem uniuersali simplici ponatur negatio particularis priuatoria, sub negatione autem particulari
+simplici uniuersalis affirmatio priuatoria. Rursus sub negatione particulari priuatoria et sub affirmatione uniuersali
+
+

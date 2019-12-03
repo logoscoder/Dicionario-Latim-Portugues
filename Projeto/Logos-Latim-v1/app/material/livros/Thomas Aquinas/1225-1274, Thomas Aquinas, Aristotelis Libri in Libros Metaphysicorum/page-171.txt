@@ -1,0 +1,54 @@
+|#23 Et sciendum, quod accidentis hoc modo dicti, non est aliqua causa determinata, sed contingens, idest
+qualiscumque contingat, vel quia forte, idest causa fortuita, quae est causa indeterminata.
+Sicut accidit alicui quod veniat Aeginam, idest ad illam villam, si non propter hoc advenit ut illuc veniat, idest si
+non propter hoc incepit moveri ut ad hunc terminum perveniret, sed ab aliqua extranea causa illuc adductus est,
+sicut quia impulsus est ab hieme concitante tempestatem in mari, aut etiam captus est a latronibus, et illuc
+perductus praeter intentionem.
+Unde patet, quod hoc est per accidens, et causari potest ex diversis causis; sed tamen quod iste navigans ad hunc
+locum perveniat non est inquantum ipsum, idest inquantum erat navigans, cum intenderet ad alium locum
+navigare; sed hoc contingit inquantum alterum, idest secundum aliquam aliam causam extraneam.
+Hiems enim est causa veniendi quo non navigabat, idest ad Aeginam, aut latrones, aut aliquid aliud huiusmodi.
+|#24 Secundo modo dicitur accidens, quod inest alicui secundum se, et tamen non est de substantia eius. Et hic
+est secundus modus dicendi per se, ut supra dictum est. Nam primus erat prout secundum se dicitur de aliquo
+quod in eius definitione ponitur, ut animal de homine, quod nullo modo est accidens. Sed triangulo inest per se
+duos rectos habere, et non est de substantia eius; unde est accidens.
+|#25 Differt autem hic modus a primo, quia accidentia hoc secundo modo contingit esse sempiterna. Semper
+enim triangulus habet tres angulos aequales duobus rectis. Accidentium vero secundum primum modum, nullum
+contingit esse sempiternum, quia sunt semper ut in paucioribus: et huius ratio habetur in aliis, sicut infra in sexto
+huius, et in secundo physicorum. Accidens ergo secundum primum modum opponitur ad secundum se.
+Accidens vero secundo modo opponitur ad substantialiter. Et haec de quinto.
+|*MPH.6 : LIBER 6
+|+1 Lectio 1
+|#1 Postquam Philosophus in quarto huius ostendit, quod haec scientia considerat de ente et de uno, et de his
+quae consequuntur ad ens inquantum huiusmodi, et quod omnia ista dicuntur multipliciter, et in quinto huius
+eorum multiplicitatem distinxit, hic incipit de ente determinare, et de aliis quae consequuntur ad ens.
+Dividitur autem pars ista in duas. In prima ostendit per quem modum haec scientia debet determinare de ente. In
+secunda incipit de ente determinare, scilicet in principio septimi, ibi, ens dicitur multipliciter.
+Prima pars dividitur in duas. In prima ostendit modum tractandi de entibus, qui competit huic scientiae per
+differentiam ad alias scientias. In secunda removet a consideratione huius scientiae ens aliquibus modis dictum,
+secundum quos modos ens non intenditur principaliter in hac scientia, ibi, sed quoniam ens simpliciter.
+Prima autem pars dividitur in duas. In prima parte ostendit differentiam huius scientiae ad alias, per hoc, quod
+considerat principia entis inquantum est ens. Secundo, quantum ad modum tractandi de huiusmodi principiis, ibi,
+quoniam vero physica.
+Circa primum duo facit.
+|#2 Primo ostendit quomodo haec scientia convenit cum aliis in consideratione principiorum; dicens, quod ex
+quo ens est subiectum in huiusmodi scientia, ut in quarto ostensum est, et quaelibet scientia debet inquirere
+principia et causas, sui subiecti, quae sunt eius inquantum huiusmodi, oportet quod in ista scientia inquirantur
+principia et causae entium, inquantum sunt entia. Ita etiam est et in aliis scientiis. Nam sanitatis et
+convalescentiae est aliqua causa, quam quaerit medicus. Et similiter etiam mathematicorum sunt principia et
+elementa et causae, ut figurae et numeri et aliarum huiusmodi quae perquirit mathematicus. Et universaliter
+omnis scientia intellectualis qualitercumque participet intellectum: sive sit solum circa intelligibilia, sicut
+scientia divina; sive sit circa ea quae sunt aliquo modo imaginabilia, vel sensibilia in particulari, in universali
+autem intelligibilia, et etiam sensibilia prout de his est scientia, sicut in mathematica et in naturali; sive etiam ex
+universalibus principiis ad particularia procedant, in quibus est operatio, sicut in scientiis practicis: semper
+oportet quod talis scientia sit circa causas et principia.
+|#3 Quae quidem principia aut sunt certiora quo ad nos sicut in naturalibus, quia sunt propinquiora sensibilibus,
+aut simpliciora et priora secundum naturam, sicut est in mathematicis. Cognitiones autem quae sunt sensitivae
+tantum, non sunt per principia et causas, sed per hoc quod ipsum sensibile obiicitur sensui. Discurrere enim a
+causis in causata vel e contrario, non est sensus, sed solum intellectus.
+Vel certiora principia dicit ea quae sunt magis nota et exquisita. Simplicia autem ea, quae magis superficialiter
+exquiruntur, sicut est in scientiis moralibus, quorum principia sumuntur ex his quae sunt ut in pluribus.
+
+171
+
+

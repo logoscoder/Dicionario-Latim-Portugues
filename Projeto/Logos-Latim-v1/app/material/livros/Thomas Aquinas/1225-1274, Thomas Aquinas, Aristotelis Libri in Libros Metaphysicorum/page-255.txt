@@ -1,0 +1,56 @@
+|#4 Deinde cum dicit palam itaque solvit praedictam dubitationem: et circa hoc duo facit.
+Primo proponit unde appareat via ad solutionem dubitationis; dicens, manifestum esse quod si aliqui acceptent
+quod dictum est de positione Platonis, et transmutent sic naturas rerum, quod ponant universalia separata, sicut
+Platonici determinare et dicere consueverunt, non contingit reddere causam unitatis hominis, et solvere
+dubitationem praedictam. Sed, si ponatur, sicut dictum est supra, quod in definitionibus sit unum sicut materia,
+aliud sicut forma; unum sicut potentia, aliud sicut actus: quaestio tam facilis est ad solvendum, quod
+dubitationem non videtur habere.
+|#5 Est enim secundo secundum viam praemissam solvit propositam dubitationem.
+Et primo solvit eam in naturalibus, quae generantur et corrumpuntur; dicens quod praedicta dubitatio est eadem
+ac si quaeratur quare aes est rotundum? ponamus enim, quod definitio huius nominis, vestis, sit aes rotundum, et
+quod hoc nomen significet istam definitionem: cum quaeritur quae est causa quare ista definitio, aes rotundum,
+sit unum, non videtur esse dubitabilis, eo quod aes est sicut materia, et rotundum sicut forma. Nulla enim alia
+causa est quare ista sunt unum, nisi illa, quae facit id quod est in potentia esse actu. Et hoc est agens in omnibus
+in quibus est generatio. Unde, cum hoc sit quod quid erat esse significatum per definitionem, scilicet id quod est
+in potentia fieri actu, manifestum est quod agens est causa in rebus generabilibus et corruptibilibus, quare quod
+quid erat esse, una est definitio.
+|#6 Deinde cum dicit est autem solvit praedictam dubitationem in mathematicis: et dicit quod duplex est
+materia: scilicet sensibilis et intelligibilis. Sensibilis quidem est, quae concernit qualitates sensibiles, calidum et
+frigidum, rarum et densum, et alia huiusmodi, cum qua quidem materia concreta sunt naturalia, sed ab ea
+abstrahunt mathematica. Intelligibilis autem materia dicitur, quae accipitur sine sensibilibus qualitatibus vel
+differentiis, sicut ipsum continuum. Et ab hac materia non abstrahunt mathematica.
+|#7 Unde, sive in sensibilibus, sive in mathematicis, semper oportet quod sit in definitionibus aliquid quasi
+materia et aliquid quasi forma. Sicut in hac definitione circuli mathematici, circulus est figura superficialis,
+superficies est quasi materia, et figura quasi forma. Eadem enim est ratio quare definitio mathematica est una, et
+quare definitio naturalis (licet in mathematicis non sit agens, sicut in naturalibus), quia utrobique alterum est
+sicut materia, et alterum sicut forma.
+|#8 Deinde cum dicit quaecumque vero solvit praedictam dubitationem quantum ad ea quae sunt omnino a
+materia separata; dicens, quod quaecumque non habent materiam intelligibilem, ut mathematica, nec sensibilem,
+ut naturalia, sicut sunt substantiae separatae, statim unumquodque eorum est unum aliquid. In his enim quae
+habent materiam, non statim unumquodque est unum, sed unitas eorum est ex hoc quod unitas advenit materiae.
+Sed si aliquid sit quod sit forma tantum, statim est unum; quia non est in eo ponere aliquid quocumque ordine,
+prius quam expectet unitatem a forma.
+|#9 Et ponit exemplum: quia cum decem praedicamenta non hoc modo se habeant ex additione ad ens, sicut
+species se habent ex additione differentiarum ad genera, sed hoc ipsum quod est ens, manifestum est quod ens
+non expectat aliquid additum ad hoc quod fiat hoc, idest substantia, vel quantum, vel quale; sed statim a
+principio est vel substantia, vel quantitas, vel qualitas. Et haec est causa quare in definitionibus non ponuntur nec
+unum nec ens, ut genus; quia oporteret quod unum et ens se haberent ut materia ad differentias, per quarum
+additiones ens fieret vel substantia vel qualitas.
+|#10 Et similiter id quod est separatum omnino a materia, quod est suum quod quid erat esse, ut supra dictum
+est, statim est unum, sicut et statim est ens: non enim est in eo materia expectans formam, a qua habeat unitatem
+et esse; et ideo in talibus non est aliqua causa movens ad hoc quod sint unum. Habent tamen quaedam eorum
+causam substituentem substantias sine motu substantiarum earum, et non sicut in generabilibus quae per motum
+fiunt. Statim enim unumquodque eorum est aliquod ens et aliquod unum, non ita quod ens et unum sint genera
+quaedam, aut singillatim existentia praeter singularia, quae Platonici ponebant.
+|#11 Deinde cum dicit propter hanc vero excludit quorumdam falsam opinionem circa praedictam quaestionem:
+et circa hoc tria facit.
+Primo ponit eorum positiones: et dicit: propter praedictam dubitationem quidam, scilicet Platonici, posuerunt
+participationem, qua scilicet inferiora participant superiora, ut hic homo, hominem; et homo, animal et bipes. Et
+inquirebant quid est causa participationis, et quid participare; ut eis innotesceret quare est unum, hoc quod dico
+animal bipes. Alii vero ponunt causam unitatis hominis quamdam consubstantialitatem sive coexistentiam
+animae cum corpore; sicut si significaretur in abstracto anima cum corpore; quasi diceremus animationem, sicut
+Lycophron dixit, quod scientia est medium inter animam et scire. Alii autem dixerunt quod ipsum vivere est
+medium, per quod coniungitur anima corpori.
+255
+
+

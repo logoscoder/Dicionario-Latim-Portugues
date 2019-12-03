@@ -1,0 +1,55 @@
+Non solum autem nomina possunt definiri definitione tali, sed etiam omnes partes orationis sic possunt
+definiri, scilicet uerba, coniunctiones etc. Sic definiuntur talia aduerbia 'ubi' 'quando', 'quot', coniunctiones et
+huiusmodi. Et tunc non debet definitio praedicari de definito mediante hoc uerbo 'est', utroque significatiue
+sumpto, sed hoc totum 'idem significare' uel aliquid tale debet de illis, materialiter sumpis, uerificari; uel alia
+oratio debet de illo uerificari, ipso materialiter sumpto, sic dicendo 'ubi: est aduerbium interrogatiuum loci',
+'quando: est aduerbium interrogatiuum temporis', et sic de aliis.
+[1.27. DE HOC NOMINE 'DESCRIPTIO']
+[1.27. DE HOC NOMINE 'DESCRIPTIO']
+Descriptio est sermo compendiosus ex accidentibus et propriis compositus.
+Unde dicit Damascenus in Logica sua, cap.14: "Descriptio ex accidentibus componitur, id est propriis et
+accidentibus. Verbi gratia 'homo est risibile, erecte ambulatiuum, latas habens ungues'. Haec enim omnia
+accidentalia sunt. Propter quod et descriptio dicitur ut obumbrans et non substantialem exsistentiam subiecti
+manifestans sed consequentia".
+Unde dicit Damascenus in Logica sua, cap.14: "Descriptio ex accidentibus componitur, id est propriis et
+accidentibus. Verbi gratia 'homo est risibile, erecte ambulatiuum, latas habens ungues'. Haec enim omnia
+accidentalia sunt. Propter quod et descriptio dicitur ut obumbrans et non substantialem exsistentiam subiecti
+manifestans sed consequentia".
+Ex uerbis huius auctoritatis euidenter datur intelligi quod in descriptione nihil debet poni quod
+praedicatur in quid uel per se primo modo de descripto; et in hoc differt descriptio a definitione.
+Ex uerbis huius auctoritatis euidenter datur intelligi quod in descriptione nihil debet poni quod
+praedicatur in quid uel per se primo modo de descripto; et in hoc differt descriptio a definitione.
+Secundo, ex praedicta auctoritate sequitur quod accidens non solum accipitur pro aliqua re inhaerente
+alteri sed pro praedicabili de aliquo contingenter, sicut dictum est prius, quia cum secundum praedictum
+Doctorem descriptio componatur ex accidentibus subiecti, et descriptio non componatur nisi ex
+praedicabilibus de subiecto, oportet quod uocet ipsa praedicabilia de descripto accidentia, quae non possunt esse
+nisi conceptus uel uoces uel scripta.
+Doctorem descriptio componatur ex accidentibus subiecti, et descriptio non componatur nisi ex
+praedicabilibus de subiecto, oportet quod uocet ipsa praedicabilia de descripto accidentia, quae non possunt esse
+nisi conceptus uel uoces uel scripta.
+Sequitur, tertio, ex praedictis quod non semper descriptio et descriptum sunt conuertibilia, quia cum
+accidentia contingenter praedicentur de aliquo, potest descriptum praedicari de aliquo quamuis descriptio non
+praedicetur de eo. Tamen hoc non contingit nisi propter imperfectionem illius de quo praedicatur descriptum.
+Unde potest homo sic describi 'homo est bipes, duas habens manus', addendo sibi aliqua alia quae non possunt
+competere nisi homini; quo facto illa descriptio potest negari ab aliquo carente manibus, de quo tamen
+praedicatur descriptum. Sed hoc est propter hoc quod illud indiuiduum non est perfectum.
+Sequitur, tertio, ex praedictis quod non semper descriptio et descriptum sunt conuertibilia, quia cum
+accidentia contingenter praedicentur de aliquo, potest descriptum praedicari de aliquo quamuis descriptio non
+praedicetur de eo. Tamen hoc non contingit nisi propter imperfectionem illius de quo praedicatur descriptum.
+Unde potest homo sic describi 'homo est bipes, duas habens manus', addendo sibi aliqua alia quae non possunt
+competere nisi homini; quo facto illa descriptio potest negari ab aliquo carente manibus, de quo tamen
+praedicatur descriptum. Sed hoc est propter hoc quod illud indiuiduum non est perfectum.
+Verumtamen potest dici quod descriptio dupliciter accipi potest, scilicet large, et sic loquitur iste Doctor
+de descriptione, uel potest accipi stricte, et sic non componitur ex accidentibus sed ex propriis; et sic semper
+conuertuntur descriptio et descriptum
+Verumtamen potest dici quod descriptio dupliciter accipi potest, scilicet large, et sic loquitur iste Doctor
+de descriptione, uel potest accipi stricte, et sic non componitur ex accidentibus sed ex propriis; et sic semper
+conuertuntur descriptio et descriptum
+[1.28. DE DESCRIPTIVA DEFINITIONE]
+[1.28. DE DESCRIPTIVA DEFINITIONE]
+Descriptiua autem definitio est mixta ex substantialibus et accidentalibus.
+Verbi gratia 'homo est animal rationale, erecte ambulatiuum, latas habens ungues', secundum
+Damascenum, ubi prius. Ex quo patet quod aliquis sermo praecise componitur ex praedicabilibus per se primo
+55
+
+

@@ -1,0 +1,60 @@
+Sed contra est quod Damascenus et Philosophus dicunt, quod involuntarium quoddam est per ignorantiam.
+CO
+Respondeo dicendum quod ignorantia habet causare involuntarium ea ratione qua privat cognitionem, quae
+praeexigitur ad voluntarium, ut supra dictum est.
+Non tamen quaelibet ignorantia huiusmodi cognitionem privat. Et ideo sciendum quod ignorantia tripliciter se
+habet ad actum voluntatis, uno modo, concomitanter; alio modo, consequenter; tertio modo, antecedenter.
+Concomitanter quidem, quando ignorantia est de eo quod agitur, tamen, etiam si sciretur, nihilominus ageretur.
+Tunc enim ignorantia non inducit ad volendum ut hoc fiat, sed accidit simul esse aliquid factum et ignoratum,
+sicut, in exemplo posito, cum aliquis vellet quidem occidere hostem, sed ignorans occidit eum, putans occidere
+cervum.
+Et talis ignorantia non facit involuntarium, ut Philosophus dicit, quia non causat aliquid quod sit repugnans
+voluntati, sed facit non voluntarium, quia non potest esse actu volitum quod ignoratum est.
+Consequenter autem se habet ignorantia ad voluntatem, inquantum ipsa ignorantia est voluntaria. Et hoc
+contingit dupliciter, secundum duos modos voluntarii supra positos.
+Uno modo, quia actus voluntatis fertur in ignorantiam, sicut cum aliquis ignorare vult ut excusationem peccati
+habeat, vel ut non retrahatur a peccando, secundum illud iob XXI, scientiam viarum tuarum nolumus.
+Et haec dicitur ignorantia affectata. Alio modo dicitur ignorantia voluntaria eius quod quis potest scire et debet,
+sic enim non agere et non velle voluntarium dicitur, ut supra dictum est.
+Hoc igitur modo dicitur ignorantia, sive cum aliquis actu non considerat quod considerare potest et debet, quae
+est ignorantia malae electionis, vel ex passione vel ex habitu proveniens, sive cum aliquis notitiam quam debet
+habere, non curat acquirere; et secundum hunc modum, ignorantia universalium iuris, quae quis scire tenetur,
+voluntaria dicitur, quasi per negligentiam proveniens. Cum autem ipsa ignorantia sit voluntaria aliquo istorum
+modorum, non potest causare simpliciter involuntarium. Causat tamen secundum quid involuntarium, inquantum
+praecedit motum voluntatis ad aliquid agendum, qui non esset scientia praesente.
+Antecedenter autem se habet ad voluntatem ignorantia, quando non est voluntaria, et tamen est causa volendi
+quod alias homo non vellet. Sicut cum homo ignorat aliquam circumstantiam actus quam non tenebatur scire, et
+ex hoc aliquid agit, quod non faceret si sciret, puta cum aliquis, diligentia adhibita, nesciens aliquem transire per
+viam, proiicit sagittam, qua interficit transeuntem. Et talis ignorantia causat involuntarium simpliciter.
+RA1
+Et per hoc patet responsio ad obiecta. Nam prima ratio procedebat de ignorantia eorum quae quis tenetur scire.
+Secunda autem, de ignorantia electionis, quae quodammodo est voluntaria, ut dictum est.
+Tertia vero, de ignorantia quae concomitanter se habet ad voluntatem.
+|q7 Quaestio 7
+|a0 Prologus
+Deinde considerandum est de circumstantiis humanorum actuum.
+Et circa hoc quaeruntur quatuor. Primo, quid sit circumstantia.
+Secundo, utrum circumstantiae sint circa humanos actus attendendae a theologo. Tertio, quot sunt
+circumstantiae.
+Quarto, quae sunt in eis principaliores.
+|a1 Articulus 1
+AG1
+Ad primum sic proceditur. Videtur quod circumstantia non sit accidens actus humani.
+Dicit enim tullius, in rhetoricis, quod circumstantia est per quam argumentationi auctoritatem et firmamentum
+adiungit oratio.
+Sed oratio dat firmamentum argumentationi praecipue ab his quae sunt de substantia rei, ut definitio, genus,
+species, et alia huiusmodi; a quibus etiam tullius oratorem argumentari docet.
+Ergo circumstantia non est accidens humani actus.
+AG2
+Praeterea, accidentis proprium est inesse. Quod autem circumstat, non inest, sed magis est extra. Ergo
+circumstantiae non sunt accidentia humanorum actuum.
+AG3
+Praeterea, accidentis non est accidens. Sed ipsi humani actus sunt quaedam accidentia. Non ergo circumstantiae
+sunt accidentia actuum.
+SC
+Sed contra, particulares conditiones cuiuslibet rei singularis dicuntur accidentia individuantia ipsam.
+Sed Philosophus, in III ethic., circumstantias nominat particularia, idest particulares singulorum actuum
+conditiones. Ergo circumstantiae sunt accidentia individualia humanorum actuum.
+631
+
+

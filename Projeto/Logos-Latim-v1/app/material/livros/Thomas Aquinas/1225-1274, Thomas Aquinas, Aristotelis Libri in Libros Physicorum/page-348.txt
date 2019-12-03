@@ -1,0 +1,64 @@
+conclusione esse sit possibile; sicut si daretur quod esset aliqua potentia
+quae posset removere genus a specie, sequeretur quod illa potentia posset
+facere quod homo non esset animal: sed quia hoc est impossibile,
+impossibile est et primum; non autem ex hoc potest concludi esse possibile,
+quod sit aliqua potentia quae faciat hominem non esse animal. Ita ex hoc
+quod est aliquam potentiam infinitam esse in magnitudine, ex necessitate
+sequitur motum esse in non tempore: sed quia hoc est impossibile,
+impossibile est infinitam potentiam esse in magnitudine; nec potest ex hoc
+concludi esse possibile quod potentia infinita moveat in non tempore.
+|#9
+Ad secundam autem dubitationem respondet Averroes in commento huius
+loci, dicens quod ratio Aristotelis hic procedit de potentia, ratione suae
+infinitatis. Finitum autem et infinitum convenit quantitati, ut supra in
+primo habitum est: unde potentiae quae non est in magnitudine, non proprie
+competit quod sit finita vel infinita.
+Sed haec responsio est et contra intentionem Aristotelis, et contra
+veritatem.
+Contra intentionem quidem Aristotelis est, quia Aristoteles in praecedenti
+demonstratione probavit quod potentia movens tempore infinito sit infinita:
+et ex hoc infra concludit quod potentia movens caelum non est potentia in
+magnitudine.
+Est etiam contra veritatem: quia cum omnis potentia activa sit secundum
+aliquam formam, eo modo convenit magnitudo potentiae, et per consequens
+finitum et infinitum, sicut convenit formae. Formae autem convenit
+magnitudo et per se, et per accidens: per se quidem, secundum perfectionem
+ipsius formae, sicut dicitur magna albedo etiam parvae nivis, secundum
+perfectionem propriae rationis; per accidens autem secundum quod aliqua
+forma habet extensionem in subiecto, sicut dicitur magna albedo propter
+magnitudinem superficiei.
+Haec autem secunda magnitudo non potest competere potentiae quae non est in
+magnitudine: sed prima magnitudo maxime ei competit, quia potentiae
+immateriales, quanto sunt minus contractae per applicationem ad materiam,
+tanto sunt perfectiores et universaliores.
+Velocitas autem motus non consequitur magnitudinem virtutis quae est per
+accidens, per extensionem ad magnitudinem subiecti, sed magis eam quae est
+per se, secundum propriam perfectionem: quia quanto aliquod ens actu est
+perfectius, tanto est vehementius activum.
+Unde non potest dici quod potentia quae non est in magnitudine, quia non
+est infinita infinitate magnitudinis quae est ex magnitudine subiecti,
+propter hoc non causet augmentum velocitatis in infinitum, quod est movere
+in non tempore.
+Unde et idem Commentator hanc dubitationem aliter solvit in XI metaphys.,
+ubi dicit quod corpus caeleste movetur a duplici motore, scilicet a motore
+coniuncto, qui est anima caeli, et a motore separato, qui non movetur neque
+per se neque per accidens. Et quia ille motor separatus est infinitae
+virtutis, motus caeli acquirit ab eo perpetuam durationem: quia vero motor
+coniunctus est finitae virtutis, ideo motus caeli acquirit ab eo
+velocitatem determinatam.
+Sed nec ista responsio sufficiens est. Cum enim utrumque videatur consequi
+potentiam infinitam, scilicet quod moveat tempore infinito, ut praecedens
+demonstratio conclusit, et quod moveat in non tempore, ut videtur
+concludere haec demonstratio: iterum restat dubitatio quare anima caeli,
+quae movet in virtute motoris separati infiniti, magis ab eo sortiatur ut
+possit movere tempore infinito, quam ut moveat velocitate infinita, idest
+in non tempore.
+|#10
+Ad hanc igitur dubitationem dicendum est, quod omnis potentia quae
+non est in magnitudine, movet per intellectum: sic enim Philosophus probat
+caelum moveri a suo motore, in XI metaphys.. Nulla autem potentia quae est
+in magnitudine, movet quasi intelligens: probatum est enim in III de anima,
+quod intellectus non est virtus alicuius corporis.
+348
+
+

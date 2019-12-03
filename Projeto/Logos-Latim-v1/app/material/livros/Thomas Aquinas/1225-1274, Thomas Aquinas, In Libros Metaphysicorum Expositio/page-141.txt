@@ -1,0 +1,62 @@
+[82585] In Metaphysic., lib. 5 l. 17 n. 20
+Contingit enim aliquas quantitates continuas habere proportionem adinvicem, sed non secundum aliquem numerum,
+nec determinatum, nec indeterminatum. Omnium enim quantitatum continuarum est aliqua proportio; non tamen est
+proportio numeralis. Quorumlibet enim duorum numerorum est una mensura communis, scilicet unitas, quae aliquoties
+sumpta, quemlibet numerum reddit. Non autem quarumlibet quantitatum continuarum invenitur esse una mensura
+communis; sed sunt quaedam quantitates continuae incommensurabiles: sicut diameter quadrati est incommensurabilis
+lateri. Et hoc ideo, quia non est proportio eius ad latus, sicut proportio numeri ad numerum, vel numeri ad unum.
+[82586] In Metaphysic., lib. 5 l. 17 n. 21
+Cum ergo dicitur in quantitatibus, quod haec est maior illa, vel se habet ad illam ut continens ad contentum, non solum
+haec ratio non attenditur secundum aliquam determinatam speciem numeri, sed nec etiam quod sit secundum numerum,
+quia omnis numerus est alteri commensurabilis. Omnes enim numeri habent unam communem mensuram, scilicet
+unitatem. Sed continens et contentum non dicuntur secundum aliquam commensurationem numeralem. Continens enim
+ad contentum dicitur, quod est tantum, et adhuc amplius. Et hoc est indeterminatum, utrum sit commensurabile, vel non
+commensurabile. Quantitas enim qualiscumque accipiatur, vel est aequalis, vel inaequalis. Unde, si non est aequalis,
+sequitur quod sit inaequalis et continens, etiam si non sit commensurabilis. Patet igitur quod omnia praedicta dicuntur
+ad aliquid secundum numerum, et secundum passiones numerorum, quae sunt commensuratio, proportio, et huiusmodi.
+[82587] In Metaphysic., lib. 5 l. 17 n. 22
+Deinde cum dicit et amplius ponit relativa, quae accipiuntur secundum unitatem, et non per comparationem numeri ad
+unum vel ad numerum; et dicit quod alio modo a praedictis dicuntur relative, aequale, simile, et idem. Haec enim
+dicuntur secundum unitatem. Nam eadem sunt, quorum substantia est una. Similia, quorum qualitas est una. Aequalia,
+quorum quantitas est una. Cum autem unum sit principium numeri et mensura, patet etiam, quod haec dicuntur ad
+aliquid secundum numerum, idest secundum aliquid ad genus numeri pertinens; non eodem modo tamen haec ultima
+cum primis. Nam primae relationes erant secundum numerum ad numerum, vel secundum numerum ad unum; hoc
+autem secundum unum absolute.
+[82588] In Metaphysic., lib. 5 l. 17 n. 23
+Deinde cum dicit activa vero prosequitur de secundo modo relationum, quae sunt in activis et passivis: et dicit, quod
+huiusmodi relativa sunt relativa dupliciter. Uno modo secundum potentiam activam et passivam; et secundo modo
+secundum actus harum potentiarum, qui sunt agere et pati; sicut calefactivum dicitur ad calefactibile secundum
+potentiam activam et passivam. Nam calefactum est, quod potest calefacere; calefactibile vero, quod potest calefieri.
+Calefaciens autem ad calefactum, et secans ad id quod secatur, dicuntur relative secundum actus praedictarum
+potentiarum.
+[82589] In Metaphysic., lib. 5 l. 17 n. 24
+Et differt iste modus relationum a praemissis. Quae enim sunt secundum numerum, non sunt aliquae actiones nisi
+secundum similitudinem, sicut multiplicare, dividere et huiusmodi, ut etiam in aliis dictum est, scilicet in secundo
+physicorum; ubi ostendit, quod mathematica abstrahunt a motu, et ideo in eis esse non possunt huiusmodi actiones,
+quae secundum motum sunt.
+[82590] In Metaphysic., lib. 5 l. 17 n. 25
+Sciendum etiam est quod eorum relativorum, quae dicuntur secundum potentiam activam et passivam, attenditur
+diversitas secundum diversa tempora. Quaedam enim horum dicuntur relative secundum tempus praeteritum, sicut
+quod fecit, ad illud quod factum est; ut pater ad filium, quia ille genuerit, iste genitus est; quae differunt secundum
+fecisse, et passum esse. Quaedam vero secundum tempus futurum, sicut facturus refertur ad faciendum. Et ad hoc
+genus relationum reducuntur illae relationes, quae dicuntur secundum privationem potentiae, ut impossibile et
+invisibile. Dicitur enim aliquid impossibile huic vel illi; et similiter invisibile.
+[82591] In Metaphysic., lib. 5 l. 17 n. 26
+Deinde cum dicit ergo secundum prosequitur de tertio modo relationum; et dicit quod in hoc differt iste tertius modus a
+praemissis, quod in praemissis, unumquodque dicitur relative ex hoc, quod ipsum ad aliud refertur; non ex eo quod
+aliud referatur ad ipsum. Duplum enim refertur ad dimidium, et e converso; et similiter pater ad filium, et e converso;
+sed hoc tertio modo aliquid dicitur relative ex eo solum, quod aliquid refertur ad ipsum; sicut patet, quod sensibile et
+scibile vel intelligibile dicuntur relative, quia alia referuntur ad illa. Scibile enim dicitur aliquid, propter hoc, quod
+habetur scientia de ipso. Et similiter sensibile dicitur aliquid quod potest sentiri.
+[82592] In Metaphysic., lib. 5 l. 17 n. 27
+Unde non dicitur relative propter aliquid quod sit ex eorum parte, quod sit qualitas, vel quantitas, vel actio, vel passio,
+sicut in praemissis relationibus accidebat; sed solum propter actiones aliorum, quae tamen in ipsa non terminantur. Si
+enim videre esset actio videntis perveniens ad rem visam, sicut calefactio pervenit ad calefactibile; sicut calefactibile
+refertur ad calefaciens, ita visibile referretur ad videntem. Sed videre et intelligere et huiusmodi actiones, ut in nono
+huius dicetur, manent in agentibus, et non transeunt in res passas; unde visibile et scibile non patitur aliquid, ex hoc
+quod intelligitur vel videtur. Et propter hoc non ipsamet referuntur ad alia, sed alia ad ipsa. Et simile est in omnibus
+aliis, in quibus relative aliquid dicitur propter relationem alterius ad ipsum, sicut dextrum et sinistrum in columna. Cum
+enim dextrum et sinistrum designent principia motuum in rebus animatis, columnae et alicui inanimato attribui non
+possunt, nisi secundum quod animata aliquo modo se habeant ad ipsam, sicut columna dicitur dextra, quia homo est ei
+
+

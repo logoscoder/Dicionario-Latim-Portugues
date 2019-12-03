@@ -1,0 +1,56 @@
+alicuius de aliquo, per quod significatur esse; et negatio est enunciatio alicuius ab aliquo quod significat non
+esse.
+|+9 Lectio 9
+|#1 Posita divisione enunciationis, hic agit de oppositione partium enunciationis, scilicet affirmationis et
+negationis.
+Et quia enunciationem esse dixerat orationem, in qua est verum vel falsum, primo, ostendit qualiter
+enunciationes ad invicem opponantur; secundo, movet quamdam dubitationem circa praedeterminata et solvit;
+ibi: in his ergo quae sunt et quae facta sunt etc..
+Circa primum duo facit: primo, ostendit qualiter una enunciatio opponatur alteri; secundo, ostendit quod tantum
+una opponitur uni; ibi: manifestum est etc..
+Prima autem pars dividitur in duas partes: in prima, determinat de oppositione affirmationis et negationis
+absolute; in secunda, ostendit quomodo huiusmodi oppositio diversificatur ex parte subiecti; ibi: quoniam autem
+sunt etc..
+Circa primum duo facit: primo, ostendit quod omni affirmationi est negatio opposita et e converso; secundo,
+manifestat oppositionem affirmationis et negationis absolute; ibi: et sit hoc contradictio etc..
+|#2 Circa primum considerandum est quod ad ostendendum suum propositum Philosophus assumit duplicem
+diversitatem enunciationis: quarum prima est ex ipsa forma vel modo enunciandi, secundum quod dictum est
+quod enunciatio vel est affirmativa, per quam scilicet enunciatur aliquid esse, vel est negativa per quam
+significatur aliquid non esse; secunda diversitas est per comparationem ad rem, ex qua dependet veritas et
+falsitas intellectus et enunciationis.
+Cum enim enunciatur aliquid esse vel non esse secundum congruentiam rei, est oratio vera; alioquin est oratio
+falsa.
+|#3 Sic igitur quatuor modis potest variari enunciatio, secundum permixtionem harum duarum divisionum. Uno
+modo, quia id quod est in re enunciatur ita esse sicut in re est: quod pertinet ad affirmationem veram; puta cum
+socrates currit, dicimus socratem currere. Alio modo, cum enunciatur aliquid non esse quod in re non est: quod
+pertinet ad negationem veram; ut cum dicitur, Aethiops albus non est. Tertio modo, cum enunciatur aliquid esse
+quod in re non est: quod pertinet ad affirmationem falsam; ut cum dicitur, corvus est albus. Quarto modo, cum
+enunciatur aliquid non esse quod in re est: quod pertinet ad negationem falsam; ut cum dicitur, nix non est alba.
+Philosophus autem, ut a minoribus ad potiora procedat, falsas veris praeponit: inter quas negativam praemittit
+affirmativae, cum dicit quod contingit enunciare quod est, scilicet in rerum natura, non esse. Secundo autem,
+ponit affirmativam falsam cum dicit: et quod non est, scilicet in rerum natura, esse. Tertio autem, ponit
+affirmativam veram, quae opponitur negativae falsae, quam primo posuit, cum dicit: et quod est, scilicet in rerum
+natura, esse. Quarto autem, ponit negativam veram, quae opponitur affirmationi falsae, cum dicit: et quod non
+est, scilicet in rerum natura, non esse.
+|#4 Non est autem intelligendum quod hoc quod dixit: quod est et quod non est, sit referendum ad solam
+existentiam vel non existentiam subiecti, sed ad hoc quod res significata per praedicatum insit vel non insit rei
+significatae per subiectum. Nam cum dicitur, corvus est albus, significatur quod non est, esse, quamvis ipse
+corvus sit res existens.
+|#5 Et sicut istae quatuor differentiae enunciationum inveniuntur in propositionibus, in quibus ponitur verbum
+praesentis temporis, ita etiam inveniuntur in enunciationibus in quibus ponuntur verba praeteriti vel futuri
+temporis. Supra enim dixit quod necesse est enunciationem constare ex verbo vel ex casu verbi. Et hoc est quod
+subdit: quod similiter contingit, scilicet variari diversimode enunciationem circa ea, quae sunt extra praesens
+tempus, idest circa praeterita vel futura, quae sunt quodammodo extrinseca respectu praesentis, quia praesens est
+medium praeteriti et futuri.
+|#6 Et quia ita est, contingit omne quod quis affirmaverit negare, et omne quod quis negaverit affirmare: quod
+quidem manifestum est ex praemissis. Non enim potest affirmari nisi vel quod est in rerum natura secundum
+aliquod trium temporum, vel quod non est; et hoc totum contingit negare. Unde manifestum est quod omne quod
+affirmatur potest negari, et e converso.
+Et quia affirmatio et negatio opposita sunt secundum se, utpote ex opposito contradictoriae, consequens est quod
+quaelibet affirmatio habeat negationem sibi oppositam et e converso.
+Cuius contrarium illo solo modo posset contingere, si aliqua affirmatio affirmaret aliquid, quod negatio negare
+non posset.
+
+21
+
+

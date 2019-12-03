@@ -1,0 +1,61 @@
+RA3
+Ad tertium dicendum, quod pro tanto Christus etiam in hac scientia quantum ad habitum proficere non potuit,
+quia talis scientia secundum rationem sui generis ad plura se extendere non potest quam Christus per eam sciret;
+dicitur tamen in evangelio sapientia profecisse quantum ad experientiam eorum quae habitu sciebat.
+|*DE_VERITATE
+|q21 Quaestio 21
+Prologus
+PR1
+Primo utrum bonum aliquid addat super ens.
+PR2
+Secundo utrum ens et bonum convertantur secundum supposita.
+PR3
+Tertio utrum bonum secundum rationem sit prius quam verum.
+PR4
+Quarto utrum omnia sint bona bonitate prima.
+PR5
+Quinto utrum bonum creatum sit bonum per suam essentiam.
+PR6
+Sexto utrum bonum creatum consistat in modo, specie et ordine, sicut Augustinus dicit.
+|a1 Articulus 1
+TTA
+Quaestio est de bono.
+Et primo quaeritur utrum bonum aliquid addat super ens.
+TTB
+Et videtur quod sic.
+AG1
+Unumquodque enim est ens per essentiam suam. Creatura autem non est bona per essentiam, sed per
+participationem. Ergo bonum addit aliquid secundum rem supra ens.
+AG2
+Praeterea, cum bonum in ratione sua includat ens, et tamen bonum secundum rationem distinguatur ab ente;
+oportet quod ratio boni addat supra rationem entis. Sed non potest dici quod addat super ens aliquam
+negationem, sicut unum, quod addit super ens indivisionem, quia tota ratio boni in positione consistit. Ergo
+aliquid positive addit bonum super ens; et ita videtur quod aliquid realiter addat.
+AG3
+Sed dicebat, quod addit respectum ad finem. Sed contra: secundum hoc enim bonum nihil aliud esset quam ens
+relatum. Sed ens relatum concernit determinatum genus entis, quod est ad aliquid. Ergo bonum est in aliquo uno
+praedicamento determinato; quod est contra Philosophum in I ethic., ubi ponit bonum in omnibus generibus.
+AG4
+Praeterea, ut potest accipi ex dictis dionysii in IV cap. De div. Nomin., bonum est diffusivum sui et esse. Ergo
+per hoc est aliquid bonum per quod est diffusivum. Sed diffundere importat actionem quamdam; actio autem ab
+essentia procedit mediante virtute.
+Ergo aliquid dicitur esse bonum ratione virtutis superadditae ad essentiam; et sic bonum addit aliquid realiter
+super ens.
+AG5
+Praeterea, quanto magis receditur ab uno primo simplici tanto maior in rebus differentia invenitur. Sed ens et
+bonum in Deo sunt unum re, et distinguuntur ratione. Ergo in creaturis distinguuntur plus quam ratione; et ita
+distinguuntur re, cum supra distinctionem rationis non sit nisi distinctio rei.
+AG6
+Praeterea, accidentalia realiter addunt supra essentiam rei. Sed bonitas est rei creatae accidentalis; alias non
+posset bonitatem amittere.
+Ergo bonum addit aliquid realiter super ens.
+AG7
+Praeterea, omne illud quod dicitur per informationem alicuius, addit aliquid realiter super illud, eo quod nihil
+informatur seipso.
+Sed bonum dicitur per informationem, ut dicitur in commento libri de causis; ergo bonum addit aliquid supra
+ens.
+Praeterea, nihil determinatur se ipso; sed bonum determinat ens; ergo bonum addit aliquid super ens.
+AG8
+417
+
+

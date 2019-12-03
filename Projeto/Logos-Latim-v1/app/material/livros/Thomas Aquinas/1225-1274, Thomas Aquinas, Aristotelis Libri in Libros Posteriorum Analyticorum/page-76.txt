@@ -1,0 +1,61 @@
+demonstrationes procedunt, non erit opinio, sed scientia. Si autem aliquis procedat usque ad immediata per
+aliqua media vera, quae tamen vel non insint illis, de quibus dicuntur, per se, sicut definitiones quae praedicantur
+substantialiter et significant speciem rei, vel non accipiat ea ut quae sic insunt; tunc habebit opinionem, et non
+sciet vere quia et propter quid simul, si tamen procedat usque ad immediata; tunc enim per immediata opinabitur,
+et non sciet. Si vero non procedat per immediata, sed per mediata, tunc non opinabitur propter quid, sed
+opinabitur solum quia. Nam etiam scientia, quae non est propter quid et immediata, non est scientia propter quid,
+sed quia.
+|#10 Deinde cum dicit: eiusdem autem opinio et scientia etc., solvit primam dubitationem, quae est de identitate
+sciti et opinati. Ubi primo considerandum est quod non est inconveniens id quod est scitum ab uno, esse
+opinatum ab alio; quia quod unus accipit ut impossibile aliter se habere quasi scitum, alter accipit ut contingens
+aliter se habere quasi opinatum. Sed quod idem homo de eodem simul habeat opinionem et scientiam, non
+omnino est verum, sed aliquo modo. Sicut enim falsa opinio et vera opinio possunt esse quodammodo de eodem,
+sed non simpliciter, sic etiam est de opinione et scientia. Si quis enim diceret quod opinio vera et falsa essent
+penitus de eodem, sicut aliqui dicunt, puta illi qui dicebant quod omne quod alicui videtur est verum, ut dicitur in
+IV metaphys.; ille qui sic diceret, vellet consequi aliqua inconvenientia, et multa quidem alia, quae posita sunt in
+IV metaphys., quae consequuntur ex hoc, quod aliquis dicit idem esse verum et falsum; et specialiter hoc
+inconveniens consequeretur ei, quod nulla opinio esset falsa, et quod ille qui opinatur falsa, non opinaretur. Non
+ergo potest dici quod vera opinio et falsa sint eiusdem simpliciter. Sed quia idem dicitur multipliciter, contingit
+quodammodo opinionem veram et falsam esse eiusdem, et quodammodo non.
+Si enim accipiatur idem subiectum secundum rem, de quo sunt opiniones, sic de eodem potest esse opinio vera et
+falsa. Si autem accipiatur idem esse ipsum enunciabile opinatum, sic hoc est impossibile. Puta diametrum esse
+commensurabilem lateri quadrati opinatur aliquis falsa opinione, et inconveniens est dicere quod hoc enunciabile
+aliquis opinetur vera opinione. Sed secundum quod accipimus ipsum subiectum enunciabile diametrum, sic
+eiusdem potest esse opinio vera et falsa. Nam circa diametrum, unus vere opinatur quod sit incommensurabilis,
+alius falso quod sit commensurabilis. Et sic manifestum est quod id de quo est opinio et scientia, etsi sit idem
+subiecto, non tamen est idem secundum rationem.
+Est enim idem subiecto diametrum commensurari, et diametrum non commensurari, quia subiectum utriusque
+enunciabilis est idem: tamen manifestum est quod ratione diameter differt secundum quod accipitur ut
+commensurabilis, et secundum quod accipitur ut incommensurabilis.
+Et sic opinio vera et falsa possunt esse eiusdem subiecto, non autem eiusdem secundum rationem.
+Similiter etiam est et de scientia et de opinione. Nam scientia quidem est de hoc quod aliquis sciat animal, ita
+tamen quod non contingat illud non esse animal; sed opinio est de hoc quod aliquis scit animal, ita tamen quod
+contingat illud non esse animal. Puta si scientia sit quod homo vere sit id quod est animal, et sic impossibile sit
+aliter se habere; opinio vero sit de hoc quod homo non vere sit id quod est animal, et per hoc contingat aliter se
+habere. Manifestum est enim quod idem est subiectum et scitum et opinatum, quod est homo; sed non est ut
+idem ratione. Sic igitur ex dictis manifestum est quod non contingit simul omnino idem scire et opinari; quia
+simul homo haberet existimationem quod posset aliter se habere, et quod non posset aliter se habere. Sed in alio
+homine hoc contingit quod de eodem unus habet scientiam, et alius opinionem, sicut dictum est. In eodem vero
+homine non contingit ratione iam dicta.
+|#11 Deinde cum dicit: reliqua autem quomodo etc., comparat scientiam ad alios habitus qui se habent ad
+verum. Et primo, ad illos habitus qui sunt de principiis et de conclusionibus; secundo, ad habitum qui specialiter
+respicit medium; ibi: solertia autem etc.. Dicit ergo primo quod reliqua ab opinione ad cognitionem pertinentia,
+quomodo distinguantur in rationem, et intellectum, et scientiam, et artem, et prudentiam, et sapientiam, quantum
+ad aliquid pertinent ad considerationem philosophiae primae, vel etiam philosophiae naturalis; quantum autem
+ad aliquid, ad considerationem philosophiae moralis, quae dicitur ethica. Ad cuius evidentiam sciendum est quod
+Aristoteles in VI ethic. Ponit quinque quae se habent semper ad verum, scilicet artem, scientiam, sapientiam,
+prudentiam et intellectum; subiungens duo quae se habent ad verum et falsum, scilicet suspicionem et
+opinionem. Prima autem quinque se habent solum ad verum, quia important rectitudinem rationis. Sed tria
+eorum, scilicet sapientia, scientia et intellectus, important rectitudinem cognitionis circa necessaria: scientia
+quidem circa conclusiones, intellectus autem circa principia, sapientia autem circa causas altissimas, quae sunt
+causae divinae. Alia vero duo, scilicet ars et prudentia, important rectitudinem rationis circa contingentia.
+Prudentia quidem circa agibilia, idest circa actus qui sunt in operante, puta amare, odire, eligere et huiusmodi,
+quae pertinent ad actus morales, quorum est directiva prudentia.
+Ars autem importat rectitudinem rationis circa factibilia, idest circa ea quae aguntur in exteriorem materiam,
+sicut est secare et alia huiusmodi opera, in quibus dirigit ars. Hic autem addit rationem, quae pertinet ad
+deductionem principiorum in conclusiones. Determinare quidem de sapientia quid sit et quomodo se habeat, et
+de scientia et intellectu et arte, pertinet aliqualiter ad philosophiam primam; prudentia vero pertinet ad
+
+76
+
+

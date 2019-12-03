@@ -1,0 +1,63 @@
+Non igitur anima intellectiva unita est corpori.
+AG17
+Praeterea, intellectus est in potentia ad omnes formas intelligibiles, nullam earum habens in actu; sicut materia
+prima est in potentia ad omnes formas sensibiles, et nullam earum habet in actu. Sed hac ratione est prima
+materia una omnium. Ergo et intellectus est unus omnium; et sic non est unitus corpori, quod ipsum individuat.
+AG18
+Praeterea, Philosophus probat in III de anima quod si intellectus possibilis haberet organum corporale, haberet
+aliquam naturam determinatam de naturis sensibilibus, et sic non esset receptivus et cognoscitivus omnium
+formarum sensibilium.
+Sed magis forma unitur materiae quam virtus organo. Ergo si intellectus uniatur corpori ut forma, habebit
+aliquam naturam sensibilem determinatam; et sic non erit perceptivus et cognoscitivus omnium formarum
+sensibilium; quod est impossibile.
+AG19
+Praeterea, omnis forma unita materiae, est in materia recepta. Omne autem quod recipitur ab aliquo, est in eo per
+modum recipientis. Ergo omnis forma unita materiae est in ea per modum materiae. Sed modus materiae
+sensibilis et corporalis non est quod recipiat aliquid per modum intelligibilem. Cum igitur intellectus habeat esse
+intelligibile, non est forma materiae corporali unita.
+AG20
+Praeterea, si anima unitur materiae corporali, oportet quod recipiatur in ea. Sed quidquid recipitur ab eo quod est
+esse a materia receptum, est in materia receptum. Ergo si anima est unita materiae, quidquid recipitur in anima
+recipitur in materia. Sed formae intellectus non possunt recipi a materia prima; quinimmo per abstractionem a
+materia intelligibiles fiunt. Ergo anima quae est unita materiae corporali non est receptiva formarum
+intelligibilium; et ita intellectus, qui est receptivus formarum intelligibilium, non erit unitus materiae corporali.
+SC1
+Sed contra. Est quod Philosophus dicit in II de anima quod non oportet quaerere si anima et corpus sint unum,
+sicut neque de cera et figura. Sed figura nullo modo potest esse separata a cera secundum esse. Ergo nec anima
+est separata a corpore.
+Sed intellectus est pars animae, ut Philosophus dicit in III de anima.
+Ergo intellectus non est separatus a corpore secundum esse.
+SC2
+Praeterea, nulla forma est separata a materia secundum esse. Sed anima intellectiva est forma corporis. Ergo non
+est forma separata a materia secundum esse.
+CO
+Respondeo. Ad evidentiam huius quaestionis considerandum est, quod ubicumque invenitur aliquid quandoque
+in potentia, quandoque in actu, oportet esse aliquod principium per quod res illa sit in potentia: sicut homo
+quandoque est sentiens actu, et quandoque in potentia; et propter hoc in homine oportet ponere principium
+sensitivum, quod sit in potentia ad sensibilia: si enim esset semper sentiens actu, formae sensibilium inessent
+semper actu principio sentiendi. Similiter cum homo inveniatur quandoque intelligens actu, quandoque
+intelligens in potentia tantum; oportet in homine considerare aliquod intellectivum principium, quod sit in
+potentia ad intelligibilia. Et hoc principium nominat Philosophus in III de anima intellectum possibilem.
+Hunc igitur intellectum possibilem necesse est esse in potentia ad omnia quae sunt intelligibilia per hominem, et
+receptivum eorum, et per consequens denudatum ab his: quia omne quod est receptivum aliquorum, et in
+potentia ad ea, quantum de se est, est denudatum ab eis; sicut pupilla, quae est receptiva omnium colorum, caret
+omni colore.
+Homo autem natus est intelligere formas omnium sensibilium rerum. Oportet igitur intellectum possibilem esse
+denudatum, quantum in se est, ab omnibus sensibilibus formis et naturis; et ita oportet quod non habeat aliquod
+organum corporeum. Si enim haberet aliquod organum corporeum, determinaretur ad aliquam naturam
+sensibilem, sicut potentia visiva determinatur ad naturam oculi. Per hanc Philosophi demonstrationem excluditur
+positio Philosophorum antiquorum, qui ponebant intellectum non differre a potentiis sensitivis; vel quicumque
+alii posuerunt principium quo intelligit homo, esse aliquam formam vel virtutem permixtam corpori, sicut aliae
+formae aut virtutes materiales.
+Sed hoc quidam fugientes, in contrarium dilabuntur errorem. Existimant enim sic intellectum possibilem esse
+denudatum ab omni natura sensibili, et impermixtum corpori, quod sit quaedam substantia secundum esse a
+corpore separata quae sit in potentia ad omnes formas intelligibiles. Sed haec positio stare non potest. Non enim
+inquirimus de intellectu possibili nisi secundum quod per eum intelligit homo: sic enim Aristoteles in eius
+notitiam devenit. Quod patet ex hoc quod dicit in III de anima, incipiens tractare de intellectu possibili: de parte
+autem animae, qua cognoscit anima et sapit, considerandum est etc.; et iterum: dico autem intellectum
+possibilem, quo intelligit anima. Si autem intellectus possibilis esset substantia separata, impossibile esset quod
+eo intelligeret homo: non enim est possibile, si aliqua substantia operatur aliquam operationem, quod illa
+operatio sit alterius substantiae ab ea diversa. Licet enim duarum substantiarum diversarum una possit alteri esse
+8
+
+

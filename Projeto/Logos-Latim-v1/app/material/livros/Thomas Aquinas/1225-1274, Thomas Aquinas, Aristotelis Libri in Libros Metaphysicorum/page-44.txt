@@ -1,0 +1,57 @@
+Dicit autem ex aliquo parvo et magno, quia parvum et magnum etiam in speciebus ponebantur, ut dictum est, sed
+secundum quod per situm determinatur et quodammodo particulari ad genus magnitudinum, constituunt primo
+lineam, et deinde alias magnitudines. Planum autem, idest superficiem eadem ratione dicebant componi ex lato
+et arcto, et corpus ex profundo et humili.
+|#17 Deinde cum dicit attamen quomodo hic obiicit contra praedictam positionem duabus rationibus: quarum
+prima talis est.
+Quorum principia sunt diversa, ipsa etiam sunt diversa; sed principia dictarum magnitudinum secundum
+praedictam positionem sunt diversa. Latum enim et arctum, quae ponuntur principia superficiei, sunt alterius
+generis quam profundum et humile, quae ponuntur principia corporis. Et similiter potest dici de longo et brevi
+quod differunt ab utroque; ergo etiam linea et superficies et corpus erunt adinvicem distincta.
+Quomodo ergo poterat dici quod superficies haberet in se lineam, et quod corpus habeat lineam et superficiem?
+et ad huius rationis confirmationem inducit simile de numero. Multum enim et paucum, quae simili ratione
+ponuntur principia rerum, sunt alterius generis a longo et brevi, lato et stricto, profundo et humili.
+Et ideo numerus non continetur in his magnitudinibus, sed est separatus per se.
+Unde et eadem ratione nec superius inter praedicta erit etiam in inferioribus, sicut linea non in superficie, nec
+superficies in corpore.
+|#18 Sed quia posset dici, quod quaedam praedictorum contrariorum sunt genera aliorum, sicut quod longum
+esset lati genus, et latum genus profundi; hoc removet tali ratione. Sicut habent se principia adinvicem, et
+principiata: si igitur latum est genus profundi, et superficies erit genus corporis. Et ita corpus erit aliquod
+planum, idest aliqua species superficiei: quod patet esse falsum.
+|#19 Deinde cum dicit amplius puncta hic ponit secundam rationem, quae sumitur ex punctis; circa quam Plato
+videtur dupliciter deliquisse. Primo quidem, quia cum punctus sit terminus lineae, sicut linea superficiei, et
+superficies corporis; sicut posuit aliqua principia, ex quibus componuntur praedicta, ita debuit aliquid ponere ex
+quo existerent puncta; quod videtur praetermisisse.
+|#20 Secundo, quia circa puncta videbatur diversimode sentire. Quandoque enim contendebat totam doctrinam
+geometricam de hoc genere existere, scilicet de punctis, inquantum scilicet puncta ponebat principia et
+substantiam omnium magnitudinum.
+Et hoc non solum implicite, sed etiam explicite punctum vocabat principium lineae, sic ipsum definiens.
+Multoties vero dicebat, quod lineae indivisibiles essent principia linearum, et aliarum magnitudinum; et hoc
+genus esse, de quo sit geometria, scilicet lineae indivisibiles. Et tamen per hoc quod ponit ex lineis
+indivisibilibus componi omnes magnitudines, non evadit quin magnitudines componantur ex punctis, et quin
+puncta sint principia magnitudinum. Linearum enim indivisibilium necessarium esse aliquos terminos, qui non
+possunt esse nisi puncta. Unde ex qua ratione ponitur linea indivisibilis principium magnitudinum, ex eadem
+ratione et punctum principium magnitudinis ponitur.
+|+17 Lectio 17
+|#1 Hic improbat positionem Platonis quantum ad hoc, quod ponebat de rerum principiis.
+Et primo quantum ad hoc quod ponebat principia essendi. Secundo quantum ad hoc quod ponebat principia
+cognoscendi, ibi, quomodo autem aliquis etc..
+Circa primum ponit sex rationes; quarum prima sumitur ex hoc, quod genera causarum praetermittebat. Unde
+dicit quod omnino sapientia, scilicet philosophia habet inquirere causas de manifestis, idest de his, quae sensui
+apparent.
+Ex hoc enim homines inceperunt philosophari, quod causas inquisiverunt, ut in prooemio dictum est. Platonici
+autem, quibus se connumerat, rerum principia praetermiserunt, quia nihil dixerunt de causa efficiente, quae est
+principium transmutationis. Causam vero formalem putaverunt se assignare ponentes ideas. Sed, dum ipsi
+putaverunt se dicere substantiam eorum, scilicet sensibilium, dixerunt quasdam esse alias substantias separatas
+ab istis diversas. Modus autem, quo assignabant illa separata esse substantias horum sensibilium, est
+supervacuus, idest efficaciam non habens nec veritatem. Dicebant enim quod species sunt substantiae eorum
+inquantum ab istis participantur.
+Sed hoc quod de participatione dicebant, nihil est, sicut ex supradictis patet. Item species, quas ipsi ponebant,
+non tangunt causam finalem, quod tamen videmus in aliquibus scientiis, quae demonstrant per causam finalem,
+et propter quam causam omne agens per intellectum et agens per naturam operatur, ut secundo physicorum
+ostensum est. Et sicut ponendo species non tangunt causam quae dicitur finis, ita nec causam quae dicitur
+principium, scilicet efficientem, quae fini quasi opponitur.
+
+44
+
+

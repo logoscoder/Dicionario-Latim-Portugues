@@ -1,0 +1,61 @@
+speciei uocabulum, in speciei autem descriptione sit notius generis, quod fieri nequit. Si enim generis uocabulum notius
+est quam speciei, in definitione generis speciei nomine uti non debuit. Quodsi speciei nomen facilius intellegitur quam
+generis, in definitione speciei nomen generis non fuit apponendum. Cui quaestioni occurrit dicens:
+NOSSE ASTEM OPORTET <QUOD>, QUONIAM ET GENUS ALICUIUS EST GENUS ET SPECIES
+ALICUIUS EST SPECIES, IDCIRCO NECESSE EST ET IN UTRORUMQUE RATIONIBUS UTRISQUE UTI.
+Omnia quaecumque ad aliquid praedicantur, ex his de quibus praedicantur, substantiam sortiuntur; quodsi
+definitio uniuscuiusque substantiae proprietatem debet ostendere, iure ex alterutro fit descriptio in his quae inuicem
+referuntur. Ergo quoniam genus speciei genus est et substantiam suam et /203/ uocabulum genus ab specie sumit, in
+definitione generis speciei nomen est aduocandum, quoniam uero species id quod est sumit el genere, nomen generis in
+speciei descriptione non fuit relinquendum. Quoniam uero diuersae sunt specierum qualitates -- aliae enim sunt species,
+quae et genera esse possunt, aliae, quae in sola speciei permanent proprietate neque in naturam generis transeunt -idcirco multiplicem speciei definitionem dedit dicens:
+ASSIGNANT ERGO ET SIC SPECIEM: SPECIES EST QUOD PONITUR SUB GENERE ET DE QUO
+GENUS IN EO QUOD QUID SIT PRAEDIAATUR. AMPLIUS AUTEM SIC QUOQUE: SPECIES EST QUOD DE
+PLURIBUS ET DIFFERENTIBUS NUMERO IN EO QUOD QUID SIT PRAEDICATUR. SED HAEC QUIDEM
+ASSIGNATIO SPECIALISSIMAE EST ET QUAE SOLUM SPECIES EST, ALIAE VERO ERUNT ETIAM NON
+SPECIALISSIMARUM.
+Tribus speciem definitionibus informauit, quarum quidem duae omni speciei conueniunt omnesque quae
+quolibet modo species appellantur, sua conclusione determinant, tertia uero non ita. Cum enim duae sint specierum
+formae, una quidem, cum species alicuius aliquando etiam alterius genus esse potest, altera, cum tantum species est
+neque in formam generis /204/ transit, priores quidem duae, illa scilicet in qua dictum est id esse speciem quod sub
+genere ponitur, et rursus in qua dictum est id esse speciem de quo genus in eo quod quid sit praedicatur, omni speciei
+conueniunt. Id enim tantum hae definitiones monstrant quod sub genere ponitur. Nam et ea quae dicit id esse speciem
+quod sub genere ponitur, eam uim significat speciei qua refertur ad genus, et ea quae dicit id esse speciem de quo genus
+in eo quod quid sit praedicatur, eam rursus significat speciei formam quam retinet ex generis praedicatione. Idem est
+autem et poni sub genere et de eo praedicari genus, sicut idem est supponi generi et ei genus praeponi. Quodsi omnis
+species sub genere collocatur, manifestum est omnem speciem hoc ambitu descriptionis includi. Sed tertia definitio de
+ea tantum specie loquitur quae numquam genus est et quae solum species restat. Haec autem species ea est quae de
+differentibus specie minime praedicatur. Nam si id habet genus plus ab specie, quod de differentibus specie praedicatur,
+si qua species praedicetur quidem de subiectis sed non de specie differentibus, ea solum erit superioris generis species,
+subiectorum uero non erit genus. Igitur praedicatio ea quam species habet ad subiecta, si talis sit, ut de differentibus
+specie non praedicetur, distinguit eam ab his speciebus /205/ quae genera esse possunt et monstrat eam solum speciem
+esse nec generis praedicationem tenere. Illa igitur tertia descriptio speciei quae magis species ac specialissima dicitur,
+definitur hoc modo: SPECIES EST QUOD DE PLURIBUS NUMERO DIFFERENTIBUS IN EO QUOD QUID SIT
+PRAEDICATUR, UT HOMO; praedicatur enim de Cicerone ac Demosthene et caeteris qui a se, ut dictum est, non
+specie sed numero discrepant.
+[ 3.03 ]
+[3.03.01] Ex tribus igitur definitionibus duae quidem et specialissimis et non specialissimis aptae sunt, haec
+uero tertia solam ultimam speciem claudit. Ut autem id apertius liqueat, rem paulo altius orditur eamque congruis
+inlustrat exemplis:
+PLANUM AUTEM ERIT QUOD DICITUR HOC MODO. IN UNOQUOQUE PRAEDICAMEUTO SUNT
+QUAEDAM GENERALISSIMA ET RURSUS ALIA SPECIALISSIMA ET INTER GENERALISSIMA ET
+SPECIALISSIMA SUNT ALIA. EST AUTEM GENERALISSIMUM QUIDEM SUPER QUOD NULLUM ULTRA
+ALIUD SIT SUPERUENIENS GENUS, SPECIALISSIMUM AUTEM, POST QUOD NON ERIT ALIN INFERIOR
+SPECIES, INTER GENERALISSIMUM AUTEM ET SPECIALISSIMUM ET GENERA ET SPECIES SUNT
+EADEM, AD ALIUD /206/ QUIDEM ET AD ALIUD SUMPTA. SIT AUTEM IN UNO PRAEDICAMENTO
+MANIFESTUM QUOD DICITUR. SUBSTANTIA EST QUIDEM ET IPSA GENUS, SUB HAC AUTEM EST
+CORPUS, SUB CORPORE VERO ANIMATUM CORPUS, SUB QUO ANIMAL, SUB ANIMALI VERO
+RATIONALE ANIMAL, SUB QUO HOMO, SUB HOMINE VERO SOCRATES ET PLATO ET QUI SUNT
+PARTICULARES HOMINES. SED HORUM SUBSTANTIA QUIDEM GENERALISSIMUM EST ET QUOD
+GENUS SIT SOLUM, HOMO VERO SPECIALISSIMUM ET QUOD SPECIES SOLUM SIT, CORPUS VERO
+SPECIES QUIDEM EST SUBSTANTIAE, GENUS VERO CORPORIS ANIMATI; ET ANIMATUM CORPUS
+SPECIES QUIDEM EST CORPORIS, GENUS VERO ANIMALIS.
+ANIMAL AUTEM SPECIES QUIDEM EST CORPORIS ANIMATI, GENUS VERO ANIMALIS
+RATIONALIS SED RATIONALE ANIMAL SPECIES QUIDEM EST ANIMALIS, GENUS AUTEM HOMINIS,
+HOMO VERO SPECIES QUIDEM EST RATIONALIS ANIMALIS, NON AUTEM ETIAM GENUS
+PARTICULARIUM HOMINUM SED SOLUM SPECIES. ET OMNE QUOD ANTE INDIVIDUA PROXIMUM
+EST, SPECIES ERIT SOLUM, NON ETIAM GENUS.
+Praediximus ab Aristotele decem praedicamenta esse disposita, /207/ quae idcirco praedicamenta uocauerit,
+quoniam de caeteris omnibus praedicantur. Quicquid uero de alio praedicatur, si non potuerit praedicatio conuerti,
+
+

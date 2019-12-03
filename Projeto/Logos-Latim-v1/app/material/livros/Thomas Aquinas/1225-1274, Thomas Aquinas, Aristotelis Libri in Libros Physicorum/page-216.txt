@@ -1,0 +1,64 @@
+Necessitatem autem huius secundae rationis positae ostendit cum subdit:
+quod autem non in infinito etc..
+Posset enim aliquis contra primam rationem cavillando dicere, quod sicut
+totam magnitudinem ab pertransit in tempore infinito, ita et quamlibet
+partem eius; et sic partem be non pertransibit in tempore finito. Sed quia
+non potest dari quod quamlibet magnitudinem pertranseat tempore infinito,
+oportuit inducere secundam rationem, quod be sit quaedam alia magnitudo,
+quam tempore finito pertranseat.
+Et hoc est quod subdit, quod manifestum est quod mobile non pertransit
+magnitudinem quae est be in infinito tempore, si accipiatur in altera
+finitum tempus, idest si accipiatur aliqua alia magnitudo a prima, quae
+dicatur be, quam pertransit tempore finito. Si enim in minori tempore
+pertransit partem magnitudinis quam totum, necesse est hanc magnitudinem
+quae est be, finitam esse, altero termino existente finito, scilicet ab.
+Quasi dicat: si tempus in quo pertransit be, est finitum, et minus tempore
+infinito in quo pertransit ab, necesse est quod be sit minor quam ab; et
+ita quod be sit finita, cum ab finita sit.
+|#8
+Deinde cum dicit: eadem autem demonstratio etc., ponit quod eadem
+demonstratio est ducens ad impossibile, si dicatur quod longitudo sit
+infinita et tempus finitum. Quia accipietur aliquid longitudinis infinitae,
+quod erit finitum; sicut accipiebatur aliquid temporis infiniti, quod est
+finitum.
+|#9
+Deinde cum dicit: manifestum igitur ex dictis etc., probat quod
+nullum continuum est indivisibile. Et primo dicit quod inconveniens
+sequitur si hoc ponatur; secundo ponit demonstrationem ad illud
+inconveniens ducentem, ibi: quoniam enim in omni tempore etc..
+Dicit ergo primo manifestum esse ex dictis, quod neque linea neque planum,
+idest superficies, neque omnino aliquod continuum, est atomus, idest
+indivisibile: tum propter praedicta, quia videlicet impossibile est aliquod
+continuum ex indivisibilibus componi, cum tamen ex continuis possit componi
+continuum; tum etiam quia sequeretur quod indivisibile divideretur.
+|#10
+Deinde cum dicit: quoniam enim in omni tempore etc., ponit
+demonstrationem ad hoc inconveniens ducentem: in qua primo praesupponit
+quaedam superius manifestata. Quorum unum est, quod in omni tempore
+contingat velocius et tardius moveri. Secundum est quod velocius plus
+pertransit de magnitudine in aequali tempore. Tertium est quod contingit
+esse excessum velocitatis ad velocitatem, et longitudinis pertransitae ad
+longitudinem, secundum diversas proportiones: puta secundum duplicem, quae
+est proportio duorum ad unum; et secundum hemioliam, quae habet totum et
+dimidium, quae alio nomine dicitur sexquialtera, ut proportio trium ad duo;
+vel secundum quantamcumque aliam proportionem.
+Ex his autem suppositis sic procedit. Sit haec proportio velocis ad velox,
+ut inveniatur aliquid velocius altero secundum hemiolium, idest
+sexquialteram proportionem; et sit ita, quod velocius pertranseat unam
+magnitudinem quae sit abcd, compositam ex tribus magnitudinibus
+indivisibilibus, quarum una sit ab, alia bc, tertia cd. In eodem autem
+tempore oportet quod tardius secundum praedictam proportionem pertranseat
+magnitudinem compositam ex duabus indivisibilibus magnitudinibus, quae sit
+magnitudo ezi. Et quia tempus dividitur sicut et magnitudo, necesse est
+quod tempus in quo velocius pertransit tres indivisibiles magnitudines,
+dividatur in tria indivisibilia; quia oportet quod aequale in aequali
+tempore pertranseat. Sit ergo tempus klmn divisum in tria indivisibilia.
+Sed quia tardius in eodem tempore movetur per ezi, quae sunt duae
+magnitudines indivisibiles, necesse est quod tempus dividatur in duo media:
+et sic sequetur quod indivisibile dividatur. Oportebit enim quod tardius
+unam magnitudinem indivisibilem pertranseat in uno indivisibili tempore et
+dimidio.
+
+216
+
+

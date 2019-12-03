@@ -1,0 +1,59 @@
+quid uel hoc ahquid, siue quantum siue ad aliquid, siue quale siue quodcumque aliud, dummodo per primam
+propositionem denotetur praedicatum uere dici uel remoueri ab omni illo de quo dicitur subiectum et per
+secundam propositionem denotetur illud quod prius fuit subiectum non aequiuoce acceptum dici de assumpto, et
+postea in conclusione concludatur illud quod fuit praedicatum in prima dici uel remoueri de illo praecise quod
+fuit subiectum in secunda propositione.
+Et est hic aduertendum quod ad probandum coniugationem inutilem uel modum inutilem non oportet
+inuenire instantiam in terminis substantialibus, sicut aliqui errantes dicunt, sed sufficit inuenire instantiam in
+quibuscumque terminis, siue substantialibus siue accidentalibus siue quibuscumque. Unde et Aristoteles
+frequenter per tales terminos instat in libro Priorum, sicut manifeste patet ibidem. Et ideo quatuor modi primae
+figurae tenent in omnibus terminis, nec refert utrum sumatur sub terminus substantialis uel accidentialis, quale
+quid uel hoc ahquid, siue quantum siue ad aliquid, siue quale siue quodcumque aliud, dummodo per primam
+propositionem denotetur praedicatum uere dici uel remoueri ab omni illo de quo dicitur subiectum et per
+secundam propositionem denotetur illud quod prius fuit subiectum non aequiuoce acceptum dici de assumpto, et
+postea in conclusione concludatur illud quod fuit praedicatum in prima dici uel remoueri de illo praecise quod
+fuit subiectum in secunda propositione.
+Ex isto sequitur quod tales sillogismi sunt boni 'omne coloratum est; omne album est coloratum; ergo
+omne album est'; 'omne animal est homo; omnis asinus est animal; ergo omnis asinus est homo'. Et ideo errat
+Magister
+Abstractionum assignando in praedictis syllogismis fallaciam accidentis, cum isti syllogismi regulentur
+per dici de omni et sint de se euidentes.
+Abstractionum assignando in praedictis syllogismis fallaciam accidentis, cum isti syllogismi regulentur
+per dici de omni et sint de se euidentes.
+Similiter tales syllogismi sunt boni, nisi aequiuocatio impediat, 'omnis homo continetur in genere
+substantiae; album est homo; igitur album continetur in genere substantiae'; 'nullus homo est aggregatum per
+accidens; homo albus est homo; igitur homo albus non est aggregatum per accidens'; 'nullus homo distinguitur ab
+homine; homo albus est homo; igitur homo albus non distinguitur ab homine', 'nullus homo est genus; animal est
+homo, ergo animal non est genus', et ceteri huiusmodi, in quibus tamen uolunt aliqui moderni assignare fallaciam
+accidentis, nescientes naturam syllogismi nec fallaciae accidentis.
+Similiter tales syllogismi sunt boni, nisi aequiuocatio impediat, 'omnis homo continetur in genere
+substantiae; album est homo; igitur album continetur in genere substantiae'; 'nullus homo est aggregatum per
+accidens; homo albus est homo; igitur homo albus non est aggregatum per accidens'; 'nullus homo distinguitur ab
+homine; homo albus est homo; igitur homo albus non distinguitur ab homine', 'nullus homo est genus; animal est
+homo, ergo animal non est genus', et ceteri huiusmodi, in quibus tamen uolunt aliqui moderni assignare fallaciam
+accidentis, nescientes naturam syllogismi nec fallaciae accidentis.
+Aduertendum est tamen quod numquam syllogismus est regulatus per dici de omni uel per dici de nullo
+quando aliquis terminus aequiuocus sumitur. Et ideo quia in aliquibus praedictis exemplis potest terminus accipi
+aequiuoce in altera praemissa et in conclusione, ideo potest ibi assignari fallacia aequiuocationis; et conclusione
+accepta in uno sensu est bonus syllogismus, et accepta in alio sensu non ualebit, sed erit fallacia aequiuocationis.
+Verbi gratia sic arguendo 'nullus homo est genus; animal est homo; igitur animal non est genus' ista conclusio
+'animal non est genus' est distinguenda, eo quod li animal potest stare persolialiter siue pro suis significatis, Vel
+potest stare simpliciter siue pro intentione animae siue conceptu. Si primo modo, sic est bonus syllogismus,
+regulatus per dici de omni; si secundo modo, sic non ualet, nec regulatus per dici de omni, nisi solum uocaliter,
+propter hoc quod 'animal' aequiuoce accipitur in minore et in conclusione.
+Aduertendum est tamen quod numquam syllogismus est regulatus per dici de omni uel per dici de nullo
+quando aliquis terminus aequiuocus sumitur. Et ideo quia in aliquibus praedictis exemplis potest terminus accipi
+aequiuoce in altera praemissa et in conclusione, ideo potest ibi assignari fallacia aequiuocationis; et conclusione
+accepta in uno sensu est bonus syllogismus, et accepta in alio sensu non ualebit, sed erit fallacia aequiuocationis.
+Verbi gratia sic arguendo 'nullus homo est genus; animal est homo; igitur animal non est genus' ista conclusio
+'animal non est genus' est distinguenda, eo quod li animal potest stare persolialiter siue pro suis significatis, Vel
+potest stare simpliciter siue pro intentione animae siue conceptu. Si primo modo, sic est bonus syllogismus,
+regulatus per dici de omni; si secundo modo, sic non ualet, nec regulatus per dici de omni, nisi solum uocaliter,
+propter hoc quod 'animal' aequiuoce accipitur in minore et in conclusione.
+Est igitur regula generalis quod quando praemissae disponuntur in modo et in figula, et propositiones
+sunt de praesenti, et aduerbialis determinatio uel aequiualens uniformiter accipitur uel non accipitur, semper est
+bonus syllogismus, nisi aequiuocatio impediat uel accentus uel amphibolia uel compositio et diuisio uel fallacia
+secundum quid et simpliciter, pro insolubilibus. Et tunc in uno sensu est bonus syllogismus et in alio sensu erit
+219
+
+

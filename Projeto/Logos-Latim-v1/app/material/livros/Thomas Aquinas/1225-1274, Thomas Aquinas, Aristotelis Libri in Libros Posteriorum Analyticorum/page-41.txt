@@ -1,0 +1,59 @@
+|#5 Deinde cum dicit: simplicis quidem igitur etc., ostendit quomodo praedictae ignorantiae causantur. Et primo
+quomodo causatur ignorantia, quae est per syllogismum; secundo, quomodo proveniat ignorantia homini sine
+syllogismo; ibi: manifestum est autem etc.. Circa primum duo facit; primo, ostendit quomodo causetur ignorantia
+per syllogismum in primis et immediatis; secundo, quomodo causetur in his, quae non sunt prima et immediata;
+ibi: in his autem quae non individua etc.. Circa primum duo facit: primo, ostendit quomodo causetur ignorantia,
+qua existimatur esse quod non est; secundo, quomodo causetur ignorantia, qua existimatur non esse quod est; ibi:
+quae vero ipsius non esse etc.. Circa primum tria facit: primo, proponit modum, quo praedicta ignorantia
+communiter causatur; secundo, assignat diversitates circa hoc contingentes; ibi: contingit quidem etc.; tertio,
+respondet tacitae quaestioni; ibi: ipsius quidem igitur esse etc..
+|#6 Dicit ergo primo quod falsae opinionis, quam supra vocavit simplicem, est simplex deceptio, idest uno solo
+modo ad hoc pervenitur. Non enim causatur ex ratione, quae diversificari potest, sed magis ex defectu rationis,
+qui non diversificatur per diversos modos, sicut nec aliae negationes secundum propriam rationem. Sed quia
+ratio falsa multipliciter variari potest, inde est quod huiusmodi ignorantia, quae fit per syllogismum, multipliciter
+accidere potest, secundum quod multipliciter potest esse falsus syllogismus.
+Ponit autem communem modum dicens: non sit enim a in nullo b individualiter, idest sit haec propositio vera
+immediata, nullum b est a: ponuntur enim duae negationes, loco unius; puta, si dicamus, nulla quantitas est
+substantia, secundum doctrinam supra positam de negativis immediatis.
+Si quis ergo concludat oppositum huius, per aliquem syllogismum, ostendens scilicet omne b esse a, accipiens
+pro medio c, erit deceptio per syllogismum.
+|#7 Deinde cum dicit: contingit quidem igitur etc., ostendit quot modis potest hoc variari.
+Est autem sciendum quod falsa conclusio non concluditur nisi falso syllogismo. Syllogismus autem potest esse
+falsus dupliciter. Uno modo, quia deficit in forma syllogistica. Et hic non est syllogismus, sed apparens. Alio
+modo, quia utitur falsis propositionibus. Et hic quidem est syllogismus propter syllogisticam formam, est autem
+falsus propter falsas propositiones assumptas. In disputatione ergo dialectica, quae fit circa probabilia, usus est
+utriusque falsi syllogismi, quia talis disputatio procedit ex communibus. Et ita in ea error attendi potest et circa
+materiam quam assumit, quae est communis, et etiam circa formam, quae est communis. Sed in disputatione
+demonstrativa, quae est circa necessaria, non est usus, nisi illius syllogismi qui est falsus propter materiam; quia,
+ut dicitur in I topicorum, paralogismus disciplinae procedit ex propriis disciplinae, sed non ex veris. Unde, cum
+forma syllogistica sit inter communia computanda, paralogismus disciplinae, de quo nunc agitur, non peccat in
+forma, sed solum in materia, et circa propria, non circa communia.
+Et ideo primo, ostendit quomodo huiusmodi syllogismus procedat ex duabus falsis; secundo, quomodo procedat
+ex altera falsa; ibi: sed alteram contingit etc.. Primum autem contingit dupliciter, quia falsa propositio, aut est
+contraria verae, aut contradictoria. Primo ergo ostendit quomodo huiusmodi syllogismus procedat ex duabus
+falsis contrariis veris; secundo, quomodo accipitur contradictio; ibi: potest autem sic se habere etc..
+|#8 Dicit ergo primo quod in praedicto syllogismo deceptionem causante, contingit quandoque utrasque
+propositiones esse falsas, et quandoque alteram tantum. Utrasque autem falsas, uno modo si accipiamus
+contrarias verarum.
+Habeat enim ita se c ad a et ad b, quod nullum c sit a, et quod nullum b sit c. Si ergo accipiantur contraria horum,
+scilicet, omne c est a; omne b est c; utraeque propositiones erunt falsae totaliter. Puta si dicam: omnis qualitas est
+substantia; omnis quantitas est qualitas; ergo omnis quantitas est substantia.
+|#9 Deinde cum dicit: potest autem sic se habere etc., ostendit quomodo possunt esse ambae falsae, et non sunt
+contrariae veris, sed contradictoriae.
+Puta, si sic se habeat c ad a et ad b, quod nec contineatur totaliter sub a, neque universaliter insit b. Puta si
+accipiamus, perfectum vel ens in actu, et procedamus sic: omne perfectum est substantia; omnis quantitas est
+perfecta; ergo etc.. Manifestum est quod utraque est falsa, sed non totaliter. Sunt enim contradictoriae earum
+verae, scilicet, quoddam perfectum non est substantia, et, quaedam quantitas non est perfecta.
+Contrariae autem sunt falsae, scilicet, nullum perfectum est substantia, et nulla quantitas est perfecta.
+Quod autem c non universaliter insit b (idest, quod ista non sit vera: omnis quantitas est perfecta, quae erat
+minor; ut, omne b est c) probat per hoc, quod b non potest contineri sub aliquo toto, quod de eo universaliter
+praedicetur.
+Et hoc ideo, quia haec propositio: nullum b est a, dicebatur esse immediata, quod est a non inesse b primo.
+Dictum est autem supra illas negativas esse immediatas, quarum neuter terminorum est sub aliquo toto.
+Sed videtur haec probatio non esse sufficiens, quia de eo etiam quod non est sub aliquo toto, sicut species sub
+genere, potest aliquid universaliter praedicari. Non enim solum genus aut differentia universaliter praedicatur,
+sed etiam proprium.
+
+41
+
+

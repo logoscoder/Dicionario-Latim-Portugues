@@ -1,0 +1,53 @@
+Nam privatio nihil aliud est, quam negatio in subiecto determinato. Quandoque etiam contrarium aequiparatur
+negationi in aliquo genere, sicut in numeris idem est impar quod non par secundum consequentiam. Sicut ergo
+necesse est affirmare vel negare, ita necesse est alterum eorum, quae per se insunt, proprio inesse subiecto.
+Deinde epilogat dicens: de omni quidem etc..
+Quod est planum.
+|+11 Lectio 11
+|#1 Postquam Philosophus determinavit de dici de omni et per se, hic determinat de universali. Et dividitur in
+duas partes: in prima, ostendit quid sit universale; in secunda, ostendit quomodo in acceptione universalis
+contingit errare; ibi: oportet autem non latere etc.. Circa primum duo facit: primo, ostendit quid sit universale;
+secundo, ostendit quomodo demonstrator universali utatur; ibi: demonstratio autem per se etc.. Circa primum
+duo facit: primo, ostendit quod universale continet in se et dici de omni et per se; secundo, ostendit quid supra ea
+addat; ibi: universale autem etc..
+|#2 Ad evidentiam autem eorum, quae hic dicuntur, sciendum est quod universale non hoc modo hic accipitur,
+prout omne quod praedicatur de pluribus universale dicitur, secundum quod Porphyrius determinat de quinque
+universalibus; sed dicitur hic universale secundum quandam adaptationem vel adaequationem praedicati ad
+subiectum, cum scilicet neque praedicatum invenitur extra subiectum, neque subiectum sine praedicato.
+|#3
+His autem visis, sciendum est quod circa primum tria facit. Primo dicit quod universale, scilicet
+praedicatum, est quod et de omni est, idest universaliter praedicatur de subiecto, et etiam per se, scilicet inest ei,
+idest convenit subiecto secundum quod ipsum subiectum est. Multa enim universaliter de aliquibus praedicantur,
+quae non conveniunt eis per se, et secundum quod ipsa.
+Sicut omnis lapis coloratus est; non tamen secundum quod lapis, sed secundum quod est superficiem habens.
+|#4 Secundo; ibi: manifestum igitur etc., infert quoddam corollarium ex dictis, dicens quod, ex quo universale
+est, quod per se inest; quae autem per se insunt ex necessitate insunt, ut supra ostensum est; manifestum est quod
+universalia praedicata, prout hic sumuntur, ex necessitate insunt rebus, de quibus praedicantur.
+|#5 Tertio; ibi: per se autem etc., ne aliquis crederet aliud esse quod in definitione universalis dixerat per se, et
+secundum quod ipsum est, ostendit quod per se et secundum quod ipsum est, idem est. Sicut lineae per se inest
+punctum primo modo, et rectitudo secundo modo: nam utrunque inest ei secundum quod linea est. Et e converso
+triangulo secundum quod triangulus est insunt duo recti, idest quod valet duos rectos, quia per se triangulo inest.
+|#6 Deinde cum dicit: universale autem etc., ostendit quid addat universale supra dici de omni et per se. Et circa
+hoc duo facit. Primo, dicit quod tunc est universale praedicatum, cum non solum in quolibet est de quo
+praedicatur, sed et primo demonstratur inesse ei, de quo praedicatur.
+|#7 Secundo; ibi: ut duos rectos habere etc., manifestat per exemplum, dicens quod habere tres angulos aequales
+duobus rectis, non inest cuilibet figurae universaliter: licet hoc de figura demonstretur, quia de triangulo
+demonstratur qui est figura; sed tamen non cuilibet figurae inest, nec demonstrator in sua demonstratione utitur
+qualibet figura. Quadrangulus enim figura quaedam est, sed non habet tres duobus rectis aequales.
+Isosceles autem, idest triangulus duorum aequalium laterum, habet quidem universaliter tres angulos aequales
+duobus rectis, sed non convenit primo isosceli, sed prius triangulo, quia isosceli convenit, in quantum est
+triangulus. Quod igitur primo demonstratur habere duos rectos, aut quodcunque aliud huiusmodi, huic primo
+inest praedicatum universale, sicut triangulo.
+|#8 Deinde cum dicit: et demonstratio etc., ostendit qualiter demonstrator universali utatur, et dicit quod
+demonstratio est per se huius universalis: sed aliorum est quodammodo et non per se. Demonstrator enim
+demonstrat passionem de proprio subiecto: et si demonstret de aliquo alio, hoc non est nisi in quantum pertinet
+ad illud subiectum.
+Sicut passionem trianguli probat de figura et isoscele, in quantum quaedam figura triangulus est, et triangulus
+quidam isosceles est. Quod autem non primo inest isosceli habere tres, hoc non est quia non universaliter
+praedicetur de eo, sed quia est frequentius, idest in pluribus quam isosceles, cum hoc commune sit omni
+triangulo.
+|+12 Lectio 12
+
+17
+
+

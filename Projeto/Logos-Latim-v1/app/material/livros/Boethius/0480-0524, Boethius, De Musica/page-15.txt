@@ -1,0 +1,62 @@
+Superparticularis uero non unitatis comparatione perficitur sed ipsorum, qui post unitatem sunt dispositi
+numerorum, ut ternarii ad binarium, quaternarii ad ternarium, et in caeteris ad hunc modum.
+Superpartientium uero longe retro formatio est, quae nec continuis numeris comparatur sed intermissis, nec
+semper aequali [1199] intermissione. Sed nunc quidem una, nunc uero duabus, nunc tribus, nunc quatuor, atque ita in
+infinita succrescit. Amplius multiplicitas ab unitate incipit, superparticularitas a binario, superpartiens proportio a
+ternario initium capit. Sed de his hactenus; nunc quaedam quae quasi axiomata Graeci uocant, praemittere oportebit,
+quae tum demum quo spectare uideantur intelligemus, cum de uniuscuiusque rei demonstratione tractabimus.
+VI
+Qui sint quadrati numeri deque his speculatio.
+Quadratus numerus est qui gemina dimensione in aequa concreuerit, ut bis duo, ter tres, quater quatuor,
+quinquies quinque, sexies sex, quorum est ista descriptio:
+2 3 4 5 6 7 8 9 10
+4 9 16 25 36 49 64 81 100
+Superius igitur dispositus numerus naturalis, latus est quadratorum inferius descriptorum. Continuum enim
+naturaliter sunt quadrati, qui sese in subiecto ordine consequuntur, ut 4, 9, 16, et caeteri.
+[PLLXIII:1199,1; text: 4, 2, 9, 3, 16, 4, 25, 5, 36, 6, Bases quadratorum.] [BOEDIM2 02GF]
+Si igitur continuum quadratum minorem a continuo quadrato maiore sustulero, quod relinquitur tantum erit
+quantum est quod ab utrorumque quadratorum lateribus iungitur; ut si quatuor auferam a nouenario, quinque sunt
+reliqui, qui ex duobus et tribus, qui sunt utrorumque quadratorum latera, coniunguntur. Item si nouenarium aufero de eo
+qui sedecim numeris ascriptus est, 7 sunt reliqui, qui scilicet ex ternario quaternarioque coniunctus est, qui
+praedictorum quadratorum latera sunt. Idemque est in caeteris.
+[PLLXIII:1199,2; text: 7, 2, 5, 25, 4, 21, senarius, tonus, 16, 12, tonus sedecimus, 9, tonus nouenarius]
+[BOEDIM2 02GF]
+Quod si non sint continui quadrati sed unus inter eos transmissus sit, fit eius quod relinquitur medietas, id quod
+ex utriusque lateribus efficitur, ut si quaternarium de 16 quadrato auferamus, 12 relinquuntur, quorum 12 medietas est
+is numerus qui ex utrorumque lateribus conuenti. Sunt autem utrorumque latera, duo et quatuor, quae senarium iuncta
+perficiunt Atque in caeteris idem modus est. Sin uero duo irtermittantur, tertia pars erit eius quod relinquitur, id quod
+utrorumque latera coniungunt, ut si quatuor de 25 auferam, intermissis duobus quadratis, relinqui 21 sunt. Eorum uero
+latera sunt 2 et 5 qui efficiunt 7, qui sunt pars tertia numeri 21. Atque haec regula est, ut si tres intermissi sint, pars
+quarta sit, id quod ex utrorumque lateribus efficitur eius [1200] quod subtracto minore a maiore relinquitur. Sin quatuor
+transmittantur, quinta, atque uno plus uocabulo numeri partes uenient, quam sit intermissio numerorum.
+VII
+Ommem inaequalitatem ex aequalitate procedere, eiusque demonstratio.
+Est autem quemadmodum unitas pluralitatis numerique principium, ita aequalitas proportionum. Tribus enim
+praeceptis (ut in arithmetica dictum est) multiplices proportiones ex aequalitate producimus, ex conuersis uero
+multiplicibus superparticulares habitudines procreamus.
+Item ex conuersis superparticularibus, superpartientes comparationes efficimus. Ponantur enim tres unitates,
+uel tres binarii, uel tres ternarii, uel quotlibet aequi termini, et sit primus primo aequus in sequenti scilicet ordine
+constitutus. Secundus uero primo ac secundo, tertius primo, duobus secundis ac tertio, ita enim numero progresso, fit
+duplex multiplicitatis prima proportio, ut haec subiecta descriptio monet.
+111
+124
+Nam unitas in secundo ordine constituta, aequa est primae unitati in superiore loco dispositae. Item binarius
+aequus est unitati primae ac secundae. Item quaternarius aequus est unitati primae, ac duabus unitatibus secundis atque
+unitati tertiae et est 1, 2, 4, dupla proportio. Quod si de his idem feceris, tripla comparatio procreabitur, ac de tripla
+quadrupla, de quadrupla quincupla, ac deinceps talis currit habitudinum procreatio. Rursus hisdem tribus praeceptis
+superparticulares fiunt, ut uno probamus exemplo.
+Conuertamus nunc, et priorem maiorem numerum disponamus 4, 2, 1; ponatur igitur primus primo aequus, id
+est 4; secundus primo scilicet et secundo, id est 6; tertius primo, duobus secundi, et tertio, id est 9; quibus dispositis
+sesquialtera notatur esse proportio.
+[PLLXIII:1200,1; text: 4, 2, 1, 6, 9, Sesquialtera] [BOEDIM2 02GF]
+Atque id si de triplis fiat, sesquitertia; se de quadruplis sesquiquarta, consimilibusque in alterutra parte
+uocabulis proportionalitas ex multiplicitate nascetur, ex superparticularitate uero conuersa ducitur superpartiens
+habitudo. Disponatur enim conuersim sesquialtera comparatio, 9, 6, 4. Ponatur enim primus primo aequus, id est 9;
+secundus primo et secundo, id est 15; tertius primo duobus secundis ac tertio, id est 25; ac disponantur in ordinem hoc
+modo:
+[PLLXIII:1200,2; text: 9, 6, 4, 5, 25, Superbipartiens] [BOEDIM2 02GF]
+Superbipartiens igitur ex conuersis sesquialteris habitudo [1201]
+producta est; quod si quis ad hanc speculationem diligens scrutator accedat, ex sesquitertiis conuersis
+supertripartientem producit, caeterisque similibus uocabulis adaequatis cunctas ex superparticularitate superpartientis
+
+

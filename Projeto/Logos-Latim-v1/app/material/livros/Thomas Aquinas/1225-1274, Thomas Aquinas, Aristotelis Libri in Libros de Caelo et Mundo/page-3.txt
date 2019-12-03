@@ -1,0 +1,59 @@
+considerare subiecta, sed etiam passiones, ut dicitur in I poster., ideo subiungit quod naturalis scientia existit
+circa praedictorum passiones et motus: ut per passiones intelligantur alterationes et alii motus consequentes,
+secundum quos alteratur aliquid in substantia rei: subdit autem et motus, quasi procedens a speciali ad commune.
+Vel per motus intelligit specialiter motus locales, qui sunt perfectiores in genere motuum. Vel per passiones
+intelligit proprietates, per motus autem operationes rerum naturalium, quae non sunt sine motu.
+Et quia in qualibet scientia oportet considerare principia, subiungit quod naturalis scientia est circa quaecumque
+principia praedictae substantiae; scilicet corporeae mobilis. Per quod datur intelligi quod ad naturalem pertinet
+praecipue considerare de corpore inquantum est in genere substantiae, sic enim est subiectum motus: ad
+geometram autem inquantum est in genere quantitatis, sic enim mensuratur.
+Et quia minor est manifesta, scilicet quod scientia naturalis sit de rebus naturalibus, subiungit maiorem, dicens
+quod ideo scientia naturalis existit circa praedicta, quia eorum quae sunt secundum naturam, quaedam sunt
+corpora et magnitudines, sicut lapides et alia inanimata; quaedam habent corpus et magnitudinem, sicut plantae
+et animalia, quorum principalior pars est anima (unde magis sunt id quod sunt secundum animam quam
+secundum corpus); quaedam vero sunt principia habentium corpus et magnitudinem, sicut anima, et universaliter
+forma, et materia.
+Et ex hoc apparet quare dixit quod scientia de natura fere plurima existit circa corpora et magnitudines: quaedam
+enim pars eius est circa habentia corpus et magnitudines; est etiam circa principia horum; est etiam circa
+quaedam quae non sunt in natura, quae aliqui attribuerunt corporibus et magnitudinibus, scilicet circa vacuum et
+infinitum.
+|+2 Lectio 2
+|#1 Postquam Philosophus ostendit prooemialiter quod determinandum est de corporibus et magnitudinibus in
+scientia naturali, hic incipit prosequi principale propositum. Et quia, ut supra dictum est, in hoc libro principaliter
+intendit Aristoteles determinare de universo corporeo et principalibus partibus eius, quae sunt corpora simplicia,
+inter quae potissimum est corpus caeleste, ideo dividitur liber iste in partes tres: in prima determinat de universo
+corporeo; in secunda determinat de corpore caelesti, et hoc in secundo libro, ibi: quod quidem igitur neque
+factum est etc.; in tertia parte determinat de aliis simplicibus corporibus, scilicet de gravi et levi, in tertio libro,
+ibi: de primo quidem igitur caelo etc.. Circa primum duo facit: primo ostendit perfectionem universi; secundo
+determinat quasdam conditiones seu proprietates ipsius, ibi: sed quoniam manifestum de his etc.. Circa primum
+duo facit: primo ostendit perfectionem universi; secundo ostendit ex quibus partibus eius perfectio integretur, ibi:
+de totius quidem igitur natura etc.. Circa primum duo facit: primo ostendit perfectionem universi quam habet
+secundum communem rationem sui generis, inquantum scilicet est corpus; secundo probat perfectionem
+propriam ipsius, ibi: partialium quidem igitur corporum etc.. Circa primum tria facit: primo manifestat
+definitionem corporis, qua utitur ad propositum ostendendum; secundo probat propositum, ibi: itaque quoniam
+omne et totum etc.; tertio ostendit quid ex praemissis possit esse manifestum, ibi: quaecumque quidem igitur
+etc..
+Circa primum duo facit: primo definit continuum, quod est genus corporis; secundo manifestat corporis
+definitionem, ibi: corpus autem etc..
+|#2 Circa primum considerandum est quod continuum invenitur a Philosopho dupliciter definitum.
+Uno modo definitione formali, prout dicitur in praedicamentis quod continuum est cuius partes copulantur ad
+unum communem terminum: unitas enim continui est quasi forma ipsius.
+Alio modo definitione materiali, quae sumitur ex partibus, quae habent rationem materiae, ut dicitur in II physic.:
+et sic definitur hic, quod continuum est quod est divisibile in semper divisibilia.
+Nulla enim pars continui potest esse indivisibilis: quia ex indivisibilibus non componitur aliquod continuum, ut
+probatur in VI physic..
+Et satis convenienter haec definitio ponitur hic, alia autem in praedicamentis: quia consideratio naturalis versatur
+circa materiam, consideratio autem logici circa rationem et speciem.
+|#3 Deinde cum dicit: corpus autem etc., definit corpus. Et primo proponit definitionem, dicens quod corpus est
+continuum quod est divisibile omniquaque, idest ad omnem partem, vel secundum omnem dimensionem.
+Secundo ibi: magnitudinis autem etc., probat propositam definitionem tali ratione. Corpus dividitur secundum
+tres dimensiones: quod autem dividitur secundum tres dimensiones, dividitur secundum omnes: ergo corpus est
+divisibile secundum omnes dimensiones.
+Primo ergo manifestat minorem, quasi per divisionem. Nam magnitudinum quaedam est quae dividitur ad unam
+partem, et haec dicitur linea: quaedam autem est quae dividitur ad duas partes, et haec dicitur planum, idest
+superficies: quaedam autem est quae dividitur secundum tres dimensiones; et cum talis magnitudo non sit linea
+neque superficies, sequitur quod sit corpus.
+
+3
+
+

@@ -1,0 +1,55 @@
+Si igitur res creatae non habeant actiones ad producendos effectus, sequetur quod nunquam natura alicuius rei
+creatae poterit cognosci per effectum. Et sic subtrahitur nobis omnis cognitio scientiae naturalis, in qua praecipue
+demonstrationes per effectum sumuntur.
+|#19 Item. Apparet per inductionem in omnibus quod simile agat suum simile.
+Id autem quod generatur in rebus inferioribus non est forma tantum, sed compositum ex materia et forma: nam
+omnis generatio ex aliquo est, scilicet ex materia, et ad aliquid, scilicet formam. Oportet ergo quod generans non
+sit forma tantum, sed compositum ex materia et forma. Non igitur species rerum separatae, ut Platonici
+posuerunt; neque intelligentia agens, ut posuit Avicenna, est causa formarum quae sunt in materiis, sed magis
+hoc compositum ex materia et forma.
+|#20 Item. Si agere sequitur ad esse in actu, inconveniens est quod actus perfectior actione destituatur.
+Perfectior autem actus est forma substantialis quam accidentalis.
+Si igitur formae accidentales quae sunt in rebus corporalibus habent proprias actiones, multo magis forma
+substantialis habet aliquam propriam actionem. Non est autem eius propria actio disponere materiam: quia hoc
+fit per alterationem, ad quam sufficiunt formae accidentales. Igitur forma substantialis generantis est principium
+actionis ut forma substantialis introducatur in generatum.
+|#21 Rationes autem quas inducunt facile est solvere.
+Cum enim ad hoc aliquid fiat ut sit, sicut forma non dicitur ens quasi ipsa habeat esse, sed quia per eam
+compositum est; ita nec forma proprie fit, sed incipit esse per hoc quod compositum sit reductum de potentia in
+actum, qui est forma.
+|#22 Neque etiam oportet ut omne quod habet aliquam formam quasi participatam, recipiat eam immediate ab
+eo quod est essentialiter forma: sed immediate quidem ab alio quod habet similem formam, simili modo scilicet
+participatam, quod tamen agat in virtute illius formae separatae, si qua sit talis. Sic enim agens similem sibi
+effectum producit.
+|#23 Similiter etiam non oportet quod, quia omnis actio inferiorum corporum fit per qualitates activas et
+passivas, quae sunt accidentia, quod non producatur ex actione eorum nisi accidens. Quia illae formae
+accidentales, sicut causantur a forma substantiali, quae simul cum materia est causa omnium propriorum
+accidentium, ita agunt virtute formae substantialis. Quod autem agit in virtute alterius, producit effectum similem
+non sibi tantum, sed magis ei in cuius virtute agit: sicut ex actione instrumenti fit in artificiato similitudo formae
+artis. Ex quo sequitur quod ex actione formarum accidentalium producuntur formae substantiales, inquantum
+agunt instrumentaliter in virtute substantialium formarum.
+|#24 In animalibus autem quae ex putrefactione generantur, causatur forma substantialis ex agente corporali,
+scilicet corpore caelesti, quod est primum alterans, unde oportet quod omnia moventia ad formam in istis
+inferioribus, agant in virtute illius. Et propter hoc, ad producendas aliquas formas imperfectas sufficit virtus
+caelestis, absque agente univoco. Ad producendas autem formas perfectiores, sicut sunt animae animalium
+perfectorum, requiritur etiam cum agente caelesti agens univocum: talia enim animalia non generantur nisi ex
+semine. Et propter hoc dicit Aristoteles, in II phys., quod homo generat hominem et sol.
+|#25 Non est autem verum quod quantitas impediat actionem formae, nisi per accidens: inquantum scilicet
+omnis quantitas continua est in materia; forma autem in materia existens, cum sit minoris actualitatis, est per
+consequens minoris virtutis in agendo. Unde corpus quod habet minus de materia et plus de forma, scilicet ignis,
+est magis activum. Supposito autem modo actionis quam forma in materia existens habere potest, quantitas
+coauget magis quam minuat actionem. Nam quanto corpus calidum fuerit maius, supposita aeque intensa
+caliditate, tanto magis calefacit; et supposita gravitate aeque intensa, quanto maius fuerit corpus grave, tanto
+velocius movebitur motu naturali; et inde est quod tardius movetur motu innaturali. Quod ergo corpora gravia
+sunt tardioris motus innaturalis cum fuerint maioris quantitatis, non ostendit quod quantitas impediat actionem,
+sed magis quod coaugeat ipsam.
+|#26 Non oportet etiam quod corpus omne careat actione propter hoc quod in ordine rerum substantia corporalis
+est infima secundum suum genus. Quia etiam inter corpora unum est superius altero, et formalius et magis
+activum: sicut ignis respectu inferiorum corporum. Nec tamen etiam infimum corpus excluditur ab agendo.
+Manifestum est enim quod corpus non potest agere se toto, cum sit compositum ex materia, quae est ens in
+potentia, et ex forma, quae est actus: agit enim unumquodque secundum quod est actu. Et propter hoc omne
+corpus agit secundum suam formam: ad quam comparatur aliud corpus, scilicet patiens, secundum suam
+materiam ut subiectum, inquantum materia eius est in potentia ad formam agentis. Si autem e converso ad
+273
+
+

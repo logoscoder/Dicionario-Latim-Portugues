@@ -1,0 +1,48 @@
+De multiplici superpartiente.
+Multiplex vero superpartiens est, quotiens numerus ad numerum comparatus habet in se alium numerum
+totum plus quam semel et eius vel duas vel tres vel quotlibet plures particulas secundum numeri superpartientis
+figuram. In hoc quoque propter causam superius dictam non erunt duae medietates neque duae quartae neque
+duae sextae, sed duae tertiae vel duae quintae vel duae septimae ad priorum similem consequentiam. Non est
+autem difficile secundum priorum exempla positorum hos quoque et praeter nostra exempla numeros invenire.
+Vocabunturque hi secundum proprias partes duplex superbipartiens, vel duplex supertripartiens, vel duplex
+superquadripartiens, et rursus triplex superbipartiens et triplex supertripartiens et triplex superquadripartiens et
+similiter, ut, viij ad iij comparati faciunt duplicem superbipartientem, et xvj ad vj et omnes, quicunque ab viij
+incipientes octonario sese numero transgrediuntur, comparati ad eos, qui a tribus inchoantes ternaria sese
+quantitate praetereunt. Nec erit difficile alias eius partes secundum praedictum modum diligentibus repperire.
+Hic quoque illud meminisse debemus, quod minores et comitesnon sine sub praepositione nominantur, ut sit
+subduplex superbipartiens, subduplex supertripartiens.
+Demonstratio quemadmodum omnis inaequalitas ab aequalitate processerit.
+Restat autem nobis profundissimam quandam tradere disciplinam, quae ad omnem naturae vim rerumque
+integritatem maxima ratione pertineat. Magnus quippe in hac scientia fructus est, si quis non nesciat, quod
+bonitas definita et sub scientiam cadens animoque semper imitabilis et perceptibilis prima natura est et suae
+substantiae decore perpetua, infinitum vero malitiae dedecus est, nullis propriis principiis nixum, sed natura
+semper errans a boni definitione principii tamquam aliquo signo optimae figurae inpressa componitur et ex illo
+erroris fluctu retinetur. Nam nimiam cupiditatem iraeque immodicam effrenationem quasi quidam rector animus
+pura intellegentia roboratus adstringit, et has quodammodo inaequalitatis formas temperata bonitate constituit.
+Hoc autem erit perspicuum, si intellegamus, omnes inaequalitatis species ab aequalitatis crevisse primordiis, ut
+ipsa quodammodo aequalitas matris et radicis obtinens vim ipsa omnes inaequalitatis species ordinesque
+profundat. Sint enim nobis tres aequales termini, id est tres unitates, vel ter bini vel ter terni vel ter quaterni vel
+quantos ultra libet ponere. Quod enim in unis tribus terminus evenit, idem contingit in ceteris. Ex his igitur
+secundum praecepti nostri ordinem videas primum nasci multiplices et in his duplices prius, dehinc triplos, inde
+quadruplos et ad eundem ordinem consequentes. Rursus multiplices si convertantur, ex his superparticulares
+orientur, et ex duplicibus quidem sesqualteri ex triplis sesquitertii, ex quadruplis sesquiquarti et ceteri in hunc
+modum. Ex superparticularibus vero conversis superpartientes nasci necesse est, ita ut ex sesqualtero nascatur
+superbipartiens, supertripartientem sesquitertius gignat et ex sesquiquarto superquadripartiens procreetur. Rectis
+autem positis neque conversis prioribus superparticularibus multiplices superparticulares oriuntur; rectis vero
+superpartientibus multiplices superpartientes efficiuntur. Praecepta autem tria haec sunt, ut primum numerum
+primo facias parem, secundum vero primo et secundo, tertium primo, secundis duobus et tertio. Hoc igitur cum
+in terminis aequalibus feceris, ex his qui nascentur, duplices erunt, de quibus duplicibus si idem feceris, triplices
+procreantur et de his quadruplices atque in infinitum omnes formas numeri multiplicis explicabit. Iaceant igitur
+tres termini aequales.
+jjj
+Ponatur itaque primo primus aequalis, id est unus, secundus vero primo et secundo, id est ij, tertius vero
+primo, duobus secundis et tertio par sit, id est uni et duobus unis et uni, quod sunt iiij ut est descriptio.
+
+j iij
+Videsne ut duplici proportione sequens ordo texatur? Fac rursus idem de duplicibus, ut sit primus primo
+aequalis, id est uni, secundus primo et secundo, id est uni et duobus, qui sunt tres, tertius primo, id est uni,
+duobus secundis, id est iiij, et tertio, id est iiij, qui simul viiij fiunt, et venit haec formula.
+
+22
+
+

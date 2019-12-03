@@ -1,0 +1,62 @@
+[2.4.7] Item secundam propositionem, quae ait si est a, cum sit b, non esse c, huiusmodi esse oportebit ut b
+quidem praeter a esse possit sed cum fuerit a, necesse sit esse etiam b; at uero c tale sit ut simul quidem cum a esse non
+possit, cum b uero esse possit sed tunc tantum cum b esse non possit, quando b terminus a terminum sequitur, ut si sit a
+homo, b animatum, c insensibile. Namque animatum praeter hominem esse potest; at si homo sit, ut sit animatum
+necesse est; insensibile uero potest esse animatum sed tunc /280/ insensibile et animatum non conueniunt, cum idcirco
+est animatum quia homo esse praedictus est.
+[2.5.1] Tertia uero propositio a quidem terminum debet habere, qui numquam simul esse possit cum b termino;
+c uero terminum talem esse oportebit, ut possit quidem non esse, si non fuerit b sed tunc tantum necesse sit, si b
+terminus non sit, esse c terminum, si idcirco non est b quaniam terminus a esse praedictus est, ut si sit a homo, b
+inanimatum, c sensibile. Nam si est homo, non est inanimatum, sensibile uero potest simul non esse cum inanimato;
+possunt enim esse quaedam quae nec inanimata sint, nec sensibilia, ut arbores. Idem tamen sensibile necesse est esse,
+cum non sit inanimatum, si idcirco inanimatum non est quia homo esse praedictus est.
+[2.5.2] Rursus quarta propositio huius debet esse proprietatis, ut b quidem terminus nullo modo esse possit, si
+fuerit a, at uero c possit esse, si non fuerit b; sed tunc tantum c, cum non fuerit b, non esse necesse sit, si b terminus non
+sit quia prius a terminus esse positus est, ut si sit a homo, b inanimatum, c insensibile. Inanimatum enim non erit si
+fuerit homo; insensibile uero potest esse et non esse, si non sit inanimatum; tunc tamen insensibile non esse ne /282/
+cesse est, cum inanimatum non sit, cum idcirco inanimatum non est quia homo esse praedictus est.
+[2.5.3] Quinta quoque propositio tales habere terminos debet, ut a quidem si non sit, necesse sit esse b, si b
+terminus sit, c et esse possit et possit non esse: tunc tantum c esse necesse sit, cum fuerit b, cum idcirco est b quia a
+terminus esse negatus est, ut si sit a quidem animatum, b uero insensibile, c inuitale. Igitur si non sit animatum, statim
+consequitur ut sit insensibile; inuitale autem potest esse, si sit insensibile, ut lapis, potest uero non esse inuitale, si sit
+insensibile, ut sunt arbores; sed tunc tantum, posito insensibili, consequitur ut inuitale esse necesse sit, cum idcirco est
+insensibile quia non est animatum.
+[2.5.4] Sexta uero propositio tales terminos habere desiderat, ut b quidem esse necesse sit, si non fuerit a, at
+uero c terminus, si sit b, uel esse uel non esse possit; tunc tamen c non esse necesse sit, cum sit b, quando idcirco est b
+quia a terminus non esse propositus est, ueluti si sit a animatum, b insensibile, c uitale. Nam necesse est esse
+insensibile, si non fuerit animatum; cum uero sit insensibile, fieri quidem potest ut non uiuat, ueluti lapis, fieri autem
+potest ut uiuat, ueluti arbor; tunc tamen necesse est non uiuere, cum sit insensibile, quando idcirco est insensibile quia
+animatum /284/ non esse propositum est.
+[2.5.5] Septimus modus talibus terminis debet esse contextus, ut b quidem sine a esse non possit, c autem si
+non sit, b et esse et non esse possit; tunc tamen necesse sit c terminum esse, si non sit b, cum idcirco b non esse
+propositum est quoniam a fuerit ante denegatum. Sit enim a quidem animatum, b uero sensibile, c inuitale; sensibile
+igitur esse non potest nisi fuerit animatum; si igitur non sit animatum, non erit sensibile, si uero non sit sensibile, potest
+esse inuitale, uelut in lapidibus, idem potest non esse, uelut in arboribus; tunc tamen sensibili denegato inuitale necesse
+est esse, cum idcirco non est sensibile quia prius animatum non esse propositum est.
+[2.5.6] Octaua propositio his terminis connectenda est, ut b terminus esse non possit si non fuerit a, cum uero
+non sit b, terminus c et esse et non esse possit sed tunc necesse sit c terminum non esse, cum non fuerit b, cum idcirco
+non est b quia a terminus prius esse negatus est, ut si sit a quidem animatum, b uero sensibile, c uitale.
+Sensibile igitur esse non potest nisi fuerit animatum; idem tamen sensibile si non sit, et non esse uitale potest,
+ut lapides, et esse uitale, ut arbores; tunc tamen necesse est uitale non esse, si non sit sensibile, cum idcirco sensibile
+non est quia prius animatum esse negatum est.
+[2.5.7] Ex his igitur constat c terminum, quoquo modo fuerit b, in conditionalibus propositionibus, quae in tota
+enuntiatione post praedicatiuas locantur, posse tam loco afFirmationis quam negationis assumi, ex quibus
+assumptionibus fiunt complexiones uariae syllogismorum. His igitur ita expeditis, de omnibus in commune
+praecipiendum uidetur. Nam cum sint octo propositiones quae ex praedicatiua hypotheticaque nectuntur, /286/ quae
+superius ascriptae sunt, earum quatuor ita faciunt consequentiam, si a terminus sit; quatuor uero ita conditionem
+proponunt, si a terminus non sit.
+[2.6.1] Fiunt uero ex his syllogismi hoc modo. Ex prima propositione:
+Si est a, cum sit b, est c; Atqui est a; Cum igitur sit b, est c
+uel sic:
+Atqui cum sit b, non est c; Non est igitur a
+(posse autem huiusmodi esse assumptionem ex superius descripta propositionum natura cognoscitur). Ex
+secunda propositione:
+Si est a, cum sit b, non est c; Atqui est a; Cum igitur sit b, non est c
+uel ita:
+Atqui cum si b, est c; Non est igitur a.
+Ex tertia:
+Si est a, cum non sit b, est c; Atqui est a; Cum igitur non sit b, est c
+uel ita:
+Atqui cum non sit b, non est c; Non est igitur a.
+
+

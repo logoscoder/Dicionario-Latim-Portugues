@@ -1,0 +1,64 @@
+verum in ista mutatione, pari ratione est verum in aliis mutationibus. Ex
+quo patet id quod primo propositum est.
+|#3
+Secundam rationem generalem ponit ibi: amplius autem etc.: et dicit
+quod hoc idem potest esse manifestum considerando secundum unamquamque
+mutationem.
+Et manifestat in mutatione locali.
+Omne enim quod mutatum est, necesse est esse alicubi, vel in termino a quo
+vel in aliquo alio. Sed quia illud quod mutatum est, iam defecit ab eo ex
+quo mutatum est, necesse est quod sit alibi. Aut igitur necesse est quod
+sit in hoc de quo intendimus, scilicet in termino ad quem, aut in alio. Et
+si est in hoc, habetur propositum: si autem in alio, ponamus quod aliquid
+moveatur in b, et quando mutatum est non sit in b sed in c.
+Tunc oportebit dicere quod etiam de c mutetur in b; quia c et b non sunt
+habita, idest consequenter se habentia. Oportet enim quod tota huiusmodi
+mutatio sit continua; et in continuis unum signum non est consequenter se
+habens ad alterum, quia necesse est quod cadat in medio aliquid sui
+generis, ut supra probatum est. Unde sequetur, si illud quod mutatum est,
+quando mutatum est, sit in c, et de c mutetur in b, quod est terminus ad
+quem, quod quando mutatum est, tunc mutatur in quod mutatum est; quod est
+impossibile.
+Non enim simul est mutari et mutatum esse, ut supra dictum est. Nihil autem
+differt si huiusmodi termini c et b accipiantur in motu locali, vel in
+quacumque alia mutatione. Necesse est ergo universaliter verum esse, quod
+id quod mutatum est, quando mutatum est, est in hoc ad quod mutatum est,
+idest in termino ad quem.
+Et ex hoc ulterius concludit, quod illud quod factum est, quando factum
+est, habet esse; et quod corruptum est, quando corruptum est, est non ens.
+Ostensum est enim universaliter hoc de omni mutatione, et maxime manifestum
+est in mutatione, quae est secundum contradictionem, ut ex dictis patet.
+Sic igitur manifestum est, quod id quod mutatum est, cum primo mutatum est,
+est in illo ad quod mutatum est.
+Addit autem primo; quia postquam mutatum est ad aliquid, posset exinde
+moveri, et ibi non esset; sed quando primo mutatum est, oportet quod sit
+ibi.
+|#4
+Deinde cum dicit: in quo autem primo mutatum est etc., ostendit quod
+mutatum esse primo et per se est in indivisibili: et dicit quod illud
+tempus in quo primo mutatum est quod mutatum est, necesse est quod sit
+atomum, idest indivisibile.
+Quare autem addit primo, exponit subdens quod in illo primo dicitur aliquid
+mutatum esse, in quo non dicitur esse mutatum ratione alicuius suae partis:
+sicut si dicatur aliquod mobile mutatum esse in die, quia mutatum est in
+aliqua parte illius diei; non enim primo mutatur in die. Quod autem illud
+temporis in quo primo mutatum est sit indivisibile, sic probat.
+Si enim sit divisibile, sit ac, et dividatur secundum b: necesse est dicere
+quod aut in utraque mutatum sit, aut in utraque parte mutetur, aut in una
+parte mutetur et in alia sit mutatum. Sed si in utraque parte mutatum est,
+non primo mutatum est in toto, sed in parte. Si vero detur quod
+transmutetur in utraque parte, oportebit dicere quod transmutetur in toto:
+sic enim dicitur aliquid in toto tempore mutari, quia mutatur in qualibet
+eius parte. Hoc autem est contra positum: positum enim erat quod in toto ac
+erat mutatum. Si autem detur quod in una parte mutetur et in alia sit
+mutatum, sequitur idem inconveniens, scilicet quod non sit primo mutatum in
+toto; quia cum pars sit prior toto, et prius mutetur aliquid in parte
+temporis quam in toto, sequetur quod sit aliquid prius primo, quod est
+impossibile. Oportet ergo dicere quod illud temporis in quo primo aliquid
+mutatum est, sit indivisibile.
+Ex hoc autem ulterius concludit, quod omne quod corruptum est, et omne quod
+factum est, est in indivisibili temporis factum et corruptum; quia
+generatio et corruptio sunt termini alterationis. Unde si quilibet motus
+228
+
+

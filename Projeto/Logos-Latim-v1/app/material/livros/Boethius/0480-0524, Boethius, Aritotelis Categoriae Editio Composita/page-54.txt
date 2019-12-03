@@ -1,0 +1,61 @@
+falsum est:
+Nullus homo albus est
+Sed quando ambae falsae sunt, uerae sunt subcontrariae, ut est:
+Quidam homo albus est
+Quidam homo albus non est
+Quod si quid naturale praedicetur in contrariis, affirmatio uera est, falsa negatio, ut quoniam naturale est
+homini esse animal, uera est ea quae dicit:
+Omnis homo animal est
+falsa quae dicit:
+Nullus /178/ homo animal est
+Eodem quoque modo in subcontrariis uera est affirmatio, falsa negatio.
+Sin uero aliquid impossibile praedicetur, falsa affirmatio est, uera negatio, ut quoniam impossibile est
+hominem esse lapidem, si dicamus:
+Omnis homo lapis est
+falsum est,
+Nullus homo lapis est
+uerum est. Eandem quoque retinet uim subcontrarii natura: affirmatio enim hic falsa est, uera negatio.
+[08]
+UNA AUTEM EST AFFIRMATIO ET NEGATIO QUAE UNUM DE UNO SIGNIFICAT, VEL CUM SIT
+UNIVERSALE UNIVERSALITER VEL NON SIMILITER, UT OMNIS HOMO ALBUS EST, NON EST OMNIS
+HOMO ALBUS; EST HOMO ALBUS, NON EST HOMO ALBUS; NULLUS HOMO ALBUS EST, EST QUIDAM
+HOMO ALBUS, SI ALBUM UNUM SIGNIFICAT.
+Ea quae a nobis superius sunt diligenter exposita, illa nunc ipse clarius monstrat. Diximus namque unam
+propositionem esse quae unam quamlibet rem significaret et non plurimas, ita ut nec aequiuocum subiectum haberet
+nec aequiuocum praedicatum; una enim propositio sic fit. Nunc hoc dicit: una propositio est quae unam rem significat
+id est quae neque subiectum aequiuocum habet nec praedicatum. Siue autem sit uniuersalis affirmatio siue uniuersalis
+negatio siue particularis affirmatio siue particularis negatio siue indefinitae utraeque siue contra se angulariter
+ponantur: una illa propositio est, quae unam rem in affirmatione uel negatione significat. Sed hic quaestio est,
+quemadmodum uniuersalis affirmatio unam rem significare /179/ possit, cum ipsa uniuersalitas non de uno sed de
+pluribus praedicetur. Nam cum dico:
+Omnis homo albus est
+singulos homines qui plures sunt significans multa in ipsa affirmationis praedicatione designo. Quocirca nulla
+erit affirmatio uel negatio uniuersalis, quae unam rem significare possit, idcirco quod ipsa uniuersalitas de pluribus (ut
+dictum est) indinduis praedicatur. Sed ad hoc respondemus: cum uniuersale quiddam dicitur, ad unam quodammodo
+collectionem totius propositionis ordo perducitur et eius non ad particularitatem sed ad uniuersalitatem quae est una
+qualitas applicatur: ut cum dicimus omnis homo iustus est, non tunc singulos intellegimus sed ad unam humanitatem
+quidquid de homine dictum est ducitur. Quare siue sit uniuersalis affirmatio siue uniuersalis negatio uel in singularibus,
+potest fieri ut hae unae sint, si una significatione teneantur. Atque hoc est quod ait eas propositiones quas supra
+proposuit, quae sunt OMNIS HOMO ALBUS EST, NON EST OMNIS HOMO ALBUS; HOMO ALBUS EST, NON
+EST HOMO ALBUS; NULLUS HOMO ALBUS EST, EST QUIDAM HOMO ALBUS, unas uideri, SI ALBUM,
+inquit, UNUM SIGNIFICAT. Si enim album quod praedicatur multa significet uel si homo quod subiectum est non
+unum, non est una affirmatio nec una negatio. Hoc autem in sequentibus clarius monstrat dicens:
+SIN VERO DUOBUS UNUM NOMEN EST POSITUM, EX QUIBUS NON EST UNUM, NON EST UNA
+AFFIRMATIO, UT SI. QUIS PONAT NOMEN TUNICA HOMINI /180/ ET EQUO, EST TUNICA ALBA HAEC
+NON EST UNA AFFIRMATIO NEC NEGATIO UNA.
+Sensus huiusmodi est: si una res plura significet, ex quibus multis unum effici possit, illa affirmatio, in qua
+illud nomen uel praedicatur uel subicitur, multa non significat, ut in eo quod est homo. Quod dicimus homo significat
+animal, significat rationale, significat mortale; sed ex his quae multa significat unum potest effici, quod est animal
+rationale mortale. Quare hoc nomen homo licet plura sint quae significet, tamen quoniam iuncta in unum quodammodo
+ueniunt corpus et unum quiddam ex se iuncta perficiunt, cum ita dictum fuerit, quasi ut ex his quae significat unum
+aliquid fiat, unum quod tota illa iuncta perficiunt nomen illud significare manifestum est.
+Atque hoc est quod ait: SIN VERO DUOBUS UNUM NOMEN EST POSITUM, EX QUIBUS NON EST
+UNUM, non esse unam affirmationem. Si enim talia quilibet sermo plura significet, ex quibus iunctis unum effici
+nequeat corpus, nec possint ea quae significantur uno illo nomine in unam speciem substantiae conuenire, non est illa
+una affirmatio. Quale autem nomen sit quod positum unam affirmationem non facit, idcirco quod plura significet ex
+quibus unum fieri non possit, exempli sollertissima uirtute monstrauit dicens: /181/
+UT SI QUIS PONAT NOMEN TUNICA HOMINI ET EQUO, EST TUNICA ALBA HAEC NON EST UNA
+AFFIRMATIO NEC NEGATIO UNA. NIHIL ENIM HOC DIFFERT DICERE QUAM EST EQUUS ET HOMO
+ALBUS. HOC AUTEM NIHIL DIFFERT QUAM DICERE EST EQUUS ALBUS ET EST HOMO ALBUS.
+
+

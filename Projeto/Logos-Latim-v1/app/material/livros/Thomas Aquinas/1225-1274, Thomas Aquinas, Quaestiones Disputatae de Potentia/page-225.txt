@@ -1,0 +1,62 @@
+Ad primum ergo dicendum quod, ex quo persona non addit supra hypostasim nisi rationalem naturam, oportet
+quod hypostasis et persona in rationali natura sint penitus idem; sicut cum homo addat supra animal, rationale,
+oportet quod animal rationale sit homo; et ideo verum est quod Augustinus dicit, quod idem significant Graeci
+cum confitentur in Deo tres hypostases, et Latini cum confitentur tres personas.
+RA2
+Ad secundum dicendum, quod hoc nomen hypostasis, in Graeco ex proprietate significationis habet quod
+significet individuam substantiam cuiuscumque naturae; sed ex usu loquentium habet quod significet individuum
+rationalis naturae tantum.
+RA3
+Ad tertium dicendum, quod sicut substantia individua proprium habet quod per se existat, ita proprium habet
+quod per se agat: nihil enim agit nisi ens actu; et propter hoc calor sicut non per se est, ita non per se agit; sed
+calidum per calorem calefacit. Hoc autem quod est per se agere, excellentiori modo convenit substantiis
+rationalis naturae quam aliis. Nam solae substantiae rationales habent dominium sui actus, ita quod in eis est
+agere et non agere; aliae vero substantiae magis aguntur quam agant. Et ideo conveniens fuit ut substantia
+individua rationalis naturae, speciale nomen haberet.
+RA4
+Ad quartum dicendum, quod quamvis nihil subsistat nisi individua substantia, quae hypostasis dicitur, tamen non
+eadem ratione dicitur subsistere et substare: sed subsistere in quantum non est in alio; substare vero in quantum
+alia insunt ei. Unde si aliqua substantia esset quae per se existeret, non tamen esset alicuius accidentis subiectum,
+posset proprie dici subsistentia, sed non substantia.
+RA5
+Ad quintum dicendum, quod boetius loquitur secundum opinionem Platonis, qui posuit genera et species esse
+quasdam formas separatas subsistentes, ab accidentibus denudatas; et secundum hoc poterant dici subsistentiae,
+sed non hypostases. Vel dicendum, quod subsistere attribuitur generibus et speciebus, non quia subsistant, sed
+quia individua in eorum naturis subsistunt, etiam omnibus accidentibus remotis.
+RA6
+Ad sextum dicendum, quod essentia in substantiis materialibus significat compositum ex materia et forma, non
+tamen ex materia individuali, sed ex materia communi: definitio enim hominis quae significat eius essentiam,
+continet quidem carnes et ossa, sed non has carnes vel haec ossa. Sed materia individualis comprehenditur in
+significatione hypostasis et subsistentiae in rebus materialibus.
+RA7
+Et per hoc patet solutio ad septimum.
+RA8
+Ad octavum dicendum, quod accidentia non individuantur nisi ex suis subiectis. Sola autem substantia per
+seipsam individuatur, et per propria principia; et ideo convenienter in solo genere substantiae particulare habet
+proprium nomen.
+RC
+Rationes quae sunt in oppositum, concedimus; tamen sciendum, quod boetius aliter accipit ista nomina in
+commento praedicamentorum, quam sit communis usus eorum, prout exponit ea in Lib. De duabus naturis.
+Attribuit enim nomen hypostasis materiae quasi primo principio substandi, ex qua habet substantia prima quod
+substet accidenti: nam forma simplex subiectum esse non potest, ut dicit idem boetius in Lib. De Trinit..
+Nomen autem ousiosis vel subsistentiae attribuit formae quasi essendi principio, per ipsam enim est res in actu;
+nomen autem ousia vel essentiae attribuit composito. Unde ostendit quod in substantiis materialibus tam forma
+quam materia sunt essentialia principia.
+|a2 Articulus 2
+TTA
+Secundo quaeritur quid sit persona.
+TTB
+Videtur quod inconvenienter definiat eam boetius in Lib. De duabus naturis dicens quod persona est: rationalis
+naturae individua substantia.
+AG1
+Nullum enim singulare definitur, ut patet per Philosophum.
+Sed persona significat singulare in genere substantiae, ut dictum est. Ergo non potest definiri.
+AG2
+Sed dicendum, quod licet id quod est persona sit quoddam singulare, tamen ratio personae communis est, et pro
+tanto persona in communi definiri potest. Sed contra, id quod est commune omnibus substantiis individuis
+rationalis naturae, est intentio singularitatis, quae quidem non est in genere substantiae. Ergo non debet in
+definitione personae poni substantia quasi genus.
+AG3
+225
+
+

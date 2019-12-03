@@ -1,0 +1,62 @@
+particularia probanda contendit, quasi simile syllogismo est; quod uero non omnibus quae conueniunt syllogismo utitur
+propositionibus, a syllogismi ratione discedit, atque ideo imperfectus uocatus est syllogismus.
+Exemplum quoque inductioni simili ratione copulatur et ab ea dissidet. Est enim exemplum quod per
+particulare propositum, particulare quoddam contendit ostendere hoc modo: Oportet a Tullio consule necari Catilinam,
+cum a Scipione Gracchus fuerit interemptus. Approbatum est enim Catilinam a Cicerone debere perimi, quod a
+Scipione [1184D] Gracchus fuerit occisus. Quae utraque particularia esse ac non uniuersalia singularium designat
+interpositio personarum. Quoniam igitur ex parte pars approbatur, quasi inductionis similitudinem tenet id quod
+exemplum uocamus. Quod uero non plures quibus id efficiat, colligit partes, ab inductione discedit.
+Ita igitur duae sunt argumentandi species principales, una quae dicitur syllogismus, altera quae uocatur
+inductio. Sub his autem uelut ex his manantia enthymema atque exemplum. Quae quidem omnia ex syllogismo
+ducuntur, et ex syllogismo uires accipiunt; siue enim sit enthymema, siue inductio, siue exemplum, ex syllogismo uires
+quam maxime fidem capit, quod in Prioribus Resolutoriis, quae ab Aristotele [1185A] transtulimus, demonstratum est.
+Quocirca satis est de syllogismo disserere, quasi principali et caeteras argumentationis species continente.
+Restat nunc quid sit locus aperire. Locus namque est (ut M. Tullio placet) sedes argumenti. Cuius definitionis
+quae sit uis, paucis absoluam. Argumenti enim sedes partim propositio maxima intelligi potest, partim maximae
+propositionis differentia. Nam cum sint aliae propositiones quae cum per se notae sint, tum nihil ulterius habeant quo
+demonstrentur, atque hae maximae et principales uocentur, sintque aliae quarum fidem primae ac maximae suppleant
+propositiones, necesse est ut omnium quae dubitantur, illae antiquissimam teneant probationem, quae ita aliis facere
+fidem possunt, ut ipsis nihil notius queat inueniri. [1185B] Nam si argumentum est quod rei dubiae facit fidem, idque
+notius ac probabilius esse oportet quam illud est quod probatur, necesse est ut argumentis omnibus illa maxima fidem
+tribuant, quae ita per se nota sunt, ut aliena probatione non egeant.
+Sed huiusmodi propositio aliquoties quidem intra ambitum argumenti continetur, aliquoties uero extra posita
+argumenti uires supplet ac perficit.
+Exemplum quidem est eius argumenti, quod maximam propositionem tenet huiusmodi. Si enim quaestio an
+melius sit regnum consulatu, ita igitur dicemus: Regnum diuturnius est quam consulatus, cum utrumque sit bonum; at
+uero quod diuturnius est bonum eo quod est parui temporis melius est; regnum igitur melius est quam consulatus. Huic
+igitur argumentationi [1185C] maxima propositio, id est locus insertus est, illa scilicet, diuturniora bona sunt melioris
+meriti quam ea quae parui sunt temporis. Hoc enim ita notum est, ut extrinsecus probatione non egeat, et ipsum allis
+possit esse probatio. Atque ideo haec propositio totam continet probationem, et cum inde nascitur argumentum, recte
+locus, id est argumenti sedes uocatur.
+Ut uero extra posita propositio maxima uires afferat argumento, tale sit exemplum. Sit propositum
+demonstrare quoniam inuidus sapiens non est. Inuidus est qui alienis affligitur bonis; sapiens autem bonis non affligitur
+alienis; inuidus igitur sapiens non est. In hac igitur argumentatione propositio quidem maxima non uidetur inclusa sed
+argumentationi uires ipsa maxima [1185D] subministrat. Est enim huic syllogismo fides ex ea propositione per quam
+cognoscimus, quorum diuersa et definitio, ipsa quoque diuersa esse. Est autem in definitione inuidi, alienis bonis
+tabescere, quod quoniam non uenit in sapientem, idcirco sapiens ab inuido seiungitur.
+Est igitur uno quidem modo locus (ut dictum est) maxima et uniuersalis, et principalis, et indemonstrabilis,
+atque per se nota propositio, quae in argumentationibus, uel inter ipsas propositiones, uel extrinsecus posita, uim tamen
+argumentis et propositionibus subministrat. Ideo et uniuersales et maximae propositiones loci sunt dictae, quoniam
+ipsae sunt quae continent caeteras propositiones, et per eas fit consequens et rata [1186A] conclusio.
+Ac sicut locus in se corporis continet quantitatem, ita hae propositiones quae sunt maximae, intra se omnem
+uim posteriorum atque ipsius conclusionis consequentiam lenent, et uno quidem modo locus, id est argumenti sedes
+dicitur maxima, principalisque propositio fidem caeteris subministrans. Alio uero modo loci uocantur maximarum
+differentiae propositionum, qua scilicet ab his ducuntur terminis qui in quaestione sunt constituti, de quibus deinceps
+disserendum est. Cum enim sint plurimae propositiones quae maximae uocantur, haeque sint inter se dissimiles,
+quibuscumque differentiis inter se discrepant, eas omnes locos uocamus. Nam si ipsae propositiones maximae
+argumentorum loci sunt, et differentias earum argumentorum locos esse [1186B] necesse est. Nam uniuscuiusque
+substantia ex propriis differentiis constat, ut hominis ex rationalitate, quae eius est differentia. Et hi loci qui sunt
+differentiae propositionum, ipsis propositionibus uniuersaliores existunt, uelut uniuersalior est rationalitas homine.
+Atque ideo pauciores esse deprehenduntur hi loci qui in differentiis positi sunt, quam propositiones ipsae quarum sunt
+differentiae. Omnia enim quae uniuersaliora sunt, pauciora semper esse contingit. Et ideo facile sub scientiam cadere
+possunt, quorum tam multus numerus non est, ut cito a memoria discentis elabantur.
+Quae uero sunt hae differentiae melius diuisione producuntur.
+In praedicatiuis autem quaestionibus unus quidem subiectus terminus dicitur, alius praedicatus. [1186C] Nil
+quippe in praedicatiuis quaestionibus aliud quaeritur nisi an subiecto praedicatus inhaereat. Quod si inesse constiterit,
+quaeritur itane insit, ut genus, aut accidens, aut ut proprium, aut ut definitio. Nam si ostenditur non inesse, de
+quaestione nihil relinquitur. Nam quod non inest, omnino nec ut accidens, nec ut definitio, nec ut genus, nec ut
+proprium inesse potest. Quod si inesse constiterit, restat quaestio, quisnam modus sit de quattuor inhaerendi.
+Solum uero inesse ad accidens maxime pertinet, nam cum neque ut genus, neque ut definitio, neque ut
+proprium inest sed inest tamen, ut accidens inesse necesse est.
+
+

@@ -1,0 +1,66 @@
+Unde non sequitur: si est factum habet principium, ergo si non est factum
+non habet principium; sed sequeretur: ergo si non habet principium, non est
+factum.
+|#5
+Secundo, ibi: postea et hoc inconveniens etc., improbat praedictam
+rationem quantum ad illam illationem: non habet principium, ergo est
+infinitum.
+Principium enim dicitur dupliciter. Uno modo dicitur principium temporis et
+generationis; et sic accipitur principium cum dicitur: quod factum est
+habet principium, vel quod non est factum non habet principium.
+Alio modo est principium rei vel magnitudinis, et sic sequeretur: si non
+habet principium est infinitum.
+Unde patet quod accipit nomen principii ac si esset uno modo dictum. Et hoc
+est quod dicit, quod inconveniens est dicere quod principium omnis, id est
+cuiuscumque habentis principium, sit principium rei, idest magnitudinis; et
+quod non sit alio modo dictum principium temporis et generationis.
+Non tamen ita quod simplex generatio et momentanea, quae est inductio
+formae in materiam, habeat principium, quia simplicis generationis non est
+accipere principium: sed totius alterationis, cuius terminus est generatio,
+est accipere principium, cum non sit momentanea mutatio, et aliquando
+generatio dicatur propter suum terminum.
+|#6
+Tertio, ibi: postea propter quid etc., improbat praedictam positionem
+quantum ad tertiam illationem, qua infertur: est infinitum, ergo est
+immobile.
+Et ostendit quod hoc non sequitur dupliciter.
+Primo quidem in motu locali: quia aliqua pars aquae potest moveri in
+seipsa, ita quod non moveatur ad locum extrinsecum, sed secundum
+congregationem et disgregationem partium; et similiter, si totum corpus
+infinitum esset aqua, esset possibile quod partes eius moverentur infra
+totum, et non procederent extra locum totius. Item improbat quantum ad
+motum alterationis: quia nihil prohiberet infinitum alterari vel in toto
+vel in partibus; non enim propter hoc oporteret ponere aliquid extra
+infinitum.
+|#7
+Quarto, ibi: at vero nec specie etc., improbat praedictam rationem
+quantum ad quartam illationem, qua concludebatur quod si ens est infinitum,
+quod sit unum. Non enim sequebatur quod sit unum secundum speciem, sed
+forte secundum materiam: sicut quidam Philosophorum naturalium posuerunt
+omnia esse unum secundum materiam, non autem secundum speciem. Manifestum
+est enim quod homo et equus differunt secundum speciem; et similiter
+contraria sunt differentia ad invicem secundum speciem.
+|+6
+
+Lectio 6
+
+|#1
+Postquam Philosophus improbavit rationem melissi, hic improbat
+rationem Parmenidis.
+Et primo improbat eam; secundo excludit dicta quorundam qui male obviabant
+rationi Parmenidis, ibi: quidam autem rationibus etc..
+Circa primum duo facit: primo ponit modos quibus obviandum est rationi
+Parmenidis; secundo illis modis eam solvit ibi: falsa quidem etc..
+|#2
+Circa primum sciendum est quod ratio Parmenidis talis erat, ut patet
+in I metaphys..
+Quidquid est praeter ens est non ens; sed quod est non ens est nihil; ergo
+quidquid est praeter ens est nihil. Sed ens est unum; ergo quidquid est
+praeter unum est nihil; ergo est tantum unum ens. Et ex hoc concludebat
+quod esset immobile, quia non haberet a quo moveretur, nec haberet extra se
+quo moveretur.
+Ex ipsis autem eorum rationibus patet quod Parmenides considerabat ens
+secundum rationem entis, et ideo ponebat ens esse unum et finitum: melissus
+12
+
+

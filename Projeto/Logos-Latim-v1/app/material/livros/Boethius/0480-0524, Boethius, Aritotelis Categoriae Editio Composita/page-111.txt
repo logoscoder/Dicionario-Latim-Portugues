@@ -1,0 +1,62 @@
+uerba sic constant: QUONIAM VERO, inquit, ALIA QUIDEM PRAEDICANTUR coniuncta et COMPOSITA, ut ex
+his unum praedicamentum fiat eorum quae extra uere dicta sunt, alia uero cum extra singillatimque uere praedicarentur
+iuncta ueram non faciunt praedicationem, inquirendum est quae eorum sit differentia. Exempla autem horum talia sunt.
+Eorum quidem, quae extra praedicantur uere nec si coniuncta sunt naturam ueritatis amittunt, tale exemplum est: DE
+HOMINE VERUM EST DICERE, quoniam et animal est et bipes rursus quoniam animal bipes uerum est de eodem
+homine dicere, ut de Socrate. De eodem quoque Socrate et hominem extra et album, si ita contingit, uerum est dicere et
+de eo praedicare animal bipes a ueritate non discrepat.
+Atque haec quid em extra singillatimque praedicantur uere et iuncta uera sunt. Quod si de aliquo praedicetur,
+quoniam citharoedus est, et uerum sit et rursus quoniam bonus est, et uerum sit non necesse est dici quoniam bonus
+citharoedus est potest enim esse solum quidem citharoedus, bonus autem homo. Hucusque quidem ista disposuit.
+Quoniam autem uidebantur quidam arbitrari, quod omnia quae singillatim uere praedicarentur eadem quoque composita
+recte dicerentur, contra hos dicit, quoniam multa erunt inconuenientia multaque impossibilia sunt si quis dicat omne
+quod singillatim praedicatur ueraciter id iunctum uere praedicari. De homine enim uerum est dicere quoniam homo est.
+Nam de Socrate /365/ qui homo est uere dicitur quoniam homo est.
+Rursus de eodem uere potest dici quoniam albus est. Quare et si haec iungas et ut unum praedices, uerum est
+dicere de aliquo homine quoniam homo albue est. Sed homo qui albus est uerum est de eo dicere quoniam albus est:
+quare etiam haec si iungas: erit igitur praedicatio "Socrates homo albus albus est"! Nam de Socrate uerum erat dicere
+quoniam homo albus est. Sed de homine albo uerum est dicere quoniam albus est. Haec iuncta homo albus albus
+faciunt. Quod si de eodem homine albo album rursus praedicari uelis, uerum est: quocirca et si iungas: erit igitur
+praedicatio homo albus albus albus est. Atque hoc idem in infinitum.
+Rursus si quis de aliquo homine dicat quoniam ille homo musicus est, si uerum dicat adiciatque quoniam idem
+homo ambulans est, uerum dicit, si iungat quoniam ille homo ambulans musicus est. Sed si uerum est de aliquo homine
+praedicare quod sit ambulans musicus, de ambulante autem musico uerum est dicere quoniam musicus est, erit ille
+homo homo ambulans musicus musicus. Sed de eodem uerum est dicere quoniam ambulans est, uerum igitur erit de eo
+rursus dicere quoniam homo ambulans ambulans musicus musicus est.
+Amplius quoque Socrates Socrates est et rursus homo: erit igitur Socrates Socrates homo. Sed et bipes: erit
+igitur Socrates Socrates homo bipes. Sed de Socrate uerum est dicere quoniam Socrates homo bipes est. Sed cum dixi
+hominem de eo, iam et bipedem /366/ dixi (omnis enim homo bipes est): uerum est ergo de eo dicere quoniam bipes
+est. Sed uerum erat dicere quoniam Socrates Socrates homo bipes est: uera erit igitur praedicatio Socrates homo bipes
+bipes est. Sed rursus hominem dixi atque in eo aliud bipes nominaui (omnis enim homo bipes est): Socrates igitur homo
+bipes bipes bipes est. Et hoc in infinitum protractum superfiua loquacitas inuenitur. Non igitur fieri potest ut modis
+omnibus quicquid extra dicitur id iunctum uere praedicetur.
+QUONIAM ERGO SI QUIS SIMPLICITER PONAT COMPLEXIONES FIERI PLURIMA
+INCONVENIENTIA CONTINGIT DICERE MAUIFESTUM EST; QUEMADMODUM AUTEM PONENDUM,
+NUNC DICIMUS. EORUM IGITUR QUAE PRAEDICANTUR ET DE QUIBUS PRAEDICANTUR
+QUAECUMQUE SECUNDUM ACCIDENS DICUNTUR VEL DE EODEM VEL ALTERUM DE ALTERO, HAEC
+NON ERUNT UNUM, UT HOMO ALBUS EST ET MUSICUS SED NON EST IDEM ALBUM ET MUSICUM;
+ACCIDENTIA ENIM SUNT UTRAQUE EIDEM.
+NEC SI ALBUM MUSICUM VERUM EST DICERE, TAMEN NON ERIT ALBUM MUSICUM UNUM
+ALIQUID; SECUNDUM ACCIDENS ENIM MUSICUM ALBUM. QUARE NON ERIT ALBUM MUSICUM.
+QUOCIRCA NEC CITHAROEDUS BONUS SIMPLICITER SED ANIMAL BIPES; NON ENIM SECUNDUM
+ACCIDENS. AMPLIUS NEC QUAECUMQUE INSUNT IN ALTERO. QUARE NEQUE ALBUM FREQUENTER
+NEQUE /367/ HOMO HOMO ANIMAL VEL BIPES; INSUNT ENIM IN HOMINE BIPES ET ANIMAL.
+Quae superius comprehendit ea nunc apertissima ratione determinat dicens de his solis extra praedicatis
+ueraciter non posse unam praedicationem fieri ueram, si coniuncta sins, quaecumque aut accidentia sunt eidem, aut
+cum unum alii accidit, accidens aliud de illo accidenti praedicatur. Si quis enim de Socrate dicat quoniam Socrates
+citharoedus est, rursus Socrates bonus est, si utraque ueraciter praedicet, duo accidentia de uno subiecto praedicauit, id
+est de Socrate. Quocirca non potest ex his una fieri praedicatio, ut dicatur Socrates citharoedus bonus est.
+Rursus si de Socrate praedicetur musicus (sit enim Socrates musicus), de musico autem si praedicetur albus, et
+hoc fortasse sit uerum, non tamen iam necesse est musicum album esse. Si enim sit musicus Socrates, si de eodem
+musico albus praedicetur, praedicatur quidem de Socrate subiecto musicus, de musico autem quod est accidens
+praedicatur album, rursus aliud accidens: ergo non potest hic una fieri uera propositio ut dicatur: Socrates musicus
+albus est. Neque enim semper musicus albus esse potest sed hanc naturam habent accidentia, ut ueniant et recedant.
+Ergo si eius, qui musicus albus est, in sole stantis cutem calor fuscauerit, non erit quidem albus cum sit musicus.
+Quocirca neque tunc cum uere praedicabatur, quoniam Socrates musicus albus est, neque tunc fuit recta ueraque
+praedicatio.
+Non enim habet permanendi naturam accidens, ut semper uere praedicetur. Ratio autem uerborum sic constat:
+quoniam ergo, inquit, si quis /368/ dicat omnino quomodolibet complexiones fieri, id est ut quod singillatim
+praedicaueras hoc complexum conexumque proponas, plurima inconuenientia dicere contingit (multa enim concurrunt
+impossibilia, sicut supra ipse monstrauit, tunc quando ad nimiam loquacitatem perduxit eos eadem frequenter nomina
+
+

@@ -1,0 +1,59 @@
+'igitur homo est animal'. Similiter sequitur 'homo est animal, igitur homo est hoc animal uel illud animal
+uel illud', et sic de singulis. Et bene sequitur 'homo est hoc animal', quocumque animali demonstrato, 'igitur
+homo est animal'. Ideo tam 'homo' quam 'animal' habet suppositionem determinatam.
+Suppositio personalis confusa est omnis suppositio personalis termini communis, quae non est
+determinata. Et illa diuiditur, quia quaedam est suppositio confusa tantum et quaedam est suppositio confusa et
+distributiua.
+Suppositio personalis confusa est omnis suppositio personalis termini communis, quae non est
+determinata. Et illa diuiditur, quia quaedam est suppositio confusa tantum et quaedam est suppositio confusa et
+distributiua.
+Suppositio personalis confusa tantum est quando terminus communis supponit personaliter et non
+contingit descendere ad singularia per disiunctiuam, nulla uariatione facta a parte alterius extremi, sed per
+propositionem de disiuncto praedicato, et contingit eam inferri ex quocumque singulari. Verbi gratia in ista
+'omnis homo est animal', li animal supponit confuse tantum, quia non contingit descendere sub animali ad sua
+contenta per disiunctiuam; quia non sequitur 'omnis homo est animal, igitur omnis homo est hoc animal, uel
+onmis homo est illud animal, uel omnis homo est aliud animal' et sic de singulis. Sed bene contingit descendere
+ad propositionem de disiuncto praedicato ex singularibus, quia bene sequitur
+'omnis homo est animal, igitur omnis homo est hoc animal uel illud', et sic de singulis; quia consequens
+est una categorica, composita ex hoc subiecto
+'homo' et hoc praedicato 'hoc animal uel illud uel illud', et sic de singulis. Et manifestum est quod hoc
+praedicatum uere praedicatur de omni homine, ideo illa uniuersalis est simpliciter uera. Et similiter ista infertur
+ex quolibet contento animalis, nam bene sequitur 'omnis homo est hoc animal', quocumque animali demonstrato,
+'igitur omnis homo est animal'.
+'homo' et hoc praedicato 'hoc animal uel illud uel illud', et sic de singulis. Et manifestum est quod hoc
+praedicatum uere praedicatur de omni homine, ideo illa uniuersalis est simpliciter uera. Et similiter ista infertur
+ex quolibet contento animalis, nam bene sequitur 'omnis homo est hoc animal', quocumque animali demonstrato,
+'igitur omnis homo est animal'.
+Suppositio confusa et distributiua est quando contingit aliquo modo descendere copulatiue, si habeat
+multa contenta et ex nullo uno formaliter infertur. Sicut est in ista 'omnis homo est animal', cuius subiectum
+supponit confuse et distributiue: sequitur enim 'omnis homo est animal, igitur iste homo est animal et ille homo
+est animal', et sic de singulis; et non sequitur formaliter 'iste homo est animal', quocumque demonstrato,
+'igitur omnis homo est animal'.
+'igitur omnis homo est animal'.
+Quod dixi 'aliquo modo contingit descendere', hoc dixi quia non semper eodem modo contingit
+descendere. Nam aliquando contingit descendere nulla uariatione facta circa propositiones nisi quod in prima
+subicitur uel praedicatur terminus communis, et postea accipiuntur singularia, sicut patet in exemplo praedicto.
+Aliquando autem contingit descendere aliqua uariatione facta, immo aliquo dempto in una propositione quod
+accipitur in alia, quod nec est terminus communis nec contentum sub termino communi. Verbi gratia sic dicendo
+'omnis honio praeter Sortem currit' bene contingit aliquo modo descendere ad aliqua singularia copulatiue; nam
+bene sequitur 'omnis homo praeter Sortem currit, igitur Plato currit et Cicero currit', et sic de aliis, [aliis] a Sorte.
+Sed in istis singularibus aliquid dimittitur quod accipiebatur in uniuersali, quod non fuit terminus communis nec
+signum distribuens ipsum, scilicet dictio exceptiua cum parte extra capta. Et ita non eodem modo contingit
+descendere sub ista 'omnis homo praeter Sortem currit' et sub ista 'omnis homo currit', nec etiam ad omnia eadem
+contingit descendere.
+Quod dixi 'aliquo modo contingit descendere', hoc dixi quia non semper eodem modo contingit
+descendere. Nam aliquando contingit descendere nulla uariatione facta circa propositiones nisi quod in prima
+subicitur uel praedicatur terminus communis, et postea accipiuntur singularia, sicut patet in exemplo praedicto.
+Aliquando autem contingit descendere aliqua uariatione facta, immo aliquo dempto in una propositione quod
+accipitur in alia, quod nec est terminus communis nec contentum sub termino communi. Verbi gratia sic dicendo
+'omnis honio praeter Sortem currit' bene contingit aliquo modo descendere ad aliqua singularia copulatiue; nam
+bene sequitur 'omnis homo praeter Sortem currit, igitur Plato currit et Cicero currit', et sic de aliis, [aliis] a Sorte.
+Sed in istis singularibus aliquid dimittitur quod accipiebatur in uniuersali, quod non fuit terminus communis nec
+signum distribuens ipsum, scilicet dictio exceptiua cum parte extra capta. Et ita non eodem modo contingit
+descendere sub ista 'omnis homo praeter Sortem currit' et sub ista 'omnis homo currit', nec etiam ad omnia eadem
+contingit descendere.
+Prima suppositio confusa et distributiua uocatur suppositio confusa et distributiua mobilis, secunda
+uocatur confusa et distributiua immobilis.
+130
+
+

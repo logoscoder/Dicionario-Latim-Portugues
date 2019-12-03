@@ -1,0 +1,61 @@
+logice loquendo. Nunc autem postquam iam descendit ad principia naturalia quae sunt materia et forma, et ostendit
+quomodo diversimode comparantur ad universale et particulare quod subsistit in natura, excipit hic ab eo quod supra
+dixerat idem esse quod quid est cum unoquoque, substantias materiales in rerum natura existentes. Relinquitur autem
+quod illae substantiae quae sunt formae tantum subsistentes, non habent aliquid per quod individuentur, quod sit extra
+rationem rei vel speciei significantem quod quid est. Et ideo in illis simpliciter verum est, quod quaelibet illarum est
+suum quod quid erat esse.
+Lectio 12
+[83108] In Metaphysic., lib. 7 l. 12 n. 1
+Postquam ostendit philosophus quae partes in definitione ponantur, hic inquirit quomodo definitio ex partibus existens,
+possit esse una: et circa hoc tria facit. Primo movet dubitationem. Secundo obiicit ad utramque partem, ibi, in hoc
+namque homo. Tertio solvit quaestionem, ibi, oportet autem intendere et cetera. Dicit ergo, quod nunc primum debet
+dicere de definitione id quod non est de ea dictum in analyticis, idest in libro posteriorum. Ibi enim mota est quaedam
+dubitatio de definitione, et non soluta, quam oportet hic solvere, quia est praeopere rationibus de substantia, idest quia
+solutio huius quaestionis est pernecessaria ad ea quae sunt de substantia determinanda, de qua est principalis intentio
+huius scientiae. Est autem ista dubitatio, quare illud, cuius definitio est ratio, est unum, scilicet quod quid est. Definitio
+enim ratio est significans quod quid est, sicut definitio hominis est animal bipes. Ponatur enim quod haec sit eius
+definitio: quare igitur hoc, quod dicitur animal bipes, est unum, et non multa?
+[83109] In Metaphysic., lib. 7 l. 12 n. 2
+Deinde cum dicit in hoc namque obiicit pro utraque parte: et primo ad ostendendum quod ex eis non fiat unum.
+Secundo ad contrarium, ibi, oportet autem unum. Circa primum duo facit. Primo ostendit, quod ex genere et differentia
+non fit unum. Secundo quod nec ex pluribus differentiis, ibi, si vero et participat. Dicit ergo primo, quod in hoc quod
+est homo et album, ista duo sunt multa, quando alterum eorum non inest alteri. Si enim album non insit homini, tunc
+homo et album nullo modo sunt unum. Unum vero sunt, quando alterum eorum inest alteri, et subiectum, quod est
+homo patitur alterum, idest suscipit hanc passionem, quae est album. Tunc autem ex his duobus fit unum per accidens
+quod est albus homo. Ex his accipitur, quod ex duobus, quorum unum non inest alteri, non fit unum. Sed hic, scilicet
+cum dicitur animal bipes, alterum eorum, scilicet animal, non participat altero, scilicet bipede, sicut homo albus
+participat albo. Et hoc ideo, quia animal est genus, bipes vero differentia. Genus vero non videtur participare
+differentiis. Sequeretur enim quod idem participaret simul contrariis. Differentiae enim sunt contrariae quibus genus
+differt, idest per quas genus dividitur; et pari ratione per quam participaret unam, participaret aliam. Si autem est
+impossibile quod idem participet contraria, impossibile erit, quod ex genere et differentia fiat unum.
+[83110] In Metaphysic., lib. 7 l. 12 n. 3
+Deinde cum dicit si vero ostendit quod ex pluribus differentiis non potest fieri unum; dicens, quod si detur genus
+participare aliquo modo differentia, prout scilicet animal non accipitur in sua communitate, sed contrahitur per
+differentiam ad speciem, et sic per consequens ex genere et differentia fieri unum, tamen adhuc erit eadem ratio ad
+ostendendum quod definitio non significat unum, si sunt plures differentiae in definitione positae. Sicut si ponantur in
+definitione hominis istae tres differentiae, quarum prima sit gressibile vel habens pedes, secunda sit bipes, tertia vero
+non alatum. Non enim poterit dici quare ista sunt unum et non multa.
+[83111] In Metaphysic., lib. 7 l. 12 n. 4
+Non enim est sufficiens ad hoc ratio quia insunt uni, utputa animali, quod est homo; sic enim sequeretur, quod omnia
+essent unum. Sequeretur enim quod omnia accidentia, quae insunt alicui subiecto, essent unum per se. Sic enim
+loquimur de uno et adinvicem et ad subiectum. Et cum ea quae accidunt uni subiecto accidant etiam alteri, sequeretur,
+quod illa duo subiecta etiam essent unum, puta nix et cygnus quibus inest albedo. Et sic deducendo sequeretur, quod
+omnia essent unum. Non ergo potest dici quod ex pluribus differentiis fiat unum, etiam dato quod ex genere et
+differentia fiat unum. Et sic ex duabus partibus videtur quod definitio non significet unum.
+[83112] In Metaphysic., lib. 7 l. 12 n. 5
+Deinde cum dicit oportet autem obiicit in contrarium; ostendens quod definitio significet unum; dicens, quod oportet
+quaecumque in definitione ponuntur esse unum. Et hoc ideo, quia definitio est una ratio; et id quod significatur per
+ipsam, est substantia rei. Unde oportet quod definitio sit ratio significativa unius alicuius; quia substantia rei, quam
+definitio significat, est unum quid. Et etiam supra dictum est, quod definitio significat hoc aliquid, ubi ostensum est
+quod definitio est proprie substantiarum.
+[83113] In Metaphysic., lib. 7 l. 12 n. 6
+Deinde cum dicit oportet autem solvit praemissam quaestionem; ostendens quod definitio significet unum: et circa hoc
+duo facit. Primo ostendit quomodo ex genere et differentia fit unum. Secundo quomodo ex pluribus differentiis fiat
+unum, ibi, at vero oportet dividi. Dicit ergo primo, quod ad investigandum unitatem definitionum oportet primum
+intendere de definitionibus quae dantur secundum divisionem generis in differentias. Istae enim sunt definitiones verae,
+in quibus non est aliud quam primum genus et differentiae. Dantur enim et quaedam definitiones per aliqua accidentia,
+vel per aliquas proprietates, vel etiam per aliquas causas extrinsecas, quae non significant substantiam rei. Et ideo
+huiusmodi definitiones non sunt ad propositum, cum hic agatur de definitionibus ad substantias rerum investigandas.
+[83114] In Metaphysic., lib. 7 l. 12 n. 7
+
+

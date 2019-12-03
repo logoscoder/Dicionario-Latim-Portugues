@@ -1,0 +1,56 @@
+adhuc oporteret quaerere demonstrationem ad habendum scientiam, neque per sensuum perceptionem sciremus:
+quia sensus est singularium, scientia autem consistit in hoc quod universale cognoscimus, ut ostensum est. Et
+quia posuerat exemplum de his quae sensu percipi non possunt, ad maiorem evidentiam ponit exemplum in his
+quae sensibilia sunt, videlicet in eclipsi lunae, quae contingit ex oppositione terrae, quae interponitur inter solem
+et lunam, ut claritas solis non possit pertingere ad lunam propter umbram terrae, quam dum luna subintrat,
+eclipsatur. Ponamus ergo quod aliquis esset in ipsa luna, et sensu perciperet interpositionem terrae per umbram
+ipsius: sensu quidem perciperet quod luna tunc deficeret ex umbra terrae, sed non propter hoc sciret totaliter
+causam eclipsis.
+Illud enim est per se causa eclipsis, quod causat universaliter eclipsim. Universale autem non cognoscitur sensu;
+sed ex pluribus singularibus visis, in quibus multoties consideratis invenitur idem accidere, accipimus
+universalem cognitionem. Et sic per causam universalem demonstramus aliquid in universali, de quo est scientia.
+|#8 Deinde cum dicit: universale autem honorabilius etc., ostendit quod scientia est potior quam sensus.
+Manifestum est enim quod cognitio quae est per causam, nobilior est: causa autem per se est universalis causa, ut
+iam dictum est; et ideo cognitio per universalem causam, qualis est scientia, est honorabilis. Et quia huiusmodi
+universalem causam impossibile est apprehendere per sensum, ideo consequens est quod scientia, quae ostendit
+causam universalem, non solum sit honorabilior omni sensitiva cognitione, sed etiam omni alia intellectiva
+cognitione, dummodo sit de rebus quae habent causam; quia scire aliquid per causam universalem est nobilius
+quam intelligere qualitercunque id quod habet causam sine cognitione suae causae. Sed de primis, quae non
+habent causam, est alia ratio. Illa enim per se intelliguntur; et talis eorum cognitio est certior omni scientia, quia
+ex tali intelligentia scientia certitudinem habet.
+|#9 Ultimo concludit principale propositum, quod scilicet impossibile sit per sensum cognoscere aliquid
+demonstrabile; nisi forte aequivoce utatur aliquis nomine sensus, vocans demonstrativam scientiam sensum,
+propter hoc quod scientia demonstrativa est determinate unius secundum certitudinem, sicut et sensus. Propter
+quod et certae existimationes scientiae vocantur.
+|#10 Deinde cum dicit: sunt tamen quaedam reducta etc., ostendit quomodo sensus ordinatur ad scientiam.
+Quaedam enim problematicae dubitationes reducuntur sicut in causam ad defectum sensus. Quaedam enim sunt
+de quibus non quaereremus dubitando, si ea vidissemus; non quidem eo quod scientia consistat in videndo, sed
+in quantum ex rebus visis per viam experimenti accipitur universale, de quo est scientia.
+Puta si videremus vitrum perforatum, et quomodo lumen pertransit per foramina vitri, sciremus propter quid
+vitrum est transparens. Et utitur hoc exemplo secundum opinionem eorum qui ponebant lumen esse corpus, et
+quaedam corpora esse transparentia propter subtilia quaedam foramina, quae pori dicuntur; quos quia visu
+discernere non possumus propter parvitatem, dubitamus quare vitrum sit transparens. Et posset simile exemplum
+poni de quibuscunque rebus quae habent causam sensibilem latentem. Et quia dixerat quod scientia huiusmodi
+rei non est in videndo, manifestat hoc esse verum. Nam in videndo cognoscimus seorsum unumquodque
+singularium; sed in sciendo oportet omnia intelligere simul in universali, ut scilicet intelligamus ita se habere in
+omnibus. Videmus enim singillatim de diversis vitris, sed scientiam accipimus de omni vitro, quod sit tale.
+|+43 Lectio 43
+|#1 Postquam Philosophus prosecutus est de illis quorum est scientia, hic prosequitur de principiis scientiarum,
+ostendens non esse eadem principia omnium syllogismorum. Et primo, ostendit hoc logice, idest per rationes
+communes omnibus syllogismis; secundo, ostendit hoc analytice, scilicet per rationes proprias demonstrationis;
+ibi: si vero aliter etc.. Circa primum tria facit: primo, ostendit propositum per differentiam syllogismorum
+falsorum a veris; secundo, per differentiam falsorum ad invicem; ibi: postea neque falsae etc.; tertio, per
+differentiam syllogismorum verorum ad invicem; ibi: neque verorum etc.. Circa primum duo facit; primo,
+ostendit propositum; secundo, excludit quamdam obviationem; ibi: et si namque sit verum etc..
+|#2 Dicit ergo primo quod, primo logice speculando, manifestum est quod non possunt esse eadem principia
+omnium syllogismorum, propter hoc quod quidam syllogismi sunt falsi, idest concludentes falsum, et quidam
+veri, idest concludentes verum. Syllogismorum autem falsorum et verorum sunt diversa principia. Nam
+syllogismorum verorum sunt principia vera; syllogismorum autem falsorum sunt principia falsa. Non ergo
+omnium syllogismorum sunt eadem principia.
+|#3 Deinde cum dicit: et si namque sit verum etc., excludit quamdam obviationem. Posset enim aliquis dicere
+quod etiam syllogismorum verorum sunt principia falsa, quia contingit ex falsis syllogizare verum. Sed hoc
+excludit dicens quod quamvis contingat syllogizare verum ex falsis, tamen hoc solum contingit semel in primo
+syllogismo, quo ex falsis concluditur verum. Sed si oporteat alios syllogismos inducere ad probandum
+71
+
+

@@ -1,0 +1,61 @@
+b, non esse a, frustra est prima propositio, quae, cum a non sit, b non esse pronuntiat; fiet igitur rursus ut idem b sit ac
+non sit.
+[2.3.8] Ex assumptione namque erit b; ita enim dicitur:
+Atqui est b
+si uero hoc posito possit non esse a, rursus b non erit, quia prima propositio ait:
+Si non sit a, non est b
+quod est impossibile. Quod si ea portio propositionis quae praecedens est auferatur, nihil euenit necessarium.
+Age enim ita dicamus:
+Si non est a, non est b
+assumamusque:
+Atqui est a
+non consequitur ut b uel esse uel non esse necessario concludatur, ut in hoc syllogismo:
+Si non est animal, non est homo; Atqui est animal;
+non necesse est uel esse hominem uel non esse. Hi igitur quatuor syllogismi imperfecti /274/ dicuntur, idcirco
+quoniam per se non habent apertam atque perspicuam consequentiae necessitatem, eaque illis ex probatione conficitur.
+[2.4.1] Ut igitur breuiter concludendum sit, in hypotheticis simplicibus syllogismis connexas habentibus
+propositiones, quoquo modo factis, si quidem prima pars propositionis assumitur, si ea ponatur, fient quatuor
+syllogismi per se cogniti atque perfecti; si uero id quod consequitur assumatur, nulla est syllogismo necessitas, nisi in
+tertio tantum modo, qui non propter complexionis naturam sed propter terminorum contrarietatem, in quibus solis dici
+potest, uidetur conclusionis necessitatem tenere.
+[2.4.2] Itaque si quid in assumptione ex his quae in propositione sunt prolata ponatur, quatuor uel quinque fieri
+necesse est syllogismos perfectos: quatuor, ubi prima pars propositionis, quintum uero, ubi secunda pars propositionis
+ponendo assumitur, si non ad complexionis naturam sed ad terminos aspiciamus. Si quid uero ex his quae in
+assumptione prima propositio enuntiat, auferatur, si quidem consequens pars propositionis auferatur, fient imperfecti et
+probatione indigentes quatuor syllogismi; si uero prior propositionis pars auferatur, nulla erit necessitas syllogismi, nisi
+in tertio tantum modo, ubi non facit necessitatem complexionis sed terminorum natura.
+[2.4.3] Quocirca hi quoque quatuor uel quinque sunt syllogismi: quatuor quidem, si secunda propositionis pars
+fuerit interempta; quintus /276/ uero, si eum non complexionis natura sed terminorum proprietate metiamur. Quocirca
+si ex duobus terminis propositio prima consistat, octo sunt uel decem, nec amplius syllogismi. Ac de his quidem
+conditionalibus syllogismis, quorum propositiones connexae sunt, et ex duabus praedicatiuis simplicibus constant,
+sufficienter expeditum est. Nunc de his syllogismis dicendum est, qui uel ex praedicatiua et hypothetica, uel ex
+hypothetica praedicatiuaque nectuntur. Horum autem facile complexiones omnium syllogismorum apparebunt, si prius
+earum numerus exponatur.
+[2.4.4] Sunt igitur priores quidem quae ex praedicatiua atque hypothetica connectuntur hae:
+Si sit a, cum sit b, est c.
+Si est a, cum sit b, non est c.
+Si est a, cum non sit b, est c.
+Si est a, cum non sit b, non est c.
+Si non est a, cum sit b, est c.
+Si non est a, cum sit b, non est c.
+Si non est a, cum non sit b, est c.
+Si non est a, cum non sit b, non est c.
+[2.4.5] Ac primum quae sit earum natura, uidetur esse tractandum.
+Neque enim quoquo modo conditio ponatur, conditionalis propositio fiet sed si illa consequentia propter
+positam euenit conditionem. Nam si quis ita dicat:
+Si homo est, cum sit animal, animatum est
+non uidetur facere apposita conditio consequentiae necessitatem; nam etiam si non sit homo, nihilominus
+tamen, cum sit animal, animatum est. At si ita ponatur:
+Si homo /278/ est, cum sit animatum, animal est
+uidetur consequentiae ratio in conditione consistere. Neque enim necesse est, cum animatum sit, esse animal,
+nisi homo uel tale aliquid fuerit, quod animatum esse proponitur; tunc enim quod animatum est, animal esse necesse
+est, homo namque uel quodlibet aliud tale animal est. Per singulas igitur propositiones eundum est, et spectanda est
+earum singularis natura hoc modo.
+[2.4.6] Prima propositio per quam enuntiatur si est a, cum sit b, esse c, talis esse debet ut b quidem possit esse
+etiam praeter a, si tamen a fuerit, b non esse non possit; rursus idem b terminus possit esse etiam cum non est c, nec sit
+necesse ut b posito sit etiam c sed tunc tantum necesse sit esse c, quando b terminus a terminum sequitur, ut si sit a
+homo, b animatum, c animal. Animatum enim et praeter hominem et praeter animal esse potest; si uero sit homo,
+animatum esse necesse est, et cum animatum hominis essentiam consequatur, consequitur ut idipsum animatum sit
+animal.
+
+

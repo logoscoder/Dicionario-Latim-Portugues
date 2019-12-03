@@ -1,0 +1,58 @@
+enim duobus modis potest alteri lineae coniungi: uno modo secundum longitudinem, quod est secundum
+punctualem contactum, inquantum scilicet longitudini unius lineae coniungitur in puncto longitudo alterius
+lineae, sive faciat angulum cum ea sive non; alio modo secundum latitudinem, quod est secundum appositionem
+totius lineae ad totam lineam in via latitudinis.
+Et similiter oportet quod superficies componatur superficiei dupliciter: scilicet secundum profunditatem, puta si
+tota una superficies supponatur alteri superficiei; et secundum linearem contactum, sive constituat angulum
+corporalem sive non. Et ad exponendum quod dixerat, subdit quod linea potest componi lineae secundum hoc
+quod supponatur alteri, et non solum secundum hoc quod apponatur ei secundum contactum linearem.
+|#3 Quia igitur duplex est modus quo superficies coniungi possunt; et secundum alterum modum, scilicet
+secundum contactum linearem, compositae faciunt omnia elementa; sequetur quod, si componantur secundum
+latitudinem, idest supponendo superficiem superficiei, id quod componetur ex superficiebus sic compositis, erit
+corpus quod nec est elementum nec ex elementis. Quod autem non sit elementum patet, quia omnia elementa
+constituuntur secundum alium modum coniunctionis superficierum. Quod autem non sit ex elementis patet, quia
+ista compositio superficierum, quae est secundum superpositionem, videtur constituere ipsam profunditatem
+corporis, quae est eius substantia; alia vero compositio superficierum constituit corpus secundum figuram, quae
+est forma adveniens substantiae corporali.
+Unde compositio suppositionis erit prior: et id quod est constitutum ex tali modo compositionis, videtur
+comparari ad id quod est constitutum secundum alium modum compositionis, sicut materia ad formam. Ex
+superficiebus autem, secundum opinionem Platonis, natum est componi corpus. Sequitur igitur quod id quod
+praecedit omnia elementa, sicut elementorum materia suscipiens omnes figuras seu formas eorum, sit corpus. Et
+hoc reputabat Plato inconveniens: non enim primam materiam dicebat esse corpus, sicut quidam antiqui
+naturales posuerunt.
+|#4 Deinde cum dicit: adhuc si quidem etc., ponit tertiam rationem; quae talis est. Cum ex superficiebus
+constituantur corpora, quorum quaedam sunt aliis graviora, hoc potest contingere dupliciter. Uno modo sic, quod
+corpus constituatur gravius ex hoc quod ex pluribus superficiebus componitur, sicut dicitur in timaeo. Et ex hoc
+sequetur quod superficies sint graves: quia excessus in gravitate non fit nisi secundum aliquid grave, ut supra
+dictum est. Et ex hoc sequetur ulterius quod lineae et puncta habeant gravitatem: haec enim proportionaliter se
+habent, sicut prius dictum est; quia scilicet sicut superficies se habet ad corpus, ita linea ad superficiem, et
+punctum ad lineam. Puncta autem habere gravitatem, supra improbatum est. Alius autem modus est, quod
+corpora gravia a levioribus non differant per hunc modum, idest per multitudinem superficierum; sed per hoc
+quod terra componitur ex gravibus, et ignis ex levibus. Et ita sequetur quod superficierum quaedam erunt leves,
+et quaedam graves, et similiter linearum et punctorum: quia superficies terrae erit gravior quam superficies ignis.
+Et ita redibit idem inconveniens ut prius.
+|#5 Deinde cum dicit: totaliter autem accidit etc., ponit quartam rationem; dicens quod accidit secundum
+positionem Platonis, quod nulla sit magnitudo, vel quod omnis magnitudo possit auferri, idest esse desinere.
+Quia similiter se habet punctum ad lineam, et linea ad superficiem, et superficies ad corpus: et ita, si corpus
+componatur ex superficiebus, poterit in superficiem resolvi; et eadem ratione omnes magnitudines resolventur in
+prima, idest in puncta. Et sic sequeretur quod nullum sit corpus, sed solum puncta. Nec est simile si quis velit
+argumentari quod potest contingere nulla corpora mixta esse, quia possunt resolvi in elementa ex quibus
+componuntur: quia huiusmodi corpora supponuntur caelestibus corporibus, quae operantur in eis mixtionem;
+puncta autem non supponuntur aliquibus superioribus principiis, quae eis inferant necessitatem compositionis.
+|#6 Deinde cum dicit: adhuc autem etc., ponit quintam rationem; dicens quod, si tempus hoc modo se habeat
+quod componatur ex instantibus, sicut corpus ex superficiebus vel linea ex punctis (quod totum est unius rationis,
+ut probatur in VI physic.), sequitur quod etiam tempus continget totaliter tolli per resolutionem in sua
+indivisibilia: quia ipsum nunc est indivisibile temporis, sicut punctum est indivisibile lineae.
+|#7 Deinde cum dicit: idem autem accidit etc., assimilat praedictam positionem positioni Pythagoricorum.
+Et dicit quod eadem inconvenientia accidunt illis qui ponunt caelum constitui ex numeris.
+Quidam enim Pythagoricorum posuerunt totam naturam ex numeris esse constitutam, ratione supra dicta, quos
+Plato secutus est. Hoc autem improbat Philosophus hic: quia corpora naturalia habent gravitatem et levitatem;
+unitates autem ad invicem coniunctae, non possunt facere corpus quod sit continuum, sed aliquid discretum; nec
+etiam habent gravitatem, quia abstrahunt a situ, et per consequens a loco.
+Ultimo autem epilogando concludit quod neque omnium est generatio, neque nullius. Quod enim non sit nullius,
+sensu apparet. Quod autem non sit omnium, patet per hoc quod impossibile est omnis corporis esse
+generationem; quod quidem esset, si corpus ex superficiebus generaretur.
+
+130
+
+

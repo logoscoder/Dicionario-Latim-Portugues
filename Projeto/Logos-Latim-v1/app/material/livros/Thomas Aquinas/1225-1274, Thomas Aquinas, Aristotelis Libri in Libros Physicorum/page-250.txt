@@ -1,0 +1,63 @@
+Et sic patet quod quaelibet praedictarum mutationum habet aliquid ultimum
+in quod terminatur: nihil autem tale est infinitum: ergo nulla praedictarum
+mutationum potest esse infinita.
+|#3
+Deinde cum dicit: loci autem mutatio etc., procedit ad loci
+mutationem.
+Et primo ostendit quod non est similis ratio de loci mutatione et aliis
+mutationibus. Non enim potest sic probari quod loci mutatio sit finita,
+sicut probatum est de aliis mutationibus, per hoc quod terminantur ad
+aliqua contraria, vel contradictorie opposita: quia non omnis loci mutatio
+est inter contraria simpliciter. Dicuntur enim contraria quae maxime
+distant.
+Maxime autem distantia simpliciter accipitur quidem in motibus naturalibus
+gravium et levium: locus enim ignis a centro terrae habet maximam
+distantiam, secundum distantias determinatas talibus corporibus in natura.
+Unde tales mutationes sunt inter contraria simpliciter. Unde de huiusmodi
+mutationibus posset ostendi quod non sunt infinitae, sicut et de aliis.
+Sed maxima distantia in motibus violentis aut voluntariis, non accipitur
+simpliciter secundum aliquos terminos certos; sed secundum propositum aut
+violentiam moventis, qui aut non vult, aut non potest ad maiorem distantiam
+movere. Unde est ibi secundum quid maxima distantia, et per consequens
+contrarietas, non autem simpliciter. Et ideo non poterat ostendi per
+terminos, quod nulla mutatio localis esset infinita.
+|#4
+Unde consequenter hoc ostendit alia ratione, quae talis est. Illud
+quod impossibile est esse decisum, non contingit decidi.
+Et quia multipliciter dicitur aliquid impossibile, scilicet quod omnino non
+contingit esse, et quod non de facili potest esse; ideo interponit de quo
+impossibile hic intelligat. Intelligit enim de eo quod sic est impossibile,
+quod nullo modo contingit esse. Et eadem ratione id quod est impossibile
+factum esse, impossibile est fieri; sicut si impossibile est contradictoria
+esse simul, impossibile est hoc fieri.
+Et pari ratione illud quod impossibile est mutatum esse in aliquid,
+impossibile est quod mutetur in illud; quia nihil tendit ad impossibile.
+Sed omne quod mutatur secundum locum, mutatur in aliquid. Ergo possibile
+est per motum pervenire in illud. Sed infinitum non potest pertransiri. Non
+ergo fertur aliquid localiter per infinitum. Sic ergo nullus motus localis
+est infinitus.
+Et ita universaliter patet quod nulla mutatio potest esse sic infinita, ut
+non finiatur certis terminis, a quibus speciem habet.
+|#5
+Deinde cum dicit: sed si sic contingit etc., ostendit quomodo motus
+possit esse infinitus tempore.
+Et dicit quod considerandum est utrum sic contingat motum esse infinitum
+tempore, ut semper maneat unus et idem numero. Quod enim motus duret per
+infinitum tempus, non existente uno ipso motu, nihil prohibet: quod sub
+dubitatione dicit, addens forte, quia posterius de hoc inquiret. Et ponit
+exemplum: sicut si dicamus quod post loci mutationem est alteratio, et post
+alterationem est augmentum, et post augmentum iterum generatio, et sic in
+infinitum. Sic enim semper posset motus durare tempore infinito. Sed non
+esset unus secundum numerum; quia ex huiusmodi motibus non fit unum numero,
+ut in quinto ostensum est. Sed quod motus duret tempore infinito, ita quod
+semper maneat unus numero, hoc non contingit nisi in una specie motus:
+motus enim circularis potest durare unus et continuus tempore infinito, ut
+in octavo ostendetur.
+|*PHY.7 : LIBER 7
+|+1
+
+Lectio 1
+
+250
+
+

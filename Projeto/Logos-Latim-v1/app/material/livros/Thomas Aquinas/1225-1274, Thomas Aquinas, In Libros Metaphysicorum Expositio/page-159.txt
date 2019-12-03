@@ -1,0 +1,62 @@
+Secundo ibi, et hoc probat idem per rationem; dicens, quod rationabiliter hoc accidit quod scientia non speculatur de
+ente per accidens; quia scientia speculatur de his quae sunt entia secundum rem; ens autem secundum accidens est ens
+quasi solo nomine, inquantum unum de alio praedicatur. Sic enim unumquodque est ens inquantum unum est. Ex
+duobus autem, quorum unum accidit alteri, non fit unum nisi secundum nomen; prout scilicet unum de altero
+praedicatur, ut cum musicum dicitur esse album, aut e converso. Non autem ita, quod aliqua res una constituatur ex
+albedine et musico.
+[82743] In Metaphysic., lib. 6 l. 2 n. 7
+Unde Plato quod autem ens per accidens sit quasi solo nomine ens, probat dupliciter. Primo per auctoritatem Platonis.
+Secundo per rationem. Secunda ibi, palam autem et cetera. Dicit ergo, quod propter hoc quod ens per accidens
+quodammodo est ens solo nomine, ideo Plato quodammodo non male fecit cum ordinando diversas scientias circa
+diversa substantia, ordinavit scientiam sophisticam circa non ens. Rationes enim sophisticorum maxime sunt circa
+accidens. Secundum enim fallaciam accidentis fiunt maxime latentes paralogismi.
+[82744] In Metaphysic., lib. 6 l. 2 n. 8
+Et ideo dicitur in primo elenchorum, quod secundum accidens faciunt syllogismos contra sapientes; ut patet in istis
+paralogismis, in quibus dubitatur utrum diversum an idem sit musicum et grammaticum. Ut fiat talis paralogismus.
+Musicum est aliud a grammatico; musicum autem est grammaticum, ergo musicum est alterum a se. Musicum enim est
+aliud a grammatico, per se loquendo; sed musicus est grammaticus per accidens. Unde non est mirum si sequitur
+inconveniens, non distincto quod est per accidens ab eo quod est per se. Et similiter si sic dicatur: Coriscus est alterum
+a Corisco musico: sed Coriscus est Coriscus musicus; ergo Coriscus est aliud a se. Hic etiam non distinguitur quod est
+per accidens ab eo quod est per se. Et similiter si dicatur: omne quod est et non fuit semper, est factum: sed musicus ens
+est grammaticus et non fuit semper: ergo sequitur quod musicus ens grammaticus sit factus, et grammaticus ens
+musicus. Quod quidem est falsum; quia nulla generatio terminatur ad hoc quod est grammaticum esse musicum; sed
+una ad hoc quod est grammaticum esse, alia ad hoc quod est musicum esse. Patet etiam, quod in hac ratione, prima est
+vera de eo quod est per se, sed in secunda assumitur quod est ens per accidens. Et similiter est in omnibus talibus
+rationibus, quae sunt secundum fallaciam accidentis. Videtur enim ens per accidens, esse propinquum non enti. Et ideo
+sophistica, quae est circa apparens et non existens, est praecipue circa ens per accidens.
+[82745] In Metaphysic., lib. 6 l. 2 n. 9
+Palam autem secundo probat idem per rationem, dicens, quod etiam ex his rationibus, quibus utuntur sophistae, palam
+est, quod ens per accidens est propinquum non enti. Nam eorum, quae sunt entia alio modo quam per accidens, est
+generatio et corruptio: sed entis per accidens non est neque generatio neque corruptio. Musicum enim una generatione
+fit, et grammaticum alia. Non est autem una generatio grammatici musici, sicut animalis bipedis, vel sicut hominis
+risibilis. Unde patet, quod ens per accidens non vere dicitur ens.
+[82746] In Metaphysic., lib. 6 l. 2 n. 10
+Deinde cum dicit attamen dicendum determinat de ente per accidens secundum quod est possibilis de eo determinatio.
+Quamvis enim ea, quibus convenit esse per accidens, non cadant sub consideratione alicuius scientiae, tamen ratio
+huius quod est esse per accidens, per aliquam scientiam considerari potest. Sicut etiam licet id quod est infinitum,
+secundum quod est infinitum, sit ignotum, tamen de infinito secundum quod infinitum aliqua scientia tractat. Et circa
+hoc duo facit. Primo determinat ea, quae sunt consideranda circa ens per accidens. Secundo excludit quamdam
+opinionem, per quam removetur ens per accidens, ibi, quod autem sint principia et esse et cetera.
+[82747] In Metaphysic., lib. 6 l. 2 n. 11
+Circa primum duo facit. Primo dicit, quod est dicendum de ente per accidens inquantum contingit de ipso tractare, tria;
+scilicet quae est eius natura, et quae est eius causa; et ex his erit tertium manifestum, quare eius non potest esse scientia.
+[82748] In Metaphysic., lib. 6 l. 2 n. 12
+Deinde cum dicit quoniam igitur prosequitur tria praedicta. Et primo quae sit causa entis per accidens; dicens, quod
+quia in entibus quaedam sunt semper similiter se habentia ex necessitate (non quidem secundum quod necessitas
+ponitur pro violentia, sed prout necessitas dicitur secundum quam non contingit aliter se habere, ut hominem esse
+animal); quaedam vero non sunt ex necessitate, nec semper, sed sunt secundum magis, idest ut in pluribus. Et hoc,
+scilicet ens ut in pluribus, est causa et principium quod aliquid sit per accidens. In rebus enim quae sunt semper, non
+potest esse aliquid per accidens; quia solum quod est per se potest esse necessarium et sempiternum, ut etiam in quinto
+habitum est. Unde relinquitur, quod solum in contingentibus potest esse ens per accidens.
+[82749] In Metaphysic., lib. 6 l. 2 n. 13
+Contingens autem ad utrumlibet, non potest esse causa alicuius inquantum huiusmodi. Secundum enim quod est ad
+utrumlibet, habet dispositionem materiae, quae est in potentia ad duo opposita: nihil enim agit secundum quod est in
+potentia. Unde oportet quod causa, quae est ad utrumlibet, ut voluntas, ad hoc quod agat, inclinetur magis ad unam
+partem, per hoc quod movetur ab appetibili, et sic sit causa ut in pluribus. Contingens autem ut in paucioribus est ens
+per accidens cuius causa quaeritur. Unde relinquitur, quod causa entis per accidens sit contingens ut in pluribus, quia
+eius defectus est ut in paucioribus. Et hoc est ens per accidens.
+[82750] In Metaphysic., lib. 6 l. 2 n. 14
+Secundo ibi, quod enim ostendit naturam entis per accidens, dicens: ideo dico quod id quod est in pluribus est causa
+entis per accidens, quia quod non est semper neque secundum magis, hoc dicimus esse per accidens. Et hoc est defectus
+
+

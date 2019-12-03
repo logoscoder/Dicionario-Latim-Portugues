@@ -1,0 +1,56 @@
+|#5 Deinde cum dicit quomodo autem removet quamdam dubitationem, quae posset occasionari ex dictis.
+Dixerat enim quod verum et falsum consistunt in compositione et divisione, vocum quidem secundario,
+intellectus autem primo et principaliter: omnis autem compositio vel divisio plurium est: et ideo potest esse
+dubium, quomodo ista quae componuntur et dividuntur, intellectus intelligat: utrum scilicet simul, aut separatim.
+Sed dicit, quod hoc pertinet ad alium sermonem, scilicet ad librum de anima.
+|#6 Et quia simul dupliciter dicitur, quandoque enim significat unitatem, sicut dicimus simul esse secundum
+tempus quae sunt in uno et eodem instanti: quandoque vero significat coniunctionem et vicinitatem eorum quae
+consequenter se habent, sicut dicimus duos homines esse simul secundum locum, quorum loca sunt coniuncta et
+consequenter se habentia, et secundum tempus, quae se tempore consequuntur: ideo exponit quaestionem
+motam, qua quaesivit utrum simul aut separatim intelligat intellectus ea quae componuntur et dividuntur: dicens,
+quod non intelligit simul secundum quod aliqua dicuntur esse simul, ut consequenter se habent; sed secundum
+quod aliqua dicuntur esse simul in eo quod fit aliquid unum.
+|#7 Et in hoc innuitur solutio quaestionis.
+Si enim intellectus intelligat hominem et animal unumquodque secundum se, ut sunt duo quaedam, intelligit ea
+consequenter duabus conceptionibus simplicibus, non formans ex eis affirmationem neque negationem. Cum
+autem ex eis format compositionem vel divisionem, intelligit ambo ut unum, inquantum scilicet ex eis aliquod
+unum fit: sicut etiam partes cuiuslibet totius intelligit intellectus ut unum, intelligendo ipsum totum. Non enim
+intelligit domum intelligendo prius fundamentum et postea parietem et postea tectum; sed omnia ista intelligit
+simul, inquantum ex eis fit unum. Similiter intelligit praedicatum et subiectum simul, inquantum ex eis fit unum,
+scilicet affirmatio et negatio.
+|#8 Deinde cum dicit non est autem.
+Manifestat quoddam quod dixerat scilicet quod verum et falsum sint in compositione et divisione. Quod quidem
+probat per modum cuiusdam divisionis. Eorum enim, quae dicuntur voce, quaedam sunt in rebus extra animam,
+quaedam autem sunt in anima tantum. Album enim et nigrum sunt extra animam; sed rationes horum sunt in
+anima tantum. Posset autem aliquis credere, quod verum et falsum sint etiam in rebus sicut bonum et malum; ita
+quod verum sit quoddam bonum, et falsum sit quoddam malum: hoc enim oporteret si verum et falsum essent in
+rebus. Verum enim quamdam perfectionem naturae significat, falsum vero defectum. Omnis autem perfectio in
+rebus existens, ad perfectionem et bonitatem naturae pertinet, defectus vero et privatio ad malitiam.
+|#9 Sed ipse hoc negat; dicens, quod verum et falsum non sunt in rebus, ita quod verum rationis sit quoddam
+bonum naturae, et falsum sit quoddam malum; sed sunt tantum in mente, idest in intellectu.
+|#10 Intellectus autem habet duas operationes, quarum una vocatur indivisibilium intelligentia, per quam
+intellectus format simplices conceptiones rerum intelligendo quod quid est uniuscuiusque rei.
+Alia eius operatio est per quam componit et dividit.
+|#11 Verum autem et falsum, etsi sint in mente, non tamen sunt circa illam operationem mentis, qua intellectus
+format simplices conceptiones, et quod quid est rerum. Et hoc est quod dicit, quod verum et falsum, circa
+simplicia et quod quid est, nec in mente est. Unde relinquitur per locum a divisione, quod ex quo non est in
+rebus, nec est in mente circa simplicia et quod quid est, quod sit circa compositionem et divisionem mentis
+primo et principaliter; et secundario vocis, quae significat conceptionem mentis. Et ulterius concludit, quod
+quaecumque oportet speculari circa ens et non ens sic dictum, scilicet prout ens significat verum, et non ens
+falsum, posterius perscrutandum est, scilicet in fine noni et etiam in libro de anima, et in logicalibus. Tota enim
+logica videtur esse de ente et non ente sic dicto.
+|#12 Sciendum est autem, quod cum quaelibet cognitio perficiatur per hoc quod similitudo rei cognitae est in
+cognoscente; sicut perfectio rei cognitae consistit in hoc quod habet talem formam per quam est res talis, ita
+perfectio cognitionis consistit in hoc, quod habet similitudinem formae praedictae. Ex hoc autem, quod res
+cognita habet formam sibi debitam, dicitur esse bona; et ex hoc, quod aliquem defectum habet, dicitur esse mala.
+Et eodem modo ex hoc quod cognoscens habet similitudinem rei cognitae, dicitur habere veram cognitionem: ex
+hoc vero, quod deficit a tali similitudine, dicitur falsam cognitionem habere. Sicut ergo bonum et malum
+designant perfectiones, quae sunt in rebus: ita verum et falsum designant perfectiones cognitionum.
+|#13
+Licet autem in cognitione sensitiva possit esse similitudo rei cognitae, non tamen rationem huius
+similitudinis cognoscere ad sensum pertinet, sed solum ad intellectum. Et ideo, licet sensus de sensibili possit
+esse verus, tamen sensus veritatem non cognoscit, sed solum intellectus: et propter hoc dicitur quod verum et
+falsum sunt in mente.
+183
+
+

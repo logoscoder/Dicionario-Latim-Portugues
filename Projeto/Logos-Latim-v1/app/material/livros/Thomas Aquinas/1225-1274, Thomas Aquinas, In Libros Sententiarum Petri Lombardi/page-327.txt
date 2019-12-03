@@ -1,0 +1,62 @@
+Dei scientia omnino immutabilis est; et dividitur in duas: in prima determinat concedendo ea quae ponunt
+variationem ex parte scitorum, et non ex parte scientiae; in secunda determinat quae ex parte scientiae
+variationem important, ibi: hic opponitur a quibusdam ita. Et circa hoc duo facit: primo negat ea quae simpliciter
+neganda sunt; secundo ponit opinionem quorumdam qui concedunt quasdam locutiones, quae variationem
+scientiae significare videntur, retorquentes tamen ad varietatem scitorum, ibi: item a quibusdam dicitur Deum
+posse plura scire quam sciat.
+Ei vero quod praedictum est... Videtur obviare quod ait Hieronymus. Hic inquirit, utrum praescientia vel
+providentia Dei, sit universalis causa omnium; et circa hoc tria facit: primo ponit objectionem; secundo
+determinat eam, ibi: ex tali itaque sensu illud dictum esse noverimus; tertio recapitulat, ibi: simul itaque et
+immutabiliter scit Deus omnia.
+Hic est duplex quaestio. Prima de invariabilitate scientiae divinae. Secunda de universalitate providentiae
+ejusdem.
+Circa primum tria quaeruntur: 1 utrum Deus possit non scire illud quod scit; 2 utrum possit aliquid scire quod
+non scit, vel plura quam scit; 3 utrum Deus sciat infinita.
+|a1 Articulus 1: Utrum Deus possit non scire illud quod est scitum ab eo.
+AG1
+Circa primum sic proceditur. Videtur quod Deus non possit non scire illud quod scitum est ab eo; quia,
+secundum Augustinum, Hieronymum et Philosophum, Deus non potest facere ut id quod est praeteritum, non
+fuerit. Sed cum dicitur: hoc est scitum a Deo, significatur ut praeteritum. Ergo non potest non esse scitum ab eo.
+AG2
+Si dicas, quod est praeteritum dependens a futuro, hoc nihil est, ut prius dictum est, dist. 37, quaest. 1, art. 3, quia
+non importatur in participio tantum ordo ad futurum, ut in hoc participio futurum; sed etiam actus quidam.
+AG3
+Praeterea, omne quod est, necesse est esse dum est, ut dicit Philosophus.
+Sed scire Dei non est nisi ut ens actu, cum mensuretur aeternitate, in qua nihil praeterit vel succedit. Ergo videtur
+quod non possit non esse; et ita Deus non possit non scire illud quod scit.
+AG4
+Praeterea, secundum Philosophum, omne aeternum est necessarium.
+Sed quodlibet scire Dei est aeternum. Ergo est necessarium; ergo ab aequipollenti non potest non esse.
+AG5
+Scire ipsius est ipsum esse ejus. Sed ipse non potest non esse. Ergo non potest non scire quod scit.
+SC1
+Sed contra, quidquid Deus scit, operando operatur.
+Sed potest non operari quod operatur. Ergo potest non scire illud quod scit.
+CO
+Respondeo dicendum, quod sicut attributa divina differunt secundum proprias rationes, et sunt tamen una res; ita
+etiam actus attributorum sequuntur rationes eorum; et ideo alicui actui attribuitur quod alteri non convenit.
+Dicimus enim Deum scire quod non vult, vel quod non facit. Est ergo haec ratio voluntatis ut libere actum suum
+producat; quod enim fit voluntate, non fit necessitate, ut dicit Augustinus; unde potest velle et non velle. Sed hoc
+intelligendum est, dum actus est in egrediendo a voluntate; quia postquam transit, non subjacet facultati ejus; non
+enim potest non voluisse quod voluit. Similiter non subjacet facultati ejus ut utrumque simul producat; non enim
+potest simul velle et non velle. Et hoc non tantum intelligendum est de actu ipsius voluntatis immediato; sed de
+omnibus actibus imperatis a voluntate, sicut cogitare, loqui, et hujusmodi. Cum igitur actus divinae voluntatis
+semper sit in actu, et non pertransiens in futurum, semper est quasi in egrediendo a voluntate; et ideo manet
+libertas divinae voluntatis respectu ipsius. Unde potest dici, quod Deus potest non velle hoc; non tamen potest ut
+simul velit et non velit, vel ut nunc velit et postmodum non velit, accipiendo post et nunc ex parte voluntatis,
+quae mutabilis esse non potest. Et quia dictum est supra, dist. 8, quaest. 3, art. 1, de actu divinae scientiae,
+secundum quod est causa operis ejus ut informans ipsum, quod est imperatus a voluntate; ideo potest concedi
+quod Deus hoc modo potest non praescire. Non tamen potest esse ut simul praesciat et non praesciat, vel quod
+nunc praesciat et postmodum non praesciat, loquendo de praescientia ex parte scientiae tantum; ita quod non fiat
+vis de ratione futuri; quia quod modo est futurum, postea erit praesens; et tunc non est praescitum, sed scitum
+est. Et ideo dicendum est secundum distinctionem Magistri, quod si accipiatur conjunctim, Deus non potest non
+scire quod scitum est ab eo: si autem accipiatur divisim, sic est in potestate sua scire et non scire; et haec libertas
+demonstratur cum dicitur quod Deus potest hoc non scire.
+RA1
+Ad primum ergo dicendum, quod actus scientiae divinae nunquam transit in praeteritum, sed semper est in actu:
+et ideo semper manet in libertate voluntatis.
+RA2
+Ad secundum dicendum, quod illa solutio nihil valet.
+327
+
+

@@ -1,0 +1,63 @@
+Ad quintum dicendum, quod si sit de re praedicta propositio, verum est quod necessitas ponitur circa ipsum quod
+est scitum a Deo; sed si sit de dicto, necessitas non ponitur circa ipsam rem, sed circa ordinem scientiae ad
+scitum.
+RA6
+Ad sextum dicendum, quod sicut scientia nostra non potest esse de futuris contingentibus, ita nec scientia Dei; et
+adhuc multo minus, si ea ut futura cognosceret; cognoscit autem ea ut praesentia sibi, aliis autem futura; et ideo
+ratio non procedit.
+RA7
+Ad septimum dicendum, quod circa hoc est diversa opinio.
+Quidam enim dixerunt, quod hoc antecedens est contingens: hoc est scitum a Deo; eo quod, quamvis sit
+praeteritum, tamen importat ordinem ad futurum, et ideo non est necessarium; sicut cum dicitur: hoc fuit
+futurum; istud praeteritum non est necessarium, quia quod fuit futurum, potest non esse futurum, ut in II enim de
+gener. Et corruption.
+Dicitur: futurus quis incedere non incedet. Sed hoc nihil est: quia cum dicitur: hoc est futurum, vel fuit futurum;
+designatur ordo qui est in causis illius rei ad productionem eius. Quamvis autem causae quae sunt ordinatae ad
+aliquem effectum possint impediri, ut effectus non consequatur ex eis, non tamen potest impediri quin fuerint
+aliquando ad hoc ordinatae; unde, licet quod est futurum, possit non esse futurum, nunquam tamen potest non
+fuisse futurum.
+Et ideo alii dicunt, quod hoc antecedens est contingens, quia est compositum ex necessario et contingenti:
+scientia enim Dei est necessaria, sed scitum ab eo est contingens: quorum utrumque in praedicto antecedente
+includitur; sicut et hoc est contingens: socrates est homo albus; vel: socrates est animal et currit. Sed hoc iterum
+nihil est: quia veritas propositionis non variatur per necessitatem et contingentiam, ex eo quod materialiter in
+locutione ponitur, sed solum ex principali compositione in qua fundatur veritas propositionis; unde eadem ratio
+necessitatis et contingentiae est in utraque istarum: ego cogito hominem esse animal; et: ego cogito socratem
+currere. Et ideo, cum actus principalis qui significatur in hoc antecedente, Deus scit socratem currere, sit
+necessarius; quantumcumque illud quod materialiter ponitur, sit contingens, ex hoc non impeditur quin
+antecedens praedictum sit necessarium.
+Et ideo alii concedunt simpliciter, quod sit necessarium; sed dicunt, quod ex antecedente necessario absolute,
+non oportet quod sequatur consequens necessarium absolute, nisi quando antecedens est causa proxima
+consequentis. Si enim sit causa remota, potest necessitas effectus impediri per contingentiam causae proximae;
+sicut quamvis sol sit causa necessaria, tamen floritio arboris, quae est eius effectus, est contingens, quia causa
+eius proxima est variabilis, scilicet vis generativa plantae.
+Sed hoc etiam non videtur sufficiens, quia hoc non est propter naturam causae et causati quod ex antecedente
+necessario sequitur consequens necessarium, sed magis propter ordinem consequentis ad antecedens: quia
+contrarium consequentis nullo modo potest stare cum antecedente; quod contingeret, si ex antecedente
+necessario sequeretur consequens contingens; unde hoc accidere est necesse in qualibet conditionali, si vera sit,
+sive antecedens sit effectus, sive causa proxima, sive remota; et si hoc non inveniatur in conditionali, nullo modo
+erit vera; unde et haec conditionalis est falsa: si sol movetur, arbor florebit.
+Et ideo aliter dicendum est, quod hoc antecedens est simpliciter necessarium, et consequens est necessarium
+absolute, eo modo quo ad antecedens sequitur. Aliter enim est de his quae attribuuntur rei secundum se, aliter de
+his quae attribuuntur ei secundum quod est cognita. Illa enim quae attribuuntur ei secundum se, conveniunt ei
+secundum modum suum. Sed illa quae attribuuntur ei vel quae consequuntur ad ipsam in quantum est cognita,
+sunt secundum modum cognoscentis.
+Unde, si in antecedente significetur aliquid quod pertineat ad cognitionem, oportet quod consequens accipiatur
+secundum modum cognoscentis, et non secundum modum rei cognitae; ut si dicam: si ego intelligo aliquid, illud
+est immateriale; non enim oportet ut quod intelligitur, sit immateriale, nisi secundum quod est intellectum: et
+similiter cum dico: si Deus scit aliquid, illud erit; consequens est sumendum, non secundum dispositionem rei in
+seipsa, sed secundum modum cognoscentis.
+Quamvis autem res in seipsa, sit futura, tamen secundum modum cognoscentis est praesens; et ideo magis esset
+dicendum: si Deus scit aliquid, hoc est; quam: hoc erit; unde idem est iudicium de ista: si Deus scit aliquid, hoc
+erit; et de hac: si ego video socratem currere, socrates currit: quorum utrumque est necessarium dum est.
+RA9
+Ad octavum dicendum, quod quamvis contingens, dum est futurum, non habeat esse, tamen ex quo est praesens,
+esse habet et veritatem; et sic divinae visioni substat, quamvis etiam Deus cognoscat ordinem unius ad alterum,
+et sic cognoscat aliquid esse futurum alteri. Sed sic non est inconveniens quod ponatur, quod Deus scit aliquid
+esse futurum quod non erit; in quantum, scilicet, scit aliquas causas esse inclinatas ad aliquem effectum, qui non
+producetur; sic enim nunc non loquimur de cognitione futuri, prout a Deo in suis causis videtur, sed prout
+cognoscitur in seipso; sic enim cognoscitur ut praesens.
+RA10
+
+59
+
+

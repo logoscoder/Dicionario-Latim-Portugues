@@ -1,0 +1,62 @@
+animal quoque esse, [1138A] recta ratione concludimus, hoc modo: atqui homo est, animal igitur est, atque hic quidem
+modus ex ea propositione connexa conuersus est, quae ex duabus coniuncta est affirmatiuis.
+His igitur tribus modis Tullius qui homo esset, animal quoque monstratus est esse: nunc quidem dum id quod
+antecedit assumimus, id est esse hominem; nunc uero dum id quod consequitur, in assumptione denegamus, id est non
+esse animal; nunc autem repugnantiam denegantes eorum quae sibi sunt consequentia, posito quod praecedebat, id
+quod sequebatur intulimus.
+Quibus ita precognitis, nunc M. Tullii tractemus exempla. Cum enim dixisset loci in consecutione,
+antecessione et repuguantia positi, reperiendi quidem argumenti simplicem esse intellectum, tractandi [1138B] autem
+triplicem, adiecit: Nam quid interest, cum tibi sumpseris ad demortstrandum, pecuniam numeratam mulieri deberi, cui
+sit argentum omne legatum, utrum id ab antecedentibus, an a consequentibus, an a repugnantibus probes? Namque
+eadem sententia in conclusione colligitur, et argumentationum diuersitas non in re sed in antecedenium et
+consequentium et repugnantium tractatu est constituta.
+Primum igitur ponatur quod testamento aliquis omne suum argentum mulieri legauerit, quaeraturque an
+numerata quoque pecunia mulieri legata sit, concedaturque numeratam etiam pecuniam argentum appellari,
+argumentum igitur in primo modo ex antecedentibus tali ratione contexitur: proponimus enim sic, si pecunia signata
+numerataque argentum [1138C] est, eadem pecunia signata numerataque legata mulieri est; hic igitur praecedit
+numeratam atque signatam pecuniam argentum esse, sequitur legatam esse mulieri; id igitur quod praecessit assumimus
+dicentes: at est signata ac numerata pecunia argentum; concludimus numeratam signatamque pecuniam mulieri esse
+legatam, eritque totius argumentationis hic textus:
+Si pecunia signata numerataque argentum est, legata mulieri est; At est pecunia signata numerataque
+argentum, Igitur legata est mulieri.
+In quo si ad saepius praemissa plurimisque exemplis superius enodata lectoris animus reuertatur, hanc
+argumentationem in primo modo ab antecedentibus esse compositam non ignorabit.
+A consequentibus uero hoc modo: Si numerata pecunia non est [1138D]
+legata mulieri cui sit argentum omne legatum, numerata peculia non est argentum. Hic igitur praecedit
+numeratam pecuniam non esse legatam, cum sit argentum omne legatum; sequitur numeratam pecuniam argentum non
+esse. Si igitur id quod est posterius auferamus, id est numeratam pecuniam non esse argentum, dicemus: Atqui est
+numerata pecunia argentum, affirmatio namque tollit negationem. Sequitur igitur ut pars praecedens auferatur, ea quae
+erat non esse legatam mulieri pecuniam numeratam, cum argentum ei fuisset omne legatum. Sed cum sit, omnis negatio
+affirmatione consumitur, dicimusque in conclusione: Est igitur numerata pecunia mulieri legata, cum ei sit argentum
+omne legatum; eritque huiusmodi argumentatio:
+Si non est mulieri [1139A] legata pecunia numerata, cum ei sit argentum omne legatum, non est argentum
+numerata pecunia; Atqui est argentum numerata pecunia, Legata est igitur mulieri numerata pecunia, cum ei fuerit
+argentum omne legatum.
+Sed quod Tullius breuitatis causa praeteriit, id est, illam partem propositionis quae ait: Cum sit mulieri
+argentum omne legatum, nos apertioris intelligentiae causa subiunximus.
+Nec perturbare lectorem debet, quod cum in superioribus exemplis in secundo modo per negationem facta
+fuerit semper assumptio, et per negationem rursus illata conclusio, nunc per affirmationem et assumptio et conclusio
+facta est. Cuius rei euidentissima ratio est. Nam cum in superioribus exemplis prima propositio ex affirmationibus
+fuerit constituta, atque [1139B] in secundo modo assumptio id quod sequebatur auferret, atque interimeret id quod
+praecedebat, necessarium erat duplicem affrmationem geminata negatione consumi, hoc modo: Si dies est, lux est,
+utraeque ex affirmatione sunt constitutae. Ut igitur posterior pars, id est lux est, quae affirmatio est, interimatur,
+deneganda est. Dicam igitur: Atqui non est lux, quo fit ut praecedentem quoque partem, id est, dies est, quam
+affirmationem esse manifestum est, negatione tollamus, concludentes, dies igitur non est. At in hoc Ciceronis exemplo
+utraque pars primae atque hypotheticae propositionis negationibus enuntiata est, quae in assumptione uel confusione
+non ab allis nisi ab affirmationibus auferuntur, hoc modo. Est enim tale Ciceronis exemplum: si legata non [1139C] est
+mulieri numerata pecunia, non est numerata pecunia argentum, uides ut sit utraque negatio? Nam et non esse legatam
+mulieri pecuniam numeratam, et non esse numeratam pecuniam argentum, utraeque in negatione sunt positae; quod si
+auferenda est per assumptionem propositionis consequens pars, quoniam negatio est, non esse numeratam pecuniam
+argentum, dicendum est argentum esse pecuniam numeratam; quod si in conclusione auferenda est pars praecedens, ea
+quae negatio est, id est, non esse legatam mulieri pecuniam numeratam, dicendum est: Legata igitur mulieri numerata
+pecunia est. Et secundus quidem modus rite a consequentibus factus huiusmodi est.
+Illud tamen est diligentius adnotandum. quod superius M. Tullius, cum locorum omnium breuiter exempla
+disponeret, loci huius, qui a consequentibus ducitur, inconueniens secundo conditionalium syllogismorum modo
+subiecit exemplum, potiusque primo conuenit modo quia non a consequentibus conclusionem sed ab antecedentibus
+facit. Ita quippe posuit a consequentibus, si mulier cum fuisset nupta cum eo quicum connubii ius concessum non esset,
+nuntium remisit, quoniam qui nati sunt patrem non sequuntur, pro liberis manere nihil oportet. Hic igitur cum quaeratur
+an dotis pars apud uirum debeat permanere, id quod praecedit assumitur, ut fiat rata conclusio hoc modo: Sed mulier
+cum eo nupta est qui cum connubii ius non fuit, concluditur: Quoniam igitur qui nati sunt patrem [1140A] non
+sequuntur, pro liberis manere nihil oportet, et ita non est a consequentibus argumentum, quia non id quod
+
+

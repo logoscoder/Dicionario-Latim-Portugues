@@ -1,0 +1,55 @@
+Sicut quod potest convalescere, hoc potest infirmari, et simul est in potentia ad utrumque.
+Et hoc ideo quia eadem est potentia utriusque, convalescendi et laborandi, et quiescendi et movendi et aliorum
+huiusmodi oppositorum. Et ita patet quod aliquid simul potest contraria, licet contraria non possint simul esse
+actu. Contrariorum igitur utrumque seorsum, est hoc quidem bonum, ut sanum, aliud vero malum, ut infirmum.
+Nam semper in contrariis unum est ut deficiens, quod ad malum pertinet.
+|#2 Sic igitur quod est bonum in actu, est tantum bonum. Sed potentia se habet similiter ad utrumque, scilicet
+secundum quid; quod est esse in potentia.
+Habet autem neutrum simpliciter, quod est esse in actu. Relinquitur igitur quod actus est melior potentia; quia
+quod est simpliciter et pure bonum, est melius eo quod est secundum quid bonum, et coniunctum malo.
+|#3 Secundo ibi, necesse autem ostendit quod e contrario in malis est actus peior potentia: et circa hoc tria facit.
+Primo ostendit propositum ex ratione supra inducta; quia id quod est simpliciter malum, et non secundum quid se
+habens ad malum, est peius eo quod est secundum quid malum, et quod se habet ad malum et ad bonum. Unde,
+cum potentia ad malum nondum habeat malum nisi secundum quid (et eadem est ad bonum, nam idem est
+potentia quod est ad contraria), relinquitur quod actus malus est peior potentia ad malum.
+|#4 Secundo ibi, palam ergo concludit ex dictis quod ipsum malum non est quaedam natura praeter res alias,
+quae secundum naturam sunt bonae. Nam ipsum malum secundum naturam est posterius quam potentia, quia est
+peius et magis elongatum a perfectione naturae. Unde, cum potentia non possit esse alia praeter res, multo minus
+ipsum malum.
+|#5 Tertio ibi, non ergo inducit aliam conclusionem. Si enim malum est peius potentia, potentia autem non
+invenitur in rebus sempiternis, ut supra ostensum est, non erit in eis aliquod malum, neque peccatum, neque alia
+corruptio.
+Nam corruptio quoddam malum est.
+Est hoc autem intelligendum inquantum sunt sempiterna et incorruptibilia. Nam secundum quid, nihil prohibet in
+eis esse corruptionem, ut secundum ubi, aut secundum aliquid huiusmodi.
+|#6 Deinde cum dicit inveniuntur autem postquam comparavit potentiam et actum secundum prius et posterius,
+et bonum et malum, hic comparat eadem secundum intelligentiam veri et falsi.
+Et circa hoc duo facit. Primo comparat ipsa secundum intelligere. Secundo vero secundum veritatem et
+falsitatem, ibi, quoniam vero ens.
+Dicit ergo primo, quod diagrammata, idest descriptiones geometriae inveniuntur, idest per inventionem
+cognoscuntur secundum dispositionem figurarum in actu. Geometrae enim inveniunt verum quod quaerunt,
+dividendo lineas et superficies.
+Divisio autem reducit in actum quod erat in potentia. Nam partes continui sunt potentia in toto ante divisionem.
+Si autem omnia essent divisa secundum quod requirit inventio veritatis, manifestae essent conclusiones
+quaesitae. Sed quia in prima protractione figurarum sunt in potentia huiusmodi divisiones, ideo non statim fit
+manifestum quod quaeritur.
+|#7 Hoc autem notificat per duo exempla: quorum primum est circa quaesitum: quare trigonum est duo recti,
+idest quare triangulus habet tres angulos aequales duobus rectis? quod quidem sic demonstratur. (figura)p sit
+triangulus abc, et protrahatur basis, ac in continuum et directum. Haec igitur basis protracta faciet cum latere
+trianguli bc, angulum in puncto c: qui quidem angulus extra existens aequalis est duobus angulis interioribus sibi
+oppositis, scilicet angulo abc, et angulo bac. Manifestum est autem quod duo anguli consistentes circa punctum
+c, quorum unus est extra triangulum, et alter intra, sunt aequales duobus rectis. Demonstratum enim est quod
+linea recta super aliam lineam cadens qualitercumque, faciet duos angulos rectos, aut aequales duobus rectis.
+Relinquitur ergo quod angulus interior in puncto c, constitutum cum aliis duobus qui sunt aequales angulo
+exteriori, omnes scilicet tres, sunt aequales duobus rectis.
+|#8 Hoc est ergo quod Philosophus dicit, quod probatur triangulum habere duos rectos, quia duo anguli qui sunt
+circa unum punctum, puta circa punctum c, quorum unus est interior et alius exterior, sunt aequales duobus
+rectis. Et ideo quando producitur angulus qui fit extra, producto uno latere trianguli, statim manifestum fit
+videnti dispositionem figurae, quod triangulus habet tres angulos aequales duobus rectis.
+|#9 Secundum exemplum est circa hoc quaesitum: quare omnis angulus quod est in semicirculo descriptus est
+rectus.
+Quod quidem demonstratur sic. (figura)p sit semicirculus abc, et in puncto b, qualitercumque cadat constituatur
+angulus: cui subtenditur basis ac quae est diameter circuli. Dico ergo quod angulus b, est rectus.
+272
+
+

@@ -1,0 +1,57 @@
+|#16 Item, non videtur sequi quod, si aliquis motus sit praeter naturam alicui corpori, quod sit alteri corpori
+naturalis. Potest enim ignis, vel quodcumque aliud corpus, multiformiter moveri: nec tamen propter hoc oportet
+quod huiusmodi motus omnes sint naturales aliquibus corporibus.
+Est autem advertendum quod Philosophus hic loquitur de simplici motu, ad quem natura corporis simplicis
+inclinat sicut ad aliquid unum: motus autem diversimode variati magis videntur ex arte dispositi, quae potest esse
+principium diversorum. Est etiam considerandum quod, licet motus qui est alicui corpori praeter naturam, sit
+alteri corpori secundum naturam, non tamen oportet quod omne corpus cui est aliquis motus secundum naturam,
+habeat aliquem motum praeter naturam: quia omne corpus quod est susceptivum alienae impressionis, habet
+aliquid sibi proprium et connaturale; non autem omne corpus potest extraneam impressionem recipere, ut sic
+possit naturalem motum habere.
+|#17 Quintam rationem ponit ibi: adhuc autem etc., quae talis est. Conclusum est ex praemissa ratione quod si
+corpus quod ad sensum circulariter movetur, moveatur praeter naturam, oportet quod talis motus sit alteri corpori
+secundum naturam. Quod quidem si concedatur, scilicet quod circularis motus sit alicui corpori secundum
+naturam, manifestum est quod erit aliquod corpus simplex et primum quod circulariter movetur, propter
+simplicitatem et prioritatem circularis motus, ut ex praemissis rationibus patet, sicut ignis movetur sursum et
+terra deorsum. Si autem non concedatur processus praecedentis rationis, sed dicatur quod omnia quae moventur
+circulariter secundum peripheriam, idest secundum circumferentiam, moventur praeter naturam, ita quod hic
+motus nulli corpori sit secundum naturam: hoc videtur esse mirabile, immo omnino irrationabile. Ostensum est
+enim in VIII physic. Quod solum motum circularem contingit esse continuum et sempiternum: irrationabile
+autem est quod id quod est sempiternum, sit praeter naturam, et motus non sempiternus sit secundum naturam.
+Videmus enim quod ea quae sunt praeter naturam, citissime transeunt et corrumpuntur, sicut calefactio aquae et
+proiectio lapidis in altum: ea vero quae sunt secundum naturam, videntur diutius permanere.
+Sic ergo oportet omnino motum circularem esse alicui corpori naturalem. Si ergo istud corpus quod videmus
+circulariter ferri, est de natura ignis, ut quidam dicunt, motus iste erit ei praeter naturam, sicut et motus qui est
+deorsum: videmus enim quod motus naturalis ignis est sursum secundum rectam lineam. Et sic, sicut motus qui
+est deorsum est alteri corpori naturalis, scilicet terrae, ita erit motus circularis alicui alii corpori naturalis.
+|#18 Ultimo autem epilogando concludit, quod si aliquis ex omnibus praemissis syllogizaverit per modum
+praedictum, credet, idest firmiter assentiet, quod sit aliquod corpus praeter corpora quae sunt hic circa nos (idest
+quatuor elementa et ex his composita), separatum ab eis, et in natura tanto habens nobiliorem naturam, quanto
+est magis elongatum secundum loci distantiam ab his quae sunt hic: corpora enim continentia in universo se
+habent ad corpora contenta sicut forma ad materiam et actus ad potentiam, ut dictum est in IV physic..
+|+5 Lectio 5
+|#1 Postquam Philosophus ostendit quod est corpus quoddam aliud a corporibus quae sunt hic, scilicet a quatuor
+elementis et his quae componuntur ex eis, hic ostendit differentiam huius corporis ad corpora quae sunt hic. Et
+primo per comparationem ad motum localem; secundo secundum alios motus, ibi: similiter autem rationabile
+etc..
+Circa primum tria facit: primo proponit quod intendit; secundo ostendit propositum, ibi: oportet autem supponere
+etc.; tertio excludit quandam obviationem, ibi: quoniam autem in idem feruntur etc..
+Dicit ergo primo quod, quia eorum quae dicta sunt quaedam sunt supposita (scilicet quod unum uni sit
+contrarium, et quod sint solae duae simplices magnitudines, scilicet recta et circularis, et si qua alia sunt
+huiusmodi), quaedam autem sunt demonstrata ex quibusdam praemissis (puta quod sint tres motus simplices, et
+quod motus circularis sit naturalis alicui corpori quod est aliud in natura a corporibus quae sunt hic), manifestum
+potest esse ex praedictis quod totum corpus illud quod circulariter movetur, non habet gravitatem neque
+levitatem, quae sunt principia quorundam motuum localium.
+|#2 Deinde cum dicit: oportet autem supponere etc., ostendit propositum. Et quia principium demonstrationis
+est quod quid est, ut dicitur in libro poster., primo supponit definitiones gravis et levis; secundo ex his
+argumentatur ad propositum, ibi: necesse autem etc.. Circa primum duo facit: primo describit quid est grave et
+quid est leve; secundo describit quid est gravissimum et quid levissimum, ibi: gravissimum autem etc..
+Dicit ergo primo quod ad propositum ostendendum, oportet supponere quid dicamus grave et quid leve. Ideo
+autem dicit supponere, quia non perfecte investigat hic eorum definitiones; sed utitur eis ut suppositionibus,
+quantum sufficit ad necessitatem praesentis demonstrationis. Diligentius autem considerabitur de eis in quarto
+huius, ubi exponetur substantia, sive natura, ipsorum.
+Definit ergo grave, quod natum est moveri ad medium: leve autem, quod natum est moveri a medio.
+
+11
+
+

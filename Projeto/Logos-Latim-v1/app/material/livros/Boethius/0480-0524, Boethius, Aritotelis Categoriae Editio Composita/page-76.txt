@@ -1,0 +1,66 @@
+EST HOMINI ADIACET. HAEC IGITUR, QUEMADMODUM IN RESOLUTORIIS DICTUM EST, SIC SUNT
+DISPOSITA.
+Quod autem dicitur perobscurum est et exponitur a pluribus incurate, quorum cum iudicio competenti
+enumerabo sententias. Postquam de his propositionibus expediuit, quae duobus constiterint terminis et subiectum
+habuerint aut nomen aut (ut ipse ait) innominatum id est infinitum nomen, nunc ad eas transit, in quibus est tertium
+adiacens praedicatur, uno subiecto duobus praedicatis: ut in eo quod dicimus homo iustus est homo subiectum est et
+iustus et est utraque praedicantur. Ergo in hoc duo sunt praedicata, unum uero subiectum.
+Et fortasse aliqui inquirat cur ita dixerit: quando autem est tertium adiacens praedicatur. Non enim tertium
+praedicatur sed secundum. Duo enim sunt quae praedicantur, unum uero subiectum est. Sed non ita dictum est, quasi
+est in /265/ propositione quae dicit homo iustus est tertium praedicaretur sed quoniam adiacet tertium et praedicatur.
+Ergo quod dicitur tertium ad adiacere refertur. Etenim in ea propositione quae dicit homo iustus est est tertium adiacet,
+praedicatur autem iam non tertium sed secundum. Ergo tertium numeratum adiacet, secundum uero numeratum
+praedicatur. Hoc est igitur quod ait: QUANDO EST TERTIUM ADIACENS PRAEDICATUR, non quoniam tertium
+praedicatur sed praedicatur tertium adiacens, id est tertio loco.
+Facit igitur nunc in his propositionibus considerationem, in quibus est tertium adiacens secundum praedicatur.
+Et sicut in his in quibus tantum praedicatur 'est', non etiam adiacens praedicabatur, ut homo est, de subiecto
+considerationem fecit, quot modis sumptum subiectum differentias faceret propositionum (aut enim nomen esse
+subiectum aut infinitum nomen), sic nunc de praedicato loquitur et de praedicati differentiis tractat. In his enim
+propositionibus, IN QUIBUS EST TERTIUM ADIACENS PRAEDICATUR, sumptum praedicatum alias nomen, alias
+infinitum nomen facit differentias propositionum. Praedicatum autem dico in ea propositione quae ponit:
+Homo iustus est
+'iustus'. Hoc enim praedicatum de homine est, 'est' autem non praedicatur sed tertium adiacens praedicatur -- id
+est secundo loco et adiacens iusto, tertium uero in tota propositione praedicatur, non quasi quaedam pars totius
+propositionis sed potius demonstratio qualitatis. Non enim /266/ hoc quod dicimus est constituit propositionem totam
+sed qualis sit id est quoniam est affirmatiua demonstrat. Atque ideo non dixit TERTIUM PRAEDICATUR tantum sed
+TERTIUM ADIACENS PRAEDICATUR. Non enim positum tertium praedicatur solum sed adiacens tertium secundo
+loco et quodammodo accidenter praedicatur. Potest etiam sic intelligi: idcirco dixisse Aristotelem 'est' in his tertium
+adiacens praedicari, quoniam possit aliquotiens et per se praedicari, ut si quis dicat:
+Socrates philosophus est
+ut propositio haec hoc sentiat:
+Socrates philosophus uiuit
+'Est' enim pro 'uiuit' positum est. Si quis ergo sic dicat duo inueniuntur subiecta est uero solum praedicatur,
+non etiam adiacens.
+Quod enim dicimus 'Socrates philosophus' utraque subiecta sunt 'est'
+autem praedicatur solum. Si quis autem dicat sic "Socrates philosophus est" ut non iam Socratem philosophum
+esse atque uiuere sed Socratem philosophari et philosophum esse enuntiatione significet, tunc inuenitur unum
+subiectum, duo praedicata. Socrates enim subiectum est, philosophus autem et est praedicata quorum philosophus
+quidem principaliter praedicatur, est autem adiacens philosopho et ipsum praedicatur sed non simpliciter praedicatur
+sed adiacens. Sunt autem etiam aliae propositiones hoc modo:
+Socrates in lycio leget
+Et sunt hae ex tribus terminis.
+Sed de hac interim propositionum natura nil tractat sed de his solis in quibus est tertium adiacens praedicatur,
+ut est:
+Homo iustus est
+Sed de his duas quidem oppositiones. Quocirca recte duae oppositiones
+/267/ quatuor propositionum sunt. Hoc autem huiusmodi est: QUANDO EST TERTIUM ADIACENS
+PRAEDICATUR, quod principaliter praedicatur aut nomen erit aut infinitum nomen. Et hae aut affirmatiue
+praedicandae sunt aut negatiue. Quocirca simplicis nominis affirmatio et simplicis nominis negatio una est oppositio et
+duae propositiones. Finitum autem et infiuitum hic non subiectum sed sumitur praedicatum, ut in eo quod est homo
+iustus est iustus praedicatur. Hoc autem nomen erit aut infinitum nomen. Fiunt ergo ex his duae affirmationes: homo
+iustus est, homo non iustus est <et duae negationes: homo iustus non est, homo non iustus non est>. Atque hoc quidem
+in indefinitis. Posterius autem monstrabitur hoc etiam in his es se, quae determinationem habent uniuersalitatis uel
+particularitatis. Nunc autem horum ordo subiectus numerum oppositionemque declaret.
+Oppositio una:
+Affirmatio simplex:
+Negatio simplex:
+Homo iustus est
+Homo iustus non est
+Oppositio una:
+Affirmatio ex infinito
+Negatio ex infinito.
+Homo non iustus est
+Homo non iustus non est
+Simplices in superposita descriptione propositiones uocaui, in quibus nomen praedicatur, ut:
+
+

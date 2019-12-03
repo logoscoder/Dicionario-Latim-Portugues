@@ -1,0 +1,62 @@
+|a5 Articulus 5
+TTA
+Quinto quaeritur utrum peccatum originale per prius sit in voluntate quam in aliis potentiis.
+TTB
+Et videtur quod non.
+AG1
+Peccatum enim originale est infectio quaedam. Sed inter potentias animae, generativa dicitur esse magis infecta.
+Ergo peccatum originale per prius est in generativa potentia, non in voluntate.
+AG2
+Praeterea, carentia originalis iustitiae, quam Anselmus dicit esse originale peccatum, attenditur secundum hoc
+quod inferiores vires rebellant rationi.
+Sed huiusmodi rebellio est in inferioribus viribus.
+Ergo peccatum originale per prius est in inferioribus viribus.
+AG3
+Praeterea, in peccato actuali aversio ab incommutabili bono sequitur conversionem ad commutabile bonum. Sed
+in peccato originali concupiscentia se habet sicut conversio in peccato actuali, sicut supra, dictum est. Ergo cum
+concupiscentia sit in viribus inferioribus, peccatum originale per prius est in viribus inferioribus.
+AG4
+Praeterea, peccatum originale, ut dictum est, est carentia originalis iustitiae. Iustitia autem est virtus moralis,
+omnes autem virtutes morales sunt in irrationabilibus partibus animae, ut Commentator dicit in III ethic.. Ergo
+peccatum originale etiam est per prius in irrationabilibus partibus animae.
+AG5
+Praeterea, peccatum originale est quaedam perversio regiminis animae. Sed regimen animae pertinet ad
+rationem. Ergo peccatum originale per prius est in ratione quam in voluntate.
+AG6
+Praeterea, poena peccati originalis est carentia visionis divinae, quae pertinet ad intellectum. Sed poena
+respondet culpae. Ergo peccatum originale per prius est in intellectu quam in voluntate.
+SC
+Sed contra, est quod Anselmus dicit in Lib. De conceptu virginali, quod iustitia est rectitudo voluntatis. Sed
+peccatum originale est privatio originalis iustitiae.
+Ergo est per prius in voluntate.
+CO
+Respondeo. Dicendum quod subiectum virtutis aut vitii, invenitur esse aliqua pars animae, secundum quod
+participat aliquid ab aliqua superiori potentia; sicut irascibilis et concupiscibilis sunt subiectum aliquarum
+virtutum in quantum participant rationem. Unde oportet dicere, quod rationale sit primo et per se subiectum
+virtutis.
+Ad hoc ergo quod inveniatur primum subiectum peccati originalis in potentiis animae, oportet considerare quae
+sit illa potentia a qua omnes aliae habent quod sint susceptivae peccati; oportet enim ex necessitate quod ad illam
+potentiam peccatum originale per prius derivetur ab essentia animae.
+Manifestum est autem quod peccatum, secundum quod nunc de peccato loquimur, est cui debetur poena. Ex hoc
+autem actibus nostris poena debetur et increpatio, quia sunt voluntarii. Unde a voluntate derivatur ad alias
+potentias animae, quod sint susceptivae peccati.
+Unde patet quod peccatum originale per prius est in voluntate inter omnes potentias animae.
+RA1
+Ad primum ergo dicendum, quod sicut supra, dictum est, infectio peccati dicitur esse in aliquo, vel in actu sicut
+in proprio subiecto, vel virtute sicut in causa.
+Causa autem originalis peccati est actus generationis, qui quidem ad virtutem generativam pertinet sicut ad
+exequentem, et ad concupiscibilem sicut ad appetentem et imperantem, ad sensum autem tactus sicut ad
+sentientem delectationem et nuntiantem. Unde infectio originalis peccati dicitur esse per prius in istis potentiis
+virtute sicut in causa, non autem sicut in proprio subiecto.
+RA2
+Ad secundum dicendum, quod rebellio inferiorum virium ad superiores est per subtractionem virtutis quae inerat
+viribus superioribus, sicut supra, dictum est; et ideo peccatum originale magis est in superioribus viribus quam in
+inferioribus.
+RA3
+Ad tertium dicendum, quod aversio sequitur conversionem in via generationis; sed ratio peccati actualis
+perficitur in aversione; et similiter ratio peccati originalis in iustitiae privatione; et ideo per prius est peccatum
+originale in voluntate.
+RA4
+100
+
+

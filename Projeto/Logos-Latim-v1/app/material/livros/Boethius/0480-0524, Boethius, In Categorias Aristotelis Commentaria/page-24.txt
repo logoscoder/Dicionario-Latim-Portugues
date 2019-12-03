@@ -1,0 +1,62 @@
+quantitate sufficiant. Continua uero quantitas est (ut dictum est) cuius quantitatis partium communis terminus inuenitur,
+ut est linea, superficies, corpus, et praeter haec tempus, et locus, quod ipse Aristoteles designat his uerbis:
+LINEA VERO CONTINUA EST; NAMQUE EST SUMERE COMMUNEM TERMINUM AD QUEM
+PARTES IPSIUS CONIUNGUNTUR, HOC EST AUTEM PUNCTUM, ET SUPERFICIEI LINEA (SUPERFICIEI
+ENIM PARTES AD QUENDAM COMMUNEM TERMINUM CONIUNGUNTUR). SIMILITER AUTEM ET IN
+CORPORE HABEBIT QUIS SUMERE COMMUNEM TERMINUM, [204C] VEL LINEAM VEL SUPERFICIEM,
+AD QUEM PARTES CORPORIS CONIUNGUNTUR.
+Postquam de discretis explicuit, transiit ad species continuae quantitatis. Continuae autem quantitates sunt (ut
+dictum est) in quarum partibus quidam communis est terminus, ut linea. Si quis enim diuidat lineam, quae est longitudo
+sine latitudine, duas in utraque diuisione lineas facit, et utriusque ex diuisione lineae singula in extremitatibus puncta
+redduntur. Lineae enim termini puncta sunt. Quocirca cum illa linea diuisa non esset, utraque puncta quae in utrisque
+linearum capitibus post diuisionem apparent, simul antea fuisse intelliguntur, quae sunt in diuisione separata.
+Intelligitur ergo partium lineae communis terminus, punctum, id est quoddam paruissimum [204D] quod in partes
+diuidi secarique non possit: Superficies quoque, quae est latitudo sine altitudine, communem terminum habet in
+partibus, lineam, corpus uero solidum, superficiem. Eodem enim modo diuisa superficies duas per singulas partes
+lineas efficiet, quemadmodum et in linea diuisa duo puncta altrinsecus reddebantur. Corpus quoque solidam cum
+diuiseris, duas in utrisque diuisionis partibus superficies facies, quae cum coniuncta sint atque indiuisa, punctum
+quidem partium lineae intelligitar communis terminus. Linea uero superficiei, superficies autem solidi corporis. Est
+autem signum continui corporis, si una pars mota sit, totum corpus moueri; et si totum corpus mouetur, certe simul
+aliae [205A] partes uicinae mouebuntur, ut si iaceat uirgula uel ex aere, uel ex ligno, uel ex quolibet alio metallo, si
+quis unum eius caput uel quamlibet eius partem moueat, tota mox uirgula commouetur. Hoc autem idcirco euenit quod
+eius partes quodam communi termino coniunguntur, et ille communis terminus una parte mota caeteras mouet. Hoc
+uero in discretis non est. In numero namque cum sint decem, si unum mouero, caeteri non mouentur, immoti enim
+permanent nouem; etsi plenus tritico sit modius, si unum tritici granum mouero, non omnia continuo grana
+commouebuntur, idcirco quod discreta est multitudo, nec granum grano ullo communi termino uidetur implicitum. At
+uero si ipsius grani pars una sit mota, totum corpus grani moueatur necesse est. Non autem [205B] nunc hoc dicitur,
+quod linea constet ex punctis, aut superficies ex lineis, aut solidum corpus ex superficiebus sed quod et lineae termini
+puncta sunt, et superficiei lineae, et solidi corporis superficies, nullaque res suis terminis constat. Quocirca punctum
+lineae non erit pars sed communis terminus partium. Superficiei linea, et superficies solidi corporis non erunt partes sed
+partium termini communes. Constat igitur, et lineam et superficiem, et solidi corporis crassitudinem esse continuam
+quantitatem. His alia rursus apponit.
+SUNT AUTEM TALIUM ET TEMPUS ET LOCUS; PRAESENS ENIM COMMUNIS EST TERMINUS AD
+QUEM CONIUNGUNTUR PRAETERITA VEL FUTURA. RURSUS LOCUS CONTINUORUM EST; LOCUM
+ENIM QUENDAM PARTES CORPORIS RETINENT, QUAE AD QUENDAM COMMUNEM TERMINUM
+CONIUNGUNTUR; [205C] ERGO ET LOCI PARTES, QUAS TENENT SINGULAE PARTES CORPORIS, AD
+EUNDEM TERMINUM CONIUNGUNTUR AD QUEM ET PARTES CORPORIS IUNGEBANTUR; QUARE
+CONTINUUM EST ET LOCUS; AD UNUM ENIM COMMUNEM TERMINUM EIUS PARTES
+CONIUNGUNTUR.
+Tempus quoque et locum continuae quantitatis esse pronuntiat. Tempus namque esse quantitatem res illa
+demonstrat, quod in spatio, id est in longitudine et in breuitate, consideratur. Continuum uero esse res illa demonstrat
+quod partes temporis habeant aliquem communem terminum ac medium, ad quem coniungantur extrema. Nam cum
+sint partes temporis praeteritum et futurum, horum praesens tempus communis est terminus, huius namque finis est,
+illius initium. Locus quoque continuorum est. [205D] Locum uero dicimus quodcumque illud sit quod partes corporis
+tenet, siue supra, siue a latere, seu subter sit. Quod si cunctae partes corporis locum aliquem tenent, et qui circa corpus
+est locus, per omne corporis spatium partesque diffunditur, omnes corporis partes a loci partibus occupabuntur. Quod si
+ita est, qui communis terminus coniungebat corporis partes, eius termini locus illa quoque loca quae sunt corporis
+partium iungit, et est eodem modo locus de continua quantitate, quemadmodum et corpus. Ita enim communis terminus
+inuenitur in loco partium quemadmodum et corporis, idcirco quod corporis locus, per corpus omne diffunditur. Quod
+autem dixit: SUNT AUTEM TALIUM ET TEMPUS ET LOCUS, quoniam superius [206A] de continuis loquebatur,
+tempus quoque et locum continuis addidit dicens: SUNT AUTEM TALIUM ET TEMPUS ET LOCUS, id est
+continuorum sed post continuae discretaeque quantitatis diuisionem aliam a principio rursus orditur.
+AMPLIUS ALIA SUNT QUAE EX HABENTIBUS AD SE INUICEM POSITIONEM SUIS PARTIBUS
+CONSTANT; UT LINEAE QUIDEM PARTES HABENT AD SE INUICEM POSITIONEM (SINGULAE ENIM
+IACENT ALICUBI, ET POSSIS COGNOSCERE ET DESIGNARE UBI SINGULAE IN SUPERFICIE IACEANT
+ET AD QUAM CAETERARUM PARTIUM CONIUNGANTUR); SIMILITER AUTEM ET SUPERFICIEI PARTES
+HABENT ALIQUAM POSITIONEM (SIMILITER ENIM DESIGNABUNTUR SINGULAE UBI IACENT, ET
+QUAE AD SE INUICEM CONIUNGUNTUR). ET SOLIDITATIS QUOQUE ET LOCI SIMILITER.
+[206B] Rursus digerit quantitatis differentias. Sunt enim quantitatis aliae quidem quae ex habentibus
+positionem ad seinuicem suis partibus constant, aliae uero quae nullam partium habent positionem. Positionem uero
+partium retinere dicuntur, quarum triplex ista natura est: primum ut eius partes alicubi sint, deinde ne pereant, tertio
+
+

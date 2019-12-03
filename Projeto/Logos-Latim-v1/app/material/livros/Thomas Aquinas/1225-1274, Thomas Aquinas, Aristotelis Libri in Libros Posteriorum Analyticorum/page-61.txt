@@ -1,0 +1,60 @@
+autem quod magis scimus unumquodque cum cognoscimus ipsum secundum se, quam quando cognoscimus
+ipsum secundum aliud: ut puta, cum cognoscimus de Corisco quod ipse Coriscus est musicus, magis hoc scimus
+quam si sciamus solum quod homo est musicus. Et ista etiam propositio simpliciter vera est, quia semper id quod
+est per se, prius est eo quod est per aliud et causa eius, ut habetur in VIII physic.. Ex his autem subintelligitur
+conclusio, quod potior est demonstratio, quae facit scire aliquid secundum se, quam quae facit scire aliquid
+secundum aliud. Demonstratio autem universalis demonstrat aliquid et facit scire non secundum ipsum, sed
+secundum aliud, scilicet secundum universale; sicut quod triangulus duorum aequalium laterum, qui est
+isosceles, habet tres, non quia est isosceles, sed quia est triangulus.
+Particularis autem demonstratio demonstrat de aliqua re particulari secundum seipsam.
+Unde sequitur, secundum praemissa, quod particularis demonstratio sit potior quam universalis.
+|#6 Secundam et tertiam rationem ponit ibi: amplius si universale quidem etc., quae talis est.
+Universale non est aliquid praeter singularis, ut probatur in VII metaphys.. Demonstratio autem universalis facit
+opinionem, ex ipso modo suae demonstrationis, quod sit aliquid et quaedam natura in entibus; puta cum
+demonstrat aliquid de triangulo praeter particulares triangulos, et de figura praeter particulares figuras, et de
+numero praeter particulares numeros. Praemissis autem duabus propositionibus addit alias duas. Nam primae
+propositioni, quae dicebat quod universale non est aliquid praeter singularia, addit hanc propositionem, quod
+potior est demonstratio, quae est de ente, quam illa quae est de non ente. Secundae autem propositioni, quae
+dicebat quod demonstratio universalis facit opinionem quod universale sit aliquid in rerum natura, addit aliam
+propositionem, scilicet quod demonstratio, quae non facit errare, est potior quam ea per quam erratur. Et ostendit
+quod propter demonstrationem universalem erratur, quia procedentes secundum demonstrationem universalem
+demonstrant de aliquo universali sicut de quodam analogo; idest sicut de quodam communi, quod
+proportionaliter se habet ad multa, quasi sit aliquid commune, quod neque est linea, neque numerus, neque
+solidum, idest corpus, neque planum, idest superficies, sed aliquid praeter haec, idest ipsa quantitas universalis;
+vel, aliquid propter haec, idest quod necesse est ponere ad hoc quod ista habeant rationem quantitatis. Sic igitur
+secundum duo media, quasi duplici ratione concludit unam conclusionem, dicens quod si universalis
+demonstratio ita se habet, quod minus est de ente quam particularis, et magis facit opinionem falsam quam
+particularis; sequitur ex his duobus mediis quod universalis sit indignior quam particularis.
+|#7 Deinde cum dicit: aut primum quidem nihil etc., solvit praedictas rationes per ordinem.
+Et primo primam, dicens quod primum quidem, idest secundum quod procedebat prima ratio, non habet aliam
+rationem in universali quam in particulari; quia utrobique invenitur secundum se et secundum aliud. Et
+manifestat quod in universali inveniatur secundum se. Habere enim tres angulos aequales duobus rectis non
+convenit isosceli secundum se, idest secundum quod isosceles est, sed secundum quod est triangulus; et ideo qui
+cognoscit quemdam triangulum habere tres, scilicet isoscelem, minus habet cognitionem de eo quod est per se,
+quam si cognoscat quod triangulus habet tres. Et hoc est universaliter dicendum, quod si aliquid non insit
+triangulo secundum quod est triangulus, et demonstretur de eo, quidquid sit illud, non erit vera demonstratio.
+Si autem insit ei secundum quod est triangulus, cognoscens in universali de triangulo secundum quod huiusmodi,
+perfectiorem cognitionem habet. Ex his igitur concludit quamdam conditionalem, in cuius antecedenti tria
+ponuntur.
+Quorum unum est quod triangulus sit in plus quam isosceles; secundum est quod triangulus praedicetur de
+isoscele et aliis secundum eamdem rationem et non aequivoce; tertium est quod habere tres angulos aequales
+duobus rectis insit omni triangulo. Et his tribus suppositis, consequens est quod habere tres non conveniat
+triangulo in quantum est isosceles, sed e converso.
+Apposuit autem prima duo in antecedente, quia si triangulus non esset in plus, vel si aequivoce praedicaretur de
+pluribus, non compararetur ad isoscelem sicut universale ad particulare. Tertium autem addit, quia si habere tres
+non conveniret omni triangulo, non conveniret ei in quantum triangulus, sed in quantum aliquis triangulus.
+Sicut hoc ipsum quod est habere tres, quia non convenit omni figurae, non convenit figurae in quantum est
+figura, sed in quantum est figura quaedam, quae est triangulus. Ex his igitur concludit oppositum eius quod
+obiectio supponebat, scilicet quod ille qui scit in universali, magis cognoscit rem per se et in quantum
+huiusmodi, quam ille qui cognoscit in particulari. Et ex hoc ulterius concludit principale propositum, scilicet
+quod potior sit demonstratio universalis quam particularis.
+|#8 Secundam rationem solvit ibi: amplius si quidem sit quaedam etc., et dicit quod si universale praedicatur de
+pluribus secundum unam rationem et non aequivoce, universale quantum ad id quod rationis est, idest quantum
+ad scientiam et demonstrationem, non erit minus ens quam particulare sed magis: quia incorruptibile est magis
+ens quam corruptibile; ratio autem universalis est incorruptibilis; particularia autem sunt corruptibilia, quibus
+accidit corruptio secundum principia individualia, non secundum rationem speciei, quae communis est omnibus
+et conservatur per generationem. Sic igitur quantum ad id quod rationis est, universalia magis sunt entia quam
+
+61
+
+

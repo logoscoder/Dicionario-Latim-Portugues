@@ -1,0 +1,61 @@
+Pater est bonus' et huiusmodi. Similiter tales sunt falsae 'tantum omnis homo est rationalis', 'tantum
+omne animal est sensibile', quia istae exponentes non stant simul, si sint plures homines et plura animalia:
+'omnis homo est rationalis' et 'nihil aliud ab omni homine est rationale', quia si nihil aliud ab omni
+homine est rationale, et iste homo est aliud ab omni homine, igitur iste homo non est rationalis, quae repugnat
+isti
+'omnis homo est rationalis' Et eodem modo est de ista 'tantum omne animal est sensibile'. Secundo
+uidendum est de dictione exclusiua secundum eius secundariaim institutionem. Et est sciendum quod triplex
+potest esse: una, quando praecise excludit praedicatum ab omni distributo de quo non dicitur subiectum; alia,
+quando praecise excludit ea quae nec importantur per subiectum nec sunt partes eorum; tertia, quando praecise
+excludit maiorem pluralitatem quam est expressa per subiectum. Et secundum hoc dantur tres regulae. Una est
+quod quando dictio exclusiua additur termino communi distributo, quod potest esse exclusio proprie dicta, et
+tunc excluditur omne illud de quo non uerificatur illud cui additur dictio exclusiua. Aliter potest esse exclusio
+improprie dicta, secundum quod denotatur praedicatum remoueri a quolibet alio communi cum signo particulari,
+de quo non uerificatur subiectum; et potest uocari exclusio communis repugnantis cum signo particulari. Unde
+ista 'tantum omnis homo currit' est distinguenda penes secundum modum aequiuocationis, eo quod li tantum
+potest teneri proprie, et tunc habet istas exponentes 'omnis homo currit' et 'nihil aliud ab omni homine currit'. Vel
+potest sumi improprie, ut sit exclusio cuiuslibet communis repugnantis cum signo particulari, ut habeat istas
+exponentes 'omnis homo currit' et 'aliquis bos non currit' et
+'aliquis asinus non currit' et 'aliqua capra non currit', et sic de singulis communibus, ut per talem
+exclusiuam -- improprie sumpta dictione exclusiua denotatur praedicatum uerificari de termino communi posito
+in illa propositione cum signo uniuersali et non uerificari de quocumque alio communi uniuersaliter sumpto. Et
+ista distinctio numquam habet Iocum nisi quando dictio exclusiua additur termino communi uniuersaliter
+sumpto. Iuxta secundam -- impropriam -- acceptionem dictionis exclusiuae accipitur una alia regula quae est ista,
+quod quando dictio exclusiua additur termino importanti aliquid habens plures partes, illa propositio est
+distinguenda, eo quod potest esse exclusio proprie dicta, et tunc denotatur praedicatum competere subiecto et
+remoueri a quolibet a quo remouetur subiectum; uel potest esse exclusio improprie dicta, secundum quod
+excluditur omne illud de quo non uerificatur subiectum nec importans partem subiecti, et potest uocari exclusio
+cuiuslibet importantis extrinsecum. Et secundum hoc ista propositio est distinguenda 'tantum
+Sortes est albus', eo quod dictio exclusiua potest suae proprie, et tunc includit contradictionem, quia
+tunc istae sunt suae exponentes 'Sortes est albus' et 'nihil aliud a Sorte est album', quae duae repugnant, quia
+inferunt repugnantia. Nam sequitur 'Sortes est albus, igitur aliqua pars corporis Sortis est alba'; et sequitur 'nihil
+aliud a Sorte est album; quaelibet pars Sortis est alia a Sorte; igitur nulla pars corporis Sortis est alba'; quae
+conclusiones repugnant. -- Si autem sumatur dictio exclusiua improprie, ut fiat exclusio praecise cuiuslibet
+importantis tantum aliquid extrinsecum Sorti, sic est haec possibilis 'tantum Sortes est albus', quia tunc non
+denotatur nisi quod Sortes sit albus et quod nihil extrinsecum Sorti sit album; quae duae possunt stare simul, ut
+sint istae suae exponentes 'Sortes est albus' et 'nihil extrinsecum Sorti est album'. Et ista distinctio numquam
+habet locum nisi quando dictio exclusiua additur termino importanti aliquod totum habens plures partes, siue sit
+totum proprie dictum siue improprie dictum.
+Sortes est albus', eo quod dictio exclusiua potest suae proprie, et tunc includit contradictionem, quia
+tunc istae sunt suae exponentes 'Sortes est albus' et 'nihil aliud a Sorte est album', quae duae repugnant, quia
+inferunt repugnantia. Nam sequitur 'Sortes est albus, igitur aliqua pars corporis Sortis est alba'; et sequitur 'nihil
+aliud a Sorte est album; quaelibet pars Sortis est alia a Sorte; igitur nulla pars corporis Sortis est alba'; quae
+conclusiones repugnant. -- Si autem sumatur dictio exclusiua improprie, ut fiat exclusio praecise cuiuslibet
+importantis tantum aliquid extrinsecum Sorti, sic est haec possibilis 'tantum Sortes est albus', quia tunc non
+denotatur nisi quod Sortes sit albus et quod nihil extrinsecum Sorti sit album; quae duae possunt stare simul, ut
+sint istae suae exponentes 'Sortes est albus' et 'nihil extrinsecum Sorti est album'. Et ista distinctio numquam
+habet locum nisi quando dictio exclusiua additur termino importanti aliquod totum habens plures partes, siue sit
+totum proprie dictum siue improprie dictum.
+Et si dicatur quod tunc omnes tales essent simpliciter includentes contradictionem, secundum utramque
+acceptionem: '‚”antum corpus est album', 'tantum homo est albus', 'tantum ignis calefacit', 'tantum homo est hic
+intus', 'tantum quantum est in loco', et ceterae huiusmodi. Nam per primum excluditur superficies, cum non sit
+aliquid intrinsecum corpori, quia non est pars eius; et propter idem excluderetur per secundum; per tertium
+exemplum excluderetur calor; per quartum omnia accidentia; per ultimum punctus:
+Et si dicatur quod tunc omnes tales essent simpliciter includentes contradictionem, secundum utramque
+acceptionem: '‚”antum corpus est album', 'tantum homo est albus', 'tantum ignis calefacit', 'tantum homo est hic
+intus', 'tantum quantum est in loco', et ceterae huiusmodi. Nam per primum excluditur superficies, cum non sit
+aliquid intrinsecum corpori, quia non est pars eius; et propter idem excluderetur per secundum; per tertium
+exemplum excluderetur calor; per quartum omnia accidentia; per ultimum punctus:
+178
+
+

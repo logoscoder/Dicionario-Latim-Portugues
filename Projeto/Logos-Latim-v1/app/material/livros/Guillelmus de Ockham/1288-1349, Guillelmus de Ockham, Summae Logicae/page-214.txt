@@ -1,0 +1,56 @@
+GUILLELMI DE OCKHAM SUMMA TOTIUS LOGICAE: PARS III-1
+[3-1.01 DE DIVISIONIBUS ET DEFINITIONIBUS SYLLOGISMORUM]
+[3-1.01 DE DIVISIONIBUS ET DEFINITIONIBUS SYLLOGISMORUM]
+Completis primis duobus tractatibus, nunc ad tertium tractatum, de argumentis uidelicet, est
+accedendum. Et quia inter omnes species argumentorum syllogismus obtinet principatum, ideo de syllogismo est
+primo dicendum. Praemittendae autem sunt quaedam distinctiones ad propositum necessariae.
+Completis primis duobus tractatibus, nunc ad tertium tractatum, de argumentis uidelicet, est
+accedendum. Et quia inter omnes species argumentorum syllogismus obtinet principatum, ideo de syllogismo est
+primo dicendum. Praemittendae autem sunt quaedam distinctiones ad propositum necessariae.
+Unde sciendum est quod syllogismus aliquando accipitur pro uno communi omni syllogismo, ita quod
+in propositione supponat pro uno communi et non pro aliquo significato. Et sic accipiendo syllogismum haec est
+falsa
+'syllogismus est oratio' etc., et haec similiter 'syllogismus componitur ex tribus terminis' etc. Aliquando
+autem accipitur syllogismus significatiue pro oratione, 'in qua quibusdam positis' etc.
+'syllogismus est oratio' etc., et haec similiter 'syllogismus componitur ex tribus terminis' etc. Aliquando
+autem accipitur syllogismus significatiue pro oratione, 'in qua quibusdam positis' etc.
+Secunda distinctio est quod syllogismorum quidam sunt demonstratiui, quidam topici, quidam nec
+topici nec demonstratiui. Syllogismus demonstratiuus est ille in quo ex propositionibus necessariis euidenter
+notis potest adquiri prima notitia conclusionis.
+Secunda distinctio est quod syllogismorum quidam sunt demonstratiui, quidam topici, quidam nec
+topici nec demonstratiui. Syllogismus demonstratiuus est ille in quo ex propositionibus necessariis euidenter
+notis potest adquiri prima notitia conclusionis.
+Syllogismus topicus est syllogismus ex probabilibus. Et sunt "probabilia quae uidentur uel omnibus uel
+pluribus uel sapientibus, et de his quae uidentur uel omnibus uel pluribus uel maxime sapientibus". Et est ista
+descriptio sic intelligenda quod probabilia sunt illa, quae cum sint uera et necessaria, non tamen per se nota, nec
+ex per se notis syllogizabilia, nec etiam per experientiam euidenter nota, nec ex talibus sequentia; tamen propter
+sui ueritatem uidentur esse uera omnibus uel pluribus etc., ut sic breuis descriptio sit ista: probabilia sunt
+necessaria, nec principia nec conclusiones demonstrationis, quae propter sui ueritatem uidentur omnibus uel
+pluribus etc. Per primam particulam excluduntur omnia contingentia et omnia falsa; per secundam omnia
+principia et conclusiones demonstrationis; per tertiam excluduntur quaedam necessaria, quae tamen omnibus
+apparent falsa uel pluribus etc. Et sic articuli fidei nec sunt principia demonstrationis nec conclusiones, nec sunt
+probabiles, quia omnibus uel pluribus uel maxime sapientibus apparent falsi. Et hoc accipiendo sapientes pro
+sapientibus mundi et praecise innitentibus rationi naturali, quia illo modo accipitur 'sapiens' in descriptione
+probabilis.
+Syllogismus topicus est syllogismus ex probabilibus. Et sunt "probabilia quae uidentur uel omnibus uel
+pluribus uel sapientibus, et de his quae uidentur uel omnibus uel pluribus uel maxime sapientibus". Et est ista
+descriptio sic intelligenda quod probabilia sunt illa, quae cum sint uera et necessaria, non tamen per se nota, nec
+ex per se notis syllogizabilia, nec etiam per experientiam euidenter nota, nec ex talibus sequentia; tamen propter
+sui ueritatem uidentur esse uera omnibus uel pluribus etc., ut sic breuis descriptio sit ista: probabilia sunt
+necessaria, nec principia nec conclusiones demonstrationis, quae propter sui ueritatem uidentur omnibus uel
+pluribus etc. Per primam particulam excluduntur omnia contingentia et omnia falsa; per secundam omnia
+principia et conclusiones demonstrationis; per tertiam excluduntur quaedam necessaria, quae tamen omnibus
+apparent falsa uel pluribus etc. Et sic articuli fidei nec sunt principia demonstrationis nec conclusiones, nec sunt
+probabiles, quia omnibus uel pluribus uel maxime sapientibus apparent falsi. Et hoc accipiendo sapientes pro
+sapientibus mundi et praecise innitentibus rationi naturali, quia illo modo accipitur 'sapiens' in descriptione
+probabilis.
+Ex istis sequitur quod syllogismus topicus nec peccat in materia nec in forma. Sequitur etiam aliud,
+quod nullus secundum communem cursum potest euidenter et demonstratiue cognoscere de aliquo syllogismo
+topico ipsum esse topicum, quamuis possit habere fidem quod est syllogismus topicus. Sequitur etiam aliud,
+quod non omnis syllogismus topicus facit semper praecise dubitationem et formidinem, sed etiam frequenter
+facit firmam fidem, sine omni dubitatione, quia ita aliquando adhaeremus probabilibus sicut euidenter notis.
+Ex istis sequitur quod syllogismus topicus nec peccat in materia nec in forma. Sequitur etiam aliud,
+quod nullus secundum communem cursum potest euidenter et demonstratiue cognoscere de aliquo syllogismo
+214
+
+

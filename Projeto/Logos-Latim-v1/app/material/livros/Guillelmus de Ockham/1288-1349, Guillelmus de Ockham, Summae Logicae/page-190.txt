@@ -1,0 +1,56 @@
+Plato, igitur Plato non est Sortes' et e Conuerso. Et ita singularis, secundum quod praedicatum est terminus
+cammunis uel singularis, in diuersam propositionem conuertitur conuersione simplici.
+Similiter, tam indefinita quam particularis affirmatiua conuertitur tam in propositionem particularem
+quam indefinitam uel singularem, secundum quod habet pro praedicato terminum communem uel singularem.
+Sicut sequitur 'homo est albus, igitur aliquod album est homo' et 'album est homo'; et sequitur
+'aliquis homo est albus, igitur aliquod album est homo' et 'album est homo'. Similiter sequitur 'homo est
+Sortes, igitur aliquis homo est Sortes, igitur Sortes est homo' et e conuerso.
+'aliquis homo est albus, igitur aliquod album est homo' et 'album est homo'. Similiter sequitur 'homo est
+Sortes, igitur aliquis homo est Sortes, igitur Sortes est homo' et e conuerso.
+Similiter, uniuersalis affirmatiua tantum conuertitur per accidens, quia non est ibi canuersio mutua; et
+hoc quando terminus praedicatus est terminus cammunis. Et tunc canuertitur per accidens tam in particularem
+quam indefinitam. Sicut sequitur 'omnis homo est albus, igitur aliquod album est homo' et 'album est homo', et
+non e conuerso. Quando autem habet praedicatum terminum singularem, tunc etiam conuertitur per accidens in
+propositionem singularem; bene enim sequitur 'omnis homo est Sortes, igitur
+Sortes est homo' et non e conuerso.
+Sortes est homo' et non e conuerso.
+Particularis negatiua non Conuertitur, nec simpliciter nec per accidens. Non enim sequitur 'aliquod
+animal non est homo, igitur aliquis homo non est animal', nec sequitur 'ergo nullus homo est animal'. Eodem
+modo indefinita negatiua non conuertitur, quia semper particularis et indefinita conuertuntur. Et hoc saltem est
+uerum quando subiectum utriusque suppanit personaliter.
+Particularis negatiua non Conuertitur, nec simpliciter nec per accidens. Non enim sequitur 'aliquod
+animal non est homo, igitur aliquis homo non est animal', nec sequitur 'ergo nullus homo est animal'. Eodem
+modo indefinita negatiua non conuertitur, quia semper particularis et indefinita conuertuntur. Et hoc saltem est
+uerum quando subiectum utriusque suppanit personaliter.
+Aliquas de praedictis conuersionibus probat Philosophus I Priorum quia tamen planae sunt et non
+indigent magna probatione, idea duxi pertranseundum.
+Aliquas de praedictis conuersionibus probat Philosophus I Priorum quia tamen planae sunt et non
+indigent magna probatione, idea duxi pertranseundum.
+Et si dicatur contra aliqua praedictarum quod secundum Porphyrium et
+Philosophum species non praedicatur de genere, nec inferius de superiori, et singulare siue indiuiduum
+non praedicatur nisi de uno solo, ergo tales conuersiones non ualent 'omnis homo est animal, ergo aliquod animal
+est homo' et huiusmadi:
+Philosophum species non praedicatur de genere, nec inferius de superiori, et singulare siue indiuiduum
+non praedicatur nisi de uno solo, ergo tales conuersiones non ualent 'omnis homo est animal, ergo aliquod animal
+est homo' et huiusmadi:
+Dicendum quad Porphyrius et Philosophus intendunt quad inferius non praedicatur de superiari
+cammuniari ad plura actualiter quam sit inferius, ipsa superiori uniuersaliter sumpto, et hoc praedicatione uera.
+Unde non intendunt nisi quad nulla talls sit uera 'omne animal est hamo', 'omnis homo est Sortes' et sic de aliis;
+quin tamen particulares et indefinitae sint uerae non negant.
+Dicendum quad Porphyrius et Philosophus intendunt quad inferius non praedicatur de superiari
+cammuniari ad plura actualiter quam sit inferius, ipsa superiori uniuersaliter sumpto, et hoc praedicatione uera.
+Unde non intendunt nisi quad nulla talls sit uera 'omne animal est hamo', 'omnis homo est Sortes' et sic de aliis;
+quin tamen particulares et indefinitae sint uerae non negant.
+Praedicta dicta sunt de propositionibus in recto. Sed de prapositionibus in obliquo non est omnino
+eodem modo dicendum, sed in illis frequenter oportet aliquam mutationem facere ex parte uocis praeter solam
+transpositionem terminorum. Et hoc addendo frequenter ad praedicatum participium uerbi, quod est copula, sicut
+sic arguendo 'nullus homo est in domo, igitur nullus exsistens in domo est homo'. Similiter sic arguendo 'nullus
+homo uidet asinum, igitur nullus uidens asinum est homo'. Et hoc est uerum quando obliquitas cadit a parte
+praedicati; quia si cadat a parte subiecti, non oportet. Unde ista 'omnem hominem uidet asinus' debet sic conuerti
+'ergo asiniis uidet hominem'; similiter 'Filium generat Pater, igitur Pater generat Filium'.
+Praedicta dicta sunt de propositionibus in recto. Sed de prapositionibus in obliquo non est omnino
+eodem modo dicendum, sed in illis frequenter oportet aliquam mutationem facere ex parte uocis praeter solam
+transpositionem terminorum. Et hoc addendo frequenter ad praedicatum participium uerbi, quod est copula, sicut
+190
+
+

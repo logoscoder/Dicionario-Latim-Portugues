@@ -1,0 +1,64 @@
+Manifestum est enim impossibile esse quod movens secundum eandem motus
+speciem moveatur.
+Non enim sufficiet stare in aliqua specie subalterna, sed oportebit
+pervenire per divisionem usque ad individua, idest usque ad species
+specialissimas: puta si aliquis doceat, non solum doceatur, sed idem doceat
+et doceatur; puta si docet geometriam, quod hoc idem doceatur; aut si movet
+specie motus localis quae est proiectio, quod secundum eundem motum
+proiectionis moveatur: et hoc est manifeste falsum.
+Deinde destruit secundum modum, ut scilicet non moveatur movens secundum
+eandem speciem motus, sed quod movet uno genere motus, moveatur alio
+genere: puta quod movet secundum locum, moveatur per augmentum; et quod
+movet per augmentum, moveatur ab aliquo alio per alterationem; et illud
+alterans moveatur secundum aliquem alium motum.
+Manifestum est autem quod motus non sunt infiniti, neque secundum genus
+neque secundum speciem. Est enim habitum in quinto, quod motus differunt
+genere et specie secundum differentias rerum in quibus sunt motus: genera
+autem rerum et species non sunt infinitae, ut alibi probavit; et sic neque
+genera aut species motus. Si ergo movens necesse est moveri alio genere aut
+alia specie motus, non erit procedere in infinitum, sed erit aliquod primum
+movens immobile.
+|#11
+Sed quia posset aliquis dicere, quod quando deficient omnes species
+motus, iterum redibitur ad primam; ut scilicet si primum motum acceptum
+movebatur localiter, distributis omnibus generibus et speciebus motuum per
+diversos motores, motor qui residuus erit movebitur motu locali: ad hoc
+excludendum consequenter dicit, quod tantum valet sic reflectere, ut
+dicatur quod alterans feratur (quod dicit, quia motum localem supra prius
+nominaverat, et alterationem ultimo) sic inquam reflectere idem est ac si
+statim a principio dicatur quod movens secundum locum movetur; et non solum
+in genere sed in specie, quod docens docetur.
+Et quod hoc tantundem valeat, probat consequenter.
+Omne enim quod movetur, magis movetur a superiori movente quam ab
+inferiori, et per consequens multo magis a primo movente. Si ergo id quod
+ponebatur moveri localiter, movetur a propinquo quidem movente quod
+augetur, ulterius autem ab eo quod alteratur, ultra autem ab eo quod
+movetur secundum locum: hoc quod movetur secundum locum, magis movebitur a
+primo quod movetur secundum locum, quam a secundo quod alteratur, aut a
+tertio quod augetur.
+Ergo erit verum dicere quod movens secundum locum, movetur secundum locum;
+et similiter secundum unamquamque speciem motus.
+Hoc autem non solum est falsum, quia videtur instantiam habere in multis,
+sed etiam est impossibile. Sequeretur enim quod docens addiscat dum docet;
+quod est impossibile. Includit enim hoc contradictionem; quia de ratione
+docentis est quod habeat scientiam, de ratione autem addiscentis quod non
+habeat.
+Sic ergo patet quod non est necessarium movens moveri.
+|#12
+Secundam rationem ponit ibi: amplius autem his magis irrationabile
+etc.: quae non differt a praecedenti nisi in hoc, quod prima deducebat ad
+quaedam inconvenientia particularia, puta quod proiiciens proiiceretur, aut
+docens addisceret; haec autem ducit ad inconveniens in communi.
+Unde dicit quod licet inconveniens sit quod docens addiscat, tamen adhuc
+est magis irrationabile; quia accidit quod omne motivum sit mobile, si
+nihil movetur nisi ab eo quod movetur. Sic enim sequetur quod omne movens
+sit mobile; puta si dicatur quod omne quod habet virtutem sanandi aut quod
+sanat in actu, est sanabile, et quod habet virtutem aedificandi, est
+aedificabile: quod est magis irrationabile quam quod docens addiscat; quia
+docens potuit prius addiscere, sed aedificans nunquam fuit aedificatus.
+Hoc autem dupliciter sequitur. Si enim detur quod omne movens movetur
+secundum eandem speciem motus, sequitur quod mox, idest immediate,
+aedificans aedificetur et sanans sanetur: si autem detur quod non per
+311
+
+

@@ -1,0 +1,57 @@
+|#8 Deinde cum dicit: similiter autem erit etc., ostendit quod sit accipere primum in negativis; et dicit quod si a
+negetur de b, si sit accipere aliquod medium, a quo scilicet per prius removeatur a quam a b, tunc haec
+propositio, b non est a, erit demonstrabilis. Si autem non sit aliquod tale medium accipere, non erit haec
+propositio demonstrabilis, sed principium demonstrationis.
+Et tot erunt elementa, idest principia demonstrationis, quot erunt termini; ad quos scilicet statur, ut ultra non sit
+invenire medium. Propositiones enim quae fiunt ex huiusmodi terminis, sunt principia demonstrationis. Puta si c
+immediate praedicetur de b, et a immediate removeatur a b, aut praedicetur de eo immediate, b erit terminus ad
+quem ultimo pervenitur in mediis sumendis: unde utraque propositio erit immediata, et demonstrationis
+principium. Et patet ex praemissis quod sicut sunt quaedam principia indemonstrabilia affirmativa, in quibus
+unum de alio praedicatur, significando quod hoc essentialiter est illud, sicut cum genus praedicatur de proxima
+specie, vel hoc sit in illo, sicut cum passio praedicatur de proprio et immediato subiecto; ita etiam sunt principia
+indemonstrabilia in negativis, negando vel essentiale praedicatum, vel etiam propriam passionem. Ex quo patet
+quod quaedam sunt principia demonstrationis ad demonstrandum conclusionem affirmativam, quam oportet
+concludere ex omnibus affirmativis; et quaedam sunt principia demonstrationis ad probandum conclusionem
+negativam, ad cuius illationem oportet assumere aliquam negativam.
+|#9 Deinde cum dicit: cum autem oporteat etc., ostendit quomodo utendum sit primis propositionibus in
+demonstrando. Et primo, in demonstrationibus affirmativis; secundo, in negativis; ibi: in privativis autem etc..
+Circa primum tria facit: primo, ostendit qualiter oporteat sumere propositiones primas et immediatas in
+demonstrationibus; secundo, ostendit quomodo huiusmodi propositiones se habeant ad demonstrationes; ibi: et
+quemadmodum in aliis etc.; tertio, epilogat; ibi: in ostensivis quidem igitur etc..
+|#10 Dicit ergo primo, quod quando oportet demonstrare aliquam conclusionem affirmativam, puta, omne b est
+a, necesse est accipere aliquid quod primo praedicetur de b quam a, et de quo a etiam praedicetur, et sit illud c; et
+si iterum aliquid sit, de quo a per prius praedicetur quam de c, sic semper procedendo; sic nec propositio nec
+terminus significans aliquod ens accipietur in demonstrando extra ipsum a, quia oportebit quod a praedicetur de
+eo per se, et ita quod contineatur sub eo et non sit ab eo extrinsecum; sed oportebit semper condensare media. Et
+loquitur ad similitudinem hominum, qui videntur esse condensati sedentes in aliqua sede, quando inter sedentes
+nullus potest intercidere medius.
+Ita et media in demonstratione dicuntur densata, quando inter terminos acceptos nihil cadit medium.
+Et hoc est quod dicit, quod medium densatur quousque perveniatur ad hoc quod spatia fiant indivisibilia; idest,
+distantiae inter duos terminos sint tales, quod non possint dividi in plures huiusmodi distantias, sed sit unum
+spatium tantum. Et hoc contingit, quando propositio est immediata. Tunc enim vere est una propositio non solum
+actu, sed etiam potentia, quando est immediata. Si enim sit mediata, quamvis sit una in actu, quia unum
+praedicatur de uno, tamen est multa in potentia, quia accepto medio formantur duae propositiones. Sicut etiam
+linea, quae est una in actu in quantum est continua, est tamen multa in potentia, in quantum est divisibilis per
+punctum medium. Et ideo dicit quod propositio immediata est una sicut simplex indivisibilis.
+|#11 Deinde cum dicit: et quemadmodum in aliis etc., ostendit quomodo se habeat propositio immediata ad
+demonstrationem. Ubi considerandum est quod, sicut habetur in X metaphys., in quolibet genere oportet esse
+unum primum, quod est simplicissimum in genere illo, et mensura omnium quae sunt illius generis. Et quia
+mensura est homogenea mensurato, secundum diversitatem generum oportet esse huiusmodi prima indivisibilia
+diversa. Unde hoc non est idem in omnibus: sed in gravitate ponderum accipitur ut unum indivisibile uncia, sive
+mna, idest quoddam minimum pondus; quod tamen non est simplex omnino, quia quodlibet pondus est divisibile
+in minora pondera, sed accipitur ut simplex per suppositionem. In melodiis autem accipitur ut unum principium
+tonus, qui consistit in sesquioctava proportione, vel diesis, quae est differentia toni et semitonii. Et in diversis
+generibus sunt diversa principia indivisibilia.
+Syllogismi autem principia sunt propositiones; unde oportet quod propositio simplicissima, quae est immediata,
+sit unum, quod est mensura syllogismorum. Demonstratio autem addit supra syllogismum quod facit scientiam.
+Comparatur autem intellectus ad scientiam sicut unum et indivisibile ad multa. Nam scientia est per decursum a
+principiis ad conclusiones; intellectus autem est absoluta et simplex acceptio principii per se noti. Unde
+intellectus respondet immediatae propositioni; scientia autem conclusioni, quae est propositio mediata. Sic igitur
+demonstrationis, in quantum est syllogismus, unum indivisibile est propositio immediata. Ex parte autem
+scientiae, quam causat, unum eius est intellectus.
+|#12 Deinde cum dicit: in demonstrativis quidem etc., epilogando concludit quod supra ostensum est, scilicet
+quod in affirmativis syllogismis medium non cadit extra extrema.
+
+59
+
+

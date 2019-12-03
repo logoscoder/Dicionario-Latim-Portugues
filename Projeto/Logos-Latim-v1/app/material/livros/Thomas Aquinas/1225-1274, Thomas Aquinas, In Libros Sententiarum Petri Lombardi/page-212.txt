@@ -1,0 +1,61 @@
+simpliciter. Multitudo vero quae dividit ens, non addit accidens positive supra ens, sed rationem distinctionis
+tantum, secundum quod una non est altera; et sic est etiam in divinis.
+|a4 Articulus 4: Utrum unum et numerus significent essentiam.
+AG1
+Ad quartum sic proceditur. Videtur quod hujusmodi dictiones significent divinam essentiam.
+Quidquid enim ad se dicitur in divinis, substantialiter dicitur, et essentiam significat; sed hujusmodi dictiones
+secundum suum nomen non referuntur ad aliud, sed ad se dicuntur. Ergo sunt essentialia.
+AG2
+Praeterea, secundum boetium, omnia praedicamenta mutantur in substantiam, cum in divinam praedicationem
+venerint, praeter ad aliquid. Sed numerus et unitas videntur ad quantitatem pertinere. Ergo sunt essentialia.
+AG3
+Si dicas, quod significant essentiam quando adjunguntur termino essentiali, ut cum dicitur unus Deus; et
+notionem, quando adjunguntur personali, ut cum dicitur unus pater. Contra. Quaecumque dicuntur non
+secundum unam rationem, aequivoce dicuntur. Sed non est eadem ratio unitatis personalis et essentialis; sicut
+nec est eadem ratio distinctionis essentialis et personalis. Ergo videtur quod aequivoce de eis dicantur.
+AG4
+Item, unum pertinet ad essentiam; unde dicimus, quod pater et filius sunt unum propter essentiae unitatem. Sed
+cum multitudo constituatur ex uno, ad quodcumque genus pertinet significatio unius, et significatio multitudinis.
+Ergo videtur quod etiam omnia nomina significantia distinctionem vel pluralitatem, significent essentiam.
+SC1
+Contra, quidquid essentialiter dicitur, de singulis personis praedicatur. Sed termini numerales non praedicantur
+de patre: non enim potest dici, quod pater sit duo vel tres. Ergo videtur quod non significent essentiam, et ita nec
+unum, quod est pluralitatis principium.
+CO
+Respondeo dicendum, quod, ut patet ex dictis, art. Antec., in divinis non est aliqua unitas et multitudo, nisi
+secundum quod unum et multa dividunt ens commune. Et hoc modo, ut dictum est, non addunt aliquid supra ens,
+de quo dicitur unitas vel multitudo, nisi secundum rationem.
+Unde sicut ens communiter se habet ad absoluta et relativa, et similiter distinctio et indistinctio, quae secundum
+rationem adduntur, ita et unum et multa quae dividunt ens commune. Et ideo secundum quod diversis
+adjunguntur significant essentiam vel notionem. Unitas enim essentialis est ipsa essentia divina secundum quod
+est indivisa, et unitas personalis patris est unitas proprietatis secundum quod non est divisa: et similiter multitudo
+vel pluralitas personarum sunt ipsae personae secundum quod sunt distinctae: et quia non est ibi aliqua distinctio
+essentiarum, ideo nec aliqua pluralitas essentialis.
+RA1
+Ad primum igitur dicendum, quod hujusmodi dictiones, secundum rationem quam addunt eis de quibus dicuntur,
+non ponunt relationem, nec aliquid; et ideo secundum nomina quae imponuntur ab hujusmodi rationibus, non
+referuntur ad aliud; sed quantum ad illud circa quod ponitur ista ratio, possunt importare et absolutum et relatum.
+RA2
+Ad secundum dicendum, quod, ut dictum est, art. 2 hujus quaest., pluralitas non venit in divinam praedicationem
+ex multitudine quae est species quantitatis; et ideo ratio non procedit.
+RA3
+Ad tertium dicendum, quod ratio unitatis ponit ens indivisum simpliciter: unde abstrahit a quolibet modo
+distinctionis: unde secundum unam rationem communem dicitur persona una et essentia una, quamvis sit non
+una ratio distinctionis in speciali.
+Unde ex hoc non habetur quod aequivoce praedicetur.
+RA4
+Ad quartum dicendum, quod sicut ens absolute dictum intelligitur de substantia, ita unum absolute dictum, prout
+significatur in neutro genere, quod substantivatur, importat unitatem absolute et significat unitatem substantiae.
+Sed talis unitas non constituit numerum personarum, sed constitueret numerum essentiarum, si essent ibi. Sed in
+masculino genere non significat unitatem absolute, sed ponit unitatem circa terminum cui adjungitur, quia
+adjectivum est; unde importat unitatem convenientem illi termino. Et ideo cum dicitur unus Deus, importat
+unitatem essentialem: et cum dicitur unus pater, importat unitatem personalem: et haec unitas constituit
+numerum personarum, qui ad relationem pertinet.
+RC1
+Et per hoc patet responsio ad illud quod in contrarium objiciebatur.
+
+|+d24.q2 Distinctio 24, Quaestio 2
+
+212
+
+

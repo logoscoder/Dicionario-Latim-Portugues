@@ -1,0 +1,62 @@
+PR2
+Secundo utrum creatio sit mutatio.
+PR3
+Tertio utrum creatio sit aliquid realiter in creatura.
+PR4
+Quarto utrum potentia creandi sit creaturae communicabilis.
+PR5
+Quinto utrum possit esse aliquid quod non sit a Deo creatum.
+PR6
+Sexto utrum sit unum tantum creationis principium.
+PR7
+Septimo utrum Deus operetur in omni operatione naturae.
+PR8
+Octavo utrum creatio operi naturae admisceatur.
+PR9
+Nono utrum anima creetur.
+PR10
+Decimo utrum anima sit creata in corpore, vel extra corpus.
+PR11
+Undecimo utrum anima sensibilis et vegetabilis sint per creationem.
+PR12
+Duodecimo utrum sint in semine quando discinditur.
+PR13
+Decimotertio utrum aliquod ens ab alio, possit esse aeternum.
+PR14
+Decimoquarto utrum id quod est divisum a Deo per essentiam, possit semper fuisse.
+PR15
+Decimoquinto utrum res processerint a Deo per necessitatem naturae.
+PR16
+Decimosexto utrum ab uno primo possit procedere multitudo.
+PR17
+Decimoseptimo utrum mundus semper fuerit.
+PR18
+Decimoctavo utrum Angeli sint creati ante mundum visibilem.
+PR19
+Undevigesimo utrum potuerint esse Angeli ante mundum visibilem.
+|a1 Articulus 1
+TTA
+Et primo quaeritur utrum Deus possit aliquid creare ex nihilo.
+TTB
+Et videtur quod non.
+AG1
+Deus enim non potest facere contra communem animi conceptionem, sicut quod totum non sit maius sua parte.
+Sed, sicut dicit Philosophus, communis conceptio ex sententia Philosophorum fuit, quod ex nihilo nihil fiat. Ergo
+Deus non potest de nihilo aliquid facere.
+AG2
+Praeterea, omne quod fit, antequam esset, possibile erat esse: si enim erat impossibile esse, non erat possibile
+fieri: nihil enim mutatur ad id quod est impossibile. Sed potentia qua aliquid potest esse, non potest esse nisi in
+aliquo subiecto; nisi forte ipsamet sit subiectum; nam accidens absque subiecto esse non potest. Ergo omne quod
+fit, fit ex materia vel subiecto. Impossibile est ergo ex nihilo aliquid fieri.
+AG3
+Praeterea, infinitam distantiam non contingit pertransire. Sed non entis simpliciter ad ens est infinita distantia;
+quod ex hoc patet, quia quanto potentia est minus ad actum disposita, tanto magis ab actu distat; unde si omnino
+potentia subtrahatur, erit infinita distantia.
+Ergo impossibile est quod aliquid transeat simpliciter de non ente ad ens.
+AG4
+Praeterea, Philosophus dicit, quod omnifariam dissimile, non agit in omnifariam dissimile; oportet enim quod
+agens et patiens conveniant in genere et in materia. Sed non ens simpliciter et Deus in nullo conveniunt. Ergo
+Deus non potest agere in non ens simpliciter, et ita non potest facere aliquid de nihilo.
+34
+
+

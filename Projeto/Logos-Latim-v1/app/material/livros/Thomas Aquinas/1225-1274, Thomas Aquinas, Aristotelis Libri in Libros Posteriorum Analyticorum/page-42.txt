@@ -1,0 +1,58 @@
+Sed dicendum est quod licet praedicta probatio non sit efficax, communiter loquendo, est tamen efficax in
+proposito. Quia, sicut in I topicorum dicitur, paralogismus disciplinae, de quo hic loquitur, procedit ex
+convenientibus disciplinae.
+Unde intendit uti talibus mediis, qualibus utitur demonstrator. Demonstrationis autem medium est definitio, ut
+supra dictum est. Unde et syllogismus, de quo hic loquitur, intendit uti definitione pro medio. Definitio autem
+continet genus et differentiam. Unde oportet id quod universaliter praedicatur in hoc syllogismo, continere id, in
+quo est subiectum, sicut in toto.
+Quod autem a non universaliter insit ipsi c (idest, quod ista non sit universaliter vera: omne perfectum est
+substantia, quae erat maior, ut, omne c est a), probat per hoc, quod non est necesse de quocunque universali,
+quod insit universaliter omnibus quae sunt: quia nullum praedicamentum praedicatur de his, quae continentur
+sub alio praedicamento; neque etiam universaliter praedicatur de his quae communiter consequuntur ens, quae
+sunt actus et potentia, perfectum et imperfectum, prius et posterius, et alia huiusmodi.
+|#10 Deinde cum dicit: sed alteram contingit etc., ostendit quomodo praedictus syllogismus procedat ex altera
+vera, et altera falsa. Et dicit quod in praedicto syllogismo contingit accipere alteram veram, scilicet maiorem,
+quae est a.c, altera existente falsa, scilicet minore, quae est b.c.
+Et quod propositio minor, quae est b.c, semper sit falsa probat, sicut et supra, per hoc quod b in nullo est, sicut in
+toto. Sed quod haec propositio a.c possit esse vera, altera existente falsa, probat in terminis. Sit enim ita, quod a
+insit b et c individualiter, idest immediate, sicut genus proximis speciebus, ut color albedini et nigredini.
+Manifestum est enim secundum hoc, quod maior erit vera, scilicet, omne c est a, puta: omnis albedo est color;
+minor autem est falsa, scilicet, omnis nigredo est albedo; quia quando aliquid primo praedicatur de pluribus,
+neutrum istorum plurium de neutro praedicatur. Prima enim praedicatio generis est de oppositis speciebus.
+|#11 Est autem circa hoc dubitatio: quia his terminis positis, non sequitur conclusio falsa, sed vera. Erit enim
+conclusio quod a insit b, cui suppositum est inesse individualiter. Sed dicendum quod hoc exemplum ponitur
+solum ad manifestandum quomodo possit esse maior vera et minor falsa. Sed hoc exemplum non habet locum in
+proposito, ubi quaeritur conclusio falsa. Et ideo Philosophus subiungit: differt autem nihil, nec si non
+individualiter insit. Possumus enim accipere tales terminos, quod a non insit b individualiter, neque aliquo modo;
+immo potius ab eo individualiter removeatur. Nec est etiam necesse quod insit c individualiter, quia non est
+necessarium quod demonstrator utatur solum propositionibus immediatis; sed etiam his, quae per immediata
+fidem acceperunt. Accipere ergo possumus alios terminos, ad propositum pertinentes, ut si accipiamus pro medio
+substantiam intellectualem: omnis enim intelligentia est substantia; minor autem est falsa: omnis quantitas est
+intelligentia.
+Unde sequitur conclusio falsa.
+|#12 Deinde cum dicit: ipsius quidem igitur etc., respondet tacitae quaestioni. Posset enim aliquis ab eo
+requirere quod ostenderet diversitatem huius syllogismi in aliis figuris. Sed ipse respondet quod deceptio, quae
+est ipsius esse, idest per quam aliquis existimat propositionem affirmativam falsam, potest fieri solum per
+primam figuram: quia in alia figura, scilicet in secunda, non potest fieri syllogismus affirmativus. Tertia autem
+figura non pertinet ad propositum, quia in ea non potest concludi universalis, quae principaliter intenditur in
+demonstratione, et in hoc syllogismo.
+|+28 Lectio 28
+|#1
+Postquam Philosophus ostendit quomodo concludatur per syllogismum affirmativa falsa, contraria
+negativae immediatae, hic ostendit quomodo per syllogismum concludatur negativa falsa, contraria affirmativae
+immediatae. Et primo, in prima figura; secundo, in secunda; ibi: sed in media figura etc.. Circa primum duo facit.
+Primo, ostendit de quo est intentio. Et dicit quod cum negativa universalis concludi possit in prima et in secunda
+figura, primo dicendum est quot modis syllogismus ignorantiae fiat in prima figura, et qualiter se habentibus
+propositionibus in veritate et falsitate. Secundo; ibi: contingit quidem etc., prosequitur propositum. Et primo,
+ostendit quomodo fiat talis syllogismus in prima figura ex duabus falsis; secundo, quomodo fiat ex altera vera et
+altera falsa; ibi: contingit autem et altera etc..
+|#2 Dicit ergo primo quod praedictus syllogismus fieri potest ex utrisque falsis. Quod patet si a sit et in c et in b
+individualiter, idest immediate.
+Est autem immediate genus in proximis speciebus, in quas primo dividitur, sicut color in albedine et nigredine.
+Genus enim per se praedicatur de specie, quia primo ponitur in eius definitione; et immediate praedicatur de
+specie proxima, quia immediate in eius definitione ponitur, non autem ex hoc, quod ponatur in definitione
+alicuius partis definientis, sicut se habet genus remotum ad ultimam speciem. Sint ergo termini, color, albedo,
+nigredo. Si ergo accipiatur a quidem in nullo c esse, utpote si dicamus: nulla albedo est color; c autem in omni b,
+42
+
+

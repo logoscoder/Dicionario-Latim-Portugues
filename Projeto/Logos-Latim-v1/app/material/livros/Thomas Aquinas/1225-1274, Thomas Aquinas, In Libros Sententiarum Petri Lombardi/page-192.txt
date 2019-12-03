@@ -1,0 +1,60 @@
+|+d22.q1 Distinctio 22, Quaestio 1
+|a0 Prologus
+Postquam determinavit Magister de his quae pertinent ad unitatem essentiae et trinitatem personarum, hic
+determinat de nominibus quibus et essentiae unitas et personarum pluralitas designatur.
+Dividitur autem in partes duas: in prima ponit divisionem divinorum nominum, ut ostendat quid pluraliter et quid
+singulariter de divinis personis praedicetur; in secunda ostendit qualiter unitas et pluralitas in divinis accipiatur,
+24 distinct., ibi: hic diligenter inquiri oportet. Prima in duas: in prima ponit universalem distinctionem divinorum
+nominum; in secunda agit de quodam nomine quod specialem difficultatem affert, scilicet de hoc nomine
+persona, quod non videtur aliorum naturam sequi, 23 dist., ibi: praedictis adjiciendum est. Prima in duas: in
+prima ostendit diversitatem divinorum nominum; in secunda ponit quasdam regulas, ex quibus colligi potest
+qualiter unumquodque praedicetur, ibi: sciendum est igitur, quod illa quae proprie ad singulas personas pertinent,
+relative ad invicem dicuntur. Prima in duas: in prima ponit trimembrem distinctionem divinorum nominum,
+secundum Ambrosium et Augustinum; in secunda addit tres modos divinorum nominum, et concludit esse sex
+differentias eorum quae de Deo dicuntur, ibi: hic adjiciendum est, quaedam esse nomina... Quae ex tempore Deo
+conveniunt.
+Hic quaeruntur quatuor: 1 utrum Deus sit nominabilis; 2 an aliquod nomen proprie ei conveniat, vel omnia
+nomina de eo transumptive dicantur; 3 utrum sit nominandus uno tantum nomine, vel pluribus, vel etiam
+omnibus; 4 quaeritur de multiplicatione divinorum nominum in littera posita.
+|a1 Articulus 1: Utrum Deus sit nominabilis.
+AG1
+Ad primum sic proceditur. Videtur quod Deus non sit nominabilis, per id quod dicit dionysius de Deo loquens:
+omnibus autem universaliter incomprehensibilis est, et neque sensus ejus est, neque phantasma, neque opinio,
+neque nomen, neque sermo, neque tactus, neque scientia.
+Hoc etiam videtur per hoc quod dicit Philosophus Lib. De causis: causa prima superior est narratione, et
+deficiunt linguae a narratione ejus.
+AG2
+Item, omne nomen est signum alicujus formae existentis in anima, secundum Philosophum.
+Sed, sicut dicit Augustinus, Deus, qui omnem formam subterfugit, intellectui pervius esse non potest. Ergo
+videtur quod nullo nomine possit nominari.
+AG3
+Praeterea, si nominatur, aut nominatur per nomen, aut per pronomen, aut per verbum, aut per participium. Sed
+non potest nominari per nomen, cum omne nomen significet substantiam cum qualitate; in Deo autem nulla est
+compositio substantiae et qualitatis; nec per verbum, nec per participium, quae tempus consignificant, quod a
+Deo longe est; nec per pronomen, cum pronominis significatio determinetur per demonstrationem vel
+relationem; demonstratio autem fit mediantibus accidentibus, quae in Deo non sunt, et relatio est antedictae rei
+recordatio, et sic per relationem significari non potest, nisi aliquid aliud praesupponatur vel praenominetur. Ergo
+videtur quod nullo modo possit nominari.
+SC1
+Contra, in Psal. 67, 5, dicitur: Dominus nomen illi; et Exod. 3: si quaesierint nomen meum etc..
+SC2
+Praeterea, omne quod cognoscitur, potest etiam voce significari. Sed nos aliquo modo cognoscimus Deum vel
+per fidem vel per naturalem cognitionem.
+Ergo possumus eum nominare.
+CO
+Respondeo dicendum, quod cum voces sint signa intellectuum, secundum Philosophum, idem judicium est de
+cognitione rei et nominatione ejus. Unde sicut Deum imperfecte cognoscimus, ita etiam imperfecte nominamus,
+quasi balbutiendo, ut dicit Gregorius.
+Ipse autem solus seipsum comprehendit; et ideo ipse solus seipsum perfecte nominavit, ut ita dicam, verbum
+coaequale sibi generando.
+RA1
+Ad primum igitur dicendum, quod omnes auctoritates quae dicunt Deum esse innominabilem, intendunt dicere,
+quod nullum nomen exprimit perfecte ipsum Deum: quod significatur in verbis Philosophi, qui dicit, quod
+linguae deficiunt a narratione ejus; et quod alibi dicit: causa prima superior est omni narratione, et supra omne id
+quod nominatur.
+RA2
+Ad secundum dicendum, quod si Augustinus intelligat de forma corporali, sic planum est quod Deus non habet
+formam corporalem, nec oportet quod omne quod nominatur, formam corporalem habeat. Si autem intelligat de
+192
+
+

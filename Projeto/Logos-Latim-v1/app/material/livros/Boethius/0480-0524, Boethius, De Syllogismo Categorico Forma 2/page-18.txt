@@ -1,0 +1,61 @@
+concludat necesse est:
+Quoddam iustum malum est.
+Hic quoque syllogismus per conuersionem hoc modo probatur. Nam si a terminus de nullo b termino
+praedicatur, et b terminus de nullo a termino praedicabitur. Sed a terminus de quodam c termino praedicatur.
+Redit igitur primae figurae modus quartus, qui est ex uniuersali negatione est particulari affirmatione,
+particularem scilicet colligens negatiuam, ut in hoc quoque syllogismo. Nam hic quoque particularem nagatiuam
+colligit, id est b terminum de [818B] quodam c termino non praedicari.
+<II-4: BAROCO> Quartus modus secundae figurae est, qui ex uniuersali affimatione et particulari negatione
+particularem colligit negatiuam, Nam si a terminus in omni b termino sit, et de quodam c termino non praedicetur, b
+terminus de quodam c termino non praedicabitur. Sit enim a bonum, b iustum, c malum. Si quis igitur dicat:
+Omne iustum bonum est, Quoddam malum bonum non est;
+concludit:
+Quoddam igitur malum iustum non est.
+Haec uero complexio atque ordo propositionum per conuersionem non potest approbari. Generalis enim
+affirmatiua sibi ipsa conuerti non potest. Monstratur igitur iste syllogismus ex prima figura non per conuersionem sed
+per impossibilitatem, quoniam si [818C] particularis conclusio negatiua in hoc syllogismo non concluditur, aliquod
+inconueniens impossibileque contingit. Sed haec impossibilitas per primam figuram demonstrabitur. Dico enim
+quoniam si a terminus de omni b termino praedicetur, et in aliquo c termino non sit, talem colligi conclusionem, ut b
+terminus de aliquo c termino non praedicetur. Nam si hoc falsum est, huic contraiacens propositio uera erit.
+Particularibus autem negatiuis uniuersales affirmatiuae contraiacentes sunt, ut in superiore libro docuimus. Si
+igitur hic particularis negatio non est conclusio, erit generalis affirmatio. Sit enim affirmatio generalis, et b terminus de
+omni c termino praedicetur; sed a terminus de omni b termino predicatur, [818D] b uero terminus de omni c termino
+praedicari dicitur; a igitur terminus de omni c termino praedicatur, quod fieri non potest. lta enim a c propositionem
+posuimus prius, ut diceremus a terminum de quodam c termino non praedicari. Hoc igitur ostensum est per primum
+modum primae figurae.
+Quare in secunda figura omnis syllogismus imperfectus est, et eius probatio aut per conuersionem in primam
+figuram reducitur, aut ex hypothetica dispositione per impossibilitatem, et primam figuram aliter fieri non posse
+monstratar, et alii quidem omnes per impossibile probantur, quod paulo post dernonstrabitur.
+Restat ut tertiae figurae modos atque ordines explicemus. Sed antea quam id faciamus, illud prius uidendum
+est, quod in tertiae figurae modis [819A] quam conclusio colligitur uniuersalis. Sed si uel negatiuae uel affirmatiuae
+fuerint collectiones, particulares semper erunt, nunquam etiam generales.
+<III-1: DARAPTI> Est autem tertiae figurae primus modus hic, qui ex duabus uniuersalibus affirmationibus
+particularem colligit affirmationem. Nam si a et b termini de omni c termino praedicentur, a terminus de quodam b
+termino praedicabitur per conuersionem. Nam si b terminus de omni c termino praedicatur, et uniuersalis affirmatio
+particulariter sibi conuertitur, c terminus de quodam b termino praedicatur. Quod si ita est, fit tertius primae figurae
+modus, qui est ex uniuersali et particulari affirmatiua, et colligit a terminuni de quodam b termino praedicari. Sit enim a
+iustum, b uirtus, c bonum.
+Si quis enim sic dicat: [819B]
+Omne bonum iustum est, Omne bonum uirtus est;
+fit conclusio:
+Quaedam uirtus iusta est.
+Mutant alii terminos, et uolunt facere secundum modum, ut sit a uirtus, b iustum, c bonum, ut si talis
+syllogismus:
+Omne bonum uirtus est, Omne bonum iustum est;
+et concludatur:
+Quoddam iustum uirtus est.
+Sed hunc Aristoteles a superiore non diuidit, et hos duos unum modum putat, et idcirco nos septem tertiae
+figurae esse diximus modos dubitantes; sed magis Aristoteles sequendus est, atque ideo alium modum dicamus esse qui
+possit integre uideri secundus.
+<III-2: FELAPTON> Secundus uero modus tertiae figurae est, quoties [819C] ex uniuersali negatione et
+uniuersali affirmatione negatio colligitur particularis. Si enim a terminus de nullo c termino, b terminus uero de omni c
+termino praedicetur, a terminus de quodam b termino non praedicabitur. Nam si a terminus de nullo c termino
+praedicatur, b uero de omni c, et c terminus de quodam termino praedicabitur. Particulariter enim sibi uniuersalis
+affirmatiua conuertitur. Concluditur igitur in quarto primae figurae modo, a terminum de quodam b termino non
+praedicari. Sit enim a malum iustum, c bonum. Si quis sic dicat:
+Nullum bonum malum est, Omne bonum iustum est;
+concludat necesse est:
+Quoddam igitur iustum malum non est.
+Ex quo considerandum est maiorem extremitatem [819D] in conclusione praedicari.
+
+

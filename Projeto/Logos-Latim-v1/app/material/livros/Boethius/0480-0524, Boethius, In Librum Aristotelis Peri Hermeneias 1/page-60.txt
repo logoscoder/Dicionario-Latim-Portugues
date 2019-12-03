@@ -1,0 +1,51 @@
+impossibile esse non impossibile esse
+NEGATIO AFFIRMATIO
+non possibile esse possibile esse
+
+NEGATIO AFFIRMATIO
+non contingit esse contingit esse
+Idcirco namque ait:
+SEQUITUR QUIDEM CONTRADICTORIE SED CONUERSIM
+quod omnes in contrarium locatae contradictiones sunt. Contradictio namque est impossibile esse et non
+impossibile esse et contingere esse et non contingere esse et possibile esse et non possibile esse. Conuerse autem
+se sequuntur, quondam affirmatio non sequitur affirmationem et negatio negationem sed affirmatio negationes,
+negatio uero affirmationes, quod ad supra scriptam descriptionem reuertentibus planius liquet. Sensus ergo hic
+est, ordo autem seriesque sermonum sese sic habet: ERGO, inquit, contradictio quae est IMPOSSIBILE ET
+NON IMPOSSIBILE ILLUD QUOD EST CONTINGENS ET POSSIBILE, quae duae affirmationes sunt ac se
+sequuntur, /184/ ET NON CONTINGENS ET NON POSSIBILE, quae duae sunt negationes, SEQUITUR
+QUIDEM CONTRADICTORIE, ut contradictiones sint in contrarium ductae, SED CONUERSIM, ut affirmatio
+negationem, negatio sequatur affirmationem. Huius talis ratio redditur: ILLUD ENIM QUOD EST POSSIBILE
+ESSE, scilicet quod affirmatio est, NEGATIO IMPOSSIBILIS sequitur. Est autem negatio impossibilis non
+impossibile esse: quod ergo est possibile esse sequitur non impossibile esse. NEGATIONEM VERO possibilis
+affirmatio impossibilis sequitur. ILLUD namque QUOD EST NON POSSIBILE ESSE sequitur affirmatio quae
+est IMPOSSIBILE ESSE. Etenim affirmatio EST IMPOSSIBILE ESSE, NON IMPOSSIBILE esse NEGATIO.
+Et in contingentibus eodem modo. Atque hoc quidem de possibilium et impossibilium consequentia dictum est.
+Nunc de necessarii et possibilis consequentia tractat.
+NECESSARIUM VERO QUEMADMODUM, CONSIDERANDUM EST. MANIFESTUM QUONIAM NON
+EODEM MODO SED CONTRARIAE SEQUUNTUR, CONTRADICTORIAE AUTEM EXTRA.
+Quod dicit huiusmodi est: in his propositionibus quae erant impossibilis et non impossibilis conueniebat non
+possibile ei quod est impossibile et possibile consentiebat /185/ ei quod est non impossibile, contradictio scilicet
+impossibilis contradictionem possibilis sequebatur ordine conuerso. In his autem, quae necessarium praedicant
+uel affirmatiue uel negatiue et quae sequuntur possibilem propositionem, eius quae possibili consentit
+contradictio non sequitur contradictionem possibilis sed potius contraria. Necessarias uero nunc propositiones
+dico, quae tametsi non significent necessitatem, tamen siue affirmatiue siue negatiue necessarium praedicant.
+Sensus ergo hic est: si qua ex his quae necessarium praedicant consentit possibili propositioni, eius quae
+necessarium praedicat contradictio non sequitur possibilis contradictionem sed eius quae necessarium praedicat
+contradictionis contraria, ea consentit possibilis propositionis contradictioni. Prius autem disponamus quae sunt
+contradictoriae, quaeue contrariae. Eius enim quae dicit necesse est esse contradictio est non necesse est esse,
+contraria uero necesse est non esse; rursus eius quae est necesse est non esse contradictio est non necesse est non
+esse, contraria uero necesse est esse. Quare describantur et circa unam eandemque contraria et contradictoria
+disponantur, ut quod a nobis dicendum est, clarius possit liquere.
+NEGATIO CONTRADIC. AFFIRMATIO CONTRARIA AFFIRMATIO
+Non necesse est esse Necesse est esse Necesse est non esse
+Non necesse est non esse Necesse est non esse Necesse est esse
+His igitur commode breuiterque descriptis qui in eorum consequentia ad possibiles propositiones modus possit
+euenire monstrandum est. Illam namque quae est possibile est esse sequitur ea quae est non necesse est esse; nam
+quod possibile est esse, non necesse est esse. Quod enim possibile est esse, possibile est et non esse; sed quod
+possibile est non esse, non necesse est esse. Quare id quod est possibile esse recte sequitur non necesse est esse.
+Sed negationem eius quae dicit possibile est esse id est non possibile est esse non sequitur affirmatio eius quae
+dicit non necesse est esse, quae est scilicet necesse est esse; haec est enim contradictio necessariae affirmationis;
+neque enim dici potest consentire propositiones quae dicunt non possibile est esse et necesse est esse sed huius
+60
+
+

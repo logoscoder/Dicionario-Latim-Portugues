@@ -1,0 +1,69 @@
+Einführung
+Die Sammlung
+Die Collectio Hispana Gallica Augustodunensis (HGA) [1] galt bis zum Ende des 19. Jahrhunderts als eine
+Hispana mit späteren Interpolationen aus Pseudoisidor. Zwar wurden schon davor vereinzelt Zweifel an dieser
+Annahme geäußert, etwa von seiten der Gebrüder Ballerini, [2] endgültige Klarheit brachten jedoch erst die
+Untersuchungen Friedrich Maassens von 1884/85. [3] In „methodisch unanfechtbarer Beweisführung“ [4]
+konnte er nachweisen, dass die HGA der pseudoisidorischen Fälschungswerkstatt selbst entstammt und somit
+zeitgleich mit bzw. sogar schon vor den Pseudoisidorischen Dekretalen, spätestens aber zu Beginn der 850er
+Jahre, entstanden ist. [5]
+Ihre Entstehung, so Maassen, verdanke sie dem Umstand, dass „der Pseudoisidor, bevor er mit seinem vollen
+Apparat heraustrat, erst noch mit einigen Figmenten das Terrain zu sondiren für gerathen hielt“. [6] Die HGA ist
+somit ein „Ausstattungsstück im pseudoisidorischen Fälschungsbureau“. [7] Sie ist aber nicht nur „eine
+Vorarbeit für die den Namen des Isidorus Mercator an der Spitze führende Sammlung“, sondern ebenso „eine
+selbständige, für die buchmässige Verbreitung bestimmte Form, welche dem grösseren Unternehmen die Wege
+bereiten sollte“ [8], eine Neuausgabe der Hispana also.
+Die Handschrift
+Der hier wiedergegebene Text entstammt der einzigen vollständig erhaltenen Handschrift dieser Sammlung, die
+auf uns gekommen ist: dem Codex Vat. lat. 1341. [9] Diese Handschrift des 9. Jahrhunderts verhalf der HGA zu
+ihrem Namen, denn aufgrund verschiedener auf Autun bezogener Schriftstücke, die fol. 1r und 130ra in den
+Codex eingetragen worden sind, ging man lange Zeit von Autun als Herkunftsort dieser Handschrift aus. [10]
+Bernhard Bischoffs Untersuchungen zufolge ist sie jedoch in Corbie entstanden. [11]
+Sie besteht aus 189 Folia, die Sammlung selbst umfasst die Folia 1v bis 185v. Der Codex weist allerdings einen
+größeren Defekt auf: Zwischen fol. 115v und fol. 116r eine Lage, so dass das Ende von Braga III, das komplette
+Konzil von Sevilla I sowie der Anfang von Sevilla II nicht vorhanden sind. [12]
+Benedictus Levita und die HGA
+Friedrich Maassen bemerkte schon am Ende seiner ersten Untersuchung, „dass unsre Recension dem Verfasser
+der falschen Capitularien bekannt war und von ihm in einer Anzahl von Fällen benutzt ist“ [13]. Ausführliche
+Untersuchungen nahm jedoch erst Emil Seckel in seinen Studien vor. [14]
+Technische Hinweise
+Bei dem dargebotenen Text handelt es sich um eine Transkription des Codex Vat. lat. 1341, nicht um eine
+Edition der HGA. Aus diesem Grund wurden Schreibweisen und Interpunktion (Punkte, Kommata,
+Fragezeichen) der Handschrift im allgemeinen beibehalten – auch in Fällen, in denen der Sinn des Satzes eine
+abweichende Interpunktion erfordert. Eine Ausnahme bilden Doppelpunkte; diese wurden nach Verben des
+Sagens etc. eingefügt und ersetzen die ursprüngliche Interpunktion an diesen Stellen.
+Was die Schreibweisen betrifft, so wurden Abkürzungen in der Regel aufgelöst; nur in unklaren Fällen (oft in
+der Datumszeile) wurde die abgekürzte Schreibung belassen. Hingewiesen sei auf die mehrmalige Verwechslung
+von -cl- und -d- in der Handschrift (z. B. indusum statt inclusum, fol. 185ra).
+Annette Grabowsky
+Inhaltsverzeichnis
+Einleitungsstücke
+←
+De canonibus apostolorum vel sex sinodis principalibus
+←
+Adnotatio libelli eiusdem de sinodis aliis XXIIII
+←
+Situs diversarum provinciarum
+←
+In provintiis Gallicanis quae civitates sint
+←
+Ordo de celebrando concilio
+←
+Praefatio
+Concilia Greciae
+←
+Verzeichnis der Konzilien und Dekretalen
+←
+Canones apostolorum
+←
+Concilium Nicenum
+←
+Synodus Anchyritana
+←
+Concilium Neocesariense
+←
+Concilium Gangrense
+
+2
+
+

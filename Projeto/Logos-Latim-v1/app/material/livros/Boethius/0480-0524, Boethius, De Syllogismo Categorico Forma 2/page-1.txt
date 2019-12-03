@@ -1,0 +1,60 @@
+ANICII MANLII SEVERINI BOETHII
+DE SYLLOGISMO CATEGORICO
+LIBER PRIMUS
+[793C] Multa Graeci ueteres posteris suis in consultissimis reliquere tractatibus, in quibus priusquam ad res
+densa caligantes obscuritate uenirent, quasi quadam intelligentia luctatione praeludunt: hinc per introductionem est
+facilior discibiliorque doctrina, hinc per ea quae illi *prolegomena* uocant, nos praedicta uel praedicenda possumus
+dicere, ad intelligentiam promptior uia munitur. Hanc igitur prouidentiam non exosus, statui ego quoque in res
+obscurissimas aliquem quodammodo pontem ponere, mediocriter quidque delibans ita ut si quid breuius dictum sit, id
+nos dilatione ad intelligentiam porrigamus; si quid suo more Aristoteles nominum uerborumque mutatione turbauit, nos
+intelligentiae seruientes ad consuetum uocabulum reducamus; si quid uero ut [793D] ad doctos scribens summa tantum
+tangens designatione monstrauit, nos id introductionis modo aliqua in eas res tractatione disposita perquiramus.
+Sed si qui ad hoc opus legendum accenserint, ab his petitum sit ne in his quae nunquam attigerint statim
+audeant iudicare; neue si quid in puerilibus disciplinis acceperint, id sacrosanctum iudicent, quandoquidem res teneris
+auribus accommodatas saepe philosophiae seuerior tractatus eliminat. Si quid uero in his non uidebitur, ne statim
+obstrepant sed, ratione consulta, quid ipsi opinentur, quidue, nos ponimus, ueriore mentis acumine et [794C] subtiliore
+pertractata ratione diiudicent. Et hi quidem sic. Nos enim, ut arbitror, suffecimus eos commentarios, de quibus haec nos
+protulimus, degustent blando fortasse sapore subtilitatis eliciti, quamuis infrenis et indomiti creatores sint, tamen
+ueterum uirorum inexpugnabilibus auctoritatibus acquiescent; si quis uero Graecae orationis expers est, in his, uel si
+qua aliorum sunt similia, desudabit. Itaque haec huius prooemii lex erit, ut forum nostrum nemo non intellecturus, et ob
+id culpaturus inspiciat. Sed ne prooemiis nihil afferentibus tempus teratur, inchoandum nobis est illo prius depulso
+periculo, ne a quoquam sterilis culpetur oratio. Non enim eloquentiae compositiones sed planitiem consectamur: qua in
+re si hoc efficimus, [794D] quamlibet incompte loquentes, intentio quoque nostra nobis perfecta est.
+Sed quoniam syllogismorum structura nobis est hoc opere explicanda, syllogismis autem prior est propositio,
+de propositionibus hoc libello tractatus habebitur.
+Et quoniam propositionis partes sunt nomen et uerbum, pars autem ab eo cuius pars est prior est, de nomine, et
+uerbo, quae prima sunt, disputatio prima ponatur.
+Nomen est uox designatiua ad placitum sine tempore, cuius nulla pars extra designatiua est.
+VOX autem dictum est, quia uox nominum genus est. Omnis autem definitio a genere trahitur, ut si definias
+[795A] hominem, animal dicis, id est genus; post uero rationale, id est differentia.
+DESIGNATIVA uero dicta est, quia sunt uoces quaedam quae nihil significant, ut sunt syllabis.
+NOMEN uero, designat id cuius est nomen.
+AD PLACITUM uero, quia nullum nomen aliquid per se significat sed ad ponentis placitum. Illud enim
+unaquaeque res dicitur quod ei placuit qui primus rei nomen illud impressit. Sunt enim uoces naturaliter significantes,
+ut canum latratus iras canum significat, et alia eius quaedam uox blandimenta; sed non sunt nomina non sunt ad
+placitum significantes sed natura.
+SINE TEMPORE uero, quod uerba quidem uoces sunt designatiuae et secundum placitum sed distant, quod
+nomina sine tempore sunt, uerba cum tempore.
+CUIUS NULLA [795B] PARS EXTRA DESIGNATIVA EST: nomen ab oratione disiungit, quod oratio et
+ipsa uox est, et desiguatiua, et secundum placitum, aliquoties sine tempore est sed orationis partes significant, nominum
+uero minime. In Ciceronis enim nomine nulla extra pars designatiua est, neque 'ci' neque 'ce' neque 'ro'. Neque si ex
+duobus integris nomina sint. Quod enim in uno consignificat, id extra non significat. In nomine enim 'magister', 'magis'
+et 'ter' consignificauit, quia est magister. Sublatum uero 'ter' et 'magis' non erit alicuius significatio, nisi tibi hoc alii
+nomen dare placuerit. Omnia enim nomina non naturaliter sunt, sed ad placitum ponuntur. Sed de hoc in commentario
+libri *Peri hermeneias* Aristotelis dictum est [795C] et maior eius rei tractatus est, quam ut nunc queat expediri.
+Reuertamur igitur ad nomen. Sed quoniam sunt quaedam uoces quae et designatiuae sunt, et secundum
+placitum et sine tempore, quarum dubia sit natura, ut est 'non-homo', hoc enim significat quiddam et secundum
+placitum, impositum est enim sed dubium est cui subdi possit, nomini enim non potest, omne enim nomen significat
+aliquid definitum, 'non-homo' autem quod definitum est perimit, oratio uero dici non potest, omnis enim oratio ex
+nominibus et uerbis constat, 'non-homo' autem, neque ex nominibus constat neque ex uerbis sed multo magis esse non
+potest uerbum, omne enim uerbum cum tempore est, 'non-homo' uero sine tempore est: quid sit ergo ita uidendum
+[795D] est: et quoniam 'non-homo' uox significat quiddam, quid autem significet in homine ipso non continetur (potest
+enim 'non-homo' et equus esse et lapis et domus, et quidquid homo non fuerit, quoniam ea qui re significare potest
+infinita sunt, infinitum nomen uocatur); et quoniam sunt quaedam uoces et designatiuae et ad placitum, et definitae, et
+quarum partes extra nihil significant, ut sunt casus nominum, ut 'Ciceronis' et 'Cicerone' et caetera, haec nomina non
+erunt. Omne enim nomen iunctum cum est uerbo, aut uerum aut falsum demonstrat. Ut si dicas:
+Dies est
+hoc uero aut uerum aut falsum est. Si uero casum iungas, neque uerum neque falsum efficis. Si enim dicas:
+Diei est
+
+

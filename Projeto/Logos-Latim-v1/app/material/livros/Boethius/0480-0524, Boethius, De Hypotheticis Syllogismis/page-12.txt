@@ -1,0 +1,62 @@
+Hic igitur b terminus, qui in prima propositione consequens fuerat, in assumptione est interemptus, ut a
+terminus, qui propositionis prima pars fuerat, interimeretur, eaque necessitas tali ratione probabitur.
+[2.3.2] Positum namque est si a sit, b esse; et assumptio facta est ut consequens pars propositionis
+interimeretur, id est, non esse b. Dico quia consequitur non esse a: nam si potest esse a, ut non sit b, frustra erit prior
+propositio quae ait, si a sit, b esse. Atqui ea propositio ualet; cum igitur a sit est b. Quod si cum non sit b, sit a, quod
+scilicet ex assumptione proponitur, idem b erit /268/ et non erit: non erit quidem, quia b non esse proponit assumptio;
+erit autem, quia si est a, erit b, quod fieri non potest; non igitur, si b non fuerit, erit a. Hic est igitur primus modus
+talium syllogismorum, qui ex interempta parte consequenti propositionis fiunt, qui non sunt perfecti neque ex se cogniti
+sed indigent uel eius quam superius proposui, uel cuiuslibet alterius probationis, ut ueri esse monstrentur.
+[2.3.3] Quod si prima pars interimatur, non erit syllogismus; age enim ita dicamus:
+Si est a, est b; Atqui non est a
+non consequitur ut sit uel non sit b, ut exemplo etiam demonstratur.
+Sit enim propositio:
+Si est homo, animal est; Sed homo non est;
+non necesse erit uel esse animal, uel non esse. Secundus modus per contradictionem assumptionis, qui a
+secunda propositione descendit, ille est cum ita proponimus:
+Si a est, b non est; Atqui est b; Igitur a non est.
+Hic enim rursus secunda pars propositionis est interempta: nam cum secunda pars propositionis b non esse
+diceret, si a fuisset, assumptio b esse pronuntiat.
+[2.3.4] Affirmatio autem perimit negationem, quam assumptionem consequitur, ut a non sit, hoc modo. Sit
+enim propositio:
+Si a est, b non est
+et sit b. Dico quia a non erit: nam si erit a, cum sit b, idem b erit et non erit: non erit quidem ex prima
+propositione quae dicit:
+Si a est, b non est
+erit autem per assumptionem, qua dicimus esse b. At si praecedens propositionis pars auferatur, non fiet ulla
+necessitas. Age enim in huiusmodi propositione:
+Si a est, b non est
+ita dicamus:
+Atqui non est a
+non consequitur ut b sit aut non sit. Id uero tali arguitur exemplo.
+/270/
+[2.3.5] Dicamus enim:
+Si nigrum est, album non est
+assumamusque non esse nigrum, non statim consequitur ut uel album sit, uel non sit: potest enim aliquid esse
+mediorum. Tertius modus ille est ex tertia propositione deductus, cum ita proponimus:
+Si a non est, b est; b autem non est; a igitur est.
+Hic quoque consequens pars propositionis assumpta est, et cum in propositione affirmaretur, in assumptione
+negata est, et est rata consequentia, et perficiens syllogismum hoc modo. Nam si uerum est, cum non sit a, esse b, dico
+quia si b non sit, esse a: nam si poterit, cum b non sit, non esse a, frustra est prima propositio, quae dicit cum non sit a
+esse b eritque b ac non erit; non erit quidem ex ea assumptione quae proponit non esse b; erit autem, quia, si a terminus
+esse negabitur, posito non esse b termino, cum non sit a, erit b, quod est impossibile.
+[2.3.6] Non igitur potest fieri ut cum non sit b, non sit a; consequitur igitur ut, cum non sit b, sit a. Quod si
+prior pars propositionis quae praecedens est auferatur, nullus est syllogismus, hoc modo: cum enim dicimus si a non
+est, esse b, si assumamus:
+Atqui est a
+nihil euenit necessarium, ut uel sit b uel non sit, secundum ipsius complexionis naturam. Nam hic quoque, ut
+in his in quibus in assumptione secundus terminus ponebatur, dicendum est secundum quidem ipsius complexionis
+figuram nullum fieri syllogismum; secundum terminos uero in quibus solis dici potest, necesse esse, si a fuerit, b non
+esse. In contrariis enim tantum, et in his immediatis, id est medium non habentibus, haec sola propositio uere poterit
+/272/ praedicari, ueluti cum dicimus:
+Si dies non est, nox est
+siue non fuerit dies, nox erit, siue nox non fuerit, dies erit, siue dies fuerit, nox non erit, siue nox fuerit, dies
+non erit.
+[2.3.7] Quartus modus est horum syllogismorum ex quarta propositione descendens, cuius haec prima est
+propositio:
+Si a non est, non est b; Est autem b; Erit igitur a.
+Hic quoque secunda pars propositionis assumpta est, et quaniam eadem in negatione fuerat posita, affirmatione
+est interempta; affirmatio enim uim negationis interimit. Hic quoque eodem modo syllogismi necessitas continetur,
+nam, si posito cum non sit a, non esse b, sumatur esse b, dico quia consequens est etiam a esse. Nam si potest, cum sit
+
+

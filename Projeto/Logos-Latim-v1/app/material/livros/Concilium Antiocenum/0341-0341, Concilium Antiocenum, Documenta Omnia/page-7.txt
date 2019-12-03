@@ -1,0 +1,63 @@
+19 X fehlt O93
+20 chore episcopis W411
+21 XI fehlt O93
+22 iis E97
+23 qui fehlt O93
+24 nec W411
+25 XII fehlt O93
+26 XIII fehlt O93
+27 aliena provincia] alienam provintiam W411
+28 XIIII fehlt O93
+29 XV fehlt O93
+30 XVI fehlt O93
+31 XVII fehlt O93
+32 XVIII fehlt O93
+33 iis E97
+34 XVIIII fehlt O93
+35 concilio W411
+36 ordinare W411
+37 XX fehlt O93
+38 synodus celebretur] celebretur sinodus W411
+39 XXI fehlt O93
+40 diocesi ad diocesim korr. aus diocesi E97
+41 diocensim W411
+42 XXII fehlt O93
+43 XXIII fehlt O93
+44 successionem W411
+45 successorem sibi korr. aus successorem V1341
+46 XXIIII fehlt O93
+47 XXV fehlt O93
+48 disponendis] disponendis EXPLICIUNT CAPITULA INCIPIT CONCILIUM ANTHIOCENUM V630;
+V1341; E97
+49 iis E97
+50 his qui korr. aus his V1341
+51 SINGULAS provincias sunt korr. aus SINGULAS W411
+52 UNIANIMIBUS W411
+53 Antiocenam ecclesiam] ECCLESIAM ANTHIOCENAM W411
+54 CONECTENS korr. aus CONVECTENS W411
+55 alia korr. aus aliam V630
+56 multa quidem et alia] etiam hoc V1341
+57 RECTA W411
+58 constitui] CONSTITUI ET W411
+59 ET korr. aus ET IN W411
+60 antiochiae korr. aus antiochia E97
+61 ET W411
+62 DIFFERENTUR korr. aus DEFERENTUR W411
+63 gratiae V630; V1341; E97
+64 quod] QUOD ET korr. aus QUOD W411; quod et V1341
+65 NOBISCUM W411
+66 UNA korr. aus UNAM W411
+67 VIRTUTE korr. aus VIRTUTEM W411
+68 OROTIONIBUS W411
+69 HISDEM W411; isdem E97
+70 DIFINITA W411
+71 recta korr. aus recto O93
+72 cum sensu] consensu V630
+73 CONSENSU korr. aus SENSU W411; consensu V1341; E97
+74 HII W411; ii E97
+75 scripti korr. aus scripsi V630
+76 scripti] SCRIPTA in qua sinodo fuerunt korr. aus SCRIPTA W411
+77 quos V630; V1341; E97
+7
+
+

@@ -1,0 +1,62 @@
+Circa substantias spirituales quaerebatur: primo de cognitione earum. Secundo de fruitione animae Christi
+tempore passionis. Tertio de pluralitate in substantiis spiritualibus inventa.
+Circa primum quaerebantur quatuor.
+PR1
+Primo utrum aliquis intellectus creatus possit divinam essentiam videre immediate.
+PR2
+Secundo utrum intellectus creatus possit simul plura intelligere.
+PR3
+Tertio utrum intellectus angelicus possit intelligere singularia.
+PR4
+Quarto utrum notitia, quam Augustinus dicit prolem mentis, sit accidens, vel non.
+|a1 Articulus 1
+TTA
+Utrum aliquis intellectus creatus possit divinam essentiam videre immediate.
+TTB
+Ad primum sic proceditur: videtur quod nullus intellectus creatus possit divinam essentiam immediate videre.
+AG1
+Intellectus enim creatus, cum indifferenter se habeat ad omnia intelligibilia, non potest cognoscere determinate
+aliquid, nisi per obiectum suum determinetur. Sed divina essentia non est obiectum quod possit intellectum
+determinare, quia est summum in entibus, et maximae generalitatis, et nullo modo determinatum. Ergo
+intellectus creatus ipsam videre non potest.
+AG2
+Praeterea, ad hoc quod intellectus cognoscat aliquid, oportet quod fiat in actu: nihil enim operatur secundum
+quod est in potentia, sed secundum quod est in actu. Intellectus autem non fit in actu nisi secundum quod
+intelligibili informatur. Cum ergo essentia divina non possit per seipsam informare intellectum, ut formaliter
+faciat ipsum esse in actu, oportet, si debet per intellectum cognosci, quod per aliquam sui similitudinem
+intellectum informet ad hoc quod cognoscatur; et ita non poterit immediate nisi per similitudinem videri.
+AG3
+Praeterea, ad hoc quod intellectus creatus essentiam divinam videat, oportet quod per lumen gloriae perficiatur.
+Sed lumen gloriae est medium distans et ab ipso intellectu, et ab ipsa essentia divina, quae est beatitudo increata,
+cum lumen praedictum dicatur creatura.
+Ergo intellectus creatus non potest videre divinam essentiam immediate.
+AG4
+Praeterea, secundum Philosophum in III de anima, sicut sensus se habet ad sensibile, ita se habet intellectus ad
+intelligibile. Sed ad hoc quod sensus suum obiectum percipiat, duplici medio indiget: scilicet lumine et specie,
+quae est similitudo rei visae. Ergo hoc idem est necessarium intellectui in visione divinae essentiae; et sic non
+immediate eam videbit.
+SC1
+Sed contra. Est quod dicitur I ioann., cap. III, 2: videbimus eum sicuti est.
+SC2
+Praeterea, ad hoc quod intellectus intelligat, nihil aliud videtur requiri nisi quod intelligibile fiat in actu, et quod
+intellectui coniungatur. Sed essentia divina per seipsam est intelligibilis actu, cum sit immaterialis; intellectui
+etiam praesens est, quia, ut dicit Augustinus, Deus unicuique rei est vicinior quam ipsa res sibi. Ergo intellectus
+creatus essentiam divinam poterit immediate videre.
+CO
+Respondeo. Dicendum, quod absque dubio tenendum est, quod divina essentia in patria immediate ab intellectu
+glorificato videatur.
+Ad cuius evidentiam sciendum est, quod in visione intellectiva triplex medium contingit esse.
+Unum, sub quo intellectus videt, quod disponit eum ad videndum; et hoc est in nobis lumen intellectus agentis,
+quod se habet ad intellectum possibilem nostrum, sicut lumen solis ad oculum.
+Aliud medium est quo videt; et hoc est species intelligibilis, quae intellectum possibilem determinat, et habet se
+ad intellectum possibilem, sicut species lapidis ad oculum.
+Tertium medium est in quo aliquid videtur; et hoc est res aliqua per quam in cognitionem alterius devenimus,
+sicut in effectu videmus causam, et in uno similium vel contrariorum videtur aliud; et hoc medium se habet ad
+intellectum, sicut speculum ad visum corporalem, in quo oculus aliquam rem videt.
+Primum ergo medium et secundum non faciunt mediatam visionem: immediate enim dicitur aliquis videre
+lapidem, quamvis eum per speciem eius in oculo receptam et per lumen videat: quia visus non fertur in haec
+media tamquam in visibilia, sed per haec media fertur in unum visibile, quod est extra oculum. Sed tertium
+medium facit visionem mediatam. Visus enim prius fertur in speculum sicut in visibile, quo mediante accipit
+133
+
+

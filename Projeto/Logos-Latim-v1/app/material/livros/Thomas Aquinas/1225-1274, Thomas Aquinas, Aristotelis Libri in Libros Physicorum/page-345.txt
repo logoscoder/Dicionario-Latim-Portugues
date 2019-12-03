@@ -1,0 +1,64 @@
+Sic ergo non est possibile quod a finito movente moveatur aliquid motu
+infinito, scilicet secundum tempus infinitum. Et sic patet quod primo
+proponebatur, quod non contingit quod finitum movens moveat in tempore
+infinito.
+|#3
+Movet autem Avicenna dubitationem circa hanc Aristotelis
+demonstrationem.
+Videtur enim non esse universalis: est enim aliquod finitum movens et
+mobile, a quo non potest aliquid subtrahi vel auferri, sicut est corpus
+caeleste; quod tamen in hac demonstratione non excipitur. Unde videtur quod
+vel demonstratio sit particularis, vel procedat ex falsa suppositione.
+Huic autem obiectioni respondet Averroes in commento, quod quamvis a caelo
+nihil posset subtrahi, haec tamen conditionalis est vera: si a caelo aliqua
+pars auferatur, pars illa movebit aut movebitur in minori tempore quam
+totum. Nihil enim prohibet conditionalem esse veram, cuius antecedens est
+impossibile; sicut patet in hac conditionali: si homo volat, habet alas.
+Quidquid autem tollit veritatem conditionalis verae, est falsum, licet
+antecedens conditionalis sit falsum. Veritas autem praedictae conditionalis
+non potest stare cum hoc quod finitum moveat tempore infinito, ut patet per
+deductionem Aristotelis.
+Sic igitur ex veritate praemissae conditionalis, concludit Aristoteles
+impossibile esse quod finitum moveat tempore infinito.
+Potest autem brevius dici, quod Aristoteles quando in demonstrationibus
+suis utitur ablatione vel subtractione, non semper per ablationem
+intelligenda est solutio continuitatis, quam impossibile est esse in
+corpore caelesti; sed ablatio intelligi potest secundum quamcumque
+designationem. Sicut in ligno continuo manente possum designare vel tactu
+vel cogitatione aliquod punctum, quasi dividens totum; et per hunc modum
+auferre aliquam partem a toto, et dicere quod minor albedo est in parte
+quam in toto. Et per hunc etiam modum potest dici quod minor virtus est ad
+movendum in parte corporis caelestis per designationem ablata, quam in
+toto.
+|#4
+Alia autem dubitatio est difficilior.
+Non enim videtur esse contra rationem moventis finiti, quod moveat tempore
+infinito: quia si illud finitum sit incorruptibile vel impassibile secundum
+suam naturam, et non recedens a sua natura, semper eodem modo se habet ad
+movendum; quia idem eodem modo se habens, semper facit idem.
+Unde non est magis ratio quare non possit movere post, quam ante. Et hoc
+sensibiliter apparet: videmus enim quod sol potest in infinito tempore
+movere corpora inferiora.
+Ad huius autem dubitationis solutionem, investigandus est processus
+demonstrationis inductae. Certum enim debet esse, quod sic intelligenda est
+conclusio, quemadmodum sequitur ex praemissis.
+Considerandum est igitur quod tempus motus potest accipi dupliciter,
+praecipue in motu locali: uno modo secundum partes mobilis; alio modo
+secundum partes magnitudinis supra quam transit motus. Manifestum est enim
+quod prius una pars mobilis pertransit aliquod signum magnitudinis, quam
+totum mobile: similiter etiam totum mobile prius pertransit unam partem
+magnitudinis, quam totam.
+Apparet autem manifeste ex processu Aristotelis, quod hic loquitur de
+tempore motus, secundum quod tempus motus accipitur secundum partes
+mobilis; et non secundum quod accipitur secundum partes magnitudinis.
+Accipit enim in sua demonstratione, quod pars moventis moveat partem
+mobilis in minori tempore quam totum moveat totum: quod non esset verum si
+acciperemus tempus motus secundum partes magnitudinis quae motu
+pertransitur. Eadem enim est proportio partis motoris ad partes mobilis,
+quae est proportio totius motoris ad totum mobile.
+Unde aequali velocitate semper pars movebit partem, qua totum movet totum:
+et sic in aequali tempore pertransibit pars mobilis aliquam magnitudinem,
+mota a parte motoris, et totum mobile motum a toto motore.
+345
+
+

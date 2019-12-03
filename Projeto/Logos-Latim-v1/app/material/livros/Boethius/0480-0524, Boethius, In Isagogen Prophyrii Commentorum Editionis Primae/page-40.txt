@@ -1,0 +1,62 @@
+DICEBATUR; RELIQUUM EST IGITUR, UT QUO DIFFERAT A PROPRIO ET ACCIDENTI DICATUR DUAE
+IGITUR ETIAM ISTAE SUNT DIFFERENTIAE. PROPRIUM AUTEM QUO DIFFERAT AB ACCIDENTI
+RELINQUITUR; NAM QUO AB SPECIE ET DIFFERENTIA ET GENERE DIFFERAT, PRAEDICTUM EST IN
+ILLORUM AD IPSUM DIFFERENTIA. QUATTUOR IGITUR SUMPTIS GENERIS AD ALIA DIFFERENTIIS,
+TRIBUS VERO DIFFERENTIAE, DUABUS AUTEM SPECIEI, UNA AUTEM PROPRII AD ACCIDENS, DECEM
+ELUNT OMNES, QUARUM QUATTUOR, QUAE ERANT GENERIS AD RELIQUA, SUPERIUS
+DEMONSTRAUIMUS.
+[5.12.01] Quoniam differentias atque communitates generis ad differentiam, ad speciem, ad proprium atque
+accidens persecutus est, idem quoque ad caeteras facere contendens praedicit, quot omnes differentiae possint esse quae
+inter se comparatis commixtisque /320/ rebus his quae supra propositae sunt efficiantur. Sunt autem uiginti. Nam cum
+quinque sint res, unaquaeque res earum si a quattuor aliis differat, quinquies quater, uiginti differentiae fiunt, quod
+appositarum litterarum manifestatur exemplo. Sint quinque res ueluti quinque litterae A B C D E. Differat igitur A
+quidem ab aliis quattuor, id est B C D E, fient quattuor differentiae. Rursus B differat ab aliis quattuor, id est A C D E,
+erunt rursus quattuor; quae superioribus iunctae octo coniungunt. C uero tertia ab reliquis differt quattuor, scilicet A B
+D E; quae quattuor differentiae superioribus octo copulatae duodecim reddunt. Quarta D reliquis quattuor comparetur
+differatque ab eisdem, id est A B C E, fient igitur rursus quattuor; quae superioribus duodecim appositae sedecim
+copulant. Quodsi ultima B ab aliis quattuor differat, scilicet A B C D, fient aliae quattuor differentiae; quae compositae
+prioribus uiginti perficiunt. Et sit quidem huiusmodi descriptio:
+A --> B C D E
+B --> A C D E
+C --> A B D E
+D --> A B C E
+E --> A B C D
+/321/ Quae cum ita sint, in generibus quoque et speciebus et caeteris idem considerabitur. Erunt ergo quattuor
+differentiae, quibus genus a differentia, specie, proprio accidentique disiungitur; aliae rursus quattuor, quibus
+differentia a genere, specie, proprio atque accidenti discrepat; rursus quattuor speciei ad genus ac differentiam,
+proprium atque accidens; quattuor etiam proprii ad genus, differentiam, speciem atque accidens; quattuor in super
+accidentis ad genus, differentiam, speciem atque proprium. Quae coniunctae omnes uiginti explicant differentias. Sed
+hoc, si ad numeri refelatur naturam comparationisque alternationem; nam si ad ipsas differentiarum naturas uigilans
+lector aspiciat, easdem saepe differentias inueniet sumptas. Quo enim genus differt a differentia, eodem differentia
+distat a genere, et quo differentia distat ab specie, eodem species a differentia disgregatur, et in caeteris eodem modo. In
+hac igitur dispositione differentianlm, quam supla disposui, easdem saepius adnumeraui. Atque si differentiarum
+similitudines detrahamus, decem fiunt omnino differentiae, quas ad praesentem tractatum uelut diuersas atque
+dissimiles oportet assumere. Age enim differat genus a differentia, specie, proprio /322/ atque accidenti, quattuor
+differentiis, quas supra iam diximus. Item sumamus differentiam, distabit haec a genere primum, dehinc ab specie,
+proprio atque accidenti. Sed quo discrepet a genere, iam superius explicatum est, cum diceremus quo genus a
+differentia discreparet. Detracta igitur hac comparatione, quoniam supra commemorata est, relinquuntur tres distantiae
+quibus differentia ab specie, proprio accidentique disiungitur; quae iunctae cum superioribus quattuor septem
+differentias reddunt. Post hanc species si sumatur, quattuor quidem eius essent differentiae secundum numeri
+diuersitatem, cum ad genus, a differentiam, proprium atque accidens comparatur sed priores duae comparationes iam
+dictae sunt. Nam quo species differat a genere tunc dictum est, cum quid genus differret ab specie dicebamus, quid uero
+species a differentia distet commemoratum est, cum differentiae ab specie dissimilitudines redderemus. Quibus
+detractis duae supersunt integrae atque intactae speciei ad proprium atque accidens discrepantiae; quae iunctae cum
+septem nouem differentias copulant. Proprii uero si ad numerum differentiae considerentur, quattuor erunt, scilicet ad
+genus, differentiam, speciem atque accidens comparati, quarum quidem tres superiores differentiae iam dictae sunt.
+Nam quid proprium distet a genere, tunc dictum est, cum quid genus a proprio distaret ostendimus, rursus quid
+proprium a differentia discrepet, in colligenda distantia differentiae propriique superius /323/ demonstratum est, quid
+uero proprium distet ab specie, tunc expositum est, cum quid species distaret a proprio dicebatur. Restat igitur una
+differentia proprii ad accidens, quae superioribus iuncta decem differentias claudit. Accidentis uero ad caetera possent
+quidem esse quattuor, nisi iam omnes probarentur esse consumptae. Nam quid differat uel genus uel differentia uel
+species uel proprium ab accidenti, supra monstratum est, nec sunt diuersae differentiae accidentis ad caetera quam
+caeterorum ad accidens. Itaque fit, ut cum sit quinque rerum numerus, si prima assumatur, quattuor fiant differentiae, si
+secunda, tres, uincanturque secundae rei ad caeteras differentiae a prima ad caeteras una tantum distantia; nam cum
+prima habuerit quattuor, secunda retinet tres. Tertia uero si sumatur, duas habebit differentias, quae uincantur a primis
+quattuor differentiis duabus; quarta si sumatur, unam habebit differentiam, quae uincitur a primis quattuor differentiis
+tribus, quinta uero quoniam nullam omnino habebit differentiam nouam, totis quattuor a prima differentiis superatur.
+Atque hoc numerorum gradu quidem usque ad denarium numerum tenditur: quattuor, tres, duae, una, ut generis quidem
+quattuor, differentiae uero tres, speciei duae, proprii una, accidentis nulla sit. Et primae quidem generis comparationes
+quattuor nouas tenent differentias, secundae uero differentiae comparationes /324/ tres nouas tenent; una enim superius
+adnumerata est, uincitur autem a primis quattuor nouis differentiis una tantum. Speciei uero tertia comparatio dnas
+
+

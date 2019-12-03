@@ -1,0 +1,62 @@
+RA6
+Ad sextum dicendum quod quamvis subiecta aliarum scientiarum sint partes entis, quod est subiectum
+metaphysicae, non tamen oportet quod aliae scientiae sint partes ipsius. Accipit enim unaquaeque scientiarum
+unam partem entis secundum specialem modum considerandi alium a modo, quo consideratur ens in
+metaphysica. Unde proprie loquendo subiectum illius non est pars subiecti metaphysicae; non enim est pars entis
+secundum illam rationem, qua ens est subiectum metaphysicae, sed hac ratione considerata ipsa est specialis
+scientia aliis condivisa. Sic autem posset dici pars ipsius scientia, quae est de potentia vel quae est de actu aut de
+uno vel de aliquo huiusmodi, quia ista habent eundem modum considerandi cum ente, de quo tractatur in
+metaphysica.
+RA7
+Ad septimum dicendum quod illae partes entis exigunt eundem modum tractandi cum ente communi, quia etiam
+ipsa non dependent ad materiam, et ideo scientia de ipsis non distinguitur a scientia quae est de ente communi.
+RA8
+Ad octavum dicendum quod aliae diversitates rerum, quas obiectio tangit, non sunt differentiae per se earum in
+quantum sunt scibiles; et ideo penes eas scientiae non distinguuntur.
+RA9
+Ad nonum dicendum quod quamvis scientia divina sit prima omnium scientiarum naturaliter, tamen quoad nos
+aliae scientiae sunt priores.
+Ut enim dicit Avicenna in principio suae metaphysicae, ordo huius scientiae est, ut addiscatur post scientias
+naturales, in quibus sunt multa determinata, quibus ista scientia utitur, ut generatio, corruptio, motus et alia
+huiusmodi. Similiter etiam post mathematicas. Indiget enim haec scientia ad cognitionem substantiarum
+separatarum cognoscere numerum et ordinem orbium caelestium, quod non est possibile sine astrologia, ad quam
+tota mathematica praeexigitur. Aliae vero scientiae sunt ad bene esse ipsius, ut musica et morales vel aliae
+huiusmodi.
+Nec tamen oportet quod sit circulus, quia ipsa supponit ea, quae in aliis probantur, cum ipsa aliarum principia
+probet, quia principia, quae accipit alia scientia, scilicet naturalis, a prima philosophia, non probant ea quae item
+Philosophus primus accipit a naturali, sed probantur per alia principia per se nota; et similiter Philosophus
+primus non probat principia, quae tradit naturali, per principia quae ab eo accipit, sed per alia principia per se
+nota. Et sic non est aliquis circulus in diffinitione.
+Praeterea, effectus sensibiles, ex quibus procedunt demonstrationes naturales, sunt notiores quoad nos in
+principio, sed cum per eos pervenerimus ad cognitionem causarum primarum, ex eis apparebit nobis propter quid
+illorum effectuum, ex quibus probabantur demonstratione quia. Et sic et scientia naturalis aliquid tradit scientiae
+divinae, et tamen per eam sua principia notificantur. Et inde est quod Boethius ultimo ponit scientiam divinam,
+quia est ultima quoad nos.
+RA10
+Ad decimum dicendum quod quamvis naturalis post mathematicam addiscenda occurrat, ex eo quod universalia
+ipsius documenta indigent experimento et tempore, tamen res naturales, cum sint sensibiles, sunt naturaliter
+magis notae quam res mathematicae a sensibili materia abstractae.
+|#2 Articulus 2
+AG1
+Ad secundum sic proceditur. Videtur quod scientia naturalis non sit de his quae sunt in motu et materia.
+Materia enim est individuationis principium. Sed nulla scientia est de individuis, sed de solis universalibus,
+secundum sententiam Platonis, quae ponitur in Porphyrio. Ergo scientia naturalis non est de his quae sunt in
+materia.
+AG2
+Praeterea, scientia ad intellectum pertinet. Sed intellectus cognoscit abstrahendo a materia et a condicionibus
+materiae. Ergo de his, quae non sunt a materia abstracta, nulla scientia esse potest.
+AG3
+Praeterea, in scientia naturali agitur de primo motore, ut patet in VIII physicorum. Sed ipse est immunis ab omni
+materia. Ergo scientia naturalis non est de his solis quae sunt in materia.
+AG4
+Praeterea, omnis scientia de necessariis est. Sed omne quod movetur, in quantum huiusmodi, est contingens, ut
+probatur in IX metaphysicae.
+Ergo nulla scientia potest esse de rebus mobilibus, et sic nec scientia naturalis.
+AG5
+Praeterea, nullum universale movetur; homo enim universalis non sanatur, sed hic homo, ut dicitur in principio
+metaphysicae. Sed omnis scientia de universalibus est. Ergo naturalis scientia non est de his quae sunt in motu.
+AG6
+
+43
+
+

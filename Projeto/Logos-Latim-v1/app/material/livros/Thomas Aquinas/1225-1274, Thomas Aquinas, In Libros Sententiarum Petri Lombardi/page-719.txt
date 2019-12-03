@@ -1,0 +1,62 @@
+mali esse non potest: non enim omnis carentia bonitatis malum est, sed illius tantum quam nata est res habere, et
+debita est ei: carere enim visu non est malum in lapide, sed in oculo: hoc enim est commune privationi omni
+quod aptitudinem ad actum in subjecto requirat. Est autem quoddam bonum quod nec omnem perfectionem
+consequitur, et propter distantiam a summo bono, illa etiam quae debita est sibi, carere potest, et quam natum est
+habere; et tale bonum est subjectum mali, quidquid sit illud. Unde dionysius dicit, quod bonum particulare est
+subjectum mali. Hoc autem bonum quid sit quod malo subjicitur, considerandum est ex perfectione quae per
+malum privatur, eo quod privatio et habitus sunt circa idem. Est autem quaedam perfectio, scilicet secunda, cujus
+subjectum est ens actu completum in esse primo; et hoc idem ens illi malo subjicitur, per quod ista perfectio
+privatur; sicut anima culpae, per quam gratia tollitur.
+Est autem quaedam perfectio prima ut forma substantialis, subjectum cujus est in potentia tantum, scilicet
+materia prima quae sicut est ens incompletum et in potentia, sic ipsa etiam subjicitur privationi substantialis
+formae, ut dicit Philosophus, quod materia non est malum per se, sed per accidens, scilicet ratione privationis cui
+subjicitur.
+RA1
+Ad primum ergo dicendum, quod dionysius intelligit esse in existente, sicut aliqua pars perfectionem existentis
+constituens: et hoc modo in nullo existente malum est; sed sicut privatio in subjecto.
+RA2
+Ad secundum dicendum, quod malum non se habet ad bonum sicut non ens absolute sumptum ad ens: non ens
+enim absolute sumptum est negatio pura quae sibi subjectum non determinat; malum autem est non ens
+quoddam, quod est privatio: et ideo oportet quod habeat determinatum subjectum, quod non potest esse nisi ens
+bonum.
+RA3
+Ad tertium dicendum, quod non quodlibet malum contrariatur cuilibet bono directe, sicut nec cuilibet virtuti
+quodlibet vitium; sed illi tantum bono cujus perfectio per malum privatur. Malum autem non est sicut in subjecto
+in illo bono quod per malum tollitur, sicut vita naturalis hominis non tollitur per malum culpae; unde malum
+culpae non opponitur huic bono quod est vivum vita naturali: et ideo non est inconveniens, si hoc malum in hoc
+bono sit sicut in subjecto.
+RA4
+Ad quartum dicendum, quod oppositio mali ad bonum potest considerari dupliciter. Vel secundum determinatam
+rationem hujus boni et illius mali; et sic non fallit in istis oppositis, bonum et malum, dialecticorum regula, quae
+perhibet, contraria simul esse non posse: quia, ut dictum est, sic accipiendo oppositionem boni et mali, malum
+non opponitur illi bono in quo est sicut in subjecto. Potest etiam considerari oppositio mali ad bonum secundum
+communem rationem utriusque: et sic malum simpliciter opponitur bono simpliciter, sicut huic bono hoc malum;
+et per hunc modum fallit dialecticorum regula in istis contrariis, quia malum est in bono: et ratio quare fallit, est
+ista, quia bonum non imponitur ab aliqua determinata perfectione, sed a perfectione in communi; unde quidquid
+perfectionis res habeat, communem rationem boni consequitur; similiter etiam quacumque perfectione privatur,
+communem rationem mali incurrit. Contingit autem ut aliquid habeat primam perfectionem, et privetur secunda;
+et ita simul habebit rationem boni et mali, sed secundum diversa: et ex hoc non sequitur quod contradictoria sint
+simul vera.
+RA5
+Ad quintum dicendum, quod malum non habet subjectum sicut per se accidens, sed sicut privatio perfectionis; et
+ideo non oportet quod per se ex principiis sui subjecti causetur, sed sufficit quod tantum in subjecto aptitudinem
+et debitum requirat.
+|a5 Articulus 5: Utrum malum possit corrumpere totum bonum.
+AG1
+Ad quintum sic proceditur. Videtur quod malum bonum totum corrumpere possit. Quia, ut in 1 phys. Dicitur,
+omne finitum consumitur ablato quodam. Sed bonum creatum, quod solum subjectum mali esse potest, finitum
+est.
+Ergo per multiplicationem mali potest ex toto consumi.
+AG2
+Si dicatur, quod quamvis sit finitum in actu, est tamen infinitum in virtute et potentia; contra.
+Quantitas virtutis vel potentiae mensuratur ex objecto: objectum autem potest habere infinitatem vel secundum
+rationem quantitatis continuae, vel secundum rationem quantitatis discretae. Sed neutro modo per peccatum
+diminuitur potentia vel virtus boni naturalis; quia sicut ante peccatum erat anima capax infiniti boni, quod Deus
+est, ita etiam et post; similiter etiam sicut ante peccatum poterat in infinitos actus, ita etiam post; nec alicujus
+actus potentia ab ea aufertur, ad minus remota.
+Ergo diminutio boni per malum non attenditur secundum quantitatem virtutis: ergo nec infinitas virtutis
+consumptionem boni vel mali excludere potest.
+AG3
+719
+
+

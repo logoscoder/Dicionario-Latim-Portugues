@@ -1,0 +1,29 @@
+132. T 1255 26 Iunii Pio vestro collegio.
+133. J 1255 5 Iulii Quia salutem.
+134. T 1255 7 Iulii Cum a Nobis petitur.
+135. T 1255 14 Iulii Solet annuere.
+136. T-J? 1255 14 Iulii Caelestis amor Patriae.
+137. J 1255 14 Iulii Ne pro eo.
+138. T 1255 15 Iulii Volentes omne quod.
+139. J 1255 15 Iulii Odore suavi bonorum.
+140. T 1255 15 Iulii Solet annuere.
+141. T 1255 15 Iulii Litteras quasdam.
+142. T 1255 15 Iulii Cum quaedam salubria.
+143. T-J? 1255 17 Iulii Cum contingat.
+144. T 1255 17 Iulii Solet annuere.
+145. T 1255 17 Iulii Licet Nobis.
+146. T 1255 19 Iulii Piae postulatio.
+147. T 1255 20 Iulii Ut eo liberius.
+148. T 1255 22 Iulii Pia desideria.
+149. B 1255 28 Iulii Dilecti filii.
+150. Poen 1255 29 Iulii Cum in ore.
+151. T 1255 30 Iulii Religiosam vitam eligentibus.
+152. T 1255 31 Iulii Hiis quae pro animarum.
+153. Poen 1255 31 Iulii Ut quae fiunt.
+154. T 1255 13 Aug. Pacis vestrae.
+155. Poen 1255 20 Aug. Religiosam vitam eligentibus.
+156. T-J? 1255 20 Sept. In regesto.
+157. T 1255 9 Dec. Religiosam vitam elegentibus.
+86
+
+

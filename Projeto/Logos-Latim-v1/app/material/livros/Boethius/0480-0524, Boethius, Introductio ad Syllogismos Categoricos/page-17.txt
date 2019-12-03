@@ -1,0 +1,82 @@
+Eadem quoque ratio est in affirmatione simplici particulari. Nam in hoc quoque saepe error deprehenditur, ut
+certae propositionum conuersiones putentur, si quis non ad falsitatis quoque sed ad solam conuenientiam ueritatis
+aspiciat. Nam cum affirmatio simplex particularis uera sit, ut est:
+Quidam homo animal est
+si huius termini cum oppositione conuertantur, fiatque propositio:
+Quoddam non animal non homo est
+a ueritate non discrepat. Quid enim aliud enuntiatio ista designet quam esse rem aliquam quae cum [790B]
+animal non sit, ne homo quidem sit, ut lapis simul et animalis et hominis natura deficiat. Sed hic in ueritate consensus
+ad falsitatem usque non tendit. Quid enim si sit falsa simplex affirmatio particularis, ut est:
+Quidam homo lapis est
+non erit eius per oppositionem falsa conuersio:
+Quidam non lapis non homo est?
+Atqui haec firma ueritate consistit, id enim ex hac propositione datur intelligi quod sit quidam quod cum lapis
+non sit, ne homo quidem sit, ut equus atque arbor, quae neque hominis, neque lapidis definitione clauduntur. Quod si
+particularis affirmatio, dum per oppositionem conuertitur, in ueritate quidem tenet secum ipsam concordiam, in falsitate
+autem sibimet ipsa dissentit, rectum est pronuntiare quod termini negatione coniuncta conuersionem firmam [790C]
+stabilemque non teneant.
+Quare cum in simplicibus, ac praeter oppositionem conuersionibus, uniuersalis quidem negatio particulurisque
+affirmatio pernetua fidaque terminorum permutatione uertantur, affirmamatio uero uniuersalis particularisque negatio
+minime, dum per terminorum oppositionem simplex propositio sibi ipsa conuertitur, omnia, ut dictum est, aduersa
+ratione contingunt, uniuersalia namque affirmatio et particularis negatio firmam negatarum partium retinent
+conuersionem.
+Uniuersalis autem negatio in falsitate quidem recte sibi ipsa conuertitur. In ueritate autem sibi ipsa discordat.
+Particularis autem affirmatio in ueritate quidem sibi conuenit sed in falsitate dissentit.
+Similis autem contemplatio est in his quae, conuerso ordine terminorum, [790D] praedicato tantum uel
+subiecto sibi copulant negationem: in quibus, ut in superioribus quoque fecimus, propositionum tantum ordinem
+describemus, et quid eueniat sub breuilate monstrabimus, perquirenda atque examinanda singula lectoris diligentiae
+derelinquentes.
+Descriptis ergo simplicibus ex aduersa parte, quae, conuerso ordine praedicatum cum negatione pronuntiant,
+conferantur.
+SIMPLICES
+Omnis homo animal est.
+Nullus homo animal est.
+Quidam homo animal est.
+Quidam homo animal non est.
+Omnis homo iustus est.
+Nullus homo iustus est.
+Quidam homo iustus est.
+Quidam homo iustus non est.
+Omnis homo grammaticus est.
+Nullus homo grammaticus est.
+Quidam homo grammaticus est.
+Quidam homo grammaticus non est.
+Omnis homo lapis est.
+Nullus homo lapis est.
+Quidam homo lapis est.
+Quidam homo lapis non est.
+Omnis homo risibilis est.
+Nullus homo risibilis est.
+Quidam homo risibilis est.
+Quidam homo risibilis non est.
+
+CONVERSAE DE PRAEDICATO INFINITO
+Omne animal non homo est.
+Nullum animal non homo est.
+Quoddam animal non homo est.
+Quoddam animal non homo non est.
+Omnis iustus non homo est.
+Nullus iustus non homo est.
+Quidam iustus non homo est.
+Quidam iustus non homo non est.
+Omnis grammaticus non homo est.
+Nullus grammaticus non homo est.
+Quidam grammaticus non homo est.
+Quidam grammaticus non homo non est.
+Omnis lapis non homo est
+Nullus lapis non homo est.
+Quidam lapis non homo est.
+Quidam lapis non homo non est.
+Omne risibile non homo est.
+Nullum risibile non homo est.
+Quoddam risibile non homo est.
+Quoddam risibile non homo non est.
+
+[791A] Harum igitur in affirmationibus quidem uniuersalibus si ea de subiecto praedicentur quae et adesse et
+abesse contingent, siue illud subiecto maius sit ut iustitia homine, siue minus ut grammaticus homine, uel si ea quae
+omnino adesse non possum ut lapis homini, simul semper falsas esse necesse est. Si quid uero praeter haec fuerit
+praedicatum, unam ueram, falsam alteram esse proueniet, nunquam uero utrique ueritas consonabit.
+In negationibus uero uniuersalibus siquidem ea de subiecto praedicentur quae a subiecto ualeant segregari, siue
+illa maiora sint ut iustitia homine, siue minora ut eodem homine grammaticus, utrisque aderit falsa sententia. Quidquid
+
+

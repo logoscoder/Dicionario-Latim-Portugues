@@ -1,0 +1,59 @@
+in quibusdam praedicatis, quod in eis non est procedere in infinitum, scilicet in his, quae praedicantur in quod
+quid est, ostendendum est hoc universaliter in omnibus praedicatis affirmativis.
+|#4 Et incipit suam considerationem a praedicatis per accidens, in quibus est triplex modus verae praedicationis.
+Unus quidem modus est, quando accidens praedicatur de accidente; puta, cum dicimus, album ambulat.
+Secundus modus est, quando subiectum praedicatur de accidente; puta, cum dicimus, hoc magnum est lignum.
+Tertius modus est, quando accidens praedicatur de subiecto; puta, cum dicimus, lignum est album: vel cum
+dicimus, homo ambulat. Isti autem modi praedicandi sunt alteri et diversi ad invicem: quia cum subiectum
+praedicatur de accidente, puta, cum dicitur, album est lignum, hoc significatur, quod illud universale
+praedicatum, quod est lignum, praedicatur de subiecto, cui accidit esse album, scilicet de hoc particulari ligno, in
+quo est albedo.
+Idem enim est sensus cum dico, album est lignum, ac si dicerem, hoc lignum, cui accidit esse album, est lignum;
+non autem est sensus quod album sit subiectum ligni. Et hoc probat, quia subiectum fit hoc quod praedicatur de
+ipso sicut de subiecto, vel secundum totum, vel secundum partem, sicut homo fit albus: sed neque album, neque
+aliqua pars albi, quae vere sit album, idest quae sit de substantia ipsius albedinis, fit lignum; non enim accidens
+est subiectum transmutationis, qua de non ligno fit lignum. Omne autem quod incipit esse hoc, fit hoc; si igitur
+non fit hoc, non est hoc, nisi detur quod semper hoc fuerit; non autem semper fuit verum dicere, album est
+lignum, quia aliquando non simul fuerunt albedo et lignum. Cum ergo non sit verum dicere quod album fiat
+lignum, manifestum est quod album non est lignum proprie et per se loquendo: sed si hoc concedatur, album est
+lignum, intelligitur per accidens, quia scilicet illud particulare subiectum, cui accidit album, est lignum.
+Iste ergo est sensus huiusmodi praedicationis, in qua subiectum praedicatur de accidente.
+Sed cum dico, lignum est album, praedicando accidens de subiecto, non significo sicut in praedicto modo
+praedicationis, quod alterum aliquid sit substantialiter album, cui accidit esse lignum.
+Quod quidem significatur tam in praedicto modo, quo subiectum praedicatur de accidente, quam etiam in alio
+modo, quo accidens praedicatur de accidente, ut cum dico, musicum est album: hic enim nihil aliud significo,
+nisi quod ille homo particularis, puta socrates, cui accidit esse musicum, est albus. Sed quando dico, lignum est
+album, significo quod ipsum lignum vere factum est subiectum albi, non quod aliquid aliud a ligno, vel a parte
+ligni, quae est lignum aliquod, sit factum album. Est ergo differentia in tribus modis praedictis: quia cum
+praedicatur accidens de subiecto, non praedicatur per aliquod aliud subiectum; cum autem praedicatur subiectum
+de accidente, vel accidens de accidente, fit praedicatio ratione eius quod subiicitur termino posito in subiecto; de
+quo quidem praedicatur aliud accidens accidentaliter, ipsa vero species subiecti essentialiter.
+|#5 Et quia in quolibet praedictorum modorum utimur nomine praedicationis, et sicut possumus nomina ponere,
+ita possumus ea restringere; imponamus sic nomina in probatione sequenti, ut praedicari solum dicamus illud,
+quod dicitur hoc modo, scilicet non ratione alterius subiecti. Illud vero quod dicitur illo modo, scilicet ratione
+alterius subiecti, velut cum subiectum praedicatur de accidente, vel accidens de accidente, non dicatur praedicari,
+vel si dicatur praedicari, non dicatur praedicari simpliciter, sed secundum accidens. Et accipiamus semper illud,
+quod se habet per modum albi, ex parte praedicati, id autem, quod se habet per modum ligni, accipiatur ex parte
+subiecti. Hoc ergo supponamus praedicari semper, in probatione sequenti, quod praedicatur de eo, de quo
+praedicatur, simpliciter, et non secundum accidens. Et ratio quare debemus sic uti vocabulo praedicationis, haec
+est: quia loquimur in materia demonstrativa, demonstrationes autem non utuntur nisi talibus praedicationibus.
+|#6 Deinde cum dicit: quare autem in quod etc.
+Ostendit differentiam praedicatorum per se ad invicem. Et circa hoc duo facit: primo, distinguit praedicata ad
+invicem secundum diversa genera; secundo, ostendit differentiam praedicatorum; ibi: amplius substantiam
+quidem etc.. Dicit ergo primo, quod quia nos praedicari dicimus solum illud, quod praedicatur non secundum
+aliud subiectum, hoc autem diversificatur secundum decem praedicamenta; sequitur quod omne quod sic
+praedicatur, praedicetur aut in quod quid est, idest per modum substantialis praedicati, aut per modum qualis, vel
+quanti, vel alicuius alterius praedicamentorum, de quibus actum est in praedicamentis.
+Et addit cum unum de uno praedicetur: quia si praedicatum non sit unum sed multa, non poterit praedicatum
+simpliciter dici quid vel quale; sed forte dicetur simul quale quid, puta si dicam, homo est animal album. Fuit
+autem necessaria haec additio; quia si multa praedicentur de uno, ita quod multa accipiantur in ratione unius
+praedicati, poterunt in infinitum praedicationes multiplicari, secundum infinitos modos combinandi praedicata ad
+invicem. Unde cum quaeritur status in his quae praedicantur, necesse est accipere unum de uno praedicari.
+|#7 Deinde cum dicit: amplius substantiam quidem etc., ostendit differentiam praedictorum praedicatorum.
+Et circa hoc tria facit: primo, proponit differentiam; secundo, manifestat per exempla; ibi: ut de homine et albo
+etc.; tertio, excludit quamdam obviationem; ibi: species enim gaudeant etc.. Dicit ergo primo, quod illa quae
+substantiam significant, oportet quod significent respectu eius de quo praedicantur, quod vere illud est, aut quod
+vere illud aliquid. Quod potest dupliciter intelligi. Uno modo, ut ostendatur distinctio ex parte praedicati, quod
+52
+
+

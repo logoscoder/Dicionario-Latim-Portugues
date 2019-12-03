@@ -1,0 +1,57 @@
+Hoc igitur uniuersaliter est dicendum quod quidquid facit terminum stare confuse et distributiue uel est
+signum uniuersale uel negatio uel aliquid aequiualens negationi. Non tamen semper quando aliquid includit
+negationem facit ipsum stare mobiliter, sicut patet de dictione exclusiua in propositione affirmatiua, quia
+subiectum non supponit confuse et distributiue sed praedicatum. In exclusiua autem negatiua, in qua dictio
+exclusiua additur subiecto, tam subiectum quam praedicatum supponit confuse et distributiue.
+Hoc igitur uniuersaliter est dicendum quod quidquid facit terminum stare confuse et distributiue uel est
+signum uniuersale uel negatio uel aliquid aequiualens negationi. Non tamen semper quando aliquid includit
+negationem facit ipsum stare mobiliter, sicut patet de dictione exclusiua in propositione affirmatiua, quia
+subiectum non supponit confuse et distributiue sed praedicatum. In exclusiua autem negatiua, in qua dictio
+exclusiua additur subiecto, tam subiectum quam praedicatum supponit confuse et distributiue.
+Circa suppositionem confusam et distributiuam immobilem est sciendum quod semper subiectum talem
+habet suppositionem in propositione exceptiua, sicut patet in ista 'omnis homo praeter Sortem currit'. Nam li
+homo supponit confuse et distributiue, non tamen mobiliter, quia non contingit descendere nihil uariando, nisi
+per solam positionem singularis loco termini communis et signi. Nam non sequitur 'omnis homo praeter Sortem
+currit, igitur iste homo praeter Sortem currit', nam consequens est improprium, sicut post patebit.
+Circa suppositionem confusam et distributiuam immobilem est sciendum quod semper subiectum talem
+habet suppositionem in propositione exceptiua, sicut patet in ista 'omnis homo praeter Sortem currit'. Nam li
+homo supponit confuse et distributiue, non tamen mobiliter, quia non contingit descendere nihil uariando, nisi
+per solam positionem singularis loco termini communis et signi. Nam non sequitur 'omnis homo praeter Sortem
+currit, igitur iste homo praeter Sortem currit', nam consequens est improprium, sicut post patebit.
+Hic tamen sciendum est quod aliquo modo contingit descendere ad omnia singularia sed non eodem
+modo, sed ad unum negatiue et ad omnia alia affirmatiue. Nam bene sequitur 'omnis homo praeter Sortem currit,
+igitur
+Sortes non currit', et de omnibus aliis sequitur affirmatiue 'igitur iste homo currit, et ille homo currit', et
+sic de singulis, excepto solo
+Sorte. Et hoc facit dictio exceptiua addita.
+[1.75. QUALITER SUPPONIT PRAEDICATUM IN
+PROPOSITIONIBUS DE 'INCIPIT' ET 'DESINIT']
+PROPOSITIONIBUS DE 'INCIPIT' ET 'DESINIT']
+Potest autem dubitari de talibus de quibus tactum est: 'Sortes desinit esse albus', 'Sortes bis fuit Romae',
+'Sortes ter fuit niger', 'Sortes incipit esse grammaticus', et huiusmodi, quomodo praedicata in eis supponunt.
+Potest autem dubitari de talibus de quibus tactum est: 'Sortes desinit esse albus', 'Sortes bis fuit Romae',
+'Sortes ter fuit niger', 'Sortes incipit esse grammaticus', et huiusmodi, quomodo praedicata in eis supponunt.
+Quod enim non supponant determinate patet, quia non contingit descendere ad singularia per
+disiunctiuam. Non enim sequitur 'Sortes incipit esse grammaticus, igitur Sortes incipit esse hoc uel incipit esse
+illud', demonstrando omnia pro quibus praedicatum supponit, quia antecedens potest esse uerum qualibet parte
+consequentis exsistente falsa; igitur non supponit determinate. Similiter non sequitur 'Sortes incipit esse
+grammaticus, igitur Sortes incipit esse iste grammaticus', demonstrando
+Platonem; et ita non supponit confuse et distributiue. Nec supponit confuse tantum, quia non contingit
+descendere ad singularia per propositionem de disiuncto praedicato. Non enim sequitur 'Sortes incipit esse
+grammaticus, igitur incipit esse iste uel ille grammaticus', et sic de singulis grammaticis, quia antecedens potest
+esse uerum sine consequente.
+Platonem; et ita non supponit confuse et distributiue. Nec supponit confuse tantum, quia non contingit
+descendere ad singularia per propositionem de disiuncto praedicato. Non enim sequitur 'Sortes incipit esse
+grammaticus, igitur incipit esse iste uel ille grammaticus', et sic de singulis grammaticis, quia antecedens potest
+esse uerum sine consequente.
+Potest dici quod terminus praedicatus in talibus propositionibus, uel etiam illud quod sequitur uerbum
+adiectiuum uel substantiuum, non habet suppositionem nec determinatam nec confusam tantum nec confusam et
+distributiuam, sed unam aliam pro qua tamen nomen non habemus. Unde ista
+Suppositio conuenit cum confusa tantum, quia sicut quando terminus supponit confuse tantum, a
+quolibet pronomine demonstrante aliquod singulare contentum sub termino ad teminum communem contingit
+ascendere, ita contingit in proposito. Sicut enim sequitur 'omnis homo est hoc', demonstrando quodcumque
+animal, 'igitur omnis homo est animal', ita sequitur 'Sortes incipit esse hoc', demonstrando quodcumque
+grammaticum,
+141
+
+

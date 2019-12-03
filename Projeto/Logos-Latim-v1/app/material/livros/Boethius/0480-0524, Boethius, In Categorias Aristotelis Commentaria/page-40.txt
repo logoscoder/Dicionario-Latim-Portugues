@@ -1,0 +1,59 @@
+quem quaternarius duplus est fieri; enim nullo modo potest, ut cum quis nouerit aliquam rem esse relatiuam definite,
+non illud quoque sciat ad quod illa res dicitur definite; huius autem rei una probatio est quae ex definitione uenit.
+Definita enim sunt illa esse ad aliquid, quorum ea esset substantia, ut quodammodo se ad aliquid haberent, quod si scio
+quaternarium numerum esse duplum, eo quod ad binarium quodammodo coniungatur, nullus quaternarium duplum
+[237C] esse poterit scire, nisi qui sciet medietatem esse binarium, et hoc quidem in omnibus consideretur. Nam si
+nesciat quis ad quid aliquid referatur eorum quae relatiua sunt, illud quoque ignorabit, utrum ommino ad aliquid
+referatur, quod his uerbis Aristoteles dicit:
+NAM SI OMNINO NESCIT AD QUOD ALIQUO MODO HABET, NEC SI AD ALIQUID
+QUODAMMODO HABET SCITURUS EST. ET IN PARTICULARIBUS HOC MANIFESTUM EST; UT, SI HOC
+AD ALIQUID SCIT DEFINITE QUONIAM DUPLUM EST, ET CUIUS DUPLUM EST DEFINITE NOUIT (NAM
+SI NULLIUS DEFINITE NOUIT ILLUD ESSE DUPLUM, NEC SI OMNINO DUPLUM EST NOUIT); SIMILITER
+AUTEM ET HOC [AD]
+ALIQUID SI NOUIT QUONIAM MELIUS EST, ET QUO MELIUS ERIT DEFINITE EUM SCIRE
+NECESSE EST PROPTER HAEC IPSA QUAE DICTA SUNT (NON AUTEM INFINITE QUONIAM HOC EST
+PEIORE MELIUS, OPINIO ENIM IAM FIT HUIUSMODI, NON SCIENTIA; NEQUE ENIM SCIET INTEGRE
+QUONIAM EST [237D] PEIORE MELIUS; NAM FORTASSE CONTINGIT NIHIL EO ESSE PEIUS); QUARE
+MANIFESTUM EST QUONIAM NECESSE EST QUOD QUIS NOVERIT EORUM QUAE SUNT AD ALIQUID
+DEFINITE, ETIAM ILLUD AD QUOD DICITUR SCITURUM ESSE DEFINITE.
+Huius quoque rei exempla persequitur dicens: Si duplum ad aliquid esse nouimus, scimus quoque id cuius
+duplum est; quod si nescimus id cuius est duplum, duplum autem esse cuiuslibet rei ex hoc est, quod ei sit medietas,
+ipsam quoque rem quae dupla sit, utrum dupla sit scire non possumus. Si igitur definite nouimus quamlibet illam rem
+esse duplam, etiam cuius dupla est definite nos scire necesse est. Ut si nouit quis Anchisem patrem definite esse [238A]
+Aeneae, et Aeneam definite filium esse agnoscet, uel si indefinite nouit quoniam pater est, indefinite etiam sciturus est
+quoniam filii pater est. Et rursus si Aeneam quis indefinite nouit quoniam filius est, sciturus quoque est indefinite
+quoniam patris est filius. Manifestum est ergo quoniam ea quae sunt ad aliquid, si definite ad aliquid esse sciantur,
+etiam illud definite sciendum est ad quod illa referuntur. Quod in substantiis non eodem modo esse Aristotele probamus
+auctore, qui huius quaestionis serierm ita concludit.
+CAPUT VERO ET MANUM ET EORUM SINGULA QUAE SUBSTANTIAE SUNT, HOC IPSUM
+QUIDEM QUOD SUNT POTEST SCIRI DEFINITE, AD QUOD AUTEM DICANTUR NON NECESSE EST;
+CUIUS ENIM HOC CAPUT VEL CUIUS HAEC MANUS NON EST [238B]
+DICERE DEFINITE; QUARE HAEC NON ERUNT EORUM QUAE SUNT AD ALIQUID; QUOD SI NON
+SUNT EORUM QUAE SUNT AD ALIQUID, VERUM ERIT NULLAM ESSE SUBSTANTIAM RELATIUAM.
+In capite, inquit, et in manu, et in aliis substantiis non est uerum, quoniam si quis aliquid horum alicuius esse
+nouit, et ad aliquid aliud referri, idcirco et ad quam referatur definite scituras est. Si quis enim operto capite atque
+omnibus membris manum foras exerat, manifestum est quoniam manus illa alicuius manus est, cuius autem manus sit,
+dici definite non potest. Similiter quoque opertis oculis, facieque uelata si cuiuslibet caput aspicias, illud quidem caput
+alicuius esse non dubitas, cuius autem sit definite non proferes. Quare quoniam haec huiusmodi sunt, ut si quis ea
+definite sciat esse alicuius, [238C] cuius sint, definite scire non poterit, a relatiuorum definitione, quorum si una res
+quaelibet definite sciatur esse ad aliquid, illa quoque res ad quam dicitur, definite scitur, substantiae segregantur.
+Subiiciendum tamen est illud quoque, quod omnino uerum est, in definitionibus rem ipsam quae diflinitur sumi non
+oportere. Multa enim sunt quae aliter proferuntur et definiuntur, et aliter accipiuntur, ut si quis dicat album esse
+colorem nigro contrarium, potest hoc et in corpore accipi, namque et color album dicitur, et corpus quod albo participat,
+album nominatur. Quocirca ne quis putet tale album esse definitum, quod ad participationem albi et corporis referatur,
+ita dicendum est: Album est quod cum in aliquibus est, tum color nigro contrarium. Atque [238D] ita rem ipsam in sua
+definitione sumimus, quod scilicet Aristoteles, id est rem ipsam qua definitur in definitione sumi non oportere, inter
+uerisimilia topicorum posuit argumenta. Nunc autem post relatiuorum disputationem, ad maiorem nos de his rebus
+tractatum studiosus doctor hortatur, dicene:
+FORTASSE AUTEM DIFFICILE SIT DE HUIUSMODI REBUS CONFIDENTER DECLARARE NISI
+SAEPIUS PERTRACTATA SINT; DUBITARE AUTEM DE SINGULIS NON ERIT INUTILE.
+Quod scilicet nunquam diceret, nisi nos ad maiorem acuminis exercitationem considerationemque reuocaret.
+Quod quoniam eius est adhortatio, nos quoque in aliis de his rebus dubitationes solutionesque ponere minime
+grauabimur.
+
+LIBER TERTIUS
+INTRODUCTIO
+[239A] Consueta in principio quaestio est cur post relationis predicamentum disputationem qualitatis
+aggressus est, quod nimis curiosum est. Mirabile enim fuerat cur post quantitatis ordinem non statim de qualilate
+
+

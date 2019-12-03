@@ -1,0 +1,56 @@
+Quod quidem probat dupliciter. Primo, quia contrarietas est maxima et perfecta differentia quasi ultimorum.
+Unius autem distantiae non possunt esse plura ultima quam duo. Sicut videmus quod unius rectae lineae sunt duo
+puncta extrema. Nec iterum ultimo est aliquid ulterius. Unde impossibile est, si contrarietas est una distantia,
+quod uni contrariorum contrarientur aliqua duo ex aequo quasi ultima. Nec quod unum contrarietur magis, et
+alterum minus: quia id quod contrarietur minus, non esset ultimum, sed aliquid haberet ulterius.
+|#9 Deinde cum dicit totaliter autem probat idem alio modo; dicens, quod contrarietas est differentia quaedam.
+Omnis autem differentia est aliquorum duorum.
+Unde et perfecta differentia est duorum.
+Et sic unum uni tantum est contrarium.
+|#10
+Deinde cum dicit necesse autem ostendit, quod omnes definitiones de contrariis datae, secundum
+praedictam definitionem contrarietatis verificantur. Et ponit quatuor terminos, idest definitiones contrariorum ab
+aliis assignatas; quarum prima est, quod contraria sunt quae plurimum differunt. Hoc enim verificatur secundum
+praedicta, cum contrarietas sit perfecta differentia, quae facit plurimum differre. Manifestum est enim ex
+praedictis, quod in his quae differunt genere non est accipere quid magis differens his quae differunt specie: quia
+ad ea quae sunt extra genus, non est differentia, ut dictum est. Eorum vero, quae differunt specie, maxima
+differentia est contrariorum. Et sic sequitur quod contraria sunt quae plurimum differunt.
+|#11
+Secunda definitio est, quod contraria sunt quae plurimum differunt in eodem genere. Quae etiam
+verificatur secundum praedicta: quia contrarietas est perfecta differentia. Maxima autem differentia eorum quae
+sunt in eodem genere est perfecta differentia. Unde relinquitur quod contraria sunt quae plurimum differunt in
+eodem genere.
+|#12 Tertia definitio est quod contraria susceptibili. Quod etiam verificatur ex praedictis; quia eadem est
+materia contrariorum, cum ex invicem generentur.
+|#13 Quarta definitio est, quod contraria sunt, quae plurimum differunt sub eadem potentia, idest arte vel
+scientia.
+Nam scientia est potentia rationalis, ut in nono dictum est. Et haec etiam definitio ex praedictis verificatur; quia
+una scientia est circa unum genus. Cum igitur contraria sint in eodem genere, oportet quod sint sub eadem
+potentia sive scientia. Et quia contrarietas est perfecta differentia in eodem genere, oportet quod contraria
+plurimum differant eorum quae sunt sub eadem scientia.
+|+6 Lectio 6
+|#1 Postquam Philosophus definivit contrarietatem, hic comparat ipsam ad alias species oppositionis; et circa
+hoc duo facit.
+Primo proponit quod intendit; scilicet quod contrarietatis principium est oppositio privationis et habitus. Secundo
+manifestat quod supposuerat, ibi, si ergo opponuntur etc..
+Circa primum duo facit. Primo enim proponit quod principium contrarietatis est privatio et habitus; dicens, quod
+prima contrarietas est privatio et habitus, quia scilicet in omni contrarietate privatio et habitus includitur.
+|#2
+Sed ne aliquis crederet quod idem esset opponi secundum privationem et habitum, et secundum
+contrarietatem, subiungitur quod non omnis privatio sit contrarium; quia privatio, sicut in superioribus habitum
+est, multipliciter dicitur.
+Aliquando enim quocumque modo, si non habeat quod natum est haberi, dicitur esse privatio. Sed talis privatio
+non est contrarium, quia talis privatio non ponit aliquam naturam oppositam habitui, licet supponat subiectum
+determinatum. Sed privatio dicitur esse contrarium, quaecumque fuerit perfecta privatio.
+|#3 Cum autem privatio secundum id quod est, non recipiat magis et minus, non potest dici perfecta privatio
+nisi ratione alicuius naturae, quae perfectam distantiam habeat ad habitum. Sicut non omnis privatio albi est
+contraria albo; sed privatio magis distans ab albo, quam oportet fundari in aliqua natura eiusdem generis,
+maxime distante ab albo. Et secundum hoc dicimus quod nigrum est contrarium albo.
+|#4 Deinde cum dicit alia autem secundo ostendit qualiter ab ista prima contrarietate, alia contraria deriventur;
+dicens, quod alia contraria dicuntur secundum hoc, scilicet secundum privationem et habitum diversimode.
+Quaedam enim dicuntur contraria in eo quod habent in se inclusam privationem et habitum; sicut album et
+nigrum, et calidum et frigidum.
+Alia per hoc quod actu faciunt privationem et habitum, sicut sunt calefaciens et infrigidans.
+289
+
+

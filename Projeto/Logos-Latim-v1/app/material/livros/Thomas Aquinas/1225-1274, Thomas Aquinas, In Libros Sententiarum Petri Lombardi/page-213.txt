@@ -1,0 +1,61 @@
+|a0 Prologus
+Deinde quaeritur de nominibus quae sunt pluralitati adnexa; et circa hoc quaeruntur duo: 1 de his quae se habent
+ad pluralitatem sicut principium; 2 de nomine trinitatis, quod consequitur pluralitatem, quasi collectivum.
+|a1 Articulus 1: Utrum in Deo sit diversitas.
+AG1
+Ad primum sic proceditur. Videtur quod in Deo sit diversitas. Sicut enim unum in substantia facit idem, ita
+multitudo in substantia facit diversitatem.
+Sed dicit Hilarius, quod pater et filius et spiritus sanctus sunt quidem per substantiam tria, per consonantiam vero
+unum.
+Ergo est ibi diversitas.
+AG2
+Praeterea, sicut unum dicitur ex eo quod non dividitur, ita multa vel plura dicuntur ex eo quod dividuntur. Sed
+pater et filius sunt plures.
+Ergo videtur quod ibi sit divisio.
+AG3
+Item, alienum denominatur ab alio. Sed filius est alius a patre. Ergo potest etiam dici alienus.
+AG4
+Item, videtur quod possit dici singularis: quia singulare significat aliquid demonstratum, subsistens in natura
+communi. Sed hoc modo est pater. Unde supra, dist. 19, dixit Damascenus quod se habet sicut individuum.
+Ergo videtur quod possit dici singularis.
+AG5
+Praeterea, videtur quod possit dici unicus, per hoc quod cantat ecclesia: trinum Deum, unicumque cum favore
+praedicat.
+AG6
+Item videtur quod non possit ibi esse discretio.
+Discretum est enim quaedam differentia quantitatis. Sed in divinis non est quantitas. Ergo nec discretio.
+AG7
+Et quaeritur generaliter, quid de hujusmodi possit concedi in divinis.
+CO
+Respondeo dicendum, quod circa fidem trinitatis, fuerunt duae haereses: scilicet Arii, qui induxit pluralitatem
+essentiae; et Sabellii, qui abstulit pluralitatem personarum; quorum utrumque concedit fides catholica; et ideo ea
+oportet concedere quae utrique haeresi adversantur, et ea negare quae utrique sunt consona.
+Unde contra Arium quatuor ponit ecclesia: scilicet essentiae unitatem, et ex hoc confitetur Deum unum, et negat
+diversitatem. Secundo essentiae divinae simplicitatem; et ideo confitetur simplicem et negat multiplicitatem vel
+divisionem, quae ponit rationem totius et partis, quae simplicitati adversantur, et similiter separationem. Tertio
+ponit similitudinem in natura deitatis, prout significatur ut forma quaedam; et ideo praedicat filium similem patri
+et negat alienum: quia alienum dicitur quod est extraneum a natura alicujus. Quarto ponit indivisam virtutem et
+magnitudinem trium personarum, et ideo ponit aequalem et negat disparem vel inaequalem.
+Similiter contra Sabellium quatuor ponit. Primo naturae communicationem pluribus suppositis, et ideo praedicat
+pluralitatem et excludit singularitatem.
+Secundo ponit quod ista pluralitas non est tantum rationis, sed etiam rei, quia sunt tres res; et ideo praedicat
+discretionem, et excludit unicum.
+Tertio ponit in istis rebus personalibus esse ordinem originis; et ideo praedicat discretionem quae ordinem
+quemdam importat, et excludit confusionem.
+Quarto ponit tres personas unitas societate quadam amoris, qui est spiritus sanctus, et ideo praedicat
+consonantiam, ut patet ex Hilario et excludit solitudinem.
+RA1
+Ad primum igitur dicendum, quod unum in substantia prout significat essentiam, facit idem; et similiter
+multitudo in substantia, quae est essentia, facit diversum. Sed cum dicit Hilarius quod sunt per substantiam tria,
+accipit substantiam pro hypostasi non pro essentia.
+RA2
+Ad secundum dicendum, quod ubi est numerus simpliciter, ibi est divisio vel per essentiam vel per quantitatem.
+Sed talis numerus non est in divinis, sed numerus quidam, ut dictum est; et ad istum numerum sufficit distinctio
+relationum.
+RA3
+Ad tertium dicendum, quod quamvis filius dicatur alius a patre, non tamen dicitur alienus, quia hoc sonat
+inextraneitatem naturae; denominatur enim alienum ab alietate naturae, et non ab alietate suppositi.
+RA4
+213
+
+

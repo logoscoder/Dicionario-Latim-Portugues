@@ -1,0 +1,58 @@
+|+d42.q2 Distinctio 42, Quaestio 2
+|a0 Prologus
+Deinde quaeritur de his quae subjecta sunt divinae potentiae; et circa hoc quaeruntur tria: 1 utrum Deus possit
+quidquid est alteri possibile; 2 utrum possit facere impossibilia; 3 utrum sit aliquid judicandum simpliciter
+possibile vel impossibile, secundum causas superiores vel inferiores.
+|a1 Articulus 1: Utrum Deus possit quidquid est alteri possibile.
+AG1
+Ad primum sic proceditur. Videtur quod Deus possit quidquid alteri possibile est. Omnis enim potentia creata est
+exemplata a potentia ipsius, sicut omne bonum a bonitate ejus. Sed quidquid est in exemplato, verius et
+perfectius invenitur in primo exemplari. Ergo potentia Dei se extendit ad omnia in quaecumque creata potentia
+potest.
+AG2
+Praeterea, Philosophus dicit, quod Deus, et etiam studiosus potest prava agere. Sed nihil ita elongatur a potentia
+ejus sicut malum. Ergo videtur quod ipse omnia possit quae creatura potest.
+AG3
+Praeterea, de ratione voluntatis est, ut libertatem ad utrumlibet habeat. Sed in Deo verissime invenitur voluntas.
+Ergo potest utrumlibet, et bonum et malum.
+AG4
+Praeterea, nihil quod est laudabilitatis, ei subtrahendum est qui magnus est et laudabilis nimis.
+Sed posse facere malum et non facere est laudabilitatis: sicut dicitur Eccli. 31, 10, in laudem unius viri justi: qui
+potuit transgredi, et non est transgressus; facere mala, et non fecit. Ergo Deo convenit. Et sic idem quod prius.
+SC1
+Sed contra, sicut Deus non potest non esse Deus, ita non potest esse imperfectus. Sed quaedam dicitur creatura
+posse sua infirmitate vel imperfectione sicut pati, mori, et hujusmodi. Ergo videtur quod Deus non omnia possit
+quae creatura potest.
+SC2
+Praeterea, summum bonum non potest esse causa alicujus mali, sicut nec summe calidum causa alicujus frigoris.
+Sed Deus est summe bonus.
+Ergo nullum malum facere potest. Creatura autem hoc potest. Non ergo quidquid creatura potest, et ipse Deus
+potest.
+CO
+Respondeo dicendum, quod quidquid perfectionis in creatura est, totum est exemplariter eductum ex perfectione
+creatoris; ita tamen quod illam perfectionem, imperfectius creatura habet quam in Deo sit. Et ideo potentia
+creaturae inquantum deficit a repraesentatione divinae potentiae, deficit a perfecto posse. Unde quod attribuitur
+sibi secundum quod est in tali gradu participata, non oportet quod divinae potentiae attribuatur. Sicut etiam
+dicimus essentiam lapidis exemplatam a divina essentia, nec tamen dicimus Deum esse lapidem; ita etiam non
+dicimus Dei potentiam esse potentiam ambulandi vel patiendi, quasi proximum principium ambulationis et
+passionis, ita quod ipse ambulet vel patiatur.
+Sciendum tamen, quod gradus potentiarum, sicut et naturarum, divina dispositione ordinati sunt secundum quod
+una plus vel minus deficit a perfectione divinae potentiae. Et ideo videndum est quod quamvis nullus actus
+proprius harum potentiarum secundum gradus determinatos conveniat potentiae divinae sicut principio proximo,
+tamen omnes actus proprii harum potentiarum egredientes ab eis secundum rationem ordinis in quo constitutae
+sunt reducuntur in Deum sicut in causam primam. Unde quamvis non dicamus quod Deus possit ambulare vel
+pati, dicimus tamen quod creat ambulationem et passionem in aliis. Sed actus qui egrediuntur a determinatis
+potentiis praeter dictam rationem ordinis nullo modo in causalitatem divinae potentiae reducuntur; non enim
+dicimus quod possit peccare, nec in aliis peccatum facere.
+RA1
+Et per hoc patet responsio ad primum.
+RA2
+Ad secundum dicendum, secundum quosdam, quod ly prava accipiendum est materialiter, ut sit sensus: Deus
+potest facere prava, idest quae modo prava sunt, quae tamen si ipse faceret, prava non essent. Vel dicendum
+quod loquitur conditionaliter, ut intelligatur, si vellet; cujus conditionalis et antecedens est impossibile, et
+consequens; et hoc non est inconveniens, sicut haec: si centum sunt minus quam quinque, sunt minus quam
+decem.
+RA3
+352
+
+

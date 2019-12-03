@@ -1,0 +1,49 @@
+|#2 Quicquid enim est in aliquo ut in subiecto, oportet quod habeat aliquam causam: causatur enim vel ex
+subiecti principiis, vel ex aliqua extrinseca causa. Malum autem est in bono sicut in subiecto, ut ostensum est.
+Oportet igitur quod malum habeat causam.
+|#3 Item. Quod est in potentia ad utrumque oppositorum, non constituitur in actu alicuius eorum nisi per
+aliquam causam: nulla enim potentia facit se esse in actu. Malum autem est privatio eius quod quis natus est et
+debet habere: ex hoc enim unumquodque dicitur malum esse. Est igitur malum in subiecto quod est in potentia
+ad ipsum et ad suum oppositum. Oportet igitur quod malum habeat aliquam causam.
+|#4 Adhuc. Quicquid inest alicui praeter suam naturam, advenit ei ex aliqua alia causa: omnia enim in his quae
+sunt sibi naturalia permanent nisi aliquid aliud impediat; unde lapis non fertur sursum nisi ab aliquo proiiciente,
+nec aqua calefit nisi ab aliquo calefaciente. Malum autem semper inest praeter naturam eius cui inest: cum sit
+privatio eius quod natum est aliquid et debet habere. Igitur oportet quod malum semper habeat aliquam causam,
+vel per se vel per accidens.
+|#5 Amplius. Omne malum consequitur ad aliquod bonum: sicut corruptio sequitur ad aliquam generationem.
+Sed omne bonum habet aliquam causam, praeter primum bonum, in quo non est aliquod malum, ut in primo
+libro ostensum est. Omne igitur malum habet aliquam causam, ad quam sequitur per accidens.
+
+|+14 Capitulus 14: Quod malum est causa per accidens.
+|#1 Ex eisdem etiam patet quod malum, etsi non sit causa per se, est tamen causa per accidens.
+|#2 Si enim aliquid est causa alicuius per se, id quod accidit ei, est causa illius per accidens: sicut album quod
+accidit aedificatori, est causa domus per accidens.
+Omne autem malum est in aliquo bono. Bonum autem omne est alicuius aliquo modo causa: materia enim est
+quodammodo causa formae, et quodammodo e converso; et similiter est de agente et fine. Unde non sequitur
+processus in infinitum in causis, si quodlibet est alicuius causa, propter circulum inventum in causis et causatis
+secundum species diversas causarum.
+Malum igitur est per accidens causa.
+|#3 Adhuc. Malum est privatio quaedam, ut ex praedictis patet. Privatio autem est principium per accidens in
+rebus mobilibus, sicut materia et forma per se. Malum igitur est alicuius causa per accidens.
+|#4 Praeterea. Ex defectu causae sequitur defectus in effectu. Defectus autem in causa est aliquod malum. Non
+tamen potest esse causa per se: quia res non est causa per hoc quod est deficiens, sed per hoc quod est ens; si
+enim tota deficeret, nullius esset causa. Malum igitur est alicuius causa non per se, sed per accidens.
+|#5 Item. Secundum omnes species causarum discurrendo, invenitur malum esse per accidens causa.
+In specie quidem causae efficientis quia propter causae agentis deficientem virtutem sequitur defectus in effectu
+et actione.
+In specie vero causae materialis, quia ex materiae indispositione causatur in effectu defectus.
+In specie vero causae formalis, quia uni formae semper adiungitur alterius formae privatio.
+In specie vero causae finalis, quia indebito fini adiungitur malum, inquantum per ipsum finis debitus impeditur.
+|#6 Patet igitur quod malum est causa per accidens, et non potest esse causa per se.
+
+|+15 Capitulus 15: Quod non est summum malum.
+|#1 Ex hoc autem patet quod non potest esse aliquod summum malum, quod sit omnium malorum principium.
+|#2 Summum enim malum oportet esse absque consortio omnis boni: sicut et summum bonum est quod est
+omnino separatum a malo. Non potest autem esse aliquod malum omnino separatum a bono: cum ostensum sit
+quod malum fundatur in bono. Ergo nihil est summe malum.
+|#3 Adhuc. Si aliquid est summe malum, oportet quod per essentiam suam sit malum: sicut et summe bonum est
+quod per suam essentiam bonum est. Hoc autem est impossibile: cum malum non habeat aliquam essentiam, ut
+supra probatum est. Impossibile est igitur ponere summum malum, quod sit malorum principium.
+216
+
+

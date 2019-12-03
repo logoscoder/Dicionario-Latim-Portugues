@@ -1,0 +1,66 @@
+Et quare hoc sequatur ostendit. Quia omne tempus est divisibile in diversas
+partes, quarum una est prior altera: unde si per totum tempus sit in aliquo
+uno, verum erit dicere quod in alia et in alia parte temporis ipsum mobile
+et partes eius sint in uno et eodem, puta loco; quod est quiescere. Quia si
+dicatur quod non est in diversis partibus temporis in uno et eodem, sed
+solum in uno et eodem est per unum nunc, non sequitur quod sit tempus in
+quo est secundum aliquid, idest in aliquo uno et eodem, sed quod sit in uno
+et eodem secundum terminum temporis, idest secundum nunc.
+Licet autem ex hoc quod est aliquid esse in tempore in uno et eodem,
+sequatur quod quiescat, hoc tamen non sequitur de nunc, si sit ibi in uno
+solo nunc. Quia omne quod movetur, in quolibet nunc temporis in quo
+movetur, semper est manens, idest existens, secundum aliquid rei in qua est
+motus, puta secundum locum aut qualitatem aut quantitatem: non tamen
+quiescit, quia iam ostensum est quod neque quiescere neque moveri contingit
+in ipso nunc. Sed verum est dicere quod in ipso nunc aliquid non movetur,
+et quod in ipso nunc est alicubi, vel secundum aliquid, etiam illud quod
+movetur.
+Sed non contingit illud quod movetur, esse quiescens in tempore secundum
+aliquid: accideret enim quod aliquid, dum fertur, quiesceret; quod est
+impossibile. Relinquitur ergo quod omne quod movetur, quamdiu movetur,
+nunquam est in uno et eodem per duo nunc, sed per unum solum.
+|#9
+Et hoc patet in motu locali. Sit enim magnitudo ac, et dividatur in
+duo media in puncto b, et accipiatur aliquod corpus quod sit o, aequale
+utrique, scilicet ab et bc, et moveatur de ab in bc. Si autem accipiantur
+loca totaliter ab invicem distincta, non est hic accipere nisi duo loca:
+sed manifestum est quod mobile non simul sed successive deserit primum
+locum et subintrat secundum; unde secundum quod locus est divisibilis in
+infinitum, secundum hoc multiplicantur loca in infinitum. Quia si dividatur
+ab in duo media in puncto d, et bc in duo media in puncto e, manifestum est
+quod de erit alius locus ab utroque. Et similiter semper divisione facta,
+fiet alius locus.
+Et idem etiam manifestum est in alteratione: quia quod de albo transit in
+nigrum, per infinitos gradus albedinis et nigredinis et mediorum colorum
+pertransit.
+Non tamen sequitur quod cum sint infinita media, quod nullo modo possit
+perveniri ad ultimum; quia huiusmodi media loca non sunt infinita in actu,
+sed in potentia tantum; sicut et magnitudo non est divisa actu in
+infinitum, sed in potentia divisibilis.
+|+11
+
+Lectio 11
+
+|#1
+Postquam Philosophus determinavit de divisione motus et quietis, hic
+excludit quaedam, ex quibus errabant aliqui circa motum.
+Et circa hoc tria facit: primo solvit rationes zenonis, negantis totaliter
+motum esse; secundo ostendit quod indivisibile non movetur, contra
+democritum, qui ponebat indivisibilia moveri semper, ibi: ostensis autem
+his etc.; tertio ostendit mutationem omnem esse finitam, contra Heraclitum,
+qui ponebat omnia moveri semper, ibi: mutatio autem etc..
+Circa primum duo facit: primo ponit quandam rationem zenonis et solvit eam,
+quae pertinet ad id quod immediate de motu praemiserat; secundo explicat
+omnes rationes eius per ordinem, ibi: quatuor autem sunt rationes etc..
+|#2
+Dicit ergo primo quod zeno male ratiocinabatur, et apparenti
+syllogismo utebatur ad ostendendum quod nihil movetur, etiam illud quod
+videtur velocissime moveri, sicut sagitta quae fertur. Et erat ratio sua
+talis. Omne quod est in loco sibi aequali, aut movetur aut quiescit: sed
+omne quod fertur, in quolibet nunc est in aliquo loco sibi aequali: ergo et
+in quolibet nunc aut movetur aut quiescit. Sed non movetur: ergo quiescit.
+Si autem in nullo nunc movetur, sed magis videtur quiescere, sequitur quod
+in toto tempore non moveatur, sed magis quiescat.
+242
+
+

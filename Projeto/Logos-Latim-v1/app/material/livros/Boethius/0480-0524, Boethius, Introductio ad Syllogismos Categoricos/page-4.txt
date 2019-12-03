@@ -1,0 +1,62 @@
+definitio, est enim enuntiatio quae uerum falsumue denuntiat. Hanc etiam proloquium uel propositionem Tullius uocat,
+quae quidem partim simplex, partim composita. Simplex est quae conditione seposita esse aliquid uel non esse
+proponit, ut:
+Plato philosophus est.
+Composita uero quae ex duabus simplicibus copulante conditione consistit, ut:
+Plato si doctus est, philosophus est.
+Simplicium uero enuntiationum alias in qualitate sitas, alias in quantitate differentias inuenimus. In qualitate
+quidem quod alia affirmatiua, alia negatiua est. Enuntiatio affirmatiua est enuntiatio [767D] aliquid de aliquo
+significans, ut:
+Plato philosophus est
+philosophum de Platone praedicamus. Negatiua uero est enuntiatio aliquid ab aliquo praedicatione seiungens,
+ut:
+Plato philosophus non est
+philosophum enim a Platone tali praedicatione seiunximus. Secundum quantitatem uero differentiae
+enuntiationum sunt, quod aliae quidem uniuersales aliae particulares aliae indefinitae, alio singulares.
+Uniuersales sunt quae siue affirment, siue negent, uniuersaliter tamen enuntiant uniuersale subiectum, ut:
+Omnis homo sapiens est Nullus homo sapiens est
+homo uniuersale quiddam est. Multos enim sub se indiuiduos coercet et continet, qui uniuersaliter enuntiantur,
+dum ei omnis uel nullus adiungitur. Particulares [768A] uero quae uel affirmando uel negando ambitum subiecti
+uniuersalis in partem redigunt, ut:
+Quidam homo sapiens est Quidam homo sapiens non est
+hic enim uniuersalitas hominis, adiecta particulari determinatione minuta est, atque in partem redacta.
+Indefinitae uero sunt quae absque uniuersalitatis et particularitatis determinatione dicuntur, ut:
+Est homo sapiens Non est homo sapiens
+Singulares uero sunt quae de singulari aliquid et de indiuiduo affirmando negandoue proponunt, ut:
+Socrates sapiens est Socrates sapiens non est
+Differt autem particularis propositio a singulari, quod particularis quidem unum aliquem subiicit, nec quis sit
+iste designat, ut:
+Quidam homo sapiens est
+quis iste homo sit propositio non declarat. Singularis uero unum aliquem sumit, [768B] et quis iste sit
+significat, ut:
+Socrates sapiens est
+unum enim et hunc Socratem sapientem esse proposuit. Amplius particularis omnis uniuersalem quidem
+terminum ponit sed ei detrahit uniuersalitatem, dum qualitatem particularitas adiungit, ut in propositione:
+Quidam homo sapiens est
+Homo uniuersalis est terminus, multos enim propria praedicatione concludit. Sed quia dicitur quidam, ad unum
+homo redigitur, qui uniuersale persisteret, nisi particularitas fuisset adiuncta; in singularibus uero propositionibus
+praedicato termino semper indiuiduum supponitur, ut:
+Socrates sapiens est
+Socrates enim singularis est, atque indiuiduus; idcirco igitur illa particularis propositio quae partem ex
+uniuersalitatem detrahit, haec [768C] singularis quae in singularis atque indiuidui praedicatione consistit.
+Simplicium uero enuntiationum partes sunt subiectum atque praedicatum.
+Subiectum st quod praedicati suscipit dictionem, ut in ea propositione quae est:
+Plato philosophus est
+Plato subiectum est, de ipso enim philosophos praedicatur, et in eo philosophi suscipit dictionem. Praedicatum
+uero est quod dicitur de subiecto, ut in eadem propositione, philosophos dicitur de Platone subiecto, semper enim quod
+subiectum est uel minus est, uel aequale praedicato: minus quidem ut in ea propositione de qua paulo ante tractauimus.
+Plato enim philosophi nomen non potest aequare neque solus Plato philosophus est; aequalis uero est subiectus
+terminus praedicato, ut si quis dicat:
+Homo risibilis est
+homo enim qui subiectus est terminos praedicato risibili coaequatur.
+Unde fit ut possit reddi reciproca praedicatio, scilicet, ut uices subiectum praedicatumque permutent,
+subiectumque fiat quo erat antea praedicatum, uersoque ordine praedicetur quod fuerat ante subiectum, ut si dicatur
+quod risibile est homo est; omnia enim quae sunt aequalia de se inuicem praedicantur. Ut uero id quod subiectum est
+maius possit esse praedicato, nulla prorsus enuntiatione contingit, ipsa enim praedicata natura minora esse non patitur.
+Sed quod aequale uel maius est, id semper de aequali uel minore praedicatur. Has uero enuntiationum partes, id est
+praedicatum atque subiectum terminos appellamus. Termini uero dicuntur quod in eos postrema sit resolutio: itaque in
+singularibus [769A] uel indefinitis propositionibus duos terminos semper inuenimus, et uerbum quod propositionis
+determinet qualitatem, ut in propositione qua dicimus:
+Socrates sapiens est
+
+

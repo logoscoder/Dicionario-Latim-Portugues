@@ -1,0 +1,69 @@
+Necessitas ergo propositionis quae secundum esse praedicatur idcirco non sequitur possibilitatem, quoniam
+possibilitas quidem et non esse potest, necessitas uero quae secundum esse est non esse non potest.
+Rursus necessitas quae secundum non esse praedicatur a possibilitate differt eamque non sequitur, quod
+necessitas ea quae secundum non esse dicitur non potest esse, possibile uero et esse et non esse potest.
+Quid igitur ut neque opposita negatio necessarii possibilitatem sequatur, quae non necesse esse proponit,
+neque ipsa necessitas affirmandi quae dicit necesse esse neque huic contraria quae dicit necesse esse non esse? Sed in
+his quatuor uidebuntur. Est enim necessaria affirmatio quae dicit necesse esse, huic opposita est ea quae praedicatur
+non necesse esse, rursus contraria necessitati affirmatio est quae dicit necesse est non esse, huic opponitur ea quae
+proponit non necesse est non esse, quod subiecta docet subscriptio:
+Necesse est esse
+Non necesse est esse
+Necesse est non esse
+Non necesse est non esse
+Si igitur neque ea quae dicit necesse est esse neque huic opposita quae proponit non necesse est esse nec
+necessitati contraria, cuius sententia est quoniam /437/ necesse est non esse, possibilitati consentit, restat ut ei
+consentiat quarta quae dicit non necesse est non esse, quae scilicet quarta aliquatenus etiam ipsi necessitati consentit,
+necessitas uero possibilitati minime. Omne enim quod necesse est esse et possibile est esse et ut non sit non est necesse.
+Idcirco autem haec propositio quae dicit non necesse est non esse necessitati consentit, quia necessitati quidem
+contraria est ea quae dicit necesse est non esse, haec uero opposita est huic propositioni quae dicit necesse est non esse,
+ea scilicet quae proponit non necesse est non esse: quare consentiet ei propositio quae contraria est sibimet oppositae
+affirmationi.
+Quod si quis attentius inspicit et ad supra scriptum omnino reuertitur, facile cognoscit. Si igitur possibile est
+(ut dictum est) sequitur ea propositio quae dicit non necesse est non esse, negationem possibilis sequitur huic opposita
+quae dicit necesse est non esse eritque huiusmodi consequentia: si possibile est, non necesse est non esse, rursus si non
+possibile est, necesse est non esse.
+Reuersa est igitur illa consequentia quae contradictorie quidem fiebat sed conuersim, sicut supra de
+possibilibus <et impossibilibus> dictum est. Hic namque affirmationem possibilem negatio sequitur quae necessarium
+quidem destruit sed id quod ad non esse ponitur, ea scilicet quae dicit non necesse est non esse, rursus negationem
+possibilis affirmatio sequitur necessaria quae secundum non esse ponitur. Est igitur hic quoque eadem conuersio, ut
+contradictio quidem contradictionem sequatur sed conuersim, ut affirmatio negationi, negatio uero affirmationi
+conueniat. Melius uero hoc si sub /438/
+oculos caderet liquere credidimus atque ideo apertissime sententiam rei subiectae dispositionis nos ordo
+commoneat.
+Affirmatio possibilis
+Negatio possibilis oppositae
+secundum esse:
+secundum esse:
+Possibile esse
+Non possibile esse
+Negatio necessaria
+Affirmatio necessaria
+secundum non esse:
+secundum non esse:
+Non necesse est non esse Necesse est non esse
+Omnis quidem sententia est talis, ordo autem sermonum huiusmodi est: postquam dixit de possibilium et
+impossibilium consequentia, quod contradictiones quidem contradictionibus conuenirent sed conuersim, id est quod
+affirmatio negationi, negatio uero consentiret affirmationi, haec eadem, inquit, consequentia quemadmodum in
+necessariis euenit, uidendum est. Speculatus igitur et de necessariis idem non repperit.
+Nam cum dixisset necessarii negationem consentire possibilitati, affirmatio necessaria negationi possibilitatis
+non consensit.
+Eiusdem rei reddens causas illud arguit quod impossibilitas necessitati idem ualeret contrarie reddita. Quam
+rem emendare uolens ita dixit: AN CERTE, inquit, IMPOSSIBILE EST SIC PONI NECESSARII
+CONTRADICTIONES? Ut negationem scilicet necessarii possibilitati consentire diceremus.
+Addit autem dubitationem quandam, quae ita sese habet. NAM QUOD EST, inquit, NECESSARIUM ESSE,
+illud sine dubio POSSIBILE EST ESSE. NAM SI NON, id est si quod necessarium est possibile non est, NEGATIO
+possibilitatis CONSEQUITUR. NECESSE EST ENIM in omnibus rebus AUT DICERE id est affirmare AUT
+CERTE NEGARE. In omnibus namque rebus aut affirmatio uera est aut negatio. QUARE SI NON POSSIBILE EST
+ESSE, id est si hoc est non possibile esse [quod impossibile est, fiet id] quod necessarium est esse, sequitur autem
+propositionem quae dicit non possibile est esse illa quae proponit IMPOSSIBILE EST ESSE, fit aliquid impossibile ut
+dicatur: IMPOSSIBILE IGITUR EST ESSE ID QUOD NECESSE EST ESSE. Sed hoc inconueniens est. Ergo hic
+docuit, quod necessitatem possibilitas sequeretur. Nunc autem aliud addit: quoniam supra dixit possibili propositioni
+necessariae affirmationis negationem consentire, nunc de eadem re dubitationem dicens:
+AT VERO ILLUD QUOD EST POSSIBILE ESSE NON IMPOSSIBILE ESSE SEQUITUR.
+Nam quod possibile est, hoc non est impossibile sed quod non est impossibile esse non necesse est esse. Ergo
+si non impossibile esse sequitur possibilitatem, non impossibilitatem autem sequitur id quod dicitur non necessarium
+esse sequiturque possibilem propositionem id quod dicimus non necessarium /440/ esse, nulli dubium est quin, si
+necessitatem possibilitas sequitur, sequatur affirmationem necessariam negatio necessariae. QUARE CONTINGIT
+
+

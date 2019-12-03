@@ -1,0 +1,59 @@
+* 4.57.0. Si mancipium ita fuerit alienatum, ut manumittatur vel contra.
+* 4.58.0. De aediliciis actionibus.
+* 4.59.0. De monopoliis et de conventu negotiatorum illicito vel artificum ergolaborumque (..)
+* 4.60.0. De nundinis.
+* 4.61.0. De vectigalibus et commissis.
+* 4.62.0. Vectigalia nova instituti non posse.
+* 4.63.0. De commerciis et mercatoribus.
+* 4.64.0. De rerum permutatione et de praescriptis verbis actione.
+* 4.65.0. De locato et conducto.
+* 4.66.0. De emphyteutico iure.
+4.1.0. De rebus creditis et de iureiurando.
+4.1.1
+Imperator Antoninus . Causa iureiurando ex consensu utriusque partis vel adversario inferente delato et praestito
+vel remisso decisa nec periurii praetextu retractari potest, nisi specialiter hoc lege excipiatur. * ANT. A.
+HERCULIANO. *<A 213 PP. XV K. IUL. ANTONINO A. IIII ET BALBINO CONSS.>
+4.1.2
+Imperator Alexander Severus . Iurisiurandi contempta religio satis deum ultorem habet. Periculum autem
+corporis vel maiestatis crimen secundum constituta divorum parentum meorum, etsi per principis venerationem
+quodam calore fuerit periuratum, inferri non placet * ALEX. A. FELICI. *<A 223 PP. VI K. APRIL. MAXIMO
+II ET AELIANO CONSS.>
+4.1.3
+Imperatores Diocletianus, Maximianus . In bonae fidei contractibus nec non etiam in aliis causis inopia
+probationum per iudicem iureiurando causa cognita res decidi potest. * DIOCL. ET MAXIM. AA. SEVERAE.
+*<A 286 PP. X K. SEPT. MAXIMO II ET AQUILINO CONSS.>
+4.1.4
+Imperatores Diocletianus, Maximianus . Si ad excludendam tutelae actionem pupillus iusiurandum tutori dedit,
+postea eandem litem exercere non prohibetur. * DIOCL. ET MAXIM. AA. MAXIMAE. *<A 290 PP. K. IUL.
+IPSIS IIII ET III AA. CONSS.>
+4.1.5
+Imperatores Diocletianus, Maximianus . Cum etiam a pupillorum tutoribus velut ab ipsis pupillis relicta
+fideicommissa videantur, super fideicommisso praeses provinciae cognoscet et, si id tibi relictum esse constiterit,
+reddi tibi efficiet. Idem, si infitietur, ad iusiurandum, ut desideras, tutorem adiget * DIOCL. ET MAXIM. AA.
+IULIANO. *<A 290 PP. III NON. DEC. IPSIS IIII ET III AA. CONSS.>
+4.1.6
+Imperatores Diocletianus, Maximianus . Cum proponas partibus placuisse iurisiurandi religione generis et
+ingenuitatis quaestionem decidi, praeses provinciae iuxta decretum arbitri ad voluntatis vestrae placitum amitae
+tuae filiis consulet. * DIOCL. ET MAXIM. AA. BESSIO. *<A 291 PP. V ID. FEBR. TIBERIANO ET DIONE
+CONSS.>
+4.1.7
+Imperatores Diocletianus, Maximianus . Nec filius nec quisquam alius neque litigando neque paciscendo, sed
+nec iusiurandum citra voluntatem domini rei deferendo praeiudicium ei facere potest. Unde si citra mandatum
+tuum aliquid erga rem tuam filius tuus gessit nec ratum habuisti, nihil tibi oberit * DIOCL. ET MAXIM. AA. ET
+CC. EUTYCHIANAE. *<A 293 S. ID. NOV. AA. CONSS.>
+4.1.8
+Imperatores Diocletianus, Maximianus . Actori delato vel relato iureiurando, si iuraverit vel ei remissum fuerit
+sacramentum, ad similitudinem iudicati in factum actio competit. * DIOCL. ET MAXIM. AA. ET CC.
+ALEXANDRO. *<A 294 S. XII K. MAI. CC. CONSS.>
+4.1.9
+Imperatores Diocletianus, Maximianus . Delata condicione iurisiurandi reus ( si non per actorem, quominus de
+calumnia iuret, steterit) per iudicem solvere vel iurare, nisi referat iusiurandum, necesse habet. * DIOCL. ET
+MAXIM. AA. ET CC. MARCIANO. *<A 294 S. V K. MAI. SIRMI CONSS.>
+4.1.10
+Imperatores Diocletianus, Maximianus . In actione etiam depositi, quae super rebus quasi sine scriptis datis
+movetur, iusiurandum ad exemplum ceterorum bonae fidei iudiciorum deferri potest. * DIOCL. ET MAXIM.
+AA. ET CC. PROTOGENI. *<A 294 S. V K. DEC. CC. CONSS.>
+4.1.11
+155
+
+

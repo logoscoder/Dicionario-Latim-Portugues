@@ -1,0 +1,63 @@
+SC1
+Sed contra, omne scitum a Deo est verum.
+Sed quondam verum erat Christum esse moriturum.
+Ergo fuit scitum a Deo.
+SC2
+Item, quidquid est scitum a Deo est verum.
+Ergo cum modo non sit verum Christum esse moriturum, non est scitum a Deo. Non ergo quidquid Deus scivit,
+scit.
+SC3
+Si dicas, quod in processu est figura dictionis, quia mutatur quid in quando, contra: ista solutione posita, remanet
+eadem difficultas: quia mutabitur propositio et dicetur: non quodcumque enuntiabile Deus scivit, scit, ut
+conclusum est. Sed enuntiabile est aliquod scitum. Ergo non quidquid Deus scivit, scit.
+CO
+Respondeo dicendum, quod, sicut supra dictum est, dist. 38, quaest. 1, art. 3, scientia Dei non tantum est rerum,
+sed etiam enuntiabilium.
+Si ergo scientia Dei referatur ad res, sic nulli dubium est quin omnem rem quam Deus scivit, sciat; et sic optime
+procedit solutio Magistri in littera.
+Una enim et eadem res est quae significatur cum diversis temporibus profertur: socrates currit et cucurrit; scilicet
+cursus socratis. Si autem referatur ad enuntiabilia, tunc super hoc fuit duplex opinio.
+Quidam enim dixerunt, quod ad unitatem rei significatae sequitur unitas enuntiabilis, quamvis etiam cum diversa
+consignificatione temporis proferatur; et secundum hoc sequitur quod enuntiabile quod semel est verum, semper
+fuit et est verum; et ita quod semel est scitum a Deo, semper erit scitum ab eo. Sed ista positio expresse
+contrariatur dictis Philosophi in praedicamentis qui dicit, quod eadem propositio, scilicet socrates sedet, quae
+prius erat vera, socrate sedente, eodem surgente efficitur falsa.
+Et praeterea si ab unitate rei enuntiabile haberet unitatem, eadem ratione ex diversitate haberet diversitatem; et
+ita hoc enuntiabile, socratem currere, diversis temporibus prolatum, non esset unum, nec aliquod nomen
+significans diversas res unum esset; et sic periret tam aequivocatio quam univocatio, quarum utraque requirit
+unitatem nominis quod pluribus convenit. Unde ab omnibus modernis conceditur, quod sunt duo diversa
+enuntiabilia, socratem currere et cucurrisse, etiam si ad eumdem cursum referantur. Et secundum hoc
+distinguendum est de enuntiabili. Quia vel potest sumi inquantum est res quaedam rationis quasi materialiter; et
+sic quodcumque enuntiabile scivit, scit: semper enim scit hoc enuntiabile, socratem currere, habere talem
+naturam et tales partes. Vel potest sumi significative, prout per ipsum designatur esse rei cum suis conditionibus
+quae dantur intelligi ex consignificatione verbi; et sic non quodcumque enuntiabile Deus scivit, scit. Scivit enim
+hoc enuntiabile esse verum, Christum crucifigi, cum crucifigebatur; sed non scit modo esse verum, sed fuisse
+verum.
+RA1
+Ad primum ergo dicendum, quod hoc non contingit ex aliqua mutatione facta circa scientiam Dei, sed circa rem
+ipsam. Sicut enim cum dicimus, Deus praescivit Christum moriturum, designatur respectus ad futurum, unde
+quando desinit esse futurum, Deus jam non praescit illud, nulla tamen mutatione in ejus praescientia facta; ita
+etiam cum dicitur, Deus scivit Christum morituram, designatur respectus futuri in participio. Unde re in
+praeteritum transeunte, non manet idem respectus, quo remoto, Deus nescit rem sub tali respectu esse.
+Unde non variatur ejus scientia qui uno intuitu omnia conspicit, sed variatur respectus in natura rei. Contingit
+enim, ut supra dictum est, dist. 36 qu. 1, art. 3, quod in relativis praedicationibus fiat mutatio altero extremorum
+mutato, altero invariabili manente.
+RA2
+Ad secundum dicendum, quod quamvis veritas enuntiabilis causetur ab esse rei, non tamen oportet quod propter
+unitatem rei enuntiabile unitatem habeat, sed veritatem. Unitatem autem habet et diversitatem ex his ex quibus
+essentialiter constituitur, scilicet ex partibus suis; unde cum diversae sint partes horum enuntiabilium, socratem
+currere et cucurrisse, diversa sunt enuntiabilia.
+RA3
+Ad tertium dicendum, quod diversus modus significandi facit etiam diversum nomen; sed quod dicatur idem
+nomen a grammatico, hoc non est quia simpliciter sit unum, cum sint plures voces, albus, alba, album, et
+multiplicato genere, quod est vox, necesse sit multiplicari speciem, quod est nomen; unde ubi multae voces et
+multa nomina; sed dicuntur unum nomen quia pertinent ad idem condeclinium.
+RA4
+Ad quartum dicendum, quod tempus significatum est extra essentiam enuntiabilis; et ideo ab eo enuntiabile non
+concipit unitatem vel diversitatem sed a tempore consignificato: quia propter diversam consignificationem
+temporis sunt diversae terminationes verborum et diversae voces; unde et diversa enuntiabilia.
+RA5
+
+348
+
+

@@ -1,0 +1,58 @@
+Secunda proprietas relatiuorum est quod suscipiunt magis et minus, quamuis non omnia, nam aliqua
+sumpta cum istis aduerbiis 'magis' et 'minus' possunt de aliquo praedicari successiue, sicut aliquid est primo
+magis simile alicui et postea minus simile uel e conuerso. Sed hoc non est possibile de triplo nec de duplo nec de
+aequali, et sic de multis aliis.
+Tertia proprietas est quod omnia relatiua dicuntur ad conuertentiam, hoc est cuicumque relatiuo potest
+addi casus obliquus sui correlatiui, nisi contingat quod nomina nobis deficiant, et tunc licitum est fingere nomen,
+et tunc recto illius potest conuenienter addi obliquus alterius; et obliquus illius potest conuenienter addi recto
+alterius. Sicut si iste sit dominus, oportet quod sit serui dominus; et si sit similis, oportet quod sit simili similis.
+Similiter si 'ala' sit relatiuum, ita quod non sit possibile quod aliquid sit ala nisi sit alicuius ala, tunc licitum est
+fingere nomen sibi correspondens ad quod dicatur secundum conuertentiam ut dicatur quod est ala alati, et e
+conuerso quod alatum est ala alatum. Et sic de omnibus aliis.
+Tertia proprietas est quod omnia relatiua dicuntur ad conuertentiam, hoc est cuicumque relatiuo potest
+addi casus obliquus sui correlatiui, nisi contingat quod nomina nobis deficiant, et tunc licitum est fingere nomen,
+et tunc recto illius potest conuenienter addi obliquus alterius; et obliquus illius potest conuenienter addi recto
+alterius. Sicut si iste sit dominus, oportet quod sit serui dominus; et si sit similis, oportet quod sit simili similis.
+Similiter si 'ala' sit relatiuum, ita quod non sit possibile quod aliquid sit ala nisi sit alicuius ala, tunc licitum est
+fingere nomen sibi correspondens ad quod dicatur secundum conuertentiam ut dicatur quod est ala alati, et e
+conuerso quod alatum est ala alatum. Et sic de omnibus aliis.
+Sciendum est tamen quod aliquando idem nomen ponitur in recto et in obliquo. Et ista uocantur relatiua
+similium nominum siue relationes aequiparantiae, sicut 'omne simile est simili simile' et 'omne aequale est
+aequali aequale' et sic de multis, ubi idem nomen ponitur in recto et in obliquo. Quandoque autem aliud nomen
+ponitur in recto et in obliquo, sicut si sit pater, est filii pater, et non oportet quod sit patris pater; et si est seruus,
+est domini seruus, et non oportet quod sit serui seruus. Et ista uocantur relatiua dissimilium nominum siue
+relatiua disquiparantiae. Hoc tamen generale est quod semper licitum est addere obliquum recto illius relatiui,
+secundum Damascenum Logica sua, cap.29.
+Sciendum est tamen quod aliquando idem nomen ponitur in recto et in obliquo. Et ista uocantur relatiua
+similium nominum siue relationes aequiparantiae, sicut 'omne simile est simili simile' et 'omne aequale est
+aequali aequale' et sic de multis, ubi idem nomen ponitur in recto et in obliquo. Quandoque autem aliud nomen
+ponitur in recto et in obliquo, sicut si sit pater, est filii pater, et non oportet quod sit patris pater; et si est seruus,
+est domini seruus, et non oportet quod sit serui seruus. Et ista uocantur relatiua dissimilium nominum siue
+relatiua disquiparantiae. Hoc tamen generale est quod semper licitum est addere obliquum recto illius relatiui,
+secundum Damascenum Logica sua, cap.29.
+Quarta proprietas relatiuorum est quod relatiua sunt simul natura. Quae est sic intelligenda quod esse
+exsistere non potest uerificari de uno nisi uerificetur de reliquo, si propositio formetur. Sicut si haec sit uera
+'duplum est', haec erit uera 'dimidium est'; et si haec sit uera 'pater est', haec erit uera 'filius est' et e
+conuerso.
+'duplum est', haec erit uera 'dimidium est'; et si haec sit uera 'pater est', haec erit uera 'filius est' et e
+conuerso.
+Et eodem modo intelligendum est quando dicitur quod 'relatiua perempta se perimunt', hoc est si
+negatiua sit uera in qua esse negatur ab uno illorum, alia negatiua erit uera in qua negatur esse a reliquo. Sicut si
+haec sit uera 'pater non est', haec erit uera 'filius non est', et e conuerso.
+Et eodem modo intelligendum est quando dicitur quod 'relatiua perempta se perimunt', hoc est si
+negatiua sit uera in qua esse negatur ab uno illorum, alia negatiua erit uera in qua negatur esse a reliquo. Sicut si
+haec sit uera 'pater non est', haec erit uera 'filius non est', et e conuerso.
+Et est sciendum quod istae regulae non sunt generales, secundum Philosophum in Praedicamentis, nam
+probat ibidem ex intentione quod ista proprietas non conuenit omnibus relatiuis, sicut probat de scientia et scibili
+et sensu et sensibili. Et quamuis non probet de aliis, nec de aliis exemplificet, tamen in multis aliis capit
+instantiam sicut in illis. Nam 'calefactiuum' et
+'calefactibile' sunt correlatiua, et tamen non sequitur 'calefactiuum est, igitur calefactibile est', nec e
+conuerso. Similiter non sequitur
+'dealbabile non est, ergo dealbatiuum non est'. Et ita in multis capit instantiam.
+'dealbabile non est, ergo dealbatiuum non est'. Et ita in multis capit instantiam.
+[1.54. DE RELATIVIS: QUOMODO DICENDUM EST SECUNDUM
+TENENTES CONTRARIAM OPINIONEM, SCILICET QUOD EST
+QUAEDAM RES DISTINCTA A RE ABSOLUTA]
+109
+
+

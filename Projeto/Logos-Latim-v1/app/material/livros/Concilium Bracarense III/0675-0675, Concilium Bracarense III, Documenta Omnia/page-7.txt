@@ -1,0 +1,63 @@
+[155] sententiam W411
+[156] qui V630; V1341; E97
+[157] vela vel] vel ea W411
+[158] indumenta korr. aus indumenti V630
+[159] alii V630
+[160] donenda V630
+[161] Rubrik fehlt E97
+[162] HORATIO W411; ORARIO] ORARIO ID EST STOLA korr. aus ORARIO V1341
+[163] MISSAM fehlt W411
+[164] III fehlt W411; V E97
+[165] Quam W411; Cum E97
+[166] institutionem W411
+[167] oratio V630
+[168] utroque korr. aus utraque V630
+[169] ut qui inperturbatus korr. aus ut qui perturbatus V630
+[170] utrobique] ut ubique W411
+[171] appareat humero korr. aus humero appareat O93
+[172] humero fehlt W411; E97
+[173] adsumat W411
+[174] ut korr. aus et V630; V1341; ut W411; E97
+[175] hoc est] hoc korr. aus hoc est V630; V1341; oc W411
+[176] est fehlt W411; et E97
+[177] retineat et] retem W411
+[178] oblatione vel perceptione] oblationem vel perceptionem W411
+[179] pro E97
+[180] sacrificius korr. aus sacrificium V630
+[181] cumseptus W411
+[182] preparat W411
+[183] excommunicatione W411
+[184] Rubrik fehlt E97
+[185] SACERDOTES SIVE korr. aus SACERDOTES O93
+[186] QU•CUMQUE V1341
+[187] HABITENT korr. aus HABITET V630; HABITET V1341
+[188] IIII fehlt W411; VI E97
+[189] omnem korr. aus omni V630
+[190] sanximus] sancimus his korr. aus sancimus is V630; sancimus is V1341; sancimus E97
+[191] auctori W411
+[192] quique] quisque ille W411
+[193] excepta E97
+[194] adiugere V630
+[195] et fehlt W411
+[196] sed] sed ne W411; sed nec E97
+[197] propinquorum W411
+[198] quisque] quisquis ille W411; E97
+[199] solutus W411; E97; solet V1341
+[200] familiario V630; V1341
+[201] ex W411
+[202] mensibus korr. aus mesibus W411
+[203] Rubrik fehlt E97
+[204] PROCEDENTES korr. aus PRECEDENTES V630; praecedentes W411; V1341
+[205] CELLULIS V1341
+[206] V fehlt W411; V1341; VII E97
+[207] quidem E97
+[208] nec W411
+[209] opus V630; W411; V1341; E97
+[210] dirimendam E97
+[211] cognovimus W411
+[212] et fehlt V630; V1341
+[213] fastum W411; fastus korr. aus festus V1341
+[214] sunt W411
+7
+
+

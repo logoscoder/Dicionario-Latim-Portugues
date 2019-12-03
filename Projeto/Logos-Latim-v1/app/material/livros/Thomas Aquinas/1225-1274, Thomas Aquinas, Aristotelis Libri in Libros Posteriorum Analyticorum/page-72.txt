@@ -1,0 +1,60 @@
+praemissas propositiones, necesse erit quod illi syllogismi procedant ex falsis, quia ex veris non concluditur
+falsum: et ita in sola prima syllogizatione ex falsis concluditur verum. Et hoc manifestat per exemplum. Sit enim
+haec propositio vera, omne c est a: accipiatur autem ad utramque extremitatem medium falsum, quod est b, ita
+scilicet quod neque a insit b, neque b insit c.
+Si accipiantur aliqua media ad probandum praemissas propositiones, omnes propositiones falsorum
+syllogismorum erunt falsae: quia omnis conclusio falsa concluditur ex falsis, sed conclusio vera potest concludi
+ex omnibus veris. Unde quando propositiones praemissae sunt verae, ex quibus concluditur verum, non oportebit
+devenire ad aliquod falsum. Sic igitur, cum aliae sint propositiones verae, et aliae falsae, sequitur quod alia sunt
+principia verorum syllogismorum et alia falsorum.
+|#4 Deinde cum dicit: postea neque falsae ex eisdem etc., ostendit quod nec etiam falsorum syllogismorum sunt
+eadem principia. Contingit enim conclusiones falsas esse contrarias ad invicem, et incompossibiles sibi esse.
+Sicut haec conclusio, iustitia est iniustitia, est incompossibilis huic conclusioni, iustitia est timor, cum utraque sit
+falsa. Timor enim sicut differt genere a iustitia, ita etiam ab iniustitia. Similiter etiam hae duae conclusiones
+falsae sunt contrariae et incompossibiles, homo est equus, et, homo est bos. Et similiter hae duae propositiones
+sunt incompossibiles, aequale est maius, et, aequale est minus. Oportet autem concludere sic esse ex aliquibus,
+quibus positis, ista sequuntur: unde oportet quod sicut ista sunt contraria et incompossibilia, ita etiam principia
+ex quibus concluduntur.
+|#5 Deinde cum dicit: neque etiam verorum etc., ostendit quod nec syllogismorum verorum sunt eadem
+principia, quatuor rationibus. Quarum prima sumitur ex differentia principiorum propriorum; unde dicit quod
+neque etiam verorum syllogismorum sunt eadem principia. Diversorum enim generum diversa principia sunt:
+sicut patet quod magnitudinum principia sunt puncta, numerorum autem unitates; quae non conveniunt sibi
+invicem, quia unitates non habent positionem, puncta vero habent. Si autem principia omnium syllogismorum
+convenirent ad invicem, necesse esset quod vel convenirent in medio, vel sursum ascendendo versus maiorem
+extremitatem, vel deorsum descendendo versus minorem, quia in syllogismis necesse est quod termini vel
+assumantur interius vel exterius. Interius quidem, quando multiplicantur syllogismi ad probandum propositiones
+inductas. Tunc enim necesse est quod accipiantur media, quae sunt inter praedicata propositionum et subiecta.
+Puta si sit talis syllogismus, omne b est a, omne c est b, ergo omne c est a; si oporteat probari omne b est a,
+oportet assumere aliquod medium inter b et a, puta d. Et similiter si debeat probari minor, oportet accipere
+aliquod medium inter c et b, puta e: et sic semper termini assumpti interius habentur.
+Exterius autem assumuntur, quando vel maior extremitas accipitur ut medium ascendendo, vel minor
+descendendo: puta si a concludatur de c per b, et iterum c concludatur de b per a; et sic inde. Similiter etiam
+proceditur descendendo, si b concludatur de f per c. Necesse est ergo in syllogismis communicantibus in
+principiis, vel quod accipiatur medium unius syllogismi supra propositiones alterius syllogismi; vel accipiantur
+extrema unius syllogismi supra vel infra extrema alterius syllogismi. Sed hoc non potest esse in rebus quarum
+sunt principia diversa: quia puncta non possunt accipi neque ut media, neque ut extrema in syllogismis in quibus
+concluditur aliquid de numero; neque unitates in syllogismis in quibus concluditur aliquid de magnitudinibus.
+Relinquitur ergo quod non possunt esse eadem principia omnium syllogismorum.
+|#6
+Secunda ratio ponitur ibi: sed neque communium principiorum etc., quae sumitur ex principiis
+communibus; et dicit quod non possunt esse aliqua principia communia, ex quibus solum omnia syllogizentur,
+sicut hoc est principium commune, de quolibet est affirmatio vel negatio; quod quidem communiter est verum in
+omni genere; non tamen est possibile, quod ex solis aliquibus taliter communibus possint omnia syllogizari: quia
+genera entium sunt diversa, et diversa sunt principia quae sunt solum quantitatum principia, ab his quae solum
+sunt principia qualitatum; quae oportet coassumere principiis communibus ad concludendum in qualibet materia.
+Puta si in quantitatibus oporteat ex dicto principio communi syllogizare, oportet accipere quod, cum haec sit
+falsa, punctus est linea, oportet hanc esse veram, punctus non est linea. Et similiter in qualitatibus oportet
+coassumere aliquid proprium qualitati. Unde relinquitur quod impossibile sit esse eadem principia omnium
+syllogismorum.
+|#7 Tertiam rationem ponit ibi: amplius principia non multo etc., quae sumitur ex comparatione praemissarum
+ad conclusiones; et dicit quod principia non sunt multum pauciora conclusionibus.
+Sunt quidem pauciora, quia, quamvis ad unam conclusionem inferendam duo principia, idest duae propositiones
+requirantur, quia una conclusio non concluditur immediate nisi ex duabus; tamen una propositione potest quis uti
+ad inferendum plurimas conclusiones, secundum quod sub subiecto aut sub praedicato multa accipi possunt.
+Non tamen sunt multo pauciora principia quam conclusiones; quia plurima eorum quae principiis coassumuntur
+ad conclusiones. Principia enim propositiones hic appellantur: propositiones autem aut assumpti termini aut
+immissi sunt; idest propositiones in syllogismis multiplicantur, aut assumendo terminos extrinsecus, vel supra
+maiorem extremitatem et infra minorem, ut supra dictum est, aut accipiendo terminos qui sunt in medio.
+72
+
+

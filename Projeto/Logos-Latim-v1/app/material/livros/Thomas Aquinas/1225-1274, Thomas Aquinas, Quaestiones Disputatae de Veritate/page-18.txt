@@ -1,0 +1,63 @@
+Istum enim fornicari est verum; sed hoc non est a veritate prima. Ergo non omnis veritas est a veritate prima.
+AG2
+Sed dicebat, quod veritas signi vel intellectus, secundum quam hoc dicitur verum, est a Deo, non autem
+secundum quod refertur ad rem. Sed contra, praeter veritatem primam non solum est veritas signi, aut intellectus,
+sed etiam est veritas rei. Si ergo hoc verum non sit a Deo secundum quod refertur ad rem, haec veritas rei non
+erit a Deo; et sic habetur propositum, quod non omnis veritas alia sit a Deo.
+AG3
+Praeterea, sequitur: iste fornicatur; ergo istum fornicari est verum; ut fiat descensus a veritate propositionis ad
+veritatem dicti, quae exprimit veritatem rei. Ergo veritas praedicta consistit in hoc quod iste actus componitur isti
+subiecto. Sed veritas dicti non esset ex compositione talis actus cum subiecto, nisi intelligeretur compositio actus
+sub deformitate existentis. Ergo veritas rei non solum est quantum ad ipsam essentiam actus, sed etiam quantum
+ad deformitatem. Sed actus sub deformitate consideratus nullo modo est a Deo. Ergo non omnis veritas rei est a
+Deo.
+AG4
+Praeterea, Anselmus dicit, quod res dicitur vera secundum quod est ut debet esse; et inter modos quibus potest
+dici quod debet esse res, ponit unum, secundum quem dicitur, quod res debet esse, quia Deo permittente accidit.
+Sed permissio Dei extendit se etiam ad deformitatem actus. Ergo veritas rei etiam ad deformitatem illam
+pertingit. Sed deformitas illa nullo modo est a Deo. Ergo non omnis veritas est a Deo.
+AG5
+Sed dicebat, quod sicut deformitas, vel privatio dicitur ens non simpliciter, sed secundum quid, ita et dicitur
+habere veritatem, non simpliciter, sed secundum quid; et talis veritas secundum quid non est a Deo. Sed contra,
+verum addit supra ens ordinem ad intellectum. Sed deformitas vel privatio, quamvis in se non sit simpliciter ens,
+tamen est simpliciter apprehensa per intellectum. Ergo, quamvis non habeat simpliciter entitatem, habet tamen
+simpliciter veritatem.
+AG6
+Praeterea, omne secundum quid ad simpliciter reducitur; sicut hoc quod est Aethiopem esse album dente,
+reducitur ad hoc, quod est dentem Aethiopis esse album simpliciter. Si ergo aliqua veritas secundum quid, non
+est a Deo, non omnis simpliciter veritas erit a Deo; quod est absurdum.
+AG7
+Praeterea, quod non est causa causae, non est causa effectus; sicut Deus non est causa deformitatis peccati, quia
+non est causa defectus in libero arbitrio, ex quo deformitas peccati accidit. Sed sicut esse est causa veritatis
+affirmativarum propositionum, ita non esse negativarum. Cum ergo Deus non sit causa eius quod est non esse, ut
+dicit Augustinus in Lib. Lxxxiii quaestionum, relinquitur quod Deus non sit causa negativarum propositionum; et
+sic non omnis veritas est a Deo.
+AG8
+Praeterea, Augustinus dicit in libro solil.
+Quod verum est quod ita se habet ut videtur. Sed malum aliquod ita se habet ut videtur. Ergo aliquod malum est
+verum. Sed nullum malum est a Deo. Ergo non omne verum est a Deo.
+AG9
+Sed dicebat, quod malum non videtur per speciem mali, sed per speciem boni.
+Sed contra. Species boni nunquam facit apparere nisi bonum. Si ergo malum non videtur nisi per speciem boni,
+nunquam appareret malum nisi bonum; quod est falsum.
+SC1
+Sed contra. I Cor. Super illud, nemo potest dicere etc., dicit Ambrosius: omne verum, a quocumque dicatur, a
+spiritu sancto est.
+SC2
+Praeterea, omnis bonitas creata, est a prima bonitate increata, quae est Deus. Ergo eadem ratione omnis alia
+veritas est a prima veritate, quae est Deus.
+SC3
+Praeterea, ratio veritatis completur in intellectu. Sed omnis intellectus est a Deo.
+Ergo omnis veritas est a Deo.
+SC4
+Praeterea, Augustinus in Lib. Solil.
+Dicit quod verum est id quod est.
+Sed omne esse est a Deo. Ergo omnis veritas.
+SC5
+Praeterea, sicut verum convertitur cum ente, ita et unum et e converso. Sed omnis unitas est a prima unitate ut
+dicit Augustinus in libro de vera religione; ergo et omnis veritas est a prima veritate.
+CO
+
+18
+
+

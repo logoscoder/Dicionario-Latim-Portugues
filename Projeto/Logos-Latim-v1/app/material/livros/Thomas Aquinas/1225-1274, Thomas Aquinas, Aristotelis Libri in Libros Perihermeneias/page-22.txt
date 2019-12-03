@@ -1,0 +1,57 @@
+|#7 Deinde cum dicit: et sit hoc contradictio etc., manifestat quae sit absoluta oppositio affirmationis et
+negationis.
+Et primo, manifestat eam per nomen; secundo, per definitionem; ibi: dico autem etc..
+Dicit ergo primo quod cum cuilibet affirmationi opponatur negatio, et e converso, oppositioni huiusmodi
+imponatur nomen hoc, quod dicatur contradictio. Per hoc enim quod dicitur, et sit hoc contradictio, datur intelligi
+quod ipsum nomen contradictionis ipse imposuerit oppositioni affirmationis et negationis, ut Ammonius dicit.
+|#8 Deinde cum dicit: dico autem opponi etc., definit contradictionem. Quia vero, ut dictum est, contradictio est
+oppositio affirmationis et negationis, illa requiruntur ad contradictionem, quae requiruntur ad oppositionem
+affirmationis et negationis. Oportet autem opposita esse circa idem.
+Et quia enunciatio constituitur ex subiecto et praedicato, requiritur ad contradictionem primo quidem quod
+affirmatio et negatio sint eiusdem praedicati: si enim dicatur, Plato currit, Plato non disputat, non est
+contradictio; secundo, requiritur quod sint de eodem subiecto: si enim dicatur, socrates currit, Plato non currit,
+non est contradictio. Tertio, requiritur quod identitas subiecti et praedicati non solum sit secundum nomen, sed
+sit simul secundum rem et nomen. Nam si non sit idem nomen, manifestum est quod non sit una et eadem
+enunciatio.
+Similiter autem ad hoc quod sit enunciatio una, requiritur identitas rei: dictum est enim supra quod enunciatio
+una est, quae unum de uno significat; et ideo subdit: non autem aequivoce, idest non sufficit identitas nominis
+cum diversitate rei, quae facit aequivocationem.
+|#9 Sunt autem et quaedam alia in contradictione observanda ad hoc quod tollatur omnis diversitas, praeter eam
+quae est affirmationis et negationis: non enim esset oppositio si non omnino idem negaret negatio quod
+affirmavit affirmatio. Haec autem diversitas potest secundum quatuor considerari.
+Uno quidem modo, secundum diversas partes subiecti: non enim est contradictio si dicatur, Aethiops est albus
+dente et non est albus pede. Secundo, si sit diversus modus ex parte praedicati: non enim est contradictio si
+dicatur, socrates currit tarde et non movetur velociter; vel si dicatur, ovum est animal in potentia et non est
+animal in actu.
+Tertio, si sit diversitas ex parte mensurae, puta loci vel temporis; non enim est contradictio si dicatur, pluit in
+Gallia et non pluit in Italia; aut, pluit heri, hodie non pluit.
+Quarto, si sit diversitas ex habitudine ad aliquid extrinsecum; puta si dicatur, decem homines esse plures quoad
+domum, non autem quoad forum.
+Et haec omnia designat cum subdit: et quaecumque caetera talium determinavimus, idest determinare
+consuevimus in disputationibus contra sophisticas importunitates, idest contra importunas et litigiosas
+oppositiones sophistarum, de quibus plenius facit mentionem in I elenchorum.
+|+10 Lectio 10
+|#1 Quia Philosophus dixerat oppositionem affirmationis et negationis esse contradictionem, quae est eiusdem
+de eodem, consequenter intendit distinguere diversas oppositiones affirmationis et negationis, ut cognoscatur
+quae sit vera contradictio.
+Et circa hoc duo facit: primo, praemittit quamdam divisionem enunciationum necessariam ad praedictam
+differentiam oppositionum assignandam; secundo, manifestat propositum; ibi: si ergo universaliter etc..
+Praemittit autem divisionem enunciationum quae sumitur secundum differentiam subiecti.
+Unde circa primum duo facit: primo, dividit subiectum enunciationum; secundo, concludit divisionem
+enunciationum, ibi: necesse est enunciare etc..
+|#2 Subiectum autem enunciationis est nomen vel aliquid loco nominis sumptum.
+Nomen autem est vox significativa ad placitum simplicis intellectus, quod est similitudo rei; et ideo subiectum
+enunciationis distinguit per divisionem rerum, et dicit quod rerum quaedam sunt universalia, quaedam sunt
+singularia.
+Manifestat autem membra divisionis dupliciter: primo quidem per definitionem, quia universale est quod est
+aptum natum de pluribus praedicari, singulare vero quod non est aptum natum praedicari de pluribus, sed de uno
+solo; secundo, manifestat per exemplum cum subdit quod homo est universale, Plato autem singulare.
+|#3 Accidit autem dubitatio circa hanc divisionem, quia, sicut probat Philosophus in VII metaphysicae,
+universale non est aliquid extra res existens. Item, in praedicamentis dicitur quod secundae substantiae non sunt
+nisi in primis, quae sunt singulares.
+Non ergo videtur esse conveniens divisio rerum per universalia et singularia: quia nullae res videntur esse
+universales, sed omnes sunt singulares.
+
+22
+
+

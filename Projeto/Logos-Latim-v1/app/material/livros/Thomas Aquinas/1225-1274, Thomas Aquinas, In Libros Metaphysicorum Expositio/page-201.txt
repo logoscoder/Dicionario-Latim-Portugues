@@ -1,0 +1,62 @@
+Deinde cum dicit circa mathematica solvit quaestionem quantum ad mathematica. Videtur enim post solutionem de
+naturalibus positam, adhuc relinqui sub dubio de mathematicis. Dixerat enim quod, cum animal sit sensibile, non potest
+definiri sine partibus sensibilibus, sicut circulus potest definiri sine aere, quod est sensibilis materia. Et ideo circa
+mathematica quaeritur quare rationes, idest definitiones partium, non sunt partes rationum totorum, sicut quare
+hemicycla, idest semicirculi, non ponuntur in definitione circuli. Non enim potest dici, quod haec, scilicet hemicycla,
+sint sensibilia, sicut aes est sensibilis materia.
+[83092] In Metaphysic., lib. 7 l. 11 n. 21
+Sed solvit quod hoc nihil differt quantum ad propositum, utrum scilicet partes materiae sint sensibilia vel non
+sensibilia; quia etiam non sensibilium est aliqua materia intelligibilis. Et talis materia, quae scilicet non est pars speciei,
+est omnis eius quod non est quod quid erat esse et species eadem secundum se, sed est hoc aliquid, idest particulare
+aliquod demonstratum: quasi dicat: in omni eo quod non est ipsa sua species, sed est aliquod individuum determinatum
+in specie, oportet esse aliquas partes materiae quae non sunt partes speciei. Socrates enim, quia non est ipsa sua
+humanitas, sed est habens humanitatem, ideo habet in se partes materiales quae non sunt partes speciei, sed quae sunt
+partes huius materiae individualis quae est individuationis principium, ut has carnes et haec ossa.
+[83093] In Metaphysic., lib. 7 l. 11 n. 22
+Et similiter in hoc circulo sunt hae lineae quae non sunt partes speciei. Unde patet quod huiusmodi non sunt partes
+circuli qui est universalis, sed sunt partes singularium circulorum, sicut dictum est prius. Et propter hoc semicirculi non
+ponuntur in definitione circuli universalis, quia sunt partes singularium circulorum, et non universalis. Et hoc est verum
+tam in materia sensibili, quam in materia intelligibili. Utroque enim modo invenitur materia, ut ex dictis patet. Si autem
+esset aliquod individuum quod esset ipsa sua species, sicut si Socrates esset ipsa sua humanitas, non essent in Socrate
+aliquae partes quae non essent partes humanitatis.
+[83094] In Metaphysic., lib. 7 l. 11 n. 23
+Deinde cum dicit palam autem recolligit praedictam solutionem, exemplificando eam in animali; dicens, palam esse
+quod anima est substantia prima, idest forma animalis, corpus autem materia, homo autem aut animal id quod est ex
+utrisque, scilicet in universali, sed Socrates et Coriscus quod est ex utrisque in particulari. Quia anima dicitur dupliciter,
+scilicet in universali et particulari, ut anima et haec anima. Ideo autem oportet quod significatur per modum totius, dici
+universaliter et singulariter, ea ratione quia anima dicitur dupliciter: quia hoc competit secundum utramque opinionem
+hominum de anima. Sicut enim supra dictum est, alii dicunt hominem et animal esse animam, alii vero dicunt hominem
+et animal non esse animam, sed totum, scilicet compositum ex anima et corpore.
+[83095] In Metaphysic., lib. 7 l. 11 n. 24
+Patet ergo quod secundum illam opinionem quae dicit hominem esse animam, anima dicitur universaliter et
+singulariter, ut anima et haec anima; et homo etiam dicitur universaliter et particulariter sive singulariter, scilicet homo
+et hic homo. Similiter etiam secundum hanc opinionem, quae dicit hominem esse compositum ex anima et corpore,
+sequitur quod si simplicia dicuntur universaliter et singulariter, quod etiam compositum dicatur universaliter et
+singulariter. Sicut si anima est hoc, et corpus est hoc, quae sunt simpliciter dicta tamquam partes compositi, quod etiam
+dicatur universale et particulare sive singulare, non solum partes, sed etiam compositum.
+[83096] In Metaphysic., lib. 7 l. 11 n. 25
+Deinde cum dicit utrum autem ostendit quid de cetero remaneat determinandum circa substantias. Et ponit quod duo
+remaneant determinanda. Quorum primum est quod, cum determinatum sit, quod substantia et quod quid est rerum
+sensibilium et materialium sunt ipsae partes speciei, restat determinare utrum talium substantiarum, scilicet materialium
+et sensibilium, sit aliqua substantia praeter materiam, ita quod oporteat quaerere aliquam substantiam istorum
+sensibilium alteram ab ea quae determinata est, sicut quidam dicunt numeros praeter materiam existentes, aut aliquid
+tale, idest species vel ideas, esse substantias horum sensibilium. Et de hoc perscrutandum est posterius.
+[83097] In Metaphysic., lib. 7 l. 11 n. 26
+Haec enim perscrutatio est propria huic scientiae. In hac enim scientia tentamus determinare de substantiis sensibilibus
+huius gratia, idest propter substantias immateriales, quia speculatio circa substantias sensibiles et materiales
+quodammodo pertinet ad physicam, quae non est prima philosophia, sed secunda, sicut in quarto habitum est. Prima
+enim philosophia est de primis substantiis quae sunt substantiae immateriales, de quibus speculatur non solum
+inquantum sunt substantiae, sed inquantum substantiae tales, inquantum scilicet immateriales. De sensibilibus vero
+substantiis non speculatur inquantum sunt tales substantiae, sed inquantum sunt substantiae, aut etiam entia, vel
+inquantum per eas manuducimur in cognitionem substantiarum immaterialium. Physicus vero e converso determinat de
+substantiis materialibus, non inquantum sunt substantiae, sed inquantum materiales et habentes in se principium motus.
+[83098] In Metaphysic., lib. 7 l. 11 n. 27
+Et quia posset aliquis credere quod scientia naturalis non specularetur circa totas substantias materiales et sensibiles,
+sed solum circa materias eorum, ideo hoc removet dicens, quod physicum non solum oportet considerare de materia,
+sed etiam de ea parte quae est secundum rationem, scilicet de forma. Et magis etiam de forma quam de materia, quia
+forma est magis natura quam materia, ut probatum est in secundo physicorum.
+[83099] In Metaphysic., lib. 7 l. 11 n. 28
+Secundum vero quod restat determinandum, est quomodo partes quae sunt in ratione, idest in definitione se habent;
+utrum scilicet sint substantiae existentes in actu, et quare etiam definitio, cum componatur ex multis partibus, est una
+
+

@@ -1,0 +1,63 @@
+Septimo quaeritur utrum accidentia habeant ideam in Deo.
+TTB
+Et videtur quod non.
+AG1
+Quia idea non est nisi ad cognoscendum et ad causandum res. Sed accidens cognoscitur per substantiam, et ex
+eius principiis causatur.
+Ergo non oportet quod in Deo ideam habeat.
+AG2
+Sed dicebat, quod accidens cognoscitur per substantiam cognitione quia est, non autem cognitione quid est. Sed
+contra, quod quid est significat definitio rei, et maxime ratione generis. Sed in definitionibus accidentium ponitur
+substantia, ut dicitur VII metaphysicor., et subiectum, ita quod subiectum ponitur loco generis, ut Commentator
+ibidem dicit, ut cum dicitur: simum est nasus curvus. Ergo etiam quantum ad cognitionem quid est accidens per
+substantiam cognoscitur.
+AG3
+Praeterea, omne quod habet ideam, est participativum ipsius. Sed accidentia nihil participant; cum participare sit
+tantum substantiarum, quae aliquid recipere possunt; ergo non habent ideam.
+AG4
+Praeterea, in illis quae dicuntur per prius et posterius, non est accipere ideam communem, sicut in numeris et
+figuris, secundum opinionem Platonis, ut patet in III metaphys.
+Et in I ethic.; et hoc ideo quia primum est quasi idea secundi.
+Sed ens dicitur de substantia et accidente per prius et posterius. Ergo accidens non habet ideam sed substantia est
+ei loco ideae.
+SC1
+Sed contra. Omne quod est causatum a Deo, habet ideam in ipso. Sed Deus causa est non solum substantiarum,
+sed etiam accidentium.
+Ergo accidentia habent ideam in Deo.
+SC2
+Praeterea, omne quod est in aliquo genere, oportet reduci in primum illius generis, sicut omne calidum ad
+calidum ignis. Sed ideae sunt principales formae, ut Augustinus dicit in libro LXXXIII quaestionum.
+Ergo, cum accidentia sint formae quaedam, videtur quod habeant ideas in Deo.
+CO
+Responsio. Dicendum, quod Plato, qui primus introduxit ideas, non posuit ideas accidentium, sed solum
+substantiarum, ut patet per Philosophum in I metaphys..
+Cuius ratio fuit, quia Plato posuit ideas esse proximas causas rerum; unde illud cui inveniebat proximam causam
+praeter ideam, non ponebat habere ideam; et inde est quod ponebat, in his quae dicuntur per prius et posterius,
+non esse communem ideam, sed primum esse ideam secundi. Et hanc etiam opinionem tangit dionysius, in V
+cap. De divinis nominibus, imponens eam cuidam clementi Philosopho, qui dicebat, superiora in entibus esse
+inferiorum exemplaria; et hac ratione, cum accidens immediate a substantia causetur, accidentium ideas Plato
+non posuit.
+Sed quia nos ponimus Deum immediatam causam uniuscuiusque rei secundum quod in omnibus causis secundis
+operatur, et quod omnes effectus secundi ex eius praedefinitione proveniant: ideo non solum primorum entium,
+sed etiam secundorum in eo ideas ponimus et sic substantiarum et accidentium; sed diversorum accidentium
+diversimode.
+Quaedam enim sunt accidentia propria ex principiis subiecti causata, quae secundum esse nunquam a suis
+subiectis separantur. Et huiusmodi una operatione in esse producuntur cum suo subiecto. Unde, cum idea,
+proprie loquendo, sit forma rei operabilis inquantum huiusmodi, non erit talium accidentium idea distincta, sed
+subiecti cum omnibus accidentibus eius erit una idea; sicut aedificator unam formam habet de domo et omnibus
+quae domui accidunt inquantum huiusmodi, per quam, domum cum omnibus talibus suis accidentibus simul in
+esse producit, cuiusmodi accidens est quadratura ipsius, et alia huiusmodi.
+Quaedam vero sunt accidentia, quae non sequuntur inseparabiliter suum subiectum, nec ex eius principiis
+dependent. Et talia producuntur in esse alia operatione praeter operationem qua producitur subiectum; sicut non
+ex hoc ipso quod homo fit homo sequitur quod sit grammaticus, sed per aliquam aliam operationem. Et talium
+accidentium est idea in Deo distincta ab idea subiecti, sicut etiam artifex concipit formam picturae domus praeter
+formam domus.
+Sed si large accipiamus ideam pro similitudine vel ratione, sic utraque accidentia habent ideam distinctam in
+Deo, quia per se distincte considerari possunt; unde et Philosophus dicit in I metaphysic., quod quantum ad
+rationem sciendi, accidentia debent habere ideam sicut et substantiae; sed quantum ad alia, propter quae Plato
+ponebat ideas, ut scilicet essent causae generationis et essendi, ideae videntur esse substantiarum tantum.
+RA1
+
+79
+
+

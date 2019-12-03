@@ -1,0 +1,63 @@
+Praeterea, appetitus est rei non habitae, secundum Augustinum. Sed in animalibus iam per cognitionem bonum
+habetur. Ergo cognitionem boni non sequitur in animalibus aliquis appetitus qui specialem requirat potentiam.
+AG5
+Praeterea, specialis potentia ordinatur ad specialem actum, non autem ad actum communem omnibus animae
+potentiis. Sed appetere bonum est commune omnibus potentiis animae; quod patet ex hoc quod quaelibet
+potentia appetit suum obiectum, et delectatur in ipso. Ergo appetitus non est specialis potentia animae.
+AG6
+Praeterea, si potentia appetitiva appetit bonum: aut appetit bonum communiter, aut bonum sibi. Si autem appetat
+bonum communiter; cum omnis potentia alia appetat aliquod bonum particulare, appetitiva potentia non erit
+specialis potentia, sed universalis. Si autem appetat bonum sibi; cum etiam quaelibet alia potentia sibi bonum
+appetat, pari ratione quaelibet alia potentia dici poterit appetitus. Ergo non erit aliqua potentia quae specialiter
+debeat dici appetitus.
+SC
+Sed contra. Est quod Philosophus appetitivum posuit specialem potentiam animae in Lib. III de anima.
+CO
+Responsio. Dicendum, quod appetitus est specialis potentia animae.
+Ad cuius evidentiam sciendum est, quod cum potentiae animae ordinentur ad opera quae sunt animatorum
+propria; secundum hoc aliqua operatio habet quod ad eam specialis potentia animae deputetur, quod ipsa est
+propria operatio animati.
+Invenitur autem aliqua operatio quae secundum unum modum est communis et animatis et non animatis: sed
+secundum alium modum est animatorum propria; sicut moveri et generari.
+Res enim spirituales absolute habent naturam ut moveant, sed non ut moveantur.
+Corpora autem moventur quidem; et quamvis unum possit alterum movere, non tamen aliquod eorum potest
+movere seipsum; quia illa quae movent seipsa, ut probatur in VIII physic., dividuntur in duas partes, quarum una
+est movens, et alia mota.
+Quod quidem in rebus pure corporalibus esse non potest; quia formae earum non possunt esse moventes,
+quamvis possint esse motus principium, ut quo aliquid movetur; sicut in motu terrae gravitas est principium quo
+movetur, non tamen est motor. Et hoc contingit tum propter simplicitatem corporum inanimatorum, quae non
+habent tantam diversitatem in partibus ut una pars possit esse movens et alia mota; tum etiam propter
+ignobilitatem et materialitatem formarum. Quae quia longe distant a formis separatis, quarum est movere, non
+retinent ut movere possint, sed solum ut sint motus principia.
+Res vero animatae sunt compositae ex natura spirituali et corporali; unde potest esse in eis una pars movens et
+alia mota, tam secundum motum localem, quam secundum alios motus.
+Et ideo, in quantum moveri efficitur hoc modo propria actio ipsorum animatorum, ut ipsa seipsa moveant ad
+determinatas species motus: inveniuntur in animalibus speciales potentiae ordinatae; sicut ad motum localem in
+animalibus vis motiva, in plantis vero et in animalibus communiter vis augmentativa ad motum augmenti,
+nutritiva ad motum alterationis, generativa ad motum generationis.
+Similiter etiam appetere, quod quodammodo commune est omnibus, fit quodammodo speciale animatis, scilicet
+animalibus, in quantum in eis invenitur et appetitus, et movens appetitum.
+Ipsum enim bonum apprehensum est movens appetitum, secundum Philosophum in Lib. III de anima.
+Unde, sicut animalia moventur ex se prae aliis, ita et appetunt ex se. Et propter hoc, sicut vis motiva est specialis
+potentia in anima, ita et vis appetitiva.
+RA1
+Ad primum igitur patet solutio per iam dictis.
+RA2
+Ad secundum dicendum, quod quia animalia nata sunt participare divinam bonitatem eminentius ceteris
+inferioribus rebus, inde est quod indigent multis operationibus et auxiliis ad suam perfectionem; sicut qui potest
+consequi perfectam sanitatem multis exercitiis, est propinquior sanitati quam ille qui non potest percipere nisi
+modicam sanitatem, et ob hoc non indiget nisi modico exercitio, secundum exemplum Philosophi in II caeli et
+mundi.
+Et ideo, cum appetitus naturalis sit determinatus ad unum, nec possit esse multiformis, ut in tot diversa se
+extendat quot animalia indigent; necessarium fuit ut animalibus superadderetur appetitus animalis consequens
+apprehensionem, ut ex multitudine apprehensorum, animal in diversa ferretur.
+RA3
+Ad tertium dicendum, quod quamvis bonum appetatur tam per appetitum naturalem quam per appetitum
+animalem, tamen per naturalem appetitum non appetit aliquid bonum ex seipso, sicut per animalem; et ideo ad
+appetendum bonum appetitu animali exigitur potentia, quae non exigitur ad appetendum per appetitum
+naturalem. Et propterea bonum in quod tendit appetitus naturalis, est determinatum et uniforme; non autem est
+ita de bono quod appetitur per appetitum animalem. Et potest simile induci de virtute motiva.
+RA4
+438
+
+

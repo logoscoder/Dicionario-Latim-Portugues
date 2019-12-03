@@ -1,0 +1,60 @@
+peruestiganda est rimandaque ulterius disciplina, eaque cum agnitione percepta sit, usu atque exercitatione firmanda.
+Magnum enim aliquid locorum [1182D] consideratio pollicetur, scilicet inueniendi uias. Quod quidem hi qui sunt huius
+rationis expertes soli prorsus deputant ingenio, neque intelligunt quantum hac consideratione quaeratur quae in artem
+redigit uim et potestatem naturae.
+Sed de his hactenus. Nunc de reliquis explicemus.
+LIBER SECUNDUS
+[1181D] Omnia quidem quae superioris serie uoluminis expedita sunt, minus quibusdam forsitan eruditis
+superuacanea quodammodo et quasi dependentia uidebuntur. Nam cum de differentiis topicis librorum [1182D] titulum
+legerint, omissis doctrinae gradibus statim finem operis attendunt. Mihi autem necessarium uidetur quod, nisi sit
+praecognitum, ad ulteriora discentis animus peruenire non possit, hi quoque qui [1183A] nunc omnem primi uoluminis
+disputationem superfluam putant, si cuncta perlegant contextioremque operis mente ac ratione collustrent, desinent
+profecto iudicare superfluum, quod necessario uiderint in parte operis collocatum.
+Atque haec hactenus. Sed quoniam de his quae antea posuimus, id est de propositione, quaestione,
+conclusione, argumento sufficienter dictum est, nunc de argumentatione tractemus.
+Argumentatio est per orationem argumenti explicatio. Huius autem species duae sunt, una quae syllogismus,
+altera quae uocatur inductio.
+Syllogismus est oratio in qua quibusdam positis est concessis, aliud quiddam per ea ipsa quae concessa sunt,
+euenire necesse est, quam sint ipsa quae concessa sunt. Huius definitionis rationem secundus quidem [1183B] liber
+eorum quibus institutionem in Categoricos scripsimus Syllogismos plene continet. Sed propter intellectus facililatem
+idem breuiter aperiemus exemplo. Sit enim syllogismus hic: omnis homo animal est, omne animal substantia est, omnis
+igitur homo substantia est. Totum igitur hoc oratio est in qua positis quibusdam et concessis, id est duabus
+propositionibus quae sunt, omnis homo animal est, et omne animal substantia est, per ea ipsa quae concessa sunt,
+efficitur aliud aliquod, id scilicet quod est conclusio, omnis igitur homo substantia est. Per propositiones enim quae
+concessae sunt, sequentia necessario conclusionis infertur. Sunt autem propositiones hae: omnis homo animal est, et
+omne animal substantia est, atque ex his efficitur aliud quiddam [1183C] quam sunt ipsa quae concessa sunt.
+Concluditur enim: igitur omnis homo substantia est, quod longe diuersum est, et ab ea propositione quae dicit: omnis
+homo animal est, et ab ea quae proponit, omne animal esse substantiam.
+Syllogismorum uero alii praedicatiui sunt, qui categorici uocantur, alii conditionales, quos hypotheticos
+dicimus. Et praedicatiui quidem sunt, qui ex omnibus praedicatiuis propositionibus connectuntur, ut is quem exempli
+gratia superius annotaui, omnibus enim praedicatiuis propositionibus texitur. Hypothetici uero sunt quorum
+propositiones conditione nectuntur, ut hic:
+Si dies est, lux est
+est autem dies, lux igitur est; propositio enim prima conditionem tenet hanc, quoniam ita demum lux est, si
+dies est. Atque ideo syllogismus hic hypotheticus, [1183D] id est, conditionalis uocatur.
+Inductio uero est oratio per quam fit a particularibus ad uniuersalia progressio, hoc modo: Si in regendis
+nauibus non sorte sed arte, et igitur gubernator; si in regendis equis auriga non sortis euentu sed artis, commendatione
+assumitur; si in administranda republica non sors principem facit sed peritia moderandi, similisque in pluribus
+conquiruntur, quibus infertur, et in omni quoque re quam quisque regi atque administrari grauiter uolet, non sorte
+accommodat sed arte rectorem. Vides igitur quomodo per singulas res currat oratio, ut ad uniuersale perueniat. Nam
+cum non sorte regi sed arte, nauim, currum et rempublicam collegisset, quasi in caeteris quoque ita sese res habeat,
+quod [1184A] uniuersale erat concludit hoc modo, in omnibus quoque rebus, non sorte ductum sed arte principem
+debere praeponi.
+Saepe autem multorum collecta particularitas aliud quiddam particulare demonstrat, ut si quis sic dicat: Si
+neque nauibus, neque curribus, neque agris sorte praeponuntur rectores, ne rebus quidem publicis rectores sorte ducendi
+sunt.
+Quod argumentationis genus maxime solet esse probabile, etsi non aequam syllogismo habeat firmitatem.
+Syllogismus namque ab uniuersalibus in particularia decurrit, estque in eo, si ueris propositionibus contexatur, firma
+atque incommutabilis ueritas. At inductio quidem habet maximam probabilitatem sed interdum ueritate deficit, ut in
+hac: Qui scit canere cantor est, et qui luctari luctator est, quique aedificare [1184B] aedificator est. Quibus multis simili
+ratione collectis inferri potest, qui scit igitur malum malus est, quod non procedit. Mali quippe notitia deesse bono non
+potest, uirtus enim sese diligit et aspernatur contraria, nec uitare uitium nisi cognitum queat.
+His igitur duobus uelut principiis et generibus argumentandi, duo quidem alii deprehenduntur argumentationis
+modi, unus quidem syllogismo, alter uero inductioni suppositus; in quibus quidem promptum sit considerare quod ille
+quidem a syllogismo, ille uero ab inductione ducat exordium, non tamen aut hic syllogismum, aut ille impleat
+inductionem. Hi autem sunt enthymema atque exemplum.
+Enthymema quippe est imperfectus syllogismus, id est oratio in qua non omnibus antea propositionibus
+constitutis [1184C] infertur festinata conclusio, ut si quis ita dicat: homo animal est, substantia igitur est. Praetermisit
+enim alteram propositionem qua proponitur, omne animal est subtantia. Ergo quoniam enthymema ab uniuersalibus ad
+
+

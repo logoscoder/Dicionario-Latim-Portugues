@@ -1,0 +1,62 @@
+Apprehensio autem fit secundum potestatem apprehendentis; et ideo ea quae sunt simplicia intellectus noster
+enuntiat per modum cujusdam compositionis; sicut e contrario Deus intelligit res compositas modo simplici: et
+inde est quod intellectus noster de Deo format propositiones ad modum rerum compositarum, a quibus
+naturaliter cognitionem accipit.
+RA1
+Ad primum ergo dicendum, quod intellectus noster deficit a cognitione divinae majestatis, similiter etiam et
+enuntiatio deficit a significatione perfecta; nihilominus tamen est veritas, inquantum intellectus formans
+enuntiationem accipit duo quae sunt diversa secundum modum et idem secundum rem.
+Unde secundum diversitatem rationum format praedicatum et subjectum, et secundum identitatem componit.
+RA2
+Ad secundum dicendum, quod affirmativae propositiones pro tanto dicuntur incompactae in divinis, quia nihil
+eorum quae praedicantur de ipso significant ipsum per modum quo ipse est, sed per modum quo intellectus
+noster accipit ex rebus creatis informatus. Unde oportet quod nomina illa praedicata de Deo intelligantur
+praedicari remotis illis modis quibus de creaturis praedicantur. Unde dionysius omnes divinas praedicationes ita
+docet exponere: Deus est sapiens, et non sapiens, scilicet sicut alia, ut differat in eo sapientia a sapiente; sed est
+supersapiens, inquantum est in ipso nobiliori modo sapientia quam significetur per nomen.
+|a2 Articulus 2: Utrum persona possit praedicari de essentia.
+AG1
+Ad secundum sic proceditur. Videtur quod persona non possit praedicari de essentia. Praedicatum enim habet
+rationem formae. Sed persona est suppositum formae, vel naturae. Ergo persona non habet rationem quod
+praedicetur de natura vel essentia.
+AG2
+Item, praedicatum semper significatur inesse subjecto. Persona autem non significatur ut inhaerens essentiae, sed
+e converso. Ergo persona non potest praedicari de essentia.
+AG3
+Item, superius per se praedicatur de suo inferiori, sicut homo de socrate; sed socrates accidentali praedicatione
+praedicatur de homine; accidit enim homini esse socratem. Sed sicut socrates est suppositum humanae naturae,
+ita pater est suppositum naturae divinae. Ergo videtur quod haec non sit vera, Deus est pater, nisi forte per
+accidens.
+AG4
+Item, sicut dictum est, Sup., qu. 1, art. 2, hoc nomen Deus, quantum est de se, supponit personam.
+Sed haec est falsa: una persona est pater et filius et spiritus sanctus. Ergo haec etiam: unus Deus est pater et filius
+et spiritus sanctus.
+AG5
+Item videtur quod haec etiam sit falsa, Deus est trinitas. Nihil enim praedicatur de homine quod non praedicetur
+de aliquo supposito hominis.
+Sed trinitas neque praedicatur de patre neque de filio neque de spiritu sancto. Ergo per eamdem rationem non
+potest dici quod Deus sit trinitas.
+CO
+Respondeo dicendum, quod in divinis est omnino indifferentia naturae ad suppositum; et ideo nec est ibi
+universale neque particulare: et ideo sicut vere praedicatur essentia de persona, ita et e converso. Sed verum est
+quod quantum ad modum significandi plus habet de proprietate propositio in qua praedicatur essentia, quam in
+qua praedicatur persona, cum praedicatum se habeat loco formae.
+RA1
+Ad primum ergo dicendum, quod quamvis persona sit suppositum, nihilominus tamen propter indifferentiam
+suppositi ad naturam persona est aequalis simplicitatis cum natura; et ideo de se conversim praedicantur.
+RA2
+Et per hoc patet solutio ad secundum: quia in Deo habens et habitum sunt idem re.
+RA3
+Ad tertium dicendum, quod in divinis non est aliquid accidentale, nec est ibi universale et particulare; et ideo
+nihil dicitur ibi per accidens, neque per consequens, sicut in creaturis; sed tantum attenditur ibi alius et alius
+modus significandi.
+RA4
+Ad quartum dicendum, quod hoc nomen Deus, quantum est de se, quamvis supponat pro persona, nihilominus
+tamen non supponit pro aliqua persona distincte, immo indeterminate; nec forma significata per nomen Deus, a
+qua nomen imponitur, est proprietas personalis, sed natura communis: et ideo unitas significata per hoc
+adjectivum unus, refertur ad formam divinitatis, et non ad suppositum.
+Sed hoc nomen persona imponitur a personali proprietate, quae est forma significata per terminum; et ideo haec
+est falsa: una persona est pater et filius et spiritus sanctus; quia significaretur una personalitas trium personarum.
+52
+
+

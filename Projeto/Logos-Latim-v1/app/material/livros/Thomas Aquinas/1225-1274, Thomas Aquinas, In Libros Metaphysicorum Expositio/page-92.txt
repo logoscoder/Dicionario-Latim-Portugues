@@ -1,0 +1,61 @@
+non verificantur de eodem; quia scilicet de eo quod est esse hominem non verificatur non esse hominem, vel esse non
+hominem.
+[82192] In Metaphysic., lib. 4 l. 7 n. 17
+Conditionalem autem positam, quod si aliquid sit quod quid est homo, quod illud non sit non esse hominem, vel esse
+non hominem, sic probat. Propositum est enim supra et probatum quod hoc quod significat nomen est unum. Et iterum
+est positum quod illud quod significat nomen, est substantia rei, scilicet quod quid est res. Unde patet quod aliquid
+significat substantiam rei, et idem quod est significatum non est aliquid aliud. Si igitur illud quod est esse hominem,
+sive quod quid est homo, fuerit vel non esse hominem, vel esse non hominem, constat quidem quod erit alterum a se.
+Unde oportet dicere, quod non sit definitio significans quod quid est esse rei; sed sequetur ex hoc quod omnia
+praedicentur secundum accidens.
+[82193] In Metaphysic., lib. 4 l. 7 n. 18
+In hoc enim distinguitur substantia ab accidente, idest praedicatum substantiale ab accidentali, quia unumquodque est
+vere id quod praedicatur substantialiter de eo; et ita non potest dici illud quod praedicatur substantialiter esse non
+unum, quia quaelibet res non est nisi una. Sed homo dicitur albus, quia albedo vel album accidit ei. Non autem ita quod
+sit id quod vere est album vel albedo. Ergo non oportet quod id quod praedicatur per accidens sit unum tantum. Sed
+multa possunt per accidens praedicari. Substantiale vero praedicatum est unum tantum. Et sic patet, quod ita est esse
+hominem quod non est non esse hominem. Si autem utrumque fuerit, iam substantiale praedicatum non erit unum
+tantum, et sic non erit substantiale sed accidentale.
+[82194] In Metaphysic., lib. 4 l. 7 n. 19
+Deinde cum dicit si vero destruit consequens; ostendens hoc esse impossibile quod aliquid non praedicetur
+substantialiter, sed omnia accidentaliter; quia si omnia per accidens praedicentur, non erit aliquid praedicatum
+universale. (Dicitur autem hic praedicatum universale sicut in posterioribus, secundum quod praedicatur de aliquo per
+se et secundum quod ipsum est). Hoc autem est impossibile: quia si semper aliquid praedicatur de altero per accidens,
+oportet quod accidentalis praedicatio procedat in infinitum, quod est impossibile hac ratione.
+[82195] In Metaphysic., lib. 4 l. 7 n. 20
+Praedicatio enim accidentalis non complectitur nisi duos modos. Unus modus est secundum quod accidens de accidente
+praedicatur per accidens, et hoc ideo, quia ambo accidunt eidem subiecto, sicut album praedicatur de musico, quia
+ambo accidunt homini. Alius modus est quo accidens praedicatur de subiecto, sicut Socrates dicitur musicus, non quia
+ambo accidunt alicui alteri subiecto, sed quia unum eorum accidit alteri. Cum igitur sint duo modi praedicationis per
+accidens, in neutro contingit esse praedicationem in infinitum.
+[82196] In Metaphysic., lib. 4 l. 7 n. 21
+Constat enim quod illo modo, quo accidens praedicatur de accidente, non contingit abire in infinitum, quia oportet
+devenire ad subiectum. Iam enim dictum est, quod haec est ratio praedicationis huius, quia ambo praedicantur de uno
+subiecto; et sic descendendo a praedicato ad subiectum contingit invenire pro termino ipsum subiectum.
+[82197] In Metaphysic., lib. 4 l. 7 n. 22
+Sed illo modo praedicandi per accidens quo accidens praedicatur de subiecto, ut cum dicitur Socrates est albus, non
+contingit abire in infinitum in superius ascendendo a subiecto ad praedicatum, ita ut dicamus quod Socrati accidit
+album et quod Socrati albo accidit aliquod aliud. Hoc enim non posset esse nisi duobus modis. Uno modo quia ex albo
+et Socrate fieret unum. Et sic sicut Socrates est unum subiectum albedinis, ita Socrates albus esset subiectum alterius
+accidentis. Hoc autem non potest esse, quia non fit aliquid unum ex omnibus quibuscumque praedicatis. Ex subiecto
+enim et accidente non fit unum simpliciter, sicut fit unum ex genere et differentia. Unde non potest dici quod Socrates
+albus, sit unum subiectum.
+[82198] In Metaphysic., lib. 4 l. 7 n. 23
+Alius modus esset quod sicut Socrates est subiectum albi, ita ipsi albo insit aliquid aliud accidens, ut musicum. Sed hoc
+etiam non potest esse, propter duo. Primo, quia non erit aliqua ratio, quare musicum dicatur magis accidere albo quam e
+converso. Unde non erit ordo inter album et musicum, sed e converso respicient se adinvicem. Secundo, quia simul
+cum hoc definitum est vel determinatum, quod iste est alius modus praedicandi per accidens in quo accidens
+praedicatur de accidente, ab illo modo quo accidens praedicatur de subiecto, et musicum de Socrate. In isto autem
+modo de quo nunc loquitur, non dicitur praedicatio accidentalis, quia accidens praedicetur de accidente; sed illo modo
+quo prius locuti sumus.
+[82199] In Metaphysic., lib. 4 l. 7 n. 24
+Sic igitur manifestum est, quod in accidentali praedicatione non est abire in infinitum: quare patet quod non omnia
+praedicantur secundum accidens. Et ulterius quod aliquid erit significans substantiam. Et ulterius quod contradictio non
+verificatur de eodem.
+[82200] In Metaphysic., lib. 4 l. 7 n. 25
+Sciendum autem est circa praedictam rationem, quod licet accidens non sit subiectum alterius, et sic non sit ordo
+accidentis ad accidens quantum ad rationem subiiciendi, est tamen ordo quantum ad rationem causae et causati. Nam
+unum accidens est causa alterius, sicut calidum et humidum dulcis et sicut superficies coloris. Subiectum enim per hoc
+quod subiicitur uni accidenti, est susceptivum alterius.
+
+

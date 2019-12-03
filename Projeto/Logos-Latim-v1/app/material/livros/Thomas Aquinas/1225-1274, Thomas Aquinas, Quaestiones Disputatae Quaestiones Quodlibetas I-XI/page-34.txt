@@ -1,0 +1,62 @@
+Circa primum quaesita sunt duo.
+PR1
+Primo utrum anima separata possit pati ab igne corporeo.
+PR2
+Secundo utrum duorum qui eadem poena sunt digni, unus diutius moretur in Purgatorio quam alius.
+|a1 Articulus 1
+TTA
+Utrum anima separata possit pati ab igne corporeo.
+TTB
+Ad primum sic proceditur: videtur quod anima a corpore separata non possit pati ab igne corporeo.
+AG1
+Quia, secundum Philosophum, quod non tangit, non agit. Sed ignis corporeus non tangit animam separatam a
+corpore, cum non habeat terminos corporales; quae autem se tangunt, habent ultima simul. Ergo anima separata
+non patitur ab igne corporeo.
+AG2
+Praeterea, illa quae patiuntur ad invicem, invicem converti possunt. Sed anima non potest converti in ignem
+corporeum, nec e converso. Ergo anima non potest pati ab igne corporeo.
+AG3
+Praeterea, bernardus dicit, quod nihil ardet in inferno nisi propria voluntas. Sed propria voluntas, cum sit
+quoddam spirituale, non potest esse materia ignis corporalis.
+Ergo anima a corpore separata non potest ab igne corporeo pati.
+SC
+Sed contra, est quod dicitur Is., LXVI: ignis eorum non extinguetur.
+CO
+Respondeo. Dicendum, quod pati multipliciter dicitur.
+Uno modo pati communiter dictum idem est quod recipere, secundum quod sentire et intelligere est quoddam
+pati. Et hoc modo anima coniuncta corpori patitur a rebus corporeis sentiendo et intelligendo; sed an separata a
+corpore possit hoc modo a rebus corporeis pati, alterius quaestionis est, propter quosdam qui dicunt, quod anima
+separata a corpore, et etiam Angelus, potest accipere cognitionem a rebus sensibilibus. Sed si etiam haec opinio
+esset vera, tamen pati sentiendo et intelligendo est perfici, non puniri; nisi forte per accidens, in quantum id quod
+sentitur vel intelligitur, repugnat voluntati; sed ipsum sentire vel intelligere secundum se consideratum poenale
+non est.
+Alio modo dicitur pati proprie loquendo secundum contrarietatem agentis ad patiens; prout scilicet pati dicimur,
+cum aliquid nobis advenit quod est contrarium naturae vel voluntati nostrae; et secundum hoc infirmitas et
+tristitia passiones dicuntur.
+Et haec quidem passio dupliciter esse potest.
+Uno modo per receptionem formae contrariae, sicut aqua patitur ab igne in quantum calefit, et per consequens
+diminuitur qualitas naturalis eius: hoc modo separata anima non potest pati ab igne corporeo, quia nec calefieri
+potest nec desiccari, nec secundum formam aut qualitatem quamcumque ignis corporei immutari.
+Alio modo dicitur pati omne illud quod quocumque modo impeditur a suo proprio impetu vel inclinatione: sicut
+si dicimus lapidem descendentem pati, cum impeditur ne deorsum perveniat; et sicut dicimus hominem pati, cum
+detinetur vel ligatur ne vadat quo vult: et ita per modum ligationis cuiusdam anima patitur ab igne corporeo, ut
+Augustinus dicit, in XXI de civitate Dei.
+Non enim hoc est contra naturam spiritus corpori alligari, cum videamus animam naturaliter alligari corpori ad
+vivificandum ipsum. Daemones etiam per necromantiam potestate superiorum Daemonum alligantur aliquibus
+imaginibus, vel aliquibus aliis rebus; unde multo magis possunt spiritus alligari divina virtute igni corporeo, non
+ut dent vitam, sed ut accipiant poenam, sicut Augustinus dicit.
+Sed quia quod est minoris virtutis, non potest sua virtute ligare id quod est maioris virtutis; inde est quod nullum
+corpus potest ligare spiritum, qui est maioris virtutis, nisi aliqua superiori virtute; et propter hoc dicitur, quod
+ignis corporeus agit in animam separatam non virtute propria, sed in quantum est instrumentum divinae iustitiae
+vindicantis.
+RA1
+Ad primum ergo dicendum, quod ignis tangit animam, non quidem tactu mathematico, qui attenditur secundum
+terminos quantitativos, sed magis contactu virtutis, non propriae, sed quam habet in quantum est instrumentum
+divinae iustitiae.
+RA2
+Ad secundum dicendum, quod ratio illa procedit de passione quae est per susceptionem formae contrariae.
+RA3
+Ad tertium dicendum, quod propria voluntas dicitur ardere in inferno, quia meretur ardorem.
+34
+
+

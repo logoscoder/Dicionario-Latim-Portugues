@@ -1,0 +1,50 @@
+Bielefeld wechselte und Michael Klein in den Badischen Archivdienst eintrat. Das „Quellenverzeichnis“, das
+Horst an das Ende seiner Arbeit gestellt hat (S. 199 ff.), ist auch dieser Internet-Version beigegeben.
+Das gesamte Policarp-Material wurde nach Abschluß der Bearbeitung durch Horst und Klein von Tübingen nach
+München zu den Monumenta transferiert. Daß hier fortan ein benutzbarer Policarp-Text vorhanden war, hatte
+sich bald herumgesprochen, und so nahmen vornehmlich Kollegen, die Policarp als Quelle für Gratians Dekret
+im Auge haben, was auch E. Friedberg bei seiner Gratianausgabe getan hatte (wenn auch mit Zugriff auf
+irreführende Handschriften), Einblick in den Erdmannschen Editionstext, Linda Fowler-Magerl (Regensburg),
+Peter Landau (München), Titus Lenherr (Zürich), Soeur Marie-Cécile Minin (Rouen), José Miguel Viejo
+Ximenéz (Las Palmas de Gran Canaria), Anders Winroth (New Haven), z. B.
+Wie stark das Bedürfnis besteht, einen brauchbaren Text des Policarp zur Hand zu haben, mag man auch daran
+ablesen, daß parallel zu unseren Bemühungen eine wie es scheint private elektronische Edition des 1. Buches im
+Internet steht (http://es.geocities.com/corpusiuriscanonici/index.html).
+Sie beruht nach Auskunft der Web-Seite auf einer kirchenrechtlichen Dissertation, die von D. José Ramón
+Arrieta Ochoa de Chinchetru im Jahre 1983 an der vom Opus Dei unterhaltenen Universidad de Navarra
+eingereicht worden sei. Als Grundtext wird merkwürdigerweise der phantasievolle und nicht fehlerfreie Codex
+Vat. Lat. 1354 (V) vorgestellt (vgl.: A Catalogue of Canon and Roman Law Manuscripts in the Vatican Library,
+hg. von St. Kuttner und R. Elze, Bd. I, Studi e testi 322, 1986, S. 118 f.). Diese Handschrift enthält als Zusatz
+u. a. Papstschreiben Urbans II. und Paschalis II. (vgl. H. Fuhrmann, Zwei Papstbriefe aus der Überlieferung der
+Rechtssammlung „Polycarpus“, in: Aus Reichsgeschichte und Nordischer Geschichte. Festschrift K. Jordan,
+hg. von H. Fuhrmann, H. E. Mayer, K. Wriedt, 1972, S. 131 ff.); der dargebotene Text des 1. Buches entspricht
+einem guten Zehntel des Gesamtwerks.
+Es sei noch einmal der provisorische Charakter unseres Internet-Auftritts betont. Die Erklärung der Titelei wird
+durch eine ausführlichere Einleitung ersetzt werden, die Handschriften und die Überlieferungszusammenhänge
+sollen präzise beschrieben, neue Quellenidentifizierungen (z. B. von G. Fransen, J. Gilchrist, G. Motta)
+eingearbeitet werden.
+
+Polycarpus (Gregory, cardinal presbyter of San Crisogono)
+Collectio Canonum
+Incipit liber primus . a b
+I. De principatu Petri . c d
+1. Anacletus cap. XXXIII.
+Inter beatos apostolos quedam fuit discretio, et licet omnes apostoli essent, Petro tamen a
+Domino concessum est et ipsi inter se id ipsum voluerunt, ut reliquis omnibus preesset
+apostolis et cephas, id est caput et principium teneret apostolatus. Qui eandem formam suis e
+successoribus et reliquis episcopis tenendam tradiderunt.
+a) om. CV.
+b) om., legitur Gregorii cardinalis presbiteri ad Didacum sancti Jacobi ecclesie
+episcopum K.
+c) Titelüberschrift om. K; Zahl om. V.
+d) folgt primus titulus M; folgt De primatu R. ecclesie C.
+e) ap(osto)l(u)s CRV.
+Polycarp 1.1.2
+2
+2. Ambrosius in libro X.a
+In tractatu super Lucam. b
+Si Petrus lapsus est, quia dixit: 'Etsi alii scandalizati fuerint, ego non scandalizabor', ne quis c d
+alius iure de se presumat. Denique et David quia dixerat: 'Ego dixi in mea habundantia : non e e
+3
+
+

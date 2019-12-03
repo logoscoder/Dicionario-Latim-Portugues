@@ -1,0 +1,62 @@
+esse contingebat et omnes omnibus. Quod si quis ad indefinitarum descriptiones redeat diligenter agnoscit. Hic autem,
+inquit, hoc est in his quae definitae sunt, non idem est. Hoc sic monstrat: ea enim propositio quae dicit:
+Omnis est iustus homo
+non consentit contradictioni suae quae dicit:
+Non omnis est iustus homo
+Rursus ea quae dicit:
+Omnis est non iustus homo
+non consentit rursus ei quae dicit:
+Non omnis est non iustus homo
+Haec enim contrariae ipsius consentiebat. Quare cum uera est uniuersalis affirmatio simplex quae dicit:
+Omnis est iustus homo
+sine dubio falsa est ea quae dicit:
+Omnis est non iustus homo
+Sed hac falsa contradictio eius uera erit: uera igitur est ea quae negat dicens:
+Non omnis est non iustus homo
+Quocirca hae duae propositiones angulares uerae aliquotiens inueniuntur:
+Omnis est iustus homo
+Non omnis est non iustus homo
+Contingit ergo aliquando ueras esse sed non, inquit, omnino. Nam si a particulari negatione infinita coeperis,
+non idem est id est non eadem ueritas uenit. Hoc autem tali probatur modo: si enim uera est quoniam non omnis est non
+iustus /310/ homo, falsa est ea quae dicit:
+Omnis est non iustus homo
+Est enim ei contradictorie opposita. Hac autem falsa quae dicit:
+Omnis est non iustus homo
+non omnino ueram necesse est esse eam quae proponit:
+Omnis est iustus homo
+idcirco quoniam hae duae sibi contrariorum loco oppositae sunt.
+Contrarias autem propositiones simul falsas esse posse supra docuimus.
+Ergo non necesse est, si falsa est omnis est non iustus homo, ueram esse eam quae dicit:
+Omnis est iustus homo
+Quod si non necesse est, hoc potest fieri ut utraeque sint falsse.
+Quare euenit aliquando, ut uera hac propositione quae dicit:
+Non omnis est non iustus homo
+falsa sit illa quae proponit:
+Omnis est iustus homo
+Quare non similiter secundum diametrum in ueritate propositiones sibi consentiunt. Atque hoc quidem
+Herminus non recte expositione dicens ordinem turbat. Si quis autem uel hoc quod Herminus ait diligenter agnoscit uel
+id quod supra nos diximus, cognoscit multam esse differentiam expositionis et meliorem superiorem iudicans ei, si quid
+nobis credit, recte consentiet.
+HAE IGITUR DUAE OPPOSITAE SUNT, ALIAE AUTEM AD NON HOMO UT SUBIECTUM ALIQUID
+ADDITO, UT EST IUSTUS NON HOMO, NON EST IUSTUS NON HOMO; EST NON IUSTUS NON HOMO,
+NON EST NON IUSTUS NON HOMO. MAGIS PLURES AUTEM HIS NON ERUNT OPPOSITIONES. HAE
+AUTEM EXTRA ILLAS IPSAE SECUNDUM SE ERUNT UT NOMINE UTENTES NON HOMO.
+/311/ Supra iam dixerat omne subiectum aut ex nomine simplici et finito aut ex nomine rursus infinito
+consistere et eorum oppositiones ostendit quod essent duae et quatuor propositiones, duae quidem simplex subiectum
+nomen habentes, duae uero infinitum. Post has quando est tertium adiacens praedicaretur, illic quoque dupliciter
+oppositiones fieri dixit, cum scilicet finitum nomen esset subiectum, <finitum> uel infinitum praedicatum, earumque
+inter se eam consequentiam demonstrauit, qualem haberent priuatoriae ad easdem ipsas simplices, quibus ex infinito
+nomine propositiones compararentur. Et quoniam omnis harum uarietas propositionum ita fit, cum est tertium
+praedicatur, ut aut et subiectum et praedicatum finita sint aut subiectum quidem finitum, praedicatum uero infinitum
+(de quibus supra locutus est, cum earum consequentiam demonstrauit) aut infinitum habent subiectum, finitum uero
+praedicatum aut infinitum et subiectum et praedicatum. Et habent quidem propositiones utrumque finitum, ut est:
+Homo iustus est
+Homo iustus non est
+finitum uero subiectum, infinitum praedicatum, ut est:
+Homo non iustus est
+Homo non iustus non est
+Et harum quidem consequentia supra monstrata est. Aliae uero sunt, quae infinitum habent subiectum et quasi
+nomine utuntur nomine infinito, ut:
+Non homo iustus est
+
+

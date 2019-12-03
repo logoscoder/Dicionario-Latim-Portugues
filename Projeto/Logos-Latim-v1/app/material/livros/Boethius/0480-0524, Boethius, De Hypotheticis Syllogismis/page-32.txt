@@ -1,0 +1,31 @@
+in his quae sibi adhaerent proponi potest, et a minoribus ad maiora contendit sed est similis ei propositioni
+connexae quae dicit:
+Si est a, est b.
+Nam cum ita quis enuntiat, siquidem assumat esse a, statim consequitur ut sit b; sed in hac propositione,
+siquidem affirmaretur esse a, sequebatur ut esset b.
+[3.11.5] Quod si negaretur b, sequebatur ut non esset /388/ a; siue autem negaretur a, siue affirmaretur b, nihil
+necessarium uidebatur accidere. Et in ea igitur propositione disiuncta quae dicit:
+Aut non est a aut est b
+siquidem fuerit a, erit b; si non fuerit b, non erit a: siue autem non sit a, siue sit b, nulla est necessitas
+syllogismi, ut in hoc declaratur exemplo:
+Aut non est homo aut animal est.
+Si igitur assumamus:
+Atqui est homo
+erit animal; si negemus esse animal, non erit homo; si autem hominem negemus, uel animal affirmemus, nihil
+necessarium cadit.
+[3.11.6] Quocirca ex his quae superius dicta sunt declaratur quot disiunctarum propositionum syllogismi sint,
+uel quibus ab his quae connexae sunt differentiis segregentur. Quae enim connexae sunt quandam in eo quod est esse
+uel non esse consequentiam monstrant; quae uero secundum disiunctionem proponuntur ita sunt, ut sibimet consentire
+non possint. Inuenias quoque per connexionem propositiones, quae id intellegi uelint, ut a se nequeant separari, ut cum
+ita proponimus:
+Si est a, est b.
+Id nimirum haec propositio intellegit, quod si esse in disiunctione sunt ita proponitur, ut simul esse uideantur.
+Cum enim dicimus:
+Aut a est aut b est
+aut easdem propositiones quolibet modo alio uariamus, id et coniunctio quae disiunctiua ponitur sentit simul eas esse
+non posse. Et cum late earum pateat differentia, idcirco nunc de eisdem pauca subiunximus, quoniam totidem
+syllogismos fieri dicebamus in his propositionibus quae per disiunctionem fierent, quot etiam fuerant /390/ in connexis;
+et quoniam de omnibus qui quoquo modo fieri possunt hypotheticis syllogismis sufficienter dictum est, hic operis
+longitudinem terminemus.
+
+

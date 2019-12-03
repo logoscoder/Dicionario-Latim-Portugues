@@ -1,0 +1,62 @@
+id intellegi uolumus, ei propositioni per quam dicimus:
+Est a
+consequi eam conditionem per quam dicimus:
+Cum sit b, esse c
+id est ut, si est a, necesse sit b termino comitem esse c terminum; cum uero dicimus:
+Si cum a est, b est, esse c
+nihil aliud intellegi uolumus, /232/ nisi duarum inter se consequentium propositionum alterius propositionis
+consequi ueritatem, ut si habeant inter se consequentiam a atque b, necesse sit hanc conditionem consequentiae
+propositionis eius per quam dicimus esse c consequi ueritatem, id est, si necesse est a posito esse b, necesse est etiam c
+esse.
+[1.6.1] Similes igitur syllogismi fient earum propositionum quae ex simplicibus et earum quae ex non
+simplicibus utrisque iunguntur: earum uero quae ex una simplici et ex altera hypothtica copulantur, diuersi quidem a
+superioribus, ipsi tamen inter se similes fiunt. Nec interest utrum prima hypothetica, secunda sit simplex, an e conuerso,
+ad syllogismorum modos, nisi forsitan ad ipsius tantum ordinis permutationem. Cum igitur demonstrata fuerit earum
+propositionum quae ex simplicibus constant, syllogismorum ratio demonstrata quoque uidetur earum propositionum
+esse, quae ex hypotheticis committuntur; et cum quarumlibet earum propositionum quae ex simplici et hypothetica
+constant syllogismorum natura perspecta sit, etiam conuersi ordinis propositionum natura quales faciat syllogismos
+ostenditur.
+[1.6.2] Est etiam species alia propositionum in connexio. ne positarum, quae media quodammodo sit earum
+propositionum quae ex hypotheticis simplicibusque iunguntur, et earum quae duabus hypotheticis copulantur. Nam si
+ad numerum respicias /234/ propositionum quasi ex tribus terminis constant; quod si ad conditionales animum referas,
+quasi ex duabus conditionalibus uidentur esse compositae: quae medietas idcirco euenit quoniam unus in his terminus
+communis utrisque conditionalibus inuenitur. Proponuntur uero hae uel per primam figuram, uel per secundam, uel per
+tertiam.
+[1.6.3] Per primam hoc modo:
+Si est a, est b; et si est b, est c
+igitur b in utrisque numeratur, et sunt tres quidem termini hi:
+Est a
+Est b
+Est c
+duae uero conditionales hoc modo:
+Si est a, est b
+Si est b, est c
+namque b utrisque communis est: atque ideo inter eas propositiones quae ex tribus terminis, et eas quae ex
+quatuor componuntur, mediae sunt huiusmodi propositiones. Per secundam uero figuram proponitur hoc modo:
+Si est a, est b; si non est a, est c.
+Per tertiam uero figuram sic:
+Si est b, est a; si est c, non est a.
+Ac de connexis quidem ista sufficiunt. Disiunctiuae uero propositiones semper ex contrariis constant, ut haec:
+Aut a est aut b est.
+[1.6.4] Altero enim posito alterum tollitur, et interempto altero ponitur alterum: nam si est a, non est b, si non
+est a, est b, eodem modo etiam, si sit b, non erit a, si non sit b, erit a. His igitur expeditis, ad connexas reuertamur. In
+illis enim uel propositio propositionem, uel conditio conditionem, uel propositio conditionem, uel conditio sequitur
+propositionem. Dicendum igitur est quae propositiones quarum propositionum consequentes esse uideantur, et quae
+contrarietatis modo quam longissime a se differant, quae uero oppositionis contradictione dissentiant.
+[1.6.5] Simplicium namque, /236/ id est praedicatiuarum propositionum, aliae praeter modum proponuntur,
+aliae cum modo: praeter modum sunt quaecumque purum esse significant hoc modo:
+Dies est
+Socrates philosophus est
+et quae similiter proponuntur; quae uero cum modo sunt, ita proponuntur:
+Socrates uere philosophus est.
+Hoc enim 'uere' modus est propositionis. Sed maximas syllogismorum faciunt differentias haec propositiones
+cum modo enuntiatae, quibus necessitatis aut possibilitatis nomen adiungitur. Necessitatis hoc modo, cum dicimus:
+Ignem necesse est calere
+possibilitatis, ut cum ita proponimus:
+Possibile est a Graecis superari Troianos.
+[1.6.6] Quo fit ut omnis propositio aut inesse significet, aut necessario inesse, aut, cum non sit aliquid, tamen
+enuntiet posse contingere; quarum quidem ea quae inesse significat simplex est, neque in nullas partes alias diduci
+potest, ea uero quae ex necessitate aliquid inesse designat, tribus dicitur modis. Uno quidem quo ei consimilis est
+propositioni quae inesse significat, ut cum dicimus,
+
+

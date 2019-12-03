@@ -1,0 +1,58 @@
+CJ.10.18.0. De superindicto.
+CJ.10.19.0. De exactionibus tributorum.
+CJ.10.20.0. De superexactionibus.
+CJ.10.21.0. De capiendis et distrahendis pignoribus
+tributorum causa.
+CJ.10.22.0. De apochis publicis et descriptionibus
+curialium.
+CJ.10.23.0. De canone largitionalium titulorum.
+CJ.10.24.0. Ne operae a collatoribus exigantur.
+CJ.10.25.0. De immunitate nemini concedenda.
+
+CJ.10.26.0. De conditis in publicis horreis.
+CJ.10.27.0. Ut nemini liceat in coemptione specierum se
+excusare et de munere sitoniae.
+CJ.10.28.0. De collatione donatorum vel relevatorum aut
+translatorum seu adaeratorum.
+CJ.10.29.0. De collatione aeris.
+CJ.10.30.0. De discussoribus.
+CJ.10.32.0. De decurionibus et filiis eorum et qui
+decuriones habentur quibus modis a fortuna curiae
+liberentur.
+CJ.10.33.0. Si libertus aut servus ad decurionatum
+adspiraverit.
+CJ.10.34.0. De praediis curialium sine decreto non
+alienandis.
+CJ.10.35.0. Quando et quibus debetur quarta pars ex bonis
+decurionum et de modo distributionis eorum.
+CJ.10.36.0. De imponenda lucrativis descriptione.
+CJ.10.37.0. De praebendo salario.
+CJ.10.38.0. Si curialis relicta civitate rus habitare maluerit.
+CJ.10.39.0. De municipibus et originariis.
+CJ.10.40.0. De incolis et ubi quis domicilium habere videtur
+et de his qui studiorum causa in alia civitate degunt.
+CJ.10.41.0. De honoribus et muneribus non continuandis
+inter patrem et filium et de intervallis.
+CJ.10.42.0. De muneribus patrimoniorum.
+CJ.10.43.0. Quemadmodum civilia munera indicuntur.
+CJ.10.44.0. De his qui sponte munera susceperunt.
+CJ.10.45.0. De his qui a principe vacationem acceperunt.
+CJ.10.46.0. De vacatione muneris.
+CJ.10.47.0. De decretis decurionum super immunitate
+quibusdam concedenda.
+CJ.10.48.0. De excusationibus munerum.
+CJ.10.49.0. De quibus muneribus vel praestationibus
+nemini liceat se excusare.
+CJ.10.50.0. Qui aetate se excusant.
+CJ.10.51.0. Qui morbo.
+CJ.10.52.0. De his qui numero liberorum vel paupertate
+
+excusationem meruerunt.
+CJ.10.53.0. De professoribus et medicis.
+CJ.10.54.0. De athletis.
+CJ.10.55.0. De his qui non impletis stipendiis sacramento
+soluti sunt.
+
+1028
+
+

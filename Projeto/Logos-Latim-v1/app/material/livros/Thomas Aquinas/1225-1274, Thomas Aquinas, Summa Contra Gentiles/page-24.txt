@@ -1,0 +1,51 @@
+Quod autem non dependet ab aliquo, potest aliquando inveniri sine illo. Ergo potest aliqua substantia inveniri
+sine accidente.
+Hoc autem praecipue videtur simplicissimae substantiae convenire, qualis est substantia divina. Divinae igitur
+substantiae omnino accidens non inest.
+|#8 In hanc autem sententiam etiam catholici tractatores conveniunt. Unde Augustinus, in libro de Trin., dicit
+quod in Deo nullum est accidens.
+|#9 Ex hac autem veritate ostensa, error quorundam in lege sarracenorum loquentium confutatur, qui ponunt
+quasdam intentiones divinae essentiae superadditas.
+
+|+24 Capitulus 24: Quod divinum esse non potest designari per additionem alicuius differentiae substantialis.
+|#1 Ostendi etiam ex praedictis potest quod supra ipsum divinum esse non potest aliquid superaddi quod
+designet ipsum designatione essentiali, sicut designatur genus per differentias.
+|#2 Impossibile est enim aliquid esse in actu nisi omnibus existentibus quibus esse substantiale designatur: non
+enim potest esse animal in actu quin sit animal rationale vel irrationale. Unde etiam Platonici, ponentes ideas,
+non posuerunt ideas per se existentes generum, quae designantur ad esse speciei per differentias essentiales; sed
+posuerunt ideas per se existentes solarum specierum, quae ad sui designationem non indigent essentialibus
+differentiis. Si igitur divinum esse per aliquid aliud superadditum designetur designatione essentiali, ipsum esse
+non erit in actu nisi illo superaddito existente. Sed ipsum esse divinum est sua substantia, ut ostensum est.
+Ergo substantia divina non potest esse in actu nisi aliquo superveniente. Ex quo potest concludi quod non sit per
+se necesse-esse.
+Cuius contrarium supra ostensum est.
+|#3 Item. Omne illud quod indiget aliquo superaddito ad hoc quod possit esse, est in potentia respectu illius. Sed
+divina substantia non est aliquo modo in potentia, ut supra ostensum est. Sed sua substantia est suum esse. Igitur
+esse suum non potest designari aliqua designatione substantiali per aliquid sibi superadditum.
+|#4 Amplius. Omne illud per quod res consequitur esse in actu et est intrinsecum rei, vel est tota essentia rei, vel
+pars essentiae. Quod autem designat aliquid designatione essentiali, facit rem esse actu et est intrinsecum rei
+designatae: alias per id designari non posset substantialiter. Ergo oportet quod sit vel ipsa essentia rei, vel pars
+essentiae. Sed si aliquid superadditur ad esse divinum, hoc non potest esse tota essentia Dei: quia iam ostensum
+est quod esse Dei non est aliud ab essentia eius. Relinquitur ergo quod sit pars essentiae divinae. Et sic Deus erit
+compositus ex partibus essentialiter. Cuius contrarium supra ostensum est.
+|#5 Item. Quod additur alicui ad designationem alicuius designatione essentiali, non constituit eius rationem,
+sed solum esse in actu: rationale enim additum animali acquirit animali esse in actu, non autem constituit
+rationem animalis inquantum est animal; nam differentia non intrat definitionem generis. Sed si in Deo addatur
+aliquid per quod designetur designatione essentiali, oportet quod illud constituat ei cui additur rationem propriae
+eius quidditatis seu naturae: nam quod sic additur, acquirit rei esse in actu; hoc autem, scilicet esse in actu, est
+ipsa divina essentia, ut supra ostensum est. Relinquitur ergo quod supra divinum esse nihil possit addi quod
+designet ipsum designatione essentiali, sicut differentia designat genus.
+
+|+25 Capitulus 25: Quod Deus non est in aliquo genere.
+|#1 Ex hoc autem de necessitate concluditur quod Deus non sit in aliquo genere.
+|#2 Nam omne quod est in aliquo genere, habet aliquid in se per quod natura generis designatur ad speciem:
+nihil enim est in genere quod non sit in aliqua eius specie. Hoc autem in Deo est impossibile, ut ostensum est.
+Impossibile est igitur Deum esse in aliquo genere.
+|#3 Amplius. Si Deus sit in genere, aut est in genere accidentis, aut in genere substantiae. In genere accidentis
+non est: accidens enim non potest esse primum ens et prima causa. In genere etiam substantiae esse non potest:
+quia substantia quae est genus, non est ipsum esse; alias omnis substantia esset esse suum, et sic non esset
+causata ab alio, quod esse non potest, ut patet ex dictis. Deus autem est ipsum esse. Igitur non est in aliquo
+genere.
+24
+
+

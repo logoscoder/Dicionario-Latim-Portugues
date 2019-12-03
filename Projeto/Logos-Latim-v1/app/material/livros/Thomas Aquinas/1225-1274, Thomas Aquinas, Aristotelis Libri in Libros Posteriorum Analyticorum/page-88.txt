@@ -1,0 +1,55 @@
+aut sit aut possibile sit esse; sed semper, assignata tali ratione, licet quaerere quare oporteat tale aliquid esse. Sic
+igitur patet quod impossibile est quod simul demonstretur quid est et quia est.
+|#6 Deinde cum dicit: si ergo definiens demonstrat etc., ostendit quod non potest ostendi quod quid est
+definitione, ducendo ad inconveniens.
+Unde primo, ostendit quid ex hoc sequatur; secundo, ostendit illud quod sequitur esse inconveniens; ibi: sed
+inconveniens etc.. Dicit ergo primo quod, cum ille qui definit, possit ostendere vel quid est, vel tantum quid
+significat nomen, non propter hoc oportebit quod definitio sit manifestativa ipsius quod quid est, quod proprie ad
+definitionem pertinet: alioquin sequetur quod definitio significans quod quid est, nihil sit aliud quam ratio
+significans idem quod nomen: non enim super talem rationem addit aliquid definitio, nisi quia significat
+essentiam alicuius rei. Unde si non sit aliqua res, cuius essentiam definitio significet, nihil differt definitio a
+ratione exponente significationem alicuius nominis.
+|#7 Deinde cum dicit: sed inconveniens est etc., ostendit inconveniens esse quod definitio nihil sit aliud quam
+ratio exponens nominis significationem.
+Et hoc tribus rationibus. Quarum prima est, quia contingit etiam ea quae nec sunt substantia, nec sunt
+universaliter entia, aliquo nomine significare. Quodlibet autem nomen per aliquam interpretationem exponi
+potest. Si ergo nihil aliud esset definitio quam ratio interpretativa nominis, sequeretur quod definitio posset esse
+non substantiarum et totaliter non entium.
+Quod patet esse falsum. Ostensum est enim in VII metaph. Quod definitio principaliter quidem est substantiae,
+aliorum autem in quantum se habent ad substantiam.
+|#8 Secundam rationem ponit ibi: amplius omnes rationes etc.; quae talis est. Cuilibet rationi, idest orationi
+aliquid significanti, est imponere aliquod nomen ei correspondens, quod per illam rationem manifestatur. Si ergo
+nihil aliud sit definitio quam ratio interpretativa nominis, sequeretur quod omnes rationes essent definitiones: et
+ita sequetur quod, cum disputamus vel colloquimur ad invicem, ipsae disputationes vel collocutiones nostrae sint
+quaedam definitiones; et similiter sequetur quod ilias, idest poema Homeri de bello troiano, sit quaedam
+definitio.
+|#9 Tertiam rationem ponit ibi: amplius neque una scientia etc.; quae talis est. Nulla scientia demonstrat quod
+tale nomen significet talem rem.
+Nomina enim significant ad placitum; unde oportet hoc supponere secundum voluntatem instituentis.
+Manifestum est autem quod in qualibet scientia dantur aliquae definitiones. Manifestum est ergo quod
+definitiones non significant hoc, scilicet solam nominis interpretationem.
+|#10 Deinde cum dicit: ex his igitur neque definitio etc., epilogat quae disputative praemissa sunt. Et dicit quod
+ex praemissis videtur sequi quod definitio et syllogismus non sunt idem, neque de eodem; et quod definitio nihil
+demonstret, quia non est de eodem de quo est demonstratio.
+Et similiter videtur esse ostensum quod non est possibile cognoscere quod quid est, neque per definitionem,
+neque per demonstrationem; quia definitio solum ostendit quid, et demonstratio ostendit quia est. Sed ad
+cognitionem quod quid est requiritur cognitio quia est, ut dictum est.
+|+7 Lectio 7
+|#1 Postquam Philosophus disputative inquisivit qualiter cognoscatur definitio et quod quid est, hic determinat
+veritatem.
+Et primo, dicit de quo est intentio; secundo, exequitur propositum; ibi: quoniam autem sicut diximus etc.; tertio,
+epilogat quae dicta sunt; ibi: manifestum est igitur ex dictis etc.. Dicit ergo primo quod iterum post disputativum
+processum, considerandum est, determinando veritatem, quid praedictorum dicatur bene et quid non bene: et hoc
+tam circa ipsam definitionem, ut consideremus quid sit ipsa definitio, quam etiam circa ipsum quod quid est, ut
+consideremus utrum possit aliqualiter manifestari demonstratione vel definitione, vel nullo modo.
+|#2 Deinde cum dicit: quoniam autem sicut diximus etc., exequitur propositum. Et primo, quantum ad ipsum
+quod quid est; secundo, quantum ad definitionem, quae est ratio significativa eius; ibi: definitio autem quoniam
+dicitur ratio etc..
+Circa primum, ponit duos modos manifestandi quod quid est. Et primo, ponit modum logicae probationis;
+secundo, modum demonstrativae probationis; ibi: quo autem modo contingat etc..
+Circa primum, resumit primo id quod supra manifestatum est, scilicet quod idem est scire quid est, et scire
+causam quaestionis an est; sicut idem est scire propter quid, et scire causam quaestionis quia est. Ratio autem
+huius, scilicet quod idem sit scire quid est, et scire causam ipsius si est, ista est, quia oportet quod eius quod est
+88
+
+

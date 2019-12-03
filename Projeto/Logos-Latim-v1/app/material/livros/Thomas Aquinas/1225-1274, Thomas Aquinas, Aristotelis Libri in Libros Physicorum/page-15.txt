@@ -1,0 +1,64 @@
+eadem ratio sed altera. Unde sequitur quod illud ens unum non sit
+substantia corporea.
+|#10
+Secundo, ibi: quod autem dividitur etc., ostendit quod non possit
+esse ens substantia definibilis.
+Manifestum est enim ex definitione quod id quod vere est, idest substantia,
+dividitur in plura, quorum unumquodque est quod vere est, idest substantia,
+et aliud secundum rationem.
+Ut ponamus quod illud unum quod vere est, sit homo: cum homo sit animal
+bipes, necesse est quod animal sit et bipes sit; et utrumque eorum erit
+quod vere est, idest substantia. Quod si non sint substantiae, erunt
+accidentia: aut igitur homini aut alicui alteri. Sed impossibile est quod
+sint accidentia homini.
+Et ad hoc ostendendum duo supponit.
+Quorum primum est quod accidens dicitur dupliciter: uno modo accidens
+separabile, quod contingit inesse et non inesse, ut sedere; alio modo
+accidens inseparabile et per se. Et hoc est accidens in cuius definitione
+ponitur subiectum cui accidit: sicut simum est per se accidens nasi quia in
+definitione simi ponitur nasus; est enim simum nasus curvus.
+Secundum quod supponit est quod si aliqua ponuntur in definitione alicuius
+definiti, aut in definitione alicuius eorum ex quibus constat definitio,
+impossibile est quod in definitione alicuius horum ponatur definitio totius
+definiti. Sicut bipes ponitur in definitione hominis, et quaedam alia
+ponuntur in definitione bipedis vel animalis, ex quibus definitur homo:
+impossibile est autem quod ponatur homo in definitione bipedis, aut in
+definitione alicuius eorum quae cadunt in definitione bipedis vel animalis;
+alioquin esset definitio circularis, et esset idem prius et posterius, et
+notius et minus notum; omnis enim definitio est ex prioribus et notioribus,
+ut in VI topic. Dicitur. Et eadem ratione, cum in definitione hominis albi
+ponatur album, non est possibile quod in definitione albi ponatur homo
+albus.
+His igitur suppositis, sic argumentatur. Si bipes est accidens homini,
+necesse est vel quod sit accidens separabile, et sic continget hominem non
+esse bipedem, quod est impossibile; vel erit inseparabile, et sic oportebit
+quod homo ponatur in ratione bipedis, quod est etiam impossibile quia bipes
+ponitur in ratione eius. Impossibile est igitur quod bipes sit accidens
+homini, et eadem ratione neque animal. Si vero dicatur quod ambo sunt
+accidentia alicui alii, sequeretur quod etiam homo accidat alicui alteri.
+Sed hoc est impossibile: iam enim supra dictum est quod illud quod vere est
+nulli accidit, homo autem supponitur esse illud quod vere est, ut ex
+superioribus patet.
+Quod autem sequatur hominem accidere alteri si animal et bipes alteri
+accidunt, sic manifestat: quia de quocumque dicuntur ambo seorsum, scilicet
+animal et bipes, de eodem dicetur utrumque simul, scilicet animal bipes; et
+de quocumque dicitur animal bipes, dicitur quod est ex eis, scilicet homo,
+quia nihil aliud est homo quam animal bipes.
+Sic igitur patet quod si ponatur unum tantum ens, non possunt poni partes
+quantitativae, neque partes magnitudinis, neque partes rationis.
+Sic igitur sequitur quod omne ens sit de numero indivisibilium, ne ponentes
+unum ens cogamur ponere multa propter partes.
+|#11
+Commentator autem dicit quod ibi, sed quod vere est etc., ponit
+secundam rationem Parmenidis ad ostendendum quod ens sit unum, quae talis
+est. Ens quod est unum est substantia et non accidens (et per substantiam
+intelligit corpus): si autem corpus illud dividatur in duas medietates,
+sequitur quod ens dicatur de utraque medietate et de congregato ex eis. Et
+hoc vel procedit in infinitum, quod est impossibile secundum ipsum; aut
+erit dividere usque ad puncta, quod etiam est impossibile; unde oportet
+quod ens sit unum indivisibile.
+Sed haec expositio extorta est et contra intentionem Aristotelis, sicut
+satis apparet litteram inspicienti secundum primam expositionem.
+15
+
+

@@ -1,0 +1,55 @@
+|#2 Primo, proponit intentum dicens quod quia nos credimus alicui rei conclusae et scimus eam per hoc quod
+habemus syllogismum demonstrativum, et hoc quidem est in quantum scimus syllogismum demonstrativum;
+necesse est non solum praecognoscere prima principia conclusioni, sed etiam ea magis cognoscere, quam
+conclusionem.
+Addit autem aut omnia, aut quaedam; quia quaedam principia probatione indigent, ad hoc quod sint nota, et
+antequam probentur, non sunt magis nota conclusione. Sicut quod, angulus exterior trianguli valeat duos angulos
+intrinsecos sibi oppositos, antequam probetur, ita ignotum est, sicut quod, triangulus habeat tres angulos aequales
+duobus rectis. Quaedam vero principia sunt quae, statim proposita, sunt magis nota conclusione. Vel aliter:
+quaedam conclusiones sunt quae sunt notissimae, utpote per sensum acceptae, sicut quod, sol eclipsetur. Unde
+principium per quod probatur non est simpliciter magis notum, scilicet quod, luna interponatur inter solem et
+terram, licet sit magis notum in via rationis procedentis ex causa in effectum. Vel aliter: hoc ideo dicit, quia
+etiam supra dixerat quod quaedam principia tempore prius cognoscuntur quam conclusio, quaedam vero simul
+tempore nota fiunt cum conclusione.
+|#3 Secundo; ibi: semper enim propter quod etc., probat propositum dupliciter. Primo ratione ostensiva; sic:
+propter quod unumquodque et illud est magis; sicut si amamus aliquem, propter alterum; ut si Magistrum propter
+discipulum, discipulum magis amamus. Sed conclusiones scimus et eis credimus propter principia. Ergo magis
+scimus principia et magis eis credimus, quam conclusioni.
+|#4 Attendendum est autem circa hanc rationem quod causa semper est potior effectu suo.
+Quando ergo causa et effectus conveniunt in nomine, tunc illud nomen magis praedicatur de causa quam de
+effectu; sicut ignis est magis calidus quam ea, quae per ignem calefiunt. Quandoque vero causa et effectus non
+conveniunt in nomine et tunc licet nomen effectus non conveniat causae, tamen convenit ei aliquid dignius; sicut
+etsi in sole non sit calor, est tamen in eo virtus quaedam, quae est principium caloris.
+|#5 Deinde, cum dicit: non potest autem credere etc., probat idem ratione ducente ad impossibile, quae talis est.
+Principia praecognoscuntur conclusioni, ut supra habitum est; et sic quando principia cognoscuntur nondum
+conclusio est cognita. Si igitur principia non essent magis nota quam conclusio, sequeretur quod homo vel plus,
+vel aequaliter cognosceret ea, quae non novit quam ea quae novit. Hoc autem est impossibile.
+Ergo impossibile est quod principia non sint magis nota quam conclusio. Littera sic exponitur: neque sciens,
+neque alius melius dispositus in cognoscendo quam sciens, si contingeret aliquem esse talem (quod dicit propter
+intelligentem principia, de quo adhuc non est manifestum), non potest magis credere quae non contingunt,
+scilicet sciri ab eo, his, quae iam scit.
+Accidet autem hoc, nisi aliquis de numero credentium conclusionem per demonstrationem, praecognoverit, idest
+magis cognoverit principia.
+In Graeco planius habetur sic: non est autem possibile credere magis his, quae novit, quae non existit nec sciens,
+neque melius dispositus quam si contigerit sciens.
+|#6 Tertio, ibi: magis enim necesse est etc., exponit quod dixerat, dicens quod hoc, quod dictum est, quod magis
+necesse est credere principiis aut omnibus aut quibusdam quam conclusioni, intelligendum est de illo, qui debet
+accipere scientiam per demonstrationem. Si enim aliunde conclusio esset nota, sicut per sensum, nihil prohiberet
+principia non esse magis nota conclusione in via illa.
+|#7 Deinde, cum dicit: non solum oportet etc., ostendit quod non solum oportet magis cognoscere principia
+quam conclusionem demonstrandam, sed etiam nihil debet esse certius quam quod opposita principiis sint falsa.
+Et hoc ideo, quia oportet scientem non esse incredibilem principiis, sed firmissime eis assentire. Quicunque
+autem dubitat de falsitate unius oppositorum, non potest firmiter inhaerere opposito: quia semper formidat de
+veritate alterius oppositi.
+|+7 Lectio 7
+|#1 Postquam determinavit Philosophus de cognitione principiorum demonstrationis, hic excludit errores ex
+praedeterminata veritate exortos. Et circa hoc tria facit: primo, ponit errores; secundo, rationes errantium; ibi:
+supponentes quidem igitur etc., tertio, excludit rationum radices; ibi: nos autem dicimus etc..
+|#2 Dicit ergo primo quod ex una veritate superius determinata duo errores contrarii sunt exorti. Determinatum
+est enim supra quod oportet principia demonstrationis scire, immo quod etiam ea magis scire oportet. Sed
+primum solum sufficit ad propositum. Propter hoc autem videtur quibusdam quod nullius rei sit scientia;
+quibusdam autem videtur quod sit quidem scientia, sed quod omnium possit haberi scientia per
+demonstrationem.
+11
+
+

@@ -1,0 +1,61 @@
+Trite diezeugmenon.
+Paranete diezeugmenon diatonos.
+Nete diezeugmenon.
+Trite hyperboleon.
+Paranete hyperboleon diatonos.
+Nete hyperboleon.
+Chromaticum.
+Proslambanomenos.
+Hypate hypaton.
+Parhypate hypaton.
+Lichanos hypaton chromaticae.
+Hypate meson.
+Parhypate meson.
+Lichanos meson chromaticae.
+Mese.
+Trite synemmenon.
+Paranete synemmenon chromaticae.
+Nete synemmenon.
+Paramese.
+Trite diezeugmenon.
+Paranete diezeugmenon chromaticae.
+Nete diezeugmenon.
+Trite hyperboleon.
+Paranete hyperboleon chromaticae.
+Nete hyperboleon.
+Enharmonium.
+Proslambanomenos.
+Hypate hypaton.
+Parhypate hypaton.
+Lichanos hypaton enharmonios.
+Hypate meson.
+Parhypate meson.
+Lichanos meson enharmonios.
+Mese.
+Trite synemmenon.
+Paranete synemmenon enharmonios.
+Nete synemmenon.
+Paramese.
+Paranete diezengmenon enharmonios.
+Trite diezeugmenon.
+Nete diezeugmenon.
+Trite hyperboleon.
+Paranete hyperboleon enharmonios.
+Nete hyperboleon.
+XXIII
+Quae sint inter uoces in singulis generibus proportiones.
+[1189] Hoc igitur modo per singula tetrachordo in generum proprietates partitio facta est, ut omnia quidem
+diatonici generis quinque tetrachorda, duobus tonis ac semitonio partiremur. Diciturque in hoc genere [1190] tonus
+imcompositus, idcirco quoniam integer ponitur, nec aliquod ei aliud interuallum adiungitur. Sed in singulis interuallis
+integri insunt toni. In chromate uero semitonio, ac semitonio incompositoque trihemitonio posita diuisio est. Idcirco
+autem incompositum hoc trihemitonium appellauimus, quoniam in uno collocatum est interuallo; potest autem appellari
+[1191] trihemitonium in diatono genere semitonium ac tonus; sed non est incompositum, duobus enim id perficitur
+interuallis, et in enharmonio genere idem est. Constat autem ex diesi, et diesi, et diatono incomposito, quod scilicet
+propter eamdem causam incompositum nuncupamus, quoniam in uno collocatum est interuallo.
+XXIV
+Quid sit synaphe.
+Sed in his ita dispositis constitutisque tetrachordis synaphe est.
+Quam coniunctionem dicere Latina significatione possumus, quotiens duo tetrachorda unius termini medietas
+continuat atque coniungit, ut in hoc tetrachordo.
+
+

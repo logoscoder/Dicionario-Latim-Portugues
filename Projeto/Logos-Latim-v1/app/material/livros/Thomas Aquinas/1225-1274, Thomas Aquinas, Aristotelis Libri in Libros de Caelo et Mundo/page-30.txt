@@ -1,0 +1,58 @@
+|#4 Tertio ibi: post haec autem intendendum etc., ostendit quid sit determinandum immediate post ista. Et dicit
+quod postquam ostenderimus hoc quod dictum est, intentio nostra erit inquirere, supposito quod totum corpus
+universi non sit infinitum, utrum tamen totum corpus sit tantae quantitatis, quod possint ex eo esse plures caeli,
+idest plures mundi. Forte enim potest de hoc aliquis dubitare, an sit possibile quod, sicut iste mundus est
+constitutus circa nos, ita etiam sint alii mundi plures uno, non tamen infiniti. Sed antequam hoc pertractemus,
+dicemus universaliter de infinito, ostendendo scilicet communibus rationibus quod nullum corpus sit infinitum.
+|#5 Deinde cum dicit: necesse itaque etc., ostendit propositum: et primo per rationes naturales demonstrativas;
+secundo per rationes logicas, ibi: rationabilius autem etc.. Dico autem rationes demonstrativas et naturales, quae
+sumuntur ex propriis principiis scientiae naturalis; cuius consideratio consistit circa motum, et actionem et
+passionem, quae in motu consistunt, ut dicitur in III physic.. Primo ergo ostendit nullum corpus esse infinitum,
+ex parte motus localis, qui est primus et communissimus motuum; secundo universaliter ex parte actionis et
+passionis, ibi: quod autem omnino impossibile etc.. Circa primum duo facit: primo praemittit quasdam
+divisiones; secundo prosequitur singula membra, ibi: quod quidem igitur etc..
+|#6 Praemittit ergo primo tres divisiones. Quarum prima est, quod necesse est omne corpus aut esse finitum aut
+infinitum. Et si quidem sit finitum, habemus propositum: si autem sit infinitum, restat secunda divisio, scilicet
+quod aut est totum anomoeomerum, idest dissimilium partium, sicut corpus animalis, quod componitur ex
+carnibus, ossibus et nervis; aut est totum homoeomerum, idest similium partium, sicut aqua, cuius quaelibet pars
+est aqua. Si vero sit totum dissimilium partium, restat tertia divisio: utrum scilicet species partium talis corporis
+sint finitae numero aut infinitae. Si ergo probetur quod non sunt infinitae, neque iterum sunt finitae; et quod
+iterum nullum corpus similium partium sit infinitum: probatum erit quod nullum corpus universaliter est
+infinitum.
+|#7 Deinde cum dicit: quod quidem igitur etc., prosequitur singula praedictorum. Et circa hoc tria facit: primo
+ostendit quod non est possibile corporis dissimilium partium esse infinitas species partium eius; secundo ostendit
+quod non est possibile esse corpus infinitum dissimilium partium, ita quod species partium sint finitae, ibi: sed
+tamen si quidem etc.; tertio ostendit quod non est possibile esse aliquod corpus infinitum similium partium, ibi:
+sed adhuc neque totum etc..
+Dicit ergo primo quod manifestum est quod non est possibile ex infinitis speciebus partium constitui aliquod
+corpus infinitum, si quis permittat manere in sua veritate primas hypotheses, idest suppositiones prius factas,
+scilicet quod sint solae tres species motuum simplicium. Si enim primi motus, scilicet simplices, sunt finiti,
+necesse est quod species corporum simplicium sint finitae: et hoc ideo, quia motus ipsius corporis simplicis est
+simplex, ut supra habitum est. Dictum est autem supra quod simplices motus sunt finiti: sunt enim tres, scilicet
+motus qui est ad medium, et motus qui est a medio, et motus qui est circa medium. Ideo autem oportet quod, si
+motus simplices sunt finiti, quod corpora simplicia sint finita, quia necesse est quod omne corpus naturale habeat
+proprium motum: si autem essent infinitae species corporum, motibus existentibus finitis, oporteret esse aliquas
+species corporum, quae non haberent motus: quod est impossibile.
+Sic igitur ex hoc quod motus simplices sunt finiti, sufficienter probatur quod species corporum simplicium sint
+finitae. Omnia autem corpora mixta componuntur ex simplicibus. Unde si esset aliquod totum dissimilium
+partium, quod componeretur ex infinitis speciebus corporum mixtorum, tamen oporteret quod species primorum
+componentium sint finitae: quamvis etiam hoc non videatur possibile, quod finitorum elementorum
+diversificentur commixtiones in infinitum. Nec tamen aliquod corpus mixtum potest dici omnium similium
+partium: quia, etsi partes eius quantitativae sint similes specie, sicut quaelibet pars lapidis est lapis, partes tamen
+essentiales eius sunt diversae secundum speciem: componitur enim substantia corporis mixti ex corporibus
+simplicibus.
+|#8 Deinde cum dicit: sed tamen si quidem etc., ostendit quod non est possibile esse corpus infinitum
+dissimilium partium, ita quod species partium sint finitae. Et ad hoc inducit quatuor rationes.
+Quarum prima est quod, si corpus dissimilium partium, infinitum existens, ex partibus finitis specie
+componeretur, oporteret quod quaelibet partium eius esset infinita secundum magnitudinem: puta, si aliquod
+corpus mixtum esset infinitum, elementis existentibus finitis, oporteret aerem esse infinitum et aquam et ignem.
+Sed hoc est impossibile: quia, cum quodlibet eorum sit grave vel leve, sequeretur secundum praemissa quod
+gravitas eius vel Levitas esset infinita; ostensum est autem quod nulla gravitas vel Levitas potest esse infinita.
+Ergo non est possibile quod corpus infinitum dissimilium partium componatur ex finitis speciebus partium.
+Potest autem aliquis obiicere quod non sequitur, hac ratione facta, quod unaquaeque partium sit infinita: esset
+enim possibile totum esse infinitum, una parte existente infinita secundum magnitudinem, et aliis existentibus
+finitis. Sed hoc reprobatum est in III physic.: si enim una pars esset infinita, consumeret alias partes finitas
+
+30
+
+

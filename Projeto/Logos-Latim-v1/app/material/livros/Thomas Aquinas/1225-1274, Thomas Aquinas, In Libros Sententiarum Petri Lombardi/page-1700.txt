@@ -1,0 +1,60 @@
+Deinde quaeritur de circumstantiis peccati: et circa hoc quaeruntur duo: 1 de ipsis circumstantiis secundum se; 2
+qualiter se habeant ad peccatum.
+|a1 Articulus 1: Utrum circumstantia sit proprietas moralis actus sive ejus conditio.
+Articulus 1A
+AG1
+Ad primum sic proceditur. Videtur quod circumstantia non sit proprietas moralis actus, sive ejus conditio. Dicit
+enim boetius in 4 topicor., quod circumstantiae sunt quae convenientes substantiam rhetoricae quaestionis
+efficiunt. Sed quaestio rhetorica non pertinet ad genus morale, sed magis ad genus philosophiae rationalis. Ergo
+circumstantia non est conditio moralis actus.
+AG2
+Praeterea, illud quod est circa aliquid, non est in eo. Sed conditio actus moralis in ipso est.
+Ergo non potest talis conditio circumstantia dici.
+AG3
+Praeterea, ipsi actus morales sunt circumstantiae quaedam, a quibus confirmatur oratio rhetoris: est enim
+circumstantia, secundum tullium, per quam recipit argumentatio fidem et auctoritatem, et firmamentum adjungit
+oratio. Sed circumstantiae non est circumstantia, sicut nec accidentis accidens; alias in infinitum iretur. Ergo
+circumstantia non est conditio vel proprietas moralis actus.
+SC1
+Sed contra, ignorantia circumstantiae excusat moralem actum a peccato. Sed hoc non esset, nisi essent moralis
+actus conditiones. Ergo sunt conditiones vel proprietates moralis actus.
+SC2
+Praeterea, medium virtutis ad morale genus pertinet. Sed medium in virtutibus moralibus accipitur secundum
+circumstantiarum debitam limitationem, ut quando oportet, et ubi, et quomodo, sicut Philosophus 3 ethic. Docet.
+Ergo sunt conditiones morales.
+CO
+Respondeo dicendum ad primam quaestionem, quod actus nostri dicuntur morales secundum quod a ratione
+ordinantur in finem voluntatis; ex hoc enim habent rationem boni vel mali.
+Omne autem quod ordinatur ad finem, oportet esse proportionatum fini; et ideo ratio quae actum nostrum in
+finem ordinat, attendit proportionem actus ad ea quae ad actum concurrere possunt; et ista commensuratio
+circumstantia dicitur. Et quia in qualibet proportione oportet esse ad minus duos terminos (nihil enim sibi ipsi
+proportionatur, sed alteri); ideo circumstantia moralis actus dupliciter accipi consuevit: quia potest dici
+circumstantia, vel illud quod est ad actum concurrens ad quem proportionatur, sicut locus aut tempus; vel ipsa
+conceptio quae ex illis relinquitur, ut quando vel ubi.
+Sic ergo ultimo modo accipiendo circumstantiam, erit conditio vel proprietas actus; sed primo modo accipiendo,
+quaedam circumstantia est proprietas actus, ut modus agendi, et quaedam extra, ut locus et tempus.
+RA1
+Ad primum ergo dicendum, quod quaestio rhetoris secundum quodlibet genus causae attendit bonum et malum:
+quia in judiciali praemium vel poena expectatur, quae actui bono vel malo debentur; in demonstrativo autem laus
+personae vel vituperium quaeritur, quae bonis actibus vel malis debentur; in deliberativo autem quaeritur quid sit
+utile ad agendum; in quo et rationem boni et mali attendere oportet; et ideo ex eisdem ex quibus actus morales
+boni et mali redduntur, rhetores argumenta sumunt ad persuadendum.
+RA2
+Ad secundum dicendum, quod circa aliquid dicitur stare omne illud quod non est de essentia rei, sive insit, sicut
+albedo corpori, sive non insit, sicut locus locato; et ideo conditiones vel proprietates circumstantiae actus dici
+possunt, et praecipue ratione habitudinis ad exterius.
+RA3
+Ad tertium dicendum, quod accidentis non est accidens, quasi ipsum sit per seipsum accidentis subjectum; sed
+accidentis potest esse accidens inquantum unum accidens adhaeret substantiae mediante alio, sicut color corpori
+mediante superficie; et sic etiam ipsius actus circumstantia, vel proprietas aliqua, quamvis ipse sit conditio
+personae agentis.
+Articulus 1B
+AG1
+Ulterius. Videtur quod inconvenienter enumerentur circumstantiae in hoc versu: quis, quid, ubi, quibus auxiliis,
+cur, quomodo, quando.
+Illud enim quod est causa rei, non potest esse circumstantia ejus, cum causa sit prior, circumstantia posterior
+quasi proprietas. Sed persona agens quae notatur cum dicitur quis, est causa moralis actus. Ergo non debet poni
+circumstantia.
+1700
+
+

@@ -1,0 +1,66 @@
+principium, oportet infinitum esse substantiam simplicem, non compositam ex
+partibus difformibus, sicut homo, cuius non quaelibet pars est homo. Cum
+ergo impossibile sit alicuius infiniti quamlibet partem esse infinitam,
+oportet quod infinitum sit impartibile et indivisibile.
+Sed illud quod est indivisibile, non potest esse infinitum in actu: quia
+quod est infinitum in actu est quantum, et omne quantum est divisibile.
+Sequitur ergo quod si est infinitum in actu, non sit sicut substantia, sed
+sub ratione accidentis quod est quantitas. Et si hoc sit infinitum, non
+erit principium, sed illud cui accidit infinitum; sive illud sit aliqua
+substantia sensibilis, ut aer, sicut posuerunt Philosophi naturales; sive
+sit aliqua substantia intelligibilis, ut par, sicut posuerunt Pythagorici.
+Unde manifestum est quod inconvenienter dixerunt Pythagorici, ponentes
+infinitum esse substantiam, et simul cum hoc ponentes ipsum esse
+divisibile: quia sequitur quod quaelibet pars eius sit infinita; quod est
+impossibile, ut supra dictum est.
+|#13
+Ultimo autem dicit quod ista quaestio, quae est: an infinitum sit in
+mathematicis quantitatibus et in rebus intelligibilibus non habentibus
+magnitudinem, est magis universalis quam sit praesens consideratio.
+Nos enim intendimus ad praesens de rebus sensibilibus, de quibus tradimus
+scientiam naturalem: utrum in ipsis sit corpus infinitum in augmentum, ut
+antiqui naturales posuerunt.
+|+8
+
+Lectio 8
+
+|#1
+Postquam Philosophus removit opinionem antiquorum qui de infinito non
+naturaliter loquebantur, illud a sensibilibus separantes, hic ostendit non
+esse infinitum, sicut Philosophi naturales ponebant.
+Et primo ostendit hoc per rationes logicas; secundo per rationes naturales,
+ibi: physice autem magis etc..
+Dicuntur autem primae rationes logicae, non quia ex terminis logicis logice
+procedant, sed quia modo logico procedunt, scilicet ex communibus et
+probabilibus, quod est proprium syllogismi dialectici.
+|#2
+Ponit ergo duas logicas rationes.
+In quarum prima ostenditur quod non sit aliquod corpus infinitum.
+Definitio enim corporis est, quod sit determinatum planitie, idest
+superficie, sicut definitio lineae est quod eius termini sint puncta.
+Nullum autem corpus determinatum superficie, est infinitum: ergo nullum
+corpus est infinitum; neque sensibile, quod est corpus naturale, neque
+intelligibile, quod est corpus mathematicum.
+Quod ergo dicit rationabiliter, exponendum est logice: nam logica dicitur
+rationalis philosophia.
+|#3
+Secunda ratio ostendit quod non sit infinitum multitudine. Omne enim
+numerabile contingit numerari, et per consequens numerando transiri; omnis
+autem numerus, et omne quod habet numerum, est numerabile; ergo omne
+huiusmodi contingit transiri. Si igitur aliquis numerus, sive separatus,
+sive in sensibilibus existens, sit infinitus, sequetur quod possibile sit
+transire infinitum; quod est impossibile.
+|#4
+Attendendum est autem quod istae rationes sunt probabiles, et
+procedentes ex iis quae communiter dicuntur. Non enim ex necessitate
+concludunt: quia qui poneret aliquod corpus esse infinitum, non concederet
+quod de ratione corporis esset terminari superficie, nisi forte secundum
+potentiam; quamvis hoc sit probabile et famosum.
+Similiter qui diceret aliquam multitudinem esse infinitam, non diceret eam
+esse numerum, vel numerum habere. Addit enim numerus super multitudinem
+rationem mensurationis: est enim numerus multitudo mensurata per unum, ut
+dicitur in X metaphys.. Et propter hoc numerus ponitur species quantitatis
+discretae, non autem multitudo; sed est de transcendentibus.
+97
+
+

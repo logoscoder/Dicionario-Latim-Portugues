@@ -1,0 +1,56 @@
+est; quia hoc videtur petere principium. Sed hoc petendum est, quod detur nomina aliquid significare; quo non
+dato, disputatio tollitur.
+Hoc autem dato, oportet ponere definitiones, sicut iam supra dictum est. Et ideo ex definitionibus contra eos
+disputare oportet, et praecipue in proposito, accipiendo definitionem falsi. Si autem non est aliud verum, quam
+illud affirmare, quod falsum est negare, et e converso: et similiter falsum non aliud est quam affirmare id quod
+negare est verum, et e converso: sequitur quod impossibile sit omnia esse falsa; quia necesse erit vel
+affirmationem vel negationem esse veram. Patet enim, quod verum nihil est aliud quam dicere esse quod est, vel
+non esse quod non est. Falsum autem, dicere non esse quod est, vel esse quod non est. Et ideo patet, quod verum
+est dicere illud esse, quod falsum est non esse; vel non esse, quod falsum est esse.
+Et falsum est dicere id esse, quod verum est non esse; vel non esse quod verum est esse. Et ita, ex definitione
+veri vel falsi, patet quod non sunt omnia falsa. Et ratione eadem patet quod non omnia sunt vera.
+|#6 Deinde cum dicit amplius si tertiam rationem ponit, quae talis est.
+Constat ex praedictis, quod necesse est de quolibet aut affirmare aut negare, cum nihil sit medium in
+contradictione. Igitur impossibile est omnia falsa esse. Et eadem ratione probatur quod impossibile est omnia
+esse vera, per hoc quod ostensum est, quod non est simul affirmare et negare.
+|#7 Deinde cum dicit contingit autem quartam rationem ponit, quae talis est.
+Ad omnes praedictas orationes, idest positiones, contingit hoc inconveniens quod seipsas destruunt. Et hoc est
+famatum, idest famosum ab omnibus dictum. Unde alius textus habet, accidit autem et id vulgare. Quod sic
+probat. Ille enim, qui dicit omnia esse vera, facit opinionem contrariam suae opinioni esse veram; sed contraria
+suae opinionis est quod sua opinio non sit vera: ergo qui dicit omnia esse vera, dicit suam opinionem non esse
+veram, et ita destruit suam opinionem. Et similiter manifestum est quod ille, qui dicit omnia esse falsa, dicit
+etiam seipsum dicere falsum.
+|#8 Et quia posset aliquis dicere quod dicens omnia vera excipit aut aufert ab universalitate suam contrariam, et
+similiter, qui dicit omnia esse falsa excipit suam opinionem: ideo hanc responsionem excludit; et dicit, quod si
+ille qui dicit omnia esse vera, excipiat suam contrariam, dicens solam eam esse non veram, et dicens omnia esse
+falsa excipiat suam opinionem dicens quod ipsa sola non est falsa, nihilominus sequitur quod contingat eis
+quaerere, idest repetere infinitas esse orationes veras contra ponentes omnia esse falsa, et infinitas falsas contra
+ponentes omnia vera esse. Si enim detur una opinio vera, sequetur infinitas esse veras. Et si detur una opinio
+falsa, sequetur infinitas esse falsas. Si enim haec positio vel opinio est vera: socrates sedet, ergo et haec erit vera:
+socratem sedere est verum. Et si illa est vera, ulterius haec erit vera, socratem sedere esse verum est verum, et sic
+in infinitum. Semper enim qui dicit de oratione vera quod sit vera, verus est. Et qui dicit de oratione falsa quod
+sit vera, falsus est. Et hoc potest procedere in infinitum.
+|#9 Deinde cum dicit palam autem disputat contra opiniones destruentes principia naturae, scilicet motum et
+quietem: et circa hoc tria facit.
+Primo tangit falsitatem harum opinionum; dicens, quod ex praedictis est manifestum, quod nec opinio dicens
+omnia moveri, nec opinio dicens omnia quiescere, vera est.
+|#10 Deinde cum dicit nam si quiescunt secundo ostendit has opiniones esse falsas.
+Et primo ostendit quod opinio sit falsa, quae ponit omnia quiescere: quia si omnia quiescunt, tunc nihil
+removetur a dispositione, in qua aliquando est; et ideo quicquid est verum, semper erit verum, et quicquid est
+falsum, semper est falsum.
+Sed hoc videtur inconveniens: transmutatur enim veritas et falsitas propositionis.
+Nec hoc est mirum: quia homo, qui opinatur vel profert propositionem, aliquando non erat, postmodum fuit, et
+iterum non erit.
+|#11 Secundo ostendit esse falsam opinionem quae ponit omnia moveri, duabus rationibus. Quarum primam
+ponit ibi, si vero omnia.
+Quae talis est. Si omnia moventur et nihil est quiescens, nihil erit verum in rebus: quia quod est verum, iam est;
+quod autem movetur nondum est: ergo oportet omnia esse falsa: quod est impossibile, ut ostensum est.
+|#12 Deinde cum dicit amplius autem secundam rationem ponit, quae talis est.
+Omne quod permutatur, necessario est ens; quia omne quod permutatur, ex aliquo in aliud permutatur; et omne
+quod in aliquo permutatur, inest ei quod permutatur.
+Unde non oportet dicere quod quicquid est in re permutata, mutetur, sed quod aliquid sit manens; et ita non
+omnia moventur.
+
+118
+
+

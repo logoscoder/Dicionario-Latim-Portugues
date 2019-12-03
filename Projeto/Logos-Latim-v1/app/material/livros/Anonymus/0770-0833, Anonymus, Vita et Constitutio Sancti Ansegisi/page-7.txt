@@ -1,0 +1,41 @@
+[s] {foot}
+[0744D] De Floriacensi monasterio dictum saepius, uti et de Ferrariensi et sancti Carilefi, quae
+hactenus supersunt. Ad sanctum Benedictum in Floriaco libram unam.
+[s] {foot}
+[0744D] De Floriacensi monasterio dictum saepius, uti et de Ferrariensi et sancti Carilefi, quae
+hactenus supersunt. Ad Ferrarias libras duas.
+[s] {foot}
+[0744D] De Floriacensi monasterio dictum saepius, uti et de Ferrariensi et sancti Carilefi, quae
+hactenus supersunt. Ad sanctum Carilefum libram unam et semis.
+[t] {foot}
+[0744D] Corbionense dicebatur monasterium a sancto Launomaro aedificatum. Ad Curbionem
+monasterium libram unam.
+[u] {foot}
+[0744D] Supersunt apud Senonas monasteria Sanctae [0745B] Columbae et Sancti Petri ordinis nostri.
+S. Remigii [0745C] coenobium, quod itidem in hujus civitatis suburbio situm erat, jam destructum est, praeter
+oratorium modo paroeciale. Ad sanctam Columbam in Senonis, illis monachis libras duas: illis canonicis in
+eadem civitate [0745A] libras duas. Item ad Sanctum Petrum illis monachis in eadem urbe libram unam.
+[a] {foot}
+[0745C] Antisiodori vero monasterium Sancti Germani hactenus subsistit. In Antisiodoro urbe illis
+canonicis libram unam. Ad Sanctum Remigium illis monachis similiter. Ad Sanctum Heracleum in eadem urbe
+similiter. Item in Antisiodoro ad Sanctum Germanum illis monachis libram unam.
+[b] {foot}
+[0745C] Cellense monasterium Sancti Petri apud Trecas, de quo infra, ubi de translatione sancti
+Frodoberti abbatis, hactenus floret. In Trecas illis monachis ad Sanctum Petrum libram unam.
+[c] {foot}
+[0745C] Meldis coenobium Sanctae Crucis, nunc dicitur Sancti Faronis. Ad Sanctam Crucem Meldis
+illis monachis similiter.
+[d] {foot}
+[0745C] Fossatense vero Sancti Mauri, de quo inferius, ubi de translatione S. Mauri, ab uno saeculo
+saeculari toga donatum est. Ad Fossatos monasterium illis monachis libras duas.
+[e] {foot}
+[0745C] Apud Parisios Sanctae Genovefae monasterium est canonicorum regularium ordinis sancti
+Augustini: Sancti Germani et Sancti Dionysii monasteria hactenus vigent sub ordine nostro. Ad Sanctam
+Genovefam Parisius libras duas. Ad Sanctum Germanum Parisius libras tres: in [0745B] eadem urbe illis
+canonicis libram unam. Ad sanctum Dionysium libras quinque. Ad Calam monasterium libras duas.
+[f] {foot}
+[0745C] Item Bellovaci coenobium Sancti Luciani; tum Flaviacense Sancti Geremari, sic dictum a
+Geremaro [0745D] conditore. At Oratorium, Oroer, Sancti Ebrulfi quondam, postea Sanctae Angadrismae,
+7
+
+

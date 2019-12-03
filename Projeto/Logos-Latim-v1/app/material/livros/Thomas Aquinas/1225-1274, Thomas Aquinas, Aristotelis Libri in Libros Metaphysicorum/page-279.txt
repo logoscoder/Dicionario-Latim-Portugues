@@ -1,0 +1,56 @@
+|#3 Deinde cum dicit et quo primo dicit in qua specie quantitatis primo sit unum et mensura.
+Et circa hoc duo facit. Primo ostendit quod ratio mensurae primo invenitur in discreta quantitate, quae est
+numerus; dicens, quod id quo primo cognoscitur quantitas est ipsum unum, idest unitas, quae est principium
+numeri. Nam unum in aliis speciebus quantitatis non est ipsum unum, sed aliquid cui accidit unum; sicut dicimus
+unam manum, aut unam magnitudinem.
+Unde sequitur, quod ipsum unum, quod est prima mensura, sit principium numeri secundum quod est numerus.
+|#4 Secundo cum dicit hinc autem ostendit quomodo derivetur in alias species quantitatis.
+Et circa hoc duo facit. Primo ostendit ad quas species quantitatis derivetur; dicens, quod hinc, scilicet ex numero
+et uno quod est principium numeri, dicitur mensura in aliis quantitatibus, id scilicet quo primo cognoscitur
+unumquodque eorum. Et id quod est mensura cuiuslibet generis quantitatis, dicitur unum in illo genere.
+|#5 Et hoc exemplificat in tribus generibus; scilicet in dimensionibus quae sunt scilicet longitudo, et latitudo, et
+profunditas.
+Et in ponderibus, in hoc quod dicit, in gravitate. Et in motibus, in hoc, quod dicit, in velocitate, quod referatur ad
+mensuram temporis. Et de dimensionibus quidem nulli dubium erat, quin quantitates essent, et quod proprie eis
+primo competeret mensurari. Sed de gravitate et velocitate poterat esse dubium, eo quod magis videntur esse
+qualitates quam quantitates.
+|#6 Et ideo dicit, quomodo pertinent ad genus quantitatis, et quomodo competit eis mensurari; dicens, quod
+gravitas et velocitas habent aliquid commune in contrariis, quia scilicet in uno contrariorum invenitur alterum:
+nam grave est aliquo modo leve, et e converso; et velox est aliquo modo tardum. Utrumque enim eorum est
+duplex. Sicut grave, uno modo dicitur absolute, scilicet quod habet inclinationem ut feratur ad medium, sine hoc
+quod consideretur quantum habeat de tali inclinatione: et sic non pertinet ad genus quantitatis, nec competit ei
+mensurari. Alio modo dicitur grave per comparationem ad aliud, scilicet quod excedit alterum in inclinatione
+praedicta; ut scilicet dicamus, quod terra est gravis in comparatione ad aquam, et plumbum in comparatione ad
+lignum. Sic igitur ratione huius excessus, invenitur aliqua ratio quantitatis et mensurae.
+Et similiter velox dicitur dupliciter.
+Uno modo absolute, scilicet quod habet motum quemcumque. Et alio modo quod habet excessum motus. Et uno
+modo competit sibi ratio quantitatis et mensurae. Alio modo non.
+|#7 Et ut exponat quod dixerat de conditione gravitatis et velocitatis in contrariis, subdit quod in ipso tardo
+invenitur velocitas, inquantum id quod est simpliciter et absolute tardum, per excessum se habet ad tardiora. Et
+similiter gravitas invenitur in levi, sicut aer est levis ad terram, et gravis ad ignem comparatus.
+|#8 Deinde cum dicit in omnibus ostendit qualiter a numero derivetur ratio mensurae ad alia.
+Et primo hoc manifestat simul in dimensionibus et ponderibus. Secundo in velocitate motuum, ibi, et motum
+simplici motu.
+Dicit ergo primo, quod hoc modo derivatur ratio mensurae a numero ad alias quantitates, quod sicut unum quod
+est mensura numeri est indivisibile, ita in omnibus aliis generibus quantitatis aliquod unum indivisibile est
+mensura et principium.
+Sicut in mensuratione linearum utuntur homines quasi indivisibili, mensura pedali, idest unius pedis: ubique
+enim quaeritur pro mensura aliquid indivisibile, quod est aliquod simplex, vel secundum qualitatem, vel
+secundum quantitatem.
+Secundum qualitatem quidem, ut album in coloribus, quod quodammodo est mensura colorum, ut dicetur infra.
+Secundum quantitatem vero, ut unitas in numero, et mensura pedalis in lineis.
+|#9 Assignat autem rationem, quare mensuram oportet esse aliquid indivisibile; quia scilicet hoc est certa
+mensura, a qua non potest aliquid auferri vel addi. Et ideo unum est mensura certissima; quia unum quod est
+principium numeri, est omnino indivisibile, nullamque additionem aut subtractionem suscipiens manet unum.
+Sed mensurae aliorum generum quantitatis imitantur hoc unum, quod est indivisibile, accipiens aliquid minimum
+pro mensura secundum quod possibile est. Quia si acciperetur aliquid magnum, utpote stadium in longitudinibus,
+et talentum in ponderibus, lateret, si aliquod modicum subtraheretur vel adderetur; et semper in maiori mensura
+hoc magis lateret quam in minori.
+|#10 Et ideo omnes accipiunt hoc pro mensura tam in humidis, ut est oleum et vinum, quam in siccis, ut est
+granum et hordeum, quam in ponderibus et dimensionibus, quae significantur per grave et magnitudinem; quod
+primo invenitur tale, ut ab eo non possit aliquid auferri sensibile vel addi quod lateat. Et tunc putant se
+cognoscere quantitatem rei certitudinaliter, quando cognoscunt per huiusmodi mensuram minimam.
+
+279
+
+

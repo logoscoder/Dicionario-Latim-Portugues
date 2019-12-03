@@ -1,0 +1,62 @@
+[82575] In Metaphysic., lib. 5 l. 17 n. 10
+Quandoque vero numerus maior continet totum numerum minorem semel, et insuper unam aliquam partem eius. Et
+tunc dicitur superparticularis. Et si quidem contineat totum et medium, vocatur sesquialterum, sicut tria ad duo. Si
+autem tertiam, sesquitertius, sicut quatuor ad tria. Si quartam, sesquiquartus, sicut quinque ad quatuor. Et sic inde.
+[82576] In Metaphysic., lib. 5 l. 17 n. 11
+Quandoque numerus maior continet minorem totum semel; et insuper non solum unam partem, sed plures partes. Et sic
+dicitur superpartiens. Et si quidem contineat duas partes, dicitur superbipartiens, sicut quinque se habent ad tria. Si vero
+tres, dicitur supertripartiens, sicut septem se habent ad quatuor. Si autem quatuor, sic est superquadripartiens; et sic se
+habet novem ad quinque. Et sic inde.
+[82577] In Metaphysic., lib. 5 l. 17 n. 12
+Quandoque vero numerus maior continet totum minorem pluries, et insuper aliquam partem eius; et tunc dicitur
+multiplex superparticularis. Et si quidem contineat ipsum bis et mediam partem eius, dicitur duplum sesquialterum,
+sicut quinque ad duo. Si autem ter et mediam partem eius, vocabitur triplum sesquialterum, sicut se habent septem ad
+duo. Si autem quater et dimidiam partem eius, dicitur quadruplum sesquialterum, sicut novem ad duo. Possent etiam ex
+parte superparticularis huiusmodi proportionis species sumi, ut dicatur duplex sesquitertius, quando maior numerus
+habet minorem bis et tertiam partem eius, sicut se habent septem ad tria: vel duplex sesquiquartus, sicut novem ad
+quatuor, et sic de aliis.
+[82578] In Metaphysic., lib. 5 l. 17 n. 13
+Quandoque etiam numerus maior habet minorem totum pluries, et etiam plures partes eius, et tunc dicitur multiplex
+superpartiens. Et similiter proportio potest dividi secundum species multiplicitatis, et secundum species superpartientis,
+si dicatur duplum superbipartiens, quando habet maior numerus totum minorem bis et duas partes eius, sicut octo ad
+tria. Vel etiam triplum superbipartiens, sicut undecim ad tres. Vel etiam duplum supertripartiens, sicut undecim ad
+quatuor. Habet enim totum bis, et tres partes eius.
+[82579] In Metaphysic., lib. 5 l. 17 n. 14
+Et totidem species sunt ex parte inaequalitatis eius qui exceditur. Nam numerus minor dicitur submultiplex,
+subparticularis, subpartiens, submultiplex subparticularis, submultiplex subpartiens, et sic de aliis.
+[82580] In Metaphysic., lib. 5 l. 17 n. 15
+Sciendum autem quod prima species proportionis, scilicet multiplicitas, consistit in comparatione unius numeri ad
+unitatem. Quaelibet enim eius species invenitur primo in aliquo numero respectu unitatis. Duplum primo invenitur in
+binario respectu unitatis. Et similiter proportio tripli in ternario respectu unitatis, et sic de aliis. Primi autem termini in
+quibus invenitur aliqua proportio, dant speciem ipsi proportioni. Unde in quibuscumque aliis terminis consequenter
+inveniatur, invenitur in eis secundum rationem primorum terminorum. Sicut proportio dupla primo invenitur inter duo
+et unum. Unde ex hoc proportio recipit rationem et nomen. Dicitur enim proportio dupla proportio duorum ad unum. Et
+propter hoc, si etiam unus numerus respectu alterius numeri sit duplus, tamen hoc est secundum quod minor numerus
+accipit rationem unius, et maior rationem duorum. Sex enim se habet in dupla proportione ad tria, inquantum tria se
+habent ad sex ut unum ad duo. Et simile est in tripla proportione, et in omnibus aliis speciebus multiplicitatis. Et ideo
+dicit, quod ista relatio dupli, est per hoc quod numerus determinatus, scilicet duo, refertur ad unum, idest ad unitatem.
+[82581] In Metaphysic., lib. 5 l. 17 n. 16
+Sed hoc quod dico, multiplex, importat relationem numeri ad unitatem; sed non alicuius determinati numeri, sed numeri
+in universali. Si enim determinatus numerus accipiatur ut binarius vel ternarius, esset una species multiplicitatis, ut
+dupla vel tripla. Sicut autem duplum se habet ad duo, et triplum ad tria, quae sunt numeri determinati, ita multiplex ad
+multiplicitatem, quia significat numerum indeterminatum.
+[82582] In Metaphysic., lib. 5 l. 17 n. 17
+Aliae autem proportiones non possunt attendi secundum numerum ad unitatem, scilicet neque proportio
+superparticularis, neque superpartiens, neque multiplex superparticularis, neque multiplex superpartiens. Omnes enim
+hae proportionum species attenduntur secundum quod maior numerus continet minorem semel, vel aliquoties; et
+insuper unam vel plures partes eius. Unitas autem partem habere non potest: et ideo nulla harum proportionum potest
+attendi secundum comparationem numeri ad unitatem, sed secundum comparationem numeri ad numerum. Et sic est
+duplex, vel secundum numerum determinatum, vel secundum numerum indeterminatum.
+[82583] In Metaphysic., lib. 5 l. 17 n. 18
+Si autem secundum numerum determinatum, sic est hemiolum, idest sesquialterum, aut subhemiolum, idest
+supersesquialterum. Proportio enim sesquialtera primo consistit in his terminis, scilicet ternario et binario; et sub
+ratione eorum in omnibus aliis invenitur. Unde quod dicitur hemiolum vel sesquialterum importat relationem
+determinati numeri ad determinatum numerum, scilicet trium ad duo.
+[82584] In Metaphysic., lib. 5 l. 17 n. 19
+Quod vero dicitur superparticulare, refertur ad subparticulare, non secundum determinatos numeros, sicut etiam
+multiplex refertur ad unum, sed secundum numerum indeterminatum. Primae enim species inaequalitatis superius
+numeratae accipiuntur secundum indeterminatos numeros, ut multiplex, superparticulare, superpartiens et cetera.
+Species vero istorum accipiuntur secundum numeros determinatos, ut duplum, triplum, sesquialterum, sesquitertium, et
+sic de aliis.
+
+

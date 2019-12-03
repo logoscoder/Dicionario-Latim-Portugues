@@ -1,0 +1,61 @@
+proportionem; quae est scilicet minor, id quod relinquitur minus est eius medietate, quae detracta est proportionis, ut in
+sesquialtera ac sesquitertia. Quonirm sesquialtera maior est, sesquitertiam de sesquialtera detrahamus, relinquitur
+sesquioctaua proportio quae duplicata non efficit integram sesquitertiam proportionem sed ea distantia minor est quae
+in semitonio reperitur; quod si duplicata sesquioctaua comparatio non est integra sesquitertiae, simplex sesquioctaua
+non est sesquitertiae proportionis plena medietas; quod si sesquiquartum sesquitertio auferas, id quod relinquitur
+medietatem sesquiquarti non efficit, idemque in caeteris.
+XXI
+Demonstratio per impossibile diapason in multiplici genere esse.
+Age nunc ad diapason consonantiam redeamus. [1214] Quod si ea non est in multiplici genere inaequalitatis,
+cadet in superparticulare inaequalitatis genus. Sit igitur superparticularis proportio diapason consonantia. Auferatur ab
+ea continua consonantia, id est diapente, relinquitur diatessaron. Bis igitur diatessaron minus est uno diapente, et ipsum
+diatessaron non implet diapente consonantiae medietatem, quod est impossibile. Monstrabitur enim bisdiatessaron tono
+ac semitonio consonantiam diapente transcendere. Quocirca nec diapason quidem in superparticulari inaequalitatis
+genere poni potest.
+[PLLXIII:1214; text: Tonus, Differentia 32, Semitonium, Differentia 13, Differentia 27, Differentia 24, 288,
+256, 243, 216, 192, Diapente, 69, Diatessaron, 64] [BOEDIM2 05GF]
+XXII
+Demonstratio per impossible diapente diatessaron et tonum in superparticulari esse.
+Restat igitur ut diapente ac diatessaron, et tonum, in superparticularitate ponenda esse monstremus. Nam etsi
+id in prima quoque probatione ea qua diapason in superparticulari genere non esse ponenda monstrauimus, id quoque
+quodam rationis modo perclaruit; sigillatim tamen de eo ac diligentius pertractemus. Nam si in superparticulari quis has
+habitudines ponendas esse non dixirit, in mutiplici genere fatebitur collocandas. Nam in superpartienti uel caeteris
+mixtis cur poni non possint, superius (ut arbitror) explanatum est. Ponantur igitur, si fieri potest, in multiplici genere. Et
+quoniam diatessaron consonantia minor est, diapente maior, diatessaron duplici, diapente uero triplici proportioni
+multiplicitatis aptetur. Verisimile est enim ut est consonantia diatessaron consonantiae, diapente continua. ita si
+diatessaron in duplici statuitur, diapente incontinua duplicis poni, id est triplici.
+Tonus autem quoniam in habitudinis musicis post diatessaron locatur, nimirum in ea proportione ponatur, quae
+est minor duplici. Haec autem in multiplicitatis genere non potest inueniri. Restat igitur ut in superparticularitatis
+habitudinem cadat. Sit igitur prima, id est sesquialtera, toni proportio. Nam si duplicem auferamus, triplici, quod
+relinquitur, sesquialter est. Quod si diatessaron [1215] quidem duplex est, diapente uero triplum, sublato diatessaron a
+diapente tonus reliquus fit, nullo modo dubitari potest quin tonus in sesquialtera debeat proportione constitui. Sed duae
+sesquialterae proportiones duplicem uincunt, quemadmodum ex arithmeticis instructus sibi potest quisque colligere.
+Duo igitur toni diatessaron superabunt, quod est inconueniens: diatessaron enim duos tonos semitonii spatio
+transcendit. Non igitur fieri potest ut non diapente ac diatessaron in superparticulari inaequalitatis genere collocetur.
+Quod si quis tonum quoque in multiplici genere esse perscribat, quoniam quidem tonus minor est quam diatessaron.
+Diatessaron uero minus est quam diapente, diapente quidem ponatur in quadrupla, diatessaron in tripla, tonus in duplici.
+Sed diapente constat ex diatessaron et tono. Quadruplum igitur secundum hanc rationem constabit ex triplo ac duplo,
+quod fieri nequit. Rursus statuatur diatessaron quidem in triplici, et diapente in quadruplo. Si igitur auferamus triplum a
+quadruplo, sesquitertius relinquetur. Rursus si diatessaron diapente consonantiae subtrahas, fit reliquus tonus. Tonus
+igitur secundum hanc rationem in sesquitertia proportione constabit. Sed tres sesquitertii uno triplici sunt minores. Tres
+igitur toni unum diatessaron nulla ratione supplebunt, quod est falsissimum. Duo enim toni ac semitonium minus
+diatessaron consonantiam supplent. Ex his igitur demonstratur diatessaron consonantiam non esse multiplicem. Dico
+autem quoniam nec diapente consonantia in multiplici genere poterit collocari. Nam si in eo statuatur, quoniam est ei
+minor continua, id est diatessaron, non locabitur diapente in minimo multiplici, id est duplici scilicet ut si locus quo
+diatessaron consonantia possit aptari. Sed diatessaron consonantia multiplicis generis non est. Quocirca nec diapente, in
+maiore habitudine multiplicis quam est dupla quae minima est, aptari potest. Si igitur diapente in minima, scilicet
+dupla, diatessaron uero, quae minor est, in multiplici quidem aptari non potest. Non est enim quidquam minus a se
+duplici. Sit igitur sesquialtera, tonus uero sesquitertia, in continua enim proportione locabitur. Sed duo sesquitertii
+ampliores sunt uno sesquialtero. Duo igitur toni unam diatessaron consonantiam uincent, quod nulla ratione continget.
+Ex his igitur approbatur diapente ac diatessaron in multiplici genere collocari non posse: quocirca in superparticulari
+inaequalitatis genere iure ponentur.
+XXIII
+Demonstratio diapente et diatessaron in maximis superparticularibus collocari.
+Illud quoque addendum necessario est, quoniam si diapente ac diatessaron superparticulares proportiones
+tenent, in maximis superparticularihus proportionibus collocantur. Sunt autem maxime sesquialtera et sesquitertia. Hoc
+uero approbabitur hoc modo. Nam si in minoribus proportionibus quam sesquialtera [1216] uel sesquitertia diapente ac
+diatessaron consonantiae collocentur, non est dubium quin sicut aliae quaelibet proportiones superparticulares praeter
+sesquialteram et sesquitertiam iunctae non efficiunt unum duplum, ita diapente ac diatessaron unum diapason nulla
+ratione concludunt.
+
+

@@ -1,0 +1,62 @@
+Respondeo dicendum quod singulare in rebus materialibus intellectus noster directe et primo cognoscere non
+potest.
+Cuius ratio est, quia principium singularitatis in rebus materialibus est materia individualis, intellectus autem
+noster, sicut supra dictum est, intelligit abstrahendo speciem intelligibilem ab huiusmodi materia. Quod autem a
+materia individuali abstrahitur, est universale. Unde intellectus noster directe non est cognoscitivus nisi
+universalium.
+Indirecte autem, et quasi per quandam reflexionem, potest cognoscere singulare, quia, sicut supra dictum est,
+etiam postquam species intelligibiles abstraxit, non potest secundum eas actu intelligere nisi convertendo se ad
+phantasmata, in quibus species intelligibiles intelligit, ut dicitur in III de anima.
+Sic igitur ipsum universale per speciem intelligibilem directe intelligit; indirecte autem singularia, quorum sunt
+phantasmata. Et hoc modo format hanc propositionem, socrates est homo.
+RA1
+Unde patet solutio ad primum.
+RA2
+Ad secundum dicendum quod electio particularis operabilis est quasi conclusio syllogismi intellectus practici, ut
+dicitur in VII ethic..
+Ex universali autem propositione directe non potest concludi singularis, nisi mediante aliqua singulari
+propositione assumpta. Unde universalis ratio intellectus practici non movet nisi mediante particulari
+apprehensione sensitivae partis, ut dicitur in III de anima.
+RA3
+Ad tertium dicendum quod singulare non repugnat intelligibilitati inquantum est singulare, sed inquantum est
+materiale, quia nihil intelligitur nisi immaterialiter. Et ideo si sit aliquod singulare immateriale, sicut est
+intellectus, hoc non repugnat intelligibilitati.
+RA4
+Ad quartum dicendum quod virtus superior potest illud quod potest virtus inferior, sed eminentiori modo. Unde
+id quod cognoscit sensus materialiter et concrete, quod est cognoscere singulare directe, hoc cognoscit intellectus
+immaterialiter et abstracte, quod est cognoscere universale.
+|a2 Articulus 2
+AG1
+Ad secundum sic proceditur. Videtur quod intellectus noster possit cognoscere infinita. Deus enim excedit omnia
+infinita.
+Sed intellectus noster potest cognoscere Deum, ut supra dictum est.
+Ergo multo magis potest cognoscere omnia alia infinita.
+AG2
+Praeterea, intellectus noster natus est cognoscere genera et species. Sed quorundam generum sunt infinitae
+species, sicut numeri, proportionis et figurae.
+Ergo intellectus noster potest cognoscere infinita.
+AG3
+Praeterea, si unum corpus non impediret aliud ab existendo in uno et eodem loco, nihil prohiberet infinita
+corpora in uno loco esse. Sed una species intelligibilis non prohibet aliam ab existendo simul in eodem
+intellectu, contingit enim multa scire in habitu. Ergo nihil prohibet intellectum nostrum infinitorum scientiam
+habere in habitu.
+AG4
+Praeterea, intellectus, cum non sit virtus materiae corporalis, ut supra dictum est, videtur esse potentia infinita.
+Sed virtus infinita potest super infinita.
+Ergo intellectus noster potest cognoscere infinita.
+SC
+Sed contra est quod dicitur in I physic., quod infinitum, inquantum est infinitum, est ignotum.
+CO
+Respondeo dicendum quod, cum potentia proportionetur suo obiecto, oportet hoc modo se habere intellectum ad
+infinitum, sicut se habet eius obiectum, quod est quidditas rei materialis. In rebus autem materialibus non
+invenitur infinitum in actu, sed solum in potentia, secundum quod unum succedit alteri, ut dicitur in III physic..
+Et ideo in intellectu nostro invenitur infinitum in potentia, in accipiendo scilicet unum post aliud, quia nunquam
+intellectus noster tot intelligit, quin possit plura intelligere. Actu autem vel habitu non potest cognoscere infinita
+intellectus noster. Actu quidem non, quia intellectus noster non potest simul actu cognoscere nisi quod per unam
+speciem cognoscit. Infinitum autem non habet unam speciem, alioquin haberet rationem totius et perfecti.
+Et ideo non potest intelligi nisi accipiendo partem post partem, ut ex eius definitione patet in III physic., est enim
+infinitum cuius quantitatem accipientibus semper est aliquid extra accipere, et sic infinitum cognosci non posset
+actu, nisi omnes partes eius numerarentur, quod est impossibile. Et eadem ratione non possumus intelligere
+444
+
+

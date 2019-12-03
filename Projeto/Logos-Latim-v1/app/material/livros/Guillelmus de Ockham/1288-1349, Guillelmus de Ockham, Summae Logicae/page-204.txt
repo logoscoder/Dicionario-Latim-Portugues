@@ -1,0 +1,58 @@
+SUNT 'OMNEM HOMINEM CURRERE EST VERUM' ET CONSIMILIA]
+SUNT 'OMNEM HOMINEM CURRERE EST VERUM' ET CONSIMILIA]
+Dicto de conuersione propositionum modalium quae ab omnibus conceduntur esse modales, restat
+dicere de conuersione propositionum modalium quae non ab omnibus conceduntur esse modales, quae tamen
+uere sunt modales, sicut dictum est prius'. Et quia sunt quasi innumerabiles, ideo non intendo dicere de omnibus
+in speciali, sed uolo dare aliquas regulas generales.
+Dicto de conuersione propositionum modalium quae ab omnibus conceduntur esse modales, restat
+dicere de conuersione propositionum modalium quae non ab omnibus conceduntur esse modales, quae tamen
+uere sunt modales, sicut dictum est prius'. Et quia sunt quasi innumerabiles, ideo non intendo dicere de omnibus
+in speciali, sed uolo dare aliquas regulas generales.
+Est autem sciendum quod quando est aliquod nomen modale quod potest uerificari de uno
+conuertibilium sine hoc quod uerificetur de reliquo, talis propositio modalis, sumpta in sensu compositionis, uel
+etiam aequiualens tali, non conuertitur simpliciter, quamuis sua de inesse conuertatur simpliciter. Si autem talis
+modus possit uerificari de antecedente sine hoc quod uerificetur de consequente, talis propositio, sumpta in sensu
+compositionis, uel aequiualens ei, non conuertitur per accidens nec simpliciter, quamuis sua de inesse
+conuertatur per accidens. Si autem talis modus non possit competere uni conuertibilium nisi canueniat reliquo,
+semper talis propositio in sensu compositionis uel aequiualens ei conuertitur simpliciter si sua de inesse
+conuertatur simpliciter; et proportionaliter conuertitur sicut sua de inesse. Si autem talis modus non possit
+competere antecedenti nisi competat consequenti, tunc illa propositio conuertitur per accidens sicut sua de
+inesse.
+Est autem sciendum quod quando est aliquod nomen modale quod potest uerificari de uno
+conuertibilium sine hoc quod uerificetur de reliquo, talis propositio modalis, sumpta in sensu compositionis, uel
+etiam aequiualens tali, non conuertitur simpliciter, quamuis sua de inesse conuertatur simpliciter. Si autem talis
+modus possit uerificari de antecedente sine hoc quod uerificetur de consequente, talis propositio, sumpta in sensu
+compositionis, uel aequiualens ei, non conuertitur per accidens nec simpliciter, quamuis sua de inesse
+conuertatur per accidens. Si autem talis modus non possit competere uni conuertibilium nisi canueniat reliquo,
+semper talis propositio in sensu compositionis uel aequiualens ei conuertitur simpliciter si sua de inesse
+conuertatur simpliciter; et proportionaliter conuertitur sicut sua de inesse. Si autem talis modus non possit
+competere antecedenti nisi competat consequenti, tunc illa propositio conuertitur per accidens sicut sua de
+inesse.
+Ex ista regula patet quod ista conuersio est bona 'hominem currere est uerum, igitur currens esse
+hominem est uerum'; similiter ista 'omnem hominem currere est uerum, igitur aliquod currens esse hominem est
+uerum'; nam prima tenet per istam regulam 'si unum conuertibilium est uerum, reliquum est uerum', et secunda
+per istam 'si antecedens est uerum, consequens est uerum'; quae ambae sunt uerae. Similiter ista conuersio est
+bona 'nullum hominem currere est falsum, igitur nullum currens esse hominem est falsum', quia tenet per istam
+regulam 'si unum conuertibilium est falsum, reliquum est falsum. Sed ista conuersio non ualet 'omnem hominem
+currere est falsum, igitur aliquod currens esse hominem est falsum', quia tenet per istam regulam 'si antecedens
+est falsum, consequens est falsum'; quae falsa est.
+Ex ista regula patet quod ista conuersio est bona 'hominem currere est uerum, igitur currens esse
+hominem est uerum'; similiter ista 'omnem hominem currere est uerum, igitur aliquod currens esse hominem est
+uerum'; nam prima tenet per istam regulam 'si unum conuertibilium est uerum, reliquum est uerum', et secunda
+per istam 'si antecedens est uerum, consequens est uerum'; quae ambae sunt uerae. Similiter ista conuersio est
+bona 'nullum hominem currere est falsum, igitur nullum currens esse hominem est falsum', quia tenet per istam
+regulam 'si unum conuertibilium est falsum, reliquum est falsum. Sed ista conuersio non ualet 'omnem hominem
+currere est falsum, igitur aliquod currens esse hominem est falsum', quia tenet per istam regulam 'si antecedens
+est falsum, consequens est falsum'; quae falsa est.
+Ex istis patet quod quando uniuersalis affirmatiua talis non conuertitur per accidens, frequenter
+particularis affirmatiua et similiter particularis negatiua conuertuntur per accidens, per istam regulam
+'consequens est falsum, ergo antecedens'.
+Ex istis patet quod quando uniuersalis affirmatiua talis non conuertitur per accidens, frequenter
+particularis affirmatiua et similiter particularis negatiua conuertuntur per accidens, per istam regulam
+'consequens est falsum, ergo antecedens'.
+Per praedicta etiam patet quod tales consequentiae non ualent 'nullum hominem currere est scitum,
+igitur nullum currens esse hominem est scitum', quia ista regula non est generaliter uera 'unum conuertibilium est
+scitum, ergo reliquum est scitum' -- Potest enim unum conuertibilium sciri, quamuis aliud non sciatur, immo
+204
+
+

@@ -1,0 +1,84 @@
+Numeri trianguli, quadrati, pentagoni, eptagonique.
+Septem vero angulorum figura est, cum ad eundem ordinem progressionis uno plus quam in sexangulorum
+figura numero intermisso superiori coniunxeris. Nam si quattuor interpositis, qui se quinario vincant,
+adgregaveris, eptagoni continuo figura nascetur, ut hi numeri sint eorum radices et, ut superius dictum est,
+fundamenta: j vj xj xvj xxj. Qui vero ex his constant, hi sunt: j vij xviij xxxiiij lv. Novem vero angulorum
+secundum eundem ordinem forma procreatur ita, ut secundum aequalem progressionem primi quoque eorum
+numeri distent. Nam in triangulo qui sunt numeri, quae prima superficiei figura est, uno sese tantum numeri
+praecedunt, qui scilicet, eorum naturam descriptionemque perficiunt; in tetragono vero, qui secundus est, duobus
+sese iuncti numeri vincunt, et in pentagono tribus et in exagono iiij et in eptagono quinque, huiusque rei nullus
+est modus. Hoc autem nos subiectarum formarum descriptiones docebunt.
+Descriptio figuratorum numerorum in ordine
+Similiter autem licebit et aliarum formarum, quae pluribus angulis continentur quantitates adscribere. Sed
+quoniam facilius oculis subiecta retinentur supradictarum formarum numerositas in subteriore descriptione
+ponatur.
+Tri
+anguli
+Qu
+adrati
+Pen
+tagoni
+Exa
+goni
+Ept
+agoni
+
+x
+x
+xlv
+xviij xxvj
+lxx
+x
+x
+l
+xv xvj lviiij xiiij xj
+iij iiij vj
+cx
+x
+l
+x
+xij
+xxv j
+xx
+cij
+vij
+ij
+clii
+x
+x
+c
+j v
+xviij lv
+xvj cj
+xx
+j
+clx
+x
+c
+c
+xxxj xij
+xlviij xxviiij
+ij viij xxiiij v
+ij j
+
+x
+
+v
+
+xj
+
+l
+v
+c
+c
+xlv
+c
+xc
+c
+cxxxv
+
+Qui figurati numeri ex quibus figuratis numeris fiant, inque eo quod triangulus numerus omnium
+reliquorum principium sit.
+34
+
+

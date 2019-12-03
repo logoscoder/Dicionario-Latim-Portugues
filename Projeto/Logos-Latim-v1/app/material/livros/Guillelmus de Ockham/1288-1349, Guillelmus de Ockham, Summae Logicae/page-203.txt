@@ -1,0 +1,57 @@
+[2.28 DE CONVERSIONE PROPOSITIONUM
+DE CONTINGENTI PER OPPOSITAS QUALITATES]
+DE CONTINGENTI PER OPPOSITAS QUALITATES]
+Sequitur uidere de conuersione propositionum de contingenti per oppositas qualitates. Et est sciendum
+quod quaelibet propositio de contingenti ad utrumlibet, si sumatur in sensu diuisionis, conuertitur per oppositas
+qualitates; hoc est, affirmatiua conuertitur in negatiuam et e conuerso, sicut sequitur 'contingit b esse a, igitur
+contingit b non esse a'. Similiter sequitur 'omnis homo contingenter currit, igitur omnis homo contingenter non
+currit'.
+Sequitur uidere de conuersione propositionum de contingenti per oppositas qualitates. Et est sciendum
+quod quaelibet propositio de contingenti ad utrumlibet, si sumatur in sensu diuisionis, conuertitur per oppositas
+qualitates; hoc est, affirmatiua conuertitur in negatiuam et e conuerso, sicut sequitur 'contingit b esse a, igitur
+contingit b non esse a'. Similiter sequitur 'omnis homo contingenter currit, igitur omnis homo contingenter non
+currit'.
+Et est aduertendum quod quando propositio de contingenti ad utrumlibet conuertitur per oppositas
+qualitates, in utraque propositione modus debet esse affirmatus et non negatus. Et ideo non sequitur 'omnis homo
+contingenter currit, igitur nullus homo contingenter currit', nec sequitur
+'nullus homo contingenter currit, igitur omnis homo contingenter currit', sed bene sequitur 'omnis homo
+contingenter currit, igitur omnis homo contingenter non currit'. Similiter sequitur 'omnis homo contingenter non
+currit, igitur omnis homo contingenter currit'.
+'nullus homo contingenter currit, igitur omnis homo contingenter currit', sed bene sequitur 'omnis homo
+contingenter currit, igitur omnis homo contingenter non currit'. Similiter sequitur 'omnis homo contingenter non
+currit, igitur omnis homo contingenter currit'.
+Praedicta conuersio patet, nam sequitur formaliter 'homo contingenter currit, igitur homo potest currere'.
+Similiter sequitur 'omnis homo contingenter currit, igitur non necesse est omnem hominem currere'; ex qua
+sequitur ista 'aliquis homo potest non currere'. Nunc autem ex istis duabus
+'aliquis homo potest non currere' et 'ille potest currere' sequitur quod aliquis homo contingenter non
+currit. Igitur ex prima sequitur ista per illam regulam 'quidquid sequitur ad consequens, sequitur ad antecedens',
+quae semper uera est.
+'aliquis homo potest non currere' et 'ille potest currere' sequitur quod aliquis homo contingenter non
+currit. Igitur ex prima sequitur ista per illam regulam 'quidquid sequitur ad consequens, sequitur ad antecedens',
+quae semper uera est.
+Propter proteruos autem est sciendum quod quandocumque dico talem propositionem 'homo
+contingenter currit', 'homo contingenter non currit'
+intelligo talem 'contingit hominem currere', 'contingit hominem non currere', ne proteruiatur contra me,
+dicendo quod sequitur 'homo contingenter currit, igitur homo currit'.
+intelligo talem 'contingit hominem currere', 'contingit hominem non currere', ne proteruiatur contra me,
+dicendo quod sequitur 'homo contingenter currit, igitur homo currit'.
+Sic igitur patet manifeste quomodo quaelibet talis propositio de contingenti in sensu diuisionis et
+aequiualens ei conuertitur per oppositas qualitates. Sed talis propositio in sensu campositionis non conuertitur
+per oppositas qualitates, nam tunc argueretur per aliquam istarum regularum
+'una contrariarum est contingens, igitur reliqua est contingens', 'una subcontrariarum est contingens,
+igitur reliqua est contingens'; quae falsae sunt. Et ideo non sequitur 'nullum exsistens esse hominem est
+contingens, igitur omne exsistens esse hominem est contingens'; nec sequitur 'omne exsistens esse Deum est
+contingens, igitur nullum exsistens esse Deum est contingens'. Similiter non sequitur 'aliquod exsistens esse
+hominem est contingens, igitur aliquod exsistens non esse hominem est contingens', quia in omnibus praedictis
+exemplis antecedens est uerum et consequens falsum, si sumantur omnes propositiones in sensu compositionis.
+'una contrariarum est contingens, igitur reliqua est contingens', 'una subcontrariarum est contingens,
+igitur reliqua est contingens'; quae falsae sunt. Et ideo non sequitur 'nullum exsistens esse hominem est
+contingens, igitur omne exsistens esse hominem est contingens'; nec sequitur 'omne exsistens esse Deum est
+contingens, igitur nullum exsistens esse Deum est contingens'. Similiter non sequitur 'aliquod exsistens esse
+hominem est contingens, igitur aliquod exsistens non esse hominem est contingens', quia in omnibus praedictis
+exemplis antecedens est uerum et consequens falsum, si sumantur omnes propositiones in sensu compositionis.
+[2.29. DE CONVERSIONE PROPOSITIONUM MODALIUM QUAE
+NON AB OMNIBUS CONCEDUNTUR ESSE MODALES, CUIUSMODI
+203
+
+

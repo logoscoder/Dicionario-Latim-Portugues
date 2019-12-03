@@ -1,0 +1,61 @@
+una et simplex puta cum solum ex nomine et verbo componitur in unum significatum; ut cum dico, homo est
+albus. Est etiam quandoque una oratio, sed composita, quae quidem unam rem significat, sed tamen composita
+est vel ex pluribus terminis; sicut si dicam, animal rationale mortale currit, vel ex pluribus enunciationibus, sicut
+in conditionalibus, quae quidem unum significant et non multa. Similiter autem quandoque in enunciatione est
+pluralitas cum simplicitate, puta cum in oratione ponitur aliquod nomen multa significans; ut si dicam, canis
+latrat, haec oratio plures est, quia plura significat, et tamen simplex est. Quandoque vero in enunciatione est
+pluralitas et compositio, puta cum ponuntur plura in subiecto vel in praedicato, ex quibus non fit unum, sive
+interveniat coniunctio sive non; puta si dicam, homo albus musicus disputat: et similiter est si coniungantur
+plures enunciationes, sive cum coniunctione sive sine coniunctione; ut si dicam, socrates currit, Plato disputat.
+Et secundum hoc sensus litterae est quod enunciatio una est illa, quae unum de uno significat, non solum si sit
+simplex, sed etiam si sit coniunctione una. Et similiter enunciationes plures dicuntur quae plura et non unum
+significant: non solum quando interponitur aliqua coniunctio, vel inter nomina vel verba, vel etiam inter ipsas
+enunciationes; sed etiam si vel inconiunctione, idest absque aliqua interposita coniunctione plura significat, vel
+quia est unum nomen aequivocum, multa significans, vel quia ponuntur plura nomina absque coniunctione, ex
+quorum significatis non fit unum; ut si dicam, homo albus grammaticus logicus currit.
+|#15
+Sed haec expositio non videtur esse secundum intentionem Aristotelis. Primo quidem, quia per
+disiunctionem, quam interponit, videtur distinguere inter orationem unum significantem, et orationem quae est
+coniunctione una. Secundo, quia supra dixerat quod est unum quoddam et non multa, animal gressibile bipes.
+Quod autem est coniunctione unum, non est unum et non multa, sed est unum ex multis.
+Et ideo melius videtur dicendum quod Aristoteles, quia supra dixerat aliquam enunciationem esse unam et
+aliquam coniunctione unam, vult hic manifestare quae sit una. Et quia supra dixerat quod multa nomina simul
+coniuncta sunt unum, sicut animal gressibile bipes, dicit consequenter quod enunciatio est iudicanda una non ex
+unitate nominis, sed ex unitate significati, etiam si sint plura nomina quae unum significent. Vel si sit aliqua
+enunciatio una quae multa significet, non erit una simpliciter, sed coniunctione una. Et secundum hoc, haec
+enunciatio, animal gressibile bipes est risibile, non est una quasi coniunctione una, sicut in prima expositione
+dicebatur, sed quia unum significat.
+|#16 Et quia oppositum per oppositum manifestatur, consequenter ostendit quae sunt plures enunciationes, et
+ponit duos modos pluralitatis.
+Primus est, quod plures dicuntur enunciationes quae plura significant. Contingit autem aliqua plura significari in
+aliquo uno communi; sicut cum dico, animal est sensibile, sub hoc uno communi, quod est animal, multa
+continentur, et tamen haec enunciatio est una et non plures. Et ideo addit et non unum. Sed melius est ut dicatur
+hoc esse additum propter definitionem, quae multa significat quae sunt unum: et hic modus pluralitatis opponitur
+primo modo unitatis.
+Secundus modus pluralitatis est, quando non solum enunciationes plura significant, sed etiam illa plura
+nullatenus coniunguntur, et hic modus pluralitatis opponitur secundo modo unitatis. Et secundum hoc patet quod
+secundus modus unitatis non opponitur primo modo pluralitatis. Ea autem quae non sunt opposita, possunt simul
+esse. Unde manifestum est, enunciationem quae est una coniunctione, esse etiam plures: plures in quantum
+significat plura et non unum.
+Secundum hoc ergo possumus accipere tres modos enunciationis. Nam quaedam est simpliciter una, in quantum
+unum significat; quaedam est simpliciter plures, in quantum plura significat, sed est una secundum quid, in
+quantum est coniunctione una; quaedam sunt simpliciter plures, quae neque significant unum, neque
+coniunctione aliqua uniuntur.
+Ideo autem Aristoteles quatuor ponit et non solum tria, quia quandoque est enunciatio plures, quia plura
+significat, non tamen est coniunctione una, puta si ponatur ibi nomen multa significans.
+|#17 Deinde cum dicit: nomen ergo et verbum etc., excludit ab unitate orationis nomen et verbum. Dixerat enim
+quod enunciatio una est, quae unum significat: posset autem aliquis intelligere, quod sic unum significaret sicut
+nomen et verbum unum significant.
+Et ideo ad hoc excludendum subdit: nomen ergo, et verbum dictio sit sola, idest ita sit dictio, quod non
+enunciatio. Et videtur, ex modo loquendi, quod ipse imposuerit hoc nomen ad significandum partes
+enunciationis. Quod autem nomen et verbum dictio sit sola manifestat per hoc, quod non potest dici quod ille
+enunciet, qui sic aliquid significat voce, sicut nomen, vel verbum significat.
+Et ad hoc manifestandum innuit duos modos utendi enunciatione. Quandoque enim utimur ipsa quasi ad
+interrogata respondentes; puta si quaeratur, quis sit in scholis? respondemus, Magister. Quandoque autem utimur
+ea propria sponte, nullo interrogante; sicut cum dicimus, Petrus currit.
+Dicit ergo, quod ille qui significat aliquid unum nomine vel verbo, non enunciat vel sicut ille qui respondet
+aliquo interrogante, vel sicut ille qui profert enunciationem non aliquo interrogante, sed ipso proferente sponte.
+
+19
+
+

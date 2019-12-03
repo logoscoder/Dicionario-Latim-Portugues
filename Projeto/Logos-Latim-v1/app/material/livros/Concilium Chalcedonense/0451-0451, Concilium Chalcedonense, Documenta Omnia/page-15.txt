@@ -1,0 +1,63 @@
+165 sint W411
+166 conservare korr. aus consentire V1341
+167 regis V630; V1341; E97; regi• W411; regna B132
+168 Martianono W411
+169 multis annis] multi anni V630; B132; V1341; E97; multos annos W411
+170 regi si] regis W411
+171 si fehlt V630; B132; V1341; E97
+172 orthodoxorum W411
+173 multi anni] multis annis W411
+174 Marciani fehlt W411
+175 amatore W411
+176 permanet W411
+177 digni korr. aus dign W411
+178 ortodoxi korr. aus ortodixi V630
+179 fidei V630; W411; B132; V1341; E97
+180 amatoris korr. aus amatores O93; amatores W411; E97
+181 a fehlt W411
+182 haec] hae W411; haec voces V1341
+183 Aetius] et diutius W411; atius E97
+184 vero W411
+185 et fehlt V630; W411; B132; V1341; E97
+186 omnes fehlt E97
+187 regi V630; V1341; regenerare W411; rege B132
+188 consensum W411
+189 imperatoris W411
+190 haec sancta] sanct• haec W411
+191 synodus] sinodo (am Rande vel dus) si V630; synodus si korr. aus synodu si V1341; synodi si B132
+192 sicut E97
+193 vocatione W411; E97
+194 ambigendo B132; E97
+195 invocationem W411; B132
+196 scripturis V630
+197 saecula V630
+198 subsequntur E97
+199 ipsum W411
+200 conservat V630; B132; V1341; E97; conservans W411
+201 quidem scientiam sincere legentium et ad] magnitudinem qui sincera requirent W411
+202 longaevam] Longeva autem W411
+203 corona O93; W411; B132
+204 nutui korr. aus nutu V630; notitiae korr. aus noti W411
+205 prelegam W411
+206 dixit W411
+207 Aetius] et idem W411; et iussus B132; Et ius V1341
+208 et fehlt W411
+209 calcedonensem O93; calcidonensi E97
+210 Calcedonense civitate metropoli] calcidonensem civitatem metropolim W411
+211 subterque W411
+212 ut fehlt W411
+213 ne fehlt V630; V1341; E97
+214 ulla W411
+215 discensio W411
+216 sed] sed ex V630; B132; V1341; E97
+217 interlinear equaliter O93; aequo] ex quo W411
+218 pietatibus B132
+219 movi W411
+220 quidam W411
+221 generi korr. aus generis V1341
+222 hunc fehlt W411
+223 ac W411
+224 nostri fehlt W411
+15
+
+

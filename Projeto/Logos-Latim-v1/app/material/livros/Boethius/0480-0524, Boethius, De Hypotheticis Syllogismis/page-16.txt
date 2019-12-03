@@ -1,0 +1,61 @@
+Si cum sit a, est b, est c.
+Si cum sit a, est b, non est c.
+Si cum sit a, non est b, est c.
+Si cum sit a, non est b, non est c.
+Si cum non sit a, est b, est c.
+Si cum non sit a, est b, non est c.
+Si cum non sit a, non est b, est c.
+Si cum non sit a, non est b, non est c.
+[2.7.2] Prima igitur propositio tales habere terminos debet, ut a quidem possit esse praeter c ac b; sed tunc, si a
+fuerit, c esse necesse sit, cum a terminum b terminus subsequatur, ut si sit a quidem animatum, b homo, c animal.
+Animatum namque praeter animal et praeter hominem esse potest; tunc uero id quod animatum est etiam animal esse
+necesse est, si id quod est animatum, homo est. Secunda propositio talibus terminis contexenda est, ut a quidem praeter
+b atque c, et cum eisdem esse possit; tunc tamen necesse sit non esse c, si a posito b sequatur, ut si a sit animatum, b
+homo, c equus.
+[2.7.3] Animatum quippe et ut homo uel equus sit aut non sit fieri potest; tunc uero necesse est id quod
+animatum est non esse equum, si id ipsum quod animatum est, homo fuerit. Tertia propositio his terminis copulatur, ut
+a quidem cum b et c uel esse uel non esse possit, tunc tamen necesse sit simul esse cum c, si, posito a termino, b
+terminus abnuatur, ut si sit a animatum, b animal, c insensibile.
+Nam quod animatum est, uel animal uel non animal, uel insensibile uel non insensibile esse potest sed tunc
+necesse est id quod animatum est esse insensibile si, animato posito, animal abnuatur.
+[2.7.4] Quartae propositionis hi termini sunt, ut a quidem /294/ cum b atque c esse et non esse possit, tunc uero
+ab eo modis omnibus separetur, si, posito a termino, b terminus abnuatur, ut si sit a quidem animatum, b animal, c
+homo. Nam quod animatum est uel animal esse uel non esse, itemque homo esse uel non esse potest; tunc tamen
+necesse est ut, cum sit animatum, non sit homo, cum posito esse animato animal denegatur. Quinta uero propositio his
+terminis conectatur, ut si non sit a, possit et esse et non esse b atque c; tunc tamen cum non sit a, terminum c esse
+necesse sit si, posito non esse a, esse b terminum consequatur, ut si sit a quidem inuitale, b homo, c animal.
+[2.7.5] Nam si non sit inuitale, tunc possunt homo atque animal esse uel non esse; at necesse est esse animal,
+negato inuitali, si, cum inuitale negabitur, esse hominem subsequatur. Sextam uero propositionem talia debent membra
+coniungere, ut, si non sit a terminus, b atque c uel esse uel non esse possint; tunc uero, denegato a termino, c non esse
+necesse sit, cum negationem a termini b termini affirmatio comitabitur, ut si sit a inuitale, b homo, c equus. Nam quod
+non est inuitale, potest esse homo uel equus uel non esse sed necesse est non esse equum, inuitali denegato, si
+negationem inuitalis hominis positio subsequatur.
+[2.7.6] Septimae propositionis hos esse terminos oportebit, ut, si non sit a terminus, b atque c et esse et non
+esse possint; /296/ sed tunc necesse sit esse c terminum, si negationem a termini b termini negatio subsequatur, ut si sit
+a animal, b animatum, c inuitale. Animal quidem si non sit, animatum et inuitale esse uel non esse potest; tunc uero
+necesse est, si animal non sit, esse inuitale, quando, si animal non sit, non erit animatum. Octaua propositio est cum,
+negato a termino, possunt et esse et non esse b atque c termini; sed tunc necesse est, si a terminus abnuatur, non esse c
+terminum, cum negationem a termini negatio b termini subsequetur, ut si sit a inuitale, b animal, c homo.
+[2.7.7] Si igitur non sit inuitale, potest esse uel non esse animal uel homo, tunc uero si non sit inuitale necesse
+est hominem non esse, cum animal non fuerit. His igitur ita expeditis, illud in commune dicendum est, quod superiores
+quatuor propositiones ita faciunt conditionem, si fuerit a, posteriores uero si non fuerit, ex quibus omnibus syllogismi
+tali ratione nascuntur.
+[2.8.1] Ex prima propositione:
+Si cum sit a, est b, est c; Atqui cum sit a, est b; Est igitur c
+uel ita:
+Atqui non est c; Cum igitur sit a, non est b.
+Posse uero tales fieri conclusiones, ex superius descriptarum propositionum natura cognoscimus: poterat enim
+a terminus esse uel non esse cum b. Item ex secunda:
+Si cum sit a, est b, non est c; Atqui cum sit a, est b; Non est igitur c
+uel ita:
+Atqui est c; Cum igitur sit a, non est b.
+[2.8.2] Ex tertia uero utrobique assumptis terminis collectiones fiunt, ut:
+Si cum est a, non est b, est c; Atqui cum est a, non est b; Est igitur c
+uel ita:
+Atqui cum sit a, est b; Non est igitur c /298/
+uel ita:
+Atqui non est c; Cum igitur sit a, est b
+uel sic:
+Atqui est c; Cum igitur sit a, non est b.
+
+

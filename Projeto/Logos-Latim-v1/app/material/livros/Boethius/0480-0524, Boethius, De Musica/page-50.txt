@@ -1,0 +1,62 @@
+quarto uolumine in fine descripsimus, ubi numerus super semisphaeria, tendebatur. Ibi enim deprehenditur
+aequisonantia, diapason ac bis diapason, et consonantiae simplices diapente ac diatessaron, et consonantiae compositae,
+diapason ac diapente, et diapason ac diatessaron et qui sunt emmelis soni, ut in toni differentia consistentes.
+XII
+Quemadmodum Aristoxenus interuallum consideret.
+Quid uero de his Aristoxenus sentiat breuiter aperiendum est. Ille enim quoniam minime tractatum rationi
+constituit sed aurium iudicio permittit, idcirco uoces ipsas nullis numeris notat, ut earum colligat proportiones sed
+earum in medio differentiam sumit, ut speculationem non in ipsis uocibus sed in eo quod inter se differunt, collocet,
+nimis improuide, qui differentiam se scire arbitretur earum uocum, quarum magnitudinem nullam mensuramue
+constituat. Hic igitur et diatessaron consonantiam duorum tonorum ac semitonii esse proponit, et diapente trium
+tonorum ac semi onii, et diapason sex tonorum, quod fieri non posse superioribus uoluminibus demonstratum est.
+[PLLXIII:1293; text: Sextoni, Diapason] [BOEDIM5 01GF]
+XIII
+Descriptio octochordi, qua ostenditur diapason consonantiam minorem esse sex tonis.
+Docet autem Ptolemaeus per cuiusdam octochordi. [1294] diuisionem diapason intra sex tonos cadere hoc
+modo: intendantur enim octo chordae, id est A B C D E F G H, fiatque sesquioctaua A K eius quae est BL, et B L eius
+quae est C M, et C M eius quae est D N, et D N eius quae est E X, et E X eius quae est F O, et FO eius quae est G P.
+Erunt igitur sex toni. Rursus inter F G et G P H ducatur medius neruus ad R. Erit igitur A K dupla ab eo quod
+est H R. Pulsae igitur simul A K H R diapason aequisonantiam consonabunt. Si uero aliquis G P percutiat, semper erit
+paulo acutior quam est H R. Ac per hoc transcendunt sex toni diapason consonantiam. Si enim A K et G P diapason
+pulsati resonarent, tonorum sex esset diapason consonantia.
+Si uero his idem A K et G P non consonantibus A K et H R diapason consonarent, et H R acutior esset quam G
+P, diapason consonantia sex tonos excederet. Nunc uero quia consonantibus A K et H R eadem M K ab ea quae est G P
+grauior inuenitur, non potest dubitari quin sex toni diapason consonantiam excedant. Atque ita sensu quoque potest
+colligi diapason consonantiam inter sex tonos cadere. Sic igitur Aristoxeni error sine dubitatione conuincitur.
+[PLLXIII:1294; text: A, B, C, D, E, F, G, H, K, L, M, N, X, O, R, P] [BOEDIM5 01GF]
+XIV
+Diatessaron consonantiam tetrachordo contineri.
+Nunc de tetrachordorum diuisione dicendum est. Etenim diatessaron consonantia quatuor efficitur neruis;
+idcirco etiam diatessaron nuncupatur, ut igitur duobus neruis altrinsecus positis ad diatessaron symphoniam
+consonantibus tetrachordum fiat, duos necesse est statui in medio neruos, qui ad se inuicem atque ad extremos tres
+proportiones efficiant.
+XV
+Quomodo Aristoxenus uel tonum diuidat, uel genera eiusque diuisionis dispositio.
+Hoc igitur diatessaron Aristoxenus per genera tali ratione partitur.
+Diuidit enim tonum in duas partes, atque id semitonium uocat. Diuidit in tres partes, cuius tertiam diesin uocat
+chromatis mollis, diuidit in 4, cuius quartam cum propria medietate, id est cum octaua totius toni, appellat diesin
+chromatis hemiolii. Rursus solam quartam eius uocat diesin enharmonios.
+[1295] Figura Glareani
+[PLLXIII:1295; text: Semitonium, Toni medietas Semitonium. Z, Diesis enharmonios, 4, 3, Diesis chromatis
+mollis, 4 1/8, Diesis chromatis hemioli, Tonus, Omnium interuallorum quae in tono sunt secundum Aristoxenum
+diuisio.] [BOEDIM5 03GF]
+Ad lectorem
+Minutas diuisiones pingere non potuimus, care lector. nam Aristoxenus tonum in duodecim partes scindit.
+Diesis ergo enharmonios habebit tres; diesis autem chromatis mollis habebit quatuor, demum hemitonium sex; diesis
+uero chromatis hemioli quatuor et semis obtinebit. Quod si dupletur spatium, ut paulo post Boetius, erunt quae diximus
+interualla omnia duplanda ob numeros commodiores, quod doctus facile uidet. Vale.
+Cum igitur haec ita sint, cumque generum diuisio secundum eum sit duplex, unum quidem genus est mollius;
+aliud uero incitatius. Et mollius quidem est enharmonium, incitatius uero diatonicum. Inter haec uero consistit
+chromaticum incitatione mollitieque participans; fiunt igitur secundum hunc ordinem differentiae permixtorum
+generum sex. Una quidem enharmonii, 3 autem chromatici, id est chromatici mollis, et chromatici hemiolii, et
+chromatici thoniaei. Duae uero reliquae diatonici, mollis atque incitati. Quorum omnium talis secundum Aristoxenum
+diuisio est. Quoniam enim quarta pars toni diesis enharmonios nuncupari praedicta est, quoniamque Aristoxenus non
+uoces ipsas inter se comparat sed differentiam uocum interuallumque metitur, et secundum eum tonus est duodecim
+unitatum, huius igitur erit pars quarta diesis enharmonios tres. Quoniam uero ex duobus tonis ac semitonio diatessaron
+consonantia iungitur, erit tota diatessaron ex his duodecim ac sex unitatibus constituta. Sed quoniam saepe fit ut si
+usque ad octauas uelimus deducere partes, non integros numeros sed in aliquas particulas incurramus, idcirco quidem
+facienda est tota diatessaron consonantia 60. At uero 24 tonus, semitonium duodecim, pars quarta, quae diesis
+enharmonios dicitur, sex, octaua autem tres; iuncta uero octaua cum quarta, sex scilicet cum tribus, ut faciat diesin
+chromatis hemiolii, erunt nouem. His igitur ita constitutis, tria genera, enharmonicum, chromaticum, diatonicum, has
+
+

@@ -1,0 +1,56 @@
+0mnia autem praedicta probantur per istas duas regulas quae semper uerae sunt 'quidquid sequitur ad
+consequens, sequitur ad antecedens'; 'quidquid sequitur ad consequens cum addita propositione, sequitur ad
+antecedens cum eadem propositione'.
+Tales autem modi non possunt accipi penes alios tres modos per transpositionem propositionum. Nam
+modi affirmatiui non possunt reduci per conuersionem in modos affirmatiuos, propter hoc quod nec uniuersalis
+affirmatiua nec uniuersalis negatiua potest conuerti in uniuersalem affirmatiuam. Et eadem ratio est quare penes
+modum uniuersalem non potest sumi talis modus concludens indirecte per transpositionem propositionum de
+terminis transpositis.
+Tales autem modi non possunt accipi penes alios tres modos per transpositionem propositionum. Nam
+modi affirmatiui non possunt reduci per conuersionem in modos affirmatiuos, propter hoc quod nec uniuersalis
+affirmatiua nec uniuersalis negatiua potest conuerti in uniuersalem affirmatiuam. Et eadem ratio est quare penes
+modum uniuersalem non potest sumi talis modus concludens indirecte per transpositionem propositionum de
+terminis transpositis.
+[3-1.07 QUOMODO SOLVUNTUR MULTA ARGUMENTA
+QUAE VIDENTUR FACERE CONTRA PRAEDICTA]
+QUAE VIDENTUR FACERE CONTRA PRAEDICTA]
+Per praedicta possunt solui multa argumenta quae uidentur contra praedicta. Et sunt talia: non uidetur
+quod iste syllogismus sit bonus
+'omne animal, si est sensibile, est corpus animatum; lapis est animal, si est sensibile; igitur lapis est
+corpus animatum'. Nec iste 'omnis homo uel asinus est rationalis; iste asinus est homo uel asinus; igitur iste
+asinus est rationalis'; et alii tales non uidentur ualere.
+'omne animal, si est sensibile, est corpus animatum; lapis est animal, si est sensibile; igitur lapis est
+corpus animatum'. Nec iste 'omnis homo uel asinus est rationalis; iste asinus est homo uel asinus; igitur iste
+asinus est rationalis'; et alii tales non uidentur ualere.
+Et est dicendum, breuiter, quod maior utriusque syllogismi est distinguenda secundum compositionem
+et diuisionem uel secundum amphiboliam, sicut in tractatu praecedenti est declaratum. Unde maior primi
+syllogismi est distinguenda, eo quod potest esse condicionalis, et tunc est uera, sed tunc discursus non ualet, quia
+maior non est categorica. Si sit de condicionato subiecto, tunc est maior falsa, et syllogismus bonus et regulatus
+per dici de omni. Consimiliter est dicendum de secundo discursu: quia si maior sit disiunctiua, tunc est maior
+uera, sed discursus non ualet, eo quod maior non est categorica. Si sit de disiuncto subiecto, tunc est maior falsa;
+denotatur enim quod omne illud de quo dicitur hoc totum disiunctum 'homo uel asinus' quod sit rationale; quod
+est simpliciter falsum.
+Et est dicendum, breuiter, quod maior utriusque syllogismi est distinguenda secundum compositionem
+et diuisionem uel secundum amphiboliam, sicut in tractatu praecedenti est declaratum. Unde maior primi
+syllogismi est distinguenda, eo quod potest esse condicionalis, et tunc est uera, sed tunc discursus non ualet, quia
+maior non est categorica. Si sit de condicionato subiecto, tunc est maior falsa, et syllogismus bonus et regulatus
+per dici de omni. Consimiliter est dicendum de secundo discursu: quia si maior sit disiunctiua, tunc est maior
+uera, sed discursus non ualet, eo quod maior non est categorica. Si sit de disiuncto subiecto, tunc est maior falsa;
+denotatur enim quod omne illud de quo dicitur hoc totum disiunctum 'homo uel asinus' quod sit rationale; quod
+est simpliciter falsum.
+Et sicut dictum est de talibus, ita, proportionaliter, dicendum est de propositionibus quae possunt esse
+de copulato extremo uel copulatiuae, uel de temporali extremo uel temporales, uel de causali extremo uel
+causales. Consimiliter est dicendum quando subiectum est conpositum ex duobus terminis mediante hoc toto 'qui
+est' uel 'quod est'. Sicut si arguatur sic 'omnis homo, qui est albus, potest disgregare uisum; Sortes est homo;
+igitur Sortes, qui est aluos, potest disgregare uisum'. Sit
+Sortes niger. Nam si hoc totum sit distributum 'homo, qui est albus', tunc syllogismos non ualet, cum
+non reguletor per dici de omni, sicut manifeste patet. Si autem 'homo' tantum sit distributus, tunc aequiualet
+copulatiuae tali 'omnis homo est albus et iile potest disgregare uisum'; et tunc iste discursus est bonus, quamuis
+non sit syllogismos categoricus, sed potest reduci in syllogismos categoricos...
+Sortes niger. Nam si hoc totum sit distributum 'homo, qui est albus', tunc syllogismos non ualet, cum
+non reguletor per dici de omni, sicut manifeste patet. Si autem 'homo' tantum sit distributus, tunc aequiualet
+copulatiuae tali 'omnis homo est albus et iile potest disgregare uisum'; et tunc iste discursus est bonus, quamuis
+non sit syllogismos categoricus, sed potest reduci in syllogismos categoricos...
+229
+
+

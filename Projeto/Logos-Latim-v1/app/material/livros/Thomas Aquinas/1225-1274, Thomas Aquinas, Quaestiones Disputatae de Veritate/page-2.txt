@@ -1,0 +1,63 @@
+Sed id quod est, assignatur ab Augustino, ut definitio veri, quibusdam aliis definitionibus reprobatis. Cum ergo
+secundum id quod est, conveniant verum et ens, videtur quod sint idem ratione.
+AG3
+Praeterea, quaecumque differunt ratione, ita se habent quod unum illorum potest intelligi sine altero: unde
+boetius in libro de hebdomadibus dicit, quod potest intelligi Deus esse, si separetur per intellectum paulisper
+bonitas eius. Ens autem nullo modo potest intelligi si separetur verum: quia per hoc intelligitur quod verum est.
+Ergo verum et ens non differunt ratione.
+AG4
+Praeterea, si verum non est idem quod ens, oportet quod sit entis dispositio. Sed non potest esse entis dispositio.
+Non enim est dispositio totaliter corrumpens, alias sequeretur: est verum, ergo est non ens; sicut sequitur: est
+homo mortuus, ergo non est homo. Similiter non est dispositio diminuens, alias non sequeretur: est verum, ergo
+est; sicut non sequitur: est albus dentes, ergo est albus. Similiter non est dispositio contrahens, vel specificans:
+quia sic non converteretur cum ente. Ergo verum et ens omnino sunt idem.
+AG5
+Praeterea, illa quorum est una dispositio, sunt eadem. Sed veri et entis est eadem dispositio. Ergo sunt eadem.
+Dicitur enim in II metaphysic.: dispositio rei in esse est sicut sua dispositio in veritate. Ergo verum et ens sunt
+omnino idem.
+AG6
+Praeterea, quaecumque non sunt idem, aliquo modo differunt. Sed verum et ens nullo modo differunt: quia non
+differunt per essentiam, cum omne ens per essentiam suam sit verum; nec differunt per aliquas differentias, quia
+oporteret quod in aliquo communi genere convenirent.
+Ergo sunt omnino idem.
+AG7
+Item, si non sunt omnino idem, oportet quod verum aliquid super ens addat. Sed nihil addit verum super ens,
+cum sit etiam in plus quam ens: quod patet per Philosophum, IV metaphys., ubi dicit quod: verum definientes
+dicimus quod dicimus esse quod est; aut non esse quod non est; et sic verum includit ens et non ens. Ergo verum
+non addit aliquid super ens; et sic videtur omnino idem esse verum quod ens.
+SC1
+Sed contra. Nugatio est eiusdem inutilis repetitio.
+Si ergo verum esset idem quod ens, esset nugatio, dum dicitur ens verum; quod falsum est. Ergo non sunt idem.
+SC2
+Item, ens et bonum convertuntur. Sed verum non convertitur cum bono; aliquod est enim verum quod non est
+bonum, sicut aliquem fornicari. Ergo nec verum cum ente convertitur, et ita non sunt idem.
+SC3
+Praeterea, secundum boetium in libro de hebdomadibus: in omnibus creaturis diversum est esse et quod est. Sed
+verum significat esse rei. Ergo verum est diversum a quod est in creatis. Sed quod est, est idem quod ens. Ergo
+verum in creaturis est diversum ab ente.
+SC4
+Praeterea, quaecumque se habent ut prius et posterius, oportet esse diversa. Sed verum et ens modo praedicto se
+habent, quia, ut in libro de causis dicitur, prima rerum creatarum est esse; et Commentator in eodem libro dicit
+quod omnia alia dicuntur per informationem de ente, et sic ente posteriora sunt.
+Ergo verum et ens sunt diversa.
+SC5
+Praeterea, quae communiter dicuntur de causa et causatis, magis sunt unum in causa quam in causatis, et
+praecipue in Deo quam in creaturis. Sed in Deo ista quatuor, ens, unum, verum et bonum, hoc modo
+appropriantur: ut ens ad essentiam pertineat, unum ad personam patris, verum ad personam filii, bonum ad
+personam spiritus sancti. Personae autem divinae non solum ratione, sed etiam re distinguuntur; unde de invicem
+non praedicantur.
+Ergo multo fortius in creaturis praedicta quatuor debent amplius quam ratione differre.
+CO
+Respondeo. Dicendum, quod sicut in demonstrabilibus oportet fieri reductionem in aliqua principia per se
+intellectui nota, ita investigando quid est unumquodque; alias utrobique in infinitum iretur, et sic periret omnino
+scientia et cognitio rerum.
+Illud autem quod primo intellectus concipit quasi notissimum, et in quod conceptiones omnes resolvit, est ens, ut
+Avicenna dicit in principio suae metaphysicae.
+Unde oportet quod omnes aliae conceptiones intellectus accipiantur ex additione ad ens. Sed enti non possunt
+addi aliqua quasi extranea per modum quo differentia additur generi, vel accidens subiecto, quia quaelibet natura
+est essentialiter ens; unde probat etiam Philosophus in III metaphys., quod ens non potest esse genus, sed
+secundum hoc aliqua dicuntur addere super ens, in quantum exprimunt modum ipsius entis qui nomine entis non
+exprimitur.
+2
+
+

@@ -1,0 +1,66 @@
+non ens. Sed aliquid est non substantia, scilicet accidens; igitur aliquid
+est non ens: et sic non est verum quod non ens sit nihil.
+Ostendit autem Aristoteles quod hoc non sequitur, quia si ens significat
+principaliter unum quod est substantia, nihil prohibet dicere quod
+accidens, quod non est substantia, non sit simpliciter ens: sed tamen non
+propter hoc oportet quod illud quod non est aliquid, idest substantia,
+dicatur absolute non ens. Licet ergo accidens non sit ens simpliciter, non
+tamen potest dici absolute non ens.
+|#6
+Deinde cum dicit: dicere igitur etc., ostendit ulterius quod non
+sequitur, si non ens quod est accidens non sit aliquid, quod omnia sint
+unum. Et hoc est quod dicit, quod inconveniens est dicere quod sequatur
+omnia esse unum nisi aliquid sit extra ens, quia per ens non potest
+intelligi nisi substantia, quae vere est. Sed si substantia sit, nihil
+prohibet esse multa, sicut iam dictum est, etiam remota magnitudine et
+accidente; quia definitio substantiae dividitur in multa quae sunt de
+genere substantiae, sicut homo in animal et bipes. Et ulterius sequitur
+quod secundum diversas differentias generis sint multae substantiae in
+actu. Et ultimo infert conclusionem principaliter intentam, quod non omnia
+sunt unum, sicut dicebat Parmenides et melissus.
+|+8
+
+Lectio 8
+
+|#1
+Postquam Philosophus improbavit opinionem de principiis eorum qui de
+natura non naturaliter sunt locuti, hic prosequitur opiniones eorum qui de
+principiis naturae naturaliter sunt locuti, non removentes motum: et ideo
+vocat eos physicos, idest naturales.
+Et circa hoc duo facit: primo ostendit diversitatem opinionum; secundo
+prosequitur unam earum, ibi: videtur autem etc..
+|#2
+Dicit ergo primo quod secundum opinionem naturalium Philosophorum,
+duo sunt modi secundum quos generantur res ex principiis. Quorum unum
+tangebant Philosophi naturales ponentes unum tantum principium materiale;
+sive esset unum de tribus elementis, scilicet igne, aere et aqua (quia
+terram solam nullus posuit principium, ut supra dictum est), sive aliquod
+medium inter ea, ut puta quod esset densius igne et subtilius aere. Ab isto
+autem uno principio dicebant omnia alia generari secundum raritatem et
+densitatem; ut puta, qui ponebant aerem principium, dicebant quod ex eo
+rarefacto generatur ignis, ex eo autem condensato generatur aqua. Rarum
+autem et densum sunt contraria; et reducuntur ad excellentiam et defectum,
+ut ad quaedam universaliora: nam densum est quod habet multum de materia,
+rarum autem quod parum.
+|#3
+Et sic quodammodo concordabant cum Platone, qui ponebat magnum et
+parvum principia, quae etiam pertinent ad excellentiam et defectum. Sed in
+hoc differebant a Platone, quia Plato posuit magnum et parvum ex parte
+materiae, quia ponebat unum principium formale, quod est quaedam idea
+participata a diversis secundum diversitatem materiae: antiqui vero
+naturales ponebant contrarietatem ex parte formae, quia ponebant primum
+principium unam materiam, ex qua multa constituuntur secundum diversas
+formas.
+|#4
+Alii vero antiqui naturales ponebant res fieri ex principiis, ex hoc
+quod ipsa contraria et diversa extrahebantur ab uno, in quo erant quasi
+commixta et confusa.
+Sed in hoc differebant, quod Anaximander ponebat illud unum confusum esse
+principium, non autem illa multa quae in eo erant commixta: unde ponebat
+unum tantum principium.
+Empedocles vero et Anaxagoras ponebant magis esse principia illa quae in eo
+permiscebantur: et ideo ponebant multa principia, licet et illud unum
+confusum quodammodo principium ponerent.
+17
+
+

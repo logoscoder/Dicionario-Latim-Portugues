@@ -1,0 +1,63 @@
+|a2 Articulus 2
+TTA
+Secundo quaeritur utrum mundus providentia regatur.
+TTB
+Et videtur quod non.
+AG1
+Nullum enim agens ex necessitate naturae, agit per providentiam. Sed Deus agit in res creatas ex necessitate
+naturae, quia, ut dicit dionysius IV cap. De divinis nominibus, divina bonitas se creaturis communicat sicut
+noster sol, non praeeligens neque praecognoscens, radios suos in corpora diffundit. Ergo mundus a Deo non
+regitur providentia.
+AG2
+Praeterea, principium multiforme sequitur ad principium uniforme. Sed voluntas est principium multiforme, quia
+se habet ad opposita, et per consequens etiam providentia, quae voluntatem praesupponit; natura autem est
+principium uniforme, quia determinatur ad unum. Ergo natura praecedit providentiam: non igitur res naturales
+providentia reguntur.
+AG3
+Sed dicebat, quod principium uniforme praecedit multiforme in eodem, non in diversis.
+Sed contra, quanto aliquod principium maiorem habet virtutem causandi, tanto est prius. Sed quanto magis est
+uniforme, maiorem habet virtutem in causando, quia, ut dicitur in Lib. De causis, omnis virtus unita plus est
+infinita quam multiplicata. Ergo, sive in eodem sive in diversis accipiantur uniforme principium multiforme
+praecedet.
+AG4
+Praeterea, secundum boetium in sua arithmetica, omnis inaequalitas ad aequalitatem reducitur, et multitudo ad
+unitatem. Ergo et omnis actio voluntatis, quae multiplicitatem habet, ad actionem naturae, quae simplex est et
+aequalis, reduci debet; et ita oportet quod primum agens per essentiam suam et naturam agat, et non per
+providentiam; et sic idem quod prius.
+AG5
+Praeterea, illud quod est de se determinatum ad unum, non indiget aliquo regente, quia ad hoc alicui regimen
+adhibetur, ne in contrarium dilabatur. Res autem naturales per propriam naturam sunt determinatae ad unum.
+Ergo non indigent providentia gubernante.
+AG6
+Sed dicebat, quod ad hoc providentiae gubernatione indigent, ut conserventur in esse. Sed contra, illud in quo
+non est potentia ad corruptionem, non indiget exteriori conservante. Sed quaedam res sunt in quibus non est
+potentia ad corruptionem quia nec ad generationem, sicut patet in corporibus caelestibus et substantiis
+spiritualibus, quae sunt principales partes mundi. Ergo huiusmodi non indigent providentia conservante in esse.
+AG7
+Praeterea, quaedam sunt in rerum natura quae nec etiam Deus potest mutare, sicut hoc principium quod non est
+de eodem affirmare et negare et quod fuit non potest non fuisse, ut Augustinus dicit in libro contra faustum: ergo
+ad minus huiusmodi providentia gubernante et conservante non indigent.
+AG8
+Praeterea, ut Damascenus dicit in libro II, non est conveniens alium esse factorem rerum, et alium provisorem.
+Sed corporalia non sunt facta a Deo, cum Deus sit spiritus; non enim videtur quod spiritus possit producere
+aliquod corpus, sicut nec corpus potest aliquem spiritum producere. Ergo huiusmodi corporalia a divina
+providentia non reguntur.
+AG9
+Praeterea, gubernatio rerum ipsam rerum distinctionem concernit. Sed rerum distinctio non videtur esse a Deo,
+quia ipse se habet uniformiter ad omnia, ut dicitur in libro de causis. Ergo res non gubernantur per divinam
+providentiam.
+AG10
+Praeterea, quae sunt in seipsis ordinata, non oportet ab alio ordinari. Sed res naturales sunt huiusmodi, quia, ut
+dicitur II de anima, omnium natura constantium est terminus et ratio magnitudinis et augmenti. Ergo res
+naturales non ordinantur per providentiam divinam.
+AG11
+Praeterea, si res gubernantur per divinam providentiam, ex ordine rerum poterimus divinam providentiam
+perscrutari. Sed, sicut dicit Damascenus in II libro, oportet omnia admirari omnia laudare, omnia imperscrutate
+acceptare, quae providentiae sunt. Ergo providentia mundus non regitur.
+SC1
+Sed contra. Est quod boetius dicit: o qui perpetua mundum ratione gubernas.
+SC2
+Praeterea, quaecumque habent certum ordinem, oportet quod aliqua providentia regantur.
+100
+
+

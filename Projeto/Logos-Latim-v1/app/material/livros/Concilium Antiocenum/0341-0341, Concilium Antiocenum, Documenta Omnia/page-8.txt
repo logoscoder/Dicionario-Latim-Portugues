@@ -1,0 +1,63 @@
+78 inserti V630; V1341; E97
+79 Archelaus korr. aus Arcelaus W411
+80 Esidius korr. aus Etsicius V630
+81 Teurius W411
+82 alius Teurus fehlt W411
+83 Eustatius V630; W411; V1341; E97
+84 ETBerius W411
+85 Alipius E97
+86 Tarcodius V1341
+87 Tarchodi Mantus] Tarcodimantus E97
+88 Syriae Coelen] Sirieco korr. aus Sirico W411
+89 et fehlt W411
+90 Alesphenices korr. aus Alesphences W411
+91 veteris korr. aus veris W411; veteris V1341
+92 Mesopotamiae et korr. aus Mesopotamiae O93; V630
+93 Mesopotamiae] Mesopotami• cilici isauriae korr. aus Mesopotani• W411; Mesopotamiae Ciliciae V1341
+94 hoc V630
+95 Rubrik fehlt V1341
+96 FACERE W411
+97 I fehlt E97
+98 cebratum V1341
+99 Constantini fehlt W411; Constanti V1341
+100 salutari korr. aus sulutari O93
+101 perseverent W411
+102 prepositis korr. aus propositis V630; praepositis W411; V1341; E97
+103 diffinitionem W411
+104 subversione W411
+105 seorsum colligere et] nitatur hac retinens korr. aus nitatur hac retines W411
+106 voluerit W411
+107 iamque W411
+108 proprii] pro W411
+109 conversatione E97
+110 iubet fehlt W411
+111 hos W411
+112 ausi fuerint] ausus fuerit W411
+113 his fehlt W411
+114 que W411
+115 meruit W411
+116 Rubrik fehlt V630
+117 COMMUNIONEM korr. aus COMMUNICATIONEM W411
+118 II fehlt E97
+119 ingrediuntur] ingrediuntur in W411; V1341
+120 orationem O93
+121 adversatur W411
+122 etiam V1341
+123 dominici sacramenti] dominicis sacramentis W411
+124 hos fehlt W411
+125 abici fehlt W411
+126 licere W411; liceat V1341
+127 cum his fehlt W411
+128 iis E97
+129 et O93; V630; W411; E97; neque V1341
+130 cum fehlt W411
+131 in fehlt W411
+132 excommunicatur W411
+133 quilibet W411
+134 vel V630
+135 hunc] hunc oportet V630; W411; V1341; E97
+136 Rubrik fehlt V630
+137 IBI PERSEVERARE] TRANSIRE W411
+8
+
+

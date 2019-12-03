@@ -1,0 +1,65 @@
+Et ideo concludit quod ad evidentiam harum opinionum considerandum est quid
+sit fortuna et casus; et utrum sint idem vel aliud; et quomodo reducantur
+ad causas praedictas.
+|+8
+
+Lectio 8
+
+|#1
+Postquam Philosophus posuit opiniones aliorum de fortuna et casu, hic
+determinat veritatem.
+Et dividitur in partes tres: in prima ostendit quid sit fortuna; in secunda
+in quo differant casus et fortuna, ibi: differunt autem etc.; in tertia
+ostendit ad quod genus causae casus et fortuna reducantur, ibi: sed modorum
+causarum etc..
+Prima pars dividitur in duas: in prima ostendit quid sit fortuna; in
+secunda ex definitione fortunae assignat rationem eorum quae de fortuna
+dicuntur, ibi: infinitas quidem igitur causas etc..
+Circa primum tria facit: primo ponit quasdam divisiones ad investigandum
+definitionem fortunae; secundo ostendit sub quibus membris illarum
+divisionum fortuna contineatur, ibi: sicut igitur dictum est etc.; tertio
+concludit definitionem fortunae, ibi: manifestum est ergo etc..
+Et quia fortuna ponitur ut causa quaedam, ad cognitionem autem causae
+oportet scire quorum sit causa, ponit primo divisionem ex parte eius cuius
+fortuna est causa; secundo ponit divisionem ex parte ipsius causae, ibi:
+huiusmodi igitur cum secundum accidens etc..
+|#2
+Circa primum ponit tres divisiones.
+Quarum prima est, quod quaedam fiunt semper, ut ortus solis; quaedam sicut
+frequenter, ut quod homo nascatur oculatus: neutrum autem horum dicitur
+esse a fortuna.
+Sed quaedam fiunt praeter haec, idest ut in paucioribus, sicut quod homo
+nascatur cum sex digitis vel sine oculis: et omnes dicunt huiusmodi fieri a
+fortuna. Unde manifestum est quod fortuna aliquid est; cum esse a fortuna
+et esse ut in paucioribus convertantur.
+Et hoc inducit contra primam opinionem, quae negavit fortunam.
+|#3
+Videtur autem divisio Philosophi esse insufficiens, quia etiam
+quaedam contingentia sunt ad utrumlibet. Avicenna ergo dixit quod in his
+quae sunt ad utrumlibet, contingit aliquid esse a fortuna, sicut ea quae
+sunt in minori parte. Nec obstat quod non dicitur esse a fortuna quod
+socrates sedeat, cum hoc sit ad utrumlibet: quia licet hoc sit ad
+utrumlibet respectu potentiae motivae, non tamen est ad utrumlibet respectu
+potentiae appetitivae, quae determinate tendit in unum; praeter quam si
+aliquid accideret, diceretur esse fortuitum.
+Sed sicut potentia motiva, quae est ad utrumlibet, non exit in actum nisi
+per potentiam appetitivam determinetur ad unum; ita nihil quod est ad
+utrumlibet exit in actum nisi per aliquod determinetur ad unum: quia id
+quod est ad utrumlibet est sicut ens in potentia; potentia autem non est
+principium agendi, sed solum actus. Unde ex eo quod est ad utrumlibet nihil
+sequitur, nisi per aliquid aliud quod determinat ad unum, vel sicut semper
+vel sicut frequenter. Et propter hoc in iis quae fiunt, praetermisit ea
+quae sunt ad utrumlibet.
+|#4
+Sciendum etiam quod quidam definierunt esse necessarium, quod non
+habet impedimentum; contingens vero sicut frequenter, quod potest impediri
+in paucioribus.
+Sed hoc irrationabile est. Necessarium enim dicitur, quod in sui natura
+habet quod non possit non esse: contingens autem ut frequenter, quod possit
+non esse. Hoc autem quod est habere impedimentum vel non habere, est
+contingens. Natura enim non parat impedimentum ei quod non potest non esse;
+quia esset superfluum.
+
+59
+
+

@@ -1,0 +1,52 @@
+|#20 Hos igitur tres modos Philosophus assignans dicit, quod cum idem multipliciter dicatur, uno modo dicitur
+idem secundum numerum, quod aliquando dicimus ipsum, sicut si dicamus, socrates est homo, et ipsum est
+album. Cum enim hoc pronomen, ipsum, sit relativum, relativum autem idem suppositum referat, ubicumque
+ponitur hoc quod dico ipsum, designat quod sit idem suppositum numero.
+|#21 Alio modo dicitur idem si fuerit unum, non solum unitate suppositi, ut hoc lignum et hoc album, sed simul
+ratione et numero, ut tu tibiipsi es idem et specie et materia; ut materia referatur ad suppositum quae est
+individuationis principium, et species pro natura suppositi accipiatur.
+|#22 Tertio modo dicitur idem quando ratio primae substantiae, idest suppositi est una, licet suppositum non sit
+unum. Et hoc est idem specie vel genere, sed non numero. Ponit autem exemplum in quantitatibus, secundum
+opinionem eorum, qui ponebant quantitates esse substantias rerum: secundum quam quidem opinionem plures
+lineae rectae, sunt sicut plura supposita in genere substantiae: mensura autem lineae est sicut species eius.
+Unde multae lineae rectae aequales, sunt unum secundum hanc positionem, sicut diversa supposita sunt unum
+quae communicant in una ratione speciei. Et quia mathematici utuntur lineis in abstractione, apud eos plures
+lineae aequales rectae accipiuntur ut una. Et similiter plura tetragona, scilicet figurae quatuor angulorum quae
+sunt aequalia quantitate, et sunt isagona, idest aequalium angulorum, accipiuntur ut idem. Et aequalitas in eis est
+quasi unitas secundum rationem speciei.
+|#26 Deinde cum dicit similia vero ostendit quot modis dicitur simile; et ponit quatuor modos; quorum primus
+respondet tertio modo eius, quod dicitur idem.
+Quia enim idem est unum in substantia, simile vero unum in qualitate, oportet illud, secundum quod dicitur
+simile, se habere ad id, secundum quod dicitur idem, sicut se habet qualitas ad substantiam. Et quia usus est
+aequalitate quasi unitate in substantia, utitur figura et proportione quasi qualitate.
+|#27 Attendendum etiam est, quod cum qualitas et quantitas fundentur in substantia: ubi est unitas substantiae,
+sequitur quod sit unitas quantitatis et qualitatis, non tamen unitas nominatur a quantitate et qualitate, sed a
+principaliori, scilicet substantia. Et ideo ubi est unitas substantiae, non dicitur similitudo vel aequalitas, sed
+identitas tantum.
+|#28 Ad similitudinem ergo vel aequalitatem requiritur diversitas substantiae.
+Et propter hoc dicit quod similia dicuntur aliqua, licet non sint simpliciter eadem secundum speciem substantiae,
+et si non sint etiam indifferentia secundum substantiam subiectam quae dicitur suppositum, sed sunt eadem
+secundum speciem aliquo modo, sicut maius tetragonum dicitur esse simile minori tetragono, quando scilicet
+anguli unius sunt aequales angulis alterius, et latera aequales angulos continentia sunt proportionalia. Sic igitur
+patet quod haec similitudo attenditur secundum unitatem figurae et proportionis.
+Et similiter multae rectae lineae inaequales non sunt eaedem simpliciter, licet sint similes.
+|#29 Potest autem et hic considerari quod quando est unitas secundum rationem perfectam speciei, dicitur
+identitas; quando autem est unitas non secundum totam rationem speciei, dicitur similitudo. Ut si quis dicat quod
+ea quae sunt unum genere, sunt similia; ea vero quae sunt unum specie, sunt eadem; ut videntur innuere exempla
+posita. Nam lineas rectas aequales et tetragona aequalia dixit habere identitatem adinvicem; tetragona autem
+inaequalia et rectas lineas inaequales habere similitudinem.
+|#30 Secundus modus est si aliqua conveniunt in una forma quae nata sit suscipere magis et minus, et tamen
+participent illam formam sine magis et minus: sicut albedo recipit intensionem et remissionem; unde si aliqua
+sunt alba aequaliter sine magis et minus, dicuntur similia.
+|#31 Tertius modus est quando aliqua conveniunt in una forma aut passione, etiam secundum magis et minus;
+sicut magis album et minus album dicuntur similia, quia est una species, idest qualitas ipsorum.
+|#32 Quartus modus est secundum quod aliqua dicuntur similia, non propter unam qualitatem tantum, sed
+consideratione multorum: ut dicantur illa esse similia quae in pluribus conveniunt quam differant, vel simpliciter,
+vel quantum ad ea quae in promptu apparent. Sicut stamnum argento dicitur simile, quia in multis convenit. Et
+similiter ignis auro, et crocus rubeo.
+|#33 Deinde cum dicit quare palam prosequitur de illis quae consequuntur ad pluralitatem.
+Et primo de dissimili et de diverso. Secundo de differenti, ibi, differentia vero et diversitas etc..
+
+286
+
+

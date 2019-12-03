@@ -1,0 +1,62 @@
+hoc est: cum sint hae quatuor propopositiones, quas subter positurus est, duae ipsarum se AD AFFIRMATIONEM ET
+NEGATIONEM ITA HABEBUNT SECUNDUM CONSEQUENTIAM UT PRIVATIONES, DUAE VERO MINIME.
+Sed hanc his propositionibus accidentiam paulo post demonstrabo.
+Nunc autem illud respiciamus, quemadmodum ipse quatuor fieri propositiones dicat. Ait enim: DICO AUTEM
+QUONIAM EST AUT IUSTO ADIACEBIT AUT NON IUSTO. Fiet enim duplex propositio, si 'est' aut iusto adiaceat
+aut non iusto, hoc modo:
+Est homo iustus
+Est homo non iustus
+Quare, inquit, si est affirmatiuo modo positum nunc quidem cum iusto, nunc autem cum non iusto geminas
+fecit propositiones scilicet affirmatiuas, idem quoque est cum negatione coniunctum id est non geminas /271/ quoque
+faciet negationes eas scilicet quae sunt: non est homo iustus, non est homo non iustus. Hoc est autem quod ait: DICO
+AUTEM QUONIAM EST AUT IUSTO ADIACEBIT AUT NON IUSTO. Si enim adiacet iusto, facit hanc
+affirmationem:
+Est iustus homo
+si adiacet non iusto, facit hanc affirmationem:
+Est non iustus homo
+Quare etiam negatio, quae iuncta cum est non est facit. Haec igitur negatio copulata iusto et non iusto duas
+efficiet negationes contra eas quas supra diximus propositiones. Si enim addatur iusto, talem facit negationem:
+Non est iustus homo
+si non iusto:
+Non est non iustus homo
+Hoc autem cur euenit? Quoniam est et non est iusto et non iusto adiacet, est cum iusto et non iusto duas
+faciente propositiones; non est iterum cum iusto et non iusto alias duas. Ex quibus quatuor duae oppositiones sunt, ut
+ait supra: QUANDO EST TERTIUM ADIACENS PRAEDICATUR, DUPLICITER DICUNTUR OPPOSITIONES.
+Quare sensus sese totus hoc modo habet. Sed quoniam est alia quoque scriptio loci, sic dicat: DICO AUTEM
+QUONIAM EST AUT HOMINI ADIACEBIT AUT NON HOMINI, QUARE ETIAM NEGATIO. QUATUOR ERGO
+ERUNT. INTELLEGIMUS VERO QUOD DICIMUS EX HIS QUAE SUBSCRIPTA SUNT. EST IUSTUS HOMO,
+HUIUS NEGATIO NON EST IUSTUS HOMO; EST NON IUSTUS HOMO, HUIUS NEGATIO NON EST NON
+IUSTUS HOMO, est hoc loco et non est homini adiacente.
+Turbabat expositores /272/ et dubitabant quid hoc esset, quod cum supra dixisset: DICO AUTEM QUONIAM
+EST AUT HOMINI ADIACEBIT AUT NON HOMINI, in eorum exemplo et dispositione 'est' non apposuit homini aut
+non homini sed iusto et non iusto dicens: INTELLEGIMUS VERO QUOD DICITUR EX HIS QUAE SUBSCRIPTA
+SUNT. EST IUSTUS HOMO, HUIUS NEGATIO NON EST IUSTUS HOMO; EST NON IUSTUS HOMO, HUIUS
+NEGATIO NON EST NON IUSTUS HOMO, et postquam iusto et non iusto est et non est apposuit quod ante non dixit
+sed ad hominem et ad non hominem est adiacere proposuit, postea infert: EST ENIM HOC LOCO HOMINI
+ADIACET, qui posuerat iusto et non iusto est et non est adiacere.
+Unde Alexander quoque dicit scripturae esse culpam, non philosophi recte dicentis et emendandam esse
+scripturam. Sed non eum oportuit confundi, si pro homine et non homine iustum et non iustum intulit.
+Haec enim exempla potius sunt quam propositionum necessitas. Quod enim dixit est homini et non homini
+adiacere ita sumpsit, tamquam si homo praedicaretur, ut in eo quod est:
+Socrates homo est
+uel rursus:
+Socrates non homo est
+Ergo uolens sumere quodcumque praedicatum, nunc quidem simplex, nunc autem infinitum, intulit iustum et
+non iustum indifferenter habens, an homo et non homo praedicaretur, an iustus et non iustus, modo in praedicato alias
+sumeretur nomen, alias infinitum nomen. Non ergo oportuit conturbari Alexandrum aliosque in hac inscriptione, in qua
+nos philosophus exercere uoluerit, sicut Porphyrium /273/ et Herminum non turbabat, qui dicunt exempla haec esse
+finiti praedicati et infiniti, in quibus quodlibet praedicatum [sit] aeque accipi oportere.
+Velut si, cum dixisset homini et non homini adiacere est et non est, album et non album postea intulisset,
+sufficeret. Hoc enim illud praedicatum alias finitum, alias infinitum sumere quibuscumque nominibus. Et quod ait
+homini et non homini adiacere est et postea intulit iusto et non iusto et subiecit hominem, non ita putandum est,
+tamquam de subiectis id est homine et non homine loqui uoluerit et postea per errorem intulerit in praedicato iusto et
+non iusto sed potius ipsum homini et non homini ita sumpsit, tamquam in aliquo praedicaretur, ut (sicut dictum est):
+Socrates homo est
+Socrates non homo est
+Hic ergo homo et non homo praedicatur. Rursus si quis dicat:
+Homo iustus est
+Homo non iustus est
+nihil differt. Eodem enim modo praedicatum in una propositione simplex sumptum est, in altera infinitum,
+uelut si dicam:
+
+

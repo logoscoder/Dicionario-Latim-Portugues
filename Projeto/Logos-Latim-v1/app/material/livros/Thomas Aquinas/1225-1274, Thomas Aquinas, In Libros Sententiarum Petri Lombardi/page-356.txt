@@ -1,0 +1,59 @@
+Et hoc etiam dicit dionysius, et ponit exemplum, sicut cum aliquid dicitur esse non ens: hoc enim ipsum esse est
+non esse; ita et posse deficere ab eo quod est perfecte possibile, non est posse simpliciter.
+Homo autem vel Angelus, quantumcumque beatus est, non est potens ex se vel per se. Sciendum quod homo ex
+se vel a se, nihil boni potest facere: quia istae praepositiones de, et ab denotant causam efficientem: unde dicitur
+homo posse facere aliquid ab eo a quo potentiam habet; constat enim quod quidquid boni habet, ab alio habet.
+Sed per denotat causam formalem; unde quaedam potest facere per se, scilicet quae complentur principiis
+naturalibus, quaedam autem non per se, sicut ea quae fiunt per virtutem divinam, ut miracula, et hujusmodi: et
+inde etiam est quod filius dicitur omnia agere per se, sed non a se.
+
+|+d43.q1 Distinctio 43, Quaestio 1
+|a0 Prologus
+Hic Magister excludit errorem quorundam contra praedeterminata, qui Dei potentiam limitabant, dicentes, non
+simpliciter omnium esse Dei potentiam: et dividitur in partes duas: in prima improbat errorem eorum, inquantum
+limitabant Dei potentiam, ad res quae fiunt; in secunda inquantum limitabant ad qualitatem earum; dicebant
+enim, nec alia nec meliora posse Deum facere quam quae facit, 44 dist., ibi: nunc illud restat discutiendum,
+utrum melius aliquid possit facere quam facit. Prima in tres: in prima narrat eorum positionem; in secunda ponit
+probationes eorum, et solvit eas, ibi: istamque primam suam opinionem verisimilibus argumentis, causisque
+commentitiis, nec non et sacrarum auctoritatum testimoniis munire conantur; in tertia inducit auctoritates ad
+veritatem probandam, ibi: fateamur ergo Deum plura posse facere quae non vult, et posse dimittere quae facit.
+Istamque suam primam opinionem verisimilibus argumentis... Munire conantur. Hic ponit probationes eorum; et
+dividitur in partes tres: in prima ponit quaedam probabilia argumenta quae habebant; in secunda ponit quasdam
+causas quas adinveniebant, ibi: addunt quoque et alia; in tertia ponit quasdam auctoritates quas inducebant ad
+suae opinionis confirmationem, ibi: his autem illi scrutatores qui defecerunt scrutantes scrutinia, sanctorum
+annectunt testimonia. Probationes autem et responsiones patent in littera.
+Circa hanc opinionem oportet duo quaerere, secundum quod duo ponebant. Primo ponebant, quod non potest
+facere aliquid eorum quae non facit: et in hoc negabant infinitatem divinae potentiae.
+Unde prima quaestio sit de infinitate divinae potentiae. Secundo ponebant Deum non posse non facere ea quae
+facit; et in hoc inducebant Deum agere ex necessitate; et ideo secunda quaestio erit, utrum Deus agat ex
+necessitate.
+Circa primum quaeruntur duo: 1 utrum potentia Dei sit infinita; 2 utrum omnipotentia sua, quae convenit sibi
+secundum infinitatem potentiae, sit creaturae communicabilis.
+|a1 Articulus 1: Utrum potentia Dei sit infinita.
+AG1
+Ad primum sic proceditur. Videtur quod potentia Dei non sit infinita. Sicut enim dicit Philosophus, infinitum
+habet rationem partis et materiae, et ita imperfecti. Sed potentia Dei est perfectissima. Ergo non debet dici
+infinita.
+AG2
+Praeterea, secundum Philosophum, finitum et infinitum congruunt quantitati.
+Sed omne quantum est divisibile. Cum igitur potentia divina sit simplex, videtur quod neque finita neque infinita
+dicenda sit.
+AG3
+Praeterea, secundum Philosophos, si esset aliqua potentia activa cui non responderet aliqua potentia passiva in
+natura, illa esset frustra. Sed nulla potentia passiva est ad recipiendum effectum infinitum. Cum ergo potentia
+activa Dei non sit frustra, videtur quod non sit infinita.
+AG4
+Praeterea, nullum infinitum comprehendi potest: quia, secundum Augustinum in Lib. De videndo Deum, illud
+comprehenditur cujus fines circumspiciuntur. Sed intellectus divinus comprehendit potentiam suam, cum totam
+potentiam suam Deus cognoscat. Ergo sua potentia non est infinita.
+AG5
+Praeterea, omnis potentia potest reduci in actum. Si ergo potentia Dei sit infinita, poterit actu infinita facere. Sed
+si actu infinita fecisset, aut aliquid posset facere amplius, et sic infinito esset aliquid majus. Vel nihil amplius
+facere posset, et sic impotens ex his quae faceret redderetur, et sua potentia ad opera ejus finiretur, et infinita non
+esset: quae omnia impossibilia sunt. Ergo Dei potentia non est infinita.
+SC1
+Sed contra, in magnitudine infinita semper est virtus infinita, sicut Philosophi probant, sive ponatur magnitudo
+molis, quam tamen impossibile est esse infinitam, sive magnitudo virtutis.
+356
+
+

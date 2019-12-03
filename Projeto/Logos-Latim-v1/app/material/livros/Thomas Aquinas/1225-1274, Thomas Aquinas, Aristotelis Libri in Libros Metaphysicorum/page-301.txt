@@ -1,0 +1,56 @@
+|#15 Et sic patet, quod nulla species a suo genere differt specie, nec est cum eo idem specie: et similiter non
+differunt aliqua specie ab illis quae non sunt in eodem genere, proprie loquendo, sed differunt genere ab eis.
+Specie vero differunt ab his quae sunt in eodem genere: quia contrarietas est differentia qua aliqua differunt
+specie, ut ostensum est: non quia ipsa contrarietas differentiarum differat specie, licet contraria differant specie;
+sed contrarietas est solum in his quae sunt eiusdem generis. Unde relinquitur quod differre specie non sit proprie
+in his quae sunt alterius generis.
+|+11 Lectio 11
+|#1 Quia Philosophus iam ostendit quod differentia secundum speciem est contrarietas, hic ostendit in quibus
+contrarietas non sit differentia secundum speciem; et dividitur in partes duas.
+In prima ostendit quod sunt contraria, quae non faciunt differre secundum speciem, sed sunt in eadem specie. In
+secunda ostendit quae sunt contraria quae faciunt genere differre, non solum specie, ibi, quoniam vero contraria
+diversa etc..
+Circa primum duo facit. Primo movet dubitationem. Secundo solvit, ibi, aut quia hoc quidem dicit etc..
+Dicit ergo primo, quod dubitatio est quare femina non differt specie a viro, cum femininum et masculinum sint
+contraria, et differentia secundum speciem causetur ex contrarietate, ut supra ostensum est.
+|#2 Et iterum cum ostensum sit, quod ipsa natura generis diversificetur in diversas species per differentias, quae
+sunt per se differentiae generis, quare animal masculinum et animal femininum non sunt diversa secundum
+speciem, cum masculinum et femininum sint per se differentiae animalis, et non se habeant per accidens ad
+animal, sicut albedo et nigredo, sed masculinum et femininum praedicentur de animali inquantum est animal,
+sicut par et impar de numero, in quorum definitione ponitur numerus, sicut in definitione masculini et feminini
+animal.
+|#3 Ex duplici ergo ratione quaestio dubitabilis redditur: tum quia contrarietas facit differre specie: tum quia
+differentiae dividentes genus in diversas species sunt per se differentiae generis: quorum utrumque supra
+ostensum est.
+|#4 Et quia hanc dubitationem in specialibus terminis moverat, reducit eam ad generaliorem formam; et dicit
+quod haec dubitatio fere est eadem, sicut si quaeratur, quare quaedam contrarietas facit differre specie, et
+quaedam non: sicut ambulativum et volativum, sive gressibile et volatile, faciunt differre specie animalia, sed
+albedo et nigredo non.
+|#5 Deinde cum dicit aut quia solvit propositam quaestionem.
+Et circa hoc duo facit. Primo solvit eam in generali, ad quod quaestionem reduxerat.
+Secundo adaptat generalem solutionem ad speciales terminos, in quibus primo moverat quaestionem, ibi,
+masculus vero et femina.
+Dicit ergo, quod ideo contingit quod quaedam contrarietas facit differre specie et quaedam non, quia quaedam
+contraria sunt propriae passiones generis, et quaedam sunt minus propriae. Quia enim genus a materia sumitur,
+materia autem per se habet ordinem ad formam; illae propriae sunt differentiae generis, quae sumuntur a diversis
+formis perficientibus materiam. Sed quia forma speciei iterum multiplicatur in diversa secundum materiam
+signatam, quae est subiecta individualibus proprietatibus, contrarietas accidentium individualium minus proprie
+se habet ad genus, quam contrarietas differentiarum formalium. Et ideo subiungit, quod quia in composito est
+materia et forma, haec quidem est ratio, idest forma quae constituit speciem, haec autem est materia quae est
+individuationis principium: quaecumque contrarietates sunt in ratione, idest ex parte formae, faciunt differre
+secundum speciem. Illae vero quae sunt ex parte materiae, quae sunt propriae individui, quod est acceptum cum
+materia, non faciunt differre secundum speciem.
+|#6 Et propter hoc albedo et nigredo non faciunt homines differre secundum speciem. Non enim homo albus et
+homo niger differunt specie, etiam si utrique imponatur aliquod nomen; ut si homo albus dicatur a et homo niger
+b. Hoc autem addit, quia homo albus non videtur esse aliquid unum. Sed si imponeretur nomen, videtur esse
+aliquid unum. Et similiter est de homine nigro. Et ideo dicit, quod homo albus et homo niger non differunt
+specie, quia homo, scilicet particularis, cui conveniunt album et nigrum, est quasi materia. Non enim dicitur
+quod homo sit albus, nisi quia hic homo est albus.
+Et sic, cum homo particularis conceptus sit cum materia, et materia non facit differentiam secundum speciem,
+sequitur quod hic homo et ille homo non differant specie: quia plures homines non propter hoc sunt plures
+species hominis, quia sunt plures; quia non sunt plures nisi propter diversitatem materiae, quia scilicet sunt
+diversae carnes et ossa ex quibus est hic et ille.
+
+301
+
+

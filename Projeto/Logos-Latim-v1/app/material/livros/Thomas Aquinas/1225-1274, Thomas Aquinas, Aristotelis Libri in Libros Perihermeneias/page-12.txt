@@ -1,0 +1,57 @@
+Nec ante Aristotelem erat nomen positum huic generi dictionum a verbis differentium; sed quia huiusmodi
+dictiones in aliquo cum verbis conveniunt, deficiunt tamen a determinata ratione verbi, ideo vocat ea verba
+infinita.
+Et rationem nominis assignat, quia unumquodque eorum indifferenter potest dici de eo quod est, vel de eo quod
+non est. Sumitur enim negatio apposita non in VI privationis, sed in VI simplicis negationis. Privatio enim
+supponit determinatum subiectum.
+Differunt tamen huiusmodi verba a verbis negativis, quia verba infinita sumuntur in VI unius dictionis, verba
+vero negativa in VI duarum dictionum.
+|#12 Deinde cum dicit: similiter autem curret etc., excludit a verbo verba praeteriti et futuri temporis; et dicit
+quod sicut verba infinita non sunt simpliciter verba, ita etiam curret, quod est futuri temporis, vel currebat, quod
+est praeteriti temporis, non sunt verba, sed sunt casus verbi. Et differunt in hoc a verbo, quia verbum
+consignificat praesens tempus, illa vero significant tempus hinc et inde circumstans.
+Dicit autem signanter praesens tempus, et non simpliciter praesens, ne intelligatur praesens indivisibile, quod est
+instans: quia in instanti non est motus, nec actio aut passio; sed oportet accipere praesens tempus quod mensurat
+actionem, quae incepit, et nondum est determinata per actum.
+Recte autem ea quae consignificant tempus praeteritum vel futurum, non sunt verba proprie dicta: cum enim
+verbum proprie sit quod significat agere vel pati, hoc est proprie verbum quod significat agere vel pati in actu,
+quod est agere vel pati simpliciter: sed agere vel pati in praeterito vel futuro est secundum quid.
+|#13 Dicuntur etiam verba praeteriti vel futuri temporis rationabiliter casus verbi, quod consignificat praesens
+tempus; quia praeteritum vel futurum dicitur per respectum ad praesens. Est enim praeteritum quod fuit praesens,
+futurum autem quod erit praesens.
+|#14 Cum autem declinatio verbi varietur per modos, tempora, numeros et personas, variatio quae fit per
+numerum et personam non constituit casus verbi: quia talis variatio non est ex parte actionis, sed ex parte
+subiecti; sed variatio quae est per modos et tempora respicit ipsam actionem, et ideo utraque constituit casus
+verbi. Nam verba imperativi vel optativi modi casus dicuntur, sicut et verba praeteriti vel futuri temporis. Sed
+verba indicativi modi praesentis temporis non dicuntur casus, cuiuscumque sint personae vel numeri.
+|#15 Deinde cum dicit: ipsa itaque etc., ostendit convenientiam verborum ad nomina.
+Et circa hoc duo facit: primo, proponit quod intendit; secundo, manifestat propositum; ibi: et significant aliquid
+etc..
+Dicit ergo primo, quod ipsa verba secundum se dicta sunt nomina: quod a quibusdam exponitur de verbis quae
+sumuntur in VI nominis, ut dictum est, sive sint infinitivi modi; ut cum dico, currere est moveri, sive sint alterius
+modi; ut cum dico, curro est verbum. Sed haec non videtur esse intentio Aristotelis, quia ad hanc intentionem
+non respondent sequentia. Et ideo aliter dicendum est quod nomen hic sumitur, prout communiter significat
+quamlibet dictionem impositam ad significandum aliquam rem. Et quia etiam ipsum agere vel pati est quaedam
+res, inde est quod et ipsa verba in quantum nominant, idest significant agere vel pati, sub nominibus
+comprehenduntur communiter acceptis.
+Nomen autem, prout a verbo distinguitur, significat rem sub determinato modo, prout scilicet potest intelligi ut
+per se existens.
+Unde nomina possunt subiici et praedicari.
+|#16 Deinde cum dicit: et significant aliquid etc., probat propositum.
+Et primo, per hoc quod verba significant aliquid, sicut et nomina; secundo, per hoc quod non significant verum
+vel falsum, sicut nec nomina; ibi: sed si est, aut non est etc..
+Dicit ergo primo quod in tantum dictum est quod verba sunt nomina, in quantum significant aliquid. Et hoc
+probat, quia supra dictum est quod voces significativae significant intellectus. Unde proprium vocis
+significativae est quod generet aliquem intellectum in animo audientis. Et ideo ad ostendendum quod verbum sit
+vox significativa, assumit quod ille, qui dicit verbum, constituit intellectum in animo audientis. Et ad hoc
+manifestandum inducit quod ille, qui audit, quiescit.
+|#17 Sed hoc videtur esse falsum: quia sola oratio perfecta facit quiescere intellectum, non autem nomen, neque
+verbum si per se dicatur. Si enim dicam, homo, suspensus est animus audientis, quid de eo dicere velim; si autem
+dico, currit, suspensus est eius animus de quo dicam.
+Sed dicendum est quod cum duplex sit intellectus operatio, ut supra habitum est, ille qui dicit nomen vel verbum
+secundum se, constituit intellectum quantum ad primam operationem, quae est simplex conceptio alicuius, et
+secundum hoc, quiescit audiens, qui in suspenso erat antequam nomen vel verbum proferretur et eius prolatio
+terminaretur; non autem constituit intellectum quantum ad secundam operationem, quae est intellectus
+12
+
+

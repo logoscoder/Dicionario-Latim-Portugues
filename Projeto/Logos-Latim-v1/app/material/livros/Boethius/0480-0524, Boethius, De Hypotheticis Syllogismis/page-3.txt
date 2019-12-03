@@ -1,0 +1,62 @@
+Cum homo est, animal est
+uel:
+Cum homo est, equus non est
+quae enuntiatio propositionis eiusdem potestatis est cuius ea quae hoc
+/216/ modo proponitur:
+Si homo est, animal est
+Si homo est, equus non est
+[1.3.2] Fiunt uero propositiones hypotheticae etiam per disiunctionem ita:
+Aut hoc aut illud est.
+Nec eadem uideri debet haec propositio quae superior, quae sic enuntiatur:
+Si hoc est, illud non est
+haec enim non est per disiunctionem sed per negationem. Negatio uero omnis infinita est, atque ideo et in
+contrariis, et in contrariorum medietatibus, et in disparatis fieri potest (disparata autem uoco, quae tantum a se diuersa
+sunt, nulla contrarietate pugnantia, ueluti terra, ignis, uestis, et caetera).
+[1.3.3] Nam:
+Si album est, nigrum non est
+Si album est, rubrum non est
+Si disciplina est, homo non est
+at in ea quae disiunctione fit, alteram semper poni necesse est hoc modo:
+Aut dies est aut nox est
+quod si cuncta ea quae per negationem dici conuenit ad disiunctionem transferamus, ratio non procedit. Quid
+enim si quis dicat:
+Aut album est aut nigrum
+Aut album est aut rubrum
+Aut disciplina est aut homo... ?
+fieri enim potest ut nihil horum sit. Igitur quoniam per disiunctionem propositio in certis tantum rebus in
+quibus alterum eorum euenire necesse est ponitur, haec autem per negationem separatio in omnibus etiam his quae
+suam inuicem naturam non perimunt poni potest, aperta ratione discreta est.
+[1.3.4] Omnis igitur hypothetica propositio uel per connexionem fit (per connexionem uero illum quoque
+modum qui per negationem fit esse pronuntio), uel per disiunctionem; uterque enim modus ex simplicibus
+propositionibus comparatur. Simplices /218/ autem propositiones sunt quas praedicatiuas primo Institutionis
+Categoricae libro diximus. Haec uero sunt cum aliquid de aliquo praedicatur, uel affirmando, uel negando, ut:
+Dies est, lux est.
+At si his media conditio interueniat, fiet:
+Si dies est, lux est
+fitque una hypothetica propositio ex duabus categoricis iuncta.
+[1.3.5] Sed quoniam omnis simplex propositio uel affirmatiua est uel negatiua, quatuor modis per
+connexionem fieri hypotheticae propositiones possunt, aut enim ex duabus affirmatiuis, aut ex duabus negatiuis, aut ex
+affirmatiua et negatiua, aut ex negatiua et affirmatiua. Harum omnium exempla subdenda sunt, quo id quod dicimus
+clarius innotescat. Ex duabus affirmatiuis:
+Si dies est, lux est
+ex duabus negatiuis:
+Si non est animal, non est homo
+ex affirmatiua et negatiua:
+Si dies est, nox non est
+ex negatiua et affirmatiua:
+Si dies non est, nox est.
+[1.3.6] Sed quoniam dictum est idem significare "si" coniunctionem et "cum" quando in hypotheticis
+propositionibus ponitur, duobus modis conditionales fieri possunt: uno secundum accidens, altero ut habeant aliquam
+naturae consequentiam. Secundum accidens hoc modo, ut cum dicimus:
+Cum ignis calidus sit, caelum rotundum est.
+Non enim quia ignis calidus est, caelum rotundum est sed id haec propositio designat, quia quo tempore ignis
+calidus est, eodem tempore caelum quoque rotundum est. Sunt autem aliae quae habent ad se consequentiam naturae;
+harum quoque duplex modus est, unus cum necesse est consequi, ea tamen ipsa consequentia non per terminorum
+positionem /220/ fit; alius uero cum fit consequentia per terminorum positionem.
+[1.3.7] Ac prioris quidem modi exemplum est, ut ita dicamus:
+Cum homo sit, animal est
+non enim idcirco animal est quia homo est, sed fortasse a genere principium ducitur, magisque essentiae causa
+ex uniuersalibus trahi potest, ut idcirco sit homo quia animal est. Causa enim speciei genus est. At qui dicit:
+Cum homo sit, animal est
+
+

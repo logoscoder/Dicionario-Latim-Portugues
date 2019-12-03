@@ -1,0 +1,57 @@
+|+27 Lectio 27
+|#1 Postquam Philosophus ostendit quod omne sempiternum est ingenitum et incorruptibile, hic comparat
+sempiternum ad corruptibile et genitum, ostendens quod simul esse non possunt. Et primo praemittit quaedam ex
+quibus procedit ratio; secundo ex illis argumentatur ad propositum, ibi: neque itaque semper existens etc..
+Circa primum tria proponit. Primo quidem declarat oppositionem eius quod est semper esse et semper non esse:
+et quamvis adiungat hoc, quod est possibile, non tamen tradit oppositionem quae attenditur secundum possibile
+et non possibile, sed secundum semper esse et non semper esse. Dicit ergo primo quod huius affirmativae quae
+est possibile semper esse, negatio contradictorie ei opposita est possibile non semper esse: non quidem ex parte
+ipsius possibilis, respectu cuius haec est affirmativa possibile non semper esse; sed quantum ad ipsum quod est
+non semper esse. Sed hoc quod est possibile semper non esse, opponitur contrarie secundum eundem modum ei
+quod est possibile semper esse. Negativa autem huius est possibile non semper non esse. Et huius ratio est quia
+hoc adverbium semper designat universalitatem temporis, sicut hoc signum omnis designat universalitatem
+suppositorum. Unde sicut huic enuntiationi omnis homo est, contradictoria est non omnis homo est, aequipollens
+ei quae est aliquis homo non est; contraria vero huic omnis homo est, dicitur omnis homo non est, aequipollens
+huic nullus homo est; huius autem contradictoria est non omnis homo non est, aequipollens huic aliquis homo
+est: ita huic quod dico semper esse, contradictorie opponitur non semper esse, quod aequipollet ei quod est
+aliquando non esse; sed ei quod est semper esse, contrarie opponitur semper non esse, quod aequipollet huic
+quod est nunquam esse; huic vero contradictorie opponitur non semper non esse, quod aequipollet ei quod est
+aliquando esse.
+|#2 Secundo cum dicit: necesse negationes etc., concludit ex praedicto modo oppositionis quod oportet eidem
+subiecto inesse negationes ambarum, scilicet eius quod est semper esse et eius quod est semper non esse; quae
+scilicet negationes sunt non semper esse et non semper non esse. Quae quidem negationes eodem modo insunt
+eidem, ut illud sit medium inter semper ens et semper non ens quod quidem potest quandoque esse et quandoque
+non esse; sicut si dicamus quod inter omnem hominem esse et nullum hominem esse, medium est aliquem
+hominem esse et aliquem hominem non esse.
+|#3 Tertio ibi: utriusque enim negatio etc., probat hanc conclusionem sequi ex praemissis. Et primo ratione
+propria, quae scilicet sumitur ex ratione terminorum in quaestione positorum, dicens: utriusque enim negatio,
+scilicet tam eius quae est semper esse quam eius quae est semper non esse, quandoque existet, idest ponit aliquid
+quandoque esse, si non semper sit, idest si per negationem non ponitur aliquid semper: verbi gratia, ista negatio
+non semper ens, non ponit sempiternitatem neque circa esse neque circa non esse, et ideo ponit quandoque esse
+et quandoque non esse; et simile est de hac negatione non semper non esse. Concludit ergo quod illud quod non
+semper est non ens, erit quandoque et quandoque non erit: quia sic negatur semper non esse, quod non ponitur
+semper esse. Et similiter ista negatio quae est non semper possibile esse, quia removet sempiternitatem circa esse
+ita quod non ponit sempiternitatem circa non esse, ponit ens quandoque; et quia non ponit esse semper, nihil
+prohibet illud non esse. Sic ergo idem erit possibile esse quandoque et non esse quandoque. Et hoc est medium
+inter duo contraria quae sunt semper esse et semper non esse.
+|#4 Secundo ibi: ratio autem etc., probat idem ratione communi, quae scilicet in quibuslibet terminis locum
+habet. Sint enim duo termini a et b, ita se habentes quod nulli eidem possint inesse quia sunt contrarii, sicut
+semper ens et semper non ens. Accipiatur autem alius terminus, scilicet g, qui ita se habeat ad a quod omni
+subiecto insit vel a vel g: habent enim se sicut affirmatio et negatio, ut semper ens et non semper ens.
+Sit autem alius terminus, scilicet d, qui eodem modo se habeat ad b, sicut semper non ens et non semper non ens.
+Necesse est ergo quod omni ei quod neque est a neque b, idest quod neque est semper ens neque semper non ens,
+insint et g et d, quae sunt negationes amborum: quia a quo removetur semper esse et semper non esse, necesse
+est quod attribuatur ei non semper esse, idest quandoque non esse, et non semper non esse, idest quandoque esse.
+Et sic illud subiectum a quo removetur utraque affirmatio, et cui attribuitur utraque negatio, est quod est medium
+inter a et b: quia illud quod negat utrumque extremum, est medium inter duo contraria; sicut quod neque est
+album neque nigrum, est medium inter album et nigrum. Huic ergo medio necesse est quod ambae negationes
+insint, scilicet g et d. Quia sicut dictum est, oportet quod cuicumque insit g aut a; unde oportet quod alterum
+eorum insit ei quod est e; quia igitur ei quod est e impossibile est quod insit a, sequitur quod insit ei g. Et eadem
+ratione probatur quod insit ei d. Sic igitur et g et d praedicantur de e, a quo removetur et a et b: quia scilicet
+aliquid est quandoque ens, quandoque non ens, quod neque est semper ens neque semper non ens. Et hoc est
+quod probare intendit.
+|#5 Deinde cum dicit: neque itaque semper existens etc., ex praemissis argumentatur ad propositum.
+
+58
+
+

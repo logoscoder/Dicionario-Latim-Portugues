@@ -1,0 +1,62 @@
+In appetitu autem naturali hoc manifeste apparet, quod sicut unumquodque habet naturalem consonantiam vel
+aptitudinem ad id quod sibi convenit, quae est amor naturalis; ita ad id quod est ei repugnans et corruptivum,
+habet dissonantiam naturalem, quae est odium naturale. Sic igitur et in appetitu animali, seu in intellectivo, amor
+est consonantia quaedam appetitus ad id quod apprehenditur ut conveniens, odium vero est dissonantia quaedam
+appetitus ad id quod apprehenditur ut repugnans et nocivum. Sicut autem omne conveniens, inquantum
+huiusmodi, habet rationem boni; ita omne repugnans, inquantum huiusmodi, habet rationem mali. Et ideo, sicut
+bonum est obiectum amoris, ita malum est obiectum odii.
+RA1
+Ad primum ergo dicendum quod ens, inquantum ens, non habet rationem repugnantis, sed magis convenientis,
+quia omnia conveniunt in ente. Sed ens inquantum est hoc ens determinatum, habet rationem repugnantis ad
+aliquod ens determinatum. Et secundum hoc, unum ens est odibile alteri, et est malum, etsi non in se, tamen per
+comparationem ad alterum.
+RA2
+Ad secundum dicendum quod, sicut aliquid apprehenditur ut bonum, quod non est vere bonum; ita aliquid
+apprehenditur ut malum, quod non est vere malum. Unde contingit quandoque nec odium mali, nec amorem boni
+esse bonum.
+RA3
+Ad tertium dicendum quod contingit idem esse amabile et odibile diversis, secundum appetitum quidem
+naturalem, ex hoc quod unum et idem est conveniens uni secundum suam naturam, et repugnans alteri, sicut
+calor convenit igni, et repugnat aquae. Secundum appetitum vero animalem, ex hoc quod unum et idem
+apprehenditur ab uno sub ratione boni, et ab alio sub ratione mali.
+|a2 Articulus 2
+AG1
+Ad secundum sic proceditur.
+Videtur quod amor non sit causa odii.
+Ea enim quae ex opposito dividuntur, naturaliter sunt simul, ut dicitur in praedicamentis.
+Sed amor et odium, cum sint contraria, ex opposito dividuntur.
+Ergo naturaliter sunt simul. Non ergo amor est causa odii.
+AG2
+Praeterea, unum contrariorum non est causa alterius.
+Sed amor et odium sunt contraria. Ergo amor non est causa odii.
+AG3
+Praeterea, posterius non est causa prioris. Sed odium est prius amore, ut videtur, nam odium importat recessum a
+malo, amor vero accessum ad bonum. Ergo amor non est causa odii.
+SC
+Sed contra est quod dicit Augustinus, XIV de CIV. Dei, quod omnes affectiones causantur ex amore.
+Ergo et odium, cum sit quaedam affectio animae, causatur ex amore.
+CO
+Respondeo dicendum quod, sicut dictum est, amor consistit in quadam convenientia amantis ad amatum, odium
+vero consistit in quadam repugnantia vel dissonantia.
+Oportet autem in quolibet prius considerare quid ei conveniat, quam quid ei repugnet, per hoc enim aliquid est
+repugnans alteri, quia est corruptivum vel impeditivum eius quod est conveniens.
+Unde necesse est quod amor sit prior odio; et quod nihil odio habeatur, nisi per hoc quod contrariatur convenienti
+quod amatur.
+Et secundum hoc, omne odium ex amore causatur.
+RA1
+Ad primum ergo dicendum quod in his quae ex opposito dividuntur, quaedam inveniuntur quae sunt naturaliter
+simul et secundum rem, et secundum rationem, sicut duae species animalis, vel duae species coloris. Quaedam
+vero sunt simul secundum rationem, sed unum realiter est prius altero et causa eius, sicut patet in speciebus
+numerorum, figurarum et motuum. Quaedam vero non sunt simul nec secundum rem, nec secundum rationem,
+sicut substantia et accidens, nam substantia realiter est causa accidentis; et ens secundum rationem prius
+attribuitur substantiae quam accidenti, quia accidenti non attribuitur nisi inquantum est in substantia.
+Amor autem et odium naturaliter quidem sunt simul secundum rationem, sed non realiter. Unde nihil prohibet
+amorem esse causam odii.
+RA2
+Ad secundum dicendum quod amor et odium sunt contraria, quando accipiuntur circa idem. Sed quando sunt de
+contrariis, non sunt contraria, sed se invicem consequentia, eiusdem enim rationis est quod ametur aliquid, et
+odiatur eius contrarium.
+Et sic amor unius rei est causa quod eius contrarium odiatur.
+726
+
+

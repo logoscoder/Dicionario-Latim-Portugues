@@ -1,0 +1,47 @@
+definitione necessitas comprehensa est, factum est ut conclusionis
+uis a similitudine inductionis distingueretur. Nam et in inductione
+quaedam conceduntur, ut puta:
+Homo inferiorem malam mouet, equus inferiorem mouet,
+item bos et canis
+In istis acceptionibus in conclusione aliud quid infertur:
+Ergo et omne animal inferiorem malam mouet
+Quod cum sit in crocodilo falsum, potes superioribus concessis
+illationem ipsam non recipere, quam tibi in conclusione non licuisset
+recusare, quippe cuius illatio in ipsis acceptionibus continetur, et
+ideo in ea additum est "necessario euenire". Ne ultima quidem pars
+definitionis uacat, sed ostendit ex eisdem ipsis quae concesserit,
+euenire debere illationem, caeterum ratam non fore. Ac de his quidem
+satis dictum.
+[08]
+Nunc tradendum est, quibus modis et coniugationibus fiant intra certum
+numerum praedicatiui generis uerae conclusiones. Quippe in prima
+formula nouem soli moduli, sex /203/ autem coniugationes reperiuntur;
+in secunda quattuor moduli, tres coniugationes; in tertia sex moduli,
+coniugationes quinque. De quibus hic iam suo ordine demonstrabo
+praefatus neque ex particularibus solis neque abdicatiuis solis ratam
+fieri conclusionem, quia saepe possunt et falsa conducere. Item
+quamlibet multis dedicatiuis si utrauis abdicatiua iungatur,
+dedicatiuam non, sed abdicatiuam fieri illationem: tantum uel una
+mixta caeteris praeualet. Similis etiam particularium uis est; utrauis
+enim mixta uniuersalibus particularem facit illationem.
+[09]
+Igitur in prima formula modus primus est, qui conducit ex uniuersalibus
+dedicatiuis dedicatiuum uniuersale directim, ut:
+Omne iustum honestum,
+omne honestum bonum;
+omne igitur iustum bonum est
+At si reflexim inferas:
+Quoddam igitur bonum iustum
+fit ex eadem coniugatione quintus modus. Nam sic tantum reflecti posse
+uniuersalem dedicatiuam supra docui. Secundus modus est, qui conducit
+ex uniuersalibus dedicatiua et abdicatiua abdicatiuum uniuersale
+directim, ut:
+Omne iustum honestum,
+nullum honestum turpe;
+nullum igitur iustum turpe
+At si reflexim inferas:
+Nullum igitur turpe /204/ iustum
+sextum modum effeceris. Nam, ut dictum est, reflectitur in se
+7
+
+

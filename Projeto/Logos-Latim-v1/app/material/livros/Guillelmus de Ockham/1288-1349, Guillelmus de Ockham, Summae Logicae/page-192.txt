@@ -1,0 +1,57 @@
+subiecto accepto pro eo quod fuit, 'igitur nullus homo fuit albus'; et hoc si subiectum consequentis accipiatur pro
+eo quod fuit. Impossibile enim est quod aliquis homo fuerit albus et tamen quod nihil quod fuerit album fuerit
+homo.
+Si autem talis propositio de praeterito fuerit singularis, in qua subicitur pronomen demanstratiuum sine
+addito uel nomen proprium, tunc conuertitur in propositionem singularem uel uniuersalem, siue particularem uel
+indefinitam, subiecto consequentis accepto pro eo quod fuit. Sicut bene sequitur 'Sortes non fuit albus, igitur
+nihil quod fuit album fuit
+Sortes'. Sed subiecto consequentis accepto pro eo quod est, non ualet consequentia. Non enim sequitur
+'Sortes non fuit albus, igitur nihil quod est album fuit Sortes'; nec etiam sequitur illa de praesenti, scilicet ista
+'nullum album est Sortes', nam posito quod Sortes nunc primo sit albus, ista est uera 'Sortes non fuit
+albus'; et utraque illarum est falsa.
+'nullum album est Sortes', nam posito quod Sortes nunc primo sit albus, ista est uera 'Sortes non fuit
+albus'; et utraque illarum est falsa.
+Est etiam notandum quod sicut propositio talis distinguitur quando subiectum est terminus communis,
+ita etiam potest distingui quando ponitur pronomen demonstratiuum cum termino communi. Unde haec est
+distinguenda
+'hoc album fuit Sortes', eo quod potest esse implicatio mediante uerbo de praesenti, et tunc est iste
+sensus 'hoc, quod modo est album, fuit Sortes', uel mediante uerbo de praeterito, ut iste sit sensus 'hoc, quod fuit
+album, fuit Sortes'. Et est talis propositio conuertibilis uniformiter propositioni de praeterito in qua subicitur
+terminus communis.
+'hoc album fuit Sortes', eo quod potest esse implicatio mediante uerbo de praesenti, et tunc est iste
+sensus 'hoc, quod modo est album, fuit Sortes', uel mediante uerbo de praeterito, ut iste sit sensus 'hoc, quod fuit
+album, fuit Sortes'. Et est talis propositio conuertibilis uniformiter propositioni de praeterito in qua subicitur
+terminus communis.
+Illa quae dicta sunt de propositione de praeterita applicanda sunt, proportionaliter, propositioni de
+futuro, iuxta distinctianem prius datam.
+Illa quae dicta sunt de propositione de praeterita applicanda sunt, proportionaliter, propositioni de
+futuro, iuxta distinctianem prius datam.
+Sciendum est etiam quod, sicut dictum est prius, quod in propositionibus de praesenti aduerbialis
+determinatio addenda est in consequente participio prioris uerbi et non uerbo; ita est faciendum in illis de
+praeterito et de futuro.
+Sciendum est etiam quod, sicut dictum est prius, quod in propositionibus de praesenti aduerbialis
+determinatio addenda est in consequente participio prioris uerbi et non uerbo; ita est faciendum in illis de
+praeterito et de futuro.
+Per praedicta patet quod tales consequentiae non ualent 'Deus non semper fuit creans, igitur creans non
+fuit semper Deus', nam antecedens est uerum, hoc scilicet 'Deus non fuit semper creans', quia non fuit creans
+ante mundi creationem; sed haec est falsa 'creans non semper fuit Deus', quia hoc creans semper fuit Deus. Sicut
+enim haec est uera 'album fuit nigrum' et tamen haec numquam fuit uera 'album est nigrum', ita haec est uera
+'creans semper fuit Deus' et tamen haec non fuit semper uera 'creans est Deus'; et ideo praedicta consequentia
+non ualet. Sed debet sic canuerti 'Deus non fuit semper creans, igitur nihil quod fuit semper creans, est Deus', uel
+'nihil quod semper fuit creans, fuit Deus'. Et ista est uera, quia habet duas causas ueritatis: uel quia nihil
+semper fuit creans; uel quia aliquid semper fuit creans, quod tamen non est Deus. Et prima causa est uera,
+quamuis secunda sit falsa. Similiter ista consequentia non ualet 'nullus uidens fuit caecus, igitur nullus caecus
+fuit uidens', accepto subiecto antecedentis pro eo quod est; sed debet sic conuerti 'igitur nullus qui fuit caecus, est
+uidens'. Et ita propositio de praeterito, accepto subiecto pro eo quad est, conuertitur in unam de praesenti, modo
+praedicto, sicut quando subiectum accipitur pro eo quod fuit, conuertitur in illam de praeterito, subiecto
+consequentis accepto pro eo quod fuit.
+'nihil quod semper fuit creans, fuit Deus'. Et ista est uera, quia habet duas causas ueritatis: uel quia nihil
+semper fuit creans; uel quia aliquid semper fuit creans, quod tamen non est Deus. Et prima causa est uera,
+quamuis secunda sit falsa. Similiter ista consequentia non ualet 'nullus uidens fuit caecus, igitur nullus caecus
+fuit uidens', accepto subiecto antecedentis pro eo quod est; sed debet sic conuerti 'igitur nullus qui fuit caecus, est
+uidens'. Et ita propositio de praeterito, accepto subiecto pro eo quad est, conuertitur in unam de praesenti, modo
+praedicto, sicut quando subiectum accipitur pro eo quod fuit, conuertitur in illam de praeterito, subiecto
+consequentis accepto pro eo quod fuit.
+192
+
+

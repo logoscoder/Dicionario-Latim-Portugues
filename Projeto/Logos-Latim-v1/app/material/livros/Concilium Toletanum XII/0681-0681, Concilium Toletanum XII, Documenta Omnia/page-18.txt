@@ -1,0 +1,63 @@
+[419] regionis V630
+[420] cultu W411
+[421] tonsurae] non usurae W411
+[422] editam E97
+[423] gloriosam B132
+[424] erugium B132
+[425] Alium V1341
+[426] honerabilis V630
+[427] sanctismi W411
+[428] sedis korr. aus sedes V1341
+[429] episcopus W411
+[430] separaravit] sperabit parabit W411
+[431] diligentia V630
+[432] ordinem V630; V1341
+[433] regnum E97
+[434] deberet korr. aus debet V630
+[435] scripturas W411
+[436] sane V630; V1341; sanum B132
+[437] nostrum E97
+[438] confirmatio V630; E97
+[439] regnaturus] regnaturus est W411; regnaturos B132
+[440] habeato W411
+[441] definitionibus V630; W411; B132; V1341; definitione E97
+[442] quo E97
+[443] viro fehlt E97
+[444] teneret] tenere W411
+[445] allegata permansit] est allegata V630; est um allegata V1341
+[446] permansit hunc solum] hunc solum permansit V630; B132; V1341
+[447] serenissimum] serenissimum dominum nostrum E97
+[448] obsequendam W411; obsequendo E97
+[449] gratae servitutis famulatu sequatur et libera fehlt W411
+[450] regnum E97
+[451] decessur B132
+[452] successorum W411
+[453] Une B132
+[454] bis W411
+[455] caeli] c•li et V630; soli et V1341
+[456] principe W411
+[457] nostri V630; B132; nostri korr. aus nostro V1341
+[458] eurigio B132
+[459] cum W411; E97
+[460] et V630; V1341
+[461] prumptissima O93; W411; prumtissima B132
+[462] saluti korr. aus salute B132
+[463] geniti W411
+[464] vel] suae V630; B132; V1341; E97
+[465] et patre] patri suae W411
+[466] patri• V630; B132; V1341; E97
+[467] consuluerit korr. aus consulerit V630; consulerat W411; consulerit B132; consulat E97
+[468] erat W411
+[469] aut] aut ab E97
+[470] divinae] divine a domini B132
+[471] quisquis] quidquid superbiae W411
+[472] quamcunque E97
+[473] Rubrik fehlt V630; E97
+[474] PENTI W411
+[475] SENTIENTES W411
+[476] III E97
+[477] Plerumque] Plerumque hi V630; B132; V1341; Plerumque hii W411
+[478] qui B132
+18
+
+

@@ -1,0 +1,57 @@
+Dicimur scire aliquid secundum quid, quando scimus illud in alio, in quo est, vel sicut pars in toto, sicut si
+scientes domum, diceremur scire parietem; vel sicut accidens in subiecto, sicut si scientes Coriscum, diceremur
+scire venientem; vel sicut effectus in causa, sicut dictum est supra quod conclusionem praescimus in principiis;
+vel quocunque simili modo. Et hoc est scire per accidens, quia scilicet scito aliquo per se, dicimur scire illud
+quod accidit ei quocunque modo.
+Intendit igitur Philosophus definire scire simpliciter, non autem scire secundum accidens. Hic enim modus
+sciendi est sophisticus. Utuntur enim sophistae tali modo arguendi: cognosco Coriscum; Coriscus est veniens;
+ergo cognosco venientem.
+|#5 Secundo, cum dicit: cum causam arbitramur etc., ponit definitionem ipsius scire simpliciter.
+Circa quod considerandum est quod scire aliquid est perfecte cognoscere ipsum, hoc autem est perfecte
+apprehendere veritatem ipsius: eadem enim sunt principia esse rei et veritatis ipsius, ut patet ex II metaphysicae.
+Oportet igitur scientem, si est perfecte cognoscens, quod cognoscat causam rei scitae. Si autem cognosceret
+causam tantum, nondum cognosceret effectum in actu, quod est scire simpliciter, sed virtute tantum, quod est
+scire secundum quid et quasi per accidens.
+Et ideo oportet scientem simpliciter cognoscere etiam applicationem causae ad effectum. Quia vero scientia est
+etiam certa cognitio rei; quod autem contingit aliter se habere, non potest aliquis per certitudinem cognoscere;
+ideo ulterius oportet quod id quod scitur non possit aliter se habere.
+Quia ergo scientia est perfecta cognitio, ideo dicit: cum causam arbitramur cognoscere; quia vero est actualis
+cognitio per quam scimus simpliciter, addit: et quoniam illius est causa; quia vero est certa cognitio, subdit: et
+non est contingere aliter se habere.
+|#6 Tertio, ibi: manifestum igitur etc., manifestat positam definitionem per hoc, quod tam scientes, quam non
+scientes, existimantes tamen se scire, hoc modo accipiunt scire sicut dictum est: non scientes enim qui existimant
+se scire, opinantur sic se habere in cognoscendo, sicut dictum est; scientes autem vere sic se habent.
+Est autem haec recta manifestatio definitionis.
+Definitio enim est ratio, quam significat nomen, ut dicitur in IV metaphysicae; significatio autem nominis
+accipienda est ab eo, quod intendunt communiter loquentes per illud nomen significare: unde et in II topicorum
+dicitur quod nominibus utendum est, ut plures utuntur. Si quis etiam recte consideret, hac notificatione magis
+ostenditur quid significet nomen, quam directe aliquid significetur: non enim notificat scientiam, de qua proprie
+posset definitio assignari, cum sit species alicuius generis, sed notificat ipsum scire. Unde et a principio dixit:
+scire autem opinamur etc., et non dixit: scire est aliquid tale vel tale.
+|#7 Quarto, ibi: quare cuius etc., concludit quoddam corollarium ex definitione posita, scilicet quod illud, de
+quo simpliciter habetur scientia, oportet esse necessarium, scilicet quod non contingat aliter se habere.
+|#8 Quinto, ibi: si quidem etc., respondet tacitae quaestioni, utrum scilicet sit aliquis alius modus sciendi a
+praedicto. Quod promittit se in sequentibus dicturum: est enim scire etiam per effectum, ut infra patebit. Dicimur
+etiam aliquo modo scire ipsa principia indemonstrabilia, quorum non est accipere causam. Sed proprius et
+perfectus sciendi modus est qui praedictus est.
+|#9 Deinde, cum dicit: dicimus autem etc., definit syllogismum demonstrativum per comparationem ad finem
+suum, qui est scire. Circa quod tria facit. Primo, ponit quod scire est finis syllogismi demonstrativi sive effectus
+eius, cum scire nihil aliud esse videatur, quam intelligere veritatem alicuius conclusionis per demonstrationem.
+Secundo, ibi: demonstrationem autem etc., definit syllogismum demonstrativum per huiusmodi finem: dicens
+quod demonstratio est syllogismus scientialis, idest faciens scire.
+Tertio, exponit hoc quod dixerat scientialem; ibi: sed scientialem etc., dicens quod scientialis syllogismus dicitur,
+secundum quem scimus, in quantum ipsum habemus, ne forte aliquis syllogismum scientialem intelligeret, quo
+aliqua scientia uteretur.
+|#10 Deinde, cum dicit: si igitur est scire etc., concludit ex praedictis definitionem syllogismi demonstrativi ex
+materia sumptam. Et circa hoc duo facit: primo, concludit; secundo, manifestat eam; ibi: verum quidem igitur
+oportet esse etc..
+Circa primum tria facit. Primo, ponit consequentiam, qua demonstrationis materialis definitio concluditur ex
+praemissis, dicens quod si scire hoc significat quod diximus, scilicet, causam rei cognoscere etc., necesse est
+quod demonstrativa scientia, idest quae per demonstrationem acquiritur, procedat ex propositionibus veris,
+primis et immediatis, idest quae non per aliquod medium demonstrantur, sed per seipsas sunt manifestae (quae
+quidem immediatae dicuntur, in quantum carent medio demonstrante; primae autem in ordine ad alias
+propositiones, quae per eas probantur); et iterum ex notioribus, et prioribus, et causis conclusionis.
+
+7
+
+

@@ -1,0 +1,63 @@
+[300] apud ecclesiam fehlt E97
+[301] ecclesia W411
+[302] V E97
+[303] ubi fehlt B132
+[304] episcopus V630; W411; V1341; E97
+[305] VI E97
+[306] consuetudinem O93
+[307] qui] qui per W411
+[308] VII E97
+[309] generalis korr. aus generali V630; generalis W411
+[310] generali synodi fehlt E97
+[311] episcopus alterius provinciae] alterius provinti• episcopos E97
+[312] altarius W411
+[313] provinciae] provintiae cum W411; E97
+[314] coniventia E97
+[315] in urbe regia fehlt E97
+[316] ordinentur W411; ordinetur] ordinet et ut is qui ordinatur intra tres menses se metropolitano suo repr•sentet
+E97
+[317] VIII E97
+[318] quae de promotione] quip demotione W411
+[319] excitus B132
+[320] IX E97
+[321] devortio W411
+[322] X E97
+[323] nequitiam E97
+[324] XI E97
+[325] faciunt] faciunt et in quanto spacio immunitas aecclesi• habeatur E97
+[326] XII E97
+[327] XIII E97
+[328] debeant W411; B132
+[329] celebrare W411
+[330] XIIII E97
+[331] dei B132
+[332] reperiuntur W411
+[333] exoratur] exoratur EXPLICIUNT TITULI E97
+[334] Rubrik fehlt V630; E97
+[335] PRAELATIONE fehlt B132
+[336] IN NOMINE GLORIOSI DOMINI NOSTRI ERVIGII REGIS] I V630; PROLOGUS E97
+[337] DOMNI B132; V1341
+[338] ERUGII B132
+[339] diei W411; E97
+[340] sinodali W411
+[341] primo V630; V1341; prime B132; primum] primum est E97
+[342] novella W411; novell• E97
+[343] exactionis korr. aus exationis W411; exarationis E97
+[344] definitate B132
+[345] interlinear vel verbis E97
+[346] verbis V630; V1341
+[347] et fehlt W411
+[348] doceret W411
+[349] traditio fehlt W411
+[350] sanccit W411
+[351] constantinopoli E97
+[352] promulgabit W411
+[353] efeseni W411; defesini V1341
+[354] divinitio W411
+[355] quicquid etiam Chalcedonensis concilii promulgatio definivit fehlt V630; B132; V1341; E97
+[356] aliorum fehlt V630
+[357] documento V630; V1341; documentum B132
+[358] id sacramentum fehlt V630; B132; V1341
+16
+
+

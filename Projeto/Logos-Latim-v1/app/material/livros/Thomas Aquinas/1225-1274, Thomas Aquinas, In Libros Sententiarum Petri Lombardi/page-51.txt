@@ -1,0 +1,59 @@
+Ad secundum dicendum, quod alius importat distinctionem in communi, non magis personalem quam
+essentialem: et ideo quando adjungitur termino personali, importat distinctionem personalem; quando autem
+adjungitur termino essentiali, importat diversitatem essentiae, secundum exigentiam formae illius termini; cum
+termini, praecipue substantiales, recipiant diversitatem et pluralitatem ex parte suae formae.
+RA3
+Ad tertium dicendum, quod idem significat unitatem in substantia; et praeter hoc, quia relativum est et habet
+articulationem implicitam, importat unitatem suppositi, et multo plus hoc pronomen se, quod est etiam relativum
+reciprocum, quod non est reperire in hoc nomine aequale: et ideo non est simile quod pro simili inducitur.
+RA4
+Ad quartum dicendum, quod Magister distinguit utramque illarum propositionum. Si enim cum dicitur, Deus
+genuit Deum, qui est Deus pater, ly pater construitur appositive ad ly Deus, locutio falsa est: quia tunc ly Deus
+restringetur ad standum pro persona patris; et sic erit sensus: genuit Deum, qui est ipse pater: et sic affirmativa
+falsa est, et negativa vera. Si autem intelligantur non per appositionem, sed mediate conjungi illi duo termini,
+scilicet Deus, et pater; ut sit sensus: genuit Deum qui est Deus et Deus est pater; tunc affirmativa vera est, et
+negativa falsa. Praepositinus tamen dixit, quod utraque falsa est, nec sunt contradictoriae propter diversam
+suppositionem hujus relativi qui: in affirmativis enim refert tantum suppositum antecedentis, et cum antecedens
+supponat pro persona filii, referret personam filii, de qua non est verum dicere, quod sit Deus pater. In negativa
+vero relativum refert non tantum suppositum, sed etiam essentiam.
+Unde oporteret quod hoc praedicatum Deus pater removeretur non tantum a supposito filii, sed etiam ab essentia:
+et ita falsa est. Sed quia hac distinctione facta, adhuc habet locum distinctio Magistri, et praecipue in affirmativa;
+et iterum quia non videtur necessarium esse quod in negativis relativum referat aliter quam in affirmativis, nisi
+forte propter negationem, cujus est confundere terminum et facere eum teneri simpliciter (quod tamen non habet
+respectu praecedentis, sed tantum respectu sequentis): ideo videtur efficacior via Magistri, et secundum ipsum
+concedendum est, quod utraque potest esse vera et falsa; secundum cujus distinctionem patet solutio ad quartum
+argumentum.
+RA5
+Ad quintum dicendum, quod quando duo termini contrahuntur per appositionem, terminus appositus efficitur
+quasi forma ei cui apponitur. Unde si intelligatur appositive: genuit Deum qui non est Deus pater, negatio non
+removebit formam divinitatis sed paternitatis a filio.
+
+|+d4.q2 Distinctio 4, Quaestio 2
+|a0 Prologus
+Deinde quaeritur de divina praedicatione. Et circa hoc duo quaeruntur: 1 utrum possit fieri praedicatio in divinis
+per propositionem aliquam; 2 utrum possit persona praedicari de essentia.
+|a1 Articulus 1: Utrum de divinis possit formari propositio.
+AG1
+Ad primum sic proceditur. Videtur quod in divinis non possit aliqua formari propositio, in qua aliquid de ipso
+praedicetur. Veritas enim signi consistit in conformitate signi ad signatum. Sed omnis praedicatio fit per aliquam
+compositionem. Cum igitur in Deo nulla sit compositio, videtur quod de ipso nulla possit formari vera
+praedicatio.
+AG2
+Item dionysius: in Deo negationes sunt verae affirmationes incompactae.
+Appellatur autem incompactum illud quod non est debito modo ordinatum, nec est competens. Sed talis
+inordinatio inducit falsitatem in propositionibus.
+Ergo videtur idem quod prius.
+SC1
+Contra; fidei non potest subesse falsum. Sed multae propositiones affirmativae enunciantur a nobis de Deo
+secundum fidem nostram, scilicet quod Deus est trinus et unus. Ergo videtur quod de Deo possit formari vera
+propositio.
+SC2
+Item, secundum boetium, nulla propositio est verior illa in qua idem de se praedicatur. Sed quidquid est in
+divinis, est idem re, cum in Deo sit idem habens et habitum, et quod est et quo est, excepto quod una persona non
+est alia. Ergo videtur quod de Deo possint formari verissimae locutiones.
+CO
+Respondeo dicendum, quod enuntiatio sequitur apprehensionem. Unde secundum quod intelligimus aliqua,
+oportet quod enuntiemus illa.
+51
+
+

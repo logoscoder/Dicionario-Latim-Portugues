@@ -1,0 +1,60 @@
+|#1 Postquam Philosophus determinavit de augmento ex parte eius quod augetur, hic inquirit de eo quo aliquid
+augetur. Et primo proponit de quo est intentio. Et dicit quod, cum de ratione augmenti sit quod sit additamentum
+magnitudinis, hoc magis videtur esse suscipiendum ad praesentem considerationem, sicut difficilius, quasi
+aliquod principium quaestionis facientes, quale sit id quod aliquid augetur vel deminuitur; ut sic augmenti et
+deminutionis causas convenientes inquiramus.
+Secundo ibi: videtur itaque eius etc., exequitur propositum. Et primo proponit dubitationem principaliter
+intentam; secundo inquirendo interponit aliam quaestionem, ibi: quaeret autem aliquis etc.; tertio solvit
+quaestionem principalem, ibi: quoniam autem de his quaesitum est etc..
+Circa primum tria facit: primo proponit duas suppositiones; secundo movet dubitationem, ibi: necesse autem
+augmentari etc.; tertio excludit quandam obviationem, ibi: sed nec sic contingit etc..
+|#2 Prima ergo suppositio, quam primo proponit, est haec: scilicet quod eius quod augetur, quaelibet pars
+videtur esse augmentata; et similiter de deminutione, quaelibet pars eius quod deminuitur, videtur esse facta
+minor. Cuius ratio apparet ex eo quod dicitur in V physic.. Illud enim cuius aliqua pars movetur, dicitur moveri
+secundum partem, et non simpliciter; sicut homo dicitur vulnerari secundum partem, cuius manus est vulnerata.
+Ad hoc ergo quod aliquid per se et simpliciter moveatur, requiritur quod quaelibet pars eius moveatur. Quod
+quidem etiam in augmento, et in omnibus aliis motibus, observari oportet.
+Secunda suppositio est, quod omne quod augetur, augetur adveniente aliquo: et similiter deminuitur aliquo
+recedente. Cuius ratio est, quia oportet aliquid in actum reduci per id quod est actu: unde illud quod est in
+potentia ad maiorem quantitatem, reducitur in actum illius quantitatis per aliquid quod habet actu quantitatem
+illam; et hoc est quod adiicitur ei quod augetur.
+|#3 Deinde cum dicitur: necesse autem augmentari etc., proponit dubitationem, quae sequitur ex duabus
+praemissis suppositionibus. Si enim eius quod augetur oportet quamlibet partem augeri, et omne augmentum fit
+per alicuius additionem, consequens est quod cuilibet parti eius quod augetur, oporteat aliquid addi. Necesse est
+ergo illud quod additur, quo dicitur aliquid augeri, aut esse incorporeum aut corporeum. Et si dicitur quod sit
+incorporeum, sequitur quod commune omnium generabilium et corruptibilium, scilicet materia prima, sit
+separatum ab omni quantitate corporali. Sed sicut supra ostensum est, impossibile est quod materia sit separata a
+magnitudine: unde patet quod illud quo aliquid augetur, non potest esse incorporeum.
+Et iterum, si esset incorporeum, non esset quantum in actu: unde sui appositione non faceret maius secundum
+quantitatem. Si autem dicatur illud quod addito aliquid augetur, esse corporeum, sequeretur duo corpora simul
+esse in eodem loco, scilicet corpus quod augetur, et corpus additum quod auget. Non enim potest dici quod
+seorsum collocetur corpus quod augetur et corpus quod auget: quia oportet additamentum fieri cuilibet parti eius
+quod augetur, quod ex supra dictis suppositionibus sequitur. Et hoc etiam est impossibile, scilicet quod duo
+corpora sint simul in eodem loco: et sic sequitur inconveniens ad utramque partem quaestionis.
+|#4 Deinde cum dicit: sed nec sic contingit etc., excludit quandam obviationem. Posset enim aliquis dicere quod
+augmentum fit nullo alio apposito; sicut quando ex aqua generatur aer, videtur esse quoddam augmentum, quia
+fit maior quantitas.
+Sed per hunc modum non contingit fieri augmentum seu deminutio. Talis enim transmutatio non est augmentum,
+sed est generatio eius in quod transmutatur, scilicet aeris, et corruptio eius quod transmutatur, scilicet aquae,
+quae contrariatur aeri, scilicet contrarietate frigidi et calidi: non autem potest dici augmentatio neque aeris neque
+aquae. Sed nec ullius est augmentatio, vel erit augmentatio illius quod est commune utrique (si tamen aliquid sit
+tale), sicut corpus videtur commune esse aeri et aquae: ut dicatur quod aqua non est augmentata neque aer, quia
+aqua corrupta est, et aer generatus est; sed corpus est quod augetur, si aliquid ibi augmentatum est. Sed hoc est
+impossibile. Oportet enim, ad hoc quod aliquid dicatur augeri, quod salventur ea quae sunt de ratione eius quod
+augetur et deminuitur. Quae quidem sunt tria. Quorum primum est, quod etiam supra positum est, scilicet quod
+quaelibet pars magnitudinis quae augetur, fiat maior; puta, si caro augetur, quod quaelibet pars carnis fit maior.
+Secundum etiam supra positum est, scilicet quod aliquo adveniente aliquid augetur. Tertium autem est quod
+nunc ponit de novo, ut scilicet illud quod augetur, salvetur et permaneat in suo esse. Quia enim generatio et
+corruptio sunt transmutationes circa substantiam, cum simpliciter aliquid generatur vel corrumpitur, non
+permanet eius substantia. Sed aliae mutationes non sunt circa substantiam, sed circa ea quae adveniunt
+substantiae, puta circa quantitatem aut qualitatem: et ideo, cum aliquid alteratur, seu augetur vel deminuitur,
+manet idem numero secundum substantiam quod augetur et alteratur, sed hic quidem, scilicet in alteratione, non
+manet eadem passio, hic autem, scilicet in augmento et deminutione, non manet eadem magnitudo, sed fit maior
+vel minor. Si ergo praedicta transmutatio, qua ex aqua fit aer, esset augmentatio, sequerentur duo contraria
+praedictis positionibus. Quorum unum est quod aliquid augetur nullo adveniente, et deminuitur nullo recedente.
+Aliud autem est, quod id quod augetur non manet: quia neque aqua manet, neque corpus quod videtur esse
+commune, manet idem numero. Unde etiam signanter supra dixit, si aliquid est commune: quia scilicet nihil actu
+ens, idem numero existens secundum substantiam, est commune ei quod corrumpitur et generatur.
+24
+
+

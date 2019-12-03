@@ -1,0 +1,57 @@
+Istis uisis uidendum est primo de syllogismo primae figurae. Et est primo sciendum quod, cum dictum
+sit omnes syliogismos primae figurae regulari immediate per dici de omni uel per dici de nullo, oportet circa
+modos primae figurae seruare duo principia.
+Istis uisis uidendum est primo de syllogismo primae figurae. Et est primo sciendum quod, cum dictum
+sit omnes syliogismos primae figurae regulari immediate per dici de omni uel per dici de nullo, oportet circa
+modos primae figurae seruare duo principia.
+Primum est quod maior sit propositio uniuersalis. Si enim maior esset particularis, patet manifeste quod
+talis discursus non posset regulari per dici de omni nec per dici de nullo. Tunc enim aliquis syllogismus regulatur
+per dici de omni quando per primam propositionem denotatur de omni illo de quo dicitur subiectum here dici
+praedicatuni, et per secundanl propositionem denotatur subiectum primae propositionis uere dici de aliquo
+assumpto. Sicut per istam propositionem 'omnis homo est animal' denotatur quod de quocumque dicitur 'homo'
+de eodem dicitur 'animal'; per istam autem secundam 'Sortes est homo' denotatur quod 'homo', qui fuit subiectum
+primae propositionis, uere dicitur de Sorte; propter quod euidenter sequitur quod hoc praedicatum 'animal' uere
+dicitur de Sorte. Et ideo iste syllogismus est regulatus per dici de omni 'omnis homo est animal; Sortes est homo;
+igitur Sortes est animal'.
+Primum est quod maior sit propositio uniuersalis. Si enim maior esset particularis, patet manifeste quod
+talis discursus non posset regulari per dici de omni nec per dici de nullo. Tunc enim aliquis syllogismus regulatur
+per dici de omni quando per primam propositionem denotatur de omni illo de quo dicitur subiectum here dici
+praedicatuni, et per secundanl propositionem denotatur subiectum primae propositionis uere dici de aliquo
+assumpto. Sicut per istam propositionem 'omnis homo est animal' denotatur quod de quocumque dicitur 'homo'
+de eodem dicitur 'animal'; per istam autem secundam 'Sortes est homo' denotatur quod 'homo', qui fuit subiectum
+primae propositionis, uere dicitur de Sorte; propter quod euidenter sequitur quod hoc praedicatum 'animal' uere
+dicitur de Sorte. Et ideo iste syllogismus est regulatus per dici de omni 'omnis homo est animal; Sortes est homo;
+igitur Sortes est animal'.
+Et eodem modo, proportionaliter, dicendum est de syllogismo regulato per dici de nullo. Sed nihil tale
+potest denotari per propositionem particularem, igitur numquam propositio particularis potest esse maior in
+prima figura.
+Et eodem modo, proportionaliter, dicendum est de syllogismo regulato per dici de nullo. Sed nihil tale
+potest denotari per propositionem particularem, igitur numquam propositio particularis potest esse maior in
+prima figura.
+Ex eodem patet quod minor semper debet esse affirmatiua, quia semper per mniorem debet denotari
+quod illud quod in prima proposi tione fuit subiectum uere praedicatur de aliquo determinato assumpto, quod
+non potest esse nisi per propositionem affirmatiuam.
+Ex eodem patet quod minor semper debet esse affirmatiua, quia semper per mniorem debet denotari
+quod illud quod in prima proposi tione fuit subiectum uere praedicatur de aliquo determinato assumpto, quod
+non potest esse nisi per propositionem affirmatiuam.
+Ex praedictis sequitur quod in prima figura sunt tantum quatuor modi in quibus fiunt utties
+coniugationes. Nam combinando duas pro positiones per uniuersalem et Particularem, per affirmatiuam et negati
+uam, sexdecim erunt combinationes, quarum duodecim peccabunt con tra praedicta principia. Quod patet sic. si
+sint duae propositiones, aut utraque est uniuersalis aut utraque particularis, aut una uniuersalis et alia particularis.
+Si autem utraque sit uniuersalis, aut utraque est affirma tiua aut utraque negatiua, aut una affirmatiua et alia
+negatiua. Si utraque sit affirmatiua, sic est primus modus et utilis, si utraque sit negatiua, sic est alia coniugatio et
+est inutilis, quia habet minorem negatiuam. Si una sit affirmatiua et alia negatiua, aut maior est negatiua et minor
+affirma tiua, uel e conuerso; si primo modo, habetur tertia coniugatio, et est utilis; si e conuerso, est quarta et
+inutilis, quia habet minorem negatiuam.
+Ex praedictis sequitur quod in prima figura sunt tantum quatuor modi in quibus fiunt utties
+coniugationes. Nam combinando duas pro positiones per uniuersalem et Particularem, per affirmatiuam et negati
+uam, sexdecim erunt combinationes, quarum duodecim peccabunt con tra praedicta principia. Quod patet sic. si
+sint duae propositiones, aut utraque est uniuersalis aut utraque particularis, aut una uniuersalis et alia particularis.
+Si autem utraque sit uniuersalis, aut utraque est affirma tiua aut utraque negatiua, aut una affirmatiua et alia
+negatiua. Si utraque sit affirmatiua, sic est primus modus et utilis, si utraque sit negatiua, sic est alia coniugatio et
+est inutilis, quia habet minorem negatiuam. Si una sit affirmatiua et alia negatiua, aut maior est negatiua et minor
+affirma tiua, uel e conuerso; si primo modo, habetur tertia coniugatio, et est utilis; si e conuerso, est quarta et
+inutilis, quia habet minorem negatiuam.
+217
+
+

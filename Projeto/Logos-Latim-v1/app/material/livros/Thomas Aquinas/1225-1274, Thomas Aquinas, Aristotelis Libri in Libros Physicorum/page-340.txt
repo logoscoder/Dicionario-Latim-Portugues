@@ -1,0 +1,64 @@
+Non enim attenditur contrarietas inter duos terminos secundum lineam
+circularem, quaecumque pars sit circumferentiae; sed secundum diametrum.
+Contraria enim sunt quae maxime distant: maxima autem distantia inter duos
+terminos non mensuratur secundum lineam circularem, sed secundum lineam
+rectam.
+Possunt enim inter duo puncta infinitae lineae curvae describi, sed non
+nisi una linea recta: id autem quod est unum, est mensura in quolibet
+genere.
+Sic igitur patet quod si sit aliquis circulus, et dividatur per medium, et
+sit diameter eius ab; motus qui est per diametrum ab a in b, est contrarius
+motui qui est per eundem diametrum a b in a. Sed motus qui est per
+semicirculum ab a in b, non est contrarius motui qui est per alium
+semicirculum a b in a. Contrarietas autem erat quae impediebat quod motus
+reflexus non posset esse continuus, ut ex superioribus rationibus apparet.
+Nihil ergo prohibet, contrarietate sublata, motum circularem esse
+continuum, et tamen nullo tempore deficere.
+Et huius ratio est, quia motus circularis habet suum complementum per hoc
+quod est ab eodem in idem; et sic per hoc non impeditur eius continuatio.
+Sed motus rectus habet suum complementum per hoc quod est ab eodem in
+aliud: unde si ab illo alio revertatur in idem a quo inceperat moveri, non
+erit unus motus continuus, sed duo.
+|#3
+Deinde cum dicit: et qui quidem etc., ponit secundam rationem, dicens
+quod motus circularis non est in eisdem; sed motus rectus multoties est in
+eisdem. Quod sic intelligendum est.
+Si enim aliquid moveatur ab a in b per diametrum, et iterum a b in a per
+eundem diametrum, necesse est quod per eadem media redeat per quae prius
+transierat: et sic pluries per eadem fertur. Sed si aliquid moveatur ab a
+in b per semicirculum, et iterum a b in a per alium semicirculum, quod est
+circulariter moveri, manifestum est quod non redit ad idem per eadem media.
+Est autem de ratione oppositorum, quod circa idem considerentur: et sic
+manifestum est quod moveri ab eodem in idem secundum motum circularem, est
+absque oppositione; sed moveri ab eodem in idem secundum motum reflexum,
+est cum oppositione.
+Sic igitur patet quod motus circularis, qui non redit ad idem per eadem
+media, sed semper pertransit aliud et aliud, potest esse unus et continuus,
+quia non habet oppositionem: sed ille motus, reflexus scilicet, qui dum
+redit in idem, pluries in eisdem mediis fit pertranseundo, non potest esse
+in perpetuum continuus; quia necesse esset quod aliquid simul moveretur
+contrariis motibus, ut supra ostensum est.
+Et ex eadem ratione concludi potest, quod neque motus qui est in
+semicirculo, neque in quacumque alia circuli portione, potest esse in
+perpetuum continuus; quia in his motibus necesse est quod multoties
+pertranseantur eadem media, et quod moveantur contrariis motibus, quasi
+debeat fieri reditus ad principium.
+Et hoc ideo, quia neque in linea recta, neque in semicirculo, neque in
+quacumque circuli portione, copulatur finis principio, sed distant ab
+invicem principium et finis: sed in solo circulo finis copulatur principio.
+Et ideo solus motus circularis est perfectus: unumquodque enim perfectum
+est ex hoc quod attingit suum principium.
+|#4
+Deinde cum dicit: manifestum autem et ex hac divisione etc., ostendit
+ex eadem ratione quod in nullo alio genere potest esse aliquis motus
+continuus.
+Et primo ostendit propositum; secundo infert quoddam corollarium ex dictis,
+ibi: manifestum igitur ex his etc..
+Dicit ergo primo, quod etiam ex ista distinctione quae ponitur inter motum
+circularem et alios motus locales, manifestum est quod nec in aliis
+generibus motus contingit esse aliquos motus in infinitum continuos: quia
+in omnibus aliis generibus motus, si debeat aliquid moveri ab eodem in
+idem, sequitur quod multoties pertranseat eadem.
+340
+
+

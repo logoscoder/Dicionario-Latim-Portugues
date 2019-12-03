@@ -1,0 +1,61 @@
+RA
+Et per hoc patet responsio ad obiecta.
+|a3 Articulus 3
+AG1
+Ad tertium sic proceditur. Videtur quod ira sit in concupiscibili.
+Dicit enim tullius, in IV de tusculanis quaest., quod ira est libido quaedam.
+Sed libido est in concupiscibili. Ergo et ira.
+AG2
+Praeterea, Augustinus dicit, in regula, quod ira crescit in odium.
+Et tullius dicit, in eodem libro, quod odium est ira inveterata.
+Sed odium est in concupiscibili, sicut amor.
+Ergo ira est in concupiscibili.
+AG3
+Praeterea, Damascenus et Gregorius Nyssenus dicunt quod ira componitur ex tristitia et desiderio.
+Sed utrumque horum est in concupiscibili. Ergo ira est in concupiscibili.
+SC
+Sed contra, vis concupiscibilis est alia ab irascibili. Si igitur ira esset in concupiscibili, non denominaretur ab ea
+vis irascibilis.
+CO
+Respondeo dicendum quod, sicut supra dictum est, passiones irascibilis in hoc differunt a passionibus
+concupiscibilis, quod obiecta passionum concupiscibilis sunt bonum et malum absolute; obiecta autem
+passionum irascibilis sunt bonum et malum cum quadam elevatione vel arduitate.
+Dictum est autem quod ira respicit duo obiecta, scilicet vindictam, quam appetit; et eum de quo vindictam
+quaerit. Et circa utrumque quandam arduitatem ira requirit, non enim insurgit motus irae, nisi aliqua magnitudine
+circa utrumque existente; quaecumque enim nihil sunt, aut modica valde nullo digna aestimamus, ut dicit
+Philosophus, in II rhetoric..
+Unde manifestum est quod ira non est in concupiscibili, sed in irascibili.
+RA1
+Ad primum ergo dicendum quod tullius libidinem nominat appetitum cuiuscumque boni futuri non habita
+discretione ardui vel non ardui.
+Et secundum hoc, ponit iram sub libidine, inquantum est appetitus vindictae. Sic autem libido communis est ad
+irascibilem et concupiscibilem.
+RA2
+Ad secundum dicendum quod ira dicitur crescere in odium, non quod eadem numero passio quae prius fuit ira,
+postmodum fiat odium per quandam inveterationem, sed per quandam causalitatem.
+Ira enim, per diuturnitatem, causat odium.
+RA3
+Ad tertium dicendum quod ira dicitur componi ex tristitia et desiderio, non sicut ex partibus, sed sicut ex causis.
+Dictum est autem supra quod passiones concupiscibilis sunt causae passionum irascibilis.
+|a4 Articulus 4
+AG1
+Ad quartum sic proceditur. Videtur quod ira non sit cum ratione.
+Ira enim, cum sit passio quaedam, est in appetitu sensitivo. Sed appetitus sensitivus non sequitur rationis
+apprehensionem, sed sensitivae partis. Ergo ira non est cum ratione.
+AG2
+Praeterea, animalia bruta carent ratione. Et tamen in eis invenitur ira. Ergo ira non est cum ratione.
+AG3
+Praeterea, ebrietas ligat rationem. Adiuvat autem ad iram.
+Ergo ira non est cum ratione.
+SC
+Sed contra est quod Philosophus dicit, in VII ethic., quod ira consequitur rationem aliqualiter.
+CO
+Respondeo dicendum quod, sicut supra dictum est, ira est appetitus vindictae. Haec autem collationem importat
+poenae infligendae ad nocumentum sibi illatum, unde, in VII ethic., dicit Philosophus quod syllogizans quoniam
+oportet talem oppugnare, irascitur confestim.
+Conferre autem et syllogizare est rationis.
+Et ideo ira est quodammodo cum ratione.
+RA1
+798
+
+

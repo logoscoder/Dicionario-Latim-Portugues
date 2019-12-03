@@ -1,0 +1,67 @@
+|#8
+Ex istis autem patet quod motus reflexus, sive in circulari sive in
+recta magnitudine, non potest esse continuus, sed intercidit quies media;
+quia idem signum est quod actu fit finis primi motus et principium
+reflexionis. Sed in motu circulari mobile non utitur aliquo signo ut
+principio vel fine in actu, sed quolibet signo magnitudinis utitur ut
+medio: et ideo motus circularis potest esse continuus, non autem reflexus.
+|+17
+
+Lectio 17
+
+|#1
+Postquam Philosophus ostendit quod motus reflexus non potest esse
+continuus et unus, hic secundum praemissa solvit quasdam dubitationes.
+Et dividitur in partes tres, secundum tres dubitationes quas ex praemissis
+solvit: secunda pars incipit ibi: eodem autem modo obviandum est etc.;
+tertia ibi: manifestum autem etc..
+Circa primum duo facit: primo ponit dubitationem; secundo solvit eam, ibi:
+non ergo ponendum est etc..
+|#2
+Dicit ergo primo, quod hoc quod dictum est ad probandum quod motus
+reflexus non est continuus, potest etiam dici ad solvendum quandam
+dubitationem.
+Est enim una talis dubitatio. Sint duae magnitudines aequales, quarum una
+dicatur e et alia z. Sint etiam duo mobilia aequaliter velocia, quorum unum
+sit a et aliud sit d; et moveatur a continue ab extremo, idest principio
+magnitudinis, ad c; d vero feratur ad I. Et ponamus quod in magnitudine
+quae est e, signetur quoddam signum medium quod est b, quod tantum distet a
+c, quantum in magnitudine quae est z, distat z ab I. Et ponamus quod simul
+dum a in suo motu continuo accedit ad b signum, quod d mobile in suo motu
+continuo recedat a z, et veniat ad I. Cum ergo motus sint regulares et
+aeque veloces utriusque mobilis, sequetur quod prius veniet d in I, quam a
+veniat in c: quia quod prius recedit, prius perveniet ad finem aequalis
+magnitudinis; prius autem recessit d a z, quam a recederet a b, quia d
+recessit a z quando a pertingebat ad b.
+Ergo secundum hoc a non simul advenit in b, et recessit ab eo; et ita
+sequitur quod posterius recesserit quam advenerit: quia si simul adveniret
+et recederet, non posterius moveri inciperet. Et ita necessitas est quod a,
+dum continue fertur, quiescat in b: et sic motus continuus erit compositus
+ex quietibus, sicut zeno ponebat, ut supra habitum est in sexto.
+|#3
+Deinde cum dicit: non ergo ponendum etc., solvit motam dubitationem
+secundum praemissa. Supponebat enim obiectio praedicta quod a, dum continue
+movetur, accedit ad aliquod signum in medio magnitudinis positum, scilicet
+ad b, et quod simul dum accedit a ad b, d recedit a quodam alio signo,
+scilicet a z; quod est contra praemissa. Dictum est enim supra, quod cum
+aliquid continue fertur, neque potest adesse neque abesse, idest recedere
+et accedere, a signo medio.
+Ergo non est ponendum hoc quod obiectio supponebat, quod cum a affuit,
+idest accessit ad b, ipsum d simul recessit a z: quia si detur quod a
+accessit ad b, erit pari ratione dare quod recesserit, et quod hoc non
+fuerit simul, sed in duobus instantibus, ita quod in tempore intermedio
+quieverit.
+Sed sicut dictum est prius, cum aliquid continue movebatur, in aliquo signo
+medio non aberat et aderat, sed simpliciter erat; non quidem per aliquod
+tempus, quia sic quiesceret, sed in decisione temporis, idest in aliquo
+nunc, quod dividit tempus.
+Hoc ergo quod obiectio supponebat, scilicet quod a adesset, et quod d
+abesset ab aliquo signo medio, impossibile est dicere in motu continuo.
+Sed in reflexo necesse est ut ita dicatur.
+Si enim aliquod mobile quod est I, feratur ad punctum quod est d, et iterum
+reflectatur, manifestum est quod mobile utitur ultimo quod est d, quasi
+principio et quasi fine, scilicet uno signo ut duobus: unde necesse est
+quod ibi quiescat.
+333
+
+

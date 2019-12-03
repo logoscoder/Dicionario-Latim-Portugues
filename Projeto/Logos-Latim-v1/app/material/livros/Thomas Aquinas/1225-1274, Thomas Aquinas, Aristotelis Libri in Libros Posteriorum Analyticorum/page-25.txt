@@ -1,0 +1,59 @@
+|#3 Deinde cum dicit: quod autem universaliter etc., inducit rationem ad probandum propositas conclusiones:
+quae talis est. Conclusionis corruptibilis, et non sempiternae, non est in se continere quod est universaliter, sed
+aliquando et sic.
+Dictum est enim supra quod dici de omni duo continet, scilicet quod non in quodam sic et in quodam non, et
+iterum, quod non aliquando sic et aliquando non. In omnibus autem corruptibilibus invenitur aliquando sic et
+aliquando non.
+Unde patet quod in corruptibilibus non invenitur dici de omni, sive quod est universaliter. Sed ubi conclusio est
+non universalis, oportet aliquam praemissarum esse non universalem. Conclusio ergo corruptibilis oportet quod
+sequatur ex praemissis, quarum altera non sit universalis. Cum ergo huic coniunxerimus quod demonstratio
+simpliciter semper debet esse ex universalibus, sequitur quod demonstratio non possit habere conclusionem
+corruptibilem, sed sempiternam.
+|#4
+Deinde cum dicit: similiter se habet etc., ostendit quod etiam definitio est non corruptibilium, sed
+sempiternorum, tali ratione. Demonstratio quantum ad principia et conclusiones est sempiternorum et non
+corruptibilium; sed definitio vel est principium, vel conclusio demonstrationis, vel demonstratio positione
+differens; ergo definitio non est corruptibilium, sed sempiternorum.
+|#5 Ad intellectum autem huius literae sciendum est quod contingit definitiones diversas dari eiusdem rei,
+sumptas ex diversis causis. Causae autem ad invicem ordinem habent: nam ex una sumitur ratio alterius. Ex
+forma enim sumitur ratio materiae: talem enim oportet esse materiam, qualem forma requirit. Efficiens autem est
+ratio formae: quia enim agens agit sibi simile, oportet quod secundum modum agentis sit etiam modus formae,
+quae ex actione consequitur. Ex fine autem sumitur ratio efficientis: nam omne agens agit propter finem. Oportet
+ergo quod definitio, quae sumitur a fine, sit ratio et causa probativa aliarum definitionum, quae sumuntur ex aliis
+causis. Ponamus ergo duas definitiones domus, quarum una sumatur a causa materiali, quae sit talis: domus est
+cooperimentum constitutum ex lapidibus, cemento et lignis. Alia sumatur ex causa finali, quae sit talis: domus
+est cooperimentum prohibens nos a pluviis, frigore et calore.
+Potest ergo prima definitio demonstrari ex secunda, hoc modo: omne cooperimentum prohibens nos a pluviis,
+frigore et calore oportet quod sit constitutum ex lapidibus, cemento et lignis; domus est huiusmodi; ergo etc..
+Patet ergo quod definitio, quae sumitur a fine, est principium demonstrationis; illa autem, quae sumitur a
+materia, est demonstrationis conclusio. Potest tamen utraque coniungi, ut sit una definitio, hoc modo: domus est
+cooperimentum constitutum ex dictis, defendens a pluvia, frigore et calore. Talis autem definitio continet totum
+quod est in demonstratione, scilicet medium et conclusionem. Et ideo talis definitio est demonstratio positione
+differens; quia in hoc solo differt a demonstratione, quia non est ordinata in modo et figura.
+|#6 Sciendum est autem quod quia demonstratio non est corruptibilium, sed sempiternorum, neque definitio,
+Plato coactus fuit ponere ideas. Cum enim ista sensibilia sint corruptibilia, videbatur quod eorum non posset esse
+neque demonstratio, neque definitio. Et ideo videbatur quod oporteret ponere quasdam substantias
+incorruptibiles, de quibus et demonstrationes et definitiones darentur. Et has substantias sempiternas vocabat
+species vel ideas.
+|#7 Sed huic opinioni occurrit Aristoteles superius dicens quod demonstratio non est corruptibilium nisi per
+accidens. Etsi enim ista sensibilia corruptibilia sint in particulari, in universali tamen quamdam sempiternitatem
+habent. Cum ergo demonstratio detur de istis sensibilibus in universali, non autem in particulari, sequitur quod
+demonstratio non sit corruptibilium, nisi per accidens; sempiternorum autem est per se.
+|#8 Deinde cum dicit: eorum autem quae etc., ostendit quomodo eorum, quae sunt ut frequenter, possit esse
+demonstratio, dicens: quod eorum quae saepe fiunt, sunt etiam demonstrationes et scientiae: sicut de defectu
+lunae, qui tamen non semper est.
+Non enim luna semper deficit, sed aliquando.
+Haec autem quae sunt frequenter, secundum quod huiusmodi sunt, idest secundum quod de eis demonstrationes
+dantur, sunt semper: sed secundum quod non sunt semper, sunt particularia. De particularibus autem non potest
+esse demonstratio, ut ostensum est, sed solum de universalibus.
+Unde patet quod huiusmodi, secundum quod de eis est demonstratio, sunt semper. Et sicut est de defectu lunae,
+ita est de omnibus aliis similibus.
+Consideranda tamen est differentia inter ea. Quaedam enim non sunt semper secundum tempus, sunt autem
+semper per comparationem ad causam: quia nunquam deficit, quin posita tali causa, sequatur effectus; sicut est
+de defectu lunae. Nunquam enim deficit, quin semper sit lunae eclypsis, quandocunque terra diametraliter
+interponitur inter solem et lunam. In quibusdam vero contingit quod non semper sunt, etiam per comparationem
+ad causam: quia videlicet causae impediri possunt. Non enim semper ex semine hominis generatur homo habens
+duas manus; sed quandoque fit defectus vel propter impedimentum causae agentis vel materiae. In utrisque
+25
+
+

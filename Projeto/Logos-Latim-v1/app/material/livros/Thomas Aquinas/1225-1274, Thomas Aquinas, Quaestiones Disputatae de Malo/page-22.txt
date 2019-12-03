@@ -1,0 +1,63 @@
+|a1 Articulus 1
+TTA
+Et primo quaeritur utrum in quolibet peccato sit aliquis actus.
+TTB
+Et videtur quod sic.
+AG1
+Dicit enim Augustinus, quod peccatum est dictum vel factum vel concupitum contra legem Dei. Sed in quolibet
+illorum trium importatur aliquis actus. Ergo in quolibet peccato est aliquis actus.
+AG2
+Praeterea, Augustinus dicit, quod peccatum est adeo voluntarium, quod si non sit voluntarium, non est peccatum.
+Sed nihil potest esse voluntarium nisi per actum voluntatis. Ergo in aliquo peccato oportet esse ad minus actum
+voluntatis.
+AG3
+Praeterea, contraria sunt in eodem genere.
+Sed meritum et demeritum sunt contraria.
+Cum ergo meritum sit de genere actus (quia actibus meremur), videtur quod pari ratione demeritum sive
+peccatum.
+AG4
+Praeterea, peccatum privatio quaedam est, quia sicut dicit Augustinus, peccatum nihil est. Privatio autem
+fundatur in aliquo. Ergo oportet esse aliquem actum in quo peccatum sustentetur.
+AG5
+Praeterea, Augustinus dicit in Enchir., quod malum nisi in bono esse non potest. Illud autem bonum in quo
+fundatur malitia peccati est actus. Ergo in quolibet peccato oportet esse actum.
+AG6
+Praeterea, Augustinus dicit in libro LXXXIII quaestionum, quod nec peccatum aut recte factum imputari
+cuiquam iuste potest qui nihil propria fecerit voluntate.
+Sed non potest propria voluntate aliquid facere absque actu. Ergo nihil potest homini imputari ad peccatum, nisi
+sit ibi aliquis actus.
+AG7
+Praeterea, Damascenus dicit, quod laus et vituperium sequuntur actus. Cuilibet autem peccato debetur
+vituperium. Ergo omne peccatum in actu consistit.
+AG8
+Praeterea, Glossa dicit rom.
+VII, 20, quod omne peccatum in actu est ex concupiscentia. Quod autem est ex concupiscentia, non est absque
+actu. Ergo nullum peccatum est absque actu.
+AG9
+Praeterea, si aliquod peccatum est absque actu, maxime hoc videtur de peccato omissionis. Sed omissio non est
+absque actu; quia omissio negatio quaedam est; omnis autem negatio in affirmatione fundatur; et sic oportet
+peccatum omissionis in aliquo actu fundari. Multo ergo magis quodlibet aliud peccatum.
+AG10
+Praeterea, omissio non est peccatum nisi in quantum repugnat legi Dei. Sed hoc non est absque contemptu;
+contemptus autem est per aliquem actum. Ergo peccatum omissionis fundatur in aliquo actu, et multo magis alia
+peccata.
+AG11
+Praeterea, si peccatum omissionis consistit in sola negatione actus, sequeretur quod quamdiu aliquis non agit
+tamdiu peccaret; et ita esset periculosius peccatum omissionis quam peccatum transgressionis, quod transit actu,
+licet maneat reatu. Hoc autem non est verum quia peccatum transgressionis ceteris paribus est maius; maius enim
+est furari quam non dare eleemosynam. Non ergo peccatum omissionis in sola negatione consistit.
+AG12
+Praeterea, secundum Philosophum in II physic., peccatum invenitur in his quae sunt ad finem. Ad finem autem
+aliquid ordinatur per operationem. Ergo omne peccatum in actu consistit.
+SC1
+Sed contra. Est quod dicitur Iacob c. 17: scienti bonum et non facienti, peccatum est illi. Ergo ipsum non facere
+est peccatum.
+SC2
+Praeterea, poena non iuste infligitur nisi pro peccato. Sed pro sola dimissione actus, poena infligitur, nulla
+consideratione habita de aliquo actu adiuncto. Ergo in sola dimissione actus consistit peccatum.
+SC3
+Praeterea, secundum Philosophum in II physic., peccatum contingit in his quae fiunt secundum artem, et in his
+quae fiunt secundum naturam. Sicut ergo in his quae fiunt secundum naturam peccatum est contra naturam esse,
+22
+
+

@@ -1,0 +1,62 @@
+Ad secundum sic proceditur: videtur quod non oportet, enuntiabile quod semel est verum, semper futurum esse
+verum.
+AG1
+Si enim hoc esset verum in aliis enuntiabilibus, pari ratione hoc esset verum in enuntiabilibus de futuro. Sed in
+istis hoc non est verum; quia ut Philosophus dicit in II de gener.: futurus quis incedere, non incedet. Ergo non
+oportet, enuntiabile quod semel est verum, semper esse futurum verum.
+AG2
+Praeterea, si partes sunt eaedem, et totum est idem. Sed partes enuntiabilis sunt praedicatum et subiectum et
+compositio. Ergo idem est enuntiabile existente eodem praedicato et subiecto et compositione. Sed taliter
+existente eodem enuntiabili contingit quod sit quandoque verum et quandoque falsum; sicut hoc enuntiabile,
+socratem sedere, est verum eo sedente, et falsum eo non sedente, secundum illud Philosophi in periher.: ex eo
+quod res est vel non est, oratio est vera vel falsa.
+Ergo enuntiabile quod semel est verum, non propter hoc semper est verum.
+AG3
+Sed contra. Ista enuntiabilia, socratem currere, et socratem cucurrisse, et socratem fore cursurum, non differunt
+nisi secundum diversam consignificationem temporis. Sed diversa consignificatio non tollit identitatem nominis:
+idem enim nomen dicitur esse per omnes casus et in singulari et in plurali numero.
+Ergo etiam praedicta tria enuntiabilia sunt idem enuntiabile. Sed si unum horum semel sit verum, semper oportet
+quod aliquod eorum sit verum: quia si semel est verum quod socrates currit, prius erat verum quod socrates
+curret, et postea erit verum quod socrates cucurrit. Ergo si enuntiabile aliquod semel est verum, semper erit
+verum.
+CO
+Respondeo. Dicendum, quod huius dubitationis vis in hoc consistit, ut sciatur utrum sit idem enuntiabile, quod
+est de praesenti, praeterito et futuro. Si enim hoc verum sit, consequens erit quod enuntiabile quod semel est
+verum, semper erit verum; licet forte hoc dubitationem aliquam habere possit circa enuntiabilia de futuro
+contingenti: sed hoc est altioris inquisitionis. Si vero sint diversa enuntiabilia de praesenti, praeterito et futuro
+(est autem idem enuntiabile quod est de praesenti, qualitercumque res habeat), manifestum est quod idem
+enuntiabile quandoque est verum, quandoque falsum: secundum quod Philosophus dicit in periher., quod eadem
+oratio et opinio quandoque est vera, quandoque falsa.
+Ad cuius evidentiam sciendum est quod secundum Philosophum in I perihermeneias, tria quaedam per ordinem
+inveniuntur: nam voces sunt signa intellectuum, intellectus autem sunt rerum similitudines.
+Manifestum est autem quod unitas vocis significativae vel diversitas non dependet ex unitate vel diversitate rei
+significatae; alioquin non esset aliquod nomen aequivocum: secundum hoc enim si sint diversae res, essent
+diversa nomina, et non idem nomen.
+Dependet ergo unitas vel diversitas vocis significativae, sive complexae, sive incomplexae, ex unitate vel
+diversitate vocis vel intellectus; quorum unum, scilicet vox, est signum et non signatum tantum; intellectus
+autem signum et signatum, sicut et res.
+Potest ergo nomen vel enuntiabile esse aliud et aliud, vel propter diversitatem vocis tantum, sicut est in
+synonymis, in quibus est diversa vox, sed idem significatum omnino; vel etiam cum diversitate vocis potest esse
+diversitas intellectuum, sive propter diversitatem rei intellectae, sive propter diversitatem modi intelligendi; et
+hoc contingit quandocumque est diversitas consignificationis; quae consequitur diversum modum intelligendi
+unam et eamdem rem; et praecipue hoc apparet in tempore, quod per se commiscetur operationi intellectus
+humani componentis et dividentis, ut dicitur in III de anima.
+Et ideo dicendum est, quod non est idem enuntiabile socratem sedere, et socratem sedisse, vel sessurum esse; sed
+socratem sedere est idem enuntiabile, quia est eadem vox, et idem modus significandi. Et ideo patet quod idem
+enuntiabile potest quandoque esse verum, quandoque falsum.
+RA1
+Unde duo prima concedimus.
+RA3
+Ad tertium dicendum, quod diversitas consignificationis tollit nominis identitatem, in tantum quod obliqui,
+secundum Philosophum, non sunt nomina; sunt tamen unum nomen non simpliciter, sed in quantum conveniunt
+in uno ordine declinationis.
+|a3 Articulus 3
+TTA
+Utrum magister determinando quaestiones theologicas magis debeat uti ratione, vel auctoritate.
+TTB
+Circa tertium sic proceditur: videtur quod magister determinans quaestiones theologicas magis debeat uti
+auctoritatibus quam rationibus.
+AG
+82
+
+

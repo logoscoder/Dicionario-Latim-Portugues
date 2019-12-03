@@ -1,0 +1,59 @@
+accidentalis, inde est quod cum volumus significare quamcumque formam vel actum actualiter inesse alicui
+subiecto, significamus illud per hoc verbum est, vel simpliciter vel secundum quid: simpliciter quidem secundum
+praesens tempus; secundum quid autem secundum alia tempora. Et ideo ex consequenti hoc verbum est significat
+compositionem.
+|+6 Lectio 6
+|#1 Postquam Philosophus determinavit de nomine et de verbo, quae sunt principia materialia enunciationis,
+utpote partes eius existentes; nunc determinat de oratione, quae est principium formale enunciationis, utpote
+genus eius existens.
+Et circa hoc tria facit: primo enim, proponit definitionem orationis; secundo, exponit eam; ibi: dico autem ut
+homo etc.; tertio, excludit errorem; ibi: est autem oratio omnis etc..
+|#2 Circa primum considerandum est quod Philosophus in definitione orationis primo ponit illud in quo oratio
+convenit cum nomine et verbo, cum dicit: oratio est vox significativa, quod etiam posuit in definitione nominis,
+et probavit de verbo quod aliquid significet. Non autem posuit in eius definitione, quia supponebat ex eo quod
+positum erat in definitione nominis, studens brevitati, ne idem frequenter iteraret. Iterat tamen hoc in definitione
+orationis, quia significatio orationis differt a significatione nominis et verbi, quia nomen vel verbum significat
+simplicem intellectum, oratio vero significat intellectum compositum.
+|#3
+Secundo autem ponit id, in quo oratio differt a nomine et verbo, cum dicit: cuius partium aliquid
+significativum est separatim. Supra enim dictum est quod pars nominis non significat aliquid per se separatum,
+sed solum quod est coniunctum ex duabus partibus. Signanter autem non dicit: cuius pars est significativa aliquid
+separata, sed cuius aliquid partium est significativum, propter negationes et alia syncategoremata, quae
+secundum se non significant aliquid absolutum, sed solum habitudinem unius ad alterum.
+Sed quia duplex est significatio vocis, una quae refertur ad intellectum compositum, alia quae refertur ad
+intellectum simplicem; prima significatio competit orationi, secunda non competit orationi, sed parti orationis.
+Unde subdit: ut dictio, non ut affirmatio.
+Quasi dicat: pars orationis est significativa, sicut dictio significat, puta ut nomen et verbum, non sicut affirmatio,
+quae componitur ex nomine et verbo. Facit autem mentionem solum de affirmatione et non de negatione, quia
+negatio secundum vocem superaddit affirmationi; unde si pars orationis propter sui simplicitatem non significat
+aliquid, ut affirmatio, multo minus ut negatio.
+|#4 Sed contra hanc definitionem Aspasius obiicit quod videtur non omnibus partibus orationis convenire. Sunt
+enim quaedam orationes, quarum partes significant aliquid ut affirmatio; ut puta, si sol lucet super terram, dies
+est; et sic de multis.
+Et ad hoc respondet Porphyrius quod in quocumque genere invenitur prius et posterius, debet definiri id quod
+prius est. Sicut cum datur definitio alicuius speciei, puta hominis, intelligitur definitio de eo quod est in actu, non
+de eo quod est in potentia; et ideo quia in genere orationis prius est oratio simplex, inde est quod Aristoteles
+prius definivit orationem simplicem.
+Vel potest dici, secundum Alexandrum et Ammonium, quod hic definitur oratio in communi. Unde debet poni in
+hac definitione id quod est commune orationi simplici et compositae. Habere autem partes significantes aliquid
+ut affirmatio, competit soli orationi, compositae; sed habere partes significantes aliquid per modum dictionis, et
+non per modum affirmationis, est commune orationi simplici et compositae. Et ideo hoc debuit poni in
+definitione orationis. Et secundum hoc non debet intelligi esse de ratione orationis quod pars eius non sit
+affirmatio: sed quia de ratione orationis est quod pars eius sit aliquid quod significat per modum dictionis, et non
+per modum affirmationis.
+Et in idem redit solutio Porphyrii quantum ad sensum, licet quantum ad verba parumper differat. Quia enim
+Aristoteles frequenter ponit dicere pro affirmare, ne dictio pro affirmatione sumatur, subdit quod pars orationis
+significat ut dictio, et addit non ut affirmatio: quasi diceret, secundum sensum Porphyrii, non accipiatur nunc
+dictio secundum quod idem est quod affirmatio.
+Philosophus autem, qui dicitur ioannes grammaticus, voluit quod haec definitio orationis daretur solum de
+oratione perfecta, eo quod partes non videntur esse nisi alicuius perfecti, sicut omnes partes domus referuntur ad
+domum: et ideo secundum ipsum sola oratio perfecta habet partes significativas. Sed tamen hic decipiebatur,
+quia quamvis omnes partes referantur principaliter ad totum perfectum, quaedam tamen partes referuntur ad
+ipsum immediate, sicut paries et tectum ad domum, et membra organica ad animal: quaedam vero mediantibus
+partibus principalibus quarum sunt partes; sicut lapides referuntur ad domum mediante pariete; nervi autem et
+ossa ad animal mediantibus membris organicis, scilicet manu et pede et huiusmodi. Sic ergo omnes partes
+orationis principaliter referuntur ad orationem perfectam, cuius pars est oratio imperfecta, quae etiam ipsa habet
+partes significantes. Unde ista definitio convenit tam orationi perfectae, quam imperfectae.
+14
+
+

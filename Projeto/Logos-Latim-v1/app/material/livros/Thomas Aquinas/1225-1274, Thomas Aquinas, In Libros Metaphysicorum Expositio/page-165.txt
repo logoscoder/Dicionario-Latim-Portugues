@@ -1,0 +1,62 @@
+Postquam determinavit philosophus de ente per accidens, hic determinat de ente, quod significat veritatem
+propositionis: et circa hoc duo facit. Primo determinat qualiter dicatur huiusmodi ens. Secundo removet ipsum a
+principali consideratione huius scientiae, ibi, quoniam autem complexio et cetera. Circa primum tria facit. Primo
+ostendit qualiter huiusmodi ens dicatur. Secundo respondet cuidam quaestioni, ibi, quomodo autem quod simul et
+cetera. Tertio manifestat quoddam quod dixerat, ibi, non est autem verum et falsum in rebus et cetera. Dicit ergo quod
+ens quoddam dicitur quasi verum, idest quod nihil aliud significat nisi veritatem. Cum enim interrogamus si homo est
+animal, respondetur quod est; per quod significatur, propositionem praemissam esse veram. Et eodem modo non ens
+significat quasi falsum. Cum enim respondetur, non est, significatur quod proposita oratio sit falsa. Hoc autem ens,
+quod dicitur quasi verum, et non ens, quod dicitur quasi falsum, consistit circa compositionem et divisionem. Voces
+enim incomplexae neque verum neque falsum significant; sed voces complexae, per affirmationem aut negationem
+veritatem aut falsitatem habent. Dicitur autem hic affirmatio compositio, quia significat praedicatum inesse subiecto.
+Negatio vero dicitur hic divisio, quia significat praedicatum a subiecto removeri.
+[82790] In Metaphysic., lib. 6 l. 4 n. 2
+Et cum voces sint signa intellectuum, similiter dicendum est de conceptionibus intellectus. Quae enim sunt simplices,
+non habent veritatem neque falsitatem, sed solum illae quae sunt complexae per affirmationem vel negationem.
+[82791] In Metaphysic., lib. 6 l. 4 n. 3
+Et quia praedictum ens et non ens, scilicet verum et falsum, consistit in compositione et divisione, ideo similiter
+consistit circa partitionem contradictionis. Unaquaeque enim contradictionum partiuntur sibi invicem verum et falsum;
+ita quod altera pars est vera, et altera pars est falsa. Cum enim contradictio ex affirmatione et negatione constituatur,
+utraque autem harum ex praedicato sit et subiecto, praedicatum et subiectum dupliciter se possunt habere. Aut enim
+sunt coniuncta in rerum natura, sicut homo et animal; aut sunt disiuncta, ut homo et asinus.
+[82792] In Metaphysic., lib. 6 l. 4 n. 4
+Si ergo formantur duae contradictiones: una ex terminis coniunctis, ut, homo est animal, homo non est animal; alia ex
+terminis disiunctis, ut, homo est asinus, homo non est asinus, utramque contradictionem inter se condividunt verum et
+falsum; ita quod verum pro parte sua habet affirmationem in composito, idest in terminis coniunctis, et negationem in
+disiuncto, idest in terminis disiunctis. Hae enim duae sunt verae, homo est animal et homo non est asinus. Sed falsum
+pro sua parte habet contradictionem partitionis, idest contradictoria eorum, quae cedunt in partem veri. Habet enim
+falsum pro sua parte negationem in coniuncto, et affirmationem in disiuncto. Hae enim duae sunt falsae, homo non est
+animal, et homo est asinus.
+[82793] In Metaphysic., lib. 6 l. 4 n. 5
+Deinde cum dicit quomodo autem removet quamdam dubitationem, quae posset occasionari ex dictis. Dixerat enim
+quod verum et falsum consistunt in compositione et divisione, vocum quidem secundario, intellectus autem primo et
+principaliter: omnis autem compositio vel divisio plurium est: et ideo potest esse dubium, quomodo ista quae
+componuntur et dividuntur, intellectus intelligat: utrum scilicet simul, aut separatim. Sed dicit, quod hoc pertinet ad
+alium sermonem, scilicet ad librum de anima.
+[82794] In Metaphysic., lib. 6 l. 4 n. 6
+Et quia simul dupliciter dicitur, quandoque enim significat unitatem, sicut dicimus simul esse secundum tempus quae
+sunt in uno et eodem instanti: quandoque vero significat coniunctionem et vicinitatem eorum quae consequenter se
+habent, sicut dicimus duos homines esse simul secundum locum, quorum loca sunt coniuncta et consequenter se
+habentia, et secundum tempus, quae se tempore consequuntur: ideo exponit quaestionem motam, qua quaesivit utrum
+simul aut separatim intelligat intellectus ea quae componuntur et dividuntur: dicens, quod non intelligit simul secundum
+quod aliqua dicuntur esse simul, ut consequenter se habent; sed secundum quod aliqua dicuntur esse simul in eo quod
+fit aliquid unum.
+[82795] In Metaphysic., lib. 6 l. 4 n. 7
+Et in hoc innuitur solutio quaestionis. Si enim intellectus intelligat hominem et animal unumquodque secundum se, ut
+sunt duo quaedam, intelligit ea consequenter duabus conceptionibus simplicibus, non formans ex eis affirmationem
+neque negationem. Cum autem ex eis format compositionem vel divisionem, intelligit ambo ut unum, inquantum
+scilicet ex eis aliquod unum fit: sicut etiam partes cuiuslibet totius intelligit intellectus ut unum, intelligendo ipsum
+totum. Non enim intelligit domum intelligendo prius fundamentum et postea parietem et postea tectum; sed omnia ista
+intelligit simul, inquantum ex eis fit unum. Similiter intelligit praedicatum et subiectum simul, inquantum ex eis fit
+unum, scilicet affirmatio et negatio.
+[82796] In Metaphysic., lib. 6 l. 4 n. 8
+Deinde cum dicit non est autem. Manifestat quoddam quod dixerat scilicet quod verum et falsum sint in compositione
+et divisione. Quod quidem probat per modum cuiusdam divisionis. Eorum enim, quae dicuntur voce, quaedam sunt in
+rebus extra animam, quaedam autem sunt in anima tantum. Album enim et nigrum sunt extra animam; sed rationes
+horum sunt in anima tantum. Posset autem aliquis credere, quod verum et falsum sint etiam in rebus sicut bonum et
+malum; ita quod verum sit quoddam bonum, et falsum sit quoddam malum: hoc enim oporteret si verum et falsum
+essent in rebus. Verum enim quamdam perfectionem naturae significat, falsum vero defectum. Omnis autem perfectio
+in rebus existens, ad perfectionem et bonitatem naturae pertinet, defectus vero et privatio ad malitiam.
+[82797] In Metaphysic., lib. 6 l. 4 n. 9
+
+

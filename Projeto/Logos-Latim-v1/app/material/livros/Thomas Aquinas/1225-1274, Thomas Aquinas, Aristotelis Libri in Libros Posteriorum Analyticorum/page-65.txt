@@ -1,0 +1,58 @@
+utramque extremitatem; et sic sumuntur duae propositiones affirmativae, scilicet omne e est b, omne c est e, ex
+quibus concluditur, omne c est b. Sed maior propositio est negativa, scilicet nullum b est a: negativa autem non
+concluditur ex duabus negativis; sed in prima figura, per quam maxime fit demonstratio secundum praemissa,
+maiorem oportet esse negativam et minorem affirmativam. Unde oportebit quod hoc medium d sit affirmativum
+per comparationem ad b, sit autem negativum per comparationem ad a, tali demonstratione facta: nullum d est a;
+omne b est d; ergo nullum b est a. Sic igitur augmentata demonstratione negativa per resolutionem
+propositionum in sua principia, erunt quatuor propositiones, quarum una sola est negativa, scilicet nullum d est
+a; tres autem aliae erunt affirmativae, scilicet omne b est d, omne e est b, omne c est e. Et idem est in omnibus
+aliis syllogismis, quia semper necesse est medium per quod affirmativae propositiones probantur, esse
+affirmativum ad ambo extrema. Medium autem per quod probatur negativa propositio, necesse est esse
+negativum solum ad unam extremitatem; et ita sequitur quod una sola propositio sit negativa, aliae omnes
+affirmativae. Ex quo patet quod propositio negativa maxime demonstratur per affirmativas. Si ergo illud per
+quod aliquid demonstratur, est notius et credibilius eo quod per ipsum demonstratur, cum negativa propositio
+maxime demonstretur per affirmativam, non autem e converso, sequitur quod affirmativa propositio sit prior et
+notior et credibilior quam negativa.
+Unde demonstratio affirmativa erit dignior.
+|#8 Quartam rationem ponit ibi: amplius si principium syllogismi etc., et dicit quod principium syllogismi
+demonstrativi est propositio universalis immediata; ita tamen quod affirmativi syllogismi est principium
+proprium affirmativa propositio, negativi autem syllogismi proprium principium est negativa propositio
+universalis. Sed nobilioris principii nobilior est effectus. Ergo secundum proportionem propositionis affirmativae
+ad negativam, est proportio demonstrationis affirmativae ad negativam.
+Sed affirmativa propositio est potior quam negativa. Quod probat dupliciter: primo quidem, quia affirmativa est
+prior et notior, cum per affirmativam probetur negativa, et non e converso; secundo, quia affirmatio praecedit
+naturaliter negationem, sicut esse prius est quam non esse.
+Quamvis enim in uno et eodem, quod de non esse in esse procedit, non esse sit prius tempore, esse tamen est
+prius natura, et simpliciter prius etiam tempore; quia non entia non producuntur in esse, nisi ab aliquo ente. Ergo
+patet quod affirmativa demonstratio est potior quam negativa.
+|#9 Quintam rationem ponit ibi: adhuc et principalior etc., quae talis est. Illud ex quo aliud dependet, est
+principalius. Sed demonstratio negativa dependet ex affirmativa; quia non potest esse negativa demonstratio sine
+affirmativa propositione, quae non probatur nisi per affirmativam demonstrationem. Ergo demonstratio
+affirmativa est principalior quam negativa.
+|+40 Lectio 40
+|#1
+Postquam ostendit Philosophus quod demonstratio universalis dignior est particulari, et affirmativa
+negativa, hic tertio ostendit quod ostensiva potior est ea quae ducit ad impossibile. Et circa hoc tria facit: primo,
+proponit quod intendit; secundo, praemittit quaedam necessaria ad propositum ostendendum; ibi: oportet autem
+scire etc.; tertio, probat propositum; ibi: natura autem prior etc.. Dicit ergo primo quod, quia ostensum est quod
+affirmativa demonstratio est potior quam negativa, ex hoc ulterius sequitur quod affirmativa demonstratio
+ostensiva sit potior ea quae ducit ad impossibile.
+|#2 Deinde cum dicit: oportet autem scire etc., praemittit quaedam quae sunt necessaria ad propositum
+ostendendum. Et circa hoc tria facit: primo, ostendit quae sit demonstratio negativa; secundo, ostendit quae sit
+demonstratio ducens ad impossibile; ibi: quae vero ad impossibile etc.; tertio, concludit comparationem unius ad
+alteram; ibi: termini igitur etc.. Dicit ergo primo, quod ad propositum ostendendum oportet considerare
+differentiam ipsarum, scilicet demonstrationis negativae et ducentis ad impossibile. Si ergo accipiatur quod a in
+nullo b sit, et b sit in omni c, et concludatur a esse in nullo c, erit demonstratio negativa.
+|#3 Deinde cum dicit: quae vero est ad impossibile etc., manifestat quae sit demonstratio ducens ad impossibile.
+Et dicit quod demonstratio ducens ad impossibile hoc modo se habet. Sit ita quod oporteat demonstrare quod a
+non sit in b, et accipiamus oppositum eius quod probare volumus, scilicet omne b est a, et accipiatur quod b sit in
+c per hanc propositionem, omne c est b; ex quibus sequitur conclusio, omne c est a: et sit ita quod notum sit et
+concessum apud omnes quod hoc est impossibile. Et ex hoc concludimus primam propositionem esse falsam,
+scilicet omne b est a. Et ita oportebit vel quod nullum b sit a, vel saltem quod quoddam b non sit a. Sed hoc
+tamen intelligendum est, quod sequitur a non esse in b, quando manifestum est b esse in c: quia si manifestum
+esset hanc esse falsam, omne c est a, et non esset manifestum hanc esse veram, omne c est b, non esset per
+consequens manifestum hanc esse falsam, omne b est a; quia falsitas conclusionis poterat procedere ex alterutra
+praemissarum, ut ex supra dictis patet.
+65
+
+

@@ -1,0 +1,66 @@
+consequens impossibile, sicut ista: si homo est asinus, est animal
+irrationale. Concedendum est ergo quod impossibile est quod, si aliquod
+mobile ponitur movere seipsum, quod vel totum vel pars eius quiescat; sicut
+impossibile est ignem non esse calidum, propter hoc quod est sibi ipsi
+causa caloris. Unde haec conditionalis est vera: si mobilis moventis
+seipsum pars quiescit, totum quiescit. Aristoteles autem, si verba eius
+diligenter considerentur, nunquam utitur quiete partis, nisi per locutionem
+habentem vim conditionalis propositionis. Non enim dicit quiescat bc, sed
+necesse est, bc quiescente, quiescere ab; et iterum, quiescente parte,
+quiescit totum: et ex hac conditionali vera, Aristoteles propositum
+demonstrat.
+Sed dicit Averroes quod ista demonstratio non est de genere demonstrationum
+simpliciter, sed de genere demonstrationum quae dicuntur demonstrationes
+signi, vel demonstrationes quia, in quibus est usus talium conditionalium.
+Est autem haec solutio conveniens quantum ad hoc quod dicit de veritate
+conditionalis: sed videtur dicendum quod non sit demonstratio quia, sed
+propter quid; continet enim causam quare impossibile est aliquod mobile
+movere seipsum.
+Ad cuius evidentiam sciendum est, quod aliquid movere seipsum nihil aliud
+est, quam esse sibi causa motus. Quod autem est sibi causa alicuius,
+oportet quod primo ei conveniat; quia quod est primum in quolibet genere,
+est causa eorum quae sunt post. Unde ignis, qui sibi et aliis est causa
+caloris, est primum calidum. Ostendit autem Aristoteles in sexto, quod in
+motu non invenitur primum, neque ex parte temporis, neque ex parte
+magnitudinis, neque etiam ex parte mobilis, propter horum divisibilitatem.
+Non ergo potest inveniri primum, cuius motus non dependeat ab aliquo
+priori: motus enim totius dependet a motibus partium, et dividitur in eos,
+ut in sexto probatum est. Sic ergo ostendit Aristoteles causam quare nullum
+mobile movet seipsum; quia non potest esse primum mobile, cuius motus non
+dependeat a partibus: sicut si ostenderem quod nullum divisibile potest
+esse primum ens, quia esse cuiuslibet divisibilis dependet a partibus: ut
+sic haec conditionalis sit vera: si pars non movetur, totum non movetur,
+sicut haec conditionalis est vera: si pars non est, totum non est.
+|#7
+Unde et Platonici, qui posuerunt aliqua movere seipsa, dixerunt quod
+nullum corporeum aut divisibile movet seipsum; sed movere seipsum est
+tantummodo substantiae spiritualis, quae intelligit seipsam et amat
+seipsam: universaliter omnes operationes motus appellando; quia et
+huiusmodi operationes, scilicet sentire et intelligere, etiam Aristoteles
+in tertio de anima nominat motum, secundum quod motus est actus perfecti.
+Sed hic loquitur de motu secundum quod est actus imperfecti, idest
+existentis in potentia, secundum quem motum indivisibile non movetur, ut in
+sexto probatum est, et hic assumitur. Et sic patet quod Aristoteles, ponens
+omne quod movetur ab alio moveri, a Platone, qui posuit aliqua movere
+seipsa, non dissentit in sententia, sed solum in verbis.
+|+2
+
+Lectio 2
+
+|#1
+Postquam ostendit Philosophus quod omne quod movetur, movetur ab
+alio, hic accedit ad principale propositum ostendendum, scilicet quod sit
+primus motus et primus motor.
+Et circa hoc duo facit: primo proponit quod intendit; secundo probat
+propositum, ibi: si enim non est, sed in infinitum procedet etc..
+Dicit ergo primo, quod cum ostensum sit universaliter, quod omne quod
+movetur ab aliquo alio movetur, necesse est hoc etiam verum esse in motu
+locali, scilicet ut omne quod movetur in loco, ab altero moveatur.
+Applicat autem specialiter ad motum localem quod supra universaliter
+demonstratum est, quia motus localis est primus motuum, ut in octavo
+ostendetur; et ideo secundum hunc motum procedit hic ad demonstrandum
+primum motorem.
+
+253
+
+

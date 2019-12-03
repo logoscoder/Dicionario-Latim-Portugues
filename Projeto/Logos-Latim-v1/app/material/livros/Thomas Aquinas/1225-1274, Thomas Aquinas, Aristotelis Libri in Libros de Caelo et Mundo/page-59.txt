@@ -1,0 +1,56 @@
+Si enim est aliquid semper existens, neque est genitum neque corruptibile: similiter etiam si est semper non
+existens, neque est genitum neque corruptibile. Manifestum est autem quod etiam e converso, si aliquid est
+genitum aut corruptibile, non est sempiternum, neque quantum ad esse neque quantum ad non esse. Si enim
+detur oppositum, scilicet quod aliquid sit simul sempiternum et genitum et corruptibile, sequetur quod aliquid sit
+simul potens semper esse et non semper esse; quia sempiternum potest semper esse, generabile autem et
+corruptibile non semper est. Quod autem hoc sit impossibile, ostensum est prius: quia dictum est quod semper
+esse et non semper esse opponuntur contradictorie. Unde relinquitur impossibile esse quod aliquid sit simul
+sempiternum et corruptibile vel genitum.
+|#6
+Deinde cum dicit: igitur si et ingenitum etc., ostendit quod omne ingenitum et incorruptibile est
+sempiternum. Et primo concludit hoc ex praemissis, dicens quod necesse est quod ingenitum omne sit
+sempiternum, et similiter incorruptibile omne sit sempiternum, dummodo sit ens; ita tamen quod accipiamus
+ingenitum et incorruptibile secundum quod proprie dicuntur; prout scilicet ingenitum dicitur quod ita est nunc
+quod non erat prius verum dicere de ipso quod non erat, et secundum quod incorruptibile dicitur quod ita nunc
+est quod posterius non erit verum dicere de ipso quod non sit; sicut patet ex his quae supra dicta sunt in
+distinctione horum nominum.
+|#7 Secundo ibi: aut si quidem etc., probat idem ex his quae infra ostendentur: dicens quod, si ingenitum et
+incorruptibile consequuntur se invicem hoc modo quod omne ingenitum sit incorruptibile et e converso, necesse
+est quod sempiternum consequatur ad utrumque; ut scilicet omne ingenitum et omne incorruptibile sit
+sempiternum.
+Ex omnibus autem praemissis talis potest colligi ratio: nullum sempiternum est genitum neque corruptibile;
+omne ingenitum et omne incorruptibile est sempiternum; ergo nullum ingenitum est corruptibile, et nullum
+incorruptibile est genitum.
+|+28 Lectio 28
+|#1 Supra Philosophus ostendit propositum ex parte sempiterni, nunc autem ostendit propositum ex parte geniti
+et ingeniti, corruptibilis et incorruptibilis.
+Et primo probat propositum ex suppositione; secundo ex necessitate, ibi: quod autem necesse consequi etc..
+Circa primum duo facit: primo ex suppositione huius quod ingenitum et incorruptibile convertantur, probat quod
+genitum et corruptibile convertuntur; secundo ostendit unde sit supponenda conversio ingeniti et incorruptibilis,
+ibi: si autem non consequuntur etc..
+|#2 Dicit ergo primo quod id quod intendimus potest fieri manifestum ex determinatione ipsorum, idest ex
+distinctione et habitudine horum terminorum ad invicem. Et primo ostendit quod genitum sequatur ad
+corruptibile, ita scilicet quod si aliquid sit corruptibile, ex necessitate sit genitum.
+Oportet enim id quod est corruptibile aut esse genitum aut ingenitum, quia de quolibet existentium alterum
+horum oportet praedicari: si ergo aliquid sit corruptibile quod non sit genitum, sequitur quod sit ingenitum.
+Supponimus autem quod ingenitum et incorruptibile convertantur: et ita si aliquid est ingenitum, erit
+incorruptibile.
+Si ergo aliquod corruptibile non sit genitum, sequitur quod aliquod corruptibile sit incorruptibile.
+|#3 Secundo ibi: et si genitum autem etc., probat eodem modo quod necesse sit, si aliquid est genitum, quod sit
+corruptibile. Oportet enim id quod est genitum aut esse corruptibile aut incorruptibile; sed hoc supponitur, quod
+si aliquid est incorruptibile, quod sit ingenitum, propter eorum convertibilitatem; sequitur ergo quod sit aliquid
+genitum quod sit ingenitum, quod est impossibile.
+Et sic probatum est quod omne corruptibile est genitum, et e converso: supposito tamen quod ingenitum et
+incorruptibile convertantur.
+|#4 Deinde cum dicit: si autem non consequuntur etc., ostendit unde hoc oporteat supponi. Et dicit quod si non
+consequuntur se invicem incorruptibile et ingenitum, non ex necessitate hoc quod est esse sempiternum, erit
+consequens ad hoc quod est ingenitum et ad incorruptibile: quod tamen supra ostensum est.
+|#5 Deinde cum dicit: quod autem necesse consequi etc., probat propositum ex necessitate. Et primo ostendit
+quod genitum et corruptibile convertantur; secundo ex hoc ulterius ostendit quod etiam ingenitum et
+incorruptibile convertantur, ibi: sit itaque in quo est e etc..
+Circa primum tria facit. Primo proponit quod intendit: et dicit quod ex his quae dicentur, manifestum erit quod
+necesse est praedicta se invicem consequi; quia primo hoc manifestabitur, quod genitum et corruptibile se
+invicem consequuntur.
+59
+
+

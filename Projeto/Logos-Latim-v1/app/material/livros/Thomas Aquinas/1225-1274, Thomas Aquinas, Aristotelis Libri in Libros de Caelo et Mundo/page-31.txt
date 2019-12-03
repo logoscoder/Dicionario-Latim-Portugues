@@ -1,0 +1,58 @@
+propter excessum virtutis. Potest tamen dici quod, etiam hoc posito, sequetur idem inconveniens, scilicet quod sit
+gravitas vel Levitas infinita; et ideo de hoc Aristoteles non curavit.
+|#9 Secundam rationem ponit ibi: adhuc necessarium etc.. Si enim partes totius infiniti sint infinitae secundum
+magnitudinem, oportet etiam quod loca earum essent infinita secundum magnitudinem; quia loca oportet esse
+aequalia locatis.
+Sed motus mensuratur secundum magnitudinem loci in quem pertransit, ut probatur in VI physic..
+Ergo sequitur quod motus omnium harum partium sint infiniti. Sed hoc est impossibile, si sint vera ea quae supra
+supposuimus, scilicet quod non contingit aliquid moveri deorsum in infinitum, neque etiam sursum; quia
+deorsum est determinatum, cum sit medium, et eadem ratione sursum est determinatum (si enim unum
+contrariorum est determinatum, et aliud)p et hoc etiam hic ostendit per id quod est commune omnibus motibus.
+Videmus enim in transmutatione quae est secundum substantiam, quod impossibile est fieri illud quod non potest
+esse factum; sicut non potest fieri asinus rationalis, quia impossibile est asinum esse talem. Et simile est in tali,
+idest in motu qui est secundum qualitatem, et in tanto, idest in motu qui est secundum quantitatem, et in ubi,
+idest in motu qui est secundum locum. Si enim impossibile est quod aliquid nigrum sit factum album, sicut
+corvus, impossibile est quod fiat album; et si aliquid impossibile est quod sit cubitale, sicut formica, impossibile
+est quod ad hoc moveatur; et si impossibile est quod aliquid sit in Aegypto, puta Danubius, impossibile est quod
+illuc moveatur.
+Et huius ratio est, quia natura nihil facit frustra: esset autem frustra si moveret ad id ad quod impossibile est
+pervenire. Sic igitur impossibile est quod aliquid moveatur localiter illuc quo non est pervenire. Non est autem
+pertransire locum infinitum. Si igitur loca essent infinita, nullus esset motus. Quod cum sit impossibile, non
+potest esse quod partes corporis infiniti dissimilium partium, sint infinitae in magnitudine.
+|#10 Tertiam rationem ponit ibi: adhuc si et discerpta etc.. Posset enim aliquis dicere quod non est unum
+continuum infinitum, sunt tamen quaedam partes discerptae, idest disiunctae et non continuae, infinitae; sicut
+democritus posuit infinita corpora indivisibilia, et sicut Anaxagoras posuit infinitas partes consimiles. Sed ipse
+dicit quod ex hac positione nihil minus sequitur inconveniens: quia, si sint infinitae partes ignis non continuae,
+nihil prohibet illas omnes coniungi, et sic fieri ex omnibus unum ignem infinitum.
+|#11 Quartam rationem ponit ibi: sed corpus est etc.. Cum enim aliquid dicitur esse infinitum, oportet quod
+infinitum accipiatur secundum propriam eius rationem: puta, si dicamus lineam esse infinitam, intelligimus eam
+esse infinitam secundum longitudinem; si vero dicamus superficiem esse infinitam, intelligimus quod sit infinita
+secundum longitudinem et latitudinem. Corpus autem distenditur ad omnem partem, quia habet omnes
+dimensiones, ut supra dictum est: et sic, si corpus dicatur infinitum, oportet quod sit infinitum ad omnem partem;
+et ita ex nulla parte erit aliquid extra ipsum. Non ergo est possibile quod in corpore infinito sint plura dissimilia,
+quorum unumquodque sit infinitum: quia non est possibile esse plura infinita, secundum praedicta.
+|#12 Deinde cum dicit: sed adhuc neque totum etc., ostendit quod corpus infinitum non potest esse similium
+partium: et hoc duabus rationibus.
+Quarum prima est, quia cuiuslibet corporis naturalis oportet esse aliquem motum localem; non est autem alius
+motus praeter istos qui supra dicti sunt, quorum scilicet unus est circa medium, alius a medio, et tertius ad
+medium; sequitur igitur quod habeat unum istorum motuum.
+Sed hoc est impossibile: quia si moveatur sursum vel deorsum, erit grave vel leve; et ita accidet gravitatem et
+levitatem esse infinitam, quod est impossibile secundum praemissa. Similiter etiam non est possibile quod
+moveatur circulariter, quia est impossibile infinitum circumferri: nihil enim differt hoc dicere, quam si dicatur
+caelum infinitum, quod impossibile est, ut supra ostensum est. Non ergo contingit totum corpus infinitum esse
+homoeomerum.
+|#13 Secundam rationem ponit ibi: sed adhuc neque omnino etc.; quae sequitur ex communi ratione motus
+localis. Si enim sit corpus similium partium infinitum, sequitur quod nullo modo possit moveri. Quia si movetur,
+aut movebitur secundum naturam, aut secundum violentiam.
+Si autem sit ei aliquis motus violentus, sequitur quod etiam sit ei aliquis motus naturalis: quia motus violentus
+contrariatur motui naturali, ut supra habitum est. Si autem aliquis sit ei motus naturalis, sequitur quod etiam sit ei
+aliquis locus aequalis sibi, in quem naturaliter fertur: quia motus naturalis est eius quod fertur in proprium
+locum. Hoc autem est impossibile: quia sequeretur quod sint duo corporalia loca infinita; quod est aeque
+impossibile sicut quod sint duo corpora infinita; quia sicut corpus infinitum est undique infinitum, ita et locus
+infinitus. Non est igitur possibile quod corpus infinitum moveatur. Si ergo omne corpus naturale movetur,
+sequitur quod nullum corpus naturale sit infinitum. Est tamen attendendum quod haec ratio non procedit nisi de
+motu recto: nam id quod movetur circulariter, non mutat totum locum subiecto, sed solum ratione, ut probatur in
+VI physic.. Sed quod corpus infinitum non possit moveri circulariter, supra multipliciter est ostensum.
+31
+
+

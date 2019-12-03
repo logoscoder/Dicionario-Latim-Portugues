@@ -1,0 +1,61 @@
+Et sciendum quod licet materia non habeat in sua natura aliquam formam vel privationem, sicut in ratione aeris
+neque est figuratum neque infiguratum; tamen nunquam denudatur a forma et privatione: quandoque enim est
+sub una forma, quandoque sub alia. Sed per se nunquam potest esse, quia cum in ratione sua non habeat aliquam
+formam, non habet esse in actu, cum esse in actu non sit nisi a forma, sed est solum in potentia. Et ideo quicquid
+est actu, non potest dici materia prima.
+|+3 Capitulus 3
+Ex dictis igitur patet tria esse naturae principia scilicet materia, forma et privatio. Sed haec non sunt sufficientia
+ad generationem.
+Quod enim est in potentia, non potest se reducere ad actum: sicut cuprum quod est potentia idolum, non facit se
+idolum, sed indiget operante, qui formam idoli extrahat de potentia in actum.
+Forma etiam non extraheret se de potentia in actum (et loquor de forma generati, quam diximus esse terminum
+generationis); forma enim non est nisi in facto esse: quod autem operatur est in fieri, idest dum res fit. Oportet
+ergo praeter materiam et formam esse aliquod principium quod agat, et hoc dicitur esse efficiens, vel movens,
+vel agens, vel unde est principium motus.
+Et quia, ut dicit Aristoteles in secundo metaph., omne quod agit, non agit nisi intendendo aliquid, oportet esse
+aliud quartum, id scilicet quod intenditur ab operante: et hoc dicitur finis.
+Et sciendum, quod omne agens tam naturale quam voluntarium intendit finem, non tamen sequitur quod omne
+agens cognoscat finem, vel deliberet de fine. Cognoscere enim finem est necessarium in his quorum actiones non
+sunt determinatae, sed se habent ad opposita, sicut se habent agentia voluntaria; et ideo oportet quod cognoscant
+finem per quem suas actiones determinent. Sed in agentibus naturalibus sunt actiones determinatae: unde non est
+necessarium eligere ea quae sunt ad finem.
+Et ponit exemplum Avicenna de citharaedo quem non oportet de qualibet percussione chordarum deliberare, cum
+percussiones sint determinatae apud ipsum; alioquin esset inter percussiones mora, quod esset absonum. Magis
+autem videtur de operante voluntarie quod deliberet, quam de agente naturali. Et ita patet per locum a maiori,
+quod possibile est agens naturale sine deliberatione intendere finem: et hoc intendere nihil aliud erat quam
+habere naturalem inclinationem ad aliquid.
+Ex dictis ergo patet, quod sunt quatuor causae: scilicet materialis, efficiens, formalis et finalis.
+Licet autem principium et causa dicantur convertibiliter, ut dicitur in quinto metaph., tamen Aristoteles in lib.
+Physic., ponit quatuor causas et tria principia. Causas autem accipit tam pro extrinsecis quam pro intrinsecis.
+Materia et forma dicuntur intrinsecae rei, eo quod sunt partes constituentes rem; efficiens et finalis dicuntur
+extrinsecae, quia sunt extra rem. Sed principia accipit solum causas intrinsecas. Privatio autem non nominatur
+inter causas, quia est principium per accidens, ut dictum est. Et cum dicimus quatuor causas, intelligimus de
+causis per se, ad quas tamen causae per accidens reducuntur, quia omne quod est per accidens, reducitur ad id
+quod est per se.
+Sed licet principia ponat Aristoteles pro causis intrinsecis in primo physic., tamen, ut dicitur in undecimo
+metaph., principium dicitur proprie de causis extrinsecis, elementum de causis quae sunt partes rei, idest de
+causis intrinsecis, causa dicitur de utrisque. Tamen aliquando unum ponitur pro altero.
+Omnis enim causa potest dici principium, et omne principium causa. Sed tamen causa videtur addere supra
+principium communiter dictum, quia id quod est primum, sive consequatur esse posterius sive non, potest dici
+principium, sicut faber dicitur principium cultelli, ut ex eius operatione est esse cultelli.
+Sed quando aliquid movetur de nigredine ad albedinem, dicitur quod nigrum est principium illius motus; et
+universaliter omne id a quo incipit esse motus dicitur principium: tamen nigredo non est id ex quo consequatur
+esse albedo.
+Sed causa solum dicitur de illo primo ex quo consequitur esse posterioris: unde dicitur quod causa est ex cuius
+esse sequitur aliud. Et ideo illud primum a quo incipit esse motus, non potest dici causa per se etsi dicatur
+principium: et propter hoc privatio ponitur inter principia, et non inter causas, quia privatio est id a quo incipit
+generatio. Sed potest etiam dici causa per accidens, inquantum concidit materiae, ut supra expositum est.
+Elementum vero non dicitur proprie nisi de causis ex quibus est compositio rei, quae proprie sunt materiales.
+Et iterum non de qualibet causa materiali, sed de illa ex qua est prima compositio: sicut nec membra elementa
+sunt hominis, quia membra etiam sunt composita ex aliis; sed dicimus quod terra et aqua sunt elementa, quia
+haec non componuntur ex aliis corporibus, sed ex ipsis est prima compositio corporum naturalium.
+Unde Aristoteles in quinto metaph. dicit quod elementum est id ex quo componitur res primo, et est in ea, et non
+dividitur secundum formam.
+Expositio primae particulae, ex quo componitur res primo, patet per ea quae diximus.
+Secunda particula, scilicet et est in ea, ponitur ad differentiam illius materiae quae ex toto corrumpitur per
+generationem: sicut panis est materia sanguinis, sed non generatur sanguis nisi corrumpatur panis; unde panis
+non remanet in sanguine: unde non potest dici panis elementum sanguinis. Sed elementa oportet aliquo modo
+manere, cum non corrumpantur, ut dicitur in libro de gener.
+3
+
+

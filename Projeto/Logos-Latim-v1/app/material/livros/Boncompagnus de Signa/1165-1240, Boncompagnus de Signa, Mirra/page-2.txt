@@ -1,0 +1,105 @@
+[2.1] Quidam enim dicunt, quod testamentum est dispositio ultime uoluntatis. Alii dicunt, quod testamentum est
+testatio mentis. Et licet iste diffinitiones satis possent esse sufficientes, ad hec duas iniungere uolo, que uidentur
+ex ipsa littera et ueritate purissima prouenire. Verbi gratia: Testamentum est timidum uel ultimum preconium
+mortis, quia omnis testator mortis periculum incurrerre pertumescit. Vel testamentum est testimonium uel
+testatio mentis, idest anime, secundum quod quilibet iudicabitur in futuro.
+rubr. om. PTMP3
+uoluntatis: cum institutione heredis add. M
+satis tr. P3 post esse
+possent: possint
+MTP3
+iniungere P3: gignere codd.
+ueritate P3: puritate codd.
+est: testium timidum pre----- mentie pre
+omnis add. M
+testimonium: testatio M
+timidum--testator mortis P3: om. codd.
+testamentum: est
+testimonium add. M
+[2.2] Lex enim Ebreorum Vetus testamentum dicitur et dicebatur non sine causa. Moyses namque Vetus
+testamentum recipit in monte, iuxta cuius precepta populus Israeliticus uiuere tenebatur. Ex hoc uero testamento
+Dominus dixit: "Hoc autem est testamentum, quod testabor ad illos post dies illos, dando leges meas in cordibus
+eorum et in mentibus eorum superscribam eas, et peccatorum et iniquitatium eorum iam non recordabor
+amplius."8 Sed transgressores huius testamenti, ut illi qui fecerunt uitulum in Oreb et adorauerunt sculptile in
+similitudine uituli comedientes fenum, suam gloriam transferentes, 9 percussi sunt ad uero corporali plaga sicque
+temporaliter periere.
+recipit: recepit TP3
+monte: montem P3
+Israeliticus populus tr. P3 in: in titutulum M
+adorauerunt:
+3
+adhorauerunt T
+similitudine: similitudinem P
+comedientis: comedi--es P3
+periere MTP3: perire codd.
+[2.3] Quid plura,|[80ra] omnes ab Adam usque ad aduentum|[74ra] Altissimi per lapsum primi parentis frui non
+poterant beatudine sempiterna, sed ducebantur ad inferos, ubi cruciebantur mali et eternaliter damnabantur. Boni
+uero, idest patriarche et prophete omnesque testamentum legaliter conseruarunt, non sentiebant penas inferni,
+quia testimonium mentis eorum erat illis defensio contra penam. Nec inimicus humani generis illos tangere
+audebat, quoniam testamenti quod obseruauerunt erant clipeo premuniti.
+ad om. M
+per lapsum P3: elapsum codd.
+parentis: parentetis Pac
+poterant: poterat T
+beatudine tr. P3
+ante frui
+ubi: et P3
+mali tr. codd. ante eternaliter
+et om. P3
+omnesque: pre add. P per add. M
+conseruarunt: obseruarunt TP3
+sentiebant: enim praem. P3
+nec: et P3
+inimicus tr. P3 post generis
+3
+tangere: non add. P
+[2.4] Cum autem Christus ad inferna descendit, omnes qui testamentum obseruauerant, idest pro quibus allegabat
+testimonium mentis, de inferni uoragine traxit et produxit ad gaudia Paradisi. Nos autem qui post aduentum
+Christi ex aqua et Spiritu Sancto renascimus, si nouum idest euangelia et apostolicas traditiones obseruauerimus,
+ex testimonio mentis prestolari poterimus gaudia sempiterna. Ex hoc enim testamento apostolicus dicit "Hec est
+gloria nostra testimonium conscientie nostre",10 idest in hac poterimus gloriari, si secundum puram conscientiam
+nouum obseruauerimus testamentum.
+testimonium: testium codd.
+produxit: perduxit P3
+paradysi P3
+sancto om. P3
+renascimus: renascimur
+3
+3
+P
+nouum: testamentum add. MP
+et apostolicas: epistolas P 3
+hac: hoc TP3
+obseruauerimus:
+obseruabimus T
+[3.] VNDE DICATVR [TESTAMENTVM].
+[3.1] Testamentum dicitur a testor, testaris uel a testatore. Vel dicitur testamentum a testibus, quia sine testium
+adhibitione fieri non debet. Vel dicitur testamentum a testimonii mente, quia testamentum dicitur esse
+testimonium mentis.
+rubr. om. PTMP3
+testium MP3: testimonium codd.
+quia om. TP
+testamentum: testimonium TP
+
+dicitur--testimonii: testimonium a teste et P3
+
+dicitur--
+
+[4.] QVIBVS LICERE FACEAT TESTAMENTVM.
+[4.1] Quibus autem liceat facere testamentum plenarie non scio. Unde solutionem questionibus pro uectioribus
+reseruo.11 Verumtamen iurisperiti referunt, quod omnes qui libertate fruuntur, possunt facere testamentum, nisi
+fuerint filiifamilias aut pupilli seu serui aut seruili conditione proscripti, uel nisi ob religionis feruorem aliqui
+transitoriis abrenuntiauerint, ut heremite uel monachi seu canonici regulares. 12
+rubr. om. PTMP3
+testamentum: mentis add. M
+omnes om. Mac
+abrenuntiauerint: abrenuntiauerunt M obrenuntiauerunt T
+uel om. P3
+[5.] QVOT SINT TESTAMENTORVM DIVERSITATES.
+2
+
+serui: seruum T
+
+ob om. P3
+
+

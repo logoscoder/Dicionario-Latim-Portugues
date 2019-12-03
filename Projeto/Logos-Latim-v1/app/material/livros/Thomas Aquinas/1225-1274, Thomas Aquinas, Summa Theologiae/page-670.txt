@@ -1,0 +1,61 @@
+Praeterea, quaecumque possunt ab invicem separari, sunt diversa, nihil enim separatur a seipso. Sed aliquando
+actus imperatus separatur ab imperio, praecedit enim quandoque imperium, et non sequitur actus imperatus.
+Ergo alius actus est imperium ab actu imperato.
+AG3
+Praeterea, quaecumque se habent secundum prius et posterius, sunt diversa. Sed imperium naturaliter praecedit
+actum imperatum. Ergo sunt diversa.
+SC
+Sed contra est quod Philosophus dicit, quod ubi est unum propter alterum, ibi est unum tantum.
+Sed actus imperatus non est nisi propter imperium.
+Ergo sunt unum.
+CO
+Respondeo dicendum quod nihil prohibet aliqua esse secundum quid multa, et secundum quid unum.
+Quinimmo omnia multa sunt secundum aliquid unum, ut dionysius dicit, ult. Cap. De div. Nom..
+Est tamen differentia attendenda in hoc, quod quaedam sunt simpliciter multa, et secundum quid unum, quaedam
+vero e converso. Unum autem hoc modo dicitur sicut et ens. Ens autem simpliciter est substantia, sed ens
+secundum quid est accidens, vel etiam ens rationis. Et ideo quaecumque sunt unum secundum substantiam, sunt
+unum simpliciter, et multa secundum quid. Sicut totum in genere substantiae, compositum ex suis partibus vel
+integralibus vel essentialibus, est unum simpliciter, nam totum est ens et substantia simpliciter, partes vero sunt
+entia et substantiae in toto. Quae vero sunt diversa secundum substantiam, et unum secundum accidens, sunt
+diversa simpliciter, et unum secundum quid, sicut multi homines sunt unus populus, et multi lapides sunt unus
+acervus; quae est unitas compositionis, aut ordinis. Similiter etiam multa individua, quae sunt unum genere vel
+specie, sunt simpliciter multa, et secundum quid unum, nam esse unum genere vel specie, est esse unum
+secundum rationem. Sicut autem in genere rerum naturalium, aliquod totum componitur ex materia et forma, ut
+homo ex anima et corpore, qui est unum ens naturale, licet habeat multitudinem partium; ita etiam in actibus
+humanis, actus inferioris potentiae materialiter se habet ad actum superioris, inquantum inferior potentia agit in
+virtute superioris moventis ipsam, sic enim et actus moventis primi formaliter se habet ad actum instrumenti.
+Unde patet quod imperium et actus imperatus sunt unus actus humanus, sicut quoddam totum est unum, sed est
+secundum partes multa.
+RA1
+Ad primum ergo dicendum quod, si essent potentiae diversae ad invicem non ordinatae, actus earum essent
+simpliciter diversi. Sed quando una potentia est movens alteram, tunc actus earum sunt quodammodo unus, nam
+idem est actus moventis et moti, ut dicitur in III physic..
+RA2
+Ad secundum dicendum quod ex hoc quod imperium et actus imperatus possunt ab invicem separari, habetur
+quod sunt multa partibus.
+Nam partes hominis possunt ab invicem separari, quae tamen sunt unum toto.
+RA3
+Ad tertium dicendum quod nihil prohibet in his quae sunt multa partibus et unum toto, unum esse prius alio.
+Sicut anima quodammodo est prius corpore, et cor est prius aliis membris.
+|a5 Articulus 5
+AG1
+Ad quintum sic proceditur. Videtur quod actus voluntatis non sit imperatus.
+Dicit enim Augustinus, in VIII confess., imperat animus ut velit animus, nec tamen facit.
+Velle autem est actus voluntatis.
+Ergo actus voluntatis non imperatur.
+AG2
+Praeterea, ei convenit imperari, cui convenit imperium intelligere.
+Sed voluntatis non est intelligere imperium, differt enim voluntas ab intellectu, cuius est intelligere.
+Ergo actus voluntatis non imperatur.
+AG3
+Praeterea, si aliquis actus voluntatis imperatur, pari ratione omnes imperantur. Sed si omnes actus voluntatis
+imperantur, necesse est in infinitum procedere, quia actus voluntatis praecedit actum imperantis rationis, ut
+dictum est; qui voluntatis actus si iterum imperatur, illud iterum imperium praecedet alius rationis actus, et sic in
+infinitum.
+Hoc autem est inconveniens, quod procedatur in infinitum.
+Non ergo actus voluntatis imperatur.
+SC
+
+670
+
+

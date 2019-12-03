@@ -1,0 +1,57 @@
+nisi ex rebus proprietates in sermonibus apparerent, atque ita non de rebus proprie sed de praedicamentis, id est de ipsis
+rerum significatiuis uocibus in eo quod significantes sunt, seriem disputationis orditur. Cur autem, si de praedicamentis
+disputat, de aequiuocis, uel uniuocis, uel denominatiuis primus illi tractatus est? Idcirco nimirum quod quaedam semper
+a disputantibus praemittuntur, quibus positis facilior de sequentibus possit esse doctrina: ut in geometria, prius termini
+praeponuntur, post theorematum ordo conteritur. Ita quoque hic quidquid ad praedicamentorum [163C] disputationem
+possit esse utile, priusquam ad ipsa predicamenta ueniret, exposuit: quare quoniam quae praedicenda erant explicaui,
+nunc ad ipsius disputationis seriem textumque ueniamus. Quid autem aequiuoca uel uniuoca uel denominatiua utilitatis
+habeant, secundum ipsas singulorum rationes definitionesque tractabitur.
+[01]
+
+DE AEQUIVOCIS
+AEQUIVOCA DICUNTUR QUORUM NOMEN SOLUM COMMUNE EST, SECUNDUM NOMEN VERO
+SUBSTANTIAE RATIO DIVERSA, UT ANIMAL HOMO ET QUOD PINGITUR. HORUM ENIM SOLUM
+NOMEN COMMUNE EST, SECUNDUM NOMEN VERO SUBSTANTIAE RATIO DIVERSA; SI ENIM QUIS
+ASSIGNET QUID EST UTRIQUE EORUM QUO SINT ANIMALIA, PROPRIAM ASSIGNABIT
+UTRIUSQUE RATIONEM.
+Omnis res aut nomine aut definitione monstratur: [163D] namque subiectam rem aut proprio nomine uocamus
+aut definitione quid sit ostendimus. Ut uerbi gratia quamdam substantiam uocamus hominis nomine, et eiusdem
+definitionem damus dicentes esse hominem animal rationale mortale; ergo quoniam res omnis aut definitione aut
+nomine declaratur, ex his duobus, nomine scilicet et definitione, diuersitates quattuor procreantur. Omnes namque res
+aut eodem nomine et eadem definitione iunguntur, ut homo et animal, utraque enim animalia dici possunt, et utraque
+una definitione iunguntur. Est namque animal substantia animata sensibilis, et homo rursus substantia animata
+sensibilis, et haec uocantur uniuoca. Alia uero [164A] quae neque nominibus neque definitionibus coniunguntur: ut
+ignis, lapis, color, et quae propriae substantiae natura discreta sunt, haec autem uocantur diuersiuoca. Alia uero quae
+diuersis nominibus nuncupantur, et uni definitioni designationique subduatur, ut gladius, ensis; haec enim multa sunt
+nomina sed id quod significant una definitione declaratur, et hoc uocatur multiuocum. Alia uero quae nomine quidem
+congruunt, definitionibus discrepant: ut est homo uiuens et homo pictus, nam utrumque uel animalia uel homines
+nuncupantur. Si uero quis uelit picturam hominemque definire, diuersas utrisque definitiones aptabit, et haec uocantur
+aequiuoca. Quare quoniam quid sint aequiuoca dictum est, singulis Aristotelicae definitionis sententias persequamur.
+[164B] AEQUIUOCA, inquit, dicitur res scilicet, quae per se ipsas aequiuocae non sunt, nisi uno nomine
+praedicentur: quare quoniam ut aequiuoca sint, ex communi uocabulo trahunt, recte ait, aequiuoca dicuntur. Non enim
+sunt aequiuoca sed dicuntur. Fit autem non solum in nominibus sed etiam in uerbis aequiuocatio: ut cum dico
+complector te, et complector a te. In quibus significationibus cum unum nomen sit complector, alia tamen faciendi ratio
+est, alia patiendi: atque ideo hic quoque aequiuocatio est: unum enim nomen quod est complector, diuersis faciendi et
+patiendi definitionibus terminatur. In praepositionibus quoque et in coniunctionibus frequenter aequiuocatio reperitur,
+atque ideo quod ait: QUORUM NOMEN SOLUM COMMUNE EST, 'nomen' accipiendum [164C] est omnis rerum
+per uocem significatio, id est omne uocabulum non proprium solum, aut appellatiuum, quod ab illud tantum nomen
+pertinet quod casibus inflecti potest sed ad nomen rerum significationem, qua rebus imposita uocabula praedicamus.
+SOLUM autem duobus modis dicitur: semel cum aliquid unum esse dicimus, ut si dicamus solus est mundus,
+id est unus; alio uero modo cum dicimus ad quamdam ab altero diuisionem, ut si quis dicat solam me habere tunicam,
+id est, non etiam togam, ad diuisionem uidelicet togae. Hic ergo Aristoteles posuit dicens, SOLUM NOMEN
+COMMUNE EST, quasi hoc uoluisset intelligi non etiam definitio, aequiuoca enim iunguntur nomine sed definitione
+dissentiunt.
+COMMUNE quoque multis dicitur modis. Dicitur commune quod in partes diuiditur, et non iam totum
+commune [164D] est sed partes eius propriae singularum, ut domus. Dicitur commune quod id partes non diuiditur sed
+uicissim in usus habentium transit, ut seruus communis uel equus. Dicitur etiam commune quod utendo cuiusque fit
+proprium, post usum uero in commune remittitur, ut est theatrum, nam cum eo utor, meum est, cum inde discedo, in
+commune remisi. Dicitur quoque commune quod ipsum quidem nullis diuisum partibus, totum uno tempore in singulos
+uenit, ut uox uel sermo ad multorum aures uno eodemque tempore totus atque integer peruenit. Secundum hanc igitur
+ultimam communis significationem Aristoteles putat aequiuocis rebus commune esse uocabulum. [165A] Namque in
+homine picto et in homine uiuo, totum in utrisque uocabulum dicitur animalis.
+SECUNDUM NOMEN VERO SUBSTANTIAE RATIO DIVERSA, hoc hac significatione praemittit, ut si
+aliter reddantur definitiones quam secundum nomen, statim tota definitio labet ac titubet. Ac primum de definitionis
+proprietate dicendum est. Illae enim certae definitiones sunt quae conuertuntur, ut si dicas, Quid est homo? animal
+rationale mortale -- uerum est. Quid est animal rationale mortale? homo -- hoc quoque uerum est. At uero si ita quis
+
+

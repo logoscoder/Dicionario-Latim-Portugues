@@ -1,0 +1,63 @@
+13 mecie W411
+14 mecaverint W411
+15 qui V630; W411
+16 quae V630; V1341
+17 relicta W411
+18 adulterum O93
+19 linocinium W411; lenocinium korr. aus locinium V1341
+20 fecerint korr. aus fecerit V630; fecerit V1341
+21 mecaverint W411
+22 coniugunt O93
+23 mecaverint W411
+24 inundinas W411
+25 urariis W411
+26 heresem W411
+27 revertantur W411
+28 XXV korr. aus XXVI V1341
+29 interlinear vel communicatoriis V630
+30 XXVI korr. aus XXVII V1341
+31 hoc fehlt W411
+32 XXVII korr. aus XXVIII V1341
+33 mulierem fehlt W411
+34 XXVIII korr. aus XXVIIII V1341
+35 XXVIIII] XX V1341
+36 in ecclesia fehlt V630
+37 XXX korr. XXXI V1341
+38 mecaverint W411
+39 ut nec] ne W411
+40 subdiacones korr. aus subdiaconeis V1341
+41 XXXI korr. aus XXXIII V1341
+42 lavacro W411
+43 mecati W411
+44 XXXII korr. aus XXXIIII V1341
+45 XXXIII korr. aus XXXIIII V1341
+46 XXXIIII korr. aus XXXV V1341
+47 certi W411
+48 XXXV korr. aus XXXVI V1341
+49 cimiterii W411
+50 pervigilant O93; pervigilent korr. aus pervigilant V630; V1341
+51 XXXVI korr. aus XXXVII V1341
+52 ecclesia korr. aus ecclesiae V1341
+53 XXXVII korr. aus XXXVIII V1341
+54 inergumini W411
+55 baptizandis korr. aus baptizandos V630; baptizandis V1341
+56 XXXVIII korr. aus XXXVIIII V1341
+57 baptidient W411
+58 XXXVIIII korr. aus XL V1341
+59 gentibus V630
+60 XL korr. aus XLI V1341
+61 De W411
+62 Ne de korr. aus Ne V1341
+63 id W411
+64 idolaticium W411
+65 XLI korr. aus XLII V1341
+66 XLII korr. aus XLIII V1341
+67 baptidientur W411
+68 XLIII korr. aus XLIIII V1341
+69 XLIIII korr. aus XLV V1341
+70 qui] qui ad W411; V1341
+71 apostaverint W411; apostataverint korr. aus apostaverint V1341
+72 habens W411
+8
+
+

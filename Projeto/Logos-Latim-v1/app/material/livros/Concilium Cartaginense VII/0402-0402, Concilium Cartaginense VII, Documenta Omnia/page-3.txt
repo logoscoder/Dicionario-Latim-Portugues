@@ -1,0 +1,63 @@
+45 Suffitulensi fehlt W411
+46 hilario W411
+47 orreoceliorum W411
+48 nofato W411
+49 sitifensis B132
+50 Sitifensi et Leone Optensi legatis provinciae Mauritaniae fehlt B132
+51 leonem W411
+52 mauritane W411
+53 sitifensi W411
+54 Ninello Rusuremsi] ninelorum W411
+55 rusurensi V630; B132; V1341
+56 nuguniensi V630; rusmensi W411; Rusgumensi V1341; ruguniensi B132
+57 legatum W411
+58 provinciae] provintiae mauritanie korr. aus provintiae mauritane W411; provinciae Mauritaniae V630; B132;
+V1341
+59 cepariensis W411
+60 Dilectis W411
+61 conquererentur korr. aus conquerentur V1341
+62 et fehlt W411
+63 universali W411
+64 petere W411
+65 hii W411
+66 subscriptiones korr. aus scriptiones V1341
+67 eos fehlt W411
+68 testatur W411
+69 Rubrik fehlt V630; W411
+70 ACCUSATIONEM korr. aus CAUSATIONEM V1341
+71 DEBEANT korr. aus DEBENT B132
+72 Placuitque] PLACUIT QUAE W411; Placuit itaque V1341
+73 admittendi W411
+74 admittantur korr. aus admittentur V630; admittantur W411
+75 expressum korr. aus expressus B132
+76 sit B132
+77 diffinimus B132
+78 ad accusationem] accusationibus W411
+79 Rubrik fehlt V630; W411
+80 proprie W411
+81 accusationem] accusationem publice W411
+82 admittantur vel omnes, quos ad accusanda publica crimina leges publicae non fehlt W411
+83 maculam W411
+84 striones W411
+85 turpidionibus W411
+86 sive V630; V1341
+87 accusandi licentia non neganda] accusari diligentiam non negandam W411
+88 licentiam V1341
+89 Rubrik fehlt V630; W411
+90 QUI] QUI IN V1341
+91 CRIMEN NON korr. aus CRIMEN V1341
+92 quotienscumque clericis korr. aus quotienscumque V1341
+93 multa korr. aus multa multa V1341
+94 egerint V1341; egerat B132
+95 valuerint V1341
+96 iam fehlt V630; B132; V1341
+97 Rubrik fehlt V630; W411
+98 ADMITTENDI SUNT] NON ADMITTENDIS V1341
+99 IIII fehlt V630
+100 admittatur B132
+101 Rubrik fehlt V630; W411
+102 scripolo W411
+103 negandi B132
+3
+
+

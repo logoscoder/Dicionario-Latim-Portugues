@@ -1,0 +1,57 @@
+|#7 Deinde cum dicit: quod autem contingit etc., manifestat quod supposuerat, scilicet quod, altero extremorum
+existente in aliquo toto, alterum non sit in eodem, dicens quod manifestum est ex coordinationibus, scilicet
+praedicamentorum diversorum, quae non commutantur ad invicem. Scilicet quia id quod est in uno
+praedicamento, non est in altero, manifestum est quod contingat b non esse in toto, in quo est a, aut e converso,
+quia videlicet contingit unum terminorum accipi in uno praedicamento, in quo non est alius. Sit enim una
+coordinatio praedicamenti acd, puta praedicamentum substantiae; et alia coordinatio sit bef, puta
+praedicamentum quantitatis. Si ergo nihil eorum, quae sunt in coordinatione acd, de nullo praedicatur eorum,
+quae sunt in coordinatione bef; a autem sit in p, quasi in quodam generalissimo, quod sit principium totius
+primae coordinationis; manifestum est quod b non erit in p, quia sic coordinationes, idest praedicamenta,
+commutarentur. Similiter autem est si b sit in quodam toto, ut puta in e; manifestum est quod a non erit in e.
+|#8 Deinde cum dicit: si vero neutrum etc., ostendit quomodo propositio negativa sit immediata dicens quod, si
+neutrum sit in toto aliquo, scilicet, neque a neque b; et tamen a non sit in b, necesse est quod haec sit immediata,
+nullum b est a. Quia si acciperetur aliquod medium ad syllogizandum eam, oporteret quod alterum ipsorum esset
+in aliquo toto; oporteret enim syllogismum fieri, aut in prima figura, aut in secunda. In tertia enim figura non
+potest concludi universalis negativa, qualem oportet esse propositionem immediatam. Si quidem syllogismus fit
+in prima figura, oportet quod b sit in quodam toto, quia b est minor extremitas, et in prima figura oportet semper
+minorem propositionem esse affirmativam. Non enim fit syllogismus in prima figura ex maiori affirmativa et
+minori negativa. Sed si syllogismus erit in media figura, contingit quodcunque, idest vel a vel b, esse in toto
+quodam; quia in media figura potest esse negativa tam prima quam secunda propositio. Nunquam tamen potest
+esse, neque in prima neque in secunda, utraque propositio negativa.
+Et ideo oportet quod, altera existente affirmativa, alterum extremorum sit in quodam toto.
+Sic igitur patet quod propositio negativa est immediata, quando neutrum terminorum est in quodam toto. Non
+autem potest dici quod quamvis neutrum sit in quodam toto, potest tamen accipi medium ad ipsam
+concludendam, scilicet si accipiatur medium convertibile: quia oportet tale medium esse quod sit prius et notius;
+et hoc est vel genus vel definitio, quae non est sine genere.
+Deinde cum dicit: manifestum igitur est etc., concludendo epilogat quod dictum est. Et litera plana est ex dictis.
+|+27 Lectio 27
+|#1
+Postquam Philosophus determinavit de syllogismo demonstrativo, per quem acquiritur scientia, hic
+determinat de syllogismo, per quem inducitur in nobis ignorantia sive deceptio. Et circa hoc duo facit: primo
+enim ostendit qualis ignorantia per syllogismum induci possit; secundo, ostendit modum, quo talis syllogismus
+procedit; ibi: simplicis quidem igitur opinionis etc..
+|#2 Distinguit ergo primo duplicem ignorantiam; quarum una est secundum negationem; alia est secundum
+dispositionem. Ignorantia quidem secundum negationem est quando homo omnino nihil scit de re. Et haec est
+ignorantia in non attingendo, ut Philosophus dicit in IX metaph.; sicut patet de rustico, qui omnino nihil scit de
+triangulo, an habeat tres angulos aequales duobus rectis. Ignorantia autem secundum dispositionem est quando
+aliquis habet quidem aliquam dispositionem in cognoscendo, sed corruptam: dum scilicet existimat aliquid circa
+rem sed falso; dum vel existimat esse, quod non est, vel non esse quod est. Et haec ignorantia idem est, quod
+error. Prima ergo ignorantia non fit per syllogismum: sed secunda per syllogismum fieri potest.
+Et tunc vocatur deceptio.
+|#3 Haec autem ignorantia sive deceptio potest contingere circa duo. Uno quidem modo circa ea quae sunt
+prima principia et immediata, dum scilicet opinatur quis opposita principiis: quae quidem etsi non possit opinari
+interius in mente, ut supra dictum est, quia non cadunt sub apprehensione; potest tamen eis contradicere
+secundum vocem, et secundum quamdam falsam imaginationem, ut dicitur de quibusdam negantibus principia in
+IV metaphys.. Alio modo circa conclusiones, quae non sunt prima et immediata.
+Et prima quidem ignorantia sive deceptio opponitur cognitioni intellectus. Secunda autem cognitioni scientiae.
+|#4 Utraque autem ignorantia dispositionis, sive sit de his quae sunt prima, sive sit de his quae non sunt prima,
+potest homini provenire dupliciter.
+Uno modo simpliciter, quando scilicet absolute absque aliquo ductu rationis existimat falsum, sive affirmando,
+sive negando. Alio modo, quando inducitur ad falsum existimandum, per aliquam rationem syllogisticam, sicut
+Philosophus dicit in IV metaphys., quod quidam principiis contradicunt, velut rationibus persuasi; alii vero, non
+quasi ratione persuasi, sed propter ineruditionem vel pertinaciam, volentes in omnibus quaerere
+demonstrationem.
+
+40
+
+

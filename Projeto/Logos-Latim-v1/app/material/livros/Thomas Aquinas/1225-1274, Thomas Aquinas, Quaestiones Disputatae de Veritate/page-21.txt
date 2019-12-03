@@ -1,0 +1,63 @@
+Sed dicebat, quod verum est differentia entis; et ita, sicut verum est quod est, ita et falsum. Sed contra, nulla
+differentia divisiva convertitur cum eo cuius est differentia. Sed verum convertitur cum ente, ut supra dictum est.
+Ergo verum non est differentia divisiva entis, ut res aliqua falsa dici possit.
+AG3
+Praeterea, veritas est adaequatio rei et intellectus. Sed omnis res est adaequata intellectui divino, quia nihil potest
+esse in se aliter quam intellectus divinus cognoscit. Ergo omnis res est vera; ergo nulla res est falsa.
+AG4
+Praeterea, omnis res habet veritatem a forma sua; ex hoc enim homo dicitur verus, quod habet veram hominis
+formam. Sed nulla est res quae non habeat aliquam formam, quia omne esse est a forma. Ergo quaelibet res est
+vera; ergo nulla res est falsa.
+AG5
+Praeterea, sicut se habet bonum et malum, ita se habet verum et falsum. Sed quia malum invenitur in rebus,
+malum non substantificatur nisi in bono, ut dionysius et Augustinus dicunt. Ergo si falsitas invenitur in rebus,
+falsitas non substantificabitur nisi in vero; quod non videtur esse possibile, quia sic idem esset verum et falsum,
+quod est impossibile; sicut idem est homo et album, propter hoc quod albedo substantificatur in homine.
+AG6
+Praeterea, Augustinus in Lib. Soliloq.
+Sic obiicit. Si aliqua res nominatur falsa: aut hoc est ex eo quod est simile, aut ex eo quod est dissimile. Si ex eo
+quod est dissimile, nihil est quod falsum dici non possit; nihil enim est quod alicui dissimile non sit. Si ex eo
+quod simile, omnia reclamant, quae ex eo vera sunt quo similia.
+Ergo nullo modo falsitas in rebus inveniri potest.
+SC1
+Sed contra. Augustinus ita definit falsum: falsum est quod ad similitudinem alicuius accommodatum est, et non
+pertingit ad illud cuius similitudinem gerit. Sed omnis creatura gerit similitudinem Dei. Ergo cum nulla creatura
+pertingat ad ipsum Deum per modum identitatis, videtur quod omnis creatura sit falsa.
+SC2
+Praeterea, Augustinus, in libro de vera religione: omne corpus est verum corpus, et falsa unitas. Sed hoc pro
+tanto dicitur, quia imitatur unitatem, et tamen non est unitas. Cum ergo quaelibet creatura, secundum quamlibet
+sui perfectionem, divinam perfectionem imitetur et ab eo nihilominus in infinitum distet; videtur quod quaelibet
+creatura sit falsa.
+SC3
+Praeterea, sicut verum convertitur cum ente, ita et bonum. Sed ex hoc quod bonum convertitur cum ente, non
+prohibetur quin aliqua res inveniatur mala. Ergo nec ex hoc quod verum convertitur cum ente, prohibetur quin
+aliqua res inveniatur falsa.
+SC4
+Praeterea, Anselmus dicit in libro de veritate quod duplex est propositionis veritas; una quia significat quod
+accepit significare, sicut haec propositio: socrates sedet; significat socratem sedere, sive socrates sedeat, sive non
+sedeat; alia, quando significat illud ad quod facta est; est enim ad hoc facta ut significet esse, quando est; et
+secundum hoc proprie dicitur enuntiatio vera.
+Ergo, eadem ratione, quaelibet res dicetur vera, quando implet hoc ad quod est; falsa autem quando non implet.
+Sed omnis res quae deficit a fine suo, non implet illud propter quod est. Cum ergo multae res sint tales, videtur
+quod multae sint falsae.
+CO
+Responsio. Dicendum, quod sicut veritas consistit in adaequatione rei et intellectus, ita falsitas consistit in eorum
+inaequalitate.
+Res autem comparatur ad intellectum divinum et humanum, ut supra dictum est; intellectui autem divino
+comparatur uno modo sicut mensuratum mensurae, quantum ad ea quae in rebus positive dicuntur vel
+inveniuntur, quia omnia huiusmodi ab arte divini intellectus proveniunt; alio modo sicut cognitum ad
+cognoscens; et sic etiam negationes et defectus divino intellectui adaequantur, quia omnia huiusmodi Deus
+cognoscit, quamvis ea non causet.
+Patet ergo quod res qualitercumque se habeat sub quacumque forma existat, vel privatione aut defectu, intellectui
+divino adaequatur.
+Et sic patet quod res quaelibet in comparatione ad intellectum divinum vera est, unde Anselmus dicit in Lib. De
+veritate: est igitur veritas in omnium quae sunt essentia, quia hoc sunt quod in summa veritate sunt.
+Unde per comparationem ad intellectum divinum nulla res potest dici falsa; sed secundum comparationem ad
+intellectum humanum invenitur interdum inaequalitas rei ad intellectum quae quodammodo ex ipsa re causatur;
+res enim notitiam sui facit in anima per ea quae de ipsa exterius apparent, quia cognitio nostra a sensu initium
+sumit, cui per se obiectum sunt sensibiles qualitates; unde et in I de anima dicitur, quod accidentia magnam
+partem conferunt ad cognoscendum quod quid est: et ideo quando in aliqua re apparent sensibiles qualitates
+demonstrantes naturam quae eis non subest, dicitur res illa esse falsa; unde philos. Dicit VI metaph., quod illa
+21
+
+

@@ -1,0 +1,59 @@
+|+d11.q1 Distinctio 11, Quaestio 1
+|a0 Prologus
+Postquam determinavit Magister, qualiter ea quae sunt dignitatis in humana natura, de Christo possunt vel non
+possunt dici; hic determinat quomodo de Deo dici possunt ea quae ad defectum naturae humanae pertinent; et
+dividitur in duas partes: in prima inquirit, utrum nomen creaturae quod de humana natura dicitur, de Christo dici
+possit; in secunda, utrum illi defectus qui consequuntur ipsam, inquantum creatura, vel alio modo ipsi convenire
+possint, dist. 12, ibi: post praedicta quaeritur, utrum homo ille coeperit esse, vel semper fuerit. Prima in tres: in
+prima movet quaestionem; in secunda determinat eam, ibi: ad quod potest dici; in tertia excludit objectiones quae
+contra solutionem fieri possunt, ibi: etsi ergo Christus secundum hominem dicitur creatura, non tamen
+simpliciter praedicandus est creatura. Circa primum duo facit: primo determinat propositam quaestionem;
+secundo confirmat determinationem; et primo quantum ad hoc quod Christus non possit simpliciter dici creatura,
+ibi: qui Christum vel Dei filium, non esse factum vel creatum, in Lib. 1 de Trin. Ostendit; secundo quantum ad
+hoc quod possit dici creatura cum determinatione, scilicet inquantum est homo, ibi: sed addita determinatione
+recte dici potest.
+Hic quaeruntur quatuor: 1 utrum filius Dei sit creatura; 2 utrum Christus, vel iste homo, possit dici creatura; 3
+utrum sit creatura, secundum quod homo; 4 utrum omnia quae humanae naturae conveniunt, de Christo possint
+praedicari.
+|a1 Articulus 1: Utrum filius Dei sit creatura.
+AG1
+Ad primum sic proceditur. Videtur, quod filius Dei sit creatura. Eccli. 24, 14: ab initio et ante saecula creata
+sum: et loquitur de divina sapientia.
+Sed filius Dei est Dei sapientia. Ergo ipse est creatura.
+AG2
+Praeterea, omne quod est subjectum Deo, vel minus eo, est creatura. Sed filius Dei est hujusmodi, ut patet joan.
+14, 28: pater major me est; et 1 corinth. 15, dicitur quod filius erit subjectus patri, qui subjecit ei omnia. Ergo
+filius Dei est creatura.
+AG3
+Praeterea, hoc modo se habent actiones ad invicem, sicut termini actionum. Sed esse, quod est terminus
+creationis, est prius quacumque alia forma ad quam terminantur aliae actiones. Ergo creatio est prior omnibus
+aliis actionibus vel productionibus.
+Sed posterius semper praesupponit prius.
+Cum ergo generatio conveniat filio Dei, secundum quam dicitur natus, videtur quod etiam creatio conveniat ei, ut
+dicatur creatus.
+AG4
+Praeterea, ut probat Avicenna in sua metaph., id cujus essentia est suum esse, est per se necesse esse. Sed quod
+est hujusmodi, non habet esse ab alio: quia hoc quod est necesse esse absolute, non est propter aliquid aliud, ut
+etiam dicit Philosophus in 5 metaph.. Ergo id cujus essentia est suum esse, non habet esse ab alio. Sed filius
+habet esse ab alio. Ergo non est necesse esse; nec sua essentia est suum esse. Ergo est creatura.
+AG5
+Praeterea, omne quod habet causam sui esse, est creatura. Sed filius habet causam sui esse: quia pater est causa
+filii, ut dicit chrysostomus, et omnes Graeci doctores concedunt. Ergo filius est creatura.
+AG6
+Praeterea, omne quod gignitur, ad hoc gignitur ut sit. Sed quod est, non gignitur ad hoc quod sit, quia jam est.
+Ergo omne quod gignitur, antequam gignatur non est. Sed omne quod non fuit et postea est, creatum est. Ergo
+filius, cum genitus sit, creatus est.
+AG7
+Praeterea, omne quod habet aliquid ab alio, in se consideratum non habet illud; et caret illo, si sibi relinquatur.
+Sed filius habet esse ab alio.
+Ergo in se consideratus non habet esse; et si sibi relinquatur, non esset. Sed haec est conditio creaturae,
+secundum quam dicitur vertibilis in nihilum: quia omnia in nihilum reverterentur, nisi ea manus conditoris
+teneret. Ergo filius est creatura.
+SC1
+Sed contra, nulla creatura est consubstantialis creatori. Sed filius est consubstantialis patri, ut dicitur joan. 10, 30:
+ego et pater unum sumus.
+Ergo filius non est creatura.
+SC2
+954
+
+

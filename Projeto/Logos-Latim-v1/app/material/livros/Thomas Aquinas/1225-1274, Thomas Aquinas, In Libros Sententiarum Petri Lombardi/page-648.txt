@@ -1,0 +1,59 @@
+Sequitur tardus aut nullus affectus. Iste affectus est per modum operationis praecedentis habitum virtutis: quia ex
+sola deliberatione rationis procedit: sed affectus perfectus qui delectationem habet est in operatione quae sequitur
+habitum: quia signum oportet habitus accipere fientem in opere delectationem, ut Philosophus dicit.
+
+|+d27.q1 Distinctio 27, Quaestio 1
+|a0 Prologus
+Postquam distinxit gratiam in operantem et cooperantem, hic quaerit ad quod genus reducatur, utrum scilicet sit
+actus vel qualitas mentis; ponens eamdem quaestionem de gratia et virtute: vel quia eadem ratio est de utroque,
+vel forte quia hujusmodi opinionis fuit quod gratia a virtute non differt.
+Dividitur autem in partes duas: in prima movet dubitationem; in secunda determinat eam, ibi: hic videndum est
+quid sit virtus. Ubi etiam secundum quosdam, 27 distinctio incipit. Circa primum duo facit: primo movet
+quaestionis dubitationem, ibi: ut autem hoc aperte insinuari valeat, praemittendum est, tria esse genera bonorum.
+Ubi quamdam contrarietatem ex dictis Augustini colligit. Primo enim ponit verba ejus in quibus dicitur, opus
+virtutis esse bonum usum liberi arbitrii; secundo ibi: quaeritur autem in quibus bonis contineatur liberum
+arbitrium, ponuntur quaedam verba ejusdem, in quibus dicit, bonum usum liberi arbitrii esse virtutem; quae duo
+adversantur: quia opus virtutis non est virtus: unde si usus liberi arbitrii est virtus, non est opus virtutis.
+Hic videndum est, quid sit virtus. Hic determinat dubitationem: et primo determinat secundum unam opinionem,
+quod virtus, sive gratia, non sit actus; secundo determinat secundum aliorum opinionem, quod virtus sit actus,
+ibi: alii vero dicunt virtutes esse bonos usus naturalium potentiarum.
+Prima pars dividitur in duas: in prima ostendit quod virtus seu gratia, non est actus: quo supposito, ostendit
+secundo, quomodo per gratiam quis mereri dicitur; quod dubium ex praedicta determinatione relinquitur, cum
+omne meritum in actu consistat, ibi: cum vero ex gratia dicuntur esse bona merita, et incipere; aut intelligitur
+gratia gratis dans, idest Deus, vel potius gratis data. Circa primum intendit talem rationem. Virtutis causa Deus
+in nobis est, et non nos. Sed cujuslibet actus nostri causa nos sumus. Ergo nullus actus est virtus. Si ergo gratia
+est virtus, vel aliquid simile virtuti, gratia non est actus. Circa hoc aliter hoc modo procedit. Primo probat hanc,
+quod virtutem solus Deus in nobis operetur. Secundo assumit hanc, quod actus quilibet in nobis causatur ex
+libero arbitrio, ibi: si igitur gratia quae sanat et liberat voluntatem hominis, virtus est... Consequitur ut virtus non
+ex libero sit arbitrio. Tertio concludit propositum, ibi: propterea quidam non inerudite tradunt, virtutem esse
+bonam mentis qualitatem, sive formam, quae animam informat. Primum ostendit tripliciter: primo de virtute in
+communi per ejus definitionem; secundo de virtute justitiae per auctoritatem Augustini, ibi: sicut de virtute
+justitiae Augustinus docet; tertio de virtute fidei, quam etiam gratiam nominari dicit, ibi: nam de gratia fidei
+ephesiis scribens apostolus, similiter fidem non ex homine, sed ex Deo tantum esse asserit.
+Cum ergo ex gratia dicuntur esse bona merita, et incipere; aut intelligitur gratia gratis dans, idest Deus, vel potius
+gratia gratis data. Ostenso quod gratia non sit actus, hic ostendit quomodo per eam quis mereri dicitur; et
+dividitur in partes duas: in prima ostendit propositum; in secunda ex dictis colligit dubitationis solutionem, ibi:
+ex praemissis jam innotescere nobis aliquatenus potest, qualiter gratia praeveniens meretur augeri. Circa primum
+tria facit: primo ostendit quod principaliter causa meriti est gratia; secundo ostendit, quomodo per eam quis
+mereri dicitur, inquantum videlicet per ejus actum quis meretur, ibi: cum ergo dicitur fides mereri justificationem
+et vitam aeternam, ex ea ratione dictum accipitur, quia per actum fidei meretur illa; tertio concludit propositum,
+ibi: ex muneribus itaque virtutum boni sumus.
+Alii vero dicunt virtutes esse bonos usus naturalium potentiarum. Hic determinat quaestionem secundum aliam
+opinionem in contrariam partem; et circa hoc tria facit: primo ponit eorum opinionem; secundo ponit probationes
+ipsorum, ibi: quod autem virtutes sint motus mentis, testimoniis sanctorum astruunt; tertio ponit responsiones ad
+illas probationes secundum primam opinionem, ibi: quibus aliis respondentes, praemissa verba Augustini ita
+intelligenda fore inquiunt.
+Hic quaeruntur sex: 1 in quo genere sit virtus, utrum scilicet in genere actus, vel habitus; 2 de definitione virtutis
+quam Augustinus in littera ponit; 3 utrum contingat secundum actum virtutis et gratiae ex condigno vitam
+aeternam mereri; 4 utrum possit aliquis sibi mereri gratiam; 5 utrum possit aliquis sibi mereri gratiae
+augmentum; 6 utrum unus possit alii primam gratiam mereri.
+|a1 Articulus 1: Utrum virtus sit habitus.
+AG1
+Ad primum sic proceditur. Videtur quod virtus non sit habitus. Ultimum enim rei non ponitur in alio genere
+quam res ipsa. Sed, ut in 1 caeli et mund. Philosophus dicit, virtus est ultimum in re de potentia. Ergo non est in
+genere habitus, sed in genere potentiae.
+AG2
+
+648
+
+

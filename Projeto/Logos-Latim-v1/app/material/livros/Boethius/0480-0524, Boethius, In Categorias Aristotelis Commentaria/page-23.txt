@@ -1,0 +1,61 @@
+Post substantiae tractatum cur de quantitate potius ac non de qualitate proposuerit haec causa est, quod omnia
+quaecumque sunt, simul atque sunt in numerum cadunt. Omnis enim res aut est una aut plures: unum uero uel plures
+quantitatis scientia colliguntur. Sed non omnis res simul atque est aliquam accipit [202B] qualitatem, ipsa enim materia
+sub quantitatis quidem principium cadit, quod una est sub qualitatem uero minime; ipsa enim cunctis est iuterim
+qualitatibus absoluta, superaddita uero forma quadam afffcitur qualitate: per se autem numero quidem una est, qualitate
+uero nulla; quocirca si res omnis simul atque est cadit in numerum, non autem omnis res mox ut est statim suscipit
+qualitatem, recte prius de quantitate proposuit. Est quoque alia causa cur prius de quantitatis ratione pertractet. Omne
+enim corpus ut sit, tribus dimensionibus constat, longitudine, latitudine, altitudine: ut uero sit corpus cum qualitate,
+tunc erit aut album, aut nigrum, aut quodlibet aliud; et quoniam prius est esse corpus, post uero esse corpus album,
+prius erit corpori tribus constare dimensionibus [202C] quam esse album. Sed tres dimensiones et numero et
+continuatione spatii quantitates sunt. Longitudo enim et latitudo et altitudo in quantitatibus numerantur, album uero
+qualitatis est: quocirca si prius est ex tribus constare dimensionibus quam esse album, prior erit quantitas qualitate,
+quocirca recte est tractatus de quantitate propositus. Item alia causa, quod quantitas plura habet substantiae consimilia:
+nam quemadmodum substantiae nihil est contrarium, et substantia non recipit magis et minus, sic etiam quantitas:
+quantitati enim nihil est contrarium, nec quantitas recipit magis et minus, ut paulo post docebimus; qualitas uero et
+contraria suscipit, ut album et nigrum, et magis et minus, ut candidius et nigrius, et candidissimum et nigerrimum; id
+enim [202D] sumit intentionem quod potest sumere diminutionem. Quod si substantiae similior quantitas est recte post
+substantiam de quantitate proposuit. Quantitatis autem dicit esse differentias duas: quantitatis namque alia discreta est
+disgregata, alia uero continua. Post hanc rursus diuisionem alio modo partitus est quantitatem: dicit enim quantitatis
+aliam quae constat ex habentibus positionem ad se inuicem suis partibus; aliam uero ex non habentibus positionem.
+Unam uero rem diuerse posse diuidi manifestum est, hoc modo, ut si quis diuidat animal dicens: Animalium alia sunt
+rationabilia, alia irrationabilia; et rursus eamdem ipsam rem alia modo partiamur, ut est, [203A]
+Animalium alia sunt gressibilia, alia non gressibilia, eorumque animalium rursus, alia sunt carnibus uescentia,
+alia herbis, alia seminibus. Hic ergo una eademque res diuerso ordine modoque diuisa est. Ita igitur Aristoteles unum
+idemque quantitatis nomen diuerse partitus est in ea scilicet quae discreta essent, et quae continua, et in ea quae
+haberent positionem partium, et quae non haberent. Sed de secunda diuisione posterius dicendum est, nunc prima
+tractetur.
+Ait enim de prima diuisione hoc modo: Quantitatis aliud est continuum, aliud disgregatum. Disgregatum est
+cuius partes nullo communi terrrino coniunguntur. Continuum uero cuius partes habent aliquem communem terminum,
+ad quem uideantur esse coniunctae. Discretarum namque quantitatum ipse exempla ponit et species. Oratio enim
+discreta est quantitas, eodemque [203B] modo et numerus, et numerum esse quantitatem nemo dubitat. Discreta uero
+est, quoniam denarius numerus cum constet ex quinque et quinque, quae res quinarium ad quinarium. iungat ut faciat
+denarii corpus, non potest inueniri. Nam si tres et septem quis dixerit, quo communi termino tres et septem
+coniungantur, ut denarii reddatur unum integrum corpus, nullus inueniet, atque hoc quidem in omni numero speculari
+licet. Nullus enim numerus ita partes habet, ut eas aliquis communis terminus iungat sed semper partes ipsae disiunctae
+atque discretae sunt, et huiusmodi uocatur quantitas discreta. Numerus ergo discreta quantitas est, orationem uero
+quantitatem esse dicit, idcirco quod omnis oratio [203C] ex nomine constet et uerbo sed haec syllabis constant.
+Omnis autem syllaba uel longa uel breuis est. Longum uero uel breue sine ulla dubitatione quantitas est,
+quocirca quod ex quantitatibus constat, id quantitatem esse quis dubitet? At uero oratio ipsa cum sit quantitas, illa
+quoque discreta est. Cum enim dico Cicero, quod orationis est pars, partes huius nominis ci et ce et ro nullo communi
+termino coniunguntur. Non enim reperiemus quo communi termino iungatur ci syllaba ad ce syllabam, uel rursus ce
+syllaba ad ro syllabam. Quocirca etiam oratio quantitas uidetur esse discreta. Sed si quis fortasse dicat hunc eorum esse
+communem terminum, quo ita iunguntur, ut aliquid significent, ut in hoc ipso nomine Cicero communis syllabarum
+terminus ipsa significatio sit. Si [203D] enim ce syllaba, quae media est, prima ponatur, et ro, quae ultima est, media, et
+ci, quae plima est, ultima, nomen quod erat antea, id est Cicero, transuersis per loca syllabis nihil significabit. Illi
+dicendum est quoniam quaecumque in quadam oratione proferuntur, siue significent, siue nihil significent, syllabarum
+communis terminus nullus est. Nam si quis dicat, permutatis syllabis, quod est Cicero, ceroci significationem quidem
+amisit sed aequaliter syllabae ad nullum communem terminum coniunguntur. Quod si quis hunc quidem ipsum
+sermonem aliquid significare posuerit, ut hoc ipsum Cicero aliquid significat, significatio quidem addita est , nullus
+tamen syllabis terminus appositus. Quare siue significet, siue nihil significet [204A] nomen, partes eius discretae atque
+disiuncta, sunt, et nullo communi termino con iunguntur; quoniam uero Graeca oratione *logos* dicitur etiam animi
+cogitatio, et intra se ratiocinatio, *logos* quoque et oratio dicitur, nequis Aristotelem cum diceret *logon*, id est
+orationem, quantitatem esse discretam, de eo putaret dicere quem quisque *logon*, id est rationem, in propria
+cogitatione disponeret, hoc addidi. Dico autem illam quae fit cum uoce orationem. Apud Romanam namque linguam
+discreta sunt uocabula orationis atque rationis. Graeca uero oratio utriusque uocabulum et rationis et orationis *logon*
+appellat. Quare ne quid mendax translatio culparetur, idcirco hoc quoque addidi: Dico uero illam quae fit cum uoce
+orationem, apud Latinos enim nulla alia oratio est [204B] praeter hanc solam quae fit cum uoce orationem. Apud
+Graecos uero est alius *logos* qui fit in animi cogitatione. Quocirca nequid deesset, etiam hoc quod Latinam orationem
+minus esset conueniens, transtuli. Quod quare ita fecerim, hac expositione patefeci, atque haec quidem de discreta
+
+

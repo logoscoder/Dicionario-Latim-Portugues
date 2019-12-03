@@ -1,0 +1,60 @@
+pater
+avus
+proavus
+frater avi qui est
+patruus magnus
+filia
+eius
+nepos eiusdem
+ex filia
+item neptis
+pater
+avus
+proavia
+frater avi qui est
+patruus magnus
+filia
+eius
+nepos eiusdem
+ex filia
+item neptis
+totidem et eadem ratione exponuntur matris nomine anteposito, id est ut avi materni fratris nepotes et neptes
+computemus. Item in amita magna, id est avi sororis, nepotes neptesque enumerabimus: idemque in avunculo magno,
+id est aviae fratris: eadem ratione in materterae magnae, id est aviae sororis: ex quibus universus numerus completur
+sexaginta quattuor. Hi omnes proavi aut proaviae eius, de cuius cognatione quaeritur, pronepotes et proneptes, eiusdem
+avi aviaeve fratris sororisve nepotes neptesve: et contra horum eiusdem avus avia patruus magnus amita magna,
+avunculus magnus matertera magna: erunt autem pater materve eiusdem fratresque et sorores utrius eorum propii
+[proprii] sobrini: ipse his sobrinus est et invicem huic illi sobrini. Patrui pronepos patrui proneptis: continent personas
+octo: nam utriusque sexus fiunt sedecim sic:
+pater
+avus
+patruus
+filius
+patrui
+nepos eiusdem
+ex filio
+pronepos eiusdem
+ex nepote filio nato
+item
+proneptis
+pater
+avia
+patruus
+filius
+patrui
+nepos eiusdem
+ex filio
+pronepos ex nepote
+filio nato
+item
+proneptis
+pater
+avus
+patruus
+filia
+patrui
+nepos eiusdem
+ex filia
+pronepos ex nepote
+
+

@@ -1,0 +1,58 @@
+sicut posuit Anaximander, et etiam empedocles. Non est enim rationabile quod aliquis faciat generationem
+mundi ex rebus prius distantibus et motis.
+Sicut enim motus est actus quidam, ita etiam discretio seu distantia rerum est per proprias formas, secundum
+quod res sunt in actu (secundum enim quod sunt in potentia res, non discernuntur); et quia generatio proprie fit
+ex eo quod est in potentia, ideo non est rationabile generare mundum ex rebus discretis et motis. Et inde est quod
+empedocles in prima generatione mundi praetermisit amicitiam, ad quam pertinet congregare disgregata. Non
+enim poterat empedocles tradere constitutionem caeli, idest mundi, ita quod constitueret ipsum ex rebus prius
+segregatis, faciendo congregationem prius disgregatorum, per amicitiam: sic enim sequeretur quod mundus esset
+constitutus ex elementis prius disgregatis, quod est contra praedicta. Unde, quia in constitutione mundi utebatur
+solum lite, ad quam pertinet disgregare coniuncta, consequens est quod mundus, secundum ipsum, fieret ex
+aliquo uno et congregato ex multis.
+Ultimo autem epilogando concludit manifestum esse ex praedictis quod est quidam naturalis motus
+uniuscuiusque corporis, quo non movetur per violentiam, neque praeter naturam.
+|+7 Lectio 7
+|#1 Postquam Philosophus ostendit quod corpora naturalia habent motus naturales, et improbavit positiones
+Philosophorum qui circa hoc erraverunt, hic ostendit quod corpora quae moventur naturaliter motu recto, habent
+gravitatem et levitatem: principia enim motus naturalis in dictis corporibus attenduntur secundum gravitatem et
+levitatem.
+Primo ergo proponit quod intendit; dicens manifestum esse ex his quae sequuntur, quod quaedam corpora, quae
+scilicet moventur naturaliter motu recto, necesse est habere gravitatem et levitatem, quibus inclinantur ad propria
+loca.
+Dicit autem quaedam, ad differentiam eorum quae circulariter moventur.
+|#2 Secundo ibi: moveri quidem enim etc., inducit probationem ad propositum, dicens: hic dicimus communiter
+quod necesse est corpora naturalia moveri: ex hoc enim dicuntur naturalia, quod habent in seipsis principium
+motus, ut ex II physic. Apparet. Sed si illud quod movetur non habet naturalem inclinationem, qua tendit in
+aliquem locum determinatum, impossibile est quod moveatur vel ad medium, quod fit per inclinationem
+gravitatis, vel a medio, quod fit per inclinationem levitatis. Ergo necesse est corpora quae moventur motu recto,
+habere gravitatem et levitatem.
+|#3 Tertio ibi: sit enim quod quidem in quo etc., probat quod supposuerat; scilicet quod, si praedicta corpora
+non habeant gravitatem et levitatem, quod non moverentur. Et primo ostendit quod non moverentur naturaliter;
+secundo ostendit quod non moverentur per violentiam, ibi: adhuc autem si erit aliquod corpus etc..
+Dicit ergo primo quod, si aliquod inferiorum corporum non habet gravitatem vel levitatem, sint duo corpora,
+quorum unum sit a, non habens gravitatem, aliud autem sit b, habens gravitatem.
+Moveatur autem a, quod est corpus non grave, aliquo determinatio tempore, puta per spatium unius horae, per
+magnitudinem quae est gd, motu scilicet qui est ad medium. Corpus autem quod est b, gravitatem habens, feretur
+in eodem tempore, eadem specie motus, per maiorem magnitudinem, quae sit ge: necesse est enim quod corpus
+habens gravitatem, feratur aequali tempore per maius spatium quam corpus non habens gravitatem; sicut et
+corpus gravius velocius fertur deorsum quam corpus minus grave. Dividatur autem corpus b, habens gravitatem,
+secundum proportionem quae est ge ad gd, ut scilicet se habeat totum b ad partem eius, puta quae sit c, sicut se
+habet totum ge ad gd: nihil enim prohibet talem divisionem fieri corporis b, cum omne corpus finitum possit
+dividi secundum quamcumque proportionem datam. Procedatur ergo sic.
+Sicut se habet ge ad gd, ita se habet b ad partem eius; ergo permutatim, sicut se habet totum b ad totum ge, ita se
+habet pars divisa ad gd. Si ergo totum b fertur tempore determinato per totum ge, necesse est quod pars ipsius b
+in eodem tempore feratur per magnitudinem gd. In eodem autem tempore corpus a, non habens gravitatem,
+ferebatur super eandem magnitudinem. Ergo sequetur quod corpus habens gravitatem, et corpus non habens
+gravitatem, in aequali tempore ferantur super eandem magnitudinem. Et eadem ratio est, si alterum corpus
+ponatur habere levitatem. Sic ergo manifestum est quod sequitur inconveniens, si aliquod inferiorum corporum
+ponatur non habere gravitatem neque levitatem.
+|#4 Deinde cum dicit: adhuc autem si erit aliquod corpus etc., ostendit quod, si sit aliquod inferiorum corporum
+non habens gravitatem vel levitatem, quod non possit per violentiam moveri. Et dicit: ex quo ostensum est per
+rationem praedictam quod corpus carens gravitate vel levitate non potest moveri naturaliter motu recto, necesse
+est, si movetur, quod moveatur per violentiam: nam omnis motus huiusmodi corporum aut est naturalis aut
+violentus. Sed nec per violentiam moveri poterit: quia si moveatur per violentiam, necesse est quod sit motus
+infinitus, idest infinitae velocitatis; quod est impossibile. Et quod hoc sequatur, probat, praemisso hoc principio,
+quod si aliqua virtus, idest violentia, sit movens aliquod corpus, minus et levius ab eadem virtute, idest ab eadem
+134
+
+

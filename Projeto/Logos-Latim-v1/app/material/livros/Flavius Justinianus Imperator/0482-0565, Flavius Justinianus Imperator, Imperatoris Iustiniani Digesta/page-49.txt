@@ -1,0 +1,49 @@
+Si eadem provincia postea divisa sub duobus praesidibus constituta est, velut Germania, Mysia, ex altera ortus in altera
+adsidebit nec videtur in sua provincia adsedisse.
+1.22.4
+Papinianus libro quarto responsorum
+Diem functo legato Caesaris salarium comitibus residui temporis, quod a legatis praestitutum est, debetur, modo si non
+postea comites cum aliis eodem tempore fuerunt. Diversum in eo servatur, qui successorem ante tempus accepit.
+1.22.5
+Paulus libro primo sententiarum
+Consiliari eo tempore quo adsidet negotia tractare in suum quidem auditorium nullo modo concessum est, in alienum
+autem non prohibetur.
+1.22.6
+Papinianus libro primo responsorum
+In consilium curatoris rei publicae vir eiusdem civitatis adsidere non prohibetur, quia publico salario non fruitur.
+
+DOMINI NOSTRI SACRATISSIMI PRINCIPIS
+IUSTINIANI
+IURIS ENUCLEATI EX OMNI VETERE IURE COLLECTI
+DIGESTORUM SEU PANDECTARUM
+liber secundus
+
+( Th. Mommsen & P. Krueger, Corpus Iuris Civilis, I, Berlin, 1954 ).
+
+* 2.1.0. De iurisdictione.
+* 2.2.0. Quod quisque iuris in alterum statuerit, ut ipse eodem iure utatur.
+* 2.3.0. Si quis ius dicenti non obtemperaverit.
+* 2.4.0. De in ius vocando.
+* 2.5.0. Si quis in ius vocatus non ierit sive quis eum vocaverit, quem ex edicto non debuerit.
+* 2.6.0. In ius vocati ut eant aut satis vel cautum dent.
+* 2.7.0. Ne quis eum qui in ius vocabitur vi eximat.
+* 2.8.0. Qui satisdare cogantur vel iurato promittant vel suae promissioni committantur.
+* 2.9.0. Si ex noxali causa agatur, quemadmodum caveatur.
+* 2.10.0. De eo per quem factum erit quominus quis in iudicio sistat.
+* 2.11.0. Si quis cautionibus in iudicio sistendi causa factis non obtemperaverit.
+* 2.12.0. De feriis et dilationibus et diversis temporibus.
+* 2.13.0. De edendo.
+* 2.14.0. De pactis.
+* 2.15.0. De transactionibus.
+2.1.0. De iurisdictione.
+2.1.1
+Ulpianus libro primo regularum
+Ius dicentis officium latissimum est: nam et bonorum possessionem dare potest et in possessionem mittere, pupillis non
+habentibus tutores constituere, iudices litigantibus dare.
+2.1.2
+Iavolenus libro sexto ex Cassio
+Cui iurisdictio data est, ea quoque concessa esse videntur, sine quibus iurisdictio explicari non potuit.
+2.1.3
+Ulpianus libro secundo de officio questoris
+
+

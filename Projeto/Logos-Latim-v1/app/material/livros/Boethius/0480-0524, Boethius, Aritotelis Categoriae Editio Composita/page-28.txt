@@ -1,0 +1,62 @@
+Sed huic supra iam dictum est, non oportere omnia quaecumque quolibet modo priora uel posteriora sunt a
+genere communi secernere (alioquin sic primae et secundae substantiae sub uno genere substantiae non ponentur, sic
+etiam simplices et compositae orationes, quarum simplices propositiones primae sunt, posteriores compositae, uno
+genere non continebuntur) sed illa sola putanda sunt sub eodem genere poni non posse, quae ad substantiam priora uel
+posteriora esse cognoscimus, quae uero ad suum esse aequalia sunt nihil prohibet sub eodem genere utraque constitui.
+Ergo quoniam affirmationi et negationi hoc est esse, quod /99/ in his ueritas et falsitas reperitur, hoc autem est
+enuntiatio, in qua scilicet ueritatis et falsitatis constituta sit ratio: quoniam ad id quod falsi uerique significatiuae sunt
+neque affirmatio prior neque negatio posterior est, nullus dubitat a quo aequaliter participant affirmatio et negatio
+eidem generi posse supponi. Sed affirmatio atque negatio aequaliter enuntiatione participant, siquidem enuntiatio ueri
+falsique utitur significatione et affirmatio et negatio ueritatem atque mendacium aequaliter monstrat: enuntiatio igitur
+affirmationis et negationis genus esse ponenda est. Quod ergo ait: EST AUTEM <UNA> PRIMA ORATIO
+ENUNTIATIVA AFFIRMATIO, DEINDE NEGATIO; ALIAE VERO CONIUNCTIONE UNAE, ita intellegendum
+est, quod affirmationem primam, secundam uero negationem, cui addidit deinde, in prolatione posuerit. Prior enim est
+affirmatio, posterior negatio, in prolatione dumtaxat, non secundum ueri falsique designationem. Quocirca nihil
+prohibet et priorem putari affirmationem negatione et tamen utrasque sub uno genere id est enuntiatione constitui. Sed
+quod secutus est: NECESSE EST AUTEM OMNEM ORATIONEM ENUNTIATIVAM EX VERBO ESSE VEL
+CASU, huiusmodi est: uolens Aristoteles distribuere dictionem, affirmationem, negationem, enuntiationem,
+contradictionem sensum confusa breuitate permiscuit et nebulis obscuritatis implicuit.
+Oportuit namque prius quid esset dictio, post autem quid affirmatio et negatio et rursus enuntiatio et
+contradictio constituere. Sed haec interim praetermittit, nunc uero quemadmodum constituatur enuntiatio docet dicens,
+quod omnis enuntiatio constet in uerbo. Quoniam simplex dictio est nomen /100/ aut uerbum, omnis enuntiatio simplex
+huiusmodi est, ut semper quidem uel uertum uel aliquid quod idem ualeat, tamquam si diceretur uerbum uel casum
+uerbi, in praedicatione retineat sed non semper subiectus terminus fit ex nomine, semper tamen praedicatus ex uerbo.
+Sit enim huiusmodi propositio, quae est:
+Sol oritur
+in hac ergo propositione quod dico "sol" subiectum est, quod uero dico "oritur" praedicatur. Et utrasque has
+dictiones terminos uoco sed quodcumque prius dicitur in simplici enuntiatione, illud subiectum est, ut in hac "sol",
+quod uero posterius, illud praedicatur, ut in eadem "oritur".
+Ergo necesse est omnem enuntiatiuam orationem, si simplex sit, uerbum in praedicatione retinere, ut in eadem
+ipsa cum dico "Sol oritur", "oritur" uerbum est -- uel quod idem ualeat, ut est:
+Socrates non ambulat
+"Non ambulat" enim infinitum uerbum est et uerbum quidem non est sed eandem uim retinet quam uerbum.
+Casus etiam uerbi ponitur saepe, ut
+Socrates fuit
+Subiectus uero terminus non semper consistit in nomine. Potest enim et infinitum nomen habere, ut cum dico:
+Non homo ambulat
+potest etiam uerbum, ut cum dico:
+Ambulare mouere est
+Ergo (ut arbitror) plene monstratum est non semper subiectum nomen esse, semper autem praedicatum in solo
+uerbo consistere. Approbans ergo uerba semper in praedicationibus poni hoc addidit: nisi enim aut est aut fuit aut
+aliquid huiusmodi sit additum aut quod idem ualeat apponatur, enuntiatio non fit. Cum enim dico:
+Homo est
+'est' uerbum in praedicatione proposui, sin uero dixero:
+Homo uiuit
+idem ualet tamquam si dicam homo uiuus est.
+Ergo non posse sine uerbo affirmationem negationemue constitui /101/
+docuit per id quod ait ETENIM HOMINIS RATIO, SI NON AUT EST AUT ERIT AUT FUIT AUT
+ALIQUID HUIUSMODI ADDATUR, NONDUM EST ORATIO ENUNTIATIVA.
+Hoc enim dicere uidetur: definitio hominis est uerbi gratia animal gressibile bipes et haec est ratio humanae
+substantiae. Ergo haec ratio, nisi ei aut est aut erit aut fuit aut quodlibet uerbum (sicut supra dictum est) apponatur,
+enuntiatio non fit; neque enim uerum neque falsum est. Si enim dicam tantum animal gressibile bipes, nulla me ueritas
+mendaciumue consequitur. Sin autem dixero animal gressibile bipes est uel non est, affirmatio mox negatioque
+conficitur, quas enuntiationes esse quis dubitet? Sed cum de simplicibus enuntiationibus loqueretur, ait hominis
+rationem id est definitionem non esse enuntiationem, nisi ei aut est aut erit aut huiusmodi aliquid apponatur, approbans
+scilicet unam esse et non multiplicem orationem definitionis humanae, cui si est aut erit aut fuit adderetur,
+enuntiationem simplicem faceret.
+Cur uero una sit talis oratio causa quaeritur. Neque enim ex solis duobus terminis constat id quod dicimus
+animal gressibile bipes, ut quae nomina plura sunt. Quare ipse sibi institit et de sua propositione rationem quaesiuit,
+quam nunc dicere supersedit. Ait enim: QUARE AUTEM UNUM QUIDDAM EST ET NON MULTA ANIMAL
+GRESSIBILE BIPES, NEQUE ENIM EO QUOD PROPINQUE DICUNTUR UNUM ERIT, EST ALTERIUS HOC
+
+

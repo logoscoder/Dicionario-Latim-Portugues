@@ -1,0 +1,66 @@
+principio ipsa conclusio superius demonstrata. Ostensum est enim supra,
+quod mobile finitum non potest pertransire spatium infinitum in tempore
+finito: unde manifestum est quod eadem ratione nec mobile infinitum potest
+pertransire spatium finitum in tempore finito.
+Quia si infinitum mobile pertransit spatium finitum, sequitur quod etiam
+finitum mobile pertranseat spatium infinitum: quia cum tam mobile quam
+spatium sit quantum, datis duobus quantis, nihil differt quod eorum
+moveatur, et quod quiescat. Hoc enim habebitur pro spatio, quod quiescit;
+et illud pro mobili, quod movetur.
+Manifestum est enim quod quodcumque ponatur moveri, sequitur quod finitum
+pertranseat infinitum. Moveatur enim infinitum quod est a, et sit aliqua
+pars eius finita quae est cd. Quando totum movetur, haec pars finita erit
+secundum aliquod signum spatii, quod sit b; et continuato motu, iterum alia
+pars infiniti mobilis fiet iuxta illud spatium, et sic semper. Unde sicut
+mobile pertransit spatium, ita spatium quodammodo pertransit mobile,
+inquantum successive alternantur diversae partes mobilis iuxta spatium.
+Unde patet quod simul accidit infinitum mobile moveri per finitum spatium,
+et finitum transire infinitum. Non enim aliter est possibile quod infinitum
+moveatur per spatium finitum, quam quod finitum pertranseat infinitum: aut
+ita quod finitum feratur per infinitum, sicut quando mobile est finitum et
+spatium infinitum; aut ita quod saltem finitum metiatur infinitum, sicut
+cum spatium est finitum et mobile infinitum. Tunc enim, licet finitum non
+feratur per infinitum, tamen finitum mensurat infinitum, inquantum finitum
+spatium fit iuxta singulas partes mobilis infiniti. Quia ergo hoc est
+impossibile, sequitur quod infinitum mobile non pertransit spatium finitum
+in tempore finito.
+|#8
+Deinde cum dicit: at vero neque infinitum etc., ostendit quod non
+potest esse mobile infinitum, spatio existente infinito et tempore finito.
+Et hoc est quod dicit, quod infinitum mobile non pertransit infinitum
+spatium in tempore finito. In omni enim infinito est aliquid finitum: si
+igitur mobile infinitum pertranseat spatium infinitum in tempore finito,
+sequitur quod pertranseat spatium finitum in tempore finito; quod est
+contra praeostensa.
+|#9
+Deinde cum dicit: amplius autem etc., dicit quod eadem demonstratio
+erit, si accipiatur tempus infinitum et spatium finitum. Quia si pertransit
+infinitum mobile finitum spatium in tempore infinito, sequitur quod in
+aliqua parte temporis finiti pertranseat aliquam partem spatii: et ita
+infinitum pertransibit finitum in tempore finito; quod est contra
+praeostensa.
+|#10
+Deinde cum dicit: quoniam autem neque finitum etc., ostendit quod
+finitum et infinitum similiter invenitur in motu, sicut et in praemissis.
+Et dicit quod quia finitum mobile non pertransit spatium infinitum, neque
+infinitum mobile finitum spatium, neque infinitum mobile infinitum spatium
+in tempore finito; sequitur ex his quod non possit esse motus infinitus in
+tempore finito. Quantitas enim motus accipitur secundum quantitatem spatii:
+unde non differt motum dicere infinitum aut magnitudinem. Necesse est enim,
+si unum eorum fuerit infinitum, et alterum infinitum esse, quia non potest
+esse aliqua pars loci mutationis extra locum.
+|+10
+
+Lectio 10
+
+|#1
+Postquam Philosophus determinavit de iis quae pertinent ad divisionem
+motus, hic determinat de iis quae pertinent ad divisionem quietis. Et quia
+statio est generatio quietis, ut in quinto dictum est, primo determinat ea
+quae pertinent ad stationem; secundo ea quae pertinent ad quietem, ibi:
+neque igitur quiescens etc..
+Circa primum tria facit: primo ostendit quod omne quod stat, movetur;
+secundo quod omne quod stat, stat in tempore, ibi: hoc autem demonstrato
+239
+
+

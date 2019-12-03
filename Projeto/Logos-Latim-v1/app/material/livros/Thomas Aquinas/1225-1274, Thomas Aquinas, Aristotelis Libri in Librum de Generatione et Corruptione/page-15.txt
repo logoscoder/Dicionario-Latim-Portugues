@@ -1,0 +1,60 @@
+autem exemplum non procedit secundum sententiam Aristotelis, qui existimavit utrumque esse ens: et ideo
+subiungit quod nihil differt ad propositum talia exempla vel alia supponere. Quaerimus enim, inducendo
+exempla, modum, sed non subiectum; non curantes scilicet utrum sic se habeat in his terminis, vel in
+quibuscumque aliis.
+Et propter hoc etiam in libris logicae utitur exemplis secundum opiniones aliorum Philosophorum; quae non sunt
+inducenda quasi sint verba Aristotelis. Hoc igitur ex praemissis est accipiendum, quod corruptio simpliciter est,
+quae est via in non ens simpliciter; generatio simpliciter, quae est via in simpliciter ens. Determinetur ergo hoc
+quod dictum est de generatione et corruptione simpliciter vel secundum quid, sive in igne et terra, sive in
+quibuslibet aliis terminis, dummodo ita se habeant quod unum sit ens et aliud non ens; sicut si dicamus vivum et
+mortuum, vel aliquid aliud huiusmodi. Concludit igitur quod uno modo differt simpliciter generari et corrumpi et
+non simpliciter, sicut dictum est.
+|#3 Sed videtur quod haec differentia non sit conveniens.
+Via enim quae est in simpliciter non ens, quam dicit esse corruptionem simpliciter, non potest intelligi in id quod
+est omnino nihil: quia omnis naturalis corruptio fit per resolutionem in aliquam materiam. Similiter etiam non
+potest intelligi non ens simpliciter, quod sit privatio pura sine forma: quia materia nunquam denudatur ab omni
+forma, ita quod sit sub sola privatione. Ergo oportet per non ens in quod tendit corruptio simplex, intelligi
+privationem quae est adiuncta alicui formae. Cuilibet autem formae naturali quae est in generabilibus et
+corruptibilibus, adiungitur privatio: non ergo unum dicetur magis generari vel corrumpi simpliciter, in his quae
+adinvicem generantur et corrumpuntur, quam aliud.
+Dicendum est ergo quod non ens simpliciter intelligitur hic materia cum privatione adiuncta alicui formae. Sed
+duplex est forma: una quidem perfecta, quae complet speciem alicuius rei naturalis, sicut forma ignis vel aquae
+aut hominis aut plantae; alia autem est forma incompleta, quae neque perficit aliquam speciem naturalem, neque
+est finis intentionis naturae, sed se habet in via generationis vel corruptionis. Manifestum est enim in generatione
+compositorum, puta animalis, quod inter principium generationis, quod est semen, et ultimam formam animalis
+completi, sunt multae generationes mediae, ut Avicenna dicit in sua sufficientia; quas necesse est terminari ad
+aliquas formas, quarum nulla facit ens completum secundum speciem, sed ens incompletum, quod est via ad
+speciem aliquam. Similiter etiam ex parte corruptionis sunt multae formae mediae, quae sunt formae
+incompletae: non enim, separata anima, corpus animalis statim resolvitur in elementa; sed hoc fit per multas
+corruptiones medias, succedentibus sibi in materia multis formis imperfectis, sicut est forma corporis mortui, et
+postmodum putrefacti, et sic inde. Quando igitur per corruptionem pervenitur in privationem cui adiungitur talis
+forma in materia, est corruptio simpliciter: quando vero ex privatione cui adiungitur forma imperfecta, quae erat
+via generationis, pervenitur ad formam completam, est generatio simpliciter.
+|#4 Deinde cum dicit: alio autem modo etc., ponit secundum modum. Et dicit quod alio modo erit quaedam
+generatio et non simpliciter, qualiscumque materia erit, idest etiam si habet aliqualem naturam id in quod est
+corruptio, dummodo habeat aliquem defectum. Illud enim cuius differentiae magis significant hoc aliquid, magis
+est substantia; illud autem cuius differentiae magis significant privationem, magis est non ens; sicut calidum est
+quoddam praedicamentum, idest quoddam affirmatum, sine privatione, et est species, idest forma, frigiditas
+autem est privatio.
+His autem differentiis differunt terra et ignis: nam terra est naturaliter frigida, ignis autem naturaliter calidus. Et
+ideo ignis est magis substantia, terra autem magis accedit ad non ens.
+|#5 Primo autem oportet considerare quomodo hic dicatur quod frigiditas sit privatio, cum frigidum et calidum
+contrarie opponantur, contrariorum autem utrumque est natura aliqua: alioquin non essent in eodem genere, nam
+privatio et non ens non est in genere. Dicendum est autem quod, sicut ostensum est in X metaphys., oppositio
+privationis et habitus est principium oppositionis contrariorum: et ideo semper alterum contrariorum est cum
+defectu et privatione quadam respectu alterius. Dicitur ergo frigidum privatio, non quia sit privatio pura, sicut
+caecum aut nudum; sed quia est qualitas deficiens respectu calidi. Unde in hoc differt iste modus secundus a
+primo: nam primus modus accipiebatur secundum differentiam entis et non entis simpliciter, hic autem modus
+accipitur secundum differentiam entis perfecti et imperfecti.
+Secundo oportet considerare quomodo hic dicatur quod terra et ignis differant his differentiis, scilicet frigido et
+calido. Oportet enim hoc intelligi de differentiis substantialibus: alioquin non pertinerent ad generationem et
+corruptionem, sed magis ad alterationem. Principia autem differentiarum substantialium, quae sunt constitutivae
+specierum, oportet esse formas substantiales, quae sunt specificae. Secundum hoc ergo sequitur quod calor et
+frigus sint formae substantiales ignis et terrae. Quod est omnino impossibile. Primo quidem quia non est
+possibile quod idem in uno sit accidens et in alio forma substantialis, nisi aequivoce diceretur: calidum autem et
+frigidum in aliis corporibus sunt accidentia, de quibus tamen univoce dicuntur cum elementis, ex quorum
+commixtione in eis huiusmodi qualitates inveniuntur.
+
+15
+
+

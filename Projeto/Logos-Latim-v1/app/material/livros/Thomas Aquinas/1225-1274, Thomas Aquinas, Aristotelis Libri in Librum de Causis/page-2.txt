@@ -1,0 +1,63 @@
+quae sunt priora in compositione esse ultima in resolutione. Sic igitur intentio huius propositionis in his tribus
+consistit, quorum primum est quod causa prima plus influit in effectum quam secunda, secundum est quod
+impressio causae primae tardius recedit ab effectu, tertium est quod prius ei advenit. Quae quidem tria Proclus
+proponit in duabus propositionibus, primum in LVI propositione sui libri, quae talis est: omne quod a secundis
+producitur, et a prioribus et causalioribus producitur eminentius, a quibus et secunda producebantur; alia vero
+proponit in sequenti propositione quae talis est: omnis causa et ante causatum operatur et post ipsum plurium est
+substitutiva.
+His autem tribus praemissis ad ea manifestanda procedit, primo quidem per exemplum, secundo per rationem,
+ibi: et causa prima adiuvat.
+Exemplum autem videtur pertinere ad causas formales in quibus quanto forma est universalior tanto prior esse
+videtur.
+Si igitur accipiamus aliquem hominem, forma quidem specifica eius attenditur in hoc quod est rationalis, forma
+autem generis eius attenditur in hoc quod est vivum vel animal; ulterius autem id quod est omnibus commune est
+esse. Manifestum est autem in generatione unius particularis hominis quod in materiali subiecto primo invenitur
+esse, deinde invenitur vivum, postmodum autem est homo; prius enim ipse est animal quam homo, ut dicitur in
+II de generatione animalium. Rursumque in via corruptionis primo amittit usum rationis et remanet vivum et
+spirans, secundo amittit vitam et remanet ipsum ens, quia non corrumpitur in nihilum.
+Et sic potest intelligi hoc exemplum secundum viam generationis et corruptionis alicuius individui. Et haec est
+eius intentio, quod patet ex hoc quod dicit: cum ergo individuum non est homo, id est secundum actum proprium
+hominis, est animal, quia adhuc remanet in eo operatio animalis quae consistit in motu et sensu; et, cum non est
+animal, est esse tantum, quia remanet corpus penitus inanimatum. Verificatur hoc exemplum in ipso rerum
+ordine: nam priora sunt existentia viventibus et viventia hominibus, quia remoto homine non removetur animal
+secundum continentiam, sed e converso quia, si non est animal, non est homo. Et eadem ratio est de animali et
+esse.
+Deinde cum dicit: et causa prima etc., probat tria praedicta per rationem. Primum autem, scilicet quod causa
+prima plus influat quam secunda, sic probat: eminentius convenit aliquid causae quam causato; sed operatio qua
+causa secunda causat effectum, causatur a causa prima, nam causa prima adiuvat causam secundam faciens eam
+operari; ergo huius operationis secundum quam effectus producitur a causa secunda, magis est causa causa prima
+quam causa secunda. Proclus autem expressius hoc sic probat: causa enim secunda, cum sit effectus causae
+primae, substantiam suam habet a causa prima; sed a quo habet aliquid substantiam, ab eo habet potentiam sive
+virtutem operandi; ergo causa secunda habet potentiam sive virtutem operandi a causa prima. Sed causa secunda
+per suam potentiam vel virtutem est causa effectus; ergo hoc ipsum quod causa secunda sit causa effectus, habet
+a prima causa. Esse ergo causam effectus inest primo causae primae, secundo autem causae secundae; quod
+autem est prius in omnibus, est magis, quia perfectiora sunt priora naturaliter.
+Ergo prima causa est magis causa effectus quam causa secunda.
+Secundum, scilicet quod impressio causae primae tardius recedat ab effectu, probat ibi: et quando removetur
+causa secunda etc..
+Et inducit talem rationem: quod vehementius inest, magis inhaeret; sed prima causa vehementius imprimit in
+effectu quam causa secunda, ut probatum est; ergo eius impressio magis inhaeret; ergo tardius recedit.
+Tertium, scilicet quod prius adveniat, probat ibi: et non est causatum causae secundae etc., tali ratione. Causa
+secunda non agit in causatum suum nisi virtute causae primae; ergo et causatum non procedit a causa secunda
+nisi per virtutem causae primae; sic igitur virtus causae primae dat effectui ut attingatur a virtute causae
+secundae; prius ergo attingitur a virtute causae primae. Hoc autem uno medio Proclus sic probat. Causa prima est
+magis causa quam secunda; ergo est perfectioris virtutis. Sed quanto virtus alicuius causae est perfectior, tanto ad
+plura se extendit; ergo virtus causae primae ad plura se extendit quam virtus causae secundae. Sed id quod in
+pluribus est, prius est in adveniendo et ultimum in recedendo; ergo impressio causae primae primo advenit et
+ultimo recedit.
+Est autem considerandum in quibus causis haec propositio habeat veritatem. Et siquidem ad genera causarum
+quaestio referatur, manifestum est quod habet veritatem in quolibet causarum genere suo modo. Et in causis
+quidem formalibus exemplum inductum est. In causis autem materialibus similis ratio invenitur; nam id quod
+primo substernitur ut materia, causa est propinquioris materiae ut et ipsa materialiter substet, sicut materia prima
+elementis, quae sunt quodammodo materia mixtorum corporum.
+Utrumque autem horum ostendit idem esse in efficientibus causis.
+Manifestum est enim quod, quanto aliqua causa efficiens est prior, tanto eius virtus ad plura se extendit; unde
+oportet ut proprius effectus eius communior sit. Causae vero secundae proprius effectus in paucioribus invenitur;
+unde et particularior est. Ipsa enim causa prima producit vel movet causam secundo agentem, et sic fit ei causa ut
+agat. Inveniuntur igitur praedicta tria quae tacta sunt, primordialiter quidem in causis efficientibus et ex hoc
+manifestum est quod derivatur ad causas formales: unde et hic ponitur verbum influendi et Proclus utitur verbo
+productionis quae exprimit causalitatem causae efficientis. Quod autem ex causis efficientibus derivetur ad
+causas materiales, non est adeo manifestum, eo quod causae efficientes quae sunt apud nos, non producunt
+2
+
+

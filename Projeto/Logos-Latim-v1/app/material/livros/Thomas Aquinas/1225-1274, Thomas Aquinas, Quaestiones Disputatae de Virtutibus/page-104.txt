@@ -1,0 +1,62 @@
+|a2 Articulus 2
+TTA
+Secundo quaeritur utrum spes sit in voluntate sicut in subiecto.
+TTB
+Et videtur quod non.
+AG1
+Obiectum enim spei est bonum arduum.
+Sed arduum est obiectum irascibilis. Ergo spes est in irascibili, et non in voluntate.
+AG2
+Praeterea, caritas est perfectissima virtutum.
+Ergo sufficit ad perficiendam unam potentiam.
+Sed caritas est in voluntate. Non ergo in voluntate est spes.
+AG3
+Praeterea, ideo non possumus plura intelligere simul, quia intellectus non potest simul informari diversis
+speciebus intelligibilibus, sicut nec corpus diversis figuris, ut Algazel dicit. Ergo, pari ratione, una potentia non
+potest simul informari in actu secundum diversos habitus, ut scilicet secundum utrumque actu operetur. Sed
+simul potest esse actus spei cum actu caritatis. Ergo caritas et spes non possunt esse simul in una potentia. Sed
+caritas est in voluntate. Spes ergo non est in voluntate.
+AG4
+Praeterea, spes est certa expectatio. Sed certitudo pertinet ad vim cognitivam. Ergo spes est in VI cognitiva, et
+non in voluntate.
+SC
+Sed contra, spes est ex meritis proveniens.
+Sed merita pertinent ad voluntatem. Ergo spes est in voluntate.
+CO
+Respondeo. Dicendum, quod, sicut dictum est, spes est virtus theologica, unde eius obiectum est Deus. Nulla
+autem vis sensitiva potest se extendere ad hoc obiectum quod est Deus, quia sensus corporalia non transcendit; et
+ideo spes non potest esse in aliqua VI sensitiva.
+Manifestum autem est quod spes ad vim appetitivam pertinet, eo quod obiectum eius est bonum, ut supra, art.
+Praeced., dictum est; unde oportet quod sit in VI appetitiva rationis, quae est voluntas, secundum Philosophum in
+III de anima. Unde spes est in voluntate sicut in subiecto.
+Huiusmodi autem appetitus rationalis non dividitur per irascibilem et concupiscibilem, ut quidam posuerunt:
+quia obiectum voluntatis est bonum, secundum communem boni rationem, quam potest intellectus apprehendere,
+non autem sensus. Et ideo appetitus sensitivus, cuius obiectum est bonum secundum rationem particularem,
+dividitur in irascibilem et concupiscibilem, secundum diversas rationes boni sensibilis, quod vel est delectabile
+secundum sensum ad quod ordinatur concupiscibilis; vel est altitudinem propriam habens supra impedimenta
+delectationis, et hoc est obiectum irascibilis. Unde in appetitu superiori irascibilis et concupiscibilis non
+ponuntur.
+Sic ergo subiectum spei non est irascibilis, sed voluntas.
+RA1
+Ad primum ergo dicendum, quod spes de qua loquimur, est ardui intelligibilis, quod non est obiectum alicuius
+specialis potentiae; sed voluntas in ipsum tendit secundum rationem universalem boni.
+RA2
+Ad secundum dicendum, quod caritas perficit voluntatem perfecte quantum ad unum motum eius, qui est amare;
+sed indiget alia perfectione quantum ad alium motum eius qui est sperare.
+RA3
+Ad tertium dicendum, quod quando sunt multa ordinata ad unum, possunt simul intelligi: similiter etiam motus
+spei simul potest esse cum motu caritatis, quia ad se invicem ordinantur.
+RA4
+Ad quartum dicendum, quod certitudo spei derivatur a certitudine fidei: in quantum enim motus appetitivae
+virtutis dirigitur a virtute cognoscitiva, participat aliquid de eius certitudine.
+|a3 Articulus 3
+TTA
+Tertio quaeritur utrum spes sit prior caritate.
+TTB
+Et videtur quod non.
+AG1
+Ambrosius enim super illud Luc., XVII, 6: si habueritis fidem sicut granum sinapis etc., dicit: ex fide est caritas,
+ex caritate spes. Sed fides est prior caritate. Ergo caritas est prior spe.
+104
+
+

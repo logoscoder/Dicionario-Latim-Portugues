@@ -1,0 +1,63 @@
+240 videre W411
+241 sumus W411
+242 indivitum W411
+243 promissum W411
+244 naturam W411
+245 langoris O93; W411; V1341
+246 convertantur W411
+247 nullo W411
+248 cibum potumque] cibo poto sive W411
+249 potumque E97
+250 nullus W411; V1341; E97
+251 absque] absque absque E97
+252 patena V630; patentis korr. aus patena V1341
+253 proventum W411
+254 sententia W411
+255 Rubrik fehlt V630; E97
+256 honestatis W411
+257 contingit V630; W411; V1341; E97
+258 qua W411
+259 traditionis W411
+260 valetani W411
+261 ad humanda] dumanda W411
+262 obitus korr. aus obitis O93; obientis V630; V1341; oboedientibus W411; obeuntis E97
+263 obitus episcopi] oboedientibus episcopis W411
+264 episcopum] episcopus em W411
+265 paciendi W411
+266 ne W411
+267 habeant W411
+268 presbiteres W411
+269 oboedierit W411
+270 autem W411
+271 mortua W411
+272 ut W411
+273 antestis W411
+274 commonendum] conmonendum episcopum W411
+275 neglere O93; V630; beglegere] nec legere W411
+276 Rubrik fehlt V630; E97
+277 nter E97
+278 ferre W411
+279 descernere W411
+280 rapicitates W411
+281 deferre W411
+282 Hic V630; Hinc W411; Hi korr. aus Hic V1341
+283 parochianas korr. aus parochitanas E97
+284 praegravantes korr. aus praegraventes O93
+285 superflui W411
+286 frequentes E97
+287 exinationem O93; exactionem V630; V1341; esinatione W411; exinanitionem korr. aus exinationem E97
+288 nec W411
+289 praefat• korr. aus privat• E97
+290 dioceses] diocesis sue W411
+291 basilicas] singulas ecclesias V630; V1341; E97; basilicus W411
+292 iusta W411
+293 bracarensem E97
+294 pensioni W411
+295 quinquaginarium W411
+296 vectionis W411
+297 aut korr. aus ut V630
+298 uno, interlinear vel a E97
+299 unaquamque W411
+8
+
+

@@ -1,0 +1,64 @@
+Et hoc patet per exemplum et per rationem.
+Per exemplum quidem in corporibus caelestibus, quorum motus a nullo
+impeditur; et tamen eorum est determinata velocitas, secundum determinatum
+tempus. Per rationem autem, quia ex hoc ipso quod in magnitudine, per quam
+transit motus, est accipere prius et posterius, contingit etiam accipere
+prius et posterius in motu; ex quo sequitur motum esse in determinato
+tempore. Sed verum est quod huic velocitati potest aliquid subtrahi ex
+aliquo impediente. Non igitur oportet quod proportio motus ad motum in
+velocitate, sit sicut proportio impedimenti ad impedimentum, ita quod si
+non sit aliquod impedimentum, quod motus fiat in non tempore: sed oportet
+quod secundum proportionem impedimenti ad impedimentum, sit proportio
+retardationis ad retardationem.
+Unde posito quod motus sit per vacuum, sequitur quod nulla retardatio
+accidat supra velocitatem naturalem; et non sequitur quod motus qui est per
+vacuum, non habeat proportionem ad motum qui fit per plenum.
+|#9
+Huic autem obiectioni Averroes in commento suo resistere conatur.
+Et primo quidem conatur ostendere hanc obiectionem ex falsa imaginatione
+procedere.
+Dicit enim quod ponentes praedictam obiectionem imaginantur additionem in
+tarditate motus fieri, sicut fit additio in magnitudine lineae, quod pars
+addita sit alia a parte cui additur. Ita enim videtur praedicta obiectio
+procedere, ac si tardatio fiat per hoc, quod aliquis motus addatur alteri
+motui, ita quod subtracto illo motu addito per impedimentum retardans,
+remaneat quantitas motus naturalis.
+Sed hoc dicit non esse simile: quia cum retardatur motus, quaelibet pars
+motus fit tardior; non autem quaelibet pars lineae fit maior.
+Deinde ostendere nititur, quomodo ratio Aristotelis necessitatem habeat. Et
+dicit quod velocitas vel tarditas motus consurgit quidem ex proportione
+motoris ad mobile; sed oportet mobile esse aliquo modo resistens motori,
+sicut patiens quodammodo est contrarium agenti. Quae quidem resistentia
+potest esse ex tribus. Primo quidem ex ipso situ mobilis: ex hoc enim ipso
+quod movens intendit transferre mobile ad aliquod ubi, ipsum mobile in alio
+ubi existens repugnat intentioni motoris; secundo ex natura mobilis, sicut
+apparet in motibus violentis, ut cum grave proiicitur sursum; tertio ex
+parte medii. Omnia enim haec tria accipienda sunt simul ut unum resistens,
+ad hoc quod causetur una causa tarditatis in motu. Quando igitur mobile,
+seorsum consideratum secundum quod differt a movente, est aliquid ens actu,
+potest inveniri resistentia mobilis ad motorem, vel ex parte mobilis
+tantum, sicut accidit in corporibus caelestibus, vel ex parte mobilis et
+medii simul, sicut accidit in corporibus animatis quae sunt hic.
+Sed in gravibus et levibus, subtracto eo quod mobile habet a movente,
+scilicet forma, quae est principium motus, quam dat generans, quod est
+movens, non remanet nisi materia, ex cuius parte nulla resistentia potest
+considerari ad movens; unde relinquitur in talibus sola resistentia ex
+parte medii. Sic igitur in corporibus caelestibus est differentia
+velocitatis solum secundum proportionem motoris ad mobile; in corporibus
+vero animatis secundum proportionem motoris ad mobile et ad medium
+resistens simul. Et in talibus procederet obiectio praedicta, quod remota
+retardatione quae est ex parte medii impedientis, adhuc remanet determinata
+quantitas temporis in motu, secundum proportionem motoris ad mobile. Sed in
+gravibus et levibus non potest esse retardatio velocitatis, nisi secundum
+resistentiam medii; et in talibus procedit ratio Aristotelis.
+|#10
+Sed haec omnino videntur esse frivola. Primo quidem, quia licet
+quantitas tarditatis non sit secundum modum quantitatis continuae, ut
+addatur motus motui, sed secundum modum quantitatis intensivae, sicut cum
+aliquid est altero albius; tamen quantitas temporis ex qua Aristoteles
+argumentatur, est secundum modum quantitatis continuae, et fit tempus maius
+per additionem temporis ad tempus; unde subtracto tempore quod additur ex
+impediente, remanet tempus naturalis velocitatis.
+143
+
+

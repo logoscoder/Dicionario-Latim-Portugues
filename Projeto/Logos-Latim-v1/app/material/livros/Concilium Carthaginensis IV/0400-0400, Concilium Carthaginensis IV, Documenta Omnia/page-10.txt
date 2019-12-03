@@ -1,0 +1,63 @@
+31 transferando E97
+30 non fehlt W411
+29 dissidentes korr. aus desidentes E97
+28 episcopos W411
+27 stituant W411
+26 litiget W411
+25 tuitione W411
+24 testato W411
+23 diacones W411
+22 per fehlt B132
+21 indigentium korr. aus indigenti V1341
+20 episcopos W411
+19 episcopos W411
+18 victo O93; B132
+17 benedicentur V630
+16 et sponsae fehlt W411
+15 sanctimoniales V630; W411; E97
+14 Quales W411; B132
+13 sanctimoniales V630; E97
+12 virgines sanctimoniales] virgo sanctimonialis W411
+11 ordinentur fehlt W411
+10 fiant fehlt W411
+100 ecclesias W411
+101 conventiculum W411
+102 LXXI E97
+103 psallendum] psallendum sit W411
+104 LXXII E97
+105 excommunicato W411
+106 LXXIII E97
+107 poenitentiam E97
+108 LXXIIII E97
+109 LXXV E97
+110 obmutescat W411
+111 LXXVI E97
+112 accipiat W411
+113 LXXVII E97
+114 supervivat W411
+115 LXXVIII E97
+116 si casu] has W411
+117 casu] has aliquo W411; causu E97
+118 moriatur W411
+119 LXXIX E97
+120 LXXX E97
+121 paenitentes korr. aus paenitens O93
+122 offerant O93; efferunt V630
+123 LXXXI E97
+124 ienua W411; B132; V1341
+125 LXXXII E97
+126 LXXXIII E97
+127 Ut fideles] Ut etiam infideles korr. aus Ut fideles E97
+128 infideles W411
+129 adienda W411
+130 lectione W411; praedicatione korr. aus ratione E97
+131 missam] missam caticuminorum korr. aus missam E97
+132 tenent W411
+133 LXXXIIII E97
+134 a fehlt E97
+135 LXXXV E97
+136 LXXXVI E97
+137 qua O93
+10
+
+

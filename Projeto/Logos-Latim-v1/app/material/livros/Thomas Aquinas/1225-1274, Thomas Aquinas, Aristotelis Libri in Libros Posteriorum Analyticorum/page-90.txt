@@ -1,0 +1,59 @@
+|#7 Tertium ponit ibi: sed quaecunque quidem etc.; et dicit quod illa de quibus scimus quia sunt per aliquod
+accidens ipsorum, nullo modo per hoc se habent ad hoc quod cognoscamus de ipsis quid est; quia nec etiam per
+huiusmodi accidens vere scimus ea esse. Scimus quidem esse eorum accidentia; sed quia accidentia non sunt
+ipsae res, non propter hoc vere scimus ipsas res esse. Vanum autem est quaerere quid est, si aliquis nesciat quia
+est; sed illa de quibus scimus ea esse per aliquid ipsorum, facilius possunt cognosci a nobis quid sunt. Unde
+manifestum est quod sicut nos habemus ad cognoscendum quia est aliquid, ita nos habemus ad cognoscendum
+quid est.
+|#8 Deinde cum dicit: quorum igitur habemus aliquid etc., manifestat propositum secundum praemissa; et dicit
+quod in his quae scimus esse per hoc quod cognoscimus aliquid essentiae eius, accipiamus primo tale exemplum.
+Sit defectus, idest eclipsis, in quo a, quae est maior extremitas; luna in quo c, quae est minor extremitas;
+oppositio terrae directa inter lunam et solem in quo b, quod est medium. Idem igitur est quaerere utrum deficiat
+luna vel non, et quaerere utrum b sit vel non: quaerere autem utrum b sit vel non, nihil differt quam quaerere si
+est aliqua ratio ipsius defectus. Nam b, idest oppositio terrae, est ratio defectus lunae; et si sit oppositio terrae, et
+illud dicimus esse, scilicet defectum lunae.
+Aut similiter si quaeramus qualis sit ratio contradictionis, utrum scilicet in habendo duos rectos vel non habendo
+sit contradictio. Cum autem inveniamus esse id quod quaerimus, puta esse defectum, simul sciemus quia et
+propter quid, si inveniatur propositum per medium debitum, quod est causa. Si vero non, sed per aliquod
+extrinsecum, sciemus quia, sed non propter quid.
+Puta si sit luna c et defectus a, accipiamus pro medio, quod est b, hoc quod luna non potest facere umbram aliquo
+nostrum medio existente, cum sit plenilunium. Luna enim, quandocunque non deficit, facit umbram interposito
+aliquo corpore: sed hoc quod est non posse facere umbram, non est causa defectus, sed potius effectus.
+Si ergo b praedicetur de c (quia scilicet luna non potest in plenilunio facere umbram aliquo nostrum medio
+existente), et iterum si in hoc medio sit a (idest si accipiatur quod quandocunque hoc accidit, luna deficit),
+manifestum erit lunam deficere. Sed propter quid luna deficiat, nondum erit manifestum. Et similiter sciemus
+quia est defectus, sed nesciemus quid est defectus, quando manifestum est quod a est in c, idest quod luna deficit.
+Et sicut in praedicto exemplo nec scitur propter quid est, nec scitur quid est, ita quaerere propter quid est, nihil
+aliud est quam quaerere quid est. Puta si quaeramus quare deficit luna, utrum deficiat propter hoc quod obiicitur
+terra in medio inter solem et lunam; vel hoc fiat per conversionem lunae, ut scilicet tunc vertatur versus nos
+superficies lunae quae est tenebrosa, ut quidam dixerunt; vel etiam lunare lumen extinguatur in aliquo humido.
+Quaerere autem utrum propter aliquam harum causarum fiat defectus lunae, nihil est aliud quam quaerere utrum
+defectus lunae sit obiectio terrae, aut conversio lunae, aut extinctio luminis eius. Et hoc medium est ratio alterius
+extremitatis, sicut in praemissis exemplis est ratio ipsius a, quod est maior extremitas; quia defectus lunae nihil
+est aliud quam obiectio facta lunari lumini a terra. Ponit etiam aliud exemplum: ut si quaeramus quid est
+tonitruum.
+Et dicatur, secundum opinionem Anaxagorae et empedoclis, quod est extinctio ignis in nube. Secundum vero
+opinionem eius in II meteororum, tonitruum fit ex percussura exhalationis siccae in frigiditate ad nubes. Utitur
+autem multoties in exemplis opinionibus aliorum. Si ergo secundum praedictam opinionem quaeratur, propter
+quid tonat: respondetur, propter hoc quod extinguitur ignis in nube. Sit igitur nubes c, quod est minor extremitas;
+tonitruum a, quod est maior extremitas; extinctio ignis sit b, quod est medium. Syllogizetur ergo sic: in c est b,
+idest in nube est extinctio ignis; sed omnis extinctio ignis est sonus; ergo in nube est sonus tonitrui.
+Et sic patet quod accipiendo propter quid, per demonstrationem accipimus quid est, quia ipsum medium
+ostendens propter quid, est ratio definitiva primi termini, idest maioris extremitatis.
+Sed si oporteat accipere aliquod aliud medium ad hoc demonstrandum, hoc assumetur ex reliquis rationibus,
+idest ex definitione minoris extremitatis, et aliarum causarum extrinsecarum.
+Cum enim subiectum sit causa passionis, necesse est quod definitio passionis demonstretur per definitionem
+subiecti. Et hoc patet in exemplo proposito. Quia enim luna est corpus natum sic moveri, ideo necesse est quod
+obiiciatur certo tempore terra inter solem et ipsam.
+|#9 Deinde cum dicit: quomodo quidem igitur etc., epilogat quod dictum est: et dicit dictum esse quomodo
+accipiatur et innotescat quod quid est, scilicet per hoc quod accipitur propter quid. Dictum est etiam quod non est
+syllogismus neque demonstratio ipsius quid est, ut scilicet proprie syllogizetur vel demonstretur quod quid est; et
+tamen manifestatur quod quid est per syllogismum et per demonstrationem, in quantum scilicet medium
+demonstrationis propter quid est quod quid est. Unde manifestum est quod neque sine demonstratione potest
+cognosci quod quid est, cuius est altera causa; nec tamen est demonstratio ipsius quod quid est, sicut probabatur
+in obiiciendo.
+Et secundum hoc obiectiones inductae sunt verae.
+|+8 Lectio 8
+90
+
+

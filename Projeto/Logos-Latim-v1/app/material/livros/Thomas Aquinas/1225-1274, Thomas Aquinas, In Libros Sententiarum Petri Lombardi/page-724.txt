@@ -1,0 +1,63 @@
+Illud enim quod definitur, oportet aliquid esse: quia quaestio an est praecedit quaestionem quid est; et iterum
+omne quod definitur, essentiam habet, cum definitio essentiam rei significet. Sed secundum Augustinum,
+peccatum nihil est, et nihil fiunt homines cum peccant.
+Ergo definiri non potest.
+AG2
+Praeterea, definitio debet converti cum definito.
+Sed definitiones hic datae de peccato, non conveniunt omni peccato, ut in littera dicitur. Ergo inconvenienter
+assignatae sunt.
+AG3
+Praeterea, in definitione superioris non debet poni inferius. Sed concupitum vel dictum vel factum est inferius
+quam peccatum: quia omne factum contra legem Dei est peccatum, sed non convertitur. Ergo inconvenienter
+assignatur descriptio ex posterioribus secundum naturam.
+AG4
+Praeterea, speciali virtuti speciale peccatum opponitur. Sed justitia est quaedam virtus specialis.
+Ergo peccatum non debet definiri universaliter sumptum per oppositionem ad justitiam.
+AG5
+Praeterea, obedientia est quaedam specialis virtus. Sed obedientiae opponitur inobedientia. Ergo et inobedientia
+erit speciale peccatum. Cum ergo species in definitione generis poni non debeat, videtur quod inconvenienter
+peccatum universaliter sumptum, per inobedientiam definiatur.
+CO
+Respondeo, quod, sicut dictum est, peccatum dicit malum quod in operatione consistit; unde ad rationem peccati
+duo concurrunt, scilicet actus, et ipse defectus, ex quo ratio mali incidit. Defectus autem ille qui causat rationem
+mali in peccato, ut dictum est, est defectus rectitudinis in actu, per quam dirigebatur in finem.
+Finis autem rationalis naturae ultimus quem praecipue theologus considerat, est ipsa beatitudo aeterna, ad quem
+finem lex divina nos dirigit sicut instruens, et justitia sicut in illum inclinans; et ideo peccatum tripliciter hic
+describitur. In prima enim descriptione tangitur substantia actus in ordine ad instrumenta quibus actus
+exercentur, cum dicitur: dictum, vel factum, vel concupitum, et tangitur privatio illius dirigentis quod instruendo
+dirigit, scilicet legis, cum dicitur, quod fit contra Domini legem. In secunda autem descriptione tangitur
+substantia actus ex parte objecti, in hoc quod dicitur: voluntas retinendi, vel consequendi, et privatio illius
+dirigentis quod in finem inclinat per modum habitus, in hoc quod dicit: quod justitia vetat. In tertia autem
+descriptione tangitur illud quod est formale in peccato, ex quo rationem mali habet, scilicet privatio dirigentis in
+finem, in hoc quod dicitur, praevaricatio legis divinae, et deordinatio ab ipso fine, in hoc quod dicitur, caelestium
+inobedientia praeceptorum.
+RA1
+Ad primum ergo dicendum, quod secundum quod aliqua habent esse, possunt definiri, ut in 7 metaph. Dicitur;
+unde quia ens per prius de substantia dicitur, quae perfecte rationem entis habet, ideo nil perfecte definitur nisi
+substantia: accidentia autem, sicut incomplete rationem entis participant, ita et definitionem absolutam non
+habent: quia in definitionibus eorum ponitur aliquid quod est extra genus eorum, scilicet subjectum ipsorum.
+Similiter etiam cum ens quodammodo dicatur de privationibus et negationibus, ut in 4 metaph. Dicitur, earum
+etiam potest esse aliquis modus definitionis incompletissimus, qui est quasi exponens nominis significationem,
+non essentiam indicans, quam nullam habet: non autem ita quod peccatum omnino sit privatio et negatio; sed
+quantum ad id solum ex quo formaliter rationem mali habet: et ideo ex parte illa definitur per privationem, ut
+patet ex omnibus descriptionibus in littera positis.
+RA2
+Ad secundum dicendum, quod peccatum non dicitur univoce de omnibus generibus peccatorum, sed per prius de
+peccato actuali mortali, a quo peccatum veniale deficit ex hoc quod non omnino a fine deordinat. Sed aliquo
+modo a fine retardat, ordine ad finem salvato; unde deficit ex parte illa ex qua peccatum formaliter rationem mali
+habet.
+Originale autem deficit ab eo ex parte ipsius substantiae actus: actuale enim mortale est voluntarium voluntate
+propria illius in quo est; sed originale est voluntarium voluntate alterius; unde deficit ex parte illa ex qua
+peccatum habet rationem culpae. Et ideo non oportet quod definitio peccati in genere conveniat nisi illi peccato
+in quo perfecte ratio generis invenitur. Potest autem et definitio peccati in genere eis secundum quid convenire,
+sicut et ratio generis in eis per posterius invenitur.
+RA3
+Ad tertium dicendum, quod sicut aliquando utimur non veris differentiis loco verarum, propter earum
+occultationem, ut in 1 post. Dicitur; ita etiam loco veri generis potest poni aliquid per quod genus magis
+innotescat: et sic Augustinus intendens magis plane quam artificialiter loqui, genus peccati, quod est operatio,
+per istam circumlocutionem dictum vel factum vel concupitum significavit.
+RA4
+
+724
+
+

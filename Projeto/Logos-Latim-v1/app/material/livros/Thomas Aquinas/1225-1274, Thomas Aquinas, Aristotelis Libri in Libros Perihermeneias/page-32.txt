@@ -1,0 +1,60 @@
+Et circa hoc duo facit: primo, probat propositum ducendo ad inconveniens; secundo, ostendit illa esse
+impossibilia quae sequuntur; ibi: quare ergo contingunt inconvenientia etc..
+Circa primum duo facit: primo, ostendit quod in singularibus et futuris non semper potest determinate attribui
+veritas alteri oppositorum; secundo, ostendit quod non potest esse quod utraque veritate careat; ibi: at vero neque
+quoniam etc..
+Circa primum ponit duas rationes, in quarum prima ponit quamdam consequentiam, scilicet quod si omnis
+affirmatio vel negatio determinate est vera vel falsa ita in singularibus et futuris sicut in aliis, consequens est
+quod omnia necesse sit vel determinate esse vel non esse.
+Deinde cum dicit: quare si hic quidem etc. Vel, si itaque hic quidem, ut habetur in Graeco, probat consequentiam
+praedictam.
+Ponamus enim quod sint duo homines, quorum unus dicat aliquid esse futurum, puta quod socrates curret, alius
+vero dicat hoc idem ipsum non esse futurum; supposita praemissa positione, scilicet quod in singularibus et
+futuris contingit alteram esse veram, scilicet vel affirmativam vel negativam, sequetur quod necesse sit quod
+alter eorum verum dicat, non autem uterque: quia non potest esse quod in singularibus propositionibus futuris
+utraque sit simul vera, scilicet affirmativa et negativa: sed hoc habet locum solum in indefinitis. Ex hoc autem
+quod necesse est alterum eorum verum dicere, sequitur quod necesse sit determinate vel esse vel non esse. Et hoc
+probat consequenter: quia ista duo se convertibiliter consequuntur, scilicet quod verum sit id quod dicitur, et
+quod ita sit in re.
+Et hoc est quod manifestat consequenter dicens quod si verum est dicere quod album sit, de necessitate sequitur
+quod ita sit in re; et si verum est negare, ex necessitate sequitur quod ita non sit. Et e converso: quia si ita est in
+re vel non est, ex necessitate sequitur quod sit verum affirmare vel negare. Et eadem etiam convertibilitas apparet
+in falso: quia, si aliquis mentitur falsum dicens, ex necessitate sequitur quod non ita sit in re, sicut ipse affirmat
+vel negat; et e converso, si non est ita in re sicut ipse affirmat vel negat, sequitur quod affirmans vel negans
+mentiatur.
+|#8 Est ergo processus huius rationis talis. Si necesse est quod omnis affirmatio vel negatio in singularibus et
+futuris sit vera vel falsa, necesse est quod omnis affirmans vel negans determinate dicat verum vel falsum.
+Ex hoc autem sequitur quod omne necesse sit esse vel non esse. Ergo, si omnis affirmatio vel negatio
+determinate sit vera, necesse est omnia determinate esse vel non esse. Ex hoc concludit ulterius quod omnia sint
+ex necessitate.
+Per quod triplex genus contingentium excluditur.
+|#9 Quaedam enim contingunt ut in paucioribus, quae accidunt a casu vel fortuna.
+Quaedam vero se habent ad utrumlibet, quia scilicet non magis se habent ad unam partem, quam ad aliam, et ista
+procedunt ex electione. Quaedam vero eveniunt ut in pluribus; sicut hominem canescere in senectute, quod
+causatur ex natura. Si autem omnia ex necessitate evenirent, nihil horum contingentium esset. Et ideo dicit nihil
+est quantum ad ipsam permanentiam eorum quae permanent contingenter; neque fit quantum ad productionem
+eorum quae contingenter causantur; nec casu quantum ad ea quae sunt in minori parte, sive in paucioribus; nec
+utrumlibet quantum ad ea quae se habent aequaliter ad utrumque, scilicet esse vel non esse, et ad neutrum horum
+sunt determinata: quod significat cum subdit, nec erit, nec non erit.
+De eo enim quod est magis determinatum ad unam partem possumus determinate verum dicere quod hoc erit vel
+non erit, sicut medicus de convalescente vere dicit, iste sanabitur, licet forte ex aliquo accidente eius sanitas
+impediatur. Unde et Philosophus dicit in II de generatione quod futurus quis incedere, non incedet. De eo enim
+qui habet propositum determinatum ad incedendum, vere potest dici quod ipse incedet, licet per aliquod accidens
+impediatur eius incessus.
+Sed eius quod est ad utrumlibet proprium est quod, quia non determinatur magis ad unum quam ad alterum, non
+possit de eo determinate dici, neque quod erit, neque quod non erit. Quomodo autem sequatur quod nihil sit ad
+utrumlibet ex praemissa hypothesi, manifestat subdens quod, si omnis affirmatio vel negatio determinate sit vera,
+oportet quod vel ille qui affirmat vel ille qui negat dicat verum; et sic tollitur id quod est ad utrumlibet: quia, si
+esse aliquid ad utrumlibet, similiter se haberet ad hoc quod fieret vel non fieret, et non magis ad unum quam ad
+alterum.
+Est autem considerandum quod Philosophus non excludit hic expresse contingens quod est ut in pluribus, duplici
+ratione. Primo quidem, quia tale contingens non excludit quin altera oppositarum enunciationum determinate sit
+vera et altera falsa, ut dictum est. Secundo, quia remoto contingenti quod est in paucioribus, quod a casu accidit,
+removetur per consequens contingens quod est ut in pluribus: nihil enim differt id quod est in pluribus ab eo
+quod est in paucioribus, nisi quod deficit in minori parte.
+|#10 Deinde cum dicit: amplius si est album etc., ponit secundam rationem ad ostendendum praedictam
+dissimilitudinem, ducendo ad impossibile. Si enim similiter se habet veritas et falsitas in praesentibus et futuris,
+sequitur ut quidquid verum est de praesenti, etiam fuerit verum de futuro, eo modo quo est verum de praesenti.
+32
+
+

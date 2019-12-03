@@ -1,0 +1,63 @@
+234 Si aut] et sicut W411
+235 interlinear vel autem V630
+236 autem korr. aus aut V1341
+237 Rubrik fehlt V630
+238 XVII O93
+239 Episcopus] Episcopus vero W411
+240 benedictione V630
+241 am W411
+242 si fehlt W411
+243 relegione W411
+244 praemissum W411
+245 Rubrik fehlt V630
+246 PRESBYTERIS O93; PRESBITERES W411; V1341
+247 XVIII O93
+248 perveniant V1341
+249 Rubrik fehlt V630
+250 debent W411
+251 XVIIII O93
+252 Saeculares] Saeculares vero W411; V1341
+253 pentecosten] pentecosten qui W411
+254 catholice W411
+255 Rubrik fehlt V630
+256 XX O93
+257 eorum O93; earum korr. aus eorum V630; eorum V1341
+258 sunt W411
+259 quadragensimum W411
+260 Rubrik fehlt V630
+261 XXI O93
+262 nutriunt fehlt W411
+263 arcediacono W411
+264 relegione W411
+265 Rubrik fehlt V630
+266 XXII O93
+267 oratorum W411
+268 reliquibus W411
+269 ibi korr. aus ubi V630
+270 ordinationem W411; ordine V1341
+271 qua W411
+272 his fehlt V630
+273 qua W411
+274 oratoriis] oratoriis his W411
+275 Rubrik fehlt V630
+276 VEL V1341
+277 XXIII O93
+278 liceat W411
+279 iterato korr. aus itera co V1341
+280 tam V1341
+281 quod W411
+282 aut V1341
+283 civitanenses V630; V1341; civitenses W411
+284 deocesani korr. aus diocesiani O93; deocesani V630
+285 presbiteris W411
+286 dare W411
+287 indemnem] in damnum W411
+288 Rubrik fehlt V630
+289 XXIIII O93
+290 Episcopus W411
+291 quorum vita] vita quorum V1341
+292 superbiae korr. aus superbia V630
+293 contemnit W411
+13
+
+

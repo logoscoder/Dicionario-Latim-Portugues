@@ -1,0 +1,58 @@
+|#12 Consequenter cum dicit: si vero neque ex omnibus etc., excluso stulto intellectu positionis contra quam
+disputatur, concludit propositum; et dicit quod, si non dicatur quod quodlibet demonstretur ex quolibet, sicut
+opus est dicere propter praemissa, sequitur quod nec sic ex principio, ex quo concluditur haec conclusio,
+concludatur altera; alioquin ex quolibet demonstraretur quodlibet.
+Unde necesse est quod diversarum scientiarum sint diversa principia, si oportet quod omnium scientiarum
+principia sint unius generis his, quae ex eis demonstrantur; sed oportebit quod ex istis principiis demonstrentur
+hae conclusiones, et ex illis illae, ex diversis scilicet principiis demonstratione facta in diversis scientiis, quae
+sunt de diversis generibus.
+|#13 Tertiam rationem ponit ibi: manifestum autem hoc est etc., et dicit quod manifestum est etiam alio modo
+quod non contingit hoc, scilicet quod eadem sint principia omnium scientiarum; quia ostensum est supra quod
+diversorum generum sunt principia diversa genere. Unde cum diversae scientiae sint de diversis generibus,
+sequitur quod diversa principia sint diversarum scientiarum. Sed quia quodammodo eadem principia communia
+sunt quibus omnes scientiae utuntur, ideo consequenter distinguit de principiis, et dicit quod duplicia sunt
+principia. Quaedam ex quibus primo demonstratur, sicut primae dignitates, ut quod non contingit idem esse et
+non esse.
+Et iterum sunt quaedam principia circa quae sunt scientiae, scilicet subiecta scientiarum; quia definitionibus
+subiecti utimur ut principiis in demonstrationibus. Illa ergo prima ex quibus demonstratur, sunt communia
+omnibus scientiis: sed principia circa quae sunt scientiae, sunt propria cuilibet scientiae, sicut numerus
+arithmeticae, et magnitudo geometriae. Principia autem communia oportet ad haec propria applicari ad hoc quod
+demonstretur. Et quia non ex solis communibus principiis demonstratur, non potest dici eadem esse principia
+omnium syllogismorum demonstrativorum, quod intendit probare.
+|+44 Lectio 44
+|#1
+Postquam Philosophus ostendit comparationem scientiarum ad invicem et secundum certitudinem et
+secundum unitatem et diversitatem, hic ostendit comparationem scientiae ad alia quae ad cognitionem pertinent.
+Et dividitur in duas partes: in prima, agit de comparatione scientiae ad opinionem, quae est verorum et falsorum;
+in secunda, de comparatione scientiae ad alios habitus cognoscitivos, qui sunt semper verorum; ibi: reliqua
+autem quomodo oportet etc.. Prima autem pars dividitur in duas partes: in prima, determinat veritatem; in
+secunda, excludit dubitationem; ibi: qualiter ergo est idem etc.. Circa primum tria facit: primo enim, proponit
+differentiam esse inter scientiam et opinionem; secundo, ostendit quid pertineat ad scientiam; ibi: quoniam
+quidem scientia etc.; tertio, ostendit quid pertineat ad opinionem; ibi: sunt autem quaedam vera etc..
+Dicit ergo primo, quod scientia differt ab opinione; et similiter scibile, quod est obiectum scientiae, differt ab
+opinabili, quod est obiectum opinionis.
+|#2 Deinde cum dicit: quoniam scientia universalis etc., ostendit quid pertineat ad scientiam et ponit duo ad eam
+pertinere: quorum unum est quod sit universalis. Non enim scientia est de singularibus sub sensu cadentibus: et
+hoc supra manifestatum est. Aliud est quod scientia est per necessaria. Et exponit quid sit necessarium, scilicet
+illud quod non contingit aliter se habere.
+Et hoc etiam est supra manifestatum, quod demonstratio procedat ex necessariis.
+|#3 Deinde cum dicit: sunt autem quaedam etc., ostendit quid pertineat ad opinionem; scilicet quod sit circa
+contingentia aliter se habere, sive in universali sive in particulari. Et hoc probat tripliciter.
+Primo quidem per modum divisionis, dicens quod praeter vera necessaria, quae non contingunt aliter se habere,
+sunt quaedam vera non necessaria, quae contingit aliter se habere. Manifestum est autem ex praedictis, quod
+circa huiusmodi non est scientia, quia sic sequeretur quod contingentia non possent aliter se habere: circa talia
+enim est scientia, ut iam dictum est. Similiter etiam non potest dici quod eorum sit intellectus.
+Et accipimus hic intellectum non secundum quod intellectus dicitur quaedam potentia animae, sed secundum
+quod est principium scientiae; idest secundum quod est habitus quidam primorum principiorum, ex quibus
+procedit demonstratio ad causandam scientiam. Et ideo ad exponendum quid sit iste intellectus, qui est
+principium scientiae, subdit: neque scientia indemonstrabilis est, scilicet eorum quae contingunt aliter se habere;
+ac si dicat quod intellectus nihil aliud sit quam quaedam scientia indemonstrabilis. Sicut enim scientia importat
+certitudinem cognitionis per demonstrationem acquisitam, ita intellectus importat certitudinem cognitionis
+absque demonstratione; non propter defectum demonstrationis, sed quia id de quo certitudo habetur, est
+indemonstrabile et per se notum. Et ideo ad hoc exponendum, subdit quod scientia demonstrativa nihil aliud est
+quam certa existimatio immediatae propositionis. Quod autem intellectus sit scientia indemonstrabilis patet ex
+hoc ipso quod dicit quod est principium scientiae. Cum enim scientia sit necessariorum, et necessaria non
+
+74
+
+

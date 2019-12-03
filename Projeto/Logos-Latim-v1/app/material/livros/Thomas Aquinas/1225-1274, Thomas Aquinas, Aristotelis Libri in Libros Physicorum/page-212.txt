@@ -1,0 +1,62 @@
+Unde sequitur quod velocius in aequali tempore plus de spatio pertransit.
+|#6
+Deinde cum dicit: at vero et in minori plus etc., ostendit quod
+velocius in minori tempore plus de spatio pertransit.
+Dictum est enim quod in tempore in quo a iam pervenit ad d, b quod est
+tardius, adhuc distat a d. Detur ergo quod in eodem tempore perveniat usque
+ad e. Quia igitur omnis magnitudo divisibilis est, ut supra positum est,
+dividatur residuum magnitudinis, scilicet ed, in quo velocius excedit
+tardius, in duas partes in puncto t. Manifestum est ergo quod magnitudo ct
+est minor quam magnitudo cd. Sed idem mobile per minorem magnitudinem
+movetur in minori tempore. Quia ergo ipsum a pervenit ad d in toto tempore
+zi, ad punctum t perveniet in minori tempore; et sit illud tempus zk.
+Inde sic arguitur. Magnitudo ct, quam pertransit a, maior est magnitudine
+ce, quam pertransit b: sed tempus zk, in quo pertransit a magnitudinem ct,
+est minus toto tempore zi, in quo b tardius pertransit magnitudinem ce:
+sequitur ergo quod velocius in minori tempore pertranseat maius spatium.
+|#7
+Deinde cum dicit: manifestum autem etc., ostendit quomodo velocius se
+habeat ad tardius in moveri per aequalem magnitudinem.
+Et primo proponit intentum; secundo probat propositum, ibi: quoniam enim
+etc..
+Dicit ergo primo: quod ex praemissis manifestum esse potest, quod velocius
+pertransit aequale spatium in minori tempore.
+Secundo ibi: quoniam enim maiorem etc., probat propositum duabus
+rationibus.
+Ad quarum primam duo praemittit: quorum unum iam probatum est, scilicet
+quod velocius pertranseat maiorem magnitudinem in minori tempore quam
+tardius; secundum vero est per se manifestum, scilicet quod ipsum mobile
+secundum seipsum consideratum, in maiori tempore pertransit maiorem
+magnitudinem quam in minori.
+Pertranseat enim hoc mobile a, quod est velocius, hanc magnitudinem quae
+est lm, in pr tempore: et partem magnitudinis, scilicet LX, pertransibit in
+minori tempore quod est ps; quod est minus quam pr, in quo pertransit lm,
+sicut et LX est minor quam lm.
+Ex prima autem suppositione accipit quod totum tempus pr, in quo a
+pertransit totam magnitudinem lm, sit minus tempore h, in quo b quod est
+tardius, pertransit minorem magnitudinem, scilicet LX. Dictum est enim quod
+velocius in minori tempore pertransit maiorem magnitudinem.
+Ex his procedit sic. Tempus pr est minus tempore h, in quo b quod est
+tardius, pertransit magnitudinem LX; et tempus ps est minus quam tempus pr;
+ergo sequitur quod tempus ps sit minus quam tempus h: quia si aliquid est
+minus minore, etiam ipsum erit minus maiore. Cum ergo datum sit quod in
+tempore ps velocius movetur per LX magnitudinem, et tardius movetur per
+eandem in tempore h, sequitur quod velocius movetur in minori tempore per
+aequale spatium.
+|#8
+Secundam rationem ponit ibi: amplius autem si omne etc.: quae talis
+est.
+Omne quod movetur per aequalem magnitudinem cum aliquo alio mobili, aut
+movetur per eam in aequali tempore aut in minori aut in maiori. Quod autem
+movetur per aequalem magnitudinem in maiori tempore est tardius, ut supra
+probatum est: quod autem movetur in aequali tempore per aequalem
+magnitudinem, est aeque velox, ut per se manifestum est. Cum igitur id quod
+velocius est, neque sit aeque velox neque tardius, sequitur quod neque in
+pluri tempore moveatur per aequalem magnitudinem, neque in aequali:
+relinquitur ergo quod in minori.
+Sic ergo probatum est quod necesse est velocius pertransire aequalem
+magnitudinem in minori tempore.
+
+212
+
+

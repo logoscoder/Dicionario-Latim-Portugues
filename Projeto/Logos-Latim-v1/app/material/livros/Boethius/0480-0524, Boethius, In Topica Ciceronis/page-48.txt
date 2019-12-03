@@ -1,0 +1,61 @@
+indigebunt. Omnis uero syllogismus enuntiatione proposita habet alicuius partis assumptionem ut quod est in
+quaestione concludat, hoc modo: Si dies est, lux est. Ut igitur lucem esse demonstrem, assumam unam partem
+propositionis superius constitutae, dicamque sed dies est, ac tunc demum id quod est in quaestione concludam, lux est
+igitur, Ergo cum ad syllogismi conclusionem, [1132C] et tota enuntiatione in proponendo, et in assumendo parte
+enuntiationis utamur, nec esse est ut ea quibus utimur nil habeant dubitabile, siquidem ex his ea quae sunt ambigua
+capient fidem.
+Quod si propositio aliquoties quidem per se nota est atque perspicua, uliquoties uero probationis indigens
+inuenitur, assumptio quoque aliquoties per se uera esse notabitur aliquoties approbationis indiget adiumentis. Quo fit ut
+si et propositio et assumptio demonstrandae sint, quinquepartitus (ut Cicero etiam in Rhetoricis auctor est) syllogismus
+fiat, constans ex propositione eiusque probatione, assumptione, eiusdemque probatione, et conclusione. Quod si neutra
+sit approbanda. tripartitus sit, ex propositione scilicet, assumptione et conclusione. Quod si altera [1132D] earum
+demonstranda sit, fit quadripartitus, ex propositione scilicet, et assumptione, atque unius earum approbatione et
+conclusione. Conclusionis uero ipsius probatio praecedente propositione atque assumptione perfcitur.
+Quae cum ita sint, cumque omnis propositio hypotheticam connexionem disiunctionemque diuidatur, in
+connexis propositionibus aliud dicimus praecedens, aliud consequens. Idem autem consequens et connexum uocamus,
+uelut in hac propositione, si dies est, lux est. Dies est praecedit, annectitur lux est. In disiunctis autem non est eadem
+ratio, quia cum ea quae proponuntur simul esse non possint, nullo modo dicuntur esse connexa. Praecedens autem et
+subsequens inde iudicatur, quia [1133A] quod primum ponitur, iure antecedens uocatur, quod posterius, iure
+subsequens dicitur.
+Ex his igitur propositionibus, quae connexae sunt, fit primus et secundus hypotheticorum syllogismorum
+modus. Addita uero negatione propositioni connexae et ex duabus affirmationibus copulatae, atque insuper denegata,
+tertius accedit modus. Ex disiunctis autem propositionibus diuerso modo assumptionibus tactis, quartus et quintus.
+Utrisque uero per negationem compositis, sextus et septimus. Atque hae septem sunt hypotheticae conclusiones,
+quarum M. Tullius in Topicis meminit, quarum omnium deinceps ordo atque exempla subdenda sunt.
+Primus igitur modus est, cum in connexa propositione assumpto eo quod praecedit, uolumus monstrare quod
+sequitur, itaque esse oportere, [1133B] ut est in connexione prolatum. In quo si id quod connexum est ac sequitur,
+assumpserimus, nullus omnino fit syllogismus. Huius exemplum tale est:
+Si dies est, lucet;
+si igitur lucere monstremus, assumamus, nec esse est diem esse, hoc modo, atqui dies est; consequitur ergo ex
+necessitate, lucere. Quod si lucere assumamus, itaque dicamus, atqui lucet, non nec esse est diem esse, atque ideo nulla
+necessitas euenit conclusionis; ubi uero nulla necessitas est, ne syllogismus quidem intelligi potest. Est igitur primus
+modus in hanc formam:
+Si dies est lucet; Dies autem est, Lucet igitur.
+Inueniuntur tamen in quibus aequo modo ualet assumptio, siue praecedens, siue subsequens assumatur, ut in
+homine atque risibili.
+Si enim homo est, risibile [1133C] est; Atqui homo est, Risibile igitur est.
+Atqui risibile est, Homo igitur est.
+Sed in his haec causa est, quia homo atque risibile aequi sunt termini, atque idcirco uno posito alterum
+comitari nec esse est. Sed quia hoc in omnibus non est, idcirco dicimus non esse uniuersale, ut assumpto posteriore,
+quod praecedebat probetur.
+Secundus uero modus est quoties assumpto posteriore atque consequenti quod antecesserat aufertur, hoc modo,
+si dies est, lucet; hic si assumamus non lucere, contrario modo atque in propositione prolatum est; assumamus dicentes,
+atqui non lucet, in eo igitur sequitur non esse diem; quod si diem negemus, id est quod antecedit in assumptione
+contrario modo atque positum est in propositione proferamus, non tollitur quod [1133D] est connexum, ut si dicamus,
+atqui non est dies, non mox sequitur, non lucere, potest enim non esse dies; et tamen lucere. Est igitur secundi modi
+forma huiusmodi:
+Si dies est, lucet; Atqui non lucet, Non est igitur dies.
+Primus igitur modus assumit quod praecessit, ut approbet quod connexam est; non potest uero assumere quod
+connexum est, ut approbet quod praecessit. Secundus autem assumit econtrario quod sequitur, ut quod praecessite
+uertat; non potest autem econtrario assumere quod praecessit, ut id quod connexum est auferatur.
+Tertius modus est, cum inter partes connexae atque ex duabus affirmationibus copulatae propositionis negatio
+interponitur, eaque ipsa negatio denegatur, quae propositio [1134A] *hyperapophatike* Graeco sermone appellatur, ut
+in hac ipsa quam superius proposuimus, si dies est, lux est; si inter huius propositionis partes negatio interueniat, fiet
+hoc modo, si dies est, lux non est; hanc si ulterius denegemus, erit ita, non si dies est, lux non est: cuius propositionis
+ista sententia est, quia si dies est, fieri non potest ut lux non sit. Quae propositio superabnegatiua appellatur, talesque
+sunt omnes in quibus negatio proponitur negationi, ut non est dies, et rursus, Necuon Ausonit Troia gens missa coloni.
+In hac igitur si priorem partem, id est diem esse, in assumptione ponamus, consequitur etiam lucem esse hoc
+modo:
+Non si dies est, lux non est; Atqui dies est, Lux igitur est.
+
+

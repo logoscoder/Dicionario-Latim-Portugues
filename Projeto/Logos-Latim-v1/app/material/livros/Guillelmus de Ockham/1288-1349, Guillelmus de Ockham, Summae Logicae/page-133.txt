@@ -1,0 +1,59 @@
+pro his quae possunt esse uel contingunt esse. Et ideo omnes tales sunt distinguendae 'omnis homo fuit albus',
+'omne album erit homo', 'omne album potest esse homo', 'omnem hominem contingit currere'.
+Intelligendum est tamen quod ista distinctio non cadit a parte praedicati sed tantum a parte subiecti.
+Unde ista non est distinguenda 'Sortes fuit albus', 'Sortes potest esse albus'; et hoc quia praedicatum appellat
+suam formam. Quod est sic intelligendum: non quod supponat pro se uel pro conceptu, sed quod per talem
+propositionem denotatur quod propositio in qua ipsummet praedicatum sub propria forma, hoc est ipsummet et
+non aliud, praedicatur de illo pro quo subiectum supponit, uel de pronomine demonstrante illud praecise pro quo
+subiectum supponit, fuit uera, si talis propositio sit de praeterito; uel quod erit uera, si talis proposito sit de
+futuro; uel quod sit possibilis, si prima propositio sit de possibili; uel necessaria, si prima propositio sit de
+necessario; uel tmpossibilis, si prima propositio sit de impossibili; Vel per se, si prima propositio sit de per se;
+uel per accidens, si prima propositio sit de per accidens. Et sic de aliis propositionibus modalibus. Verbi gratia
+ad ueritatem istius 'album fuit nigrum' non requiritur quod haec unquam fuerit uera 'album est nigrum', sed
+requiritur quod haec fuerit uera 'hoc est nigrum', demonstrando aliquid pro quo subiectum supponit in ista 'album
+fuit nigrum'. Similiter, ad ueritatem istius 'uerum erit impossibile' non requiritur quod haec unquam sit uera
+'uerum est impossibile', sed requiritur quod haec erit uera, si formabitur, 'hoc est impossibile', demonstrando
+aliquid pro quo subiectum supponit in ista 'uerum erit impossibile'. Similiter est de aliis. Sed de istis amplius
+dicetur in tractatu de propositionibus et de consequentiis. Ad propositum dico quod in ista 'Sortes fuit homo'
+praedicatum supponit pro Sorte. Et similiter est de omnibus illis de praeterito et de futuro et de modo, quod
+termini supponentes personaliter supponunt pro illis quae sunt uel fuerunt uel erunt uel possunt esse supposita; et
+si non sit aliquod signum, nec negatio nec aliquid tale impediens, supponunt determinate.
+Intelligendum est tamen quod ista distinctio non cadit a parte praedicati sed tantum a parte subiecti.
+Unde ista non est distinguenda 'Sortes fuit albus', 'Sortes potest esse albus'; et hoc quia praedicatum appellat
+suam formam. Quod est sic intelligendum: non quod supponat pro se uel pro conceptu, sed quod per talem
+propositionem denotatur quod propositio in qua ipsummet praedicatum sub propria forma, hoc est ipsummet et
+non aliud, praedicatur de illo pro quo subiectum supponit, uel de pronomine demonstrante illud praecise pro quo
+subiectum supponit, fuit uera, si talis propositio sit de praeterito; uel quod erit uera, si talis proposito sit de
+futuro; uel quod sit possibilis, si prima propositio sit de possibili; uel necessaria, si prima propositio sit de
+necessario; uel tmpossibilis, si prima propositio sit de impossibili; Vel per se, si prima propositio sit de per se;
+uel per accidens, si prima propositio sit de per accidens. Et sic de aliis propositionibus modalibus. Verbi gratia
+ad ueritatem istius 'album fuit nigrum' non requiritur quod haec unquam fuerit uera 'album est nigrum', sed
+requiritur quod haec fuerit uera 'hoc est nigrum', demonstrando aliquid pro quo subiectum supponit in ista 'album
+fuit nigrum'. Similiter, ad ueritatem istius 'uerum erit impossibile' non requiritur quod haec unquam sit uera
+'uerum est impossibile', sed requiritur quod haec erit uera, si formabitur, 'hoc est impossibile', demonstrando
+aliquid pro quo subiectum supponit in ista 'uerum erit impossibile'. Similiter est de aliis. Sed de istis amplius
+dicetur in tractatu de propositionibus et de consequentiis. Ad propositum dico quod in ista 'Sortes fuit homo'
+praedicatum supponit pro Sorte. Et similiter est de omnibus illis de praeterito et de futuro et de modo, quod
+termini supponentes personaliter supponunt pro illis quae sunt uel fuerunt uel erunt uel possunt esse supposita; et
+si non sit aliquod signum, nec negatio nec aliquid tale impediens, supponunt determinate.
+Sed tunc ad rationem in cotrarium dicendum est quod bene dictum est quod terminus numquam
+supponit pro aliquo nisi de quo uerificatur. Non tamen fuit dictum quod numquam supponit pro aliquo nisi de
+quo uerificatur per uerbum de praesenti, sed sufficit quod aliquando uerificetur per uerbum de praeterito, quando
+supponit pro illo respectu uerbi de praeterito; uel per uerbum de futuro, quando supponit respectu uerbi de
+futuro, et sic de aliis. Sicut patet in ista 'album fuit homo', posito quod nullus homo modo sit albus, sed quod
+Sortes fuerit albus, tunc 'album' supponit pro Sorte, si accipiatur pro his quae fuerunt. Et ideo 'album' uerificatur
+de Sorte non per uerbum de praesenti sed per uerbum de praeterito, nam haec est uera
+'Sortes fuit albus'.
+'Sortes fuit albus'.
+Sed adhuc restat dubitatio: pro quo praedicatum supponit hic 'Sortes fuit albus'? Si pro his quae sunt,
+falsa est:
+Sed adhuc restat dubitatio: pro quo praedicatum supponit hic 'Sortes fuit albus'? Si pro his quae sunt,
+falsa est:
+Dicendum est quod praedicatum supponit pro his quae fuerunt, siue eadem fuerunt quae sunt siue non.
+Et ideo in isto casu capit instantiam illa regula quam dixi alias, scilicet quod terminus semper supponit pro his
+quae sunt, ubicumque ponatur, uel potest pro eis supponere. Nam illam regulam intellexi de termino posito a
+parte subiecti; sed quando ponitur a parte praedicati non est uniuersaliter uera. Unde posito quod nullus homo
+modo sit albus, sed quod fuerint multi homines albi antea, in ista tunc
+133
+
+

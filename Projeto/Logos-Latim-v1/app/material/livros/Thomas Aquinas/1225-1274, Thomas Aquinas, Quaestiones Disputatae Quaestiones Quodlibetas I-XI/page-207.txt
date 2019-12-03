@@ -1,0 +1,61 @@
+|q5 Quaestio 5
+Prologus
+PR
+Deinde quaeritur de his quae pertinent ad gratiam. Et circa hoc quaeruntur tria.
+PR1
+Primo de praecepto honorationis parentum.
+PR2
+Secundo de consilio quantum ad votum obedientiae.
+PR3
+Tertio de voto continentiae.
+|a1 Articulus 1
+TTA
+Utrum aliquis teneatur contrahere ut dote sustentet patrem, si aliter non possit.
+TTB
+Ad primum sic proceditur: videtur quod ille cuius pater non potest sustentari a filio nisi contrahendo accipiat
+dotem, unde patrem nutrire possit, non teneatur contrahere ut patrem sustentet.
+AG1
+Cum enim caritas sit ordinata, plus aliquis tenetur sibi quam patri. Sed laudabile esset, si aliquis propter
+virginitatem servandam se morti exponeret. Ergo non tenetur aliquis pro servanda patris vita matrimonium
+contrahere.
+AG2
+Praeterea, praeceptum non contrariatur consilio. Sed de virginitate servanda est consilium, ut patet I ad Cor., VII,
+25. Ergo per praeceptum de honoratione parentum non obligatur aliquis ad hoc unde virginitatem perdat.
+SC
+Sed contra, praeceptum affirmativum obligat pro loco et tempore. Sed tempus de honoratione parentum est
+quando parentes indigent.
+Ergo tunc obligatur aliquis ex tali praecepto. Et ita videtur quod teneatur matrimonium contrahere, si alias patri
+subvenire non possit.
+CO
+Respondeo. Dicendum, quod casus propositus non videtur esse de facili possibilis. Vix enim contingere potest
+quod aliquis parentes sustentare non possit absque matrimonii contractu, saltem manibus operando, vel
+mendicando.
+Si tamen hoc contingeret, esset idem iudicium de virginitate servanda in isto articulo, et de aliis perfectionis
+operibus, sicut est introitus in religionem, de quo quidam varie opinantur.
+Dicunt enim aliqui, quod si aliquis habet patrem indigentem, debet ei dimittere, si quid habet, ad eius
+sustentationem; et sic potest licite religionem intrare, parentum curam patri caelesti committens, qui etiam aves
+pascit.
+Sed quia haec opinio nimis videtur aspera, ideo melius videtur dicendum, quod aut iste qui habet propositum
+intrandi religionem, videt se in saeculo non posse vivere sine peccato mortali, vel non de facili.
+Si timet sibi periculum peccati mortalis, cum magis teneatur saluti animae suae providere quam corporali
+necessitati parentum, non tenetur in saeculo remanere. Si autem videt se posse in saeculo conversari absque
+peccato, distinguendum videtur: quia si sine eius obsequio parentes nullo modo vivere possunt, sic tenetur eis
+servire et alia opera perfectionis praetermittere, et peccaret eos dimittens; si vero sine eius obsequio possunt
+aliqualiter sustentari, non autem honorifice, non propter hoc tenetur opera perfectionis dimittere.
+Secus autem est de illo qui iam religionem intravit; quia cum iam sit mortuus mundo per professionem, solutus
+est a lege qua in mundanis obsequiis parentibus tenebatur, secundum doctrinam apostoli ad Rom. VII, 6.
+In aliis autem spiritualibus, puta orationibus et huiusmodi, eis tenetur servire.
+Et hoc quod dictum est de introitu religionis, potest etiam de observantia virginitatis et de aliis operibus
+perfectionis dici.
+RA1
+Ad primum ergo dicendum, quod si aliquis non esset virginitatem professus, non deberet mori fame antequam
+matrimonium contraheret.
+RA2
+Ad secundum dicendum, quod praeceptum contrariari consilio, nihil prohibet in casu.
+|a2 Articulus 2
+TTA
+Utrum religiosus qui emisit votum obedientiae, teneatur in omnibus praelato obedire, etiam in indifferentibus.
+TTB
+207
+
+

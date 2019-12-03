@@ -1,0 +1,30 @@
+68 agrippina V630; W411; V1341
+69 murinus V630; W411; V1341
+70 vagalu V630; W411; vagulu V1341
+71 genialus V630
+72 burdigala V630; W411; V1341
+73 flavius V630; W411; V1341
+74 verorum V630; V1341; triverorum W411
+75 aricius V630; W411; V1341
+76 martinus V630; V1341; matinus W411
+77 bitania V630; W411; V1341
+78 civitatis Tuburriacensium fehlt V630; W411; V1341
+79 florentius W411
+80 provincia Hispaniae civitatis Emeritae Liberius episcopus et Florentius diaconus fehlt V630; W411; V1341
+81 civitatis Beticae] ex civitate betica V630; W411; V1341
+82 civitate Ursolensium Natalis presbyter et Citerius diaconus fehlt V630; W411; V1341
+83 civitatis Terracone] ex civitate terracona V630; W411; V1341
+84 probatus V630; V1341
+85 c•saraugusta V630; V1341; cesaragusta W411
+86 rovinus V630; W411; V1341
+87 tebastigentium V630; V1341; bastigentium W411
+88 termanus V630; termarius W411; V1341
+89 et fehlt V630; W411; V1341
+90 diaconus fehlt W411
+91 maritania W411; mauritania V1341; mauritaniae korr. aus mauritania V630
+92 civitatis Caesariensium] cesariensis korr. aus cesariense V630; cesariense W411; V1341
+93 furtunatus W411
+94 sardinia W411; V1341
+95 civitatis Caralis fehlt V630; W411; V1341
+
+

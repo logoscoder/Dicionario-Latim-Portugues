@@ -1,0 +1,58 @@
+Sed videtur secundum hoc quod non omnia corpora caelestia circulariter moveantur: nam, secundum
+Ptolomaeum, motus planetarum est in excentricis et epicyclis; qui quidem motus non sunt circa medium mundi,
+quod est centrum terrae, sed circa quaedam alia centra. Dicendum est autem quod Aristoteles non fuit huius
+opinionis, sed existimavit quod omnes motus caelestium corporum sunt circa centrum terrae, ut ponebant
+astrologi sui temporis. Postmodum autem hipparchus et Ptolomaeus adinvenerunt motus excentricorum et
+epicyclorum, ad salvandum ea quae apparent sensibus in corporibus caelestibus.
+Unde hoc non est demonstratum, sed suppositio quaedam. Si tamen hoc verum sit, nihilominus omnia corpora
+caelestia moventur circa centrum mundi secundum motum diurnum, qui est motus supremae sphaerae
+revolventis totum caelum.
+|#8 Deinde cum dicit: rectus autem etc., distinguit motum rectum in duos, scilicet in eum qui est sursum, et in
+eum qui est deorsum: et describit utrumque per habitudinem ad medium mundi, sicut descripserat motum
+circularem, ut sit uniformis descriptio. Et dicit quod motus sursum est qui est a medio mundi; motus autem
+deorsum qui est ad medium mundi. Quorum primus est motus levium, secundum motus gravium.
+|#9
+Deinde cum dicit: itaque necesse etc., concludit numerum simplicium motuum. Et primo inducit
+conclusionem intentam: et dicit quod necesse est simplicem lationem, idest motum localem, quendam esse a
+medio, et hic est motus sursum corporum levium; quendam vero esse ad medium, et hic est motus deorsum
+corporum gravium; alium vero esse circa medium, et huiusmodi est motus circularis corporum caelestium.
+|#10 Secundo ibi: et videtur sequi etc., ostendit hanc conclusionem supra dictis congruere.
+Et dicit quod hoc quod dictum est de numero simplicium motuum, videtur consequenter se habere ad id quod
+supra dictum est de perfectione corporis: sicut enim perfectio corporis consistit in tribus dimensionibus, ita et
+motus simplices corporis in tres distinguuntur. Hoc autem dicit esse secundum rationem, idest secundum
+probabilitatem quandam: non enim proprie tres motus coaptantur tribus dimensionibus.
+|#11 Deinde cum dicit: quoniam autem corporum etc., ponit quaedam ex parte corporum mobilium.
+Circa quod sciendum est quod, sicut habitum est in III physic., motus est actus mobilis; actus autem
+proportionatur perfectibili; unde oportet motus proportionari corporibus mobilibus. Sunt autem corporum
+quaedam simplicia, quaedam composita. Simplex autem corpus est quod habet principium alicuius naturalis
+motus in seipso; sicut patet de igne, qui est simpliciter levis, et de terra, quae est simpliciter gravis, et de
+speciebus horum (sicut flamma dicitur esse quaedam species ignis, et bitumen quaedam species terrae)p addit
+autem et cognata his, propter media elementa; quorum aer habet maiorem affinitatem cum igne, aqua vero cum
+terra. Et per consequens necesse est corpus mixtum esse quod non habet in se secundum propriam naturam
+principium alicuius motus simplicis. Et ex hoc concludit quod necesse est motuum quosdam esse simplices,
+quosdam autem aliqualiter mixtos: sive ita quod motus mixtus non sit unus, sed habens diversas partes, sicut ille
+qui componitur ex elevatione et depressione, aut ex pulsu et tractu; sive ita quod motus mixtus sit unus, sicut
+patet de motu qui in obliquum tendit, et de motu qui est super lineam elicam. Unde simplicium corporum
+necesse est esse simplices motus: mixtorum autem, mixtos, ut patet de motu pluviae aut alicuius huiusmodi
+corporis, in quo non totaliter gravitas aut Levitas dominatur. Et si aliquando contingat quod corpus mixtum
+moveatur motu simplici, hoc erit secundum elementum in eo praedominans; sicut ferrum movetur deorsum
+secundum motum terrae, quae in eius mixtione dominatur.
+|+4 Lectio 4
+|#1 Postquam Philosophus praemisit quaedam necessaria ad propositum ostendendum, hic incipit arguere ad
+propositum; et hoc quinque rationibus.
+Quarum prima talis est. Motus circularis est motus simplex: motus autem simplex est primo et per se simplicis
+corporis (quia etsi contingat quod aliquis motus simplex sit alicuius corporis compositi, hoc erit secundum
+corpus simplex quod in eo praedominatur; sicut in lapide praedominatur terra, secundum cuius naturam movetur
+deorsum): ergo necesse est esse aliquod corpus simplex, quod moveatur naturaliter secundum motum circularem.
+Posset autem aliquis huic rationi obviare, dicendo quod, licet simplex motus sit simplicis corporis, non tamen
+oportet quod illud simplex corpus quod movetur circulariter, sit aliud a corpore simplici quod movetur motu
+simplici recto.
+Et ideo hoc excludit, subdens quod nihil prohibet quin diversa corpora moveantur uno motu non naturaliter, ita
+scilicet quod unum corpus moveatur per violentiam motu alterius; sed quod unum corpus moveatur secundum
+naturam motu naturali alterius corporis, est impossibile. Necesse enim est esse unum motum simplicem
+naturalem unius simplicis corporis, et diversos diversorum. Unde, si motus circularis est simplex, et alius a
+motibus rectis, necesse est quod sit naturalis corpori simplici, quod sit aliud a corporibus simplicibus quae
+moventur motu recto.
+7
+
+

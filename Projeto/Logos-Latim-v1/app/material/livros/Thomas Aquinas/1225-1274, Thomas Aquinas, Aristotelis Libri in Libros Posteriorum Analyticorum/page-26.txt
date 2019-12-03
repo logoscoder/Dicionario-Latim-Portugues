@@ -1,0 +1,59 @@
+autem sic ordinandae sunt demonstrationes, ut ex universalibus propositionibus inferatur universalis conclusio,
+removendo illa, in quibus potest esse defectus vel ex parte temporis tantum vel etiam ex parte causae.
+|+17 Lectio 17
+|#1 Ostenderat supra Philosophus quod demonstratio non procedit ex principiis extraneis; hic autem ostendit
+quod non procedit ex communibus. Et circa hoc duo facit: primo, ostendit propositum; secundo, inducit quandam
+conclusionem ex dictis; ibi: si autem hoc est etc.. Circa primum tria facit.
+Primo, proponit intentum dicens quod, quia manifestum est quod non contingit unumquodque per unumquodque
+demonstrare, sed oportet quod demonstratio fiat ex unoquoque principiorum, hoc modo, quod id quod
+demonstratur sit secundum quod est illud, idest, oportet quod principia demonstrationis insint per se ei, quod
+demonstratur; si, inquam, ita est, non sufficit, ad hoc quod aliquid sciatur, quod demonstretur ex veris et
+immediatis, sed oportet ulterius quod demonstretur ex principiis propriis.
+|#2 Secundo; ibi: est enim sic demonstrare etc., probat propositum, scilicet quod non sufficiat ex veris et
+immediatis aliquid demonstrare, quia sic contingeret aliquid demonstrare, sicut bryso demonstravit
+tetragonismum, idest quadraturam circuli, ostendens aliquod quadratum esse circulo aequale per aliqua principia
+communia, hoc modo: in quocunque genere est invenire aliquid maius et minus alicui, in eodem est invenire et
+illi aequale; in genere autem quadratorum est invenire aliquod quadratum minus circulo, quod scilicet scribitur
+intra circulum, et aliquod maius circulo, intra quod circulus describitur; ergo est invenire aliquod quadratum
+circulo aequale. Haec quidem probatio est secundum commune: aequale enim, et maius, et minus, excedunt
+genus quadranguli et circuli. Unde patet quod huiusmodi rationes demonstrant secundum aliquod commune, quia
+medium alteri inest, quam ei de quo fit demonstratio; et ideo huiusmodi rationes conveniunt aliis, et non
+conveniunt istis, de quibus dantur, tanquam proximis. Unde patet quod qui scit per huiusmodi rationes, non scit
+secundum quod illud est, idest per se, sed per accidens tantum. Si enim esset secundum se, non conveniret
+demonstratio in aliud genus. Unumquodque enim scimus secundum accidens, cum non cognoscimus illud
+secundum quod est ex principiis illius, idest secundum quod est ex principiis per se. Sicut habere tres angulos
+aequales duobus rectis inest per se triangulo, idest secundum quod est ex principiis illius.
+Quare si per se inesset medium acceptum conclusioni, necesse esset in eadem proximitate esse, idest proximum
+esse secundum genus conclusioni.
+|#3
+Tertio; ibi: si vero non etc., excludit quandam dubitationem. Contingit enim aliquando medium
+demonstrationis non esse in eodem genere cum conclusione. Quod qualiter contingat ostendit dicens: si vero non
+sit medium in eadem proximitate conclusioni, sed hoc modo sicut demonstratur aliquid in harmonica, idest in
+musica, per arithmeticam; verum quidem est quod huiusmodi etiam similiter demonstratur. Fit enim
+demonstratio in inferiori scientia per principia superioris scientiae, ut ostensum est; sicut et in scientia superiori
+per principia superioris. Sed in hoc differt, quod alterius scientiae, scilicet inferioris, est scire ipsum quia tantum:
+genus enim subiectum inferioris scientiae est alterum a genere subiecto superioris scientiae, ex qua sumuntur
+principia.
+Sed scire propter quid est superioris scientiae, cuius sunt per se illae passiones. Cum enim passio insit subiecto
+propter medium, illa scientia considerabit propter quid, ad quam pertinet medium, cuius per se est passio, quae
+demonstratur. Si vero subiectum sit ad aliam scientiam pertinens, illius scientiae non erit propter quid, sed quia
+tantum; nec tali subiecto per se conveniet passio demonstrata de ipso, sed per medium extraneum.
+Si vero medium et subiectum pertineant ad eamdem scientiam, tunc illius scientiae erit scire quia et propter quid.
+Remota autem dubitatione, ulterius conclusionem intentam principaliter inducit, dicens quod ex praedictis patet
+quod non est demonstrare unumquodque simpliciter, idest quocunque modo, sed secundum hoc quod
+demonstratur ex propriis principiis uniuscuiusque. Sed et principia propria singularum scientiarum habent
+aliquod commune prius eis.
+|#4 Deinde cum dicit: si autem hoc etc., inducit quandam conclusionem sequentem ex dictis.
+Et circa hoc tria facit. Primo, inducit conclusionem dicens quod, si hoc verum est, scilicet quod demonstrationes
+in singulis scientiis non fiunt ex communibus principiis, et iterum quod principia scientiarum habent aliquid
+prius se, quod est commune; manifestum est quod non est uniuscuiusque scientiae demonstrare principia sua
+propria.
+Illa enim priora principia, per quae possent probari singularum scientiarum propria principia, sunt communia
+principia omnium, et illa scientia, quae considerat huiusmodi principia communia, est propria omnibus, idest ita
+se habet ad ea, quae sunt communia omnibus, sicut se habent aliae scientiae particulares ad ea, quae sunt propria.
+Sicut cum subiectum arithmeticae sit numerus, ideo arithmetica considerat ea, quae sunt propria numeri: similiter
+prima philosophia, quae considerat omnia principia, habet pro subiecto ens, quod est commune ad omnia; et ideo
+considerat ea, quae sunt propria entis, quae sunt omnibus communia, tanquam propria sibi.
+26
+
+

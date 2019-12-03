@@ -1,0 +1,52 @@
+EDITORIAL POLICY
+SECTION 1. GENERAL PRINCIPLES
+The aims of the project are
+
+
+to produce a critical edition of the text,
+
+
+
+to clarify the history of the composition and transmission of the text as far as possible,
+
+
+
+
+to provide historical and analytic introductions and notes relating to the content of the text, and
+to provide an English translation of the text.
+
+We will aim at producing a printed edition of the Latin text comparable with Offler's four
+volumes. Drafts of material for the printed volumes, materials relating to the history of the
+text too detailed to be included in the printed volumes, and the English translation will be
+posted on the Web site, http://www.britac.ac.uk/pubs/dialogus/.
+Text
+1. Our aim is to produce a text as close as possible to the text Ockham himself intended
+to circulate. (see note 1)
+2. We will not collate every MS, but we will collate MSS from each of the main groups
+or families. In establishing the text we will give most weight to readings well
+represented across these groups, dates of MSS, consistency with Ockham's style of
+thinking and writing and the logic of the argument, not giving any consideration
+automatic preference. In the end an editor must exercise judgment in balancing
+conflicting considerations.
+3.
+4.
+
+We will include 2 Dial. (even though it was not originally written for inclusion in the Dialogus).
+We will be guided by the editorial conventions established by H.S. Offler in Opera politica, vols. 1-4,
+but we will depart from these where there is some good reason. See below, "Section 2, Editorial
+Conventions".
+
+Translation
+5. The Latin text will be accompanied on the Web by an English translation (or, in the
+case of Part 2, a German and an English translation). Translators will standardise the
+translations of important terms and will develop a uniform translation policy. Subject
+to this policy, the original translator will be responsible for deciding the final version
+of his translation, after receiving comments.
+Annotations
+6. Texts that Ockham quotes, refers to or uses will be identified in footnotes. There will
+be cross-references and explanatory notes. There will be introductions dealing with the
+composition and transmission of the text and problems of editing and with the subject
+matter of the text.
+1002
+
+

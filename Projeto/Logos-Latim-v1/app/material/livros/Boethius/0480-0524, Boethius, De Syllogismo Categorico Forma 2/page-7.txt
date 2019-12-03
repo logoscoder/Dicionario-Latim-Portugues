@@ -1,0 +1,62 @@
+Res admonet ut quaedam de indefinitis propositionibus consideremus.
+Indefinitae etenim propositiones aequam uim retinent particularibus propositionibus. Dictum est enim quod si
+uniuersales uel affirmatiuae uel negatiuae in subalternis propositionibus essent uerae, essent quoque uerae particulares.
+Nunc uero dicimus quod si uniuersalis propositiones uerae fuerint, uerae erunt etiam indefinitas. Nam si uera est:
+Omnis homo bipes est
+uera est etiam:
+Quidam homo bipes est
+uera erit etiam indefinita quae dicit:
+Homo bipes est.
+Item dictum est quod si particulares falsae essent, falsae essent etiam uniuersales, nunc uero dicendum est
+quod si indefinita falsa fuerit, falsa erit etiam uniuersalis. Nam si falsa est quae dicit:
+Homo quadrupes est
+falsa erit etiam quae dicit:
+Quidam homo quadrupes est
+et:
+Omnis homo quadrupes est.
+Atque idem hoc etiam in negatiuis conuenire uidetur. Unde constat quod omnes indefinitae particularibus
+propositionibus aequam uim continent.
+Rursus dictum est quod subcontrariae, quae particulares affirmatiuae et negatiuae sunt, simul uerae esse
+possunt, diuidere etiam uerum falsumque [803A] ualent, simul uero falsae esse non posse. Hoc idem in indefinitis
+propositionibus exspectandum est. Nam diuidunt inter se uerum falsumque, ut si quis dicat:
+Homo bipes est
+uera est;
+Homo bipes non est
+falsa est, et item:
+Homo quadrupes est
+falsa est;
+Homo quadrupes non est
+uera est; uerae autem simul inueniri possunt, ut si quis dicat:
+Homo grammaticus est
+si quis hoc dicat de Donato, uerum est. Item:
+Homo grammaticus non est
+si quis hoc dicat de Catone, uerum est, ut simul falsae sint nunquam reperiemus. Hinc quoque ostenditur
+indefinitas cum particularibus aequali esse potentia.
+Amplius quod dictum est, contraiacentes, id est uniuersalem affirmatiuam et particularem negatiuam, et item
+uniuersalem negatiuam et particularem affirmatiuam neque [803B] ueras simul esse neque falsas sed inter se diuidere
+uerum falsumque, hoc idem euenit in indefinitis. Nam uniuersalis affirmatiua et indefinita negatiua, uel uniuersalis
+negatiua et indefinita affirmatiua, neque uerae simul esse possunt, neque simul falsae. Diuiduntur autem inter se uerum
+falsumque: nam si dixeris:
+Omnis homo bipes est
+uera est; et si dicas:
+Homo bipes non est
+falsa est. Item si dixeris:
+Homo quadrupes est
+falsa est, si dixeris,
+Nullus homo quadrupes est
+uera est: unde hinc quoque colligere licet omnes indefinitas potestate et ui aequales esse particularibus.
+Sunt etiam quaedam propositiones quae diuidunt quidem et ipsae uerum et falsum, ut:
+Deus fulminat
+Deus non fulminat.
+Sed istae tunc diuidunt inter se uerum et falsum, cum idem tempus, [803C] idem subiectum, idem praedicatum
+sit. Quod autem dico tale est, si aequiuocum subiectum fuerit, non diuidunt uerum et falsum. Si quis enim dicat:
+Cato se Uticae occidit
+et respondeatur:
+Cato se Uticae non occidit
+utraeque uerae sunt. Nam et Cato Minor se peremit, et Cato Censorius se Uticae non occidit. Sed hoc idcirco
+euenit, quod Catonis nomen aequiuoce dicitur, dicitur enim et Maior Cato Censorius, et Minor Uticensis. Item si
+aequiuoca fuerit in propositione praedicatio, uerum inter se affirmatio negatioque non diuidunt. Si quis enim sic dicat:
+In nocte lucet
+et respondeatur:
+
+

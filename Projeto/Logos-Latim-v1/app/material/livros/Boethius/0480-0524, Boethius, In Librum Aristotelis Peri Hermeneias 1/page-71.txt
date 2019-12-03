@@ -1,0 +1,51 @@
+AMPLIUS, SI ETIAM IN ALIIS SIMILITER OPORTET SE HABERE, ET HIC VIDEBITUR BENE ESSE
+DICTUM AUT ENIM UBIQUE EA QUAE EST CONTRADICTIONIS AUT NUSQUAM.
+Aut in omnibus, inquit, uere dicitur contradictionem magis esse contrariam quam contrarii affirmationem aut
+nusquam. Aut enim et in allis quoque idem euenire oportet aut ne hic quidem uerum est quod dicitur contrariam
+esse eam quae contradictionis est id est negationis potius quam contrarii affirmationem. Hoc autem speculemur,
+inquit, in his quae contrarium non habent, ut in homine. Si quis enim putet hominem hominem esse, uera est; si
+quis uero hominem putet non esse hominem, falsa est. Si quis autem putet hominem equum esse, nullus dixerit
+hanc magis esse contrariam, quae putat hominem equum esse, quam quae hominem non esse hominem
+arbitratur. Quare si in his quae contraria non habent illa contraria est quae contradictione formatur, in his quoque
+quae habent contraria non contrarii /220/ affirmatio sed negationis propositio magis contraria est.
+AMPLIUS SIMILITER SE HABET BONI QUONIAM BONUM EST ET NON BONI QUONIAM NON
+BONUM EST, ET SUPER HAS BONI QUONIAM NON BONUM EST ET NON BONI QUONIAM BONUM
+EST.
+Ex similitudine et proportione contrarietatis uim propositionum inuestigare conatur. Sed has prius disponamus,
+post autem quantum potest breuiter uim Aristotelicae argumentationis exsequemur.
+VERA
+boni quoniam bonum est
+FALSA
+boni quoniam bonum non est
+VERA
+non boni quoniam non bonum est
+FALSA
+non boni quoniam bonum est
+Harum quattuor opinionum duae uerae sunt, duae falsae. Illa quidem quae est boni quoniam bonum est uera est,
+illa uero quae est boni quoniam bonum non est falsa est; rursus illa quae est non boni quoniam bonum non est
+uera est, illa uero quae est non boni quoniam bonum est falsa est. Ergo haec est similitudo et proportio harum
+quattuor propositionum. Nam quemadmodum se habet opinio boni quoniam bonum est ad eam opinionem quae
+est boni quoniam /221/ bonum non est, eodem modo sese habet opinio quae est non boni quoniam non bonum est
+ad eam quae est non boni quoniam bonum est. Nam sicut illic una uera est, falsa altera, ita quoque hic una uera
+est, altera falsa. Capit igitur exemplum prius ab ea quae est non boni quoniam non bonum est. Haec enim, inquit,
+cum uera sit, quam huic ponemus esse contrariam? Eamne quae dicit malum est? Sed non est contraria. Potest
+enim simul esse uera et ea quae dicit non esse bonum quod bonum non est et ea quae dicit malum esse quod
+bonum non est. Sunt enim quaedam non bona quae mala sunt. Quccirca contrariae non sunt, in quibus proponitur
+quod non bonum est bonum non esse et quod non est bonum malum esse. Contrariae enim uerae simul nequeunt
+inueniri et uera uerae contraria numquam est. Sed nec illa poterit huic esse contraria, quae dicit non malum esse
+quod bonum non est. Possunt enim quaedam non quidem esse bona, nec tamen mala, ut ex arbore nullius
+utilitatis causa ramum defringere, si arborem nihil laedat, neque malum neque bonum est. Quare uerae simul
+possunt esse et hae quoque quae opinantur id quod est non bonum quoniam non bonum est et id quod est non
+bonum quoniam malum non est. Quare nec hae sunt contrariae.
+Restat igitur /222/ ut eius opinionis quae est non boni quoniam non bonum est ea sit contraria quae est non boni
+quoniam bonum est. Quod si in his quattuor propositionibus quas supra descripsimus similitudo seruatur et sicut
+est opinio non boni quoniam non bonum est ad eam quae est non boni quoniam bonum est, sic opinio boni
+quoniam bonum est ad opinionem boni quoniam bonum non est, contraria autem est opinio non boni quoniam
+bonum non est opinioni non boni quoniam bonum est: contraria igitur erit opinioni boni quoniam bonum est
+opinio boni quoniam bonum non est.
+MANIFESTUM VERO QUONIAM NIHIL INTEREST, NEC SI UNIVERSALITER PONAMUS
+AFFIRMATIONEM; HUIC ENIM UNIVERSALIS NEGATIO CONTRARIA ERIT.
+
+71
+
+

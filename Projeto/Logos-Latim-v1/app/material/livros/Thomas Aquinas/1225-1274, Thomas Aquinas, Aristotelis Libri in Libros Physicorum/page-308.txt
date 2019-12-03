@@ -1,0 +1,64 @@
+quod ab aliquo alio moveatur: sic ergo homo est primum movens propter
+seipsum, et movet lapidem per plura media; si autem moveret lapidem manu,
+moveret per unum medium tantum.
+|#3
+Secundo ibi: utraque igitur movere dicimus etc., ponit comparationem
+primi moventis et secundi. Cum enim tam primum movens quam ultimum movere
+dicamus, dicimus quod magis movet primum movens quam ultimum.
+Et hoc patet per duas rationes. Quarum prima est, quod primum movens movet
+secundum movens, sed non e converso. Secunda ratio est, quia secundum
+movens non potest movere sine primo, sed primum movens potest movere sine
+secundo; sicut baculus non potest movere lapidem nisi moveatur ab homine,
+sed homo potest movere etiam sine baculo.
+|#4
+Deinde cum dicit: si ergo necesse etc., ostendit propositum secundum
+praemissa. Ostensum est enim quod omne quod movetur, ab aliquo movetur.
+Illud autem a quo movetur, aut movetur aut non movetur; et si movetur, aut
+ab alio movetur aut non. Haec autem duo, scilicet quod movetur ab alio, et
+quod movetur non ab alio, sic se habent quod posito uno ponitur aliud, et
+non e converso. Quia si sit aliquid quod movetur ab alio, necesse est
+devenire ad aliquod primum quod non movetur ab alio; sed si ponatur aliquod
+primum huiusmodi, scilicet quod non moveatur ab alio, non est necessarium
+ulterius ponere alterum, scilicet quod movetur ab alio.
+Et hoc quidem per se manifestum est: sed primum poterat esse dubium,
+scilicet quod si invenitur aliquid quod movetur ab alio, quod inveniatur
+aliquod primum quod non movetur ab alio; et ideo consequenter hoc probat
+sic.
+Quia si aliquid movetur ab alio, et iterum illud ab alio, et nunquam est
+devenire ad aliquid quod non moveatur ab alio, sequitur quod sit procedere
+in infinitum in moventibus et motis. Et hoc quidem esse impossibile, supra
+probatum est in septimo: sed hic probat certiori via, quia in infinitis non
+est aliquid primum. Si ergo moventia et mota procedant in infinitum, non
+erit aliquid primum movens. Iam autem dictum est, quod si primum movens non
+movet, nec ultimum movet: non ergo erit aliquod movens: quod est manifeste
+falsum. Non est ergo procedere in infinitum in hoc quod aliquid moveatur ab
+alio.
+Si ergo detur quod omne quod movetur ab aliquo movetur, ut ostensum est; et
+iterum supponatur quod primum movens movetur: cum probatum sit quod non
+moveatur ab alio, necesse est quod moveatur a seipso.
+Est autem in hac ratione attendendum, quod primum movens moveri non est hic
+probatum; supponit autem hoc secundum communem opinionem Platonicorum.
+Quantum autem ad virtutem rationis, non magis concluditur quod primum
+movens moveat seipsum, quam quod sit immobile: unde in sequentibus hanc
+eandem conclusionem sub disiunctione inducit, ut infra patebit.
+|#5
+Deinde cum dicit: amplius autem et sic ipsam etc., probat idem
+descendendo. Et est eadem ratio cum praemissa quantum ad virtutem
+inferendi, differens autem secundum ordinem processus: iterat autem eam ad
+maiorem manifestationem.
+Dicit ergo quod praedictam rationem contingit alio modo prosequi. Et
+praemittit propositiones habentes eandem rationem veritatis cum supra
+praemissis, sed alio ordine. Supra enim praemisit quod omne quod movetur ab
+alio movetur, et quod illud a quo movetur, movet vel propter seipsum, vel
+propter aliud prius movens; quod erat procedere ascendendo.
+Hic autem e converso descendendo procedit, dicens quod omne movens movet
+aliquid et movet aliquo, vel seipso vel alio inferiori movente; sicut homo
+movet lapidem vel ipse per seipsum vel per baculum, et ventus proiicit ad
+terram aliqua aut suo impulsu aut per lapidem quem movit.
+Iterum supra praemiserat quod ultimum movens non movet sine primo, sed e
+converso: loco cuius hic dicit, quod id quo aliquid movet sicut
+instrumento, impossibile est quod aliquid moveat sine principali movente
+quod movebat ipsum, sicut baculus sine manu; sed si aliquid movet per
+308
+
+

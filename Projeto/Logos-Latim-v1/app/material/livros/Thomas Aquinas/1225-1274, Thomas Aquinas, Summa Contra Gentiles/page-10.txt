@@ -1,0 +1,52 @@
+Non autem intelligitur de esse quod significat compositionem intellectus. Sic enim esse Deum sub
+demonstratione cadit, dum ex rationibus demonstrativis mens nostra inducitur huiusmodi propositionem de Deo
+formare qua exprimat Deum esse.
+|#8 In rationibus autem quibus demonstratur Deum esse, non oportet assumi pro medio divinam essentiam sive
+quidditatem, ut secunda ratio proponebat: sed loco quidditatis accipitur pro medio effectus, sicut accidit in
+demonstrationibus quia; et ex huiusmodi effectu sumitur ratio huius nominis Deus. Nam omnia divina nomina
+imponuntur vel ex remotione effectuum divinorum ab ipso, vel ex aliqua habitudine Dei ad suos effectus.
+|#9 Patet etiam ex hoc quod, etsi Deus sensibilia omnia et sensum excedat, eius tamen effectus, ex quibus
+demonstratio sumitur ad probandum Deum esse, sensibiles sunt. Et sic nostrae cognitionis origo in sensu est
+etiam de his quae sensum excedunt.
+
+|+13 Capitulus 13: Rationes ad probandum Deum esse.
+|#1 Ostenso igitur quod non est vanum niti ad demonstrandum Deum esse, procedamus ad ponendum rationes
+quibus tam Philosophi quam doctores catholici Deum esse probaverunt.
+|#2 Primo autem ponemus rationes quibus Aristoteles procedit ad probandum Deum esse. Qui hoc probare
+intendit ex parte motus duabus viis.
+|#3 Quarum prima talis est: omne quod movetur, ab alio movetur. Patet autem sensu aliquid moveri, utputa
+solem.
+Ergo alio movente movetur.
+Aut ergo illud movens movetur, aut non. Si non movetur, ergo habemus propositum, quod necesse est ponere
+aliquod movens immobile. Et hoc dicimus Deum.
+Si autem movetur, ergo ab alio movente movetur. Aut ergo est procedere in infinitum: aut est devenire ad
+aliquod movens immobile. Sed non est procedere in infinitum.
+Ergo necesse est ponere aliquod primum movens immobile.
+|#4 In hac autem probatione sunt duae propositiones probandae: scilicet, quod omne motum movetur ab alio; et
+quod in moventibus et motis non sit procedere in infinitum.
+|#5 Quorum primum probat Philosophus tribus modis.
+Primo, sic. Si aliquid movet seipsum, oportet quod in se habeat principium motus sui: alias, manifeste ab alio
+moveretur.
+Oportet etiam quod sit primo motum: scilicet quod moveatur ratione sui ipsius, et non ratione suae partis, sicut
+movetur animal per motum pedis; sic enim totum non moveretur a se, sed sua pars, et una pars ab alia.
+Oportet etiam ipsum esse divisibile, et habere partes: cum omne quod movetur sit divisibile, ut probatur in VI
+physic..
+|#6 His suppositis sic arguit. Hoc quod a seipso ponitur moveri, est primo motum.
+Ergo ad quietem unius partis eius, sequitur quies totius. Si enim, quiescente una parte, alia pars eius moveretur,
+tunc ipsum totum non esset primo motum, sed pars eius quae movetur alia quiescente. Nihil autem quod quiescit
+quiescente alio, movetur a seipso: cuius enim quies ad quietem sequitur alterius, oportet quod motus ad motum
+alterius sequatur; et sic non movetur a seipso. Ergo hoc quod ponebatur a seipso moveri, non movetur a seipso.
+Necesse est ergo omne quod movetur, ab alio moveri.
+|#7 Nec obviat huic rationi quod forte aliquis posset dicere quod eius quod ponitur movere seipsum, pars non
+potest quiescere; et iterum quod partis non est quiescere vel moveri nisi per accidens; ut Avicenna calumniatur.
+Quia vis rationis in hoc consistit, quod, si aliquid seipsum moveat primo et per se, non ratione partium, oportet
+quod suum moveri non dependeat ab aliquo; moveri autem ipsius divisibilis, sicut et eius esse, dependet a
+partibus; et sic non potest seipsum movere primo et per se. Non requiritur ergo ad veritatem conclusionis
+inductae quod supponatur partem moventis seipsum quiescere quasi quoddam verum absolute: sed oportet hanc
+conditionalem esse veram, quod, si quiesceret pars, quod quiesceret totum. Quae quidem potest esse vera etiam
+si antecedens sit impossibile: sicut ista conditionalis est vera, si homo est asinus, est irrationalis.
+|#8 Secundo, probat per inductionem, sic. Omne quod movetur per accidens, non movetur a seipso. Movetur
+enim ad motum alterius. Similiter neque quod movetur per violentiam: ut manifestum est.
+10
+
+

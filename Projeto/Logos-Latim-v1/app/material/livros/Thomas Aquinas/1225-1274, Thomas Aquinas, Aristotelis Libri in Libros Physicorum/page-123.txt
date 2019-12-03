@@ -1,0 +1,66 @@
+Quarum prima est, quod contentum continuum continenti, non movetur in
+continente, sed simul cum illo, sicut pars simul cum toto: sed quando est
+divisum contentum a continente, tunc potest moveri in illo, sive continens
+moveatur sive non; homo enim movetur in navi, vel quiescente vel mota. Cum
+ergo aliquid moveatur in loco, sequitur quod locus sit continens divisum.
+|#10
+Secundam rationem ponit ibi: amplius, cum non divisum sit etc..
+Et dicit quod cum contentum non sit divisum a continente sed continuum ei,
+tunc dicitur esse in eo sicut pars in toto; ut visus est sicut pars
+formalis in oculo, et manus sicut pars organica in corpore: sed cum divisum
+est contentum a continente, tunc dicitur esse in eo ut in vase, sicut aqua
+in cado et vinum in scypho: quorum haec est differentia, quod manus movetur
+cum corpore sed non in corpore, sed aqua movetur in cado.
+Cum ergo supra dictum sit quod esse in loco sit sicut esse in vase, non
+autem sicut pars in toto, sequitur quod locus sit sicut continens divisum.
+|+6
+
+Lectio 6
+
+|#1
+Praemissis his quae sunt necessaria ad investigandum definitionem
+loci, hic investigat loci definitionem.
+Et circa hoc tria facit: primo investigat particulas definitionis; secundo
+concludit definitionem, ibi: quare terminus etc., tertio ostendit eam bene
+assignatam, ibi: et propter hoc medium etc..
+Circa primum duo facit: primo investigat genus loci; secundo differentiam
+completivam definitionis eius, ibi: videtur autem magnum aliquid etc..
+Ad investigandum autem genus loci utitur divisione quadam. Unde circa hoc
+tria facit: primo proponit divisionem; secundo excludit tria membra
+divisionis, ibi: horum autem, quod non contingat etc.; tertio concludit
+quartum, ibi: si igitur nihil horum etc..
+|#2
+Dicit ergo primo quod iam ex praemissis potest esse manifestum quid
+sit locus.
+Videtur enim secundum ea quae consueverunt de loco dici, quod locus sit
+unum de quatuor; scilicet vel materia, vel forma, vel aliquod spatium inter
+extrema continentis; vel si nullum spatium est inter extrema continentis,
+quod habeat aliquas dimensiones, praeter magnitudinem corporis quod ponitur
+infra corpus continens, oportebit dicere quartum, scilicet quod extrema
+corporis continentis sit locus.
+|#3
+Deinde cum dicit: horum autem, quod non contingat etc., excludit tria
+membra praedictae divisionis.
+Et primo proponit quod intendit, dicens manifestum esse per sequentia, quod
+non contingit locum esse aliquod horum trium.
+Secundo prosequitur, ibi: sed propter id quod continet, videtur forma etc.:
+et primo de forma; secundo de spatio, ibi: sed ex eo quod mutatur etc.;
+tertio de materia, ibi: et materia etiam videtur etc..
+|#4
+Circa primum duo facit: primo ponit quare forma videatur esse locus:
+quia scilicet forma continet; quod videtur esse proprium loci. Extrema vero
+corporis continentis et contenti sunt simul, cum continens et contentum
+sint contigua ad invicem: et sic terminus continens, qui est locus, non
+videtur separatus esse a termino corporis contenti; et sic videtur locus
+non differre a forma.
+|#5
+Secundo, ibi: sunt quidem igitur utraque etc., ostendit quod forma
+non sit locus.
+Quia quamvis locus et forma in hoc conveniant, quod utrumque eorum est
+quidam terminus, non tamen unius et eiusdem; sed forma est terminus
+corporis cuius est forma, locus autem non est terminus corporis cuius est
+locus, sed corporis continentis ipsum; et licet sint simul termini
+continentis et contenti, non tamen sunt idem.
+123
+
+

@@ -1,0 +1,62 @@
+Augustinus, quod si removeamus omnes rationes particulationis ab ipsa bonitate, remanebit in intellectu bonitas
+integra et plena, quae est bonitas divina, quae videtur in bonitate creata sicut exemplar in exemplato.
+RA4
+Ad quartum dicendum, quod exemplar rerum est in Deo dupliciter. Vel quantum ad id quod est in intellectu suo,
+et sic secundum ideas est exemplar intellectus divinus omnium quae ab ipso sunt, sicut intellectus artificis per
+formam artis omnium artificiatorum. Vel quantum ad id quod est in natura sua, sicut ratione suae bonitatis qua
+est bonus, est exemplar omnis bonitatis; et similiter est de veritate. Unde patet quod non eodem modo Deus est
+exemplar coloris et veritatis, et ideo objectio non procedit.
+RA5
+Ad ultimum dicendum, quod quamvis malum non sit bonum, nec sit a Deo, nihilominus intelligere malum
+bonum est, et a Deo est; et ideo veritas quae consistit in commensuratione intellectus ad privationem existentem
+extra animam, bona est, et a Deo; et ideo dicit Ambrosius, quod omne verum, a quocumque dicatur, a spiritu
+sancto est.
+|a3 Articulus 3: Utrum sint plures veritates aeternae.
+AG1
+Ad tertium sic proceditur. Videtur quod sint plures veritates aeternae. Sicut enim patet ex dictis, diversarum
+propositionum diversae sunt veritates.
+Sed: pater est Deus, filius est Deus, sunt duae propositiones. Ergo et sunt duae veritates. Sed utrumque istorum
+ab aeterno est verum. Ergo plures veritates sunt aeternae.
+AG2
+Praeterea, omnia quaecumque fuerunt, sunt et erunt, Deus ab aeterno praescivit, quae constat quod plura sunt.
+Sed Deus non praescivit nisi verum. Ergo plura vera sunt ab aeterno.
+AG3
+Item, Augustinus, probat animam esse immortalem per hoc quod est subjectum veritatis, quae est aeterna. Sed
+constat quod veritas quae est in intellectu nostro sicut in subjecto, non est veritas divina per essentiam. Ergo
+videtur quod plures veritates sint aeternae. Quod autem veritas sit aeterna, sic probatur. Omne illud ad cujus
+remotionem sequitur positio ejus, est aeternum.
+Sed si negatur veritas esse, ponitur esse.
+Ergo veritas est aeterna. Probatio mediae. Si veritas non est, veritatem esse est falsum. Sed si affirmatio est falsa,
+negatio est vera. Ergo veritatem non esse erit verum. Sed non est verum nisi aliqua veritate.
+Ergo aliqua veritas est.
+AG4
+Praeterea, illud quod non potest intelligi non esse, est aeternum: quia quidquid potest non esse, potest intelligi
+non esse. Sed veritas non potest intelligi non esse, quia quidquid intelligitur, intelligitur per judicium veritatis.
+Ergo videtur quod veritas quae est in intellectu, sit aeterna et immutabilis.
+AG5
+Praeterea, idem videtur de veritate enunciationis.
+Si enim veritas enuntiationis mutetur vel destruatur, hoc erit vel per destructionem signi vel per destructionem
+rei. Sed neutro modo destruitur vel mutatur. Ergo veritas enuntiationis est immutabilis et aeterna. Probatio
+mediae. Non existente signo, rectum est rem signari. Sed veritas est rectitudo, et veritas signi est rectitudo
+significationis.
+Ergo si non sit enuntiatio, vel quodcumque signum veritatis, adhuc remanebit veritas signi.
+Similiter probatur, quod non mutetur ex mutatione rei; quia ut dictum est, art. 1 istius quaest., ad secundum,
+unumquodque habet veritatem quando implet id ad quod est ordinatum in mente divina.
+Sed cessante cursu socratis, adhuc ista enuntiatio, socrates currit, facit id ad quod ordinata est in mente divina,
+quia significat socratem currere. Ergo videtur quod destructa vel mutata re, non mutatur neque destruitur veritas
+signi.
+AG6
+Praeterea, idem videtur de veritate quae est in re: quia, ut dicit Augustinus, pereunte vero, non perit veritas. Sed
+veritas rei non posset destrui vel mutari nisi per mutationem rei. Ergo videtur quod nullo modo pereat.
+AG7
+Item, omne totum est majus sua parte, est quaedam veritas, quae nullo modo videtur mutabilis, et similiter multa
+hujusmodi. Ergo videtur quod sint plures veritates aeternae immutabiles.
+SC1
+Contra, Augustinus dicit, quod vera aeternitas et sola immutabilitas in Deo est. Sed veritas Dei est una tantum,
+sicut et essentia.
+Ergo videtur quod sit una tantum veritas aeterna et immutabilis.
+CO
+
+179
+
+

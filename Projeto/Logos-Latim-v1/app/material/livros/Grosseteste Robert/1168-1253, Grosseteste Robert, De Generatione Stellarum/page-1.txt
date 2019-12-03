@@ -1,0 +1,60 @@
+De generatione stellarum
+Printed Source: Die Philosophischen Werke des Robert Grosseteste, Bischofs von Lincoln (Münster i. W.,
+Aschendorff, 1912.), pp. 32 - 36.
+INC: Res eiusdem naturae eiusdem operationis secundum naturam suam effectivae sunt.
+EXPL: Cum ergo quinta essentia, quae est impermutabilis secundum se, sit permutabilis per humiliationem sui
+ad inferiora, quare eodem modo ea, quae permutabilia sunt secundum se, non possunt fieri incorruptibilia per
+sublimationem, cum maius sit incorruptibile fieri corruptibile, quam corruptibile fieri incorruptibile?
+p. 32: Res eiusdem naturae eiusdem operationis secundum naturam suam effectivae sunt.Ergo si secundum
+naturam suam non sunt eiusdem operationis effectivae, non sunt eiusdem naturae. Sed sphaerae et stellae non
+sunt eiusdem operationis secundum naturam suam effectivae. Ergo sphaerae et suae stellae non sunt eiusdem
+naturae.
+p. 32: Prima patet ex hac propositione, quam dicit Aristoteles II de generat.: "idem similiter se habens non est
+natum facere nisi idem. Minor huius syllogismi patet sic: Sol secundum praesentiam est principium generationis
+et secundum suam absentiam corruptionis. Si ergo solis sphaera esset eiusdem operis vel operationis cum sole,
+cum in quolibet climate aequaliter praesens sit, esset in unoquoque climate generatio semper. Sed hoc falsum est:
+igitur et primum.
+pp. 32 - 33: Item dicit Aristoteles in XVIII de animalibus, quod secundum revolutionem solis et lunae et
+combinationes secundum eorum coniunctiones et operationes determinata sunt tempora uniuscuiusque
+generationis naturaliter, etsi quandoque propter indeterminationem materiae accidit contrarium. Sed sphaerarum
+solis et lunae non est aliqua diversitas in oppositione et coniunctione et propterea non sunt principia eiusdem
+operationis naturaliter, cuius sol et luna. Patet ergo prior conclusio, quod stella et sphaera sua non sunt eiusdem
+naturae. Sed omne corpus aut est simplex aut compositum. Stella autem est corpus. Ergo stella est simplex vel
+composita. Quod non sit simplex, patet, quia tantum sunt quinque corpora simplicia secundum Aristotelem et
+alios philosophos, scillicet quattuor elementa et corpus nobile, quod appellatur "quinta essentia". Stella autem
+non est de natura quintae essentiae; nec est stella elementum unum, quia, si sic, septem planetae differentes
+secundum naturam facerent septem elementa, quod sic non est. Aut cum quattuor sint tantummodo elementa,
+necesse est, aliquem planetam communicare naturam alterius et non differre ab illo, sicut pars ignis non differt
+ab ipso igne. Et patet contra experimentum. Differunt enim in suis naturis specifice, ut determinatur in IV libro
+Albumazar. Cum ergo non sit stella de natura alicuius corporis simplicis, erit stella corpus compositum. Et non
+dico compositum ex materia et forma solum: sic enim compositum non opponitur ei, quod est simplex, sed dico
+compositum ex elementis; pluribus enim modis dicitur compositum. Erunt ergo corpora ex elementis facta.
+p. 33: Item omne coloratum est mixtum. Stellae sunt corpora colorata. Ergo stellae sunt corpora mixta. Prima
+patet duplici ratione, quarum prima haec est: Colores sunt qualitates secundae ex primis generatae, ut dicitur in
+Praedicamentis. Dicuntur enim passibiles qualitates, non quia generent passionem, sed quia ex passionibus
+generantur. Ergo erit coloratum elementum ex necessitate.
+pp. 33 - 34: Item alia ratione sic: "Color est lux in extremitate perspicui in corpore terminato." Sed corpus
+terminatum est corpus mixtum, et corpus coloratum est corpus terminatum. Ergo corpus coloratum est corpus
+mixtum. Quod maior huius syllogismi sit vera, patet. Si enim diceret aliquis, quod corpus diaphanum esset
+terminatum, ut quinta essentia et ignis, aër autem et aqua non sunt terminata, quia fluxibilia sunt, tunc esset
+coloratum caelum, quia esset ibi lux in extremitate perspicui in corpore terminato. Et etiam dicit Aristoteles,
+quod cum lux non sit, nisi in corpore terminato, non est in corpore simplici. Ergo corpus terminatum non est
+simplex, sed mixtum ex simplicibus. Minor autem huius syllogismi patet per illud, quod dicit Aristoteles, quod
+"proprium sensibile visus est color." Ergo stellae non sunt visibiles nisi per colorem. Sunt igitur coloratae.
+p. 34: Si autem dicat aliquis, quod ibi est lux, sicut in corpore simplici, et facit apparere solum, cum non sit, ut
+videtur aurora colorata et mare coloratum, hoc est manifeste falsum et contra illud, quod dicit Aristoteles, quod
+in simplicibus, quia non est ibi lux in corpore terminato, non apparet eadem lux longe distantibus et prope. Sed
+in stellis longe distantibus et prope semper, apparet idem color. Et hoc est, cum fuerit stella in auge sui excentrici
+aut in oppositione suae augis. Ergo non apparet color in stellis sicut in corpore simplici, sed sicut in corpore
+terminato.
+pp. 34 - 35: Item: Perspicuitas est quaedam natura communis aëris et aquae et ignis et quintae essentiae, ut patet
+IIº de anima capitulo de lucido et in libro de sensu et sensato expressius dicitur. Hoc ergo, quod non est
+perspicuum, non est eiusdem naturae cum aliquo istorum. Sed stellae non sunt perspicuae; ergo non sunt
+eiusdem naturae cum aliquo istorum. Quod stellae non sint perspicuae, patet in luna. Nullum enim perspicuum
+facit umbram; luna facit umbram: ergo luna non est perspicua. Quod luna faciat umbram, satis patet in eclipsi
+solis. Si enim esset transparens, tunc pertransirent radii solis corpus lunae, et tunc non diceremus corpus solis
+pati eclipsim. Si forte dicatur, quod luna habeat naturam perspicui et non faciat umbram simpliciter, sed aliquo
+modo: hoc est contra experimentum et contra rationem. Dicit enim Aristoteles, quod in his quattuor corporibus
+1
+
+

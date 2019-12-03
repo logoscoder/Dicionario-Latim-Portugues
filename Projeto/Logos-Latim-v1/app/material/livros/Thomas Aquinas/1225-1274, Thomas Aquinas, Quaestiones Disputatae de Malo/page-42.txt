@@ -1,0 +1,62 @@
+Et tamen etiam conclusiones variantur circa aliquas circumstantias pertinentes ad rationem syllogismi: aliter
+enim se habent conclusiones in materia necessaria, et in materia contingenti; et in diversis scientiis est diversus
+modus conclusionum.
+RA14
+Ad decimumquartum dicendum, quod etiam actiones artis variantur secundum diversas circumstantias ad
+rationem artis pertinentes; aliter enim operatur artifex domum ex caemento, et aliter ex luto, aliter etiam in una
+regione quam in alia. Sed considerandum est, quod aliquae circumstantiae pertinent ad rationem actus moralis
+quae non pertinent ad rationem artis, et e converso.
+RA15
+Ad decimumquintum dicendum, quod cum distinguitur malum ex circumstantia contra malum ex genere, dicitur
+malum ex circumstantia, quod aggravat quidem, sed non transfert in aliud genus.
+RA16
+Ad decimumsextum dicendum, quod magis et minus quandoque consequuntur diversas formas, et tunc
+diversificant speciem, sicut si dicamus, quod rubeum est magis coloratum quam pallidum. Quandoque vero
+consequuntur diversam participationem unius et eiusdem formae, et tunc non diversificant speciem, sicut si
+aliquid dicatur altero magis album.
+|a7 Articulus 7
+TTA
+Septimo quaeritur utrum aliqua circumstantia aggravet peccatum quae non conferat peccato speciem.
+TTB
+Et videtur quod non.
+AG1
+Peccatum enim habet malitiam ex parte aversionis. Sed circumstantia se tenet ex parte conversionis. Non ergo
+circumstantia aggravat malitiam peccati.
+AG2
+Praeterea, si circumstantia in se habeat aliquam malitiam, constituit speciem aliquam peccati; si autem non
+habeat in se aliquam malitiam, nulla ratio est quare peccatum per eam aggravetur. Non ergo potest esse aliqua
+circumstantia aggravans quin det speciem peccato.
+AG3
+Praeterea, dionysius dicit, quod bonum est ex una et tota causa, malum autem ex singularibus defectibus.
+Sed secundum quamlibet circumstantiam consideratur aliquis defectus singularis.
+Ergo secundum quamlibet circumstantiam aggravantem est aliqua species mali et peccati.
+AG4
+Praeterea, omnis circumstantia aggravans facit differentiam in malitia, quae est quodammodo substantia peccati
+in quantum est peccatum. Sed id quod facit differentiam in substantia variat speciem. Ergo omnis circumstantia
+aggravans variat speciem peccati.
+AG5
+Praeterea, ex eisdem augemur et sumus; augemur enim ex his ex quibus nutrimur, nutrimur autem ex his ex
+quibus sumus, ut dicitur II de generat.. Si ergo augetur malitia peccati per aliquam circumstantiam aggravantem,
+videtur quod per eamdem habeat esse aliqua peccati species.
+AG6
+Praeterea, virtus et vitium opponuntur.
+Omnis autem virtus constituitur in specie per circumstantias; aggredi enim terribilia secundum quod oportet, ubi
+oportet et quando oportet, et similiter circa alias circumstantias, fortitudinis est. Ergo et peccatum secundum
+quamcumque circumstantiam speciem accipit.
+AG7
+Praeterea peccatum habet speciem ex obiecto. Sed secundum quamlibet circumstantiam, ad minus aggravantem,
+variatur obiectum in bonitate et malitia. Ergo omnis circumstantia aggravans dat speciem peccato.
+AG8
+Praeterea, de similibus idem est iudicium.
+Sed aliquae circumstantiae speciem semper dant peccato, sicut obiectum quod dicitur quid, et finis qui
+significatur per hoc quod dicitur cur in versu praedicto. Ergo pari ratione omnes aliae circumstantiae, quando
+aggravant peccatum, dant speciem peccato.
+SC
+Sed contra, multum furari est gravius quam parum furari; non tamen est alia species peccati. Ergo non omnis
+circumstantia aggravans variat speciem peccati.
+CO
+Respondeo. Dicendum quod circumstantia tripliciter se habet ad actum peccati. Quandoque enim neque variat
+speciem neque aggravat, sicut percutere hominem indutum veste alba vel rubea. Quandoque vero speciem
+42
+
+

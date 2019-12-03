@@ -1,0 +1,62 @@
+Liber septimus
+* 7.1.0. De vindicta libertate et apud consilium manumissione.
+* 7.2.0. De testamentaria manumissione.
+* 7.3.0. De lege Fufia Caninia tollenda.
+* 7.4.0. De fideicommissariis libertatibus.
+* 7.5.0. De dediticia libertate tollenda.
+* 7.6.0. De latina libertate tollenda et per certos modos in civitatem Romanam transfusa.
+* 7.7.0. De servo communi manumisso.
+* 7.8.0. De servo pignori dato manumisso.
+* 7.9.0. De servis rei publicae manumittendis.
+* 7.10.0. De his qui a non domino manumissi sunt.
+* 7.11.0. Qui manumittere non possunt et ne in fraudem creditorum manumittatur.
+* 7.12.0. Qui non possunt ad libertatem pervenire.
+* 7.13.0. Pro quibus causis servi praemium accipiunt libertatem.
+* 7.14.0. De ingenuis manumissis.
+* 7.15.0. Communia de manumissionibus.
+* 7.16.0. De liberali causa.
+* 7.17.0. De adsertione tollenda.
+* 7.18.0. Quibus ad libertatem proclamare non licet et de rebus eorum, qui ad libertatem (..)
+* 7.19.0. De ordine cognitionum.
+* 7.20.0. De collusione detegenda.
+* 7.21.0. Ne de statu defunctorum post quinquennium quaeratur.
+* 7.22.0. De longi temporis praescriptione, quae pro libertate et non adversus libertatem opponitur.
+* 7.23.0. De peculio eius qui libertatem meruit.
+* 7.24.0. De senatus consulto Claudiano tollendo.
+* 7.25.0. De nudo ex iure Quiritium tollendo.
+* 7.26.0. De usucapione pro emptore vel transactione.
+* 7.27.0. De usucapione pro donato.
+* 7.28.0. De usucapione pro dote.
+* 7.29.0. De usucapione pro herede.
+* 7.30.0. Communia de usucapionibus.
+* 7.31.0. De usucapione transformanda et de sublata differentia rerum mancipi et nec mancipi.
+* 7.32.0. De adquirenda et retinenda possessione.
+* 7.33.0. De praescriptione longi temporis decem vel viginti annorum.
+* 7.34.0. In quibus causis cessat longi temporis praescriptio.
+* 7.35.0. Quibus non obiciatur longi temporis praescriptio.
+* 7.36.0. Adversus creditorem.
+* 7.37.0. De quadriennii praescriptione.
+* 7.38.0. Ne rei dominicae vel templorum vindicatio temporis exceptione submoveatur.
+* 7.39.0. De praescriptione xxx vel xl annorum.
+* 7.40.0. De annali exceptione italici contractus tollenda et de diversis temporibus et exceptionibus (..)
+* 7.41.0. De adluvionibus et paludibus et de pascuis ad alium statum translatis.
+* 7.42.0. De sententiis praefectorum praetorio.
+* 7.43.0. Quomodo et quando iudex sententiam proferre debet praesentibus partibus vel una absente.
+* 7.44.0. De sententiis ex periculo recitandis.
+* 7.45.0. De sententiis et interlocutionibus omnium iudicum.
+* 7.46.0. De sententia, quae sine certa quantitate prolata est.
+* 7.47.0. De sententiis, quae pro eo quod interest proferuntur.
+* 7.48.0. Si non a competenti iudice iudicatum esse dicatur.
+* 7.49.0. De poena iudicis, qui male iudicavit, vel eius, qui iudicem vel adversarium corrumpere (..)
+* 7.50.0. Sententiam rescindi non posse.
+* 7.51.0. De fructibus et litis expensis.
+* 7.52.0. De re iudicata.
+* 7.53.0. De exsecutione rei iudicatae.
+* 7.54.0. De usuris rei iudicatae.
+* 7.55.0. Si plures una sententia condemnati sunt.
+* 7.56.0. Quibus res iudicata non nocet.
+* 7.57.0. Comminationes epistulas programmata subscriptiones auctoritatem rei iudicatae non habere.
+* 7.58.0. Si ex falsis instrumentis vel testimoniis iudicatum erit.
+360
+
+

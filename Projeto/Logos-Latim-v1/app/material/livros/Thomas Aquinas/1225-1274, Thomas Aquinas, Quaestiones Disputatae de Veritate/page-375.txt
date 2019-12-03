@@ -1,0 +1,62 @@
+|q18 Quaestio 18
+Prologus
+PR1
+Primo utrum homo in statu innocentiae cognoverit Deum per essentiam.
+PR2
+Secundo utrum homo in statu innocentiae Deum per creaturas viderit.
+PR3
+Tertio utrum Adam in statu innocentiae fidem de Deo habuerit.
+PR4
+Quarto utrum Adam in statu innocentiae habuerit omnium creaturarum notitiam.
+PR5
+Quinto utrum Adam in statu innocentiae Angelos per essentiam viderit.
+PR6
+Sexto utrum Adam in statu innocentiae errare sive decipi potuerit.
+PR7
+Septimo utrum pueri qui ex Adam in statu innocentiae nascerentur, plenam rerum omnium scientiam haberent,
+sicut et Adam habuit.
+PR8
+Octavo utrum pueri mox nati in statu innocentiae usum rationis plenarie habuissent.
+|a1 Articulus 1
+TTA
+Quaestio est de cognitione primi hominis in statu innocentiae.
+Et primo quaeritur utrum in statu illo cognoverit Deum per essentiam.
+TTB
+Et videtur quod sic.
+AG1
+Dicit enim magister in IV sentent.
+Dist. 1, quod homo ante peccatum Deum sine medio vidit. Sed videre Deum sine medio, est videre per
+essentiam. Ergo in statu innocentiae vidit Deum per essentiam.
+AG2
+Sed dicebat, quod magister intelligit quod vidit Deum sine medio quoad nubilum culpae, non autem sine medio
+creaturae. Sed contra est quod magister ibidem dicit, quod quia nos per medium Deum videmus, oportet quod ex
+visibilibus creaturis in ipsum deveniamus.
+Ergo videtur quod intelligat de medio creaturae.
+Sed videre sine medio creaturae, est videre per essentiam. Ergo etc..
+AG3
+Praeterea, Phil. IV, 7 dicitur: pax Dei quae exsuperat omnem sensum, hoc - secundum quod intelligitur de pace
+quam Deus facit in beatis in patria - glosa ibid. Sic exponit: omnem sensum, idest intellectum nostrum, non
+eorum qui semper vident faciem patris.
+Ex quo haberi potest quod pax sive gaudium beatorum excedit intellectum omnis illius qui gaudio illo non
+perfruitur. Sed Adam in statu innocentiae gaudia beatorum vidit: unde dicit Gregorius, IV dialogorum: homo
+peccando extra semet ipsum fusus iam illa caelestis patriae gaudia quae prius contemplari solebat, videre non
+poterat. Ergo Adam in illo statu gaudio caelestis patriae fruebatur.
+AG4
+Praeterea, Hugo de sancto victore, dicit, quod homo in statu illo creatorem suum cognoscebat ea cognitione qua
+tunc per praesentiam contemplationis manifestius cernebatur. Sed videre Deum per praesentiam contemplationis,
+est videre ipsum per essentiam, ut videtur.
+Ergo Deum per essentiam in statu illo Adam vidit.
+AG5
+Praeterea, homo factus est ad videndum Deum: ad hoc enim Deus fecit rationalem creaturam, ut beatitudinis eius
+particeps esset, quae in eius visione consistit, ut habetur 1 dist. II Sent.. Si igitur Adam in statu innocentiae
+Deum per essentiam non videbat, hoc non erat nisi quia aliquod medium impediebat.
+Non autem impediebat medium culpae, quia tunc ab ea immunis erat; nec etiam impediebat medium creaturae,
+quia Deus est intimior animae hominis quam quaelibet alia creatura.
+Ergo Adam in statu innocentiae vidit Deum per essentiam.
+AG6
+Praeterea, sicut affectiva hominis non perficitur nisi per summum bonum, ita cognitiva non nisi per summum
+verum, ut patet in Lib. De spiritu et anima. Sed unicuique inest desiderium suae perfectionis.
+
+375
+
+

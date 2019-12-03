@@ -1,0 +1,58 @@
+quod electio consilium consequens semper ex necessitate proveniat; et sic omnia, quorum nos principium sumus
+per consilium et electionem, ex necessitate provenient.
+|#24 Sed dicendum est quod similis differentia attendenda est circa bonum, sicut circa verum. Est autem
+quoddam verum, quod est per se notum, sicut prima principia indemonstrabilia, quibus ex necessitate intellectus
+assentit; sunt autem quaedam vera non per se nota, sed per alia.
+Horum autem duplex est conditio: quaedam enim ex necessitate consequuntur ex principiis, ita scilicet quod non
+possunt esse falsa, principiis existentibus veris, sicut sunt omnes conclusiones demonstrationum. Et huiusmodi
+veris ex necessitate assentit intellectus, postquam perceperit ordinem eorum ad principia, non autem prius.
+Quaedam autem sunt, quae non ex necessitate consequuntur ex principiis, ita scilicet quod possent esse falsa
+principiis existentibus veris; sicut sunt opinabilia, quibus non ex necessitate assentit intellectus, quamvis ex
+aliquo motivo magis inclinetur in unam partem quam in aliam.
+Ita etiam est quoddam bonum quod est propter se appetibile, sicut felicitas, quae habet rationem ultimi finis; et
+huiusmodi bono ex necessitate inhaeret voluntas: naturali enim quadam necessitate omnes appetunt esse felices.
+Quaedam vero sunt bona, quae sunt appetibilia propter finem, quae comparantur ad finem sicut conclusiones ad
+principium, ut patet per Philosophum in II physicorum.
+Si igitur essent aliqua bona, quibus non existentibus, non posset aliquis esse felix, haec etiam essent ex
+necessitate appetibilia et maxime apud eum, qui talem ordinem perciperet; et forte talia sunt esse, vivere et
+intelligere et si qua alia sunt similia. Sed particularia bona, in quibus humani actus consistunt, non sunt talia, nec
+sub ea ratione apprehenduntur ut sine quibus felicitas esse non possit, puta, comedere hunc cibum vel illum, aut
+abstinere ab eo: habent tamen in se unde moveant appetitum, secundum aliquod bonum consideratum in eis. Et
+ideo voluntas non ex necessitate inducitur ad haec eligenda.
+Et propter hoc Philosophus signanter radicem contingentiae in his quae fiunt a nobis assignavit ex parte consilii,
+quod est eorum quae sunt ad finem et tamen non sunt determinata.
+In his enim in quibus media sunt determinata, non est opus consilio, ut dicitur in III ethicorum.
+Et haec quidem dicta sunt ad salvandum radices contingentiae, quas hic Aristoteles ponit, quamvis videantur
+logici negotii modum excedere.
+|+15 Lectio 15
+|#1 Postquam Philosophus ostendit esse impossibilia ea, quae ex praedictis rationibus sequebantur; hic, remotis
+impossibilibus, concludit veritatem.
+Et circa hoc duo facit: quia enim argumentando ad impossibile, processerat ab enunciationibus ad res, et iam
+removerat inconvenientia quae circa res sequebantur; nunc, ordine converso, primo ostendit qualiter se habeat
+veritas circa res; secundo, qualiter se habeat veritas circa enunciationes; ibi: quare quoniam orationes verae sunt
+etc..
+Circa primum duo facit: primo, ostendit qualiter se habeant veritas et necessitas circa res absolute consideratas;
+secundo, qualiter se habeant circa eas per comparationem ad sua opposita; ibi: et in contradictione eadem ratio
+est etc..
+|#2 Dicit ergo primo, quasi ex praemissis concludens, quod si praedicta sunt inconvenientia, ut scilicet omnia ex
+necessitate eveniant, oportet dicere ita se habere circa res, scilicet quod omne quod est necesse est esse quando
+est, et omne quod non est necesse est non esse quando non est. Et haec necessitas fundatur super hoc principium:
+impossibile est simul esse et non esse: si enim aliquid est, impossibile est illud simul non esse; ergo necesse est
+tunc illud esse.
+Nam impossibile non esse idem significat ei quod est necesse esse, ut in secundo dicetur. Et similiter, si aliquid
+non est, impossibile est illud simul esse; ergo necesse est non esse, quia etiam idem significant. Et ideo
+manifeste verum est quod omne quod est necesse est esse quando est; et omne quod non est necesse est non esse
+pro illo tempore quando non est: et haec est necessitas non absoluta, sed ex suppositione. Unde non potest
+simpliciter et absolute dici quod omne quod est, necesse est esse, et omne quod non est, necesse est non esse:
+quia non idem significant quod omne ens, quando est, sit ex necessitate, et quod omne ens simpliciter sit ex
+necessitate; nam primum significat necessitatem ex suppositione, secundum autem necessitatem absolutam.
+Et quod dictum est de esse, intelligendum est similiter de non esse; quia aliud est simpliciter ex necessitate non
+esse et aliud est ex necessitate non esse quando non est. Et per hoc videtur Aristoteles excludere id quod supra
+dictum est, quod si in his, quae sunt, alterum determinate est verum, quod etiam antequam fieret alterum
+determinate esset futurum.
+|#3 Deinde cum dicit: et in contradictione etc., ostendit quomodo se habeant veritas et necessitas circa res per
+comparationem ad sua opposita: et dicit quod eadem ratio est in contradictione, quae est in suppositione.
+
+38
+
+

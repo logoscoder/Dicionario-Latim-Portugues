@@ -1,0 +1,63 @@
+Sexto quaeritur utrum intellectus humanus singularia cognoscat.
+TTB
+Et videtur quod sic.
+AG1
+Intellectus enim humanus cognoscit abstrahendo formam a materia. Sed abstractio formae a materia non aufert ei
+particularitatem; quia etiam in mathematicis, quae sunt a materia abstracta, est considerare particulares lineas.
+Ergo intellectus noster per hoc quod immaterialis est, non impeditur quin singularia cognoscat.
+AG2
+Praeterea, singularia non distinguuntur secundum quod conveniunt in natura communi, quia participatione
+speciei plures homines sunt unus homo. Si ergo intellectus noster non cognoscit nisi universalia, tunc intellectus
+noster non cognosceret distinctionem unius singularis ab alio; et sic intellectus noster non dirigeret in
+operabilibus, in quibus per electionem dirigimur, quae distinctionem unius ab altero praesupponit.
+AG3
+Sed dicebat, quod intellectus noster singularia cognoscit, in quantum applicat formam universalem ad aliquod
+particulare.
+Sed contra, intellectus noster non potest applicare unum ad aliud nisi utrumque praecognoscat.
+Ergo cognitio singularis praecedit applicationem universalis ad singulare; non ergo applicatio praedicta potest
+esse causa quare intellectus noster singulare cognoscat.
+AG4
+Praeterea, secundum boetium in V de consolatione philosophiae, quidquid potest virtus inferior, potest superior.
+Sed, ut ipse ibidem dicit, intellectus est supra imaginationem, et imaginatio supra sensum. Ergo, cum sensus
+singulare cognoscat, et intellectus noster singulare cognoscere poterit.
+SC
+Sed contra est quod boetius dicit quod universale est dum intelligitur, singulare dum sentitur.
+CO
+Responsio. Dicendum, quod quaelibet actio sequitur conditionem formae agentis, quae est principium actionis,
+sicut calefactio mensuratur secundum modum caloris. Similitudo autem cogniti, qua informatur potentia
+cognoscitiva est principium cognitionis secundum actum sicut calor calefactionis; et ideo oportet ut quaelibet
+cognitio sit secundum modum formae quae est in cognoscente.
+Unde, cum similitudo rei quae est in intellectu nostro, accipiatur ut separata a materia, et ab omnibus
+materialibus conditionibus, quae sunt individuationis principia; relinquitur quod intellectus noster, per se
+loquendo, singularia non cognoscit, sed universalia tantum.
+Omnis enim forma, in quantum huiusmodi, universalis est; nisi forte sit forma subsistens, quae, ex hoc ipso quod
+subsistit, incommunicabilis est.
+Sed per accidens contingit quod intellectus noster singulare cognoscat; ut enim Philosophus dicit in III de anima,
+phantasmata se habent ad intellectum nostrum sicut sensibilia ad sensum, ut colores, qui sunt extra animam, ad
+visum; unde, sicut species quae est in sensu, abstrahitur a rebus ipsis, et per eam cognitio sensus continuatur ad
+ipsas res sensibiles; ita intellectus noster abstrahit speciem a phantasmatibus, et per eam eius cognitio
+quodammodo ad phantasmata continuatur.
+Sed tamen tantum interest; quod similitudo quae est in sensu, abstrahitur a re ut ab obiecto cognoscibili, et ideo
+per illam similitudinem res ipsa per se directe cognoscitur; similitudo autem quae est in intellectu, non
+abstrahitur a phantasmate sicut ab obiecto cognoscibili, sed sicut a medio cognitionis, per modum quo sensus
+noster accipit similitudinem rei quae est in speculo, dum fertur in eam non ut in rem quamdam, sed ut in
+similitudinem rei.
+Unde intellectus noster non directe ex specie quam suscipit, fertur ad cognoscendum phantasma, sed ad
+cognoscendum rem cuius est phantasma. Sed tamen per quamdam reflexionem redit etiam in cognitionem ipsius
+phantasmatis, dum considerat naturam actus sui, et speciei per quam intuetur, et eius a quo speciem abstrahit,
+scilicet phantasmatis: sicut per similitudinem quae est in visu a speculo acceptam, directe fertur visus in
+cognitionem rei speculatae; sed per quamdam reversionem fertur per eamdem in ipsam similitudinem quae est in
+speculo.
+Inquantum ergo intellectus noster per similitudinem quam accepit a phantasmate, reflectitur in ipsum phantasma
+a quo speciem abstraxit, quod est similitudo particularis, habet quamdam cognitionem de singulari secundum
+continuationem quamdam intellectus ad imaginationem.
+RA1
+Ad primum igitur dicendum, quod duplex est materia a qua fit abstractio; scilicet materia intelligibilis et
+sensibilis, ut patet in VII metaph.: et dico intelligibilem, ut quae consideratur in natura continui; sensibilem
+autem sicut est materia naturalis. Utraque autem dupliciter accipitur; scilicet ut signata, et ut non signata: et dico
+signatam secundum quod consideratur cum determinatione dimensionum, harum scilicet vel illarum; non
+signatam autem quae sine determinatione dimensionum consideratur.
+
+45
+
+

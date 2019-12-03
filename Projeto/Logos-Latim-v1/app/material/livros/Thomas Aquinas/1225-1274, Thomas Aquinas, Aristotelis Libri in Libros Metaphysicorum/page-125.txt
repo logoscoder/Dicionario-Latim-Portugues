@@ -1,0 +1,56 @@
+|#12 Et sicut causarum per se quaedam sunt propinquae, quaedam remotae, ut dictum est, ita et inter causas per
+accidens.
+Nam Polycletus est causa statuae magis propinqua quam album et musicum.
+Magis enim remotus modus praedicationis per accidens est, cum accidens praedicatur de accidente, quam cum
+accidens praedicatur de subiecto. Accidens enim non praedicatur de accidente, nisi quia ambo praedicantur de
+subiecto. Unde magis remotum est ut attribuatur uni accidenti quod est alterius, sicut musico quod est
+aedificatoris, quam quod attribuatur subiecto quod est accidentis, sicut Polycleto quod est aedificatoris.
+|#13 Sciendum autem est, quod aliquid potest dici causa per accidens alterius dupliciter. Uno modo ex parte
+causae; quia scilicet illud quod accidit causae, dicitur causa per accidens, sicut si album dicatur causa domus.
+Alio modo ex parte effectus; ut scilicet aliquid dicatur causa per accidens alicuius, quod accidit ei quod est
+effectus per se. Quod quidem potest esse tripliciter. Uno modo, quia habet ordinem necessarium ad effectum,
+sicut remotio impedimenti habet ordinem necessarium ad effectum. Unde removens prohibens dicitur movens
+per accidens; sive illud accidens sit contrarium, sicut cholera prohibet frigiditatem, unde scamonaea dicitur
+infrigidare per accidens, non quia causet frigiditatem sed quia tollit impedimentum frigiditatis, quod est ei
+contrarium, scilicet choleram: sive etiam si non sit contrarium, sicut columna impedit motum lapidis, unde
+removens columnam dicitur per accidens movere lapidem superpositum alio modo, quando accidens habet
+ordinem ad effectum, non tamen necessarium, nec ut in pluribus, sed ut in paucioribus, sicut inventio thesauri ad
+fossionem in terra. Et hoc modo fortuna et casus dicuntur causae per accidens. Tertio, quando nullum ordinem
+habent, nisi forte secundum existimationem; sicut si aliquis dicat se esse causam terraemotus, quia eo intrante
+domum accidit terraemotus.
+|#14 Tertia distinctio est, secundum quod prae omnibus his vel praeter omnia haec, quae dicuntur esse
+secundum se sive per se, et secundum accidens, quaedam sunt causae in potentia, quaedam ut agentia, idest in
+actu. Sicut aedificationis causa est aedificator in potentia. Hoc enim sonat habitum vel officium. Vel aedificans
+actu.
+|#15 Et eisdem modis, quibus dividuntur causae, possunt dividi causata in quibus vel quorum causae sunt
+causae.
+Potest enim dividi causatum per prius et posterius sive particulare et universale; sicut si dicamus, quod statuae
+factor est causa huius statuae, quod est posterius, aut statuae, quod est universalius et prius, aut imaginis, quod
+est adhuc universalius. Et similiter aliquid est causa formalis huius aeris, aut aeris, quod est universalius, aut
+materiae, quod est adhuc universalius. Et similiter potest dici in accidentalibus, scilicet in effectibus per
+accidens. Nam statuae factor qui est causa statuae, est etiam causa gravis vel albi vel rubei quae accidunt ex parte
+materiae, et non sunt ab hoc agente causata.
+|#16 Ulterius ponit quartam distinctionem causae, quae est in simplex et in compositum; ut simplex causa
+dicatur secundum quod accipitur causa statuae per se totum ut statuae factor, sive per accidens tantum, scilicet
+Polycletus. Composita autem secundum quod utrumque simul accipitur, ut dicatur causa statuae Polycletus
+statuae factor.
+|#17 Est autem alius modus quo causae possunt dici compositae, secundum quod plures causae concurrunt ad
+unius rei constitutionem; sicut plures homines ad trahendum navem, vel plures lapides, ut sint materia domus.
+Sed hoc praetermisit, quia nullum illorum est causa, sed pars causae.
+|#18 His autem modis positis, colligit istorum modorum numerum, dicens, quod isti modi causarum sunt sex et
+variantur dupliciter, et ita efficiuntur duodecim. Hi enim modi sex sunt aut singulare, aut genus, quod superius
+dixit prius et posterius.
+Et secundum se et per accidens, ad quod etiam reducitur genus accidentis, nam genus accidentis est causa per
+accidens.
+Et iterum per complexum et simplex. Hi autem sex modi ulterius dividuntur per potentiam et per actum, et sunt
+duodecim.
+Ideo autem oportet omnes istos modos per potentiam et actum dividi, quia potentia et actus diversificant
+habitudinem causae ad effectum. Nam causae in actu particulares sunt simul et tolluntur cum suis effectibus,
+sicut hic medicans cum hoc convalescente, et hic aedificans cum hoc aedificato: non enim potest aliquid actu
+aedificari, nisi sit actu aedificans. Sed causae secundum potentiam non semper removentur cum effectibus; sicut
+domus et aedificator non simul corrumpuntur. In quibusdam tamen contingit, quod remota actione efficientis
+tollitur substantia effectus, sicut in his quorum esse est in fieri, vel quorum causa non solum est effectui causa
+fiendi sed essendi. Unde remota illuminatione solis ab aere, tollitur lumen.
+125
+
+

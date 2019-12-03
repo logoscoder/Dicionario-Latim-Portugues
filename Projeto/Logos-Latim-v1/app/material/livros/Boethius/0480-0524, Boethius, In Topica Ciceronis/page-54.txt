@@ -1,0 +1,61 @@
+Non si nihil accusas damnas; Sed nihil accusas, Non damnas igitur.
+Venit ergo hoc argumentum ex ea propositione connexa, quae ex duabus componitur negatiuis, ita: si nihil
+accusas, non damnas; posteriori uero parti detracta negatio est, et insuper tota est propositio denegata hoc modo, non si
+nihil accusas, damnas, et ex ea factum est argumentum, quod positum in interrogatione efficit enthymema, hoc modo:
+quam nihil accusas, damnas, bene quam meritam esse autumas, male mereri.
+Huius quoque [1144A] enthymematis talis est ratio </collectio>:
+Non et bene meritam esse autumas, et male mereri; Atqui bene meritam esse autumas, Non male igitur mereri.
+Quod enthymema ex ea propositione connexa perticitur, quae constat ex affirmatione et negatione, ita: si bene
+meritam esse autumas, non male mereri. Cuius ex posteriore parte dempta negatione, totaque propositione denegata,
+fiet propositio: non si bene meritam esse autumas, male mereri; quod in interrogationem deductum tacit enthymema:
+bene quam meritam esse autumas, male mereri.
+Item: "Id quod scis prodest, nihil id quod nescis, obest?" Hoc quoque enthymema tali nectitur syllogismo:
+Non id quod scis prodest, et id quod nescis non obest; At id quod scis prodest, Obest igitur id quod nescis.
+Hoc argumentum [1144B] ex ea propositione compositum est, quae duabus affirmationibus iuncta acceperit
+mediam negationem et insuper denegata est. Quod interrogatum fit enthymema hoc modo: "Id quod scis prodest, nihil
+id quod nescis obest?"
+Omnium uero superius exemplorum ista sententia est. Nam quam quisquam nihil accusat, eam damnare recte
+non potest; et eam quam bene meritam esse autumat, male mereri de ea turpe est; et si id quod scit quisque in causa
+proderit, oberit, si est contrarium id quod nescit. Hunc uero locum communem esse oratoribus ac philosophis dicit sed
+apud illos tertium modum, apud rhetores uero enthymema nuncupari.
+Reliqui, inquit, modi plures sunt, nam cum tres superius enumerasset modo adiungens quatuor, plures [1144C]
+dixit. Hi sunt in disiunctionibus constituti hoc modo:
+Aut hoc aut illud; Hoc autem, Non igitur illud
+qui est quartus modus a nobis quoque suprapositus ita:
+Aut dies est aut nox est; Dies autem est, Non igitur nox est
+et semper quod ait Cicero 'hoc' ad praecedens spectat; quod uero ait 'illud' ad consequens, siue inconnexis
+propositionibus siue disiunctis.
+Item:
+Aut hoc aut illud Non autem hoc, Illud igitur.
+Hic quoque quintus modus est, uelut in his exemplis:
+Aut dies est aut nox est; Non autem dies, Nox igitur est.
+Quarum conclusionum, necessitatem ex eo dicit euenire, quia quae in disiunctione posita, medium non
+uidentur admittere, ut esse aliud praeter eorum alterum possit, atque ideo uno sublato alterum esse, unoque posito
+alterum non esse concluditur. Quod [1144D] si sit medium, quod preter alterutrum esse possit, nec uera propositio, nec
+rata est conclusio, uelut in his, aut album est, aut nigrum, id falsum est. Esse enim praeter ea rubrum potest. Sed si
+ponamus esse album uel auferamus, non nec esse erit non esse uel esse nigrum, quia quod rubrum est, medium esse
+potest.
+Deinde, inquit Tullius, addunt coniunctionum negantiam, in disiunctiuis scilicet propositionibus, hoc modo:
+Non et hoc et illud; Hoc autem, Non igitur illud.
+Idem est:
+Non et nox et dies est; Nox autem est, Non igitur dies est.
+Hic igitur sextus modus esse praedictus est.
+Septimus autem est ex eadem ueniens propositione, hoc modo:
+Non et hoc et illud; Non autem hoc, Illud igitur
+uelut si ita dicamus: [1145A]
+Non et nox et dies est; Nox non autem est, Dies igitur est.
+Quae propositiones nisi in disiunctis medioque carentibus rebus ratam conclusionem habere non poterunt. Age
+enim ita dicamas, non et album, et nigrum, ponamusque non esse album, non consequitur ut sit nigrum, potest enim
+esse quod medium est. Huiusmodi igitur per negationem coniunctionum (ut Tullius ait) propositio si ratas factura est
+conclusiones in disiunctis rebus, medioque carentibus accommodetur, alias non erit rata conclusio.
+Distat uero propositio tertii modi a propositione sexti et septimi, quod tertii modi propositio ex coniunctis
+nascitur. Haec uero sexti et septimi ex disiunctis terminis existit, ut in superioribus patet exemplis.
+Ex his igitur, inquit, modis conclusiones [1145B] innumerabiles nascuntur, unus enim quilibet eorum modus
+infinitis conclusionibus aptari potest, ueluti primus ac secundus in omnibus quae sibi connexa sunt, quorum nullus est
+numerus, si quis per. sequi uelit; itemque repugnantium infinitaest multitudo, in quibus tertius modus est utilis; item
+plura disiuncta sunt in quibus quartus, et quintus, et sextus, et septimus pluriumum ualent. Atque in his, inquit, omnis
+fere est dialectica sed ad topicos locos tres primi modi sunt necessarii, qui antecessionem, consecutionem et
+repugnantiam tenent. Reliqui uero complendae disputationis magis gratia quam quod ad hanc institutionem necessarii
+fuerint uidentur adiecti. [1145C]
+
+

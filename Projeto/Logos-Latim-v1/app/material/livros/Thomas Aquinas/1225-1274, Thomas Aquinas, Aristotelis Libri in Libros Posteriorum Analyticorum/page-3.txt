@@ -1,0 +1,54 @@
+cuiuscumque. Quod patet, quia manifestat hanc propositionem etiam in disputativis et rhetoricis disputationibus,
+per quas non acquiritur scientia. Propter quod etiam non dicit ex praeexistenti scientia vel intellectu, sed
+universaliter cognitione. Addit autem intellectiva ad excludendum acceptionem cognitionis sensitivae vel
+imaginativae. Nam procedere ex uno in aliud rationis est solum.
+|#10 Secundo, cum dicit: mathematicae enim etc., manifestat propositionem praemissam per inductionem.
+Et primo, in demonstrativis in quibus acquiritur scientia. In his autem principaliores sunt mathematicae scientiae,
+propter certissimum modum demonstrationis. Consequenter autem sunt et omnes aliae artes, quia in omnibus est
+aliquis modus demonstrationis, alias non essent scientiae.
+|#11 Secundo, cum dicit: similiter autem etc., manifestat idem in orationibus disputativis sive dialecticis, quae
+utuntur syllogismo et inductione: in quorum utroque proceditur ex aliquo praecognito.
+Nam in syllogismo accipitur cognitio alicuius universalis conclusi ab aliis universalibus notis. In inductione
+autem concluditur universale ex singularibus, quae sunt manifesta quantum ad sensum.
+|#12 Tertio, cum dicit: similiter autem rhetoricae etc., manifestat idem in rhetoricis, in quibus persuasio fit per
+enthymema aut per exemplum; non autem per syllogismum vel inductionem completam, propter incertitudinem
+materiae circa quam versatur, scilicet circa actus singulares hominum, in quibus universales propositiones non
+possunt assumi vere. Et ideo utitur loco syllogismi, in quo necesse est esse aliquam universalem, aliquo
+enthymemate; et similiter loco inductionis, in qua concluditur universale, aliquo exemplo, in quo proceditur a
+singulari, non ad universale, sed ad singulare.
+Unde patet quod, sicut enthymema est quidam syllogismus detruncatus, ita exemplum est quaedam inductio
+imperfecta. Si ergo in syllogismo et inductione proceditur ex aliquo praecognito, oportet idem intelligi in
+enthymemate et exemplo.
+|+2 Lectio 2
+|#1 Postquam ostendit Philosophus quod omnis disciplina ex praeexistenti fit cognitione nunc ostendit quis sit
+modus praecognitionis. Et circa hoc duo facit: primo, determinat modum praecognitionis quantum ad illa quae
+oportet praecognoscere ut habeatur cognitio conclusionis, cuius scientia quaeritur; secundo, determinat modum
+praecognitionis ipsius conclusionis, cuius scientia per demonstrationem quaeritur; ibi: antequam sit inducere etc..
+In praecognitione autem duo includuntur, scilicet cognitio et cognitionis ordo.
+Primo ergo, determinat modum praecognitionis quantum ad cognitionem ipsam; secundo, quantum ad
+cognitionis ordinem; ibi: est autem cognoscere etc..
+|#2 Circa primum sciendum est quod id cuius scientia per demonstrationem quaeritur est conclusio aliqua in
+qua propria passio de subiecto aliquo praedicatur: quae quidem conclusio ex aliquibus principiis infertur. Et quia
+cognitio simplicium praecedit cognitionem compositorum, necesse est quod, antequam habeatur cognitio
+conclusionis, cognoscatur aliquo modo subiectum et passio. Et similiter oportet quod praecognoscatur
+principium, ex quo conclusio infertur, cum ex cognitione principii conclusio innotescat.
+|#3 Horum autem trium, scilicet, principii, subiecti et passionis est duplex modus praecognitionis, scilicet, quia
+est et quid est. Ostensum est autem in VII metaphysicae quod complexa non definiuntur. Hominis enim albi non
+est aliqua definitio et multo minus enunciationis alicuius. Unde cum principium sit enunciatio quaedam, non
+potest de ipso praecognosci quid est, sed solum quia verum est. De passione autem potest quidem sciri quid est,
+quia, ut in eodem libro ostenditur, accidentia quodammodo definitionem habent. Passionis autem esse et
+cuiuslibet accidentis est inesse subiecto: quod quidem demonstratione concluditur.
+Non ergo de passione praecognoscitur quia est, sed quid est solum. Subiectum autem et definitionem habet et
+eius esse a passione non dependet; sed suum esse proprium praeintelligitur ipsi esse passionis in eo. Et ideo de
+subiecto oportet praecognoscere et quid est et quia est: praesertim cum ex definitione subiecti et passionis
+sumatur medium demonstrationis.
+|#4 Propter hoc ergo dicit Philosophus quod dupliciter necessarium est praecognoscere: quia duo sunt quae
+praecognoscuntur de his, quorum praecognitionem habemus, scilicet quia est et quid est.
+Et quod alia sunt de quibus necesse est primo cognoscere quia sunt, sicut principia de quibus postea
+exemplificat, ponens in exemplo primum omnium principiorum, scilicet quod de unoquoque est affirmatio vel
+negatio vera.
+|#5 Alia vero sunt, de quibus oportet praeintelligere quid est quod dicitur, idest quid significatur per nomen,
+scilicet de passionibus. Et non dicit quid est simpliciter, sed quid est quod dicitur, quia antequam sciatur de
+3
+
+

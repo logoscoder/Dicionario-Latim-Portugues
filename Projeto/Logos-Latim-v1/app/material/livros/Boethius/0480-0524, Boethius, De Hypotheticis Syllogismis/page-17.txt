@@ -1,0 +1,62 @@
+Quae idcirco facta est utrobique collectio, quoniam in his terminis hae propositiones poterant poni, in quibus
+immediata contraria reperiebantur; in illis enim alterius positio alterum perimebat, et alterius interemptio ponebat
+alterum.
+[2.8.3] Ex quarta:
+Si cum sit a, non est b, non est c; Atqui cum sit a, non est b; Non est igitur c
+uel ita:
+Atqui est c; Cum igitur sit a, est b.
+Ex quinta:
+Si cum non sit a, est b, est c; Atqui cum non sit a, est b; Est igitur c
+uel ita:
+Atqui non est c; Cum igitur non sit a, non est b.
+Ex sexta:
+Si cum non sit a, est b, non est c; Atqui cum non sit a, est b; Non est igitur c
+uel ita:
+Atqui est c; Cum igitur non sit a, non est b.
+[2.8.4] Ex septima utrobique colligitur hoc modo:
+Si cum non sit a, non est b, est c; Atqui cum non sit a, non est b; Est igitur c
+uel ita:
+Atqui cum non sit a, est b; Non est igitur c
+uel sic:
+Atqui non est c; Cum igitur non sit a, est b
+uel ita:
+Atqui est c; Cum igitur non sit a, non est b.
+Hic quoque propter eandem causam in alterutra assumptione syllogismus fiet; non esse aliquid cum alind non
+sit in immediatis tantum contrariis dicebatur.
+[2.8.5] Ex octaua:
+Si cum non sit a, non est b, non est c; Atqui cum non sit a, non est b; Non est igitur c
+uel ita:
+Atqui est c; Cum igitur non sit a, est b.
+In omnibus igitur superius descriptis syllogismis, haec ratio est, ut, si b terminus assumatur, ita ut in
+propositione est positus, ita c terminum concludat, ut in eadem propositione fuerit collocatus.
+[2.8.6] At si c terminus contrario modo assumatur /300/ quam in propositione fuerit positus, contrario modo b
+terminus in conclusione monstrabitur, praeter tertium et septimum modum, in quibus etiamsi b terminus contrario
+modo atque in propositione est positus assumatur, c terminum contrario modo atque positus est colligit, uel si c
+terminus ita ut in propositione est positus assumatur, simili modo b terminum concludit, ut in eadem propositione fuerat
+collocatus. Quare sedecim quidem uel uiginti fiunt syllogismi: assumptis namque primis hypotheticis propositionibus,
+octo; octo uero si secundae praedicatiuae assumantur; quatuor autem his adinuguntur ex tertio et septimo modo
+utrobique colligentibus, ut omnes etiam in his propositionum complexionibus fiant sedecim uel uiginti syllogismi.
+[2.8.7] Quoquo autem modo aliter assumptiones uerteris, nihil euenit necessarium. Ut autem omnis
+propositionum ac syllogismorum ratio colliquescat, exempla subiecimus, quibus facilius id quod superius docuimus
+declaretur.
+o Si cum sit a animatum, est b homo, est c animal.
+o Si cum est a animatum, est b homo, non est c equus.
+o Si cum sit a animatum, non est b animal, est c insensibile.
+o Si cum sit a animatum, non est b animal, non est c homo.
+o Si cum non sit tale, est b homo, est c animal.
+o Si cum non sit a inuitale, est b homo, non est c equus. /302/
+o Si cum non sit a animal, non est b animatum, est c inuitale.
+o Si cum non sit a inuitale, non est b animal, non est c homo.
+[2.9.1] Ac de his quidem syllogismis qui talibus propositionibus conectuntur, quae ex hypothetica
+praedicatiuaque consistunt, sufficienter est dictum. Nunc de his dicendum est syllogismis, quorum propositiones ita
+tribus terminis continentur, ut mediae sint earum quae ex hypothetica categoricaque texuntur, et earum quae ex duabus
+hypotheticis connectuntur, quas idcirco hoc loco proponimus, quia, ut superiores, ita haec quoque tribus terminis
+continentur, et a similibus ad similia facilior transitus fiet.
+[2.9.2] Harum uero fiunt multiplices syllogismi, quorum nullus poterit esse perfectus, cum nec per se perspicui
+sint, et ut his fides debeat accomodari adiumento extrinsecus positae probationis indigeant; est autem probatio talium
+syllogismorum alio constitutus ordine syllogismus. Fiunt uero, ut dictum est, tum per primam, tum per secundam, tum
+uero per tertiam figuram. Sunt autem primae figurae propositiones hae:
+Si est a, est b; et si est b, est c.
+Si est a, est b; et si est b, non est c.
+
+

@@ -1,0 +1,64 @@
+Dicit ergo primo, quod dicendum est post praedicta, quid est simul, et quid
+est extraneum vel separatum, et quid est tangere, et quid est medium, et
+quid consequenter, et quid habitum, et quid continuum, et in quibus haec
+nata sunt esse.
+Praemittit autem haec, quia horum definitionibus utitur in
+demonstrationibus consequentibus per totum librum; sicut et in principio
+euclidis ponuntur definitiones, quae sunt sequentium demonstrationum
+principia.
+|#2
+Deinde cum dicit: simul igitur dicuntur haec etc., exequitur
+propositum.
+Ea primo definit quae praemissa sunt; secundo comparat ea ad invicem, ibi:
+manifestum autem et quod primum etc..
+Circa primum tria facit: primo definit ea quae pertinent ad tangere;
+secundo ea quae pertinent ad hoc quod est consequenter, ibi: medium vero
+etc.; tertio ea quae pertinent ad continuum, ibi: continuum autem etc..
+Et quia in definitione eius quod est tangere, ponitur simul, ideo primo
+definit ipsum: et dicit quod illa dicuntur esse simul secundum locum, quae
+sunt in uno loco primo; et dicitur primus locus uniuscuiusque, qui est
+proprius locus eius. Ex hoc enim aliqua dicuntur esse simul, quod sunt in
+uno loco proprio: non autem ex hoc quod sunt in uno loco communi; quia
+secundum hoc posset dici quod omnia corpora essent simul, quia omnia
+continentur sub caelo.
+Dicit autem quod simul dicuntur haec esse secundum locum, ad differentiam
+eorum quae dicuntur esse simul tempore: hoc enim non est nunc ad
+propositum.
+Per oppositum autem dicuntur esse separatim vel seorsum, quaecumque sunt in
+alio et alio loco.
+Tangere autem se dicuntur, quorum sunt ultima simul. Ultima autem corporum
+sunt superficies, et ultima superficierum sunt lineae, et ultima linearum
+sunt puncta. Si ergo ponatur quod duae lineae se tangant in suis ultimis,
+duo puncta duarum linearum se tangentium continebuntur sub uno puncto loci
+continentis. Nec propter hoc sequitur quod locatum sit maius loco: quia
+punctum additum puncto nihil maius efficit. Et eadem ratione se habet in
+aliis.
+|#3
+Deinde cum dicit: medium vero in quod aptum etc., definit ea quae
+pertinent ad hoc quod consequenter se habet.
+Et circa hoc tria facit: primo definit medium, quod ponitur in definitione
+eius quod est consequenter; secundo definit hoc quod est consequenter, ibi:
+consequenter autem est etc.; tertio infert quoddam corollarium ex dictis,
+ibi: quoniam autem omnis mutatio etc..
+Dicit ergo primo, quod medium est, in quod primo aptum natum est pervenire
+id quod continue mutatur secundum naturam, quam in ultimum terminum motus,
+in quem mutatur: sicut si aliquid mutatur de a in c per b, dummodo sit
+continuus motus, primo pervenit ad b, quam ad c.
+Medium autem potest quidem esse in pluribus; quia inter duo extrema possunt
+esse multa media, sicut inter album et nigrum sunt multi colores medii: sed
+ad minus oportet quod sit in tribus, quorum duo sunt extrema, et unum
+medium. Sic igitur medium est per quod in mutatione pervenitur ad ultimum;
+sed ultimum mutationis est contrarium. Dictum est enim supra quod motus est
+de contrario in contrarium.
+|#4
+Et quia in definitione medii posuerat continuationem motus,
+consequenter ostendit quid dicatur continue moveri.
+Potest autem continuatio motus ex duobus attendi: et ex tempore in quo
+movetur, et ex re per quam transit, sicut est magnitudo in motu locali.
+Ad hoc igitur quod sit motus continuus, requiritur quod nulla interpolatio
+sit in tempore: quia quantumcumque modicum interpolaretur motus secundum
+tempus, non esset continuus.
+
+187
+
+

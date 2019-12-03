@@ -1,0 +1,62 @@
+Et per hoc patet solutio ad secundum.
+|a4 Articulus 4
+TTA
+Quarto quaeritur utrum sit tantum una veritas qua omnia sunt vera.
+TTB
+Et videtur quod sic.
+AG1
+Anselmus enim dicit in libro de veritate quod sicut tempus se habet ad temporalia, ita veritas ad res veras. Sed
+tempus ita se habet ad omnia temporalia quod est unum tempus tantum. Ergo ita se habebit veritas ad omnia vera
+quod erit tantum una veritas.
+AG2
+Sed dicebat, quod veritas dupliciter dicitur.
+Uno modo secundum quod est idem quod entitas rei, ut definit eam Augustinus in Lib. Solil.: verum est id quod
+est; et sic oportet esse plures veritates secundum quod sunt plures essentiae rerum. Alio modo prout exprimit se
+in intellectum, prout definit eam Hilarius: verum est declarativum esse; et hoc modo, cum nihil possit aliquid
+manifestare intellectui nisi secundum virtutem primae veritatis divinae, omnes veritates quodammodo sunt unum
+in movendo intellectum, sicut et omnes colores sunt unum in movendo visum, in quantum movent ipsum, in
+ratione scilicet unius luminis. Sed contra, tempus est unum numero omnium temporalium. Si ergo ita se habet
+veritas ad res veras sicut tempus ad temporalia, oportet omnium verorum unam esse numero veritatem; nec
+sufficit omnes veritates esse unum in movendo, vel esse in exemplari unam.
+AG3
+Praeterea, Anselmus in Lib. De veritate sic argumentatur: si plurium verorum sunt plures veritates, oportet
+veritates variari secundum varietates verorum. Sed veritates non variantur per variationem rerum verarum, quia
+destructis rebus veris vel rectis adhuc remanet veritas et rectitudo, secundum quam sunt vera vel recta. Ergo est
+una tantum veritas. Minorem probat ex hoc quia, destructo signo, adhuc remanet rectitudo significationis, quia
+rectum est ut significetur hoc quod illud signum significabat; et eadem ratione, destructo quolibet vero vel recto,
+eius rectitudo vel veritas remanet.
+AG4
+Praeterea, in creatis nihil est id cuius est veritas, sicut veritas hominis non est homo, nec veritas carnis est caro.
+Sed quodlibet ens creatum est verum. Ergo nullum ens creatum est veritas; ergo omnis veritas est increatum, et
+ita est tantum una veritas.
+AG5
+Praeterea, nihil est maius mente humana nisi Deus, ut dicit Augustinus.
+Sed veritas, ut probat Augustinus in lib.
+Solil., est maior mente humana, quia non potest dici quod sit minor. Sic enim haberet mens humana de veritate
+iudicare, quod falsum est. Non enim de ea iudicat, sed secundum eam, sicut et iudex non iudicat de lege, sed
+secundum eam, ut idem dicit in Lib. De vera relig.. Similiter nec etiam dici potest quod sit ei aequalis, quia
+anima iudicat omnia secundum veritatem; non autem iudicat omnia secundum seipsam. Ergo veritas non est nisi
+Deus; et ita est tantum una veritas.
+AG6
+Praeterea, Augustinus probat in lib.
+Lxxxiii quaestionum, quod veritas non percipitur sensu corporis, hoc modo: nihil percipitur a sensu nisi
+mutabile. Sed veritas est immutabilis. Ergo sensu non percipitur. Similiter argui potest: omne creatum est
+mutabile. Sed veritas non est mutabilis. Ergo non est creatura; ergo est res increata; ergo est tantum una veritas.
+AG7
+Praeterea, ibidem Augustinus argumentatur ad idem hoc modo: nullum sensibile est quod non habeat aliquid
+simile falso, ita ut internosci non possit; nam, ut alia praetermittam, omnia quae per corpus sentimus, etiam cum
+ea non adsunt sensibus, imagines tamen eorum patimur tamquam prorsus adsint, velut in somno, vel in furore.
+Sed veritas non habet aliquid simile falso. Ergo veritas sensu non percipitur. Similiter argui potest: omne
+creatum habet aliquid simile falso, in quantum habet aliquid de defectu. Ergo nullum creatum est veritas; et sic
+est una tantum veritas.
+SC1
+Sed contra. Augustinus in libro de vera religione: sicut similitudo est forma similium, ita veritas est forma
+verorum. Sed plurium similium plures similitudines. Ergo plurium verorum plures veritates.
+SC2
+Praeterea, sicut omnis veritas creata derivatur a veritate increata exemplariter, et ab ea suam veritatem habet, ita
+omne lumen intelligibile a prima luce increata derivatur exemplariter, et vim manifestandi habet. Dicimus tamen
+esse plura lumina intelligibilia, ut patet per dionysium.
+Ergo videtur consimili modo concedendum simpliciter esse plures veritates.
+7
+
+

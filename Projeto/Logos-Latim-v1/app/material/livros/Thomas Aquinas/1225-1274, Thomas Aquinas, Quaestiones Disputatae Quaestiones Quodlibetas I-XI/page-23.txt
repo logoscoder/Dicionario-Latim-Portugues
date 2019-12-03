@@ -1,0 +1,62 @@
+|q2 Quaestio 2
+Prologus
+PR
+Deinde quaerebatur de Angelis. Et primo quantum ad compositionem ipsorum.
+Secundo quantum ad tempus motus ipsorum.
+Circa primum quaerebantur duo.
+PR1
+Primo utrum Angelus substantialiter sit compositus ex essentia et esse.
+PR2
+Secundo utrum in Angelo sit aliud suppositum et natura.
+|a1 Articulus 1
+TTA
+Utrum Angelus substantialiter sit compositus ex essentia et esse.
+TTB
+Ad primum sic proceditur: videtur quod Angelus substantialiter non componatur ex essentia et esse.
+AG1
+Essentia enim Angeli est ipse Angelus, quia quidditas simplicis est ipsum simplex. Si ergo Angelus
+componeretur ex essentia et esse, componeretur ex seipso et alio. Hoc autem est inconveniens. Non ergo
+substantialiter componitur ex essentia et esse.
+AG2
+Praeterea, nullum accidens cadit in substantialem compositionem substantiae. Sed esse Angeli est accidens;
+proprie enim Deo attribuit Hilarius in libro de trinitate, quod esse non sit accidens ei, sed subsistens veritas.
+Ergo Angelus non est essentialiter compositus ex essentia et esse.
+SC
+Sed contra, est quod dicitur in commento libri de causis, quod intelligentia quam dicimus Angelum, habet
+essentiam et esse.
+CO
+Respondeo. Dicendum, quod dupliciter aliquid de aliquo praedicatur: uno modo essentialiter, alio modo per
+participationem. Lux enim praedicatur de corpore illuminato participative; sed si esset aliqua lux separata,
+praedicaretur de ea essentialiter.
+Secundum ergo hoc dicendum est, quod ens praedicatur de solo Deo essentialiter, eo quod esse divinum est esse
+subsistens et absolutum; de qualibet autem creatura praedicatur per participationem: nulla enim creatura est
+suum esse, sed est habens esse.
+Sic et Deus dicitur bonus essentialiter, quia est ipsa bonitas; creaturae autem dicuntur bonae per participationem,
+quia habent bonitatem: unumquodque enim, in quantum est, bonum est, secundum illud Augustini in I de
+doctrina christiana, quod in quantum sumus, boni sumus.
+Quandocumque autem aliquid praedicatur de altero per participationem, oportet ibi aliquid esse praeter id quod
+participatur. Et ideo in qualibet creatura est aliud ipsa creatura quae habet esse, et ipsum esse eius; et hoc est
+quod boetius dicit in Lib. De hebdomad., quod in omni eo quod est citra primum, aliud est esse et quod est.
+Sed sciendum est, quod aliquid participatur dupliciter.
+Uno modo quasi existens de substantia participantis, sicut genus participatur a specie.
+Hoc autem modo esse non participatur a creatura. Id enim est de substantia rei quod cadit in eius definitione. Ens
+autem non ponitur in definitione creaturae, quia nec est genus nec differentia. Unde participatur sicut aliquid non
+existens de essentia rei; et ideo alia quaestio est an est et quid est. Unde, cum omne quod est praeter essentiam
+rei, dicatur accidens; esse quod pertinet ad quaestionem an est, est accidens. Et ideo Commentator dicit in V
+metaphysic., quod ista propositio, socrates est, est de accidentali praedicato, secundum quod importat entitatem
+rei, vel veritatem propositionis.
+Sed verum est quod hoc nomen ens, secundum quod importat rem cui competit huiusmodi esse, sic significat
+essentiam rei, et dividitur per decem genera; non tamen univoce, quia non eodem ratione competit omnibus esse;
+sed substantiae quidem per se, aliis autem aliter.
+Si ergo in Angelo est compositio sicut ex essentia et esse, non tamen est compositio sicut ex partibus substantiae,
+sed sicut ex substantia et eo quod adhaeret substantiae.
+RA1
+Ad primum ergo dicendum, quod aliquando ex his quae simul iunguntur, relinquitur aliqua res tertia, sicuti ex
+anima et corpore constituitur humanitas, quae est homo, unde homo componitur ex anima et corpore. Aliquando
+autem ex his quae simul iunguntur, non resultat res tertia, sed resultat quaedam ratio composita, sicut ratio
+hominis albi resolvitur in rationem hominis et in rationem albi; et in talibus aliquid componitur ex seipso et alio,
+sicut album componitur ex eo quod est album et ex albedine.
+RA2
+23
+
+

@@ -1,0 +1,61 @@
+Differentia vero debet sumi in eis per aliquid quod in illo modo a quo genus accidentis acceptum est, implicite
+continetur.
+Hoc autem invenitur in diversitate principiorum ex quibus causantur: sicut, verbi gratia, ratio mensurae reperitur
+in quantitate, et hoc est commune omni speciei quantitatis, et ab hoc est acceptum nomen generis. Sed constat
+quod successiva sunt diversa principia in natura sua a permanentibus; et ideo naturaliter diversas habent
+mensuras. Et inde est quod, cum definiuntur accidentia in abstracto, subiectum ponitur in eorum definitione
+oblique, et secundo loco; et hoc est proprium differentiae, ut cum dicitur simitas est curvitas nasi, per quod
+differt simitas a curvitate quae est in ligno.
+Accidentia autem in concreto dicta non sunt in genere nisi per reductionem, ut album vel musicum et huiusmodi.
+Aliquando autem propria principia accidentis quae sunt in loco differentiae, latent: et tunc loco illorum ponimus
+eorum effectus. Sicut lucis effectus est disgregare cum intensa fuerit: quae est principium albedinis: ideo
+aliquando ponimus disgregativum in eius definitione, sicut dicimus quod albedo est color disgregativus visus.
+Disgregativum enim non est differentia absoluta in eodem genere cum colore, sicut est rationale cum animali,
+sed est differentia sumpta a subiecto coloris exprimens excessum quemdam in receptione lucis.
+Unde accidentia definitionem non habent per res proprii generis, cum non dicant quid simpliciter, sicut dicit
+substantia.
+Cum enim quaeritur quid est albedo, respondetur: color; est enim color quid albedinis, sicut animal hominis. Sed
+animal quod dicit quid hominis, dicit substantiam simpliciter. Et ideo color qui dicit quid albedinis, magis dicit
+substantiale, quam substantiam, quia substantiale dicitur quod modum substantiae induit etsi substantia non sit.
+Inter omnia autem accidentia quantitas est propinquior substantiae. Et hoc manifestum est: quia sicut subiectum
+quantitatis est divisibile per se, in partes scilicet essentiales, ita quantitas habet propriam divisionem, per partes
+scilicet quantitatis.
+Et ideo si quantitas esset separata a substantia, non oporteret quod esset una tantum, quia potest dividi propria
+divisione in multa. Albedo vero si esset separata, necessario foret tantum una, cum non haberet in natura sua
+unde dividatur, sed a natura quantitatis.
+|+11 Capitulus 11: In quo ostenditur ratio quantitatis.
+De quantitate igitur primo agendum est.
+Sciendum est igitur quod quantitas secundum rationem eius communem, quae ponitur in quinto metaph., est
+divisibilis in ea quae sunt in actu. Quod non est ideo dictum quasi partes in quas quantum est divisibile sint actu
+in toto in quo sunt, divisae; sed hoc est dictum ad differentiam mixti, quod non est divisibile in miscibilia nisi per
+alterationem, per quam altera forma inducitur. Sed hic sine alteratione aliqua, sola divisione fit pars in actu.
+Unde quando est in toto, actu esse dicitur, quia quod prope est ad esse nihil ab esse differre videtur.
+Et ideo statim subiungit quod quaelibet pars nata est esse unum aliquid, et hoc aliquid demonstrabile. Quod non
+contingit in partibus essentialibus, ut in materia et forma, quia post divisionem neutrum manet per se existens,
+nisi forte fuerit forma et hoc aliquid simul, sicut est anima humana.
+Quantitatis autem primae differentiae sunt continuum et discretum, quibus duae species constituuntur, magnitudo
+scilicet et multitudo. Magnitudo constituitur per continuum, unde magnitudo dicitur quantitas divisibilis in partes
+continuas, sicut multitudo est quantitas divisibilis in partes non continuas, immo ab invicem discretas.
+Differentiae autem secundae continui sunt intraneum et extraneum, quia quaedam sunt quae mensurantur per
+intraneum, ut linea et huiusmodi: quaedam per extraneum, ut tempus. Has autem differentias vocat Aristoteles
+permanens et transiens, quia tempus est mensura transiens, linea vero permanens.
+Tertiae vero differentiae continui permanentis sive intranei sunt secundum unam dimensionem vel duas vel tres:
+quia quantitas intranea vel est divisibilis in partes continuas secundum unam dimensionem, et tunc est linea; vel
+secundum duas, et tunc est superficies; vel secundum tres, et sic est corpus.
+Et hae omnes sunt species quantitatis per se, ut dicitur in praedicamentis.
+Sed in quinto metaph., tempus ponitur species quantitatis per accidens, sicut albedo dicitur tanta quia superficies
+est tanta. Et huius ratio est quia logicus considerat quantitatem secundum rationem mensurae: sic enim potest
+formare intentiones logicas in quantitate. Et quia sunt diversae rationes mensurae, quia quaedam sunt extra et
+quaedam intra, quarum nulla est ab alia, ideo logicus ponit tempus et locum esse species quantitatis continuae et
+univocae cum aliis.
+Primus autem Philosophus considerat quantitatem secundum esse suum, et non sub ratione mensurae, et ideo illa
+quae sunt quanta per se ponit per se species quantitatis, ut lineam, superficiem et corpus.
+Illa autem quae sunt quanta per aliud, ut tempus est quantum per motum, motus vero per magnitudinem, ponit
+Philosophus esse quantitates per accidens.
+Et ideo in praedicamentis locus ponitur species quantitatis, non autem in metaphysica: quia locus habet rationem
+mensurae aliam a superficie, quia locus mensurat extrinsece rem locatam in qua locus non est ut in subiecto,
+superficies autem rem in qua est ut in subiecto. Locus autem non habet aliud esse a superficie, immo est ipsa
+continentis superficies, sive ultimum, ut dicitur in quarto physic..
+20
+
+

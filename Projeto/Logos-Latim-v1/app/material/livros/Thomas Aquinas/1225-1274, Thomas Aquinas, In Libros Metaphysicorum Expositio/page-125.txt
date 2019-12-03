@@ -1,0 +1,62 @@
+Deinde cum dicit secundum accidens ostendit quot modis dicitur ens per accidens; et dicit, quod tribus: quorum unus
+est, quando accidens praedicatur de accidente, ut cum dicitur, iustus est musicus. Secundus, cum accidens praedicatur
+de subiecto, ut cum dicitur, homo est musicus. Tertius, cum subiectum praedicatur de accidente, ut cum dicitur musicus
+est homo. Et, quia superius iam manifestavit quomodo causa per accidens differt a causa per se, ideo nunc consequenter
+per causam per accidens manifestat ens per accidens.
+[82452] In Metaphysic., lib. 5 l. 9 n. 3
+Et dicit, quod sicut assignantes causam per accidens dicimus quod musicus aedificat, eo quod musicum accidit
+aedificatori, vel e contra, constat enim quod hoc esse hoc, idest musicum aedificare, nihil aliud significat quam hoc
+accidere huic, ita est etiam in praedictis modis entis per accidens, quando dicimus hominem esse musicum, accidens
+praedicando de subiecto: vel musicum esse hominem, praedicando subiectum de accidente: vel album esse musicum,
+vel e converso, scilicet musicum esse album, praedicando accidens de accidente. In omnibus enim his, esse, nihil aliud
+significat quam accidere. Hoc quidem, scilicet quando accidens de accidente praedicatur, significat quod ambo
+accidentia accidunt eidem subiecto: illud vero, scilicet cum accidens praedicatur de subiecto, dicitur esse, quia enti idest
+subiecto accidit accidens. Sed musicum esse hominem dicimus, quia huic, scilicet praedicato, accidit musicum, quod
+ponitur in subiecto. Et est quasi similis ratio praedicandi, cum subiectum praedicatur de accidente, et accidens de
+accidente. Sicut enim subiectum praedicatur de accidente ea ratione, quia praedicatur subiectum de eo, cui accidit
+accidens in subiecto positum; ita accidens praedicatur de accidente, quia praedicatur de subiecto accidentis. Et propter
+hoc, sicut dicitur musicum est homo, similiter dicitur musicum esse album, quia scilicet illud cui accidit esse musicum,
+scilicet subiectum, est album.
+[82453] In Metaphysic., lib. 5 l. 9 n. 4
+Patet igitur, quod ea, quae dicuntur esse secundum accidens, dicuntur triplici ratione: aut eo quod ambo, scilicet
+subiectum et praedicatum, insunt eidem, sicut cum accidens praedicatur de accidente, aut quia illud, scilicet
+praedicatum, ut musicum, inest enti, idest subiecto, quod dicitur esse musicum; et hoc est cum accidens praedicatur de
+subiecto; aut quia illud, scilicet subiectum in praedicato positum, est illud cui inest accidens, de quo accidente illud,
+scilicet subiectum, praedicatur. Et hoc est scilicet cum subiectum praedicatur de accidente, ut cum dicimus, musicum
+est homo.
+[82454] In Metaphysic., lib. 5 l. 9 n. 5
+Deinde cum dicit secundum se distinguit modum entis per se: et circa hoc tria facit. Primo distinguit ens, quod est extra
+animam, per decem praedicamenta, quod est ens perfectum. Secundo ponit alium modum entis, secundum quod est
+tantum in mente, ibi, amplius autem et esse significat. Tertio dividit ens per potentiam et actum: et ens sic divisum est
+communius quam ens perfectum. Nam ens in potentia, est ens secundum quid tantum et imperfectum, ibi, amplius esse
+significat et ens. Dicit ergo primo, quod illa dicuntur esse secundum se, quaecumque significant figuras praedicationis.
+Sciendum est enim quod ens non potest hoc modo contrahi ad aliquid determinatum, sicut genus contrahitur ad species
+per differentias. Nam differentia, cum non participet genus, est extra essentiam generis. Nihil autem posset esse extra
+essentiam entis, quod per additionem ad ens aliquam speciem entis constituat: nam quod est extra ens, nihil est, et
+differentia esse non potest. Unde in tertio huius probavit philosophus, quod ens, genus esse non potest.
+[82455] In Metaphysic., lib. 5 l. 9 n. 6
+Unde oportet, quod ens contrahatur ad diversa genera secundum diversum modum praedicandi, qui consequitur
+diversum modum essendi; quia quoties ens dicitur, idest quot modis aliquid praedicatur, toties esse significatur, idest
+tot modis significatur aliquid esse. Et propter hoc ea in quae dividitur ens primo, dicuntur esse praedicamenta, quia
+distinguuntur secundum diversum modum praedicandi. Quia igitur eorum quae praedicantur, quaedam significant quid,
+idest substantiam, quaedam quale, quaedam quantum, et sic de aliis; oportet quod unicuique modo praedicandi, esse
+significet idem; ut cum dicitur homo est animal, esse significat substantiam. Cum autem dicitur, homo est albus,
+significat qualitatem, et sic de aliis.
+[82456] In Metaphysic., lib. 5 l. 9 n. 7
+Sciendum enim est quod praedicatum ad subiectum tripliciter se potest habere. Uno modo cum est id quod est
+subiectum, ut cum dico, Socrates est animal. Nam Socrates est id quod est animal. Et hoc praedicatum dicitur
+significare substantiam primam, quae est substantia particularis, de qua omnia praedicantur.
+[82457] In Metaphysic., lib. 5 l. 9 n. 8
+Secundo modo ut praedicatum sumatur secundum quod inest subiecto: quod quidem praedicatum, vel inest ei per se et
+absolute, ut consequens materiam, et sic est quantitas: vel ut consequens formam, et sic est qualitas: vel inest ei non
+absolute, sed in respectu ad aliud, et sic est ad aliquid. Tertio modo ut praedicatum sumatur ab eo quod est extra
+subiectum: et hoc dupliciter. Uno modo ut sit omnino extra subiectum: quod quidem si non sit mensura subiecti,
+praedicatur per modum habitus, ut cum dicitur, Socrates est calceatus vel vestitus. Si autem sit mensura eius, cum
+mensura extrinseca sit vel tempus vel locus, sumitur praedicamentum vel ex parte temporis, et sic erit quando: vel ex
+loco, et sic erit ubi, non considerato ordine partium in loco, quo considerato erit situs. Alio modo ut id a quo sumitur
+praedicamentum, secundum aliquid sit in subiecto, de quo praedicatur. Et si quidem secundum principium, sic
+praedicatur ut agere. Nam actionis principium in subiecto est. Si vero secundum terminum, sic praedicabitur ut in pati.
+Nam passio in subiectum patiens terminatur.
+[82458] In Metaphysic., lib. 5 l. 9 n. 9
+
+

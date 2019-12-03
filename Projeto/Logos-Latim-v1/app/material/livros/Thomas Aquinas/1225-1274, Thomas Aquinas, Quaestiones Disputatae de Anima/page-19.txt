@@ -1,0 +1,63 @@
+TTA
+Quinto quaeritur utrum intellectus agens sit unus et separatus.
+TTB
+Et videtur quod sic.
+AG1
+Quia Philosophus dicit in III de anima, quod intellectus agens non quandoque intelligit et quandoque non. Nihil
+autem est tale in nobis. Ergo intellectus agens est separatus, et per consequens in omnibus unus.
+AG2
+Praeterea, impossibile est quod aliquid sit simul in potentia et in actu respectu eiusdem.
+Sed intellectus possibilis est in potentia ad omnia intelligibilia; intellectus autem agens est in actu respectu
+eorum, cum sit intelligibilium specierum actus. Impossibile igitur videtur quod in eadem substantia animae
+radicetur intellectus possibilis et agens; et ita, cum intellectus possibilis sit in essentia animae, ut ex praedictis
+patet, intellectus agens erit separatus.
+AG3
+Sed dicebat, quod intellectus possibilis est in potentia ad intelligibilia, et intellectus agens in actu respectu eorum
+secundum aliud et aliud esse. Sed contra, intellectus possibilis non est in potentia ad intelligibilia secundum quod
+habet ea, quia secundum hoc iam est actu per ea. Est igitur in potentia ad species intelligibiles secundum quod
+sunt in phantasmatibus. Sed respectu specierum, secundum quod sunt in phantasmatibus, intellectus agens est
+actus; cum faciat ea intelligibilia in actu per abstractionem. Ergo intellectus agens est in potentia ad intelligibilia,
+secundum illud esse secundum quod comparatur intellectus agens ad ipsa, ut faciens.
+AG4
+Praeterea, Philosophus in III de anima attribuit quaedam intellectui agenti quae non videntur nisi substantiae
+separatae convenire; dicens quod hoc solum est perpetuum et incorruptibile et separatum.
+Est igitur intellectus agens substantia separata, ut videtur.
+AG5
+Praeterea, intellectus non dependet ex complexione corporali, cum sit absolutus ab organo corporali. Sed facultas
+intelligendi in nobis variatur secundum complexiones diversas.
+Non igitur ista facultas nobis competit per istum intellectum qui sit in nobis; et ita videtur quod intellectus agens
+sit separatus.
+AG6
+Praeterea, ad actionem aliquam non requiritur nisi agens et patiens. Si igitur intellectus possibilis, qui se habet ut
+patiens in intelligendo est aliquid substantiae nostrae, ut prius monstratum est, et intellectus agens est aliquid
+animae nostrae; videtur quod in nobis sufficienter habeamus unde intelligere possimus. Nihil ergo aliud est nobis
+necessarium ad intelligendum; quod tamen patet esse falsum. Indigemus enim sensibus, ex quibus experimenta
+accipimus ad sciendum, unde qui caret uno sensu, scilicet visu, caret una scientia, scilicet colorum. Indigemus
+etiam ad intelligendum doctrina, quae fit per magistrum; et ulterius illuminatione quae fit per Deum, secundum
+quod dicitur Ioan. I: erat lux vera quae illuminat omnem hominem venientem in hunc mundum.
+AG7
+Praeterea, intellectus agens comparatur ad intelligibilia sicut lumen ad visibilia, ut patet in III de anima. Sed una
+lux separata, scilicet solis, sufficit ad faciendum omnia visibilia actu. Ergo ad faciendum omnia intelligibilia actu
+sufficit una lux separata; et sic nulla necessitas est ponere intellectum agentem in nobis.
+AG8
+Praeterea, intellectus agens assimilatur arti, ut patet in III de anima.
+Sed ars est principium separatum ab artificiatis. Ergo et intellectus agens est principium separatum.
+AG9
+Praeterea, perfectio cuiuslibet naturae est ut similetur suo agenti. Tunc enim generatum perfectum est quando ad
+similitudinem generantis pertingit; et artificiatum quando consequitur similitudinem formae quae est in artifice.
+Si igitur intellectus agens est aliquid animae nostrae, ultima perfectio et beatitudo animae nostrae erit in aliquo
+quod est in ipsa; quod patet esse falsum: sic enim animae seipsa esset fruendum. Non ergo intellectus agens est
+aliquid in nobis.
+AG10
+Praeterea, agens est honorabilius patiente, ut dicitur in III de anima.
+Si ergo intellectus possibilis est aliquo modo separatus, intellectus agens erit magis separatus: quod non potest
+esse, ut videtur, nisi omnino extra substantiam animae ponatur.
+SC1
+Sed contra. Est quod dicitur in V de anima: quod sicut in omni natura est aliquid, hoc quidem ut materia aliud
+autem quod est factivum, ita necesse est in anima esse has differentias; ad quorum unum pertinet intellectus
+possibilis, ad alterum intellectus agens. Uterque ergo intellectus, possibilis scilicet et agens, est aliquid in anima.
+SC2
+
+19
+
+

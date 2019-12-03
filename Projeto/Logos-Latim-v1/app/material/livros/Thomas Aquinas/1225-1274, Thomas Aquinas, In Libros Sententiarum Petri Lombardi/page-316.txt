@@ -1,0 +1,63 @@
+diminuitur et augetur tempus motus, ut habetur ex 4 physic.. Ergo cum hoc sit impossibile, videtur quod Angelus
+in tempore non moveatur.
+AG4
+Praeterea, omne tempus est divisibile. Si igitur moveatur Angelus de a in b in aliquo tempore, in medio illius
+temporis alicubi erit. Sed non est in a, quia ibi erat in principio temporis; nec in b, quia ibi erat in fine temporis;
+et dum movetur; in duobus instantibus non est in eodem ubi, ut probatur in 6 physic.. Unde cum in uno instanti
+sit in a vel in b, in alio instanti non potest esse in eodem. Ergo in instanti quod est medium temporis, erit in
+medio spatii. Sed non necessario transit medium, ut supra dictum est, art. Praeced.. Ergo motus ejus non est in
+tempore.
+AG5
+Sed contra, omnis motus et mutatio habet prius et posterius: quia habet duos terminos, quorum unus consequitur
+aliud. Sed numerus prioris et posterioris in motu est tempus, ut habetur in 4 physic.. Ergo omnis motus
+mensuratur tempore: ergo et motus Angeli.
+AG6
+Praeterea, moveatur Angelus de a in b.
+Aut in eodem instanti est in a et in b, aut in diversis. Si in eodem, tunc erit simul in duobus locis, quod est
+improbatum; et praeterea tunc non moveretur ad b, quia nihil movetur ad id in quo est. Si autem in diversis, ergo
+est designare duo instantia, in quorum uno est in a, et sit c: et in altero in b, et sit illud d. Inde sic. Motus Angeli
+est inter d et c. Sed inter quaelibet duo instantia est tempus medium, ut probatur in 6 physic..
+Ergo motus Angeli erit in tempore.
+AG7
+Si dicas, quod illa duo nunc succedunt sibi sine aliquo medio, sicut dictum est de operationibus.
+Contra, moveatur Angelus de a in b, ita quod in hoc instanti quod est c, sit in a, et in hoc instanti quod est d, sit
+in b. Item ponatur quod aliquod corpus sit g, et moveatur similiter de a in b, et incipiat simul moveri cum
+Angelo, scilicet in c. Inde sic. Angelus citius pervenit ad b, quam corpus g. Ergo in instanti d corpus nondum
+pervenit ad b; sed erit citra b. Et sit ille locus r.
+Inde sic. G movetur de a in r, et in tempore cd. Sed spatium Ar est divisibile. Dividatur ergo in puncto h.
+Inde sic. Corpus illud, scilicet g, in instanti c est in a et in instanti d est in r. Ergo h erit in aliquo alio instanti
+medio inter illa duo, et sit illud n. In n ergo Angelus vel erit in a vel in b, vel in medio.
+Sed non in a, quia sic in duobus instantibus esset in eodem ubi; et eadem ratione non est in b.
+Ergo oportet quod in instanti n sit in medio: et sic semper procedendo, invenitur inter quaelibet duo instantia
+instans et tempus. Ergo oportet quod motus Angeli sit in tempore continuo.
+AG8
+Si dicatur, quod in motu Angeli non est assignare ultimum instans in quo sit in a, quia in a est in toto tempore, et
+in b est in termino temporis. Inter tempus autem et terminum temporis non est assignare medium, sicut etiam
+dicit Philosophus, in mutationibus naturalibus, ut quando aliquis movetur de albedine in nigredinem, est
+designare duo tempora, in quorum primo est album, et in secundo est nigrum, et instans quod contingit duo
+tempora, tenet se cum sequenti tempore; unde in eo est nigrum; unde non fuit invenire ultimum nunc, in quo
+esset album, sed ultimum tempus in cujus termino erit non album. Si inquam sic dicatur, contra, omnis motus qui
+non est semper, medius est inter duas quietes, quarum una est in termino a quo est motus, altera in termino ad
+quem est motus.
+Sed sicut instans ad quod terminatur motus tenet se cum quiete sequente; ita instans a quo incipit motus, tenet se
+cum quiete praecedente, ut patet quando aliquid movetur de albedine in nigredinem; quia sicut in fine temporis
+quod mensurat motum est nigrum, ita in principio temporis est album.
+Ergo ex hoc patet quod omnis quies trahit ad se et nunc praecedens, et nunc sequens. Inde sic arguo.
+Angelus qui movetur de a in b, ut dicis, in tempore cd, est in a. Ergo quiescit ibi: quia, ut probatur in 6 physic.,
+quidquid est in tempore in aliquo uno ubi, quiescit ibi. Sed ubi est aliquid quiescens in tempore, est et in termino
+temporis. Ergo in d, quod est nunc ultimum temporis, erit Angelus adhuc in a, et non in b, ut ponebatur.
+AG9
+Praeterea, omne tempus causatur a motu, ut patet ex 4 physic.. Sed Angelus in a non movetur, nec iterum habet
+ordinem ad aliquem motum priorem, per cujus tempus sua quies mensuretur. Ergo nihil est dictu, quod Angelus
+sit in a in tempore.
+CO
+Respondeo dicendum, quod cum omnis mutatio habeat duos terminos qui non possunt esse simul quia omnis
+mutatio est in incontingens, ut dicitur in 1 physic., oportet cuilibet motui vel mutationi adesse successionem ex
+hoc quod non possunt duo termini esse simul; et ita tempus, quod est numerus prioris et posterioris, in quibus
+consistit tota successionis ratio. Sed hoc diversimode in diversis contingit. Quandoque enim terminus motus est
+mediatus principio motus, vel secundum medium quantitatis dimensivae, sicut est in motu locali corporum et in
+motu augmenti et diminutionis, vel secundum medium quantitatis virtualis cujus divisio attenditur secundum
+intensionem et remissionem alicujus formae, sicut in alteratione qualitatum sensibilium: et tunc tempus per se
+316
+
+

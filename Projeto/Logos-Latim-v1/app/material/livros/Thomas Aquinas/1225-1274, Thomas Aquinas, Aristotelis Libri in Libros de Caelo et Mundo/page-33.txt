@@ -1,0 +1,57 @@
+velocius movet. Sic igitur impossibile est quod finitum moveatur ab infinito in tempore g; et idem sequitur
+quodcumque aliud tempus finitum sumatur.
+Nullum ergo tempus finitum est dare, in quo infinitum moveat finitum.
+|#5 Deinde cum dicit: sed adhuc in infinito etc., ostendit quod neque hoc potest esse in tempore infinito. Non
+enim contingit quod in tempore infinito aliquid moverit vel motum sit: quia tempus infinitum non habet finem,
+omnis autem actio vel passio habet finem: nihil enim agit vel patitur nisi ut perveniat ad aliquem finem.
+Relinquitur ergo quod infinitum non moveat finitum in tempore infinito.
+|#6 Deinde cum dicit: neque infinitum utique etc., probat quod infinitum non moveat infinitum. Et dicit quod
+infinitum non contingit aliquid pati ab infinito secundum quamcumque speciem motus.
+Alioquin, sit corpus infinitum agens in quo est a, et corpus infinitum patiens in quo est b, tempus autem in quo b
+passum est ab a sit in quo dg; sit autem e pars infiniti mobilis quod est b. Quia ergo totum b passum est ab a in
+toto tempore quod est dg, manifestum est quod e, quod est pars eius, non movetur in toto hoc tempore: oportet
+enim supponere quod ab eodem movente minus mobile moveatur in minori tempore; quanto enim mobile magis
+vincitur a movente, tanto velocius movetur ab ipso. Sit ergo quod e, quod est minus quam b, moveatur ab a in
+tempore d, quod est pars totius temporis gd. D autem ad gd est aliqua proportio, cum utrumque sit finitum:
+accipiamus autem quod eandem proportionem habeat e ad aliquam partem ipsius mobilis infiniti maiorem, quam
+scilicet d habet ad gd.
+Sic ergo illud finitum maius quam e, necesse est quod moveatur ab a in gd tempore: oportet enim supponere
+quod ab eodem movente moveatur maius et minus mobile in maiori et minori tempore, ita quod divisio mobilium
+sit secundum proportionem temporum. Quia igitur proportio illius finiti ad e, est sicut proportio totius temporis
+gd ad d, oportet commutatim dicere quod proportio totius temporis gd ad illud mobile finitum maius, sit sicut
+proportio temporis d ad mobile e. Sed e movetur ab a in tempore d: ergo illud finitum maius movebitur ab a in
+tempore gd: et sic in eodem tempore movebitur finitum et infinitum, quod est impossibile.
+Et idem inconveniens sequitur, quodcumque tempus finitum accipiatur. Sic igitur impossibile est quod infinitum
+moveatur ab infinito in tempore finito.
+Relinquitur igitur, si moveatur, quod moveatur in infinito tempore. Sed hoc est impossibile, ut supra ostensum
+est, quia infinitum tempus non habet finem, omne autem quod movetur, habet finem sui motus: quia etsi totus
+motus caeli non haberet finem, una tamen circulatio habet finem.
+Sic igitur manifestum est quod infinitum non habet neque virtutem activam neque passivam.
+|#7 Deinde cum dicit: si igitur etc., assumpta minori, infert conclusionem: dicens quod omne corpus sensibile
+habet virtutem activam aut passivam aut utramque. Dicitur autem hic corpus sensibile ad differentiam corporis
+mathematici: ita quod corpus sensibile dicatur omne corpus naturale, quod inquantum huiusmodi, natum est
+movere et moveri. Sic ergo concludit quod impossibile est aliquod corpus sensibile esse infinitum.
+|#8 Deinde cum dicit: sed tamen et quaecumque etc., excludit quandam obviationem: quia posset aliquis dicere
+quod sit aliquod corpus extra caelum intelligibile, quod sit infinitum. Et dicit quod omnia corpora quae sunt in
+loco, sunt sensibilia.
+Non enim sunt corpora mathematica, quia talibus non debetur locus nisi secundum metaphoram, ut dicitur in I de
+generat.: locus enim non quaeritur nisi propter motum, ut dicitur in IV physic.; non autem moventur nisi corpora
+sensibilia et naturalia, nam mathematica sunt extra motum. Sic igitur manifestum est quod quaecumque corpora
+sunt in loco, sunt sensibilia. Et ex hoc concludit quod corpus infinitum non sit extra caelum; immo universalius,
+quod nullum corpus sit extra caelum, neque simpliciter, scilicet corpus infinitum, neque secundum quid (vel
+usque ad aliquid), idest corpus finitum; cum enim corpus omne sit finitum vel infinitum, sequitur quod nullum
+omnino corpus sit extra caelum. Quia si dicas quod sit intellectuale, sequetur quod sit in loco, ex quo ponitur
+extra caelum: extra enim et intra significant locum. Sic igitur sequitur quod, si aliquod corpus sit extra caelum,
+finitum vel infinitum, quod sit sensibile; eo quod nullum sensibile corpus est, quod non sit in loco (quia etiam
+caelum quodammodo est in loco, ut patet in IV physic.)p manifestum est autem secundum haec verba quod
+nullum corpus intelligibile, neque finitum neque infinitum, est extra caelum; quia extra significat locum, nihil
+autem est in loco nisi corpus sensibile. Manifestum est etiam quod nullum corpus infinitum sensibile est extra
+caelum: ostensum est enim supra quod nullum corpus sensibile est infinitum. Quod autem nullum corpus
+sensibile finitum sit extra caelum, non videtur hic probari, sed supponi: nisi forte per hoc quod omne corpus
+sensibile est in loco, omnia autem loca continentur infra caelum, quae determinantur tribus motibus localibus
+supra positis, scilicet qui sunt circa medium, a medio, et ad medium.
+|+15 Lectio 15
+
+33
+
+

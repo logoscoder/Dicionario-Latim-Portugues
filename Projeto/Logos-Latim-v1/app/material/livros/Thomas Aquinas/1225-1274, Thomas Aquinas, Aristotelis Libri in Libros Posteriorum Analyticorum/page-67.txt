@@ -1,0 +1,58 @@
+applicat principia arithmeticae ad sonos sensibiles. Unde hic dicit quod arithmetica est certior quam musica et
+prior: prior quidem, quia musica utitur principiis eius ad aliud; certior autem, quia incertitudo causatur propter
+transmutabilitatem materiae sensibilis; unde quanto magis acceditur ad eam, tanto scientia est minus certa.
+|#4 Tertium modum ponit dicens, quod scientia quae est ex paucioribus, est prior et certior ea quae est ex
+appositione, idest quam illa quae se habet ex additione. Et ponit exemplum. Sicut geometria est posterior et
+minus certa quam arithmetica: habent enim se ea de quibus est geometria, ex additione ad ea de quibus est
+arithmetica.
+Et hoc quidem planum est videre secundum positiones Platonicas, secundum quas hic Aristoteles exponit, utens
+eis ad propositum ostendendum; sicut frequenter in libris logicae utitur opinionibus aliorum Philosophorum ad
+propositum manifestandum per viam exempli. Posuit autem Plato quod unum est substantia rei cuiuslibet; quia
+non distinguebat inter unum quod convertitur cum ente, quod significat substantiam rei, et unum quod est
+principium numeri, quod considerat arithmeticus. Hoc ergo unum, secundum quod recipit additionem positionis
+in continuo, accipit rationem puncti. Unde dicebat quod unum est substantia non habens positionem. Punctum
+autem est substantia habens positionem: et sic punctum supra unitatem addit positionem. Et sicut ex uno
+causantur omnes numeri non habentes positionem; ita ex puncto, secundum Platonicos, causantur omnes
+quantitates continuae.
+Nam punctus motus facit lineam; linea mota facit superficiem; superficies mota facit corpus. Et secundum hoc
+quantitates continuae, de quibus est geometria, se habent ex appositione ad numeros, de quibus est arithmetica.
+Unde Platonici posuerunt numeros esse formas magnitudinum, dicentes formam puncti esse unitatem; formam
+autem lineae esse binarium, propter duo extrema; formam autem superficiei esse ternarium, propter primam
+superficiem triangularem, scilicet quae tribus angulis terminatur: formam autem corporis ponebant quaternarium,
+propter hoc quod prima figura corporea est pyramis triangularis, quae quatuor angulos corporales habet, unum
+scilicet in conum et tres in basim.
+|#5 Et secundum hoc patet quod comparatio certitudinis scientiarum accipitur hic secundum duo. Nam primus
+modus accipitur secundum quod causa est prior et certior suo effectu. Alii autem duo modi accipiuntur secundum
+quod forma est certior materia, utpote quia forma est principium cognoscendi materiam. Est autem duplex
+materia, ut dicitur in VII metaphysicae: una quidem sensibilis, secundum quam accipitur secundus modus; alia
+vero intelligibilis, scilicet ipsa continuitas, et secundum hanc accipitur tertius modus. Et quamvis hic tertius
+modus expositus sit secundum opinionem Platonis, tamen etiam secundum opinionem Aristotelis punctus se
+habet ex additione ad unitatem. Nam punctum est quoddam unum indivisibile in continuo, abstrahens secundum
+rationem a materia sensibili; unum autem abstrahit et a materia sensibili et ab intelligibili.
+|#6 Deinde cum dicit: una autem scientia est etc., comparat scientias ad invicem secundum unitatem et
+diversitatem. Et circa hoc duo facit: primo enim ostendit unitatem et diversitatem esse in scientiis et secundum
+subiectum et principia; secundo, prosequitur et de subiectis et de principiis; ibi: eius autem quod est a fortuna
+etc..
+Circa primum duo facit: primo, ostendit quid faciat ad unitatem vel diversitatem scientiae; secundo, ostendit
+quoddam necessarium ad cognoscendum quid faciat ad pluralitatem scientiarum; ibi: plures autem
+demonstrationes etc..
+Circa primum duo facit: primo, ostendit quid faciat unitatem scientiae; secundo, quid faciat scientiarum
+diversitatem; ibi: altera autem scientia etc.. Circa primum duo facit: primo enim ponit quod unitas scientiae
+consideratur ex unitate generis subiecti; secundo, ostendit quale sit genus, quod potest esse subiectum scientiae;
+ibi: quaecunque ex primis etc..
+|#7 Dicit ergo primo quod scientia dicitur una, ex hoc quod est unius generis subiecti. Cuius ratio est, quia
+processus scientiae cuiuslibet est quasi quidam motus rationis. Cuiuslibet autem motus unitas ex termino
+principaliter consideratur, ut patet in V physicorum, et ideo oportet quod unitas scientiae consideretur ex fine
+sive ex termino scientiae. Est autem cuiuslibet scientiae finis sive terminus, genus circa quod est scientia: quia in
+speculativis scientiis nihil aliud quaeritur quam cognitio generis subiecti; in practicis autem scientiis intenditur
+quasi finis constructio ipsius subiecti. Sicut in geometria intenditur quasi finis cognitio magnitudinis, quae est
+subiectum geometriae; in scientia autem aedificativa intenditur quasi finis constructio domus, quae est
+huiusmodi artis subiectum. Unde relinquitur quod cuiuslibet scientiae unitas secundum unitatem subiecti est
+attendenda. Sed sicut unius generis subiecti unitas est communior quam alterius, ut puta entis sive substantiae
+quam corporis mobilis, ita etiam una scientia communior est quam alia.
+Sicut metaphysica, quae est de ente sive de substantia, communior est quam physica, quae est de corpore mobili.
+|#8 Deinde cum dicit: quaecunque ex primis etc., ostendit qualia sunt illa genera, de quibus possunt esse
+scientiae, et ponit duas conditiones. Quarum unam ponit dicens: quaecunque ex primis componuntur; ista scilicet
+67
+
+

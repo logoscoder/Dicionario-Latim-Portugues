@@ -1,0 +1,62 @@
+SC2
+Praeterea, nihil potest connumerari alicui nisi in eo quod est commune utrique.
+CO
+Respondeo dicendum, quod est duplex communitas: scilicet rei et rationis. Et dico communitatem rei quando
+aliquid unum et idem numero convenit pluribus; et talis communitas naturae non est nisi in divinis personis, nec
+aliqua talis communitas est in trinitate, nisi essentiae, et eorum quae ad essentiam pertinent, ut attributorum et
+operationum et negationum et relationum essentialium. Communitas autem rationis est, secundum quam persona
+communis dicitur in trinitate.
+Hoc autem diversimode assignatur a diversis.
+Quidam enim dicunt, quod est commune secundum rationem negationis, eo quod in definitione personae cadit
+individuum, quod dicit negationem. Unde dicunt, quod talis communitas rationis, quae est per negationem
+tantum, non facit universale. Sed hoc non videtur sufficiens: quia persona de ratione sua non dicit negationem
+tantum, sed etiam positionem quamdam.
+Unde alii dicunt, quod est communitas secundum rationem proportionis, sicut dicimus, quod sicut se habet rector
+in civitate, ita nauta in navi; et sic dicunt, quod persona est communis patri et filio: quia sicut pater se habet ut
+subsistens ad naturam divinam, ita et filius.
+Alii dicunt, quod est communitas secundum rationem intentionis; sicut dicitur quod color et animal conveniunt
+in intentione generis. Sed haec duo dicta in idem referuntur: quia communitas intentionum non est nisi secundum
+proportionem communis ad proprium, vel e contrario. Et hoc etiam non videtur sufficere: quia persona non
+tantum nominat intentionem vel habitudinem alicujus subsistentis ad naturam communem, sicut hoc nomen
+suppositum vel particulare vel aliquid hujusmodi; sed magis nominat illam rem cui accidit talis intentio: unde
+communitas personae in divinis non potest esse secundum communitatem talis habitudinis vel intentionis; sed
+ista communitas est, qua hoc nomen suppositum commune est tribus personis.
+Et ideo aliter dicendum, quod praeter has communitates quae aliquo modo includuntur in communitate personae,
+est ibi communitas rationis fundata in re; sicut dicimus quod ratio animalis est communis homini et asino. Sed
+ratio fundata in re est duplex: quia quaedam est communis, sicut ratio animalis, et quaedam est specialis, sicut
+ratio hominis. Sic etiam est in divinis, quod cum realiter sit ibi relatio, est ibi communis ratio relationis.
+Item, cum realiter sit ibi paternitas, est ibi specialis ratio paternitatis realiter: unde relatio est communis
+paternitati et filiationi, sicut ratio communis in rationibus specialibus. Non tamen ex hoc sequitur quod relatio sit
+universale ad paternitatem et filiationem: quia omne universale est secundum aliud et aliud esse in suis
+inferioribus, sed in divinis non est nisi unum esse, unde idem esse relationis est in paternitate et filiatione: unde
+communis ratio in divinis non potest distingui per esse, sed solum per speciales rationes. Et inde est quod nihil
+unum secundum specialem rationem potest numero multiplicari in divinis. Ita dico de persona quod persona in
+divinis significat communiter rationem distincti subsistentis in tali natura, et pater significat relationem distincti
+speciali ratione subsistentis in natura communi, et similiter filius: et inde patet quod persona secundum rem non
+est communis patri et filio: quia non est numero una persona utriusque, sicut una numero essentia: sed sicut
+habens rationem communem est commune habentibus rationes speciales et proprias in quibus distinguuntur, nec
+tamen est universale: quia non est secundum aliud et aliud esse in patre et filio.
+RA1
+Ad primum igitur dicendum, quod persona non est communis communitate rei, sicut essentia: et ideo quamvis
+secundum rem non differat ab essentia, non tamen significat per modum essentiae; et similiter cum dicitur quod
+pater distinguitur a filio in persona, non intelligitur quod sit distinctio in ratione communi personae, sed solum in
+ratione speciali, quae est ratio patris.
+RA2
+Ad secundum dicendum, quod persona non est de ratione patris, si proprie accipiatur: quia in divinis non proprie
+est definitio, sicut nec genus et species. Si tamen in hoc non fiat vis, tunc dicendum, quod si sit de ratione patris,
+non tamen est secundum aliud esse in patre et filio: et ideo non est commune eis per modum universalis, sed
+secundum rationem tantum.
+RA3
+Et per hoc patet solutio ad tertium.
+RA4
+Ad quartum dicendum, quod quamvis id quod est persona, sit incommunicabile, nihil tamen prohibet
+intentionem personae esse communem, sicut socrates est incommunicabilis, et tamen ratio individui vel intentio
+communis est, sicut e contrario intentio generis designatur ut particularis, quando contrahitur ad hoc genus:
+similiter etiam ratio personae, inquantum persona est, quamvis non nominet intentionem particularem, tamen est
+communis, eo quod non dicit specialem rationem distinctionis, sed generalem; sicut etiam individuum vagum, ut
+aliquis homo, est aliquo modo commune, prout non dicit hanc vel aliam rationem individuationis, sed
+individuationem tantum in communi.
+|a4 Articulus 4: Utrum tres personae possint dici tres res.
+220
+
+

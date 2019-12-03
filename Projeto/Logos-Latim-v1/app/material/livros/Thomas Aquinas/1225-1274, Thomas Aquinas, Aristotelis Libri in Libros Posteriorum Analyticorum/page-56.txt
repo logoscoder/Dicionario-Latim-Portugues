@@ -1,0 +1,56 @@
+Sic ergo ad eius cognitionem nullo modo possumus melius nos habere, quam sciendo eam per demonstrationem:
+ergo oportebit eam demonstrare per aliquas alias propositiones, et illas iterum per alias, et sic in infinitum. Quia
+igitur infinita non est transire, non poterimus ea cognoscere per demonstrationem, neque melius ea cognoscere
+possumus, cum omnia sint demonstrabilia.
+Ergo sequetur quod nihil contingat scire per demonstrationem simpliciter, sed solum ex suppositione.
+Ultimo autem epilogando concludit principale propositum.
+|+35 Lectio 35
+|#1 Postquam Philosophus ostendit logice quod non sit procedere in infinitum in praedicatis in sursum aut
+deorsum, hic ostendit idem analytice. Et dividitur in duas partes: in prima ostendit principale propositum; in
+secunda infert quaedam corollaria ex dictis; ibi: monstratis autem his manifestum etc.. Circa primum duo facit:
+primo, proponit quod intendit: secundo, probat propositum; ibi: demonstratio quidem enim etc..
+|#2
+Dicit ergo primo, quod hoc quod non contingit in demonstrativis scientiis, de quibus intendimus,
+praedicationes in infinitum procedere, neque in sursum neque in deorsum, brevius et citius poterit manifestari
+analytice quam manifestatum sit logice. Ubi considerandum est quod analytica, idest demonstrativa scientia,
+quae resolvendo ad principia per se nota iudicativa dicitur, est pars logicae, quae etiam dialecticam sub se
+continet. Ad logicam autem communiter pertinet considerare praedicationem universaliter, secundum quod
+continet sub se praedicationem quae est per se, et quae non est per se. Sed demonstrativae scientiae propria est
+praedicatio per se. Et ideo supra logice probavit propositum, quia ostendit universaliter in omni genere
+praedicationis non esse processum in infinitum; hic autem intendit ostendere analytice, quia hoc probat solum in
+his, quae praedicantur per se. Et haec est via expeditior: et ideo sufficit ad propositum, quia in demonstrationibus
+non utimur nisi tali modo praedicationis.
+|#3 Deinde cum dicit: demonstratio quidem etc., ostendit propositum. Et circa hoc tria facit: primo, proponit
+qua praedicatione analytica, idest demonstrativa scientia, utatur, quia praedicatione per se; secundo, resumit quot
+sunt modi talis praedicationis; ibi: per seipsa vero etc.; tertio, ostendit quod in nullo modo praedicationis per se
+possit procedi in infinitum; ibi: horum autem neutra contingunt etc.. Dicit ergo primo, quod demonstratio est
+solum circa illa, quae per se insunt rebus. Tales enim sunt eius conclusiones, et ex talibus demonstrat, ut supra
+habitum est.
+|#4 Deinde cum dicit: secundum seipsa autem etc., ponit duos modos praedicandi per se.
+Nam primo quidem praedicantur per se quaecunque insunt subiectis in eo quod quid est, scilicet cum praedicata
+ponuntur in definitione subiecti.
+Secundo, quando ipsa subiecta insunt praedicatis in eo quod quid est, idest quando subiecta ponuntur in
+definitione praedicatorum. Et exemplificat de utroque modo. Nam impar praedicatur de numero per se secundo
+modo, quia numerus ponitur in definitione ipsius imparis. Est enim impar numerus medio carens. Multitudo
+autem vel divisibile praedicatur de numero, et ponitur in definitione eius. Unde huiusmodi praedicantur per se de
+numero primo modo. Alii autem modi, quos supra posuit, reducuntur ad istos.
+|#5 Deinde cum dicit: horum autem neutra etc., ostendit quod in utroque modo praedicationis per se necesse est
+esse statum. Et circa hoc tria facit: primo, ostendit quod necessarium est esse statum in utroque modo
+praedicationis per se, tam in sursum quam in deorsum; secundo, concludit quod non possit esse infinitum in
+mediis; ibi: si autem sic est etc.; tertio, concludit quod non potest procedi in infinitum in demonstrationibus; ibi:
+si vero hoc etc.. Circa primum duo facit: primo, ostendit propositum in secundo modo dicendi per se, quando
+scilicet subiectum ponitur in definitione praedicati; secundo, in primo modo, quando praedicatum ponitur in
+definitione subiecti; ibi: neque etiam quaecunque etc..
+|#6 Circa primum ponit duas rationes. Circa quarum primam sic procedit: primo quidem praemittit propositum,
+scilicet quod in neutro modo dicendi per se contingit in infinitum procedere; deinde probat hoc in secundo modo,
+puta cum impar praedicatur de numero. Si enim procedatur ulterius, quod aliquid aliud praedicetur per se de
+impari secundum istum modum dicendi per se, sequitur quod impar insit in definitione eius. Numerus autem
+ponitur in definitione imparis: unde sequeretur quod etiam numerus ponatur in definitione illius tertii, quod per
+se inest impari. Sed hic non contingit abire in infinitum, ut scilicet infinita insint in definitione alicuius, sicut
+supra probatum est. Relinquitur ergo quod in talibus per se praedicationibus non contingit procedere in infinitum
+in sursum, idest ex parte praedicati.
+|#7 Secundam rationem ponit ibi: at vero necesse est omnia etc., et dicit quod quantumcunque procedatur in
+huiusmodi per se praedicationibus secundi modi, oportebit quod omnia praedicata per ordinem accepta insint
+56
+
+

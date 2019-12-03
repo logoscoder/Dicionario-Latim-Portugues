@@ -1,0 +1,61 @@
+Ergo licite potest retineri.
+CO
+Respondeo. Dicendum, quod huius quaestionis veritas poterit apparere, si consideretur ratio quare usuram
+accipere sit peccatum.
+Non enim est peccatum solum quia est prohibitum, sed quia est contra rationem naturalem, ut etiam Philosophus
+dicit in I politicorum.
+Ad cuius evidentiam considerandum, quod rerum in usum hominis venientium quaedam sunt quarum usus non
+est ipsius rei consumptio; et si contingat rem deteriorari vel consumi per usum, hoc est per accidens, sicut
+domus, vestis, liber, equus, et huiusmodi.
+Non enim uti libro est delere ipsum, neque uti domo est destruere ipsam. Et in talibus aliud est dare usum rei et
+aliud est dare substantiam rei: et propter hoc, quanto per accommodationem usus talis rei alteri conceditur, non
+propter hoc dominium rei transfertur; et propter hoc etiam potest vendi usus rei, dominio rei remanente apud
+Dominum; sicut patet in conductione et locatione, qui sunt contractus liciti.
+Quaedam vero res sunt quarum usus nihil est aliud quam consumptio ipsarum rerum: sicut pecunia qua utimur
+expendendo, vinum quo utimur bibendo; et sic de aliis huiusmodi, in quibus uti re nihil aliud est quam
+consumere ipsam. Et ideo in talibus quando conceditur usus rei per mutuum, transfertur etiam rei dominium.
+Quia ergo usus rei non est separabilis ab ipsa re; quicumque vendit usum talium rerum retinendo sibi
+obligationem ad sortem reddendam, manifestum est quod idem vendit bis, quod est contra naturalem iustitiam.
+Et ideo exigere usuram est secundum se iniustum.
+Tenetur ergo aliquis id quod accipit ultra sortem, restituere, quia iniuste accipit; et per consequens damna et
+interesse.
+Sed cum ipsius pecuniae usurariae non sit alius usus quam ipsa eius substantia, ratione iam dicta, patet
+consequenter quod ex quo pecuniam usurariam reddit, de usu pecuniae nihil reddere tenetur. Teneretur autem
+reddere aliquis id quod lucratus esset de domo aliena, vel de equo, vel aliquo huiusmodi, etiam postquam res
+huiusmodi reddidisset; quia in talibus appretiatur res et usus rei.
+RA
+Ad illud ergo quod in contrarium obiicitur, dicendum, quod pecunia usuraria non se habet per modum radicis ad
+lucrum quod de ea fit, sed solum per modum materiae. Radix enim aliqualiter habet virtutem causae activae, in
+quantum ministrat alimentum toti plantae; unde in humanis actibus voluntas et intentio comparantur radici, quae
+si perversa fuerit, opus erit perversum: non autem hoc est necessarium in eo quod est materiale; potest enim
+aliquis interdum malo bene uti.
+|q8 Quaestio 8
+Prologus
+PR
+Deinde quaesitum est de his quae pertinent communiter ad omnes homines. Primo quantum ad animam. Secundo
+quantum ad corpus. Tertio quantum ad actum hominis.
+Circa animam quaesita sunt tria.
+PR1
+Primo quantum ad substantiam eius, utrum sit composita ex materia et forma.
+PR2
+Secundo quantum ad cognitionem eius.
+PR3
+Tertio quantum ad poenam ipsius.
+TTA
+Utrum anima sit composita ex materia et forma.
+TTB
+Ad primum sic proceditur: videtur quod anima sit composita ex materia et forma.
+AG
+Intellectus enim humanus comparatur ad substantias intellectuales superiores per recessum simplicitatis. Sed
+omne quod recedit a simplici, incidit in aliquam compositionem: prima autem compositio est ex materia et
+forma. Ergo anima humana est composita ex materia et forma.
+SC
+Sed contra, est quod Philosophus dicit in III de anima, quod species rerum materialium prout sunt in ipsis rebus,
+non sunt intelligibiles actu, quia sunt in materia.
+Sed prout sunt in anima intellectiva humana, sunt intelligibiles actu. Ergo non sunt in materia: non ergo anima
+humana est composita ex materia et forma.
+CO
+
+59
+
+

@@ -1,0 +1,68 @@
+ullam habet obscuritatem. Nam quod non est possibile ut non sit hoc impossibile est ut non sit. Id quod enim dicimus
+impossibile esse idem ualet tamquam si dicamus non possibile esse. Quod enim facit negatio in ea interpretatione in
+qua dicimus non possibile, idem facit priuatio in ea in qua dicimus impossibile. Quod autem impossibile est non esse
+late patet, quia necesse est esse. Ergo et quod non est possibile ut non sit manifestum est quoniam esse necesse est.
+Idem quoque /420/ et de contingenti dicendum est. Describit autem eas hoc modo, ut non solum mente et ratione
+capiantur uerum etiam subiectae oculis faciliores intellectu sint.
+Nos autem, ut sit lucidior explanatio, de his duos facimus ordines. Et in primo quidem eas proposuimus quae
+praecedunt, in secundo uero eas quae sequuntur, ut sit multa facultas uel per se earum rationes non intellegentibus, ad
+descriptionem tamen respicientibus, quae quam sequatur agnoscere.
+PRAECEDENTES:
+SEQUENTES:
+Possibile esse
+Non impossibile esse
+Contingens esse
+Non necesse esse
+Possibile non esse
+Non necessarium non esse
+Contingens non esse
+Non impossibile non esse
+Non possibile esse
+Necessarium non esse
+Non contingens esse
+Impossibile esse
+Non possibile non esse Necesse esse
+Non contingens non esse Impossibile non esse
+Hac igitur descriptione facta, quid Aristoteles communiter de propositionibus uniuersaliterque tractauerit, nulli
+sollertius intuenti uidetur ambiguum. Caetera uero quae singillatim de eorum consequentiis disputauit, quoniam
+defetigari lectores nolumus, sextum uolumen expediet.
+LIBER SEXTUS
+INTRODUCTIO
+/421/ Sextus hic liber longae commentationi terminum ponit, quae quodam magno labore constiterit ac
+temporis mora. Nam et plurimorum sunt in unum coaceruatae sententiae et duorum ferme annorum spatium continuo
+commentandi sudore consumpsimus. Neque ego arbitror quibusdam sinistre interpretantibus gloriose factum uideri, ut
+quod dici breuiter posset id nos ostentatione doctrinae non ad lectorum scientiam potius quam prolixitate ad fastidium
+tenderemus. Quibus responsum uelim non haec tam mendaciter esse sensuros, si prioris commenti perlegerent
+breuitatem. Nam neque breuius explicari potuit angustissimorum obscuritas impedita sermonum et quam multa ad
+plenam libri huius intellegentiam desint agnoscitur. Quid autem utrumque opus legentibus utilitatis exhibeat, hinc
+facillime mihi uidetur posse perpendi, quod cum hanc secundam editioneni in manus quisquam primum sumpserit
+rerum ipsarum spatiosa uarietate confunditur, ut qui in maioribus intendere mentem nequit editionis primae breuitatem
+simplicitatemque desideret. /422/
+Quod si quis ad prioris editionis duos libros rector accesserit, sumpsisse sibi ad scientiam quiddam fortasse
+uidebitur sed cum postremo hanc secundam cognouerit editionem, quam multa in prima ignorarit agnoscit. Nec
+homines a legendo longum opus labore deterreat, cum nos non impedierit ad scribendum. Sed ne ipsum quoque
+prooemium tendi longius uideatur, ad Aristotelis seriem et ad ea quae de consequentia propositionum diligenter
+exsequitur reuertamur.
+Ea quae communiter uniuersaliterque de propositionibus omnibus et de earum ad se inuicem consequentiis
+speculanda fuerant in superiori propositionum ipsarum descriptione disposuit nunc uero quae singillatim singulis
+accidunt diligentissimo tractatu persequitur. Ait enim ita:
+ERGO IMPOSSIBILE ET NON IMPOSSIBILE ILLUD QUOD EST CONTINGENS ET POSSIBILE ET
+NON CONTINGENS ET NON POSSIBILE SEQUITUR QUIDEM CONTRADICTORIE SED CONVERSIM;
+ILLUD ENIM QUOD EST POSSIBILE ESSE NEGATIO IMPOSSIBILIS, NEGATIONEM VERO AFFIRMATIO;
+ILLUD ENIM QUOD EST NON POSSIBILE ESSE ILLUD QUOD EST IMPOSSIBILE ESSE; AFFIRMATIO
+ENIM EST IMPOSSIBILE ESSE, NON IMPOSSIBILE VERO NEGATIO.
+Consequentia propositionum (ut superior descriptio docet) secundum possibile et necessarium facta est. Quam
+rem illa quoque secuta est, ut et de contingentibus /423/ et impossibilibus propositionibus consequentiisque diceretur.
+Nam cum contingens recto modo possibili consentiat, impossibile conuerso ordine necessarium est, ut paulo post
+docebimus. Speculatur ergo de possibili contingenti et impossibili, quemadmodum ad se inuicem uel quas habeant
+consequentias idque constituit hoc modo dicens: impossibile et non impossi bile sequuntur quidem possibile et non
+possibile contradictorie quidem sed conuersim.
+Hoc autem huiusmodi est: scimus affirmationem priuatoriam esse eam quae dicit impossibile esse, huius uero
+negationem non impossibile esse, rursus affirmationem possibilem eam quae dicit possibile esse, huius negationem
+quae proponit non possibile esse. Sequitur ergo affirmationem possibilem negatio impossibilitatis. Nam quod possibile
+est idem est non impossibile. Alioquin si ea quae dicit non impossibile est non sequitur possibilitatem, sequitur eius
+affirmatio, id est impossibile esse. Erit ergo quod possibile est impossibile, quod fieri non potest. Quod si impossibilitas
+possibilitatem non sequitur, non impossibile esse sequitur possibilitatem. At uero negationem possibilitatis sequitur
+affirmatio impossibilitatis. Nam quod non possibile est impossibile est. Eandem enim uim optinet negatio in
+
+

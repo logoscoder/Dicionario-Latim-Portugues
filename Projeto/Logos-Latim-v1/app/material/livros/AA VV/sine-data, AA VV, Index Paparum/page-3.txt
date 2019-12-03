@@ -1,0 +1,95 @@
+92. Stephanus II (752)
+93. Stephanus III (752-757)
+94. Sanctus Paulus I (757-767)
+95. Stephanus IV (767-772)
+96. Hadrianus I (772-795)
+97. Leo III (795-816)
+98. Stephanus V (816-817)
+99. Sanctus Paschalis I (817-824)
+100.
+Eugenius II (824-827)
+101.
+Valentinus (827)
+102.
+Gregorius IV (827-844)
+103.
+Sergius II (844-847)
+104.
+Sanctus Leo IV (847-855)
+105.
+Benedictus III (855-858)
+106.
+Sanctus Nicholaus I Magnus (858-867)
+107.
+Hadrianus II (867-872)
+108.
+Ioannes VIII (872-882)
+109.
+Marinus I (882-884)
+110.
+Sanctus Hadrianus III (884-885)
+111.
+Stephanus VI (885-891)
+112.
+Formosus (891-896)
+113.
+Bonifacius VI (896)
+114.
+Stephanus VII (896-897)
+115.
+Romanus (897)
+116.
+Theodorus II (897)
+117.
+Ioannes IX (898-900)
+118.
+Benedictus IV (900-903)
+119.
+Leo V (903)
+120.
+Christophorus (903-904)
+121.
+Sergius III (904-911)
+122.
+Anastasius III (911-913)
+123.
+Lando (913-914)
+124.
+Ioannes X (914-928)
+125.
+Leo VI (928-929)
+126.
+Stephanus VIII (929-931)
+127.
+Ioannes XI (931-935)
+128.
+Leo VII (936-939)
+129.
+Stephanus IX (939-942)
+130.
+Marinus II (942-946)
+131.
+Agapetus II (946-955)
+132.
+Ioannes XII (955-963)
+133.
+Leo VIII (963-964)
+134.
+Benedictus V (964)
+135.
+Leo VIII (965)
+136.
+Ioannes XIII (965-972)
+137.
+Benedictus VI (973-974)
+138.
+Benedictus VII (974-983)
+139.
+Ioannes XIV (983-984)
+140.
+Ioannes XV (985-996)
+141.
+Gregorius V (996-999)
+3
+
+

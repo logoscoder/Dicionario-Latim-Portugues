@@ -1,0 +1,57 @@
+|#1 Postquam Philosophus determinavit de ente per accidens, hic excludit quamdam opinionem, per quam
+tollitur totum ens per accidens.
+Quidam enim posuerunt, quod quicquid fit in mundo habet aliquam causam per se; et iterum quod qualibet causa
+posita, necesse est sequi effectum eius. Unde sequebatur quod per quamdam connexionem causarum omnia ex
+necessitate acciderent, et nihil esset per accidens in rebus. Et ideo hanc opinionem Philosophus intendit
+destruere: et circa hoc tria facit.
+Primo enim destruit praedictam opinionem.
+Secundo infert quamdam conclusionem ex praedictis, ibi, palam ergo quia usque ad aliquod etc.. Tertio movet
+quamdam quaestionem quae ex praedictis occasionatur, ibi, sed ad principium quale.
+Dicit ergo primo, quod palam erit ex sequentibus quod principia et causae generationis et corruptionis aliquorum
+sunt generabilia et corruptibilia, idest contingit generari et corrumpi sine generatione et corruptione, idest sine
+hoc quod sequatur generatio et corruptio. Non enim oportet, quod si generatio alicuius rei vel corruptio est causa
+generationis aut corruptionis rei alterius, quod posita generatione vel corruptione causae, de necessitate sequatur
+generatio vel corruptio effectus: quia quaedam causae sunt agentes ut in pluribus: unde eis positis, adhuc potest
+impediri effectus per accidens, sicut propter indispositionem materiae, vel propter occursum contrarii agentis, vel
+propter aliquid huiusmodi.
+|#2
+Sciendum tamen, quod Avicenna probat in sua metaphysica, quod nullus effectus sit possibilis in
+comparatione ad suam causam, sed solum necessarius.
+Si enim posita causa, possibile est effectum non poni, et poni, id autem quod est in potentia inquantum
+huiusmodi reducitur in actum per aliquod ens actu, oportebit ergo quod aliquid aliud a causa faciat ibi sequi
+effectum in actu. Causa igitur illa non erat sufficiens. Et hoc videtur contra id, quod Philosophus hic dicit.
+|#3 Sed sciendum, quod dictum Avicennae intelligi debet, supposito quod nullum impedimentum causae
+adveniat.
+Necesse est enim causa posita sequi effectum, nisi sit impedimentum, quod quandoque contingit esse per
+accidens. Et ideo Philosophus dicit, quod non est necessarium generationem sequi vel corruptionem, positis
+causis generationis vel corruptionis.
+|#4 Si enim non est verum hoc quod dictum est, sequetur, quod omnia erunt ex necessitate, si tamen cum hoc
+quod dictum est, quod posita causa necesse est sequi effectum, ponatur etiam alia positio, scilicet quod cuiuslibet
+quod fit et corrumpitur, necesse sit esse aliquam causam per se et non per accidens. Ex his enim duabus
+propositionibus, sequitur omnia esse de necessitate. Quod sic probat.
+|#5 Si enim quaeratur de aliquo, utrum sit futurum vel non, sequitur ex praedictis, quod alterum sit de
+necessitate verum: quia si omne quod fit habet causam per se suae factionis, qua posita necesse est ipsum fieri,
+sequetur quod res illa, de qua quaeritur utrum sit futura, fiat, si sit hoc quod ponitur causa eius; et si illud non
+fuerit, quod non fiat. Et similiter oportet dicere, quod ista causa erit futura, si aliquod aliud quod est causa eius,
+erit futurum.
+|#6 Constat autem, quod tempus quantumcumque futurum accipiatur, sive post centum annos, sive post mille,
+est finitum, incipiendo a praesenti nunc usque ad illum terminum. Cum autem generatio causae praecedat
+tempore generationem effectus, oportet quod procedendo ab effectu ad causam auferamus aliquid de tempore
+futuro, et appropinquemus magis ad praesens.
+Omne autem finitum consumitur aliquoties ablato quodam ab ipso. Et ita sequitur quod procedendo ab effectu ad
+causam, et iterum ab illa causa ad eius causam, et sic deinceps, auferatur totum tempus futurum cum sit finitum,
+et ita perveniatur ad ipsum nunc.
+|#7 Quod quidem patet in hoc exemplo. Si enim omnis effectus habet aliquam causam per se, ad quam de
+necessitate sequitur, oportet quod iste de necessitate moriatur, vel per infirmitatem, vel per violentiam, si exit
+domum suam.
+Exitus enim a domo eius invenitur causa esse mortis eius, vel violentiae; puta si exiens domum invenitur a
+latronibus et occiditur; vel per infirmitatem; puta si exiens de domo ex aestu incurrit febrem et moritur. Et eodem
+modo hoc erit ex necessitate, scilicet quod exeat domum ad hauriendum aquam si sitit. Nam sitis invenitur esse
+causa ut exeat domum ad hauriendum aquam. Similiter per eamdem rationem hoc erit de necessitate, scilicet
+quod sitiat, si aliquid aliud erit quod est causa sitis: et ita sic procedens de effectu ad causam perveniet ad
+aliquod quod nunc est, idest in aliquod praesens, vel in aliquod factorum, idest in aliquod praeteritorum. Sicut si
+dicamus quod sitis erit si comedit mordicantia vel salsa, quae faciunt sitim: hoc autem, scilicet quod comedat
+salsa vel non comedat, est in praesenti.
+178
+
+

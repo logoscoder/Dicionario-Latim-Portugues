@@ -1,0 +1,66 @@
+motu locali. Omne enim quod movetur secundum locum, impossibile est quod
+prius pertranseat maiorem magnitudinem ipso mobili, quam aequalem vel
+minorem; sed semper mobile prius pertransit magnitudinem aequalem sibi aut
+minorem, quam maiorem. Si ergo hoc ita se habet, manifestum est quod et
+punctum, si movetur, prius pertransibit aliquid minus se aut aequale sibi,
+quam longitudinem maiorem se. Sed impossibile est quod pertranseat aliquid
+minus se, quia est indivisibile. Relinquitur ergo quod pertransibit aliquid
+aequale sibi. Et ita oportet quod numeret omnia puncta quae sunt in linea:
+quia semper punctum, cum moveatur motu aequali lineae, propter hoc quod
+movetur per totam lineam, sequitur quod totam lineam mensuret; hoc autem
+facit numerando omnia puncta. Ergo sequitur quod linea sit ex punctis. Si
+ergo hoc est impossibile, impossibile est quod indivisibile moveatur.
+|#7
+Tertiam rationem ponit ibi: amplius autem si omne etc.: quae talis
+est.
+Omne quod movetur, movetur in tempore, et nihil movetur in ipso nunc, ut
+supra probatum est. Ostensum est autem supra quod omne tempus est
+divisibile. Ergo in quolibet tempore in quo aliquid movetur, erit accipere
+minus tempus, in quo movetur aliquod minus mobile: quia manifestum est quod
+supposita eadem velocitate, in minori tempore pertransit minus mobile
+aliquod signum datum, quam mobile maius, sicut in minori tempore pars quam
+totum, ut ex superioribus patet. Si ergo punctum movetur, erit accipere
+aliquod tempus minus tempore in quo ipsum movetur. Sed hoc est impossibile:
+quia sequeretur quod in illo minori tempore moveretur aliquid minus quam
+punctum; et sic indivisibile esset divisibile in aliquod minus, sicut
+tempus dividitur in tempus.
+Hoc enim solo modo posset moveri indivisibile, si esset possibile aliquid
+moveri in nunc indivisibili: quia sicut non esset accipere aliquod minus
+ipso nunc in quo movetur, ita non oporteret accipere aliquod minus mobili.
+Et sic patet quod eiusdem rationis est, quod fiat motus in nunc, et quod
+indivisibile aliquod moveatur. Hoc autem est impossibile, quod in nunc fiat
+motus. Ergo impossibile est quod indivisibile moveatur.
+|+13
+
+Lectio 13
+
+|#1
+Postquam Philosophus ostendit quod impartibile non movetur, hic
+intendit ostendere quod nulla mutatio est infinita; quod est contra
+Heraclitum, qui posuit omnia moveri semper.
+Et circa hoc duo facit: primo ostendit quod nulla mutatio est infinita
+secundum propriam speciem; secundo ostendit quomodo possit esse infinita
+tempore, ibi: sed si sic contingit etc..
+Circa primum duo facit: primo ostendit quod mutatio non est infinita
+secundum speciem in aliis mutationibus praeter motum localem; secundo
+ostendit idem in motu locali, ibi: loci autem mutatio etc..
+|#2
+Prima ratio talis est. Supra dictum est quod omnis mutatio est ex
+quodam in quiddam. Et in quibusdam quidem mutationibus, quae scilicet sunt
+inter contradictorie opposita, ut generatio et corruptio, vel inter
+contraria, ut alteratio, et augmentum et decrementum, manifestum est quod
+habent praefixos terminos. Unde in his mutationibus quae sunt inter
+contradictorie opposita, terminus est vel affirmatio vel negatio, sicut
+terminus generationis est esse, corruptionis vero non esse.
+Similiter illarum mutationum quae sunt inter contraria, ipsa contraria sunt
+termini ad quos, sicut ad quaedam ultima, mutationes huiusmodi terminantur.
+Unde sequitur quod, cum omnis alteratio sit de contrario in contrarium,
+quod omnis alteratio habeat aliquem terminum.
+Et similiter dicendum est in augmento et decremento: quia terminus augmenti
+est perfecta magnitudo (et dico perfectam secundum conditionem propriae
+naturae: alia enim perfectio magnitudinis competit homini et alia equo);
+terminus autem decrementi est id quod contingit esse in tali natura maxime
+remotum a perfecta magnitudine.
+249
+
+

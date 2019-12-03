@@ -1,0 +1,57 @@
+|+d15.q4 Distinctio 15, Quaestio 4
+|a0 Prologus
+Deinde quaeritur de oratione; et circa hoc quaeruntur septem: 1 quid sit oratio; 2 de modo orandi; 3 de speciebus
+orationis; 4 quid sit in oratione petendum; 5 quis possit orare; 6 cui competit orare; 7 de efficacia orationis.
+|a1 Articulus 1: Utrum oratio sit quidam actus affectivae partis.
+Articulus 1A
+AG1
+Ad primum sic proceditur. Videtur quod oratio sit quidam affectivae partis actus. Primo per Augustinum, qui sic
+definit orationem: oratio est purus affectus mentis in Deum directus.
+AG2
+Praeterea, Hugo de s. Victore dicit quod oratio est devotio quaedam ex compunctione procedens. Sed devotio ad
+affectum pertinet. Ergo et oratio.
+AG3
+Praeterea, imperium et oratio non differunt nisi secundum relationem ad superiorem et ad inferiorem, secundum
+quod imperatur inferiori, sed oratur superior. Sed voluntas est quae imperat aliis viribus. Ergo ipsa etiam est
+cujus est orare et petere.
+AG4
+Praeterea, oratio exterior interius desiderium insinuat orantis. Sed oratio interior est quae per exteriorem
+innotescit. Ergo oratio interior nihil aliud est quam interius desiderium; et sic ad affectivam pertinet.
+SC1
+Sed contra, super illud psalm. 63: exaudi Deus orationem meam etc. Dicit Glossa, quod oratio est quando vota
+nostra Deo pandimus. Sed pandere, sive demonstrare, est actus rationis. Ergo et orare.
+SC2
+Praeterea, secundum Damascenum, oratio est petitio decentium a Deo. Sed decentia importat ordinem alicujus ad
+alterum. Cum ergo ordinare sit rationis, et oratio rationis erit.
+CO
+Respondeo dicendum ad primam quaestionem, quod, sicut dicit cassiodorus in psalm. 85, oratio dicitur quasi oris
+ratio. Unde ex suo nomine oratio significat expressionem alicujus actus rationis per effectum oris. Habet autem
+ratio duos actus, etiam secundum quod est speculativa. Primus est componere et dividere; et iste actus rationis
+exprimitur ore per orationem, quam Philosophus in 1 periherm. Describit. Secundus actus rationis est discurrere
+de uno in aliud innotescendi causa; et secundum hoc syllogismus oratio quaedam dicitur. Et quia sermones
+rhetorici, qui conciones dicuntur, continent argumentationes ad persuadendum accommodatas, inde est quod
+etiam orationes dicuntur, et rhetores oratores. Et quia orationes istae, praecipue quantum ad genus causarum
+quod judiciale dicitur, ordinantur ad hoc quod aliquid a judice petamus; unde et in jure advocationes
+postulationes dicuntur; ideo translatum est ulterius hoc nomen ad significandum petitionem quam Deo aliquis
+facit velut judici, qui habet curam nostrorum actuum; et sic definit Damascenus orationem: oratio est petitio
+decentium a Deo; sic enim loquitur hic de oratione; et ideo cujus actus est petitio, ejus actus est oratio. Sciendum
+est ergo, quod homo ab aliis animalibus differt quantum ad virtutem et motivam partem, in duobus. Primo
+quantum ad volitum vel concupitum; quod quidem aliis animalibus ex natura determinatum est, homini autem
+non.
+Secundo quantum ad prosecutionem voliti sive concupiti; quia alia animalia habent determinatas vias et
+instrumenta, quibus sua desideria expleant; et ideo quam cito in eis fit desiderii motus, tam cito membra ad
+actum applicant, nisi sit aliquid prohibens per violentiam: homo autem non habet vias et instrumenta
+determinata; et ideo ratio hujusmodi subvenit in his duobus; quia et inquirit proprium et determinatum bonum
+quod desiderari oporteat, et instrumenta ad opus determinat in prosecutione desiderati; et ideo in nobis actus
+rationis praecedit et sequitur actus voluntatis. Praecedit quidem, inveniens per consilium quid per voluntatem
+eligi oporteat; sequitur autem per imperium, ordinando unicuique instrumento quod ei oporteat facere; et hunc
+rationis actum imperativus modus exprimit in verbis. Instrumenta autem quae ratio applicat per imperium ad
+prosecutionem vel consecutionem desiderati, non solum sunt vires animae et membra corporis, sed etiam
+exteriores homines; quia quae per amicos fiunt, aliqualiter per nos fiunt, ut Philosophus dicit in 3 ethic.. Sed
+etiam exteriores amici non sunt in potestate nostra, sicut sunt membra corporis et vires animae; et ideo applicatio
+praedicta eorum qui extra nos sunt, ad consecutionem desiderati, quandoque dicitur imperium vel praeceptum,
+quando scilicet illi sunt in potestate nostra: quandoque autem dicitur petitio, quando non sunt in potestate nostra
+quasi nobis subjecti; vel etiam deprecatio, si supra nos sunt; unde sicut imperium est actus rationis, ita petitio et
+1669
+
+

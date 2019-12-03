@@ -1,0 +1,58 @@
+PR1
+Et primo, utrum Deus possit facere contradictoria simul esse.
+PR2
+Secundo utrum possit facere infinita in actu.
+|#1 Articulus 1: Utrum Deus possit facere contradictoria simul esse.
+CO
+Ad primum ergo dicendum, quod non: et hoc non importat in Deo imperfectionem potentiae, sed quia hoc non
+habet rationem possibilis.
+Nam omnis virtus activa producit effectum sibi similem. Omne autem quod agit, agit in quantum est ens actu.
+Ergo effectus agentis est ens actu. Quidquid ergo repugnat ei quod est esse actu, repugnat potentiae activae: quod
+esset, si contradictoria simul essent.
+|#2 Articulus 2: Utrum Deus possit facere infinita in actu.
+CO
+Ad secundum dicendum, quod esse aliquid infinitum actu posset suspicari ex primo aspectu quod esset
+impossibile: quia sequeretur illud esse aequale Deo. Sed hoc non sequitur: quia ei quod est infinitum omnibus
+modis, non adaequatur illud quod est infinitum uno modo. Dato enim quod esset ignis infinitus secundum
+magnitudinem, non adaequabitur Deo: quia etsi sit infinitus ignis in quantitate, tamen est quid finitum specie;
+Deus autem omnibus modis est infinitus.
+Cum ergo quaeritur utrum sit possibile Deo facere aliquid infinitum in actu, dicendum quod non.
+Potentiae enim agenti per intellectum aliquid repugnat dupliciter: uno modo quia repugnat potentiae eius; alio
+modo quia repugnat modo quo agit.
+Primo modo non repugnat potentiae Dei absolutae, quia non implicat contradictionem.
+Sed si consideretur modus quo Deus agit, non est possibile. Deus enim agit per intellectum et per verbum, quod
+est formativum omnium; unde oportet quod omnia quae agit sint formata. Infinitum autem accipitur sicut materia
+sine forma; nam infinitum se tenet ex parte materiae. Si ergo Deus hoc ageret, sequeretur quod opus Dei esset
+aliquid informe; et hoc repugnat ei per quod agit, et modo agendi; quia per verbum suum omnia agit, quo omnia
+formantur.
+|+3 Quaestio 3
+|+PR Prologus
+Deinde quaesitum est de praedestinatione.
+TTA
+Utrum praedestinatio sit certa.
+TTB
+Et videtur quod non.
+AG1
+Quia possibile est praedestinatum damnari, sicut Petrum, si fuisset statim mortuus, quando peccavit Christum
+negando.
+AG2
+Si vero dicas quod praedicta locutio est de dicto vera, de re vero non; contra: quia hoc habet locum in formis
+separabilibus; sed haec forma quae est praedestinatio, est inseparabilis.
+CO
+Respondeo. Dicendum, quod praedestinatio est quaedam pars divinae providentiae. Providentia autem dicit
+directionem aliquorum in finem; et haec praesupponit scientiam et voluntatem.
+Sic ergo praedestinatio habet certitudinem ex parte scientiae Dei, qui non potest falli; et ex parte voluntatis
+divinae, cui non potest aliquid resistere; et ex parte providentiae, quae certissimo modo ducit ad finem, cum
+Deus sit sapientissimus.
+RA1
+Ad primum ergo dicendum, quod praedestinatio habet certitudinem, et tamen non est necessarium
+praedestinatum salvari, sed remanet contingens.
+Dictum est enim quod habet certitudinem ex scientia, voluntate et providentia; et nullum istorum contingentiam
+impedit. Scientia non, quia scientia Dei est futurorum prout sunt in praesenti, et secundum hoc sunt determinata.
+Voluntas non, quia voluntas Dei est principium totius entis, ergo non cadit sub ratione contingentiae vel
+necessitatis, sed haec effluunt et ordinantur ex Dei voluntate; et sic ipsa Dei voluntas facit quaedam contingentia,
+praeparando causas contingentes illis rebus quas vult esse contingentes; et similiter necessarias causas rebus et
+
+2
+
+

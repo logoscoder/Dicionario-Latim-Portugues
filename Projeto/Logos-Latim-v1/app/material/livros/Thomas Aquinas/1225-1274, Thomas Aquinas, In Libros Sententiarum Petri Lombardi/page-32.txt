@@ -1,0 +1,62 @@
+Et ideo non perfecte Deum videre potest intellectus creatus.
+|a2 Articulus 2: Utrum Deum esse sit per se notum.
+AG1
+Ad secundum sic proceditur. Videtur quod Deum esse sit per se notum. Illa enim dicuntur per se nota quorum
+cognitio naturaliter est nobis insita, ut: omne totum est majus sua parte. Sed cognitio existendi Deum, secundum
+Damascenum, naturaliter est omnibus insita. Ergo Deum esse est per se notum.
+AG2
+Item, sicut se habet lux sensibilis ad visum, ita se habet lux intellectualis ad intellectum. Sed lux visibilis seipsa
+videtur; immo nihil videtur, nisi mediante ipsa. Ergo Deus seipso immediate cognoscitur.
+AG3
+Item, omnis cognitio est per unionem rei cognitae ad cognoscentem. Sed Deus est per seipsum intrinsecus
+animae etiam magis quam ipsa sibi. Ergo per seipsum cognosci potest.
+AG4
+Praeterea, illud est per se notum quod non potest cogitari non esse. Sed Deus non potest cogitari non esse. Ergo
+ipsum esse, per se est notum.
+Probatio mediae est per Anselmum: Deus est quo majus cogitari non potest. Sed illud quod non potest cogitari
+non esse, est majus eo quod potest cogitari non esse. Ergo Deus non potest cogitari non esse, cum sit illud quo
+nihil majus cogitari potest. Potest aliter probari. Nulla res potest cogitari sine sua quidditate, sicut homo sine eo
+quod est animal rationale mortale. Sed Dei quidditas est ipsum suum esse, ut dicit Avicenna.
+Ergo Deus non potest cogitari non esse.
+SC1
+Contra, ea quae per se sunt nota, ut dicit Philosophus, etsi exterius negentur ore, nunquam interius negari possunt
+corde. Sed Deum esse, potest negari corde.
+Psalm. 13, 1: dixit insipiens in corde suo: non est Deus. Ergo Deum esse non est per se notum.
+SC2
+Item, quidquid est conclusio demonstrationis non est per se notum. Sed Deum esse demonstratur etiam a
+philosophis.
+Ergo Deum esse non est per se notum.
+CO
+Respondeo, quod de cognitione alicujus rei potest aliquis dupliciter loqui: aut secundum ipsam rem, aut quo ad
+nos. Loquendo igitur de Deo secundum seipsum, esse est per se notum, et ipse est per se intellectus, non per hoc
+quod faciamus ipsum intelligibile, sicut materialia facimus intelligibilia in actu. Loquendo autem de Deo per
+comparationem ad nos, sic iterum dupliciter potest considerari. Aut secundum suam similitudinem et
+participationem; et hoc modo ipsum esse, est per se notum; nihil enim cognoscitur nisi per veritatem suam, quae
+est a Deo exemplata; veritatem autem esse, est per se notum. Aut secundum suppositum, idest considerando
+ipsum Deum, secundum quod est in natura sua quid incorporeum; et hoc modo non est per se notum; immo multi
+inveniuntur negasse Deum esse, sicut omnes Philosophi qui non posuerunt causam agentem, ut democritus et
+quidam alii.
+Et hujus ratio est, quia ea quae per se nobis nota sunt, efficiuntur nota statim per sensum; sicut visis toto et parte,
+statim cognoscimus quod omne totum est majus sua parte sine aliqua inquisitione. Unde Philosophus: principia
+cognoscimus dum terminos cognoscimus.
+Sed visis sensibilibus, non devenimus in Deum nisi procedendo, secundum quod ista causata sunt et quod omne
+causatum est ab aliqua causa agente et quod primum agens non potest esse corpus, et ita in Deum non devenimus
+nisi arguendo; et nullum tale est per se notum. Et haec est ratio Avicennae.
+RA1
+Ad primum ergo dicendum, quod auctoritas Damasceni intelligenda est de divina cognitione nobis insita,
+secundum ipsius similitudinem et non secundum quod est in sua natura; sicut etiam dicitur, quod omnia appetunt
+Deum: non quidem ipsum prout consideratur in sua natura, sed in sui similitudine; quia nihil desideratur, nisi
+inquantum habet similitudinem ipsius, et etiam nihil cognoscitur.
+RA2
+Ad secundum dicendum, quod visus noster est proportionatus ad videndum lucem corporalem per seipsam; sed
+intellectus noster non est proportionatus ad cognoscendum naturali cognitione aliquid nisi per sensibilia; et ideo
+in intelligibilia pura devenire non potest nisi arguendo.
+RA3
+Ad tertium dicendum, quod quamvis Deus sit in anima per essentiam, praesentiam et potentiam, non tamen est in
+ea sicut objectum intellectus; et hoc requiritur ad cognitionem. Unde etiam anima sibi ipsi praesens est; tamen
+maxima difficultas est in cognitione animae, nec devenitur in ipsam, nisi ratiocinando ex objectis in actus et ex
+actibus in potentias.
+RA4
+32
+
+

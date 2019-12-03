@@ -1,0 +1,61 @@
+Hoc quoque videndum est, quoniam, cum duae partes ex minore plus in maioribus sunt, tertii semper
+vocabulum subauditur, ut superbipartiens qui dicitur, quoniam duas minoris numeri tertias partes habet, dicatur
+superbipartiens tertias; et cum dico supertripartiens, subaudiri necesse sit supertripartiens quartas, quoniam tribus
+super quartis exuberat; et superquadripartienti subauditur superquadripartiens quintas, et ad eundem modum in
+ceteris uno semper adiecto super habitas partes subauditio facienda est, ut eorum germana convenientiaque his
+nomina haec sint: qui dicitur superbipartiens, idem dicatur superbitertius; qui dicitur supertripartiens, is sit
+supertriquartus, et qui dicitur superquadripartiens, idem dicatur superquadriquintus, eademque similitudine
+usque in infinitum nomina producantur.
+De multiplici superparticulari.
+Igitur relatae ad aliquid quantitatis simplices et primae species hae sunt. Duae vero aliae ex his velut ex
+aliquibus principiis componuntur, ut multiplices superparticulares et multiplices superpartientes, horumque
+comites submultiplices superparticulares et submultiplices superpartientes. Namque in his ut in praedictis
+proportionibus minores numeri omnes addita sub praepositione dicuntur, quorum definitio talis reddi potest.
+Multiplex superparticularis est, quotiens numerus ad numerum comparatus habet eum plus quam semel et eius
+unam partem, hoc est habet eum aut duplum aut triplum aut quadruplum aut quotienslibet et eius quamlibet
+aliquam partem vel mediam vel tertiam vel quartam vel, quaecunque alia partium exuberatione contigerit. Hic
+ergo ex multiplici et superparticulari consistit. Quod enim comparatum numerum plus quam semel habet,
+multiplicis est, hoc vero, quod minorem in habenda parte transcendit, superparticularis. Itaque ex utroque
+nomine ficto vocabulo est speciesque eius ad illarum scilicet fiunt imaginem proportionum, ex quibus ipse
+numerus originem trahit. Nam prima pars huius vocabuli, quae multiplicis nomine possessa est, multiplicis
+numeri specierum vocabulo nominanda est, quae vero superparticularis est, eodem vocabulo nuncupabitur, quo
+superparticularis numeri species vocabantur. Dicetur enim, qui duplicem habuerit alium numerum et eius
+mediam partem, duplex sesqualter, qui vero tertiam, duplex sesquitertius, qui quartam, duplex sesquiquartus et
+deinceps. Si vero ter eum totum contineat et eius mediam partem vel tertiam vel quartam, dicetur triplex
+sesqualter, triplex sesquitertius, triplex sesquiquartus et eodem modo in ceteris; diceturque quadruplus
+sesqualter, quadruplus sesquitertius, quadruplus sesquiquartus; et quotiens totum numerum in semet ipso
+continuerit per multiplicis numeri species appellabitur, quam vero partem comparati numeri clauserit, secundum
+superparticularem comparationem habitudinemque vocabitur.
+Horum autem exempla huiusmodi sunt. Duplex sesqualter est, ut v ad duo. Habent enim v binarium
+numerum bis et eius mediam partem, id est j. Duplex vero sesquitertius est septenarius ad ternarium comparatus.
+At vero novenarius ad quaternarium duplex sesquiquartus; si vero xj ad v, duplex sesquiquintus; et hi semper
+nascentur dispositis in ordinem a binario numero omnibus naturaliter paribus inparibusque terminis, si contra eas
+omnes a quinario numero inpares comparentur, ut primum primo, secundum secundo, tertium tertio caute et
+diligenter adponas, ut sit dispositio talis:
+
+j ij iij
+
+j
+
+ij iij
+
+iiij
+
+j
+
+ij iiij j iij v vij viiij xj xiij
+Si vero a duobus paribus omnibus dispositis terminis illi, qui a quinario numero inchoantes quinario
+numero rursus sese transsiliunt, comparentur, omnes duplices sesqualteros creant, ut est subiecta descriptio,
+
+j iij j
+
+iij
+
+v x
+
+20
+
+ij
+xv xx
+
+

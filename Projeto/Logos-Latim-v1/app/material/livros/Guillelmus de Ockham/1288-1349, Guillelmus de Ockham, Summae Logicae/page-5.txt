@@ -1,0 +1,55 @@
+doctorem fratrem Guillelmum, natione Anglicum, ordine Minorem, sed ingenii perspicacitate et doctrinae
+ueritate sublimem.
+Siquidem hic doctor eximius, multorum saepe pulsatus precibus, totius huius methodi considerationem
+plene et limpide ac seriose composuit, initians a terminis ut a prioribus, deinde cetera prosecutus, usque ad finem
+perduxit.
+Siquidem hic doctor eximius, multorum saepe pulsatus precibus, totius huius methodi considerationem
+plene et limpide ac seriose composuit, initians a terminis ut a prioribus, deinde cetera prosecutus, usque ad finem
+perduxit.
+Ad studiosos itaque, preces pro hoc praeclaro licet compendioso uolumine geminantes, stilum dirigens,
+sed uniuersis prodesse cupiens, exorsus est ita dicens:
+Ad studiosos itaque, preces pro hoc praeclaro licet compendioso uolumine geminantes, stilum dirigens,
+sed uniuersis prodesse cupiens, exorsus est ita dicens:
+[EPISTOLA PROOEMIALIS GUILLELMI DE OCKHAM]
+[EPISTOLA PROOEMIALIS GUILLELMI DE OCKHAM]
+Dudum me, frater et amice carissime, tuis litteris studebas inducere ut aliquas regulas artis logicae in
+unum tractatum colligerem ac tuae dilectioni transmitterem. Cum igitur tui profectus ac ueritatis amore inductus
+tuis precibus nequeam contraire, expertar quod hortaris remque mihi difficilem, sed tam tibi quam mihi, ut
+aestimo, fructuosam aggrediar.
+Dudum me, frater et amice carissime, tuis litteris studebas inducere ut aliquas regulas artis logicae in
+unum tractatum colligerem ac tuae dilectioni transmitterem. Cum igitur tui profectus ac ueritatis amore inductus
+tuis precibus nequeam contraire, expertar quod hortaris remque mihi difficilem, sed tam tibi quam mihi, ut
+aestimo, fructuosam aggrediar.
+Logica enim est omnium artium aptissimum instrumentum, sine qua nulla scientia perfecte sciri potest,
+quae non more materialium instrumentorum usu crebro consumitur, sed per cuiuslibet alterius scientiae
+studiosum exercitium continuum recipit incrementum. Sicut enim mechanicus sui instrumenti perfecta carens
+notitia utendo eodem recipit pleniorem, sic in solidis logicae principiis eruditus dum, aliis scientiis operam
+impendit sollicite simul istius artis maiorem adquirit peritiam. Unde illud uulgare
+"ars logica labilis ars est" in solis sapientiale studium negligentibus locum reputo obtinere.
+"ars logica labilis ars est" in solis sapientiale studium negligentibus locum reputo obtinere.
+Logicae igitur considerationis continentiam prosequendo, a terminis ut a prioribus exordium
+assumendum est, deinde de propositionibus, postremo de syllogismis et aliis speciebus argumentationis
+perscrutatio subsequetur. Et quia plerumque contingit ante magnam experientiam logicae subtilitatibus
+theologiae aliarumque Facultatum iuniores impendere studium, ac per hoc in difficultates eis inexplicabiles
+incidunt, quae tamen aliis paruae sunt aut nullae, et in multiplices prolabuntur errores, ueras demonstrationes
+tamquam sophismata respuentes et sophisticationes pro demonstrationibus recipientes, tractatum hunc duxi
+scribendum, nonnumquam in processu regulas per exempla tam philosophica quam theologica declarando.
+Logicae igitur considerationis continentiam prosequendo, a terminis ut a prioribus exordium
+assumendum est, deinde de propositionibus, postremo de syllogismis et aliis speciebus argumentationis
+perscrutatio subsequetur. Et quia plerumque contingit ante magnam experientiam logicae subtilitatibus
+theologiae aliarumque Facultatum iuniores impendere studium, ac per hoc in difficultates eis inexplicabiles
+incidunt, quae tamen aliis paruae sunt aut nullae, et in multiplices prolabuntur errores, ueras demonstrationes
+tamquam sophismata respuentes et sophisticationes pro demonstrationibus recipientes, tractatum hunc duxi
+scribendum, nonnumquam in processu regulas per exempla tam philosophica quam theologica declarando.
+[1.01 DE DEFINITIONE TERMINI ET EIUS DIVISIONE IN GENERALI]
+[1.01 DE DEFINITIONE TERMINI ET EIUS DIVISIONE IN GENERALI]
+Omnes logicae tractatores intendunt astruere quod argumenta ex propositionibus et propositiones ex
+terminis componuntur. Unde terminus aliud non est quam pars propinqua propositionis. Definiens enim
+terminum
+Aristoteles, I Priorum, dicit: "Terminum uoco in quem resoluitur propositio, ut praedicatum et de quo
+praedicatur, uel apposito uel diuiso esse uel non esse".
+Aristoteles, I Priorum, dicit: "Terminum uoco in quem resoluitur propositio, ut praedicatum et de quo
+praedicatur, uel apposito uel diuiso esse uel non esse".
+5
+
+

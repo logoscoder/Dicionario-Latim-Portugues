@@ -1,0 +1,55 @@
+|#5 Secundo, cum dicit: et namque scivit etc., ostendit praeeminentiam huiusmodi scientiae, quae considerat
+principia communia, scilicet primae philosophiae, ad alias. Semper enim oportet illud, per quod aliquid probatur,
+esse magis scitum vel notum. Qui enim scit aliquid ex superioribus causis, oportet quod sit magis intelligens illas
+causas, quia scivit ex prioribus simpliciter, cum non sciat ex causatis causas: quando enim aliquis scit ex causatis
+causas, tunc non intelligit ex prioribus et ex magis notis simpliciter, sed ex magis notis et prioribus quoad nos.
+Cum autem principia inferioris scientiae probantur ex principiis superioris, non proceditur ex causatis in causas,
+sed e converso. Unde oportet quod talis processus sit ex prioribus et ex magis notis simpliciter. Oportet ergo
+magis esse scitum quod est superioris scientiae, ex quo probatur id quod est inferioris, et maxime esse scitum id,
+quo omnia alia probantur, et ipsum non probatur ex alio priori. Et per consequens scientia superior erit magis
+scientia, quam inferior; et scientia suprema, scilicet philosophia prima, erit maxime scientia.
+|#6 Tertio, ibi: sed demonstratio etc., redit ad principalem conclusionem: et dicit quod demonstratio non
+procedit in aliud genus, nisi sicut dictum est quod demonstratio geometriae procedit ad scientias inferiores; sicut
+sunt artes mechanicae, quae utuntur mensuris; aut speculativae, sicut scientiae quae sunt de visu, ut perspectivae,
+quae sunt de visuali; et similiter est de arithmetica in comparatione ad harmonicam, idest musicam.
+|+18 Lectio 18
+|#1 Postquam ostendit quod demonstratio non procedit ex principiis communibus sed ex propriis, hic ad
+evidentiam praemissorum determinat de principiis propriis et communibus. Et circa hoc duo facit. Primo,
+ostendit necessitatem huiusmodi determinationis, dicens quod difficile est cognoscere utrum sciamus ex
+principiis propriis (quod solum est vere scire) aut non ex propriis. Opinantur enim multi se scire, si habeant
+syllogismum ex aliquibus veris et primis. Sed hoc non est verum: immo oportet, ad hoc quod sciamus, quod
+principia sint proxima illis quae debent demonstrari (quae hic dicuntur prima, sicut et supra dicebantur extrema);
+vel oportet proxima esse primis principiis indemonstrabilibus.
+|#2 Secundo, ibi: dico autem principia etc., determinat de principiis propriis et communibus.
+Et circa hoc duo facit: primo enim determinat de principiis propriis et communibus; secundo, ostendit qualiter ad
+huiusmodi principia se habeant demonstrativae scientiae; ibi: non contingere autem etc.. Circa primum duo facit:
+primo, distinguit principia a non principiis; secundo, principia ad invicem; ibi: sunt autem quibus etc..
+|#3 Circa primum duo facit. Primo, ostendit quae sint principia, dicens quod principia in unoquoque genere sunt
+illa quae, cum sint vera, tamen non contingit ea demonstrare vel simpliciter si sint principia prima, vel ad minus
+non est demonstrare in illa scientia in qua sumuntur ut principia. Dicit autem, cum sint vera, ad differentiam
+falsorum, quae non demonstrantur in aliqua scientia.
+|#4 Secundo, ibi: quid quidem igitur etc., ostendit convenientiam et differentiam inter principia et non principia.
+Conveniunt enim principia cum non principiis in hoc, quod de utrisque oportet accipere, quasi supponendo quid
+significent, et prima, idest principia, et quae sunt ex his, idest quae ex principiis sumuntur: quia quod quid est
+proprie pertinet ad scientiam quae est de substantia, scilicet ad philosophiam primam, a qua omnes aliae hoc
+accipiunt. Sed in hoc differunt principia, et quae sunt ex principiis, quia de principiis oportet accipere
+supponendo quod sunt; de aliis autem, quae sunt ex principiis, oportet demonstrare quia sunt. Sicut in
+mathematicis accipitur supponendo et quid est unitas, quae est principium, et quid est rectum, et quid est
+triangulus, quae non sunt principia, sed passiones: sed quod unitas sit, aut quod magnitudo sit, accipit
+mathematicus quasi principia; alia vero demonstrat, scilicet quae sunt ex principiis. Demonstrat enim triangulum
+aequilaterum et angulum rectum, et etiam hanc lineam rectam esse.
+|#5 Deinde cum dicit: sunt autem quibus etc., distinguit principia ad invicem: et primo, principia propria a
+communibus; secundo, communia ad invicem; ibi: non est autem suppositio etc..
+Prima dividitur in duas; in prima, dividit principia propria et communia; in secunda, manifestat quoddam quod
+poterat esse dubium; ibi: quasdam tamen scientias etc..
+|#6
+Circa primum tria facit. Primo, ponit divisionem, dicens quod principiorum, quibus utimur in
+demonstrativis scientiis, alia sunt propria uniuscuiusque scientiae, alia vero communia. Et quia hoc posset videri
+contrarium ei, quod supra ostensum est, quia scientiae demonstrativae non procedunt ex communibus, ideo
+subiungit quod communia principia accipiuntur in unaquaque scientia demonstrativa secundum analogiam, idest
+secundum quod sunt proportionata illi scientiae.
+Et hoc est quod subdit exponens, quod utile est accipere huiusmodi principia in scientiis, quantum pertinet ad
+genus subiectum, quod continetur sub illa scientia.
+27
+
+

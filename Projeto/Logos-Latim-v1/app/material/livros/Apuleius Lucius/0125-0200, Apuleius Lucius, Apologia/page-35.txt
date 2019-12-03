@@ -1,0 +1,31 @@
+42,2 et iam etiam
+44,4 negant negent
+44,4 nisi rus adeo iam nisi rus a _ de omnium
+46,3 pollicitu's pollicitus
+46,4 dixerit <di>dicerit
+49,2 igitur <is> igitur
+51,4 quibus aeque quibuscumque
+51,9 ac mea ad <me et> mea
+54,3 reprehensum deprehensum
+55,1 cuius[ce] cuiusce
+57,3 cauponio cauponii
+59,4 ebria ebria<mine>
+59,6 rictum <...> rictum <latum>
+59,6 ructus <po>pinam ructus <s>piram<en>
+60,5 Crasso foret, quod foret <Crasso>, crassum quod
+61,1 unde unum
+64,1 larbarum laruarum
+66,4 M. Aquilium M' Aquilium
+67,1 clare dilucet clarius dilucet
+68,4 [ceterum] <in> ceterum
+68,6 uanis uariis
+72,1 inter precationem inter procationem
+76,1 contumeliis adnuit contumeliis <alere> abnuit
+76,6 teruncium terruncium
+77,6 alumentum adiumentum
+78,4 Clytemnestrae Clyteme[n]strae
+79,1 at non omnibus ac non omnibus
+
+35
+
+

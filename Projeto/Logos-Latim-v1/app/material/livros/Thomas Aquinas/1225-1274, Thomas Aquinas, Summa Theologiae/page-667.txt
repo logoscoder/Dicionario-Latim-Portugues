@@ -1,0 +1,60 @@
+Ergo et usus.
+SC
+Sed contra est quod Damascenus dicit, quod voluntas post electionem impetum facit ad operationem, et postea
+utitur.
+Ergo usus sequitur electionem.
+CO
+Respondeo dicendum quod voluntas duplicem habitudinem habet ad volitum. Unam quidem, secundum quod
+volitum est quodammodo in volente, per quandam proportionem vel ordinem ad volitum. Unde et res quae
+naturaliter sunt proportionatae ad aliquem finem, dicuntur appetere illum naturaliter. Sed sic habere finem, est
+imperfecte habere ipsum. Omne autem imperfectum tendit in perfectionem. Et ideo tam appetitus naturalis, quam
+voluntarius, tendit ut habeat ipsum finem realiter, quod est perfecte habere ipsum. Et haec est secunda habitudo
+voluntatis ad volitum. Volitum autem non solum est finis, sed id quod est ad finem. Ultimum autem quod
+pertinet ad primam habitudinem voluntatis, respectu eius quod est ad finem, est electio, ibi enim completur
+proportio voluntatis, ut complete velit id quod est ad finem. Sed usus iam pertinet ad secundam habitudinem
+voluntatis, qua tendit ad consequendum rem volitam. Unde manifestum est quod usus sequitur electionem, si
+tamen accipiatur usus, secundum quod voluntas utitur executiva potentia movendo ipsam. Sed quia voluntas
+etiam quodammodo rationem movet, et utitur ea, potest intelligi usus eius quod est ad finem, secundum quod est
+in consideratione rationis referentis ipsum in finem.
+Et hoc modo usus praecedit electionem.
+RA1
+Ad primum ergo dicendum quod ipsam executionem operis praecedit motio qua voluntas movet ad exequendum,
+sequitur autem electionem.
+Et sic, cum usus pertineat ad praedictam motionem voluntatis, medium est inter electionem et executionem.
+RA2
+Ad secundum dicendum quod id quod est per essentiam suam relatum, posterius est absoluto, sed id cui
+attribuuntur relationes, non oportet quod sit posterius. Immo quanto causa est prior, tanto habet relationem ad
+plures effectus.
+RA3
+Ad tertium dicendum quod electio praecedit usum, si referantur ad idem. Nihil autem prohibet quod usus unius
+praecedat electionem alterius. Et quia actus voluntatis reflectuntur supra seipsos, in quolibet actu voluntatis
+potest accipi et consensus, et electio, et usus, ut si dicatur quod voluntas consentit se eligere, et consentit se
+consentire, et utitur se ad consentiendum et eligendum.
+Et semper isti actus ordinati ad id quod est prius, sunt priores.
+|q17 Quaestio 17
+|a0 Prologus
+Deinde considerandum est de actibus imperatis a voluntate.
+Et circa hoc quaeruntur novem. Primo, utrum imperare sit actus voluntatis, vel rationis. Secundo, utrum imperare
+pertineat ad bruta animalia. Tertio, de ordine imperii ad usum. Quarto, utrum imperium et actus imperatus sint
+unus actus, vel diversi.
+Quinto, utrum actus voluntatis imperetur. Sexto, utrum actus rationis. Septimo, utrum actus appetitus sensitivi.
+Octavo, utrum actus animae vegetabilis. Nono, utrum actus exteriorum membrorum.
+|a1 Articulus 1
+AG1
+Ad primum sic proceditur. Videtur quod imperare non sit actus rationis, sed voluntatis. Imperare enim est
+movere quoddam, dicit enim Avicenna quod quadruplex est movens, scilicet perficiens, disponens, imperans et
+consilians.
+Sed ad voluntatem pertinet movere omnes alias vires animae, ut dictum est supra.
+Ergo imperare est actus voluntatis.
+AG2
+Praeterea, sicut imperari pertinet ad id quod est subiectum, ita imperare pertinere videtur ad id quod est maxime
+liberum. Sed radix libertatis est maxime in voluntate.
+Ergo voluntatis est imperare.
+AG3
+Praeterea, ad imperium statim sequitur actus. Sed ad actum rationis non statim sequitur actus, non enim qui
+iudicat aliquid esse faciendum, statim illud operatur.
+Ergo imperare non est actus rationis, sed voluntatis.
+SC
+667
+
+

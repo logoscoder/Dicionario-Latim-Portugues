@@ -1,0 +1,54 @@
+DIGESTORUM SEU PANDECTARUM
+liber septimus decimus
+
+( Th. Mommsen & P. Krueger, Corpus Iuris Civilis, I, Berlin, 1954 ).
+
+* 17.1.0. Mandati vel contra.
+* 17.2.0. Pro socio.
+17.1.0. Mandati vel contra.
+17.1.1
+Paulus libro 32 ad edictum
+pr. Obligatio mandati consensu contrahentium consistit.
+1. Ideo per nuntium quoque vel per epistulam mandatum suscipi potest.
+2. Item sive "rogo" sive "volo" sive "mando" sive alio quocumque verbo scripserit, mandati actio est.
+3. Item mandatum et in diem differri et sub condicione contrahi potest.
+4. Mandatum nisi gratuitum nullum est: nam originem ex officio atque amicitia trahit, contrarium ergo est officio
+merces: interveniente enim pecunia res ad locationem et conductionem potius respicit.
+17.1.2
+Gaius secundo rerum cottidianarum sive aureorum
+pr. Mandatum inter nos contrahitur, sive mea tantum gratia tibi mandem sive aliena tantum sive mea et aliena sive mea
+et tua sive tua et aliena. Quod si tua tantum gratia tibi mandem. Supervacuum est mandatum et ob id nulla ex eo
+obligatio nascitur.
+1. Mea tantum gratia intervenit mandatum, veluti si tibi mandem, ut negotia mea geras vel ut fundum mihi emeres vel
+ut pro me fideiubeas.
+2. Aliena tantum, veluti si tibi mandem, ut Titii negotia gereres vel ut fundum ei emeres vel ut pro eo fideiubeas.
+3. Mea et aliena, veluti si tibi mandem, ut mea et Titii negotia gereres vel ut mihi et titio fundum emeres vel ut pro me
+et Titio fideiubeas.
+4. Tua et mea, veluti si mandem tibi, ut sub usuris crederes ei, qui in rem meam mutuaretur.
+5. Tua et aliena, veluti si tibi mandem, ut Titio sub usuris crederes: quod si, ut sine usuris crederes, aliena tantum gratia
+intervenit mandatum.
+6. Tua autem gratia intervenit mandatum, veluti si mandem tibi, ut pecunias tuas potius in emptiones praediorum
+colloces quam faeneres, vel ex diverso ut faeneres potius quam in emptiones praediorum colloces: cuius generis
+mandatum magis consilium est quam mandatum et ob id non est obligatorium, quia nemo ex consilio obligatur, etiamsi
+non expediat ei cui dabatur, quia liberum est cuique apud se explorare, an expediat sibi consilium.
+17.1.3
+Paulus libro 32 ad edictum
+pr. Praeterea in causa mandati etiam illud vertitur, ut interim nec melior causa mandantis fieri possit, interdum melior,
+deterior vero numquam.
+1. Et quidem si mandavi tibi, ut aliquam rem mihi emeres, nec de pretio quicquam statui tuque emisti, utrimque actio
+nascitur.
+2. Quod si pretium statuituque pluris emisti, quidam negaverunt te mandati habere actionem, etiamsi paratus esses id
+quod excedit remittere: namque iniquum est non esse mihi cum illo actionem, si nolit, illi vero, si velit, mecum esse.
+17.1.4
+Gaius libro secundo rerum cottidianarum sive aureorum
+Sed Proculus recte eum usque ad pretium statutum acturum existimat, quae sententia sane benignior est.
+17.1.5
+Paulus libro 32 ad edictum
+pr. Diligenter igitur fines mandati custodiendi sunt:
+1. Nam qui excessit, aliud quid facere videtur et, si susceptum non impleverit, tenetur.
+2. Itaque si mandavero tibi, ut domum Seianam centum emeres tuque Titianam emeris longe maioris pretii, centum
+tamen aut etiam minoris, non videris implesse mandatum.
+3. Item si mandavero tibi, ut fundum meum centum venderes tuque eum nonaginta vendideris et petam fundum, non
+obstabit mihi exceptio, nisi et reliquum mihi, quod deest mandatu meo, praestes et indemnem me per omnia conserves.
+
+

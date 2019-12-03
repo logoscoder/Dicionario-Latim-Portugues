@@ -1,0 +1,62 @@
+quod est C multiplex, nec uero superparticulare. Nam superparticularis proportionis medius proportionaliter terminus
+nullus interuenit. Inter D uero et B est proportionaliter terminus constitutus, id est B. Nam ut est C ad B, ita B ad D;
+impossibile igitur erit D eius quod est C, uel multiplicem esse. uel snperparticularem, quod oportebat ostendere.
+Et in numeris sit non multiplex interuallum 6 ad 6, fiatque ut sunt 4 ad 6, ita sex ad alium quemlibet numerum.
+Hic erit igitur nouenarius, qui quaternarii neque multiplex neque superparticularis est.
+[PLLXIII:1248,2; text: Non multiplex, nec super particulare, 4, 6, 9, C, B, D] [BOEDIM4 02GF]
+Si interuallum binario multiplicetur, atque id quod ex ea multiplicatione creabitur multiplex non fit, ipsum
+quoque non erit multiplex. Sit enim interuallum B C, fiatque ut C ad B, ita B ad D, et non fit D [1249] eius quod est C
+multiplex. Dico quoniam nec B eius quod est C erit multiplex. Si enim est et D eius quod est C, est multiplex. At non
+est, non erit igitur B eius quod est C multiplex.
+[PLLXIII:1249,1; text: Non multiplex, 4, 6, 9, C, B, D] [BOEDIM4 03GF]
+Duplex interuallum ex duobus maximis superparticularibus, coniungitur sesquialtero et sesquitertio. Sit enim
+A quidem eius quod est Bsesquialter, B uero eius quod est C sesquitertius. Dico quoniam A eius quod est C duplex est.
+Quoniam igitur sesquialter est A eius quod est B, igitur A habet in se totum B eiusque dimidium. Duo igitur A aequi
+sunt tribus B. Rursus quoniam B eius quod est C sesquitertius est, B igitur habet C, et eius tertiam partem. Tres :igitur
+B aequi sunt ad quatuor C Tres autem B aequi erant duobus A. Duo igitur A aequi sunt ad quatuor C; unus igitur A
+aequus est duobus C Duplex erit igitur A eius qui est C, et in numeris. Sit enim sesquialter 12 ad 8, sesquitertius uero 8
+ad 6: ergo 12 ad 6 duplices sunt.
+[PLLXIII:1249,2; text: Duplex, 6, 3, 2, A, B, C, Sesquialter. Sesquitertius] [BOEDIM4 03GF]
+Ex duplici interuallo atque sesquialtero triplex nascitur interuallum.
+Sit enim A eius quod est B duplex, B autem eius quod est C sesquialter. Dico quoniam A eius quod est C
+triplex est. Nam quoniam A eius quod est B duplex est, A igitur aequus est duobus B. Rursus quoniam B eius quod est
+C sesquialter est, B igitur habet in se totum C et eius dimidiam partem. Duo igitur B aequi sunt tribus C Sed duo B
+aequi erant uni A, et unus igitur A aequus est tribus C; igitur A uno C triplex est. Et in numeris sit duplex quidem
+senarius ternario, sesquialter uero ternarius, binario. Senarius igitur triplex est binario.
+[1250] [PLLXIII:1250,1; text: Triplex, 6, 3, 2, A, B, C, Duplex, Sesquialter] [BOEDIM4 04GF]
+Si sesquialtero interuallo sesquitertium demptum fuerit interuallum, erit quod relinquitur sesquioctauum. Sit
+enim A quidem eius quod est B sesquialter, at uero C eius quod est B sesquitertius: dico quoniam A eius quod est C
+sesquioctauus est. Quoniam enim A eius quod est B sesquialter est, A igitur habet in se B et eius dimidiam partem.
+Octo igitur A aequi sunt ad duodecim B. Rursus quoniam C eius quod est B sesquitertius est, C igitur habet in se B et
+tertiam eius partem.
+Nouem igitur C aequi sunt ad duodecim B. Duodecim B aequi erant ad octo A; et octo igitur A aequi sunt ad
+nouem C Igitur A aequus est ei quod est C, et octauae eius parti. A igitur eius quod est C
+sesquioctauus est. Et in numeris sesquialterum quidem interuallum sit nouenarius ad senarium, sesquitertium
+uero octonarius ad senarium.
+Nouem igitur ad octo sesquioctaua proportio est.
+[PLLXIII:1250,2; text: Sesquialter, 9, 8, 6, A, C, B, Sesquioctauus, Sesquitertius] [BOEDIM4 04GF]
+Sex proportiones sesquioctauae maiores sunt uno duplici interuallo.
+Sit enim quidem numerus A, huius autem sit sesquioctauus B, huius sesquioctauus C, et huius sesquioctauus
+D, et huius sesquioctauus F, eiusque sesquioctauus G, atque huius sesquioctauus K. Id autem fiat secundum descriptum
+in Arithmetica modum, et sint numeri A B C D F G K, et sit A 262144, huius autem sesquioctauus qui est B 294912,
+huius autem sesquioctauus qui est C 331776, huius autem sesquioctauus qui est D 373248, huius autem sesquioctauus
+qui est F 419904, huius autem sesquioctauus qui est G 472392, huius autem sesquioctauus qui est K 531441. Et sunt
+531441 quod est K, plus quam duplices ad ducenta 60 duo millia 144 quod est A. Sex igitur sesquioctauae proportiones
+ampliores sunt uno duplici interuallo.
+[1251] [PLLXIII:1251; text: Sex sesquioctauae proportiones maiors duplici intetuallo, Sesquioctauus, A, B, C,
+D, E, G, K, 262144, 294912, 331776, 373248, 410904, 472392, 531441, Numerus A 263144 dimidus est ad hunc
+subtus scriptum ergo diapason deficiens ab K numero 7151.] [BOEDIM4 05GF]
+III
+Musicarum per Graecas ac Latinas litteras notarum nuncupatio.
+Restat quoniam sumus neruum secundum praedictas consonantias per regulam diuisuri, quoniamque
+necessarios sonos tribus generibus cantilenae exhibebit ista partitio, musicas interim notas apponere, ut cum diuisam
+lineam iisdem notulis signauerimus, quod unicuique sit nomen, facillime possit agnosci. Veteres enim musici propter
+compendium scriptionis, ne integra semper nomina necesse esset apponere, excogitauere notulas quasdam quibus
+neruorum uocabula notarentur, easque per genera modosque diuisere, simul etiam hac breuitate captantes, ut si quando
+melos aliquod musicus uoluisset ascribere, super uersum rhythmica metri compositione distentum, has sonorum notulas
+ascriberet, ita miro modo reperientes, ut non tantum carminum uerba, quae litteris explicarentur sed melos quoque
+ipsum, quod his notulis signaretur, in memoriam posteritatemque duraret. Sed ex his omnibus modis unum interim
+Lydium eiusque notulas per tria genera disponamus, in reliquis modis idem facere in tempus aliud differentes. Sane si
+quando dispositionem notarum Graecarum litterarum nuncupatione descripsero, lector nulla nouitate turbetur. Graecis
+
+

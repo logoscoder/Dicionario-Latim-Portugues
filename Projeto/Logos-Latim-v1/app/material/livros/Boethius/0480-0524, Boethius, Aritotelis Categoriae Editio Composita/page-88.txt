@@ -1,0 +1,72 @@
+simplici ponatur /297/ negatio particularis infinita, sub affirmatione uero uniuersali priuatoria et sub negatione simplici
+particulari ponatur uniuersalis affirmatio infinita. Erit autem huiusmodi descriptio:
+INDEFINITAE
+Affirmatio simplex:
+Negatio simplex:
+Homo iustus est
+Homo iustus non est
+Negatio priuatoria:
+Affirmatio priuatoria:
+Homo iniustus non est
+Homo iniustus est
+Negatio infinita:
+Affirmatio infinita:
+Homo non iustus non est Homo non iustus est
+DEFINITAE
+Affirmatio uniuersalis simplex:
+Negatio particularis simplex:
+Omnis homo iustus est
+Non omnis homo iustus est
+Negatio particularis priuatoria:
+Affirmatio uniuersalis priuatoria:
+Non omnis homo iniustus est
+Omnis homo iniustus est
+Negatio particularis infinita:
+Affirmatio uniuersalis infinita:
+Non omnis homo non iustus est
+Omnis homo non iustus est
+In hoc ordine propositionum quem supra descripsimus quae sint angulares manifestum est. Sunt namque
+affirmationes quidem affirmationibus, negationes uero negationibus. Et in his quidem quae in definitae sunt eodem
+modo angulares sunt affirmationes. Simplex quidem affirmatio quae dicit:
+Est homo iustus
+priuatoriae affirmationi quae dicit:
+Est homo iniustus
+et infinitae /298/ affirmationi quae proponit:
+Est homo non iustus
+angularis est. Negatio uero simplex quae est:
+Non est homo iustus
+negationi priuatoriae quae dicit:
+Non est homo iniustus
+et negationi infinitae quae est:
+Non est homo non iustus
+angularis est.
+Item si quis ad definitas propositiones aspiciat, idem sine aliqua dubitatione reperiet. Affirmatio enim
+uniuersalis simplex quae est:
+Omnis est homo iustus
+affirmationi uniuersali priuatoriae quae enuntiat:
+Omnis est homo iniustus
+et affirmationi uniuersali infinitae quae proponit:
+Omnis est homo non iustus
+angularis est, item negatio particularis simplex quae est:
+Non omnis est homo iustus
+negationi particulari priuatoriae quae dicit:
+Non omnis est homo iniustus
+et negationi particulari infinitae quae proponit:
+Non omnis est homo non iustus
+angularis.
+Sunt igitur affirmationes affirmationibus et negationes negationibus angulares et in ordine indefinitarum
+propositionum et in ordine definitarum. Quocirca de earum sequentia speculandum est. Dictum est enim prius quod
+affirmationem indefinitam simplicem sequeretur priuatoria et infinita negatio, eas uero simplex affirmatio non
+sequeretur. Rursus infinitam affirmationem priuatoriamque affirmationem sequitur simplex negatio, hae uero
+negationem simplicem non sequuntur. Rursus si quis ad ordinem definitarum respiciat, idem inueniet. Affirmationem
+namque uniuersalem simplicem sequitur particularis priuatoria negatio et particularis infinita negatio. Nam si uera est
+uniuersalis affirmatio simplex quae dicit:
+Omnis est homo iustus,
+uera est etiam particularis priuatoria negatio quae dicit:
+Non omnis est homo iniustus
+Hoc autem idcirco euenit, quod ea quae dicit:
+Non omnis homo iniustus est
+idem potest quod simplex et similis est ei quae proponit:
+Quidam homo iustus est
+
+

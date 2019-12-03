@@ -1,0 +1,56 @@
+|#11 Quod autem terra non moveatur transiens de loco ad locum, contingit ex hoc quod terra semper est in
+medio. Et iterum sequeretur, quocumque motu moveretur, quod propter velocitatem sui motus occultarentur a
+nobis omnes alii motus, vel nubium vel animalium: non enim videtur moveri quod tardius movetur iuxta corpus
+velocius motum.
+Sic igitur epilogando concludit Philosophus quod de loco et motu et quiete terrae, quomodo se habeant, tanta
+dicta sint.
+|+27 Lectio 27
+|#1 Postquam Philosophus determinavit veritatem circa locum et motum vel quietem terrae, hic determinat
+veritatem circa figuram ipsius. Et primo probat terram esse sphaericam, rationibus naturalibus, quae accipiuntur
+ex parte motus; secundo rationibus mathematicis et astrologicis, quae accipiuntur ex his quae apparent secundum
+sensum, ibi: adhuc autem et per apparentia etc.. Circa primum duo facit: primo ostendit propositum, ratione
+sumpta ex ipsa specie naturalis motus terrae; secundo ex figura motus ipsius, ibi: et quia omnia etc.. Circa
+primum tria facit: primo ponit rationem; secundo comparat eam rationi quam antiqui assignabant, ibi: oportet
+autem intelligere etc.; tertio excludit quasdam obviationes ad rationem praedictam, ibi: sive igitur similiter etc..
+|#2 Dicit ergo primo quod necesse est terram habere sphaericam figuram, hac ratione; quia quaelibet partium
+eius habet gravitatem ad medium, idest, sua gravitate naturaliter movetur ad medium, ut ex supra dictis patet. Est
+etiam hic considerandum circa motum partium terrae, quod maior pars depellit minorem, quousque ipsa maior
+pars perveniat ad medium. Cuius ratio est, quia maior pars terrae habet maiorem gravitatem, et per consequens
+maiorem virtutem ut moveatur ad medium; semper autem minor virtus vincitur a maiori. Et ideo non est
+possibile quod, partibus terrae motis versus medium, aliqua pars terrae intumescat vel fluctuet, ita scilicet quod
+elevetur in situ una pars terrae super aliam, sicut accidit in mari fluctuante, quasi terra sit alicubi non compressa
+et alicubi compressa: sed oportet quod, cum omnes partes terrae tendant versus medium, superiores partes terrae
+comprimant inferiores, et una quasi consentiat alteri cedendo ei, quousque perveniatur ad medium. Et sic oportet
+quod, partibus terrae quasi undique aequaliter compressis versus medium, terra habeat sphaericam figuram.
+|#3 Deinde cum dicit: oportet autem intelligere etc., manifestat praedictam rationem, comparando ipsam ad
+rationem de figura terrae ab aliis assignatam. Et dicit quod oportet praedictam rationem intelligere ac si positum
+esset quod terra esset generata de novo, concurrentibus undique partibus terrae versus medium, sicut antiqui
+naturales posuerunt. In hoc tamen differentia est, quod illi ponunt motum partium terrae versus medium causari
+ex violentia gyrationis caeli, sicut supra dictum est: melius autem et verius est, ut ponamus motum partium terrae
+accidere naturaliter, propter hoc quod partes terrae habent gravitatem inclinantem eas versus medium. Si ergo
+ponamus quod terra prius erat in potentia, sicut antiqui posuerunt, consequens erit quod partes eius, dispersae et
+disgregatae prius, quando fuerunt in actu graves, ferentur simili modo ex omni parte ad medium; et ex hoc
+constituetur terra sphaericae figurae.
+|#4 Deinde cum dicit: sive igitur similiter etc., excludit tres obviationes contra praemissam rationem.
+Quarum prima est, quod potest aliquis dicere quod praedicta ratio non cogit figuram terrae esse sphaericam, nisi
+supposito quod in ipsa generatione terrae, undique partes terrae similiter et aequaliter concurrant ad medium. Sed
+potuit contingere quod in illa disgregatione partium terrae, plures partes terrae inventae fuerint ad unam partem
+superioris loci quam ad aliam; et sic plures partes terrae aggregatae sunt ad unam partem eius quam ad aliam;
+quod est contra rationem sphaericae figurae.
+|#5 Sed ipse dicit quod idem contingit circa figuram terrae, sive partes terrae quae prius erant disgregatae,
+similiter conveniant ab extremis terrae versus medium, sive aliter se habeant. Est autem manifestum quod, si
+partes terrae similiter et aequaliter undique ab extremis ferantur ad medium, necesse est quod moles terrae
+undique fiet aequalis: quia cum aequalis quantitas partium apponatur medio undique, necesse est quod extremum
+terrae undique distet aequaliter a medio. Et in hoc salvatur ratio sphaerae: quia sphaera nihil aliud est quam
+corpus a cuius medio omnes lineae ductae ad extrema, sunt aequales.
+Nec differt quantum ad hanc rationem, si aliquis dicat quod partes terrae non similiter et aequaliter conveniunt ad
+medium: quia semper illud quod est plus, cum sit gravius, propellit id quod est minus grave, usque ad hoc, idest
+usque ad medium. Quod quidem potest intelligi dupliciter.
+Uno modo sic ut intelligatur quod id quod est minus grave, propellatur a graviori quousque minus grave
+pertingat ad medium. Sed hoc non convenit secundum intentionem Aristotelis: quia praedicta positione facta,
+adhuc remanebit maior quantitas versus unam partem terrae, ad quam plures partes concurrunt. Alio modo potest
+intelligi usque ad hoc, idest quousque ipsum corpus gravius attingat medium. Et hoc convenientius dicitur: quia
+unumquodque corpus grave naturaliter tendit ad hoc ut ipsum sit in suo loco, non autem ad hoc quod aliquid
+121
+
+

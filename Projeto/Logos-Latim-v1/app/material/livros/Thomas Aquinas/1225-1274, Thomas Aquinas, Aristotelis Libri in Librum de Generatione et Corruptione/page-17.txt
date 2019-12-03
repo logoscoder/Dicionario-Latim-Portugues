@@ -1,0 +1,60 @@
+|#1 Postquam Philosophus ostendit quare quaedam generantur simpliciter et quaedam secundum quid, eorum
+quae adinvicem generantur, hic ostendit causam differentiae generationis simpliciter et secundum quid, in his
+quae non adinvicem generantur.
+Et primo determinat quaestionem principaliter intentam; secundo determinat quasdam quaestiones consequentes,
+ibi: sed nunc quaerere oportet etc.. Circa primum tria facit: primo movet quaestionem; secundo solvit eam, ibi:
+haec autem distincta sunt etc.; tertio epilogat quae dicta sunt, ibi: de generari igitur etc..
+Dicit ergo primo quod quaedam dicuntur generari simpliciter, quaedam autem solum secundum quid, non
+secundum generationem ex invicem, ut supra dictum est, ut scilicet unum eorum quae ex invicem generantur,
+generetur simpliciter, aliud autem secundum quid. Hoc enim est quod supra determinatum est, quare, cum omnis
+generatio sit corruptio alterius, et omnis corruptio sit generatio alterius, non simili modo attribuitur generari et
+corrumpi in his quae adinvicem transmutantur, sed unum eorum dicitur generari vel corrumpi simpliciter, aliud
+autem secundum quid. Quaestio autem quae postmodum determinanda est, non haec erit: sed in his quae non ex
+invicem transmutantur, quare unum dicitur generari simpliciter et alterum secundum quid: puta, quare discens
+qui fit sciens, non dicitur simpliciter generari, sed secundum quid, idest sciens; homo autem vel animal, quando
+nascitur, dicitur generari simpliciter: et tamen manifestum est quod natum et sciens non generantur ex invicem.
+|#2 Deinde cum dicit: haec autem distincta sunt etc., solvit quaestionem nunc motam. Et dicit quod illa quorum
+quaedam dicuntur generari simpliciter et quaedam secundum quid, sunt distincta secundum praedicamenta; ita
+quod unum eorum significat hoc aliquid, idest substantiam, aliud autem qualitatem, aliud autem quantitatem, et
+sic de aliis praedicamentis. Illa ergo quae non significant substantiam, sed qualitatem aut aliquid aliorum, non
+dicuntur generari simpliciter, sed secundum quid: quae vero significant substantiam, dicuntur generari
+simpliciter. Cuius ratio est, quia generatio est via de non esse ad esse: et ideo illud simpliciter generatur, quod
+acquirit esse cui non praesupponitur aliud esse. Non enim fit quod est: unde quod iam est, non potest generari
+simpliciter, sed secundum quid. Et ideo ista quorum esse praesupponit aliud esse, non dicuntur generari
+simpliciter, sed secundum quid.
+Esse autem accidentium praesupponit aliud esse, scilicet esse subiecti: esse autem substantiae non praesupponit
+aliud esse, quia subiectum formae substantialis non est ens actu, sed potentia. Et ideo ex hoc quod aliquid accipit
+formam substantialem, dicitur generari simpliciter: ex hoc autem quod accipit formam accidentalem, dicitur
+generari secundum quid. In omnibus tamen, scilicet substantiis et accidentibus, diversificatur generatio
+simpliciter et secundum quid, secundum diversum ordinem vel entis ad non ens, vel entis perfecti ad
+imperfectum, aut sensibilis ad insensibile. Unde in substantia quodammodo dicitur generatio simpliciter, si
+generetur ignis, non autem si generetur terra: et in qualitate dicitur generatio simpliciter, si generetur sciens, non
+autem si generetur nesciens.
+|#3 Deinde cum dicit: de generari igitur etc., epilogat quae dicta sunt. Et dicit quod dictum est universaliter de
+accidentibus et in substantiis, de hoc quod quaedam generantur simpliciter, et quaedam secundum quid. Et etiam
+dictum est quod causa continuitatis generationis, per modum materiae, est subiectum, quod transmutatur in
+contraria. Ex hoc enim contingit quod semper in substantiis alterius generatio est alterius corruptio, et e
+converso: nunquam enim materia est sub privatione unius formae, sine alia forma. In quibusdam autem
+accidentibus hoc contingit: nam corpus diaphanum est sub privatione lucis, absque hoc quod subsit formae
+contrariae.
+|#4 Deinde cum dicit: sed nunc quaerere oportet etc., determinat tres quaestiones consequentes.
+Quarum prima est, quare semper generatur aliquid ex corruptis: quod supponit in hoc quod dixit, quod generatio
+unius est corruptio alterius.
+Et solvit hanc quaestionem, dicens: quia corruptio tendit in non ens, et generatio est ex non ente, ideo oportet
+quod generatio sit ex corruptis.
+Et hoc ipse probat etiam ex aliorum opinione: quia, sicut homines dicunt corrumpi aliquid, quando pervenit ad
+insensibile, quod putant esse non ens, secundum tertium modum supra positum; similiter dicunt aliquid generari,
+quando ex insensibili et non ente pervenit ad hoc quod sit sensibile. Patet ergo quod, secundum hunc modum, id
+quod est terminus corruptionis, est principium generationis. Sive ergo sit aliquod subiectum ex quo est generatio,
+sive non, semper oportet quod generatio eius sit ex non ente, quod est terminus corruptionis: hoc enim est de
+ratione generationis, quod sit ex non ente; quod autem illud non ens adiungatur alteri existenti, accidit
+generationi. Quare patet quod simul aliquid generatur ex non ente, et corrumpitur in non ens, qualitercumque
+dicatur non ens. Sic igitur idem est in quod terminatur corruptio, et ex quo est generatio: et propter hoc generatio
+est ex corruptis.
+Convenienter ergo non deficit successio generationis et corruptionis, ut supra dictum est: quia generatio est
+quaedam corruptio non entis, et corruptio est quaedam generatio non entis; et ita unum eorum semper adiungitur
+alteri, cum in id ex quo unum incipit, aliud terminetur.
+
+17
+
+

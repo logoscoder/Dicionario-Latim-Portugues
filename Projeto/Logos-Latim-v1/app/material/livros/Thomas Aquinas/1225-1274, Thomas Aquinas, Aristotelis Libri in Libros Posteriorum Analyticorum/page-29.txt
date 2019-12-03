@@ -1,0 +1,57 @@
+Petitio et suppositio exteriori ratione confirmari possunt, idest argumentatione aliqua. Sed communis animi
+conceptio non est ad exterius rationem, quia non potest probari per aliquam argumentationem, sed est ad eam,
+quae est in anima, quia lumine naturalis rationis statim fit nota. Et quod non sit ad exterius rationem patet, quia
+non fit syllogismus ad probandas huiusmodi communes animi conceptiones. Et quod huiusmodi non sunt notae
+per exteriorem rationem, sed per interiorem, probat per hoc, quod exteriori rationi potest instari vel vere vel
+apparenter: interiori autem rationi non est possibile semper instari. Et hoc ideo, quia nihil est adeo verum, quin
+voce possit negari. Nam et hoc principium notissimum, quod non contingat idem esse et non esse, quidam ore
+negaverunt. Quaedam autem adeo vera sunt, quod eorum opposita intellectu capi non possunt; et ideo interiori
+ratione eis obviari non potest, sed solum exteriori, quae est per vocem. Et huiusmodi sunt communes animi
+conceptiones.
+|#4 Deinde, cum dicit: quaecunque igitur etc., distinguit suppositiones et petitiones ad invicem.
+Sciendum tamen est, quod aliquid commune habent, et in aliquo differunt. Hoc quidem commune est eis, quod
+cum sint demonstrabilia, tamen demonstrator accipit ea non demonstrans, et praecipue, quia non sunt
+demonstrabilia per suam scientiam, sed per aliam, ut supra dictum est. Unde et inter immediata principia
+computantur, quia demonstrator utitur eis absque medio, eo quod non habeant medium in illa scientia.
+Differunt autem ad invicem: quia si quidem talis propositio sit probabilis addiscenti, cui fit demonstratio, dicitur
+suppositio. Et sic suppositio dicitur non simpliciter, sed ad aliquem. Si vero ille nec sit eiusdem opinionis, neque
+contrariae, oportet quod demonstrator hoc ab eo petat, et tunc dicitur petitio. Si autem sit contrariae opinionis,
+tunc erit quaestio, de qua oportet disputari inter eos. Hoc tamen omnibus commune est, quod unoquoque eorum
+utitur demonstrator non demonstrans, cum sit demonstrabile.
+|#5 Deinde, cum dicit: termini igitur non sunt etc., distinguit definitiones a suppositionibus per duas rationes;
+quarum secunda incipit ibi: amplius petitio etc.. Circa primum duo facit: primo, ponit rationem, quae talis est:
+omnis petitio, vel suppositio dicit aliquid esse vel non esse; termini autem, idest definitiones, non dicunt aliquid
+esse vel non esse; termini ergo non sunt suppositiones neque petitiones, per se sumpti. Sed in propositionibus
+assumpti sunt suppositiones; ut cum dicitur, homo est animal rationale mortale. Sed terminos per se sumptos,
+oportet solum intelligere; intelligere autem non est supponere, sicut nec audire. Sed illa supponuntur
+quorumcunque existentium, idest ex quibuscumque existentibus fit conclusio, in eo quod illa sunt, idest propter
+praemissa.
+|#6 Secundo, ibi: neque geometra etc., excludit quamdam dubitationem. Dicebant enim quidam quod geometra
+falsa suppositione utebatur, cum diceret lineam esse unius pedis, quae non est unius pedis; aut lineam descriptam
+in pulvere esse rectam, quae non est recta. Sed ipse dicit quod geometra non supponit falsum propter hoc.
+Cum enim geometra nihil demonstret de particularibus, sed de universalibus, ut supra dictum est; hae autem
+lineae sunt quaedam particularia; manifestum est quod de his lineis nihil demonstrat, neque etiam ex eis, sed
+utitur eis ut exemplis universalium, quae per haec exempla intelliguntur, de quibus et ex quibus demonstrat.
+|#7 Deinde, cum dicit: amplius petitio etc., ponit secundam rationem, quae talis est: omnis suppositio vel petitio
+est in toto vel in parte, idest est propositio universalis vel particularis; sed definitiones neutrum horum sunt, quia
+in eis nihil ponitur sive praedicatur, neque universaliter, neque particulariter; ergo etc..
+|#8 Deinde, cum dicit: species quidem esse etc., ostendit ex praemissis quod non est necessarium ponere ideas,
+ut Plato posuit. Ostensum est enim supra quod demonstrationes de universalibus sunt, et hoc modo sunt de
+sempiternis. Non igitur necesse est ad hoc quod demonstratio sit, species esse, idest ideas, aut quodcunque unum
+extra multa, sicut ponebant Platonici mathematica separata cum ideis, ut sic demonstrationes possint esse de
+sempiternis. Sed necessarium est esse unum in multis et de multis, si demonstratio debet esse, quia non erit
+universale, nisi sit unum de multis; et si non sit universale, non erit medium demonstrationis; ergo nec
+demonstratio. Et quod oporteat medium demonstrationis esse universale, patet per hoc quod oportet medium
+demonstrationis esse unum et idem de pluribus praedicatum non aequivoce, sed secundum rationem eamdem:
+quod est ratio universalis. Si autem aequivocum esset, posset accidere vitium in arguendo.
+|+20 Lectio 20
+|#1
+Postquam determinavit Philosophus de principiis propriis et communibus, hic ostendit qualiter
+demonstrativae scientiae se habeant ad principia communia et propria. Et dividitur in duas partes: in prima,
+ostendit qualiter se habeant demonstrativae scientiae circa communia: in secunda, qualiter se habeant circa
+propria; ibi: si autem idem est interrogatio etc.. Circa primum duo facit: primo, ostendit qualiter se habeant
+demonstrativae scientiae circa prima principia inter communia; secundo, quomodo se habeant communiter circa
+omnia principia communia; ibi: communicant autem omnes scientiae etc.. Circa primum duo facit: primo,
+29
+
+

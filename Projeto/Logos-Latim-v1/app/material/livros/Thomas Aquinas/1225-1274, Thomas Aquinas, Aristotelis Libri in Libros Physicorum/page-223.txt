@@ -1,0 +1,66 @@
+Et primo quidem apparet hoc ex ipsis verbis Aristotelis. Concludit enim:
+necesse igitur hoc quidem aliquid in hoc esse, aliud vero in altero
+mutantis, idest eius quod mutatur.
+Loquitur ergo de partibus mobilis, non de partibus terminorum.
+Secundo ex eius intentione. Inducit enim ad probandum id quod mutatur esse
+divisibile: quod non posset concludi ex praemissis.
+Unde et Avempace dixit, quod non intendit hic probare quod mobile sit
+divisibile in partes quantitativas, sed secundum formas: inquantum scilicet
+id quod mutatur de contrario in contrarium, dum est in ipso mutari, habet
+aliquid de utroque contrario.
+Sed intentio Aristotelis est expresse, ostendere quod mobile est divisibile
+in suas partes quantitativas, sicut et alia continua. Et sic utitur in
+sequentibus demonstrationibus.
+Nec hoc videtur esse conveniens quod dicunt quidam, quod per hoc probatur
+etiam divisibilitas mobilis secundum continuitatem.
+Quia per hoc quod mobile, dum movetur, participat utrumque terminum, et non
+statim habet perfecte terminum ad quem, manifestum apparet mutationem esse
+divisibilem secundum continuitatem: et ita, cum divisibile non possit esse
+in indivisibili, sequitur quod etiam mobile sit divisibile ut continuum.
+Manifeste enim Aristoteles in subsequentibus ostendit divisionem motus ex
+divisione mobilis.
+Unde si intenderet concludere divisionem mobilis per divisionem motus,
+esset demonstratio circularis.
+Tertio apparet hanc expositionem esse inconvenientem ex ipsa expositione
+Aristotelis, cum dicit: dico autem in quod mutatur primum secundum
+mutationem. Ex quo apparet quod non intendit dicere quod partim sit in
+termino a quo et partim in termino ad quem, propter hoc quod sit in medio,
+quasi participans utrumque extremum; sed quia secundum unam partem sui est
+in uno extremo, et secundum aliam in medio.
+|#19
+Sed circa hanc expositionem Aristotelis dubium esse videtur quod
+dicit in quod primum mutatur. Non enim videtur posse accipi in quod primum
+mutatur, propter divisibilitatem magnitudinis in infinitum.
+Et ideo dicendum est, quod id in quod primum mutatur in motu locali,
+dicitur locus qui contingit locum a quo mutatur, ita quod nihil est eius.
+Si enim acciperetur secundus locus qui haberet aliquid primi, non esset
+accipere primum locum in quem mutatur.
+Quod sic patet. Sit locus unde mutatur aliquod mobile ab, et locus ei
+contactus aequalis sit bc. Quia enim ab divisibile est, dividatur in puncto
+d, et sumatur de loco bc versus c, quod sit aequale ei quod est bd; et sit
+illud gc. Manifestum est igitur quod mobile prius mutatur ad locum dg quam
+ad locum bc. Et iterum, cum ad sit divisibile, erit accipere alium locum
+priorem; et sic infinitum.
+Et similiter in motu alterationis accipiendum est primum in quod mutatur,
+medium alterius speciei; sicut cum mutatur de albo in nigrum, accipi debet
+fuscum, non autem minus album.
+|+6
+
+Lectio 6
+
+|#1
+Praemissis quibusdam quae sunt necessaria ad divisionem motus, hic
+incipit agere de divisione motus.
+Et dividitur in partes duas: in prima agit de divisione motus; in secunda
+ex determinatis excludit quosdam errores circa motum, ibi: zeno autem male
+ratiocinatur etc..
+Prima autem pars dividitur in partes duas: in prima determinat de divisione
+motus; in secunda de divisione quietis, ibi: quoniam autem omne aut movetur
+etc..
+Prima dividitur in duas: in prima agit de divisione motus; in secunda de
+finito et infinito circa motum (utrumque enim videtur ad rationem continui
+pertinere, scilicet divisibile et infinitum), ibi: quoniam autem omne quod
+movetur, in tempore movetur etc..
+223
+
+

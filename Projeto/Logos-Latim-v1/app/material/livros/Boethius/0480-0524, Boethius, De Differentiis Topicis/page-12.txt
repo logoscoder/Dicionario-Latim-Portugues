@@ -1,0 +1,61 @@
+Quibus ita positis inspiciamus nunc eos locos quos dudum extrinsecus pronuntiabamus assumi. Ea enim quae
+extrinsecus [1194D] assumuntur, non sunt ita separata atque disiuncta, ut non aliquo modo quasi e regione quadam
+eaquae quaeruntur aspiciant. Nam et similitudines et opposita ad ea sine dubio referuntur quibus similia uel opposita
+sunt, licet iure atque ordine uideantur extrinsecus collocata. Sunt autem haec, similitudo, oppositio, maius, minus, rei
+iudicium. In similitudine enim tum rei similitudo, tum proportionis ratio continetur. Omnia enim similitudinem tenent.
+Opposita uero in contrariis, in priuationibus, in relationibus, in negalionibus constant. Comparatio uero maioris ad
+minus quaedam similium dissimilitudo est. Rerum enim per se similium discretio maius ac [1195A] minus facit. Quod
+enim omni qualitate omnique ratione disiunctum est, id nullo modo poterit comparari. Ex rei uero iudicio quae sunt
+argumenta quasi testimonium praebent et sunt inartificiales loci, atque omnino disiuncti, nec rem potius quam iudicium
+opinionemque sectantes. Transsumptionis uero locus nunc quidem in aequalitate, nunc uero in maioris minorisue
+comparatione consistit. Aut enim ad id quod est simile, aut ad id quod est maius aut minus, fit argumentorum
+rationumque transsumptio.
+Hi uero loci quos mistos esse praediximus, aut ex casibus, aut ex coniugatis, aut ex diuisione nascuntur. In
+quibus omnibus consequentia et repugnantia custoditur.
+Sed ea quidem quae ex definitione, uel genere, uel differentia, uel causis argumenta ducuntur, demonstratiuis
+[1195B] maxime syllogismis uires atque ordinem subministrant, reliqua uerisimilibus ac dialecticis. Atque hi loci qui
+maxime in eorum substantia sunt de quibus in [1196A] quaestione dubitatur, ad praedicatiuos ac simplices, reliqui uero
+ad hypotheticos et conditionales respiciunt syllogismos.
+Expeditis igitur locis et diligenter tam definitione quam exemplorum luce patefactis, dicendum uidetur
+quomodo hi loci maximarum sint differentiae propositionum idque breui, neque enim longa disputatione res eget.
+Omnes enim maximae propositiones uel definitionem continent, uel descriptionem, uel nominis interpretationem, uel
+totum, uel partes, uel genus, uel species, uel caetera quibus differunt inter se maximae propositiones. Nam in eo quod
+sunt maximae non differunt sed in eo quod haec a definitione quidem, illa uero a genere, aliae ueniunt ab aliis locis, et
+his iure differre, hique earum differentiae dicuntur.
+Sed quoniam diuisio Themistii [1196B] patefacta est, nunc ad M. Tullii diuisionem transeamus.
+LIBER TERTIUS
+[1195B] Quod locorum differentias multipliciter uarieque tractamus, nihil mirum diligentibus ingeniis uideri
+debet, cum manifestum sit, unamquamque rem multis saepe differentiis, atque in uarias diuisionis figuras posse partiri.
+Nam quia singulas res non una sed plures saepe differentiae comprehendunt, necesse est, ut secundum differentiarum
+uarietatem fiat diuersitas etiam diuisionum, ut et numeri nunc eas colligimus differentias, quod alii pares, alii impares,
+nunc [1195C] uero quod alii primi atque incompositi, alii secundi atque compositi. Triangulorum etiam multis modis
+fieri partitionem geometricae disoiplinae tenor ostendit. Id tamen in omnibus peruidendum est, ut nihil extra in qualibet
+diuisionis forma relinquatur, nihil ultra superfluorn ac praeterquam necesse est, aggregetur.
+Quare quid mirum uideri debet, si cum antea secundum Themistium locorum differentias dederimus, nunc
+diuersas secundum M. Tullium depromamus? Cuius proposita breuiter partitione, atque exemplis conuenientibus
+expedita, tum demum quo differat, uel quo congruat superius digestae diuisioni, quo etiam altera claudat alteram
+commemorabo.
+Nam cum M. Tullius omnem logicam facultatem, quam rationem diligentem disserendi dixit, duas habere
+partes proposuerit, unam inueniendi, alteram [1195D] iudicandi; cumque locos definierit esse argumenti sedes a quibus
+scilicet argumenta promuntur, argumentum etiam rationem quae rei dubiae faciat fidem, diuisionem locorum omnium
+hoc modo lecit.
+Ex his, inquit, locis, in quibus argumenta inclusa sunt, alii in ipso haerent de quo agitur, alii assumuntur
+extrinsecus. Duas igitur locorum species fecit, alios enim inipsis quaestionum terminis haerere proposuit, alios
+extrinsecus assumi.
+Atque eos quidem qui in ipsis haererent de quibus quaeritur, tali diuisione partitur. In ipao, inquit, tum ex toto,
+tum ex partibus eius, tum ex nota, tum ex his rebus quae quodammodo affectae sunt ad id de quo quaeritur. Extrinsecus
+autem [1196B] ea dicuntur quae absunt longeque disiuncta sunt. Post haec eum locum qui ab effectis ducitur, in
+conuenientia membra partitus est, hoc modo: alia enim, inquit, sunt coniugata, alia ex genere, alia ex forma, alia ex
+similitudine, alia ex differentia, alia ex contrario, alia ex coniunctis, alia ex antecedentibus, alia ex consequentibus, alia
+ex repugnantibus, alia ex causis, alia ex effectis, alia ex comparatione maiorum aut minorum aut parium.
+Quorum quidem [1196C] omnium et natura breuiter attingenda est et exempla ponenda.
+Eorum igitur locorum qui in ipso de quo agitur haerent, primum esse dixit a toto. Totum autem uniuscuiusque
+rei in definitione constat. Omnis enim definitio rei quam definit adaequatur; quod si unaquaeque res tota est (nihil enim
+integrum esse nisi totum polest), definitione quoque totum esse necesse est, id est, quae totam rei quam definit
+substantiam claudat.
+Definitio uero est oratio quae uniuscuiusque rei quidem esse designat. Ab hac ita ducitur argumentum ut sit
+quaestio, an arbores quoque sint animalia. Dicam: Animal est est substantia animata sensibilis; arbor non est substantia
+animata sensibilis; concludam: Non sunt igitur arbores animalia. Quaestio de genere. Maxima [1196D]
+propositio: Unde definitio abest, inde illud quoque abesse quod definitur. Locus a definitione.
+
+

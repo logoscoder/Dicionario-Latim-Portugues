@@ -1,0 +1,48 @@
+OPERA OMNIA
+SANCTI THOMAE AQUINATIS
+-----oOo----Textum electronicum praeparavit et indexavit
+Ricardo M. Rom n, S. R. E. Presbyterus
+Bonis Auris, MCMXCVIII
+
+|*ARISTOTELIS_LIBRI
+|*DE_SENSU_ET_SENSATO
+IN LIBRUM DE SENSU ET SENSATO
+|+1 Lectio 1
+|#1 Sicut Philosophus dicit in tertio de anima, sicut separabiles sunt res a materia, sic et quae circa intellectum
+sunt.
+Unumquodque enim intantum est intelligibile, inquantum est a materia separabile. Unde ea quae sunt secundum
+naturam a materia separata, sunt secundum seipsa intelligibilia actu: quae vero a nobis a materialibus
+conditionibus sunt abstracta, fiunt intelligibilia actu per lumen nostri intellectus agentis. Et, quia habitus alicuius
+potentiae distinguuntur specie secundum differentiam eius quod est per se obiectum potentiae, necesse est quod
+habitus scientiarum, quibus intellectus perficitur, etiam distinguantur secundum differentiam separationis a
+materia; et ideo Philosophus in sexto metaphysicorum distinguit genera scientiarum secundum diversum modum
+separationis a materia. Nam ea, quae sunt separata a materia secundum esse et rationem, pertinent ad
+metaphysicum; quae autem sunt separata secundum rationem et non secundum esse, pertinent ad mathematicum;
+quae autem in sui ratione concernunt materiam sensibilem, pertinent ad naturalem.
+|#2 Et sicut diversa genera scientiarum distinguuntur secundum hoc quod res sunt diversimode a materia
+separabiles, ita etiam in singulis scientiis, et praecipue in scientia naturali, distinguuntur partes scientiae
+secundum diversum separationis et concretionis modum. Et quia universalia sunt magis a materia separata, ideo
+in scientia naturali ab universalibus ad minus universalia proceditur, sicut Philosophus docet primo physicorum.
+Unde et scientiam naturalem incipit tradere ab his quae sunt communissima omnibus naturalibus, quae sunt
+motus et principium motus, et demum processit per modum concretionis, sive applicationis principiorum
+communium, ad quaedam determinata mobilia, quorum quaedam sunt corpora viventia: circa quae etiam simili
+modo processit distinguens hanc considerationem in tres partes.
+Nam primo quidem consideravit de anima secundum se, quasi in quadam abstractione.
+Secundo considerationem facit de his, quae sunt animae secundum quamdam concretionem, sive applicationem
+ad corpus, sed in generali.
+Tertio considerationem facit applicando omnia haec ad singulas species animalium et plantarum, determinando
+quid sit proprium unicuique speciei. Prima igitur consideratio continetur in libro de anima. Tertia vero
+consideratio continetur in libris quos scribit de animalibus et plantis. Media vero consideratio continetur in libris,
+quos scribit de quibusdam, quae pertinent communiter, vel ad omnia animalia, vel ad plura genera eorum, vel
+etiam ad omnia viventia, circa quae huius libri est praesens intentio.
+|#3 Unde considerandum est, quod in secundo de anima quatuor gradus viventium determinavit. Quorum
+primus est eorum quae habent solam partem animae nutritivam per quam vivunt, sicut sunt plantae. Quaedam
+autem sunt, quae cum hoc habent etiam sensum sine motu progressivo, sicut sunt animalia imperfecta, puta
+conchylia. Quaedam vero, quae habent insuper motum localem progressivum, sicut animalia perfecta, ut equus et
+bos. Quaedam vero insuper intellectum, sicut homines. Appetitivum enim, quamvis ponatur quintum genus
+potentiarum animae, non tamen constituit quintum gradum viventium, quia semper consequitur sensitivum.
+|#4 Horum autem, intellectus quidem nullius partis corporis actus est, ut probatur tertio de anima: unde non
+potest considerari per concretionem, vel applicationem ad corpus vel ad aliquod organum corporeum.
+1
+
+

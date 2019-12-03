@@ -1,0 +1,55 @@
+|#17 Deinde cum dicit amplius autem tertiam rationem ponit quae sumitur ex meliori et peiori: quia in
+quibuscumque invenitur unum alio melius, semper illud quod est melius, est prius secundum naturam.
+Sed horum quae sic se habent non potest poni unum genus commune separatum: ergo eorum quorum unum est
+melius et aliud peius non potest poni unum genus separatum. Et sic redit in idem quod prius. Haec enim ratio
+inducitur quasi confirmatio praecedentis, ad ostendendum, quod in speciebus cuiuslibet generis invenitur prius et
+posterius.
+|#18 Et ex tribus his rationibus concludit propositum; scilicet quod species specialissimae quae immediate de
+individuis praedicantur, magis videntur esse principia quam genera. Ponitur enim genitivus generum loco
+ablativi more Graecorum.
+Unde litera boetii planior est, quae expresse concludit huiusmodi praedicata magis esse principia quam genera.
+|#19 Deinde cum dicit iterum autem obiicit in contrarium tali ratione. Principium et causa est praeter res
+quarum est principium et causa, et possibile est ab eis esse separatum. Et hoc ideo quia nihil est causa sui ipsius.
+Et loquitur hic de principiis et causis extrinsecis, quae sunt causae totius rei. Sed aliquid esse praeter singularia
+non ponitur, nisi quia est commune et universaliter de omnibus praedicatum: ergo quanto aliquid est magis
+universale, tanto magis est separatum, et magis debet poni principium. Sed genera prima sunt maxime
+universalia: ergo genera prima sunt maxime principia.
+|#20 Harum autem quaestionum solutio innuitur ex hac ultima ratione. Secundum hoc enim genera vel species
+universalia principia ponebantur, inquantum ponebantur separata. Quod autem non sint separata et per se
+subsistentia ostendetur in septimo huius. Unde et Commentator in octavo ostendet quod principia rerum sunt
+materia et forma, ad quorum similitudinem se habent genus et species. Nam genus sumitur a materia, differentia
+vero a forma, ut in eodem libro manifestabitur. Unde, cum forma sit magis principium quam materia, secundum
+hoc etiam erunt species magis principia quam genera. Quod vero contra obiicitur ex hoc quod genera sunt
+principia cognoscendi speciem et definitiones ipsius, eodem modo solvitur sicut et de separatione. Quia enim
+separatim accipitur a ratione genus sine speciebus, est principium in cognoscendo. Et eodem modo esset
+principium in essendo, si haberet esse separatum.
+|+9 Lectio 9
+|#1 Postquam Philosophus disputavit quaestionem de universalibus, utrum sint principia, hic consequenter
+movet quaestionem de separatis, utrum scilicet aliquid sit separatum a sensibilibus, quod sit eorum principium.
+Et circa hoc pertractat duas quaestiones: quarum prima est, an universalia sint separata a singularibus. Secunda
+est, an sit aliquid formale separatum ab his quae sunt composita ex materia et forma, ibi, amplius autem si quam
+maxime etc..
+Circa primum tria facit. Primo describit dubitationem. Secundo obiicit ad unam partem, ibi, nam si non est etc..
+Tertio obiicit ad partem aliam, ibi, at vero etc..
+Est ergo haec dubitatio de eo quod tactum est in ultima ratione praecedentis quaestionis, utrum scilicet universale
+sit separatum a singularibus, sicut praemissa ratio supponebat. Et hoc est quod dicit, de qua ratio nunc existit,
+idest de qua immediate praecedens ratio praecessit. De hac autem dubitatione ita dicit: primo quod est habita,
+idest consequenter se habens ad praemissa: quia sicut iam dictum est, ex hoc dependet consideratio praecedentis
+quaestionis. Nam si universalia non sunt separata, non sunt principia: si autem sunt separata, sunt principia.
+Secundo dicit de ea, quod est difficillima omnium dubitationum huius scientiae. Quod ostenditur ex hoc quod
+eminentissimi Philosophi de ea diversimode senserunt. Nam Platonici posuerunt universalia esse separata, aliis
+philosophis contra ponentibus. Tertio dicit de ea quod est maxime necessaria ad considerandum, quia scilicet ex
+ea dependet tota cognitio substantiarum tam sensibilium quam immaterialium.
+|#2 Deinde cum dicit nam si non obiicit ad ostendendum, quod universalia sint separata a singularibus.
+Singularia enim sunt infinita: infinita autem cognosci non possunt. Unde singularia omnia cognosci non possunt
+nisi inquantum reducuntur ad aliquid unum, quod est universale.
+Sic igitur scientia de rebus singularibus non habetur, nisi inquantum sciuntur universalia. Sed scientia non est
+nisi verorum et existentium: ergo universalia sunt aliqua per se existentia praeter singularia.
+|#3 Deinde cum dicit at vero si obiicit in contrarium hoc modo. Si necesse est universalia esse aliquid praeter
+singularia, oportet quod genera sint praeter singularia, vel prima generum, vel etiam ultima, quae sunt immediate
+ante singularia.
+Sed hoc est impossibile, ut ex praecedenti dubitatione patet; ergo universalia non sunt a singularibus separata.
+
+72
+
+

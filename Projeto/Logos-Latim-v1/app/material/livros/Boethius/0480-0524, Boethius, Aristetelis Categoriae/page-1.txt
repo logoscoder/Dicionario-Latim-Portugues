@@ -1,0 +1,60 @@
+ARISTOTELES: CATEGORIAE
+
+[01]
+Aequiuoca dicuntur quorum nomen solum commune est, secundum nomen uero substantiae ratio diuersa, ut
+animal homo et quod pingitur. Horum enim solum nomen commune est, secundum nomen uero substantiae ratio
+diuersa; si enim quis assignet quid est utrique eorum quo sint animalia, propriam assignabit utriusque rationem.
+Uniuoca uero dicuntur quorum et nomen commune est et secundum nomen eadem substantiae ratio, ut animal
+homo atque bos. Communi enim nomine utrique animalia nuncupantur, et est ratio substantiae eadem; si quis enim
+assignet utriusque rationem, quid utrique sit quo sint animalia, eandem assignabit rationem.
+Denominatiua uero dicuntur quaecumque ab aliquo, solo differentia casu, secundum nomen habent
+appellationem, ut a grammatica grammaticus et a fortitudine fortis.
+[02]
+Eorum quae dicuntur alia quidem secundum complexionem dicuntur, alia uero sine complexione. Et ea quae
+secundum complexionem dicuntur sunt ut homo currit, homo uincit; ea uero quae sine complexione, ut homo, bos,
+currit, uincit.
+Eorum quae sunt alia de subiecto quodam dicuntur, in subiecto uero nullo sunt, ut homo de subiecto quidem
+dicitur aliquo homine, in subiecto uero nullo est; alia autem in subiecto quidem sunt, de subiecto uero nullo dicuntur (in
+subiecto autem esse dico quod, cum in aliquo sit non sicut quaedam pars, impossibile est esse sine eo in quo est), ut
+quaedam grammatica in subiecto quidem est in anima, de subiecto uero nullo dicitur, et quoddam album in subiecto est
+in corpore (omnis enim color in corpore est); alia uero et de subiecto dicuntur et in subiecto sunt, ut scientia in subiecto
+quidem est in anima, de subiecto uero dicitur de grammatica; alia uero neque in subiecto sunt neque de subiecto
+dicuntur, ut aliquis homo uel aliquis equus; nihil enim horum neque in subiecto est neque de subiecto dicitur.
+Simpliciter autem quae sunt indiuidua et numero singularia nullo de subiecto dicuntur, in subiecto autem nihil ea
+prohibet esse; quaedam enim grammatica in subiecto est.
+[03]
+Quando alterum de altero praedicatur ut de subiecto, quaecumque de eo quod praedicatur dicuntur, omnia
+etiam de subiecto dicentur, ut homo de quodam homine praedicatur, animal uero de homine, ergo et de quodam homine
+animal praedicabitur; quidam enim homo et homo est et animal.
+Diuersorum generum et non subalternatim positorum diuersae secundum speciem et differentiae sunt, ut
+animalis et scientiae; animalis quidem differentiae sunt ut gressibile et uolatile et bipes, scientiae uero nulla harum est;
+neque enim scientia ab scientia differt in eo quod bipes est. Subalternorum uero generum nihil prohibet easdem esse
+differentias; superiora enim de subterioribus generibus praedicantur, quare quaecumque praedicati differentiae fuerint,
+eaedem erunt etiam subiecti.
+[04]
+Eorum quae secundum nullam complexionem dicuntur singulum aut substantiam significat aut quantitatem aut
+qualitatem aut ad aliquid aut ubi aut quando aut situm aut habitum aut facere aut pati. Est autem substantia quidem ut
+figuratim dicatur ut homo, equus; quantitas ut bicubitum, tricubitum; qualitas ut album; ad aliquid ut duplum, maius;
+ubi uero ut in Lycio; quando autem ut heri; situs uero ut sedet, iacet; habere autem ut calciatus, armatus; facere uero ut
+secare, urere; pati uero ut secari, uri. Singula igitur eorum quae dicta sunt ipsa quidem secundum se in nulla
+affirmatione dicuntur, horum autem ad se inuicem complexione affirmatio fit. Videtur enim omnis affirmatio uel falsa
+esse uel uera; eorum autem quae secundum nullam complexionem dicuntur neque uerum quicquam neque falsum est,
+ut homo, album, currit.
+
+[05] DE SUBSTANTIA
+Substantia autem est, quae proprie et principaliter et maxime dicitur, quae neque de subiecto praedicatur neque
+in subiecto est, ut aliqui homo uel aliqui equus. Secundae autem substantiae dicuntur, in quibus speciebus illae quae
+principaliter substantiae dicuntur insunt, hae et harum specierum genera; ut aliquis homo in specie quidem est in
+homine, genus uero speciei animal est; secundae ergo substantiae dicuntur, ut est homo atque animal. Manifestum est
+autem ex his quae dicta sunt quoniam eorum quae de subiecto dicuntur necesse est et nomen et rationem de subiecto
+praedicari, ut homo de subiecto dicitur aliquo homine, et praedicatur nomen; namque hominem de aliquo homine
+praedicabis. Ratio quoque hominis de aliquo homine praedicabitur; quidam enim homo et homo est. Quare et nomen et
+ratio praedicabitur de subiecto. Eorum uero quae sunt in subiecto, in pluribus quidem neque nomen de subiecto neque
+ratio praedicatur, in quibusdam uero nomen quidem nihil prohibet praedicari, rationem uero impossibile est; ut album,
+cum in subiecto sit corpore, praedicatur de subiecto (dicitur enim corpus album), ratio uero albi numquam de corpore
+praedicabitur. Caetera uero omnia aut de subiectis dicuntur primis substantiis aut in eisdem subiectis sunt. Hoc autem
+manifestum est ex his quae singulatim proferuntur; ut animal de homine praedicatur, quare et de aliquo homine
+praedicabitur; nam si de nullo aliquorum hominum diceretur, nec de ipso homine praedicaretur omnino. Rursus color in
+corpore est; ergo et in aliquo corpore; nam si in nullo esset corporum singulorum, nec in corpore esset omnino.
+
+

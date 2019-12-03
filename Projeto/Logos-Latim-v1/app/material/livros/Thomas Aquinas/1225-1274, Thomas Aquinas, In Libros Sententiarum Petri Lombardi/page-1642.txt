@@ -1,0 +1,58 @@
+AG2
+Praeterea, ille qui accepit, non tenetur nisi ad restitutionem. Sed aliquando ad eum cui debet fieri restitutio, non
+posset pervenire sine magno damno; forte etiam cum majori quam sit pretium rei restituendae. Ergo videtur quod
+in tali casu non teneatur ei restituere.
+AG3
+Praeterea, aliquis in depraedatione civitatum injuste accipit aliqua. Sed non potest ei cujus fuit, restituere: quia
+vel nescit eum, vel mortuus est.
+Ergo videtur quod non teneatur restituere.
+AG4
+Praeterea, aliquis praelatus ecclesiae injuste aliquas res ecclesiae concedit alicui. Sed iste non tenetur reddere
+ecclesiae, ut videtur, quia venirent ad manus illius praelati, qui non est dignus ea recipere.
+Ergo videtur quod non semper ei qui damnum passus est, sit restitutio facienda.
+SC1
+Sed contra est, quia per restitutionem integratur aequalitas justitiae. Sed aequalitas justitiae est ut quod aufertur a
+lucro, apponatur ad damnum, ut dicitur in 5 ethic.. Ergo videtur quod restitutio sit semper facienda ei qui
+damnum passus est.
+CO
+Ad quartam quaestionem dicendum, quod restituere est iterato statuere aliquem in suae rei possessione; et ideo
+patet quod illi qui privatus est re sua, debet fieri restitutio.
+RA1
+Ad primum ergo dicendum, quod quando incertus est Dominus rerum ablatarum, pauperes sunt heredes; et ideo
+non deobligatur a debito restitutionis, nisi det pauperibus pro anima illius cui restitutio debebatur, adhibita tamen
+prius diligentia debita.
+RA2
+Ad secundum dicendum, quod si sit res magni valoris, debet sibi transmittere, si potest commode; nec obstat si
+damnum de remissione patitur, quia ipse sibi causa fuit injuste auferendo. Si autem transmittere non possit, vel
+res sit non magni valoris, potest eam dare propinquis illius si habet, vel alicui coenobio, si non habet propinquos,
+cum protestatione tali quod ei reddere teneantur, si requisiverit, vel unquam comparuerit.
+RA3
+Ad tertium dicendum, quod ille qui illo modo accipit, debet pauperibus illius villae restituere, vel in alios usus
+communitatis illius civitatis expendere secundum arbitrium episcopi, vel illorum ad quos pertinet cura illius
+civitatis.
+RA4
+Ad quartum dicendum, quod debet fieri restitutio ecclesiae, ut res illae deveniant ad successorem illius praelati;
+quia quamvis ipse eas recipere non mereatur, ecclesia tamen perdere eas non debet.
+
+|+d15.q2 Distinctio 15, Quaestio 2
+|a0 Prologus
+Deinde quaeritur de eleemosyna; et circa hoc quaeruntur sex: 1 quid sit; 2 de effectu sive fructu ejus; 3 de
+partibus ejus; 4 de quo sit danda eleemosyna; 5 quis possit eam dare; 6 cui debeat dari.
+|a1 Articulus 1: Utrum definitio eleemosynae sit convenienter assignata.
+Articulus 1A
+AG1
+Ad primum sic proceditur. Videtur quod definitio eleemosynae, quam quidam assignant, scilicet: eleemosyna est
+opus in quo datur aliquid indigenti ex compassione propter Deum, sit inconvenienter assignata. Visitare enim
+infirmos species eleemosynae est. Sed in hoc opere non datur aliquid. Ergo datio non debet poni in definitione
+eleemosynae.
+AG2
+Praeterea, ipsum datum eleemosyna dicitur, quia dicimur eleemosynam dare. Sed ipsum datum non est opus, sed
+res quaedam. Ergo eleemosyna non est opus.
+AG3
+Praeterea, in eleemosynis aliquid quandoque datur clericis praebendatis, qui tamen non indigent, sed divites sunt.
+Ergo non est de ratione eleemosynae quod indigenti detur.
+AG4
+
+1642
+
+

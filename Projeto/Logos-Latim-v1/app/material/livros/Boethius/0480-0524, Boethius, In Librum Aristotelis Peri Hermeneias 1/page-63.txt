@@ -1,0 +1,52 @@
+AT VERO NEQUE NECESSARIUM ESSE SEQUITUR POSSIBILE ESSE NEQUE NECESSARIUM NON
+ESSE. ILLI ENIM UTRAQUE CONTINGIT ACCIDERE, HORUM AUTEM UTRUMLIBET VERUM
+FUERIT, NON ERUNT ILLA VERA.
+Docet id quod est possibile non consentire ei quod est necessarium esse nec rursus ei quae est necessarium est
+non esse. Nam quod necesse est esse /194/ non potest non esse, quod autem necesse est non esse non potest esse.
+Quod autem dicimus possibile esse, ita dicimus, tamquam si et non esse possibile sit. Utramque igitur habet
+naturam id quod dicimus possibile esse, ut et sit esse possibile et sit possibile non esse. Qui uero dicit necesse
+esse aufert non esse et qui dicit necesse est non esse aufert esse. Ita si hae uerae sunt id est necesse esse aut
+rursus necesse non esse, utraeque illae falsae sunt quae dicunt et potest esse et potest non esse. Illa enim quae
+proponit necesse est esse posse non esse subruit, illa iterum quae dicit necesse est non esse posse esse subuertit.
+Neutra igitur consequitur eam propositionem quae dicit possibile est esse: nec ea quae dicit ex necessitate esse
+nec illa quae dicit ex necessitate non es se.
+Et sensus quidem huiusmodi est, sermonum autem ratio talis est: AT VERO, inquit, NEQUE ID QUOD EST
+NECESSARIUM ESSE SEQUITUR propositionem illam quae proponit POSSIBILE ESSE NEC rursus illa quae
+dicit NECESSARIUM est NON ESSE. ILLI ENIM, id est possibili, UTRAQUE CONTINGIT ACCIDERE, id
+est et posse esse et posse non esse (nam quod potest esse idem potest non esse), HORUM AUTEM, id est uel
+quae dicit necessarium est esse uel quae dicit necessarium est non esse, UTRUMLIBET VERUM FUERIT,
+NON ERUNT ILLA VERA, id est posse esse et posse non esse: quod enim possibile est esse idem possibile est
+non esse. Quod si neque necesse esse nec necesse non esse propropositio /195/ eam quae est possibile esse
+consequitur, relinquitur ut illa ei consentiat quae dicit non necessarium est non esse. Haec enim sequitur eam
+quae proponit possibile est esse. Quidquid enim possibile est esse, non necesse est non esse: ut quoniam
+hominem possibile est ambulare, non est necesse non ambulare. HOC ENIM VERUM EST, inquit, ET DE EO
+quod est NECESSE EST NON ESSE, id est haec enim propositio quae dicit non necesse est non esse uerum est
+ut contra eam opponatur contradictorie, quae dicit necesse est non esse. Unde etiam secutus est: HAEC ENIM
+FIT CONTRADICTIO EIUS QUAE SEQUITUR NON POSSIBILE ESSE. Unde huiusmodi facienda descriptio
+est:
+
+AFFIRMATIO contradictio NEGATIO
+Impossibile est esse Non impossibile est esse
+
+NEGATIO contradictio AFFIRMATIO
+Non possibile est esse Possibile est esse
+
+AFFIRMATIO contradictio NEGATIO
+Necesse est non esse Non necesse est non esse
+
+Non necesse est non esse contradictio est eius quae proponit necesse est non esse, quae est sequens et
+consentiens ei qune est non possibile est esse, quae consentit ei quae dicit impossibile est esse, quam rursus
+sequitur ea quae est ultima, id /196/ est necesse est non esse, cuius contradictio est non necesse est non esse;
+affirmatio enim est necesse est non esse, negatio non necesse est non esse. Quocirca secundum contradictionem
+fit haec quoque consequentia. Nam impossibile esse et non impossibile esse contradictio ergo est sed
+affirmationem id est impossibile esse sequitur negatio non possibile esse, negationem uero id est non impossibile
+esse sequitur affirmatio possibile est esse. Sed non possibile est esse et possibile est esse contradictio est. Sed
+negationem possibilis id est non possibile esse consequitur necesse est non esse affirmatio, affirmationem
+possibilis id est possibile esse sequitur non neeesse est non esse negatio. Quare ita positis nihil euenit impossibile
+sed omnia consentinut et secundum superiorem possibilis et impossibilis modum affirmationes et negationes
+conuerso ordine contradictorie sequuntur.
+Et sensus quidem totus huiusmodi est, ordo autem uerborum sic: quoniam, inquit, ei quod est possibile esse nec
+illud quod est necesse esse nec illud quod est necesse non esse consentit, relinquitur ut id quod est non
+63
+
+

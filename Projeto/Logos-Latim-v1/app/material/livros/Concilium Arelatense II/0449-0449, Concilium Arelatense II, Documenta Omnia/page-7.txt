@@ -1,0 +1,30 @@
+96 admonius V630; W411; V1341
+97 africa W411; V1341
+98 civitatis Cartaginis fehlt V630; W411; V1341
+99 cicilianus V630; W411; V1341
+100 et fehlt V630; W411; V1341
+101 ampadius W411
+102 utica V630; utiea W411; utica korr. aus utiea V1341
+103 turbustuna V630; turbustana W411; V1341
+104 civitate fehlt V630; V1341; provintia W411
+105 numedia W411; Nomidia V1341
+106 portu korr. aus porto V630; porto W411; V1341
+107 urbis korr. aus urbis urbis V1341
+108 epitatus V630; W411; V1341
+109 astensi W411
+110 macarius korr. aus marcarius V630
+111 presbyteres W411
+112 HAC W411
+113 ad fehlt W411; ac V1341
+114 promissa V1341
+115 IIII O93
+116 de clericis] clericus W411
+117 nepotem korr. aus neptem W411
+118 Par V630
+119 precellat W411
+120 IIII fehlt O93
+121 pullam korr. aus puellam W411
+122 Nullus fehlt W411
+123 metropolitani permissus nec] metropolitano vel W411
+
+

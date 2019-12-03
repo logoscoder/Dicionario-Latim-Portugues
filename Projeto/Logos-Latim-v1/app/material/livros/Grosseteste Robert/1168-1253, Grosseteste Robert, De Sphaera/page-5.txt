@@ -1,0 +1,64 @@
+oppositorum 30 gradus coniunctae ascensiones, id est duae horae aequinoctiales. Hora enim aequinoctialis est
+ascensio quindecim graduum de circulo aequinoctiali.
+p. 21: His vero, quorum zenith est sub circulo descripto a polo zodiaci, oriuntur sex signa, quae sunt a capite
+cancri usque ad caput capricorni subito. Cum enim polus zodiaci est zenith capitis eorum horizon et zodiacus
+simul sunt et statim post intersecant se per aequalia.
+
+<Caput 4>
+p. 22: Postquam de ortu et occasu diximus signorum, quorum directio et obliquitas est una causa inaequalitatis
+dierum naturalium ad invicem, restat subiungere de alia causa inaequalitatis, quae provenit ex eo, quod sol est
+excentricus, ut duabus causis inaequalitatis coniunctis tota pateat inaequalitatis ratio dierum naturalium
+adinvicem.
+p. 22: Imaginemur igitur lineam rectam ductam ab 18º gradu geminorum per centrum terrae usque in gradum
+sagittarii oppositum. Et a centro terrae computentur in eadem linea duo gradus et dimidius de diametro circuli
+solis versus geminos, et ubi finitur talis computatio, ponatur centrum et describatur circulus super centrum illud
+secundum eandem quantitatem, quae est semidiameter circuli solis in superficie cinguli signorum. Erit igitur ille
+circulus recte dispositus sub ecliptica nusquam ab ea declinans; et is est circulus solis, in cuius circumferentia
+fertur centrum corporis solaris. Et movetur corpus solis in hoc circulo motu proprio ab occidente in orientem
+motu uniformi et aequali ita, quod centrum corporis solis eius semper est in circumferentia huius circuli. Punctus
+autem, per quem transit praedicta linea a geminis directa in sagittarium, ex parte geminorum est maxime
+accedens ad firmamentum et maxime remotus a terra inter omnes punctos eiusdem circumferentiae. Punctus vero
+oppositus ex parte sagittarii est maxime recedens a firmamento et maxime accedens ad terram. Et punctus
+maxime elevatus a terra vocatur aux vel longitudo longior. Et punctus oppositus vocatur oppositio augis vel
+longitudo propior. -- Et circulus solis vocatur excentricus solis eo, quod centrum eius egressum est a centro
+terrae. Et eadem ratione vocatur "circulus egressae cuspidis" eo, quod cuspis eius, i. e. centrum eius, egressum
+est a centro terrae. -- Sol ergo cum uniformiter moveatur sub hoc circulo, uniformiter movetur in caelo.
+pp. 22 - 23: Motus ergo solis uniformis in caelo est una causa inaequalitatis dierum naturalium. Cum enim dies
+naturalis sit una revolutio firmamenti et insuper ascensio eius quam describet sol in caelo interim motu suo
+proprio et durante una revolutione plus aut minus describit sol quam sequenti revolutione, manifestum est, quod
+quantum est de ista causa, erunt dies naturales inaequales. -- Praeterea cum partes zodiaci obliquius orientes
+minores habeant ascensiones, quam aequales partes rectius orientes, etiam si sol uniformiter moveretur in caelo,
+contingeret inaequalitas dierum naturalium ex hac parte, quia id, quod describit sol in una revolutione, minorem
+vel maiorem haberet ascensionem, quam quod describit sol in sequenti revolutione. -- Si igitur motus solis
+procedat augmentando in firmamento et partes sequentes rectius oriuntur in zodiaco, erit duplex causa coniuncta
+maioritatis dierum naturalium. Et dicuntur huiusmodi dies maiores. -- Quando vero procedit motus solis
+diminuendo in firmamento et partes sequentes obliquius oriuntur, coniuncta est duplex causa minoritatis dierum
+naturalium. Dicuntur huiusmodi dies minores. -- Quando vero tantum addit una causa, quantum reliqua diminuit,
+dicuntur dies mediocres.
+pp. 23 - 24: Ex eo autem, quod sol est praedicto modo excentricus, accidit, quod regio ultra aequinoctialem
+circulum non potest inhabitari. -- Sole autem existente in oppositione augis per quinque gradus est terrae
+propinquior, quam quando est in auge. Cum igitur sole existente in signis australibus, multum appropinquat sol
+terrae et sic recte supra loca australia, duplicatur causa caliditatis in eorum aestate. -- Cum vero est in signis
+septentrionalibus, recedit sol a zenith locorum australium et elongatur a terra. Unde duplex causa frigiditatis est
+in eorum habitatione.
+p. 24: Cum vero accedit sol ad zenith capitum nostrorum, elongatur a terra, et cum recedit a nostro zenith,
+appropinquat terrae, et ideo est regio septentrionalis temperata.
+p. 24: Regio igitur septentrionalis dividitur in septem climata. Et dicitur clima tantum spatium terrae, per quod
+sensibiliter variatur horologium. Idem namque dies aestivus aliquantus est in una regione et sensibiliter est minor
+in regione propinquiore austro. Spatium igitur tantum, per quantum incipit sic idem dies sensibiliter variari,
+dicitur clima. Nec est idem horologium in principio et fine huius spatii observatum.
+pp. 24 - 25: Distinctiones igitur horum climatum sic possunt imaginari: Intelligatur circulus magnus cingens
+corpus terrae sub utroque polo, et alius circulus magnus cingens corpus terrae sub aequinoctiali circulo,
+secundum situm horum duorum circulorum cingunt duo maria totam terram; et illud, quod cingit terram sub
+polis, amphitrites vocatur, reliquum vero vocatur occeanus. Haec duo maria dividunt terram in quattuor partes,
+quarum una sola inhabitatur. -- Angulus vero sectionis duorum marium ex parte orientis quartae inhabitatae
+dicitur simpliciter oriens; et angulus oppositus dicitur occidens. Si vero fiat dimensio ab occeano versus
+septentrionem secundum spatium praescriptum, et per finem illius dimensionis ducatur linea in superficie terrae
+aequidistans occeano utrimque terminata in amphitrite, spatium quidem contentum terrae inter lineam sic
+descriptam et occeanum est unum clima. Hoc etiam modo sumpta dimensione a fine primi climatis versus
+septentrionem per spatium praescriptum et a fine illius dimensionis ducatur linea utrimque in amphitrite
+terminata aequidistanter lineae terminanti primum clima spatium contentum inter has duas lineas erit secundum
+clima. Et ad eius similitudinem significantur sequentia climata.
+5
+
+

@@ -1,0 +1,62 @@
+Ad tertium dicendum, quod illud quod est in memoria, redit ad intelligentiam, non ita quod eadem species
+numero quae est in memoria postmodum fiat in intellectu; sed per illum modum loquendi quo phantasmata
+dicuntur fieri in intellectu, ut dictum est.
+|q3 Quaestio 3
+Prologus
+PR
+Deinde quaeritur de his quae pertinent ad corpus humanum.
+TTA
+Utrum alimentum convertatur in veritatem humanae naturae.
+TTB
+Et videtur quod non.
+AG1
+Quia in corpore humano id quod est de veritate humanae naturae, est caro vel os secundum speciem. Sed
+alimentum non convertitur in id quod est secundum speciem, sed in id quod est secundum materiam, ut videtur
+dicere Philosophus in I de generatione.
+Ergo alimentum non convertitur in veritatem humanae naturae.
+AG2
+Praeterea, id quod est de veritate humanae naturae, oportet quod semper in homine maneat; alias non remaneret
+homo idem numero.
+Sed illud quod generatur ex alimento, non semper manet, immo fluit et refluit, ut patet ex I de generatione. Ergo
+quod generatur ex alimento, non est de veritate humanae naturae.
+AG3
+Praeterea, Augustinus dicit, quod nos fuimus in Adam dupliciter: scilicet secundum seminalem rationem, et
+secundum corpulentam substantiam; Christus autem fuit in eo secundum corpulentam substantiam, et non
+secundum seminalem rationem. Id autem quod ex alimento generatur in nobis, non fuit in Adam. Ergo illud quod
+est de veritate corpulentae substantiae nostrae, non est ex alimento generatum.
+AG4
+Sed dicebat quod corpulenta nostra substantia fuit in Adam originaliter, et non essentialiter.
+Sed contra, semen originem rei importat. Si ergo dicimur in Adam fuisse secundum corpulentam substantiam
+originaliter tantum, tunc idem erit esse secundum corpulentam substantiam et secundum seminalem rationem;
+quod est falsum. Ergo idem quod prius.
+SC1
+Sed contra. Est quod dicitur in IV de anima: alimentum est potentia tale quale est illud quod nutritur. Sed quod
+est potentia aliquale, in illud converti potest. Ergo alimentum converti potest in illud quod nutritur. Sed illud
+quod nutritur, est id quod est de veritate humanae naturae.
+Ergo alimentum convertitur in id quod est de veritate humanae naturae.
+SC2
+Praeterea, semen, ex quo fit generatio, maxime videtur ad veritatem humanae naturae pertinere. Sed semen,
+secundum Philosophum in XV de animalibus, est de superfluo alimenti. Ergo alimentum convertitur in veritatem
+humanae naturae.
+CO
+Respondeo. Dicendum, quod ad huius quaestionis evidentiam oportet primo videre quid sit veritas humanae
+naturae.
+Veritas autem uniuscuiusque rei, ut dicit Avicenna in sua metaphys., nihil est aliud quam proprietas sui esse
+quod stabilitum est ei; sicut illud quod proprie habet esse auri attingens ad terminos stabilitos naturae auri,
+dicitur esse vere aurum.
+Unumquodque autem proprie habet esse in aliqua natura per hoc quod substat completae formae propriae illius
+naturae, a qua est esse et ratio speciei in natura illa.
+Unde illud pertinet ad veritatem uniuscuiusque rei quod est completivum illius rei per formam, et pertinet directe
+et per se ad completionem illius rei. Tam enim in naturalibus quam in artificialibus inveniuntur quaedam in
+quibus consistit principaliter ratio rei, alia autem quae sunt ordinata ad horum conservationem et meliorationem:
+sicut stipes et fructus per se pertinent ad complementum arboris, unde sunt de veritate naturae ipsius; folia autem
+sunt quodammodo ordinata ad fructuum conservationem, et quantum ad hoc non videntur esse de veritate
+naturae arboris principaliter. Similiter ratio gladii consistit in ferro, et acumine eius; vagina autem est ad gladii
+conservationem; unde si gladius esset res naturalis, ferrum esset de veritate naturae eius, non autem vagina.
+Sic autem de veritate humanae naturae esse dicimus illud quod per se pertinet ad perfectionem humanae naturae,
+complete participans formam speciei: illud autem non est de veritate humanae naturae in homine quod est
+ordinatum quodammodo ad hominis conservationem vel meliorationem quamcumque.
+
+164
+
+

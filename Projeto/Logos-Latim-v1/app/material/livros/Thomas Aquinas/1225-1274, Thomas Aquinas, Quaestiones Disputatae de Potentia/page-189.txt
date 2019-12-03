@@ -1,0 +1,63 @@
+SC1
+Sed contra. Omne quod est in genere, addit aliquid supra genus, et per consequens est compositum. Sed Deus est
+omnino simplex.
+Ergo non est in genere.
+SC2
+Praeterea, omne quod est in genere, potest definiri, vel sub aliquo definito comprehendi.
+Sed Deus cum sit infinitus, non est huiusmodi.
+CO
+Respondeo. Dicendum quod Deus non est in genere: quod quidem ad praesens tribus rationibus ostendi potest:
+primo quidem, quia nihil ponitur in genere secundum esse suum, sed ratione quidditatis suae; quod ex hoc patet,
+quia esse uniuscuiusque est ei proprium, et distinctum ab esse cuiuslibet alterius rei; sed ratio substantiae potest
+esse communis: propter hoc etiam Philosophus dicit, quod ens non est genus.
+Deus autem est ipsum suum esse: unde non potest esse in genere.
+Secunda ratio est, quia quamvis materia non sit genus, nec forma sit differentia, tamen ratio generis sumitur ex
+materia, et ratio differentiae sumitur ex forma: sicut patet quod in homine natura sensibilis ex qua sumitur ratio
+animalis, est materialis respectu rationis, ex qua sumitur differentia rationalis. Nam animal est quod habet
+naturam sensitivam; rationale autem quod rationem habet. Unde in omni eo quod est in genere, oportet esse
+compositionem materiae et formae, vel actus et potentiae; quod quidem in Deo esse non potest, qui est actus
+purus, ut ostensum est.
+Unde relinquitur quod non potest esse in genere.
+Tertia ratio est, quia, cum Deus sit simpliciter perfectus, comprehendit in se perfectionem omnium generum:
+haec enim est ratio simpliciter perfecti, ut dicitur V metaph..
+Quod autem est in aliquo genere, determinatur ad ea quae sunt illius generis; et ita Deus non potest esse in aliquo
+genere: sic enim non esset infinitae essentiae, nec absolutae perfectionis, sed eius essentia et perfectio limitaretur
+sub ratione alicuius generis determinati.
+Ex hoc ulterius patet quod Deus non est species, nec individuum, nec habet differentiam, nec definitionem: nam
+omnis definitio est ex genere et specie; unde nec de ipso demonstratio fieri potest nisi per effectum, cum
+demonstrationis propter quid medium sit definitio.
+RA1
+Ad primum ergo dicendum, quod Damascenus loquitur similitudinarie, et non secundum proprietatem: habet
+enim nomen Dei, quod est Deus, similitudinem ad speciem in hoc quod de pluribus numero distinctis
+substantialiter praedicatur; non tamen species proprie dici potest, quia species non est aliquid unum numero
+pluribus commune, sed ratione solum; substantia vero divina una numero, est communis tribus personis: unde
+pater et filius et spiritus sanctus sunt unus Deus, non autem Petrus et Paulus et marcus sunt unus homo.
+RA2
+Ad secundum dicendum, quod differens et diversum differunt, ut Philosophus dicit.
+Nam diversum absolute dicitur quod non est idem; differens vero dicitur ad aliquid: nam omne differens aliquo
+differt. Si ergo proprie accipiamus hoc nomen differens, sic propositio ista est falsa: quaecumque sunt et nullo
+modo differunt, sunt eadem. Si autem hoc nomen differens large sumatur, sic est vera; et sic ista est concedenda,
+quod Deus a rebus aliis differat. Non tamen sequitur quod aliqua differentia differat, sed quod differat ab aliis
+per suam substantiam: hoc enim necesse est in primis et simplicibus dici. Homo enim differt ab asino, rationali
+differentia; rationale autem ulterius non differt ab asino aliqua differentia (quia sic esset abire in infinitum), sed
+se ipso.
+RA3
+Ad tertium dicendum, quod Deus dicitur diversus genere ab aliis creaturis, non quasi in alio genere existens, sed
+omnino existens extra genus.
+RA4
+Ad quartum dicendum, quod ens per se non est definitio substantiae, ut Avicenna dicit.
+Ens enim non potest esse alicuius genus, ut probat Philosophus, cum nihil possit addi ad ens quod non participet
+ipsum; differentia vero non debet participare genus. Sed si substantia possit habere definitionem, non obstante
+quod est genus generalissimum, erit eius definitio: quod substantia est res cuius quidditati debetur esse non in
+aliquo. Et sic non conveniet definitio substantiae Deo, qui non habet quidditatem suam praeter suum esse. Unde
+Deus non est in genere substantiae, sed est supra omnem substantiam.
+RA5
+Ad quintum dicendum, quod Deus definiri non potest. Omne enim quod definitur, in intellectu definientis
+comprehenditur; Deus autem est incomprehensibilis ab intellectu; unde cum dicitur quod Deus est actus purus,
+haec non est definitio eius.
+RA6
+Ad sextum dicendum, quod ad rationem generis requiritur quod univoce praedicetur.
+
+189
+
+

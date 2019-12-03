@@ -1,0 +1,61 @@
+[82341] In Metaphysic., lib. 5 l. 2 n. 14
+Tertium ponit ibi, amplius autem dicit, quod idem contrariorum contingit esse causam. Quod etiam difficile videbatur
+vel impossibile, si similiter ad utrumque referatur; sed dissimiliter est causa utriusque. Illud enim, quod per sui
+praesentiam est causa huius, quando est absens causamur idest accusamus ipsum de contrario, idest dicimus ipsum esse
+causam contrarii. Sicut patet, quod gubernator per sui praesentiam est causa salutis navis, dicimus eius absentiam esse
+causam perditionis. Ne autem putetur quod hoc sit referendum ad diversa genera causarum sicut et priora duo, ideo
+subiungit quod utrumque istorum reducitur ad idem genus causae, scilicet ad causam moventem. Eodem enim modo
+oppositum est causa oppositi, quo haec est causa huius.
+Lectio 3
+[82342] In Metaphysic., lib. 5 l. 3 n. 1
+Hic philosophus reducit omnes causas in quatuor modos causarum praedictos; dicens, quod omnia quae dicuntur
+causae, incidunt in praedictos quatuor modos. Dicuntur enim elementa, idest literae, causae syllabarum, et materia
+artificialium dicitur esse causa factorum per artem, et ignis et terra et huiusmodi omnia simplicia corpora, dicuntur esse
+causae corporum mixtorum. Et partes dicuntur esse causa totius. Et suppositiones, idest propositiones praemissae, ex
+quibus propositis syllogizatur, dicuntur esse causa conclusionis. Et in omnibus istis est una ratio causae, secundum
+quod dicitur causa illud ex quo fit aliquid, quod est ratio causae materialis.
+[82343] In Metaphysic., lib. 5 l. 3 n. 2
+Sciendum est autem, quod propositiones dicuntur esse materia conclusionis, non quidem secundum quod sub tali forma
+existunt, vel secundum virtutem earum; (sic enim magis se habent in ratione causae efficientis); sed quantum ad
+terminos, ex quibus componuntur. Nam ex terminis praemissarum componitur conclusio, scilicet ex maiori et ex minori
+extremitate.
+[82344] In Metaphysic., lib. 5 l. 3 n. 3
+Inter ea autem ex quibus res integratur, aliquid se habet per modum subiecti, sicut partes et alia quae praedicta sunt; alia
+vero se habent ut quod quid erat esse, scilicet totum, et compositio, et species, quae pertinent ad rationem formae,
+secundum quam quidditas rei completur. Sciendum est enim, quod quandoque una res simpliciter est alicuius materia,
+sicut argentum phialae; et tunc forma correspondens tali materiae potest dici species. Quandoque autem plures
+adinvicem adunatae sunt materia alicuius rei. Quod quidem contingit tripliciter. Quandoque enim adunantur secundum
+ordinem tantum, sicut homines in exercitu, vel domus in civitate; et sic pro forma respondet totum, quod designatur
+nomine exercitus vel civitatis. Quandoque autem non solum adunantur ordine, sed contactu et colligatione, sicut
+apparet in partibus domus; et tunc respondet pro forma compositio. Quandoque autem super hoc additur alteratio
+componentium, quod contingit in mixtione; et tunc forma est ipsa mixtio, quae tamen est quaedam compositionis
+species. Ex quolibet autem trium horum sumitur quod quid est rei, scilicet ex compositione et specie et toto: sicut patet
+si definiretur exercitus, domus et phiala. Sic ergo habemus duos modos causae.
+[82345] In Metaphysic., lib. 5 l. 3 n. 4
+Secundum autem aliam rationem dicitur causa sperma et medicus et consiliator, et universaliter omne faciens, ex eo
+scilicet quod sunt principia motus et quietis. Unde iam hoc est aliud genus causae, propter aliam rationem causandi.
+Ponit autem sperma in hoc genere causae, quia secundum eius sententiam sperma vim habet activam, menstruum autem
+mulieris cedit in materiam concepti.
+[82346] In Metaphysic., lib. 5 l. 3 n. 5
+Quarta vero ratio causandi est secundum quod aliqua dicuntur causae per modum finis et boni respectu aliorum. Illud
+enim cuius causa fit aliquid, est optimum inter alia et vult esse idest habet aptitudinem ut sit aliorum finis. Quia vero
+posset aliquis obiicere quod non semper bonum est finis, cum quandoque aliqui inordinate agentes malum finem sibi
+constituant, ideo respondet, quod nihil ad propositum differt dicere quod simpliciter sit bonum vel apparens bonum.
+Qui enim agit, agit per se loquendo propter bonum; hoc enim intendit; per accidens autem propter malum, inquantum
+accidit ei quod existimat bonum esse. Nullus enim agit propter aliquid intendens malum.
+[82347] In Metaphysic., lib. 5 l. 3 n. 6
+Sciendum autem est, quod licet finis sit ultimus in esse in quibusdam, in causalitate tamen est prior semper. Unde
+dicitur causa causarum, quia est causa causalitatis in omnibus causis. Est enim causa causalitatis efficientis, ut iam
+dictum est. Efficiens autem est causa causalitatis et materiae et formae. Nam facit per suum motum materiam esse
+susceptivam formae, et formam inesse materiae. Et per consequens etiam finis est causa causalitatis et materiae et
+formae; et ideo potissimae demonstrationes sumuntur a fine, in illis in quibus agitur aliquid propter finem, sicut in
+naturalibus, in moralibus et artificialibus. Concludit igitur, quod praedicta sunt causae, et quod causae secundum tot
+species distinguuntur.
+[82348] In Metaphysic., lib. 5 l. 3 n. 7
+Deinde cum dicit modi vero distinguit modos causarum. Est autem distinctio causae per species et per modos. Nam
+distinctio per species est penes diversas rationes causandi; et ideo est quasi divisio per differentias essentiales species
+constituentes. Divisio autem per modos est penes diversas habitudines causae ad causatum. Et ideo est in his quae
+habent eamdem rationem causandi, sicut per se et per accidens, remotum et propinquum. Unde est quasi per differentias
+accidentales non diversificantes speciem.
+
+

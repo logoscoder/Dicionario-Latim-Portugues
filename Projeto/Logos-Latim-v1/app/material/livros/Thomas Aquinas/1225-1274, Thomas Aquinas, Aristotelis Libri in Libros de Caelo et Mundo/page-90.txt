@@ -1,0 +1,58 @@
+Et hoc quidem rationabile est dicere, quia hoc posito nihil irrationabile sequitur. Primo enim non est irrationabile
+quod sit maior velocitas maioris circuli: inter circulos tamen collocatos circa idem centrum. Et si quidem
+centrum hic proprie accipiatur, oportet hoc referri ad diversos circulos planetarum, qui secundum intentionem
+Aristotelis, omnes sunt circa idem centrum, quod est terra: non enim astrologi sui temporis ponebant excentricos
+neque epicyclos. Non autem poterit hoc referri ad diversos circulos quos describunt stellae fixae in suo motu:
+non enim omnium illorum circulorum est idem centrum. Sed si ad stellas fixas referre velimus, oportet quod hic
+nomine centri polus significetur; eo quod sicut se habet centrum ad circulum in superficie plana, ita se habet
+aliqualiter polus ad circulum in superficie sphaerica. Cum autem in eadem sphaera designantur diversi circuli
+circa eosdem polos, tanto aliquis circulus est minor et tardioris motus, quanto est polo propinquior; sicut et inter
+circulos sub invicem positos, tanto aliquis circulus est minor et tardior, quanto est propinquior centro.
+Unde centrum et polus sunt indivisibilia et penitus immobilia.
+Ideo autem hoc dixit esse rationabile, quia etiam in aliis corporibus, quae moventur motu recto, quanto aliquod
+corpus est maius, tanto velocius movetur proprio motu naturali, sicut maior pars terrae velocius movetur
+deorsum (e contrario autem se habet in motu violento, in quo corpus quanto est maius, tanto tardius movetur)p
+unde et in corporibus quae moventur motu circulari, cum motus eorum sit naturalis, rationabile est quod quanto
+circulus fuerit maior, tanto velocius moveatur.
+Et quod motus maioris circuli sit velocior, patet ex hoc quod, si a centro ducantur duae lineae rectae per omnes
+circulos usque ad supremum, portio illa quae abscinditur ab his duabus lineis, erit maior in circulo maiori, et
+minor in minori.
+Et eadem ratio est si ducantur duae lineae circulares a polo per omnes circulos usque ad maximum eorum. Cum
+ergo una dictarum linearum circularium tota simul perveniat ad locum in quo erat alia, manifestum est quod in
+maiori circulo pertransibit maiorem portionem in eodem tempore: et hoc est velocius moveri, sicut dicitur in VI
+physic., scilicet pertransire maius spatium in aequali tempore. Sic ergo rationabile erit quod maior circulus
+pertransibit maius spatium in aequali tempore; et ita motus erit velocior.
+|#7 Secundo autem non accidet hoc inconveniens, quod caelum divellatur, idest scindatur; quod oportebit dicere
+si stellae moventur et orbes quiescunt; et praecipue quia ostensum est quod totum caelum est continuum, ita
+quod inferior sphaera tangit superiorem secundum totum.
+Si igitur orbes quiescerent et stellae moverentur, si quidem stellae essent profundatae in corporibus sphaerarum,
+sequeretur quod suo motu divellerent sive dirumperent ipsam sphaerarum substantiam.
+Si autem moverentur in superficie sphaerae superioris, oporteret quod vel inferior sphaera scinderetur a motu
+stellae, vel quod esset aliquod spatium medium inter duas sphaeras, secundum quantitatem stellae: et hoc
+spatium oporteret vel esse vacuum, vel esse plenum aliquo corpore passibili, quod dirumperetur ad modum aeris
+vel aquae, per motum corporis transeuntis; utrumque autem horum est impossibile. Sed haec omnia
+inconvenientia evitantur, si ponamus stellas non moveri per se, sed solum per motum orbium.
+Haec autem expositio quae dicta est, convenit tam quantum ad stellas fixas, quam etiam quantum ad planetas.
+Potest autem aliter exponi, secundum quod refertur solum ad stellas fixas. Quia enim probaverat quod motus
+maioris circuli est velocior, per quantitatem portionum intersectarum a duabus lineis procedentibus a centro vel a
+polo, probat hoc iterum alia ratione: quia nisi maior circulus in sphaera stellarum fixarum velocius moveretur,
+sequeretur quod sphaera stellarum non esset tota continua, sed divelleretur per partes; cum stella quae est in
+minori circulo, si haberet motum aeque velocem, oporteret quod in minori tempore suum circulum perageret; hoc
+enim est de ratione aeque velocis, quod in minori tempore minus spatium pertranseat.
+|+12 Lectio 12
+|#1 Praemissa prima ratione ad ostendendum quod astra moventur per motum circulorum, quae sumebatur ex
+comparatione stellarum ad circulos seu orbes, hic ponit rationem secundam, quae sumitur ex figura stellarum:
+quae talis est. Stellae sunt sphaericae figurae; unde si moverentur, oporteret eas moveri motu qui est proprius
+corpori sphaerico, qui est duplex, scilicet volutatio et circumgyratio; neutro autem horum motuum stellae
+moventur; ergo non moventur secundum seipsas, sed hoc quod apparet de motu earum, est quia moventur
+secundum motum circulorum.
+|#2 Primo ergo proponit stellas esse sphaericae figurae: quod quidem manifestat dupliciter. Uno modo quia
+omnes alii ita dicunt, scilicet stellas esse sphaericas; et ita hoc est tanquam probabile accipiendum. Alio modo
+secundum rationem quae sumitur ex praedeterminatis. Dictum est enim quod stellae sunt factae ex natura
+caelestium corporum: unde oportet confiteri quod habeant eandem figuram quam habet caelum. Ostensum est
+autem supra caelum esse sphaericae figurae: unde oportet stellas sphaericae figurae esse.
+|#3 Deinde ostendit differentiam motuum circularium, qui sunt proprii sphaerici corporis.
+
+90
+
+

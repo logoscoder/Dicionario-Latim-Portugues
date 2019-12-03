@@ -1,0 +1,59 @@
+'omne album est corpus; omne animal praeter coruum est album; igitur omne animal praeter coruum est
+corpus'; nec iste 'omne ridens est homo; Sortes incipit esse ridens; igitur Sortes incipit esse homo'; nec talis
+'omne sentiens est animal; asinus desinit esse sentiens; igitur asinus desinit esse animal'; et omnes alii liabentes
+colisimilem defectum non ualent.
+Alia regula est quod qnandocumque in minori propositione denotatur praedicatum dici de subiecto cum
+aliquo modo, nato determinare compositionem, non expresso in maiore, qui modus positus et non positus mutat
+propositionem quantum ad ueritatem uel falsitatem, talis discursus non regulatur per dici de omni uel de nullo.
+Tales autem modi sunt huinsmodi 'necessario', 'contingenter', 'uelociter', 'bene', 'male' et cetera aduerbia. Nam
+haec est uera 'homo est albus' et haec est falsa 'homo necessario est albus'. Similiter haec est uera 'homo est
+albus' et haec est falsa 'homo per se est albus'. Et ita est de multis aliis.
+Alia regula est quod qnandocumque in minori propositione denotatur praedicatum dici de subiecto cum
+aliquo modo, nato determinare compositionem, non expresso in maiore, qui modus positus et non positus mutat
+propositionem quantum ad ueritatem uel falsitatem, talis discursus non regulatur per dici de omni uel de nullo.
+Tales autem modi sunt huinsmodi 'necessario', 'contingenter', 'uelociter', 'bene', 'male' et cetera aduerbia. Nam
+haec est uera 'homo est albus' et haec est falsa 'homo necessario est albus'. Similiter haec est uera 'homo est
+albus' et haec est falsa 'homo per se est albus'. Et ita est de multis aliis.
+Et ratio istius regulae est, quia per propositionem uniuersalem maiorem non denotatur nisi quod de
+quocumque dicitur subiectum de eodem dicitur praedicatum uel remouetur, et non denotatur quod de quocumque
+dicitur subiectum cum aliquo aduerbio determinante com positionem quod de eodem dicitur praedicatum cum
+eodem aduerbio. Et ideo accipere in minore aliquod tale aduerbium non est regulare talem syllogismum per dici
+de omni uel de nullo. Et ideo tales syllogismi non ualent 'omnis homo est albus, Sortes necessario est homo;
+igitur Sortes necessario est albus'. Instantia dicta est prius. Nec tales syllogismi ualent 'omnis creans est Deus,
+quaelibet persona diuina contingenter est creans, igitur quaelibet persona diuina contingenter est Deus'; 'omne
+currens est homo; Sortes est uelociter currens; ergo Sortes est uelociter homo.
+Et ratio istius regulae est, quia per propositionem uniuersalem maiorem non denotatur nisi quod de
+quocumque dicitur subiectum de eodem dicitur praedicatum uel remouetur, et non denotatur quod de quocumque
+dicitur subiectum cum aliquo aduerbio determinante com positionem quod de eodem dicitur praedicatum cum
+eodem aduerbio. Et ideo accipere in minore aliquod tale aduerbium non est regulare talem syllogismum per dici
+de omni uel de nullo. Et ideo tales syllogismi non ualent 'omnis homo est albus, Sortes necessario est homo;
+igitur Sortes necessario est albus'. Instantia dicta est prius. Nec tales syllogismi ualent 'omnis creans est Deus,
+quaelibet persona diuina contingenter est creans, igitur quaelibet persona diuina contingenter est Deus'; 'omne
+currens est homo; Sortes est uelociter currens; ergo Sortes est uelociter homo.
+Et est diligenter aduertendum an in minore accipiatur aliquis terminus inclndens aequiualenter talem
+determinationem aduerbialem uel aequiualentem, quamuis non exprimatur. Quia si sic, non erit syllogismus
+regulatus per dici de omni uel de nullo.
+Et est diligenter aduertendum an in minore accipiatur aliquis terminus inclndens aequiualenter talem
+determinationem aduerbialem uel aequiualentem, quamuis non exprimatur. Quia si sic, non erit syllogismus
+regulatus per dici de omni uel de nullo.
+Alia regula est quod quando in propositione minori ponitur aliquis modus qui potest competere toti
+propositioni, si in maiore hoc denotetur, non semper talis discursus regulabitur per dici de omni uel de nullo. Sed
+quia hoc tangit syllogismos ex modalibus, ideo de hoc dimittatur ad praesens.
+Alia regula est quod quando in propositione minori ponitur aliquis modus qui potest competere toti
+propositioni, si in maiore hoc denotetur, non semper talis discursus regulabitur per dici de omni uel de nullo. Sed
+quia hoc tangit syllogismos ex modalibus, ideo de hoc dimittatur ad praesens.
+Alia regula est quod quando per maiorem non denotatur praedicatum uere affirmari uel uere negari de
+pronomine demonstrante quodcumque quod est realiter idem cum significato per subiectum, tunc accipiendo sub
+aliquid tale, non erit syllogismus regulatus per dici de omni uel de nullo. Et ideo talis discursus non regulatur per
+dici de omni 'omnis essentia diuina est communis tribus personis; Pater est essentia diuina; igitur Pater est
+communis tribus personis', et hoc quia per istam 'omnis essentia diuina est communis tribus personis' non
+denotatur quod quilibet, qui est essentia diuina realiter, sit communis tribus personis, sed praecise denotatur quod
+quidquid est essentia realiter et formaliter, est commune tribus personis. Et ideo accipiendo sub 'Pater est
+essentia', nisi acciperetur sic sub 'Pater est essentia realiter et formaliter' non arguitur per dici de omni. Secus
+autem est hic 'omnis homo currit album est homo; igitur album currit, nam per istam 'omnis homo currit
+denotatur quod quicumque est homo realiter quod ipse currit, et ideo accipiendo sub 'Sortes est homo'
+sequitur quod Sortes currit. Non sic autem per istam 'omnis essentia diuina est communis tribus
+personis', quia non denotatur quod quicumque est essentia diuina quod est communis tribus personis, hoc enim
+226
+
+

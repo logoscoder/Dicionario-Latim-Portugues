@@ -1,0 +1,61 @@
+[82177] In Metaphysic., lib. 4 l. 7 n. 2
+Deinde cum dicit primum quidem procedit ex dicta suppositione ad propositum ostendendum. Et primo singulariter in
+uno. Secundo generaliter in omnibus, ibi, amplius si homo et cetera. Dicit ergo primo, quod si nomen aliquid significat,
+primo hoc erit manifestum quod haec propositio erit vera, et eius contradictoria quam negat est falsa. Et sic ad minus
+hoc habemus, quia non omnis affirmatio est vera cum sua negatione.
+[82178] In Metaphysic., lib. 4 l. 7 n. 3
+Deinde cum dicit dico autem ostendit universaliter de omnibus, scilicet quod contradictoria non sint simul vera. Et circa
+hoc quatuor facit. Primo ponit quaedam quae sunt necessaria ad propositum concludendum. Secundo concludit
+propositum, ibi, necesse itaque. Tertio probat quoddam quod supposuerat, ibi, nam esse hominem et cetera. Quarto
+excludit quamdam cavillationem, ibi, si autem respondeatur. Circa primum tria facit. Primo ostendit quod nomen unum
+significat. Secundo ex hoc ostendit ulterius quod hoc nomen homo, significet id quod est hominem esse, non autem id
+quod est non esse, ibi, nec sic contingit et cetera. Tertio ostendit quod homo significat unum ibi, si autem non significat
+et cetera. Dicit ergo primo, quod si homo significat aliquid unum, sit hoc unum, animal bipes. Hoc enim unum dicitur
+nomen significare, quod est definitio rei significatae per nomen; ut si est hominis esse animal bipes, idest si hoc est
+quod quid est homo, hoc erit significatum per hoc nomen homo.
+[82179] In Metaphysic., lib. 4 l. 7 n. 4
+Si autem dicat nomen plura significat, aut significabit finita, aut infinita. Si autem finita, nihil differt, secundum aliam
+translationem, ab eo quod ponitur significare unum, quia significat multas rationes diversarum rerum finitas, et singulis
+eorum possunt adaptari diversa nomina. Ut si homo significet multa, et unius eorum sit ratio animal bipes, ponetur
+unum nomen secundum hanc rationem, quod est homo: et si sunt plures aliae rationes, ponentur alia plura nomina,
+dummodo rationes illae sint finitae. Et sic redibit primum quod nomen significet unum.
+[82180] In Metaphysic., lib. 4 l. 7 n. 5
+Si autem nomen non significat finitas rationes, sed infinitas, manifestum est quod nulla erit ratio sive disputatio. Quod
+sic patet. Quod enim non significat unum, nihil significat. Et hoc sic probatur. Nomina significant intellectus. Si igitur
+nihil intelligitur, nihil significatur. Sed si non intelligitur unum, nihil intelligitur; quia oportet quod qui intelligit ab aliis
+distinguat. Ergo si non significat unum, non significat. Sed si nomina non significant, tolletur disputatio, et quae est
+secundum veritatem et quae est ad hominem. Ergo patet quod si nomina infinita significent, non erit ratio sive
+disputatio. Sed si contingit intelligere unum, imponatur ei nomen, et sic teneatur quod nomen significet aliquid.
+[82181] In Metaphysic., lib. 4 l. 7 n. 6
+Deinde cum dicit nec sic contingit ostendit secundum; scilicet quod hoc nomen homo non significet id quod est homini
+non esse: nomen enim significans unum, non solum significat unum subiecto, quod ideo dicitur unum quia de uno, sed
+id quod est unum simpliciter, scilicet secundum rationem. Si enim hoc vellemus dicere, quod nomen significat unum
+quia significat ea quae verificantur de uno, sic sequeretur quod musicum et album et homo unum significarent,
+quoniam omnia verificantur de uno. Et ex hoc sequeretur, quod omnia essent unum: quia si album dicitur de homine, et
+propter hoc est unum cum eo, cum dicatur etiam de lapide, erit unum cum lapide. Et quae uni et eidem sunt eadem,
+sibiinvicem sunt eadem. Unde sequeretur quod homo et lapis sit unum, et unius rationis. Et sic sequeretur quod omnia
+nomina sint univoca, idest unius rationis, vel synonyma secundum aliam literam, idest omnino idem significantia re et
+ratione.
+[82182] In Metaphysic., lib. 4 l. 7 n. 7
+Quamvis autem esse et non esse verificentur de eodem secundum negantes principium primum, tamen oportet quod
+alius sit hoc quod esse hominem et hoc quod est non esse; sicut aliud est ratione album et musicum, quamvis de eodem
+verificentur. Ergo patet quod esse et non esse non erunt idem ratione et re, quasi uno nomine significatum univoce.
+[82183] In Metaphysic., lib. 4 l. 7 n. 8
+Sciendum est autem quod esse hominem vel esse homini sive hominis, hic accipitur pro quod quid est hominis. Ex hoc
+ergo concluditur quod hoc quod dico homo, non significat hoc quod dico hominem non esse, sicut propriam rationem.
+Sed quia dixerat supra quod idem nomen potest plura significare secundum diversas rationes, ideo subiungit nisi
+secundum aequivocationem, ad determinandum quod homo univoce non significet esse hominem, et non esse
+hominem; sed aequivoce potest utrumque significare; ut si id quod vocamus hominem in una lingua, vocent alii non
+hominem in alia lingua. Non enim est nostra disputatio si idem secundum nomen contingat esse et non esse, sed si idem
+secundum rem.
+[82184] In Metaphysic., lib. 4 l. 7 n. 9
+Deinde cum dicit si autem probat tertium, scilicet quod homo et non homo non significat idem, tali ratione. Homo
+significat hoc quod est esse hominem, et quod quid est homo: non homo autem significat non esse hominem, et quod
+quid est non homo. Si ergo homo et non homo non significant aliquid diversum, tunc id quod est esse homini non erit
+diversum ab hoc quod est non esse homini, vel non esse hominem. Et ita unum eorum praedicabitur de altero. Et erunt
+etiam secundum rationem unum. Cum enim dicimus aliqua unum significare, intelligimus quod significent rationem
+unam, sicut vestis et indumentum. Si igitur esse hominem et non esse hominem sunt hoc modo unum, scilicet
+secundum rationem, unum et idem erit illud quod significabit illud quod est esse hominem, et id quod est non esse
+hominem. Sed datum est vel demonstratum, quia diversum nomen est quod significat utrumque. Ostensum est enim
+
+

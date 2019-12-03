@@ -1,0 +1,62 @@
+|a1 Articulus 1
+TTA
+Utrum anima Christi sciat infinita.
+TTB
+Ad primum sic proceditur: videtur quod anima Christi non possit scire infinita.
+AG1
+Nullum enim donum creatum, cum sit finitum, potest elevare creaturam ad id quod est proprium Dei, quia tale
+est infinitum. Sed gratia unionis est donum creatum; cognoscere autem infinita est proprium Dei, cuius
+sapientiae non est numerus. Ergo anima Christi per gratiam unionis non potest elevari ad cognoscendum infinita.
+AG2
+Praeterea, dionysius, cap. II caelest.
+Hierarch., ponit tria sibi proportionata, quae sunt substantia, virtus et operatio. Sed substantia animae Christi non
+potest esse infinita; ergo neque virtus eius neque operatio potest esse infinita, ut infinita cognoscat.
+AG3
+Sed contra, intellectus animae Christi non est minor quam voluntas eius. Sed meritum Christi, quod est actus
+voluntatis animae eius, est infinitum, quia fuit sufficiens ad infinitorum peccatorum abolitionem: est enim
+propitiatio pro peccatis totius mundi, ut dicitur I Ioan. II, 2. Ergo et actus intellectivus animae Christi potest esse
+infinitus, ut infinita cognoscat.
+CO
+Respondeo. Dicendum, quod hic est opus multiplici distinctione.
+Primo enim considerandum est quod infinitum potest dici et secundum formam et secundum materiam.
+Dicitur enim infinitum ex eo quod non finitur.
+Finitur autem et materia per formam, in quantum materia, quae est in potentia ad diversas species, determinatur
+ad unam speciem per formam; et forma per materiam, in quantum forma speciei, quae nata est esse in pluribus
+individuis, secundum quod recipitur in hac materia, determinatur ad individuum.
+Sicut ergo materia sine forma habet rationem infiniti, ita et forma sine materia; et ideo, quia ipsa essentia divina
+non est recepta aliquo materiali, nec habet permixtionem alicuius potentiae, sed est purus actus subsistens, ideo
+dicitur infinita.
+Et quia unumquodque cognoscitur per formam, et secundum quod est in actu; ideo infinitum secundum materiam
+est secundum se ignotum, ut dicitur in III physic..
+Infinitum autem secundum formam est secundum se notissimum, sed quoad nos est ignotum, quia excedit nostri
+intellectus proportionem.
+Et quia quantitas est dispositio materiae, et infinitum quantitatis attenditur secundum potentiam in assumendo
+unum post alterum; ideo infinitum quantitatis est secundum se ignotum, et non potest aliquis intellectus
+cognoscere infinitum quantitatis in post, assumendo unum post alterum, scilicet numerando partem post partem.
+Item considerandum est, quod utroque modo contingit aliquid esse infinitum simpliciter, et aliquid secundum
+quid.
+Si enim aliquod corpus sit infinitum secundum longitudinem, non autem secundum latitudinem, est infinitum
+secundum quid; si vero fuerit infinitum secundum omnes dimensiones, erit infinitum simpliciter.
+Similiter si intelligatur forma alicuius speciei esse non in materia, ut Platonici posuerunt, erit infinita secundum
+quid, quantum scilicet ad individua illius speciei; tamen erit finita, in quantum scilicet determinatur ad genus et
+speciem. Sed divina essentia est simpliciter infinita, quia est absoluta ab omni circumscriptione generis vel
+speciei.
+Item considerandum est, quod duplex est scientia.
+Una dicitur scientia visionis, per quam cognoscuntur ea quae sunt, erunt, vel fuerunt.
+Alia simplicis notitiae, per quam cognoscuntur ea quae nec sunt, nec erunt, nec fuerunt, sed esse possunt.
+Dicendum est ergo, quod Deus cognoscendo suam essentiam, quia comprehendit eam, cognoscit scientia
+simplicis notitiae infinita simpliciter, quia cognoscit omnia quae ipse facere potest; non tamen cognoscit ea in
+post assumendo, scilicet numerando unum post aliud, sed omnia simul.
+Anima vero Christi non comprehendit essentiam Dei, et per consequens neque virtutem eius: unde non potest
+cognoscere omnia quae Deus facere potest, et ideo non cognoscit infinita simpliciter.
+Comprehendit autem anima Christi totam potentiam creaturae. In potentia autem creaturae sunt infinita non
+simpliciter, quia potentia creaturae non se extendit ad omnia quae Deus potest, sed secundum aliquod genus;
+sicut continuum est in potentia ad infinitas divisiones.
+Unde anima Christi scientia simplicis notitiae cognoscit infinita secundum quid, quae sunt in potentia creaturae.
+RA1
+Et per hoc patet responsio ad obiecta.
+Nam primae duae rationes procedunt de cognitione infinitorum simpliciter.
+RA3
+40
+
+

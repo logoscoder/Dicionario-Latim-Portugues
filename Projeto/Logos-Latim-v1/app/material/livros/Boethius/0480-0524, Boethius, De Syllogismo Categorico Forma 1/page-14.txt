@@ -1,0 +1,63 @@
+Prima figura est in qua is qui subiectus est de alio praedicatur.
+Namque b, quod a termino subiectum est, ad c item terminum praedicatur. Extremitates uero dico huius
+figurae quod praedicatur et quod subiectum est, id est a c. Namque a pradicatur de b termino, c uero terminus b termino
+subiacet. Medium autem illud uoco quod alii subiacet, et de alio praedicatur, id est b. Nam b terminus a termino
+subiacet, de c uero termino praedicatur. Maior uero extremitas est, quae prima praedicatur, id est a. Namque idem a de
+b termino praedicatur. Minor uero quae medio termino [811C] subiicitur, id est c, namque c terminus medio termino, id
+est b, subiecius est; de eo enim b medius terminus dicitur. Maior uero terminus a uocatus est, id est qui praedicatur,
+quoniam omne praedicatum ab e. de quo praedicatur maius est. Et in conclusionie, sicut in prima propositione, semper
+a terminus praedicatur, a enim bonum praedicatur de b iusto, et dicitur:
+Omne iustum bonum est
+b uero medius terminus predicatur de c, et dicitur:
+Omnis uirtus iusta est.
+Ex his igitur concluditur in syllogismo:
+Omnis uirtus bonum est
+et a bonum nominabitur de c uirtute, atque ideo maior a nobis extremitas appeliatur.
+Id uero meminisse debemus, quod ea quae paria sunt retorqueri possunt, et ad se inuicem praedicari, et sicut id
+quod predicatur in eo [811D] quod subiectum est, omni est, ita rursus conuersum quod fuerit subiectum, in eo quod
+antea praedicabatur omne erit. Nam si f et g duo termini ita sibi sint aequales, ut neuter neutro maior sit, cum
+praedicaueris f de omni g, erit f terminus in omni g termino. Si uero conuertas et praedices g terminum de f termino,
+erit iterum g terminus in omni f termino. Sit enim f risibile, g homo. Ergo si praedices f risibile, et g hominem subiicias,
+f risibile in omni g inuenitur.
+Omnis enim homo risibile est. Si uero praedicas g hominem ad f risibile, g homo in omni f risibile reperitur.
+Omne enim risibile homo est.
+Quid autem termini sint, uel quid praedicatio, aut subiecto, priori de propositionibus libro satis dictum est. Sed
+ne forte erremus [812A] quod uidetur uniuersalis affirmatio conuersa. Nam de hoc quoque superius dictum est.
+Modo uero hoc solum monstrare uolumus, quod quae sunt in toto paria sola conuertantur. Hoc tamen prodest
+ad ostensionem syllogismorum quae fit in circulo, quam in Analyticis diximus.
+Ac de prima syllogismorum categoricorum figura expeditum est. Secunda uero figura est quoties a terminus de
+utrisque b et c terminis praedicatur hoc modo: Si enim dicas a bonum de omni b iusto, ut sit hoc modo propositio:
+Omne iustum bonum est
+et inde a bonum de omni c uirtute, ut dicas:
+Omnis uirtus bonum est
+solum a de utrisque b et c terminis praedicasti, et erit haec secunda figura. Medius autem terminus in hac
+figura erit qui de utrisque praedicatur, id est a. Extremitates [812B] uero ea quae subiecta sunt, id est b et c. Maior uero
+extremitas est de qua primo a terminus appellatur, id est b iustum; uel si ad c primo praedicabitur c terminus maior
+extremitas inuenitur. Idcirco quod ea extremitas de qua medius terminus primo praedicatur, in conclusione ipsa quoque
+praedicabitur, ut posterius demonstrandum est. Minor uero extremitas erit ad quod medius terminus posterius
+praedicabitur.
+Tertia uero figura est, quoties a et b termini de ullo c praedicantur.
+Si quis enim praedicet a, id est bonum de c, id est uirtute, ut sit huiusmodi propositio:
+Omnis uirtus bonum est
+item b praedicetur de c, ut sit:
+Omnis uirtus iustum est
+tertiam figuram facit. In hac uero figura medius terminus erit qui utrisque subiectus est, id est c. Namque
+[812C] de c termino a et b termini praedicantur. Maior uero extremitas est quae primo praedicatur, id est a; minor uero
+quae postea, id est b; uel si quem libuerit b prius, a posterius praedicare secundum priorem posterioremque
+praedicationem, maior minorue extremitas inuenietur, et hic quoque maior extremitas in conclusionibus, sicut in
+superioribus aliis figuris, de minore praedicatur.
+Expeditis igitur tribus syllogismorum figuris, dicendum est quia perfectus syllogismus est cui ad integram
+probatamque conclusionem ex superius sumptis et propositis nihil deest. Sed modo atque ordine facta conclusio nihil
+dehabens, per ea quae antea proposuit terminatur.
+Imperfectus uero syllogismus est cui nihil aeque ad perfectionem deest, uerumtamen in his quae in
+propositionibus [812D] sumpta sunt aliqua desunt cur ita esse uidetur. Sed et hae definitiones omnes posterius
+liquebunt.
+Nunc autem unde hae figurae nascantur breuiter expliicandum est. Quoniam unde nascuntur, in eadem iterum
+resoluuntur. Sed secunda et tertia figura de prima figura nasci et procreari uidentur. Sit enim a terminus in omni b
+termino, et de omni eo praedicetur, b uero terminus de omni c termino praedicatur. Haec, ut dictum est, prima
+syllogismorum figura est. Si quis igitur maiorem extremitatem propositionemque conuertat, et quod fuerat antea
+praedicatum faciat esse subiectum, secundam faciet figuram. Nam quemadmodum a terminus praedicatur de b termino,
+
+14
+
+

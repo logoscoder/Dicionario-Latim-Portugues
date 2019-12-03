@@ -1,0 +1,62 @@
+RC3
+Ad tertium dicendum, quod duplex est perfectio; scilicet prima, et secunda: prima perfectio est forma
+uniuscuiusque, per quam habet esse; unde ab ea nulla res destituitur dum manet; secunda perfectio est operatio,
+quae est finis rei, vel id per quod ad finem devenitur et hac perfectione interdum res destituitur. Ex prima autem
+perfectione resultat ratio veri in rebus; ex hoc enim quod res formam habet, artem divini intellectus imitatur, et
+sui notitiam in anima gignit. Sed ex perfectione secunda consequitur in ipsa ratio bonitatis, quae consurgit ex
+fine; et ideo malum simpliciter invenitur in rebus, non autem falsum.
+RC4
+Ad quartum dicendum, quod secundum Philosophum in VI ethic., ipsum verum est bonum intellectus; secundum
+hoc enim intellectus operatio est perfecta, quod sua conceptio est vera; et quia enuntiatio est signum intellectus,
+ideo veritas eius est finis ipsius. Non autem ita est in rebus aliis; et propter hoc non est simile.
+|a11 Articulus 11
+TTA
+Undecimo quaeritur utrum falsitas sit in sensibus.
+TTB
+Et videtur quod non.
+AG1
+Intellectus enim semper est rectus, ut dicitur in III de anima. Sed intellectus est superior pars in homine. Ergo et
+aliae partes eius rectitudinem sequuntur, sicut et in mundo maiori inferiora disponuntur secundum superiorum
+motum. Ergo et sensus, qui est inferior pars animae, semper erit rectus: non ergo in eo erit falsitas.
+AG2
+Praeterea, Augustinus dicit in Lib. De vera relig.: ipsi oculi non fallunt nos; non enim enuntiare possunt animo
+nisi affectionem suam. Quod si et omnes corporis sensus ita enuntiant ut afficiuntur, quid ab eis amplius exigere
+debemus ignoro. Ergo in sensibus non est falsitas.
+AG3
+Praeterea, Anselmus in Lib. De veritate dicit: videtur mihi veritas vel falsitas in sensu esse, sed in opinione; et
+sic habetur propositum.
+SC1
+Sed contra. Est quod Anselmus dicit: est quidem in sensibus nostris veritas, sed non semper; nam fallunt nos
+aliquando.
+SC2
+Praeterea, secundum Augustinum in lib.
+Soliloquiorum, falsum solet dici quod a verisimilitudine longe abest, sed tamen habet ad verum nonnullam
+imitationem.
+Sed sensus habet quandoque similitudinem aliquarum rerum, quae non sunt ita in rerum natura; sicut est
+quandoque quod unum duo videatur, ut cum oculus comprimitur.
+Ergo in sensu est falsitas.
+SC3
+Sed dicebat, quod sensus non decipitur in propriis sensibilibus, sed de communibus.
+Sed contra, quandocumque aliquid apprehenditur de aliquo aliter quam sit, est apprehensio falsa. Sed quando
+corpus album videtur mediante vitro viridi, sensus apprehendit aliter quam sit, quia apprehendit illud ut viride, et
+ita iudicat, nisi superius iudicium adsit, per quod falsitas detegatur.
+Ergo sensus decipitur etiam in propriis sensibilibus.
+CO
+Responsio. Dicendum, quod cognitio nostra quae a rebus initium sumit, hoc ordine progreditur, ut primo
+incipiatur in sensu, et secundo perficiatur in intellectu; ut sic sensus inveniatur quodammodo medius inter
+intellectum et res: est enim, rebus comparatus, quasi intellectus; et intellectui comparatus, quasi res quaedam: et
+ideo in sensu dicitur esse veritas vel falsitas dupliciter.
+Uno modo secundum ordinem sensus ad intellectum; et sic dicitur sensus esse falsus vel verus sicut et res; in
+quantum, videlicet, faciunt existimationem veram in intellectu, vel falsam.
+Alio modo secundum ordinem sensus ad res; et sic dicitur esse veritas vel falsitas in sensu, sicut et in intellectu;
+in quantum videlicet iudicat esse quod est, vel quod non est.
+Si ergo loquamur de sensu secundum primum modum, sic in sensu quodammodo est falsitas, et quodammodo
+non est falsitas: sensus enim et est res quaedam in se, et est indicativum alterius rei.
+Si ergo comparetur ad intellectum secundum quod est res quaedam, sic nullo modo est falsitas in sensu
+intellectui comparato: quia secundum quod sensus disponitur, secundum hoc dispositionem suam intellectui
+demonstrat; unde Augustinus dicit in auctoritate inducta, quod non possunt animo enuntiare nisi affectionem
+suam.
+
+23
+
+

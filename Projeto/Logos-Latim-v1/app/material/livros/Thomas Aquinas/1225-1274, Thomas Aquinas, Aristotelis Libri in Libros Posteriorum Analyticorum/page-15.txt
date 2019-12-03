@@ -1,0 +1,55 @@
+Tunc enim dicitur aliquid de omni, ut habetur in libro priorum, quando nihil est sumere sub subiecto, de quo
+praedicatum non dicatur.
+Per se autem dicitur aliquid praedicari, per comparationem ad ipsum subiectum: quia ponitur in eius definitione,
+vel e converso, ut infra patebit.
+Primo vero dicitur aliquid praedicari de altero per comparationem ad ea, quae sunt priora subiecto et continentia
+ipsum. Nam habere tres angulos etc., non praedicatur primo de isoscele: quia prius praedicatur de priori, scilicet
+de triangulo.
+|#4 Secundo, ibi: de omni quidem etc., determinat propositum. Et dividitur in tres partes. Primo, ostendit quid
+sit dici de omni; secundo, quid sit dici per se; ibi: per se autem etc.; tertio, quid sit universale; ibi: universale
+autem dico etc.. Circa primum duo facit. Primo, ostendit quid sit dici de omni. Ad quod sciendum est quod dici
+de omni, prout hic sumitur, addit supra dici de omni, prout sumitur in libro priorum. Nam in libro priorum
+accipitur dici de omni communiter, prout utitur eo et dialecticus et demonstrator. Et ideo non plus ponitur in
+definitione eius, quam quod praedicatum insit cuilibet eorum quae continentur sub subiecto. Hoc autem contingit
+vel ut nunc, et sic utitur quandoque dici de omni dialecticus; vel simpliciter et secundum omne tempus, et sic
+solum utitur eo demonstrator.
+|#5 Et ideo in definitione dici de omni, duo ponit: quorum unum est, ut nihil sit sumere sub subiecto cui
+praedicatum non insit. Et hoc significat cum dicit: non in quodam quidem sic, in quodam autem non. Aliud est,
+quod non sit accipere aliquod tempus, in quo praedicatum subiecto non conveniat. Et hoc designat cum dicit:
+neque aliquando sic, aliquando non; et ponit exemplum. Sicut de omni homine praedicatur animal; et de
+quocunque verum est dicere quod sit homo, verum est dicere quod sit animal, et quandocunque est homo, est
+animal. Et similiter se habet de linea et de puncto: nam punctum est in linea qualibet et semper.
+|#6 Secundo; ibi: signum autem etc., manifestat positam definitionem per signum ab instantiis sumptum. Non
+enim fertur instantia contra universalem propositionem, nisi quia deficit aliquid eorum, quae per eam
+significantur. Cum autem interrogamur, an aliquid praedicetur de omni in demonstrativis, dupliciter ferimus
+instantias; vel quia in quodam eorum quae continentur sub subiecto non est verum; vel quia aliquando non est
+verum. Unde manifestum est quod dici de omni utrunque praedictorum significat.
+|+10 Lectio 10
+|#1 Postquam determinavit Philosophus de dici de omni, hic determinat de per se. Et circa hoc duo facit: primo,
+ostendit quot modis dicitur aliquid per se; secundo, ostendit qualiter his modis demonstrator utatur; ibi: quae
+ergo dicuntur etc..
+|#2 Circa primum sciendum est quod haec praepositio per designat habitudinem causae; designat etiam
+interdum et situm, sicut cum dicitur aliquis esse per se, quando est solitarius. Causae autem habitudinem
+designat, aliquando quidem formalis; sicut cum dicitur quod corpus vivit per animam.
+Quandoque autem habitudinem causae materialis; sicut cum dicitur quod corpus est coloratum per superficiem:
+quia scilicet proprium subiectum coloris est superficies. Designat etiam habitudinem causae extrinsecae et
+praecipue efficientis; sicut cum dicitur quod aqua calescit per ignem.
+Sicut autem haec praepositio per designat habitudinem causae, quando aliquid extrinsecum est causa eius, quod
+attribuitur subiecto; ita quando subiectum vel aliquid eius est causa eius, quod attribuitur ei, et hoc significat per
+se.
+|#3 Primus ergo modus dicendi per se est, quando id, quod attribuitur alicui, pertinet ad formam eius. Et quia
+definitio significat formam et essentiam rei, primus modus eius quod est per se est, quando praedicatur de aliquo
+definitio vel aliquid in definitione positum (et hoc est quod dicit quod per se sunt quaecunque insunt in eo, quod
+quid est, idest in definitione indicante quid est), sive ponatur in recto sive in obliquo. Sicut in definitione
+trianguli ponitur linea; unde linea per se inest triangulo: et similiter in definitione lineae ponitur punctum; unde
+punctum per se inest lineae. Rationem autem quare ista ponantur in definitione subiungit dicens: substantia, idest
+essentia, quam significat definitio ipsorum, idest trianguli et lineae, est ex his, idest ex linea et punctis. Quod non
+est intelligendum quod linea ex punctis componatur, sed quod punctum sit de ratione lineae, sicut linea de
+ratione trianguli.
+Et hoc dicit ad excludendum ea, quae sunt partes materiae et non speciei, quae non ponuntur in definitione, sicut
+semicirculus non ponitur in definitione circuli, nec digitus in definitione hominis, ut dicitur in VII metaphysicae.
+Et subiungit quod quaecumque universaliter insunt in ratione dicente quid est, per se attribuuntur alicui.
+
+15
+
+

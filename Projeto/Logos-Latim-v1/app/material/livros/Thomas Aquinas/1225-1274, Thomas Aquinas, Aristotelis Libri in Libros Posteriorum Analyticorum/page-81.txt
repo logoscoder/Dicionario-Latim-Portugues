@@ -1,0 +1,57 @@
+|#6 Tertio, ibi: sufficiens autem fides est etc., ostendit idem per inductionem, ex qua potest fieri praemissae
+conclusionis sufficiens fides: quia demonstratio est eorum quae per se insunt, ut patet ex his quae in primo habita
+sunt. Nullus autem unquam cognovit per definitionem neque aliquid eorum quae per se insunt, neque etiam
+aliquid eorum quae per accidens insunt; non quod accidentium, quae per se vel per accidens insunt, non possunt
+esse aliquae definitiones, ut habetur in VII metaph.; sed quia eius quod est inesse per se vel per accidens, quod
+syllogismus concludit, nullus unquam dedit definitionem.
+|#7 Quarto, ibi: amplius si definitio substantiae etc., ostendit idem per rationem, quia definitio est notificatio
+substantiae: tum quia substantia principaliter definitur, accidens vero per posterius, definitione quae est per
+additamentum, ut habetur in VII metaph.; tum etiam quia accidens non definitur, nisi quatenus significatur per
+modum substantiae per aliquod nomen. Haec autem de quibus sunt demonstrationes, non sunt substantiae, nec
+per modum substantiae significantur, sed per modum accidentium, scilicet secundum inesse aliquid alicui. Unde
+concludit non esse possibile quod definitio sit omnis eius cuius est demonstratio.
+|#8 Deinde cum dicit: quid autem cuius est definitio etc., inquirit an e converso demonstratio sit omnis eius
+cuius est definitio. Et ostendit quod non, duplici ratione; quarum prima iam supra tacta est. Unius enim, in
+quantum est unum, videtur esse una scientia, idest unus modus cognoscendi.
+Unde si id quod est demonstrabile, vere scitur per hoc quod habetur demonstratio de eo, sequitur quoddam
+impossibile si per definitionem sciri possit; quia habens definitionem sciret aliquid demonstrabile absque hoc
+quod haberet demonstrationem: quod videtur inconveniens. Et haec ratio fuit secundo posita inter praemissas.
+|#9 Secundam rationem ponit ibi: amplius principia demonstrationum etc.. Definitiones enim sunt principia
+demonstrationum, ut in primo habitum est; sed principia non sunt demonstrabilia, quia sic sequeretur quod
+principiorum essent principia, et quod demonstrationes in infinitum procederent; quod est impossibile, ut in
+primo ostensum est. Unde sequitur quod definitiones sint indemonstrabiles, tanquam quaedam prima principia in
+demonstrationibus. Et sic non omnium quorum est definitio, est demonstratio.
+|#10 Deinde cum dicit: sed utrum si non omnis etc., inquirit utrum sit possibile quod alicuius eiusdem sit
+definitio et demonstratio, etsi non omnis eiusdem.
+Et ostendit quod non, tribus rationibus. Quarum prima est, quia definitio est manifestativa eius quod quid est et
+substantiae, idest essentiae cuiuslibet rei. Demonstrationes autem hoc non manifestant, sed supponunt; sicut in
+mathematicis demonstrationibus arithmeticae supponitur quid est unitas et quid est impar; et simile est etiam in
+aliis demonstrationibus. Ergo non est eiusdem demonstratio et definitio.
+|#11
+Secundam rationem ponit ibi: amplius omnis demonstratio etc.; quae talis est. In eo quod per
+demonstrationem concluditur, praedicatur aliquid de aliquo vel affirmative vel negative: sed in definitione non
+praedicatur aliquid de aliquo; sicut in hac definitione, homo est animal bipes, neque animal praedicatur de
+bipede, neque bipes de animali.
+Et similiter in hac definitione, circulus aut triangulus est figura plana, nec planum praedicatur de figura, neque e
+converso. Si enim partes definitionis adiungerentur sibi invicem, oporteret quod praedicatio intelligeretur per
+modum convenientem definitioni, scilicet in eo quod quid est. Hoc autem non videmus. Nec enim genus
+praedicatur in eo quod quid est de differentia, neque e converso.
+Non ergo eiusdem est definitio et demonstratio.
+|#12 Tertiam rationem ponit ibi: amplius alterum est quod quid est etc.; et dicit quod alterum est manifestare
+quod quid est et quia est, ut patet in differentia quaestionum supra posita: sed definitio ostendit de aliquo quid
+est; demonstratio autem ostendit affirmative vel negative aliquid esse de aliquo vel non esse. Videmus autem
+quod alterius rei alia est demonstratio, nisi illa duo se habeant ad invicem sicut totum et pars; quia tunc una et
+eadem esset demonstratio de utroque.
+Sicut demonstrato quod triangulus habet tres angulos aequales duobus rectis, similiter etiam ostensum est de
+isoscele, qui se habet ad triangulum sicut pars ad totum. Sed non ita est in his duobus, quia est et quid est:
+neutrum enim est pars alterius.
+|#13 Ostensum est igitur quod nec omnis cuius est definitio, sit demonstratio, neque e converso.
+Et ex hoc ulterius concludi potest quod nullius eiusdem sint; et quod definitio et demonstratio neque sint idem,
+neque unum sit in alio sicut pars subiectiva in suo toto; quia oporteret quod etiam ea quorum sunt, se haberent
+per modum totius et partis, ita scilicet quod omne definibile esset demonstrabile, aut e converso. Quod supra
+improbatum est.
+Ultimo epilogando concludit usque ad hoc processum esse opponendo.
+
+81
+
+

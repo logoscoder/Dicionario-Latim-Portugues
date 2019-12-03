@@ -1,0 +1,59 @@
+AG4
+Praeterea, sicut se habet generatio activa ad patrem, ita se habet generatio passiva vel nativitas ad filium. Sed
+filiatio nullo modo praecedit nativitatem secundum intellectum, sed semper consequitur.
+Ergo nec paternitas generationem activam, sed consequitur eam. Ergo videtur quod etiam paternitas secundum
+intellectum generationem activam sequatur.
+SC1
+Contra, operatio, secundum Philosophum, est individuorum distinctorum, vel singularium. Sed non est
+distinctum quid in divinis nisi per relationem. Ergo intellectum operationis personalis praecedit intellectus
+relationis.
+SC2
+Praeterea, principium operationis propriae alicujus oportet quod sit forma propria ejus. Sed generatio est propria
+operatio patris. Cum igitur nulla forma patris potentiae sit propria nisi paternitas, videtur quod paternitas sit
+principium generationis in patre, et ita praecedit secundum intellectum.
+CO
+Respondeo dicendum, quod secundum illos qui dicunt, quod relationes non distinguunt nec constituunt personas,
+sed tantum manifestant constitutas et distinctas, relatio consequitur operationem personalem absolute secundum
+intellectum.
+Sed quia non invenitur aliquid distinguens personas et constituens eas nisi relatio secundum rationem suae
+oppositionis; ideo dico, quod relatio, inquantum est constituens personam, praecedit secundum intellectum
+operationem. Secundum hoc ergo dico, quod ipsa relatio potest tripliciter considerari. Vel inquantum est relatio
+absolute, et ex hoc non habet quod praecedat operationem, immo magis quod sequatur.
+Vel inquantum est relatio divina quae est constituens personam et ipsa persona subsistens; et sic praecedit
+secundum intellectum operationem. Vel inquantum est ipsa operatio personalis; et sic sunt simul secundum
+intellectum, et idem.
+RA1
+Ad primum igitur dicendum, quod cum dicit Magister, quod quia genuit est pater, accipit generationem non
+prout significatur per modum operationis, sed prout significatur per modum proprietatis constituentis personam;
+et sic secundum intellectum praecedit personam constitutam et distinctam. Sic enim generationem pro paternitate
+ponunt, sicut etiam supra praecedenti distinct.. Vel dicendum quod attendit ad relationem secundum quod relatio
+est, et non secundum quod est relatio divina constituens personam et distinguens. Vel potest melius dici, quod in
+hoc quod dicit, quod est pater quia genuit, non importatur aliquis ordo per modum causae, sed potius identitas
+relationis; unde etiam ipse dicit, quod ideo est filius quia genitus, et quia filius ideo genitus, ex verbis Augustini.
+RA2
+Ad secundum dicendum, quod, ut supra dictum est, dist. 7, qu. 1, art. 1, principium generationis in divinis non
+potest esse tantum natura, nec iterum tantum proprietas; sed natura divina prout est in patre, vel proprietas quae
+est paternitas. Unde Anselmus non dicit totum quod exigitur ad principium generationis. Ut enim totum
+complectamur, oportet dici quod non tantum quia Deus est, generat, vel quia pater, sed quia Deus pater.
+RA3
+Ad tertium dicendum, quod ratio illa procedit de relatione secundum rationem relationis absolute; sed haec
+relatio quae est paternitas, habet aliquid ultra: quia cum sit divina, constituit personam, et est ipsa persona
+constituta, ratione cujus praecedit secundum intellectum operationem.
+RA4
+Ad quartum dicendum, quod non est similis ratio in patre et filio: quia forma propria generati nullo modo est
+principium generationis activae vel passivae, sed consequens, et quasi terminus; et ideo filiatio nullo modo
+praecedit intellectum nativitatis; sed forma generantis propria est principium generationis activae: et ideo oportet
+quod praecedat intellectum generationis.
+
+|+d27.q2 Distinctio 27, Quaestio 2
+|a0 Prologus
+Deinde quaeritur de verbo; et circa hoc tria quaeruntur: 1 utrum verbum proprie sit in divinis; 2 utrum dicatur
+essentialiter, vel personaliter tantum; 3 utrum in verbo importetur respectus ad creaturam.
+|a1 Articulus 1: Utrum verbum dicatur proprie in divinis.
+AG1
+Ad primum sic proceditur. Videtur quod verbum non proprie in divinis dicatur. Omne enim nomen quod
+significat corporalem operationem, non potest Deo convenire nisi metaphorice. Sed verbum est hujusmodi:
+dicitur enim a verberatione aeris ut dicit Priscianus. Ergo verbum proprie de Deo non dicitur.
+234
+
+

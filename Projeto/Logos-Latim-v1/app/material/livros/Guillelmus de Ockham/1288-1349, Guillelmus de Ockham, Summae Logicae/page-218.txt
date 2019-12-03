@@ -1,0 +1,57 @@
+Si utraque sit propositio particularis, sic fiunt quatuor combinationes per affirmatiuam et negatiuam,
+sicut prius, sed omnes erunt inutiles, quia omnes habebunt maiorem particularem.
+Si utraque sit propositio particularis, sic fiunt quatuor combinationes per affirmatiuam et negatiuam,
+sicut prius, sed omnes erunt inutiles, quia omnes habebunt maiorem particularem.
+Si autem una sit uniuersalis et alia particularis, aut maior est uniuersalis et minor particularis, aut e
+conuerso. Si primo modo, aut utraque est affirmatiua et habetur nona coniugatio et utilis, aut utraque negatiua, et
+est decima coniugatio et inutilis, quia minor est negatiua. Aut una est affirmatiua et alia negatiua, et tunc est aut
+maior affirmatiua et minor negatiua, et est undecima coniugatio et inutilis, quia minor est negatiua; aut maior est
+negatiua et minor affirmatiua, et est duodecima coniugatio et utilis. Si autem maior sit particularis et minor
+uniuersalis, sic fiunt quatuor combinationes per affirmatiuam et negatiuam, sed omnes erunt inutiles, quia
+quaelibet illarum habet maiorem particularem.
+Si autem una sit uniuersalis et alia particularis, aut maior est uniuersalis et minor particularis, aut e
+conuerso. Si primo modo, aut utraque est affirmatiua et habetur nona coniugatio et utilis, aut utraque negatiua, et
+est decima coniugatio et inutilis, quia minor est negatiua. Aut una est affirmatiua et alia negatiua, et tunc est aut
+maior affirmatiua et minor negatiua, et est undecima coniugatio et inutilis, quia minor est negatiua; aut maior est
+negatiua et minor affirmatiua, et est duodecima coniugatio et utilis. Si autem maior sit particularis et minor
+uniuersalis, sic fiunt quatuor combinationes per affirmatiuam et negatiuam, sed omnes erunt inutiles, quia
+quaelibet illarum habet maiorem particularem.
+Ex quibus omnibus manifeste patet quod tantum sunt quatuor modi utilium coniugationum, scilicet
+primus et tertius et nonus et duodecimus. Duodecim uero alii sunt inutiles, quia soli quatuor possunt regulari per
+dici de omni uel per dici de nullo; aii non possunt, quia semper habent maiorem particularem uel minorem
+negatiuam, quorum utrumque repugnat syllogismo regulato per dici de omni uel per dici de nullo.
+Ex quibus omnibus manifeste patet quod tantum sunt quatuor modi utilium coniugationum, scilicet
+primus et tertius et nonus et duodecimus. Duodecim uero alii sunt inutiles, quia soli quatuor possunt regulari per
+dici de omni uel per dici de nullo; aii non possunt, quia semper habent maiorem particularem uel minorem
+negatiuam, quorum utrumque repugnat syllogismo regulato per dici de omni uel per dici de nullo.
+[3-1.04 IN QUO PROBANTUR PRAEDICTA IN PRAECEDENTI CAPITULO]
+[3-1.04 IN QUO PROBANTUR PRAEDICTA IN PRAECEDENTI CAPITULO]
+Ista narrata non possunt probari nisi per modum quo probat Aristoteles ea, probando scibando quod
+quatuor modi sunt utiles, per hoc quod non contingit inferre instantiam. Unde seruando talem modum arguendi
+ex duabus uniuersalibus affirmatiuis 'omnis homo est animal, omne risibile est homo, igitur omne risibile est
+animal' impossibile est inuenire instantiam ubi praemissae sunt uerae et conclusio falsa. Similiter est sic
+arguendo
+'nullus homo est asinus; omne risibile est homo; igitur nullum risibile est asinus'. Similiter sic arguendo
+'omnis homo est animal; aliquod corpus est homo; igitur aliquod corpus est animal'. Similiter sic arguendo
+'nullus homo est asinus; aliquod animal est homo; igitur aliquod animal non est asinus'.
+'nullus homo est asinus; omne risibile est homo; igitur nullum risibile est asinus'. Similiter sic arguendo
+'omnis homo est animal; aliquod corpus est homo; igitur aliquod corpus est animal'. Similiter sic arguendo
+'nullus homo est asinus; aliquod animal est homo; igitur aliquod animal non est asinus'.
+Alii autem modi sunt inutiles, quia contingit inuenire praemissas taliter dispositas esse ueras et
+conclusionem falsam. Unde quando utraque est uniuersalis et negatiua, patet instantia, sic arguendo 'nullus homo
+est animal irrationale; nullus asinus est homo; igitur nullus asinus est animal irrationale'. Praemissae sunt uerae
+et conclusio falsa. Eodem modo est de aliis, quod praemissae possunt esse uerae conclusione exsistente falsa,
+sicut patet discurrendo, et ideo non ualent.
+Alii autem modi sunt inutiles, quia contingit inuenire praemissas taliter dispositas esse ueras et
+conclusionem falsam. Unde quando utraque est uniuersalis et negatiua, patet instantia, sic arguendo 'nullus homo
+est animal irrationale; nullus asinus est homo; igitur nullus asinus est animal irrationale'. Praemissae sunt uerae
+et conclusio falsa. Eodem modo est de aliis, quod praemissae possunt esse uerae conclusione exsistente falsa,
+sicut patet discurrendo, et ideo non ualent.
+Et est hic aduertendum quod ad probandum coniugationem inutilem uel modum inutilem non oportet
+inuenire instantiam in terminis substantialibus, sicut aliqui errantes dicunt, sed sufficit inuenire instantiam in
+quibuscumque terminis, siue substantialibus siue accidentalibus siue quibuscumque. Unde et Aristoteles
+frequenter per tales terminos instat in libro Priorum, sicut manifeste patet ibidem. Et ideo quatuor modi primae
+figurae tenent in omnibus terminis, nec refert utrum sumatur sub terminus substantialis uel accidentialis, quale
+218
+
+

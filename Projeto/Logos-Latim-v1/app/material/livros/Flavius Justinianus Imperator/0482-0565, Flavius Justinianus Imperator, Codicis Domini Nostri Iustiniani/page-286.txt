@@ -1,0 +1,62 @@
+Liber sextus
+* 6.1.0. De fugitivis servis et libertis mancipiisque civitatum artificibus et ad diversa opera (..)
+* 6.2.0. De furtis et de servo corrupto.
+* 6.3.0. De operis libertorum.
+* 6.4.0. De bonis libertorum et de iure patronatus.
+* 6.5.0. Si in fraudem patroni alienatio facta est.
+* 6.6.0. De obsequiis patronis praestandis.
+* 6.7.0. De libertis et eorum liberis.
+* 6.8.0. De iure aureorum anulorum et de natalibus restituendis.
+* 6.9.0. Qui admitti ad bonorum possessionem possunt et intra quod tempus.
+* 6.10.0. Quando non petentium partes petentibus adcrescunt.
+* 6.11.0. De bonorum possessione secundum tabulas.
+* 6.12.0. De bonorum possessione contra tabulas quam praetor liberis pollicetur.
+* 6.13.0. De bonorum possessione contra tabulas liberti, quae patronis vel liberis eorum datur.
+* 6.14.0. Unde liberi.
+* 6.15.0. Unde legitimi et unde cognati.
+* 6.16.0. De edicto successorio
+* 6.17.0. De Carboniano edicto.
+* 6.18.0. Unde vir et uxor.
+* 6.19.0. De repudianda bonorum possessione.
+* 6.20.0. De collationibus.
+* 6.21.0. De testamento militis.
+* 6.22.0. Qui facere testamentum possunt vel non possunt.
+* 6.23.0. De testamentis: quemadmodum testamenta ordinantur.
+* 6.24.0. De heredibus instituendis et quae personae heredes institui non possunt.
+* 6.25.0. De institutionibus seu substitutionibus sub condicione factis.
+* 6.26.0. De impuberum et de aliis substitutionibus.
+* 6.27.0. De necessariis et servis heredibus instituendis vel substituendis.
+* 6.28.0. De liberis praeteritis vel exheredatis.
+* 6.29.0. De postumis heredibus instituendis vel exheredandis vel praeteritis.
+* 6.30.0. De iure deliberandi et de adeunda vel adquirenda hereditate.
+* 6.31.0. De repudianda vel abstinenda hereditate.
+* 6.32.0. Quemadmodum aperiantur testamenta et inspiciantur et describantur.
+* 6.33.0. De edicto divi Hadriani tollendo et quemadmodum scriptus heres in possessionem mittatur.
+* 6.34.0. Si quis aliquem testari prohibuerit vel coegerit.
+* 6.35.0. De his quibus ut indignis auferuntur et ad senatus consultum Silanianum.
+* 6.36.0. De codicillis.
+* 6.37.0. De legatis.
+* 6.38.0. De verborum et rerum significatione.
+* 6.39.0. Si omissa sit causa testamenti.
+* 6.40.0. De indicta viduitate et de lege Iulia miscella tollenda.
+* 6.41.0. De his quae poenae nomine in testamento vel codicillis relinquuntur.
+* 6.42.0. De fideicommissis.
+* 6.43.0. Communia de legatis et fideicommissis et de in rem missione tollenda.
+* 6.44.0. De falsa causa adiecta legato vel fideicommisso.
+* 6.45.0. De his quae sub modo legata vel fideicommissa relinquuntur.
+* 6.46.0. De condicionibus insertis tam legatis quam fideicommissis et libertatibus.
+* 6.47.0. De usuris et fructibus legatorum vel fideicommissorum.
+* 6.49.0. Ad senatus consultum Trebellianum.
+* 6.50.0. Ad legem Falcidiam.
+* 6.51.0. De caducis tollendis.
+* 6.52.0. De his qui ante apertas tabulas hereditates transmittunt.
+* 6.53.0. Quando dies legati vel fideicommissi cedit.
+* 6.54.0. Ut in possessionem legatorum vel fideicommissorum servandorum causa mittatur (..)
+* 6.55.0. De suis et legitimis liberis et ex filia nepotibus ab intestato venientibus.
+* 6.56.0. Ad senatus consultum Tertullianum.
+* 6.57.0. Ad senatus consultum Orfitianum.
+* 6.58.0. De legitimis heredibus.
+* 6.59.0. Communia de successionibus.
+286
+
+

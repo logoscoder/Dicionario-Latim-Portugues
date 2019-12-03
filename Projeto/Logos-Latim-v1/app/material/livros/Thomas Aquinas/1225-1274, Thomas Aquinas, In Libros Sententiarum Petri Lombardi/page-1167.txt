@@ -1,0 +1,62 @@
+Ergo est virtus specialis.
+SC2
+Praeterea, Philosophus probat justitiam esse specialem virtutem per hoc quod habet aliquod vitium speciale sibi
+tantum oppositum.
+Sed caritas habet aliquod vitium speciale sibi tantum oppositum, scilicet odium. Ergo caritas est virtus specialis.
+CO
+Ad secundam quaestionem dicendum, quod, ut dictum est, habitus specificantur ex objectis suis secundum
+rationem quam principaliter attendunt. Ratio autem objecti sumitur secundum proportionem rei circa quam est
+operatio habitus vel potentiae, ad actum animae, in qua sunt habitus vel potentiae. Quia autem per operationem
+animae dividuntur quandoque quae secundum rem conjuncta, et summe unum sunt; ideo contingit quod ubi res
+est eadem, sunt diversae rationes objecti, sicut eadem res objectum est liberalitatis, ut est donabilis, et justitiae, ut
+habet debiti rationem.
+Et similiter ubi res est communis, est ratio objecti particularis et propria: sicut philosophia prima est specialis
+scientia, quamvis consideret ens secundum quod est omnibus commune: quia specialem rationem entis
+considerat secundum quod non dependet a materia et a motu: et similiter est in proposito. Objectum enim
+caritatis proprium et principale est bonitas divina. In omnibus autem aliis virtutibus est aliquod bonum divinum;
+sed tamen hoc quod est commune secundum rem, habet specialem rationem: et ideo caritas est specialis virtus ab
+omnibus aliis distincta.
+RA1
+Ad primum ergo dicendum, quod sicut est in scientiis, quod una scientia specialis ab aliis distincta, scilicet prima
+philosophia, omnibus aliis scientiis perfectionem impartitur, inquantum objectum suum est commune secundum
+rem objectis omnium aliarum scientiarum; ita etiam est in virtutibus, ubi illud quod ad aliquam virtutem pertinet,
+potest poni in definitione virtutis communis; sicut patet de prudentia, quae perficit rationem virtutis in omnibus
+virtutibus moralibus: et ideo ratio recta, quae ad prudentiam pertinet, ponitur in definitione virtutis, ut patet 2
+ethic.: virtus est habitus electivus in mediocritate consistens determinata ratione, prout sapiens determinabit. Nec
+ex hoc habetur quod prudentia non sit specialis virtus, sed quod est generalis regula omnium virtutum; et ita
+etiam caritas, quae perficit omnes alias virtutes, ponitur in definitione virtutis; nec ex hoc habetur quod sit
+generalis virtus, sed generalis perfectio virtutum. Tamen hoc quod dicit Augustinus, quod est virtus ordo amoris,
+potest dupliciter accipi: vel pro ipso amore caritatis, et tunc praedicta responsio tenet; vel pro amore in communi,
+et sic amor sumitur pro amore naturali, qui inest cuilibet potentiae respectu sui objecti, quem virtus determinat:
+quia est ordinatio affectionum animae. Quidam autem non attendentes differentiam naturalis amoris vel
+appetitus, ad amorem et appetitum animalem, intantum erraverunt, quod posuerunt concupiscibilem non esse
+specialem vim, sed diffusam in omnibus aliis viribus; et similiter caritatem indistinctam ab aliis virtutibus.
+RA2
+Ad secundum dicendum, quod actus aliarum virtutum non attribuuntur caritati quasi ipsa eos eliciat, sed quia
+ipsa eos imperat. Habet autem specialem actum quem elicit, diligere Deum.
+RA3
+Ad tertium dicendum, quod non quodlibet bonum est objectum caritatis, sed bonum divinum; et hoc etiam
+quamvis sit in omnibus bonis aliqualiter, tamen habet specialem rationem, ut dictum est.
+RA4
+Ad quartum dicendum, quod praeceptum ad caritatem pertinens, non comprehendit omnia alia praecepta sicut
+universale ad illa, sed per quamdam reductionem, quia omnia praecepta ad illud ordinantur, sicut etiam actus
+omnium aliarum virtutum ad actum caritatis, inquantum omnes imperat.
+Unde ex hoc non ostenditur quod caritas sit generalis virtus, sed quod est generalis motor omnium virtutum.
+Articulus 4C
+AG1
+Ulterius. Videtur quod caritas non sit forma aliarum virtutum. Omnis enim forma vel est exemplaris vel
+intrinseca. Sed caritas non est forma exemplaris virtutum, quia tunc in eamdem speciem traherentur aliae
+virtutes: nec iterum est forma intrinseca: quia daret esse et speciem aliis virtutibus; et sic omnes virtutes essent
+eaedem specie, et essent in eodem subjecto ubi est caritas, nec ab ipsa distinguerentur. Ergo caritas nullo modo
+est forma virtutum.
+AG2
+Praeterea, caritas differt a gratia. Sed gratia dicitur esse forma omnium virtutum, quia facit actum meritorium.
+Ergo caritas non est forma.
+AG3
+Praeterea, sicut se habet potentia ad potentiam, ita habitus ad habitum. Sed ratio imponit modum omnibus aliis
+viribus. Ergo et habitus existens in ratione omnibus aliis habitibus; et ita fides est magis forma virtutum quam
+caritas; vel etiam prudentia, quae etiam ponitur a philosophis quasi forma omnium aliarum virtutum.
+AG4
+1167
+
+

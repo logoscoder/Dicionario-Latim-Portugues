@@ -1,0 +1,67 @@
+|#11
+Deinde cum dicit: et in ipso finita esse etc., ostendit quod sicut
+se consequuntur praemissa in divisibilitate, ita se consequuntur in hoc
+quod est esse finita vel infinita: ita quod si unum horum fuerit finitum,
+omnia erunt finita; et si infinitum, similiter.
+|#12
+Deinde cum dicit: secutum autem maxime etc., ostendit in quo
+praemissorum primo inveniatur divisibilitas et finitum seu infinitum.
+Et dicit quod maxime ab ipso quod mutatur, consequitur de omnibus aliis
+quod dividantur, et quod sint finita vel infinita: quia illud quod est
+primum naturaliter in motu, est ipsum mobile, et statim ipsi ex sua natura
+inest esse divisibile, et esse finitum vel infinitum; et sic ex ipso ad
+alia derivatur divisibilitas vel finitum.
+Quomodo autem ipsum mobile sit divisibile, et per ipsum alia dividantur,
+ostensum est prius. Sed quomodo etiam hoc sic se habet de infinito,
+ostendetur inferius in hoc eodem sexto libro.
+|+7
+
+Lectio 7
+
+|#1
+Postquam Philosophus ostendit qualiter dividatur motus, hic
+determinat de ordine partium motus.
+Et primo inquirit an sit primum in motu; secundo ostendit quomodo ea quae
+sunt in motu, praecedunt se invicem, ibi: quoniam autem omne quod mutatur,
+in tempore mutatur etc..
+Circa primum duo facit: primo ostendit quod id in quo primum mutatum est,
+est indivisibile; secundo ostendit quomodo in motu possit inveniri primum,
+et quomodo non possit, ibi: dicitur autem in quo primo mutatum est etc..
+Circa primum duo facit: primo praemittit quoddam quod est necessarium ad
+propositi ostensionem; secundo ostendit propositum, ibi: in quo autem primo
+mutatum est etc..
+Circa primum duo facit: primo proponit quod intendit; secundo probat
+propositum, ibi: quod mutatur enim etc..
+|#2
+Dicit ergo primo, quod quia omne quod mutatur, mutatur de uno termino
+in alium; necesse est omne quod mutatur, quando iam mutatum est, esse in
+termino ad quem.
+Deinde cum dicit: quod mutatur enim etc., probat propositum duabus
+rationibus; quarum prima est particularis, secunda universalis.
+Prima ratio talis est. Omne quod mutatur, oportet quod aut distet a termino
+a quo mutatur, sicut patet in motu locali, in quo locus a quo mutatur
+remanet, et mobile per motum fit distans ab eo; aut oportet quod ipse
+terminus a quo deficiat, sicut est in motu alterationis: cum enim ex albo
+fit nigrum, ipsa albedo deficit. Et ad huius propositionis manifestationem
+subiungit, quod vel mutari est idem quod deficere; vel ad hoc quod est
+mutari sequitur ipsum deficere, et ad hoc quod est mutatum esse sequitur
+defecisse, scilicet a termino a quo. Manifestum est autem quod sunt idem
+subiecto, sed differunt ratione.
+Nam deficere dicitur per respectum ad terminum a quo, mutatio autem magis
+denominatur a termino ad quem. Et ad manifestationem eius quod dixerat,
+subdit quod similiter utrumque se habet ad utrumque, idest sicut se habet
+deficere ad mutari, ita defecisse ad mutatum esse.
+Ex praemissis autem argumentatur ad propositum ostendendum in una specie
+mutationis, quae scilicet est inter contradictorie opposita, scilicet inter
+esse et non esse, ut patet in generatione et corruptione. Patet enim ex
+praemissis, quod omne quod mutatur deficit a termino a quo, et quod mutatum
+est iam defecit. Quando ergo aliquid mutatum est a non esse in esse, iam
+defecit a non esse; sed de quolibet verum est dicere, quod aut est aut non
+est: quod ergo mutatum est de non esse in esse, quando mutatum est, est in
+esse: et similiter quod mutatum est de esse in non esse, oportet quod sit
+in non esse. Manifestum est ergo quod in mutatione quae est secundum
+contradictionem, quod mutatum est, est in eo ad quod mutatum est. Et si est
+
+227
+
+

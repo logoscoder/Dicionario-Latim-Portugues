@@ -1,0 +1,62 @@
+Unde patet responsio ad primum et secundum.
+RA3
+Ad tertium dicendum, quod de ratione peccati est quod sit voluntarium. Voluntarium autem dicitur cuius
+principium est in ipso agente; et ideo quanto principium interius magis augetur, tanto etiam peccatum fit gravius;
+quanto autem principium exterius magis augetur, tanto peccatum fit levius. Passio autem est principium
+extrinsecum voluntatis; motus autem voluntatis est principium intrinsecum; et ideo quanto motus voluntatis
+fuerit fortior ad peccandum, tanto peccatum est maius; sed quanto passio fuerit fortior impellens ad peccandum,
+tanto fit minus.
+|a12 Articulus 12
+TTA
+Duodecimo quaeritur utrum aliquis possit ex malitia seu ex certa scientia peccare.
+TTB
+Et videtur quod non.
+AG1
+Ad illud enim homo intendit quod ex certa scientia operatur. Sed secundum quod dionysius dicit IV cap. De
+divin. Nomin., nullus intendens ad malum operatur. Ergo nullus ex certa scientia malum operatur.
+AG2
+Praeterea, nulla potentia potest moveri nisi in suum obiectum. Sed obiectum voluntatis est bonum apprehensum.
+Ergo nullus potest velle id quod scit esse malum; et ita nullus potest ex certa scientia peccare.
+AG3
+Sed dicendum, quod voluntas tendit in aliquod bonum, cui coniungitur malum, et pro tanto dicitur tendere in
+malum. Sed contra, quae non sunt separata secundum rem, possunt separari secundum actum animae, tam
+secundum intellectum quam secundum affectum; possumus enim intelligere rotundum sine materia sensibili; et
+aliquis vult esse abbas sine hoc quod sit monachus. Etsi ergo malum coniungatur alicui bono, non tamen oportet
+(ut videtur) quod feratur in malum ex hoc quod fertur in bonum cui coniungitur malum.
+AG4
+Praeterea, denominatio non fit ab eo quod est secundum accidens, sed ab eo quod per se competit rei, quia
+secundum hoc de re iudicatur. Sed aliquis ex hoc quod vult aliquid secundum se, non dicitur velle illud quod est
+ei adiunctum, nisi per accidens; sicut qui amat vinum propter dulce, non amat vinum nisi per accidens; et sic qui
+vult aliquod bonum cui coniungitur malum, non vult illud malum nisi per accidens. Non ergo debet dici quod ex
+malitia peccet, quasi volens malum.
+AG5
+Praeterea, quicumque peccat ex infirmitate, habet voluntatem mali quod coniungitur alicui bono. Si ergo ob hoc
+dicatur aliquis ex malitia peccare, sequitur etiam quod ille qui ex infirmitate peccat, ex malitia peccet: quod patet
+esse falsum.
+AG6
+Sed dicendum, quod voluntas eius qui ex malitia peccat ex se nititur in malum modo praedicto; non autem
+voluntas eius qui peccat ex infirmitate, sed quasi mota ex passione.
+Sed contra, ex se moveri ad aliquid, est secundum suam formam et naturam inclinari in illud, sicut grave ex se
+movetur Deorsum. Sed voluntas ex sua forma et natura non tendit in malum; sed magis in bonum. Ergo voluntas
+non potest ex se tendere in malum; et sic nullus ex malitia peccabit.
+AG7
+Praeterea, quia voluntas ex se tendit in bonum secundum communem rationem boni, oportet quod in differentias
+boni tendat ex aliquo alio determinante inclinata. Sunt autem differentiae boni, bonum verum, et bonum
+apparens. In verum autem bonum tendit voluntas ex iudicio rationis. Ergo in apparens bonum, cui coniungitur
+malum, non tendit ex se, sed ex aliquo alio inclinata.
+Nullus ergo ex malitia peccat.
+AG8
+Praeterea, malitia quandoque sumitur pro culpa, secundum quod opponitur virtuti; quandoque vero sumitur pro
+poena, secundum quod beda dicit quatuor esse contracta ex peccato, ignorantiam, infirmitatem, malitiam et
+concupiscentiam. Sed non potest dici aliquis ex malitia peccare si accipiatur malitia pro culpa, quia sic idem
+esset causa sui ipsius, scilicet malitia malitiae; neque iterum secundum quod sumitur pro poena, quia omnis
+poena pertinet ad rationem infirmitatis, et sic ex malitia peccare esset ex infirmitate peccare, quod est
+inconveniens. Nullus ergo ex malitia peccat.
+AG9
+Praeterea, contingit interdum quod aliquis aliquod levissimum peccatum ex certa scientia committit, puta
+dicendo verbum otiosum, aut mendacium iocosum. Sed peccatum quod est ex malitia dicitur esse gravissimum.
+Non ergo peccare ex certa scientia, est peccare ex malitia.
+AG10
+78
+
+

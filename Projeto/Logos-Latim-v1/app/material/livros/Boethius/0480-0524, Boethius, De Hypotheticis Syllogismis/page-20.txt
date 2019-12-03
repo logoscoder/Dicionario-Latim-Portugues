@@ -1,0 +1,62 @@
+si assumamus:
+Atqui non est homo;
+non necesse erit lapidem uel esse uel non esse. Tertius modus:
+Si est a, non est b; Et si non est b, necesse est esse c; Atqui non est c; Necesse est igitur non esse a.
+[2.11.4] Quod si a terminum tollat assumptio, nihil euenit necessarium: age enim sit propositio:
+Si homo est, non est inanimatus; Et si inanimatus non est, animatum esse necesse est; Atqui non est homo;
+non necesse est uel esse uel non esse animatum. Quartus:
+Si est a, non est b; Et si non est b, necesse est non esse c; At est c; Igitur a non erit.
+Quod si assumamus non esse a, nulla complexionis necessitas inuenitur: nam si sit propositio:
+Si homo est, non est irrationabile; Si irrationabile non est, inanimatum eum /316/ non esse necesse est; Atqui
+non est homo;
+non necesse est eum uel esse inanimatum uel non esse.
+[2.11.5] Quintus:
+Si a non est, b est; Et si b est, c esse necesse est; Atqui non est c; Igitur a esse necesse est.
+Quod si a terminus assumatur, non fiet syllogismus: sit enim propositio:
+Si irrationabile non est, rationabile est; Et si rationabile est, animal est; Atqui irrationabile est;
+non necesse erit esse uel non esse animal. Sextus:
+Si non est a, est b; Et si est b, necesse est non esse c; Atqui est c; Igitur a esse necesse est.
+[2.11.6] Quod si a terminum sumam, nulla necessitas inuenitur: sit enim propositio talis:
+Si animatum non sit, inanimatum est; Et si inanimatum est, sensibile non est; Atqui animatum est;
+non erit necesse uel esse uel non esse sensibile. Septimus:
+Si a non sit, b non est; Et si b non est, c esse necesse est; Atqui c non est; Igitur a esse necesse est.
+Quod si a terminum sumpserimus, complexio nullam faciet necessitatem: sit enim proposititio talis:
+Si non est animal, non est rationabile; Si rationabile non est, irrationabile est;
+et si assumamus:
+Atqui animal est;
+non necesse est uel esse irrationabile /318/ uel non esse.
+[2.11.7] Octauus modus est qui hac propositione formatur:
+Si a non est, nec b est; Et si b non est, c non esse necesse est; Atqui est c; Igitur a esse necesse est.
+Quod si a terminum sumpserimus, non fiet ulla necessitas: sit enim propositio:
+Si non est animal, non est homo; Et si non est homo, necesse est non esse risibile; Atqui est animal;
+non necesse erit uel esse uel non esse risibile. Ac de prima quidem figura satis dictum est, sequenti uero
+uolumine de secunda tractabitur. /320/
+LIBER 3
+[3.1.1] Conditionalium propositionum, quae tribus terminis constant, secunda figura est, quotiens cum aliquid
+dicitur uel esse uel non esse, consequitur ut duo quaedam uel esse uel non esse dicantur.
+Variantur autem in ipsis propositionibus uel etiam in conclusionibus secundum assumptionis ordinem multis
+modis; quod ut facilius innotescat, prius cunctae propositiones ordine digerantur. In quibus illud est praedicendum,
+quod saepe aequimodae propositiones ponuntur, saepe uero non; aequimodis quidem nullus est syllogismus.
+Aequimoda enim propositio est si ita dicamus:
+Si a est, b est; Et si a est, c non est;
+inaequimoda uero secundae figurae propositio est in his syllogismis hypotheticis quorum enuntiationes tribus
+terminis componuntur, ueluti cum ita proponimus:
+Si est a, est b; Si autem non est a, est c.
+[3.1.2] Huius propositionis tale intellegatur exemplum:
+Si animal est, animatum est; Si animal non est, insensibile est;
+hic igitur animal, quod est a, non est uno modo utrisque propositum sed ad b quidem afiirmatiue, ad c autem
+negatiue coniungitur, et id uocatur non aequimode praedicari. Quod si in utrisque a esse uel non esse poneretur,
+aequimoda praedicatio /322/ diceretur. Disponantur igitur (ut dictum est) omnes non aequimodae propositiones hoc
+modo:
+o Si est a, est b; si non est a, est c.
+o Si est a, est b; si non est a, non est c.
+o Si est a, non est b; si non est a, est c.
+o Si est a, non est b; si non est a, non est c.
+[3.1.3] Nunc igitur a quidem esse propositum est cum b, non esse uero cum c; rursus a non esse ponamus cum
+b, esse uero cum c:
+o Si non est a, est b; si est a, est c.
+o Si non est a, est b; si est a, non est c.
+o Si non est a, non est b; si est a, est c.
+o Si non est a, non est b; si est a, non est c.
+
+

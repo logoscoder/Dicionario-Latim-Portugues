@@ -1,0 +1,61 @@
+ARISTOTELES: DE INTERPRETATIONE
+[01]
+Primum oportet constituere quid sit nomen et quid uerbum, postea quid est negatio et affirmatio et enuntiatio
+et oratio. Sunt ergo ea quae sunt in uoce earum quae sunt in anima passionum notae, et ea quae scribuntur eorum quae
+sunt in uoce. Et quemadmodum nec litterae omnibus eaedem, sic nec eaedem uoces; quorum autem hae primorum
+notae, eaedem omnibus passiones animae sunt, et quorum hae similitudines, res etiam eaedem. De his quidem dictum
+est in his quae sunt dicta de anima -- alterius est enim negotii -- ; est autem, quemadmodum in anima aliquotiens
+quidem intellectus sine uero uel falso, aliquotiens autem cum iam necesse est horum alterum inesse, sic etiam in uoce;
+circa compositionem enim et diuisionem est falsitas ueritasque. Nomina igitur ipsa et uerba consimilia sunt sine
+compositione uel diuisione intellectui, ut 'homo' uel 'album', quando non additur aliquid; neque enim adhuc uerum aut
+falsum est. Huius autem signum: 'hircoceruus' enim significat aliquid sed nondum uerum uel falsum, si non uel 'esse'
+uel 'non esse' addatur uel simpliciter uel secundum tempus.
+[02] DE NOMINE
+Nomen ergo est uox significatiua secundum placitum sine tempore, cuius nulla pars est significatiua separata;
+in 'equiferus' enim 'ferus' nihil per se significat, quemadmodum in oratione quae est 'equus ferus'. At uero non
+quemadmodum in simplicibus nominibus, sic se habet et in compositis; in illis enim nullo modo pars significatiua est,
+in his autem uult quidem sed nullius separati, ut in 'equiferus' <'ferus'>. "Secundum placitum" uero, quoniam naturaliter
+nominum nihil est sed quando fit nota; nam designant et inlitterati soni, ut ferarum, quorum nihil est nomen.
+'Non homo' uero non est nomen; at uero nec positum est nomen quod illud oporteat appellari -- neque enim
+oratio aut negatio est -- sed sit nomen infinitum. 'Catonis' autem uel 'Catoni' et quaecumque talia sunt non sunt nomina
+sed casus nominis. Ratio autem eius est in aliis quidem eadem sed differt quoniam, cum 'est' uel 'fuit' uel 'erit'
+adiunctum, neque uerum neque falsum est, nomen uero semper; ut 'Catonis est' uel 'non est' -- nondum enim aliquid
+neque rerum dicit neque mentitur.
+[03] DE VERBO
+Verbum autem est quod consignificat tempus, cuius pars nihil extra significat; et est semper eorum quae de
+altero praedicantur nota. Dico autem quoniam consignificat tempus, ut 'cursus' quidem nomen est, 'currit' uero uerbum - consignificat enim nunc esse -- ; et semper eorum quae de altero dicuntur nota est, ut eorum quae de subiecto uel in
+subiecto.
+'Non currit' uero et 'non laborat' non uerbum dico; consignificat quidem tempus et semper de aliquo est,
+differentiae autem huic nomen non est positum; sed sit infinitum uerbum, quoniam similiter in quolibet est uel quod est
+uel quod non est. Similiter autem uel 'curret' uel 'currebat' non uerbum est sed casus uerbi; differt autem a uerbo
+quoniam hoc quidem praesens significat tempus, illa uero quod complectitur.
+Ipsa quidem secundum se dicta uerba nomina sunt et significant aliquid -- constituit enim qui dicit intellectum,
+et qui audit quiescit -- sed si est uel non est nondum significat. Neque enim 'esse' signum est rei uel 'non esse', nec si
+hoc ipsum 'est' purum dixeris: ipsum quidem nihil est, consignificat autem quandam compositionem quam sine
+compositis non est intellegere.
+[04] DE ORATIONE
+Oratio autem est uox significatiua, cuius partium aliquid significatiuum est separatum (ut dictio, non ut
+affirmatio); dico autem ut 'homo' significat aliquid (sed non quoniam est aut non est; sed erit affirmatio uel negatio, si
+quid addatur) sed non una 'hominis' syllaba; nec in hoc quod est 'sorex' 'rex' significat sed uox est nunc sola. In
+duplicibus uero significat quidem sed non secundum se, quemadmodum dictum est. Est autem oratio omnis quidem
+significatiua non sicut instrumentum sed (quemadmodum dictum est) secundum placitum; enuntiatiua uero non omnis
+sed in qua uerum uel falsum inest; non autem in omnibus, ut deprecatio oratio quidem est sed neque uera neque falsa.
+Et caeterae quidem relinquantur (rhetoricae enim uel poeticae conuenientior consideratio est; enuntiatiua uero
+praesentis considerationis est).
+[05]
+Est autem una prima oratio enuntiatiua affirmatio, deinde negatio; aliae uero coniunctione unae. Necesse est
+autem omnem orationem enuntiatiuam ex uerbo esse uel casu; et enim, hominis rationi si non aut 'est' aut 'erit' aut 'fuit'
+aut aliquid huiusmodi addatur, nondum est oratio enuntiatiua. Quare autem unum quiddam est et non multa 'animal
+gressibile bipes' -- neque enim eo quod propinque dicuntur unum erit -- est alterius hoc tractare negotii. Est autem una
+oratio enuntiatiua quae unum significat uel coniunctione una, plures autem quae plura et non unum uel inconiunctae.
+Nomen ergo et uerbum dictio sit sola, quoniam non est dicere sic aliquid significantem uoce enuntiare, uel aliquo
+interrogante uel non sed ipsum proferentem.
+Harum autem haec quidem simplex est enuntiatio, ut aliquid de aliquo uel aliquid ab aliquo, haec autem ex his
+coniuncta, uelut oratio quaedam iam composita.
+Est autem simplex enuntiatio uox significatiua de eo quod est aliquid uel non est, quemadmodum tempora
+diuisa sunt.
+[06]
+Affirmatio uero est enuntiatio alicuius de aliquo, negatio uero enuntiatio alicuius ab aliquo. Quoniam autem
+est enuntiare et quod est non esse et quod non est esse et quod est esse et quod non est non esse, et circa ea extrinsecus
+
+

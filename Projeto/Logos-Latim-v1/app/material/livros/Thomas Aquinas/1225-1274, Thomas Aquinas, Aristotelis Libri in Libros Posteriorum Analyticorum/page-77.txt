@@ -1,0 +1,58 @@
+considerationem moralem; intellectus et ratio, secundum quod significant potentias quasdam, pertinent ad
+considerationem naturalem, ut patet in libro de anima.
+|#12 Deinde cum dicit: solertia autem est subtilitas etc., facit mentionem de quodam habitu, qui specialiter
+respicit medium. Et dicit quod solertia est quaedam subtilis et facilis coniecturatio medii, propter quod aliquid
+evenit, et hoc quando non habet magnum tempus ad perspiciendum vel deliberandum: sicut si aliquis videns
+quod semper luna, quando convertitur opposita ad solem, splendorem habet per totum, statim intellexit propter
+quid hoc sit, scilicet quia illustratur a sole. Et similiter in actibus humanis, si aliquis videat aliquem pauperem
+altercantem cum aliquo divite, cognoscit quod ille dives accommodavit ei aliquid, et altercantur de redditione;
+vel si aliquis videns aliquos, qui prius fuerant inimici, esse factos amicos, cognovit propter quid hoc sit, quia
+scilicet sunt inimici eiusdem. Et quod cognoscere medium sit cognoscere propter quid, manifestat dupliciter:
+primo quidem per rationem, quia talis solers videns omnes causas medias, cognovit et ultimas, in quas fit ultimo
+resolutio, per quas cognoscitur propter quid; secundo, manifestat per exemplum ordinatum in syllogismo.
+Ut ponamus lunam esse c, idest minorem extremitatem; sed esse splendidum per oppositionem ad solem sit a,
+idest maior extremitas; sed illuminari a sole sit b, idest medium. C enim est b, idest luna habet lumen a sole; et a
+inest ipsi b, quia quod habet lumen a sole splendet conversum ad solem; et sic probatur quod a insit ipsi c per b.
+Unde patet quod solertia est quaedam perspicacitas velociter apprehendendi medium: quod contingit ex naturali
+aptitudine, et etiam ex exercitio. Posuit autem diversa exempla solertiae, ut ostendat quod in omnibus praedictis
+habitibus, scilicet prudentia et sapientia etc., possit esse solertia.
+|*PAN.2 : LIBER 2
+|+1 Lectio 1
+|#1 Postquam Philosophus in primo libro determinavit de syllogismo demonstrativo, in hoc libro intendit
+determinare de principiis eius. Est autem duplex principium demonstrativi syllogismi, scilicet medium eius et
+primae propositiones indemonstrabiles. Dividitur ergo liber iste in duas partes: in prima, determinat de
+cognitione medii in demonstrationibus; in secunda, de cognitione primarum propositionum; ibi: de principiis
+autem qualiter fiunt cognita etc.. Quia enim in primo libro habitum est quod omnis doctrina et omnis disciplina
+fit ex praeexistenti cognitione; in demonstrationibus autem cognitio conclusionis acquiritur per aliquod medium
+et per primas propositiones indemonstrabiles; residuum erat investigare qualiter ista innotescant.
+Prima autem pars dividitur in duas partes: in prima, investigat quid sit medium in demonstrationibus; in secunda
+parte inquirit quomodo illud medium nobis innotescat; ibi: quomodo autem quod quid est ostenditur etc..
+Quia vero medium in demonstrationibus assumitur ad aliquid innotescendum de quo poterat esse dubitatio vel
+quaestio, ideo circa primum duo facit: primo enim, ponit numerum quaestionum; secundo, ex ipsis quaestionibus
+investigat propositum, ostendens qualiter quaestiones pertineant ad medium demonstrationum; ibi: quaerimus
+autem cum quaeramus etc.. Circa primum tria facit: primo, enumerat quaestiones; secundo, manifestat
+compositas quaestiones; ibi: cum quidem enim utrum hoc etc.; tertio, simplices; ibi: quaedam autem alio modo
+etc..
+|#2 Dicit ergo primo quod aequalis est numerus quaestionum et eorum quae sciuntur. Cuius ratio est, quia
+scientia est cognitio per demonstrationem acquisita. Eorum autem oportet per demonstrationem cognitionem
+acquirere, quae ante fuerint ignota: et de his quaestiones facimus, quae ignoramus.
+Unde sequitur quod ea quae quaeruntur sint aequalia numero his quae sciuntur. Quatuor autem sunt quae
+quaeruntur, scilicet quia, propter quid, si est et quid est: ad quae quatuor reduci potest quidquid est quaeribile vel
+scibile. Dividit autem in I topicorum quaestiones sive problemata aliter in quatuor, quae omnia comprehenduntur
+sub una harum quaestionum, quae dicitur quaestio quia. Non enim ibi intendit nisi de quaestionibus ad quas
+dialectice disputatur.
+|#3
+Deinde cum dicit: cum quidem enim utrum hoc etc., manifestat propositas quaestiones, et primo
+compositas. Ad cuius evidentiam considerandum est quod, cum scientia non sit nisi veri, verum autem
+significetur solum per enunciationem, oportet solam enunciationem esse scibilem, et per consequens
+quaeribilem. Sicut autem in II perihermeneias dicitur, enunciatio dupliciter formatur.
+Uno quidem modo, ex nomine et verbo absque aliquo apposito, ut cum dicitur homo est; alio modo, quando
+aliquid tertium adiacet, ut cum dicitur homo est albus. Potest igitur quaestio formata referri, vel ad primum
+modum enunciationis, et sic erit quasi quaestio simplex; vel ad secundum modum, et sic erit quaestio quasi
+composita, vel in numerum ponens, quia videlicet quaeritur de compositione duorum. Circa hunc ergo modum
+enunciationis duplex quaestio formari potest. Una quidem, an hoc sit verum quod dicitur. Et hanc quaestionem
+primo exponit, dicens quod cum de aliqua re quaerimus utrum illa res sit hoc aut illud, et sic quodammodo
+ponimus in numerum (accipiendo scilicet duo, quorum unum est praedicatum et aliud subiectum; puta cum
+77
+
+

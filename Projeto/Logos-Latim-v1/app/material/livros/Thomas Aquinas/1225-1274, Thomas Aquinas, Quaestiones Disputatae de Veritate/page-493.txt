@@ -1,0 +1,63 @@
+Sed hoc quod additur liberum non trahit extra genus actus, quia actus liberi dicuntur qui sunt in potestate agentis.
+Ergo liberum arbitrium est actus, et non potentia.
+AG14
+Praeterea, secundum Augustinum in libro de Trinit., id quod excedit suum subiectum, inest alicui essentialiter,
+non accidentaliter: unde probat, quod amor et notitia insunt menti essentialiter, quia mens non solum seipsam
+amat et cognoscit, sed alia. Liberum autem arbitrium extendit se ultra subiectum, quia anima libere agit in ea
+quae sunt extra ipsam. Ergo liberum arbitrium essentialiter inest animae; et ita non est potentia, cum potentia
+essentiae superaddatur.
+AG15
+Praeterea, nulla potentia educit se in actum. Sed liberum arbitrium educit se in actum cum voluerit. Ergo liberum
+arbitrium non est potentia.
+SC1
+Sed contra. Secundum Philosophum in II ethic., cap. V, tria sunt in anima: potentia, habitus et passio. Liberum
+autem arbitrium non est passio, cum sit in superiori animae parte: passio autem et passibilis qualitas sunt solum
+circa partem sensitivam; similiter non est habitus, cum sit subiectum gratiae: habet enim se ad gratiam,
+secundum Augustinum, ut equus ad sessorem; habitus vero non potest alterius habitus esse subiectum. Ergo
+relinquitur quod liberum arbitrium sit potentia.
+SC2
+Praeterea, hoc videtur inter potentiam et habitum distare, quod potentia quae se ad opposita habet, per habitum
+determinatur ad unum. Sed liberum arbitrium nominat aliquid ad opposita se habens, nullo modo determinatum
+ad unum. Ergo liberum arbitrium est potentia, et non habitus.
+SC3
+Praeterea, bernardus dicit: tolle liberum arbitrium, et non est quod salvetur. Sed id quod salvatur, est anima, vel
+animae potentia.
+Ergo liberum arbitrium, cum non sit anima, quia ad solam partem superiorem pertinet, relinquitur quod sit
+potentia.
+SC4
+Praeterea, magister dicit in II Sent., dist. 24: illa animae rationalis potentia qua velle bonum vel malum potest,
+utrumque discernens, liberum arbitrium nuncupatur; et sic liberum arbitrium est potentia.
+SC5
+Praeterea, Anselmus dicit, quod liberum arbitrium est potestas conservandi rectitudinem voluntatis propter se; et
+sic idem quod prius.
+CO
+Respondeo. Dicendum, quod liberum arbitrium, si vis vocabuli attendatur, nominat actum; sed ex usu loquendi
+tractum est ut significet id quod est principium actus.
+Cum enim dicimus esse hominem liberi arbitrii, non intelligimus quod actu libere iudicet, sed quod habeat in se
+unde possit libere iudicare. Unde, si iste actus qui est libere iudicare, habeat in se aliquid quod vim potentiae
+excedat, tunc liberum arbitrium nominabit habitum vel potentiam per habitum perfectam; sicut moderate irasci
+dicit aliquid quod vim irascibilis excedit: nam moderari iram passionis non potest irascibilis per seipsam, nisi
+fuerit aliquo habitu perfecta, secundum quem in ea rationis moderatio imprimatur.
+Si vero libere iudicare non importet in se aliquid quod vim potentiae excedat, liberum arbitrium non nominabit
+nisi potentiam absolute; sicut irasci non excedit vim potentiae irascibilis, unde proprium eius principium potentia
+est, et non habitus.
+Constat autem quod iudicare, si nihil addatur, non excedit vim potentiae, eo quod est alicuius potentiae actus,
+scilicet rationis, per propriam naturam, sine hoc quod aliquis habitus superadditus requiratur. Hoc autem quod
+additur libere, similiter vim potentiae non excedit. Nam secundum hoc aliquid libere fieri dicitur quod est in
+potestate facientis.
+Esse autem aliquid in potestate nostra inest nobis secundum aliquam potentiam, non autem per aliquem habitum,
+scilicet per voluntatem.
+Et ideo liberum arbitrium habitum non nominat, sed potentiam voluntatis vel rationis, unam siquidem per
+ordinem ad alteram. Sic enim actus electionis progreditur, ab una scilicet earum per ordinem ad aliam, secundum
+hoc quod Philosophus dicit VI ethicorum, quod electio est appetitus intellectivi, vel intellectus appetitivi.
+Patet etiam ex dictis, unde quidam moti sunt ad ponendum liberum arbitrium esse habitum.
+Quidam enim hoc posuerunt propter id quod superaddit liberum arbitrium super voluntatem et rationem, scilicet
+ordinem unius ad alteram. Sed hoc non potest rationem habitus habere, nomine habitus proprie accepto: nam
+habitus est qualitas quaedam, secundum quam inclinatur potentia ad actum.
+Quidam vero dixerunt liberum arbitrium esse habitualem potentiam, considerantes facilitatem ex qua libere
+iudicamus. Sed hoc, ut iam dictum est rationem potentiae non excedit.
+RA1
+
+493
+
+

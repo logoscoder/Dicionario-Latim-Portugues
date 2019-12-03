@@ -1,0 +1,52 @@
+Generatio autem ipsorum atque ortus huiusmodi investigatione colligitur, quam scilicet Eratosthenes
+cribrum nominabat, quod cunctis inparibus in medio conlocatis per eam quam tradituri sumus artem, qui primi
+quive secundi quique tertii generis videantur esse distinguitur. Disponantur enim a ternario numero cuncti in
+ordinem inpares in quamlibet longissimam porrectionem. iij v vij viij xj xiij xv xvij xviiij xxj xxiij xxv xxvij
+xxviiij xxxj xxxiij xxxv xxxvij xxxviiij xlj xliij xlv xlvij. His igitur ita dispositis considerandum, primus numerus
+quem eorum, qui sunt in ordine positi, primum metiri possit. Sed duobus praeteritis illum, qui post eos est
+positus, mox metitur, et, si post eundem ipsum, quem mensus est, alii duo transmissi sint, illum qui post duos est,
+rursus metitur, et eodem modo, si duos quis reliquerit, post eos qui est, a primo numero metiendus est; eodemque
+modo relictis semper duobus omnes a primo in infinitum pergentes metientur.
+Sed id non vulgo neque confuse. Nam primus numerus illum, qui est post duos secundum se locatos, per
+suam quantitatem metitur. Ternarius enim intermissis duobus id est v et vij novenarium metitur, et hoc per suam
+quantitatem id est per ternarium. Ternarius enim numerus tertio viiij metitur. Si autem post novenarium duos
+reliquero, qui mihi post illos incurrerit, a primo metiendus est per secundi inparis quantitatem, id est per
+quinarium. Nam si post viiij duos relinquam, id est xj et xiij ternarius numerus xv metietur per secundi numeri
+quantitatem, id est per quinarii, quoniam ternarius xv quinquies metitur. Rursus si a quindenario inchoans duos
+intermisero, qui posterior positus est, eius primus numerus mensura est per tertii inparis pluralitatem. Nam si
+post xv intermisero xvij et xviiij, incurrit xxj, quem ternarius numerus secundum septenarium metitur xxj enim
+numeri ternarius septima pars est, atque ideo hoc in infinitum faciens repperio primum numerum, si binos
+intermiserit, omnes sequentes posse metiri secundum quantitatem positorum ordine inparium numerorum.
+Sin vero quinarius numerus, qui in secundo loco est constitutus, velit quis, cuius prima ac deinceps
+mensura sit, invenire, transmissis iiij inparibus quintus ei, quem metiri possit, occurrit. Intermittantur enim iiij
+inpares, id est vij et viiij et xj et xiij. Post hos est xv, quem quinarius metitur secundum primi scilicet quantitatem
+id est ternarii. V enim xv tertio metitur. Ac deinceps si quattuor intermittat, eum, qui post illos locatus est
+secundus, id est quinarius, sui quantitate metitur. Nam post xv intermissis xvij et xviiij et xxj et xxiij post eos
+xxv repperio, quos quinarius scilicet numerus sua pluralitate metitur. Quinquies enim quinario multiplicato xxv
+succrescunt. Si vero post hunc quilibet iiij intermittat, eadem ordinis servata constantia, qui eos sequitur,
+secundum tertii, id est septenarii numeri, summam a quinario metietur; atque haec est infinita progressio.
+Si vero tertius numerus quem metiri possit, exquiritur, sex in medio relinquentur, et quem septimum ordo
+monstraverit, hic per primi numeri, id est ternarii, quantitatem metiendus est; et post illum sex aliis interpositis,
+quem post eos numerum series dabit, per quinarium, id est per secundum, tertii eum mensura percurret. Sin vero
+alios rursus sex in medio quis relinquat, ille, qui sequitur, per septenarium numerum ab eodem septenario
+metiendus est id est per tertii quantitatem; atque hic usque in extremum ratus ordo progreditur.
+Suscipiant ergo metiendi vicissitudinem quemadmodum sunt in ordinem naturaliter inpares constituti.
+Metientur autem, si per pares numeros a binario inchoantes positos inter se inpares rata intermissione transsiliant,
+ut primus duo, secundus iiij, tertius vj quartus viij quintus x, vel si locos suos conduplicent et secundum
+duplicationem terminos intermittant, ut ternarius qui primus est numerus et unus -- omnis enim primus unus est - bis locum suum multiplicet faciatque bis unum; qui cum ij sint, primus ij medios transeat. Rursus secundus, id
+est quinarius, si locum suum duplicet, iiij explicabit, hic quoque uti iiij intermittat. Item si septenarius, qui tertius
+est, locum suum duplicet, sex creabit. Bis enim iij senarium iungunt. Hic ergo in ordinem vj relinquat. Quartus
+quoque si locum suum duplicet, viij succrescent. Ille quoque octo transsiliat. Atque hoc quidem in ceteris
+perspiciendum.
+Modum autem mensionis secundum ordinem conlocatorum ipsa series dabit. Nam primus primum quem
+numerat, secundum primum numerat, id est secundum se; et secundum primus quem numerat, per secundum
+numerat, et tertium per tertium et quartum item per quartum. Cum autem secundus mensionem susceperit,
+primum quem numerat, secundum primum metitur, secundum vero quem numerat, per se, id est per secundum,
+et tertium per tertium, et in ceteris eadem similitudine mensura constabit. Alios ergo si respicias vel qui alios
+mensi sunt, vel qui ipsi ab aliis metiuntur, invenies omnium simul communem mensuram esse non posse, neque
+ut omnes quemquam alium simul numerent; quosdam autem ex his ab alio posse metiri, ita ut ab uno tantum
+numerentur; alios vero, ut etiam a pluribus; quosdam autem, ut praeter unitatem eorum nulla mensura sit. Qui
+ergo nullam mensuram praeter unitatem recipiunt, hos primos et incompositos iudicamus, qui vero aliquam
+12
+
+

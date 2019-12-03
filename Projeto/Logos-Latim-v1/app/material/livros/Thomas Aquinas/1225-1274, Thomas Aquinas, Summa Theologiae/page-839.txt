@@ -1,0 +1,62 @@
+Est etiam in voluntate, quia non potest esse cum voluntate perversa, ut in eodem libro dicitur.
+Ergo una virtus potest esse in duabus potentiis.
+SC
+Sed contra, virtus est in potentia animae sicut in subiecto.
+Sed idem accidens non potest esse in pluribus subiectis.
+Ergo una virtus non potest esse in pluribus potentiis animae.
+CO
+Respondeo dicendum quod aliquid esse in duobus, contingit dupliciter. Uno modo, sic quod ex aequo sit in
+utroque.
+Et sic impossibile est unam virtutem esse in duabus potentiis, quia diversitas potentiarum attenditur secundum
+generales conditiones obiectorum, diversitas autem habituum secundum speciales; unde ubicumque est diversitas
+potentiarum, est diversitas habituum, sed non convertitur.
+Alio modo potest esse aliquid in duobus vel pluribus, non ex aequo, sed ordine quodam. Et sic una virtus
+pertinere potest ad plures potentias; ita quod in una sit principaliter, et se extendat ad alias per modum
+diffusionis, vel per modum dispositionis; secundum quod una potentia movetur ab alia, et secundum quod una
+potentia accipit ab alia.
+RA1
+Ad primum ergo dicendum quod idem actus non potest aequaliter, et eodem ordine, pertinere ad diversas
+potentias, sed secundum diversas rationes, et diverso ordine.
+RA2
+Ad secundum dicendum quod scire praeexigitur ad virtutem moralem, inquantum virtus moralis operatur
+secundum rationem rectam.
+Sed essentialiter in appetendo virtus moralis consistit.
+RA3
+Ad tertium dicendum quod prudentia realiter est in ratione sicut in subiecto, sed praesupponit rectitudinem
+voluntatis sicut principium, ut infra dicetur.
+|a3 Articulus 3
+AG1
+Ad tertium sic proceditur. Videtur quod intellectus non sit subiectum virtutis.
+Dicit enim Augustinus, in libro de moribus eccles., quod omnis virtus est amor.
+Subiectum autem amoris non est intellectus, sed solum vis appetitiva.
+Ergo nulla virtus est in intellectu.
+AG2
+Praeterea, virtus ordinatur ad bonum, sicut ex supradictis patet.
+Bonum autem non est obiectum intellectus, sed appetitivae virtutis. Ergo subiectum virtutis non est intellectus,
+sed appetitiva virtus.
+AG3
+Praeterea, virtus est quae bonum facit habentem, ut Philosophus dicit.
+Sed habitus perficiens intellectum non facit bonum habentem, non enim propter scientiam vel artem dicitur
+homo bonus.
+Ergo intellectus non est subiectum virtutis.
+SC
+Sed contra est quod mens maxime dicitur intellectus.
+Subiectum autem virtutis est mens; ut patet ex definitione virtutis supra inducta.
+Ergo intellectus est subiectum virtutis.
+CO
+Respondeo dicendum quod, sicut supra dictum est, virtus est habitus quo quis bene operatur. Dupliciter autem
+habitus aliquis ordinatur ad bonum actum. Uno modo, inquantum per huiusmodi habitum acquiritur homini
+facultas ad bonum actum, sicut per habitum grammaticae habet homo facultatem recte loquendi. Non tamen
+grammatica facit ut homo semper recte loquatur, potest enim grammaticus barbarizare aut soloecismum facere.
+Et eadem ratio est in aliis scientiis et artibus. Alio modo, aliquis habitus non solum facit facultatem agendi, sed
+etiam facit quod aliquis recte facultate utatur, sicut iustitia non solum facit quod homo sit promptae voluntatis ad
+iusta operandum, sed etiam facit ut iuste operetur.
+Et quia bonum, sicut et ens, non dicitur simpliciter aliquid secundum id quod est in potentia, sed secundum id
+quod est in actu; ideo ab huiusmodi habitibus simpliciter dicitur homo bonum operari, et esse bonus, puta quia
+est iustus vel temperatus; et eadem ratio est de similibus. Et quia virtus est quae bonum facit habentem, et opus
+eius bonum reddit, huiusmodi habitus simpliciter dicuntur virtutes, quia reddunt bonum opus in actu, et
+simpliciter faciunt bonum habentem.
+
+839
+
+

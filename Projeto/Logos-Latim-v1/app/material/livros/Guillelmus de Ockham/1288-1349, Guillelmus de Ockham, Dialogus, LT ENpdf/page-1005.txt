@@ -1,0 +1,61 @@
+28.
+29.
+30.
+
+31.
+
+32.
+33.
+34.
+
+15.3
+
+"Edd" to mean all the early editions, "Mss" all the manuscripts. The siglum of a witness with "-m" or "b" added will be used to mean that the variant is found in the margin or between lines in the witness:
+e.g. "Frm", Frb".
+Insertion in margin or between lines of something omitted from the text of the witness will be noted
+thus: "omitted Fr, added Frm"--there is no need to say what is added, since the reader will assume that it
+is the same as what is omitted.
+Marginal or interlinear material not part of the text (such as summaries, queries, comments, etc.) will
+not be recorded in the apparatus. If such material seems especially significant (e.g. Plumetot's
+marginalia to BN ms. lat. 14313) it can be dealt with in a note or an essay.
+Capitalisation: In the text: Apostolus for Paul, apostol- otherwise; imperator for emperor, Imperium for
+[Roman] Empire; papa for pope even in an individual's title [Gregorius papa for Pope Gregory]; capital
+for Deus; capital for Dominus when it means Christ or God, capitals for Spiritus Sanctus; capitals for
+Sacra Scriptura and Divina Scriptura; capitals for names of orders, and for Order when it refers to a
+named order. In the apparatus, lemmata and variants will all be lower case (in the apparatus only sigla
+will be capitalised).
+In the first and third series of footnotes there will be no terminal stops. In the second series when the
+note consists of references there will be no full stop and no initial capital; but normal capitalisation and
+punctuation will be used for material other than references (e.g. in comments by the editor). For
+example: "col. 49; cf. gloss, s. v. excipiatur auctoritas, col. 112"; "col. 565. But it seems to show the
+opposite."
+In cross-references in the second footnote series the word in the text (e.g. prius) will be repeated at the
+beginning of the note, lower case, followed by a colon.
+Magister and Discipulus as the characters speaking will be bold and followed by a colon.
+If further experience suggests that any of the above points need to be modified, this will be done by
+consultation among the editors and with the Medieval Text committee.
+
+NOTES
+
+1. This is the traditional aim of a critical edition. We do not accept the view that an editor's
+task is to present without "contamination" the text of the best or most representative
+manuscript(s), or the texts of the extant manuscripts. We will attempt to go behind the
+witnesses to reconstruct the text Ockham intended to circulate.
+2. For Offler's practice see, for example, OP, vol. 1, (edition 2), pp. 294-5. Offler italicises all
+quotations, including unacknowledged quotations. He does not italicise any word or letter not
+found in the modern edition of the source; he does not seem to have any way of indicating
+transpositions or omissions. Differences between the quotation and the modern edition of the
+source are noted in his apparatus (whereas we will put them in the second footnote series).
+See OP, vol. 4, p. 57.
+3. Offler mixes modern Latin spelling (e.g. haeresis, where MSS have heresis) with medieval
+spelling (e.g. nichil, dampnatione, temptat).
+4. In general, "ae" and "oe" dipthongs are reduced to "e", "tio" becomes "cio", "v" is always
+used at the beginning of words and "u" in other positions ("vnde", "amaui"); there are some
+differences in the spelling of some words (e.g "nichil", "dampnare", "tollerare"). It seems that
+the "v/u" convention is a matter of letter form rather than spelling, so we would not adopt it.
+We are considering whether this may be true also of "tio/cio".
+5. English rather than German; thus there will be no comma before a defining relative clause.
+6. Offler uses small roman numerals; see OP, vol. 4, p. 103.
+1005
+
+

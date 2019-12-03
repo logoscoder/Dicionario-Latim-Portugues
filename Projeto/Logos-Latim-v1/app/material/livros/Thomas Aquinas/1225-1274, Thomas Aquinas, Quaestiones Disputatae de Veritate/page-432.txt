@@ -1,0 +1,61 @@
+RA10
+Ad decimum dicendum, quod secundum Augustinum in libro de natura boni, modus, species et ordo non ideo
+dicuntur mala quia in se mala sint, sed quia vel minora sunt quam esse debeant, vel quia non accommodantur
+quibus accommodanda sunt; et ideo ex aliqua privatione circa modum, speciem et ordinem dicuntur mala, non
+autem ex seipsis.
+RA11
+Ad undecimum dicendum, quod verbum Ambrosii non est hoc modo intelligendum quod lux omnino careat
+modo, cum habeat limitatam speciem et virtutem; sed quia non determinatur respectu aliquorum corporalium, eo
+quod ad omnia corporalia se extendit, in quantum omnia nata sunt vel illuminari, vel alios effectus per lucem
+recipere, ut patet per dionysium in IV cap. De divinis nominibus.
+RA12
+Ad duodecimum dicendum, quod caritas secundum esse suum quod habet in subiecto, modum habet, et sic
+creatura quaedam est; prout vero comparatur ad obiectum infinitum, quod Deus est, non habet modum, ultra
+quem caritas nostra procedere non debeat.
+|q22 Quaestio 22
+Prologus
+PR1
+Primo utrum omnia appetant bonum.
+PR2
+Secundo utrum omnia appetant ipsum Deum.
+PR3
+Tertio utrum appetitus sit quaedam specialis potentia animae.
+PR4
+Quarto utrum voluntas in rationalibus sit alia potentia praeter appetitivam sensitivae partis.
+PR5
+Quinto utrum voluntas aliquid de necessitate velit.
+PR6
+Sexto utrum voluntas de necessitate velit quidquid vult.
+PR7
+Septimo utrum aliquis mereatur illud volendo quod de necessitate vult.
+PR8
+Octavo utrum Deus possit cogere voluntatem.
+PR9
+Nono utrum aliqua creatura possit immutare voluntatem, vel imprimere in ipsam.
+PR10
+Decimo utrum voluntas et intellectus sint eadem potentia.
+PR11
+Undecimo utrum voluntas sit altior potentia quam intellectus, vel e converso.
+PR12
+Duodecimo utrum moveat voluntas intellectum, et alias vires animae.
+PR13
+Tertiodecimo utrum intentio sit actus voluntatis.
+PR14
+Quartodecimo utrum eodem motu voluntas velit finem, et intendat ea quae sunt ad finem.
+PR15
+Quintodecimo utrum electio sit actus
+|a1 Articulus 1
+TTA
+Quaestio est de appetitu boni et voluntate.
+Et primo quaeritur utrum omnia bonum appetant.
+TTB
+Et videtur quod non.
+AG1
+Eodem enim modo ens se habet ad verum et bonum, cum convertatur cum utroque; sicut etiam cognitio se habet
+ad verum, sic appetitus ad bonum. Non autem omne ens cognoscit verum. Ergo nec omne ens appetit bonum.
+AG2
+Praeterea, remoto priori, removetur posterius.
+
+432
+
+

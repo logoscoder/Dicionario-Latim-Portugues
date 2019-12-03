@@ -1,0 +1,60 @@
+Praeterea, si aliqua duo sunt penitus aequalia, non magis movetur homo ad unum quam ad aliud, sicut famelicus,
+si habet cibum aequaliter appetibilem in diversis partibus, et secundum aequalem distantiam, non magis movetur
+ad unum quam ad alterum, ut Plato dixit, assignans rationem quietis terrae in medio, sicut dicitur in II de caelo.
+Sed multo minus potest eligi quod accipitur ut minus, quam quod accipitur ut aequale. Ergo si proponantur duo
+vel plura, inter quae unum maius appareat, impossibile est aliquod aliorum eligere. Ergo ex necessitate eligitur
+illud quod eminentius apparet.
+Sed omnis electio est de omni eo quod videtur aliquo modo melius. Ergo omnis electio est ex necessitate.
+SC
+Sed contra est quod electio est actus potentiae rationalis; quae se habet ad opposita, secundum Philosophum.
+CO
+Respondeo dicendum quod homo non ex necessitate eligit. Et hoc ideo, quia quod possibile est non esse, non
+necesse est esse. Quod autem possibile sit non eligere vel eligere, huius ratio ex duplici hominis potestate accipi
+potest. Potest enim homo velle et non velle, agere et non agere, potest etiam velle hoc aut illud, et agere hoc aut
+illud. Cuius ratio ex ipsa virtute rationis accipitur. Quidquid enim ratio potest apprehendere ut bonum, in hoc
+voluntas tendere potest. Potest autem ratio apprehendere ut bonum non solum hoc quod est velle aut agere; sed
+hoc etiam quod est non velle et non agere. Et rursum in omnibus particularibus bonis potest considerare rationem
+boni alicuius, et defectum alicuius boni, quod habet rationem mali, et secundum hoc, potest unumquodque
+huiusmodi bonorum apprehendere ut eligibile, vel fugibile. Solum autem perfectum bonum, quod est beatitudo,
+non potest ratio apprehendere sub ratione mali, aut alicuius defectus. Et ideo ex necessitate beatitudinem homo
+vult, nec potest velle non esse beatus, aut miser. Electio autem, cum non sit de fine, sed de his quae sunt ad
+finem, ut iam dictum est; non est perfecti boni, quod est beatitudo, sed aliorum particularium bonorum.
+Et ideo homo non ex necessitate, sed libere eligit.
+RA1
+Ad primum ergo dicendum quod non semper ex principiis ex necessitate procedit conclusio, sed tunc solum
+quando principia non possunt esse vera si conclusio non sit vera.
+Et similiter non oportet quod semper ex fine insit homini necessitas ad eligendum ea quae sunt ad finem, quia
+non omne quod est ad finem, tale est ut sine eo finis haberi non possit; aut, si tale sit, non semper sub tali ratione
+consideratur.
+RA2
+Ad secundum dicendum quod sententia sive iudicium rationis de rebus agendis est circa contingentia, quae a
+nobis fieri possunt, in quibus conclusiones non ex necessitate sequuntur ex principiis necessariis absoluta
+necessitate, sed necessariis solum ex conditione, ut, si currit, movetur.
+RA3
+Ad tertium dicendum quod nihil prohibet, si aliqua duo aequalia proponantur secundum unam considerationem,
+quin circa alterum consideretur aliqua conditio per quam emineat, et magis flectatur voluntas in ipsum quam in
+aliud.
+|q14 Quaestio 14
+|a0 Prologus
+Deinde considerandum est de consilio. Et circa hoc quaeruntur sex.
+Primo, utrum consilium sit inquisitio. Secundo, utrum consilium sit de fine, vel solum de his quae sunt ad finem.
+Tertio, utrum consilium sit solum de his quae a nobis aguntur. Quarto, utrum consilium sit de omnibus quae a
+nobis aguntur. Quinto, utrum consilium procedat ordine resolutorio.
+Sexto, utrum consilium procedat in infinitum.
+|a1 Articulus 1
+AG1
+Ad primum sic proceditur. Videtur quod consilium non sit inquisitio.
+Dicit enim Damascenus quod consilium est appetitus.
+Sed ad appetitum non pertinet inquirere.
+Ergo consilium non est inquisitio.
+AG2
+Praeterea, inquirere intellectus discurrentis est; et sic Deo non convenit, cuius cognitio non est discursiva, ut in
+primo habitum est.
+Sed consilium Deo attribuitur, dicitur enim ad Ephes. I, quod operatur omnia secundum consilium voluntatis
+suae.
+Ergo consilium non est inquisitio.
+AG3
+Praeterea, inquisitio est de rebus dubiis.
+657
+
+

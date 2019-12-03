@@ -1,0 +1,58 @@
+debet dici de talibus 'Petrus incipit esse talis qualis est Paulus', ponatur quod uterque sit primo infidelis et postea
+uterque fiat fidelis. Tunc ista propositio 'Petrus incipit esse talis qualis est Paulus' patest simpliciter concedi, quia
+nunc primo est talis qualis est Paulus et ante non fuit talis qualis est Paulus. Tamen haec est falsa de uirtute
+sermonis 'Petrus incipit esse similis Paulo', quia prius erat similis Paulo. Improprie tamen accipi potest sub hoc
+sensu
+'Petrus est simiiis Paulo, et non erat similis Paulo secundum aliquam qualitatem secundum quam est
+nunc similis'.
+'Petrus est simiiis Paulo, et non erat similis Paulo secundum aliquam qualitatem secundum quam est
+nunc similis'.
+Sic igitur patet quod propositio in qua ponitur hoc uerbum 'incipit' habet duas exponentes, et per
+consequens aequiualet uni copulatiuae.
+Sic igitur patet quod propositio in qua ponitur hoc uerbum 'incipit' habet duas exponentes, et per
+consequens aequiualet uni copulatiuae.
+Et similiter propositio in qua ponitur hoc uerbum 'desinit' habet duas exponentes. Una exponens est una
+propositio de praesenti affirmatiua et alia est una negatiua de futuro, non qualiscumque sed cum hoc addito 'non
+erit immediate post'. Sicut ista 'Sortes desinit esse albus' habet istas exponentes 'Sartes est albus' et 'immediate
+post non erit albus'. Et sicut dictum est de propositionibus in quibus ponitur hoc uerbum 'incipit', quod
+quandoque possunt distingui secundum amphiboliam, eo quod possunt accipi proprie et improprie, ita possunt
+multae propositiones in quibus ponitur hoc uerbum 'desinit' distingui secundum amphiboliam, eo quod possunt
+accipi proprie et improprie.
+Et similiter propositio in qua ponitur hoc uerbum 'desinit' habet duas exponentes. Una exponens est una
+propositio de praesenti affirmatiua et alia est una negatiua de futuro, non qualiscumque sed cum hoc addito 'non
+erit immediate post'. Sicut ista 'Sortes desinit esse albus' habet istas exponentes 'Sartes est albus' et 'immediate
+post non erit albus'. Et sicut dictum est de propositionibus in quibus ponitur hoc uerbum 'incipit', quod
+quandoque possunt distingui secundum amphiboliam, eo quod possunt accipi proprie et improprie, ita possunt
+multae propositiones in quibus ponitur hoc uerbum 'desinit' distingui secundum amphiboliam, eo quod possunt
+accipi proprie et improprie.
+Circa suppositiones terminorum in talibus propositionibus est sciendum quod subiectum talium
+propositionum eodem modo supponit sicut in suis praeiacentibus, sed difficultas est de suppositione praedicati.
+Circa suppositiones terminorum in talibus propositionibus est sciendum quod subiectum talium
+propositionum eodem modo supponit sicut in suis praeiacentibus, sed difficultas est de suppositione praedicati.
+Et est dicendum quod praedicatum in tali propositione uniuersali affirmatiua supponit confuse tantum,
+quia non contingit descendere nec copulatiue nec disiunctiue. Non enim sequitur 'omnis homo desinit esse albus,
+ergo omnis homo desinit esse hoc album, uel omnis homo desinit esse illud album'; nec per consequens contingit
+descendere copulatiue. Similiter etiam in uniuersali negatiua stat confuse et distributiue, sed in propasitione non
+uniuersali stat determinate.
+Et est dicendum quod praedicatum in tali propositione uniuersali affirmatiua supponit confuse tantum,
+quia non contingit descendere nec copulatiue nec disiunctiue. Non enim sequitur 'omnis homo desinit esse albus,
+ergo omnis homo desinit esse hoc album, uel omnis homo desinit esse illud album'; nec per consequens contingit
+descendere copulatiue. Similiter etiam in uniuersali negatiua stat confuse et distributiue, sed in propasitione non
+uniuersali stat determinate.
+Verumtamen duo sunt hic scienda. Primum est quod suppositio determinata, et similiter confusa et
+distributiua, duplex est. Una, quando contingit descendere ad illa pro quibus terminus supponit, uel supponere
+potest, per pronomina demonstratiua praecise, sicut in ista 'homo currit' li homo supponit pro hoc homine et pro
+illo, et sic de aliis; et bene sequitur
+'homo currit, igitur hoc currit', demonstrando istum hominem, 'uel illud currit', demonstrando illum
+hominem, et sic de aliis. Aliquando autem contingit descendere non praecise per pronomina demonstratiua sola,
+sed per pronomina demonstratiua sumpta simul cum illo termino communi sub quo debet esse descensus. Primo
+modo non supponit praedicatum in propositione ubi ponitur 'incipit' uel 'desinit' determinate. Non enim sequitur
+'Sortes incipit esse albus, igitur Sortes incipit esse hoc uel incipit esse illud', quocumque demonstrato. Nam si
+Sortes mutetur a nigredine in albedinem, haec est uera 'Sortes incipit esse albus', et tamen quocumque
+demonstrato haec est falsa 'Sortes incipit esse hoc', quia altera istarum est falsa 'Sortes est hoc' et 'Sortes non
+prius fuit hoc'. Secundo modo praedicatum supponit determinate, nam bene sequitur 'Sortes incipit esse albus,
+igitur incipit esse hoc album uel incipit esse illud album', et sic de aliis. Unde haec est uera 'Sortes incipit esse
+hoc album', demonstrando Sortem, quia Sortes modo est hoc album et numquam prius fuit hoc album. Nec ualet
+186
+
+

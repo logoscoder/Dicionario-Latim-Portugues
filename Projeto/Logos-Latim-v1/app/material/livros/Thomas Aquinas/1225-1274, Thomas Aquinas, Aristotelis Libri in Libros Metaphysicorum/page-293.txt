@@ -1,0 +1,53 @@
+quare magis sit contrarium magno quam parvo. Nec iterum secundum praedicta videtur quod ambobus sit
+contrarium, quia unum uni est contrarium.
+|#4 Secundam rationem ponit ibi, amplius quae talis est. Aequale est contrarium inaequali. Sed inaequale
+significat aliquid inesse ambobus, scilicet magno et parvo; ergo aequale est contrarium ambobus.
+|#5
+Tertiam rationem ponit ibi, et dubitatio quae procedit ex opinione Pythagorae, qui attribuebat
+inaequalitatem et alteritatem dualitatibus et numero pari, identitatem vero numero impari. Et est ratio talis.
+Aequale opponitur inaequali. Sed inaequale competit dualitatibus. Ergo aequale est contrarium duobus.
+|#6 Deinde cum dicit sed accidit obiicit in oppositum duabus rationibus: quarum prima talis est. Magnum et
+parvum sunt duo. Si igitur aequale est contrarium magno et parvo, unum est contrarium duobus. Quod quidem
+est impossibile, ut supra ostensum est.
+|#7 Ibi, amplius aequale quae talis est. Non est contrarietas medii ad extrema. Quod quidem et secundum
+sensum apparet, et ex definitione contrarietatis manifestatur, quia contrarietas perfecta est distantia. Quod autem
+est medium duorum aliquorum, non est perfecte distans ab altero eorum, quia extrema magis differunt ab
+invicem quam a medio. Et sic relinquitur quod contrarietas non est mediorum ad extrema; sed magis contrarietas
+est eorum quae habent inter se aliquod medium. Aequale autem videtur esse medium magni et parvi. Non igitur
+aequale est contrarium magno et parvo.
+|#8 Deinde cum dicit restat igitur determinat veritatem quaestionis.
+Et circa hoc tria facit. Primo ostendit aequale opponi magno et parvo, alio modo quam secundum contrarietatem,
+concludens hoc ex rationibus supra positis ad utramque partem. Nam primae rationes ostenderunt quod aequale
+opponitur magno et parvo. Secundae autem quod non est contrarium eis. Restat igitur quod opponatur eis alio
+modo oppositionis. Et remota ratione oppositionis secundum quam aequale dicitur ad inaequale, non ad magnum
+et parvum, restat quod aequale opponatur magno et parvo, aut sicut negatio eorum aut sicut privatio.
+|#9 Et quod altero istorum modorum opponatur utrique eorum, et non alteri tantum, ostendit dupliciter. Primo
+quidem, quia non est ratio quare aequale sit magis negatio aut privatio magni quam parvi, aut e converso. Unde
+oportet quod sit negatio aut privatio amborum.
+|#10 Item ostendit hoc per signum.
+Quia enim aequale opponitur utrique, propter hoc utimur hac particula utrum, interrogantes de aequali per
+comparationem ad ambo, et non ad alterum tantum. Non enim quaerimus utrum hoc illo sit maius vel aequale,
+aut aequale vel minus. Sed semper ponimus tria; scilicet utrum sit maius aut minus aut aequale.
+|#11 Secundo ibi, non autem ostendit determinate, quo genere opponatur aequale magno et parvo; dicens, quod
+haec particula non, quae includitur in ratione aequalis, cum dicimus aequale esse quod nec est maius neque
+minus, non est negatio simpliciter, sed ex necessitate est privatio.
+Negatio enim absolute, de quolibet dicitur cui non inest sua opposita affirmatio.
+Quod non accidit in proposito. Non enim esse dicimus aequale omne id quod non est maius, aut minus; sed
+solum hoc dicimus in illis, in quibus aptum natum est esse maius aut minus.
+|#12 Haec est igitur ratio aequalis, quod aequale est quod nec magnum nec parvum est, aptum tamen natum est
+esse aut magnum aut parvum, sicut aliae privationes definiuntur. Et ita manifestum est quod aequale opponitur
+ambobus, scilicet magno et parvo, ut negatio privativa.
+|#13 Tertio concludendo ibi, quapropter et ostendit, quod aequale est medium magni et parvi.
+Et circa hoc duo facit. Primo concludit ex dictis propositum. Cum enim dictum sit, quod aequale est quod nec
+magnum nec parvum est, aptum tamen natum est esse aut hoc aut illud; quod autem hoc modo se habet ad
+contraria, medium est inter ea: sicut quod nec malum nec bonum est, opponitur ambobus, et est medium inter
+bonum et malum. Unde sequitur, quod aequale sit medium inter magnum et parvum.
+Sed haec est differentia inter utrumque: quia quod nec magnum nec parvum est, est nominatum. Dicitur enim
+aequale.
+Sed quod nec bonum nec malum est, innominatum est.
+|#14 Et ratio huius est, quia quandoque ambae privationes duorum contrariorum cadunt super aliquid unum
+determinatum, et tunc est unum tantum medium, et potest de facili nominari sicut aequale. Ex eo enim est aliquid
+nec maius nec minus, quod habet unam et eamdem quantitatem. Sed quandoque illud super quod cadunt duae
+293
+
+

@@ -1,0 +1,66 @@
+|+7
+
+Lectio 7
+
+|#1
+Postquam Philosophus improbavit rationem Parmenidis ducendo ad
+quaedam inconvenientia, hic improbat positionem quorundam, qui praedicta
+inconvenientia concedebant.
+Et circa hoc duo facit: primo ponit positionem eorum; secundo improbat eam,
+ibi: manifestum autem etc..
+|#2
+Considerandum est ergo primo: quod supra Philosophus contra rationem
+Parmenidis duabus rationibus usus est.
+Una ad ostendendum quod ex ratione Parmenidis non sequitur omnia esse unum,
+propter diversitatem subiecti et accidentis: quae quidem ratio ducebat ad
+hoc inconveniens, quod non ens est ens, ut ex superioribus patet. Alia vero
+ratio procedebat ad ostendendum quod non sequitur omnia esse unum, propter
+hoc quod si esset magnitudo, sequeretur magnitudinem esse indivisibilem;
+quia si sit divisibilis, erunt quodammodo multa.
+|#3
+Platonici vero utrique rationi acquieverunt, concedendo impossibilia
+ad quae deducunt.
+Acquieverunt ergo primae rationi, quae ducebat ad hoc quod non ens esset
+ens, si aliquis diceret quod ens significet unum, vel substantiam tantum
+vel accidens tantum, et per hoc vellet dicere quod omnia sunt unum:- huic
+rationi, dico, acquieverunt quod non ens esset ens.
+Dicebat enim Plato quod accidens est non ens: et propter hoc dicitur in VI
+metaphys.
+Quod Plato posuit sophisticam circa non ens, quia versatur maxime circa ea
+quae per accidens dicuntur. Sic ergo Plato, intelligens per ens
+substantiam, concedebat primam propositionem Parmenidis, dicentis quod
+quidquid est praeter ens est non ens; quia ponebat accidens, quod est
+praeter substantiam, esse non ens.
+Non tamen concedebat secundam propositionem, hanc scilicet: quidquid est
+non ens est nihil. Licet enim diceret accidens esse non ens, non tamen
+dicebat accidens esse nihil, sed aliquid. Et propter hoc secundum ipsum non
+sequebatur quod sit unum tantum.
+Sed alteri rationi, quae ducebat ad hoc quod magnitudo esset indivisibilis,
+assentiebat faciendo magnitudines esse indivisibiles ex decisione, idest
+dicendo quod magnitudinum divisio ad indivisibilia terminatur. Ponebat enim
+corpora resolvi in superficies, et superficies in lineas, et lineas in
+indivisibilia, ut patet in III de caelo et mundo.
+|#4
+Deinde cum dicit: manifestum autem etc., improbat praedictam
+positionem quantum ad hoc, quod concedebat quod non ens est aliquid. Nam
+quantum ad id quod faciebat individuas magnitudines, improbat suo loco in
+sequentibus scientiae naturalis.
+Improbat autem primum dupliciter: primo ostendendo quod non sequitur ex
+ratione Platonis quod non ens sit aliquid; secundo quantum ad hoc quod
+dicebat, quod nisi hoc ponatur (scilicet quod si non ens quod est accidens,
+non sit aliquid), sequitur omnia esse unum, ibi: dicere igitur etc..
+|#5
+Dicit ergo primo manifestum esse quod non est verum quod ista ratio
+Platonis sequatur, qua sic deducebat, ens unum significat. Ponebat enim ens
+esse genus, et univoce dictum de omnibus secundum participationem primi
+entis; et iterum ponebat quod contradictoria non sunt simul vera. Ex his
+duobus arbitrabatur sequi non ens non esse nihil, sed aliquid. Si enim ens
+significat unum quod est substantia, oportebit quod quidquid est non
+substantia, sit non ens: quia si esset ens, cum ens non significet nisi
+substantiam, sequeretur quod esset substantia; et ita esset simul
+substantia et non substantia; quod est contradictoria simul vera esse.
+Si igitur impossibile est contradictoria simul vera esse, et ens significat
+unum quod est substantia, sequetur quod quidquid est non substantia, sit
+16
+
+

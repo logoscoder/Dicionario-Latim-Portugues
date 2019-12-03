@@ -1,0 +1,62 @@
+Ad undecimum dicendum, quod fides dirigit intentionem, sicut ratio voluntatem; unde, sicut fides est rationis, ita
+intentio voluntatis.
+RA12
+Ad duodecimum dicendum, quod voluntas non semper est impossibilium, sed aliquando; et hoc sufficit,
+secundum intentionem Philosophi, ad ostendendum differentiam inter voluntatem et electionem, quae semper est
+possibilium, ut scilicet eligere non sit omnino idem quod velle; et similiter nec intendere est omnino idem quod
+velle; sed ex hoc non excluditur quin sit actus voluntatis.
+RA13
+Ad decimumtertium dicendum, quod intentio est quidam actus animae. In illa autem trimembri divisione
+Philosophi actiones animae non continentur: quia actiones non sunt animae ut in anima, sed magis ut ab anima.
+Vel potest dici quod actiones comprehenduntur sub habitibus, sicut principiatum continetur in suo principio.
+RA14
+Ad decimumquartum dicendum, quod ordinare est rationis, sed ordinari potest esse voluntatis; et sic intentio
+ordinationem importat.
+RA15
+Ad decimumquintum dicendum, quod ratio illa procederet si nihil aliud requireretur ad intentionem nisi sola
+distantia; requiritur autem inclinatio, quae voluntati competit, et non rationi; unde ratio non sequitur.
+RA16
+Ad decimumsextum dicendum, quod intentio est actus voluntatis in ordine ad rationem ordinantem ea quae sunt
+ad finem, in finem ipsum; sed electio est actus voluntatis in ordine ad rationem comparantem ea quae sunt in
+finem ad invicem: et propter hoc intentio et electio differunt.
+|a14 Articulus 14
+TTA
+Quartodecimo quaeritur utrum voluntas eodem motu velit finem et intendat ea quae sunt ad finem.
+TTB
+Et videtur quod non.
+AG1
+Impossibile enim est eumdem actum esse simul bonum et malum. Sed contingit esse voluntatem malam cum
+intentione bona; sicut cum quis vult furari ut det eleemosynam. Ergo non est idem actus intentio et voluntas.
+AG2
+Praeterea, secundum Philosophum in X eth., motus qui terminatur ad medium et ad extremum differunt specie.
+Sed id quod est ad finem, et finis, se habent quodammodo ut medium et extrema. Ergo intentio finis et voluntas
+eius quod est ad finem, differunt specie; et ita non sunt unus actus.
+AG3
+Praeterea, secundum Philosophum in VII ethic., fines in practicis sunt sicut principia in demonstrativis scientiis.
+Sed non est idem actus intellectus speculativi quo intelliguntur principia, et quo considerantur conclusiones.
+Quod patet ex hoc quod ex diversis habitibus eliciuntur: est enim intellectus habitus principiorum, sed scientia
+conclusionum. Ergo in operativis non est idem actus voluntatis quo intendimus finem et volumus ea quae sunt ad
+finem.
+AG4
+Praeterea, actus distinguuntur per obiecta.
+Sed finis et id quod est ad finem, sunt diversa obiecta. Ergo non idem actus est intentio finis et voluntas eius
+quod est ad finem.
+SC1
+Sed contra. Duo actus non possunt esse simul unius potentiae. Sed voluntas simul dum vult id quod est ad finem,
+intendit finem. Ergo intentio finis et voluntas eius quod est ad finem, non sunt diversi actus.
+SC2
+Praeterea, sicut lux est ratio visibilitatis colori, ita finis est ratio appetibilitatis his quae sunt ad finem. Sed eodem
+actu visus videt colorem et lucem. Ergo eodem actu voluntas vult id quod est ad finem, et intendit finem; ergo
+intentio finis et voluntas non sunt diversi actus.
+CO
+Respondeo. Dicendum, quod circa hanc quaestionem duplex est opinio, ut magister dicit in II Sent., dist. 28.
+Quidam enim dixerunt quod alius actus sit voluntas eius quod est ad finem, et intentio finis. Quidam vero
+dixerunt e contrario, quod sit unus actus, sed quod eorum distinctio sit tantummodo propter rerum varietatem.
+Utraque autem opinio secundum aliquid vera est.
+Ad cuius evidentiam sciendum est, quod cum unitas actus ex unitate obiecti pensanda sit; si sint aliqua duo quae
+per aliquem modum sint unum, actus qui fertur in ea secundum quod sunt unum, erit unus; actus vero qui fertur
+in ea secundum quod sunt duo, erunt duo, sicut partes lineae sunt quodammodo duo, et quodammodo unum,
+prout scilicet uniuntur in toto: et ideo actus visionis, si feratur in duas partes lineae secundum quod sunt duae, id
+460
+
+

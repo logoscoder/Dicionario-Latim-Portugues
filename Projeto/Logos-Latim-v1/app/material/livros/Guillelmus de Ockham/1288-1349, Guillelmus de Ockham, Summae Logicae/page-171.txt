@@ -1,0 +1,57 @@
+supponit, et per consequens haec esset uera 'hoc est homo a/bus'; quod est manifeste falsum. Quia si sit uera, aut
+demonstratur ens aut non-ens. Si ens, ergo aliquod ens esset homo albus, quod est contra positum; si non-ens,
+igitur aliquod non-ens esset homo albus, et per consequens esset album, quod est manifeste falsum. Et ita patet
+quod haec est falsa 'homo albus est non-homo', si nullus homo sit albus. Et per eandem rationem possunt
+consimiles probari esse falsae.
+[2.13 DE PROPOSITIONIBUS AFFIRMATIVIS IN QUIBUS PONUNTUR
+TERMINI PRIVATIVI QUI NON SUNT AEQUIVALENTES INFINITIS]
+TERMINI PRIVATIVI QUI NON SUNT AEQUIVALENTES INFINITIS]
+Quamuis propositiones in quibus ponuntur termini infiniti uel eis aequiualentes non habeant nisi duas
+exponentes, tamen propositiones affirmatiuae in quibus ponuntur termini priuatiui, qui non sunt aequiualentes
+terminis infinitis, plures habent exponentes quam duas. Unde ista 'iste est caecus' habet istas exponentes 'iste est
+aliquid', 'iste est natus uidere', 'iste per naturam numquam poterit uidere'. De talibus autem non potest dari certa
+regula, quia secundum uarietatem terminorum talium, propositiones, in quibus ponuntur, diuersimode debent
+exponi. Unde ista
+'Sortes est caecus' habet exponentes illas quae dictae sunt. Ista autem propositio 'Sortes est fatuus' habet
+istas 'Sortes est aliquid' et 'Sortes non habet sapientiam quam deberet habere'; cum hoc tamen stat quod possit
+habere sapientiam. Unde ista stant simul 'Sortes est fatuus uel insipiens'
+et 'Sortes per naturam potest esse sapiens'. Sed ista non stant simul
+'Sortes est caecus' et 'Sortes per naturam potest esse uidens'. Et ita patet quod alias exponentes habet una
+propositio et alia, et tamen in utraque ponitur terminus priuatiuus.
+'Sortes est caecus' et 'Sortes per naturam potest esse uidens'. Et ita patet quod alias exponentes habet una
+propositio et alia, et tamen in utraque ponitur terminus priuatiuus.
+Qualiter autem diuersimode tales propositiones debeant exponi, faciliter uideri potest si accipiantur
+definitiones exprimentes quid nominis illorum terminorum priuatiuorum et ex eis formando exponentes.
+Qualiter autem diuersimode tales propositiones debeant exponi, faciliter uideri potest si accipiantur
+definitiones exprimentes quid nominis illorum terminorum priuatiuorum et ex eis formando exponentes.
+[CAP.14. DE PROPOSITIONIBUS IN QUIBUS PONUNTUR FIGMENTA QUIBUS NIHIL
+CORRESPONDET EX PARTE REI: QUOMODO DEBENT EXPONI?]
+[CAP.14. DE PROPOSITIONIBUS IN QUIBUS PONUNTUR FIGMENTA QUIBUS NIHIL
+CORRESPONDET EX PARTE REI: QUOMODO DEBENT EXPONI?]
+Sicut propositiones in quibus ponuntur termini negatiui et priuatiui habent plures exponentes, ita
+propositiones in quibus ponuntur figmenta, hoc est in quibus ponuntur termini ficti quibus nihil correspondet a
+parte rei tale quale finguntur significare, plures habent exponentes.
+Sicut propositiones in quibus ponuntur termini negatiui et priuatiui habent plures exponentes, ita
+propositiones in quibus ponuntur figmenta, hoc est in quibus ponuntur termini ficti quibus nihil correspondet a
+parte rei tale quale finguntur significare, plures habent exponentes.
+Tales enim termini uere sunt connotatiui, nec aliquid imaginabile per eos significatur nisi uera res quae
+est in actu uel esse potest uel saltem potuit fuisse uel fuit in actu. Unde sicut termini negatiui et priuatiui nihil
+significant nisi quod significatur per terminos positiuos, quamuis illud idem quod significatur per terminum
+affirmatiuum positiue et construendo uel affirmatiue, significetur per terminum negatiuum uel priuatiuum non
+construendo sed destruendo uel negando, secundum modum loquendi Anselmi, ita per tales terminos fictos,
+cuiusmodi sunt 'chimaera',
+'tragelaphus', 'uacuum', 'infinitum' et huiusmodi, nihil significatur nisi quod significatur per terminos
+alios, sicut patet ex definitionibus exprimentibus quid nominis eorum. Tamen non eodem modo significantur res
+per istos terminos et alios, sed sic significantur per alios quod pro illis rebus alii termini supponere possunt, isti
+autem termini non possunt pro eis supponere, sicut nec definitiones exprimentes quid nominis eorum. Unde non
+est imaginandum quod sicut sunt quaedam entia significata per tales terminos 'homo', 'animal', 'album', 'calidum',
+'longum', 'breue' et huiusmodi, ita sunt quaedam non-entia et impossibilia, distincta totaliter ab entibus,
+significata per tales terminos 'chimaera', 'hircoceruus' et huiusmodi, quasi esset unus mundus ex impossibilibus
+sicut est unus mundus ex entibus. Sed quidquid imaginabile significatur per hoc nomen 'chimaera'
+significatur per aliquem terminum de quo in propositione de inesse uel de possibili praedicatur esse;
+tamen hoc nomen 'chimaera' pro illo non potest supponere. Propter quod quaelibet propositio affirmatiua, in qua
+subicitur hoc nomen 'chimaera' significatiue sumptum uel praedicatur, uel aliquid consimile, est falsa de uirtute
+sermonis, quia habet aliquam exponentem falsam. Ista enim est falsa de uirtute sermonis 'chimaera est non-ens'
+171
+
+

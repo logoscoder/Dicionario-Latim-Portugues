@@ -1,0 +1,62 @@
+Quoniam enim diapason in duplici proportione esse monstratum est, duplex uero proportio ex sesquialtero
+sesquitertioque componitur; diapason uero ex diatessaron ac diapente copulatur, non est dubium quin, si totum
+diapason in duplici statuatur, diapente et diatessaron in sesquialtera sesquitertiaque proportione sint locandae. Aliter
+enim non poterunt diapason iunctae perficere, quae consonantia in duplici proportione consistit, nisi in his duabus
+proportionibus steterint sesquialtera scilicet ac sesquitertia. Aliae enim proportiones superpartisulares hanc nulla
+ratione coniungent.
+[PLLXIII:1216; text: Sesquitertius, Sesquioctauus, 6, 8, 9] [BOEDIM2 05GF]
+XXIV
+Diapente in sesquialtera, diatessaron in sesquitertia esse, tonum in sesquioctaua
+Dico autem quoniam proprie diapente in sesquialtera, et diatessaron in sesquitertia proportione consistit.
+Quoniam enim inter utrasque proportiones, sesquialteram scilicet et sesquitertiam, sesquialtera est maior et sesquitertia
+minor, quoniamque in consonantiis diapente maior diatessaron minor, apparet maiorem proportionem maiori, et
+minorem minori esse consonantiae aptandum. Erit igitur diapente quidem in sesquialtera, diatessaron uero in
+proportione sesquitertia collocanda. Quod si diatessaron a diapente consonantiam subtrahamus, relinquitur spatium,
+quod dicitur tonus. Sesquitertium uero si proportioni sesquialterae minuamus, relinquitur sesquioctaua proportio. Quo
+fit ut tonus in sesquioctaua debeat ratione constitui.
+XXV
+Diapason ac diapente in tripla proportione esse, bis diapason in quadrupla.
+Sed quoniam demonstratum est diapason quidem duplam, diapente uero sesquialteram, iunctas uero duplam ac
+sesquialteram triplicem proportionem procreare, ex his etiam apparet diapente ac diapason in triplici proportione
+constitui. Sed si quis triplici proportioni sesquitertiam habitudinem iungat, quadruplam facit. Igitur si diapente ac
+diapason consonantiis diatessaron symphonia iungatur, fit quadruplum spatium uocum, quod bis diapason supra esse
+monstrauimus,
+[1217] XXVI
+Diatessaron ac diapason non esse consonantiam secundum Pythagoricos.
+Sed in his illud diligens lector agnoscat, quod consonantiae consonantiis suppositae alias quasdam consonantes
+efficiant. Nam diapente ac diatessaron iunctae, diapason (ut dictum est) creant; huic uero, id est diapason rursus si
+diapente symphonia iungatur, fit consonantia, quae ex utrisque uocabulis nuncupatur, diapason scilicet ac diapente. Cui
+si diatessaron addatur, fit bis diapason, quae quadruplam proportionem tenet. Quid igitur si diatessaron ac diapason
+consonantias iungamus, ullamne secundum Pythagoricos efficient consonantiam? Minime. Mox enim in superpartiens
+inaequalitatis genus cadit, nec seruat uel multiplicitatis ordinem, uel superparticularitatis simplicitatem. Age enim
+statuantur numeri quibus id facilius approbemus: sit enim ternarius, cuius sit senarius, duplus scilicet, in diapason
+proportione consistens. Huic aptetur sesquitertia quam diatessaron esse praediximus, ut octonarius. Is enim ad senarium
+diatessaron proportionem tenet, qui octonarius ad ternarium comparatus habet eum bis. Sed ne sit multiplex, habet
+etiam eius aliquas partes, neque eas simplices. Duabus enim eum superuenit unitatibus, quae sunt quae tertiae partes
+ternarii, quem primum terminum minimumque locamus. Sint igitur termini hi, 3, 6, 8.
+[PLLXIII:1217; text: Multiplex superbipartiens tertias. Diapason cum Diatessaron dissonantia. 3, 6, 8,
+Diapason, consonantia, Diatessaron, Dupla, Sesquitertia] [BOEDIM2 05GF]
+Illud quoque quod inter duas sibi continuas consonantias cadit, etenim neque duplum est integrum, ut diapason
+consonantiam prodat, neque triplum, ut diapason ac diapente efficiat symphoniam. Cui si tonus addatur, mox triplum
+modum proportionis efficiet. Quoniam enim diapason ac diapente sibi iunctae efficiunt triplum, diatessaron uero et
+tonus diapente consonantiam iungunt, si diapason consonantia addatur diatessaron, inconsonum fit, quoniam inter
+duplicem ac triplicem nulla potest naturaliter proportio multiplicitatis intelligi. Quod si ei adiicio tonum, fit diapason,
+diatessaron, et tonus, quod nihil distabit utrum diapason ac diapente sit. Diatessaron enim et tonus diapente constituunt.
+Sit enim diapason quidem 3 et 6; diatessaron 6 et 8; tonus 8 et 6; diapente 6 et 6; diapason ac diapente [1218] 3 ac 9:
+erit igitur sic tripla proportio 3, 6, 8, 9.
+Sed quanquam de his multa Nicomachus, nos tamen qua potuimus breuitate partim ea ipsa quae Pythagorici
+affirmant promentes, partim ex eisdem quaedam consequentia argumentantes, probauimus, si diatessaron consonantiae
+diapason addatur, consonantiam ex his coniungi non posse.
+Quid uero sentiat de his Ptolemaeus, posterius apponam. Sed de his hac tenus nunc de semitoniis
+considerandum est,
+[PLLXIII:1218,1; text: on cum Diapente, Diapente, 3, 6, 8, 9, Diapason, dupla, Diatessaron, Sesquitertia,
+Tonus, Sesquioctaua, Diapason cum diatessaron] [BOEDIM2 06GF]
+XXVII
+De semitanio in quibus minimis numeris constet.
+Videntur enim semitonia nuncupata, non quod uere tonorum sint medietates sed quod sint non integri toni.
+Huiusque spatii quod nunc quidem semitonium nuncupamus, apud antiquiores autem limma uel diesis uocabatur, hic
+modus est. Cum enim ex sesquitertia proportione quae diatessaron est, duae sesquioctauae habitudines, quae toni sunt,
+auferuntur, relinquitur spatium quod semitonium nuncupatur. Quaeramus igitur duos tonos continua dispositione
+descriptos. Sed, quoniam hi (ut dictum est) in sesquioctaua proportione consistunt, duasque sesquioctauas proportiones
+
+

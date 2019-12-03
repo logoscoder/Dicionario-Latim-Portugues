@@ -1,0 +1,67 @@
+huic terminus atque ex aduerso referatur particularis affirmatio, quae, commutatis in ordinem terminis,
+negationes utrisque gestet oppositas, ut est: [788C]
+Quoddam non animal non homo est.
+Item sit particularis simplex negatio quae proponat quemdam hominem animal non esse; hanc ex aduerso
+respiciat particularis negatio, quae, permutatis ad ordinem terminis, aduerbium negationis adiecerit, ut est:
+Quoddam non animal non homo non est.
+SIMPLICES
+Omnis homo animal est.
+Nullus homo animal est.
+Quidam homo animal est.
+Quidam homo animal non est.
+
+CONVERSAE UTRISQUE INFINITIS
+Omne non animal non homo est
+Nullum non animal non homo est.
+Quoddam non animal non homo est.
+Quoddam animal non homo non est.
+
+In illis enim affirmatio uniuersalis particularisque negatio conuersionem stabilem non tenebant. Affirmatio
+[788D] autem particularis atque uniuersalis negatio conuersae certissime tuebantur uel in ueritate, uel in falsitate
+consensum. Hic omne diuersum est. Uniuersalis namque affirmatio et particularis negatio per oppositionem sibi ipsa
+conuertitur, uniuersalis autem negationis et particularis affirmationis non est ad ueritatis falsitatisue consensum fide
+conuersio.
+Ac primum de uniuersali affirmatio tractemus, quae cum in simplicibus uera sit, ueritatem quoque per
+oppositionem conuerse custodit, ut ea qua dicit omnem hominem esse animal, uera est, atque illi per oppositionem
+conuertitur, id est:
+Omne non animal non homo est
+eam quoque ueram esse necesse est. Propositionis autem huius ista sententia est, quoniam non est homo,
+quidquid animal non est, quod uerum [789A] esse nullus ignorat.
+Item si sit falsa uniuersalis affirmatio in simplicibus terminis constituta, falsa quoque eius per oppositionem
+probabitur esse conuersio: nam cum dicimus:
+Omnis lapis animal est
+falsa est, atque illi per oppositionem conuertitur, id est:
+Ommne non animal non lapis est
+eam quoque fals&m esse necesse est. Id enim ex tali enuntiatione sentitur, quoniam quidquid animal non
+fuerit, id lapis non est, quod apertissime falsum est, cum lapis ipse animal non sit: quod si uniuersalis affirmatio
+terminorum oppositionem conuersa sibimet in ueritate conuenit et in falsitate, non est dubium quin uniuersalis simplex
+affirmatio stabili per oppositionem conuersione monstretur.
+Idem de simplici etiam particulari negatione dicemus. Nam cum haec falsa est, ut [789B] ea quae dicit:
+Quidam homo animal non est
+illa quoque falsitatem tenebit, quae huic terminorum oppositione conuertitur, ut ea quae proponit:
+Quoddam non animal non homo non est.
+Id enim ex bac enuntiatione colligitur, quod res quae non sit animal, sit homo. Etenim hoc esse hominem,
+quod non esse non hominem. At si uera sit negatio particularis ex simplicibus terminis iuncta, ut est:
+Quidam lapis animal non est
+non deerit ueritas cum terminorum oppositione conuersae quae proponit quoddam non animal non lapidem
+non esse. Id enim conuersio ita significat, quod res quaedam quae animal non sit lapis sit, hoc est enim esse lapidem
+quod non esse non lapidem; quod si particularis simplex negatio per oppositiones propriae conuersioni et in ueritatis et
+in [789C] falsitatis significatione concordat, non est dubium particularem simplicem negationem certo sibi ac stabili
+modo per oppositionem terminorum posse conuerti.
+In negatione uero uniuersali non est perpetua neque fida conuersio.
+Quod quidem fallere poterit, si quis ad solam respiciat conuenienliam falsitatis. Nam cum sit falsa simplex
+uniuersalis negatio quae proponit nullum hominem esse animal, falsa est quae ei per oppositionem conuertitur, ut est:
+Nullum non animal non homo est.
+Id enim ex haec propositione monstratur, quoniam omne quod animal non est, id homo est, hominem esse
+significat, quidquid animal non sit, quae proponit, nullum esse non hominem, qui animal non sit. Sed hic in falsitate
+consensus [789D] ad ueritatem usque non peruenit. Age enim sit uera simplex uniuersalis negatio:
+Nullus homo lapis est
+non uera potest esse:
+Nullus non lapis non homo est.
+Id namque designat ista conuersio, quoniam quidquid lapis non fuerit, id homo est; hominem namque esse
+designat quod lapis non sit, qui pronuntiat nullum esse non hominem quod lapis non est, quod apertissime falsum est;
+quamuis enim multa proferam quaecum lapides non sint, tamen ab hominum [790A] natura seiuncta sunt, ut equus,
+arbor atque alia plurima. Si igitur negatio uniuersalis per oppositionem propriae conuersioni in falsitate quidem
+conuenit, nec tamen in ueritate consentit, recte pronuntiatur conuersionem perpetuam atque aequabilem non habere.
+
+

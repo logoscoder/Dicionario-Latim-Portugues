@@ -1,0 +1,61 @@
+|a2 Articulus 2
+TTA
+Secundo quaeritur utrum sit ponere plures ideas.
+TTB
+Et videtur quod non.
+AG1
+Quia ea quae essentialiter dicuntur in Deo, non minus sunt vere in eo quam illa quae dicuntur in ipso
+personaliter. Sed pluralitas proprietatum personalium inducit pluralitatem personarum, secundum quas Deus
+dicitur trinus. Cum ergo ideae sint essentiales, quia sunt communes tribus personis, si sint plures in Deo
+secundum pluralitatem rerum, sequitur quod non solum sint tres personae in ipso, sed infinitae.
+AG2
+Sed dicebat, quod ideae non sunt essentiales, quia sunt ipsa essentia. Sed contra, bonitas sapientia et potentia Dei
+sunt eius essentia, et tamen dicuntur essentialia attributa. Ergo et ideae, quamvis sint ipsa essentia, possunt
+essentiales dici.
+AG3
+Praeterea, quidquid Deo attribuitur, debet ei nobilissimo modo attribui. Sed Deus est principium rerum; ergo
+debet poni in eo omne illud quod ad nobilitatem principii pertinet, in summo. Sed unitas est huiusmodi, quia
+omnis virtus unita plus est infinita quam multiplicata, ut dicitur in libro de causis.
+Ergo in Deo est summa unitas; ergo non solum est unus re, sed ratione; quia magis est unum quod est unum
+utroque modo, quam quod altero istorum tantum; et sic non sunt in eo plures rationes, sive ideae.
+AG4
+Praeterea, Philosophus dicit in V metaphys.: quod omnino est unum, quod non potest separari neque intellectu,
+neque tempore, neque loco, neque ratione; et maxime in substantia. Si ergo Deus est maxime unum, quia est
+maxime ens, non potest separari ratione; et ita idem quod prius.
+AG5
+Praeterea, si plures ideae, sequitur eas esse inaequales; quia una idea continebit esse tantum, alia autem esse et
+vivere, alia vero insuper intelligere, secundum quod res cuius est idea, in pluribus assimilatur Deo.
+Cum ergo inconveniens sit in Deo aliquam inaequalitatem ponere, videtur quod non possint esse in eo plures
+ideae.
+AG6
+Praeterea, in causis materialibus est status ad unam primam materiam, et similiter in efficientibus et finalibus.
+Ergo et in formalibus est status ad unam primam formam. Sed est status ad ideas, quia ut dicit Augustinus in
+libro LXXXIII quaestionum, ideae sunt principales formae vel rationes rerum. Ergo in Deo non est nisi una
+tantum idea.
+AG7
+Sed dicebat, quod quamvis sit una prima forma, tamen ideae dicuntur plures secundum diversos respectus ipsius.
+Sed contra, non potest dici quod ideae multiplicentur secundum respectum ad Deum in quo sunt, qui est unus;
+neque secundum respectum ad ideata, secundum quod sunt in causa prima, quia in ea sunt unum, ut dionysius
+dicit; nec per respectum ad ideata, secundum quod in propria natura existunt, quia sic res ideatae sunt
+temporales, ideae vero aeternae sunt. Ergo nullo modo per respectum formae primae possunt ideae dici plures.
+AG8
+Praeterea, nulla relatio quae est inter Deum et creaturam, est in Deo, sed in creatura tantum. Sed idea vel
+exemplar importat relationem Dei ad creaturam. Ergo ista relatio non est in Deo, sed in creatura. Cum ergo idea
+sit in Deo, per huiusmodi respectus ideae multiplicari non possunt.
+AG9
+Praeterea, intellectus qui pluribus intelligit, est compositus, et transiens de uno in aliud. Sed haec a divino
+intellectu sunt procul.
+Cum ergo ideae sint rationes rerum, quibus Deus intelligit, videtur quod non sint plures ideae in Deo.
+SC1
+Sed contra. Idem secundum idem non est natum facere nisi idem. Sed Deus facit multa et diversa. Ergo non
+secundum eamdem rationem, sed secundum plures, res causat.
+Sed rationes quibus res producuntur a Deo, sunt ideae. Ergo plures ideae sunt in Deo.
+SC2
+Praeterea, Augustinus dicit in Lib. Lxxxiii quaestionum: restat ut omnia ratione sint condita; nec eadem ratione
+homo qua equus; hoc enim absurdum est existimari. Singula igitur propriis sunt creata rationibus; ergo sunt
+plures ideae.
+SC3
+
+70
+
+

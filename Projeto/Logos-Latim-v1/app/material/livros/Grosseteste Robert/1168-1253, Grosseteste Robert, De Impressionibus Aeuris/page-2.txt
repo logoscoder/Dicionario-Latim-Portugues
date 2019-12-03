@@ -1,0 +1,62 @@
+10 Luna 10 Saturnus 10 Capricornus Jupiter 10 Mars 10 Sol 10 Aquarius Venus 10 Mercurius 10 Luna 10 Pisces
+Saturnus 10 Jupiter 10 Mars 10
+p. 44: Haec sunt testimonia, quae planetae accipiunt a signis. Sunt et aliae fortitudines et debilitates, quas
+planetae mutuo accipiunt a se invicem, ut per aspectum bonum accipit planeta unus ab alio fortitudinem, per
+malum autem debilitatem.
+p. 44: Sunt autem aspectus quinque, scilicet: oppositus, quartus trinus, sextilis, coniunctus.
+pp. 44 - 45: Aspectus quidem oppositus est, cum fuerit planeta in aliquo signo et alius in signo directe opposito.
+Talis autem aspectus dicitur pessimus, et maxime si fuerint planetae contrariarum qualitatum, sicut et signa: ut, si
+fuerit Venus in ariete et Saturnus in libra; unde sicuti signo contradicit signum, sic planeta planetae. Unde est ibi
+ex omni parte contrarietas seu contradictio, scilicet ex situ, ex qualitate signorum et planetarum. Trinus autem
+aspectus est, cum duo planetae sunt in signis consimilibus et continent inter se tertiam partem firmamenti. Et
+dicitur aspectus optimus, quia non est ibi contrarietas in qualitatibus signorum. Unde si fuerint planetae
+concordantes, ut Jupiter et Venus, nulla reperietur in tali aspectu contradictio. Quartus autem aspectus est, cum
+fuerint inter duos planetas tria signa integra, ut si sol fuerit in ariete, Saturnus in cancro. Et dicitur quartus, quia
+praedicti planetae continent inter se quartam partem zodiaci. Et iste aspectus dicitur mediocriter malus et
+impeditivus sicut insidiator. Sextilis autem aspectus est, cum fuerint inter duos planetas duo signa integra,
+scilicet sexta pars zodiaci, et dicitur mediocriter bonus propter concordantiam signorum in una primarum
+qualitatum. Coniunctio prout hic sumitur est, cum fuerint duo planetae in eodem signo. Sed istum aspectum
+dicunt astrologi fortissimum; nos autem invenimus oppositum et tertium esse fortiorem.
+p. 45: Sunt et aliae fortitudines et debilitates, quas planetae accipiunt ex diverso esse in suo circulo brevi, scilicet
+epicyclo, videlicet ortus, occasus, progressio, statio, retrogradatio.
+p. 45: Ortus planetae dicitur, cum exit de sub radiis solaribus et manifeste mundo apparet non impediente solis
+splendore. Occasus vero est talis introitus in eosdem. Progressio dicitur, quando sensibiliter movetur contra
+firmamentum. Retrogradatio vero est, quando ab oriente in occidentem movetur velocius firmamento. Statio
+autem est, cum diu permanserit in eodem minuto. Et istae diversitates comparantur quattuor aestatibus.
+p. 45: Inest autem et alia diversitas cuilibet planetae ex diverso esse sui in suo deferente, quae prae ceteris est
+admirabilis et digna memoria. Et ideo tractandum est de ea sermone ampliore, cum sit hactenus ab aliis
+praetermissa.
+pp. 45 - 46: Omnis igitur planeta in parte sui deferentis inferiori debilior est; in parte vero superiori fortior, et
+fortiorem secundum revolutionem diurnam in istis inferioribus habet operationem. Et hoc est propter hoc, quod
+planeta secundum revolutionem diurnam existens in auge vel in longitudine longiori, quod idem est, movetur
+motu velociori, quam existens in opposito augis vel in longitudine propiori, hoc est in parte sui deferentis
+inferiori. Omnis autem planeta motu sphaerae primae tot circulos aeque distantes aequatori describit, quotus est
+numerus medians dierum numerum quibus ascendit circulum signorum, si ille numerus dierum sit par et habens
+medietatem, vel quotus est numerus, qui est maior portio eiusdem numeri dierum, si ille numerus sit impar, non
+habens medietatem, cum eosdem circulos describat planeta existens in medietate zodiaci ascendente, qui est a
+principio capricorni usque ad finem geminorum in accessu ad nos versus septentrionem, quos describit existens
+in medietate zodiaci descendente, quae est a primo puncto cancri usque ad finem sagittarii in recessu eius a nobis
+versus meridiem. Istos autem circulos describit planeta, non quia defertur centrum planetae vel centrum epicycli
+in circumferentiis istorum circulorum, sed quia circuli, in quorum circumferentiis defertur centrum planetae vel
+epicycli planetae sunt, in eisdem superficialibus cum eis, qui aeque distant aequatori et sunt excentrici.
+pp. 46 - 47: Linea ergo continens duos polos mundi cum transeat per centra omnium aeque distantium aequatori
+et super ipsos sit perpendicularis per 17 secundi libri Theodosii, ipsa transibit per centrum omnium circulorum,
+in quorum circumferentiis movetur planeta vel centrum epicycli eius, et super ipsos a centris eorum erit
+perpendicularis. Quia igitur aux et oppositum augis cuiuslibet planetae adhaerent duobus punctis oppositionis per
+diametrum in zodiaco, quaelibet duo puncta opposita ipsius zodiaci vel describunt ipsum aequatorem revolutione
+diurna, ut initium arietis et initium librae, vel duos circulos aequales sibi invicem aeque distantes et aequatori ut
+initium cancri et initium capricorni. Ipsi autem circuli, quos describunt duo puncta opposita in zodiaco, erunt a
+centro sphaerae aequedistantes per 17 primi Theodosii. Et ideo lineae continentes centra eorum cum centro
+sphaerae, quae super ipsos sunt perpendiculares et eorum distantias a centro sphaerae designantes, erunt
+aequales. Quare cum circuli, in quorum circumferentiis defertur planeta ipso existente in duobus punctis
+oppositis sui excentrici, sint concentrici duobus circulis aeque distantibus, quos describunt revolutione diurna,
+duo puncta zodiaci opposita, quibus adhaerent puncta excentrici opposita, patet, quod duae lineae ductae a centro
+terrae ad centrum duorum circulorum, in quorum circumferentiis defertur centrum planetae vel centrum epicycli
+eius ipso existente in auge vel in opposito augis, sibi invicem erunt aequales et a centris istorum circulorum ipsis
+circulis perpendiculariter insistentes.
+p. 47: Istos autem duos circulos contingit circulus excentricus in auge et in opposito augis. Si ergo ad loca
+contactuum, scilicet ad augem et ad oppositum augis, ducantur rectae lineae a centro terrae, et a centris
+eorumdem circulorum ducantur ad eadem loca contactuum rectae lineae, habebis duos triangulos orthogonos,
+2
+
+

@@ -1,0 +1,61 @@
+Caeleste sidus est canis. Igitur caeleste sidus est latrabile. Sed non sequitur: quia hoc nomen canis aliud significat
+in prima et aliud in secunda, secundum quod utraque accipitur vera; et sic non est verus syllogismus, cum non sit
+idem terminus medius. Si autem accipiatur ut idem significans in utraque, sic altera praemissarum est falsa.
+Sicut autem oportet in syllogismo idem medium bis sumi in praemissis, ita oportet duas extremitates bis sumi in
+syllogismo, in praemissis scilicet semel, et semel in conclusione: unde eadem ratione potest fieri paralogismus, si
+sit aequivocatio in altera extremitatum, ut: grammatici discunt.
+Et grammatici sunt scientes. Igitur scientes discunt; discere enim aequivocum est. Nam uno modo discere idem
+est quod intelligere docentem; et sic, scientes discunt.
+Alio modo idem est quod accipere scientiam ab aliquo; et sic scientes non discunt.
+Secunda species est quando unum nomen principaliter unum significat, et aliud metaphorice sive transumptive:
+sicut hoc verbum ridere principaliter significat actum hominis proprium; metaphorice autem sive transumptive
+significat prati floritionem. Et formatur sic paralogismus: quidquid ridet, habet os.
+Pratum ridet. Ergo pratum habet os; vel sic: quidquid currit, habet pedes. Tiber currit. Igitur tiber habet pedes.
+Non sequitur: quia ridet et currit primo sumuntur proprie, et postea transumptive.
+Et ad hanc speciem reducitur multiplicitas nominum analogorum quae dicuntur de pluribus secundum prius et
+posterius: sicut sanum dicitur aliquando de animali, urina et diaeta. Et formatur paralogismus sic: omne sanum
+habet vitam. Sed urina est sana. Ergo urina habet vitam. Non sequitur: quia sanum primo sumitur pro eo quod
+principaliter significat, scilicet habere sanitatem, secundo pro eo quod posterius significat, scilicet pro signante
+sanitatem.
+Ad hanc etiam speciem reducitur multiplicitas praepositionum: quia praepositio unam habet habitudinem per
+prius, et aliam per posterius. Et formatur sic paralogismus: in quocumque est sanitas, illud est animal. Sed
+sanitas est in humorum adaequatione. Ergo humorum adaequatio est animal. Non sequitur: quia haec praepositio
+in primo designabat habitudinem accidentis ad subiectum, secundo habitudinem effectus ad causam.
+Tertia species est quae provenit ex diversa consignificatione, quae quidem attenditur circa accidentia partium
+orationis sicut secundum tempus, numerum, genus, personam et similia. Et sic formatur paralogismus:
+quicumque surgebat, stat.
+Sedens surgebat. Ergo sedens stat. Non sequitur: quia sedens in minori propositione sumebatur ut est praeteriti
+temporis imperfecti, in conclusione secundum quod est temporis praesentis. Quicumque sanabitur, sanus est.
+Laborans sanabitur.
+Igitur laborans sanus est. Minor et conclusio sunt duplices: quia hoc participium laborans significat tempus
+praesens et praeteritum imperfectum; unde significat laborantem tunc, et nunc laborantem; et ideo si teneretur
+pro laborante, tunc minor est falsa, quia simul esset sanus et laborans, quod falsum est. Si autem teneatur pro
+laborante nunc, vera est, quia potest esse nunc laborans, et tunc poterat esse sanus: et e converso de conclusione.
+|+7 Capitulus 7: De amphibologia.
+Sequitur videre de amphibologia.
+Sicut autem aequivocatio provenit ex eo quod dictio penitus eadem plura significat, sic amphibologia ex eo quod
+una oratio penitus eadem plura significat, unde dicitur amphibologia ab amphi quod est dubium, et bole quod est
+sententia, et logos quod est sermo, quasi dubia sententia sermonis. Fallacia autem amphibologiae est deceptio
+proveniens ex eo quod una oratio penitus eadem plura significat: et dico penitus eadem ad differentiam orationis
+quae composita et divisa plura significat. Causa apparentiae sive principium motivum amphibologiae est unitas
+orationis plura significantis; causa vero non existentiae sive principium defectus est diversitas significationis.
+Species autem amphibologiae sunt tres.
+Prima species provenit ex eo quod una oratio principaliter plura significat manente eadem constructione, propter
+diversam habitudinem constructorum: sicut haec oratio liber Aristotelis plura significat, si semper istae duae
+dictiones construantur eodem modo; sed tamen propter diversam habitudinem diversa significant. Potest autem
+intelligi secundum habitudinem effectus ad causam, vel possessi ad possidentem, et formatur sic paralogismus:
+quidquid est Aristotelis, possidetur ab Aristotele.
+Iste liber est Aristotelis. Ergo possidetur ab Aristotele. Non sequitur, quia primo construebatur nominativus cum
+genitivo in habitudine possessionis ad possidentem, secundo in habitudine effectus ad causam.
+Secunda species provenit ex eo quod una oratio plura significat propter diversam ordinationem partium, ex eo
+quod aliqua dictio potest construi cum alia transitive vel intransitive, sicut hic: quidquid videt aliquis, hoc videt.
+Sed columnam videt. Ergo columna videt. Non sequitur, quia haec dictio hoc construitur cum hoc verbo, videt,
+transitive, et est accusativi casus; et sic est vera, et est sensus: qui videt rem aliquam, est videns eam.
+Alio modo potest construi intransitive, et tunc est nominativi casus, et tunc est falsa, et est sensus: qui videt rem
+unam, illa res videt: et sic procedit conclusio. Et similiter hic: quoscumque volo me accipere, volo quod ipsi
+recipiant me. Sed pugnantes volo me accipere. Ergo volo quod ipsi recipiant me. Non sequitur: quia me potest
+construi cum hoc verbo accipere transitive et intransitive; et in uno sensu est vera, et in alio falsa. Similiter hic:
+quicumque sunt episcopi, sunt sacerdotes.
+4
+
+

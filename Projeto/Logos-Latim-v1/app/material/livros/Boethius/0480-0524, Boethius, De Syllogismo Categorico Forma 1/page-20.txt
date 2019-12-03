@@ -1,0 +1,69 @@
+discernant. Nam quod dictum est IN QUA POSITIS QUIBUSDAM, sumptorum scilicet et propositionum multitudo
+monstratur. Sunt enim qui putantur esse huiusmodi syllogismi, in quibus tantum una propositio est et una conclusio.
+Qualis est hic:
+Vides; Viuis igitur.
+Homo es; Animal igitur es.
+et alia huiusmodi, quos scilicet ueteres in syllogismis [821C] non acceperunt, syllogismos enim est aliquorum
+collectio. At uero collectio non nisi plurimorum est, et quicumque unam posuit propositionem, ille non colligit. Nullum
+igitur faciet syllogismum.
+Debet enim syllogismus, ut angustissimus sit, duabus propositionibus comprobari. Quod autem dictum est,
+aliud quiddam necessario euenire quam sint ipsa quae concessa sunt, quoniam freqaenter tales ab aliquibus flunt
+syllogismi, ut ea quae proposuerunt, ipsa etiam in conclusione concludant, ut est hic:
+Si homo es, homo es; Homo autem es; Homo igitur es.
+Idem enim conclusit quod ante proposuit. Atque ideo, ad istorum discretionem, aliud quiddam contingere
+debere dictum est QUAM SINT EA QUAE CONCESSA SUNT, [822A] ut in superioribus omnibus syllogismis quos
+in trium figurarum modis et demonstratione posuimus. Tales uero syllogismi quales nunc dicti sunt per ridiculi sunt,
+quod id quod ante concessum est quasi dubium quiddam in conclusione colligitur. Nam quod positum est, necessario
+contingere, ad hoc pertinet, quoniam frequenter ad inductionem uerae quaedam propositiones sunt quarum conclusio
+nullo modo uera est, ut si quis sic dicat:
+Qui musicam nouit musicus est
+et concedatur; et:
+Qui arithmeticam arithmeticus est
+et:
+Qui medicinam medicus est
+et:
+Qui bonum bonus est.
+Cum igitur haec omnia concessa sunt, dicat:
+Et qui malum, malus est
+quod quasi superioribus simile uidetur sed omni modo falsum est: boni enim homines non aliter cauent, nisi
+[822B] mala nouerint. Atque ideo propter eas conclusiones quae sunt per eas propositiones quae per inductionem
+dicuntur, additum est conclusiones in syllogismis necessarias contingere, id est ex necessitate contingere.
+Est etiam alia exposilio sed in Analyticis nostris iam dicta est. Illud uero quod dictum est, PER IPSA QUAE
+POSITA SUNT, hoc propter eos dictum est qui tales faciunt syllogismis, in quibus aut minus aliquid, aut plus, aut aliud
+propositum est quam proponi debuerat. Fiunt enim huiusmodi syllogismi. Si quis enim ita dicat:
+Socrates homo est, Omnis homo animal est;
+et concludat:
+Socrates igitur animatus est
+minus proposuit, quod non dixit omne animal esse animatum. Nunc si sic proposuisset, recte Socrates
+animatum esse concluderet, ita dicendo:
+Socrates [822C] homo est, Omnis homo animal est, et: Omne animal animatum est; Socrates igitur animatus
+est.
+Plus autem proponere hoc est, ut si quis sic dicat:
+Omnis homo animal est, Omne animal animatum est, sed et: Sol in Ariete est; Omnis igitur homo animatus est
+hic uero superfluum est quod solem in Ariete esse interposuit. Aliud autem quam necesss est quidam
+proponunt hoc modo, ut si quis sic dicat:
+Omne homo animal est, Virtus autem bonum est; Omnis igitur homo animatum est.
+Nulla igitur harum propositionum ad rem pertinet quod concludere cupiebat.
+Expedita igitur syllogismi definitione, ad priorum modorum naturam resolutionemque ueniamus, et prius
+omnes in ordinem disponatur.
+PRIMAE FIGURAE MODI
+PRIMUS
+SECUNDUS
+TERTIUS
+QUARTUS
+QUINTUS
+SEXTUS
+
+Omne iustum bonum est, Omnis uirtus iusta est; Omnis igitur uirtus bona est.
+Nullum bonum malum est, Omne iustum bonum est; Nullum igitur iustum
+malum est.
+Omne bonum uirtus est, Quoddam iustum bonum est; Quoddam igitur iustum
+uirtus est.
+Nullum bonum malum est, Quoddam iustum bonum est; Quoddam igitur
+iustum malum non est.
+Omne iustum bonum est, Omnis uirtus iusta est; Quoddam igitur bonum uirtus
+est.
+Nullum bonum malum est, Omne iustum bonum est; Nullum igitur malum
+20
+
+

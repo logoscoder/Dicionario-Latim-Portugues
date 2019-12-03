@@ -1,0 +1,66 @@
+Supposito ergo quod per a impartibile nihil moveri possit, si aliquis dicat
+quod mobile movetur per totam magnitudinem quae est abc, et motus totus quo
+per eam movetur est dez, ita quod secundum a impartibile nihil moveatur,
+sed tantum motum sit, sequitur quod motus non sit ex motibus, sed ex
+momentis. Ideo autem sequitur quod non sit ex motibus, quia cum pars motus
+qui est d, respondeat parti magnitudinis quae est a, si d esset motus,
+oporteret quod per a moveretur, quia praesente motu mobile movetur: sed
+probatum est quod secundum a impartibile non movetur, sed solum motum est,
+quando scilicet pertransitum est hoc indivisibile.
+Ergo relinquitur quod d non sit motus, sed sit momentum, a quo denominatur
+motum esse, sicut a motu denominatur moveri; et quod ita se habet ad motum,
+sicut punctum indivisibile ad lineam. Et eadem ratio est de aliis partibus
+motus et magnitudinis. Ex necessitate ergo sequitur, si magnitudo
+componitur ex indivisibilibus, quod motus ex indivisibilibus componatur,
+idest ex momentis. Et hoc est quod demonstrare intendebat.
+|#6
+Sed quia hoc est impossibile, quod motus componatur ex momentis,
+sicut impossibile est quod linea componatur ex punctis, ideo consequenter
+cum dicit: et motum esse aliquid etc., ostendit huiusmodi impossibilitatem,
+ducendo ad tria inconvenientia.
+Quorum primum est, quod si motus componatur ex momentis et magnitudo ex
+indivisibilibus, ita quod per indivisibilem partem magnitudinis non
+moveatur sed motum sit, sequetur quod aliquid sit motum non motum, idest
+quod prius non movebatur: quia ponitur quod secundum indivisibile
+transivit, idest motum est, non transiens; quia in eo moveri non poterat.
+Unde sequitur aliquid esse transitum absque hoc quod aliquando iret: quod
+est impossibile, sicut impossibile est quod aliquid sit praeteritum, quod
+nunquam fuerit praesens.
+|#7
+Sed quia hoc inconveniens posset concedere ille qui diceret motum
+componi ex momentis, ducit ad secundum inconveniens, ibi: si igitur necesse
+est etc., tali ratione.
+Omne quod natum est moveri et quiescere, necesse est quod vel quiescat vel
+moveatur.
+Sed dum mobile est in a, non movetur, et similiter dum est in b, et
+similiter dum est in c: ergo dum est in a et dum est in b et dum est in c,
+quiescit. Ergo sequitur quod aliquid simul continue quiescat et moveatur.
+Et quod hoc sequatur, sic probat. Positum est enim quod moveatur per totam
+longitudinem quae est abc; et iterum positum est quod quiescat secundum
+quamlibet partem: sed quod quiescit per quamlibet partem, quiescit per
+totum; ergo sequitur quod quiescat per totam magnitudinem. Et ita sequitur
+quod per totam magnitudinem continue moveatur et quiescat: quod est omnino
+impossibile.
+|#8
+Tertium inconveniens ponit ibi: et si indivisibilia etc., tali
+ratione.
+Ostensum est quod si magnitudo componitur ex indivisibilibus, quod etiam
+motus: aut ergo illa indivisibilia motus, quae sunt d et e et z, ita se
+habent quod quodlibet eorum est motus, aut non. Si quodlibet eorum est
+motus, cum quodlibet eorum respondeat indivisibili parti magnitudinis in
+qua non movetur sed motum est, sequetur quod praesente motu mobile non
+moveatur, quod est contra primam suppositionem, sed quiescat.
+Si vero non sunt motus, sequitur quod motus componatur ex non motibus: quod
+videtur impossibile, sicut et quod linea componatur ex non lineis.
+|+3
+
+Lectio 3
+
+|#1
+Postquam Philosophus ostendit eiusdem rationis esse, quod magnitudo
+et motus per eam transiens ex indivisibilibus componantur, ostendit etiam
+idem de tempore et magnitudine.
+
+210
+
+

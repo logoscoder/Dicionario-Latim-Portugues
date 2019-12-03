@@ -1,0 +1,64 @@
+|#3
+Deinde cum dicit: simul autem et ex hoc etc., ex eodem medio ducit ad
+aliud inconveniens.
+Si enim aliquid, dum movetur ab a, movetur ad a; non autem potest moveri ad
+a nisi ex aliquo contraposito, quod sit c, in quo mobile nondum fuit cum
+incipit moveri ab a: sequitur quod aliquid movetur ex illo termino in quo
+non est; quod est impossibile.
+Non enim potest aliquid recedere a loco in quo non est. Sic ergo
+impossibile est quod motus reflexus sit continuus. Et si hoc est
+impossibile, necesse est quod in puncto reflexionis mobile quiescat,
+scilicet in c. Ex quo patet quod non est unus motus; quia motus qui
+distinguitur per interpositionem quietis, non est unus.
+|#4
+Deinde cum dicit: amplius et ex his etc., probat idem universalius in
+quolibet genere motus, tribus rationibus.
+Quarum prima talis est. Omne quod movetur, movetur aliqua specierum motus
+supra assignatarum: et similiter omne quod quiescit oportet quod quiescat
+aliqua quietum oppositarum praedictis motibus. Ostensum est enim supra in
+quinto, quod non potest esse alius motus praeter assignatos.
+Accipiamus ergo aliquem motum distinctum ab aliis motibus hoc modo, quod
+sit differens specie ab aliis, sicut dealbatio differt a denigratione; non
+autem sic quod motus qui accipitur distinguatur ab aliis sicut una pars
+motus ab aliis partibus eiusdem motus, ut una pars dealbationis
+distinguitur ab aliis partibus dealbationis eiusdem. Accepto ergo uno tali
+motu sicut dictum est, verum est dicere quod illud quod non semper movetur
+hoc motu, ex necessitate prius quiescebat opposita quiete: sicut quod non
+semper dealbatur, aliquando quiescebat quiete opposita dealbationi.
+Sed haec propositio non esset vera, si aliqua pars determinata motus
+acciperetur: non enim est necesse ut id quod non semper movebatur hac parte
+dealbationis, quod antea quiesceret quiete opposita; quia antea etiam
+dealbabatur alia parte dealbationis. Et propter hoc signanter dixit: et non
+si aliqua pars est totius.
+Hanc autem propositionem sic probat. Duorum privative oppositorum necesse
+est, cum unum non inest, alterum inesse susceptibili: quies autem opponitur
+motui privative: ergo si mobile erat quando sibi motus non inerat, ex
+necessitate sequitur quod tunc quies sibi inesset.
+Hac ergo propositione probata, ex ratione supra posita assumit minorem,
+dicens quod si motus recti contrarii sunt qui est ab a ad c, et qui est a c
+ad a; et non contingit simul esse motus contrarios: manifestum est quod
+quando movebatur ab a ad c, non movebatur tunc a c ad a; et sic isto motu
+qui est a c ad a non semper movebatur.
+Unde secundum propositionem praemissam, necesse est quod mobile prius
+quiesceret quiete opposita. Ostensum est autem in quinto, quod motui qui
+est a c, opponitur quies quae est in c: ergo quiescebat in c.
+Non ergo motus reflexus erat unus et continuus, cum distinguatur per
+interpositionem quietis.
+|#5
+Secundam rationem ponit ibi: amplius autem et haec ratio etc.: quae
+talis est.
+Simul corrumpitur non album et generatur album: et e contrario simul
+corrumpitur album et fit non album. Sed si motus reflexus in quolibet
+genere sit continuus, sequetur quod continue alteratio terminetur ad album,
+et incipiat ex albo recedere, et quod non quiescet ibi aliquo tempore:
+alioquin non esset continua alteratio, si interponeretur quies. Sed sicut
+dictum est, cum fit album, corrumpitur non album; et cum receditur ab albo,
+fit non album. Sequetur ergo quod simul corrumpatur non album, et fiat non
+album: quia ista tria sunt in eodem tempore, scilicet fieri album, et
+corrumpi non album, et iterum fieri non album: si tamen continuetur
+reflexio absque interpositione quietis. Hoc autem est manifeste
+impossibile, quod simul fiat non album et corrumpatur non album. Non ergo
+est possibile quod motus reflexus sit continuus.
+338
+
+

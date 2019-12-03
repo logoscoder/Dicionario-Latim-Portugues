@@ -1,0 +1,62 @@
+PR11
+Undecimo utrum mens in statu viae possit videre Deum per essentiam.
+PR12
+Duodecimo utrum Deum esse, sit per se notum menti humanae.
+PR13
+Tertiodecimo utrum per naturalem rationem possit cognosci trinitas personarum.
+|a1 Articulus 1
+TTA
+Quaestio est de mente in qua est imago trinitatis.
+Et primo quaeritur utrum mens, prout in ea ponitur imago trinitatis, sit essentia animae, vel aliqua potentia eius.
+TTB
+Et videtur quod sit ipsa essentia animae.
+AG1
+Quia Augustinus dicit, IX de trinitate, quod mens et spiritus non relative dicuntur, sed essentiam demonstrant:
+nonnisi essentiam animae. Ergo mens est ipsa animae essentia.
+AG2
+Praeterea, diversa genera potentiarum animae non uniuntur nisi in essentia. Sed appetitivum et intellectivum sunt
+diversa genera potentiarum animae: ponuntur enim, in fine I de anima, quinque genera communissima
+potentiarum animae: scilicet vegetativum, sensitivum, appetitivum, motivum secundum locum, et intellectivum.
+Cum ergo mens comprehendat in se intellectivum et appetitivum, quia in mente ponitur ab Augustino
+intelligentia et voluntas, videtur quod non sit mens aliqua potentia, sed ipsa essentia animae.
+AG3
+Praeterea, Augustinus, XI de civitate Dei, dicit, quod nos sumus, ad imaginem Dei, inquantum sumus, novimus
+nos esse, et amamus utrumque; in IX vero de Trinit. Assignat imaginem Dei in nobis secundum mentem,
+notitiam et amorem. Cum ergo amare sit actus amoris, et nosse sit actus notitiae, videtur quod esse sit actus
+mentis. Sed esse est actus essentiae. Ergo mens est ipsa essentia animae.
+AG4
+Praeterea, eadem ratione invenitur mens in Angelo et in nobis. Sed ipsa essentia Angeli est mens eius. Unde
+dionysius frequenter Angelos nominat divinas vel intellectuales mentes. Ergo etiam et mens nostra est ipsa
+essentia animae.
+AG5
+Praeterea, Augustinus dicit in X de trinitate, quod memoria, intelligentia et voluntas sunt una mens, una essentia,
+una vita. Ergo, sicut vita ad essentiam pertinet, ita et mens.
+AG6
+Praeterea, accidens non potest esse principium substantialis distinctionis. Sed homo substantialiter distinguitur a
+brutis in hoc quod habet mentem. Ergo mens non est aliquod accidens. Sed potentia animae est proprietas eius,
+secundum Avicennam: et sic est de genere accidentis. Ergo mens non est potentia, sed est ipsa essentia animae.
+AG7
+Praeterea, ab una potentia non egrediuntur diversi actus secundum speciem. Sed a mente egrediuntur diversi
+actus secundum speciem, scilicet memorari, intelligere et velle, ut patet per Augustinum.
+Ergo mens non est aliqua potentia animae, sed ipsa essentia eius.
+AG8
+Praeterea, una potentia non est subiectum alterius potentiae. Sed mens est imaginis subiectum, quae consistit in
+tribus potentiis.
+Ergo mens non est potentia, sed ipsa essentia animae.
+AG9
+Praeterea, nulla potentia comprehendit in se plures potentias. Sed mens comprehendit intelligentiam et
+voluntatem. Ergo non est potentia, sed essentia.
+SC1
+Sed contra. Anima non habet alias partes nisi suas potentias. Sed mens est quaedam pars animae superior, ut
+Augustinus dicit in Lib. De Trin.. Ergo mens est potentia animae.
+SC2
+Praeterea essentia animae communis est omnibus potentiis, quia omnes in ea radicantur.
+Sed mens non est communis omnibus potentiis, quia dividitur contra sensum. Ergo mens non est ipsa essentia
+animae.
+SC3
+Praeterea, in essentia animae non est accipere supremum et infimum. Sed in mente est supremum et infimum;
+dividit enim Augustinus, mentem in superiorem et inferiorem rationem.
+Ergo mens est potentia animae, non essentia.
+210
+
+

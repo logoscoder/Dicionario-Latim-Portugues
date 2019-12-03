@@ -1,0 +1,78 @@
+ita quoque in ea oppositione quae est ex infinito nomine subiecto idem seruandum est, ut quod in affirmatione
+subiectum est idem seruetur etiam in negatione. Quod si hoc in his quae indefinitae sunt euenit, cur non etiam in illis
+idem fieri oportere uideatur quae definitae sunt? Hoc solum enim definitae ab indefinitis differunt, quod cum
+indefinitae uniuersalia praedicant praeter uniuersalitatis determinationem, determinatae et definitae idem illud
+prasdicant uniuersale cum adiectione et significatione quoniam uniuersaliter praedicatur. Nihil igitur aliud omnis uel
+nullus significat, nisi quoniam id quod uniuersale dicitur uniuersaliter praedicatur. Ergo omnia eadem quae in
+affirmatione et negatione indefinitis ponebantur eadem quoque et in eisdem determinatis seruanda sunt. Omnis enim et
+nullus non sunt termini sed uniuersalis termini determinationes.
+His igitur ab Aristotele decursis nos quoque a Syriano, cui Philoxeno esse cognomen supra rettulimus,
+propositionum omnium numerum, de quibus in hac libri disputatione perpendit, nimis ad rem pertinentem atque utilem
+transferamus. Et prius perspiciendum est in categoricis propositionibus quot indefinitae sunt. Quantae enim fuerint
+indefinitae, tot /322/ erunt uniuersales, tot particulares, tot singularium atque indiuiduorum propositiones. Et prius
+quidem affirmationes perspiciamus hoc modo: quatuor modi sunt propositionum: aut enim indefinitae sunt aut
+uniuersales aut particulares aut singularium atque indiuiduorum. Si ergo perspiciantur quantae sint indefinitae
+affirmationes, has si per quaternarium numerum multiplicauero, colligitur mihi numerus affirmationum. Quem si
+duplico, colligitur etiam negationum hoc modo. Praedicatur enim est aut ipsum solum aut certe tertium adiacens cum
+alio. Et si solum praedicatur, aut ad nom en simplex atque finitum praedicandum est aut ad infinitum. Ex his duae sunt
+affirmationes:
+Est homo
+Est non homo
+Quotiens autem est tertium adiacens praedicatur, hae quatuor erunt affirmationes: aut cum subiectum infinitum
+est solum, ut:
+Est iustus non homo
+aut cum praedicatum infinitum est solum, ut:
+Est non iustus homo
+aut cum utraque finita sunt, ut:
+Est iustus homo
+aut cum utraque infinita sunt, ut:
+Est non iustus non homo
+MAGIS PLURES AUTEM HIS, ut ipse ait, propositiones inueniri non possunt. Cum igitur sex sint
+affirmationes, duae quibus est praedicatur, quatuor uero adiacente, has si per quaternarium ducam, uiginti et quatuor
+fient. Quas rursus si binario multiplicem, quadraginta octo mihi summa subcrescunt. Tot igitur erunt affirmationes et
+negationes quaecumque uel praedicato est uerbo uel tertio adiacenti et praedicato fiunt. Qua in re quoniam tres /323/
+sunt aliae qualitates propositionum, quae sunt necessariae, contingentes et inesse tantum significantes,
+secundum quas qualitates istae omnes propositiones proferuntur, has quadraginta octo propositiones si in ternarium
+numerum duxerimus, scilicet propositionum qualitates, centum quadraginta quatuor omnis propositionum
+praedicatiuarum, de quibus hoc libro tractat, numerositas crescet. Sed nunc praeter has tris qualitates quae sint
+quadraginta octo propositiones cum negationibus suis (quas si per qualitates propositionum, necessariam scilicet et
+contingentem et inesse significantem, multiplicauero, centum quadraginta quatuor fient) subter adscripsimus. /324/
+EST SOLUM
+Est homo
+Est non homo
+Est omnis homo
+Est omnis non homo
+Est quidam homo
+Est quidam non homo
+Est Socrates
+Est non Socrates
+ITEM EST TERTIUM
+Est iustus homo
+Est iustus omnis homo
+Est iustus quidam homo
+Est iustus Socrates
+Est iustus non homo
+Est iustus omnis non homo
+Est iustus quidam non homo
+Est iustus non Socrates
+Est non iustus omnis homo
+
+Non est homo
+Non est non homo
+Non est omnis homo
+Non est omnis non homo
+Non est quidam homo
+Non est quidam non homo
+Non est Socrates
+Non est non Socrates
+Non est iustus homo
+Non est iustus omnis homo
+Non est iustus quidam homo
+Non est iustus Socrates
+Non est iustus non homo
+Non est iustus omnis non homo
+Non est iustus quidam non homo
+Non est iustus non Socrates
+Non est non iustus omnis homo
+
+

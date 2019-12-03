@@ -1,0 +1,58 @@
+non oportet quod illud praedicatum, quod de utroque praedicatur, insit utrique secundum aliquod commune, et
+hoc semper, idest in infinitum procedendo.
+|#3 Deinde cum dicit: ut scaleno et isosceli etc., manifestat propositum per exemplum. Sunt enim duae species
+trianguli, quarum una vocatur scalenon, vel triangulus gradatus, cuius sunt tria latera inaequalia; alia est
+isosceles, cuius sunt duo latera aequalia: unum autem horum non praedicatur de altero; utrique autem inest haec
+passio, habere tres angulos aequales duobus rectis. Inest autem hoc eis secundum aliquid commune, scilicet
+secundum quod uterque horum est figura quaedam, scilicet triangulus. Hoc autem non semper sic se habet,
+scilicet quod in infinitum conveniat secundum aliquid aliud; puta quod habere tres conveniat triangulo iterum
+secundum aliquid aliud, et sic in infinitum.
+|#4 Deinde cum dicit: sit enim b secundum etc., probat propositum et dicit: sit ita quod b praedicetur de c et de
+d secundum hoc commune, quod est a. Manifestum est ergo quod b erit in c et in d secundum illud commune,
+quod est a; et si iterum insit a secundum aliquod commune, et iterum illi communi secundum aliquid aliud,
+procedetur in infinitum in mediis. Sequitur igitur quod inter duo extrema, quae sunt c et b, cadant infiniti termini
+medii. Hoc autem est impossibile: ergo non necesse est, si idem insit pluribus, quod semper in infinitum insit eis
+secundum aliquid commune; quia necesse est quod deveniatur ad aliqua spatia immediata, idest ad aliquas
+immediatas praedicationes, quas appellat spatia, ut supra dictum est.
+|#5 Quantum igitur videtur ex hac probatione Aristotelis, non est suus intellectus, quod hoc non semper sit
+verum, quod quando aliquid praedicatur de pluribus, quae de se invicem non praedicantur, quod illud non insit
+illis pluribus secundum aliquid commune. Hoc enim verum est in omni quod praedicatur sicut passio: oportet
+enim si inest pluribus, quod insit eis secundum aliquid commune, licet forte illud sit innominatum, sicut supra
+dictum est cum de universali ageretur.
+Sed in illo communi non proceditur in infinitum, ut haec ratio inducta a Philosopho evidenter probat. Si autem
+accipiatur aliquid, quod insit pluribus sicut genus speciebus, non semper oportebit aliquid prius accipere,
+secundum quod insit, puta si vivum insit homini et asino secundum aliquod prius, scilicet secundum animal;
+animali autem et plantae non inest secundum aliquod prius, quia haec sunt primae species corporis vivi, sive
+animati.
+|#6 Deinde cum dicit: in eodem quidem genere etc., excludit quamdam obviationem. Posset enim aliquis dicere
+quod semper accipitur secundum aliquid commune, quia potest accipi commune alterius generis: puta si dicamus
+quod esse seipsum movens inest homini et asino secundum hoc commune, quod est animal, et secundum aliud
+commune, quod est habens quantitatem, vel habens colorem, aut aliquid aliud huiusmodi; quae possunt accipi in
+infinitum. Et ad hoc excludendum dicit, quod necesse est terminos medios, qui accipiuntur, accipi ex eodem
+genere et ex eisdem atomis, idest indivisibilibus. Et appellat atomos, ipsos terminos extremos: inter quos oportet
+accipi medium, si illud commune, quod accipitur ut medius terminus, sit de numero eorum, quae praedicantur
+per se. Quare autem oporteat ex eodem genere assumere terminos medios, ostendit per hoc, quod sicut supra
+habitum est, non contingit demonstrationem transire de uno genere in aliud.
+|#7 Deinde cum dicit: manifestum autem est etc., ostendit quod necesse est devenire ad aliquod unum in
+praedicabilibus, in quibus praedicatur unum de uno. Et primo, in affirmativis; secundo, in negativis; ibi: similiter
+autem et si a etc.. Dicit ergo primo, manifestum esse quod cum a praedicatur de b, si horum sit aliquod medium,
+quod illo medio uti possumus ad demonstrandum quod a sit in b: et haec sunt principia huiusmodi conclusionis.
+Et quaecunque accipiuntur ut media, sunt principia conclusionum mediatarum, quae per ea concluduntur. Nihil
+enim aliud sunt elementa, sive principia demonstrationum, quam propositiones immediatae. Et hoc dico vel
+omnes, vel universales: quod quidem potest dupliciter intelligi. Uno modo, ut propositio universalis accipiatur
+secundum quod dividitur contra singularem. Nam species specialissima non praedicatur de singulari per aliquod
+medium. Unde haec propositio est immediata: socrates est homo, non tamen est principium demonstrationis,
+quia demonstrationes non sunt de singularibus, cum eorum non sit scientia: et ita non omnis propositio
+immediata est demonstrationis principium, sed solum universalis. Alio modo potest intelligi secundum quod
+propositiones universales dicuntur propositiones communes in omnibus propositionibus alicuius scientiae, sicut,
+omne totum est maius sua parte: unde huiusmodi sunt simpliciter demonstrationum principia, et omnibus per se
+nota.
+Haec autem propositio, homo est animal, vel, isosceles est triangulus, non est principium demonstrationis in tota
+scientia, sed solum aliquarum particularium demonstrationum; neque etiam huiusmodi propositiones sunt
+omnibus per se notae.
+Sic igitur si sit aliquod medium propositionis datae, erit demonstrare per aliquod medium, quousque deveniatur
+ad aliquod immediatum. Si vero non sit aliquod medium propositionis datae, non poterit demonstrari. Sed haec
+est via ad inveniendum prima principia demonstrationum, scilicet procedere a mediatis ad immediata resolvendo.
+58
+
+

@@ -1,0 +1,50 @@
+14.3.0. De institoria actione.
+14.4.0. De tributoria actione.
+14.5.0. Quod cum eo, qui in aliena potestate est, negotium gestum esse dicetur.
+14.6.0. De senatus consulto Macedoniano.
+Explicit liber ex ordine quartus decimus.
+
+Incipit liber ex ordine quintus decimus, de rebus quartus.
+15.1.0.De peculio.
+15.2.0. Quando de peculio actio annalis est.
+15.3.0. De in rem verso.
+15.4.0. Quod iussu.
+Explicit liber ex ordine quintus decimus.
+
+Incipit liber ex ordine sextus decimus, de rebus liber quintus.
+16.1.0. Ad senatus consultum Velleianum.
+16.2.0. De compensationibus.
+16.3.0. Depositi vel contra.
+Explicit ex ordine liber sextus decimus.
+
+Incipit liber ex ordine septimus decimus, de rebus liber sextus.
+17.1.0. Mandati vel contra.
+17.2.0. Pro socio.
+Explicit liber ex ordine septimus decimus.
+
+Incipit liber ex ordine digestorum octavus decimus, de rebus liber septimus.
+18.1.0. De contrahenda emptione et de pactis inter emptorem et venditorem compositis (..)
+18.2.0. De in diem addictione.
+18.3.0. De lege commissoria.
+18.4.0. De hereditate vel actione vendita.
+18.5.0. De rescindenda venditione et quando licet ab emptione discedere.
+18.6.0. De periculo et commodo rei venditae.
+18.7.0. De servis exportandis: vel si ita mancipium venierit ut manumittatur vel contra.
+
+Incipit ex ordine digestorum liber nonus decimus, de rebus octavus.
+19.1.0. De actionibus empti venditi.
+19.2.0. Locati conducti.
+19.3.0. De aestimatoria.
+19.4.0. De rerum permutatione.
+19.5.0. De praescriptis verbis et in factum actionibus.
+Explicit ex ordine digestorum liber nonus decimus feliciter.
+
+Incipit ex ordine digestorum liber vicensimus, singularium primus.
+20.1.0. De pignoribus et hypothecis et qualiter ea contrahantur et de pactis eorum.
+20.2.0. In quibus causis pignus vel hypotheca tacite contrahitur.
+20.3.0. Quae res pignori vel hypothecae datae olbigari non possunt.
+20.4.0. Qui potiores in pignore vel hypotheca habeantur et de his qui in priorum creditorum locum (..)
+20.5.0. De distractione pignorum et hypothecarum.
+20.6.0. Quibus modis pignus vel hypotheca solvitur.
+
+

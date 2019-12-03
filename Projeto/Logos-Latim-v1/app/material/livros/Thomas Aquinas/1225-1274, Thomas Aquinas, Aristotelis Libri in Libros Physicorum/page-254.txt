@@ -1,0 +1,64 @@
+Accipiatur igitur aliquid quod movetur secundum locum; hoc movetur ab
+altero; aut ergo illud alterum movetur, aut non. Si non movetur, habetur
+propositum, scilicet quod aliquid sit movens immobile; quod est proprietas
+primi moventis. Si autem et ipsum movens movetur, oportet quod moveatur ab
+altero movente; et hoc iterum movens, si et ipsum movetur, movetur ab
+altero. Sed hoc non potest procedere in infinitum, sed oportet in aliquo
+stare. Erit ergo aliquid primum movens, quod erit prima causa motus: ita
+scilicet quod ipsum non movetur, sed movet alia.
+|#2
+Deinde cum dicit: si enim non etc., probat quod supposuerat.
+Et circa hoc tria facit: primo inducit probationem; secundo ostendit
+probationem esse insufficientem, ibi: sic igitur videtur etc.; tertio
+supplet quoddam per quod ratio fortificatur, ibi: sed si id quod movetur
+etc..
+Dicit ergo primo, quod si hoc non concedatur, quod sit aliqua prima causa
+motus, cum omne quod movetur ab alio moveatur, sequitur quod procedatur in
+infinitum in moventibus et motis. Et hoc ostendit esse impossibile.
+Sit enim a quoddam quod movetur secundum locum, et moveatur ab ipso b; b
+vero a c, c vero a d; et sic procedatur in infinitum ascendendo. Manifestum
+est autem, quod cum aliquid movet ex eo quod movetur, simul movetur movens
+et ipsum mobile; sicut si manus suo motu movet baculum, simul movetur manus
+et baculus. Sic ergo simul movetur b quando movetur a; et eadem ratione
+quando movetur b simul movetur c, et cum movetur c simul movetur d. Sic
+ergo simul et in eodem tempore est motus ipsius a et omnium aliorum; et
+poterit seorsum accipi motus uniuscuiusque horum infinitorum.
+Et quamvis unumquodque horum mobilium moveatur ab unoquoque moventium, non
+ita quod unum ab omnibus, sed singula a singulis; nihilominus tamen, licet
+sint infinita moventia et mobilia, tamen uniuscuiusque mobilium motus est
+unus numero. Et licet omnes motus sint infiniti numero, non tamen sunt
+infiniti in ultimis, idest per privationem ultimorum, sed uniuscuiusque
+motus est finitus, habens determinata ultima.
+Et quod uniuscuiusque infinitorum mobilium motus sit unus numero et
+finitus, probat quia, cum omne quod movetur moveatur inter duos terminos,
+ex quodam scilicet in quiddam, necesse est quod secundum diversum modum
+identitatis terminorum, etiam ipse motus sit diversimode unus, scilicet aut
+numero aut specie aut genere.
+Numero quidem est idem motus, qui est ex eodem termino a quo in idem numero
+sicut in terminum ad quem; ita tamen quod sit etiam in eodem numero
+tempore; et cum hoc oportet quod sit eiusdem mobilis numero. Et ad
+exponendum quod dixerat, subiungit quod motus numero unus est ex eodem in
+idem, sicut ex hoc albo, quod significat unum numero, in hoc nigrum, quod
+etiam nominat aliquid idem numero, et secundum hoc tempus determinatum,
+quod etiam est unum numero: quia si esset motus secundum aliud tempus,
+licet aequale, non esset numero unus, sed specie tantum.
+Sed motus est unus genere, qui est in eodem praedicamento, vel substantiae
+vel cuiuscumque alterius generis; sicut omnis generatio substantiae est
+eadem genere, et omnis alteratio similiter.
+Sed motus est specie unus, qui est ex eodem secundum speciem in idem
+secundum speciem; sicut omnis denigratio, quae est ex albo in nigrum, est
+eadem specie, et omnis depravatio, quae est ex bono in malum. Et haec etiam
+in quinto dicta sunt.
+His igitur duobus suppositis, scilicet quod simul movetur et movens et
+motum, et quod potest accipi motus uniuscuiusque mobilium tanquam finitus
+et unus; accipiatur motus huius mobilis quod est a, et sit e; et motus
+ipsius b sit z, et motus cd et omnium consequentium sit it. Tempus autem in
+quo movetur a, sit k. Sed quia motus ipsius a est determinatus, idest
+finitus, etiam tempus in quo est iste motus, scilicet k, est determinatum
+et non infinitum: quia sicut in sexto ostensum est, finitum et infinitum
+simul invenitur in tempore et motu. Ex dictis autem patet, quod in eodem
+tempore in quo movetur a, movetur et b, et omnia alia: ergo motus omnium,
+qui est ezit, est in tempore finito. Sed iste motus est infinitus, cum sit
+254
+
+

@@ -1,0 +1,63 @@
+294 arcediaconatus W411
+295 illius V630; ille korr. aus illi V1341
+296 ordinationi W411
+297 praeponatur W411
+298 Rubrik fehlt V630; V1341
+299 XXV O93
+300 nostra W411
+301 Rubrik fehlt V630
+302 coniuges W411
+303 XXVI O93
+304 Hii W411
+305 nulla fehlt V630; W411; V1341
+306 admiserunt V630
+307 admittunt V630
+308 illicit• O93
+309 conprovincialem W411
+310 conprovintiales discidii korr. aus conprovintiales V1341
+311 discidii causas] causas discidii W411
+312 et] et a fehlt V630; V1341
+313 Rubrik fehlt V630
+314 ET korr. aus UT V1341
+315 ET fehlt O93
+316 XXVII O93
+317 quis] quis vero W411
+318 praesumpserunt W411
+319 abstinentiam V630
+320 est] est et W411
+321 reddat korr. aus reddant V1341
+322 privetur korr. aus priventur V1341
+323 Hi fehlt W411
+324 etam W411
+325 aliquid fehlt W411
+326 superiori sententia teneantur fehlt W411
+327 tenantur V1341
+328 Rubrik fehlt V630
+329 XXVIII O93
+330 Et fehlt W411
+331 masterium V1341
+332 vacantes W411
+333 abbas V1341
+334 revocentur W411
+335 enim fehlt W411
+336 clericus W411
+337 Rubrik fehlt V630
+338 XXVIIII O93
+339 monasterium W411
+340 Rubrik fehlt V630
+341 XXX O93
+342 Quos V1341
+343 praesumpserint V1341
+344 repellantur W411
+345 Rubrik fehlt V630
+346 ANTIFANAS W411
+347 XXXI O93
+348 ardinem W411
+349 custodire W411
+350 sicut ubique] ubique sicut V630
+351 fit] fit et V630; W411; V1341
+352 antifanas W411
+353 collectionis W411
+14
+
+

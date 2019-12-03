@@ -1,0 +1,61 @@
+Secundo utrum angelica simplicitas patiatur compositionem ex subiecto et accidente.
+|a1 Articulus 1
+TTA
+Utrum immensitas divina excludat pluralitatem personarum.
+TTB
+Ad primum sic proceditur: videtur quod immensitas divina excludat pluralitatem personarum.
+AG1
+Omne enim immensum, cum sit indeterminatum, stat in uno. Sed quidquid est in divinis, est immensum. Cum
+ergo persona sit in divinis, stabit in uno, ita quod non erunt ibi plures personae.
+AG2
+Si dicatur, quod personae hoc modo in uno stant quod omnes sunt una essentia; contra: sicut essentia est
+immensa, ita et persona. Sed immensitas essentiae facit quod sit una essentia tantum. Ergo immensitas personae
+facit quod sit una persona tantum.
+AG3
+Si dicatur, quod persona non est immensa nisi immensitate essentiae; contra: persona secundum intellectum
+addit aliquid supra essentiam. Sed quidquid intelligitur in divinis, intelligitur ut immensum. Ergo praeter
+immensitatem essentiae est in Deo immensitas personae, quae faciet in divinis unam tantum personam.
+SC
+Sed contra, est quod dicitur in I Ioan. V, V. 7: tres sunt qui testimonium dant in caelo.
+CO
+Respondeo. Dicendum, quod immensitas non excludit pluralitatem, nisi secundum quod tollit determinationem,
+quae est pluralitatis principium primum. Sicut autem dictum est prius, art. 1 huius quaest., ad 1, duplex est
+determinatio; scilicet limitationis et distinctionis.
+In divinis autem nullo modo cadit determinatio limitationis. Cadit autem ibi determinatio distinctionis dupliciter:
+uno modo secundum quod distinguitur per essentiam ab omnibus creatis ut non limitatum a limitato; alio modo
+secundum quod persona distinguitur a persona per relationem originis: quae quidem distinctio non est propter
+aliquam limitationem, sed ratione oppositionis quae est in relatione: unde hanc distinctionem immensitas divina
+non excludit, et per consequens nec pluralitatem personarum.
+RA1
+Et per hoc patet responsio ad primum.
+RA2
+Ad secundum dicendum, quod quamvis persona sit immensa, tamen immensitas est essentiale, non personale,
+sicut persona est bona bonitate essentiali; unde non oportet quod immensitas faciat indistinctionem in personis,
+sed solum in esse naturae.
+RA3
+Ad tertium dicendum quod persona non dicitur aliquid secundum intellectum addere supra essentiam, quasi
+intellectus debeat intelligere aliquid additum essentiae: esset enim intellectus falsus; sed quia intelligendo
+personam, intelligo essentiam de necessitate, sed non e converso. Unde obiectio non procedit.
+|a2 Articulus 2
+TTA
+Utrum angelica simplicitas patiatur compositionem ex subiecto et accidente.
+TTB
+Circa secundum sic proceditur: videtur quod in Angelis non sit compositio accidentis et subiecti.
+AG1
+Quia esse accidentale causatur ab esse substantiali. Ergo et compositio accidentalis a compositione substantiali.
+Sed in Angelis non est compositio substantialis, quia sunt substantiae simplices, ut dionysius dicit. Ergo nec
+compositio accidentalis.
+AG2
+Praeterea, boetius dicit in Lib. De Trinit., quod forma simplex subiectum esse non potest.
+Sed Angeli sunt formae simplices, secundum dionysium. Ergo non possunt esse subiectum accidentis.
+SC
+Sed contra, est quod Augustinus substantias spirituales ponit deficere a simplicitate divina per hoc quod est in eis
+compositio accidentis et subiecti.
+CO
+Respondeo. Dicendum, quod ex hoc aliquid est susceptivum formae substantialis vel accidentalis, quod aliquid
+habet possibilitatis: quia de ratione potentiae est ut actui substernatur, qui forma dicitur.
+De Angelis autem diversi diversa sentiunt.
+
+140
+
+

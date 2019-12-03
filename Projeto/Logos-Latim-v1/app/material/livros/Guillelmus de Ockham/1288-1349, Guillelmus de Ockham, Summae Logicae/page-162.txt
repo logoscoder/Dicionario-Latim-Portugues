@@ -1,0 +1,58 @@
+Et est primo sciendum quod quaelibet propositio de praeterito et de futuro, in qua subicitur terminus
+communis uel pronomen demonstratiuum cum termino communi uel terminus discretus importans aliquod
+compositum, est distinguenda, eo quod subiectum potest supponere pro eo quod est uel pro eo quod fuit, si sit
+propositio de praeterito, aut pro eo quod est uel pro eo quod erit, si sit propositio de futuro. Et siue sic siue sic, si
+sit propositio affirmatiua requiritur quod praedicatum sub propria forma, hoc est quod ipsummet praedicatum
+uere per tale uerbum praedicetur de eo pro quo subiectum supponit, ita scilicet quod propositio in qua
+praedicatur praedicatum de pronomine demonstrante praecise illud pro quo subiectum supponit fuit aliquando
+uera, si sit propositio de praeterito, uel quod erit aliquando uera, si sit propositio de futuro. Verbi gratia, si ista
+propositio sit uera'album fuit Sortes', et si 'album' supponat pro eo quod est album, non requiritur quod haec
+fuerit aliquando uera 'album est
+Sortes', sed requiritur quod haec fuerit uera 'hoc est Sortes', demostrando illud pro quo subiectum
+supponit in ista 'album fuit
+Sortes'. Unde si Sortes nunc primo sit albus, haec est uera 'album fuit
+Sortes', accipiendo subiectum pro eo quod est, et tamen numquam haec fuit uera 'album est Sortes', sed
+haec fuit uera 'hoc est Sortes', demonstrando
+Sortem; et quia 'album' in ista 'album fuit Sortes' supponit pro Sorte, ideo haec est uera. Similiter ista est
+modo uera 'creans ab aeterno fuit
+Deus', et tamen haec non fuit ab aeterno uera 'creans est Deus', sed ista ab aeterno fuit uera -- uel fuisset
+uera, si fuisset formata -- 'iste est
+Deus', demonstrando illum pro quo 'creans' supponit in ista 'creans ab aeterno fuit Deus'.
+Deus', demonstrando illum pro quo 'creans' supponit in ista 'creans ab aeterno fuit Deus'.
+Similiter ista est uera 'puer erit senex', et tamen haec nuniquam erit uera
+'puer est senex', sed ista erit uera 'iste est senex', demonstrando illum qui modo est puer. Et ita est de
+aliis.
+'puer est senex', sed ista erit uera 'iste est senex', demonstrando illum qui modo est puer. Et ita est de
+aliis.
+Unde ista est differentia inter propositiones de praesenti et de praeterito et de futuro quod praedicatum
+in propositione de praesenti stat eodem modo quo subiectum, nisi ahquid additum impediat; sed in propositione
+de praeterito et de futuro est uariatio, quia praedicatum non tantum stat pro illis de quibus uerificatur in
+propositione de praeterito et de futuro, quia ad hoc quod talis propositio sit uera, non sufficit quod illud de quo
+praedicatum uerificatur, siue per uerbum de praeterito siue per uerbum de futuro, sit illud pro quo subiectum
+supponit, sed requiritur quod ipsummet praedicatum uerificetur de illo pro quo subiectum supponit, secundum
+quod denotatur per talem propositionem. Sicut posito quod Sortes modo sit albus et fuerit per totam diem istam
+et non ante, tunc haec est falsa 'Sortes heri fuit albus', et tamen 'album' uere praedicatur de Sorte et similiter
+praedicabatur de Sorte; quia tamen heri non praedicabatur de Sorte ideo haec est modo falsa de praeterito 'Sortes
+heri fuit albus'.
+Unde ista est differentia inter propositiones de praesenti et de praeterito et de futuro quod praedicatum
+in propositione de praesenti stat eodem modo quo subiectum, nisi ahquid additum impediat; sed in propositione
+de praeterito et de futuro est uariatio, quia praedicatum non tantum stat pro illis de quibus uerificatur in
+propositione de praeterito et de futuro, quia ad hoc quod talis propositio sit uera, non sufficit quod illud de quo
+praedicatum uerificatur, siue per uerbum de praeterito siue per uerbum de futuro, sit illud pro quo subiectum
+supponit, sed requiritur quod ipsummet praedicatum uerificetur de illo pro quo subiectum supponit, secundum
+quod denotatur per talem propositionem. Sicut posito quod Sortes modo sit albus et fuerit per totam diem istam
+et non ante, tunc haec est falsa 'Sortes heri fuit albus', et tamen 'album' uere praedicatur de Sorte et similiter
+praedicabatur de Sorte; quia tamen heri non praedicabatur de Sorte ideo haec est modo falsa de praeterito 'Sortes
+heri fuit albus'.
+Similiter si Sortes nunc primo sit albus, haec est falsa 'Sortes fuit albus', et tamen Sortes fuit illud de
+quo modo 'album' uerificatur; quia tamen haec non fuit uera 'Sortes est albus', ideo haec est modo falsa
+'Sortes fuit albus'. Et hoc quia praedicatuni appellat suam formam', modo praeexposito; sed subiectum
+non sic, quia ad ueritatem propositionis de praeterito non requiritur quod propositio aliqua, in qua praedicatur per
+uerbum de praesenti praedicatum -- uel illud pro quo supponit praedicatum de ipso subiecto, fuerit uera. Sicut si Sortes nunc primo sit albus, tunc haec est uera 'album fuit Sortes',
+et tamen nulla propositio de praesenti in qua praedicatur hoc praedicatum 'Sortes' -- uel illud pro quo supponit de hoc subiecto 'album' fuit prius unquam uera, quia haec numquam fuit uera 'album est Sortes' uel
+'album est hoc', demonstrando illud pro quo praedicatum supponit in ista 'album fuit Sortes'. Aliqua tamen
+propositio in qua praedicatur 'Sortes' de pronomine praecise demonstrante illud pro quo subiectum supponit in
+ista 'album fuit Sortes' fuit uera, nam in ista
+162
+
+

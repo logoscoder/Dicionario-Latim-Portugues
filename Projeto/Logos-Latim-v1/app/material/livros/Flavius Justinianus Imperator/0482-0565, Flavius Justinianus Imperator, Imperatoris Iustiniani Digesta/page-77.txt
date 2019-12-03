@@ -1,0 +1,49 @@
+Venditor hereditatis emptori mandatis actionibus cum debitore hereditario, qui ignorabat venditam esse hereditatem,
+transegit: si emptor hereditatis hoc debitum ab eo exigere velit, exceptio transacti negotii debitori propter ignorantiam
+suam accommodanda est. Idem respondendum est et in eo, qui fideicommissam recepit hereditatem, si heres cum
+ignorante debitore transegit.
+
+DOMINI NOSTRI SACRATISSIMI PRINCIPIS
+IUSTINIANI
+IURIS ENUCLEATI EX OMNI VETERE IURE COLLECTI
+DIGESTORUM SEU PANDECTARUM
+liber tertius
+
+( Th. Mommsen & P. Krueger, Corpus Iuris Civilis, I, Berlin, 1954 ).
+
+* 3.1.0. De postulando.
+* 3.2.0. De his qui notantur infamia.
+* 3.3.0. De procuratoribus et defensoribus.
+* 3.4.0. Quod cuiuscumque universitatis nomine vel contra eam agatur.
+* 3.5.0. De negotiis gestis.
+* 3.6.0. De calumniatoribus.
+3.1.0. De postulando.
+3.1.1
+Ulpianus libro sexto ad edictum
+pr. Hunc titulum praetor proposuit habendae rationis causa suaeque dignitatis tuendae et decoris sui causa, ne sine
+delectu passim apud se postuletur.
+1. Eapropter tres fecit ordines: nam quosdam in totum prohibuit postulare, quibusdam vel pro se permisit, quibusdam et
+pro certis dumtaxat personis et pro se permisit.
+2. Postulare autem est desiderium suum vel amici sui in iure apud eum, qui iurisdictioni praeest, exponere: vel alterius
+desiderio contradicere.
+3. Initium autem fecit praetor ab his, qui in totum prohibentur postulare. In quo edicto aut pueritiam aut casum
+excusavit. Pueritiam: dum minorem annis decem et septem, qui eos non in totum complevit, prohibet postulare, quia
+moderatam hanc aetatem ratus est ad procedendum in publicum, qua aetate aut Paulo maiore fertur Nerva filius et
+publice de iure responsitasse. Propter casum surdum qui prorsus non audit prohibet apud se postulare: nec enim erat
+permittendum ei postulare, qui decretum praetoris exaudire non poterat, quod etiam ipsi erat periculosum futurum: nam
+non exaudito decreto praetoris, quasi non obtemperasset, poena ut contumax plecteretur.
+4. Ait praetor: "si non habebunt advocatum, ego dabo." Nec solum his personis hanc humanitatem praetor solet
+exhibere, verum et si quis alius sit, qui certis ex causis vel ambitione adversarii vel metu patronum non invenit.
+5. Secundo loco edictum proponitur in eos, qui pro aliis ne postulent: in quo edicto excepit praetor sexum et casum,
+item notavit personas in turpitudine notabiles. Sexum: dum feminas prohibet pro aliis postulare. Et ratio quidem
+prohibendi, ne contra pudicitiam sexui congruentem alienis causis se immisceant, ne virilibus officiis fungantur
+mulieres: origo vero introducta est a Carfania improbissima femina, quae inverecunde postulans et magistratum
+inquietans causam dedit edicto. Casum: dum caecum utrisque luminibus orbatum praetor repellit: videlicet quod
+insignia magistratus videre et revereri non possit. Refert etiam Labeo publilium caecum asprenatis noni patrem aversa
+sella a Bruto destitutum, cum vellet postulare. Quamvis autem caecus pro alio postulare non possit, tamen et
+senatorium ordinem retinet et iudicandi officio fungitur. Numquid ergo et magistratus gerere possit? Sed de hoc
+deliberabimus. Exstat quidem exemplum eius, qui gessit: Appius denique Claudius Caecus consiliis publicis intererat et
+in senatu severissimam dixit sententiam de Pyrrhi captivis. Sed melius "milius" est, ut dicamus retinere quidem iam
+coeptum magistratum posse, adspirare autem ad novum penitus prohiberi: idque multis comprobatur exemplis.
+
+

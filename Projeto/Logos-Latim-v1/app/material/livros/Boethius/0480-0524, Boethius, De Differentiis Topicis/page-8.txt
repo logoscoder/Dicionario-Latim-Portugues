@@ -1,0 +1,61 @@
+Quae cum ita sint, eorum locorum quos in maximarum propositionum differentia [1186D] constituimus
+facienda diuisio est. Per singula uero quaeque currentibus manifestius apparebit exemplo, quod maximae propositioues
+a suis differentiis distent. Et enim quaestiones, argumenta, propositiones maximas ac principales, locos, earumque
+differentias, per unumquodque dabimus exemplum.
+Omnes igitur loci, id est maximarum differentiae propositionum, aut ab his ducantur necesse est terminis qui
+in quaestione sunt positi, praedicato scilicet atque subiecto, aut extrinsecus assumantur, aut horum medii qui inter
+utrosque uersantur.
+Eorum uero locorum qui ab his ducuntur terminis de quibus in quaestione dubitatur, duplex est modus: unus
+quidem ab eorum substantia, alter uero ab his quae substantiam eorum consequuntur.
+[1187A] Hi uero qui a substantia sunt, in sola definitione consistunt. Definitio enim substantiam monstrat, et
+substantiae integra demonstratio definitio est. Sed id quod dicimus patefaciamus exemplis, ut omnis quaestionum, uel
+argumentationum, uel locorum ratio colliquescat. Age enim quaeratur an arbores animalia sint, fiatque huiusmodi
+syllogismus: animal est substantia animata sensibilis; arbor uero substantia animata sensibilis non est; arbor igitur
+animal non est. Haec de genere quaestio est, utrum enim arbores sub animalium genere ponendae sint quaeritur. Locus
+qui in uniuersali propositione consistit, hic est cui generis definitio non conuenit; id eius cuius ea definitio est, species
+non est. Loci superior differentia, qui locus nihilominus nuncupatur a definitione. [1187B] Vides igitur ut tota dubitatio
+quaestionis syllogismi argumentatione tractata sit per conuenientes et congruas propositiones, quae uim suam ex prima
+et maxima propositione custodiunt, ex ea scilicet quae negat esse speciem, cui non conuenit generis definitio, atque ipsa
+uniuersalis propositio a substantia tracta est unius eorum termini qui in quaestione locati sunt, ut animalis, id est ab eius
+definitione quae est substantia animata sensibilis.
+Ita igitur in caeteris quaestionibus strictim ac breuiter locorum differentiis commemoratis, oportet
+uniuscuiusque proprietatem uigilantis animi alacritate percipere.
+Huius autem loci qui a substantia ducitur duplex est modus; partim namque a definitione, partim a descriptione
+argumenta ducuntur. Differt [1187C] autem definitio a descriptione, quod definitio genus ac differentias sumit,
+descriptio subiecti intelligentiam claudit, quibusdam uel accidentibus efficientibus unam proprietatem, uel
+substantialibus differentiis praeter conueniens genus aggregatis. Sed hae definitiones quae ab accidentibus fiunt,
+tametsi uidentur nullo modo substantiam demonstrare. tamen quoniam saepe uerae definitionis uice ponuntur, qua
+substantiam demonstrant, illae etiam probationes quae a descriptione sumuntur, a substantiae loco uidentur assumi;
+huius uero tale sit exemplum. Quaeratur enim an albedo substantia sit, hic quaeritur an albedo substantiae uelut generi
+supponatur. Dicimus igitur: substantia eat quae omnibus accidentibus possit esse subiectum; albedo autem [1187D]
+nullis accidentibus subiacet; albedo igitur substantia non est. Locus, id est, maxima propositio eadem quae superius.
+Cuius enim definitio uel descriptio ei quod dicitur species esse non conuenit, id eius quod species esse perhibetur genus
+non est. Descriptio uero substantiae albedini non conuenit, albedo igitur substantia non est. Loci differentia superior a
+descriptione, quam dudum locauimus in ratione substantiae.
+Sunt etiam definitiones quae non a rei substantia sed a miminis significatione ducuntur, atque ita rei de qua
+quaeritur applicantur: utsi quaeratur utrum philosophiae studendum sit, erit argumentatio talis: Philosophia amor
+sapientiae est, huic studendum nemo dubitat studendum igitur est philosophiae; hic [1188A] enim non definitio rei sed
+nominis interpretatio argumentum dedit, quo Tullius etiam in Hortensio in eiusdem philosophiae usus est defensione, et
+uocatur graece quidem *onomatikos oros*, latine autem nominis interpretatio. Ac de his quidem argumentis quae ex
+substantia terminorum in quaestione positorum assumuntur, claris (ut arbitror) patefecimus exemplis.
+Nunc de his dicendum est qui terminorum substantiam consequuntur. Horum multifaria est diuersio, ulura sunt
+enim quae substantiis singulis adhaerescunt. Ab his igitur quae cuiuslibet substantiam cmnitantur argumenta duci
+solent, aut ex toto, aut ex partibus, aut ex causis uel efficientibus, uel materia, uel naturali forma, uel fine.
+Et est efficiens quaedam causa quae mouet atque operatur, ut aliquid explicetur. Materia [1188B] uero ex qua
+fit aliquid, uel in qua fit. Finis propter quod fit.
+Sunt etiam inter eos locos qui ex his sumuntur quae substantiam consequuntur, aut ab effectibus, aut a
+corruptionibus, aut ab usibus, aut praeter hos omnes a communiter accidentibus.
+Quae cum ita sint, eum prius locum qui a toto fit inspiciamus. Totum duobus modis dici solet, aut ut genus, aut
+ut id quod integrum ex pluribus partihus constat. Et illud quidem quod ut genus totum est, hoc modo saepe
+quaestionibus argumenta suppediat, ut si sit quastio an iustitia utilis sit, fit syllogismus: omnis uirtus utilis est, iustitia
+uirtus est, iustitia igitur utilis est. hic est quaestio de accidenti, id est an accidat iustitiae utilitas. Locus est is qui in
+maxima propositione consistit: quae generi adsunt [1188C] speciei adsunt. Huius superior locus est a toto, id est a
+genere, uirtus scilicet, quae iustitiae genus est.
+Rursus sit quaestio an humanae res prouidentia regantur, dicemus: si mundus prouidentia regitur, homines
+autem partes mundi sunt, humanae igitur res prouidentia reguntur. Quaestio de accidenti locus: quod toti conuenit, id
+congruit et parti. Supremus locus a toto, id est ab integro quod partibus constat: id uero mundus est, qui hominibus
+totum est.
+A partibus etiam duobus modis argumenta nascuntur, aut enim a generis partibus quae sunt species, aut ab
+integri, id est totius qua partes tantum proprio uocabulo nuncupatur.
+
+

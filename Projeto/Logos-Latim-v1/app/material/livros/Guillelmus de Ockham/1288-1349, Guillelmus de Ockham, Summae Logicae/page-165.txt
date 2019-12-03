@@ -1,0 +1,57 @@
+Ex istis patet quod sufficit scire quid requiritur ad ueritatem talium propositionum, sciendo quid
+requiritur ad hoc quod afiqua propositio sit necessaria et ad hoc quod sit contingens uel uera uel impossibilis uel
+scita uel ignota uel credita, et sic de aliis, de quibus omnibus pertractare nimis foret longum.
+Tamen de propositione necessaria est sciendum quod propositio non propter hoc dicitur necessaria quia
+semper sit uera, sed quia est uera si sit et non potest esse falsa. Sicut haec propositio in mente 'Deus est'
+necessaria est, non quia semper sit uera, -- quia si non est, non est uera --, sed si sit, est uera et non potest esse
+falsa. Similiter haec propositio in uoce
+'Deus est' est necessaria, et tamen non semper est uera, quia quando non est, tunc non est uera nec falsa;
+sed si sit prolata, est uera et non potest esse falsa nisi termini aliter instituerentur ad significandum.
+'Deus est' est necessaria, et tamen non semper est uera, quia quando non est, tunc non est uera nec falsa;
+sed si sit prolata, est uera et non potest esse falsa nisi termini aliter instituerentur ad significandum.
+Proportionaliter debet dici de propositione impossibili, quod est illa quae si sit, est falsa, non tamen est
+falsa nisi sit propositio. Et ita, pro portionaliter, est de propositione contingenti. Sed ad hoc quod propositio sit
+scita uel credita, et sic de aliis, plus requiritur. Sed quid requiritur, pertinet ad librum Posteriorum et ad alios
+libros.
+Proportionaliter debet dici de propositione impossibili, quod est illa quae si sit, est falsa, non tamen est
+falsa nisi sit propositio. Et ita, pro portionaliter, est de propositione contingenti. Sed ad hoc quod propositio sit
+scita uel credita, et sic de aliis, plus requiritur. Sed quid requiritur, pertinet ad librum Posteriorum et ad alios
+libros.
+[2.10. DE PROPOSITIONIBUS MODALIBUS SINE DICTO]
+[2.10. DE PROPOSITIONIBUS MODALIBUS SINE DICTO]
+Circa propositiones modales sine dicto propositionis, quae omnino aequipollent propositionibus sumptis
+cum dicto in sensu diuisionis, est sciendum quod tales non conuertuntur cum primis; immo potest una illarum
+esse uera, alia exsistente falsa et e conuerso. Sicut secundum uiam
+Aristotelis haec est uera in sensu compositionis 'omnem hominem esse animal est necessarium' et tamen
+haec est falsa 'omnis homo de necessitate est animal'. Similiter, secundum uiam Aristotelis, haec est uera 'omne
+uerum esse uerum est necessarium', et tamen haec est falsa 'omne uerum necessario est uerum'. Et ita de multis
+aliis.
+Aristotelis haec est uera in sensu compositionis 'omnem hominem esse animal est necessarium' et tamen
+haec est falsa 'omnis homo de necessitate est animal'. Similiter, secundum uiam Aristotelis, haec est uera 'omne
+uerum esse uerum est necessarium', et tamen haec est falsa 'omne uerum necessario est uerum'. Et ita de multis
+aliis.
+Propter quod sciendum quod ad ueritatem talium propositionum requiritur quod praedicatum sub
+propria forma competat illi pro quo subiectum supponit, uel pronomini demonstranti illud pro quo subiectum
+supponit; ita scilicet quod modus expressus in tali propositione uere praedicetur de propositione de inesse, in qua
+ipsummet praedicatum praedicatur de pronomine demonstrante illud pro quo subiectum supponit,
+proportionaliter sicut dictum est de propositionibus de praeterito et de futuro. Sicut ad ueritatem istius 'omne
+uerum de necessitate est uerum' requiritur quod quaelibet propositio sit necessaria in qua hoc praedicatum
+'ueruni'
+praedicatur de quolibet pro quo hoc subiectum 'uerum' supponit, puta quod quaelibet talis sit necessaria
+'hoc est uerum', 'illud est uerum', demonstrato quocumque pro quo subiectum supponit. Et quia non quaelibet
+talis est uera, ideo haec est simpliciter falsa 'omne uerum de necessitate est uerum'.
+praedicatur de quolibet pro quo hoc subiectum 'uerum' supponit, puta quod quaelibet talis sit necessaria
+'hoc est uerum', 'illud est uerum', demonstrato quocumque pro quo subiectum supponit. Et quia non quaelibet
+talis est uera, ideo haec est simpliciter falsa 'omne uerum de necessitate est uerum'.
+Similiter per istam 'creans potest non esse Deus' non denotatur quod haec sit possibilis 'creans non est
+Deus', quia tunc haec esset uera de possibili, sed denotatur quod haec sit possibilis 'hoc non est Deus',
+demonstrato illo pro quo 'creans' supponit in ista 'creans potest non esse
+Deus'. Et ista est simpliciter impossibilis, quia 'creans' in ista 'creans potest non esse Deus' supponit pro
+Deo. Et certe haec est impossibilis 'hoc non est Deus', demonstrato Deo. Similiter per istam 'creans necessario est
+Deus' denotatur quod haec sit necessaria 'hoc est Deus', demonstrato illo pro quo 'creans' supponit in
+praedicta propositione de necessario; et hoc est uerum. Ideo illa propositio de necessario est uera, non tamen est
+necessaria, sed est contingenter uera, quia posito quod Deus cessaret creare tunc esset falsa, sicut sua de inesse
+esset falsa, haec scilicet
+165
+
+

@@ -1,0 +1,55 @@
+Sed accidentia non praedicantur secundum se de universalibus, sed ratione singularium.
+Et ideo de universalibus non praedicantur universaliter. Sed de singularibus praedicantur simpliciter, quia idem
+videtur esse subiecto socrates et socrates musicus; non tamen praedicantur de singulari universaliter, quia de
+nullo potest praedicari aliquid universaliter quod non est universale.
+Socrates autem non est universale: nam non est in multis. Et ideo non praedicatur universaliter aliquid de socrate,
+ut dicatur, omnis socrates sicut omnis homo.
+Igitur quae diximus sic dicuntur eadem, scilicet per accidens, ut dictum est.
+|#6 Deinde cum dicit alia vero ponit modos eiusdem per se; et dicit, quod aliqua dicuntur eadem secundum se
+eisdem modis, quibus dicitur unum per se. Omnes enim modi, quibus aliqua unum per se dicuntur, reducuntur ad
+duos: quorum unus est secundum quod dicuntur unum illa, quorum materia est una; sive accipiamus materiam
+eamdem secundum speciem, sive secundum numerum; ad quod pertinet secundus et tertius modus unius. Alio
+modo dicuntur unum, quorum substantia est una: vel ratione continuitatis, quod pertinet ad primum modum: vel
+propter unitatem et indivisibilitatem rationis, quod pertinet ad quartum et quintum. Unde et his modis dicuntur
+aliqua esse idem.
+|#7 Ex hoc autem ulterius concludit, quod identitas est unitas vel unio; aut ex eo quod illa quae dicuntur idem,
+sunt plura secundum esse, et tamen dicuntur idem in quantum in aliquo uno conveniunt.
+Aut quia sunt unum secundum esse, sed intellectus utitur eo ut pluribus ad hoc quod relationem intelligat. Nam
+non potest intelligi relatio nisi inter duo extrema. Sicut cum dicitur aliquid esse idem sibiipsi.
+Tunc enim intellectus utitur eo quod est unum secundum rem, ut duobus. Alias eiusdem ad seipsum relationem
+designare non posset. Unde patet, quod si relatio semper requirit duo extrema, et in huiusmodi relationibus non
+sunt duo extrema secundum rem sed secundum intellectum solum, relatio identitatis non erit relatio realis, sed
+rationis tantum, secundum quod aliquid dicitur idem simpliciter. Secus autem est, quando aliqua duo dicuntur
+esse idem vel genere vel specie. Si enim identitatis relatio esset res aliqua praeter illud quod dicitur idem, res
+etiam, quae relatio est, cum sit idem sibi, pari ratione haberet aliam relationem, quae sibi esset idem, et sic in
+infinitum. Non est autem possibile in rebus in infinitum procedere. Sed in his quae sunt secundum intellectum
+nihil prohibet.
+Nam cum intellectus reflectatur super suum actum, intelligit se intelligere. Et hoc ipsum potest etiam intelligere,
+et sic in infinitum.
+|+12 Lectio 12
+|#1 Hic ostendit quot modis dicitur diversum; et dicit, quod diversa dicuntur aliqua tripliciter. Dicuntur enim
+aliqua diversa specie, quorum species sunt plures, sicut asinus et bos. Quaedam vero dicuntur diversa numero,
+quia differunt secundum materiam, sicut duo individua unius speciei. Quaedam vero dicuntur diversa secundum
+rationem substantiae, idest definitionem declarantem substantiam rei. Contingit enim quaedam esse idem
+numero, scilicet subiecti, sed diversa ratione, sicut socrates et hoc album.
+|#2 Et quia plures modi diversitatis accipi possunt, sicut quod dicatur diversum genere et diversum propter
+continui divisionem, ideo subiungit, quod diversum dicitur oppositum totaliter ad idem. Cuilibet enim modo
+eius, quod est idem, opponitur aliquis modus eius quod est diversum.
+Et propter hoc, quot modis dicitur idem, tot modis diversum.
+|#3 Et tamen alii modi unius, vel eius quod est idem, possunt reduci ad istos hic tactos. Diversitas enim generis
+includitur in diversitate speciei. Diversitas vero continuitatis in diversitate materiae, eo quod partes quantitatis se
+habent per modum materiae ad totum.
+|#4 Deinde cum dicit differentia vero hic distinguit quot modis dicitur hoc nomen differens. Assignat autem
+duos modos: quorum primus est, quod aliquid proprie dicitur differens secundum quod aliqua duo quae sunt
+aliquid idem entia, idest in aliquo uno convenientia, sunt diversa: sive conveniant in aliquo uno secundum
+numerum, sicut socrates sedens a socrate non sedente: sive conveniant in aliquo uno specie, sicut socrates et
+Plato in homine: sive in aliquo uno genere, sicut homo et asinus in animali: sive in aliquo uno secundum
+proportionem, sicut quantitas et qualitas in ente. Ex quo patet, quod differens omne est diversum, sed non
+convertitur.
+Nam illa diversa, quae in nullo conveniunt, non possunt proprie dici differentia, quia non differunt aliquo alio,
+sed seipsis. Differens autem dicitur, quod aliquo alio differt. Secundus modus est prout differens communiter
+sumitur pro diverso; et sic differentia dicuntur etiam illa, quae habent diversum genus, et in nullo communicant.
+
+142
+
+

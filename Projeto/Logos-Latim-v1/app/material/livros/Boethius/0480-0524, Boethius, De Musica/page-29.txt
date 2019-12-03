@@ -1,0 +1,62 @@
+accipiuntur loco. Sed sese iam ratio ipsa demonstret. Sit propositum toni spatium per consonantiam sumere, in acutum
+scilicet atque grauem. Sit sonus B, ab hoc intendo alium sonum qui diapente spatio ab eo quod est B distet ad eum qui
+est C Ad hoc remitto diatessaron consonantiam ad id quod est D, et quoniam inter diapente ac diatessaron tonus
+differentiam facit, D B spatium tonus repertus est.
+[PLLXIII:1233,1; text: Diapente intensa, Tonus in acuto, Diatessaron remissa, B, D, C] [BOEDIM3 06GF]
+Ad grauiorem uero partem ita modulabimur tonum. Ab eo quod est B diatessaron intendo ad F, et ab F
+diapente remitto ad K. Erit K B tonus. Animaduertet igitur diligens lector ad D B quidem ad acutam partem effectum
+tonum, ad K B autem ad grauem.
+[PLLXIII:1233,2; text: K, B, F, Tonus in grauium, Diatessaron intensa, Diapente remissa] [BOEDIM3 06GF]
+Sit propositum minorem toni partem per consonantiam sumere in acutam partem atque grauem. Minor uero
+toni pars est spatium quo duos tonos diatessaron consonantia transcendit. Sit enim sonus A, intendo ab A diatessaron ad
+B. Rursus intendo ab B diatessaron ad C, ab C remitto diapente ad D. Tonus est igitur B D. Rursus ab D intendo
+diatessaron ad E. Remitto iterum ad E diapente ad F. Tonus est igitur D F. Duo igitu unt toni B D, DF. Et erat B A
+integrum diatessaron. Erit igitur F A minor toni pars, quod semitonium nuncupatur.
+[1234] [PLLXIII:1234,1; text: Diatessaron intensa. Tonus, A, B, C, D, E, F, Semitonium in acuso, Diapente,
+Diapente remissa] [BOEDIM3 07GF]
+Ad grauiorem uero partem hoc modo: sit sonus A, intendo duos tonos per consonantiam ad C, diatessaron uero
+ad G remitto ad K; erit igitur K A minor semitonii pars, quod oportebat efficere.
+[PLLXIII:1234,2; text: semitonium, duo toni intensi, K, A, G, diatessaron intensa] [BOEDIM3 07GF]
+Si ergo a tribus tonis diatessaron auferamus, apotome fit reliqua.
+Sint enim tres toni A B, B C, C D; ab his auferatur A E diatessaron.
+Erit igitur E C semitonium minus; apotome igitur est E D.
+[PLLXIII:1234,3; text: Diatessaron, Semitonium minus, Apotome, A, B, C, E, D, Tonus] [BOEDIM3 07GF]
+Hanc igitur apotomen si sit commodum sic sumemus. Ac primum quidem ad acutum intendo tres tonos, ab A
+eos qui sunt ad B, et ab eo quod est B ad C diatessaron consonantiam remitto, fit C A apotome reliqua.
+[PLLXIII:1234,4; text: Tres toni intensi, Apotome acuta, A, C, B, Diatessaron remissa.] [BOEDIM3 07GF]
+Quod si idem spatium ad grauem sonum uelimus efficere fit hoc modo: sit sonus A, intende semitonium
+[1235] minus, id quod est A D, remitto ad D tonum qui est D E. Erit igitur E A ea quam requirimus apotome.
+[PLLXIII:1235,1; text: apotome grauis, semitonium minus intensum, B, A, D, tonus remissus] [BOEDIM3
+08GF]
+Sit propositum in acutam partem comma sumere, fit sonus A; intendo apotomen A B, remitto semitonium
+minus B C, et quoniam semitonium apotome minus est commate, comma erit C A.
+[PLLXIII:1235,2; text: Apotome intensa, Comma, A, C, B, Semitonium minus remissum] [BOEDIM3 08GF]
+Rursus ad grauem partem hoc modo intendo: ab A sono semitonium minus, id quod est A D, ad D uero remitto
+apotomen, id quod est D E. Erit igitur comma C A.
+[PLLXIII:1235,3; text: comma grauis, semitonium minus intensa, B, A, D, apotome remissa] [BOEDIM3
+08GF]
+X
+Regula sumendi semitonii.
+Oportet uero has omnes consonantias rite esse animo atque auribus notas; frustra enim haec ratione et scientia
+colliguntur; nisi fuerint usu atque exercitatione notissima. Ut uero id quod institutione musicae adorsi sumus non mox
+auribus, quod iam prouectorum in musica est sed ratione interim censeatur, unum dabimus exemplum inueniendi spatii,
+quod uidetur esse paulo difficilius, scilicet semitonii minoris, ut in utramque partem, acutam scilicet atque grauem, rato
+possit ordine reperiri. Sit diatessaron A B: oportet igitur circa A B consonam minus semitonium ad grauiorem partem
+acutioremque deducere.
+Intendo igitur B C diatessaron. Remitto rursus diapente C D. Erit igitur tonus B D; diatessaron enim
+consonantia a diapente consonantia tono superatur, et C B spatium ab C D spatio B D spatio transcenditur.
+Rursus intendo diatessaron D E, remitto autem diapente E F. Tonus est igitur D F. Sed D B tonus erat.
+Semitonium igitur minus est A F, quod, substractis duobus touis F D, B D ab A B diatessaron [1236] spatio relinquitur.
+Rursus remitto diatessaron A G, intendo diapente G H.
+Erit igitur A H tonus. Sed erat A F semitonium. Erit igitur F H apotome. Rursus remitto diatessaron A K,
+intendo diapente K L: tonus igitur est H L Erat autem tonus H A. Semitonium igitur minus est L B.
+Sed erat tonus B D. Erit igitur I D apotome. Rursus intendo diatessaron F M. Semitonium igitur est B M.
+Remitto diatessaron L N; semitonium igitur est N A. Per consonantiam igitur sumpta sunt circa A B diatessaron, dua
+semitonia, B M quidem ad acutum; N A uero ad grauem partem; totumque M N minus est quam diapente. Constat enim
+ex quinque semitoniis, et apotome geminata ex duobus igitur tonis et tribus semitoniis minoribus; et quoniam duo
+semitonia unum tonum implere nequeunt sed relinquitur comma, totum M N spatium minus est spatio diapente
+consonantiae uno commate. Quod facillime diligens lector intelliget.
+[PLLXIII:1236; text: Diatessaron remissa, Diatessaron intensa, Diapente remissa, Semitonium minus, Tonus,
+Apotome, Semitonium, Coma, G, K, N, A, F, H, D, L, B, M, E, C, Diapente intensa] [BOEDIM3 09GF]
+
+

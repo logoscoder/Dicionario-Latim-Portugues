@@ -1,0 +1,62 @@
+Inanimatum quidem medicus esse non potest, quocirca ne inuitale quidem artifex; sed quod inanimatum est non potest
+non esse inuitale, itemque qui medicus est non potest non esse artifex.
+[3.8.3] Si igitur inanimatum negetur et medicum esse consequatur, cum negabitur inuitale artifex esse
+consequitur. Duodecima propositio est quam talibus terminis constare oportebit, ut a quidem praeter b, at uero c praeter
+d uel esse uel non esse possit, a uero sine c, et b cum d, esse non possint. Ita enim cadet ut si, a negato, b sequitur, c
+negato d etiam denegetur, ut si fuerit a inanimatum, b album, c inuitale, d nigrum. Inanimatum quidem praeter album,
+inuitale autem praeter nigrum uel esse uel non esse potest; si tamen inanimatum non sit, et sit album, cum inuitale non
+sit non erit nigrum.
+[3.8.4] Tertia decima propositio his terminis connectenda est, ut a quidem prneter b, at uero c praeter d esse
+possit, a uero atque c, et b atque d ita simul esse non possint, ut si alterum eorum non fuerit, alterum esse necesse sit.
+Ita namque fiet si cum a negatum sit, b negetur, cum c affirmatum sit d affirmetur, ut si sit a irrationabile, b aegrum, c
+rationabile, d sanum. Irrationabile /368/ namque praeter aegrum, et rationabile praeter sanitatem esse potest,
+irrationabile uero atque rationabile, et aegrum atque sanum simul esse non possunt; si tamen alterum eorum non fuerit,
+alterum esse necesse est. Itaque fit ut si irrationabili denegato aegrum denegetur, rationabili posito sanum ponatur.
+[3.8.5] Quarta decima propositio his texenda membris est, ut a quidem praeter b, et c praeter d esse possint sed
+a atque c simul esse non possint, ita ut cum alterum non fuerit alterum esse necesse sit, d uero praeter b esse non possit.
+Fit igitur ut, si cum sit a denegatum, b denegetur, cum sit c non sit d, ut si sit a inanimatum, b artifex, c animatum, d
+medicus. Inanimatum quidem praeter artificem, animatum uero praeter medicum esse potest; inanimatum uero cum
+animato non conuenit, et medicus ab artifice nullo modo separatur; fit igitur ut si, cum non est inanimatum, non sit
+artifex, cum sit animatum non sit medicus.
+[3.8.6] Quinta decima propositio hos terminos habere debet, ut a quidem cum c, at uero b cum d esse non
+possit, b uero atque d talia sint, ut altero eorum negato, alterum eorum esse necesse sit. Ita namque fiet ut si, cum sit a
+denegatum, b negetur, cum negabitur c aflirmetur d, ut si sit a quidem irrationabile, b sanum, c inanimatum, d aegrum.
+Irrationabile quidem si non sit, non est inanimatum; sanum etiam /370/ atque aegrum simul esse non possunt, et qui
+sanum negauerit aegrum necesse est affirmet, itemque e diuerso; est igitur ut, si negato irrationabili negetur sanum,
+negato inanimato aegrum ponatur.
+[3.8.7] Sexta decima propositio est quae his terminis constat, ut a quidem praeter c, at uero d praeter b esse
+non possit, a uero cum b et c cum d esse nullo modo queant. Euenit igitur ut si, a quidem negato, negetur b, denegato c
+terminus d abnuatur, ut si sit a inanimatum, b artifex, c inuitale, d medicus. Inanimatum igitur praeter inuitale et
+medicus praeter artificem esse non potest, inanimatum uero cum artifice et inuitale cum medico esse non poterit: si
+igitur negato inanimato negetur artifex, negato inuitali negatur medicus.
+[3.9.1] Atque haec quidem ratio propositionum, quarum superius exempla descripsimus, idcirco intellegatur
+assumpta ut earum natura claresceret, non quo aliter inter se termini esse non possint. Nam, ut superius dictum est, non
+sufficit quolibet modo iungere terminos, ut fiant hypotheticae propositiones ex duabus conditionalibus coniugatae;
+neque enim si quis dicat:
+Si cum homo est, animal est, cum dies est, lucet
+talem fecerit propositionem quae ex duabus conditionalibus constet, idcirco quia prior conditio non est
+secundae causa conditionis. Hoc igitur superius positarum propositionum ratio demonstrat, quemadmodum fit ut
+conditionem conditio consequatur. Quae cum ita /372/ sint de earum dicendum est syllogismis.
+[3.9.2] Fit igitur ex prima propositione syllogismus hoc modo:
+Si cum est a, est b, cum sit c, est d; Atqui cum sit a, est b; Cum igitur sit c, erit d.
+Vel ita:
+Atqui cum sit c, non est d; Cum igitur sit a, non est b.
+Posse uero hanc esse assumptionem superius descripta propositionum natura demonstrat. Item ex secunda
+propositione:
+Si cum est a, est b, cum sit c, non est d; Atqui cum sit a, est b; Cum igitur sit c, non est d.
+Vel ita:
+Atqui cum sit c, est d; Cum igitur sit a, non est b.
+Ex tertia:
+Si cum sit a, est b, cum non sit c, est d; Atqui cum sit a est b; Cum igitur non sit c, est d.
+Vel ita:
+Atqui cum non sit c, non est d; Cum igitur sit a, non est b.
+[3.9.3] Item ex quarta:
+Si cum sit a, est b, cum non sit c, non est d; Sed cum sit a, est b; Cum igitur non sit c, non est d.
+Vel ita:
+Atqui cum non sit c, est d; Cum igitur sit a, non est b.
+Ex quinta propositione hunt quatuor collectiones: ita namque termini proponuntur, ut utrobique fiat rata
+conclusio hoc modo:
+Si cum est a, non est b, cum sit c, est d; Atqui cum sit a, non est b; Cum igitur sit c, est d.
+Vel ita:
+
+

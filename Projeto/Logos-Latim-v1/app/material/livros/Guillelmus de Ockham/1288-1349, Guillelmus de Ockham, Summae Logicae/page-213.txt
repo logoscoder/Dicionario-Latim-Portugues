@@ -1,0 +1,55 @@
+quo uerificatur hoc totum 'possibile, si est necessarium', uerificatur hoc praedicatum 'uerum'. Et hoc est falsum.
+Nam de ista propositione 'homo est asinus' uerificatur hoc totum 'possibile, si est necessarium'. Haec enim est
+uera 'te esse asinum est possibile, si est necessarium', siue sit condicionalis siue de condicionato subiecto, et
+tamen haec non est uera 'te esse asinum est uerum'
+Similiter est de tali propositione ubi panitur haec coniunctio 'si' quod talis propositio est distinguenda,
+eo quod potest esse condicionalis uel de condicionato extremo, sicut ista 'omne possibile, si est necessarium, est
+uerum' est distinguenda, eo quod potest esse condicionalis, et tunc est sensus 'si omne possibile est necessarium,
+omne possibile est uerum', quod uerum est; si sit de condicionato subiecto, tunc aequiualet isti: de omni illa de
+quo uerificatur hoc totum 'possibile, si est necessarium', uerificatur hoc praedicatum 'uerum'. Et hoc est falsum.
+Nam de ista propositione 'homo est asinus' uerificatur hoc totum 'possibile, si est necessarium'. Haec enim est
+uera 'te esse asinum est possibile, si est necessarium', siue sit condicionalis siue de condicionato subiecto, et
+tamen haec non est uera 'te esse asinum est uerum'
+Similiter est de coniunctione causali, quod propositio in qua ponitur est distinguenda, eo quod potest
+esse causalis uel de causali extremo. Sicut ista est distinguenda 'omnis homo est capax Dei, quia habens animam
+rationalem', eo quod potest esse causalis uel de causali praedicato. Sed semper uel frequenter illi sensus
+conuertuntur.
+Similiter est de coniunctione causali, quod propositio in qua ponitur est distinguenda, eo quod potest
+esse causalis uel de causali extremo. Sicut ista est distinguenda 'omnis homo est capax Dei, quia habens animam
+rationalem', eo quod potest esse causalis uel de causali praedicato. Sed semper uel frequenter illi sensus
+conuertuntur.
+Similiter, ubi ponitur aduerbium temporis, illa propositio est distinguenda, eo quod potest esse
+temporalis uel de temporali extremo. Sicut ista est distinguenda 'omnis damnatus, dum fuit uiator, peccauit', eo
+quod potest esse temporalis uel de temporali praedicato. Si sit temporalis, tunc aequiualet isti 'dum omnis
+damnatus fuit uiator, omnis damnatus peccauit', quae falsa est, quia istae duae numquam fuerunt simul uerae; si
+sit de temporali extremo, tunc aequiualet isti 'de quolibet damnato uerificatur hoc totum: dum fuit uiator,
+peccauit', et hoc est uerum, quia quaelibet singularis est uera.
+Similiter, ubi ponitur aduerbium temporis, illa propositio est distinguenda, eo quod potest esse
+temporalis uel de temporali extremo. Sicut ista est distinguenda 'omnis damnatus, dum fuit uiator, peccauit', eo
+quod potest esse temporalis uel de temporali praedicato. Si sit temporalis, tunc aequiualet isti 'dum omnis
+damnatus fuit uiator, omnis damnatus peccauit', quae falsa est, quia istae duae numquam fuerunt simul uerae; si
+sit de temporali extremo, tunc aequiualet isti 'de quolibet damnato uerificatur hoc totum: dum fuit uiator,
+peccauit', et hoc est uerum, quia quaelibet singularis est uera.
+Similiter est de aduerbio locali. Sicut patet de ista 'omnis homo currebat, ubi disputabat'. Panatur enim
+quod quilibet homo in eodem loco in quo disputabat, currebat, sed diuersi in diuersis. Tunc patet quod prima est
+uera, si sit de locali praedicato; et falsa, si sit localis.
+Similiter est de aduerbio locali. Sicut patet de ista 'omnis homo currebat, ubi disputabat'. Panatur enim
+quod quilibet homo in eodem loco in quo disputabat, currebat, sed diuersi in diuersis. Tunc patet quod prima est
+uera, si sit de locali praedicato; et falsa, si sit localis.
+Est etiam sciendum quod talis distinctio non tantum habet locum in praedictis, sed etiam consimilis
+distinctio potest poni quando hoc pronomen
+'qui' ponitur inter duos terminos. Sicut hic 'omnis homo, qui est albus, currit', nam in sensu diuisionis
+aequiualet uni copulatiuae, isti scilicet
+'omnis homo currit et ille est albus'; in sensu compositionis denotatur quod de quocumque uerificatur
+hoc totum 'homo, qui est albus', de illa uerificatur hoc praedicatum 'currit'.
+'omnis homo currit et ille est albus'; in sensu compositionis denotatur quod de quocumque uerificatur
+hoc totum 'homo, qui est albus', de illa uerificatur hoc praedicatum 'currit'.
+Et de propositionibus ad praesens ista sufficiant.
+Et de propositionibus ad praesens ista sufficiant.
+==========================================================================
+==========================================================================
+GUILLELMI DE OCKHAM SUMMA TOTIUS LOGICAE: PARS III-1
+GUILLELMI DE OCKHAM SUMMA TOTIUS LOGICAE: PARS III-1
+213
+
+

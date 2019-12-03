@@ -1,0 +1,61 @@
+Circa primam quaestionem quaeruntur tria: 1 utrum in Christo sint duae hypostases; 2 utrum homo sit
+assumptus; 3 utrum homo significet substantiam compositam ex duabus substantiis tantum.
+|a1 Articulus 1: Utrum in Christo sint duae hypostases.
+Articulus 1A
+AG1
+Ad primum sic proceditur. Videtur quod in Christo sint duae hypostases. Sicut enim dicit boetius, omnis
+substantia particularis secundum proprietatem vocabuli potest dici hypostasis, quamvis secundum usum dicatur
+tantum de substantiis nobilioribus. Sed in Christo sunt plures substantiae, sicut ab omnibus conceditur, et non
+sunt universales, sed particulares. Ergo in Christo sunt plures hypostases.
+AG2
+Praeterea, Christus, secundum quod est homo, est hypostasis quaedam in genere substantiae: quia de quocumque
+praedicatur species, et genus.
+Sed hypostasis verbi non est in genere substantiae.
+Ergo in Christo est alia hypostasis praeter hypostasim verbi; et ita in Christo sunt duae hypostases.
+AG3
+Praeterea, sicut se habet species ad genus, ita se habet hypostasis ad speciem. Sed una species non potest esse in
+diversis generibus non subalternatis. Ergo una hypostasis non potest esse in duabus speciebus: ergo multo minus
+in natura humana et divina, quae plus quam specie differunt.
+SC1
+Sed contra est quod dicit Damascenus duas naturas unitas esse in unam hypostasim.
+SC2
+Praeterea, secundum boetium, persona est rationalis naturae individua substantia. Hypostasis autem, secundum
+eumdem, est individua substantia.
+Ergo persona non addit supra hypostasim nisi hoc quod est rationalis naturae: ergo hypostasis rationalis naturae
+est persona. Humana autem natura et divina utraque est rationalis. Si ergo sint duae hypostases harum duarum
+naturarum, oportet diversas personas ponere; et sic esset error Nestorii.
+CO
+Respondeo dicendum, quod cum omne particulare habeat respectum ad naturam communem et ad proprietates,
+potest secundum utrumque respectum nominari, tum per nomen primae impositionis, tum per nomen secundae
+intentionis.
+Hoc enim nomen res naturae est nomen primae impositionis, significans particulare per respectum ad naturam
+communem; hoc vero nomen suppositum est nomen secundae impositionis, significans ipsam habitudinem
+particularis ad naturam communem, inquantum subsistit in ea; particulare vero, inquantum exceditur ab ea. Sed
+quia accidentia consequuntur naturam; ideo omne nomen designans particulare secundum respectum ad
+proprietates, designat etiam ipsum per respectum ad naturam communem. Hoc ergo potest fieri dupliciter: vel
+per nomen primae impositionis; et sic est hypostasis communiter in omnibus substantiis, persona vero in
+omnibus rationalibus; vel per nomen secundae impositionis, et sic est individuum inquantum est indivisum in se,
+singulare vero inquantum est divisum ab aliis; unde singulare est idem quod divisum.
+Est etiam alia differentia attendenda inter ista: quia quaedam istorum significant communiter particulare in
+quolibet genere, sicut particulare, individuum, singulare; quaedam vero tantum particulare in genere substantiae,
+sicut res naturae, suppositum, hypostasis, et persona. Quia vero ratio substantiae est quod per se subsistat, inde
+est quod nullum istorum dicitur nisi de re completa per se subsistente: unde non dicuntur neque de parte neque
+de accidente, de quibus alia dici possunt quae in omnibus generibus inveniuntur; quamvis enim haec albedo vel
+haec manus dicatur individuum vel singulare, non tamen potest dici hypostasis, suppositum, vel res naturae.
+Impossibile est autem, si ponantur duo quorum utrumque per se subsistat, quod unum sit alterum: quia secundum
+hoc quod numerantur, differunt (cum differentia sit causa numeri); et non praedicantur de se invicem, nisi
+secundum quod unum sunt. Unde cum divina persona sit quiddam per se subsistens, si etiam ponatur
+compositum ex anima et carne unum quid completum subsistens, quod est homo, vel hic homo, impossibile est
+quod unum praedicetur de altero, ut dicatur: filius Dei est hic homo. Et quia prima opinio hoc ponit, ideo non
+tenetur modo ab aliquo. Sed secundum hoc quod est compositum tantum ex anima et carne, non dicit esse quid
+subsistens, sed dicit esse humanam naturam, in qua divina persona subsistit. Et ideo secundum hanc opinionem
+dicendum est, quod omnia illa nomina quae significant particulare in quolibet genere, possunt dici esse duo in
+Christo; sicut enim haec manus dicitur individuum, vel singulare, vel particulare; ita humana natura in Christo
+est individuum, singulare vel particulare. Et cum natura humana non sit divina natura, neque divina persona,
+nihil prohibet dici in Christo duo individua vel duo singularia vel particularia, aut etiam plura secundum
+numerum partium corporis Christi, quarum quaelibet potest dici individuum, nisi fiat vis in hoc quod in divinis
+non proprie inveniuntur hujusmodi nomina. Haec tamen plura individua de Christo non praedicantur; quia de eo
+non praedicatur natura humana, neque partes ejus. Non autem contingit dicere in Christo esse duas hypostases,
+900
+
+

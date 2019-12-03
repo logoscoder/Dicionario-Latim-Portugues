@@ -1,0 +1,60 @@
+Ad tertium dicendum quod amor et gaudium et alia huiusmodi, cum attribuuntur Deo vel Angelis, aut hominibus
+secundum appetitum intellectivum, significant simplicem actum voluntatis cum similitudine effectus, absque
+passione.
+Unde dicit Augustinus, IX de CIV. Dei, sancti Angeli et sine ira puniunt et sine miseriae compassione
+subveniunt. Et tamen, istarum nomina passionum, consuetudine locutionis humanae, etiam in eos usurpantur,
+propter quandam operum similitudinem, non propter affectionum infirmitatem.
+|q23 Quaestio 23
+|a0 Prologus
+Deinde considerandum est de passionum differentia ad invicem.
+Et circa hoc quaeruntur quatuor. Primo, utrum passiones quae sunt in concupiscibili, sint diversae ab his quae
+sunt in irascibili.
+Secundo, utrum contrarietas passionum irascibili sit secundum contrarietatem boni et mali. Tertio, utrum sit
+aliqua passio non habens contrarium. Quarto, utrum sint aliquae passiones differentes specie, in eadem potentia,
+non contrariae ad invicem.
+|a1 Articulus 1
+AG1
+Ad primum sic proceditur. Videtur quod passiones eaedem sint in irascibili et in concupiscibili.
+Dicit enim Philosophus, in II ethic., quod passiones animae sunt quas sequitur gaudium et tristitia.
+Sed gaudium et tristitia sunt in concupiscibili.
+Ergo omnes passiones sunt in concupiscibili.
+Non ergo sunt aliae in irascibili, et aliae in concupiscibili.
+AG2
+Praeterea, Matth. XIII, super illud, simile est regnum caelorum fermento etc., dicit Glossa Hieronymi, in ratione
+possideamus prudentiam, in irascibili odium vitiorum, in concupiscibili desiderium virtutum.
+Sed odium est in concupiscibili, sicut et amor, cui contrariatur, ut dicitur in II topic..
+Ergo eadem passio est in concupiscibili et irascibili.
+AG3
+Praeterea, passiones et actus differunt specie secundum obiecta.
+Sed passionum irascibilis et concupiscibilis eadem obiecta sunt, scilicet bonum et malum.
+Ergo eaedem sunt passiones irascibilis et concupiscibilis.
+SC
+Sed contra, diversarum potentiarum actus sunt specie diversi, sicut videre et audire. Sed irascibilis et
+concupiscibilis sunt duae potentiae dividentes appetitum sensitivum, ut in primo dictum est.
+Ergo, cum passiones sint motus appetitus sensitivi, ut supra dictum est, passiones quae sunt in irascibili, erunt
+aliae secundum speciem a passionibus quae sunt in concupiscibili.
+CO
+Respondeo dicendum quod passiones quae sunt in irascibili et in concupiscibili, differunt specie. Cum enim
+diversae potentiae habeant diversa obiecta, ut in primo dictum est, necesse est quod passiones diversarum
+potentiarum ad diversa obiecta referantur. Unde multo magis passiones diversarum potentiarum specie differunt,
+maior enim differentia obiecti requiritur ad diversificandam speciem potentiarum, quam ad diversificandam
+speciem passionum vel actuum. Sicut enim in naturalibus diversitas generis consequitur diversitatem potentiae
+materiae, diversitas autem speciei diversitatem formae in eadem materia; ita in actibus animae, actus ad diversas
+potentias pertinentes, sunt non solum specie, sed etiam genere diversi; actus autem vel passiones respicientes
+diversa obiecta specialia comprehensa sub uno communi obiecto unius potentiae, differunt sicut species illius
+generis. Ad cognoscendum ergo quae passiones sint in irascibili, et quae in concupiscibili, oportet assumere
+obiectum utriusque potentiae.
+Dictum est autem in primo quod obiectum potentiae concupiscibilis est bonum vel malum sensibile simpliciter
+acceptum, quod est delectabile vel dolorosum. Sed quia necesse est quod interdum anima difficultatem vel
+pugnam patiatur in adipiscendo aliquod huiusmodi bonum, vel fugiendo aliquod huiusmodi malum, inquantum
+hoc est quodammodo elevatum supra facilem potestatem animalis; ideo ipsum bonum vel malum, secundum
+quod habet rationem ardui vel difficilis, est obiectum irascibilis. Quaecumque ergo passiones respiciunt absolute
+bonum vel malum, pertinent ad concupiscibilem; ut gaudium, tristitia, amor, odium, et similia. Quaecumque vero
+passiones respiciunt bonum vel malum sub ratione ardui, prout est aliquid adipiscibile vel fugibile cum aliqua
+difficultate, pertinent ad irascibilem; ut audacia, timor, spes, et huiusmodi.
+RA1
+Ad primum ergo dicendum quod, sicut in primo dictum est, ad hoc vis irascibilis data est animalibus, ut tollantur
+impedimenta quibus concupiscibilis in suum obiectum tendere prohibetur, vel propter difficultatem boni
+704
+
+

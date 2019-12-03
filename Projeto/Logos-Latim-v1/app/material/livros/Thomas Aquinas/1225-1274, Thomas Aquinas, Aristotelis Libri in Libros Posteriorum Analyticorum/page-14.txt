@@ -1,0 +1,58 @@
+termino, nec posita una propositione tantum. Nam omnis syllogismus est ex tribus terminis et duabus
+propositionibus ad minus. Oportet ergo accipere tres terminos convertibiles in demonstratione circulari, scilicet
+a, b, c; ita quod a insit omni b et omni c, et haec scilicet b et c inhaereant sibi invicem, ita quod omne b sit c, et
+omne c sit b, et iterum haec insint ipsi a, ita quod omne a sit b, et omne a sit c. Et ita se habentibus terminis,
+contingit monstrare in prima figura ex alterutris, idest circulariter, omnia quaesita, idest conclusionem ex duabus
+praemissis et utramlibet praemissarum ex conclusione et altera conversa, sicut ostensum est in his, quae sunt de
+syllogismo, idest in libro priorum, in quo agitur de syllogismo simpliciter. Quod sic patet. Sumantur tres termini
+convertibiles, scilicet risibile, animal rationale mortale, et homo, et syllogizetur sic: omne animal rationale
+mortale est risibile; omnis homo est animal rationale mortale; ergo omnis homo est risibilis. Et ex hac
+conclusione potest iterum concludi tam maior quam minor. Maior sic: omnis homo est risibilis; omne animal
+rationale mortale est homo; ergo omne animal rationale mortale est risibile.
+Minor sic: omne risibile est animal rationale mortale; omnis homo est risibilis; ergo omnis homo est animal
+rationale mortale.
+|#9 Ostensum est autem in libro priorum quod in aliis figuris, scilicet in secunda et tertia, aut non fit circularis
+syllogismus, scilicet per quem ex conclusione possit syllogizari utraque praemissarum: aut si fiat, non erit ex
+acceptis, sed ex aliis propositionibus, quae non sumuntur in primo syllogismo. Quod sic patet. In secunda figura
+non est conclusio nisi negativa: oportet autem alteram praemissarum esse negativam, et alteram affirmativam.
+Non enim ex duabus negativis potest aliquid concludi, nec ex duabus affirmativis potest concludi negativa. Non
+est ergo possibile quod ex conclusione et praemissa negativa concludatur affirmativa. Si ergo debet affirmativa
+probari, oportet quod per alias propositiones probetur, quae non sunt sumptae.
+Similiter in tertia figura non est conclusio nisi particularis. Oportet autem alteram praemissarum ad minus esse
+universalem. Si autem in praemissis sit aliqua particularis, non potest concludi universalis.
+Unde non potest esse quod in tertia figura ex conclusione syllogizetur utralibet praemissarum.
+Et eadem ratione apparet quod nec in prima figura talis circularis syllogismus potest fieri, per quem utraque
+praemissarum concludatur, nisi in primo modo, in quo solo concluditur universalis affirmativa. Nec etiam in hoc
+modo potest fieri talis syllogismus circularis, per quem utraque praemissarum concludatur, nisi sumantur tres
+termini aequales, idest convertibiles. Quod ex hoc patet. Oportet enim ex conclusione, et altera praemissarum
+conversa, concludere reliquam: sicut dictum est. Non autem potest utraque praemissarum converti, cum utraque
+sit universalis affirmativa, nisi in terminis convertibilibus.
+|+9 Lectio 9
+|#1 Postquam Philosophus ostendit quid sit syllogismus demonstrativus, in parte ista incipit ostendere ex quibus
+et qualibus sit. Et circa hoc tria facit; primo, continuat se ad praecedentia; secundo, interponit quaedam quae sunt
+necessaria ad praecognoscendum; ibi: primum autem determinabimus etc.; tertio, determinat propositum, scilicet
+ex quibus sit syllogismus demonstrativus; ibi: si igitur est demonstrativa etc..
+|#2 Dicit ergo primo, quod quia dictum est supra, quod impossibile est aliter se habere in definitione eius quod
+est scire, necessarium erit id quod scitur secundum demonstrationem. Quid autem sit quod est secundum
+demonstrationem scire exponit, dicens quod demonstrativa scientia est quam habemus in habendo
+demonstrationem, idest quam ex demonstratione acquirimus.
+Et sic habetur quod demonstrationis conclusio sit necessaria. Quamvis autem necessarium possit syllogizari ex
+contingentibus, non tamen de necessario potest haberi scientia per medium contingens, ut infra probabitur. Et
+quia conclusio demonstrationis non solum est necessaria, sed etiam per demonstrationem scita, ut dictum est,
+sequitur quod demonstrativus syllogismus sit ex necessariis. Et ideo accipiendum est ex quibus necessariis et
+qualibus sint demonstrationes.
+|#3 Deinde cum dicit: primum autem etc., interponit ea, quae sunt praeintelligenda ad cognoscendum de his de
+quibus tractaturus est. Et circa hoc duo facit. Primo, dicit de quo est intentio, dicens quod antequam determinetur
+in speciali ex quibus et qualibus sit demonstratio, primo determinandum est quid intelligatur cum dicimus de
+omni, et per se, et universale. Cognoscere enim ista est necessarium ad sciendum ex quibus sit demonstratio. Hoc
+namque oportet observari in demonstrationibus. Oportet enim in propositionibus demonstrationis aliquid
+universaliter praedicari, quod significat dici de omni, et per se, et etiam primo, quod significat universale. Haec
+autem tria se habent ex additione ad invicem.
+Nam omne quod per se praedicatur, etiam universaliter praedicatur; sed non e converso. Similiter omne quod
+primo praedicatur, praedicatur per se, sed non convertitur. Unde etiam apparet ratio ordinis istorum. Differentia
+etiam et numerus istorum trium apparet ex hoc, quod aliquid praedicari dicitur de omni sive universaliter per
+comparationem ad ea, quae continentur sub subiecto.
+
+14
+
+

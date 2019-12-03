@@ -1,0 +1,62 @@
+Omnis homo animal est
+Homo uero de animali non dicitur, nemo enim uere dicit:
+Omne animal homo est
+Hac igitur ratione internoscere possumus qui terminus in propositione maior, qui uero sit minor. Omnis autem
+quaestio, ut dictum est, quoniam dubitabiles partes habet, et ad easdem comprobandas argumenta sumuntur, necesse est
+ut [1050B] quidquid in quaestionibus comprobatur, id argumentorum ratione firmetur. Argumentum uero nisi sit
+oratione prolatum, et propositionum contexione dispositum, fidem facere dubitationi non poterit. Ergo illa per
+propositiones prolatio ac dispositio argumenti, argumentatio nuncupatur, quae dicitur enthymema uel syllogismus,
+cuius definitionem in Topicis differentiis apertius explanabimus. Omnis uero syllogismus uel enthymema
+propositionibus constat; omne igitur argumentum syllogismo uel enthymemate profertur. Enthymema uero est
+imperfectus syllogismus, cuius aliquae partes, uel propter breuitatem, uel propter notitiam, praetermissae sunt. Itaque
+haec quoque argumentatio a syllogismi genere non recedit.
+Quoniam igitur syllogismus omnis propositionibus [1050C] constat, propositiones uero terminis, terminique
+inter se differunt, eo quod unus maior est, alter minor, fieri non potest ut ex propositionibus conclusio nascatur, nisi per
+terminos progressae propositiones extremos terminos alicuius tertii medietate coniunxerint: id facillimo demonstratur
+exemplo. Sit enim quaestio: Utrum homo substantia sit an minime. Sumo mihi quaestionis partem alteram
+comprobandam, ea est, hominem esse substantiam; in hac igitur duo sunt termini, substantia atque homo, quorum maior
+substantia, minor homo, quod ex eo quoque poterit ostendi, quoniam posterius substantia in prolatione profertur, uel ut
+in hoc ipso quod dicimus homo substantia est, prius hominem, posterius substantiam nominamus. Ut igitur substantiam
+atque hominem [1050D] iungam, nec esse est medium terminum reperiri, qui utrosque copulet terminos, hic sit animal,
+fiatque una propositio:
+Omnis homo animal est
+in hac igitur propositione animal praedicatur, homo subiicitur. Rursus adiungo:
+Omne autem animal substantia est
+in hac rursus animal supponitur, substantia praedicatur. Itaque concludo, omnis igitur homo substantia est; ac
+per hoc homo quidem semper subiectus est. Animal uero ad hominem quidem praedicatum est, ad substantiam uero
+subiectum. Substantia uero ipsa semper praedicata persistit, unde fit ut minor quidem sit homo, maior uero homine
+substantia, medius autem terminus animal. Quoniam igitur extremi termini medii interpositione copulantur, eoque
+modo quaestionis inter se membra [1051A] conueniunt, adhibitaque probatione soluitur dubitatio, nihil est aliad
+argumentum quam medietatis inuentio, haec enim uel coniungere, si affirmatio defendatur, uel disiungere, si negatio
+uindicetur, poterit extremos.
+Quae cum ita sint, duarum propositionum et tertiae conclusionis, maior quidem propositio dicitur ea quae
+maiorem terminum continet, id est in qua maior quidem praedicatur; medius uero supponitur, ut "Omne animal
+substantia est"; minor uero propositio est quae medium quidem terminum praedicat, subiicit autem minorem, ut "Omnis
+homo animal est". Sed quoniam a maioribus nec esse est minora descendere, eius conclusionis, quae ex duabus
+propositionibus nascitur, illa quasi effectrix et propria propositio uidetur esse, quae prima est; haec [1051B] autem est,
+"Omnis homo substantia est". Quod qui priores posterioresque nostros Analyticos, quos ab Aristotele transtulimus,
+legit, minime dubitat. Sed etsi quis quae illic scripta sunt nesciens, ad haec legenda proruperit, etiamsi rationem rerum
+quas non intelligit minime comprehendit, ita tamen ut dictum est esse confidat, seque in Aristotelis Analyticis uberius
+inuenturum esse, si legerit, arbitretur.
+Natura igitur rerum fert ut ubi quid maius ac minus est, ibi maximum quoque aliquid inesse necesse sit. Quo fit
+ut sint quaedam maximae propositiones, quoniam minores maioresque esse monstrauimus, quarum natura ex
+simplicium propositionum partitione sumenda est. Omnis enim simplex propositio uel affirmatiua est, uel negatiua.
+Earumque aliae sunt [1051C] uniuersales, ut:
+Omnis homo iustus est Nullus homo iustus est
+aliae particulares, ut:
+Quidam homo iustus est
+aliae indefinitae, ut:
+Homo iustus est Homo iustus non est
+aliae singulares aliquid atque indiuiduum continentes, ut:
+Cato iustus est Cato iustus non est
+Harumque omnium aliae sunt dubitabiles, aliae indubitatae. Supremas igitur ac maximas propositiones
+uocamus, quae et uniuersales sunt, et ita notae atque manifestae, ut probatione non egeant, eaque potius quae in
+dubitatione sunt probent. Nam quae indubitata sunt, ambiguorum demonstrationi solent esse principia, qualis est,
+omnem numerum uel parem esse uel imparem, et aequalia relinqui, si aequalibus aequalia detrahuntur; caeteraeque de
+quarum nota ueritate [1051D] non quaeritur.
+Maximas igitur, id est uniuersales ac notissimas propositiones, ex quibus syllogismorum conclusio descendit,
+in Topicis ab Aristotele conscriptis locos appellatos esse perspeximus; quod enim maximae sunt, id est uniuersales
+propositiones, reliquas in se uelut loci corpora complectuntur, quod uero notissimae atque manifestae sunt, fidem
+quaestionibus praestant, eoque modo ambiguarum rerum continent probationes.
+
+

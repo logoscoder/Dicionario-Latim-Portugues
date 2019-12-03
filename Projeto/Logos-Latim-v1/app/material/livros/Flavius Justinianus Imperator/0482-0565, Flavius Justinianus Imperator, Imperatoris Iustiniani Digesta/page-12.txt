@@ -1,0 +1,50 @@
+Incipit ex ordine liber nonus, de iudiciis liber quintus.
+9.1.0. Si quadrupes pauperiem fecisse dicatur.
+9.2.0. Ad legem Aquiliam.
+9.3.0. De his, qui effuderint vel deiecerint.
+9.4.0. De noxalibus actionibus.
+Explicit ex ordine digestorum liber ninus, de iudiciis liber quintus.
+
+Incipit ex ordine liber decimus, de iudiciis liber sextus.
+10.1.0. Finium regundorum.
+10.2.0. Familiae erciscundae.
+10.3.0. Communi dividundo.
+10.4.0. Ad exhibendum.
+Explicit ex ordine digestorum liber decimus, de iudiciis liber sextus.
+
+Incipit ex ordine liber undecimus, de iudiciis liber septimus.
+11.1.0. De interrogationibus in iure faciendis et interrogatoriis actionibus.
+11.2.0. De quibus rebus ad eundem iudicem eatur.
+11.3.0. De servo corrupto.
+11.4.0. De fugitivis.
+11.5.0. De aleatoribus.
+11.6.0. Si mensor falsum modum dixerit.
+11.7.0. De religiosis et sumptibus funerum et ut funus ducere liceat.
+11.8.0. De mortuo inferendo et sepulchro aedificando.
+Explicitus est ex ordine digestorum liber undecimus, de iudiciis liber septimus.
+
+Incipit de rebus creditis si certum petetur liber primus, ex ordine digestorum seu pandectarum duodecimus.
+12.1.0. De rebus creditis si certum petetur et de condictione.
+12.2.0. De iureiurando sive voluntario sive necessario sive iudiciali.
+12.3.0. De in litem iurando.
+12.4.0. De condictione causa data causa non secuta.
+12.5.0. De condictione ob turpem vel iniustam causam.
+12.6.0. De condictione indebiti.
+12.7.0. De condictione sine causa.
+Explicit ex ordine digestorum liber duodecimus, de rebus liber primus.
+
+Incipit ex ordine tertius decimus, de rebus secundus feliciter.
+13.1.0. De condictione furtiva.
+13.2.0. De condictione ex lege.
+13.3.0. De condictione triticiaria.
+13.4.0. De eo quod certo loco dari oportet.
+13.5.0. De pecunia constituta.
+13.6.0. Commodati vel contra.
+13.7.0. De pigneraticia actione vel contra.
+Explicitus est liber ex ordine tertius decimus, de rebus liber secundus.
+
+Incipit liber ex ordine quartus decimus, de rebus tertius.
+14.1.0. De exercitoria actione.
+14.2.0. De lege Rodia "Rhodia" de iactu.
+
+

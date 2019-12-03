@@ -1,0 +1,54 @@
+topico ipsum esse topicum, quamuis possit habere fidem quod est syllogismus topicus. Sequitur etiam aliud,
+quod non omnis syllogismus topicus facit semper praecise dubitationem et formidinem, sed etiam frequenter
+facit firmam fidem, sine omni dubitatione, quia ita aliquando adhaeremus probabilibus sicut euidenter notis.
+Syllogismus qui nec est demonstratiuus nec topicus potest diuidi, quia quidam est ex improbabilibus,
+quidam non ex improbabilibus. Similiter, quidam syllogismus peccat in materia, quidam non peccat in materia.
+Syllogismus qui nec est demonstratiuus nec topicus potest diuidi, quia quidam est ex improbabilibus,
+quidam non ex improbabilibus. Similiter, quidam syllogismus peccat in materia, quidam non peccat in materia.
+Alia distinctio. quidam est syllogismus uniformis, quidam mixtus. Et uniformis quidam est uniformis ex
+propositionibus de inesse, quidam ex propositionibus modalibus. Et isti sunt diuersi, [secundum quod diuersitas
+inuenitur in propositionibus modalibus].
+Alia distinctio. quidam est syllogismus uniformis, quidam mixtus. Et uniformis quidam est uniformis ex
+propositionibus de inesse, quidam ex propositionibus modalibus. Et isti sunt diuersi, [secundum quod diuersitas
+inuenitur in propositionibus modalibus].
+Mixtus syllogismus quidam est mixtus ex necessario et inesse, quidam ex necessario et contingenti. Et
+sic de aliis, de quibus omnibus dicetur inferius.
+Mixtus syllogismus quidam est mixtus ex necessario et inesse, quidam ex necessario et contingenti. Et
+sic de aliis, de quibus omnibus dicetur inferius.
+Similiter, syllogismus uniformis ex propositionibus de inesse quidam est uniformis ex propositionibus
+de praesenti, quidam ex omnibus de praeterito, quidam ex omnibus de fututo, quidam ex una de praesenti et alia
+de praeterito uel de futuro.
+Similiter, syllogismus uniformis ex propositionibus de inesse quidam est uniformis ex propositionibus
+de praesenti, quidam ex omnibus de praeterito, quidam ex omnibus de fututo, quidam ex una de praesenti et alia
+de praeterito uel de futuro.
+Sciendum est tamen quod definitio communis omnibus praedictis est ista:
+Syllogismus est oratio in qua ex duabus praemissis, dispositis in modo et in figura, de necessitate
+sequitur conciusio. Et ad istam definitionem nihil refert an praemissae sint uerae uei falsae.
+Syllogismus est oratio in qua ex duabus praemissis, dispositis in modo et in figura, de necessitate
+sequitur conciusio. Et ad istam definitionem nihil refert an praemissae sint uerae uei falsae.
+Hoc tamen est generale quod numquam praemissae sunt uerae et conclusio falsa, quamuis possit esse e
+conuerso. Unde in tota parte sequenti, usque ad partem in qua tractabitur de syllogismo demonstratiuo, uel
+semper uel frequenter uolo loqui de condicionibus syllogismi requirentis particulas praedictae definitionis, et non
+amplius.
+Hoc tamen est generale quod numquam praemissae sunt uerae et conclusio falsa, quamuis possit esse e
+conuerso. Unde in tota parte sequenti, usque ad partem in qua tractabitur de syllogismo demonstratiuo, uel
+semper uel frequenter uolo loqui de condicionibus syllogismi requirentis particulas praedictae definitionis, et non
+amplius.
+[3-1.02 DE QUIBUSDAM PPAEAMBULIS QUAE PRAEMITTENDA
+SUNT ANTEQUAM DESCENDATUR AD PROPOSITUM]
+SUNT ANTEQUAM DESCENDATUR AD PROPOSITUM]
+Positis diuisionibus et distinctionibus syllogismi, de quibusdam diuidentibus in speciali est dicendum.
+Et primo de uniformi generatione syllogismorum de inesse, secundo de uniformi modalium, et tertio de mixtis.
+Positis diuisionibus et distinctionibus syllogismi, de quibusdam diuidentibus in speciali est dicendum.
+Et primo de uniformi generatione syllogismorum de inesse, secundo de uniformi modalium, et tertio de mixtis.
+Circa primum primo est dicendum de syllogismis ex omnibus de inesse et de praesenti, secundo de aliis.
+Sed antequam accedatur ad propositum, uidenda sunt quaedam praeambula.
+Circa primum primo est dicendum de syllogismis ex omnibus de inesse et de praesenti, secundo de aliis.
+Sed antequam accedatur ad propositum, uidenda sunt quaedam praeambula.
+Primum est quod tantum sunt duae praemissae categoricae ponendae in syllogismo et conclusio; et
+tantum tres termini, scilicet maior extremitas et minor et medium. Est autem medium quod ponitur in utraque
+praemissa; maior extremitas est quae cum medio termino ponitur in maiori; minor extremitas quae ponitur cum
+medio in minori propositione, hoc est in secunda propositione.
+215
+
+

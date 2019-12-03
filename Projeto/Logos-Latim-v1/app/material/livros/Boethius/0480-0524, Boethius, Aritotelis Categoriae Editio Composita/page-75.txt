@@ -1,0 +1,61 @@
+Sed praeter haec aut praeter idem ualentia propositio nulla est.
+Recte igitur dictum est praeter uerba praedicatiuam propositionem non posse constitui. Iuste tamen aliquis
+quaestionem uideatur opponere, cur cum iam dixerit praeter uerbum enuntiationes nulla ratione posse constitui nunc
+idem repetit, quasi nil de his antea praedixisset. Sed superfiuum uideri non debet. QUONIAM enim finitum nomen cum
+negatiua particula nomen est infinitum, idcirco putaretur fortasse negatio esse quod diceremus non homo. Quod si haec
+negatio, homo affirmatio. Ne in hunc ergo quisquam laberetur errorem, hoc dixit et congrue repetiuit, quoniam praeter
+uerbum esse enuntiatio non potest, tamquam si diceret:
+/261/ nemo arbitretur infinitum nomen esse negationem nec nomen affirmationem, praeter enim uerbum
+affirmatio et negatio nulla umquam potest ratione constitui. In hoc illud quoque nouerat quod uerbum infinitum et
+negationem significaret et infinitum uerbum. Id enim quod dicimus 'non ambulat' et infinitum est uerbum et negatio sed
+per se quidem si dicatur simplex sine aliquibus aliis adiectionibus infinitum uerbum est; sin uero cum nomine aut cum
+infinito nomine proferatur, non iam uerbum infinitum sed negatio accipitur: ut 'non' negatiua particula cum 'ambulat'
+iuncta infinitum uerbum efficiat non ambulat sed in propositione quae est "Homo non ambulat" hominem non ambulare
+designet. Atque ideo ait subiecta quidem in propositionibus posse esse uel nomina uel infinita nomina, praedicata uero
+praeter uerba esse non posse. Nam siue in affirmationibus quis coniungat quid, uerbum sine dubio praedicauit, siue in
+negationibus, non infinitum uerbum sed tantum uerbum, cui addita non particula totem qualitatem propositionis ex
+affirmatiua in negatiuam commutet.
+Quare recte nullam differentiam propositionum de infinitis uerbis fecit. Infinita enim uerba tunc sunt infinita,
+cum sola sunt. Si uero cum infinito nomine iungantur aut nomine, non infinita uerba iam sunt sed finita, cum negatione
+tamen in tota propositione intelleguntur. Si ergo, quemadmodum Stoici uolunt, ad nomina negationes ponerentur, ut
+esset "Non homo ambulat" negatio, ambiguum /262/ esse posset, cum dicimus 'non homo' an infinitum nomen esset, an
+uero finitum cum negatione coniunctum.
+Sed quoniam Aristoteli placet uerbis negationes oportere coniungi, infinita magis uerba ambigui intellectus
+sunt, an infinita uideantur, an cum negatione finita. Atque ideo ita discernitur: sumptum cum nomine infinitum uerbum
+negatio fit et negatiua propositio, ut est "Homo non ambulat", per se uero dictum infinitum uerbum est, ut 'non
+ambulat'. Atque ideo hic solam differentiam nominum et infinitorum nominum in propositionibus dedit, non etiam
+uerborum infinitorum, idcirco quod de coniunctis loquebatur, id est de nominibus uel infinitis nominibus atque uerbis.
+In qua coniunctione id quod per se infinitum uerbum dicitur negatio est. Neque enim oportet sicut omnis propositio aut
+ex finito nomine aut ex infinito constat, ita quoque aut ex uerbo constare aut ex infinito uerbo. Infinitum enim uerbum
+in propositionibus non est sed quotiens aliquid (ut dictum est) tale ponitur, finitum quidem uerbum est sed illi iuncta
+negatio totam propositionem priuat ac destruit. Et uerbum quidem infinitum iunctum nominibus negationem ut faciat
+necesse est, nomen uero infinitum iunctum uerbis non necesse est ut faciat negationem. Quod enim dicimus "Non homo
+ambulat" affirmatio est, non negatio. Ergo quoniam affirmationem oportet aliquid de aliquo significare, nomen autem
+infinitum est aliquid, quotiens dicimus:
+Non homo ambulat
+ambulationem (id est ALIQUID) de 'non homine' (id est DE ALIQUO) praedicamus. Sed si dicamus 'non
+ambulat' non potius de aliquo praedicauimus aliquid sed ab aliquo. Qui enim dicit homo non ambulat, ambulationem
+/263/ ab homine tollit, non de homine praedicat. Quare negatio potius quam affirmatio est. Si enim affirmatio esset, id
+est si uerbum esset infinitum, aliquid de aliquo praedicaret. Nunc autem aliquid ab aliquo tollit: non est igitur uerbum
+infinitum sed potius negatio, quotiens in tota sumitur propositione.
+Numerum uero propositionum, quarum nos supra quoque descripsimus, ipse subiecit: indefinitas quidem prius,
+post uero contra iacentes. Quod si quis uel ad illa reuertitur uel hic intendit animum, in quo uel nostra uel Aristotelica
+dispositio discrepet diligenter agnoscit. Nos enim et contrarias proposuimus et subcontrarias, Aristoteles uero solum
+contradictorie sibimet contra iacentes oppositasque proposuit. Sed Aristoteles non solum in praesenti tempore easdem
+propositionum dicit esse differentias quas proposuit sed etiam in aliis quoque temporibus quae sunt extrinsecus.
+Extrinsecus autem tempora uocat quae praeter praesens sunt praeteritum scilicet et futurum.
+QUANDO AUTEM EST TERTIUM ADIACENS PRAEDICATUR, DUPLICITER DICUNTUR
+OPPOSITIONES. DICO AUTEM UT EST IUSTUS HOMO; EST TERTIUM DICO ADIACERE NOMEN VEL
+VERBUM IN AFFIRMATIONE. QUARE IDCIRCO QUATUOR ISTAE ERUNT, QUARUM DUAE QUID EM AD
+AFFIRMATIONEM ET NEGATIONEM SESE HABEBUNT SECUNDUM CONSEQUENTIAM UT
+PRIVATIONES, DUAE VERO MINIME. DICO AUTEM QUONIAM EST AUT IUSTO ADIACEBIT AUT NON
+IUSTO, QUARE ETIAM NEGATIO.
+QUATUOR ERGO ERUNT. INTELLEGIMUS /264/ VERO QUOD DICITUR EX HIS QUAE
+SUBSCRIPTA SUNT. EST IUSTUS HOMO, HUIUS NEGATIO NON EST IUSTUS HOMO; EST NON IUSTUS
+HOMO, HUIUS NEGATIO NON EST NON IUSTUS HOMO. EST ENIM HOC LOCO ET NON EST IUSTO ET
+NON IUSTO ADIACET. HAEC IGITUR, QUEMADMODUM IN RESOLUTORIIS DICTUM EST, SIC SUNT
+DISPOSITA.
+Fertur autem etiam alia inscriptio quae est hoc modo: DICO AUTEM QUONIAM EST AUT HOMINI
+ADIACEBIT AUT NON HOMINI, QUARE ET NEGATIO. Et rursus paulo post: EST ENIM HOC LOCO ET NON
+
+

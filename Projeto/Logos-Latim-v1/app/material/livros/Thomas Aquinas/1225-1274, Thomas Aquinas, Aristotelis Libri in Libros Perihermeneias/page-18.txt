@@ -1,0 +1,57 @@
+est verbum, aut erat, aut fuit, quae sunt casus verbi, aut aliquid huiusmodi, idest aliquod aliud verbum seu casus
+verbi, nondum est oratio enunciativa.
+|#9 Potest autem esse dubitatio: cum enunciatio constet ex nomine et verbo, quare non facit mentionem de
+nomine, sicut de verbo? ad quod tripliciter responderi potest. Primo quidem, quia nulla oratio enunciativa
+invenitur sine verbo vel casu verbi; invenitur autem aliqua enunciatio sine nomine, puta cum nos utimur
+infinitivis verborum loco nominum; ut cum dicitur, currere est moveri.
+Secundo et melius, quia, sicut supra dictum est, verbum est nota eorum quae de altero praedicantur. Praedicatum
+autem est principalior pars enunciationis, eo quod est pars formalis et completiva ipsius. Unde vocatur apud
+Graecos propositio categorica, idest praedicativa.
+Denominatio autem fit a forma, quae dat speciem rei. Et ideo potius fecit mentionem de verbo tanquam de parte
+principaliori et formaliori. Cuius signum est, quia enunciatio categorica dicitur affirmativa vel negativa solum
+ratione verbi, quod affirmatur vel negatur; sicut etiam conditionalis dicitur affirmativa vel negativa, eo quod
+affirmatur vel negatur coniunctio a qua denominatur.
+Tertio, potest dici, et adhuc melius, quod non erat intentio Aristotelis ostendere quod nomen vel verbum non
+sufficiant ad enunciationem complendam: hoc enim supra manifestavit tam de nomine quam de verbo. Sed quia
+dixerat quod quaedam enunciatio est una simpliciter, quaedam autem coniunctione una; posset aliquis intelligere
+quod illa quae est una simpliciter careret omni compositione: sed ipse hoc excludit per hoc quod in omni
+enunciatione oportet esse verbum, quod importat compositionem, quam non est intelligere sine compositis, sicut
+supra dictum est. Nomen autem non importat compositionem, et ideo non exigit praesens intentio ut de nomine
+faceret mentionem, sed solum de verbo.
+|#10 Secundo; ibi: quare autem etc., ostendit aliud quod est necessarium ad manifestationem propositi, scilicet
+quod hoc quod dico, animal gressibile bipes, quae est definitio hominis, est unum et non multa. Et eadem ratio
+est de omnibus aliis definitionibus.
+Sed huiusmodi rationem assignare dicit esse alterius negocii. Pertinet enim ad metaphysicum; unde in VII et in
+VIII metaphysicae ratio huius assignatur: quia scilicet differentia advenit generi non per accidens sed per se,
+tanquam determinativa ipsius, per modum quo materia determinatur per formam.
+Nam a materia sumitur genus, a forma autem differentia. Unde sicut ex forma et materia fit vere unum et non
+multa, ita ex genere et differentia.
+|#11 Excludit autem quamdam rationem huius unitatis, quam quis posset suspicari, ut scilicet propter hoc
+definitio dicatur unum, quia partes eius sunt propinquae, idest sine aliqua interpositione coniunctionis vel morae.
+Et quidem non interruptio locutionis necessaria est ad unitatem definitionis, quia si interponeretur coniunctio
+partibus definitionis, iam secunda non determinaret primam, sed significarentur ut actu multae in locutione: et
+idem operatur interpositio morae, qua utuntur rhetores loco coniunctionis. Unde ad unitatem definitionis
+requiritur quod partes eius proferantur sine coniunctione et interpolatione: quia etiam in re naturali, cuius est
+definitio, nihil cadit medium inter materiam et formam: sed praedicta non interruptio non sufficit ad unitatem
+definitionis, quia contingit etiam hanc continuitatem prolationis servari in his, quae non sunt simpliciter unum,
+sed per accidens; ut si dicam, homo albus musicus.
+Sic igitur Aristoteles valde subtiliter manifestavit quod absoluta unitas enunciationis non impeditur, neque per
+compositionem quam importat verbum, neque per multitudinem nominum ex quibus constat definitio. Et est
+eadem ratio utrobique, nam praedicatum comparatur ad subiectum ut forma ad materiam, et similiter differentia
+ad genus: ex forma autem et materia fit unum simpliciter.
+|#12 Deinde cum dicit: est autem una oratio etc., accedit ad manifestandam praedictam divisionem.
+Et primo, manifestat ipsum commune quod dividitur, quod est enunciatio una; secundo, manifestat partes
+divisionis secundum proprias rationes; ibi: harum autem haec simplex etc..
+Circa primum duo facit: primo, manifestat ipsam divisionem; secundo, concludit quod ab utroque membro
+divisionis nomen et verbum excluduntur; ibi: nomen ergo et verbum etc.. Opponitur autem unitati pluralitas; et
+ideo enunciationis unitatem manifestat per modos pluralitatis.
+|#13 Dicit ergo primo quod enunciatio dicitur vel una absolute, scilicet quae unum de uno significat, vel una
+secundum quid, scilicet quae est coniunctione una.
+Per oppositum autem est intelligendum quod enunciationes plures sunt, vel ex eo quod plura significant et non
+unum: quod opponitur primo modo unitatis; vel ex eo quod absque coniunctione proferuntur: et tales opponuntur
+secundo modo unitatis.
+|#14 Circa quod considerandum est, secundum Boethium, quod unitas et pluralitas orationis refertur ad
+significatum; simplex autem et compositum attenditur secundum ipsas voces. Et ideo enunciatio quandoque est
+18
+
+

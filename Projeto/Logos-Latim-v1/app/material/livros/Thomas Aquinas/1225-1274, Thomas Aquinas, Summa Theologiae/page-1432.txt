@@ -1,0 +1,60 @@
+AG1
+Ad quartum sic proceditur. Videtur quod militaris non debeat poni species prudentiae.
+Prudentia enim contra artem dividitur, ut dicitur in VI ethic..
+Sed militaris videtur esse quaedam ars in rebus bellicis; sicut patet per Philosophum, in III ethic..
+Ergo militaris non debet poni species prudentiae.
+AG2
+Praeterea, sicut militare negotium continetur sub politico, ita etiam et plura alia negotia, sicut mercatorum,
+artificum et aliorum huiusmodi. Sed secundum alia negotia quae sunt in civitate non accipiuntur aliquae species
+prudentiae.
+Ergo etiam neque secundum militare negotium.
+AG3
+Praeterea, in rebus bellicis plurimum valet militum fortitudo. Ergo militaris magis pertinet ad fortitudinem quam
+ad prudentiam.
+SC
+Sed contra est quod dicitur Prov. XXIV, cum dispositione initur bellum, et erit salus ubi sunt multa consilia.
+Sed consiliari pertinet ad prudentiam.
+Ergo in rebus bellicis maxime necessaria est aliqua species prudentiae quae militaris dicitur.
+CO
+Respondeo dicendum quod ea quae secundum artem et rationem aguntur conformia esse oportet his quae sunt
+secundum naturam, quae a ratione divina sunt instituta. Natura autem ad duo intendit primo quidem, ad
+regendum unamquamque rem in seipsa; secundo vero, ad resistendum extrinsecis impugnantibus et corruptivis.
+Et propter hoc non solum dedit animalibus vim concupiscibilem, per quam moveantur ad ea quae sunt saluti
+eorum accommoda; sed etiam vim irascibilem, per quam animal resistit impugnantibus.
+Unde et in his quae sunt secundum rationem non solum oportet esse prudentiam politicam, per quam
+convenienter disponantur ea quae pertinent ad bonum commune; sed etiam militarem, per quam hostium insultus
+repellantur.
+RA1
+Ad primum ergo dicendum quod militaris potest esse ars secundum quod habet quasdam regulas recte utendi
+quibusdam exterioribus rebus, puta armis et equis, sed secundum quod ordinatur ad bonum commune, habet
+magis rationem prudentiae.
+RA2
+Ad secundum dicendum quod alia negotia quae sunt in civitate ordinantur ad aliquas particulares utilitates, sed
+militare negotium ordinatur ad tuitionem totius boni communis.
+RA3
+Ad tertium dicendum quod executio militiae pertinet ad fortitudinem, sed directio ad prudentiam, et praecipue
+secundum quod est in duce exercitus.
+|q51 Quaestio 51
+|a0 Prologus
+Deinde considerandum est de virtutibus adiunctis prudentiae, quae sunt quasi partes potentiales ipsius. Et circa
+hoc quaeruntur quatuor. Primo, utrum eubulia sit virtus. Secundo, utrum sit specialis virtus a prudentia distincta.
+Tertio, utrum synesis sit specialis virtus. Quarto, utrum gnome sit specialis virtus.
+|a1 Articulus 1
+AG1
+Ad primum sic proceditur. Videtur quod eubulia non sit virtus.
+Quia secundum Augustinum, in libro de Lib. Arb., virtutibus nullus male utitur.
+Sed eubulia, quae est bene consiliativa, aliqui male utuntur, vel quia astuta consilia excogitant ad malos fines
+consequendos; aut quia etiam ad bonos fines consequendos aliqua peccata ordinant, puta qui furatur ut
+eleemosynam det.
+Ergo eubulia non est virtus.
+AG2
+Praeterea, virtus perfectio quaedam est, ut dicitur in VII phys..
+Sed eubulia circa consilium consistit, quod importat dubitationem et inquisitionem, quae imperfectionis sunt.
+Ergo eubulia non est virtus.
+AG3
+Praeterea, virtutes sunt connexae ad invicem, ut supra habitum est.
+Sed eubulia non est connexa aliis virtutibus multi enim peccatores sunt bene consiliativi, et multi iusti sunt in
+consiliis tardi. Ergo eubulia non est virtus.
+1432
+
+

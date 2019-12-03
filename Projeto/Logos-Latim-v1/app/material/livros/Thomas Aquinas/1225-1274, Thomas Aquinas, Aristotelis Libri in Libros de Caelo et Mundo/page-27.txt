@@ -1,0 +1,60 @@
+Sed hoc non posset esse si locus medius esset infinitus. Est ergo locus medius finitus, et corpus in eo existens
+finitum.
+Ex praemissis igitur epilogando concludit, manifestum esse quod non contingit aliquod corpus esse infinitum.
+|#5 Deinde cum dicit: et adhuc si gravitas etc., ostendit non esse corpus grave vel leve infinitum, ratione sumpta
+ex gravitate vel levitate: quae talis est. Si est corpus grave vel leve infinitum, necesse est quod sit gravitas vel
+Levitas infinita: sed hoc est impossibile: ergo et primum. Circa hoc ergo duo facit: primo probat conditionalem;
+secundo probat destructionem consequentis, ibi: sed adhuc quoniam infinitam etc.. Circa primum duo facit.
+Primo proponit quod intendit, dicens: si non est gravitas infinita, nullum erit corporum horum, scilicet gravium,
+infinitum: et hoc ideo, quia necesse est infiniti corporis infinitam esse gravitatem. Et eadem ratio est de corpore
+levi: quia si infinita est gravitas corporis gravis, necesse est quod etiam Levitas sit infinita, si supponatur corpus
+leve, quod sursum fertur, esse infinitum.
+|#6 Secundo ibi: palam autem etc., probat quod supposuerat: et primo ponit probationem; secundo excludit
+obviationes quasdam, ibi: nihil autem differt gravitates etc.. Ponit ergo primo rationem ducentem ad impossibile,
+quae talis est.
+Si non est verum quod supra dictum est, supponatur quod corporis infiniti sit gravitas finita: et sit corpus
+infinitum ab, gravitas autem eius finita sit g. A corpore igitur infinito praedicto auferatur aliqua pars eius finita
+quae est magnitudo bd, quam necesse est esse multo minorem toto corpore infinito. Minoris autem corporis
+minor est gravitas: sic ergo gravitas corporis bd est minor quam sit gravitas g, quae est gravitas totius corporis
+infiniti; et sit ista minor gravitas e. Haec autem minor gravitas, scilicet e, mensuret maiorem gravitatem finitam
+quae est g, quotiescumque, idest secundum quemcumque numerum, puta secundum tria, ut scilicet dicatur quod
+e est tertia pars totius g. Accipiatur autem a corpore infinito aliqua pars, quae superaddatur corpori finito bd,
+secundum proportionem qua g excedit e, et hoc corpus excedens sit bz; ita scilicet quod, sicut gravitas minor
+quae est e se habet ad maiorem quae est g, ita corpus bd se habeat ad bz. Et quod hoc fieri possit, probat quia a
+corpore infinito potest auferri quantumcumque oportuerit; eo quod, sicut dicitur in III physic., infinitum est cuius
+quantitatem accipientibus semper est aliquid extra accipere.
+His igitur praesuppositis, argumentatur ducendo ad tria inconvenientia: primo quidem sic. Eadem est proportio
+magnitudinum gravium, quae est ipsarum gravitatum: videmus enim quod minor gravitas est minoris
+magnitudinis, et maior maioris. Sed quae est proportio e ad g, minoris scilicet gravitatis ad maiorem, eadem est
+proportio bd ad bz, minoris scilicet corporis ad maius, ut suppositum est: cum igitur e sit gravitas corporis bd,
+sequetur quod g sit gravitas corporis bz. Supponebatur autem quod esset gravitas totius corporis infiniti: ergo
+aequalis numero eadem erit gravitas corporis finiti et infiniti. Quod est inconveniens, quia sequetur quod totum
+residuum corporis infiniti nihil habeat gravitatis. Ergo et primum est impossibile, scilicet quod corporis infiniti
+sit gravitas finita.
+Secundo ibi: adhuc autem si maioris etc., ducit ad aliud inconveniens. Quia enim a corpore infinito potest accipi
+quantumcumque quis voluerit, ut dictum est, accipiatur adhuc aliqua pars corporis infiniti, quae superaddatur
+corpori bz, et sit unum corpus bi finitum maius corpore finito quod est bz. Maioris autem corporis maior est
+gravitas, ut supra dictum est: ergo gravitas corporis bi est maior quam gravitas g, quae concludebatur gravitas
+esse corporis bz. Sed primo supponebatur quod g erat gravitas totius corporis infiniti. Ergo gravitas corporis
+finiti erit maior quam gravitas corporis infiniti, quod est impossibile. Ergo et primum, scilicet quod gravitas
+corporis infiniti sit finita.
+Tertio ibi: et inaequalium etc., ducit ad tertium inconveniens, scilicet quod inaequalium magnitudinum sit eadem
+gravitas. Quod manifeste sequitur ex praemissis, quia infinitum est inaequale finito, cum sit maius eo. Unde,
+cum haec sint impossibilia, impossibile est corporis infiniti esse gravitatem finitam.
+|#7 Deinde cum dicit: nihil autem differt etc., excludit duas obviationes contra praemissam rationem: primo
+primam; secundo secundam, ibi: nec utique magnitudinem etc.. Prima autem obviatio est, quia supposuerat in
+praecedenti ratione quod gravitas minor quae est e, mensuret secundum aliquem numerum gravitatem maiorem
+quae est g: quod quidem aliquis posset negare: non enim omne maius mensuratur a minori, quia linea trium
+palmarum non mensurat lineam octo palmarum.
+Hanc autem obviationem excludit Philosophus dupliciter. Primo quidem quia nihil differt ad propositum utrum
+duae praedictae gravitates, scilicet maior et minor, sint commensuratae, ita scilicet quod minor mensuret
+maiorem; vel incommensuratae, scilicet quod minor maiorem non mensuret: eadem enim ratio sequitur
+utrobique.
+Necesse est enim quod minus aliquoties sumptum aut mensuret maius aut excedat ipsum; sicut binarius ter
+sumptus mensurat senarium (ter enim duo sunt sex), quinarium autem non mensurat sed excedit. Sic igitur, si
+gravitas e non mensuret gravitatem g, sit ita quod ter sumpta mensuret quandam maiorem gravitatem, quae
+excedit gravitatem g. Et ex hoc sequitur inconveniens sicut prius. Quia si assumpserimus ex corpore infinito tres
+magnitudines secundum quantitatem bd, magnitudinis ex his tribus compositae erit tripla gravitas gravitatis e,
+27
+
+

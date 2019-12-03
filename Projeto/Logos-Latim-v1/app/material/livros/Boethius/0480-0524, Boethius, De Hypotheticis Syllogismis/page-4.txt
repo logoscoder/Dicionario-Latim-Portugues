@@ -1,0 +1,62 @@
+rectam ac necessariam consequentiam facit, per terminorum uero positionem talis consequentia non procedit.
+Sunt autem aliae hypotheticae propositiones in quibus et consequentia necessaria reperitur, et ipsius consequentiae
+causam terminorum positio facit, hoc modo:
+Si terrae fuerit obiectus, defectio lunae consequitur.
+Hic enim consequentia rata est, et idcirco defectio lunae consequitur, quia terrae interuenit obiectus. Istae
+igitur sunt propositiones certae atque utiles ad demonstrationem.
+[1.4.1] Partimur autem propositiones hypotheticas in suas ac simplices propositiones, et primam quidem, cui
+coniunctio praeponitur, praecedentem dicimus, secundam uero consequentem, ut in hac:
+Si dies est, lux est
+praecedentem dicimus eam quae dicit: "si dies est"; consequentem uero partem: "lux est". In disiunctiuis uero
+propositionibus ordo enuntiandi praecedentem uel consequentem facit, ut:
+Aut dies est aut nox est
+nam quae prima proponitur praecedens, quae posterior consequens appellatur. Ac de partibus quidem
+hypotheticarum propositionum ista suffficiunt. Illud nunc expediendum uidetur, quod /222/ etiam ab Aristotele dicitur.
+[1.4.2] Idem cum sit et non sit, non necesse est idem esse, ueluti cum sit a, si idcirco necesse est esse b, idem a
+si non sit, non necesse est esse b, idcirca quoniam non est a. Ad huiusmodi uero rei demonstrationem impossibilitatis
+definitio praemittenda est, quae est huiusmodi. Impossibile est quo posito aliquid falsum atque impossibile comitatur,
+eo nomine quod impossibile primitus propositum fuit. Sit igitur positum, cum sit a, esse b, id est hanc inter a atque b
+esse consequentiam, ut si concessum fuerit esse a, necesse sit concedere esse b. Itaque proponatur:
+Si a est, b est
+dico quia si a non fuerit, non necesse est esse b.
+[1.4.3] Ac primum quae sit propositionum consequentia consideremus. Si enim fuerit tale coniunctum, ut si sit
+a, etiam b esse necesse sit, si b non fuerit, a non esse necesse est; quod tali demonstratione cognoscitur. Si sit a, necesse
+sit esse b; dico quia si b non sit, a non erit. Ponatur enim non esse b, et sit si fieri potest a. Sed dictum est, si sit a,
+necessario concedi esse b. Cum igitur sit b, non erit b: nam quia ponimus non esse b, non erit b, quia uero ponimus esse
+a, erit b; erit igitur b ac non erit, quod fieri non potest.
+Impossibile est igitur non esse b et esse; et demonstratione quidem firma sic utimur.
+[1.4.4] Exemplo uero id clarius innotescet. Nam si homo est, animal est; si non est animal, non est homo; non
+uero si homo non fuerit, animal non est, multa enim sunt animalia quae homines non sunt. Itaque in consequentia
+propositionis coniunctae, si est primum, secundum esse necesse est, si secundum non fuerit, non erit primum; at uero si
+primum non fuerit, non necesse est ut non sit secundum, nec uero necesse est ut sit. Id enim demonstrandum esse
+dudum /224/ nobis propositum fuit. Sit enim a, idque cum sit, necesse sit esse b: dico quia si non fuerit a, non necesse
+est esse b; nec id dico quoniam si non fuerit a, necesse est non esse b sed tantum non necesse est esse b.
+[1.4.5] Nam quia paulo ante demonstratum est, si b non fuerit, necessario non esse a, si eundem b terminum
+non esse contingerit, non erit a. Sed si cum non sit a, necesse est esse b, idem b ex necessitate erit, ac non erit: nam quia
+b terminum non esse contingit, non erit; quia uero, si a non fuerit, b esse necesse est, erit. Idem igitur b terminus erit ac
+non erit, quod est impossibile. Ex his igitur demonstratum esse arbitror, in coniuncta hypothetica propositione, si sit
+primum consequi ut sit secundum; si non sit secundum, consequi ut non sit primum; si uero non sit primum, non
+consequi ut sit uel non sit secundum.
+[1.4.6] Nam et illud apparet, si sit secundum non consequi ut sit uel non sit primum, ut in ea propositione quae
+est:
+Si homo est, animal est
+si animal sit non consequitur ut sit homo uel non sit; quod si primum non sit, non consequitur ut necessario sit
+uel non sit secundum, uelut in eadem propositione, si homo non fuerit, non necesse est ut aut sit animal, aut non sit. Ex
+omnibus igitur solae duae consequentiae stabiles sunt et immutabiliter constant: si sit primum, ut consequatur ut sit
+secundum; si secundum non fuerit, necessario consequi ut non sit primum.
+[1.4.7] His ita determinatis, illud adiungam, quoniam, cum omnis hypothetica propositio simplex non sit, atque
+ex aliis propositionibus coniungatur, sunt tamen quaedam hypotheticae quae, si reliquis conditionalibus comparentur,
+simplices existimentur. Omnis enim conditionalis /226/ propositio aut connexa est aut disiuncta; haec uero quoniam ex
+praedicatiuis copulantur, in connexis propositionibus quatuor fieri necesse est huius copulationis modos.
+[1.5.1] Namque hypothetica propositio aut ex duabus simplicibus coniuncta est, et uocatur simplex
+hypothetica, ut haec:
+Si a est, b est
+ueluti cum dicimus:
+Si est homo, animal est; Homo est enim; et Animal est.
+duae sunt simplices propositiones; aut ex duabus hypotheticis copulatur, et dicitur composita, ueluti cum
+dicimus:
+Si cum a est, b est; Cum sit c, est d
+ueluti cum tali propositione enuntiamus:
+Si cum homo est, animal est, cum sit corpus erit substantia.
+
+

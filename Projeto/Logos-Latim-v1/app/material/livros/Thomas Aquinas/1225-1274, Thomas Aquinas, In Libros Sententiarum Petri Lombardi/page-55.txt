@@ -1,0 +1,58 @@
+generans et generatum: alias similiter etiam est ex parte essentiae; illud enim quod praedicatur de essentia ratione
+modi significandi quo differt a supposito distincto, non praedicatur de supposito; sicut essentia est communis
+tribus, tamen non potest dici hoc de aliqua personarum.
+|a2 Articulus 2: Utrum actus generandi praedicetur de aliquo nominum essentialium.
+AG1
+Ad secundum sic proceditur. Videtur quod actus generandi de nullo nominum essentialium praedicetur. Sicut
+enim tres personae sunt una essentia, ita etiam sunt unus Deus. Sed, secundum rationem Magistri, non potest dici
+essentia generare, ne notetur essentiae distinctio. Ergo similiter non potest dici, Deus generat, ne sequatur
+deorum pluralitas.
+AG2
+Item, persona et hypostasis et substantia non dicuntur relative. Sed, secundum Magistrum, ideo essentia non
+potest dici generare, quia relative non dicitur. Ergo similiter nec persona vel hypostasis.
+AG3
+Item, ista nomina, natura, bonitas et hujusmodi, sunt aequalis abstractionis sicut essentia. Si igitur essentia
+propter modum significandi in abstracto non potest generare, ergo videtur quod nec aliquod aliorum.
+SC1
+Contrarium ostenditur per multas auctoritates in littera.
+CO
+Respondeo dicendum, quod sicut dictum est, art. Praec. In corp., generare proprie convenit supposito inquantum
+distinctum; et ideo quanto magis appropinquat nomen ad suppositum distinctum, tanto verius potest praedicari
+de ipso actus generandi. Unde haec est propriissima, pater generat, quia imponitur nomen patris a proprietate
+distinguente. Et similiter potest dici, persona generat, quia nomen personae imponitur a proprietate communi,
+quae dicitur personalitas: et consequenter minus proprie dicitur, Deus generat; quia, quamvis claudat in se
+suppositum, non tamen suppositum distinctum; nec imponitur nomen a proprietate distinguente, sed ab essentia
+communi. In omnibus autem abstractis etiam est ordo: quia quaedam ordinem dicunt ad actum, sicut virtus,
+bonitas, lux, natura et hujusmodi: et quia actus sunt suppositorum, ideo in istis invenitur dictum, quod sapientia
+generat vel natura generat; tamen hujusmodi locutiones non sunt extendendae, sed pie intelligendae.
+Quaedam vero nomina sunt quae non dicunt ordinem ad operationem, sed tantum imponuntur secundum
+rationem nominis ab actu substandi, sicut substantia. Unde hoc nomen substantia adhuc accedit ad rationem
+suppositi, sed hoc nomen essentia removetur omnino a ratione suppositi: et ideo minime potest dici, quod
+essentia generet. Si tamen inveniretur, esset exponenda, essentia generat, idest pater, qui est essentia.
+RA1
+Ad primum ergo dicendum, quod hoc nomen Deus includit in se suppositum indeterminate, et ratione ejus a quo
+nomen imponitur, includit in se naturam: unde ratione modi significandi est quasi medium inter essentiam et
+personam distinctam: et ideo nec repugnat sibi modus essentiae ratione indeterminationis, nec modus distinctae
+personae ratione suppositi: et ideo potest dici, Deus generat, et, Deus est communis tribus personis.
+RA2
+Ad secundum dicendum, quod relativum in divinis multipliciter dicitur; propriissime enim relativum est quod
+secundum suum nomen ad aliud refertur, ut pater. Aliud autem dicitur relativum quod sequitur vel causat
+relationem, sicut generatio et generare. Aliud autem quod implicite claudit in se relationem, sicut trinitas
+personas distinctas relatione; et hoc nomen persona includit in se relationem distinguentem. Aliud autem potest
+dici relativum, inquantum pro relatione ponitur, sicut Deus, et etiam quaedam nomina abstracta, cujus ratio dicta
+est, in corpore.
+RA3
+Ad tertium dicendum, quod majoris abstractionis est essentia quam bonitas vel sapientia: quia quamvis
+aequaliter abstrahant a supposito, tamen essentia super hoc abstrahit etiam ab actu; illa vero dicunt ordinem ad
+actum.
+
+|+d5.q2 Distinctio 5, Quaestio 2
+|a0 Prologus
+Deinde quaeritur, utrum essentia se habeat ad generationem sicut id de quo est generatio; et circa hoc duo
+quaeruntur: 1 utrum filius generetur de substantia patris; 2 utrum sit ex nihilo.
+|a1 Articulus 1: Utrum filius sit genitus de substantia patris.
+AG1
+
+55
+
+

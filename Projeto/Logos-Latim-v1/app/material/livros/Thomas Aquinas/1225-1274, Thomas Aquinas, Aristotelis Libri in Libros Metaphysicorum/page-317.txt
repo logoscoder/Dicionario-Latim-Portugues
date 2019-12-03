@@ -1,0 +1,57 @@
+|#20 Non solum autem duo contraria non possunt simul verificari de eodem; sed etiam nullum medium
+possibile est praedicari de uno et eodem, de quo praedicatur alterum extremorum. Ex his enim quae dicta sunt in
+decimo, manifestum est quod medium inter contraria est habens privationem utriusque extremorum; sive sit
+nominatum uno nomine, sive pluribus, sive innominatum. Unde medium inter album et nigrum, ut puta rubeum
+vel citrinum, habet in sui ratione quod neque sit album neque nigrum. Si quis igitur, aliquo subiecto existente
+albo, dicat ipsum esse rubeum, simul dicit ipsum esse neque album neque nigrum. Et ita mentitur.
+Sequitur enim quod id subiectum, simul album sit et non sit. Quod si verum est de illo subiecto, quod sit neque
+album neque nigrum, oportet quod verificetur de eodem altera pars copulativae, quae contradictoria est eius quod
+est album esse.
+Et ita sequitur quod si medium et extremum verificatur de eodem, quod contradictoria de eodem verificentur.
+|#21 Secundum corollarium ponit ibi neque enim concludit enim quod si affirmatio et negatio non sit simul
+vera, quod neque opinio Heracliti est vera, neque opinio Anaxagorae. Et quidem de opinione Heracliti patet ex
+dictis. Unde hoc manifestat de opinione Anaxagorae; dicens, quod si non sit falsa opinio Anaxagorae, sequitur
+contraria praedicari de eodem. Et per consequens contradictoria. Quod sic patet. Ponebat enim Anaxagoras
+quodlibet fieri ex quolibet, et omne quod fit, ex aliquo fit.
+Unde non cogebatur ponere aliquid fieri ex nihilo, et sic ponebat quodlibet esse in quolibet. Cum igitur poneret
+partem cuiuslibet esse in quolibet, puta partem carnis esse in osse, et partem albi in nigro, et e converso; sequitur
+quod totum non magis erit dulce quam amarum. Et simile est de aliis contrarietatibus. Et hoc, si pars cuiuslibet
+est in quolibet toto non solum in potentia, sed in actu et separatim. Hoc autem addidit, quia id quod fit ex aliquo
+oportet praeexistere in eo potentia, non actu. Et sic contraria praeexistunt in eodem in potentia, non in actu. Et
+hoc non est esse separatim contraria in aliquo, quia eadem est potentia contrariorum. Sed Anaxagoras nesciebat
+distinguere inter potentiam et actum.
+|#22 Tertium corollarium ponit ibi, similiter autem.
+Concludit enim ex praedictis falsam esse utramque opinionem: et illorum qui dixerunt omnes propositiones esse
+veras; et illorum qui dixerunt omnes falsas. Et hoc manifestum est propter multa difficilia et gravia consequentia
+ad has opiniones quae collectae sunt, et hic, et superius in quarto. Et specialiter propter hoc, quia si omnes
+propositiones sunt falsae: qui autem dicit - omnis propositio est falsa - quamdam propositionem dicit. Unde non
+dicet verum. Et similiter, si omnes propositiones sint verae, ille qui dicit omnes esse falsas, non mentietur, sed
+dicet verum.
+Propter quod destruitur positio ponentis omnia esse vera.
+|+7 Lectio 7
+|#1 Postquam Philosophus ostendit de quibus sit consideratio huius scientiae, hic comparat istam scientiam ad
+alias.
+Et circa hoc tria facit. Primo ostendit quid sit proprium particularium scientiarum.
+Secundo ostendit differentiam particularium scientiarum adinvicem, ibi, quoniam autem est quaedam.
+Tertio comparat istam ad alias, ibi, quoniam autem est quaedam entis scientia.
+Circa primum duo facit, secundum duo, quae dicit pertinere ad particulares scientias.
+Dicit ergo primo, quod omnis scientia particularis quaerit aliqua principia et causas, circa proprium scibile quod
+sub ipsa continetur. Dicit autem - aliqua principia et causas,- quia non omnis scientia considerat omne genus
+causae.
+|#2 Et ponit exemplum de medicativa quae est circa sanitatem, et de exercitativa quae est circa exercitia
+ordinata ad bonam valetudinem corporis; et similiter de qualibet scientia alia, sive sit factiva idest practica, sive
+doctrinalis idest theorica; quia unaquaeque harum scientiarum particularium circumscribit et accipit sibi aliquod
+determinatum genus entis, circumscribens illud et dividens ab aliis entibus, et de illo solo determinans.
+Negociatur enim circa hoc genus entis quasi circa aliquod ens, sed non inquantum est ens. Sed hoc, scilicet
+considerare de ente inquantum est ens, pertinet ad quamdam scientiam quae est alia praeter omnes scientias
+particulares.
+|#3 Secundo ibi, dictarum autem ponit aliud pertinens ad particulares scientias; dicens quod unaquaeque
+praedictarum scientiarum particularium supponit aliqualiter quod quid est, in quocumque genere consideretur.
+Unde et in primo posteriorum dictum est, quod de subiecto oportet supponere, et quia est, et quid est.
+Et hoc supposito, scilicet quod quid est, quo quaelibet scientia utitur tamquam medio ad demonstrandum aliqua
+sicut passiones et huiusmodi, tentat demonstrare aut debilius aut certius, quia in quibusdam scientiis est certior
+modus demonstrandi sicut in mathematicis, in quibusdam autem debilior sicut in naturalibus.
+
+317
+
+

@@ -1,0 +1,53 @@
+|#5 Amplius. In agentibus per intellectum et aestimationem quamcumque, intentio sequitur apprehensionem: in
+illud enim tendit intentio quod apprehenditur ut finis. Si igitur perveniatur ad aliquid quod non habet speciem
+apprehensam, erit praeter intentionem: sicut, si aliquis intendat comedere mel, et comedat fel credens illud esse
+mel, hoc erit praeter intentionem.
+Sed omne agens per intellectum tendit ad aliquid secundum quod accipit illud sub ratione boni, sicut ex
+superioribus patet. Si ergo illud non sit bonum, sed malum, hoc erit praeter intentionem. Agens igitur per
+intellectum non operatur malum nisi praeter intentionem. Cum igitur tendere ad bonum sit commune agenti per
+intellectum et per naturam, malum non consequitur ex intentione alicuius agentis nisi praeter intentionem.
+|#6 Hinc est quod dionysius dicit, IV cap. De div. Nom., quod malum est praeter intentionem et voluntatem.
+
+|+5 Capitulus 5: Rationes quibus videtur probari quod malum non sit praeter intentionem (et solutio ipsarum)
+|#1 Sunt autem quaedam quae huic sententiae adversarii videntur.
+|#2 Quod enim accidit praeter intentionem agentis, dicitur esse fortuitum et casuale et in paucioribus accidens.
+Malum autem fieri non dicitur fortuitum et casuale, neque ut in paucioribus accidens, sed semper vel in pluribus.
+In naturalibus enim semper generationi corruptio adiungitur.
+In agentibus etiam per voluntatem in pluribus peccatum accidit: cum difficile sit secundum virtutem agere, sicut
+attingere centrum in circulo, ut dicit Aristoteles, in II ethicorum. Non igitur videtur malum esse proveniens
+praeter intentionem.
+|#3 Item. Aristoteles in III eth., expresse dicit quod malitia est voluntarium.
+Et hoc probat per hoc quod aliquis voluntarie operatur iniusta, irrationabile autem est operantem voluntarie
+iniusta non velle iniustum esse, et voluntarie stuprantem non velle incontinentem esse; et per hoc quod
+legislatores puniunt malos quasi voluntarie operantes mala. Non videtur igitur malum praeter voluntatem vel
+intentionem esse.
+|#4 Praeterea. Omnis motus naturalis habet finem intentum a natura. Corruptio autem est mutatio naturalis, sicut
+et generatio. Finis igitur eius, qui est privatio habens rationem mali, est intentus a natura: sicut etiam forma et
+bonum, quae sunt generationis finis.
+|#5 Ut autem positarum rationum solutio manifestior fiat, considerandum est quod malum considerari potest vel
+in substantia aliqua, vel in actione ipsius. Malum quidem in substantia aliqua est ex eo quod deficit ei aliquid
+quod natum est et debet habere: si enim homo non habet alas, non est ei malum, quia non est natus eas habere; si
+etiam homo capillos flavos non habet, non est malum, quia etsi natus sit habere, non tamen est debitum ut
+habeat; est tamen malum si non habeat manus, quas natus est et debet habere, si sit perfectus, quod tamen non est
+malum avi.
+Omnis autem privatio, si proprie et stricte accipiatur, est eius quod quis natus est habere et debet habere. In
+privatione igitur sic accepta semper est ratio mali.
+|#6 Materia autem, cum sit potentia ad omnes formas, omnes quidem nata est habere, nulla tamen est ei debita:
+cum sine quavis una earum possit esse perfecta in actu. Quaelibet tamen earum est debita alicui eorum quae ex
+materia constituuntur: nam non potest esse aqua nisi habeat formam aquae, nec potest esse ignis nisi habeat
+formam ignis. Privatio igitur formae huiusmodi, comparata ad materiam, non est malum materiae: sed comparata
+ad id cuius est forma, est malum eius, sicut privatio formae ignis est malum ignis.
+|#7 Et quia tam privationes quam habitus et formae non dicuntur esse nisi secundum quod sunt in subiecto, si
+quidem privatio sit malum per comparationem ad subiectum in quo est, erit malum simpliciter: sin autem, erit
+malum alicuius, et non simpliciter. Hominem igitur privari manu, est malum simpliciter: materia autem privari
+forma aeris, non est malum simpliciter, sed est malum aeris.
+Privatio autem ordinis aut commensurationis debitae in actione, est malum actionis. Et quia cuilibet actioni est
+debitus aliquis ordo et aliqua commensuratio, necesse est ut talis privatio in actione simpliciter malum existat.
+|#8 His igitur visis, sciendum est quod non omne quod est praeter intentionem, oportet esse fortuitum vel
+casuale, ut prima ratio proponebat.
+Si enim quod est praeter intentionem, sit consequens ad id quod est intentum vel semper vel frequenter, non
+eveniet fortuito vel casualiter: sicut in eo qui intendit dulcedine vini frui, si ex potatione vini sequatur ebrietas,
+non erit fortuitum nec casuale; esset autem casuale si sequeretur ut in paucioribus.
+208
+
+

@@ -1,0 +1,59 @@
+Si autem subiectum talis propositionis de contingenti sit pronomen demonstratiuum uel nomen
+proprium, tunc conuertitur sicut prior, scilicet in illam de inesse et de possibili. Sed si subiectum talis
+propositionis de contingenti sumatur pro his quae contingunt esse, sic conuertitur in idem genus contingentis,
+sumpto subiecto consequentis pro eo quod contingit. Unde bene sequitur 'contingit aliquem hominem currere,
+igitur contingit aliquod currens esse hominem', si subiectum utriusque sumatur pro eo quod contingit, ut iste sit
+sensus 'aliquid, quod contingenter est currens, contingenter est homo'. Nam oppositum consequentis non stat
+cum antecedente, scilicet 'nihil quod contingenter est currens, contingenter est homo'. Nam si haec sit uera
+'aliquid quod contingenter est homo, contingenter currit', sit illud a: tunc utraque istarum est uera 'a contingenter
+est homo' et similiter ista 'a contingenter currit'. Ex istis arguo sic 'a cantingenter est homo; a contingenter currit;
+igitur aliquid quod contingenter currit, contingenter est homo', quae est contradictoria prioris, igitur prior non
+stat. Et ita euidenter sequitur 'aliquid quod contingenter est homo, contingenter currit, igitur aliquid quod
+contingenter currit, contingenter est homo'. Et ita ista consequentia est bona 'aliquis homo contingenter currit,
+igitur aliquod currens contingenter est homo', subiecto utriusque accepto pro eo quod cantingit.
+Si autem subiectum talis propositionis de contingenti sit pronomen demonstratiuum uel nomen
+proprium, tunc conuertitur sicut prior, scilicet in illam de inesse et de possibili. Sed si subiectum talis
+propositionis de contingenti sumatur pro his quae contingunt esse, sic conuertitur in idem genus contingentis,
+sumpto subiecto consequentis pro eo quod contingit. Unde bene sequitur 'contingit aliquem hominem currere,
+igitur contingit aliquod currens esse hominem', si subiectum utriusque sumatur pro eo quod contingit, ut iste sit
+sensus 'aliquid, quod contingenter est currens, contingenter est homo'. Nam oppositum consequentis non stat
+cum antecedente, scilicet 'nihil quod contingenter est currens, contingenter est homo'. Nam si haec sit uera
+'aliquid quod contingenter est homo, contingenter currit', sit illud a: tunc utraque istarum est uera 'a contingenter
+est homo' et similiter ista 'a contingenter currit'. Ex istis arguo sic 'a cantingenter est homo; a contingenter currit;
+igitur aliquid quod contingenter currit, contingenter est homo', quae est contradictoria prioris, igitur prior non
+stat. Et ita euidenter sequitur 'aliquid quod contingenter est homo, contingenter currit, igitur aliquid quod
+contingenter currit, contingenter est homo'. Et ita ista consequentia est bona 'aliquis homo contingenter currit,
+igitur aliquod currens contingenter est homo', subiecto utriusque accepto pro eo quod cantingit.
+Et sidicatur quod tunc sequeretur 'Deus contingenter creat, igitur aliquod creans contingenter est Deus',
+quia sequitur 'a contingenter est Deus; a contingenter creat; igitur aliquid quod contingenter creat, contingenter
+est Deus', sicut argutum est in priori exemplo:
+Et sidicatur quod tunc sequeretur 'Deus contingenter creat, igitur aliquod creans contingenter est Deus',
+quia sequitur 'a contingenter est Deus; a contingenter creat; igitur aliquid quod contingenter creat, contingenter
+est Deus', sicut argutum est in priori exemplo:
+Dicendum est quod iste ultimus syllogismus est bonus, non tamen probat istam conuersionem. Et hoc
+quia per istam 'Deus contingenter creat' non habentur aliquae tales propositiones 'a contingenter est Deus', 'a
+contingenter creat', quia ad ueritatem istius non requiruntur aliquae tales duae, sicut ad ueritatem istius 'aliquis
+homo contingenter currit'
+requiruntur tales duae, si subiectum sumatur pro his quae contingunt. Et ideo per unum syllogismum
+expositorium probatur una conuersio sufficienter et per alium non probatur alia. Unde si subiectum illius de
+contingenti est pronomen demonstratiuum uel nomen proprium, non conuertitur in idem genus contingentis, nec
+subiectum potest habere talem acceptionem, scilicet pro eo quod contingit.
+requiruntur tales duae, si subiectum sumatur pro his quae contingunt. Et ideo per unum syllogismum
+expositorium probatur una conuersio sufficienter et per alium non probatur alia. Unde si subiectum illius de
+contingenti est pronomen demonstratiuum uel nomen proprium, non conuertitur in idem genus contingentis, nec
+subiectum potest habere talem acceptionem, scilicet pro eo quod contingit.
+Sciendum est tamen quod praedicta distinctio de propositionibus de contingenti, de possibili, de
+praeterito et de futuro debet sic intelligi quod subiectum accipiatur pro eo quod est etc., uel denotetur accipi pro
+eo quod est tale, uel contingit esse tale, uel fuit etc. Unde si nihil sit album, in ista 'album potest esse homo'
+subiectum non potest accipi pro eo quod est album, cum nihil sit album; potest tamen denotari accipi pro eo quod
+est album. Et ideo si nihil sit album, ipsa est falsa, cum per ipsam denotetur falsum, quia per ipsam in illo sensu
+denotatur aliquid esse album, cum tamen nihil sit album.
+Sciendum est tamen quod praedicta distinctio de propositionibus de contingenti, de possibili, de
+praeterito et de futuro debet sic intelligi quod subiectum accipiatur pro eo quod est etc., uel denotetur accipi pro
+eo quod est tale, uel contingit esse tale, uel fuit etc. Unde si nihil sit album, in ista 'album potest esse homo'
+subiectum non potest accipi pro eo quod est album, cum nihil sit album; potest tamen denotari accipi pro eo quod
+est album. Et ideo si nihil sit album, ipsa est falsa, cum per ipsam denotetur falsum, quia per ipsam in illo sensu
+denotatur aliquid esse album, cum tamen nihil sit album.
+202
+
+

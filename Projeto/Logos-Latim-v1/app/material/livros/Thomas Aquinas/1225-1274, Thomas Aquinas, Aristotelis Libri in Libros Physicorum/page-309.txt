@@ -1,0 +1,64 @@
+seipsum sicut principale movens, non est necesse esse aliud instrumentum
+quo moveat. Et hoc magis manifestum est in instrumentis quam in mobilibus
+ordinatis, licet habeat eandem veritatem; quia non quilibet consideraret
+secundum movens esse instrumentum primi. Sicut etiam supra dixerat
+deducendo, quod si sit aliquid quod movetur ab alio, necesse est esse
+aliquid quod non movetur, sed non e converso: ita hic dicit descendendo,
+quod si inveniatur quod illud quo movens movet, sit alterum, sicut
+instrumentum, necesse est esse aliquid quod movebit non aliquo instrumento,
+sed per seipsum, aut procedetur in infinitum in instrumentis; quod est idem
+ac si procederetur in infinitum in moventibus, quod est impossibile, ut
+supra ostensum est.
+Si ergo est aliquid movens id quod movetur, necesse est stare et non in
+infinitum ire.
+Quia si baculus movet eo quod movetur a manu, sequitur quod manus moveat
+baculum; si autem et manum aliquid aliud movet, etiam sequitur e converso
+quod aliquod movens moveat manum; et ita oportet quod sicut proceditur in
+instrumentis motis, ita procedatur in moventibus quae movent instrumenta.
+Non est autem procedere in infinitum in moventibus, ut supra ostensum est;
+ergo neque in instrumentis.
+Cum ergo semper alterum quod movetur, moveatur alio movente, et non sit
+procedere in infinitum; necesse est esse aliquod primum movens quod moveat
+per seipsum, et non per aliquod instrumentum.
+Si ergo detur quod hoc primum quod movet per seipsum, movetur quidem, sed
+non est aliquid aliud movens ipsum (quia sic et ipsum esset instrumentum);
+sequitur ex necessitate quod ipsum seipsum moveat: supposito, secundum
+Platonicos, quod omne movens movetur.
+Unde et secundum istam rationem illud quod movetur, aut statim movebitur a
+movente quod movet seipsum, aut aliquando erit devenire in aliquod tale
+movens quod seipsum moveat.
+|#6
+Deinde cum dicit: ad dicta autem etc.; ostendit quod non omne movens
+movetur, ut in prioribus rationibus supponebatur.
+Et circa hoc duo facit: primo probat quod non omne movens movetur; secundo
+tam ex hoc quam ex superioribus rationibus concludit principale propositum,
+ibi: non ergo necesse semper moveri etc..
+Dicit ergo primo, quod supra praedicta possunt etiam addi haec ad nostrum
+propositum ostendendum.
+Et circa hoc tria facit: primo praemittit quandam divisionem; secundo
+destruit unam partem, ibi: primum quidem igitur etc.; tertio destruit aliam
+partem, ibi: at vero si non secundum accidens etc..
+Dicit ergo primo, quod si omne quod movetur, movetur ab eo quod movetur,
+quod est omne movens moveri, hoc potest esse dupliciter: uno modo quod hoc
+inveniatur per accidens in rebus ut movens moveatur, ita scilicet quod
+movens non moveat propter id quod movetur (ut si dicamus aedificatorem esse
+musicum, non quia musicus est, sed per accidens); aut non est per accidens
+quod movens moveatur, sed per se.
+|#7
+Deinde cum dicit: primum quidem etc., destruit primum membrum
+tripliciter.
+Primo quidem tali ratione. Nihil quod est per accidens, est necessarium:
+quod enim inest alicui per accidens, non ex necessitate inest ei, sed
+contingit non inesse, sicut musicum aedificatori. Si igitur moventia per
+accidens moventur, sequitur quod contingat ea non moveri; sed cum tu ponas
+quod omne movens movetur, consequens est quod si non moventur moventia,
+quod non moveant; sequitur ergo quod aliquando nihil moveatur.
+Hoc autem est impossibile, quia ostensum est supra, quod necesse est motum
+semper esse. Istud autem impossibile non sequitur ex hoc quod supposuimus
+moventia non moveri: quia si hoc est per accidens quod movens moveatur,
+moventia non moveri erit possibile; possibili autem posito, nullum sequitur
+impossibile.
+
+309
+
+

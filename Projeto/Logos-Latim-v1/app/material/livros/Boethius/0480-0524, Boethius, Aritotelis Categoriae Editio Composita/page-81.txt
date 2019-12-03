@@ -1,0 +1,62 @@
+His ergo dispositis dico quoniam, quemadmodum se habent priuatoriae, id est affirmatio et negatio quae
+dicunt:
+Est iniustus homo
+Non est iniustus homo
+ad simplices quae proponunt:
+Est iustus homo
+Non est iustus homo
+secundum consequentiam, sic se habebunt etiam infinitae propositiones affirmatio et negatio hae scilicet quae
+sunt:
+Est non iustus homo
+Non est non iustus homo
+ad easdem simplices quae sunt:
+Est iustus homo
+Non est iustus homo
+Videamus quae sit simplicium et priuatoriarum consequentia, ut utrum se sic habeant infinitae ad simplices,
+quemadmodum se habent priuatoriae ad easdem simplices, cognoscamus. Dispositae igitur sunt in primo quidem ordine
+simplices propositiones, affirmatio simplex quae dicit:
+Est iustus homo
+et negatio simplex quae dicit:
+Non est iustus homo
+Sub his id est sub affirmatione simplici duae negationes, una priuatoria quae est:
+Non est iniustus homo
+et altera infinita quae est:
+Non est non iustus homo
+Sub negatione uero simplici quae dicit:
+Non est iustus homo
+duae affirmationes, una priuatoria quae dicit:
+Est iniustus homo
+altera infinita quae dicit:
+Est non iustus homo
+Illud quoque in descriptione uidendum est, quod angulariter se affirmationes negationesque respiciunt. Nam
+affirmatio quae est simplex:
+Est iustus homo
+angulariter se contra utrasque respicit affirmationes infinitam scilicet et priuatoriam quae sunt:
+Est non iustus homo
+Est iniustus homo
+Rursus negatio simplex quae est:
+Non est iustus homo
+angulariter /279/ respicit duas negationes infinitam scilicet et priuatoriam.
+Et in ueritate simplicem affirmationem priuatoria negatio sequitur.
+Nam si uerum est dicere quoniam est iustus homo, uerum est dicere quoniam non est iniustus homo. Nam qui
+iustus est non est iniustus. Et possumus istam continuam propositionem coniunctamque proponere: si iustus est homo,
+non est iniustus homo. Sequitur ergo affirmationem simplicem priuatoria negatio, ut si uera fuerit affirmatio simplex
+uera quoque sit negatio priuatoria et affirmationis simplicis ueritatem negationis priuatoriae ueritas consequatur. At
+uero non e conuerso est. Neque enim affirmatio simplex negationem sequitur priuatoriam. Nam si uerum est dicere
+quoniam non est iniustus homo, non est omnino uerum dicere quoniam est homo iustus. Potest enim uere de equo dici
+quoniam equus non est iniustus homo (neque enim omnino homo est et ideo nec iniustus homo est) sed non potest dici
+de equo quoniam equus est homo iustus. Ita ergo, quoniam uerum non est de equo quoniam est iustus homo equus,
+ueritatem negationis priuatoriae non sequitur ueritas simplicis affirmationis. Atque ideo nec continua propositio hinc et
+coniuncta proferri proponique potest. Non est enim uera propositio, si quis dicat: "si non est iniustus homo, est iustus
+homo". De equo enim (ut dictum est) uerum est quia non est iniustus homo, non tamen uerum est iustum esse hominem
+equum. Quare negationem priuatoriam simplex affirmatio non sequitur.
+Monstratum est igitur quoniam /280/ affirmationem simplicem negatio priuatoria sequeretur, negationem uero
+priuatoriam simplex affirmatio non sequeretur. Rursus uideamus et in opposita parte qualis sit consequentia. In diuersa
+enim parte affirmationem quidem priuatoriam sequitur negatio simplex, negationem uero simplicem affirmatio
+priuatoria non sequitur. Nam si uerum est dicere quoniam est iniustus homo, uerum est dicere quoniam non est iustus
+homo. Qui enim iniustus est, iustus non est. Et affirmatiuae priuatoriae eius scilicet quae dicit:
+Est iniustus homo
+ueritatem sequitur negatiua simplex quae est:
+Non est iustus homo
+
+

@@ -1,0 +1,63 @@
+falsa est haec, quoniam nullo tempore neque homo lapis est, neque lapis homo uere praedicabitur. In
+particularibus negatiuis contrarium est; nam aut falsae [805D] sunt, cum proprium subiectum est aut praedicatum, ut si
+quis dicat:
+Quidam homo risibile non est
+falsum est. Item:
+Quoddam risibile homo non est
+et haec quoque falsa est. In illis uerae sunt, quando id quod affirmando nullo tempore uere praedicari potest ad
+subiectum praedicant, ut si dicas:
+Quidam homo lapis non est
+uera est. Iterum:
+Quidam lapis homo non est
+uera est. Ergo uniuersales affirmationes tum sibi conuertuntur ut uerae sint cum proprium praedicant, tum sibi
+conuertunturut falsae sint cum id quod nullo tempore adsubiectum uere dici poterit praedicatur. Item in particularibus
+negatiuis, tum falsae sunt, cum proprium praedicant, tum uerae, cum id quod nullo tempore uere dici poterit praedicant.
+[806A]
+In his ergo solae conuerti possunt. In aliis uero conuerti non possunt. Atque ideo uniuersaliter non
+conuertuntur; remanet ergo ut in aliis rebus omnibus, ut superius dictum est, non conuertantur.
+Hoc uero perpiciendum est, quod particularis affirmatioque sibi ipsi conuertitur, uniuersali affirmationi, quae
+sibi non conuertitur, per accidens conuerti potest. Et item contraiacens uniuersali affirmationi particularis negatio, quae
+sibi ipsi non conuertitur, conuerti potest per accidens negationi uniuersali, quae sibi ipsi conuertitur. Sed quomodo
+particularis affirmatio et uniuersalis negatio sibi ipsis conuertantur ostendimus.
+Nunc uero quomodo particularis affirmatio uniuersali affirmationi per accidens, uel quomodo particularis
+negatio uniuersali negationi per accidens [806B] couertantur, demonstrandum est. Dictum est superius quod si uera est
+uniuersalis affirmatio, uera est etiam particularis, et sequeretur particularis uniuersalem. Nam si uera est:
+Omnis homo animal est
+uera est etiam:
+Quidam homo animal est.
+Si enim omnis, et quidam; sed particularis affirmatio sibi ipsi conuertitur, conuertitur etiam uniuersali
+affirmationi. Nam si omnis homo animal est, et quidam homo animal est. Sed ista sibi conuertitur hoc modo, si dicas:
+Quidam homo animal est
+potest igitur conuerti ad:
+Omnis homo animal est
+uniuersalem affirmationem particularis affirmatio, quae est:
+Quidam homo animal est
+et conuertitur, ut si dicas:
+Quoddam animal homo est
+utraeque enim uerae sunt -- et quae dicit:
+Omnis homo animal est
+et quae dicit:
+Quoddam animal homo est
+per accidens autem conuerti dicitur particularis affirmatio uniuersali affirmationi, qui particularis affirmatio
+sibi ipsi principaliter conuertitur, secundo uero loco uniuersali affirmationi conuertitur.
+Restat igitur ut hoc monstremus: quomodo particularis negatio quae sibi non conuertitur uniuersali negationi
+quae sibi conuertitur per accidens conuertatur, et hic eadem ratio est. Nam quoniam uniuersalis negatio si uera est, uera
+est etiam particularis, uniuersalis uero negatio sibi ipsa conuertitur potest uniuersali negationi conuersae particularis
+conuerti negatio. Age enim uniuersalem negationem, id est:
+Nullus homo hinnibilis est
+conuertamus, ut sit:
+Nullum hinnibile homo est.
+Sed istam propositionem, id est uniuersalem negatiuam quae est:
+Nullus homo hinnibilis est
+sequitur [806D] particularis negatio quae est:
+Quidam homo non est hinnibilis.
+Conuerte igitur uniuersalem quae est:
+Nullus homo hinnibilis est
+et fac:
+Nullum hinnibile homo est
+conuerte huic particularem negationem quae est:
+Quidam homo non est hinnibilis
+et fac:
+10
+
+

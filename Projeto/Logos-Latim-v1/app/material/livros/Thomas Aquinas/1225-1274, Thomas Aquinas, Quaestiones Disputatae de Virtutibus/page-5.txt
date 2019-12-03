@@ -1,0 +1,62 @@
+Ad decimumquintum dicendum, quod virtus est medium inter passiones, non quasi aliqua passio media; sed
+actio, quae in passionibus medium constituit.
+|a2 Articulus 2
+TTA
+Secundo quaeritur utrum definitio virtutis quam Augustinus ponit sit conveniens.
+TTB
+Scilicet: virtus est bona qualitas mentis, qua recte vivitur, qua nemo male utitur, quam Deus in nobis sine nobis
+operatur.
+Et videtur quod sit inconveniens.
+AG1
+Virtus enim est bonitas quaedam. Si ergo ipsa est bona: aut ergo sua bonitate, aut alia. Si alia, procedetur in
+infinitum: si seipsa, ergo virtus est bonitas prima quia sola bonitas prima est bona per seipsam.
+AG2
+Praeterea, illud quod est commune omni enti, non debet poni in definitione alicuius.
+Sed bonum, quod convertitur cum ente, est commune omni enti. Ergo non debet poni in definitione virtutis.
+AG3
+Praeterea, sicut bonum est in moralibus, ita et in naturalibus. Sed bonum et malum in naturalibus non
+diversificant speciem.
+Ergo nec in definitione virtutis debet poni bona, quasi differentia specifica ipsius virtutis.
+AG4
+Praeterea, differentia non includitur in ratione generis. Sed bonum includitur in ratione qualitatis, sicut et ens.
+Ergo non debet addi in definitione virtutis, ut dicatur: virtus est bona qualitas mentis etc..
+AG5
+Praeterea, malum et bonum sunt opposita.
+Sed malum non constituit aliquam speciem, cum sit privatio. Ergo nec bonum; ergo non debet poni in definitione
+virtutis tamquam differentia constitutiva.
+AG6
+Praeterea, bonum est in plus quam qualitas.
+Ergo per bonum non differt una qualitas ab alia; ergo non debet poni in definitione virtutis bonum, sicut
+differentia qualitatis vel virtutis.
+AG7
+Praeterea, ex duobus actibus nihil fit.
+Sed bonum importat actum quemdam, et qualitas similiter. Ergo male dicitur, quod virtus sit bona qualitas.
+AG8
+Praeterea, quod praedicatur in abstracto, non praedicatur in concreto; sicut albedo est color, non tamen colorata.
+Sed bonitas praedicatur de virtute in abstracto. Ergo non praedicatur in concreto; ergo non bene dicitur: virtus est
+bona qualitas.
+AG9
+Praeterea, nulla differentia praedicatur in abstracto de specie unde dicit Avicenna, quod homo non est
+rationalitas, sed rationale. Sed virtus est bonitas. Ergo bonitas non est differentia virtutis; ergo non bene dicitur:
+virtus est bona qualitas.
+AG10
+Praeterea, malum moris idem est quod vitium. Ergo bonum moris idem est quod virtus; ergo bonum non debet
+poni in definitione virtutis, quia sic idem definiret seipsum.
+AG11
+Praeterea, mens ad intellectum pertinet.
+Sed virtus magis respicit affectum. Ergo male dicitur, quod virtus sit bona qualitas mentis.
+AG12
+Praeterea, secundum Augustinum, mens nominat superiorem partem animae. Sed aliquae virtutes sunt in
+inferioribus potentiis. Ergo male ponitur in definitione virtutis bona qualitas mentis.
+AG13
+Praeterea, subiectum virtutis nominat potentiam, non essentiam. Sed mens videtur nominare essentiam animae;
+quia dicit Augustinus, quod in mente est intelligentia, memoria et voluntas. Ergo non debet poni mens in
+definitione virtutis.
+AG14
+Praeterea, illud quod est proprium speciei, non debet poni in definitione generis.
+Sed rectitudo est proprium iustitiae. Ergo non debet poni rectitudo in definitione virtutis, ut dicatur bona qualitas
+mentis, qua recte vivitur.
+AG15
+5
+
+

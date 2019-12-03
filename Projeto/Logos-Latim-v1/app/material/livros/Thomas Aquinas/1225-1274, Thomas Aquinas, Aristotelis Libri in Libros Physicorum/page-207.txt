@@ -1,0 +1,64 @@
+simul: consequenter autem sint, quorum nihil est medium sui generis), ex
+his sequitur quod impossibile sit aliquod continuum componi ex
+indivisibilibus, ut lineam ex punctis; si tamen linea dicatur aliquid
+continuum, et punctum aliquid indivisibile.
+Addit autem hoc, ne aliquis nomine lineae et puncti aliter uteretur.
+|#3
+Deinde cum dicit: neque enim unum sunt etc., probat propositum.
+Et primo inducit rationes duas ad probandum propositum; secundo manifestat
+quaedam quae poterant esse dubia in suis probationibus, ibi: nullum autem
+aliud genus etc..
+Circa primam rationem duo facit: primo ostendit quod ex indivisibilibus non
+componitur aliquod continuum, neque per modum continuationis, neque per
+modum contactus; secundo quod neque per modum consequenter se habentium,
+ibi: at vero neque consequenter etc..
+Circa primum ponit duas rationes, quarum prima talis est.
+Ex quibuscumque componitur aliquid unum, vel per modum continuationis, vel
+per modum contactus, oportet quod habeant ultima quae sint unum, vel quae
+sint simul.
+Sed ultima punctorum non possunt esse unum: quia ultimum dicitur respectu
+alicuius partis; in indivisibili autem non est accipere aliquid quod sit
+ultimum, et aliud quod sit aliqua alia pars.
+Similiter non potest dici quod ultima punctorum sunt simul: quia nihil
+potest esse ultimum rei impartibilis, cum semper alterum sit ultimum et
+illud cuius est ultimum; in impartibili autem non est accipere aliud et
+aliud.
+Relinquitur ergo quod linea non potest componi ex punctis, neque per modum
+continuationis, neque per modum contactus.
+|#4
+Secundam rationem ponit ibi: amplius necesse est etc. Quae talis est.
+Si ex punctis constituitur aliquod continuum, necesse est quod aut sint
+continua ad invicem, vel se tangant: et eadem ratio est de omnibus aliis
+indivisibilibus, quod ex eis non componatur continuum.
+Ad probandum autem quod indivisibilia non possunt sibi invicem esse
+continua, sufficiat ratio prima.
+Sed ad probandum quod non possunt se tangere, inducitur alia ratio, quae
+talis est.
+Omne quod tangit alterum, aut totum unum tangit totum aliud, aut pars unius
+partem alterius, aut pars unius totum aliud. Sed cum indivisibile non
+habeat partem, non potest dici quod pars unius tangat partem alterius, aut
+pars totum; et sic necesse est, si duo puncta se tangunt, quod totum tangat
+totum.
+Sed ex duobus, quorum unum totum tangit aliud totum, non potest componi
+continuum; quia omne continuum habet partes seiunctas, ita quod haec sit
+una pars, et haec alia; et dividitur in partes diversas et distinctas loco,
+idest positione, in his quae positionem habent: quae autem se secundum
+totum tangunt, non distinguuntur loco vel positione.
+Relinquitur ergo quod ex punctis non possit componi linea per modum
+contactus.
+|#5
+Deinde cum dicit: at vero neque etc., probat quod continuum non
+componatur ex indivisibilibus per modum eius quod est consequenter.
+Non enim punctum consequenter se habebit ad aliud punctum, ita quod ex eis
+constitui possit longitudo, idest linea; aut unum nunc alteri nunc, ita
+quod ex eis possit componi tempus: quia consequenter est unum alteri,
+quorum non est aliquid medium eiusdem generis, ut supra expositum est. Sed
+inter duo puncta semper est linea media: et sic si linea composita est ex
+punctis, ut tu das, sequitur quod semper inter duo puncta sit aliud punctum
+medium. Et similiter inter duo nunc est tempus medium. Non ergo linea
+componitur ex punctis, aut tempus ex nunc, sicut consequenter se
+habentibus.
+
+207
+
+

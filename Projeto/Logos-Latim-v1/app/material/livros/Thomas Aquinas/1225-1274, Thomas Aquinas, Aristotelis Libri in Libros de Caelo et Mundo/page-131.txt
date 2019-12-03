@@ -1,0 +1,59 @@
+|+5 Lectio 5
+|#1 Postquam Philosophus improbavit positionem ponentium omnia corpora generari ex superficiebus, hic
+incipit inquirere utrum corpora naturalia habeant motus naturales. Et circa hoc duo facit: primo ostendit quod
+corpora naturalia habent motus naturales; secundo ostendit quomodo motus violenti corporum perficiantur
+diversimode a motibus naturalibus, ibi: quoniam autem natura etc.. Circa primum duo facit: primo ostendit quod
+corpora naturalia habent motus naturales; secundo ostendit quod habent gravitatem et levitatem, quibus
+inclinantur ad suos motus naturales, ibi: quod autem quaedam habere etc..
+Circa primum duo facit: primo probat quod corpora naturalia habent motus naturales; secundo improbat
+quorundam Philosophorum opiniones, circa hoc errantium, ibi: propter quod et Leucippo etc..
+Circa primum duo facit. Primo proponit quod intendit: et dicit quod, quia supra dictum est quod operationes et
+passiones corporum sunt generationes et motus eorum, et de generatione corporum inquisitum est, restat
+dicendum de motibus eorum. Et dicit quod manifestum est ex his quae dicentur, quod necesse est omnibus
+corporibus simplicibus inesse aliquem motum naturalem. Corpora vero mixta sequuntur motum corporis
+simplicis praedominantis in eis. Ergo omnibus corporibus naturalibus inest aliquis motus naturalis.
+|#2 Secundo ibi: quoniam enim mota etc., probat propositum duabus rationibus. Quarum prima sumitur ex parte
+motus. Videmus enim ad sensum corpora simplicia moveri: si ergo non habent proprium motum sibi naturalem,
+necesse est quod moveantur per violentiam. Idem autem est moveri per violentiam, et moveri praeter naturam:
+quod enim est secundum naturam, non est violentum, quia violentum est in quo nil confert vim patiens, ut dicitur
+in III ethic.. Ex eo autem quod est aliquis motus praeter naturam, sequitur quod sit aliquis motus secundum
+naturam, respectu cuius dicitur motus violentus praeter naturam: non enim aegritudo esset dispositio praeter
+naturam, nisi esset sanitas dispositio secundum naturam; omnis enim privatio praesupponit habitum. Et licet
+sequatur ex hoc quod est motus praeter naturam, quod sit motus aliquis secundum naturam; tamen, quamvis sint
+multi motus praeter naturam, motus tamen secundum naturam est unus (unius scilicet corporis): quia natura
+unius rei est determinata ad unum, a qua contingit multipliciter deviare; sicut est sanitas una, aegritudines vero
+multae. Et hoc ideo, quia unumquodque secundum suam naturam est simpliciter, idest uno modo, eo quod natura
+unius rei est una: sed unumquodque habet non solum multos motus, sed etiam multas dispositiones, praeter
+naturam.
+Sed contra hoc videtur esse quod in principio libri dictum est, quod motui secundum naturam contrariatur motus
+praeter naturam, et quod unum uni est contrarium. Ad quod dici potest quod Philosophus ibi loquitur de motibus
+simplicibus: unum enim corpus non potest moveri pluribus motibus simplicibus praeter naturam; potest tamen
+moveri pluribus motibus compositis praeter naturam. Vel potest dici quod etsi unum uni sit contrarium, tamen
+contrarium quod est ut privatio, potest se habere multipliciter; sicut sanitas simpliciter est, aegritudo autem
+multipliciter. Et similiter motus secundum naturam est uno modo, motus autem praeter naturam multis modis.
+|#3 Secundam rationem ponit ibi: adhuc autem etc.: et sumitur ex parte quietis. Et praesupponit duo. Quorum
+primum est, quod necesse est omne quod quiescit, quiescere aut violenter aut secundum naturam. Secundum est,
+quod ibi quiescit aliquid per violentiam, quo movetur per violentiam; et ibi quiescit aliquid secundum naturam,
+quo movetur secundum naturam.
+Ex his autem argumentatur sic. Videmus ad sensum aliquod corpus quiescere in medio, puta terram aut lapidem:
+ergo, secundum praemissa, aut quiescit per violentiam, aut secundum naturam.
+Et si quidem secundum naturam, sequitur secundum praemissa quod etiam motus talis corporis ad hunc locum
+sit naturalis. Si autem quiescit per violentiam, oportet quod sit aliquid inferens ei violentiam, quod prohibeat
+ipsum moveri. Illud ergo quod prohibet ipsum moveri, aut movetur aut quiescit. Si quiescit, sicut columna
+quiescens prohibet lapidem superpositum moveri, redibit eadem quaestio de hoc prohibente, utrum quiescat
+naturaliter vel violenter. Et si naturaliter, concludetur quod etiam naturaliter movetur: si autem violenter, iterum
+indigebit alio prohibente. Et sic necesse est vel quod deveniatur ad aliquod primum quiescens secundum
+naturam, quod etiam ex consequenti naturaliter movebitur; aut quod in infinitum procedatur in corporibus, quod
+est impossibile, ut in primo ostensum est. Si vero dicatur quod quiescens violenter in medio prohibetur moveri
+ab aliquo quod movetur (sicut empedocles dixit quod terra quiescit per violentiam prohibita a gyratione caeli),
+remota tali prohibitione, consequens est quod corpus prohibitum prius moveri, feretur ad aliquem locum
+determinatum: quia impossibile est quod feratur in infinitum, quia impossibile est infinitum pertransire, nihil
+autem est in fieri, quod est impossibile factum esse. Si ergo ad aliquem locum determinatum movetur, quando
+illuc devenerit, stabit et quiescet non violenter, sed naturaliter: et ita, secundum praemissa, si quiescit naturaliter
+in hoc loco, sequitur quod naturaliter ad hunc locum moveatur. Et sic erit aliquis motus naturalis.
+|#4 Deinde cum dicit: propter quod et Leucippo etc., improbat quorundam Philosophorum opiniones circa
+praedicta. Et primo opinionem democriti; secundo opinionem Platonis, ibi: idem autem hoc accidere etc..
+
+131
+
+

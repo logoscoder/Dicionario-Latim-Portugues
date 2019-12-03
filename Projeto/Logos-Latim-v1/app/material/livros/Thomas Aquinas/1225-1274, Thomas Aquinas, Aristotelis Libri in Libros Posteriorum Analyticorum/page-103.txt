@@ -1,0 +1,57 @@
+Nam inferius genus constituitur per differentiam divisivam superioris generis. Ad vitandum ergo diminutionem,
+oportet quod nulla huiusmodi differentiarum praetermittatur. Praetermittitur autem si aliquis, accepto supremo
+genere, accipiat consequenter aliquam differentiam divisivam non quidem ipsius supremi generis, sed alicuius
+inferioris. Quod quidem hoc modo cognosci potest: quia cum animal accipiatur aliquod supremum genus, si
+postea aliquis accipiat divisionem alicuius de inferioribus generibus, non totum quod continetur sub genere
+superiori cadet sub illa divisione. Et ponit ad hoc exemplum: sicut non omne animal est vel totalum, vel divisum
+pennis.
+Dicitur autem animal totalum, quod habet totas alas integras et continuas, sicut vespertilio; divisum autem pennis
+dicitur animal, cuius alae distinguuntur per diversas pennas, sicut accipitris vel corvi. Animali autem non habenti
+alas neutrum horum convenit; sed omne animal volatile continetur sub altera harum differentiarum, quia
+secundum praedictas differentias dividitur hoc genus quod est animal volatile. Sed prima et immediata
+differentia animalis attenditur ex hoc quod omne animal cadit sub divisione. Et ita est etiam de omnibus aliis
+generibus, sive accipiamus genera quae sunt extrinseca ab animali, sicut lapis et planta, sive illa quae sub animali
+continentur, sicut avis et piscis. Prima tamen differentia avis attenditur secundum differentiam in quam incidit
+omnis avis: et eadem ratio est de pisce. Concludit ergo quod si aliquis sic procedat in dividendo, quod scilicet
+totum divisum contineatur sub partibus divisionis, poterit homo cognoscere quod nil est relictum de his quae
+sunt necessaria ad definiendum. Si autem aliter procedatur, necesse est quod aliqua relinquantur, et quod homo
+non cognoscat se integraliter definisse.
+|+15 Lectio 15
+|#1 Postquam Philosophus ostendit veritatem circa divisionem generis, quae assumitur ad definiendum, hic
+excludit duos errores. Secundum, ibi: omne autem incidere etc.. Circa primum tria facit. Primo proponit
+exclusionem erroris: et dicit quod non est necessarium quod ille qui dividendo definit, sciat omnia quae sunt in
+mundo.
+|#2 Secundo, ibi: et tamen impossibile quidam dicunt etc., narrat opinionem errantium. Dicebant enim quidam,
+quod non potest cognosci differentia alicuius ad omnia alia entia, nisi omnia alia entia cognoscantur, ut patet in
+aliquibus duobus, quorum differentiam cognoscere non possumus nisi utrumque cognoscamus. Addebant autem
+quod non est possibile quod aliquid sciatur quid est, nisi cognoscatur differentia eius ad omnia alia. Id enim a
+quo aliquid non differt est idem ei: illud autem a quo differt est alterum ab ipso. Non autem possumus scire quid
+sit unumquodque, nisi sciamus quid sit idem ei, et quid alterum ab eo.
+Et secundum hoc concludebant quod non potest aliquid cognosci nisi omnia cognoscantur.
+|#3 Tertio, ibi: primum quidem igitur etc., improbat quod dictum est dupliciter. Et primo quidem interimit hoc
+quod dictum est, quod illud a quo aliquid differt, est alterum. Loquimur enim nunc de eodem et de altero
+secundum essentiam, quam significat definitio. Manifestum est autem quod etiam in eadem specie sunt multae
+differentiae accidentales, quae non diversificant substantiam speciei, quam significat definitio, nec per se insunt.
+Unde consequens est quod non omnis differentia facit talem alteritatem, quam necessarium sit cognoscere ad
+definiendum.
+|#4 Secundo, ibi: postea cum accipiat opposita etc., improbat quae dicta sunt alio modo. Cum enim ille qui vult
+definire dividendo, accipiat oppositas differentias hoc modo, quod omne quod continetur sub diviso, cadat sub
+hoc membro divisionis vel sub illo, et accipiat sub altero membrorum illud cuius definitio quaeritur, si hoc quod
+intendit definire, cognoscat sub illo membro divisionis contineri; non differt ad propositum utrum sciat vel
+nesciat de quibuscunque aliis rebus praedicentur oppositae differentiae. Puta si dividam animal per rationale et
+irrationale, et accipiam propositum sic hominem contineri sub rationali, non requiritur quod sciam de quibus
+irrationale praedicetur, nec qualiter illa ad invicem differant. Manifestum est enim quod si aliquis sic procedat,
+scilicet dividendo genus per primas differentias eius, et accipiendo propositum sub altero membro, dividens
+quousque perveniatur in illa quae ulterius dividi non possunt essentialibus differentiis; sic procedens habebit
+definitionem substantiae, quam quaerebat.
+Decipiebantur ergo praedicti homines ex eo quod non distinguebant inter cognoscere aliquid in communi et in
+speciali. Oportet enim quod quicunque scit quid est aliquid, cognoscat omnia alia in communi, non autem in
+speciali. Puta qui scit quid est homo, oportet quod sciat hominem per hoc quod est animal, distingui ab omnibus
+quae non sunt animalia; et per hoc quod est rationale, distingui ab omnibus quae non sunt rationalia. Non enim
+oportet quod illa cognoscat, nisi secundum hoc commune quod est non animal, vel irrationale.
+|#5 Deinde cum dicit: omne autem incidere etc., excludit secundum errorem. Posset enim aliquis credere quod
+quicunque utitur divisione ad definiendum, indigeat petere quod totum divisum contineatur sub membris
+divisionis; sed ipse dicit quod hoc non est necessarium, si opposita, per quae fit divisio, sint immediata; quia
+103
+
+

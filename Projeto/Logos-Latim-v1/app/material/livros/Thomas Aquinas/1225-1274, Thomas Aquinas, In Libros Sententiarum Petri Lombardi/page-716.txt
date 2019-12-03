@@ -1,0 +1,62 @@
+habitum et actionem; sed positio ordinis ad finem quemdam cum privatione debiti finis; et sic patet quod malum,
+secundum quod differentia, non est malum per se, sed per accidens vel concretive sumptum.
+RA4
+Ad quartum dicendum, quod malum potest intelligi corrumpere dupliciter; vel formaliter, vel effective: sicut
+enim formaliter albedo facit album, ita etiam formaliter privatio privat, et corruptio corrumpit. Malum vero per
+se sumptum, est ipsa privatio vel corruptio; unde non sequitur quod sit ens positive dictum, quia non privat et
+corrumpit agendo. Si autem sumatur effective, sic non potest intelligi de malo per se vel abstracte sumpto, quia
+privatio nihil efficit; sed oportet ut sumatur de malo per accidens, quod est subjectum et causa mali: et hoc
+quidem efficit aliquid, non quidem inquantum privatum est, sed inquantum est quoddam ens quod agere potest;
+et ideo dicit dionysius, quod malum nihil agit nisi virtute boni, et ipsum bonum non posset impugnare, nisi ex
+boni virtute: nihil enim prohibet unum bonum alterius contrarium esse, ut calor frigoris.
+RA5
+Ad quintum dicendum, quod corruptio et generatio, quamvis semper conjungantur, non tamen sunt idem per se,
+sed per accidens; quod patet ex earum terminis, ex quibus motus et mutationes specificantur: terminus enim
+generationis est forma, quia est mutatio ad esse; terminus vero corruptionis est privatio, quia est mutatio ad non
+esse.
+Forma autem unius et privatio alterius, ut forma ignis et privatio aeris, sunt quidem idem subjecto, sed differunt
+ratione: et ideo etiam illud quod corrumpit et generat, non ex eodem habet quod generat et corrumpit; sed ex eo
+quod formam suam inducit, generat, et sic inquantum ens, generat; ex eo autem quod forma sua necessario
+conjungitur privationi alterius formae, corrumpit. Unde patet quod in eo quod privationem habet, vel non ens est,
+aliquid corrumpit: et propter hoc dionysius dicit, quod boni est per se loquendo generare et salvare, et mali est
+corrumpere; unde non sequitur quod malum in eo quod malum est, aliquid sit.
+|a3 Articulus 3: Utrum bonum sit causa mali.
+AG1
+Ad tertium sic proceditur. Videtur quod mali causa bonum esse non possit. Boni enim, ut dicit dionysius, est
+salvare et producere.
+Sed malum est corruptio quaedam. Ergo mali causa bonum non est.
+AG2
+Praeterea, unum oppositorum non est causa alterius, nisi per accidens, sicut frigidum quodammodo calefacit, ut
+in 8 phys. Dicitur.
+Sed malum non tantum habet causam per accidens, sed per se: quia quod est per accidens, est ut in paucioribus;
+malum autem videtur esse ut in pluribus.
+Ergo oportet quod prima causa mali sit malum.
+AG3
+Praeterea, omnis effectus causae secundae reducitur in causam primam. Sed omne bonum est effectus causae
+primae. Si ergo aliquod malum ab aliquo bono causatur, tunc causa prima, quae Deus est, mali causa erit; et sic
+aliquo modo malus esset Deus, quod est absurdum.
+AG4
+Praeterea, oportet ut effectus sequatur conditionem suae causae. Sed omne malum defectivum est. Ergo oportet
+quod in causa ejus aliquo modo defectus sit. Aut ergo est in ea defectus in actu, aut in potentia. Si defectus in
+actu (omne autem quod deficit in actu, malum est): ergo causa mali non erit bonum, sed malum: nec hoc erit
+primum malum, cujus causam quaesivimus. Si autem defectus est in causa in potentia tantum (id autem quod est
+in potentia tantum, non sufficit ut educat aliquid in actu: quia in 2 phys. Dicitur: aedificatio in actu est causa
+aedificati in potentia): ergo ex tali causa malum actu oriri non poterit.
+AG5
+Praeterea, dionysius dicit, quod malum non habet causam. Sed quod a bono causatur, habet causam. Ergo malum
+non est ex bono.
+SC1
+Sed contra, quicumque facit aliquid ad quod alterum de necessitate consequitur, etiam illius causa est. Sed res
+bona est causa alicujus boni, ad quod malum consequitur, ex eo quod ex illius adventu alterum bonum privatur;
+sicut patet in igne adurente, qui formam suam inducens, formam rei adustae tollit; et tamen utraque forma bonum
+quoddam est. Ergo bonum est causa mali.
+SC2
+Praeterea, omne quod est per accidens, reducitur ad per se. Sed malum non causat nisi per accidens, quia non agit
+nisi virtute boni, ut dionysius dicit. Ergo oportet ut causalitas mali in bonum reducatur sicut in primam causam.
+CO
+Respondeo dicendum, quod nihil agit nisi secundum quod est in actu; nihil autem est in actu nisi secundum quod
+formam vel perfectionem aliquam habet; unde oportet quod omne quod agit, agat inquantum perfectum est, et ita
+inquantum est bonum; cum omne perfectum, inquantum hujusmodi, bonum sit. Intentio autem cujuslibet agentis
+716
+
+

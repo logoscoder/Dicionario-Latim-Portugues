@@ -1,0 +1,61 @@
+ibi, similia dicuntur. De aequali autem, et eius opposito, mentionem hic non facit, quia in eis multiplicitas non est ita
+manifesta. Circa primum tria facit. Primo distinguit hoc nomen idem. Secundo hoc nomen diversum, ibi, diversa vero
+dicuntur. Tertio hoc nomen differens, ibi, differentia vero. Circa primum duo facit. Primo ponit modos eiusdem per
+accidens. Secundo eiusdem per se, ibi, alia vero secundum se.
+[82473] In Metaphysic., lib. 5 l. 11 n. 3
+Dicit ergo quod aliqua dicuntur eadem per accidens tribus modis. Uno modo sicut duo accidentia; ut album et musicum
+dicuntur idem, quia accidunt eidem subiecto. Secundo modo, quando praedicatum dicitur idem subiecto in quantum de
+eo praedicatur; ut cum dicitur, homo est musicus, quae dicuntur idem, quia accidit musicum homini, idest praedicatum
+subiecto. Tertio modo dicuntur idem per accidens, quando subiectum dicitur esse idem accidenti quasi de eo
+praedicatum: ut cum dicitur, musicus est homo, significatur quod homo sit idem musico. Quod enim praedicatur de
+aliquo, significatur idem esse illi. Et haec ratio identitatis est, quia subiectum accidit praedicato.
+[82474] In Metaphysic., lib. 5 l. 11 n. 4
+Praeter hos autem modos eiusdem per accidens, in quibus sumitur accidens per se et subiectum per se, sunt alii modi in
+quibus accipitur accidens cum subiecto compositum. Et in hoc variantur duo modi: quorum unus significatur, quando
+accidens simpliciter praedicatur de composito ex accidente et subiecto. Et tunc significatur hoc, scilicet accidens esse
+idem utrique simul accepto; sicut musico homini, musicum. Alius modus significatur quando compositum praedicatur
+de subiecto simplici, ut cum dicitur, homo est homo musicus. Tunc enim illi, idest subiecto simplici, significatur esse
+idem horum utrumque simul acceptum, scilicet hoc quod dicitur homo musicus. Et similis ratio est, si accidens
+accipitur ut simplex, et subiectum cum compositione; ut si dicamus, musicus est homo musicus, aut e converso, quia et
+homini musico, quod est compositum, dicuntur idem per accidens et homo et musicum, quando haec duo de illo uno
+praedicantur, et e converso.
+[82475] In Metaphysic., lib. 5 l. 11 n. 5
+Ex hoc autem concludit ulterius conclusionem, quod in omnibus praedictis modis praedicandi, in quibus idem per
+accidens praedicatur, non praedicatur aliquod nomen universaliter. Non enim est verum dicere, quod omnis homo sit
+idem musico. Quod sic patet. Ea enim sola de universalibus praedicantur universaliter, quae secundum se insunt eidem.
+Propter hoc enim modus praedicandi, qui est universaliter praedicari, convenit cum conditione subiecti, quod est
+universale, quia praedicatum per se de subiecto praedicatur. Sed accidentia non praedicantur secundum se de
+universalibus, sed ratione singularium. Et ideo de universalibus non praedicantur universaliter. Sed de singularibus
+praedicantur simpliciter, quia idem videtur esse subiecto Socrates et Socrates musicus; non tamen praedicantur de
+singulari universaliter, quia de nullo potest praedicari aliquid universaliter quod non est universale. Socrates autem non
+est universale: nam non est in multis. Et ideo non praedicatur universaliter aliquid de Socrate, ut dicatur, omnis
+Socrates sicut omnis homo. Igitur quae diximus sic dicuntur eadem, scilicet per accidens, ut dictum est.
+[82476] In Metaphysic., lib. 5 l. 11 n. 6
+Deinde cum dicit alia vero ponit modos eiusdem per se; et dicit, quod aliqua dicuntur eadem secundum se eisdem
+modis, quibus dicitur unum per se. Omnes enim modi, quibus aliqua unum per se dicuntur, reducuntur ad duos: quorum
+unus est secundum quod dicuntur unum illa, quorum materia est una; sive accipiamus materiam eamdem secundum
+speciem, sive secundum numerum; ad quod pertinet secundus et tertius modus unius. Alio modo dicuntur unum,
+quorum substantia est una: vel ratione continuitatis, quod pertinet ad primum modum: vel propter unitatem et
+indivisibilitatem rationis, quod pertinet ad quartum et quintum. Unde et his modis dicuntur aliqua esse idem.
+[82477] In Metaphysic., lib. 5 l. 11 n. 7
+Ex hoc autem ulterius concludit, quod identitas est unitas vel unio; aut ex eo quod illa quae dicuntur idem, sunt plura
+secundum esse, et tamen dicuntur idem in quantum in aliquo uno conveniunt. Aut quia sunt unum secundum esse, sed
+intellectus utitur eo ut pluribus ad hoc quod relationem intelligat. Nam non potest intelligi relatio nisi inter duo extrema.
+Sicut cum dicitur aliquid esse idem sibiipsi. Tunc enim intellectus utitur eo quod est unum secundum rem, ut duobus.
+Alias eiusdem ad seipsum relationem designare non posset. Unde patet, quod si relatio semper requirit duo extrema, et
+in huiusmodi relationibus non sunt duo extrema secundum rem sed secundum intellectum solum, relatio identitatis non
+erit relatio realis, sed rationis tantum, secundum quod aliquid dicitur idem simpliciter. Secus autem est, quando aliqua
+duo dicuntur esse idem vel genere vel specie. Si enim identitatis relatio esset res aliqua praeter illud quod dicitur idem,
+res etiam, quae relatio est, cum sit idem sibi, pari ratione haberet aliam relationem, quae sibi esset idem, et sic in
+infinitum. Non est autem possibile in rebus in infinitum procedere. Sed in his quae sunt secundum intellectum nihil
+prohibet. Nam cum intellectus reflectatur super suum actum, intelligit se intelligere. Et hoc ipsum potest etiam
+intelligere, et sic in infinitum.
+Lectio 12
+[82478] In Metaphysic., lib. 5 l. 12 n. 1
+Hic ostendit quot modis dicitur diversum; et dicit, quod diversa dicuntur aliqua tripliciter. Dicuntur enim aliqua diversa
+specie, quorum species sunt plures, sicut asinus et bos. Quaedam vero dicuntur diversa numero, quia differunt
+secundum materiam, sicut duo individua unius speciei. Quaedam vero dicuntur diversa secundum rationem substantiae,
+idest definitionem declarantem substantiam rei. Contingit enim quaedam esse idem numero, scilicet subiecti, sed
+diversa ratione, sicut Socrates et hoc album.
+
+

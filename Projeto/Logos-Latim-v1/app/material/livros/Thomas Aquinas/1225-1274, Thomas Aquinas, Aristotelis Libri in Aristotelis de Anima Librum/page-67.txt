@@ -1,0 +1,56 @@
+|#3 Sed quod fiat sonus in actu, hoc pertinet, et ad medium, et ad auditum. Omne enim sensibile dupliciter
+dicitur esse in actu.
+Uno modo, quando actu sentitur; hoc est dum species eius est in sensu; et sic sonus est actu, secundum quod est
+in auditu. Alio modo secundum quod habet propriam speciem, per quam sentiri potest, prout est in subiecto; et
+sic alia sensibilia fiunt in actu, prout sunt in corporibus sensibilibus, sicut color prout est in corpore colorato,
+odor et sapor prout sunt in corpore odorifero et saporoso. Sic autem non est de sono. Nam in corpore sonante non
+est sonus, nisi in potentia. In medio autem quod movetur ex percussione corporis sonantis, fit sonus in actu. Et
+propter hoc dicitur, quod sonus in actu est medii et auditus, non autem subiecti sonabilis.
+|#4 Deinde cum dicit fit autem ostendit quomodo sonus fiat in actu. Et circa hoc duo facit. Primo ostendit, quot
+concurrunt ad hoc, quod sonus constituatur in actu. Secundo ostendit, qualia esse oporteat, ibi, sicut autem
+diximus. Dicit ergo primo, quod ad hoc quod sonus fiat in actu, oportet tria concurrere. Fit enim semper alicuius,
+et ad aliquid, et in aliquo: et ideo si sit unum tantum, non potest sonum facere.
+Et huius ratio est, sive signum, quia percussio est causa soni: oportet igitur esse aliquid, id est percutiens, et
+aliquid percussum. Et propter hoc dicit, quod sonus est alicuius ad aliquid idest percutientis ad percussum.
+Oportet enim quod illud quod facit sonum, tangat aliquid; et cum tetigerit suo ictu, generetur tunc sonus. Ictus
+autem percutientis, non fit sine motu locali: motus autem localis non est sine medio. Unde relinquitur, quod
+oportet esse medium, et ad hoc quod fiat sonus in actu. Et hoc est, quod dictum est, quod oportet esse sonum non
+solum alicuius et ad aliquid, sed etiam in aliquo.
+|#5 Deinde cum dicit sicut autem ostendit qualia oportet esse ea quae requiruntur ad soni generationem. Et
+primo ostendit qualia oportet esse percutiens et percussum.
+Secundo quale oportet esse medium, ibi, amplius autem. Dicit ergo primo, quod sicut praedictum est, sonus non
+fit ex percussione quorumcumque corporum. Dictum est enim supra, quod pili, et spongiae, et huiusmodi mollia,
+non habent potentiam sonandi; unde nullum sonum faciunt, etiam si percutiantur. Cuius ratio est, quia mollia
+cedunt percutienti; unde ex percussione non extruditur aer, ut sic in eo possit formari sonus ex ictu percutientis et
+resistentia percussi. Sed si huiusmodi mollia comprimantur, ut aliquam duritiem habeant, et resistant percutienti,
+sequitur sonus, licet sonus surdus. Sed aes, et corpora lenia et concava, sua percussione faciunt sonum. Necesse
+est enim quod illa, ex quorum percussione sonus redditur, sint dura, ut aer extrudatur: quae quidem extrusio est
+causa generationis soni. Requiritur etiam quod sint lenia, ut sit aer unus, sicut infra dicetur.
+|#6 Concava autem etiam percussa, bene reddunt sonum, quia in eis intus aer concluditur. Et cum illud quod
+primo motum est, non possit statim exire, percutit alium aerem, et sic ex repercussione fiunt multi ictus et
+multiplicatur sonus. Et propter hoc etiam illa quae in sui compositione habent aerem bene dispositum, sunt bene
+sonora, sicut aes et argentum. In quorum autem compositione aer non bene se habet, non sunt bene sonora, sicut
+plumbum, et alia huiusmodi, quae sunt magis feculenta et terrestria.
+|#7 Deinde cum dicit amplius auditur ostendit quale sit medium, in quo generatur sonus: et dicit, quod medium,
+in quo sonus auditur, est aer et aqua, sed minus auditur in aqua quam in aere; unde propriissimum medium tam
+in generatione soni quam in auditu, est aer. Et quia medium, in quolibet sensu, qualitatibus sensibilibus
+secundum illum sensum caret, ut possit omnes recipere; manifestum est, quod neque aer neque aqua habent
+proprium sonum, sed necessarium est ad soni generationem, in aere vel aqua, quod aliqua corpora firma vel
+solida et dura percutiant seinvicem, et percutiant aerem.
+|#8 Quod autem simul fiat percussio solidorum adinvicem, et per consequens sonus et ad aera, contingit cum
+aer in sua integritate manet, ut possit percuti, et non dividitur ante percussionem. Et propter hoc videmus, quod si
+aliquid tardo motu tangat alterum, non facit sonum, quia prius recedit aer et dissolvitur, quam contactus
+solidorum corporum fiat. Sed si percussio sit velox et fortis, tunc fit sonus; quia ad hoc quod fiat sonus, oportet
+quod motus percutientis praeveniat divisionem aeris, ut aer adhuc adunatus sive collectus percuti possit, et in eo
+sonus generari. Et est simile, sicut cum aliquid velociter fertur, percutere potest acervum lapidum antequam
+dissolvatur, quod non contingit si tarde moveatur.
+Et propter hoc etiam, quando aliquid velociter fertur in ipso aere, facit sonum ex suo motu, quia ipse aer adhuc
+adunatus, se habet in ratione percussi, et non solum medii.
+|#9 Deinde cum dicit echo autem determinat de secunda generatione soni, quae fit per reverberationem; qui
+quidem sonus vocatur echo. Primo ergo determinat quomodo generetur. Secundo ostendit quomodo
+diversificetur in sui generatione, ibi, videtur autem. Considerandum est autem circa primum, quod generatio soni
+in aere consequitur motum aeris, ut dictum est.
+
+67
+
+

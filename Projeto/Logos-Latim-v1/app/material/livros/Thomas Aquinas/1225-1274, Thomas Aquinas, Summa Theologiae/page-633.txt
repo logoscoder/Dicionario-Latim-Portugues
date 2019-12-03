@@ -1,0 +1,62 @@
+Tertio, quia theologus considerat actus humanos secundum quod sunt meritorii vel demeritorii, quod convenit
+actibus humanis; ad quod requiritur quod sint voluntarii. Actus autem humanus iudicatur voluntarius vel
+involuntarius, secundum cognitionem vel ignorantiam circumstantiarum, ut dictum est.
+Et ideo consideratio circumstantiarum pertinet ad theologum.
+RA1
+Ad primum ergo dicendum quod bonum ordinatum ad finem dicitur utile, quod importat relationem quandam,
+unde Philosophus dicit, in I ethic., quod in ad aliquid bonum est utile.
+In his autem quae ad aliquid dicuntur, denominatur aliquid non solum ab eo quod inest, sed etiam ab eo quod
+extrinsecus adiacet, ut patet in dextro et sinistro, aequali et inaequali, et similibus. Et ideo, cum bonitas actuum
+sit inquantum sunt utiles ad finem, nihil prohibet eos bonos vel malos dici secundum proportionem ad aliqua
+quae exterius adiacent.
+RA2
+Ad secundum dicendum quod accidentia quae omnino per accidens se habent, relinquuntur ab omni arte, propter
+eorum incertitudinem et infinitatem. Sed talia accidentia non habent rationem circumstantiae, quia, ut dictum est,
+sic circumstantiae sunt extra actum, quod tamen actum aliquo modo contingunt, ordinatae ad ipsum. Accidentia
+autem per se cadunt sub arte.
+RA3
+Ad tertium dicendum quod consideratio circumstantiarum pertinet ad moralem, et politicum, et ad rhetorem. Ad
+moralem quidem, prout secundum eas invenitur vel praetermittitur medium virtutis in humanis actibus et
+passionibus. Ad politicum autem et rhetorem, secundum quod ex circumstantiis actus redduntur laudabiles vel
+vituperabiles, excusabiles vel accusabiles.
+Diversimode tamen, nam quod rhetor persuadet, politicus diiudicat.
+Ad theologum autem, cui omnes aliae artes deserviunt, pertinent omnibus modis praedictis, nam ipse habet
+considerationem de actibus virtuosis et vitiosis, cum morali; et considerat actus secundum quod merentur
+poenam vel praemium, cum rhetore et politico.
+|a3 Articulus 3
+AG1
+Ad tertium sic proceditur. Videtur quod inconvenienter circumstantiae numerentur in III ethic..
+Circumstantia enim actus dicitur quod exterius se habet ad actum. Huiusmodi autem sunt tempus et locus. Ergo
+solae duae sunt circumstantiae, scilicet quando et ubi.
+AG2
+Praeterea, ex circumstantiis accipitur quid bene vel male fiat.
+Sed hoc pertinet ad modum actus. Ergo omnes circumstantiae concluduntur sub una, quae est modus agendi.
+AG3
+Praeterea, circumstantiae non sunt de substantia actus.
+Sed ad substantiam actus pertinere videntur causae ipsius actus.
+Ergo nulla circumstantia debet sumi ex causa ipsius actus.
+Sic ergo neque quis, neque propter quid, neque circa quid, sunt circumstantiae, nam quis pertinet ad causam
+efficientem, propter quid ad finalem, circa quid ad materialem.
+SC
+Sed contra est auctoritas Philosophi in III ethicorum.
+CO
+Respondeo dicendum quod tullius, in sua rhetorica, assignat septem circumstantias, quae hoc versu continentur,
+quis, quid, ubi, quibus auxiliis, cur, quomodo, quando.
+Considerandum est enim in actibus quis fecit, quibus auxiliis vel instrumentis fecerit, quid fecerit, ubi fecerit, cur
+fecerit, quomodo fecerit, et quando fecerit.
+Sed Aristoteles, in III ethic., addit aliam, scilicet circa quid, quae a tullio comprehenditur sub quid.
+Et ratio huius annumerationis sic accipi potest. Nam circumstantia dicitur quod, extra substantiam actus existens,
+aliquo modo attingit ipsum. Contingit autem hoc fieri tripliciter, uno modo, inquantum attingit ipsum actum; alio
+modo, inquantum attingit causam actus; tertio modo, inquantum attingit effectum.
+Ipsum autem actum attingit, vel per modum mensurae, sicut tempus et locus; vel per modum qualitatis actus,
+sicut modus agendi. Ex parte autem effectus, ut cum consideratur quid aliquis fecerit. Ex parte vero causae actus,
+quantum ad causam finalem, accipitur propter quid; ex parte autem causae materialis, sive obiecti, accipitur circa
+quid; ex parte vero causae agentis principalis, accipitur quis egerit; ex parte vero causae agentis instrumentalis,
+accipitur quibus auxiliis.
+RA1
+Ad primum ergo dicendum quod tempus et locus circumstant actum per modum mensurae, sed alia circumstant
+actum inquantum attingunt ipsum quocumque alio modo, extra substantiam eius existentia.
+RA2
+633
+
+

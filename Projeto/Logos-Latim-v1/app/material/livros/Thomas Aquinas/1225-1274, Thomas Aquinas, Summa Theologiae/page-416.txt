@@ -1,0 +1,61 @@
+Ergo actus voluntatis non potest de necessitate esse.
+SC
+Sed contra est quod Augustinus dicit, in XIII de Trin., quod beatitudinem omnes una voluntate appetunt.
+Si autem non esset necessarium sed contingens, deficeret ad minus in paucioribus. Ergo voluntas ex necessitate
+aliquid vult.
+CO
+Respondeo dicendum quod necessitas dicitur multipliciter. Necesse est enim quod non potest non esse. Quod
+quidem convenit alicui, uno modo ex principio intrinseco, sive materiali, sicut cum dicimus quod omne
+compositum ex contrariis necesse est corrumpi; sive formali, sicut cum dicimus quod necesse est triangulum
+habere tres angulos aequales duobus rectis. Et haec est necessitas naturalis et absoluta. Alio modo convenit alicui
+quod non possit non esse, ex aliquo extrinseco, vel fine vel agente. Fine quidem, sicut cum aliquis non potest
+sine hoc consequi, aut bene consequi finem aliquem, ut cibus dicitur necessarius ad vitam, et equus ad iter. Et
+haec vocatur necessitas finis; quae interdum etiam utilitas dicitur. Ex agente autem hoc alicui convenit, sicut cum
+aliquis cogitur ab aliquo agente, ita quod non possit contrarium agere. Et haec vocatur necessitas coactionis.
+Haec igitur coactionis necessitas omnino repugnat voluntati.
+Nam hoc dicimus esse violentum, quod est contra inclinationem rei.
+Ipse autem motus voluntatis est inclinatio quaedam in aliquid.
+Et ideo sicut dicitur aliquid naturale quia est secundum inclinationem naturae, ita dicitur aliquid voluntarium
+quia est secundum inclinationem voluntatis. Sicut ergo impossibile est quod aliquid simul sit violentum et
+naturale; ita impossibile est quod aliquid simpliciter sit coactum sive violentum, et voluntarium.
+Necessitas autem finis non repugnat voluntati, quando ad finem non potest perveniri nisi uno modo, sicut ex
+voluntate transeundi mare, fit necessitas in voluntate ut velit navem. Similiter etiam nec necessitas naturalis
+repugnat voluntati. Quinimmo necesse est quod, sicut intellectus ex necessitate inhaeret primis principiis, ita
+voluntas ex necessitate inhaereat ultimo fini, qui est beatitudo, finis enim se habet in operativis sicut principium
+in speculativis, ut dicitur in II physic..
+Oportet enim quod illud quod naturaliter alicui convenit et immobiliter, sit fundamentum et principium omnium
+aliorum, quia natura rei est primum in unoquoque, et omnis motus procedit ab aliquo immobili.
+RA1
+Ad primum ergo dicendum quod verbum Augustini est intelligendum de necessario necessitate coactionis.
+Necessitas autem naturalis non aufert libertatem voluntatis, ut ipsemet in eodem libro dicit.
+RA2
+Ad secundum dicendum quod voluntas secundum quod aliquid naturaliter vult, magis respondet intellectui
+naturalium principiorum, quam rationi, quae ad opposita se habet. Unde secundum hoc, magis est intellectualis
+quam rationalis potestas.
+RA3
+Ad tertium dicendum quod sumus Domini nostrorum actuum secundum quod possumus hoc vel illud eligere.
+Electio autem non est de fine, sed de his quae sunt ad finem, ut dicitur in III ethic..
+Unde appetitus ultimi finis non est de his quorum Domini sumus.
+|a2 Articulus 2
+AG1
+Ad secundum sic proceditur. Videtur quod voluntas ex necessitate omnia velit quaecumque vult.
+Dicit enim dionysius, IV de div. Nom., quod malum est praeter voluntatem.
+Ex necessitate ergo voluntas tendit in bonum sibi propositum.
+AG2
+Praeterea, obiectum voluntatis comparatur ad ipsam sicut movens ad mobile. Sed motus mobilis necessario
+consequitur ex movente.
+Ergo videtur quod obiectum voluntatis ex necessitate moveat ipsam.
+AG3
+Praeterea, sicut apprehensum secundum sensum est obiectum appetitus sensitivi, ita apprehensum secundum
+intellectum est obiectum intellectivi appetitus, qui dicitur voluntas.
+Sed apprehensum secundum sensum ex necessitate movet appetitum sensitivum, dicit enim Augustinus, super
+Gen. Ad litt., quod animalia moventur visis. Ergo videtur quod apprehensum secundum intellectum ex
+necessitate moveat voluntatem.
+SC
+Sed contra est quod Augustinus dicit, quod voluntas est qua peccatur et recte vivitur, et sic se habet ad opposita.
+Non ergo ex necessitate vult quaecumque vult.
+CO
+
+416
+
+

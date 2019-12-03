@@ -1,0 +1,58 @@
+secundum quod totum universum corporeum est prius in consideratione quam partes eius; alio modo secundum
+quod simplicia corpora prius considerantur quam mixta; tertio secundum quod inter simplicia corpora prius
+necesse est de priori considerare, scilicet de caelesti corpore, per quod omnia alia firmantur. Et haec tria in hoc
+libro aguntur, qui apud Graecos intitulatur de caelo. Traduntur enim in hoc libro quaedam pertinentia ad totum
+universum, sicut patet in primo libro; quaedam pertinentia ad corpus caeleste, sicut patet in secundo; quaedam
+pertinentia ad alia simplicia corpora, sicut patet in tertio et quarto. Et ideo rationabiliter hic liber ordinatur
+primus post librum physicorum. Et propter hoc statim in principio huius libri agitur de corpore, cui necesse est
+applicari omnia quae tradita sunt de motu in libro physicorum.
+|#4 Quia igitur diversa in hoc libro traduntur, dubium fuit apud antiquos expositores Aristotelis de subiecto
+huius libri. Alexander enim opinatus est quod subiectum de quo principaliter in hoc libro agitur, sit ipsum
+universum. Unde, cum caelum tripliciter dicatur, quandoque ipsa ultima sphaera, quandoque totum corpus quod
+circulariter movetur, quandoque autem ipsum universum, asserit hunc librum intitulari de caelo, quasi de
+universo vel de mundo: in cuius assertionem assumit quod Philosophus in hoc libro determinat quaedam ad
+totum universum pertinentia, puta quod sit finitum, quod sit unum tantum, et alia huiusmodi.
+E contrario autem aliis videtur quod subiectum de quo principaliter in hoc libro intenditur, est corpus caeleste
+quod circulariter movetur; et propter hoc intitulatur de caelo. De aliis autem corporibus determinatur in hoc libro
+vel ex consequenti, inquantum continentur a caelo et eius influentiam recipiunt, sicut Iamblichus dixit; vel per
+accidens, inquantum aliorum corporum notitia assumitur ad manifestandum ea quae dicuntur de caelo, ut dixit
+syrianus. Sed hoc non videtur probabile: quia postquam Philosophus in secundo libro determinavit de caelo, in
+tertio et quarto subiungit considerationem de aliis simplicibus corporibus, quasi principaliter de eis intendens.
+Non enim consuevit Philosophus principalem partem alicuius scientiae assignare his quae per accidens
+assumuntur.
+Et ideo aliis visum est, sicut simplicius dixit, quod intentio Philosophi in hoc libro est determinare de simplicibus
+corporibus, inquantum conveniunt in communi intentione simplicis corporis: et quia inter simplicia corpora
+principalius est caelum, a quo alia dependent, ideo denominatur totus liber a caelo. Et, sicut dicit, non obstat
+quod in hoc libro determinantur quaedam quae pertinent ad totum universum: quia huiusmodi conditiones
+conveniunt universo inquantum conveniunt caelesti corpori, scilicet esse finitum et sempiternum, et alia
+huiusmodi. Si autem intentio principalis Philosophi esset determinare de universo, sive de mundo, oporteret
+quod Aristoteles considerationem suam extenderet ad omnes partes mundi, etiam usque ad plantas et animalia,
+sicut Plato in timaeo. Sed eadem ratione possumus arguere contra simplicium: quia si in hoc libro principaliter
+intenderet de corporibus simplicibus, oporteret quod omnia quae pertinent ad corpora simplicia in hoc libro
+traderentur; nunc autem in hoc libro traduntur solum ea quae pertinent ad levitatem et gravitatem ipsorum, alia
+vero traduntur in libro de generatione.
+|#5 Et ideo rationabilior videtur sententia Alexandri, quod subiectum huius libri sit ipsum universum, quod
+dicitur caelum vel mundus; et quod de simplicibus corporibus determinatur in hoc libro, secundum quod sunt
+partes universi.
+Constituitur autem universum corporeum ex suis partibus secundum ordinem situs: et ideo de illis solum partibus
+universi determinatur in hoc libro, quae primo et per se habent situm in universo, scilicet de corporibus
+simplicibus. Unde et de quatuor elementis non determinatur in hoc libro secundum quod sunt calida vel frigida,
+vel aliquid huiusmodi; sed solum secundum gravitatem et levitatem, ex quibus determinatur eis situs in universo.
+Aliis autem partibus universi, puta lapidibus, plantis et animalibus, non determinatur situs secundum se, sed
+secundum simplicia corpora: et ideo de his non erat in hoc libro agendum. Et hoc consonat ei quod consuevit
+apud Latinos dici, quod in hoc libro agitur de corpore mobili ad situm, sive secundum locum: qui quidem motus
+communis est omnibus partibus universi.
+|+1 Lectio 1
+|#1 Quia igitur in hoc libro primo incipit applicare Aristoteles ad corpora, ea quae communiter dicta sunt de
+motu in libro physicorum, ideo primo prooemialiter ostendit quod ad scientiam naturalem pertinet determinare
+de corporibus et magnitudinibus; secundo incipit prosequi suum propositum, ibi: continuum quidem etc.. Circa
+primum ponit talem rationem. Res naturales sunt corpora et magnitudines, et quae ad haec pertinent: sed scientia
+naturalis est de rebus naturalibus: ergo scientia naturalis consistit circa corpora et magnitudines.
+|#2 Primo ergo ponit conclusionem, dicens quod scientia quae est de natura, fere plurima, idest in maiori parte,
+videtur esse existens circa corpora et magnitudines, idest lineas et superficies.
+De quibus tamen aliter considerat naturalis quam geometra. Naturalis quidem considerat de corporibus
+inquantum sunt mobilia, de superficiebus autem et lineis inquantum sunt termini corporum mobilium: geometra
+autem considerat de eis prout sunt quaedam quanta mensurabilia. Et quia ad scientiam pertinet non solum
+2
+
+

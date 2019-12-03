@@ -1,0 +1,55 @@
+Sed non potest esse quod magnitudines cognoscantur ab anima per contactum intelligentiae, quia sic non posset
+anima intelligere nisi magnitudines existentes: nunc autem videmus quod intelligit magnitudines quae non sunt.
+Nihil enim prohibet animam intelligere quantitatem duplam quantitatis caeli.
+Non ergo cognoscit anima magnitudinem ei se coextendendo, sed per hoc, quod quidam motus a re sensibili
+resolutus in anima, est proportionalis magnitudini exteriori. Sunt enim in anima quaedam formae et motus
+similes rebus, per quas res cognoscit.
+|#4 Deinde cum dicit quo enim determinat quamdam quaestionem circa praemissa.
+Et circa hoc tria facit. Primo proponit quaestionem.
+Secundo solvit, ibi, aut quia. Tertio solutionem exemplificat in literis, ibi, sicut igitur.
+Quaerit ergo primo, cum anima per similitudinem magnitudinis quam habet magnitudinem cognoscat, in quo
+differt illud quo cognoscit maiorem et minorem magnitudinem? videtur enim non habere differentem
+similitudinem, eo quod non differunt specie.
+|#5 Deinde cum dicit an quia solvit quaestionem. Et dicit quod anima vel per similem figuram sive formam
+intelligit minora, idest minorem quantitatem, sicut et per formam similem cognoscit maiorem magnitudinem.
+Formae enim et motus interiores proportionaliter correspondent magnitudinibus exterioribus, et forte ita est de
+magnitudinibus sive distantiis locorum et temporum, sicut de speciebus rerum. Unde, sicut in ipso cognoscente
+sunt diversae similitudines et motus proportionaliter respondentes diversis speciebus rerum, puta equo et bovi,
+ita etiam et diversis quantitatibus.
+|#6 Deinde cum dicit sic igitur manifestat huiusmodi diversam proportionem per exemplum in literis. Ad cuius
+evidentiam considerandum est quod quia supra dixit in intelligentia esse similes figuras et motus proportionales
+rebus, utitur hic gratia exempli similitudine figurarum, sicut geometrae utuntur: apud quod figurae similes
+dicuntur, quarum latera sunt proportionabilia et anguli aequales, ut patet in sexto euclidis: (figura)p
+|#7 Describatur ergo triangulus bae, cuius basis sit be. Deinde a puncto g signato in latere ba ducatur linea
+aeque distans a basi usque ad aliud latus, quae sit gd; et similiter in triangulo gad, producatur linea aeque distans
+a basi. Est autem demonstratum in primo euclidis, quod linea recta cadens super duas aeque distantes, facit
+angulos oppositos aequales. Angulus ergo agd est aequalis angulo aeb, et angulus adg est aequalis angulo aeb:
+angulus autem a est communis: ergo tres anguli trianguli agd, sunt aequales angulis trianguli bae: ergo lineae,
+quae subtenduntur aequalibus angulis, sunt proportionales, secundum quartam proportionem sexti euclidis; ergo
+proportio quae est ab ab ad ag, eadem est proportio be ad gd; ergo permutatim, quae est proportio ab ad be
+eadem est proportio ag ad gd: et sic duo trianguli praedicti sunt figurae similes. Per lineam vero ab et partes eius,
+intelliguntur motus animae, quibus anima cognoscit. Per lineas autem be, gd et zi, quae sunt bases triangulorum,
+intelliguntur diversae quantitates, magnitudine et parvitate differentes.
+|#8 Concludit ergo exemplificando quod, si anima secundum motum ab, movetur ad cognoscendum quantitatem
+be, faciet etiam iste motus secundum aliquid sui cognosci quantitatem gd; quia motus ag qui continetur in ab, et
+magnitudo gd in eadem proportione se habent, in qua motus ab et magnitudo be.
+|#9 Sed tunc redibit quaestio, quae supra mota est: cum plus requiratur ad cognoscendum quantitatem gd, quae
+est maior, quam ad cognoscendum quantitatem zi quae est minor.
+|#10 Et ut hoc expressius videri possit, accipit motus ut distinctos quorum unus non contineatur in altero. Sit
+ergo una linea km, et dividatur in puncto t tali ratione, ut eadem sit proportio kt ad tm, quae est lineae ag,
+secundum quam cognoscitur quantitas gd, ad lineam ab, secundum quam cognoscitur be. Sic ergo simul
+(figura)p movetur secundum hos motus: quia sicut secundum motum ag cognoscitur quantitas gd, ita secundum
+motum kt. Et sicut secundum motum ab cognoscitur quantitas be, ita secundum motum tm. Si vero aliquis velit
+secundum motum az, cognoscere quantitatem zi, oportebit quod subtrahatur ab ag hoc quod est gz; sicut ei
+addebatur gb ad cognoscendum quantitatem be. Sed, si volumus accipere motus distinctos, oportebit accipere
+loco duorum motuum kt et tm, loco cuius ponit te, ita quod est g et m.
+Inscribantur eidem puncto alii duo motus: quorum unus sit kl et alius lm, ita quod linea km dividatur in puncto L,
+et ob hanc rationem, ut sit proportio kl ad lm sicut proportio az ad ab. Unde sicut per motum lm cognoscet
+quantitatem be, ita per motum kl cognoscet zi. Quod quidem sic demonstratur.
+|#11 Deinde cum dicit cum igitur manifestat principale propositum.
+Et primo ostendit quod reminiscentem oportet cognoscere tempus. Secundo manifestat duplicem modum
+cognoscendi tempus, ibi, qui vero est temporis.
+
+14
+
+

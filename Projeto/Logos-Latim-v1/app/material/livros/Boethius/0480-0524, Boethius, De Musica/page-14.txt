@@ -1,0 +1,60 @@
+LIBER SECUNDUS
+primum
+Prooemium
+[1195] Superius uolumen cunctas digessit, quae nunc diligentius explicanda esse proposui; itaque priusquam
+ad ea ueniam quae propriis rationibus perdocenda, sunt, pauca praemittam, quibus elucubratior animus auditoris ad ea
+quae dicenda sunt accipienda perueniat.
+II
+Quid Pythagoras esse philosophiam constituerit.
+Primus omnium Pythagoras sapientiae studium philosophiam nuncupauit, quam scilicet eius rei notitiam ac
+disciplinam ponebat, quae proprie uereque esse diceretur. Esse autem illa putabat quae nec intentione crescerent, nec
+diminutione decrescerent, [1196] nec ullis accidentibus mutarentur. Haec autem esse formas, magnitudines, qualitates,
+habitudines, caeteraque quae per se speculata immutabilia sunt, iuncta uero corporibus permutantur, et multimodis
+uariationibus mutabilis rei cognatione uertuntur.
+III
+De differentiis quantitatis, et quae cui disciplinae sit deputata.
+Omnis uero quantitas secundum Pythagoram uel continua, uel discreta est. Sed quae continua est magnitudo
+appellatur, quae discreta est multitudo. Quorum haec est diuersa et contraria pene proprietas.
+Multitudo enim a finita inchoans quantitate, crescens in infinita progreditur, ut nullus crescendi finis occurrat.
+Estque ad minimum terminata, interminabilis [1197] ad maius, eiusque principium unitas est, qua minus nihil est.
+Crescit uero per numeros atque in infinita protenditur, nec ullus numerus, quo minus crescat, terminum facit. Sed
+magnitudo finitam rursus suae mensurae recipit quantitatem sed in infinita decrescit. Nam si sit pedalis linea, uel
+cuiuslibet alterius modi, potest in duo aequa diuidi, eiusque medietas in medietatem secari, eiusque rursus medietatis in
+aliam medietatem, ut nunquam ullus secandi magnitudinem terminus fiat. Ita magnitudo quantum ad maiorem modum
+terminata est, fit uero cum decrescere coeperit infinita. At contra numerus, quantum ad minorem modum finitus est,
+infinitus autem incipit esse cum crescit. Cum igitur haec ita sint infinita, tamen quasi de rebus finitis philosophia
+pertractat, inque rebus infinitis reperit aliquid terminatum, de quo possit iure acumen prpriae speculationis adhibere.
+Namque magnitudinis alia sunt immobilia, ut terra, ut quadratum, uel triangulum, uel circulus. Alia sunt mobilia, ut
+sphaera mundi, et quidquid in eo rata celeritate conuertitur. Discretae uero quantitatis alia sunt per se, ut tres uel
+quatuor, uel caeteri numeri; alia uero ad aliud, ut duplum, triplum, aliaque quae ex comparatione nascuntur. Sed
+immobilis magnitudinis geometria speculationem tenet. Mobilis uero scientiam astronomia persequitur. Per se uero
+discretae quantitatis arithmetica auctor est.
+Ad aliquid uero relatae musica probatur obtinere peritiam.
+IV
+De relatae quantitatis differentiis.
+Ac de ea quidem quantitate discreta quae per se est in arithmetica sufficienter diximus. Relatae uero ad aliquid
+quantitatis simplicia quidem genera tria sunt: unum quidem multiplex, aliud uero superparticulare, tertium
+superpartiens. Cum uero multiplex superparticulari superpartientique miscetur, fiunt duae aliae ex his, id est multiplex
+superparticularis, et multiplex superpartiens. Horum igitur omnium talis est regula, si unitatem cunctis in naturali
+numero uolueris compare, ratus multiplicis ordo texetur. Duo enim ad unum duplus est, tres ad eumdem triplus, quatuor
+quadruplus, et in caeteris eodem modo, ut subiecta descriptio docet.
+[PLLXIII:1197; text: Differentiae unius ab alio numero. Ordo naturalis. 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, duplus,
+Triplus, quadruplus, Quitiplus, Sextuplus, Septuplus, Octuplus, Noncuplus, Decuplus] [BOEDIM2 01GF]
+Si uero superparticularem proportionem quaeras, naturalem [1198] sibi compara numerum, detracta scilicet
+unitate, ut tres duobus sesquialter est, quatuor tribus, qui sesquitertius est, quinarius quaternario sesquiquartus est, et in
+caeteris eodem modo, quod monstrat subiecta descriptio.
+[PLLXIII:1198,1; text: Sesquialter, Sesquiquartus, Sesquisextus, 2, 3, 4, 5, 6, 7, Sesquitertius, Sesquiquintus]
+[BOEDIM2 01GF]
+Superpartienties autem tali modo reperies. Disponas naturalem numerum a ternario scilicet inchoantem. Si
+unum igitur intermiseris, superbipartientem effici pernotabis; quod si duo, supertripartientem; quod si tres,
+superquadripartientem, idemque in caeteris.
+[PLLXIII:1198,2; text: Superbipartiens, Superquadriparties, 3, 4, 5, 6, 7, 8, 9, Supertripartions] [BOEDIM2
+01GF]
+Ad hunc ordinem spectans et compositas ex multiplici et superparticulari, et ex multiplici et superpartienti
+proportiones, lector diligens speculabitur. Sed de his tamen omnibus in arithmeticis expeditius dictum est.
+V
+Cur multiplicitas antecellat.
+Sed in his illud est considerandum quod multiplex inaequalitatis genus longe duobus reliquis uidetur antiquius.
+Naturalis enim numeri dispositio, in multiplicibus unitati quae prima est, comparatur.
+
+

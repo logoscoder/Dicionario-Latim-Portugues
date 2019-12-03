@@ -1,0 +1,58 @@
+hoc caelum singulariter dictum, et caelum universaliter sumptum: ita scilicet quod hoc caelum universaliter
+sumptum sit sicut species et forma; hoc autem, scilicet caelum singulariter sumptum, sit sicut forma coniuncta
+materiae. Quod non est sic intelligendum quod in ratione rei naturalis universaliter sumptae nullo modo cadat
+materia; sed quod non cadat ibi materia signata.
+|#7 Deinde cum dicit: quorum autem est forma quaedam etc., ponit secundum syllogismum, qui talis est.
+Quorumcumque est forma in materia, aut sunt aut contingit esse plura individua unius speciei; sed hoc caelum
+significat formam in materia, ut dictum est; ergo aut sunt aut possunt esse plures caeli. Circa hoc autem primo
+ponit maiorem; secundo manifestat eam, ibi: sive enim sint species etc.; tertio infert conclusionem, ibi: itaque aut
+sunt etc.. Minorem supponit ex praemisso syllogismo.
+Dicit ergo primo quod omnia illa quorum est forma quaedam et species, idest quae non sunt ipsae formae et
+species, sed habent formas et species, aut sunt plura singularia unius speciei, aut contingit fieri plura: illa vero
+quae ipsamet sunt formae et species subsistentes, sicut substantiae separatae, non possunt esse plura unius
+speciei.
+|#8
+Deinde cum dicit: sive enim sint species etc., manifestat praedictam propositionem tam secundum
+opinionem Platonicam, quam secundum opinionem propriam. Et dicit quod sive sint species, idest ideae
+separatae, sicut Platonici dicunt, necesse est hoc accidere, scilicet quod sint plura individua unius speciei (quia
+species separata ponitur sicut exemplar rei sensibilis; possibile est autem ad unum exemplar fieri multa
+exemplata); sive etiam nullum talium, idest nulla specierum, separatim existat; nihilominus plura individua
+possunt esse unius speciei. Videmus enim in omnibus sic accidere, quorum substantia, idest essentia quam
+significat definitio, est in materia signata, quod sunt plura, immo infinita individua unius speciei. Et hoc ideo est,
+quia cum materia signata non sit de ratione speciei, ratio speciei indifferenter potest salvari in hac materia
+signata et in illa: et ita possunt esse plura individua unius speciei.
+|#9 Deinde cum dicit: itaque aut sunt etc., infert conclusionem intentam, scilicet quod aut sunt plures caeli, aut
+contingit esse factos plures caelos. Ultimo autem epilogat quod ex praemissis potest aliquis suspicari quod vel
+sint vel possint esse plures mundi.
+|#10 Sed videtur hic esse contrarietas inter Aristotelem et Platonem. Nam Plato in timaeo ex unitate exemplaris
+probavit unitatem mundi: hic autem Aristoteles ex unitate speciei separatae concludit possibile esse quod sint
+plures mundi.
+Et potest dupliciter responderi. Uno modo ex parte ipsius exemplaris. Quod quidem si sic sit unum quod unitas
+sit essentia eius, necesse est exemplatum etiam imitari exemplar in sua unitate.
+Et tale est primum exemplar separatum: unde et mundum, qui est primum exemplatum, necesse est esse unum: et
+secundum hoc procedit probatio Platonis. Si vero unitas non sit essentia exemplaris, sed sit praeter essentiam
+eius, sic exemplatum poterit assimilari exemplari in eo quod pertinet ad eius speciem, puta in ratione hominis vel
+equi, non autem quantum ad ipsam unitatem: et hoc modo procedit hic ratio Aristotelis. Alio modo potest solvi
+ex parte exemplati, quod tanto est perfectius, quanto magis assimilatur exemplari. Alia ergo exemplata
+assimilantur exemplari uni secundum unitatem speciei, non secundum unitatem numeralem: sed caelum, quod
+est perfectum exemplatum, assimilatur suo exemplari secundum unitatem numeralem.
+|#11 Deinde cum dicit: considerandum autem iterum etc., solvit obiectionem praedictam. Et primo ponit
+solutionem; secundo manifestat eam, ibi: sic autem forte etc.. Dicit ergo primo quod oportet iterum, ad
+solvendum dubitationem praedictam, considerare quid dicatur bene et quid non bene: si enim omnia praemissa
+sint vera, necesse est conclusionem esse veram. Dicit igitur quod bene dictum est quod altera sit ratio formae, ea
+scilicet quae est sine materia, et ea quae est cum materia, et hoc concedatur tanquam verum; et sic concedatur
+conclusio primi syllogismi, quae est minor secundi. Sed non sequitur ex necessitate propter hoc quod sint multi
+mundi, vel quod possint esse plures, si verum sit quod iste mundus sit ex tota sua materia, sicuti est verum, ut
+infra probabitur: maior enim propositio secundi syllogismi, scilicet quod illa quae habent formam in materia
+possunt esse multa numero unius speciei, non habet veritatem nisi in illis quae non constant ex tota sua materia.
+|#12 Deinde cum dicit: sic autem forte etc., manifestat quod dixerat per exemplum. Et primo ponit exempla;
+secundo adaptat ad propositum, ibi: caelum autem est quidem singularium etc..
+Dicit ergo primo quod per ea quae dicentur, magis fiet manifestum quod dictum est. Simitas enim est curvitas in
+naso aut in carne; et ita caro est materia simitatis. Si ergo ex omnibus carnibus fieret una caro, scilicet unius nasi,
+et in hac esset simitas, nihil aliud esset simum, neque posset esse. Et eadem ratio est de homine, cum carnes et
+ossa sint materia hominis, si ex omnibus carnibus et ossibus fieret unus homo, ita scilicet quod nullo modo
+possent dissolvi, non posset esse aliquis alius homo quam unus (si vero possent dissolvi, possibile esset, illo
+homine corrupto, alium hominem esse; sicut dissoluta arca, ex eisdem lignis fit alia arca)p et ita etiam est in aliis.
+43
+
+

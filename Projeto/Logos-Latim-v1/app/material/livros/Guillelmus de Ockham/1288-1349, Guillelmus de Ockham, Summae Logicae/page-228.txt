@@ -1,0 +1,57 @@
+Alia regula est quod nullum syncategorema, nisi forte signum uniuersale uel particulare additum super
+subiecto, addatur uel auferatur in minore uel conclusione praeter illa quae sunt in maiore. Et si aliquod tale
+syncategorema ponator in maiore, si in illa sit determinatio praedicati, oportet quod in alia propositione, in qua
+debet poni, sit determinatio praedicati. Si autem sit in illa determinatio compositionis, debet etiam in alia esse
+determinatio compositionis, quia aliter non regulabitur per dici de omni uel de nullo. Et ideo tales syllogismi non
+ualent 'omnis homo est tantum animal; Sortes est homo; igitur Sortes est tantum animal'. Et multi tales deficiunt
+propter aliquem defectum tactorum.
+[3-1.06 DE SUFFICIENTIA MODORUM PRIMAE FIGURAE]
+[3-1.06 DE SUFFICIENTIA MODORUM PRIMAE FIGURAE]
+Sciendum est etiam circa syllogismos regulatos per dici de omni uel de nullo quod, cum quatuor sint
+modi, quorum primus est ex duabus uniuersalibus affirmatiuis inferentibus uniuersalem affirmatiuam per dici de
+omni, secundus est ex maiori uniuersali negatiua et minori uniuersali affirmatiua inferentibus uniuersalem
+negatiuam per dici de nullo, tertius est ex maiori uniuersali affirmatiua et minori particulari affirmatiua
+inferentibus particolarem affirmatiuam, quartus est ex maiori uniuersali negatiua et minori particulari affirmatiua
+inferentibus particularem negatiuam, istae conclusiones praenominatae sunt primo sequentes ex praemissis,
+mediate tamen et secundario sequuntur aliae conclusiones.
+Sciendum est etiam circa syllogismos regulatos per dici de omni uel de nullo quod, cum quatuor sint
+modi, quorum primus est ex duabus uniuersalibus affirmatiuis inferentibus uniuersalem affirmatiuam per dici de
+omni, secundus est ex maiori uniuersali negatiua et minori uniuersali affirmatiua inferentibus uniuersalem
+negatiuam per dici de nullo, tertius est ex maiori uniuersali affirmatiua et minori particulari affirmatiua
+inferentibus particolarem affirmatiuam, quartus est ex maiori uniuersali negatiua et minori particulari affirmatiua
+inferentibus particularem negatiuam, istae conclusiones praenominatae sunt primo sequentes ex praemissis,
+mediate tamen et secundario sequuntur aliae conclusiones.
+Nam in primo modo, praeter uniuersalem conclusionem sequentem, sequitur conclusio particularis et
+etiam conuersa primae conclusionis uniuersalis. Et ita tres conclusiones sequuntur in primo modo; et ultima
+conclusio potest sequi in illo modo qui dicitur Baralipton.
+Nam in primo modo, praeter uniuersalem conclusionem sequentem, sequitur conclusio particularis et
+etiam conuersa primae conclusionis uniuersalis. Et ita tres conclusiones sequuntur in primo modo; et ultima
+conclusio potest sequi in illo modo qui dicitur Baralipton.
+Ex praemissis autem dispositis in secundo modo sequuntur quatuor conclusiones: prima, uniuersalis
+negatiua, in qua negatur maior extremitas de minori; secunda, conuersa illius uniuersalis, et tunc habetur ille
+modus qui dicitur Celantes; tertia est particularis subalterna primae uniuersalis; quarta est particularis negatiua
+de terminis transpositis, quae est subalterna secundae conclusionis uniuersalis.
+Ex praemissis autem dispositis in secundo modo sequuntur quatuor conclusiones: prima, uniuersalis
+negatiua, in qua negatur maior extremitas de minori; secunda, conuersa illius uniuersalis, et tunc habetur ille
+modus qui dicitur Celantes; tertia est particularis subalterna primae uniuersalis; quarta est particularis negatiua
+de terminis transpositis, quae est subalterna secundae conclusionis uniuersalis.
+Ex praemissis dispositis in tertio modo sequuntur duae conclusiones, scilicet particularis directa et
+secundario conuersa illius; et tunc habetur ille modus qui dicitur Dabitis.
+Ex praemissis dispositis in tertio modo sequuntur duae conclusiones, scilicet particularis directa et
+secundario conuersa illius; et tunc habetur ille modus qui dicitur Dabitis.
+Ex praemissis dispositis in quarto modo non sequitur nisi una conclusio, et hoc quia conclusio
+particularis negatiua non conuertitur. Sed illa eadem conclusio particularis negatiua sequitur ex uniuersali
+affirmatiua de terminis transpositis ipsius minoris et uniuersali negatiua conuersa maioris, ipsis propositionibus
+transpositis, concludentibus conclusionem indirectam; et similiter ex conuersa minoris et conuersa maioris,
+transpositis praemissis et indirecte concludentibus. Et tunc habentur illi duo modi Fapesmo et Frisesomorum.
+Ex praemissis dispositis in quarto modo non sequitur nisi una conclusio, et hoc quia conclusio
+particularis negatiua non conuertitur. Sed illa eadem conclusio particularis negatiua sequitur ex uniuersali
+affirmatiua de terminis transpositis ipsius minoris et uniuersali negatiua conuersa maioris, ipsis propositionibus
+transpositis, concludentibus conclusionem indirectam; et similiter ex conuersa minoris et conuersa maioris,
+transpositis praemissis et indirecte concludentibus. Et tunc habentur illi duo modi Fapesmo et Frisesomorum.
+0mnia autem praedicta probantur per istas duas regulas quae semper uerae sunt 'quidquid sequitur ad
+consequens, sequitur ad antecedens'; 'quidquid sequitur ad consequens cum addita propositione, sequitur ad
+antecedens cum eadem propositione'.
+228
+
+

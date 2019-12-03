@@ -1,0 +1,58 @@
+significantem quod quid est, et nihil relinquat eorum quae requiruntur ad definiendum. Et si haec duo faciat,
+scilicet quod omnia, quae accipit per divisionem, praedicentur in eo quod quid, et omnia huiusmodi cadant in
+divisione, ita quod nihil desit, necessarium est quod id quod est inventum sit quod quid est. Et huiusmodi
+necessitatis ratio est quia, acceptis omnibus quae praedicantur in eo quod quid, nullo derelicto, iam id quod
+inventum est, oportet esse quoddam individuum, idest individuam rationem talis rei; ita scilicet quod non
+indigeat ulteriori divisione ad hoc quod approprietur huic rei.
+|#8 Deinde cum dicit: sed syllogismus tamen non inest etc., excludit praedictam solutionem: et dicit quod
+quamvis necesse sit, praedictis existentibus, aliquid individuum fieri, sicut expositum est, tamen praedicta via
+non est syllogistica; quamvis cognoscere faciat quod quid est per alium modum.
+Et hoc non est inconveniens, scilicet quod aliquid alio modo manifestetur quam per syllogismum.
+Ille enim qui utitur inductione, non probat syllogistice, sed tamen aliquid manifestat. Quod autem ille qui per
+divisionem ad definitionem pervenit, non faciat syllogismum, ostendit per quoddam simile. Si enim inducatur
+conclusio ex maiori propositione, subtracta media, et concludens dicat quod hoc necesse est sequi ex praemissis,
+poterit interrogare respondens, propter quid sit necessarium: quod non accidit in syllogistica probatione.
+Unde talis modus argumentandi non est syllogisticus.
+Ita etiam in terminis divisivis non fit syllogismus, quia semper restat interrogatio propter quid. Puta si aliquis
+volens notificare quid est homo, accipiat per viam divisionis quod homo est animal mortale bipes, vel habens
+pedes, sine pennis; ad quamlibet appositionem praedictorum poterit convenienter quaeri propter quid sit necesse.
+Ille enim qui ad manifestandum quod quid est conatur, non solum dicet, sed etiam probabit per divisionem,
+secundum quod ipse opinatur, quod omne quod est sit mortale aut immortale.
+Et quamvis detur quod per hanc divisionem possit demonstrare propositum, tamen non est necesse quod ratio sic
+conclusa sit definitio; quia forte ea ex quibus constat ratio talis, non praedicantur in eo quod quid est, vel
+excedunt substantiam definiti.
+Sed etsi contingat quod talis ratio sit definitio, non tamen per syllogismum probatur quod definitio sit, ut ex
+supra dictis patet.
+|+5 Lectio 5
+|#1 Postquam Philosophus ostendit quod non potest demonstrari quod quid est, nec per convertibiles terminos,
+nec per viam divisionis, hic ostendit ulterius quod non potest quod quid est demonstrari, accipiendo id quod
+requiritur ad quod quid est.
+Et circa hoc duo facit: primo, ostendit propositum; secundo, concludit ex omnibus praemissis quod nullo modo
+quod quid est demonstrari possit; ibi: qualiter igitur definiens etc.. Circa primum duo facit: primo, inducit
+rationes proprias ad propositum; secundo, inducit quamdam rationem communem ad id quod nunc dicitur, et ad
+id quod supra dictum est; ibi: ad utrosque autem etc..
+Circa primum duo facit: primo, ostendit quod non potest demonstrari quod quid est per hoc quod accipiatur id
+quod pertinet ad rationem eius quod quid est; secundo, ostendit quod non potest demonstrari quod quid est huius
+rei, ex hoc quod accipitur quod quid est alterius rei; ibi: ex suppositione autem etc.. Circa primum duo facit:
+primo, movet quaestionem; secundo, argumentatur ad propositum; ibi: aut iterum accipit etc..
+|#2 Quaerit ergo primo, utrum contingat demonstrare quid sit aliquid secundum suam substantiam, ex tali
+suppositione, per quam accipiatur quod quid erat esse alicuius rei, ex illis conditionibus quae sunt propriae ei
+quod quid est. Puta si aliquis probet quod animal gressibile bipes sit quod quid est hominis, accipiens pro medio
+quod haec ratio convertitur cum homine, et constat ex genere et differentia. Haec autem sola requiruntur ad hoc
+quod quid est, et totum hoc quod dictum est, est proprium ei quod quid est, quia est esse illi, scilicet ei quod est
+quod quid est: quasi dicat quod hoc quod est esse rationem convertibilem, ex genere et differentiis constantem,
+est omnino idem ei quod quid est.
+|#3 Deinde cum dicit: an iterum accepit etc., obiicit ad praedictam quaestionem duabus rationibus, ostendens
+quod non potest quod quid est praedicto modo demonstrari. Quarum prima est, quia sicut praemissi modi
+demonstrandi deficiunt in hoc quod accipiunt id quod quaeritur, ita est in proposito. Accipitur enim et in hoc
+modo probationis quod quid erat esse; puta dum accipitur quod omnis ratio convertibilis, constans ex genere et
+differentiis, significat quod quid est: et ita inconveniens est probatio. Necesse est enim id ad quod demonstratio
+inducitur, non supponere quasi medium; sed potius per aliud medium demonstrare.
+|#4
+Secundam rationem ponit ibi: amplius sicut neque in syllogismo etc.; quae sumitur ex similitudine
+syllogismi. Cum enim aliquis syllogizat, non oportet quod accipiat definitionem syllogismi ad syllogizandum;
+quia ea ex quibus procedit syllogismus, hoc modo se habent, quod semper quodlibet eorum est aut tota
+propositio, idest universalis seu maior, aut est pars, idest particularis seu minor, quae sumitur sub maiori. Et ita
+85
+
+

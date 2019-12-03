@@ -1,0 +1,61 @@
+Ergo nullae earum debent dici principales.
+AG2
+Praeterea, finis principalior est his quae sunt ad finem. Sed virtutes theologicae sunt circa finem, virtutes autem
+morales circa ea quae sunt ad finem. Ergo virtutes morales non debent dici principales, seu cardinales; sed magis
+theologicae.
+AG3
+Praeterea, principalius est quod est per essentiam, quam quod est per participationem. Sed virtutes intellectuales
+pertinent ad rationale per essentiam, virtutes autem morales ad rationale per participationem, ut supra dictum est.
+Ergo virtutes morales non sunt principales, sed magis virtutes intellectuales.
+SC
+Sed contra est quod Ambrosius dicit, super Lucam, exponens illud, beati pauperes spiritu, scimus virtutes esse
+quatuor cardinales, scilicet temperantiam, iustitiam, prudentiam, fortitudinem.
+Hae autem sunt virtutes morales.
+Ergo virtutes morales sunt cardinales.
+CO
+Respondeo dicendum quod, cum simpliciter de virtute loquimur, intelligimur loqui de virtute humana. Virtus
+autem humana, ut supra dictum est, secundum perfectam rationem virtutis dicitur, quae requirit rectitudinem
+appetitus, huiusmodi enim virtus non solum facit facultatem bene agendi, sed ipsum etiam usum boni operis
+causat. Sed secundum imperfectam rationem virtutis dicitur virtus quae non requirit rectitudinem appetitus, quia
+solum facit facultatem bene agendi, non autem causat boni operis usum.
+Constat autem quod perfectum est principalius imperfecto.
+Et ideo virtutes quae continent rectitudinem appetitus, dicuntur principales. Huiusmodi autem sunt virtutes
+morales; et inter intellectuales, sola prudentia, quae etiam quodammodo moralis est, secundum materiam, ut ex
+supradictis patet, unde convenienter inter virtutes morales ponuntur illae quae dicuntur principales, seu
+cardinales.
+RA1
+Ad primum ergo dicendum quod, quando genus univocum dividitur in suas species, tunc partes divisionis ex
+aequo se habent secundum rationem generis; licet secundum naturam rei, una species sit principalior et perfectior
+alia, sicut homo aliis animalibus. Sed quando est divisio alicuius analogi, quod dicitur de pluribus secundum
+prius et posterius; tunc nihil prohibet unum esse principalius altero, etiam secundum communem rationem; sicut
+substantia principalius dicitur ens quam accidens. Et talis est divisio virtutum in diversa genera virtutum, eo
+quod bonum rationis non secundum eundem ordinem invenitur in omnibus.
+RA2
+Ad secundum dicendum quod virtutes theologicae sunt supra hominem, ut supra dictum est.
+Unde non proprie dicuntur virtutes humanae, sed superhumanae, vel divinae.
+RA3
+Ad tertium dicendum, quod aliae virtutes intellectuales a prudentia, etsi sint principaliores quam morales
+quantum ad subiectum; non tamen sunt principaliores quantum ad rationem virtutis, quae respicit bonum, quod
+est obiectum appetitus.
+|a2 Articulus 2
+AG1
+Ad secundum sic proceditur. Videtur quod non sint quatuor virtutes cardinales. Prudentia enim est directiva
+aliarum virtutum Moralium, ut ex supradictis patet.
+Sed id quod est directivum aliorum, principalius est.
+Ergo prudentia sola est virtus principalis.
+AG2
+Praeterea, virtutes principales sunt aliquo modo morales.
+Sed ad operationes morales ordinamur per rationem practicam, et appetitum rectum, ut dicitur in VI ethic..
+Ergo solae duae virtutes cardinales sunt.
+AG3
+Praeterea, inter alias etiam virtutes una est principalior altera.
+Sed ad hoc quod virtus dicatur principalis, non requiritur quod sit principalis respectu omnium, sed respectu
+quarundam.
+Ergo videtur quod sint multo plures principales virtutes.
+SC
+Sed contra est quod Gregorius dicit, in II Moral., in quatuor virtutibus tota boni operis structura consurgit.
+CO
+
+863
+
+

@@ -1,0 +1,61 @@
+Et per hoc patet solutio ad obiecta.
+|a4 Articulus 4
+TTA
+Utrum monachus peccet mortaliter comedendo carnes.
+TTB
+Circa quartum sic proceditur: videtur quod monachus peccet mortaliter comedendo carnes.
+AG1
+Dicit enim canon de consecratione, dist. 5, cap. Carnem, quod monachi non debent comedere carnes; et, si contra
+fecerint, debent incarcerari. Sed talis poena non infligitur nisi pro peccato mortali. Ergo monachi comedentes
+carnes peccant mortaliter.
+AG2
+Praeterea, facere contra votum est peccatum mortale. Sed monachi ex voto obligantur ad servandam regulam
+beati benedicti, in qua continetur quod monachi a carnibus abstineant. Ergo monachi peccant mortaliter
+comedendo carnes.
+SC
+Sed contra, nullum peccatum mortale conceditur alicui ratione cuiuscumque infirmitatis.
+Sed comedere carnes conceditur monacho ratione infirmitatis. Ergo comedere carnes non est peccatum mortale
+monacho.
+CO
+Respondeo. Dicendum, quod nihil est peccatum mortale monacho vel religioso cuicumque, per se loquendo,
+quod non sit peccatum mortale alteri, nisi sit contrarium ei ad quod se voto professionis obligavit; per accidens
+tamen, ut ratione scandali vel alicuius huiusmodi, posset aliquid ei esse peccatum quod non esset alii peccatum.
+Est ergo considerandum quid sit illud ad quod religiosus voto professionis se adstringit.
+Et si quidem religiosus profitendo voveret se regulam servaturum, videretur se obligare voto ad singula quae
+continentur in regula; religionis status esset religiosis in laqueum et sic, contra quodlibet eorum agendo, peccaret
+mortaliter: et ex hoc sequeretur quod peccati mortalis, quod vix aut nunquam possent declinare.
+Sancti ergo patres qui ordines instituerunt, nolentes hominibus iniicere damnationis laqueum, sed magis viam
+salutis, ordinaverunt talem professionis formam in qua periculum esse non posset; sicut in ordine fratrum
+praedicatorum est cautissima et securissima forma profitendi qua non promittit servare regulam, sed obedientiam
+secundum regulam: unde ex voto obligantur ad servanda ea quae ponuntur in regula tanquam praecepta, et quae
+praelatus secundum tenorem regulae sibi praecipere voluerit. Cetera vero quae non continentur in regula sub
+praecepto, non cadunt directe sub voto: unde ea praetermittens non peccat mortaliter.
+Beatus vero benedictus statuit monachum profiteri non quidem observare regulam, sed quod profitens promittit
+conversionem morum suorum secundum regulam: hoc est dictu, ut secundum regulam dirigat mores suos: contra
+quod facit, si vel ea quae sunt praecepta in regula, transgrediatur, vel etiam contemnat regulam, secundum eam
+dirigere actus suos omnino recusans.
+Non autem omnia quae in regula continentur, sunt praecepta: quaedam enim sunt monitiones sive consilia;
+quaedam vero ordinationes sive statuta quaedam, ut quod post completorium nemo loquatur. Huiusmodi autem
+statuta quae in regula continentur, non habent vim praecepti; sicut nec praelatus statuens aliquid, intendit semper
+ad peccatum mortale obligare per praeceptum.
+Est autem praelatus quasi quaedam regula animata; unde stultum esset putare quod monachus frangens silentium
+post completorium peccaret mortaliter, nisi forte faceret hoc contra praeceptum praelati, vel ex contemptu
+regulae.
+Abstinere autem a carnibus non ponitur in regula beati benedicti ut praeceptum, sed ut statutum quoddam; unde
+monachus comedens carnes, non ex hoc ipso peccat mortaliter, nisi in casu propter inobedientiam vel
+contemptum.
+RA1
+Ad primum ergo dicendum, quod poena illa infligitur monacho contumaciter et inobedienter carnes comedenti.
+RA2
+Ad secundum dicendum, quod comedere carnes non est contra votum monachi, nisi quando comederet ex
+inobedientia vel contemptu.
+RC
+Quod vero in contrarium obiicitur, efficaciam non habet: procedit enim de his quae sunt secundum se mala, sicut
+homicidium, adulterium, et huiusmodi, quae sunt omnibus illicita, tam sanis quam infirmis. Non autem procedit
+de his quae sunt mala quia prohibita; aliquid enim potest prohiberi sano quod non prohibetur infirmo.
+|q10 Quaestio 10
+Prologus
+PR
+18
+
+

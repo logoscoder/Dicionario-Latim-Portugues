@@ -1,0 +1,55 @@
+|#14 Dicit etiam, in VIII physicorum, quod ante addiscere est homo in potentia essentiali ad scientiam, et ideo
+indiget motore per quem reducatur in actu: non autem, postquam iam addidicit, indiget per se motore. Ergo non
+indiget influentia intellectus agentis.
+|#15 Dicit etiam, in III de anima, quod phantasmata se habent ad intellectum possibilem sicut sensibilia ad
+sensum. Unde patet quod species intelligibiles sunt in intellectu possibili a phantasmatibus, non a substantia
+separata.
+|#16 Rationes autem quae videntur in contrarium esse, non est difficile solvere. Intellectus enim possibilis est in
+actu perfecto secundum species intelligibiles cum considerat actu: cum vero non considerat actu, non est in actu
+perfecto secundum illas species, sed se habet medio modo inter potentiam et actum. Et hoc est quod Aristoteles
+dicit, in III de anima, quod, cum haec pars, scilicet intellectus possibilis, unaquaeque fiat, sciens dicitur
+secundum actum. Hoc autem accidit cum possit operari per seipsum. Est quidem et tunc potentia similiter
+quodammodo, non tamen similiter et ante addiscere aut invenire.
+|#17 Memoria vero in parte sensitiva ponitur, quia est alicuius prout cadit sub determinato tempore: non est
+enim nisi praeteriti. Et ideo, cum non abstrahat a singularibus conditionibus, non pertinet ad partem
+intellectivam, quae est universalium.
+Sed per hoc non excluditur quin intellectus possibilis sit conservativus intelligibilium, quae abstrahunt ab
+omnibus conditionibus particularibus.
+
+|+75 Capitulus 75: Solutio rationum quibus videtur probari unitas intellectus possibilis.
+|#1 Ad probandum autem unitatem intellectus possibilis quaedam rationes adducuntur, quas oportet ostendere
+efficaces non esse.
+|#2 Videtur enim quod omnis forma quae est una secundum speciem et multiplicatur secundum numerum,
+individuetur per materiam: quae enim sunt unum specie et multa secundum numerum, conveniunt in forma et
+distinguuntur secundum materiam. Si igitur intellectus possibilis in diversis hominibus sit multiplicatus
+secundum numerum, cum sit unus secundum speciem, oportet quod sit individuatus in hoc et in illo per
+materiam. Non autem per materiam quae sit pars sui: quia sic esset receptio eius de genere receptionis materiae
+primae, et reciperet formas individuales; quod est contra naturam intellectus.
+Relinquitur ergo quod individuetur per materiam quae est corpus hominis cuius ponitur forma.
+Omnis autem forma individuata per materiam cuius est actus, est forma materialis.
+Oportet enim quod esse cuiuslibet rei dependeat ab eo a quo dependet individuatio eius: sicut enim principia
+communia sunt de essentia speciei, ita principia individuantia sunt de essentia huius individui. Sequitur ergo
+quod intellectus possibilis sit forma materialis. Et per consequens quod non recipiat aliquid nec operetur sine
+organo corporali.
+Quod etiam est contra naturam intellectus possibilis. Igitur intellectus possibilis non multiplicatur in diversis
+hominibus, sed est unus omnium.
+|#3 Item. Si intellectus possibilis esset alius in hoc et in illo homine, oporteret quod species intellecta esset alia
+numero in hoc et in illo, una vero in specie: cum enim specierum intellectarum in actu proprium subiectum sit
+intellectus possibilis, oportet quod, multiplicato intellectu possibili, multiplicentur species intelligibiles
+secundum numerum in diversis. Species autem aut formae quae sunt eaedem secundum speciem et diversae
+secundum numerum, sunt formae individuales. Quae non possunt esse formae intelligibiles: quia intelligibilia
+sunt universalia, non particularia. Impossibile est igitur intellectum possibilem esse multiplicatum in diversis
+individuis hominum.
+Necesse est igitur quod sit unus in omnibus.
+|#4 Adhuc. Magister scientiam quam habet transfundit in discipulum. Aut igitur eandem numero: aut aliam
+numero diversam, non specie. Secundum videtur impossibile esse: quia sic magister causaret scientiam suam in
+discipulo sicut causat formam suam in alio generando sibi simile in specie; quod videtur pertinere ad agentia
+materialia. Oportet ergo quod eandem scientiam numero causet in discipulo. Quod esse non posset nisi esset
+unus intellectus possibilis utriusque.
+Necesse igitur videtur intellectum possibilem esse unum omnium hominum.
+|#5
+Sicut autem praedicta positio veritatem non habet, ut ostensum est, ita rationes positae ad ipsam
+confirmandam facile solubiles sunt.
+163
+
+

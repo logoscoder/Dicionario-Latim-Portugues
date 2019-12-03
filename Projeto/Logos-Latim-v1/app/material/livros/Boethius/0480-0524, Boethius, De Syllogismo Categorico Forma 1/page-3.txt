@@ -1,0 +1,63 @@
+Enuntiatio autem in duas partes secabitur, in affirmationem et negationem. Affirmatio est enuntiatio alicuius
+ad aliquid. Negatio est enuntiatio alicuius ab aliquo. Et est affirmatio, ut puta:
+Plato philosophus est.
+Negatio:
+Plato philosophus non est.
+Affirmatio enim ad Platonem philosophiam enuntiat aliquam, id est Platonem esse philosopbum. Negatio uero
+ab aliquo Platone aliquam philosophiam enuntiando tollit, id est enuntiat Platonem non esse philosophum.
+Enuntiatiuarum igitur orationum aliae sunt simplices, aliae non simplices. Simplices sunt [797D] ut si dicas:
+Dies est.
+Lux est.
+Non simplices ut:
+Si dies est lux est.
+Affirmationes uero simplices et negationes, aliae sunt uniuersales, aliae sunt particulares, aliae indefinitae.
+Uniuersales sunt quae aut omne affirmant ut:
+Omnis homo animal est
+aut omne negant, ut:
+Nullus homo animal est
+Particulares uero quae aliquem affirmant uel aliquem negant, ut:
+Aliquis homo animal est
+Aliquis homo animal non est
+indefinitae uero quae neque uniuersaliter affirmant aut negant, neque particulariter, ut:
+Homo animal est
+Homo animal non est
+Diuiditur autem simplex propositio in duas partes: in subiectum et praedicatum, ut:
+Homo animal est
+'homo' subiectum est, 'animal' uero de homine praedicatur. Hae autem partes termini nominantur. [798A] Quos
+definimus sic: Termini sunt partes simplicis propositionis in quibus diuiditur principaliter propositio. Est enim simplicis
+propositionis uniuersalis secunda diuisio, ut sit in propositione:
+Omnis homo animal est
+'omnis homo' unus terminus, alius uero 'animal est'. Sed hoc secundo loco, illud uero principaliter. Nam primi
+termini sunt subiectum et praedicatum. 'Est' enim et 'non est', non magis termini sunt quam affirmationis uel negationis
+designatiua sunt, et 'omnis' uel 'nullus' uel 'aliquis' non magis sunt termini quam definitionum, utrum particulariter an
+uniuersaliter dictum sit, designatiua sunt.
+Diuiditur ergo, ut dictum est, propositio in id quod subiectum est, et in id quod praedicatur. Dico autem
+subiectum, ut in:
+Omnis homo animal est
+propositione [798B] hominem, id uero quod pradicatur dico animal, et semper quod praedicatur, aut abundat et
+superest sub#ecto, aut aequatur. Minus autem praedicatum a subiecto nunquam reperietur. Sed id quod diximus diuersis
+demonstremus exemplis. Subiecto praedicatum abundat quoties genus aliquod de aliquo praedicatur, ut si dicas:
+Omnis homo animal est
+Non enim potes conuertere, ut dicas:
+Omne animal homo est
+quia animal ab homine plus est et abundat. Aequatur autem praedicatum subiecto quoties proprium quoddam
+cuipiam praedicatur, ut:
+Omnis homo risibile est
+potes conuertere:
+Omne risibile homo est
+ut autem minus sit id quod praedicatur, fieri nequit. Dicitur etiam praecedere pracdicatum, sequi quod [798C]
+subiectum est. Idonior est enim praedicatio constituere propositionem, quam id quod subiectum est.
+Simplicium autem propositionum aliae sunt in nullo sibi participantes ut sunt:
+Omnis homo animal est
+et:
+Virtus bona est
+et aliae huiusmodi propositiones, aliae uero quae participant.
+Participantium aliae sunt quae in utroque termino participant, aliae quae in altero, et quae altero termino
+participant tribus modis, utroque uero duobus.
+Ostendamus ergo exemplis quomodo altero tribus modis participant.
+Communis enim terminus est, cum in una subiectus sit, in altera praedicatus, ut est:
+Omnis homo animal est
+et:
+3
+
+

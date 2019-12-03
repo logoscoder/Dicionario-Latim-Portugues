@@ -1,0 +1,63 @@
+Ad primum sic proceditur. Videtur quod malum non sit. Omne enim quod est, vel est existens, vel est in
+existentibus: quia vel est substantia, vel est accidens. Sed malum neque est existens, neque in existentibus, ut
+probat dionysius.
+Ergo malum non est.
+AG2
+Praeterea, omne quod esse dicitur, vel est ens rationis, vel est ens naturae. Omne autem quod est ens rationis, vel
+est existens, vel non existens.
+Ergo quod non est existens neque non existens, nullo modo potest dici esse. Sed malum distat ab existente, et
+adhuc plus distat a non existente, ut dionysius dicit. Ergo nullo modo potest dici malum esse.
+AG3
+Praeterea, Deus praehabet in se omnem affirmationem et negationem, ut dicit dionysius: oportet enim omnium
+positiones in eo ponere, et adhuc omnium negationes in eo negare. Sed malum nullo modo praeexistit in Deo.
+Ergo malum neque est affirmatio, neque negatio. Sed inter affirmationem et negationem nihil est medium, ut in 4
+metaphys.
+Probatur. Ergo malum nullo modo est.
+AG4
+Praeterea, quaecumque positio seipsam destruit, impossibile est eam poni; sicut qui negat veritatem, ponit
+veritatem esse, ut dicit Augustinus, et Anselmus; et qui negant demonstrationem, ponunt demonstrationem esse,
+ut in 4 metaphysic. Dicitur.
+Sed malum destruit seipsum, ut in 4 ethic.
+Dicitur. Ergo malum non est.
+AG5
+Praeterea, unusquisque artifex providus a suo opere propellit malum quantum potest. Sed divina providentia
+omnia reguntur, ut in 1 libro habitum est. Ergo cum Deus sit omnipotens, ab universo malum omnino expellit.
+Ergo malum non est.
+SC1
+Sed contra, sicut appetitus non est nisi boni, ita fuga non est nisi mali. Sed multa sunt quae secundum rectam
+rationem fugiuntur. Ergo malum est.
+SC2
+Praeterea, nihil discrete prohibetur neque punitur juste, nisi malum. Sed constat prohibitiones discretas multas
+esse, et punitiones justas. Ergo constat malum esse.
+CO
+Respondeo dicendum, quod Philosophus ostendit quod ens multipliciter dicitur. Uno enim modo dicitur ens quod
+per decem genera dividitur: et sic ens significat aliquid in natura existens; sive sit substantia, ut homo; sive
+accidens, ut color. Alio modo dicitur ens, quod significat veritatem propositionis; prout dicitur, quod affirmatio
+est vera, quando significat esse de eo quod est; et negatio, quando significat non esse de eo quod non est; et hoc
+ens compositionem significat, quam intellectus componens et dividens adinvenit. Quaecumque ergo dicuntur
+entia quantum ad primum modum, sunt entia quantum ad secundum modum: quia omne quod habet naturale esse
+in rebus, potest significari per propositionem affirmativam esse; ut cum dicitur: color est, vel homo est. Non
+autem omnia quae sunt entia quantum ad secundum modum, sunt entia quantum ad primum: quia de privatione,
+ut de caecitate, formatur una affirmativa propositio, cum dicitur, caecitas est; nec tamen caecitas aliquid est in
+rerum natura; sed est magis alicujus entis remotio: et ideo etiam privationes et negationes dicuntur esse entia
+quantum ad secundum modum, sed non quantum ad primum. Ens autem secundum utrumque istorum modorum
+diversimode praedicatur: quia secundum primum modum acceptum, est praedicatum substantiale, et pertinet ad
+quaestionem quid est: sed quantum ad secundum modum, est praedicatum accidentale, ut Commentator ibidem
+dicit, et pertinet ad quaestionem an est.
+Sic ergo accipiendo ens secundo modo dictum, prout quaestio quaerebat, simpliciter dicimus mala esse in
+universo. Hoc enim et experientia docet, et ratio ostendit: quia, ut dionysius probat, malum nihil aliud est nisi
+bonum imperfectum. Si autem nullum bonum esset in aliquo diminutum, omnia bona aequalia essent, et sic
+pulchritudo universi deperiret, quae ex gradibus bonitatis colligitur; periret etiam ordo essentialis causarum in
+partibus universi, secundum quod nobiliora in minus nobilia influunt. In idem etiam rediret inconveniens, si
+poneretur quod nulla res perfectione sibi debita carere posset: quia tunc esset aequalis stabilitas bonitatis in
+omnibus entibus, nec essent omnes gradus bonitatis impleti, si non essent quaedam bona quae suis perfectionibus
+privari non possent, et quaedam suis perfectionibus privabilia propter distantiam a summo bono.
+RA1
+Ad primum ergo dicendum, quod dionysius accipit existens secundum primam acceptionem entis; et per hunc
+modum, malum non est existens, neque in existentibus: quia neque ipsum est natura quaedam in universo, neque
+est aliquid in existente, sicut pars perfectionis ejus. Sic enim procedunt suae probationes, quibus sigillatim
+ostendit in nullis existentibus malum esse; non autem removetur quin malum sit in existentibus sicut privationes
+in subjecto, ut caecitas in oculo.
+713
+
+

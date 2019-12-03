@@ -1,0 +1,64 @@
+Oportet igitur quod si ens est unum, quod vel sit substantia et accidens
+simul, vel sit accidens tantum, vel substantia tantum.
+Si autem sit substantia et accidens simul, non erit unum ens tantum, sed
+duo. Nec differt quantum ad hoc utrum substantia et accidens sint simul in
+uno ut unum vel diversa: quia licet sint simul in uno, non tamen sunt unum
+simpliciter, sed unum subiecto.
+Et sic ponendo substantiam cum accidente, sequitur quod non sint unum
+simpliciter sed multa.
+Si vero dicatur quod sit accidens tantum et non substantia, hoc est omnino
+impossibile: nam accidens sine substantia omnino esse non potest; omnia
+enim accidentia de substantia dicuntur sicut de subiecto, et in hoc ratio
+eorum consistit.
+Si vero dicatur quod sit substantia tantum sine accidente, sequitur quod
+non sit quantitas, nam quantitas accidens est: et hoc est contra positionem
+melissi. Posuit enim ens esse infinitum; unde sequitur quod sit quantum,
+quia infinitum per se loquendo non est nisi in quantitate; sed substantia
+et qualitas et huiusmodi non dicuntur infinita nisi per accidens, inquantum
+scilicet sunt simul cum quantitate. Cum ergo melissus ponat ens infinitum,
+non potest ponere substantiam sine quantitate. Si ergo est substantia et
+quantitas simul, sequitur quod non sit tantum unum ens, sed duo; si vero
+sit solum substantia, non est infinitum, quia non habebit magnitudinem
+neque quantitatem: nullo igitur modo potest esse verum quod melissus dicit,
+ens esse unum.
+|#3
+Deinde cum dicit: amplius quoniam et ipsum etc., ponit secundam
+rationem acceptam ex parte unius.
+Et circa hoc duo facit: primo ponit rationem; secundo ostendit quomodo
+quidam erraverunt in solutione ipsius, ibi: conturbati sunt autem etc..
+Dicit ergo primo quod sicut ens dicitur multipliciter, ita et unum: et ideo
+considerandum est quomodo dicant omnia esse unum.
+Dicitur enim unum tripliciter: vel sicut continuum est unum, ut linea et
+corpus; vel sicut indivisibile est unum, ut punctum; vel sicut unum
+dicuntur illa quorum ratio est una, seu definitio, sicut vappa et vinum
+dicuntur unum.
+Primo ergo ostendit quod non possunt dicere quod omnia sunt unum
+continuatione, quia continuum est quodammodo multa: omne enim continuum est
+in infinitum divisibile, et sic continet in se multas partes.
+Unde qui ponit ens continuum, necesse est quod ponat quodammodo multa.
+Et non solum propter multitudinem partium, sed etiam propter diversitatem
+quae videtur esse inter totum et partes.
+Est enim dubitatio utrum totum et partes sint unum aut plura. Et licet
+forsitan haec dubitatio ad propositum non pertineat, tamen per se ipsam
+utilis est ad cognoscendum.
+Et non solum de totis continuis, sed etiam de totis contiguis, quorum
+partes non sunt continuae; sicut partes domus, quae sunt unum contactu et
+compositione. Et manifestum est quod totum secundum quid est idem parti,
+non tamen simpliciter. Si enim simpliciter totum esset idem uni partium,
+eadem ratione esset idem alteri partium; quae autem uni et eidem sunt
+eadem, sibi invicem sunt eadem; et sic sequitur quod ambae partes, si
+ponantur simpliciter esse idem toti, quod sint idem ad invicem. Et sic
+sequeretur quod totum sit indivisibile, non habens diversitatem partium.
+|#4
+Deinde cum dicit: at vero si est etc., ostendit quod omnia non
+possunt esse unum sicut indivisibile est unum: quia quod est indivisibile
+non potest esse quantum, cum omnis quantitas sit divisibilis; et per
+consequens non potest esse quale, ut intelligatur de qualitate quae
+fundatur super quantitatem. Et si non est quantum, non potest esse finitum,
+sicut dixit Parmenides, neque infinitum, sicut dixit melissus; quia
+terminus indivisibilis, utpote punctus, est finis et non finitus; quia
+finitum et infinitum conveniunt quantitati.
+
+9
+
+

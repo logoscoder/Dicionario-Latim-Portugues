@@ -1,0 +1,59 @@
+|#8 Deinde cum dicit si vero ostendit tertium quod principaliter intendit, scilicet quod media sunt composita ex
+contrariis.
+Et circa hoc duo facit. Primo proponit quod intendit; dicens, quod si media in eodem genere sint cum extremis,
+sicut ostensum est, et si iterum media sint solum contrariorum, ut etiam ostensum est; necesse est media
+componi ex his contrariis inter quae sunt.
+|#9 Deinde cum dicit nam erit probat propositum.
+Et circa hoc tria facit. Primo ostendit quod contrariae species habent priora contraria ex quibus constituuntur.
+Quod sic probat. Oportet enim quod contrariorum, aut sit aliquod genus, aut nullum. Si autem nullum genus
+esset contrariorum, non haberent medium; quia medium non est nisi eorum quae sunt unius generis, ut ex dictis
+patet. Sed si contrariorum, quorum ponitur medium, sit aliquod genus prius ipsis contrariis, necesse est etiam
+quod sint differentiae contrariae priores speciebus contrariis, quae faciant et constituant species contrarias ex
+ipso genere uno. Species enim ex genere et differentiis constituuntur.
+|#10 Et hoc manifestat per exemplum.
+Sicut si album et nigrum sint contrariae species, et habeant unum genus quod est color, necesse est quod habeant
+aliquas differentias constitutivas; ita quod album sit color disgregativus visus, nigrum vero color congregativus.
+Et sic hae differentiae congregativum et disgregativum sunt priores albo et nigro. Unde, cum utrobique sit
+contrarietas, manifestum est quod contraria sunt seinvicem priora. Contrariae enim differentiae sunt priores
+contrariis speciebus. Et sunt etiam magis contrariae, quia sunt causae contrarietatis ipsis speciebus.
+|#11
+Considerandum tamen quod disgregativum et congregativum visus, non sunt verae differentiae
+constitutivae albi et nigri, sed magis effectus eorum. Ponuntur tamen loco differentiarum, signa earum.
+Sicut interdum per accidentia, designantur differentiae et formae substantiales. Disgregatio enim visus provenit
+ex vehementia lucis, cuius plenitudo albedinem constituit.
+Et congregatio visus provenit ex causa contraria.
+|#12
+Deinde cum dicit et reliqua ostendit quod etiam mediae species habent priora media, ex quibus
+constituuntur; dicens, quod cum media sint species eiusdem generis, et omnes species ex genere et differentia
+constituantur, necesse est quod media constituantur ex genere et differentiis.
+Sicut quicumque colores sunt medii inter album et nigrum, oportet hos definiri ex genere, quod est color, et ex
+quibusdam differentiis. Et hae differentiae, ex quibus constituuntur medii colores, non possunt esse immediate
+prima contraria, scilicet differentiae contrariae quae constituebant contrarias species albi et nigri. Aliter oportet
+quod quilibet color medius esset albus aut niger. Nam color congregativus est niger, et disgregativus est albus.
+Oportet igitur quod differentiae constitutivae mediorum colorum sint alterae a differentiis contrariis, quae sunt
+constitutivae contrariarum specierum. Et quia, sicut se habent species ad species, ita se habent differentiae ad
+differentias: oportet quod sicut medii colores sunt species mediae inter species contrarias, ita differentiae
+constitutivae earum sint mediae inter differentias contrarias quae dicuntur prima contraria.
+|#13 Deinde cum dicit primae autem ostendit, quod mediae differentiae ex differentiis contrariis componuntur;
+dicens, quod differentiae primae contrariae sunt disgregativum visus et congregativum. Unde istae differentiae
+sunt illud primum, ex quo componimus omnes species generis.
+Sed, si aliqua contraria non essent in eodem genere, quaerendum restaret ex quo eorum media constituerentur.
+Sed in his quae sunt in eodem genere, non est difficile hoc accipere; quia necesse est omnia quae sunt in eodem
+genere aut esse incomposita, idest simplicia, aut componi ex incompositis, idest simplicibus, quae sunt in genere
+illo. Contraria enim sunt incomposita ex invicem; quia nec album componitur ex nigro, neque nigrum ex albo,
+neque congregativum ex disgregativo, neque e converso. Quare oportet quod contraria sint principia, quia
+simplicia in quolibet genere sunt principia.
+|#14 Sed de mediis oportet dicere, quod aut omnia componantur ex simplicibus, idest ex contrariis, aut nullum;
+quia eadem ratio videtur de omnibus. Sed non potest dici, quod nullum: quia aliquod est medium quod
+componitur ex contrariis: ex quo contingit quod transmutatio primo pervenit ad media quam ad extrema. Hoc
+autem sic apparet: quia illud in quod primo pervenit transmutatio, est magis et minus respectu utriusque
+extremorum. Prius enim aliquid fit minus album et minus nigrum, quam totaliter album et totaliter nigrum: et
+hoc ipsum quod est minus album, quam album simpliciter, et minus nigrum quam nigrum simpliciter. Est etiam
+magis accedens ad album quam nigrum simpliciter; et magis accedens ad nigrum quam album simpliciter. Et sic
+patet, quod illud in quod primo venit transmutatio, est magis et minus respectu utriusque extremorum.
+Et propter hoc oportet quod sit medium contrariorum. Et sic sequitur quod omnia media sint composita ex
+contrariis.
+
+298
+
+

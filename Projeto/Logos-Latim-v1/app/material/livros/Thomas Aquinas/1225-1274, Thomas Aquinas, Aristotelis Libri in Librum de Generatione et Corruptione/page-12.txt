@@ -1,0 +1,55 @@
+|#5 Deinde cum dicit: simpliciter autem etc., excludit quandam solutionem, quae possit dari distinguendo ens
+simpliciter. Unde primo ponit ipsam distinctionem, dicens quod simpliciter ens potest intelligi dupliciter: uno
+modo ut significat id quod est primum inter omnia praedicamenta entis, prout scilicet simpliciter ens dicitur de
+substantia; alio modo secundum quod simpliciter ens dicitur ipsum ens universale, quod omnia praedicamenta
+comprehendit.
+Et hoc modo simpliciter non ens potest dici vel quod non est substantia, vel quod nullo modo est ens.
+|#6 Secundo ibi: si quidem primum etc., ostendit quod secundum utrumque sensum sequitur inconveniens.
+Si enim simpliciter dicatur primum ens quod est substantia, ergo et simpliciter non ens dicetur non substantia. Si
+ergo generatio simplex hoc requirit, quod sit simpliciter entis ex simpliciter non ente, sequetur quod erit
+substantia ex non substantia. Sed quando ponitur non esse substantiam neque hoc (quod est demonstrativum
+individualis substantiae), manifestum est quod nullum aliorum praedicamentorum remanebit, idest neque quale
+neque quantum neque ubi: quia sequeretur quod passiones, idest accidentia, separarentur a substantiis, quod est
+impossibile.
+Si autem dicatur quod illud ex quo aliquid generatur simpliciter, sit non ens universaliter, prout ens simpliciter
+dicitur ens commune, sequetur quod per hoc quod dicitur non ens, intelligatur universaliter negatio omnium
+entium. Unde sequetur quod illud quod generatur simpliciter, generetur penitus ex nihilo: quod est contra
+rationem naturalis generationis, et contra sententias omnium Philosophorum naturalium, qui scilicet de
+generatione naturali locuti sunt.
+|#7 Deinde cum dicit: de his quidem etc., solvit praedictam dubitationem. Et dicit quod de ista materia etiam in
+aliis libris, scilicet in I physic., amplius, idest diffusius, et dubitationes positae sunt et determinationes. Et ideo
+nunc brevius est dicendum, quod simpliciter generatur aliquid quodam modo ex non ente, alio modo ex ente:
+oportet enim illud quod praeexistit generationi, esse potentia ens, actu autem non ens. Et ita verum est quod
+dicitur utroque modo: scilicet quod generatio simpliciter sit ex ente, et ex non ente.
+|#8 Deinde cum dicit: quod autem et his determinatis etc., obiicit contra praedictam solutionem.
+Et circa hoc tria facit: primo ponit obiectionem; secundo huius occasione introducit aliam quaestionem, et solvit
+eam, ibi: de his autem quantum etc.; tertio solvit dubitationem praedictam, ibi: propter quid etc..
+Circa primum tria facit. Primo dicit de quo est intentio: et dicit quod, quia etiam post praedictam
+determinationem adhuc insurgit mirabilis dubitatio, rursus oportet tentare quomodo simpliciter generatio sit, sive
+ex ente in potentia, sive qualiter sit alio modo.
+|#9 Secundo ibi: quaeret enim quis etc., movet quandam quaestionem: utrum scilicet generatio simplex sit
+tantum substantiae et huius, idest individui in genere substantiae; non autem sit quanti neque qualis neque ubi, et
+aliorum praedicamentorum, quae non sunt simpliciter entia. Et eadem quaestio potest fieri de corruptione. Et est
+hoc supponendum pro certo, quod generatio et corruptio simplex sit solius substantiae.
+|#10 Tertio ibi: si enim quid generabitur etc., prosequitur dubitationem. Et dicit quod, si non generatur
+simpliciter nisi quid, idest existens in genere substantiae; et illud ex quo aliquid generatur, est potentia ens, sicut
+supra dictum est, et non actu; sequitur quod illud ex quo generatur substantia, et in quod transmutatur quando
+corrumpitur, sit substantia in potentia, non autem actu. Restat ergo quaerendum utrum sit in actu aliquod aliorum
+praedicamentorum, puta quantum vel quale aut ubi, aut quodcumque aliorum praedicamentorum; cum tamen sit
+in potentia ens hoc, idest substantia, quae est ens simpliciter; ita tamen quod non sit simpliciter, idest in actu,
+neque hoc, idest neque substantia, neque ens.
+Quaecumque autem pars huius dubitationis detur, sequitur inconveniens. Si enim nihil aliorum est in actu, sed
+est in potentia omnia genera praedicamentorum, sequitur primo quod non ens sit separatum, idest quod materia,
+quae est ens in potentia, subiecta sit privationi, quae est non ens, absque omni forma. Secundo sequitur illud
+quod maxime timuerunt primi Philosophi, quod aliquid generetur ex nullo praeexistente: quod enim non est ens
+actu, nihil est. Si vero ponatur quod id ex quo generatur substantia, non sit hoc aliquid, idest individuum in
+genere substantiae, neque sit substantia in actu, sed sit in actu aliquod aliorum praedicamentorum; sequitur
+inconveniens quod prius induximus, quod scilicet passiones, idest accidentia, separentur a substantiis; quod est
+manifeste impossibile. Sic igitur videtur quod non possit esse generatio simpliciter hoc modo, quod substantia
+generetur ex non ente actu, ente autem in potentia, ut praedicta solutio dicebat.
+|+7 Lectio 7
+|#1 Postquam Aristoteles contra praemissam solutionem obiecit, hic introducit aliam quaestionem, per cuius
+solutionem solvitur praedicta obiectio.
+12
+
+

@@ -1,0 +1,62 @@
+consequebatur assumptum est sed id quod praecedebat. Erat quippe antecedens, nupta mulier praeter connubii ius;
+sequebatur, cum filii patrem non sequebantur, pro eis nihil ex dote retineri. Sic igitur Tullius pro eo quod est a
+consequentibus argumentum, ab antecedentibus potius dedit exemplum.
+Potest uero ita fieri a consequentibus argumentum, si id de quo quaeritur prius ponatur, et id quod
+assumendum; est posterius, hoc modo: Si quid ex dote pro liberis manere oportebit, quia patrem liberi sequuntur, cum
+eo nupta est mulier qui cum connubii ius esset. Sumo igitur id quod consequitur per negationem, ita: Sed non est nupta
+mulier [1140B] cum eo quicum connubii ius erat, atque ideo qui nati sunt, patrem non sequuntur. Perimitur ergo in
+conclusione id quod in propositione praecesserat. Ita pro liberis igitur manere nihil oportet.
+Sed de secundo modo ista sufficiant, nihil namque, ut arbitror, praetermissum est.
+Tertius modus a repugnantibus longe perspicuus hoc modo est: Non et legatum omne argentum est, et non est
+legata mulieri pecunia enumerata. Hic namque consequens erat: Si argentum esset omne legatum, pecuniam quoque
+numeratam fuisse legatam; ut igitur fieret repugnans, huic consequentiae interposita negatio est, dictumque est, si
+argentum omne legatum esset, numeratam pecuniam non esse legatam; quod quia pugnat et falsum est, ad ueritatem
+alia negatione sic reducitur: [1140C] Non si legatum argentum est, non est legata numerata pecunia, ut scilicet ei
+affirmationi conueniat, quae dicit, si legatum argentum est, legatam esse pecuniam numeratam. Assumimus igitur huic
+propositioni argentum omne esse legatum, et consequitur omne in numeratam pecuniam mulieri esse legatam, ut sit
+forma argumentationis huiusmodi:
+Non si legatum argentum est, non est legata numerata pecunia; Atqui legatum argentum est, Legata est igitur
+numerata pecunia.
+M. uero Tullius propositionem ita formauit: Non et legatum argentum est, et non est legata numerata pecunia.
+Sed nos idcirco casualem coniunctionem apposuimus eam quae est "si", ut ex quo esset genere talis propositio
+monstraremus. Namque id ex consequenti connexo negatione [1140D] addita fit repugnans. Connexum uero nulla
+aeque ut sit coniunctio posset ostendere, quanquam idem efficiat et copulatiua coniunctio. Nam quae connexa sunt,
+etiam coniuncta esse intelliguntur, ex hoc quod paulo ante diximus, quod argumentum ex ea propositione profectum
+est, quae duabus affirmationibus copulabatur, et iuncta negatione insuper denegata est.
+In omnibus igitur illud est approbatum, pecuniam numeratam mulieri deberi, cum sit argentum omne legatum.
+Sed nunc quidem ex supradictis propositionibus, id quod antecedebat, assumpsimus; nunc uero, id quod consequebatur;
+nunc autem, id quod repugnabat. Ac de explanandis Ciceronis exemplis, ut arbitror, satis est. [1141A]
+Illud autem dubitationem mouere potest: nam si quis minus callidus ad Ciceronis exempla respiciat, eumdem
+locum arbitrabitur esse a genere, quem ab antecedentibus, et consequentibus, et repugnantibus esse diximus; illo falsus
+errore, quod in utrisque locis eodem Cicero utitur exemplo, argenti uidelicet et numeratae pecuniae. Sed diligentius
+intuenti, in eisdem rebus diuersus argumentationum uidebitar esse tractatus. Aliud quippe est dicere, cum argenti
+species sit numerata; pecunia, si genus legatum sit, et speciem esse legatam, quoniam nunquam species a genere
+separatur, aliud est in conditione enumerationem proponere, et eisdem partibus assumptis argumentationem uaria
+ratiocinatione formare, ut superius demonstratum [1141B] est, cum praesertim huiusmodi ex consequentibus,
+antecedentibus et repugnantibus, argumentationes etiam praeter genera ac species fieri possint, uelut nos superuns
+indicauimus in die atque luce. Nam neque dies lucis, neque lux dici species, aut genus est. Sed id tantum in his
+considerari debet, quia posito altero, alterum necessaria ratione subsequitur. Differunt igitur loci a genere uel a specie
+ab eo loco qui in conditione est constitutus, quoniam illi ex uniuersalitatis speciei ac partis ratione ducuntur, hic autem
+in consequentiae ac repugnantiae ordine tractatur.
+Post haec igitur Tullius hypotheticorum syllogismorum modos conclusionesque dinumerat hoc modo:
+[13.54] APPELLANT AUTEM DIALECTICI EAM CONCLUSIONEM ARGUMENTI, [1141C]
+IN QUA, CUM PRIMUM ASSUMPSERIS, CONSEQUITUR ID QUOD ANNEXUM EST PRIMUM
+CONCLUSIONIS MODUM; CUM ID QUOD ANNEXUM EST NEGARIS, UT ID QUOQUE CUI FUERIT
+ANNEXUM NEGANDUM SIT, SECUNDUS IS APPELLATUR CONCLUDENDI MODUS; CUM AUTEM
+ALIQUA CONIUNCTA NEGARIS ET EX EIS UNUM AUT PLURA SUMPSERIS, UT QUOD RELINQUITUR
+TOLLENDUM SIT, IS TERTIUS APPELLATUR CONCLUSIONIS MODUS.
+[13.55] EX HOC ILLA RHETORUM EX CONTRARIIS CONCLUSA, QUAE IPSI
+*ENTHYMEMATA* APPELLANT; NON QUOD OMNIS SENTENTIA PROPRIO NOMINE
+*ENTHYMEMA* NON DICATUR, SED, UT HOMERUS PROPTER EXCELLENTIAM COMMUNE
+POETARUM NOMEN EFFICIT APUD GRAECOS SUUM, SIC, CUM OMNIS SENTENTIA *ENTHYMEMA*
+DICATUR, QUIA VIDETUR EA QUAE EX CONTRARIIS CONFICITUR ACUTISSIMA, SOLA PROPRIE
+NOMEN COMMUNE POSSEDIT. EIUS GENERIS [1141D]
+HAEC SUNT:
+HOC METUERE, ALTERUM IN METU NON PONERE!
+EAM QUAM NIHIL ACCUSAS DAMNAS, BENE QUAM MERITAM ESSE AUTUMAS
+MALE MERERE? ID QUOD SCIS PRODEST NIHIL; ID QUOD NESCIS OBEST?
+[14.56] HOC DISSERENDI GENUS ATTINGIT OMNINO VESTRAS QUOQUE IN RESPONDENDO
+DISPUTATIONES, SED PHILOSOPHORUM MAGIS, QUIBUS EST CUM ORATORIBUS ILLA EX
+REPUGNANTIBUS SENTENTIIS; COMMUNIS CONCLUSIO QUAE A DIALECTICIS TERTIUS MODUS, A
+
+

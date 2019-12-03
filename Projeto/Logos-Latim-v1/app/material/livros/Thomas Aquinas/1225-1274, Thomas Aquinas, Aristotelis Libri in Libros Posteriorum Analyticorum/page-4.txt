@@ -1,0 +1,59 @@
+aliquo an sit, non potest sciri proprie de eo quid est: non entium enim non sunt definitiones. Unde quaestio, an
+est, praecedit quaestionem, quid est. Sed non potest ostendi de aliquo an sit, nisi prius intelligatur quid
+significatur per nomen. Propter quod etiam Philosophus in IV metaphysicae, in disputatione contra negantes
+principia docet incipere a significatione nominum.
+Exemplificat autem de triangulo, de quo oportet praescire quoniam nomen eius hoc significat, quod scilicet in
+sua definitione continetur. Cum enim accidentia quodam ordine ad substantiam referantur, non est inconveniens
+id quod est accidens in respectu ad aliquid, esse etiam subiectum in respectu alterius. Sicut superficies est
+accidens substantiae corporalis: quae tamen superficies est primum subiectum coloris. Id autem quod est ita
+subiectum, quod nullius est accidens, substantia est. Unde in illis scientiis, quarum subiectum est aliqua
+substantia, id quod est subiectum nullo modo potest esse passio, sicut est in philosophia prima, et in scientia
+naturali, quae est de subiecto mobili. In illis autem scientiis, quae sunt de aliquibus accidentibus, nihil prohibet
+id, quod accipitur ut subiectum respectu alicuius passionis, accipi etiam ut passionem respectu anterioris subiecti.
+Hoc tamen non in infinitum procedit.
+Est enim devenire ad aliquod primum in scientia illa, quod ita accipitur ut subiectum, quod nullo modo ut passio;
+sicut patet in mathematicis scientiis, quae sunt de quantitate continua vel discreta.
+Supponuntur enim in his scientiis ea quae sunt prima in genere quantitatis; sicut unitas, et linea, et superficies et
+alia huiusmodi. Quibus suppositis, per demonstrationem quaeruntur quaedam alia, sicut triangulus aequilaterus,
+quadratum in geometricis et alia huiusmodi. Quae quidem demonstrationes quasi operativae dicuntur, ut est
+illud, super rectam lineam datam triangulum aequilaterum constituere. Quo adinvento, rursus de eo aliquae
+passiones probantur, sicut quod eius anguli sunt aequales aut aliquid huiusmodi. Patet igitur quod triangulus in
+primo modo demonstrationis se habet ut passio, in secundo se habet ut subiectum.
+Unde Philosophus hic exemplificat de triangulo ut est passio, non ut est subiectum, cum dicit quod de triangulo
+oportet praescire quoniam hoc significat.
+|#6 Dicit etiam quod quaedam sunt de quibus oportet praescire utrunque, scilicet quid est et quia est. Et
+exemplificat de unitate quae est principium in omni genere quantitatis. Etsi enim aliquo modo sit accidens
+respectu substantiae, tamen in scientiis mathematicis, quae sunt de quantitate, non potest accipi ut passio, sed ut
+subiectum tantum, cum in hoc genere nihil habeat prius.
+|#7 Rationem autem huiusmodi diversitatis ostendit, quia non est similis modus manifestationis praedictorum,
+scilicet principii, passionis et subiecti. Non enim est eadem ratio cognitionis in ipsis: nam principia cognoscuntur
+per actum componentis et dividentis; subiectum autem et passio per actum apprehendentis quod quid est. Quod
+quidem non similiter competit subiecto et passioni: cum subiectum definiatur absolute, quia in definitione eius
+non ponitur aliquid, quod sit extra essentiam ipsius; passio autem definitur cum dependentia ad subiectum, quod
+in eius definitione ponitur. Unde, ex quo non eodem modo cognoscuntur, non est mirum si eorum diversa
+praecognitio sit.
+|#8 Deinde cum dicit: est autem cognoscere etc., determinat modum praecognitionis ex parte ipsius ordinis,
+quem praecognitio importat. Est enim aliquid prius altero et secundum tempus et secundum naturam. Et hic
+duplex ordo in praecognitione considerandus est. Aliquid enim praecognoscitur sicut prius notum tempore. Et de
+his dicit quod alia contingit cognoscere aliquem cognoscentem ea prius tempore, quam illa quibus praecognosci
+dicuntur. Quaedam vero cognoscuntur simul tempore, sed prius natura. Et de his dicit quod quorundam
+praecognitorum simul tempore est accipere notitiam, et illorum quibus praecognoscuntur.
+|#9 Quae autem sint ista manifestat subdens quod huiusmodi sunt quaecumque continentur sub aliquibus
+universalibus, quorum habent cognitionem, idest de quibus notum est ea sub talibus universalibus contineri. Et
+hoc ulterius manifestat per exemplum. Cum enim ad conclusionem inferendam duae propositiones requirantur,
+scilicet maior et minor, scita propositione maiori, nondum habetur conclusionis cognitio. Maior ergo propositio
+praecognoscitur conclusioni non solum natura, sed tempore. Rursus autem si in minori propositione inducatur
+sive assumatur aliquid contentum sub universali propositione, quae est maior, de quo manifestum non sit quod
+sub hoc universali contineatur, nondum habetur conclusionis cognitio, quia nondum erit certa veritas minoris
+propositionis. Si autem in minori propositione assumatur terminus, de quo manifestum sit quod continetur sub
+universali in maiori propositione, patet veritas minoris propositionis: quia id quod accipitur sub universali habet
+eius cognitionem, et sic statim habetur conclusionis cognitio.
+Ut si sic demonstraret aliquis, omnis triangulus habet tres angulos aequales duobus rectis, ista cognita, nondum
+habetur conclusionis cognitio: sed cum postea assumitur, haec figura descripta in semicirculo, est triangulus,
+statim scitur quod habet tres angulos aequales duobus rectis. Si autem non esset manifestum quod haec figura in
+semicirculo descripta est triangulus, nondum statim inducta assumptione sciretur conclusio; sed oporteret
+ulterius aliud medium quaerere, per quod demonstraretur hanc figuram esse triangulum.
+
+4
+
+

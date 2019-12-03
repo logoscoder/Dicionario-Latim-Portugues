@@ -1,0 +1,57 @@
+1.15.4
+Ulpianus libro singulari de officio praefecti Urbi
+Imperatores Severus et Antoninus Iunio Rufino praefecto vigilum ita rescripserunt: "insularios et eos, qui neglegenter
+ignes apud se habuerint, potes fustibus vel flagellis caedi iubere: eos autem, qui dolo fecisse incendium convincentur,
+ad Fabium Cilonem praefectum urbi amicum nostrum remittes: fugitivos conquirere eosque dominis reddere debes. "
+1.16.0. De officio proconsulis et legati.
+1.16.1
+Ulpianus libro primo disputationem
+Proconsul ubique quidem proconsularia insignia habet statim atque urbem egressus est: potestatem autem non exercet
+nisi in ea provincia sola, quae ei decreta est.
+1.16.2
+Marcianus libro primo institutionum
+pr. Omnes proconsules statim quam urbem egressi fuerint habent iurisdictionem, sed non contentiosam, sed
+voluntariam: ut ecce manumitti apud eos possunt tam liberi quam servi et adoptiones fieri.
+1. Apud legatum vero proconsulis nemo manumittere potest, quia non habet iurisdictionem talem.
+1.16.3
+Ulpianus libro 26 ad Sabinum
+Nec adoptare potest: omnino enim non est apud eum legis actio.
+1.16.4
+Ulpianus libro primo de officio proconsulis
+pr. Observare autem proconsulem oportet, ne in hospitiis praebendis oneret provinciam, ut imperator noster cum patre
+Aufidio Severiano rescripsit.
+1. Nemo proconsulum stratores suos habere potest, sed vice eorum milites ministerio in provinciis funguntur.
+2. Proficisci autem proconsulem melius quidem est sine uxore: sed et cum uxore potest, dummodo sciat senatum Cotta
+et Messala consulibus censuisse futurum, ut si quid uxores eorum qui ad officia proficiscuntur deliquerint, ab ipsis ratio
+et vindicta exigatur.
+3. Antequam vero fines provinciae decretae sibi proconsul ingressus sit, edictum debet de adventu suo mittere
+continens commendationem aliquam sui, si qua ei familiaritas sit cum provincialibus vel coniunctio, et maxime
+excusantis, ne publice vel privatim occurrant ei: esse enim congruens, ut unusquisque in sua patria eum exciperet.
+4. Recte autem et ordine faciet, si edictum decessori suo miserit significetque, qua die fines sit ingressurus: plerumque
+enim incerta haec et inopinata turbant provinciales et actus impediunt.
+5. Ingressum etiam hoc eum observare oportet, ut per eam partem provinciam ingrediatur, per quam ingredi moris est,
+et quas Graeci epidymias appellant sive kataploun observare, in quam primum civitatem veniat vel applicet: magni
+enim facient provinciales servari sibi consuetudinem istam et huiusmodi praerogativas. Quaedam provinciae etiam hoc
+habent, ut per mare in eam provinciam proconsul veniat, ut Asia, scilicet usque adeo, ut imperator noster Antoninus
+Augustus ad desideria asianorum rescripsit proconsuli necessitatem impositam per mare Asiam applicare kai twn
+mytropolewn Efeson primam attingere.
+6. Post haec ingressus provinciam mandare iurisdictionem legato suo debet nec hoc ante facere, quam fuerit provinciam
+ingressus; est enim perquam absurdum, antequam ipse iurisdictionem nanciscatur ( nec enim prius ei competit, quam in
+eam provinciam venerit) alii eam mandare, quam non habet. Sed si et ante fecerit et ingressus provinciam in eadem
+voluntate fuerit, credendum est videri legatum habere iurisdictionem, non exinde ex quo mandata est, sed ex quo
+provinciam proconsul ingressus est.
+1.16.5
+Papinianus libro primo quaestionum
+Aliquando mandare iurisdictionem proconsul potest, etsi nondum in provinciam pervenerit. Quid enim si necessariam
+moram in itinere patiatur, maturissime autem legatus in provinciam perventurus sit?
+1.16.6
+Ulpianus libro primo de officio proconsulis
+pr. Solent etiam custodiarum cognitionem mandare legatis, scilicet ut praeauditas custodias ad se remittant, ut
+innocentem ipse liberet. Sed hoc genus mandati extraordinarium est: nec enim potest quis gladii potestatem sibi datam
+vel cuius alterius coercitionis ad alium transferre, nec liberandi igitur reos ius, cum accusari apud eum non possint.
+1. Sicut autem mandare iurisdictionem vel non mandare est in arbitrio proconsulis, ita adimere mandatam
+iurisdictionem licet quidem proconsuli, non autem debet inconsulto principe hoc facere.
+2. Legatos non oportet principem consulere, sed proconsulem suum, et is ad consultationes legatorum debebit
+respondere.
+
+

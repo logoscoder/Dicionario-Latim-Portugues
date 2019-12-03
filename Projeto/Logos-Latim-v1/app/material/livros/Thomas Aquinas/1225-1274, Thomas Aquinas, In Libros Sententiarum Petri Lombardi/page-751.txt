@@ -1,0 +1,62 @@
+Sed intentio non tantum est in practicis, sed etiam in speculativis, in quibus etiam finis invenitur.
+Ergo intentio non pertinet ad voluntatem.
+AG5
+Praeterea, potentiae non potest attribui nisi duplex actus: vel qui convenit sibi per se, vel qui convenit sibi in
+ordine ad aliam potentiam. Sed intentio non potest esse actus voluntatis per se consideratae, quia non
+denominatur a voluntate; actus autem qui est alicujus potentiae per se, denominatur ab ipsa, sicut intelligere ab
+intellectu: similiter etiam non est actus ejus secundum ordinem ad rationem, quia sic actus ejus est eligere, ut
+supra dictum est. Ergo intentio nullo modo est actus voluntatis.
+SC1
+Sed contra, meritum et demeritum in sola voluntate constitutum est. Sed secundum intentionem praecipue
+attenditur meritum et demeritum. Ergo intentio ad voluntatem pertinet.
+SC2
+Praeterea, ut in littera dicitur, intentio est de fine. Finis autem habet rationem boni. Cum igitur bonum ad
+voluntatem pertineat, quia est objectum ejus, videtur quod intentio voluntatis sit.
+CO
+Respondeo dicendum, quod ex ipso nomine intentionis potest accipi ad quam potentiam pertineat. Intendere
+enim dicitur, quasi in aliud tendere. Intendere autem in aliquid, est illius potentiae ad quam pertinet prosequi et
+fugere aliquid. Haec autem est appetitus vel voluntas; non autem intellectus. Sed verum est quod intellectus
+practicus dicit aliquid de fugiendo vel prosequendo, ut in 3 de anima dicitur; unde judicium fugae et
+prosecutionis ad intellectum practicum pertinet; non autem ipsa prosecutio et fuga. Intellectus autem
+speculativus neque fugit aut prosequitur, neque etiam aliquid de fugiendo et prosequendo dicit; et ideo intentio
+non est actus cognoscitivae, sed appetitivae. Per hoc autem quod dicitur in aliquid tendere, importatur quaedam
+distantia illius in quod aliquid tendit; et ideo quando appetitus fertur immediate in aliquid, non dicitur esse
+intentio illius, sive hoc sit finis ultimus, sive sit aliquid ad finem ultimum: sed quando per unum quod vult, in
+aliud pervenire nititur, illius in quod pervenire nititur, dicitur esse intentio.
+Hoc autem est finis: propter quod intentio dicitur esse de fine, non secundum quod voluntas in finem absolute
+fertur, sed secundum quod ex eo quod est ad finem, in finem tendit. Unde intentio in ratione sua ordinem
+quemdam unius ad alterum importat. Ordo autem unius ad alterum, non est nisi per intellectum, cujus est
+ordinare. Sed in quibusdam intellectus ordinans appetitum in finem est conjunctus ipsi appetitui, sicut in
+habentibus intellectum, ut in homine et in Angelo; in quibusdam autem intellectus ordinans est separatus, sicut in
+naturalibus, quae diriguntur in finem ab intellectu naturam instituente, et finem sibi praesignante. Appetitus
+autem intellectui conjunctus, voluntas dicitur: sed appetitus ab intellectu separatus, est appetitus sensibilis et
+naturalis.
+Quamvis autem cujuslibet horum appetituum intentio communis sit, per prius tamen in voluntate invenitur, quae
+ab intellectu conjuncto in finem dirigitur; et ideo intentio primo et per se actum voluntatis nominat secundum
+quod in ea est vis intellectus ordinantis.
+RA1
+Ad primum ergo dicendum, quod in passione intelligitur etiam operatio: quia operationes animae passiones
+etiam quaedam sunt, quia intelligere est quoddam pati, et sentire. Vel etiam intelligitur in habitu operatio, qui
+principium operationis est: vel quia operatio non significatur ut in anima existens, sed ut ab anima egrediens.
+RA2
+Ad secundum dicendum, quod naturalia quamvis non habeant voluntatem, tamen intendunt aliquid per appetitum
+naturalem, secundum quod diriguntur in finem suum ab intellectu divino naturae attribuente inclinationem in
+finem, quae inclinatio appetitus naturalis dicitur; et ideo non est ita proprie intentio in eis sicut in agentibus a
+proposito.
+RA3
+Ad tertium dicendum, quod dirigere vel esse oculum, attribuitur intentioni, non secundum quod est actus
+voluntatis simpliciter, sed secundum quod vis rationis ordinantis in voluntate manet.
+RA4
+Ad quartum dicendum, quod cum voluntas moveat omnes potentias in actus suos, non solum est respectu eorum
+quae ad practicum intellectum pertinent, sed etiam eorum quae ad speculativum: sicut enim homo vult ambulare,
+vel aliquid hujusmodi facere; ita etiam vult considerare, et veritatem quaestionis alicujus invenire.
+RA5
+Ad quintum dicendum, quod intentio non est actus voluntatis absolute, sed in ordine ad rationem actum
+voluntatis ordinantem. Sed ratio potest ordinare actum voluntatis dupliciter: vel secundum quod voluntas est de
+fine, et sic actus voluntatis in ordine ad rationem est intentio: vel secundum quod est de his quae sunt ad finem;
+et sic actus voluntatis in ordine ad rationem est electio.
+|a4 Articulus 4: Utrum voluntas uno et eodem actu velit finem et ea quae sunt ad finem.
+AG1
+751
+
+

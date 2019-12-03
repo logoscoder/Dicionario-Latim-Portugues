@@ -1,0 +1,61 @@
+PR1
+Primo utrum forma panis annihiletur.
+PR2
+Secundo utrum sacerdos dare debeat hostiam non consecratam peccatori occulto hoc petenti.
+|a1 Articulus 1
+TTA
+Utrum forma panis in sacramento eucharistiae annihiletur.
+TTB
+Ad primum sic proceditur: videtur quod forma panis in sacramento eucharistiae annihiletur.
+AG1
+Illud enim annihilari videtur, quod desinit esse et in nihil convertitur. Sed forma panis, facta consecratione,
+desinit esse, nec est dare in quod convertatur: non enim convertitur in materiam corporis Christi, nec etiam in
+formam eius, quae est anima, alioquin anima esset ibi ex VI sacramenti. Ergo forma panis annihilatur.
+AG2
+Praeterea, Augustinus dicit: si humana natura convertitur in verbum, si diligentius cogitamus, homo periret in
+Deo. Sed illud annihilari dicitur quod perit. Ergo, si panis convertitur in corpus Christi, videtur quod annihiletur.
+SC
+Sed contra est, quia sicut Augustinus dicit, Lib. Lxxxiii quaest., Deus non est auctor tendendi in non esse. Est
+autem auctor sacramenti eucharistiae. Ergo in illo sacramento nihil annihilatur.
+CO
+Respondeo. Dicendum, quod annihilatio quemdam motum importat. Omnis autem motus denominatur a termino
+ad quem; unde terminus annihilationis est nihil.
+Consecratio autem panis in sacramento eucharistiae, non terminatur ad nihil, sed ad corpus Christi; alioquin non
+esset dare quomodo corpus Christi incipiat esse sub sacramento; non enim incipit ibi esse per motum localem,
+alioquin desineret esse in caelo.
+Relinquitur ergo quod in consecratione panis non est aliqua annihilatio, sed transubstantiatio panis in corpus
+Christi.
+RA1
+Ad primum ergo dicendum, quod sicut in generatione naturali neque forma neque materia generatur aut
+corrumpitur, sed totum compositum; ita etiam in sacramento altaris non est quaerendum seorsum de forma aut
+materia in quid convertatur; sed totus panis convertitur in totum corpus Christi, in quantum est corpus: quia si in
+triduo mortis Christi fuisset consecratio facta, non fuisset ibi anima, sed corpus exanime, sicut in sepulcro
+iacebat.
+RA2
+Ad secundum dicendum, quod perire diceretur natura humana, si converteretur in verbum, in quantum esse
+desineret, quod pertinet ad terminum a quo; non autem si annihiletur quantum ad terminum ad quem.
+|a2 Articulus 2
+TTA
+Utrum sacerdos dare debeat hostiam non consecratam peccatori occulto hoc petenti.
+TTB
+Circa secundum sic procedebatur: videtur quod sacerdos non debeat dare hostiam non consecratam peccatori
+occulto hoc petenti.
+AG1
+Non enim debet sacerdos peccatum occultum publicare. Publicaret autem, si ei daret hostiam non consecratam,
+cum aliis sociis daret consecratam. Ergo sacerdos non debet dare hostiam non consecratam peccatori occulto hoc
+petenti.
+AG2
+Praeterea, hostia consecrata a sacerdote alicui fideli porrecta, a circumstantibus adoratur.
+Si ergo exhibet hostiam non consecratam loco consecratae, quantum est in se, faciet populum idololatrare; quod
+est grave peccatum.
+Non ergo sacerdos debet peccatori occulto petenti dare hostiam non consecratam.
+AG3
+Sed contra, est quia sacerdos est medicus animarum. Sapiens autem medicus vitat, quantum potest, periculum
+infirmi quem accepit in cura. Peccatori autem, cuius curam habet, imminet magnum periculum, si in conscientia
+mortalis peccati corpus Christi accipiat; quia qui manducat et bibit indigne, iudicium sibi manducat et bibit, ut
+dicitur I Cor. XI, 29.
+Ergo sacerdos bene facit, si eius periculum evitet, porrigens ei hostiam non consecratam.
+CO
+105
+
+

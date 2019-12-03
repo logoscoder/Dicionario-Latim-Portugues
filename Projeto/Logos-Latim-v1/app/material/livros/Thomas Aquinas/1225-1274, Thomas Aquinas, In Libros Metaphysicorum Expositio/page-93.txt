@@ -1,0 +1,62 @@
+Lectio 8
+[82201] In Metaphysic., lib. 4 l. 8 n. 1
+Ponit tertiam rationem, quae sumitur ex uno et diverso: et est ratio talis. Si affirmatio et negatio verificantur simul de
+eodem, omnia sunt unum. Hoc autem est falsum; ergo et primum. Circa hanc rationem tria facit. Primo ponit
+conditionalem et exemplificat, quia scilicet sequeretur si contradictiones simul verificantur de eodem, quod idem essent
+triremis, idest navis habens tres ordines remorum, et murus et homo.
+[82202] In Metaphysic., lib. 4 l. 8 n. 2
+Secundo cum dicit quemadmodum est ostendit quod idem inconveniens sequitur ad duas alias positiones. Primo ad
+opinionem Protagorae, qui dicebat quod quicquid alicui videtur, hoc totum est verum; quia si alicui videtur quod homo
+non sit triremis, non erit triremis; et si alteri videtur quod sit triremis, erit triremis; et sic erunt contradictoria vera.
+[82203] In Metaphysic., lib. 4 l. 8 n. 3
+Secundo ad opinionem Anaxagorae, qui dicebat omnes res simul esse, quasi nihil sit vere unum ab aliis determinatum,
+sed omnia sint unum in quadam confusione. Dicebat enim, quod quodlibet sit in quolibet, sicut in primo physicorum
+ostensum est. Quod ideo accidebat Anaxagorae, quia ipse videtur loqui de ente indeterminato, idest quod non est
+determinatum in actu. Et cum putaret loqui de ente perfecto, loquebatur de ente in potentia, sicut infra patebit. Quod
+autem est in potentia et non endelechia, idest in actu, est indefinitum. Potentia enim non finitur nisi per actum.
+[82204] In Metaphysic., lib. 4 l. 8 n. 4
+Tertio cum dicit sed dicenda probat conditionalem primo propositam esse veram. Et primo quantum ad hoc quod omnia
+affirmative dicta unum essent. Secundo quantum ad hoc quod affirmationes a suis negationibus non distinguerentur in
+veritate et falsitate, ibi, et quia non est necesse et cetera. Dicit ergo primo, quod illud primum est ab eis supponendum
+ex quo ponunt affirmationem et negationem simul verificari de eodem, quod de quolibet est affirmatio et negatio vera.
+Constat enim quod de unoquoque magis videtur praedicari negatio alterius rei, quam negatio propria. Inconveniens
+enim esset si alicui inesset sua negatio et non inesset negatio alterius rei, per quam significatur quod illa res non inest
+ei: sicut si verum est dicere quod homo non est homo, multo magis est verum dicere quod homo non est triremis. Patet
+ergo, quod de quocumque necessarium est praedicari negationem, quod praedicatur de eo affirmatio. Et ita per
+consequens praedicabitur negatio, cum affirmatio et negatio sint simul vera; aut si non praedicabitur affirmatio,
+praedicabitur negatio alterius magis quam negatio propria. Sicut si triremis non praedicatur de homine, praedicabitur de
+eo non triremis, multo magis quam non homo. Sed ipsa negatio propria praedicatur, quia homo non est homo: ergo et
+negatio triremis praedicabitur de eo, ut dicatur quod homo non est triremis. Sed si praedicatur affirmatio, praedicabitur
+negatio, cum simul verificentur: ergo necesse est quod homo sit triremis et eadem ratione quodlibet aliud. Et sic omnia
+erunt unum. Hoc igitur contingit dicentibus hanc positionem, scilicet quod contradictio verificetur de eodem.
+[82205] In Metaphysic., lib. 4 l. 8 n. 5
+Deinde cum dicit et quia non deducit aliud inconveniens, quod scilicet non distinguatur negatio ab affirmatione in
+falsitate, sed utraque sit falsa. Dicit ergo quod non solum praedicta inconvenientia sequuntur ad praedictam positionem,
+sed etiam sequitur quod non sit necessarium affirmare et negare, idest quod non sit necessarium affirmationem vel
+negationem esse veram, sed contingit utramque esse falsam. Et sic non erit distantia inter verum et falsum. Quod sic
+probat.
+[82206] In Metaphysic., lib. 4 l. 8 n. 6
+Si verum sit quod aliquid sit homo et non homo, verum est quod id non erit homo, nec erit non homo. Et hoc patet.
+Horum enim duorum quae sunt homo et non homo, sunt duae negationes, scilicet non homo et non non homo. Si autem
+ex primis duabus fiat una propositio, ut dicamus, Socrates non est homo nec non homo, sequitur quod nec affirmatio
+nec negatio sit vera, sed utraque falsa.
+[82207] In Metaphysic., lib. 4 l. 8 n. 7
+Deinde cum dicit amplius autem ponit quartam rationem quae sumitur ex certitudine cognitionis; et est talis. Si
+affirmatio et negatio simul verificantur, aut ita est in omnibus, aut ita est in quibusdam, et in quibusdam non: si autem
+non est verum in omnibus, illae, in quibus non est verum, erunt confessae, idest simpliciter et absolute concedendae,
+vel erunt certae, idest certitudinaliter verae secundum aliam translationem; idest in eis ita erit vera negatio, quod
+affirmatio erit falsa, vel e converso.
+[82208] In Metaphysic., lib. 4 l. 8 n. 8
+Si autem hoc est verum in omnibus, quod contradictio verificetur de eodem, hoc contingit dupliciter. Uno modo quod
+de quibuscumque sunt verae affirmationes, sunt verae negationes, et e converso. Alio modo quod de quibuscumque
+verificantur affirmationes, verificentur negationes, sed non e converso.
+[82209] In Metaphysic., lib. 4 l. 8 n. 9
+Et si hoc secundum sit verum, sequitur hoc inconveniens, quod aliquid firmiter vel certitudinaliter est non ens; et ita erit
+firma opinio, quae scilicet est de negativa; et hoc ideo, quia negativa semper est vera, eo quod quandocumque est
+affirmativa vera, est etiam negativa vera. Non autem affirmativa semper erit vera, quia positum est, quod non de
+quocumque est vera negativa, sit vera affirmativa; et ita negativa erit firmior et certior quam affirmativa: quod videtur
+esse falsum: quia dato quod non esse sit certum et notum, tamen semper erit certior affirmatio quam negatio ei
+opposita, quia veritas negativae semper dependet ex veritate alicuius affirmativae. Unde nulla conclusio negativa
+infertur, nisi in praemissis sit aliqua affirmativa. Conclusio vero affirmativa ex negativa non probatur.
+
+

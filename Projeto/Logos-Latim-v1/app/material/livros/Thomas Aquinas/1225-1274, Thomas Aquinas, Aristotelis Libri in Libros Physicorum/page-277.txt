@@ -1,0 +1,67 @@
+|+9
+
+Lectio 9
+
+|#1
+Postquam Philosophus ostendit qui motus sint comparabiles ad invicem,
+hic docet quomodo comparentur.
+Et primo in motu locali; secundo in aliis motibus, ibi: sic igitur est in
+alteratione etc..
+Circa primum duo facit: primo ponit ea secundum quae oportet comparari
+motus locales ad invicem; secundo accipit regulas comparationis secundum
+praedicta, ibi: si igitur a quod est movens etc..
+Dicit ergo primo, quod movens localiter semper movet aliquod mobile, et
+iterum in aliquo tempore, et usque ad aliquam quantitatem spatii. Quod ideo
+oportet esse, quia sicut in sexto probatum est, semper simul aliquid movet
+et movit. Probatum est enim ibi, quod omne quod movetur, iam est motum per
+aliquam partem spatii, et per aliquam partem temporis. Unde sequitur quod
+et illud quod movetur est aliquod quantum et divisibile, et etiam illud per
+quod movetur, et tempus in quo movetur. Movens autem non omne est quantum,
+ut in octavo probabitur: sed tamen manifestum est aliquod quantum esse
+movens; et de hoc movente hic proponit regulas comparationis.
+|#2
+Deinde cum dicit: si igitur a etc., ponit regulas comparationis.
+Et primo secundum divisionem mobilis; secundo quando movens dividitur, ibi:
+et si eadem potentia etc..
+Dicit ergo primo: accipiatur aliquod movens quod sit a, et aliquod mobile
+quod sit b, et longitudo spatii pertransiti quae sit c; et tempus in quo a
+movet b per c sit d.
+Si ergo accipiatur aliqua alia potentia movens, aequalis potentiae ipsi a,
+sequetur quod illa potentia movebit medietatem mobilis quod est b, in eodem
+tempore per longitudinem quae sit dupla quam c; sed medietatem mobilis
+movebit per totam longitudinem c, in medietate temporis quod est d.
+Ex his igitur verbis Philosophi duae regulae generales accipi possunt.
+Quarum prima est, quod si aliqua potentia movet aliquod mobile per aliquod
+spatium in aliquo tempore, medietatem illius mobilis per duplum spatium
+movebit vel aequalis potentia in eodem tempore, vel eadem in alio aequali.
+Alia regula est, quod medietatem mobilis movebit per idem spatium aequalis
+potentia in medietate temporis. Et horum ratio est, quia sic conservabitur
+eadem analogia, idest eadem proportio. Manifestum est enim quod velocitas
+motus est ex victoria potentiae moventis super mobile: quanto autem mobile
+fuerit minus, tanto potentia moventis magis excedit ipsum: unde velocius
+movebit. Velocitas autem motus diminuit tempus, et auget longitudinem
+spatii: quia velocius est quod in aequali tempore pertransit maiorem
+magnitudinem, et aequalem magnitudinem in minori tempore, ut in sexto
+probatum est.
+Ergo secundum proportionem qua subtrahitur a mobili, oportet subtrahi de
+tempore, vel addi ad longitudinem spatii, dummodo movens sit idem vel
+aequale.
+|#3
+Deinde cum dicit: et si eadem potentia etc., docet comparare motus ex
+parte moventis: et primo secundum divisionem moventis; secundo secundum
+oppositam congregationem, ibi: si vero duo et utrumque etc..
+Circa primum tria facit: primo ponit comparationem veram; secundo removet
+comparationes falsas, ibi: et si e ipsum z etc.; tertio ex hoc solvit
+rationem zenonis, ibi: propter hoc zenonis ratio etc..
+Dicit ergo primo, quod si aliqua potentia idem mobile movet in eodem
+tempore per tantum spatium, ipsamet movet medietatem mobilis in medietate
+temporis per idem spatium; vel in eodem tempore movet medium mobilis per
+duplum spatium; sicut et de aequali potentia dictum est. Et ulterius, si
+dividatur potentia, media potentia movebit medietatem mobilis per idem
+spatium in aequali tempore. Sed hoc intelligendum est, quando potentia est
+talis quae per divisionem non corrumpitur. Loquitur enim secundum
+considerationem communem, nondum applicando ad aliquam specialem naturam,
+sicut et in omnibus quae praemisit. Et ponit exemplum. Si enim accipiatur
+277
+
+

@@ -1,0 +1,60 @@
+De motu supercaelestium
+Printed Source: Die Philosophischen Werke des Robert Grosseteste, Bischofs von Lincoln (Münster i. W.,
+Aschendorff, 1912.), pp. 92 - 100.
+INC: Incipit tractatus de motu supercaelestium. Quoniam motus simplex aut est circularis aut rectus, et omnis
+motus, sicut ostensum est in VIII Physicorum, est alicuius moti et non absque aliquo motore, sed quoniam motus
+simplex et perfectus est moti simplicis et perfecti, sicut ostensum est in primo Caeli et mundi, et motus circularis
+est talis dispositionis, erit igitur de necessitate moti simplicis et perfecti eiusdem, quod maxime accedit ad
+naturam formae et maxime recedit a natura materiae.
+EXPL: Sed quoniam hoc est altioris inquisitionis - non enim est, nisi eius, qui perfecte novit positiones
+Ptolemaei in Almagesto et destructiones earundem, quas ponit Alpetragius - ipsi ad praesens supersedeamus.
+Explicit de dispositione motoris et moti.
+pp. 92 - 93: Incipit tractatus de motu supercaelestium. Quoniam motus simplex aut est circularis aut rectus, et
+omnis motus, sicut ostensum est in VIII Physicorum, est alicuius moti et non absque aliquo motore, sed quoniam
+motus simplex et perfectus est moti simplicis et perfecti, sicut ostensum est in primo Caeli et mundi, et motus
+circularis est talis dispositionis, erit igitur de necessitate moti simplicis et perfecti eiusdem, quod maxime accedit
+ad naturam formae et maxime recedit a natura materiae.Tale autem solum est corpus circularis dimensionis, eo
+quod circularis dimensio, quoniam terminata est per se, consequitur per naturam formae. Recta autem, quoniam
+non est terminata per se, sed per aliud, consequitur per naturam materiae. Propter hoc motus circularis erit
+circularis dimensionis. Et quia quaesita est dispositio motoris et moti in motu recto, consequenter est
+quaerendum de motu circulari.
+p. 93: Quoniam igitur, sicut dictum est in VIII Physicorum, omne quod movetur, aut movetur a se, aut ab alio,
+ergo motum primo motu scilicet circulari, aut movetur a se, aut ab alio. Sed quoniam omne, quod movetur ab
+alio, movetur a motore extrinseco, illud autem non movetur a motore extrinseco, cuius causa est, quia ille motus
+est primus, sicut ostenditur in VIII , et motus primus a motore primo, quia non habet motorem extra ipsum, cum
+sit immobilis, ita quod neque essentialiter, neque accidentaliter moveri potest: igitur illud motum non movebitur
+ab alio, ergo a se. Sed sicut ostensum est in VIII, intentio eius, quod est motum a se est, quod motus componatur
+ex motore et moto, motore distincto a moto secundum designationem et non secundum esse. Tunc sicut motum a
+se componitur ex motore et moto secundum hunc modum, tunc motor in eis secundum esse non distinguitur a
+moto, igitur constituitur per ipsum, qualis est dispositio in animabus.
+pp. 93 - 94: Videtur idem hoc per hoc, quod ostensum est in VIII. Ostensum est enim, quod necesse est, quod
+motor sit simul cum moto ipso. Simul autem in huiusmodi motis non potest esse, nisi secundum intentionem
+praedictam, scilicet ut motor coniungatur moto et non distinguatur ab ipso secundum esse. Sed hoc non potest
+stare, nisi motor talis dispositionis non est abstractus, sed coniunctus. Similiter autem cum constituatur in esse
+secundum subiectum motum, de necessitate movebitur per accidens, scilicet per motum ipsius subiecti. Et
+ostensum est in VIII, quod primum motum et motum hoc, scilicet habens animam, utrumque movetur a se, sed
+differt unum ab alio, quod in motore primi moti non subintrat motus alius essentialiter vel accidentaliter,
+quoniam si sic esset, non esset motor continuus neque aeternus. Motor autem in habentibus animas movetur per
+accidens. Et hoc creditur ex hoc, quod faciunt motum esse post quietem in eis et non movent continue.
+p. 94: Item cum iste motor sit abstractus, neque movetur ab aliquo moto, remanet dubitatio de modo motoris
+ipsius, scilicet: quomodo facit motus? Et sermo Aristotelis est hic et XII Metaphysicae, quod primum sic movet
+sicut desideratum et intellectum movet nos. Sed cum desideratum moveat nos per modum finis, tunc et iste
+motor in illis erit per modum finis: et quaestio nostra est de eo, quod movet per modum efficientis.
+pp. 94 - 95: Item quaestio est, si desideratum sit idem, quod intellectum in illis. Manifestum est enim, quod in
+nobis differunt et sunt principia diversorum motuum, quorum unus est sensibilis, reliquus autem rationalis. In
+illis autem videtur, quod non differunt. Causa autem est, quod sensus in nobis differunt ab intellectu, quia
+potentiae, quibus comprehenduntur res in nobis sunt diversae scilicet sensus et intellectus. Sensu enim
+comprehenditur desideratum et voluptuosum, intellectu autem intellectum. Cum igitur corpora caelestia non
+sentiant, nec erit in eis desideratum differens ab intellecto. Intellectum enim in eis est movens, eo quod est
+bonum visibile et voluptuosum. Causa autem in hoc, quod non sentiant est, sicut tangit Aristoteles in libro de
+anima, quod sensus non est nisi ad salutem, quod non est in ipsis, quia non indigent corpora supercaelestia. Et
+ideo cum natura nihil agat otiose, non erit in eis virtus sensibilis. Ex hoc manifestum est, quod haec corpora sunt
+animata et non habent de virtutibus animae, nisi virtutem intellectivam et desiderativam, quae movet in loco et
+haec est, quae immediate facit motum in ipsis. Motor enim, qui movet per modum desiderati et intellecti, sicut
+dictum est, est virtus separata. Et dubium est, utrum virtus separata moveat sic secundum motum duplicem, licet
+eadem sit secundum substantiam, an differat secundum esse. Manifestum est enim, quod movenes in nobis
+secundum hos duos modos scil. secundum agens et secundum finem est differens secundum formam scil. in
+anima et extra animam. Secundum enim quod est in anima est agens motum; secundum autem quod est extra
+1
+
+

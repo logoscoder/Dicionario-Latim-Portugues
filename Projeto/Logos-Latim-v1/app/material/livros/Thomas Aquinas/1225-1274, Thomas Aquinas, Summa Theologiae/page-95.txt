@@ -1,0 +1,62 @@
+CO
+Respondeo dicendum quod, sicut bonum habet rationem appetibilis, ita verum habet ordinem ad cognitionem.
+Unumquodque autem inquantum habet de esse, intantum est cognoscibile.
+Et propter hoc dicitur in III de anima, quod anima est quodammodo omnia secundum sensum et intellectum.
+Et ideo, sicut bonum convertitur cum ente, ita et verum. Sed tamen, sicut bonum addit rationem appetibilis supra
+ens, ita et verum comparationem ad intellectum.
+RA1
+Ad primum ergo dicendum quod verum est in rebus et in intellectu, ut dictum est.
+Verum autem quod est in rebus, convertitur cum ente secundum substantiam. Sed verum quod est in intellectu,
+convertitur cum ente, ut manifestativum cum manifestato. Hoc enim est de ratione veri, ut dictum est.
+Quamvis posset dici quod etiam ens est in rebus et in intellectu, sicut et verum; licet verum principaliter in
+intellectu, ens vero principaliter in rebus.
+Et hoc accidit propter hoc, quod verum et ens differunt ratione.
+RA2
+Ad secundum dicendum quod non ens non habet in se unde cognoscatur, sed cognoscitur inquantum intellectus
+facit illud cognoscibile. Unde verum fundatur in ente, inquantum non ens est quoddam ens rationis, apprehensum
+scilicet a ratione.
+RA3
+Ad tertium dicendum quod, cum dicitur quod ens non potest apprehendi sine ratione veri, hoc potest dupliciter
+intelligi.
+Uno modo, ita quod non apprehendatur ens, nisi ratio veri assequatur apprehensionem entis. Et sic locutio habet
+veritatem.
+Alio modo posset sic intelligi, quod ens non posset apprehendi, nisi apprehenderetur ratio veri. Et hoc falsum est.
+Sed verum non potest apprehendi, nisi apprehendatur ratio entis, quia ens cadit in ratione veri. Et est simile sicut
+si comparemus intelligibile ad ens. Non enim potest intelligi ens, quin ens sit intelligibile, sed tamen potest
+intelligi ens, ita quod non intelligatur eius intelligibilitas. Et similiter ens intellectum est verum, non tamen
+intelligendo ens, intelligitur verum.
+|a4 Articulus 4
+AG1
+Ad quartum sic proceditur. Videtur quod bonum secundum rationem sit prius quam verum. Quod enim est
+universalius, secundum rationem prius est, ut patet ex I physic..
+Sed bonum est universalius quam verum, nam verum est quoddam bonum, scilicet intellectus. Ergo bonum prius
+est secundum rationem quam verum.
+AG2
+Praeterea, bonum est in rebus, verum autem in compositione et divisione intellectus, ut dictum est.
+Sed ea quae sunt in re, sunt priora his quae sunt in intellectu. Ergo prius est secundum rationem bonum quam
+verum.
+AG3
+Praeterea, veritas est quaedam species virtutis, ut patet in IV ethic..
+Sed virtus continetur sub bono, est enim bona qualitas mentis, ut dicit Augustinus.
+Ergo bonum est prius quam verum.
+SC
+Sed contra, quod est in pluribus, est prius secundum rationem.
+Sed verum est in quibusdam in quibus non est bonum, scilicet in mathematicis. Ergo verum est prius quam
+bonum.
+CO
+Respondeo dicendum quod, licet bonum et verum supposito convertantur cum ente, tamen ratione differunt. Et
+secundum hoc verum, absolute loquendo, prius est quam bonum. Quod ex duobus apparet. Primo quidem ex hoc,
+quod verum propinquius se habet ad ens, quod est prius, quam bonum. Nam verum respicit ipsum esse
+simpliciter et immediate, ratio autem boni consequitur esse, secundum quod est aliquo modo perfectum; sic enim
+appetibile est.
+Secundo apparet ex hoc, quod cognitio naturaliter praecedit appetitum. Unde, cum verum respiciat cognitionem,
+bonum autem appetitum, prius erit verum quam bonum secundum rationem.
+RA1
+Ad primum ergo dicendum quod voluntas et intellectus mutuo se includunt, nam intellectus intelligit voluntatem,
+et voluntas vult intellectum intelligere. Sic ergo inter illa quae ordinantur ad obiectum voluntatis, continentur
+etiam ea quae sunt intellectus; et e converso. Unde in ordine appetibilium, bonum se habet ut universale, et
+verum ut particulare, in ordine autem intelligibilium est e converso. Ex hoc ergo quod verum est quoddam
+bonum, sequitur quod bonum sit prius in ordine appetibilium, non autem quod sit prius simpliciter.
+95
+
+

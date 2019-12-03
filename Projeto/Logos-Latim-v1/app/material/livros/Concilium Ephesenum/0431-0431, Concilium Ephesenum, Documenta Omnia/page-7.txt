@@ -1,0 +1,63 @@
+34 oratio V630; W411; B132; V1341
+35 sic fehlt W411
+36 terra V630; V1341; E97
+37 non veni pacem mittere fehlt W411
+38 separare korr. aus separari O93
+39 filia O93
+40 pericosa W411
+41 amor korr. aus amore W411
+42 consequatur B132
+43 te fehlt W411
+44 sancto W411
+45 ampla B132
+46 fratre W411
+47 celestino korr. aus celestine W411
+48 abstineas] abstineas distortisque W411
+49 traditam korr. aus traditas B132
+50 relegio W411
+51 dilationem korr. aus dilectionem E97
+52 consacerdotes O93
+53 convivium vel fehlt W411
+54 vel colloquium fehlt V630; B132; V1341; E97
+55 contemnere] conteri non solum V630; B132; conterere nos W411; conteri non V1341; contemnere solum E97
+56 scandalizatas V630; B132; V1341; scandalizatos korr. aus scandalizatas E97
+57 populis V630; B132; V1341
+58 dissipatamque V630; B132; dissipatam korr. aus dissipatum W411; dissipatumque V1341
+59 dogmatis V630; B132; V1341; E97
+60 extetisse W411
+61 relegio W411
+62 aut V1341
+63 clericos korr. aus clecos E97
+64 nostram communionem korr. aus nostra communione O93; nostram communionem] nostra
+65 recipimus E97
+66 quin E97
+67 misimus V630; B132; V1341; misi W411
+68 sufficit korr. aus sufficit vel religionis O93; sufficit vel tue religionis korr. aus sufficit vel religionis V630;
+sufficit] sufficit tue relegionis W411; sufficit vel regionis B132; sufficit vel religionis V1341; sufficit tuae
+religioni E97
+69 sancti spiritus] spiritus sancti V630; B132; V1341; E97
+70 a fehlt W411
+71 perverse] per se B132
+72 sed korr. aus se W411
+73 quo W411
+74 anathematizes korr. aus anathematizates E97
+75 tua fehlt W411
+76 docemus korr. aus videmus B132
+77 relegioni W411
+78 directis korr. aus directus W411
+79 tam korr. aus tamen B132
+80 eam W411
+81 te fehlt V630; te sentire] sentire te B132; V1341; E97
+82 oportet B132
+83 et fehlt W411
+84 ea fehlt V630; B132; V1341; E97
+85 a fehlt W411
+86 est fehlt W411
+87 autem B132
+88 cuncti korr. aus cuncte W411
+89 orthodoxis W411
+90 super W411
+91 orientem] orientem et W411
+7
+
+

@@ -1,0 +1,63 @@
+prohibere quod aliquid quod est factum seu genitum sit incorruptibile, et aliquid quod est ingenitum possit
+corrumpi; ita scilicet quod uni eorum, scilicet genito, adsit semel tantum generatio, et alteri adsit semel tantum
+corruptio, sine vicissitudine generationis et corruptionis: per hoc necesse est destruere aliquod principiorum
+suppositorum. Si enim conclusio syllogistice sequitur ex praemissis, non potest interimi conclusio ex necessitate
+consequens ex praemissis, nisi interimatur aliquod praemissorum.
+Hoc autem videtur dicere contra Platonem, qui posuit mundum genitum sed incorruptibilem, et ex consequenti
+posuit quod illud inordinatum ex quo mundus est genitus, fuerit ingenitum sed corruptibile: quamvis quidam
+dicant hoc Platonem non sic intellexisse sicut sonant verba eius, contra quae hic Aristoteles disputat. Sed
+quantum pertinet ad expositionem huius libri, non refert utrum sic vel aliter Plato senserit, dummodo videatur
+qualiter haec positio improbetur per rationes Aristotelis.
+|#3
+Resumit autem unum principiorum datorum, ex cuius suppositione argumentabatur ad propositum
+ostendendum: et dicit quod omnia habentia aliquam virtutem, possunt facere vel pati, vel esse vel non esse ea
+quorum habent virtutem, vel in tempore infinito vel in quodam tempore determinatae quantitatis, quod sit
+simpliciter finitum.
+Et quia supra non fecerat mentionem quod virtus diceretur nisi respectu determinati temporis, subiungit quod
+propter hoc habentia virtutem possunt aliqua facere vel esse tempore infinito, quia etiam ipsum tempus infinitum
+est aliqualiter determinatum, scilicet secundum rationem, ut non possit in eo diversitas inveniri: quia scilicet
+infinitum est cuius non est plus, idest quo non potest maius accipi. Nec obstat quod Aristoteles in III physic.
+Improbat hanc definitionem infiniti, dicens eam magis esse definitionem perfecti et totius, cum tamen infinitum
+sit imperfectum et in modum partis se habens: quia Philosophus ibi loquitur de infinito secundum id quod de eo
+est in actu, cui semper potest additio fieri; hic autem loquitur de infinito secundum totum quod est de eo in
+potentia, cui non potest additio fieri. Et talis etiam est dispositio temporis, de quo nunc loquitur: quia tempus non
+est totum simul, sed est successivum. Illud autem tempus quod est infinitum quo, idest secundum aliquid, scilicet
+secundum principium vel secundum finem, neque est infinitum simpliciter, quia potest eo aliquid esse plus,
+neque simpliciter determinatum, quia non habet aliquam certam quantitatem.
+Et ideo, secundum praedictam suppositionem, non potest esse quod aliquid habeat virtutem faciendi vel patiendi,
+sive essendi vel non essendi, aliquo tempore quod sit finitum ex una parte et infinitum ex alia. Quicumque autem
+ponit quod aliquid est ingenitum et corruptibile, vel genitum et incorruptibile, ponit quod aliquid habeat
+potentiam essendi vel non essendi tempore secundum quid infinito et secundum quid finito: ergo destruit
+praedictum principium suppositum.
+|#4
+Deinde cum dicit: adhuc quid magis etc., ostendit quod praedicta positio destruit aliud principium
+suppositum, scilicet quod impossibile est idem esse et non esse. Et circa hoc duo facit: primo ostendit
+propositum ex parte potentiae eius quod ponitur generari vel corrumpi; secundo ex parte causae ipsius, ibi: est
+autem et sic videre etc..
+Circa primum duo facit: primo ostendit quod ponentibus aliquod ingenitum corrumpi, vel aliquod genitum
+incorruptibile, sequitur quod aliquid possit simul esse et non esse; secundo ostendit quod idem inconveniens
+sequitur ponentibus aliquid esse corruptibile quod non corrumpitur, ibi: manifestum autem et aliter etc..
+Circa primum ponit tres rationes. Circa quarum primam dicit: si ponamus quod aliquid ingenitum prius semper
+fuit, et postea corrumpatur in aliquo signo temporis, idest in aliquo instanti, nulla ratio potest assignari quare
+magis possit corrumpi in isto instanti quam in aliquo infinitorum praecedentium. Et similiter si aliquid sit
+genitum quod prius non erat tempore infinito, et postea factum est in aliquo instanti, nulla ratio potest assignari
+quare magis possit esse vel fieri in hoc instanti quam in aliquo praecedentium infinitorum. Posset autem ratio
+assignari si tempus praecedens poneretur finitum, quia posset dici quod haberet virtutem ad esse vel non esse in
+tanto tempore, et non in pluri: sed ex quo ponitur fuisse vel non fuisse tempore infinito, praedicta ratio cessat. Et
+ideo necesse est ponere quod ingenitum potuerit non esse in quolibet instantium praecedentis temporis; et
+similiter quod genitum potuerit esse in quolibet instantium praecedentis temporis. Si enim nihil magis, idest si
+nulla maior ratio est quare possit incipere esse vel non esse in isto instanti quam in aliquo praecedentium, cum
+infinita signa, idest infinita instantia, praecesserint, manifestum est quod in illo infinito tempore erit aliquid
+generabile, ita quod in quolibet instanti illius temporis infiniti potuerit generari. Et similiter est dicendum quod in
+quolibet instanti illius temporis erat corruptibile illud quod ponitur ingenitum et postea corruptum.
+Sic igitur patet quod illud quod ponitur praeextitisse tempore infinito, potuit etiam non esse toto illo tempore
+infinito. Sequetur igitur quod aliquid habebit virtutem simul, idest respectu eiusdem temporis, eius quod est esse
+et eius quod est non esse: ita tamen quod ex parte eius quod est ingenitum et corruptibile, accipiatur esse prius
+quam non esse; ex parte autem geniti et incorruptibilis accipiatur esse posterius quam non esse. Nihil autem
+prohibet ponere id quod est possibile. Si ergo ponamus quod illud quod est ingenitum, pro illo tempore in quo
+erat et poterat non esse, quod tunc non fuerit, sequetur opposita simul esse, scilicet quod illud simul sit et non sit.
+Sic igitur praedicta positio removet hoc quod suppositum est, scilicet quod impossibile est idem simul esse et
+non esse.
+61
+
+

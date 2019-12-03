@@ -1,0 +1,62 @@
+Si est a, non est b; et si non est b, est c.
+Si est a, non est b; et si non est b, non est c.
+Si non est a, est b; et si est b, est c.
+Si non est a, est b; et si est b, non est c. /304/
+Si non est a, non est b; et si non est b, est c.
+Si non est a, non est b; et si non est b, non est c.
+[2.9.3] Ergo ratio colligentiae talis est, ut si constituat et confirmet assumptio quod enuntiatio prima
+pronuntiat, sexdecim necesse est fieri complexiones, ex quibus octo tantum seruant consequentiae necessitatem,
+reliquae uero octo nihil habere idoneum uidentur ad fidem. Rursus id quod propositio prima constituit euertat
+assumptio: sic quoque sexdecim necesse est fieri complexiones, quarum octo firma necessitas tenet, octo uero reliquas
+infida saepius uarietas mutat.
+Fiunt uero hi syllogismi, tum in prima figura, tum in secunda, tum uero in tertia. Omnes igitur trium figurarum
+modos, a prima ordientes, ut nihil subterfugiat explicemus.
+[2.9.4] Est enim primae figurae primus modus a prima ueniens propositione, cum ita proponimus:
+Si est a, est b; Si est b, necesse est esse c.
+Tunc enim si est a, etiam c esse necesse est, cuius haec demonstratio est: nam si est a, consequitur ut sit b (id
+est enim quod proponit prima conditio, si sit a, esse b); at si b fuerit est c, id est enim quod propositionis pars secunda
+pronuntiat, si sit b, consequi necessario ut sit c.
+Quibus ita concessis, euenit ut, cum sit a, etiam c esse necesse sit; imperfectum uero hunc dicimus
+syllogismum, quia testimonio probationis indiguit; probatio uero ea fuit per syllogismum demonstratio.
+[2.9.5] Ita namque firmauimus talis consequentiae necessitatem: cum enim ita proponeretur:
+Si est a, est b; /306/
+Et si est b, necesse est ut sit c;
+poneretque assumptio id quod affirmatio constituerat, esse a, eamque assumptionem talis sequi conclusio
+diceretur, quod necessario esset c, neque id esset ipsius syllogismi natura et proprietate perspicuum, addita est probatio
+per syllogismum hoc modo:
+Si est a, est b; At si est b, est c; Si igitur est a, necesse est ut sit c.
+Et in reliquis quidem eandem rationem exspectari oportere manifestum est.
+[2.9.6] Et haec quidem complexio ea est, quae id quod primo in propositione positum fuerat assumit atque
+constituit; quod si id ponendo quis quod sequebatur assumat, nulla est necessitas syllogismi, ueluti cum dicimus:
+Si est a, est b; Et si est b, necesse est esse c; Atqui est c;
+non necesse est esse b uel non esse; sed cum non sit necesse esse b uel non esse, non erit necesse a esse uel
+non esse. Idem quoque tale firmabit exemplum:
+Si est homo, animal est; Et si est animal, erit corpus animatum; Atqui est corpus animatum;
+non necesse erit esse animal, quocirca ne hominem quidem.
+[2.9.7] Secundus uero modus est hic primae figurae, cum ita proponimus:
+Si est a, est b; Et si est b, necesse est non esse c; At uero est a; Non est igitur c.
+Huius demonstratio talis est. Nam
+Si est a, est b
+id enim prima conditio monstrabat, quae est, si sit a esse b; cum uero sit b, necesse est non esse c: id enim
+consequentia praeferebat in qua pronuntiabatur, si esset b consequi ex necessitate ut non esset etiam c; si igitur sit a,
+non erit c. Quod si id quod ultimum propositio constituit ponat assumpio, id est
+non esse c
+nullus est syllogismus. Nam si de aliqua re ita proponatur:
+Si homo /308/ sit, est animal; Et si est animal, non est lapis; At non est lapis;
+non necesse erit aut esse aut non esse animal, eodem modo nec hominem.
+Potest enim, si lapis non sit, esse lignum uel caetera quae neque animalia sunt, nec inter homines numerantur.
+[2.10.1] Tertius uero modus est primae figurae, cum id assumptio constituit quod propositio prima ponebat,
+cuius ex tertia propositione principium est cum ita proponimus:
+Si est a, non est b; Et si non est b, necesse est esse c;
+hic enim rursus, si a terminus assumatur ita ut in prima est enuntiatione propositus, ita dicetur:
+Atqui est a; Est igitur c.
+Probatio uero superioribus similis. Nam quia est a, non est b, et quia non est b, est c; quia igitur est a, est c.
+Quod si c terminus assumatur, nihil necessarium fiet, ut si ita proponamus:
+Si homo est, non est insensibile; Si non est insensibile, animal est; Est autem animal;
+non est necesse esse hominem.
+[2.10.2] Quartus uero modus est qui ex quarta propositione principium capit, qui tali propositione formatur:
+Si sit a, non est b; Si non est b, non est etiam c;
+hic enim si est a, necesse est c non esse. Demonstratio uero eadem quae in prioribus modis. Quod si c
+assumatur, nulla erit necessitas complexionis, hoc modo. Age enim proponatur:
+
+

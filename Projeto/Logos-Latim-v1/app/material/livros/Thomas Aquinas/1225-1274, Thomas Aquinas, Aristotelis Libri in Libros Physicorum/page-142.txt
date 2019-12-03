@@ -1,0 +1,64 @@
+vacuum, et motum qui fit per plenum; sed si aliquod corpus fertur per
+quodcumque subtilissimum in tanto spatio talique tempore, motus qui est per
+vacuum transcendet omnem proportionem datam.
+|#6
+Deinde cum dicit: sit enim z vacuum etc., quia praedictam
+conclusionem ostensive ex principiis suppositis deduxerat, ne qua dubitatio
+oriatur de principiis praemissis, ut certior sit processus, probat eandem
+conclusionem deducendo ad impossibile.
+Si enim dicatur quod motus qui est per vacuum, habet aliquam proportionem
+velocitatis ad motum qui est per plenum, ponatur ergo quod spatium vacuum
+sit z, quod quidem sit aequale secundum magnitudinem, spatio b quod est
+plenum aqua, et spatio d quod est plenum aere.
+Si autem detur quod motus qui est per z, habeat aliquam proportionem
+secundum velocitatem ad motus qui sunt per b et d, oportet dicere quod
+motus qui est per z, quod est vacuum, sit in aliquo determinato tempore:
+quia velocitates distinguuntur secundum quantitates temporum, ut supra
+dictum est. Si ergo dicatur quod mobile quod est a, transeat per spatium
+vacuum quod est z, in aliquo tempore; sit illud tempus I, quod oportet esse
+minus quam tempus e, in quo pertransit spatium d, quod est plenum aere; et
+sic haec erit proportio motus per vacuum ad motum per plenum, quae est
+proportio temporis e ad tempus I. Sed necesse erit ponere quod in tanto
+tempore quantum est I, mobile quod est a, pertranseat quoddam spatium
+plenum subtiliori corpore ipsius d, idest ipso d. Et hoc quidem continget,
+si inveniatur aliquod corpus quod differat in subtilitate ab aere, quo
+ponebatur plenum spatium d, secundum illam proportionem quam habet tempus e
+ad tempus I; ut puta si dicatur illud corpus esse ignis, quo ponatur plenum
+spatium z, quod prius ponebatur vacuum: quia si corpus quo ponitur plenum
+spatium z, est tanto subtilius corpore quo ponitur plenum spatium d,
+quantum tempus e excedat tempus I, sequetur quod mobile quod est a, si
+feratur per z, quod est spatium plenum subtilissimo corpore, et per d, quod
+est spatium plenum aere, transibit per z e converso in maiori velocitate in
+tanto tempore, quantum est I. Si ergo nullum corpus sit in quo est z, sed
+ponatur hoc spatium vacuum, sicut et primo; adhuc debebit velocius moveri.
+Sed hoc est contra id quod fuit positum. Positum enim erat quod motus
+fieret per spatium z, quod est vacuum, in tempore I; et sic cum in tempore
+I transeat idem spatium, cum est plenum subtilissimo corpore, sequitur quod
+in eodem tempore transibit idem mobile unum et idem spatium, cum est vacuum
+et cum est plenum.
+Manifestum est ergo, quod si fuerit aliquod tempus, in quo mobile feratur
+per quodcumque spatium vacuum, sequetur hoc impossibile, quod in aequali
+tempore transibit plenum et vacuum: quia erit accipere aliquod corpus quod
+habebit proportionem ad aliud corpus, sicut habet proportionem tempus ad
+tempus.
+|#7
+Deinde cum dicit: sed sicut in capitulo est dicere etc., summatim
+colligit ea, in quibus virtus consistit praemissae rationis.
+Et dicit quod sicut contingit recapitulando dicere, manifesta est causa,
+quare praedictum inconveniens accidat: quia scilicet quilibet motus est
+proportionatus cuilibet motui secundum velocitatem: quia omnis motus est in
+tempore, et qualibet duo tempora, si sint finita, habent proportionem ad
+invicem.
+Sed vacui ad plenum non est proportio, ut probatum est. Unde si ponatur
+motus fieri per vacuum, necesse est quod sequatur inconveniens.
+Ultimo autem epilogans concludit, quod praedicta inconvenientia accidunt,
+si accipiantur diversae velocitates motuum secundum differentiam mediorum.
+|#8
+Sed contra hanc rationem Aristotelis insurgunt plures difficultates.
+Quarum quidem prima est, quod non videtur sequi, si fiat motus per vacuum,
+quod non habeat proportionem in velocitate ad motum qui fit per plenum.
+Quilibet enim motus habet determinatam velocitatem ex proportione potentiae
+motoris ad mobile, etiam si nullum sit impedimentum.
+142
+
+

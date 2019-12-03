@@ -1,0 +1,63 @@
+Sed neutrum horum; quia sine sensu neque anima eius intelligit melius, neque corpus magis conservabitur. Et ex
+hoc statim directe sequitur conclusio, quam inducit, quod nullum corpus mobile habens animam, careat sensu.
+Apparet autem, hanc esse intentionem Aristotelis, ex hoc quod immediate subiungit, quod impossibile est
+aliquod corpus simplex esse corpus animalis. |#12 N.12 Deinde cum dicit at vero ostendit quod sensus sit
+simpliciter necessarius omni animali. Et circa hoc duo facit. Primo ostendit propositum. Secundo inducit
+quamdam conclusionem ex dictis, ibi, manifestum igitur quoniam necesse. Circa primum duo facit. Primo
+proponit quod intendit. Secundo probat propositum, ibi, hoc autem ex his. Proponit autem duo: quorum primum
+est quod si aliquod corpus habet sensum, necesse est quod vel sit simplex, vel mistum. Et impossibile est quod
+sit simplex: quia si esset corpus simplex, non haberet tactum, quem quidem sensum necesse est omne animal
+habere, non solum animalia processiva, sed etiam animalia immobilia, sicut ostendit supra. |#13 N.13 Deinde
+cum dicit hoc autem probat propositum. Et primo, quod sensus tactus sit in omnibus animalibus. Secundo, quod
+corpus animalis non possit esse corpus simplex, ibi, quod autem possibile. Circa primum duo facit. Primo
+ostendit, quod necesse est inesse omnibus animalibus sensum tactus. Secundo, quod alii sensus a sensu tactus
+non insunt omnibus, ibi, alii autem propter bonum etc.. Circa primum duo facit. Primo ostendit, quod necesse est
+tactum inesse omnibus animalibus. Secundo ostendit idem de gustu, ibi, propter quod et gustus. Dicit ergo
+primo, quod hoc, scilicet quod necesse sit tactum inesse omnibus animalibus, manifestum est ex his quae nunc
+dicentur. Animal enim est corpus animatum. Omne autem corpus, scilicet generabile et corruptibile, est
+tangibile; et dico tangibile, quod est sensibile tactu. Corpora autem caelestia quae sunt ingenerabilia et
+incorruptibilia, non sunt tangibilia. Non enim sunt de natura elementorum, ut possint habere qualitates
+elementares, quae sunt qualitates tangibiles. Sed omnia corpora corruptibilia necesse est habere qualitates
+tangibiles, cum sint vel elementa simplicia, vel ex elementis composita. |#14 N.14 Et ex hoc concludit, quod
+necesse est corpus animalis habere sensum tactus si debeat salvari corpus animalis; quia cum corpus animalis sit
+tangibile, idest habens tangibiles qualitates, et similiter corpora quae ipsum tangunt, immutari potest corpus
+animalis ab his quae ipsum tangunt, naturali immutatione usque ad suam corruptionem. Aliter autem est de aliis
+sensibus quae sentiunt per alia media, et non tangendo, sicut olfactus, visus et auditus. Unde illa sensibilia cum
+sint remota, non tangunt corpus animalis, nec possunt alterare ipsum ad corruptionem, sicut tangibilia. Et ideo
+nisi animal haberet sensum tactus, per quem discerneret convenientia a corruptivis, non posset haec fugere et illa
+accipere, et ita non posset salvari animal. Necessarium est igitur ad salutem animalis, quod habeat sensum tactus.
+|#15 N.15 Deinde cum dicit propter quod ostendit idem de gustu; scilicet quod gustus est sicut tactus quidam.
+Est enim gustus alimenti: quo scilicet discernitur alimentum, utrum sit conveniens vel non. Alimentum autem est
+quoddam corpus tangibile. Nutrit enim ex hoc quod est calidum, humidum, frigidum et siccum. Ex eisdem enim
+nutrimur ex quibus sumus. Sed sonus et color et odor nihil faciunt ad alimentum neque ad augmentum vel ad
+decrementum. Sapor autem confert ad alimentum, inquantum est sequela complexionis. Sic igitur patet, quod
+gustus est quidam tactus, quia est sensus alicuius tangibilis et vegetativi, id est nutritivi, scilicet alimenti. Et sic
+patet quod hi sensus necessarii sunt animali. Ex quo etiam manifestum est, quod animal non potest esse sine
+tactu. |#16 N.16 Deinde cum dicit alii autem ostendit quod alii sensus non insunt omnibus animalibus, sed
+quibusdam. Et circa hoc duo facit. Primo ostendit propositum. Secundo manifestat quoddam quod dixerat, ibi,
+sicut enim movens. Dicit ergo primo, quod alii sensus, scilicet visus, auditus et olfactus, conveniunt animali non
+propter necessitatem, sed propter bene esse. Sed necessarium est eos inesse non cuilibet generi animalium, sed
+quibusdam, scilicet quae moventur motu processivo: quia si debet huiusmodi animal salvari, non solum debet
+sentire id quod tangit, sed debet sentire id quod est a longe, quia ad aliquid remotum movetur. Hoc autem,
+scilicet quod sentiat aliquid a longe, erit, si habeat sensus, qui sentiant per medium; eo quod medium patitur et
+movetur a sensibili, sensus autem a medio. |#17 N.17 Et hoc ostendit consequenter cum dicit sicut enim
+ostendit per simile in motu locali. Videmus enim quod movens secundum locum, facit permutationem usque ad
+aliquem determinatum locum; quia quod primo depellit, facit, ut illud depulsum, iterum depellat aliud; et sic
+primum depellens movet tertium per medium. Et primum quidem movens depellit, sed non depellitur; ultimum
+autem, ubi terminatur motus, depellitur, sed non depellit. Medium autem habet utrumque; scilicet quod depellit
+et depellitur; et contingit multa media esse talia. Et sicut hoc est in motu locali, ita contingit in alteratione, quod
+sit primum movens et ultimum motum, et medium quod sit movens et motum. |#18 N.18 Sed in hoc tamen
+differt, quod primum alterans manet secundum locum dum alterat; quod non contingit dici de pellente. Et ponit
+exemplum, sicut si aliquis tangat ceram liquefactam, usque ad illum terminum mota est, quousque per actionem
+caloris actio tangentis pertingit. Sed lapis, quia durus est, non est susceptivus talis impressionis. In aqua autem
+talis actio magis protenditur procul, quam in cera. Sed adhuc aer, qui est passibilior, in maxime remotum
+movetur, et facit et patitur, ut medium existens, dummodo maneat et sit unus; ut scilicet non interrumpatur per
+aliquod obstaculum interpositum. Et ideo circa repercussionem sensus, melius est dicere, quod aer patiatur a
+figura et colore, quousque permanet unus et continuus, quod contingit quando est lenis, et non interruptus, quam
+quod radii egredientes a visu repercutiantur a visibili, ut Platonici posuerunt. Et ideo aer sic motus a figura et
+colore, movebit visum inquantum visibile immutat totum aerem usque ad visum. Et esset simile de cera et
+sigillo, si figura sigilli imprimeretur in ceram usque ad ultimum terminum eius, sicut visibile imprimit speciem
+suam in aerem usque ad visum. |+18 Lectio 18 |#1 N.1 Postquam Philosophus ostendit quod tactus de
+117
+
+

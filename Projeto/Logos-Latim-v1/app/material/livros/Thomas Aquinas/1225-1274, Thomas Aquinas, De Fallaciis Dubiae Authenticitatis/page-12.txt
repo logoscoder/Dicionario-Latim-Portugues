@@ -1,0 +1,61 @@
+conclusio non infertur ex praemissis, cum illationes praedictae sint secundum locos dialecticos, sed accidit
+deceptio ex eo quod petitur idem concedi ac si esset diversum. Unde si in praemissis modis argumentandi
+accipiantur praemissae ex eo quod sint magis notae, et non quasi petitae, non erit argumentum sophisticum sed
+dialecticum. Patet autem ex praedictis quod haec fallacia provenit secundum idem et diversum, prout non
+discernitur inter ea.
+|+16 Capitulus 16: De fallacia consequentis.
+Sequitur de fallacia consequentis.
+Consequens autem, ut hic sumitur, est quod sequitur ad antecedens in propositione conditionali, ut cum dicitur:
+si socrates est homo, est animal; socratem esse animal est consequens, socratem vero esse hominem est
+antecedens. Est ergo fallacia consequentis deceptio proveniens ex eo quod consequens aestimatur esse idem cum
+antecedente omnino. Ex hoc enim contingit aliquem credere quod, si consequens sequitur ad antecedens, ita e
+converso antecedens sequatur ad consequens. Unde patet quod haec fallacia consequentis in duabus consistit
+consequentiis, quarum una est vera, et altera falsa, sicut si dicatur: si aliquis currit, movetur. Sed socrates
+movetur: igitur socrates currit. Haec enim consequentia: si socrates currit, movetur, quae primo ponitur, est vera;
+sed ista, ad quam proceditur, est falsa: si movetur, igitur currit.
+Ubi vero tantum ponitur una consequentia, non est fallacia consequentis; unde si dicatur: socrates est animal:
+igitur socrates est homo; non est fallacia consequentis ex modo argumentandi, sed magis fallacia accidentis:
+nam, sicut fallacia consequentis provenit ex eo quod consequens existimatur omnino esse idem antecedenti cum
+non sit, ita fallacia accidentis provenit ex eo quod praedicatum existimatur omnino idem esse subiecto. Unde
+haec fallacia denominatur a consequendo, illa autem ab accidendo, quod est inhaerere.
+Et inde est quod quando proceditur argumentando solum ab aliqua cathegorica, per quam significatur aliquid
+inesse, est fallacia accidentis; quando ab aliqua conditionali, est fallacia consequentis.
+Et ideo Philosophus dicit quod fallacia accidentis est in uno, et fallacia consequentis in pluribus, scilicet
+consequentiis; et ex hoc etiam patet quod in consequentiis consequens est aliquo modo pars accidentis: nam
+omne quod sequitur, aliquo modo accidit; sed non omne quod accidit, sequitur. Non enim sequitur: si est homo,
+est album; licet haec sit vera quod ly homo sit albus. Et ideo ubicumque est fallacia consequentis aliter ordinatis
+terminis, potest fieri fallacia accidentis, sed non convertitur.
+Causa apparentiae in hac fallacia est convenientia consequentis cum antecedente: causa vero non existentiae est
+diversitas eorumdem.
+Sunt autem modi huius fallaciae duo.
+Primus modus procedit ex consecutione magis communis ad minus commune, sive magis commune sit genus,
+sive accidens, ut patet in his paralogismis: si aliquid est asinus, est animal. Sed tu es animal. Igitur tu es asinus.
+Non sequitur: non enim consequentia prius posita convertitur. Similiter hic: si aliquod est mel, est rubeum. Sed
+fel est rubeum, igitur fel est mel. Similiter hic: si aliquis est fur, errat de nocte. Sed tu erras de nocte. Igitur tu es
+fur. In his enim omnibus putatur consequentia converti, quae non convertitur, unde est fallacia consequentiae.
+Si autem sumantur propositiones cathegoricae in eisdem terminis, est fallacia accidentis, sicut: asinus est animal.
+Tu es animal. Igitur tu es asinus. Et haec: mel est rubeum, et fel est rubeum. Igitur mel est fel.
+Secundus modus est quando proceditur a consequentia oppositi ad similem consequentiam in alio opposito, ut si
+dicatur: si aliquid est generatum, habet principium.
+Sed anima non est generata. Igitur anima non habet principium, sed semper fuit. Non sequitur: est enim in
+oppositis duplex consequentia, una in ipso, altera in contrario. In ipso quidem est consequentia, quando sicut ad
+antecedens sequitur consequens, ita ad oppositum antecedentis sequitur oppositum consequentis, ut: si est
+iustum, est bonum. Igitur si est iniustum, est malum. Consequentia e contrario est, quando sicut ad antecedens
+sequitur consequens, ita ad oppositum consequentis sequitur oppositum antecedentis, ut: si est homo, est animal.
+Igitur si non est animal, non est homo: in oppositis enim secundum affirmationem et negationem non est
+consequentia in ipso, sed in contrario. Et ideo quando proceditur in huiusmodi oppositis ac si esset consequentia
+in ipso, est fallacia consequentis, sicut in exemplo patet.
+In his autem terminis est fallacia accidentis cathegoricis propositionibus sumptis, ut si dicatur sic: omne
+generatum habet principium. Sed anima non est generata.
+Igitur non habet principium.
+Et est sciendum quod sicut primus modus peccat contra consequentiam procedendo a positione consequentis ad
+positionem antecedentis, ita secundus peccat procedendo a destructione antecedentis ad destructionem
+consequentis. Est autem contrario modo procedendum, scilicet a destructione consequentis ad positionem
+antecedentis: patet enim quod haec fallacia provenit secundum rationem prioris et posterioris. Et nota quod
+quoddam consequens est in plus suo antecedente et quoddam in minus: consequens in plus est in terminis
+universalibus, sicut cum dico: homo est, ergo animal est; consequens in minus est, sicut totum in quantitate, et
+eius pars, ut cum dicitur: omnium oppositorum eadem est disciplina. Ergo omnium contrariorum.
+
+12
+
+

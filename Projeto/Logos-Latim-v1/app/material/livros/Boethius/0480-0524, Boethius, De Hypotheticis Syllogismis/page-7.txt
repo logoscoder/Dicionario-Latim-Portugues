@@ -1,0 +1,62 @@
+Necesse esse Socratem sedere, dum sedet.
+Haec enim eandem uim obtinet ei quae dicit:
+Socrates sedet.
+Alia uero necessitatis significatio est, cum hoc modo proponimus:
+Hominem necesse est habere cor dum est atque uiuit
+hoc enim significare uidetur haec dictio, non quoniam tamdiu eum necesse sit habere quamdiu habet sed
+tamdiu eum necesse est habere quamdiu fuerit ille qui habeat.
+[1.6.7] Alia uero necessitatis significatio est uniuersalis et propria, quae absolute praedicat necessitatem, ut
+cum dicimus:
+Necesse est Deum esse immortalem
+nulla conditione /238/ determinationis apposita. Possibile autem idem quoque tribus dicitur modis: aut enim
+quod inest possibile esse dicitur, ut:
+Possibile est Socratem sedere, dum sedet
+aut quod omni tempore contingere potest, dum ea res permanet cui aliquid contingere posse proponitur, ut:
+Possibile est Socratem legere
+quamdiu enim Socrates est, legere potest; item possibile est quod absolute omni tempore contingere potest, ut
+auem uolare.
+[1.7.1] Ex his igitur apparuit alias propositiones esse inesse significantes, alias necessarias, alias contingentes
+atque possibiles, quarum necessariarum et contingentium cum sit trina partitio, singulae ex iisdem partitionibus ad eas
+quae inesse significant referuntur.
+Restant igitur duae necessariae et duae contingentes, quae cum ea quae inesse significat numeratae, quinque
+omnes propositionum faciunt differentias. Omnium uero harum propositionum aliae sunt affirmatiuae, aliae negatiuae.
+Affirmatiua inesse significans est quae dicit:
+Est Socrates
+negatiua quae proponit:
+Non est Socrates.
+[1.7.2] Necessariarum uero propositionum affirmatiuarum duae uidentur esse negationes, una contraria, altera
+uero opposita. Eius namque, quae dicit:
+Necesse est esse a
+quolibet modo ex utrisque qui dicti sunt, aut ea est negatio quae dicit:
+Necesse est non esse a
+aut ea quae dicit:
+Non necesse est esse a
+quarum quidem ea quae dicit:
+Necesse est non esse a
+contraria est ei quae dicit:
+Necesse est esse a.
+Utraeque enim falsae poterunt inueniri, ueluti si /240/ dicimus:
+Necesse est Socratem legere
+Necesse est Socratem non legere
+utraque mentitur. Nam et cum legit, non ex necessitate legit, et cum non legit, nulla ne legat necessitate
+constringitur sed est utrumque possibile.
+[1.7.3] At uero ea quae dicit:
+Non necesse est esse
+opposita est ei quae proponit:
+Necesse est esse
+una enim semper uera est, semper falsa altera reperitur. In contingentibus uero atque possibilibus eadem ratio
+est. Huic enim quae dicit:
+Contingit esse a
+tum ea uidetur obiecta quae dicit:
+Contingit non esse a
+tum ea quae proponit:
+Non contingit esse a.
+Atque ea quidem quae dicit:
+Contingit non esse a
+contingens negatio nuncupatur, ueraque esse potest cum ea affirmatione quae dicit:
+Contingit esse a
+ueluti cum dicimus:
+Contingit sedere Socratem
+Contingit non sedere Socratem.
+
+

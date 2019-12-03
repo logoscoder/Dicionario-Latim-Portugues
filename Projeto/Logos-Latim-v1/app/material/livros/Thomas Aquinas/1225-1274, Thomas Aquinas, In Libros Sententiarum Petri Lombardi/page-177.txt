@@ -1,0 +1,62 @@
+Ad quintum dicendum, quod, secundum Avicennam, de eo quod nullo modo est, non potest aliquid enuntiari: ad
+minus enim oportet quod illud de quo aliquid enuntiatur, sit apprehensum; et ita habet aliquod esse ad minus in
+intellectu apprehendente; et ita constat quod semper veritati respondet aliquod esse; nec oportet quod semper
+respondeat sibi esse in re extra animam, cum ratio veritatis compleatur in ratione animae.
+RA6
+Ad sextum dicendum, quod quamvis esse sit in rebus sensibilibus, tamen rationem essendi, vel intentionem entis,
+sensus non apprehendit, sicut nec aliquam formam substantialem, nisi per accidens, sed tantum accidentia
+sensibilia. Ita etiam quamvis veritas sit in rebus sensibilibus, prout dicitur esse veritas in rebus, tamen intentio
+veritatis solo intellectu percipitur. Vel dicendum, quod quamvis res sensibiles sensu comprehendantur, tamen
+earum adaequatio ad intellectum sola mente capitur, et pro tanto dicitur, quod veritas est sola mente perceptibilis.
+RA7
+Ad septimum dicendum, quod cum sit duplex operatio intellectus: una quarum dicitur a quibusdam imaginatio
+intellectus, quam Philosophus nominat intelligentiam indivisibilium, quae consistit in apprehensione quidditatis
+simplicis, quae alio etiam nomine formatio dicitur; alia est quam dicunt fidem, quae consistit in compositione vel
+divisione propositionis: prima operatio respicit quidditatem rei; secunda respicit esse ipsius. Et quia ratio
+veritatis fundatur in esse, et non in quidditate, ut dictum est, in corp., ideo veritas et falsitas proprie invenitur in
+secunda operatione, et in signo ejus, quod est enuntiatio, et non in prima, vel signo ejus quod est definitio, nisi
+secundum quid; sicut etiam quidditatis esse est quoddam esse rationis, et secundum istud esse dicitur veritas in
+prima operatione intellectus: per quem etiam modum dicitur definitio vera. Sed huic veritati non adjungitur
+falsitas per se, quia intellectus habet verum judicium de proprio objecto, in quod naturaliter tendit, quod est
+quidditas rei, sicut et visus de colore; sed per accidens admiscetur falsitas, scilicet ratione affirmationis vel
+negationis annexae, quod contingit dupliciter: vel ex comparatione definitionis ad definitum, et tunc dicitur
+definitio falsa respectu alicujus et non simpliciter, sicut definitio circuli est falsa de triangulo; vel in respectu
+partium definitionis ad invicem, in quibus implicatur impossibilis affirmatio; sicut definitio vacui, quod est locus
+in quo nullum corpus est; et haec definitio dicitur falsa simpliciter, ut in 5 metaphys. Dicitur. Sed hoc non
+contingit nisi in quidditatibus compositorum: quia in quidditatibus rerum simplicium non deficit intellectus nisi
+ex hoc quod omnino nihil intelligit, ut in 9 metaph. Dicitur. Secundae autem operationi admiscetur falsitas etiam
+per se: non quidem quantum ad primas affirmationes quas naturaliter intellectus cognoscit, ut sunt dignitates, sed
+quantum ad consequentes: quia rationem inducendo contingit errare per applicationem unius ad aliud. Patet igitur
+ex dictis, in corp. Art., quod verum proprie loquendo, quod invenitur tantum in complexis, non impedit
+conversionem veri et entis: quia quaelibet res incomplexa habet esse suum, quod non accipitur ab intellectu nisi
+per modum complexionis; et ideo ipsa ratione quam addit verum supra ens, scilicet ordinem ad intellectum,
+sequitur ista differentia, quod verum sit complexorum, et ens dicatur de re extra animam incomplexa.
+RA8
+Ad ultimum dicendum, quod, sicut dictum est, in corp. Art., ens est prima conceptio intellectus; unde enti non
+potest aliquid opponi per modum contrarietatis vel privationis, sed solum per modum negationis: quia sicut
+ipsum non fundatur in aliquo, ita nec oppositum suum: opposita enim sunt circa idem. Sed unum, verum et
+bonum, secundum proprias intentiones, fundantur supra intentionem entis, et ideo possunt habere oppositionem
+contrarietatis vel privationis fundatae super ens, sicut et ipsa super ens fundantur. Unde patet quod non eodem
+modo se habet verum et falsum et malum et bonum sicut ens et non ens, nisi accipiatur non ens particulariter pro
+remotione alicujus cui substernitur aliquod ens. Unde sicut quaelibet privatio entis particularis fundatur in bono,
+sic et falsum fundatur in aliquo vero sicut in aliquo esse. Unde sicut illud in quo est falsitas vel malitia, est
+aliquod ens, sed non est ens completum; ita etiam illud quod est malum vel falsum, est aliquod bonum vel verum
+incompletum.
+|a2 Articulus 2: Utrum omnia sint vera veritate increata.
+AG1
+Ad secundum sic proceditur. Videtur quod omnia sint vera una veritate quae est veritas increata. Sicut enim
+dictum est in solutione praecedentis articuli, verum dicitur analogice de illis in quibus est veritas, sicut sanitas de
+omnibus sanis. Sed una est sanitas numero a qua denominatur animal sanum, sicut subjectum ejus, et medicina
+sana sicut causa ejus, et urina sana sicut signum ejus. Ergo videtur quod una sit veritas qua omnia dicuntur vera.
+AG2
+Praeterea, omnis rectitudo attenditur per aliquam mensuram. Sed veritas est rectitudo quaedam.
+Cum igitur videamus, omnibus temporalibus respondere unum tempus quasi mensuram, videtur etiam quod
+omnibus veris respondeat una veritas, secundum quam dicantur vera.
+AG3
+Praeterea, sicut se habet bonitas ad bona, ita se habet veritas ad vera. Sed omnia sunt bona una bonitate. Unde
+Augustinus: bonus est homo, bona est facies, bonum est hoc et illud. Tolle hoc et illud, et videbis bonum omnis
+boni. Unde videtur quod sit una bonitas numero in omnibus participata, secundum quam dicuntur bona. Ergo
+videtur quod similiter omnia dicantur vera una veritate, quae est veritas increata.
+177
+
+

@@ -1,0 +1,58 @@
+similitudine: ex quo sequitur quod sit unum principium primum extra rem, quod est agens et exemplar et finis; et
+duo quae sunt partes rei, scilicet forma et materia, quae ab illo primo principio producuntur.
+Intelligendo amaret. Hic ponit quatuor, quae se secundum ordinem habent. Intellectus enim secundum
+apprehensionem boni gignit amorem, amor autem unit amato, et quodammodo illud suum esse facit possidendo.
+Et ex hac conjunctione sequitur delectatio quae perficit rationem fruitionis.
+Cetera ex praedictis manifesta sunt.
+
+|+d2.q1 Distinctio 2, Quaestio 1
+|a0 Prologus
+Hic Magister incipit determinare de creaturis in speciali quantum ad considerationem theologi pertinet; et
+dividitur in tres partes: in prima determinat de creatura pure spirituali; in secunda de creatura pure corporali, 12
+dist., ibi: hae de angelicae naturae conditione dicta sufficiant; in tertia de creatura ex utraque composita, 16 dist.:
+his excursis, quae supra de creatione hominis praemisimus, effectui mancipare, atque ordine explanare nunc
+suscipimus. Prima in tres: in prima determinat de Angelorum creatione; in secunda de separatione per
+aversionem et conversionem, 5 dist., ibi: post haec, consideratio adducit inquirere, quales effecti sint, dum
+dividerentur aversione et conversione; in tertia determinat de bonorum dignitate, 9 dist., ibi: post praedicta
+superest cognoscere de ordinibus Angelorum quid Scriptura tradat.
+Prima in duas: in prima determinat de creatione Angelorum, quantum ad illud quod adjacet eis quasi mensura; in
+secunda determinat de conditione ipsorum creatorum, 3 dist., ibi: ecce ostensum est ubi Angeli fuerint mox ut
+creati sunt. Prima dividitur in duas: in prima ostendit quando creati sunt Angeli; in secunda ubi creati sunt, ibi:
+jam ostensum est quando creata fuerit angelica natura. In prima dicit de quo est intentio; in secunda prosequitur
+quaestionem, ibi: quaedam auctoritates videntur innuere quod ante omnem creaturam creati sunt Angeli. Et circa
+hoc duo facit: primo movet quaestionem, ponendo rationes ad utramque partem; secundo determinat eam, ibi:
+videtur utique hoc esse tenendum. Et circa hoc tria facit: primo determinat quaestionem; secundo
+determinationem confirmat, ibi: quod autem simul creata fuerit corporalis spiritualisque creatura, Augustinus...
+Aperte ostendit; tertio objecta in contrarium solvit, ibi: Hieronymus super epistolam ad titum aliud videtur
+sentire.
+Jam ostensum est quando creata fuerit angelica natura. Hic determinat ubi creati sunt Angeli: et primo ostendit
+quod in caelo empyreo; secundo epilogat ea quae dixerat, ibi: simul ergo visibilium rerum materia et invisibilium
+natura condita est; tertio objectum in contrarium solvit, ibi: hic quaeri solet, si in caelo empyreo fuerunt Angeli
+statim ubi facti sunt.
+Hic est duplex quaestio. Prima de aevo, quod durationem Angeli mensurat. Secunda de caelo empyreo, qui locus
+Angelorum dicitur.
+Circa primum tria quaeruntur: 1 utrum aevum ab aeternitate vel tempore differat; 2 utrum sit unum tantum
+aevum; 3 utrum aevum mensurans durationem Angeli ante tempus inceperit.
+|a1 Articulus 1: Utrum aevum sit idem quod aeternitas.
+AG1
+Ad primum sic proceditur. Videtur quod aevum sit idem quod aeternitas. Sicut enim dicitur in libro de causis,
+intelligentia parificatur aeternitati. Non autem nisi sicut mensuratum mensurae. Cum ergo mensura angelicae
+durationis ponatur aevum; videtur quod sit idem aeternitati.
+AG2
+Praeterea, sicut se habent mensurata, ita et mensurae. Sed Angelus non est causa temporalium rerum. Ergo nec
+mensura durationis ejus causa erit temporis, sed tantum mensura durationis creationis, quae est aeternitas. Sed
+aevum est causa temporis, sicut dicit boetius de consolat.:...
+Qui tempus ab aevo ire jubes.
+Ergo aevum est aeternitas.
+AG3
+Praeterea, sicut se habent mobilia ad invicem in successione, ita se habent immobilia ad invicem in immobilitate.
+Sed omnium mobilium est una mensura successiva, scilicet tempus. Ergo et omnium immobilium est mensura
+una, scilicet aeternitas.
+AG4
+Sed contra, videtur quod aevum sit idem quod tempus. Quia, secundum Augustinum, Deus movet spiritualem
+creaturam per tempus. Sed talis creaturae mensura ponitur aevum. Ergo aevum et tempus idem sunt.
+AG5
+
+410
+
+

@@ -1,0 +1,62 @@
+aut uniuersalem rem particulariter affirmatiue, ut:
+Quidam homo animal est
+aut uniuersalem rem uniuersaliter negatiue, ut:
+Nullus homo lapis est
+aut uniuersalem rem particulariter negatiue, ut
+Quidam homo lapis non /143/ est
+Oportet autem in his quae uniuersali determinatione proponuntur in ipsis determinationibus fieri negationem,
+ut quoniam determinatio uniuersalis rei est uniuersaliter, cum dicimus:
+Omnis homo iustus est
+si uniuersaliter negabimus, dicamus:
+Nullus homo iustus est
+Et quod aio 'nullus' eam uniuersalitatem quae est omnis intercipit, non eam quae est homo.
+Rursus si idem ipsum:
+Omnis homo iustus est
+negare particulariter uelim, dicam:
+Non omnis homo iustus est
+per particularem negationem uniuersalitatis uim interimens. In particularibus uero non item. Si enim eam quae
+est particularis determinatio uniuersalis rei, ut est:
+Quidam homo iustus est
+negare uelim, particulariter dicam:
+Quidam homo iustus non est
+Hoc autem idcirco fit, quod habet quandam similitudinem atque ambiguitatem, utrum uniuersaliter an sit
+particulariter dictum, si in uniuersalibus propositionibus negatiuae particulae ad praedicationes potius quam ad
+terminationes ponantur. Si enim contra hanc affirmationem quae est
+Omnis homo iustus est
+ponam hanc quae dicit:
+Omnis homo iustus non est
+haec duas res significare uidebitur: et quod nullus homo iustus sit, omnem enim hominem iustum non esse
+proposuit, et quod sint quidam homines non iusti, omnem enim hominem negauit iustum esse. Hoc autem nihil impedit
+ut aliquis sit iniustus, aliquis iustus. Nam si est aliquis iustus, non repugnat ne uera sit propositio quae dicit:
+Omnis homo iustus non est
+Non est enim iustus omnis homo, si alii iusti sint, alii uero iniusti.
+Quare quoniam duplicis significationis est, idcirco uniuersalis negationis definitio, quae est nullus, uniuersalis
+affirmationis tollit determinationem, quae est /144/ omnis.
+Atque ideo in particularibus negationibus ad ipsam uniuersalitatem affirmationum negatio necesse est
+apponatur, ut in eo quod est:
+Omnis homo iustus est
+illa est ei opposita negatio quae est:
+Non omnis homo iustus est
+non illa quae est:
+Omnis homo iustus non est
+ne sit ambiguum utrum uniuersaliter an particulariter neget.
+Dictum est enim hanc negationem quae est:
+Omnis homo iustus non est
+et uniuersalitatis interemptionem designare et particularitatis propositionem. Quotiens uero particulare aliquid
+tollitur, in his non iam ad determinationem sed ad praedicatum particula negationis apponitur, ut in eo quod est:
+Quidam homo iustus est
+nullus dicit:
+Non quidam homo iustus est
+Neque enim hic ad determinationem particularem, quod est 'quidam', negatio ponitur sed dicimus:
+Quidam homo iustus non est
+scilicet ad praedicatum quod est iustus.
+Unde etiam ad indeterminatas propositiones, quae sunt sine 'omnis' aut 'nullius' aut 'alicuius' determinatione,
+ad praedicatum semper apponitur particula negatiua, ut est:
+Homo iustus est
+Nemo enim dicit:
+Non homo iustus est
+sed:
+Homo iustus non est
+In singularibus quoque non dico:
+
+

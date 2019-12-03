@@ -1,0 +1,62 @@
+AG2
+Praeterea, Philosophus dicit quod lumen est species ignis.
+Sed ignis est corpus. Ergo lumen est corpus.
+AG3
+Praeterea, ferri, intersecari, et reflecti est proprie corporum, haec autem omnia attribuuntur lumini vel radio.
+Coniunguntur etiam diversi radii et separantur, ut dionysius dicit, II cap. De div. Nom., quod etiam videtur non
+nisi corporibus convenire posse. Ergo lumen est corpus.
+SC
+Sed contra, duo corpora non possunt simul esse in eodem loco.
+Sed lumen est simul cum aere. Ergo lumen non est corpus.
+CO
+Respondeo dicendum quod impossibile est lumen esse corpus. Quod quidem apparet tripliciter. Primo quidem,
+ex parte loci. Nam locus cuiuslibet corporis est alius a loco alterius corporis, nec est possibile, secundum
+naturam, duo corpora esse simul in eodem loco, qualiacumque corpora sint; quia contiguum requirit
+distinctionem in situ. Secundo, apparet idem ex ratione motus. Si enim lumen esset corpus, illuminatio esset
+motus localis corporis. Nullus autem motus localis corporis potest esse in instanti, quia omne quod movetur
+localiter, necesse est quod prius perveniat ad medium magnitudinis quam ad extremum. Illuminatio autem fit in
+instanti.
+Nec potest dici quod fiat in tempore imperceptibili. Quia in parvo spatio posset tempus latere, in magno autem
+spatio, puta ab oriente in occidentem, tempus latere non posset, statim enim cum sol est in puncto orientis,
+illuminatur totum hemisphaerium usque ad punctum oppositum. Est etiam aliud considerandum ex parte motus.
+Quia omne corpus habet motum naturalem determinatum, motus autem illuminationis est ad omnem partem, nec
+magis secundum circulum quam secundum rectitudinem. Unde manifestum est quod illuminatio non est motus
+localis alicuius corporis.
+Tertio, apparet idem ex parte generationis et corruptionis.
+Si enim lumen esset corpus, quando aer obtenebrescit per absentiam luminaris, sequeretur quod corpus luminis
+corrumperetur, et quod materia eius acciperet aliam formam. Quod non apparet, nisi aliquis dicat etiam tenebras
+esse corpus. Nec etiam apparet ex qua materia tantum corpus, quod replet medium hemisphaerium, quotidie
+generetur. Ridiculum est etiam dicere quod ad solam absentiam luminaris, tantum corpus corrumpatur. Si quis
+etiam dicat quod non corrumpitur, sed simul cum sole accedit et circumfertur, quid dici poterit de hoc, quod ad
+interpositionem alicuius corporis circa candelam, tota domus obscuratur? nec videtur quod lumen congregetur
+circa candelam, quia non apparet ibi maior claritas post quam ante. Quia ergo omnia haec non solum rationi, sed
+sensui etiam repugnant, dicendum est quod impossibile est lumen esse corpus.
+RA1
+Ad primum ergo dicendum quod Augustinus accipit lucem pro corpore lucido in actu, scilicet pro igne, quod
+inter quatuor elementa nobilissimum est.
+RA2
+Ad secundum dicendum quod Aristoteles lumen nominat ignem in propria materia, sicut ignis in materia aerea
+dicitur flamma, et in materia terrea dicitur carbo.
+Non tamen est multum curandum de eis exemplis quae Aristoteles inducit in libris logicalibus, quia inducit ea ut
+probabilia secundum opinionem aliorum.
+RA3
+Ad tertium dicendum quod omnia illa attribuuntur lumini metaphorice, sicut etiam possent attribui calori. Quia
+enim motus localis est naturaliter primus motuum, ut probatur in VIII physic., utimur nominibus pertinentibus ad
+motum localem, in alteratione et in omnibus motibus, sicut etiam nomen distantiae derivatum est a loco ad
+omnia contraria, ut dicitur in X metaphys..
+|a3 Articulus 3
+AG1
+Ad tertium sic proceditur. Videtur quod lux non sit qualitas.
+Omnis enim qualitas permanet in subiecto etiam postquam agens discesserit; sicut calor in aqua postquam
+removetur ab igne.
+Sed lumen non remanet in aere recedente luminari.
+Ergo lumen non est qualitas.
+AG2
+Praeterea, omnis qualitas sensibilis habet contrarium; sicut calido contrariatur frigidum, et albo nigrum. Sed
+lumini nihil est contrarium, tenebra enim est privatio luminis.
+Ergo lumen non est qualitas sensibilis.
+AG3
+
+340
+
+

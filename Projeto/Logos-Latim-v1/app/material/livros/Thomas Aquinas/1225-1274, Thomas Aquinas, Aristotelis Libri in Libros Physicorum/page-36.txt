@@ -1,0 +1,67 @@
+|#5
+Sed nos etiam ipsi dicimus quod ex non ente nihil fit simpliciter et
+per se, sed solum secundum accidens: quia quod est, idest ens, per se
+quidem non est ex privatione.
+Et hoc ideo, quia privatio non intrat essentiam rei factae; ex hoc autem
+aliquid fit per se, quod inest rei postquam iam facta est; sicut figuratum
+fit ex infigurato non per se, sed per accidens, quia postquam iam est
+figuratum, infiguratum non inest ei. Sed iste est mirabilis modus fiendi
+aliquid ex non ente, et qui videbatur impossibilis antiquis philosophis.
+Sic igitur patet quod ex non ente fit aliquid non per se, sed per accidens.
+|#6
+Similiter si quaeratur utrum ex ente fiat aliquid, dicendum est quod
+ex ente fit aliquid per accidens, sed non per se. Et hoc manifestat per
+tale exemplum.
+Ponamus enim quod ex equo generetur aliquis canis: quo posito, manifestum
+est quod ex quodam animali fiat quoddam animal; et sic ex animali fiet
+animal. Non tamen fiet animal ex animali per se, sed per accidens: non enim
+fit inquantum est animal, sed inquantum est hoc animal; quia animal iam est
+antequam fiat canis, quia est equus, sed non est hoc animal quod est canis.
+Unde per se hoc animal quod est canis, fit ex non hoc animali, idest ex non
+cane. Sed si fieret animal per se et non per accidens, oporteret quod
+fieret ex non animali.
+Sic etiam est de ente: fit enim ens aliquod ex non ente hoc, sed accidit ei
+quod non est hoc quod fit ens. Unde non fit aliquid per se ex ente, neque
+per se ex non ente: hoc enim per se significat aliquid fieri ex non ente,
+si fiat ex non ente inquantum est non ens, ut dictum est. Et sicut cum hoc
+animal fit ex hoc animali, vel hoc corpus ex hoc corpore, non removetur
+omne corpus nec omne non corpus, nec omne animal vel non animal, ab eo ex
+quo aliquid fit; sic non removetur ab eo ex quo fit hoc ens, neque omne
+esse neque omne non esse: quia id ex quo fit hoc ens quod est ignis, habet
+aliquod esse, quia est aer, et aliquod non esse, quia non est ignis.
+|#7
+Iste est igitur unus modus solvendi praedictam dubitationem.
+Sed iste modus solvendi insufficiens est: si enim ens fit per accidens et
+ex ente et ex non ente, oportet ponere aliquid ex quo fiat ens per se; quia
+omne quod est per accidens, reducitur ad id quod est per se.
+|#8
+Ad ostendendum igitur ex quo fit aliquid per se, subiungit secundum
+modum, ibi: alius autem quoniam etc..
+Et dicit quod contingit aliqua eadem dicere et secundum potentiam et
+secundum actum, ut certius determinatum est in aliis, scilicet in IX
+metaphys.. Ex ente igitur in potentia fit aliquid per se; ex ente autem in
+actu, vel ex non ente, fit aliquid per accidens.
+Hoc autem dicit quia materia, quae est ens in potentia, est id ex quo fit
+aliquid per se: haec est enim quae intrat substantiam rei factae. Sed ex
+privatione vel forma praecedente fit aliquid per accidens, inquantum
+materiae ex qua fit aliquid per se, conveniebat esse sub tali forma vel sub
+tali privatione; sicut statua ex aere fit per se, sed ex non habente talem
+figuram et ex habente aliam figuram, fit statua per accidens.
+|#9
+Ultimo concludit principale propositum, ibi: quare secundum quod vere
+dicimus etc.: dicens quod sicut vere dicimus, omnes defectus, idest
+dubitationes, solvuntur propter praedicta. Ex quibus dubitationibus coacti,
+aliqui antiqui removerunt quaedam praedictorum, scilicet generationem et
+corruptionem, et pluralitatem rerum substantialiter differentium. Sed haec
+natura manifestata, scilicet materia, solvit omnem illorum ignorantiam.
+|+15
+
+Lectio 15
+
+|#1
+Postquam Philosophus exclusit dubitationes et errores antiquorum
+Philosophorum provenientes ex ignorantia materiae, hic excludit errores
+provenientes ex ignorantia privationis.
+36
+
+

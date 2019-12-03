@@ -1,0 +1,57 @@
+|#1 Postquam Philosophus ostendit quod demonstratio universalis est potior quam particularis, hic ostendit
+quod demonstratio affirmativa sit potior negativa. Et circa hoc ponit quinque rationes.
+|#2 In quarum prima hoc praesupponit, quod, caeteris paribus, illa demonstratio est dignior, quae procedit ex
+paucioribus petitionibus aut suppositionibus aut propositionibus. Quae quidem qualiter differant ex supra dictis
+patet. Nam propositiones possunt dici etiam illae quae sunt per se notae, quae neque suppositiones neque
+petitiones sunt, ut supra dictum est. Suppositio autem a petitione differt: nam suppositio est propositio non per se
+nota, sed accipitur sicut a discente opinata; petitio autem est propositio non per se nota, quae non est opinata a
+discente, sive habeat contrarias opiniones sive non.
+|#3 Quod autem demonstratio sit dignior quae paucioribus utitur, caeteris paribus ostendit dupliciter.
+Primo quidem, quia si detur quod utraeque propositiones ex quibus proceditur, sint aeque notae, sequitur quod
+velocius erit cognoscere per pauciores propositiones quam per plures; quia citius terminatur discursus, qui est per
+pauciores propositiones, quam qui est per plures.
+Hoc autem est eligibilius seu appetibilius, quod homo citius addiscat. Unde relinquitur quod demonstratio quae
+ex paucioribus propositionibus procedit, dummodo sint aeque notae, sit melior.
+|#4 Secundo, probat eamdem propositionem universaliter absque praedicta suppositione, scilicet quod omnes
+propositiones assumptae sint aequaliter notae. Et ad hoc probandum assumit hanc suppositionem, quod media
+quae sunt unius ordinis sint aeque nota, sed media quae sunt priora sunt notiora. Hoc enim oportet esse
+universaliter verum. Hoc igitur supposito, sit una demonstratio, in qua demonstretur quod a sit in e per tria
+media, quae sunt b c d; quae quidem concludit ex quatuor propositionibus, quae sunt: omne b est a; omne c est b;
+omne d est c; omne e est d. Alia vero demonstratio sit, quae concludat eamdem conclusionem, scilicet a esse in
+e, per duo media, quae sunt z h. His itaque suppositis, manifestum est quod, ex quo ordo cognitionis
+proportionatur ordini mediorum, quia priora sunt notiora, ut dictum est, necesse est quod aequaliter sit nota haec
+propositio, omne d est a, in prima demonstratione, et, omne e est a, in secunda, quia utrobique inveniuntur duo
+media. Sed manifestum est quod in prima demonstratione haec propositio, omne d est a, prior et notior est quam
+haec propositio, omne e est a; quia haec secunda demonstratur ex priori in prima demonstratione, et ex his quae
+supra dicta sunt, apparet quod id per quod demonstratur aliquid, est credibilius et notius eo quod per ipsum
+demonstratur. Ergo relinquitur quod haec propositio, omne e est a, secundum quod concluditur per secundam
+demonstrationem, sit notior quam eadem propositio, secundum quod concluditur per priorem demonstrationem,
+quae utebatur pluribus mediis.
+Relinquitur ergo quod demonstratio quae ex paucioribus procedit, est potior ea quae procedit ex pluribus.
+|#5 Maiore igitur propositione probata, Aristoteles assumit quod affirmativa demonstratio ex paucioribus
+procedit quam negativa: non quidem ex paucioribus terminis, vel ex paucioribus propositionibus secundum
+materiam, quia utraque demonstratio tam affirmativa quam negativa demonstrat per tres terminos et duas
+propositiones; sed demonstratio negativa dicitur ex pluribus procedere secundum propositionum qualitatem.
+Nam demonstratio affirmativa accipit solum ens, idest procedit ex solis propositionibus affirmativis:
+demonstratio vero negativa accipit esse et non esse, idest assumit affirmativam et negativam simul. Ergo dignior
+est affirmativa quam negativa.
+|#6 Secundam rationem ponit ibi: amplius quoniam ostensum est etc., et inducitur haec secunda ratio ad
+confirmationem primae, quae poterat videri deficiens ex hoc quod non assumebatur sub maiori propositione eo
+modo quo probabatur. Et ideo, ut omnis calumnia excludatur, addit hanc secundam rationem ad confirmationem
+primae.
+Ostensum est enim in libro priorum, quod ex duabus propositionibus negativis non potest fieri syllogismus, sed
+oportet ad minus unam propositionem esse affirmativam et alteram negativam.
+Ex quo aperte apparet quod propositiones affirmativae habent maiorem efficaciam ad syllogizandum quam
+negativae. Unde sequitur quod demonstratio affirmativa, quae procedit ex solis affirmativis, sit potior quam
+demonstratio negativa, quae procedit ex affirmativa et negativa.
+|#7 Tertiam rationem ponit ibi: amplius iuxta hoc etc., et dicit quod secundum consequentiam praemissarum
+rationum possumus hoc accipere, quod quando demonstratio augmentatur, scilicet per resolutionem
+propositionum in sua principia, necesse est esse plures propositiones affirmativas, sed negativas impossibile est
+esse plures quam unam. Sit enim talis demonstratio negativa: nullum b est a; omne c est b; ergo nullum c est a.
+Augeatur ergo demonstratio quantum ad utramque propositionem, si utraque sit mediata, accipiendo medium
+utriusque; et medium quidem maioris propositionis, scilicet nullum b est a, sit d, medium autem minoris
+propositionis, scilicet omne c est b, sit e. Et quia haec propositio, omne c est b, est affirmativa, ad quam
+concludendam non concurrit aliqua negativa, necesse est quod eius medium, quod est e, sit affirmativum ad
+64
+
+

@@ -1,0 +1,33 @@
+Latin Names of the Bishoprics in Scotland.
+
+Aberdeiensis, Aberdonensis: Aberdeen.
+Archadiae, Argadiae: Argyle.
+Argatheliae, Argeuelensis: Argyle.
+Berechinensis, Brechynensis, Brikanensis: Brechin.
+Caledoniensis: Dunkeld.
+Candidae Casae: Whithern, Galloway.
+Catenensis, Cathanensis: Caithness.
+Cella Reguli: St. Andrew's.
+Dubleinensis, Dumblanensis, Dunbliuensis: Dunblane.
+Dunkeldensis: Dunkeld.
+Aebudae: The Isles.
+Edenburgensis: Edinburgh.
+Ergadiensis, Ergaliensis: Argyle.
+Galeweinsis, Gallouidiensis: Galloway.
+Galueia, Candida Casa de: Galloway.
+Glascuensis, Glasguensis: Glasgow (Archbishopric).
+Hebudensis: The Isles, or Sodor.
+Lismorensis: Lismore.
+Manniae et Insularum: The Isles.
+Morafensis, Morauiensis, Mureuensis: Moray.
+Murthlaci: Mortlach.
+Orcadiensis, Orchadensis: Orkney.
+Rosmarkiensis: Ross.
+Rossensis: Ross.
+S. Andreae, Sanctandreanus: St. Andrews (Archbishopric).
+Sodorensis: The Isles, or Sodor.
+Witternensis: Whitherne, Whithorn.
+
+1
+
+

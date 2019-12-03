@@ -1,0 +1,66 @@
+Patet etiam ex praemissis quod iste motus non est continuus, etsi continuus
+videatur. Videtur enim continuus propter mobilis unitatem: non tamen est
+continuus, quia sunt diversa moventia, ut dictum est. Aut enim iste motus
+est a pluribus moventibus consequenter se habentibus, aut etiam a pluribus
+moventibus se tangentibus (quomodo autem differant consequenter se habere
+et tangere, supra dictum est in quinto et sexto)p et manifestum est ad
+sensum, quod utroque modo se habentibus diversis moventibus, possunt movere
+unum mobile, secundum quod ipsa moventur ab aliquo primo movente. In his
+enim quae moventur motu proiectionis, non est unum movens tantum, sed multa
+habita ad invicem, et consequenter se habentia et contacta. Et quia
+diversitas non est absque divisione, ideo praedictus proiectionis motus fit
+per medium facile divisibile, scilicet per aerem et aquam, in quibus
+propter divisionem de facili contingit diversitas moventium.
+Quem quidem motum proiectionis aliqui dicunt esse antiperistasim, idest
+contra-resistentiam; ex eo scilicet quod aer circumstans motus, aliquo modo
+movet corpus proiectum, sicut supra dictum est in quarto. Sed non potest
+praedicta dubitatio solvi nisi eo modo qui positus est: quia si ponatur
+causa proiectionis antiperistasis aeris, sequitur quod omnia simul moveant
+et moveantur, idest quod totus aer simul moveat et moveatur, et per
+consequens quod simul quiescant omnia; quod patet esse falsum. Videmus enim
+unum aliquid esse quod continue movetur, a quocumque moveatur. Quod ideo
+dico, quia non habet unum et idem determinatum movens, sed moventia
+diversa.
+|+23
+
+Lectio 23
+
+|#1
+Soluta dubitatione quam moverat de motu proiectionis, ex cuius
+solutione accepit quod non est unus motus continuus qui est a pluribus
+moventibus, hic accedit ad principale propositum, ut scilicet ostendat
+unitatem primi motoris.
+Et circa hoc duo facit: primo ostendit propositum; secundo movet quandam
+dubitationem et solvit, ibi: habet autem dubitationem etc..
+Circa primum tria facit: primo ostendit unitatem primi motoris per
+continuitatem motus; secundo ostendit quomodo ab uno motore procedit motus
+continuus, ibi: si quidem igitur motus etc.; tertio ubi sit principium
+motus continui, ibi: necesse est autem etc..
+|#2
+Quod autem necesse sit esse unum motorem, probat per continuitatem
+motus, accipiens quod supra probaverat, quod necesse est aliquem motum
+continuum semper esse. Motus autem continuus est unus, ut dictum est in
+quinto: ergo necesse est semper esse aliquem motum unum. Ad hoc autem quod
+motus sit unus, necesse est quod sit unius magnitudinis motae (quia non
+potest moveri aliquod impartibile, ut probatum est in sexto); et etiam
+oportet quod sit ab uno motore. Sive enim sint diversa mobilia, sive
+diversi motores, non erit unus motus, et per consequens nec continuus: sed
+erit unus motus divisus ab alio, divisione mobilis vel motoris, et
+consequenter se habentes.
+Necesse est igitur movens esse unum, quod vel moveat motum, vel moveat
+immobile existens.
+|#3
+Deinde cum dicit: si quidem igitur etc., ostendit quomodo ab uno
+motore possit esse motus continuus.
+Et circa hoc duo facit: primo enim ostendit quomodo ab uno motore possit
+esse motus semper continuus; secundo quomodo sit regularis, ibi: et
+regularis etc..
+Dicit ergo primo, quod motus unus, qui est ab uno motore, sicut dictum est,
+aut est a motore moto, aut a motore non moto. Si quidem igitur sit movens
+motum, sequitur quod movetur ab aliquo, secundum ea quae supra probata
+sunt. Sed hoc non potest procedere in infinitum, ut supra probatum est:
+quare stabit iste processus motorum et mobilium, et pervenietur ad aliquod
+primum mobile, quod movetur ab immobili motore; quod quidem non habet
+354
+
+

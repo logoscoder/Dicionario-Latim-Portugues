@@ -1,0 +1,62 @@
+Ergo peccatum veniale et mortale non differunt genere.
+AG3
+Praeterea, supra dictum est quod subiti motus tam sensualitatis quam rationis, sunt peccata venialia.
+Sed subiti motus inveniuntur in quolibet peccati genere.
+Ergo non sunt aliqua peccata venialia ex genere.
+SC
+Sed contra est quod Augustinus, in sermone de Purgatorio, enumerat quaedam genera peccatorum venialium, et
+quaedam genera peccatorum mortalium.
+CO
+Respondeo dicendum quod peccatum veniale a venia dicitur.
+Potest igitur aliquod peccatum dici veniale uno modo, quia est veniam consecutum, et sic dicit Ambrosius quod
+omne peccatum per poenitentiam fit veniale. Et hoc dicitur veniale ex eventu.
+Alio modo dicitur veniale, quia non habet in se unde veniam non consequatur vel totaliter vel in parte. In parte
+quidem, sicut cum habet in se aliquid diminuens culpam, ut cum fit ex infirmitate vel ignorantia. Et hoc dicitur
+veniale ex causa.
+In toto autem, ex eo quod non tollit ordinem ad ultimum finem, unde non meretur poenam aeternam, sed
+temporalem. Et de hoc veniali ad praesens intendimus. De primis enim duobus constat quod non habent genus
+aliquod determinatum. Sed veniale tertio modo dictum, potest habere genus determinatum, ita quod aliquod
+peccatum dicatur veniale ex genere, et aliquod mortale ex genere, secundum quod genus vel species actus
+determinantur ex obiecto.
+Cum enim voluntas fertur in aliquid quod secundum se repugnat caritati, per quam homo ordinatur in ultimum
+finem, peccatum ex suo obiecto habet quod sit mortale. Unde est mortale ex genere, sive sit contra dilectionem
+Dei, sicut blasphemia, periurium, et huiusmodi; sive contra dilectionem proximi, sicut homicidium, adulterium,
+et similia. Unde huiusmodi sunt peccata mortalia ex suo genere. Quandoque vero voluntas peccantis fertur in id
+quod in se continet quandam inordinationem, non tamen contrariatur dilectioni Dei et proximi, sicut verbum
+otiosum, risus superfluus, et alia huiusmodi.
+Et talia sunt peccata venialia ex suo genere. Sed quia actus morales recipiunt rationem boni et mali non solum ex
+obiecto, sed etiam ex aliqua dispositione agentis, ut supra habitum est; contingit quandoque quod id quod est
+peccatum veniale ex genere ratione sui obiecti, fit mortale ex parte agentis, vel quia in eo constituit finem
+ultimum, vel quia ordinat ipsum ad aliquid quod est peccatum mortale ex genere, puta cum aliquis ordinat
+verbum otiosum ad adulterium committendum. Similiter etiam ex parte agentis contingit quod aliquod peccatum
+quod ex suo genere est mortale, fit veniale, propter hoc scilicet quod actus est imperfectus, idest non deliberatus
+ratione, quae est principium proprium mali actus, sicut supra dictum est de subitis motibus infidelitatis.
+RA1
+Ad primum ergo dicendum quod ex hoc ipso quod aliquis eligit id quod repugnat divinae caritati, convincitur
+praeferre illud caritati divinae, et per consequens plus amare ipsum quam Deum.
+Et ideo aliqua peccata ex genere, quae de se repugnant caritati, habent quod aliquid diligatur supra Deum.
+Et sic sunt ex genere suo mortalia.
+RA2
+Ad secundum dicendum quod ratio illa procedit de peccato veniali ex causa.
+RA3
+Ad tertium dicendum quod ratio illa procedit de peccato quod est veniale propter imperfectionem actus.
+|a3 Articulus 3
+AG1
+Ad tertium sic proceditur. Videtur quod peccatum veniale non sit dispositio ad mortale. Unum enim oppositum
+non disponit ad aliud.
+Sed peccatum veniale et mortale ex opposito dividuntur, ut dictum est.
+Ergo peccatum veniale non est dispositio ad mortale.
+AG2
+Praeterea, actus disponit ad aliquid simile in specie sibi, unde in II ethic. Dicitur quod ex similibus actibus
+generantur similes dispositiones et habitus.
+Sed peccatum mortale et veniale differunt genere seu specie, ut dictum est.
+Ergo peccatum veniale non disponit ad mortale.
+AG3
+Praeterea, si peccatum dicatur veniale quia disponit ad mortale, oportebit quod quaecumque disponunt ad
+mortale peccatum, sint peccata venialia. Sed omnia bona opera disponunt ad peccatum mortale, dicit enim
+Augustinus, in regula, quod superbia bonis operibus insidiatur, ut pereant.
+Ergo etiam bona opera erunt peccata venialia, quod est inconveniens.
+SC
+1004
+
+

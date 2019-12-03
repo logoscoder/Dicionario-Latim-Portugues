@@ -1,0 +1,50 @@
+OPERA OMNIA
+SANCTI THOMAE AQUINATIS
+-----oOo----Textum electronicum praeparavit et indexavit
+Ricardo M. Rom n, S. R. E. Presbyterus
+Bonis Auris, MCMXCVIII
+
+|*SUMMA_THEOLOGIAE
+SANCTI THOMAE AQUINATIS
+|*STH.I PRIMA PARS
+|q0 Prologus
+Quia catholicae veritatis doctor non solum provectos debet instruere, sed ad eum pertinet etiam incipientes
+erudire, secundum illud apostoli I ad corinth. III, tanquam parvulis in Christo, lac vobis potum dedi, non escam;
+propositum nostrae intentionis in hoc opere est, ea quae ad christianam religionem pertinent, eo modo tradere,
+secundum quod congruit ad eruditionem incipientium. Consideravimus namque huius doctrinae novitios, in his
+quae a diversis conscripta sunt, plurimum impediri, partim quidem propter multiplicationem inutilium
+quaestionum, articulorum et argumentorum; partim etiam quia ea quae sunt necessaria talibus ad sciendum, non
+traduntur secundum ordinem disciplinae, sed secundum quod requirebat librorum expositio, vel secundum quod
+se praebebat occasio disputandi; partim quidem quia eorundem frequens repetitio et fastidium et confusionem
+generabat in animis auditorum. Haec igitur et alia huiusmodi evitare studentes, tentabimus, cum confidentia
+divini auxilii, ea quae ad sacram doctrinam pertinent, breviter ac dilucide prosequi, secundum quod materia
+patietur.
+|q1 Quaestio 1
+Et ut intentio nostra sub aliquibus certis limitibus comprehendatur, necessarium est primo investigare de ipsa
+sacra doctrina, qualis sit, et ad quae se extendat. Circa quae quaerenda sunt decem. Primo, de necessitate huius
+doctrinae. Secundo, utrum sit scientia. Tertio, utrum sit una vel plures. Quarto, utrum sit speculativa vel practica.
+Quinto, de comparatione eius ad alias scientias. Sexto, utrum sit sapientia. Septimo, quid sit subiectum eius.
+Octavo, utrum sit argumentativa. Nono, utrum uti debeat metaphoricis vel symbolicis locutionibus. Decimo,
+utrum Scriptura sacra huius doctrinae sit secundum plures sensus exponenda.
+|a1 Articulus 1
+AG1
+Ad primum sic proceditur. Videtur quod non sit necessarium, praeter philosophicas disciplinas, aliam doctrinam
+haberi. Ad ea enim quae supra rationem sunt, homo non debet conari, secundum illud Eccli. III, altiora te ne
+quaesieris.
+Sed ea quae rationi subduntur, sufficienter traduntur in philosophicis disciplinis. Superfluum igitur videtur,
+praeter philosophicas disciplinas, aliam doctrinam haberi.
+AG2
+Praeterea, doctrina non potest esse nisi de ente, nihil enim scitur nisi verum, quod cum ente convertitur. Sed de
+omnibus entibus tractatur in philosophicis disciplinis, et etiam de Deo, unde quaedam pars philosophiae dicitur
+theologia, sive scientia divina, ut patet per Philosophum in VI metaphys..
+Non fuit igitur necessarium, praeter philosophicas disciplinas, aliam doctrinam haberi.
+SC
+Sed contra est quod dicitur II ad Tim. III, omnis Scriptura divinitus inspirata utilis est ad docendum, ad
+arguendum, ad corripiendum, ad erudiendum ad iustitiam.
+Scriptura autem divinitus inspirata non pertinet ad philosophicas disciplinas, quae sunt secundum rationem
+humanam inventae. Utile igitur est, praeter philosophicas disciplinas, esse aliam scientiam divinitus inspiratam.
+CO
+
+1
+
+

@@ -1,0 +1,61 @@
+[83773] In Metaphysic., lib. 11 l. 3 n. 9
+Deinde cum dicit quemadmodum autem ostendit quod de omnibus entibus reductis ad unum, sit consideratio huius
+scientiae. Et circa hoc tria facit. Primo exemplo geometriae ostendit, quod ad unam scientiam pertinet considerare
+omnia quae reducuntur ad ens; dicens quod sicut mathematica habet considerationem circa ea quae sunt ex ablatione,
+idest circa abstracta, quae quidem abstractio fit non ex hoc quod ponat ea de quibus considerat in rerum natura esse
+separata a sensibilibus, sed quia considerat ea absque consideratione sensibilium. Speculatur enim mathematica
+auferens a sua consideratione omnia sensibilia, sicut levitatem, gravitatem, duritiem, mollitiem, caliditatem et
+frigiditatem, et omnes alias sensibiles contrarietates, et derelinquit in sua consideratione solummodo quantum et
+continuum, sive sit continuum ad unam tantum dimensionem, ut linea, sive ad duas, ut superficies, sive ad tres, ut
+corpus; et considerat primo passiones horum inquantum sunt continua, et non secundum aliquid aliud. Non enim
+considerat passiones superficiei secundum quod est superficies lignea vel lapidea. Et similiter rationes eorum
+adinvicem. Considerando figuras etiam considerat accidentia quae existunt in figuris, et considerat mensurationes et
+incommensurationes quantitatum, ut patet in decimo Euclidis, et rationes, idest proportiones earum, ut patet in quinto.
+Sed tamen de omnibus his est una scientia quae est geometria.
+[83774] In Metaphysic., lib. 11 l. 3 n. 10
+Et sicut est de mathematico, ita est de philosopho qui considerat ens, et praetermittit considerare omnia particularia
+entia, et considerat ea tantum quae pertinent ad ens commune; quae licet sint multa, tamen, de omnibus est una scientia,
+inquantum scilicet reducuntur omnia in unum, ut dictum est.
+[83775] In Metaphysic., lib. 11 l. 3 n. 11
+Secundo ibi, huic enim ostendit cuius scientiae sit praedicta considerare: dicens, quod considerare accidentia entis
+inquantum est ens, non est alterius scientiae, quam huius philosophiae. Si enim esset alterius, maxime videretur esse
+naturalis scientiae et dialecticae, quae videntur maxime inter scientias esse communes. Naturalis quidem secundum
+opinionem antiquorum, qui non ponebant alias substantias, nisi sensibiles: sic enim sequeretur, quod ad naturalem
+pertineret considerare de omnibus substantiis, et per consequens de omnibus entibus, quae reducuntur ad substantiam.
+Dialectica autem videtur esse communis, et similiter sophistica, quia considerant quaedam accidentia entibus, scilicet
+intentiones, et rationes generis et speciei, et alia huiusmodi. Unde relinquitur quod philosophus consideret praedicta
+inquantum sunt accidentia entis.
+[83776] In Metaphysic., lib. 11 l. 3 n. 12
+Tertio ibi, quoniam autem ex dictis infert conclusionem principaliter intentam; dicens quod quia ens dicitur
+multipliciter secundum aliquid unum, et omnia contraria reducuntur ad primam contrarietatem entis, et talia sic reducta
+in unum possunt cadere sub una scientia, ut dictum est; per hoc solvitur dubitatio prius mota, utrum scilicet multorum
+differentium genere sit una scientia.
+Lectio 4
+[83777] In Metaphysic., lib. 11 l. 4 n. 1
+Postquam philosophus ostendit quomodo consideratio huius scientiae est circa entia, et ea quae consequuntur ens
+inquantum huiusmodi; hic ostendit quomodo consideratio huius scientiae est de primis principiis demonstrationis. Et
+dividitur in duas partes. In prima ostendit quod ad hanc scientiam pertinet considerare de his. In secunda determinat de
+quodam principio demonstrationis quod est inter alia primum, ibi, est autem quoddam et cetera. Circa primum duo
+facit. Primo ostendit propositum ex consideratione scientiae mathematicae. Secundo ex consideratione scientiae
+naturalis, ibi, eodem autem. Utitur autem in prima parte tali ratione. Quaecumque communia a scientiis particularibus
+accipiuntur particulariter, et non secundum quod sunt in sua communitate, pertinent ad considerationem huius scientiae.
+Sed prima principia demonstrationis accipiuntur a mathematica et ab aliis particularibus scientiis particulariter tantum:
+ergo eorum consideratio secundum quod sunt communia, pertinet ad hanc scientiam, quae considerat de ente
+inquantum est ens.
+[83778] In Metaphysic., lib. 11 l. 4 n. 2
+Dicit ergo quod mathematicus utitur principiis communibus proprie, idest secundum quod appropriantur suae materiae.
+Oportet autem quod ad primam philosophiam pertineat considerare principia huiusmodi secundum suam
+communitatem. Sic enim accepta sunt principia suiipsorum secundum quod sunt alicui materiae particulari appropriata.
+Et hoc quod dixerat manifestat per exemplum.
+[83779] In Metaphysic., lib. 11 l. 4 n. 3
+Nam hoc principium: si ab aequalibus aequalia demas, quae relinquuntur aequalia sunt, est commune in omnibus
+quantis, in quibus inveniuntur aequale et inaequale. Sed mathematica assumunt huiusmodi principia ad propriam
+considerationem circa aliquam partem quanti, quae est materia sibi conveniens. Non est enim aliqua mathematica
+scientia, quae consideret ea quae sunt quantitatis communia, inquantum est quantitas. Hoc enim est primae
+philosophiae. Sed considerant mathematicae scientiae ea quae sunt huius vel illius quantitatis, sicut arithmetica ea quae
+sunt numeri, et geometria ea quae sunt magnitudinis. Unde arithmeticus accipit praedictum principium, secundum quod
+pertinet ad numeros tantum; geometra autem secundum quod pertinet ad lineas vel ad angulos. Non autem considerat
+geometra hoc principium circa entia inquantum sunt entia; sed circa ens inquantum est continuum, vel secundum unam
+dimensionem ut linea, vel secundum duas ut superficies, vel secundum tres ut corpus. Sed philosophia prima non
+
+

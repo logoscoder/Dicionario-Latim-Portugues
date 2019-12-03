@@ -1,0 +1,62 @@
+[2.6.2] Ex quarta:
+Si est a, cum non sit b, non est c; Atqui est a; Cum igitur non sit b, non est c
+uel ita:
+Atqui cum non sit b, est c; Non est igitur a.
+In his igitur quatuor propositionibus, in quibus a terminus esse proponitur, si assumptum fuerit eundem a
+terminum esse, c terminus uel esse uel non esse monstratur; idem uero si c terminus assumatur, siquidem cum est non
+esse, uel cum non est esse assumatur, a terminus non esse monstrabitur.
+[2.6.3] Ex quinta etiam propositione ita syllogismi fiunt:
+Si non est a, cum sit b, est c; Atqui non est a; Cum igitur sit b, est c
+uel ita:
+Atqui est a; Cum igitur sit b, non est c
+uel ita:
+Atqui cum sit b, non est c; Est igitur a
+uel sic:
+Atqui cum sit b, est c; Non est igitur a.
+Quod idcirco euenit ut huiusmodi propositio quatuor colligat syllogismos, quia in his tantum si non sit aliquid
+esse /288/ aliud proponi potest, in quibus contraria medietatibus carent; in his enim uel interempto altero alterum
+ponitur, uel posito altero alterum necesse est perimatur.
+[2.6.4] Ex sexta:
+Si non est a, cum sit b, non est c; Atqui non est a; Cum igitur sit b, non est c
+uel ita:
+Atqui cum sit b, est c; Est igitur a.
+Ex septima:
+Si non est a, cum non sit b, est c; Atqui non est a; Cum igitur non sit b, est c
+uel ita:
+Atqui est a; Cum igitur non sit b, non est c
+uel ita:
+Atqui cum non sit b, non est c; Est igitur a
+uel ita:
+Atqui cum non sit b, est c; Non est igitur a.
+In hac quoque complexione propter eandem causam quatuor collectiones hunt.
+[2.6.5] Ex octaua:
+Si non est a, cum non sit b, non est c; Atqui non est a; Cum igitur non sit b, non est c
+uel ita:
+Atqui cum non sit b, est c; Est igitur a.
+In his quoque quatuor propositionibus, si quidem a non esse assumatur, c uel esse uel non esse concluditur; si
+uero c cum est non esse, uel cum non est esse assumatur, a terminus semper esse concluditur, nisi in quinto et septimo
+tantum modis, ubi cum c esse assumatur, a non esse monstratur. Omnium uero communis est ratio, praeter quintum ac
+septimum modum, ut si a terminus ita assumatur, quomodo in prima enuntiatione propositus est, conditio quae sequitur
+in conclusione firmetur.
+[2.6.6] Si uero conditio quae sequitur contrario modo atque in enuntiatione proposita est assumatur, categorica
+propositio, quae prima est, interimetur. In septimo autem uel quinto modo, quaque ratione sumptum sit alterum, in
+utrisque partibus faciet /290/
+conclusionem. Itaque fiunt sedecim uel uiginti potius syllogismi: octo quidem, si a terminus, ut est propositus,
+assumatur, octo uero, si c terminus conuerso modo atque in propositione est positus assumatur, quatuor uero ex quinto
+et septimo modis utrobique facientibus conclusionem. Reliquis uero complexionibus nulla est consequentia necessitatis.
+[2.6.7] Ut autem plenior fieret intellectus ipsas propositiones cum suis terminis positas annotaui, ut secundum
+praedictos assumptionum modos non ratione solum demonstratio fieret, uerum etiam per exempla currentibus doctrina
+clarior elucesceret.
+Si est a homo, cum sit b animatum, est c animal.
+Si est a homo, cum sit b animatum, non est c insensibile.
+Si est a homo, cum non sit b inanimatum, est c sensibile.
+Si est a homo, cum non sit b inanimatum, non est c insensibile.
+Si non est a animatum, cum sit b insensibile, est c inuitale.
+Si non est a animatum, cum sit b insensibile, non est c uitale.
+Si non est a animatum, cum non sit b sensibile, est c inuitale.
+Si non est a animatum, cum non sit b sensibile, non est c uitale.
+[2.7.1] Expeditis igitur his syllogismis qui ex talibus propositionibus fiunt, quae ex prima praedicatiua secunda
+hypothetica copulantur, nunc ad eos transitum faciamus qui ex prima conditionali secunda uero praedicatiua nectuntur,
+quamm omnium numerus proponendus est, ut de quibus loquimur lector agnoscat. /292/
+
+

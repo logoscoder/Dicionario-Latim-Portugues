@@ -1,0 +1,63 @@
+ita b de c. Si ergo conuertatur, et fiat [813A] b terminus de a termino praedicetur, inuenitur b terminus qui antea medius
+fuerat, et a termino subiectus, de c uero termino praedicatur ad utrosque terminos praedicatiuus.
+Age enim quoniam a bonum de b iusto praedicabatur, b uero iustum de c uirtute praedicabatur, erat propositio:
+Omne iustum bonum est
+Omnis uirtus iusta est
+manente propositione quae est:
+Omnis uirtus iusta est
+prima propositio (id est "Omne iustum bonum est") contrauertatur et fiat:
+Omne bonum iustum est.
+Inueniuntur igitur propositiones sic:
+Omne bonum iustum est
+Omnis uirtus iusta est
+et iustum, id est b de a et c terminis praedicabitur. Conuersa igitur maiore prioris figurae extremitate, secunda
+syllogismorum figura procreatur.
+Tertia uero figura nascitur, minori propositione conuersa. [813B] Nam si a bonum predicatur de b iusto, ut
+dicatur:
+Omne iustum bonum est
+b uero iustum praedicatur de c uirtute, ut dicatur:
+Omnis uirtus iusta est
+si, priore propositione manente, id est:
+Omne iustum bonum est
+secunda quae est:
+Omnis uirtus iusta est
+conuertatur et fiat:
+Omne iustum uirtus est
+inuenietur omnes propositiones sic:
+Omne iustum bonum est
+Omne iustum uirtus est
+et de b iusto a et c termini praedicantur, et fit tertiae figurae connexio. Conuersis igitur primis posterisque
+extremitatibus primae figure, tertia uel secunda figura nascuntur. At uero unaquaeque harum trium figurarum habet sub
+se plures syllogismorum modos, ut modi sub figuris ita sint ut sunt species sub suis generibus.
+Habet enim prima figura sub se, Aristotele [813C] auctore, modos quatuor; sed Theophrastus uel Eudemus
+super hos quatuor quinque alios modos addunt, Aristolele dante principium in secundo Priorum Analylicorum
+uolumine, quod melius postmodum explicabitur.
+Secunda uero figura habet sub se quatuor modos; tertia uero, auctore Aristotele, sex; addunt etiam alii unum,
+sicut ipse Porphyrius, superiores scilicet sequens.
+Et quoniam (ut superiore libro dictum est) aliae propositiones affirmatiuae sunt, aliae negatiuae, et earum aliae
+uniuersales, aliae uero particulares, secundum eas ipsas, propositiones syllogismorum conclusionesque iunguntur.
+<I-1: BARBARA> Namque primae figurae primus modus est qui fit ex duabus uniuersalibus affirmatiuis,
+uniuersalem colligens affirmatiuam.
+[813D] Si enim a termimis fuerit in omni b termino, et si b terminus de omni c termino fuerit praedicatus, a
+terminus de omni c termino praedicabitur. Namque a bonum si praedicetur de omni b iusto, ut sit:
+Omne iustum bonum est
+b uero iustum, si de c praedicetur uirtute, ut sit:
+Omnis uirtus iustum est
+necessario concluditur extremitatibus ad se inuicem praedicatis, id est a et c, ut sit:
+Omnis uirtus bonum est
+Sunt igitur huiusmodi propositiones atque conclusio? Si a in omni b fuerit, et b in omni c fuerit, a terminus de
+omni c praedicabitur, id est:
+Omne iustum bonum est, Omnis uirtus iusta est;
+et conclusio:
+Omnis igitur uirtus bonum est
+et hic primae figurae primus modus est.
+<I-2: CELARENT> Secundus uero modus primae figurae est, quoties ex prima uniuersali negatiua et [814A]
+secunda uniuersali affirmatiua conclusio uniuersali negatione colligitur. Si enim sit a malum, b bonum, c iustum, a
+terminus de nullo b termino praedicabitur. Nullum enim bonum malum est, b uero terminus de omni c termino
+praedicabitur, omne enim iustum bonum est. Quare colligitur, nullum iustum malum est, ut est hoc modo: Si a terminus
+de nullo b termino praedicatur, b uero terminus de omni c fuerit praedicatus, a terminus de nullo c praedicabitur, ut est:
+Nullum bonum malum est, Omne iustum bonum est; Nullum igitur iustum malum est.
+
+15
+
+

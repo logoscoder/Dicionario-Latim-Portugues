@@ -1,0 +1,61 @@
+et speciem dicimus id quod sub genere est. Nosse autem oportet quoniam et genus alicuius est genus et species alicuius
+est species, idcirco necesse est et in utrorumque rationibus utrisque uti. Assignant ergo et sic speciem:
+Species est quod ponitur sub genere et de qua genus in eo quod quid sit praedicatur.
+Amplius autem sic quoque:
+Species est quod de pluribus et differentibus numero in eo quod quid sit praedicatur
+sed haec quidem assignatio specialissimae est et quae solum species est, aliae uero erunt etiam non
+specialissimarum.
+Planum autem erit quod dicitur hoc modo. In unoquoque praedicamento sunt quaedam generalissima, et rursus
+alia specialissima, et inter generalissima et specialissima alia. Est autem generalissimum quidem super quod nullum
+ultra aliud sit superueniens genus, specialissimum autem post quod non erit alia inferior species; inter generalissimum
+autem et specialissimum et genera et species sunt eadem, ad aliud quidem et aliud sumpta.
+Sit autem in uno praedicamento manifestum quod dicitur. Substantia est quidem et ipsa genus, sub hac autem
+est corpus, sub corpore uero animatum corpus sub quo animal, sub animali uero rationale animal sub quo homo, sub
+homine uero Socrates et Plato et qui sunt particulares homines. Sed horum, substantia quidem generalissimum est et
+quod genus sit solum, homo uero specialissimum et quod species solum sit; corpus uero species quidem est substantiae,
+genus uero corporis animati; et animatum corpus species quidem est corporis, genus uero animalis; animal autem
+species quidem est corporis animati, genus uero rationalis; sed rationale animal species quidem est animalis, genus
+autem hominis; homo uero species quidem est rationalis animalis, non autem etiam genus particularium hominum sed
+solum species; et omne quod ante indiuidua proximum est, species erit solum, non etiam genus.
+Quemadmodum igitur substantia quae cum suprema sit eo quod nihil sit supra eam, genus est generalissimum,
+sic et homo cum sit species post quam non sit alia inferior species neque aliquid eorum quae possunt diuidi sed solum
+indiuiduorum (indiuiduum enim est Socrates et Plato), species erit sola et ultima species et, ut dictum est, specialissima.
+Quae uero sunt in medio, eorum quidem quae supra ipsa sunt, erunt species, eorum uero quae post ipsa sunt,
+genera. Quare haec quidem duas habent habitudines: eam quae est ad superiora secundum quam species ipsorum esse
+dicuntur, et eam quae est ad posteriora secundum quam genera ipsorum esse dicuntur. Extrema uero unam habent
+habitudinem; nam et generalissimum ad ea quidem quae posteriora sunt habet habitudinem, cum genus sit omnium id
+quod est supremum, eam uero quae est ad superiora non habet, cum sit supremum et primum principium;
+specialissimum autem unam habet habitudinem, eam quae est ad superiora quorum est species, eam uero quae est ad
+posteriora non diuersam habet sed etiam indiuiduorum species dicitur (sed species quidem indiuiduorum uelut ea
+continens, species autem superiorum uelut quae ab eis continetur).
+Determinant ergo generalissimum ita:
+Quod, cum genus sit, non est species
+et rursus:
+Supra quod non est aliud superueniens genus
+specialissimum uero:
+Quod, cum sit species, non est genus
+et:
+Quod, cum sit species, numquam diuiditur in species
+et:
+Quod de pluribus et differentibus numero in eo quod quid sit praedicatur
+ea uero quae in medio sunt extremorum subalterna uocant genera et species, et unumquodque ipsorum species
+esse et genus ponunt ad aliud quidem et ad aliud sumpta; ea uero quae sunt ante specialissima usque ad generalissimum
+ascendentia et genera dicuntur et species et subalterna genera, ut Agamemnon Atrides et Pelopides et Tantalides et,
+ultimum, Iouis. Sed in familiis quidem plerumque ad unum reducuntur principium, uerbi gratia Iouem, in generibus
+autem et speciebus non se sic habet; neque enim est commune unum genus omnium ens, nec omnia eiusdem generis
+sunt secundum unum supremum genus, quemadmodum dicit Aristoteles sed sint posita (quemadmodum in
+Praedicamentis) prima decem genera quasi prima decem principia. Vel, si omnia quis entia uocet, aequiuoce (inquit)
+nuncupabit, non uniuoce; si enim unum esset commune omnium genus ens, uniuoce entia dicerentur, cum autem decem
+sint prima, communio secundum nomen est solum, non etiam secundum definitionis rationem quae secundum nomen
+est.
+Decem quidem generalissima sunt, specialissima uero in numero quidem quodam sunt non tamen infinito,
+indiuidua autem quae sunt post specialissima infinita sunt. Quapropter usque ad specialissima a generalissimis
+descendentem iubet Plato quiescere, descendere autem per media diuidentem specificis differentiis; infinita, inquit,
+relinquenda sunt, neque enim horum posse fieri disciplinam.
+Descendentibus igitur ad specialissima necesse est diuidentem per multitudinem ire, ascendentibus uero ad
+generalissima necesse est colligere multitudinem (collectiuum enim multorum in unam naturam species est, et magis id
+quod genus est, particularia uero et singularia semper in multitudinem e contrario diuidunt quod unum est;
+participatione enim speciei plures homines unus, particularibus autem unus et communis plures; diuisiuum enim est
+semper quod singulare est, collectiuum autem et adunatiuum quod commune est).
+
+

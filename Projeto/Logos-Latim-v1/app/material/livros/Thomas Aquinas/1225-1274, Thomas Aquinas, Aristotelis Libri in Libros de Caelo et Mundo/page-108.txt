@@ -1,0 +1,58 @@
+|#14 Est etiam sciendum quod, quia Aristoteles hic terram ponit non participare aliquem motum, Alexander
+convenienter dicit eam esse inanimatam.
+Sed simplicius in suo commento declarat, dicens terram esse animatam (sequitur enim in hoc errorem gentilium,
+qui cultum divinitatis terrae attribuebant)p quod Aristoteles reprobat in III de anima, ostendens quod nullum
+corpus simplex est animatum. Quod etiam evidenti signo apparet: quia quae in animalibus sunt magis terrea,
+sicut ossa, insensibilia sunt. Si autem corpus caeleste, simplex existens, est animatum, non impedit hanc
+rationem: quia corpus caeleste non subiacet contrarietati, sicut simplicia elementorum corpora.
+Nititur autem probare corpus terrae esse animatum, quia in aeternum durat, et ex eo quod aliquae partes terrae
+sunt animatae: non attendens quod ad corpora animata, terra et alia elementa habent habitudinem materiae,
+corpus autem caeleste habitudinem agentis. Agens autem nobilius est facto, sed factum nobilius est materia: unde
+etsi caelum habet nobiliorem formam quam corpora animata, elementa tamen habent formam minus nobilem.
+Similiter etiam nititur ostendere quod non repugnat animationi terrae quod non movetur. Uno quidem modo quia
+etiam plantae sunt animatae, quae tamen non moventur secundum locum. Sed in hoc fallitur: quia quamvis non
+moveantur motu locali, moventur tamen motu augmenti et decrementi. Alio modo quia, cum etiam ea quae
+intelligunt dicat Aristoteles vivere, nihil prohibet terram esse animatam et viventem, licet non moveatur
+secundum locum: potest tamen esse quod intelligat. Sed hoc etiam est contra Aristotelem, qui dicit in II de anima
+quod in corporibus corruptibilium non est aliquid habens intellectum sine sensu; terram autem insensibilem esse,
+manifestum est ex eo quod quotidie scinditur et atteritur. Adhuc autem, cum eadem sit natura totius et partis,
+sicut et idem motus, si terra tota haberet animam intellectivam, oporteret quod quaelibet pars eius divisa esset
+animata et intelligens; et quod ulterius omnia corpora mixta, in quibus terra superabundat, essent talia; quod est
+derisibile. Addit etiam quod licet terra stet, habet tamen aliquam operationem, quae est ipsum stare; ut sicut
+caelestis corporis est operatio movere, ita terrae operatio est stare vel quiescere. Sed in hoc fallitur: quia stare vel
+quiescere non est operatio, sed privatio operationis vel motus. Unde cum cuiuslibet viventis corporis oporteat
+esse aliquam operationem vitae, quae appareat in ipso corpore, et non solum in anima (alioquin frustra corpori
+uniretur), manifestum est quod terra, in cuius corpore nulla vitae operatio apparet, non potest esse animata.
+|+19 Lectio 19
+|#1 Praemissa solutione primae dubitationis, hic solvit dubitationem secundam, qua scilicet quaerebatur quare,
+cum in sphaera primi motus sint innumerabiles stellae, in qualibet aliarum inferiorum non est nisi una.
+|#2 Ponit autem ad hoc tres solutiones. Quarum prima est sumpta ex excellentia primae sphaerae ad alias. Et
+dicit quod, circa dubitationem qua dubitatur quare secundum motum primae sphaerae, qui est unus, invenitur
+magis multitudo astrorum, in aliis autem sphaeris inferioribus planetarum unaquaeque stella seorsum accipit
+proprios motus (ut scilicet alii sint motus Saturni, alii iovis, et sic de aliis, cum tamen omnes stellae fixae sint
+locatae secundum unum motum), dicendum est quod aliquis potest existimare hoc rationabile esse, primo
+quidem propter hoc unum, quia oportet intelligere quod prima sphaera habeat magnam excellentiam in
+comparatione ad alias sphaeras: tum quantum ad vitam, quia scilicet habet nobiliorem vitam, utpote habens
+nobiliorem animam; tum quantum ad hoc quod est esse principium uniuscuiusque, quia scilicet universalis
+causalitas magis competit primae sphaerae quam alicui aliarum. Quae quidem excellentia considerari potest ex
+tribus: primo quidem quia immediatius ordinatur ad primum motorem; secundo quia continet et revolvit omnes
+alias sphaeras; tertio autem quia habet motum simplicissimum et velocissimum. Manifestum est autem quod id
+quod est nobilissimum et magis activum in corporibus caelestibus, est stella; quod ostendit luminositas ipsius. Et
+ideo conveniens est quod prima sphaera abundet in multitudine stellarum, per comparationem ad alias sphaeras.
+|#3 Si vero supponamus quod sphaera stellarum fixarum non sit suprema sphaera, sed sit alia sphaera ea
+superior, in qua nulla est stella, nihil differt ad propositum. Quia motus sphaerae non est nisi propter motum
+stellae, ut dicitur in XII metaphys.: unde ille motus supremae sphaerae, quae caret stellis, ordinatur ad motum
+stellarum fixarum; sicut, secundum antiquos astrologos, unusquisque planeta habet multas sphaeras carentes
+stella, ordinatas ad motum stellae infixae in ultima earum. Et secundum hoc, quantum ad ordinem motus, illa
+sphaera prima cadit in eundem ordinem cum sphaera stellarum fixarum. Propter quod etiam Aristoteles signanter
+dicit esse multas stellas secundum primam lationem, non autem secundum primam sphaeram: quia lationes
+determinantur secundum stellas, propter quas deferendas moventur sphaerae, non autem secundum sphaeras.
+Hoc autem solum infert quod motus stellarum fixarum non erit omnino simplex, ut Aristoteles supponit, sed
+compositus ex duobus motibus.
+|#4
+Secundam rationem ponit ibi: erit autem utique etc.; quae quidem sumitur secundum proportionem
+multitudinis stellarum ad multitudinem motuum. Et dicit hoc quod in dubitatione ponitur, secundum rationem
+accidere. Nam prima latio cum sit una, secundum eam moventur multa caelestium corporum (quae vocat corpora
+108
+
+

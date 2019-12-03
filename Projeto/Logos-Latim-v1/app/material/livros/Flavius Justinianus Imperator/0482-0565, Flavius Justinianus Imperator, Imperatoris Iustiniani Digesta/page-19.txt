@@ -1,0 +1,53 @@
+43.31.0. Utrubi.
+43.32.0. De migrando.
+43.33.0. De Salviano interdicto.
+Explicitus est liber ex ordine digestorum quadragensimus tertius.
+
+Incipit ex ordine liber quadragensimus quartus.
+44.1.0. De exceptionibus praescriptionibus et praeiudiciis.
+44.2.0. De exceptione rei iudicatae.
+44.3.0. De diversis temporalibus praescriptionibus et de accessionibus possessionum.
+44.4.0. De doli mali et metus exceptione.
+44.5.0. Quarum rerum actio non datur.
+44.6.0. De litigiosis.
+44.7.0. De obligationibus et actionibus.
+Explicitus est liber ex ordine digestorum quadragensimus quartus.
+
+Incipit ex ordine liber quadragensimus quintus.
+45.1.0. De verborum obligationibus.
+45.2.0. De duobus reis constituendis.
+45.3.0. De stipulatione servorum.
+Explicitus est liber ex ordine digestorum quadragensimus quintus.
+
+Incipit ex ordine liber quadragensimus sextus.
+46.1.0. De fideiussoribus et mandatoribus.
+46.2.0. De novationibus et delegationibus.
+46.3.0. De solutionibus et liberationibus.
+46.4.0. De acceptilatione.
+46.5.0. De stipulationibus praetoriis.
+46.6.0. Rem pupilli vel adulescentis salvam fore.
+46.7.0. Iudicatum solvi.
+46.8.0. Ratam rem haberi et de ratihabitione.
+Explicitus est liber ex ordine digestorum quadragensimus sextus.
+
+Incipit ex ordine liber quadragensimus septimus.
+47.1.0. De privatis delictis.
+47.2.0. De furtis.
+47.3.0. De tigno iuncto.
+47.4.0. Si is, qui testamento liber esse iussus erit, post mortem domini ante aditam hereditatem (..)
+47.5.0. Furti adversus nautas caupones stabularios.
+47.6.0. Si familia furtum fecisse dicetur.
+47.7.0. Arborum furtim caesarum.
+47.8.0. Vi bonorum raptorum et de turba.
+47.9.0. De incendio ruina naufragio rate nave expugnata.
+47.10.0. De iniuriis et famosis libellis.
+47.11.0. De extraordinariis criminibus.
+47.12.0. De sepulchro violato.
+47.13.0. De concussione.
+47.14.0. De abigeis.
+47.15.0. De praevaricatione.
+47.16.0. De receptatoribus.
+47.17.0. De furibus balneariis.
+47.18.0. De effractoribus et expilatoribus.
+
+

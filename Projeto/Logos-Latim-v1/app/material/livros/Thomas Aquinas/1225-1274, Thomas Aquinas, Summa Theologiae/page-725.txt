@@ -1,0 +1,59 @@
+|a6 Articulus 6
+AG1
+Ad sextum sic proceditur. Videtur quod amans non agat omnia ex amore. Amor enim quaedam passio est, ut
+supra dictum est.
+Sed non omnia quae agit homo, agit ex passione, sed quaedam agit ex electione, et quaedam ex ignorantia, ut
+dicitur in V ethic..
+Ergo non omnia quae homo agit, agit ex amore.
+AG2
+Praeterea, appetitus est principium motus et actionis in omnibus animalibus, ut patet in III de anima.
+Si igitur omnia quae quis agit, agit ex amore, aliae passiones appetitivae partis erunt superfluae.
+AG3
+Praeterea, nihil causatur simul a contrariis causis. Sed quaedam fiunt ex odio. Non ergo omnia sunt ex amore.
+SC
+Sed contra est quod dionysius dicit, IV cap. De div. Nom., quod propter amorem boni omnia agunt quaecumque
+agunt.
+CO
+Respondeo dicendum quod omne agens agit propter finem aliquem, ut supra dictum est.
+Finis autem est bonum desideratum et amatum unicuique. Unde manifestum est quod omne agens, quodcumque
+sit, agit quamcumque actionem ex aliquo amore.
+RA1
+Ad primum ergo dicendum quod obiectio illa procedit de amore qui est passio in appetitu sensitivo existens. Nos
+autem loquimur nunc de amore communiter accepto, prout comprehendit sub se amorem intellectualem,
+rationalem, animalem, naturalem, sic enim dionysius loquitur de amore in IV cap. De div. Nom..
+RA2
+Ad secundum dicendum quod ex amore, sicut iam dictum est, causantur et desiderium et tristitia et delectatio, et
+per consequens omnes aliae passiones. Unde omnis actio quae procedit ex quacumque passione, procedit etiam
+ex amore, sicut ex prima causa. Unde non superfluunt aliae passiones, quae sunt causae proximae.
+RA3
+Ad tertium dicendum quod odium etiam ex amore causatur, sicut infra dicetur.
+|q29 Quaestio 29
+|a0 Prologus
+Deinde considerandum est de odio. Et circa hoc quaeruntur sex.
+Primo, utrum causa et obiectum odii sit malum. Secundo, utrum odium causetur ex amore. Tertio, utrum odium
+sit fortius quam amor.
+Quarto, utrum aliquis possit habere odio seipsum. Quinto, utrum aliquis possit habere odio veritatem.
+Sexto, utrum aliquid possit haberi odio in universali.
+|a1 Articulus 1
+AG1
+Ad primum sic proceditur. Videtur quod obiectum et causa odii non sit malum. Omne enim quod est, inquantum
+huiusmodi bonum est.
+Si igitur obiectum odii sit malum, sequitur quod nulla res odio habeatur, sed solum defectus alicuius rei. Quod
+patet esse falsum.
+AG2
+Praeterea, odire malum est laudabile, unde in laudem quorundam dicitur II machab. III, quod leges optime
+custodiebantur, propter Oniae pontificis pietatem, et animos odio habentes mala.
+Si igitur nihil oditur nisi malum, sequitur quod omne odium sit laudabile. Quod patet esse falsum.
+AG3
+Praeterea, idem non est simul bonum et malum. Sed idem diversis est odibile et amabile.
+Ergo odium non solum est mali, sed etiam boni.
+SC
+Sed contra, odium contrariatur amori. Sed obiectum amoris est bonum, ut supra dictum est.
+Ergo obiectum odii est malum.
+CO
+Respondeo dicendum quod, cum appetitus naturalis derivetur ab aliqua apprehensione, licet non coniuncta;
+eadem ratio videtur esse de inclinatione appetitus naturalis, et appetitus animalis, qui sequitur apprehensionem
+coniunctam, sicut supra dictum est.
+725
+
+

@@ -1,0 +1,63 @@
+uersa
+Nullum malum iustum est.
+[823B] Septimus modus primae figurae de tertio primae figura, nascitur modo. Manentibus enim binis
+propositionibus [824B] prioribus, particulari affirmatiua in conclusione conuersa, septimi modi collocatio procreatur:
+Omne bonum uirtus est,
+eadem
+Omne bonum uirtus est,
+Quoddam iustum bonum est;
+eadem
+Quoddam iustum bonum est;
+Quoddam iustum uirtus est.
+uertitur
+Quaedam uirtus iusta est.
+[823B] Octauus uero et nonus primae figurae modus in quartum primae figurae modum resoluuntur, non etiam
+initium sumunt. Octauus resoluitur in quartum hoc modo: prima enim quarti in secundam octaui uniuersaliter [824B]
+conuersa, et prima propositione octaui modi particulariter in secundam quarti modi conuersa, eadem conclusio
+colligitur, id est negatio particularis.
+Nullum bonum malum est, negatio uniuersalis.
+Quoddam iustum bonum est, particularis affirmatio.
+Uniuersaliter conuersa, Omne bonum iustum est.
+Uniuersaliter conuersa, Nullum malum bonum est.
+Quoddam iustum malum non est, eadem conclusio, Quoddam iustum malum non est.
+[825A] Nonus uero modus in quartum modum resoluitur sic, prima quarti in secundam noni propositionem
+uniuersaliter conuertatur, et secunda quarti particulariter [826B] in primam noni, et eadem conclusio maneat negatio
+particularis.
+Nullum bonum malum est, uniuersalis negatiua.
+Quoddam iustum bonum est, particularis affirmatiua.
+Particulariter conuersa. Quoddam bonum iustum est.
+Uniuersaliter conuersa, Nullum malum bonum est.
+Quoddam iustum malum non est, eadem conclusio: Quoddam iustum malum non est.
+[825A] Resolutis igitur quinque primae figurae modis in quatuor superioribus, secundae figurae quatuor
+modos in prioris figurae modos quatuor resoluamus, quorum tres per conuersionem probantur. Quartus uero per [825B]
+solam impossibilitatem. At uero primus et secundae [826A] figurae secundus modus in secundum prioris figure modum
+resoluuntur, et resoluitur primus sic. Conuersa enim prima uniuersali oegatione uniuersaliter, et manente secunda
+uniuersali affirmatione, eadem [826B] conclusio utrorumque nascitur:
+Nullum bonum malum est,
+conuersa
+Nullum malum bonum est,
+Omne iustum bonum est;
+eadem
+Omne iustum bonum est;
+Nullum iustum malum est.
+eadem
+Nullum iustum malum est.
+[825B] Secundae figurae secundus modus in primae figurae secundum modum resoluitur sic: conuersa
+secunda [826B] propositione, et secunda prima manente, uniuersaliter fit conuersa conclusio:
+Nulllum bonum malum est,
+Omne iustum bonum est, Omne iustum bonum est;
+conuersa
+Nullum malum bonum est;
+Nullum iustum malum est.
+conuersa
+Nullum malum iustum est.
+[825B] Tertius uero secundae figurae modus, de quarto primae [825C] figurae procreatur. Ut enim
+uniuersaliter negatio in primam propositionem uniuersaliter conuertatur, [826B] et secundae propositiones maneant,
+idem syllogismi [826C] terminus propositioque colligitur hoc modo:
+Nullum bonum malum est,
+conuersa
+Nullum malum bonum est,
+Quoddam iustum bonum est;
+22
+
+

@@ -1,0 +1,60 @@
+PR1
+Primo utrum Deus possit virginem corruptam reparare.
+PR2
+Secundo utrum Deus possit peccare, si vult.
+|a1 Articulus 1
+TTA
+Utrum Deus possit virginem corruptam reparare.
+TTB
+Ad primum sic proceditur: videtur quod Deus possit virginem
+AG
+Ad omnipotentiam enim Dei pertinet quod non sit impossibile apud eum omne verbum, ut dicitur Lucae, 1, 37.
+Sed hoc est quoddam verbum, virginem reparare post lapsum. Ergo Deus potest virginem reparare post lapsum.
+SC
+Sed contra, est quod Hieronymus dicit: cum Deus cetera possit, non potest reparare virginem post ruinam; et
+habetur in decreto 32, quaest. 5.
+CO
+Respondeo. Dicendum, quod in virginitate duo possumus considerare.
+Quorum unum est ipsa integritas mentis et corporis; et sic Deus virginem potest reparare post ruinam: potest
+enim mentem reintegrare per gratiam, et corpus consolidare per miraculum.
+Alia autem est causa integritatis praedictae, quia scilicet mulier virgo non fuisset cognita a viro; et quantum ad
+hoc Deus non potest virginem post ruinam reparare: non enim potest facere ut iam ea quae est cognita a viro, non
+fuerit cognita; sicut nec de aliquo quod factum est, potest facere quod factum non fuerit.
+Potentia enim Dei se extendit ad totum ens: unde solum id a Dei potentia excluditur quod repugnat rationi entis;
+et hoc est simul esse et non esse; et eiusdem rationis est, quod fuit, non fuisse. Unde Augustinus dicit XXVI
+contra faustum: quisquis dicit, si omnipotens est Deus, faciat ut ea quae facta sunt, facta non fuerint, non videt se
+hoc dicere, faciat ut ea quae vera sunt, eo ipso quo vera sunt falsa sint.
+RA
+Ad primum ergo dicendum, quod cum verbum sit conceptus mentis, nihil quod contradictionem implicat,
+verbum dici potest, quia non cadit in conceptu mentis, ut probatur in IV metaphys..
+|a2 Articulus 2
+TTA
+Utrum Deus possit peccare, si vult.
+TTB
+Ad secundum sic proceditur: videtur quod haec sit falsa: Deus potest peccare, si vult.
+AG
+De quocumque enim possum dicere quod homo potest facere si vult, potest etiam dici simpliciter, quod homo
+potest facere illud. Si ergo haec propositio est vera, Deus potest peccare si vult, sequitur quod haec sit vera, Deus
+potest peccare. Sed hoc est erroneum.
+Ergo et primum.
+SC
+Sed contra, quicumque vult peccare, peccat.
+Sed sequitur. Si Deus peccat, potest peccare.
+Ergo sequitur: si vult, potest peccare.
+CO
+Respondeo. Dicendum, quod haec coniunctio si ordinem quemdam importat. Potest autem in proposito duplicem
+ordinem importare.
+Uno quidem modo ordinem causae sive principii. Et hoc modo propositio falsa est.
+Voluntas enim Dei est principium et causa respectu creaturarum, non autem respectu eorum quae pertinent ad
+divinam naturam: unde non dicimus quod pater genuerit filium voluntate, sed naturaliter, ut patet per Hilarium in
+libro de synod.. Potentia autem Dei ad ipsam naturam divinam pertinet: unde hoc ipsum quod est posse peccare,
+non est subiectum divinae voluntati; alioquin voluntas Dei esset principium immutationis divinae, quod est
+impossibile.
+Alio modo potest importare ordinem consequentiae.
+Et sic haec locutio est vera: si Deus vult peccare, potest peccare. Sequitur enim sine conditione, si argumentatur
+ex impossibili posito: Deus vult peccare, ergo potest peccare. Omnia enim quae vult, potest; sed non e converso.
+RA
+
+99
+
+

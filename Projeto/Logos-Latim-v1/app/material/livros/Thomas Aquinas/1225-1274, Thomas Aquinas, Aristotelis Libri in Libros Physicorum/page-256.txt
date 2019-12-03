@@ -1,0 +1,66 @@
+supposito; quia ex contingenti supposito, etiam si sit falsum, non potest
+sequi aliquod impossibile.
+Cum ergo praedicta ratio ducat ad impossibile, illud impossibile non
+sequitur ex isto contingenti supposito, sed ex alio, quod oportet esse
+impossibile, cum ex eo impossibile sequatur. Et sic patet quod in
+demonstrationibus ad impossibile ducentibus, nihil refert utrum accipiatur
+falsum contingens adiunctum impossibili, vel verum. Ostenditur enim
+impossibile esse illud, ex quo, cum adiunctione contingentis falsi,
+sequitur impossibile, sicut si ex eo impossibile sequeretur, adiuncto
+quodam vero: quia sicut ex vero non potest sequi impossibile, ita nec ex
+contingenti.
+|#6
+Sed potest aliquis dicere, quod non est contingens omnia mobilia
+continuari; sed impossibile est continuari elementa ad invicem, et cum
+caelestibus corporibus.
+Sed dicendum est quod alio modo accipitur contingens et impossibile, cum
+demonstratur aliquid de genere, et cum demonstratur aliquid de specie. Quia
+cum agitur de specie, oportet accipi ut impossibile esse illud, cui
+repugnat vel genus vel differentia speciei, ex quibus ratio speciei
+constituitur. Cum vero agitur de genere, accipitur ut contingens omne illud
+cui non repugnat ratio generis, licet ei repugnet differentia constituens
+speciem: sicut si loquerer de animali, possem accipere ut contingens, quod
+omne animal esset alatum; sed si descenderem ad considerationem hominis,
+impossibile esset hoc animal esse alatum.
+Quia igitur Aristoteles hic loquitur de mobilibus et moventibus in communi,
+nondum applicando ad determinata mobilia; esse autem contiguum vel
+continuum indifferenter se habet ad rationem moventis et mobilis; ideo
+accepit ut contingens, quod omnia mobilia sint continua ad invicem: quod
+tamen est impossibile, si mobilia considerentur secundum suas naturas
+determinatas.
+|+3
+
+Lectio 3
+
+|#1
+Quia Philosophus in demonstratione praecedenti supposuerat quod
+movens est contiguum vel continuum mobili, hoc intendit nunc probare.
+Et primo ostendit propositum; secundo probat quoddam, quod in hac
+probatione supponit, ibi: quoniam autem quae alterantur etc..
+Circa primum duo facit: primo proponit intentum; secundo probat propositum,
+ibi: quoniam autem tres sunt motus etc..
+Dicit ergo primo, quod movens et motum sunt simul. Sed aliquid dicitur
+movere dupliciter. Uno modo sicut finis movet agentem; et tale movens
+aliquando distans est ab agente quem movet: alio modo sicut movet id quod
+est principium motus; et de tali movente hic intelligit. Et propter hoc
+addidit: non sicut cuius causa, sed unde est principium motus.
+Item movens sicut principium motus, quoddam est immediatum, et quoddam
+remotum.
+Intelligit autem hic de immediate movente, et ideo dixit primum movens; ut
+per primum significetur immediatum mobili, non autem id quod est primum in
+ordine moventium.
+Et quia in quinto dixerat ea esse simul quae sunt in eodem loco, posset
+aliquis credere ex hoc quod dicit quod movens et motum simul sunt, quod
+quando unum corpus movetur ab altero, quod oporteat ambo esse in eodem
+loco: et ideo ad hoc excludendum subiungit, quod simul dicit hic, non
+quidem esse in eodem loco, sed quia nihil est medium inter movens et motum;
+secundum quod contacta vel continua sunt simul, quia termini eorum sunt
+simul, vel quia sunt unum.
+Et quia in praecedenti demonstratione processerat solum de motu locali,
+posset aliquis credere quod hoc haberet veritatem solum in huiusmodi motu:
+et ideo ad hoc removendum subiungit, quod hoc dictum est communiter, quod
+movens et motum sunt simul, et non specialiter de motu locali; quia hoc est
+
+256
+
+

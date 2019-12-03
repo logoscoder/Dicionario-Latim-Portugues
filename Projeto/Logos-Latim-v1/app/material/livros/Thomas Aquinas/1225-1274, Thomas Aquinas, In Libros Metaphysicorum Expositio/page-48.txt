@@ -1,0 +1,61 @@
+Sed oportet proprie dicere aliquid fieri ex aliquo, quando aliquod subiectum mutatur de hoc in illud. Et hoc dupliciter.
+Uno modo sicut dicimus, quod ex puero fit vir, inquantum scilicet puer mutatur de statu puerili in statum virilem: alio
+modo sicut dicimus, quod ex aqua fit aer per aliquam transmutationem.
+[81876] In Metaphysic., lib. 2 l. 3 n. 10
+Deinde cum dicit ergo sic ostendit duas differentias inter praedictos modos. Quarum prima est, quia dicimus ex puero
+fieri virum, sicut ex eo quod est in fieri, fit illud quod iam est factum; aut ex eo quod est in perfici, fit illud quod iam est
+perfectum. Illud enim quod est in fieri et in perfici, est medium inter ens et non ens, sicut generatio est medium inter
+esse et non esse. Et ideo, quia per medium venitur ad extremum, dicimus, quod ex eo quod generatur fit illud quod
+generatum est, et ex eo quod perficitur, fit illud quod perfectum est. Et sic dicimus, quod ex puero fit vir, vel quod ex
+addiscente fit sciens, quia addiscens se habet ut in fieri ad scientem. In alio autem modo, quo dicimus ex aere fieri
+aquam, unum extremorum non se habet ut via vel medium ad alterum, sicut fieri ad factum esse; sed magis ut terminus
+a quo recedit, ut ad alium terminum perveniatur. Et ideo ex uno corrupto fit alterum.
+[81877] In Metaphysic., lib. 2 l. 3 n. 11
+Deinde cum dicit propter quod concludit ex praemissa differentia, aliam differentiam. Quia enim in primo modo unum
+se habet ad alterum ut fieri ad factum esse, et medium ad terminum, patet, quod habent ordinem naturaliter adinvicem.
+Et ideo non reflectuntur adinvicem, ut indifferenter unum fiat ex altero. Unde non dicimus quod ex viro fiat puer sicut
+dicimus e converso. Cuius ratio est, quia illa duo ex quorum uno secundum istum modum dicitur alterum fieri, non se
+habent adinvicem sicut duo termini mutationis alicuius; sed sicut ea, quorum unum est post alterum. Et hoc est quod
+dicit, quod illud quod fit, idest terminus generationis, scilicet esse, non fit ex generatione, quasi ipsa generatio mutetur
+in esse; sed est post generationem, quia naturali ordine consequitur ad generationem, sicut terminus est post viam, et
+ultimum post medium. Unde, si consideramus ista duo, scilicet generationem et esse, non differunt ab illo modo quem
+exclusimus, in quo consideratur ordo tantum; sicut cum dicimus, quod dies fit ex aurora, quia est post auroram. Et
+propter istum naturalem ordinem, non dicimus e converso, quod aurora fit ex die, idest post diem. Et ex eadem ratione
+non potest esse, quod puer fiat ex viro. Sed secundum alterum modum, quo aliquid fit ex altero, invenitur reflexio.
+Sicut enim aqua generatur ex aere corrupto, ita aer generatur ex aqua corrupta. Et hoc ideo, quia ista duo non se habent
+adinvicem secundum naturalem ordinem, scilicet ut medium ad terminum; sed sicut duo extrema quorum utrumque
+potest esse et primum et ultimum.
+[81878] In Metaphysic., lib. 2 l. 3 n. 12
+Deinde cum dicit utroque autem ostendit quod non sit procedere in infinitum secundum utrumque istorum modorum. Et
+primo secundum primum, prout dicimus ex puero fieri virum. Illud enim ex quo dicimus aliquid fieri, sicut ex puero
+virum, se habet ut medium inter duo extrema, scilicet inter esse et non esse: sed positis extremis impossibile est esse
+infinita media: quia extremum infinitati repugnat: ergo secundum istum modum non convenit procedere in infinitum.
+[81879] In Metaphysic., lib. 2 l. 3 n. 13
+Similiter etiam nec secundum alium; quia in alio modo invenitur reflexio extremorum adinvicem, propter hoc quod
+alterius corruptio est alterius generatio, ut dictum est. Ubicumque autem est reflexio, reditur ad primum, ita scilicet
+quod id quod fuit primo principium, postea sit terminus. Quod in infinitis non potest contingere, in quibus non est
+principium et finis. Ergo nullo modo ex aliquo potest aliquid fieri in infinitum.
+[81880] In Metaphysic., lib. 2 l. 3 n. 14
+Deinde cum dicit simul autem ostendit quod praedictorum modorum ex prima materia aliquid fiat. Ubi considerandum
+est, quod Aristoteles utitur hic duabus communibus suppositionibus, in quibus omnes antiqui naturales conveniebant:
+quarum una est, quod sit aliquod primum principium materiale, ita scilicet quod in generationibus rerum non procedatur
+in infinitum ex parte superiori, scilicet eius ex quo generatur. Secunda suppositio est, quod prima materia est
+sempiterna. Ex hac igitur secunda suppositione statim concludit, quod ex prima materia non fit aliquid secundo modo,
+scilicet sicut ex aere corrupto fit aqua, quia scilicet illud quod est sempiternum, non potest corrumpi.
+[81881] In Metaphysic., lib. 2 l. 3 n. 15
+Sed quia posset aliquis dicere, quod primum principium materiale non ponitur a philosophis sempiternum, propter hoc
+quod unum numero manens sit sempiternum, sed quia est sempiternum per successionem, sicut si ponatur humanum
+genus sempiternum: hoc excludit ex prima suppositione, dicens, quod, quia generatio non est infinita in sursum, sed
+devenitur ad aliquod primum principium materiale, necesse est quod, si aliquid sit primum materiale principium, ex
+quo fiunt alia per eius corruptionem, quod non sit illud sempiternum de quo philosophi dicunt. Non enim posset esse
+illud primum materiale principium sempiternum, si eo corrupto alia generarentur, et iterum ipsum ex alio corrupto
+generaretur. Unde manifestum est, quod ex primo materiali principio fit aliquid, sicut ex imperfecto et in potentia
+existente, quod est medium inter purum non ens et ens actu; non autem sicut aqua ex aere fit corrupto.
+Lectio 4
+[81882] In Metaphysic., lib. 2 l. 4 n. 1
+Postquam probavit philosophus, quod in causis moventibus et materialibus non proceditur in infinitum, hic ostendit
+idem in causa finali, quae nominatur cuius causa fit aliquid. Et ostendit propositum quatuor rationibus: quarum prima
+talis est. Id, quod est cuius causa, habet rationem finis. Sed finis est id quod non est propter alia, sed alia sunt propter
+ipsum. Aut ergo est aliquid tale, aut nihil: et si quidem fuerit aliquid tale, ut scilicet omnia sint propter ipsum, et ipsum
+
+

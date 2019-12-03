@@ -1,0 +1,50 @@
+recte arbitratus est Theophrastus propter hoc non unum modum hunc, sed
+duos esse.
+Secundus modus est, qui conducit ex dedicatiuis particulari et
+uniuersali dedicatiuum particulare directim, ut:
+Quoddam iustum honestum, /208/
+omne iustum bonum;
+quoddam igitur honestum bonum
+Tertius modus est, qui conducit ex dedicatiuis uniuersali et
+particulari dedicatiuam particulare directim, ut:
+Omne iustum honestum,
+quoddam iustum bonum;
+quoddam igitur honestum bonum
+Quartus modus est, qui conducit ex uniuersalibus dedicatiua et
+abdicatiua abdicatiuum particulare directim, ut:
+Omne iustum honestum,
+nullum iustum malum;
+quoddam igitur honestum non est malum
+Quintus modus est, qui conducit ex dedicatiua particulari et abdicatiua
+uniuersali abdicatiuum particulare directim, ut:
+Quoddam iustum honestum,
+nullum iustum malum;
+quoddam igitur honestum non est malum
+Sextus modus est, qui conducit ex dedicatiua uniuersali et abdicatiua
+particulari abdicatiuum particulare directim, ut:
+Omne iustum honestum,
+quoddam iustum non est malum;
+quoddam igitur honestum non est malum
+Ex his sex modis primi tres rediguntur ad tertium indemonstrabilem
+conuersa priore propositione primi et secundi. Tertius enim secundo
+eandem coniugationem habet hoc uno differens, quod ex uniuersali
+trahit particulam subiectiuam. Propter quod non tantum propositionis
+uerum etiam illationis conuersions redigitur ad tertium. Item quartus
+et quintus nascuntur ex indemonstrabili quarto conuersis prioribus
+propositionibus eorum. Sextus autem modus nec utraque nec altera
+redigi conuersa ad indemonstrabilem aliquem potest, sed per
+impossibile tantum approbatur, sicuti quartus in /209/ secunda
+formula, et ideo uterque nouissimi numerantur.
+[12]
+Caeterorum autem in omnibus formulis ordinatio facta est pro
+differentia coniugationum et illationum. Nam cum prius sit dedicare
+quam negare potentiusque uniuersale quam particulare, priores sunt
+uniuersales particularibus et in utrisque dedicatiua [et] illatio;
+<si> similes sunt, his praeponitur modus, qui celerius ad
+indemonstrabilem redigitur, id est una conuersione, quae una probatio
+est certos eos ad cludendum modos esse. Est et altera probatio
+communis omnium etiam indemonstrabilium, quae dicitur per impossibile
+appellaturque a Stoicis prima constitutio uel primum expositum. Quod
+10
+
+

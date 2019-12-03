@@ -1,0 +1,63 @@
+Auxiliares:
+Milites navclarii, Flaviana.
+Milites superventores, Axiupoli.
+Milites Scythici, Carso.
+Milites secundi Constantini, Trosmis.
+Milites Scythici, Dirigothia.
+Milites primi Constantini, Nouioduro.
+Milites quinti Constantini, Salsouia.
+Milites primi Gratianenses, Gratiana.
+Item legiones riparienses:
+Praefectus legionis secundae Herculiae, Trosmis.
+Praefectus ripae legionis secundae Herculiae cohortis
+quintae pedaturae inferioris, Axiupoli.
+Praefectus ripae legionis secundae Herculiae cohortis
+quintae pedaturae inferioris, Iprosmis.
+Praefectus legionis primae Ioviae, Nouioduno.
+Praefectus ripae legionis primae Ioviae cohortis
+quintae pedaturae superioris, Nouioduno.
+Praefectus ripae legionis primae Ioviae cohortis
+quintae pedaturae inferioris, Accisso.
+Praefectus ripae legionis primae Ioviae cohortis .....
+et secundae Herculiae musculorum Scythicorum et classis,
+Inplateypegiis.
+Officium autem habet ita:
+Principem de eodem officio, qui completa militia adorat
+protector.
+Numerarios et adiutores eorum.
+Commentariensem.
+Adiutorem.
+A libellis siue subscribendarium.
+Exceptores et ceteros officiales.
+Dux Scythiae V.
+XL. Dux Moesiae secundae. {pics} Sub dispositione viri spectabilis ducis moesiae secundae:
+Cuneus equitum scutariorum, Securisca.
+Cuneus equitum Solensium, Dimo.
+Cuneus equitum scutariorum, Latius.
+Cuneus equitum armigerorum, Sexagintaprista.
+Cuneus equitum secundorum armigerorum, Tegra.
+Cuneus equitum scutariorum, Appiaria.
+Cuneus equitum stablesianorum, Sucidaua.
+Auxiliares:
+Milites praeventores, Ansamo.
+Milites Constantini, Trimammio.
+Milites Dacisci, Mediolana.
+Milites tertii navclarii, Appiaria.
+Milites Novenses, Transmariscae.
+Milites primi Moesiaci, Candidiana.
+Milites Moesiaci, Teglicio.
+Milites quarti Constantiani, Durostoro.
+Milites Cimbriani, Cimbrianis.
+Milites navclarii Altinenses, Altino.
+Item legiones riparienses:
+Praefectus legionis primae Italicae, Nouas.
+Praefectus ripae legionis primae Italicae cohortis
+quintae pedaturae superioris, Nouas.
+Praefectus ripae legionis primae Italicae cohortis
+quintae pedaturae inferioris, Sexagintaprista.
+Praefectus legionis undecimae Claudiae, Durostoro.
+Praefectus ripae legionis undecimae Claudiae
+cohortis quintae pedaturae superioris, Transmariscae.
+22
+
+

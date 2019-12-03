@@ -1,0 +1,48 @@
+Secundum antiquiorem vero modum alia est paris numeri definitio. Par numerus est, qui in duo aequalia et
+in duo inaequalia partitionem recipit, sed ut in neutra divisione vel in paritati paritas vel paritati inparitas
+misceatur, praeter solum paritatis principem, binarium numerum, qui in aequalem non recipit sectionem,
+propterea quod ex duabus unitatibus constat et ex prima duoroum quoddammmodo paritate. Quod autem dico,
+tale est: si enim ponatur par numerus, potest in duo aequalia dividi, ut denarius dividitur in quinos, porro autem
+et per inaequalia, ut idem denarius in iij et vij, sed hoc modo, ut cum una pars fuerit divisionis par, alia quoque
+par inveniatur, et si una inpar, reliqua ab eius inparitate non discrepet, ut in eodem numero, qui est denarius.
+Cum enim divisus est in quinos, vel cum in tres septem, utraeque in utraque poritone partes inpares extiterunt. Si
+autem ipse, vel alius numerus par, dividatur in aequales, ut oconarius in iiij et iiij, et item per inaequales, ut idem
+octonarius in v et iij, in illa quidem divisione utraeque partes pares factae sunt, in hac utraque inpares extiterunt;
+neque unquam fieri potest, ut, cum una pars divisionis par fuerit, alia inpar inveniri queat, aut, cum una inpar sit,
+alia par possit intelleig. Inpar vero numerus est, qui ad quamlibet illam divisionem per inaequalia semper
+sdividitur, ut utrasque species numeri semper ostendat, nec unquam altera sine alter asit, sed una pars paritati,
+inparitati alia deputetur, ut, vij si dividas in iij atque iij, altera portio par altera inpar est. et hoc idem in cuntis
+inparibus numerus invenitur, neque unquam in inparis divisione praeter se esse possunt. Hae geminae species,
+quae naturaliter vim numeri substantiamque componunt.
+Definitio paris et inparis per alterutrum
+Quod si haec etiam per alterutras species definienda sunt, dicetur inparem numerum esse, qui unitate
+differt a pari vel cremento vel deminutione. Par item numerus est, qui unitate differt ab inpari vel cremento vel
+deminutione. Si enim pari unum dempseris, vel unum adieceris, inpar efficitur, vel si inpari idem feceris, par
+continuo procreatur.
+De principalitate unitatis
+Omnis quoque numerus circum se positorum et naturali sibimet dispositioine iunctorum medietas est; et
+qui super duos illos sunt, qui medio iunguntur, si conponantur, etiam ipsorum supradictus numerus media portio
+est; et rursus illorum, qui sunt super secundo loco iunctos, cum ipsi quoque sint compositi, prior his numerus
+medietatis loco est, et hoc erit, usquidem occurrens unitas terminum ponat, ut si ponat quis quinarium numerum,
+altrinsecus circa ipsum sunt sumper iiij inferius vi. Hi ergo si uncat sint, faciunt x, quorum v numerus medietas
+est. Qui autem circa ipsos id est circa vi et iiij sunt, iij silicet et vij, idem is iuncti sint, eorum quinarius numerus
+medietas est; rursus istorum, qui altrinsecus positi sunt, si iungantur, etiam hi quinarii numeri dupli sunt; nam
+super iij sunt ii, super vij sunt viij; hi ergo si iuncti sint, faciunt x, quorum quinarius rursus medietas est. Hoc
+idem in omnibus numeris evenit, usquedum ad untiatis terminum perveniri queat; sola eniim unitas circum se
+duos terminos non habet, atque ideo eius, qui est prope se, solius est meidetas. Nam iuxat i solus est binarius
+naturaliter constitutus, cuius unitas media pars est. Quare constat primam esse unitatem cuntorum, qui sunt in
+naturali dispoisitone, numerorum et eam rite totius quamvis prolixae gentricem pluralitatis agnosci.
+Divisio paris numeri
+Paris autem numeri species sunt tres. est enim una, quae dicitur pariter par, alia vero pariter inpar, tertia
+inpariter par. Et contraria quidem locumque obtinentia summitatum videntur esse pariter par et pariter inpar.
+Medietas autem quaedam, quae utrorumque participat, est numerus, qui voactur inpariter par.
+De numero pariter pari eiusque proprietatibus.
+Pariter par numerus est, qui potest in duo paria dividi, eiusque pars in alia duo paria partisque pars in alia
+duo paria, ut hoc totiens fiat, usquedum divisio partium ad indivisibilem naturaliter perveniat unitatem. Ut lxiiij
+numerus habet medietatem xxxij, hic autem medietatem xvi, hic vero viij. Hunc quoque quaternarius in aequa
+partitur, qui binarii duplus est; sed binarius unitatis medietate dividitur, quae unitas naturaliter singularis non
+recipit sectionem. Huic numero videtur accidere, ut quaecunque eius fuerit pars, cum nomine ipso vocabuloque
+pariter par inveniatur; tum etiam quantitate. Sed ideo mihi videtur hic numerus pariter par vocatus,
+6
+
+

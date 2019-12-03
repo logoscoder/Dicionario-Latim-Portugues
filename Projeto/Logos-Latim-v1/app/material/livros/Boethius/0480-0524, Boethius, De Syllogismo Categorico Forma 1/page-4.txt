@@ -1,0 +1,63 @@
+Omne animal animatum.
+In priore enim propositione animal praedicatur ad hominem, in posteriore praedicatur ad animal animatum, et
+fit animal subiectum. Et est hic primus modus de eis qua altero termino [798D] participant.
+Secundus uero modus est in quo in utrisque communis terminus praedicatur, ut si quis dicat:
+Omnis nix <est> candida
+et:
+Omnis margarita <est> candida.
+Etenim in prima et secunda propositione candida praedicatur, in prima ad niuem, in secunda ad margaritam. Et
+est hic secundus modus altero termino participantium.
+Tertius uero modus est, quoties in utrisque propositionibus cornmunis terminus subiectus est, ut si dices:
+Virtus bonum est
+Virtus iustum est
+In utrisque enim ad iustum et ad bonum uirtus subiectum est.
+Sunt igitur participantes alterum terminum his tribus modis, aut cum in una communis terminus praedicatur, in
+illa subiectus est; aut cum in utrisque praedicatur; aut cum in utrisque [799A] subiectus est.
+Earum uero quae ad utrosque participant terminos duo sunt modi. Aliae enim ad eumdem ordinem, aliae ad
+ordinis commutationem. Ad eumdem sunt quae de eodem idem demonstrant, uel affirmatiue uel negatiue, uel
+<uniuersaliter> [/aliter uel particulariter]:
+Omnis uoluptas bonum est
+Nulla uoluptas bonum est
+et rursus particulariter:
+Quaedam uoluptas bonum est
+Quaedam uoluptas bonum non est.
+Ad ordinis uero commutationem sunt quoties qui in altera subiectus est terminus, in alia praedicatur ut:
+Omne bonum iustum est
+et:
+Omne iustum <est> bonum.
+Nam in priore bonum subiectum est, iustum praedicatum, in secunda iustum subiectum est, bonum
+praedicatum.
+Nunc ergo quoniam aliae ad eumdem ordinem, aliae ad ordinis commutationem sunt, prius dicemus de [799B]
+his quae ad eumdem ordinem utroque termino participant. Et quoniam sunt propositiones, aliae affirmatiuae aliae
+negatiuae; aliae uniuersales aliae particulares aliae indefinitae: -- duae sunt ex his quae qualitate differunt, tres quae
+quantitate. Et sunt quae qualitate differunt affirmatiua et negatiua; ad quantitatem quae uero differunt, sunt uniuersalis,
+particularis, et indefinita.
+In affirmatiuis enim et negatiuis quale quid sit aut non sit ostenditur. In uniuersali particulari et indefinita de
+omnium uel nullorum uel nonnullorum quantitate monstratur. Ex his ergo quinque differentiis, id est uniuersali,
+particulari, indefinita, affirmatiua, negatiua, sex coniunctiones fiunt, ita ut tribus quae ad quantitatem dicuntur duae
+quae ad qualitatem dicuntur aptentur, et fit uniuersalis affirmatiua, [799C] et uniuersalis negatiua, ut:
+Omnis homo iustus est
+Nullus homo iustus est
+et particularis affirmatiua, et particularis negatiua, ut:
+Quidam homo iustus est
+Quidam homo iustus non est
+et indefinita affirmatiua et negatiua, ut:
+Homo iustus est
+Homo iustus non est
+fiunt ergo ex duabus quae sunt ad qualitatem, tribus quae sunt ad quantitatem iunctis, sex coniunctiones, de
+quibus indefinitas, affirmatiuas et negatiuas separemus, et de solis uniuersalibus et particularibus tractatus habeatur.
+Subscribantur etiam earum participantium quae ad eumdem ordinem utroque termino participant, duae
+uniuersales propositiones, una affirmatiua, et altera negatiua, et sit affirmatiua uniuersalis:
+Omnis homo iustus est
+et contra ipsam uniuersalis negatiua:
+Nullus homo iustus [799D] est.
+Item sub his ponantur particularis affirmatio et particularis negatio, ita ut sub uniuersali affirmatiua ponatur
+particularis affirmatiua, et sub uniuersali negatiua ponatur particularis negatiua, et sit particuiaris affirmatiua:
+Quidam homo iustus est
+et contra ipsam particularis negatiua:
+Quidam homo iustus non est
+quod demonstrat sequens descriptio.
+
+4
+
+

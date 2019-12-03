@@ -1,0 +1,59 @@
+ANICII MANLII SEVERINI BOETHII
+DE DIVISIONE
+PRAEFATIO
+/4/ Quam magnos studiosis afferat fructus scientia diuidendi quamque apud peripateticam disciplinam semper
+haec fuerit in honore notitia, docet et Andronici, diligentissimi senis de diuisione liber editus; et hic idem a Plotino
+grauissimo philosopho comprobatus et in libri Platonis, qui *Sophistes* inscribitur commentariis a Porphyrio repetitus,
+et ab eodem per hanc introductionis laudata in Categorias utilitas. Dicit enim necessarium fore generis, speciei,
+differentiae, proprii, accidentisque peritiam, cum propter alia multa tum propter utilitatem quae est maxima partiendi.
+Quare, quoniam maximus usus est facillimaque doctrina, ego id quoque sicut pleraque, omnia Romanis auribus tradens,
+introductionis modo habitaque in eandem rem et competenti subtilique tractatione et moderata breuitate perscripsi, ut
+nec anxietas decisae orationis et non perfectae sententiae legentium /6/ mentibus ingeratur; nec putet superuacuam
+loquacitatem harum rerum inexperiens, rudis, insolensque noui audientium mentes habere aequum, nec ullus liuor id
+quod et arduum natura est et ignotum nostris, nobis autem magno et labore et legentium utilitate digestum, obliquis
+morsibus obtrectationis obfuscet, denique potius uiam studiis, nunc ignoscendo nunc etiam comprobando, quam frena
+bonis artibus stringant, dum quicquid nouum est imprudenti obstinatione repudiant. Quis enim non uideat plurimum ad
+bonarum artium ualere defectum si apud mentes hominum numquam sit desperatio displicendi? Sed si cui per haec
+quaedam paratur anxietas aut obscuriora sunt fortasse quam ipse desiderat, nihil ad me cognitionem facilem
+pollicentem, neque enim rudibus haec totius artis sed imbutis et ulteriore paene loco progressis legenda et discenda
+proponimus. Qui uero huius operis ordo sit cum *De ordine Peripateticae disciplinae* mihi dicendum esset diligenter
+exposui. Sed haec hactenus.
+<DIVISIO DIVISIONUM>
+Nunc diuisionis ipsius nomen diuidendum est et secundum unumquodque diuisionis uocabulum uniuscuiusque
+propositi proprietas partesque tractandae sunt, diuisio namque multis modis dicitur. Est enim diuisio generis in species,
+est rursus diuisio cum totum in proprias distribuitur partes, est alia cum uox multa significans in significationes proprias
+recipit sectionem. Praeter has autem tres est alia diuisio quae secundum accidens fieri dicitur. Huius triplex modus est:
+unus cum subiectum in accidentia separamus, alius cum accidens in subiecta diuidimus, tertius cum accidens in
+accidentia secamus (hoc ita fit si utraque eidem subiecto inesse uideantur). Sed /8/ harum omnium exempla subdenda
+sunt quatenus totius huius ratio diuisionis eluceat.
+Genus diuidimus in species cum dicimus "animalium alia sunt rationabilia, alia irrationabilia; rationabilium
+alia mortalia, alia immortalia" uel cum dicimus "coloris alia quidem sunt alba, alia nigra, alia media". Oportet autem
+omnem generis in species diuisionem aut in duas fieri partes aut in plures, sed neque infinitae species esse possunt
+generis nec minus duabus. Hoc autem cur eueniat posterius demonstrandum est.
+Totum in partes diuididur quotiens in ea ex quibus est compositum unumquodque resoluimus, ut cum dico
+domus aliud esse tectum, aliud parietes, aliud fundamenta, et hominem anima coniungi et corpore, cumque hominis
+dicimus partes esse Catonem, Virgilium, Ciceronem et singulos qui, cum particulares sint, uim tamen totius hominis
+iungunt atque componunt; neque enim homo genus, nec singuli homines species, sed partes quibus totus homo
+coniungitur.
+Vocis autem in significationes proprias diuisio fit quotiens una uox multa significans aperitur et eius pluralitas
+significationis ostenditur, ut cum dico "canis" quod est nomen et hunc quadrupedem latrantemque designat et caelestum
+qui ad Orionis pedem morbidum micat; est quoque alius, marinus canis, qui in immoderatam corporis magnitudinem
+crescens caeruleus appellatur.
+Sed huius diuisionis duplex modus est, aut enim unum nomen multa significat aut oratio iam uerbis
+nominibusque composita. Et nomen quidem multa significat ut id quod supra proposui, oratio uero multa designat ut
+est:
+Aio te, Aeacida, Romanos uincere posse.
+Et nominis quidem per significationes proprias diuisio aequiuocationis partitio nuncupatur, orationis uero in
+significationes proprias distributio ambiguitatis discretio est, quam Graeci amphiboliam dicunt, ita ut nomen multa
+significans aequiuocum, oratio uero multa designans amphibola atque ambigua praedicetur. /10/
+Eorum autem quae secundum accidens diuiduntur subiecti in accidentia diuisio est ut cum dicimus "omnium
+hominum alii sunt nigri, alii candidi, alii medii coloris", haec enim accidentia sunt hominibus, non hominum species, et
+homo his subiectum, non horum genus est.
+Accidentis uero in subiecta sectio euenit ut est "omnium quae expetuntur alia in anima, alia in corporibus sita
+sunt", animae namque atque corpori id quod expetitur accidens, non genus, est, et boni quod in anima et corpore situm
+est non sunt haec species sed subiecta.
+Accidentis uero in accidentia diuisio est ut "omnium candidorum alia sunt dura", ut margarita, "alia liquentia",
+ut lac, liquor namque et albedo atque durities haec sunt accidentia, sed album in dura et liquida separatum est. Cum
+ergo sic dicimus, accidens in alia accidentia separamus.
+
+

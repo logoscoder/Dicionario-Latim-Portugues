@@ -1,0 +1,61 @@
+ueritas et falsitas ex eo quod est esse rei et ex eo quod est non esse rei sumitur. Nam si sit quod dicitur, uerum est, si
+non sit quod dicitur, falsum est. Igitur in contingentibus et futuris sicut ipsum esse et non esse instabile est, esse tamen
+aut non esse necesse est, ita quoque in affirmationibus <et negationibus> contingentia ipsa prodentibus ueritas quidem
+uel falsitas in incerto est (quae enim uera sit, quae falsa secundum /201/ ipsarum propositionum naturam ignoratur),
+necesse est tamen unam ueram esse, alteram falsam.
+Porphyrius tamen quaedam de Stoica dialectica permiscet: quae cum Latinis auribus nota non sit, nec hoc
+ipsum quod in quaestionem uenit agnoscitur atque ideo illa studio praetermittemus.
+IN SINGULARIBUS VERO ET FUTURIS NON SIMILITER. NAM SI OMNIS AFFIRMATIO VEL
+NEGATIO VERA VEL FALSA EST, ET OMNE NECESSE EST VEL ESSE VEL NON ESSE. <NAM> SI HIC
+QUIDEM DICAT FUTURUM ALIQUID, ILLE VERO NON DICAT HOC IDEM IPSUM, MANIFESTUM EST,
+QUONIAM NECESSE EST VERUM DICERE ALTERUM IPSORUM, SI OMNIS AFFIRMATIO VERA VEL
+FALSA. UTRAQUE ENIM NON ERUNT SIMUL IN TALIBUS. NAM SI VERUM EST DICERE, QUONIAM
+ALBUM VEL NON ALBUM EST, NECESSE EST ESSE ALBUM VEL NON ALBUM, ET SI EST ALBUM VEL
+NON ALBUM, VERUM EST VEL AFFIRMARE VEL NEGARE; ET SI NON EST, MENTITUR, ET SI
+MENTITUR, NON EST. QUARE NECESSE EST AUT AFFIRMATIONEM AUT NEGATIONEM VERAM ESSE.
+NIHIL IGITUR NEQUE EST NEQUE FIT NEC A CASU NEC UTRUMLIBET NEC ERIT NECNON ERIT SED EX
+NECESSITATE OMNIA ET NON UTRUMLIBET. AUT ENIM QUI DICIT UERUS EST AUT QUI NEGAT.
+SIMILITER ENIM VEL FIERET VEL NON FIERET; UTRUMLIBET ENIM NIHIL MAGIS SIC VEL NON SIC SE
+HABET AUT HABEBIT. AMPLIUS SI EST ALBUM NUNC, VERUM ERAT DICERE PRIMO QUONIAM LERIT
+ALBUM, QUARE SEMPER VERUM /202/ FUIT DICERE QUODLIBET EORUM QUAE FACTA SUNT,
+QUONIAM ERIT. QUOD SI SEMPER VERUM EST DICERE QUONIAM EST VEL ERIT;, NON POTEST HOC
+NON ESSE NECNON FUTURUM ESSE. QUOD AUTEM NON POTEST NON FIERI, IMPOSSIBILE EST NON
+FIERI; QUOD AUTEM IMPOSSIBILE EST NON FIERI, NECESSE EST FIERI. OMNIA ERGO QUAE FUTURE
+SUNT NECESSE EST FIERI. NIHIL IGITUR UTRUMLIBET NEQUE A CASU ERIT; NAM SI A CASU, NON EX
+NECESSITATE.
+Geminas esse contradictiones in propositionibus supra iam dictum est et nunc quoque commemoratum in
+quibus necesse est unam ueram esse, alteram falsam. Sed ea quae dicentur de futuris et contingentibus melius
+intellegentur, si de his contingentibus loquamur, quae in singular) contradictione proueniunt. Est enim uniuersalium
+angularis contradictio in contmgentibus huiusmodi:
+Cras omnes Athenienses bello nauali pugnaturi sunt
+Cras non omnes Athenienses bello nauali pugnaturi sunt
+In singularibus autem talis est:
+Cras Socrates in palaestra disputaturus est
+Cras Socrates in pallaestra disputaturus non est
+Non autem oportet ignorare non esse similiter contingentes has quae dicunt:
+Socrates morietur
+et:
+Socrates non morietur
+et illas quae dicunt:
+Socrates cras morietur
+Socrates cras non morietur
+Illae enim superiores omnino contingentes non sunt sed sunt necessariae (morietur enim Socrates ex
+necessitate), hae uero quae tempus definiunt nec ipsae in numerum contingentium recipiuntur, idcirco quod nobis
+quidem cras moriturum esse Socratem incertum est, naturae autem incertum /203/ non est atque ideo nec deo quoque
+incertum est, qui ipsam naturam optime nouit sed illae sunt proprie contingentes, quae neque in natura sunt neque in
+necessitate sed aut in casu aut in libero arbitrio aut in possibilitate naturae: ex casu quidem, ut cum egredior domo
+amicum uideam non ad hoc egrediens, ex libero arbitrio, ut quod possum et uelle et non uelle, an uelim hoc antequam
+fiat incertum est, ex possibilitate, quod cum fieri possit et non fieri possit et antequam fiat, quod utroque modo potest,
+incertum sit. Ideoque
+Cras Socrates disputaturus est in palaestra
+contingens est, quod hoc ex libero uenit arbitrio. Ergo in huiusmodi contingentibus si in futurum una semper
+uera est, altera semper falsa et una definite uera, falsa altera definite et res uerbis congruent, omnia necesse est esse uel
+non esse et quidquid fit ex necessitate fit et nihil neque possibile est esse, quod possibile sit non esse, neque liberum
+erit arbitrium neque in rebus ullis casus erit in omnibus necessitate dominante. In his namque id est in singularibus
+contradictionibus uerum dicere uterque non potest. Contradictoriae enim erant quae simul esse non possint. Sed nec
+utraeque, negationes atque affirmationes, falsae esse in contradictoriis possum. Illae enim erant contradictoriae quae
+simul non esse non poterant. Quare unus uerum dicturus est, unus falsum. Quod si nihil datur in huiusmodi rebus id est
+contingentibus instabili euentus ordine et incerta ueritatis /204/ et falsitatis enuntiatione prouenire, quidquid uerum
+dicitur in affirmatione definite, hoc definite <esse> necesse est, quidquid falsum dicitur in negatione, hoc non esse
+
+

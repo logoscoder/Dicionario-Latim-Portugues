@@ -1,0 +1,60 @@
+115 qui fehlt W411
+116 putant korr. aus putan O93
+117 regna W411
+118 preberetur W411
+119 si fehlt W411
+120 quis korr. aus qus W411
+121 electio korr. aus lectio V630; electio V1341
+122 provecit W411; proficit V1341
+123 ne W411
+124 nobilitatis W411
+125 honoris fehlt V630; V1341
+126 honoris apicem] apicem dignitatis E97
+127 sit] sit a V630; E97
+128 Rubrik fehlt V630; E97
+129 REGNI BLANDIUNTUR] BLANDIUNTUR REGNUM W411
+130 SPE fehlt W411
+131 SUBPRESTITE W411
+132 relegioni W411
+133 subprestitiosum W411
+134 Non est korr. aus Non V1341
+135 tempora vel momenta] momenta vel tempora V630; V1341
+136 posuit fehlt W411
+137 cum fehlt W411
+138 expellentia W411
+139 Rubrik fehlt V630; E97
+140 MALEDIRE korr. aus MALEDICERE W411
+141 et fehlt W411
+142 sensimus W411
+143 enim fehlt W411
+144 legelatore W411
+145 feceris O93
+146 Nam si korr. aus Nam W411
+147 necessario] non cessario W411
+148 sententia W411
+149 Rubrik fehlt V630; E97
+150 REGNUM W411
+151 REGNI] regni a W411; SUIS REGUM V1341
+152 FRAUDENTUR korr. aus FRAUDENTER V1341
+153 mercedem W411
+154 subprestitis W411
+155 probligatis W411
+156 obtavit W411
+157 promptum W411
+158 nuntiant W411
+159 incertu W411
+160 futurum E97
+161 casum E97
+162 pietatis W411
+163 debet V630; V1341; E97
+164 Rubrik fehlt V630; E97
+165 PRONUNTIATIONE] per nuntiationem W411
+166 CUSTODIAM SUI] custodiamus vi W411
+167 innotescere W411; INNOTESCI korr. aus INNOTESCIT V1341
+168 malarum V630; V1341; E97
+169 facilitate W411
+170 memoria W411
+171 oblivione W411; oblivionis V630; V1341
+5
+
+

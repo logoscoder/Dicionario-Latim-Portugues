@@ -1,0 +1,56 @@
+|#7 Non est autem possibile quod per hunc modum possibile defendatur. Possibile enim quoddam est quod ad
+necessarium sequitur. Nam quod necesse est esse, possibile est esse: quod enim non possibile est esse,
+impossibile est esse; et quod impossibile est esse, necesse est non esse; igitur quod necesse est esse, necesse est
+non esse. Hoc autem est impossibile.
+Ergo impossibile est quod aliquid necesse sit esse, et tamen non sit possibile illud esse. Ergo possibile esse
+sequitur ad necesse esse.
+|#8 Hoc autem possibile non est necessarium defendere contra hoc quod effectus ex necessitate causari
+dicuntur, sed possibile quod opponitur necessario, prout dicitur possibile quod potest esse et non esse. Non
+dicitur autem aliquid per hunc modum possibile vel contingens ex hoc solum quod quandoque sit in potentia et
+quandoque in actu, ut praedicta responsio supponit: nam sic etiam in motibus caelestibus est possibile et
+contingens: non enim semper est coniunctio vel oppositio solis aut lunae in actu, sed quandoque quidem in actu,
+quandoque autem in potentia; quae tamen necessaria sunt, cum de his dentur demonstrationes. Sed possibile vel
+contingens quod opponitur necessario, hoc in sua ratione habet, quod non sit necesse illud fieri quando non est.
+Quod quidem est quia non de necessitate sequitur ex causa sua. Sic enim dicimus quod socratem sessurum esse
+est contingens, ipsum autem esse moriturum est necessarium, quia secundum horum ex causa sua de necessitate
+sequitur, non autem primum.
+Si ergo ex motibus caelestibus de necessitate sequitur quod eorum effectus sint quandoque futuri, tollitur
+possibile et contingens quod necessario opponitur.
+|#9 Sciendum est autem quod ad probandum effectus caelestium corporum ex necessitate provenire, Avicenna,
+in sua metaphysica, utitur tali ratione. Si aliquis effectus caelestium corporum impeditur, oportet quod hoc sit per
+aliquam causam voluntariam vel naturalem. Omnis autem causa voluntaria vel naturalis reducitur ad aliquod
+caeleste principium. Ergo impedimentum etiam effectuum caelestium corporum procedit ex aliquibus caelestibus
+principiis.
+Impossibile est ergo quod, si totus ordo caelestium simul accipiatur, quod effectus eius unquam cassetur. Unde
+concludit quod corpora caelestia faciunt necessario esse debere effectus in his inferioribus, tam voluntarios quam
+naturales.
+|#10 Haec autem ratio, ut Aristoteles in II phys. Dicit, fuit quorundam antiquorum, qui negabant casum et
+fortunam, per hoc quod cuiuslibet effectus est aliqua causa determinata; posita autem causa, ponitur effectus de
+necessitate; et sic, cum omnia ex necessitate proveniant, non est aliquid fortuitum neque casuale.
+|#11 Hanc autem rationem ipse solvit in VI metaphys., negando duas propositiones quibus haec ratio utitur.
+Quarum una est quod, posita causa quacumque, necesse sit eius effectum poni.
+Hoc enim non oportet in omnibus causis: quia aliqua causa, licet sit per se et propria causa et sufficiens alicuius
+effectus, potest tamen impediri ex concursu alterius causae, ut non sequatur effectus.
+Alia propositio est, quam negat, quod non omne quod est quocumque modo, habet causam per se, sed solum ea
+quae sunt per se; quae autem sunt per accidens, non habent aliquam causam; sicut quod sit musicum, habet
+aliquam causam in homine, quod autem homo sit simul albus et musicus, non habet aliquam causam.
+Quaecumque enim sunt simul propter aliquam causam, ordinem habent ad invicem ex illa causa: quae autem
+sunt per accidens, non habent ordinem ad invicem. Non igitur sunt ex aliqua causa per se agente, sed solum per
+accidens hoc evenit: accidit enim docenti musicam quod doceat hominem album, est enim praeter eius
+intentionem, sed intendit docere disciplinae susceptibilem.
+|#12 Sic igitur, proposito aliquo effectu, dicemus quod habuit aliquam causam ex qua non de necessitate
+sequebatur: quia poterat impediri ex aliqua alia causa concurrente per accidens.
+Et licet illam causam concurrentem sit reducere in aliquam causam altiorem, tamen ipsum concursum, qui
+impedit, non est reducere in aliquam causam. Et sic non potest dici quod impedimentum huius effectus vel illius
+procedat ex aliquo caelesti principio. Unde non oportet dicere quod effectus corporum caelestium ex necessitate
+proveniant in istis inferioribus.
+|#13 Hinc est quod Damascenus dicit, in secundo libro, quod corpora caelestia non sunt causa generationis
+alicuius eorum quae fiunt, neque corruptionis eorum quae corrumpuntur: quia scilicet non ex necessitate ex eis
+effectus proveniunt.
+|#14 Aristoteles etiam dicit, in II de somno et vigilia, quod eorum quae in corporibus sunt signorum etiam
+caelestium, velut aquarum et ventorum, multa non eveniunt.
+Si enim alius vehementior isto accidat motus a quo futurum est signum, non fit: sicut et multa consulta bene,
+quae fieri expediebat, dissoluta sunt propter alias digniores inchoationes.
+294
+
+

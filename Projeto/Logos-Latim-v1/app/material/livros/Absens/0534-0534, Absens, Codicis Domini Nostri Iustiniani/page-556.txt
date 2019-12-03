@@ -1,0 +1,60 @@
+Liber undecimus
+* 11.1.0. De tollenda lustralis auri collatione.
+* 11.2.0. De naviculariis seu naucleris publicas species transportantibus.
+* 11.3.0. De praediis naviculariorum.
+* 11.4.0. De navibus non excusandis.
+* 11.5.0. Ne quid oneri publico imponatur.
+* 11.6.0. De naufragiis.
+* 11.7.0. De metallariis et metallis et procuratoribus metallorum.
+* 11.8.0. De murilegulis et gynaeciariis et procuratoribus gynaecii et de monetariis et bastagariis.
+* 11.9.0. De vestibus holoveris et auratis et de intinctione sacri muricis.
+* 11.10.0. De fabricensibus.
+* 11.11.0. De veteris numismatis potestate.
+* 11.12.0. Nulli licere in frenis et equestribus sellis et in balteis margaritas et smaragdos (..)
+* 11.13.0. De classicis.
+* 11.14.0. De decuriis urbis Romae.
+* 11.15.0. De privilegiis corporatorum urbis Romae.
+* 11.16.0. De pistoribus.
+* 11.17.0. De suariis et susceptoribus vini et ceteris corporatis.
+* 11.18.0. De collegiatis et chartopratis et nummulariis.
+* 11.19.0. De studiis liberalibus urbis Romae et Constantinopolitanae.
+* 11.20.0. De honoratorum vehiculis.
+* 11.21.0. De privilegiis urbus Constantinopolitanae.
+* 11.22.0. De metropoli Beryto.
+* 11.23.0. De canone frumentario urbis Romae.
+* 11.24.0. De frumento urbis Constantinopolitanae.
+* 11.25.0. De annonis civilibus.
+* 11.26.0. De mendicantibus validis.
+* 11.27.0. De nautis Tiberinis.
+* 11.28.0. De frumento Alexandrino.
+* 11.29.0. De Alexandriae primatibus.
+* 11.30.0. De iure rei publicae.
+* 11.31.0. De administratione rerum publicarum.
+* 11.32.0. De vendendis rebus civitatis.
+* 11.33.0. De debitoribus civitatum.
+* 11.34.0. De periculo nominatorum.
+* 11.35.0. De periculo eorum qui pro magistratibus intervenerunt.
+* 11.36.0. Quo quisque ordine conveniatur.
+* 11.37.0. Ne quis liber invitus actum rei publicae gerere cogatur.
+* 11.38.0. Iniuncti muneris sumptus ad omnes collegas pertinere.
+* 11.39.0. De his qui ex officio quod administraverunt conveniuntur.
+* 11.40.0. De solutionibus et liberationibus debitorum civitatis.
+* 11.41.0. De spectaculis et scaenicis et lenonibus.
+* 11.42.0. De expensis publicorum ludorum.
+* 11.43.0. De aquaeductu.
+* 11.44.0. De gladiatoribus penitus tollendis.
+* 11.45.0. De venatione ferarum.
+* 11.46.0. De maiuma.
+* 11.47.0. Ut armorum usus inscio principe interdictus sit.
+* 11.48.0. De agricolis censitis vel colonis.
+* 11.49.0. De capitatione civium censibus eximenda.
+* 11.50.0. In quibus causis coloni censiti dominos accusare possunt.
+* 11.51.0. De colonis Palaestinis.
+* 11.52.0. De colonis Thracensibus.
+* 11.53.0. De colonis Illyricianis.
+* 11.54.0. Ut nemo ad suum patrocinium suscipiat vicos vel rusticanos eorum.
+* 11.55.0. Ut rusticani ad nullum obsequium devocentur.
+* 11.56.0. Non licere metrocomiae habitatoribus loca sua ad extraneum transferre.
+556
+
+

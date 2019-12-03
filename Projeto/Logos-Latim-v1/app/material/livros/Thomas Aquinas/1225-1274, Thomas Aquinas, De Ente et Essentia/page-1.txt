@@ -1,0 +1,50 @@
+OPERA OMNIA
+SANCTI THOMAE AQUINATIS
+-----oOo----Textum electronicum praeparavit et indexavit
+Ricardo M. Rom n, S. R. E. Presbyterus
+Bonis Auris, MCMXCVIII
+
+|*DE_ENTE_ET_ESSENTIA
+|+PR Prologus
+Quia parvus error in principio magnus est in fine, secundum Philosophum in I caeli et mundi, ens autem et
+essentia sunt quae primo intellectu concipiuntur, ut dicit Avicenna in principio suae metaphysicae, ideo ne ex
+eorum ignorantia errare contingat, ad horum difficultatem aperiendam dicendum est quid nomine essentiae et
+entis significetur et quomodo in diversis inveniatur et quomodo se habeat ad intentiones logicas, scilicet genus,
+speciem et differentiam.
+Quia vero ex compositis simplicium cognitionem accipere debemus et ex posterioribus in priora devenire, ut, a
+facilioribus incipientes, convenientior fiat disciplina, ideo ex significatione entis ad significationem essentiae
+procedendum est.
+|+1 Capitulus 1
+Sciendum est igitur quod, sicut in V metaphysicae Philosophus dicit, ens per se dicitur dupliciter, uno modo
+quod dividitur per decem genera, alio modo quod significat propositionum veritatem. Horum autem differentia
+est quia secundo modo potest dici ens omne illud, de quo affirmativa propositio formari potest, etiam si illud in
+re nihil ponat. Per quem modum privationes et negationes entia dicuntur; dicimus enim quod affirmatio est
+opposita negationi et quod caecitas est in oculo. Sed primo modo non potest dici ens nisi quod aliquid in re ponit.
+Unde primo modo caecitas et huiusmodi non sunt entia.
+Nomen igitur essentiae non sumitur ab ente secundo modo dicto, aliqua enim hoc modo dicuntur entia, quae
+essentiam non habent, ut patet in privationibus; sed sumitur essentia ab ente primo modo dicto. Unde
+Commentator in eodem loco dicit quod ens primo modo dictum est quod significat essentiam rei.
+Et quia, ut dictum est, ens hoc modo dictum dividitur per decem genera, oportet quod essentia significet aliquid
+commune omnibus naturis, per quas diversa entia in diversis generibus et speciebus collocantur, sicut humanitas
+est essentia hominis, et sic de aliis.
+Et quia illud, per quod res constituitur in proprio genere vel specie, est hoc quod significatur per diffinitionem
+indicantem quid est res, inde est quod nomen essentiae a philosophis in nomen quiditatis mutatur. Et hoc est
+quod Philosophus frequenter nominat quod quid erat esse, id est hoc per quod aliquid habet esse quid. Dicitur
+etiam forma secundum quod per formam significatur certitudo uniuscuiusque rei, ut dicit Avicenna in II
+metaphysicae suae. Hoc etiam alio nomine natura dicitur accipiendo naturam secundum primum modum illorum
+quattuor, quos boethius in libro de duabus naturis assignat, secundum scilicet quod natura dicitur omne illud
+quod intellectu quoquo modo capi potest. Non enim res est intelligibilis nisi per diffinitionem et essentiam suam.
+Et sic etiam Philosophus dicit in V metaphysicae quod omnis substantia est natura. Tamen nomen naturae hoc
+modo sumptae videtur significare essentiam rei, secundum quod habet ordinem ad propriam operationem rei,
+cum nulla res propria operatione destituatur. Quiditatis vero nomen sumitur ex hoc, quod per diffinitionem
+significatur. Sed essentia dicitur secundum quod per eam et in ea ens habet esse.
+Sed quia ens absolute et per prius dicitur de substantiis et per posterius et quasi secundum quid de accidentibus,
+inde est quod essentia proprie et vere est in substantiis, sed in accidentibus est quodammodo et secundum quid.
+Substantiarum vero quaedam sunt simplices et quaedam compositae, et in utrisque est essentia, sed in
+simplicibus veriori et nobiliori modo, secundum quod etiam esse nobilius habent. Sunt enim causa eorum quae
+composita sunt, ad minus substantia prima simplex, quae Deus est. Sed quia illarum substantiarum essentiae sunt
+nobis magis occultae, ideo ab essentiis substantiarum compositarum incipiendum est, ut a facilioribus
+convenientior fiat disciplina.
+1
+
+

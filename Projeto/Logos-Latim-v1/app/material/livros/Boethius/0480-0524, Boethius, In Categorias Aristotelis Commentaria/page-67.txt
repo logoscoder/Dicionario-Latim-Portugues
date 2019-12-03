@@ -1,0 +1,60 @@
+quadratus a d in quattuor quadratos qui sunt e g, f g, e h, h f, quorumlibet tres qui circa eamdem angularem sunt si
+demantur, figura ipsa gnomo uocatur. ut si quis tollat hos tres, e g, g f, f h, inuenitur m n [291A] gnomo, qui m n
+gnomo separatur a b e h quadrato. Totus quidem a d quadratus imminutus est, qui ex tam magno factus est paruus, non
+tamen formam tetragoni commutauit. Quod si e h tetragonus solus sit, et ei circumponatur gnomo, qui est m n, creuit
+quidem tetragonus, et maior factus est sed non commutatus est. Omnes enim tetragoni sibi sunt propria qualitate
+consimiles. Quod si commutatio huiusmodi motus esset, ut non omnino a superioribus separaretur, nulla esset dubitatio
+quin semper oporteret quidquid commutatur secundum aliquem priorum motuum modum commutari. Ita ut aut
+nasceretur, aut corrumperetur, aut minueretur, aut cresceret, aut secundum locum fieret aliqua permutatio. Quod
+quoniam non est, ab omnibus superioribus [291B] motibus haec motus species distat. Sed monstratum superius est
+quinque superiores motus species a se omni ratione substantia, discrepare. Quocirca distant a se similiter hi sex motus,
+atque diuersi sunt. [291C]
+SIMPLICITER AUTEM MOTUS QUIETI CONTRARIUS EST; SINGULIS VERO MOTIBUS,
+GENERATIONI QUIDEM CORRUPTIO, DIMINUTIO VERO CREMENTO, SECUNDUM LOCUM
+TRANSLATIONI SECUNDUM LOCUM QUIES. MAXIME AUTEM VIDETUR OPPONI IN CONTRARIUM
+LOCUM PERMUTATIO, UT DE EO QUOD EST DEORSUM AD ID QUOD EST SURSUM ET DE EO QUOD EST
+SURSUM AD ID QUOD EST DEORSUM.
+Nunc iam motuum contrarietates exsequitur, et ipsi [291D] quidem generi, id est motui, dicit quietem esse
+contrariam, habet enim motus quietem contrariam. Singulis uero speciebus motuum motus ipsi contrarii sunt, ut
+generationi corruptio, et cum generatio sit motus atque corruptio, utraque tamen sibimet contraria sunt, cremento
+quoque diminutio contraria est. Quare diuerso modo hae species motus contrarietstem habent, quam genus dudum
+babere monstrauimus: motus enim ipse habet quietem contrariam. Specierum uero motibus non quies tantum sed alii
+motus contrarii sunt, ut generationi corruptio et cremento diminutio, secundum uero locum translationis contrarietas
+similis est generi. Nam et ipsa habet contrariam secundum locum quietem, contrarium namque est moueri de loco in
+locum, et [292A] non moueri, et est non moueri quidem secundum locum quies, moueri uero secundum locum
+translatio.
+Maxime autem, inquit, secundum locum mutationi, contraria est in contrarium locum permutatio. Ut si qua res
+sursum sit atque ibi maneat, et sit quieta, postea sit ei motus talis, ut deorsum moueatur, quamquam ipsi superiori motui
+quies contraria sit, multo magis quidem huiusmodi motus, qui in contrarium fit locum, illi superiori motui contrarius
+est. Atque hoc quidem et in aliis motibus accidit: ut si quis sit ad dexteram, si ei in sinistram motus sit, in contrarium
+locum factus dicitur motus. Atque hoc idem id aliis motibus licet uidere; sed Aristoteles dubitat si reliquo motui, id est
+commutationi, aliquid possit esse contrarium, quam quaestionem ita proponit: [292B]
+RELIQUO VERO DE HIS QUI ASSIGNATI SUNT MOTUI NON EST FACILE ASSIGNARE QUID SIT
+CONTRARIUM, VIDETUR AUTEM NEQUE ESSE ALIQUID EI CONTRARIUM, NISI QUIS OPPONAT
+SECUNDUM QUALITATEM QUIETEM SECUNDUM QUALITATEM TRANSLATIONI QUAE IN
+CONTRARIUM, QUEMADMODUM ETIAM IN EA QUAE EST SECUNDUM LOCUM TRANSLATIONE
+SECUNDUM LOCUM QUIETEM VEL IN CONTRARIUM LOCUM TRANSLATIONEM (EST ENIM
+COMMUTATIO TRANSLATIO SECUNDUM QUALITATEM).
+Ex similitudine motuum contrarietates quoque colligimus. Nam quoniam superius motui secundum locum
+contrariam reperit secundum locum quietem, et quoniam omnis commutatio quae secundum aliquam passionem fit
+secundum qualitatem commutatur, [292C] motus eius contrarietatem posuit secundum qualitatem quietem: ut si lapis
+cum frigidus est, si ita permaneat, qualitas illa mansit et quieuit, quod si tepeat, qualitas illa commutat est, et est ipsa
+commutatio contraria, et factus est quidem motus, et in tepore lapidis secundum qualitatem facta est permutatio, fuit
+autem in frigore quies secundum eamdem qualitatem. Quocirca licet uideatur hic motus quidem omnino contrarium non
+habere, tamen, sicut superius dictum est secundum locum translationi contrariam esse secundum locum quietem, cur
+non quoque secundum qualitatem commutationi dicatur quies secundum qualitatem esse contraria? Definitio namque
+commutationis est translatio secundum qualitatem, cum enim qualitas cuiuslibet rei mouetur, fit translatio, scilicet
+secundum qualitatem. [292D] Quod si maxime uideatur secundum locum translationi esse contraria, non solum
+secundum locum quies sed etiam in contrarium locum translatio, secundum qualitatem quoque mutationi non solum erit
+contraria secundum qualitatem quies sed maxime in contrariam qualitatem commutatio: ut ei quid cum est album, si
+rubrum fiat, quieti quidem ei quae in albo colore poterat permanere contraria fuit qualitatis ipsa mutatio, ut ex albo in
+rubrum mutaretur; si quid enim ex albo uertatur in nigrum, illud maxime permutatur, et illud superiori mutationi
+contrarium est, quoniam permutatum est in contrariam qualitatem. Atque hoc est quod ait: [293A]
+QUARE OPPONITUR EI SECUNDUM QUALITATEM QUIES VEL IN CONTRARIUM QUALITATIS
+TRANSLATIO, UT ALBUM FIERI QUOD EST NIGRUM; COMMUTATUR ENIM, IN CONTRARIUM
+QUALITATIS FACTA TRANSLATIONE.
+Id quoque apertissimo uulgatur exemplo. Quare quoniam de motibus expeditum est, habendi aequiuocationem
+quae sequitur explicemus.
+[15]
+
+

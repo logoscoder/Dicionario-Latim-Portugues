@@ -1,0 +1,56 @@
+|#2 Secundo obiicit ad utramque partem, ibi si autem et primo inducit, ad ostendendum quod visus videat se
+videre, duas rationes. Quarum prima talis est. Si homo sentit se videre altero sensu quam visu; aut hoc erit quia
+illo alio sensu homo videt colorem; aut omnino alio sensu videt colorem, et sentit visionem coloris.
+Si vero eodem sensu quo sentit colorem et sentit visionem coloris; sequitur, quod unus et idem erit sensus
+secundum actum apprehensivus ipsius visionis et subiecti coloris. Quare sequitur alterum duorum: quia, si iste
+sensus, qui sentit visionem et colorem, sit alius sensus a visu, oportebit quod duo sensus sint unius subiecti,
+scilicet coloris. Aut si iste sensus, quo sentimus visionem et colorem, est idem cum sensu visus, sequitur quod sit
+idem eiusdem, id est quod visus sit sensus suiipsius, quod a principio negabatur. Dicere vero, quod ille alter
+sensus, quo quis sentit se videre, non sentiat colorem, est omnino irrationabile: quia si non cognosceret colorem,
+non posset cognoscere quid esset videre, cum videre nihil aliud sit, quam sentire colorem.
+|#3 Secundam rationem ponit ibi amplius autem quae talis est. Si sensus, id est visionis, quo scilicet sentimus
+nos videre, sit alter a visu, iterum quaerendum est de illo sensu: utrum, scilicet ille sensus sentiat se sentire; et si
+non, oportebit quaerere tertium sensum, qui sentiat illum sentire. Aut igitur hoc procedit in infinitum, quod est
+impossibile, cum impossibile sit compleri actionem quae dependet ab actionibus infinitis, neque etiam unius rei
+possint esse potentiae infinitae: aut oportebit quod deveniatur ad aliquem sensum, qui sit iudex suiipsius, id est
+percipiat se sentire.
+Eadem ergo ratione poterat fieri in primo sensu, ut scilicet visus sentiret se videre.
+Non est ergo alius sensus, qui percipiat colorem, et qui percipit visionem coloris.
+|#4 Deinde cum dicit habet autem obiicit ad partem contrariam. Et quia primae rationes aliqualiter concludunt
+verum, haec ratio per modum dubitationis proponitur, unde et eam solvit. Est autem ratio talis.
+Si visu sentimus nos videre; sentire autem visu, nihil est aliud quam videre; ergo videmus nos videre. Sed nihil
+videtur nisi color tantum, aut habens colorem. Si igitur aliquis videt se quod sit videns, sequitur quod primum
+videns, quod secundo fuit visum, sit habens colorem; quod videtur inconveniens. Nam dictum est supra, quod
+visus, cum sit susceptivum coloris, est absque colore.
+|#5 Deinde cum dicit manifestum igitur solvit tertio propositam dubitationem duobus modis. Primo concludens
+ex praedictis, quod sentire visu multipliciter dicitur. Ostensum est enim supra, quod visu sentimus nos videre.
+Item ostensum est, quod visu non sentimus, nisi colorem. Sentire ergo visu dupliciter dicitur. Uno modo,
+secundum quod visu sentimus nos videre. Alio modo, cum visu videmus colorem. Et quod visu sentire dicatur
+multipliciter; apparet ex hoc, quod aliquando dicimur sentire visu, cum visus praesentialiter immutatur a visibili,
+scilicet colore.
+Aliquando autem discernimus visu et tenebras et lumen etiam cum non videmus, per immutationem scilicet ab
+exteriori sensibili. Sed non similiter dicitur utroque modo, visu sentire.
+Redit ergo solutio ad hoc, quod actio visus potest considerari, vel secundum quod consistit in immutatione
+organi a sensibili exteriori, et sic non sentitur nisi color. Unde ista actione, visus non videt se videre. Alia est
+actio visus secundum quam, post immutationem organi, iudicat de ipsa perceptione organi a sensibili, etiam
+abeunte sensibili: et sic visus non videt solum colorem, vel sentit, sed sentit etiam visionem coloris.
+|#6 Deinde cum dicit amplius autem ponit aliam solutionem: quae quidem necessaria est, eo quod color habet
+duplex esse: unum naturale in re sensibili, aliud spirituale in sensu. Secundum ergo primum esse coloris,
+processit prima solutio. Haec autem secunda procedit quantum ad secundum esse coloris.
+Circa hanc solutionem tria facit. Primo ponit solutionem. Secundo probat quoddam, quod in solutione
+supposuerat, ibi, si igitur est motus. Tertio ex hac solutione ostendit etiam quarumdam aliarum quaestionum
+solutionem, ibi, quoniam autem unus.
+|#7 Dicit ergo primo, quod cum soluta sit prima dubitatio, sustinendo quod videns non sit coloratum, amplius
+potest solvi dicendo quod videns est tamquam coloratum, quia in vidente est similitudo coloris, unde videns est
+simile colorato. Unde illa potentia, quae videt aliquem esse videntem, non est extra genus potentiae visivae. Et
+quod videns sit quodammodo coloratum, probat per ea quae supra dicta sunt, quia unumquodque organum
+sensus est susceptivum speciei sensibilis sine materia, ut dictum est. Et ista est ratio, quare abeuntibus
+sensibilibus, fiunt in nobis sensationes et phantasiae, id est apparitiones, secundum quas aliquo modo sentiunt
+animalia. Et sic patet quod videns est tamquam coloratum, inquantum habet similitudinem coloris. Et non solum
+videns est tamquam coloratum, et simile colorato; sed etiam actus cuiuslibet sensus, est unus et idem subiecto
+cum actu sensibilis, sed ratione non est unus.
+|#8 Et dico actum sensus, sicut auditum secundum actum; et actum sensibilis, sicut sonum secundum actum.
+Non enim semper sunt in actu: quia contingit habentia auditum non audire, et habens sonum non semper sonare.
+87
+
+

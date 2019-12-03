@@ -1,0 +1,65 @@
+|#2
+Deinde cum dicit: hoc igitur per quod fertur etc., ex praemissis
+causis argumentatur ad propositum.
+Et primo ex differentia medii; secundo ex differentia mobilis, ibi:
+secundum autem eorum etc..
+Circa primum duo facit: primo ponit rationem; secundo eam recapitulando
+recolligit, ibi: sed sicut in capitulo etc..
+Circa primum duo facit: primo ponit rationem; secundo ostendit conclusionem
+sequi ex praemissis, ibi: sit enim z vacuum etc..
+|#3
+Ponit ergo primo talem rationem.
+Proportio motus ad motum in velocitate est sicut proportio medii ad medium
+in subtilitate; sed spatii vacui ad spatium plenum nulla est proportio;
+ergo motus per vacuum non habet proportionem ad motum qui sit per plenum.
+Primo ergo manifestat primam propositionem huius rationis. Et dicit quod
+medium per quod aliquid fertur, est causa velocitatis et tarditatis, quia
+impedit corpus quod movetur.
+Et maxime quidem impedit quando medium fertur in contrarium, ut patet in
+navi, cuius motus impeditur a vento. Secundario autem impedit, si etiam
+quiescat: quia si simul moveretur cum mobili, non impediret, sed magis
+iuvaret, sicut fluvius qui defert navem inferius. Sed inter ea quae
+impediunt, magis impedit illud quod non facile dividitur; et tale est
+corpus magis grossum. Et hoc manifestat per exemplum. Sit enim corpus quod
+movetur a; spatium per quod movetur, sit b; et tempus in quo a movetur per
+b, sit c.
+Ponamus autem aliud spatium quod sit d, aequalis longitudinis cum b; sed
+tamen d sit plenum subtiliori corpore quam b, secundum aliquam analogiam,
+idest proportionem, corporis medii, quod impedit motum corporis; ut puta
+quod spatium b sit plenum aqua, spatium vero d sit plenum aere. Quanto ergo
+aer est subtilior aqua et minus spissus, tanto mobile quod est a, citius
+movebitur per spatium d, quam per spatium b. Quae est ergo proportio aeris
+ad aquam in subtilitate, eadem est proportio velocitatis ad velocitatem: et
+quanto est maior velocitas, tanto est minus tempus; quia velocior motus
+dicitur, qui est in minori tempore per aequale spatium, ut in sexto
+dicetur. Unde, si aer est in duplo subtilior quam aqua, sequetur quod
+tempus in quo a movetur per b, quod est plenum aqua, sit duplum tempore in
+quo pertransit d, quod est plenum aere: et ita tempus c, in quo pertransit
+spatium b, erit duplum tempore quod est e, in quo pertransit spatium d. Et
+sic poterimus universaliter accipere, quod in quacumque proportione medium,
+per quod aliquid fertur, est subtilius et minus impeditivum et facilius
+divisibile, in eadem proportione erit motus velocior.
+|#4
+Deinde cum dicit: vacuum autem nullam etc., manifestat secundam
+propositionem: et dicit quod vacuum non exceditur a pleno secundum aliquam
+proportionem.
+Et hoc probat per hoc, quod numerus non excedit nihil secundum aliquam
+proportionem, sed solum attenditur proportio aliqua numeri ad numerum, vel
+ad unitatem: sicut quatuor excedunt tria in uno, et adhuc in pluri excedunt
+duo, et adhuc in pluri unum. Unde dicitur maior proportio quatuor ad unum,
+quam ad duo vel tria. Sed quatuor non excedunt nihil secundum aliquam
+proportionem.
+Et hoc ideo quia necesse est quod omne excedens dividatur in id quod
+exceditur, et in excedentiam, idest in id in quo excedit: sicut quatuor
+dividitur in tria, et in unum in quo excedit tria. Si ergo quatuor excedunt
+nihil, sequetur quod quatuor dividantur in aliquot et nihil: quod est
+inconveniens. Unde etiam non potest dici, quod linea excedat punctum, nisi
+componeretur ex punctis, et divideretur in ea. Et similiter non potest dici
+quod vacuum habeat aliquam proportionem ad plenum: quia vacuum non cadit in
+compositionem pleni.
+|#5
+Deinde cum dicit: ergo neque motum etc., ponit conclusionem,
+concludens quod non est possibile esse proportionem inter motum qui fit per
+141
+
+

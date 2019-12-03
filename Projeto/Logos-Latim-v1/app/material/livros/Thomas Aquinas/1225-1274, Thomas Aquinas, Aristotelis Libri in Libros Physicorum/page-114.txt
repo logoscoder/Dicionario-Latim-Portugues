@@ -1,0 +1,66 @@
+Res autem non possunt esse sine loco. Relinquitur igitur secundum eos, quod
+locus sit primum inter omnia entia.
+|+2
+
+Lectio 2
+
+|#1
+Postquam Philosophus posuit rationes ad ostendendum quod locus sit,
+hic ponit sex rationes ad ostendendum quod locus non sit. Principium autem
+ad investigandum de aliquo an sit, oportet accipere quid sit, saltem quid
+significetur per nomen. Et ideo dicit quod quamvis ostensum sit quod locus
+sit, tamen habet defectum, idest dubitationem, quid est, etsi est: utrum
+scilicet sit quaedam moles corporea, aut aliqua natura alterius generis.
+|#2
+Et ex hoc sic argumentatur. Si locus est aliquid, oportet quod sit
+corpus: quia locus habet tres dimensiones, scilicet longitudinis,
+latitudinis et profunditatis: his autem determinatur corpus; quia omne quod
+habet tres dimensiones, est corpus. Sed impossibile est locum esse corpus:
+quia cum locus et locatum sint simul, sequeretur duo corpora esse simul;
+quod est inconveniens.
+Ergo impossibile est locum aliquid esse.
+|#3
+Secundam rationem ponit ibi: amplius, si vere corporis locus est
+etc.: quae talis est.
+Si locus corporis vere est quoddam receptaculum corporis aliud a corpore,
+oportet quod etiam superficiei sit aliquod receptaculum aliud ab ipsa: et
+similiter est de aliis terminis quantitatis, quae sunt linea et punctus.
+Et hanc conditionalem sic probat. Propter hoc enim ostendebatur locus esse
+alius a corporibus, quia ubi nunc est corpus aeris, ibi prius erat corpus
+aquae: sed similiter ubi prius erat superficies aquae, nunc est superficies
+aeris: ergo locus superficiei est aliud a superficie. Et similis ratio est
+de linea et puncto.
+Argumentatur ergo a destructione consequentis, per hoc quod non potest esse
+aliqua differentia loci puncti a puncto: quia, cum locus non excedat
+locatum, locus puncti non potest esse nisi aliquod indivisibile. Duo autem
+indivisibilia quantitatis, ut duo puncta simul coniuncta, non sunt nisi
+unum: ergo eadem ratione neque locus superficiei erit aliud a superficie,
+neque locus corporis erit aliud a corpore.
+|#4
+Tertiam rationem ponit ibi: quid enim forte ponemus esse locum? etc.:
+quae talis est.
+Omne quod est, vel est elementum, vel est ex elementis; sed locus neutrum
+horum est; ergo locus non est.
+Mediam probat sic.
+Omne quod est elementum vel ex elementis, est de numero corporeorum vel
+incorporeorum; sed locus non est de numero incorporeorum, quia habet
+magnitudinem; nec de numero corporeorum quia non est corpus, ut probatum
+est; ergo neque est elementum, neque ex elementis.
+Et quia posset aliquis dicere quod, licet non sit corpus, est tamen
+elementum corporeum; ad hoc excludendum subiungit quod sensibilium corporum
+sunt elementa corporea: quia elementa non sunt extra genus elementatorum.
+Nam ex intelligibilibus principiis, quae sunt incorporea, non constituitur
+aliqua magnitudo.
+Unde si locus non sit corpus, non potest esse elementum corporeum.
+|#5
+Quartam rationem ponit ibi: amplius et cuius utique etc.: quae talis
+est.
+Omne quod est, aliquo modo est causa respectu alicuius; sed locus non
+potest esse causa secundum aliquem quatuor modorum. Neque enim est causa
+sicut materia, quia ea quae sunt non constituuntur ex loco, quod est de
+ratione materiae; neque sicut causa formalis, quia tunc omnia quae habent
+unum locum, essent unius speciei, cum principium speciei sit forma; neque
+iterum sicut causa finalis rerum, quia magis videntur esse loca propter
+114
+
+

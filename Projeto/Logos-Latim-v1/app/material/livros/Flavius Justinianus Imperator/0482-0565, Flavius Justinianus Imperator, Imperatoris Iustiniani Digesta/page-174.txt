@@ -1,0 +1,49 @@
+Ulpianus libro 17 ad Sabinum
+Ita tamen si vectigal solvant.
+6.3.3
+Paulus libro 21 ad edictum
+Idem est et si ad tempus habuerint conductum nec tempus conductionis finitum sit.
+
+DOMINI NOSTRI SACRATISSIMI PRINCIPIS
+IUSTINIANI
+IURIS ENUCLEATI EX OMNI VETERE IURE COLLECTI
+DIGESTORUM SEU PANDECTARUM
+liber septimus
+
+( Th. Mommsen & P. Krueger, Corpus Iuris Civilis, I, Berlin, 1954 ).
+
+* 7.1.0. De usu fructu et quemadmodum quis utatur fruatur.
+* 7.2.0. De usu fructu adcrescendo.
+* 7.3.0. Quando dies usus fructus legati cedat.
+* 7.4.0. Quibus modis usus fructus vel usus amittitur.
+* 7.5.0. De usu fructu earum rerum, quae usu consumuntur vel minuuntur.
+* 7.6.0. Si usus fructus petetur vel ad alium pertinere negetur.
+* 7.7.0. De operis servorum
+* 7.8.0. De usu et habitatione.
+* 7.9.0. Usufructuarius quemadmodum caveat.
+7.1.0. De usu fructu et quemadmodum quis utatur fruatur.
+7.1.1
+Paulus libro tertio ad Vitellium
+Usus fructus est ius alienis rebus utendi fruendi salva rerum substantia.
+7.1.2
+Celsus libro 18 digestorum
+Est enim usus fructus ius in corpore, quo sublato et ipsum tolli necesse est.
+7.1.3
+Gaius libro secundo rerum cottidianarum sive aureorum
+pr. Omnium praediorum iure legati potest constitui usus fructus, ut heres iubeatur dare alicui usum fructum. Dare autem
+intellegitur, si induxerit in fundum legatarium eumve patiatur uti frui. Et sine testamento autem si quis velit usum
+fructum constituere, pactionibus et stipulationibus id efficere potest.
+1. Constitit autem usus fructus non tantum in fundo et aedibus, verum etiam in servis et iumentis ceterisque rebus.
+2. Ne tamen in universum inutiles essent proprietates semper abscedente usu fructu, placuit certis modis extingui usum
+fructum et ad proprietatem reverti.
+3. Quibus autem modis usus fructus et constitit et finitur, isdem modis etiam nudus usus solet et constitui et finiri.
+7.1.4
+Paulus libro secundo ad edictum
+Usus fructus in multis casibus pars dominii est, et exstat, quod vel praesens vel ex die dari potest.
+7.1.5
+Papinianus libro septimo quaestionum
+Usus fructus et ab initio pro parte indivisa vel divisa constitui et legitimo tempore similiter amitti eademque ratione per
+legem Falcidiam minui potest: reo quoque promittendi defuncto in partes hereditarias usus fructus obligatio dividitur: et
+si ex communi praedio debeatur, uno ex sociis defendente pro parte defendentis fiet restitutio.
+
+

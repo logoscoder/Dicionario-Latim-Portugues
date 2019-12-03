@@ -1,0 +1,62 @@
+syllabam primam ponas, siue ultimam primam, siue quomodolibet syllabarum ordinem seriemque permisceas, idem
+erit: in significatiuis enim uocibus idcirco esse dicitur, quod illo ordine permutato uis significationis euertitur, hic uero,
+ubi nulla est significatio, nihil interest quomodolibet iaceant partes. Quare oratio in aliquibus quidem habet ordinem
+partium, in aliis uero nec ordo ipse poterit inueniri.
+An fortasse oratio dici non potest quae nihil significat, et nulla est oratio, quae ordinem non habeat? Ergo
+secundum priorem quantitatis diuisionem, ubi dicebatur quantitatis alia esse continua, alia uero discreta, quinque sunt
+continua, duo [208D] uero discreta. Continua quidem linea, superficies, soliditas, locus, tempus. Discreta uero numerur,
+et oratio. In hac uero secunda diuisione qua dicit alias quantitates ex habentibus ad se inuicem positionem constare
+partibus, quattuor quidem sunt qua, retinent positionem, id est linea, superficies, corpus, locus; tria uero quae
+positionem non habent sed ex his duo semper ordinem retinent, tempus scilicet et numerus. Oratio uero si quid
+significet, habet ordinem; si uero nihil significet, inordinata est; si tamen oratio nihil significans dici possit, his dictis
+ipse concludit dicens: Igitur alia ex habentibus ad se inuicem partibus positionem constant, alia uero ex non habentibus
+positionem. Hac igitur diuisione finita [209A] transit ad caetera monstrans quae proprie quantitates nuncupatur, quae
+secundum accidens.
+PROPRIE AUTEM QUANTITATES HAE SOLAE SUNT QUAS DIXIMUS, ALIA VERO OMNIA
+SECUNDUM ACCIDENS SUNT; AD HAEC ENIM ASPICIENTES ET ALIAS DICIMUS QUANTITATES, UT
+MULTUM DICITUR ALBUM EO QUOD SUPERFICIES MULTA SIT, ET ACTIO LONGA EO QUOD TEMPUS
+MULTUM ET LONGUM SIT, ET MOTUS MULTUS; NEQUE ENIM HORUM SINGULUM PER SE QUANTITAS
+DICITUR; UT, SI QUIS ASSIGNET QUANTA SIT ACTIO, TEMPORE DEFINIET, ANNUAM VEL SIC ALIQUO
+MODO ASSIGNANS, ET ALBUM QUANTUM SIT ASSIGNANS SUPERFICIE DEFINIET
+(QUANTA ENIM FVERIT SUPERFICIES, TANTUM ESSE ALBUM DICET); QUARE SOLAE PROPRIE
+ET SECUNDUM SE IPSAE QUANTITATES DICUNTUR QUAE DICTAE SUNT, ALIORUM VERO NIHIL PER
+SE SED, SI FORTE, PER ACCIDENS.
+[209B] Principaliter aliquid esse dicitur, quod per se tale est quale esse demonstratur. Secundum accidens uero
+illud quod non per se sed per aliud tale est quale esse dicitur, ut albedini per se inest color: secundum naturam enim
+albi, color esse dicitur albedo; cum uero homo dicitur coloratus, non per se dicitur, idcirco quod homo in eo quod homo
+est, color non est sed quoniam habet colorem, idcirco dicitur coloratus. Ergo quemadmodum album idcirco color est per
+se quoniam color naturale quoddam est genus, homo uero idcirco coloratus dicitur quoniam habet colorem; et dicitur
+album quidem per se et principaliter color, homo uero secundum accidens coloratus. Ita quoque et quantitates; haec
+enim omnia quae dicta sunt, id est linea, superficies, [209C] corpus, numerus, oratio, tempus, per se et secundum et
+propriam naturam quantitates dicuntur. Si qua uero alia dicuntur secundum aliquam quantitatem, non per se sed
+secundum accidens nominantur: ut album dicitur multum, non idcirco quod albedo sit quantitas sed quoniam multa sit
+superfieies, in quo illud album sit. Si enim multum spatium fuerit in quo album sit, multum erit album; quocirca non
+quoniam ipsa albedo per se aliquam quantitatem habet sed quoniam in aliqua quantitate est constituta, id est in
+superficie, idcirco secundum superficiem quod est quantitas quas scilicet per se multa est, album multum dicitur, non
+secundum se, atque ideo album non per se, nec principaliter sed secundum accidens multum dicitur.
+[209D] Actio quoque ideo dicitur longa, quod multo tempore acta sit; multam uero aegritudinem idcirco
+dicimus, si eadem multo sit tempore; et motum multum idcirco, quod multo tempore factus sit, ut si quis multo tempore
+eurrat. Si quis uero multum cursum illum dicat esse qui sit uelocissimus, ille conuenienler sermone non utitur.
+Velocitas enim non quantitas sed potius qualitas est, quales enim secundum eam dicimur, id est ueloces, non quanti.
+Secundum quantitatem uero multum dicitur, hoc autem monstrat ipsa rerum definitio; si quis enim album multum
+monstrare desideret, et proprio termino rationis includere, illi dicendum est multum esse album quod in multa iaceat
+superficie, et motum [210A] atque actionem multam quae longo tempore perficiatur; quare quoniam ad proprias
+quantitates aspicientes, atque ad eas res caeteras referentes, quantitates uocamus, ut album ad superficiem quae uera est
+quantitas, et cursum, et aliquem motum atque actionem ad tempus, quod ipsum uere quantitas est reducimus, haec non
+per se quantitates sed per eas quae proprie quantitates dictae sunt nominantur. Quocirca quoniam quod per se non est,
+secundum accidens est, recte caetera omnia praeter ea quae superius in quantitate numerata sunt per accidens esse, non
+per se quantitates dicuntur. Solae igitur proprie et secundum se ipsae quantitates dicuntur, hae quae superius
+comprehensae sunt. Aliae uero per se quantitas non sunt sed (ut ipse ait) forte per [210B] accidens. Post diuisionem
+igitur continui atque discreti et habentis positionem partium et non habentis, et quae sunt per se principaliter, et rursus
+per accidens quantitates, solito more uiam inueniendi quantitatum proprietas ingreditur.
+QUANTITATIBUS VERO NIHIL EST CONTRARIUM (IN HIS ENIM QUAE DEFINITA SUNT
+MANIFESTUM EST QUONIAM NIHIL EST CONTRARIUM, UT BICUBITO VEL TRICUBITO VEL
+SUPERFICIEI VEL ALICUI TALIUM -- NIHIL ENIM EST CONTRARIUM), NISI MULTA PAUCIS DICAT QUIS
+ESSE CONTRARIA VEL MAGNUM MINORI. HORUM AUTEM NIHIL EST QUANTITAS SED AD ALIQUID;
+NIHIL ENIM PER SE IPSUM MAGNUM DICITUR VEL PARUUM SED AD ALIUD REFERTUR; NAM MONS
+QUIDEM PARUUS DICITUR, MILIUM VERO MAGNUM EO QUOD HOC QUIDEM SUI GENERIS MAIUS SIT,
+ILLUD VERO SUI GENERIS MINUS; [210C] ERGO AD ALIUD EST EORUM RELATIO; NAM, SI PER SE
+IPSUM PARURUM VEL MAGNUM DICERETUR, NUMQUAM MONS QUIDEM ALIQUANDO PARUUS,
+MILIUM VERO MAGNUM DICERETUR. RURSUS IN VICO QUIDEM PLURES HOMINES ESSE DICIMUS, IN
+
+

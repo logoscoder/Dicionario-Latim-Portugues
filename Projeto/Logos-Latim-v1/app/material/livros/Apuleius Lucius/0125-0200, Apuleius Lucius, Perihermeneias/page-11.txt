@@ -1,0 +1,48 @@
+sic defininut:
+Si ex duobus tertium quid colligitur, alterum eorum cum contrario
+illationis colligit contrarium reliquo.
+Veteres autem sic definierunt:
+Omnis conclusionis si sublata sit illatio, assumpta alterutra
+propositione tolli reliquam.
+Quae res inuenta est aduersus eos, qui concessis acceptionibus id,
+quod ex illis colligitur, impudenter recusant. Per hoc /210/ enim
+compelluntur ad impossibilia, dum ex eo, quod negant, contrarium aliquid
+inuenietur ei, quod ante concesserant. Porro contraria simul esse uera
+impossibile est. Ergo per impossibile compelluntur ad conclusionem.
+Nec frustra constituerunt dialectici eum modum uerum esse, cuius
+aduersum illationis cum alterutra acceptione tollit reliquam. At
+Stoici quidem tantum negatiua particula praeposita putant illationem
+recusari uel ex propositionibus alteram tolli, ut puta:
+Omnis
+
+Non omnis
+
+Quidam Non quidam
+Veteres uero et per alterutram, igitur bifariam, ut puta:
+Omnis
+
+Non omnis
+
+Quidam
+Fiunt igitur aduersus unamquamque conclusionem contrariae, quae
+opponantur, octo, quoniam utraque acceptio bifariam tollitur fiuntque
+conclusiones bis quaternae modo negatiua particula praeposita
+illationi modo alterutra illationis accepta. Exemplo sit primus
+indemonstrabilis:
+Omne iustum honestum,
+omne honestum bonum;
+omne igitur iustum bonum
+Qui hanc illationem negat concessis propositionibus necesse est dicat:
+Quoddam iustum non est bonum
+Huic si praeponas priorem ex duobus concessis:
+Omne iustum honestum
+fit illatio secundum sextum modum in tertia formula, ut:
+Quoddam igitur honestum non est bonum /211/
+quod repugnat secundae propositioni, quae concesserat:
+Omne honestum bonum
+Haec item omnino opposita conclusio est, si isdem manentibus
+aequipollentem eius inferas, ut:
+Non igitur omne honestum bonum
+11
+
+

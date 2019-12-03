@@ -1,0 +1,54 @@
+necessarium. Et hoc universaliter intelligendum est, tam de scientia quia, qua scitur aliquid per mediata, quam de
+scientia propter quid, qua scitur aliquid per immediata.
+Horum autem differentia posterius ostendetur.
+|+14 Lectio 14
+|#1 Postquam ostendit Philosophus quod demonstratio est de necessariis et ex necessariis, consequenter ostendit
+quod est de his, quae sunt per se et ex his, quae sunt per se. Et circa hoc tria facit: primo, ostendit quod
+demonstratio est de his, quae sunt per se, idest quod conclusiones demonstrationis sunt per se; secundo, movet
+dubitationem et solvit; ibi: et tamen opponet etc.; tertio, ostendit quod demonstratio est ex his, quae sunt per se,
+idest quod principia demonstrationis oportet per se esse; ibi: quoniam autem ex necessitate etc..
+|#2 Dicit igitur primo quod demonstrativa scientia non potest esse accidentium, quae non sunt per se, sicut
+determinatum est per se superius, scilicet quod accidens per se est in cuius definitione ponitur subiectum; sicut
+par aut impar est per se accidens numeri. Album autem animalis non est per se accidens: quia animal non ponitur
+in eius definitione. Quod autem de huiusmodi accidentibus, quae non sunt per se, non possit esse demonstratio,
+sic probat. Accidens, quod non est per se, contingit non inesse (de hoc enim accidente loquimur); si ergo
+demonstratio fieret de accidente, quod non est per se, sequeretur quod conclusio demonstrationis non esset
+necessaria: cuius contrarium supra ostensum est. Quod autem accidens, quod non est per se, non necessario insit,
+ex hoc potest haberi. Si enim aliquod accidens ex necessitate et semper insit subiecto, oportet quod causam
+habeat in subiecto, qua posita, non possit accidens non inesse. Quod quidem contingit dupliciter. Uno modo,
+quando ex principiis speciei accidens causatur; et tale accidens dicitur per se passio vel proprium. Alio modo
+quando accidens causatur ex principiis individui; et hoc est accidens inseparabile. Omne autem accidens, quod
+causatur ex principiis subiecti, si debeat definiri, oportet quod subiectum ponatur in sua definitione: nam
+unumquodque definitur ex propriis principiis; et sic oportet omne accidens, quod ex necessitate inest subiecto,
+esse accidens per se. Illa ergo quae non sunt per se, non ex necessitate insunt.
+|#3 Videtur autem quod Aristoteles utatur demonstratione circulari, quam supra improbavit.
+Ostenderat enim supra quod demonstratio necessariorum est ex hoc quod est eorum quae sunt per se; nunc autem
+e converso ostendit quod demonstratio est eorum quae sunt per se, quia est necessariorum.
+Sed dicendum quod supra Aristoteles non solum ostendit demonstrationem esse necessariorum propter hoc, quod
+est eorum quae sunt per se, sed ex definitione eius quod est scire; et hic fuit verus demonstrationis modus. Quod
+autem ostendit demonstrationem esse necessariorum propter hoc, quod est eorum quae sunt per se, non est vera
+demonstratio, sed est ostensio ad hominem, apud quem notum est quod demonstratio sit eorum quae sunt per se.
+|#4 Deinde cum dicit: et tamen opponet etc., movet dubitationem quamdam. Et circa hoc duo facit. Primo, ponit
+dubitationem dicens quod potest aliquis forte opponere: si conclusio, quae sequitur ex contingentibus vel ex his
+quae sunt per accidens, non est necessaria; quare de contingentibus fit interrogatio sive de his quae sunt per
+accidens, ut ex iis datis procedatur ad conclusionem, cum tamen in syllogismo requiratur quod conclusio ex
+necessitate accidat. Et quod interrogatio fiat de contingentibus vel ex his, quae sunt per accidens, manifestat per
+hoc quod subdit: nihil enim differt, si aliquis interrogatus contingentia, postea dicat conclusionem. Quasi dicat:
+ita potest inferri conclusio ex contingentibus interrogatis et concessis, sicut ex necessariis: utrisque enim eadem
+forma syllogizandi est.
+|#5 Secundo; ibi: oportet autem etc., solvit dicens quod non ita interrogatur de praemissis contingentibus, quasi
+conclusio sit necessaria absolute propter interrogata, idest propter praemissa contingentia; sed quia necesse est
+dicenti praemissa conclusionem dicere, et dicere vera in conclusione, si vera sunt, quae praemissa sunt: quasi
+dicat quod licet ex praemissis contingentibus non sequatur conclusio necessaria necessitate absoluta, sequitur
+tamen secundum quod est ibi necessitas consequentiae, secundum quod conclusio sequitur ex praemissis.
+|#6 Deinde cum dicit: quoniam autem etc., ostendit quod demonstratio sit ex his, quae sunt per se, tali ratione.
+Demonstratio est ex necessariis et de necessariis. Et hoc ideo, quia est scientifica, idest faciens scire. Ea autem,
+quae non sunt per se, non sunt necessaria: sunt enim per accidens et huiusmodi non sunt necessaria, ut dictum
+est.
+Sed illa sunt ex necessitate circa unumquodque genus, quaecunque sunt per se et conveniunt unicuique
+secundum quod unumquodque est.
+Relinquitur ergo quod demonstratio non possit esse nisi ex his, quae sunt per se et de talibus.
+
+22
+
+

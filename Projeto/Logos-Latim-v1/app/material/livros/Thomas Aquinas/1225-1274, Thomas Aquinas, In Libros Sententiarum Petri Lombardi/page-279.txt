@@ -1,0 +1,62 @@
+Hic est triplex quaestio. Prima de comparatione essentiae ad personam. Secunda de appropriatione quae in littera
+ponitur. Tertia de his quae translative de Deo dicuntur.
+Circa primum quaeruntur tria: 1 utrum essentia sit persona; 2 utrum possit dici, quod tres personae sint unius
+essentiae.
+|a1 Articulus 1: Utrum persona et essentia in divinis sint idem.
+AG1
+Ad primum sic proceditur. Videtur quod persona et essentia in divinis non sunt idem. Omnis enim persona vel
+hypostasis in divinis aut est generans, vel genita, vel procedens. Sed essentia non est hujusmodi, ut supra, dist. 5,
+quaest. 1, art. 1, dictum est. Ergo etc..
+AG2
+Praeterea, affirmatio et negatio nunquam verificantur de eodem. Verificantur autem de essentia et persona; quia
+essentia non est distincta, persona est distincta. Ergo persona et essentia non sunt idem.
+AG3
+Item, omnis persona vel hypostasis est suppositum alicujus naturae. Sed idem non potest sibi ipsi supponi. Ergo
+persona et essentia non sunt idem.
+AG4
+Praeterea, omne proprium se habet ex additione ad commune. Sed essentia est communis, persona autem est
+proprium. Ergo persona se habet ex additione ad essentiam. Non igitur sunt omnino idem.
+AG5
+Item, nulla duo uniuntur in eo quod omnino idem est utrique; quia jam in nullo distingui possent. Sed duae
+personae, ut pater et filius, uniuntur in essentia. Ergo essentia non omnino idem est utrique personae.
+SC1
+Contra, per boetium, in divinis idem est quo est et quod est. Sed essentia significatur ut quo est, persona ut quod
+est. Ergo idem est essentia et persona.
+SC2
+Praeterea, si persona patris non est ipsa deitas qua Deus dicitur, pater dicetur Deus participatione alicujus
+naturae. Sed illud cujus participatione aliquid denominatur, est majus et perfectius, quantum ad illud genus
+secundum quod denominatur, quam ipsum participans, ut supra habitum est, 22 dist., et dionysius etiam dicit,
+quod participationes excedunt ipsa participantia.
+Ergo sequeretur quod aliquid quod non est pater, scilicet ipsa divinitas, esset majus et perfectius patre; quod est
+inconveniens. Ergo oportet quod essentia et persona sint omnino idem.
+SC3
+Praeterea, sequeretur, si essentia esset alia res a tribus personis, quod essent quatuor res in divinis: quod est
+haereticum.
+CO
+Respondeo dicendum, quod persona et essentia omnino re in divinis non distinguuntur.
+In illis enim in quibus aliud est essentia quam hypostasis vel suppositum, oportet quod sit aliquid materiale, per
+quod natura communis individuetur et determinetur ad hoc singulare. Unde illam determinationem materiae vel
+alicujus quod loco materiae se habet, addit in creaturis hypostasis supra essentiam et naturam; unde non omnino
+ista in creaturis idem sunt. In Deo autem non est natura ipsius subsistens per aliquod ad quod determinatur sicut
+per materiam; sed per seipsam est subsistens, et ipsum suum esse subsistens est; unde natura est ipsum quod
+subsistit, et esse in quo subsistit: et propter hoc in Deo omnino idem est quo est et quod est. Unde oportet quod
+omnino idem sint re essentia et persona, etiam si poneretur quod proprietates non essent essentia: quia personae
+non habent quod sint personae ex hoc quod subsunt proprietatibus, sed ex hoc quod subsunt essentiae; quia
+persona dicit individuum subsistens in genere substantiae. Unde magis est inconveniens ponere differentiam
+secundum rem inter essentiam et personam, quam inter essentiam et proprietatem. Nihilominus tamen essentia et
+persona distinguuntur secundum rationem, cui tamen ratio veritatis rei pro fundamento substat. Cum enim in
+Deo sit summa simplicitas et summa perfectio, utroque modo possumus Deum significare; scilicet quantum ad
+simplicitatem per nomina abstracta, et quantum ad perfectionem per nomina concreta, quae significant aliquid
+subsistens.
+Item, in divinis invenimus aliquid commune secundum rem, et aliquid proprium. Sic ergo ratio personae duo
+includit in divinis: nomine enim personae significatur Deus ut subsistens, et ut proprium; sed nomine essentiae
+significatur simpliciter, non autem ut subsistens, et significatur ut commune; sed nomine paternitatis non
+significatur ut subsistens, sed ut proprium, non quidem ut distinctum, sed ut distinguens. Et sic patet quod
+persona re ab essentia et proprietate non differt, sed secundum rationem tantum, per quam utrumque significatur
+ut formale respectu personae, quantum ad duo quae sunt de intellectu personae: quia essentia significatur ut
+forma ejus, inquantum est subsistens; et proprietas ut forma ejus, inquantum est proprium vel incommunicabile.
+RA1
+
+279
+
+

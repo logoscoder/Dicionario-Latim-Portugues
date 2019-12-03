@@ -1,0 +1,61 @@
+Quoniam igitur aliae propositiones praedicatiuae sunt aliae conditionales, praedicatiuarum partes terminos
+appellamus: hi sunt praedicatus et subiectus. Terminos autem uerba uoco et nomina quibus propositio nectitur, ut in ea
+propositione qua dicimus:
+Homo iustus est
+haec duo nomina, id est iustus et homo, propositionis partes uocamus; eosdem etiam terminos dicimus,
+quorum alter subiectus est alter praedicatus. Subiectus est terminus qui minor est, praedicatus uero qui maior, ut in ea
+propositione qua dicitur:
+Homo iustus est
+[1175C] homo quidem minus est quam iustus. Non enim in solo homine esse potest iustitia, uerum etiam in
+corporeis diuinisque substantiis. Atque ideo maior est terminus iustus, homo uero minor, quo fit ut homo quidem
+subiectus terminus sit, iustus uero praedicatus.
+Quoniam uero huiusmodi simplices propositiones alterum habent praedicatum terminum alterum subiectum
+terminum, a maioris priuilegio propositio praedicatiua uocata est. Saepe autem euenit ut hi termini sibi inuicem
+inueniantur aequales hoc modo:
+Homo risibile est
+homo namque et risibile uterque sibi subiectus aequus est terminus; nam neque risibile ultra hominem, nec
+ultra risibile homo porrigitur. Sed in his necesse est hoc uenire, ut si quidem inaequales termini sint, maior semper de
+[1175D] subiecto praedicetur; si uero aequales, uterque conuersa praedicatione de se dicatur; ut uero minor de maiori
+praedicetur, in nulla propositione contingit.
+Fieri autem potest ut propositionum partes quas terminos dicimus, non solum in nominibus uerum in
+orationibus inueniantur. Nam saepe oratio de oratione praedicatur, hoc modo:
+Socrates cum Platone et discipulis de philosophiae ratione pertractat
+Haec quippe oratio quae est "Socrates cum Platone et discipulis"
+subiecta est. Illa uero "de philosophiae ratione pertractat"
+praedicatur. Rursus aliquando nomen subiectum est, oratio praedicatum, hoc modo:
+Socrates de philosophiae ratione pertractat
+hic enim "Socrates" subiectus solus est; oratio qua dicimus "de [1176A] philosophias ratione pertractat"
+praedicatum. Euenit etiam ut supponatur oratio, et simplex uocabulum praedicetur, hoc modo:
+Socratis similitudo cum supernis diuinisque substantiis iustitia est
+hic enim oratio per quam profertur "Socratis similitudo cum supernis diuinisque substantiis" subiicitur,
+"iustitia" uero praedicatur. Sed de huiusmodi propositionibus in his commentariis qui in Perihermeneias Aristolelis
+libro conscripsimus diligentius disseruimus.
+Conditionalium uero propositionum, quas Graeci hypotheticas uocant partes, sunt simplices propositiones,
+cuius quidem ea pars quae prius dicitur antecedens, quae posterius consequens appellatur, ut in hac propositione quae
+dicit:
+Si rotundum est, uolubile est
+rotundum esse antecedit, uolubile esse consequitur.
+[1176B] Harum quoque aliae sunt simplices conditionales aliae coniunctae.
+Simplices sunt quae praedicatiuas habent propositiones in partibus, ut in ea quam superius diximus:
+Si rotundum est, uolubile est
+Rotundum est enim est uolubile est, utraque diuisae ac sigillatim acceptae praedicatiuae sunt.
+Coniunctarum uero multiplex differentia, de quibus in his uoluminibus diligentissime perstrinximus, qua de
+hypotheticis composuimus syllogismis.
+Simplicium uero hypotheticarum propositionum quattuor sunt differentiae: aut enim ex duabus affirmatiuis
+categoricis constant, ut:
+Si rotundum est, uolubile est
+utraque enim affirmatiua est; aut negatiuis duabus, ut:
+Si caelum rotundum non est, uolubile non est
+nam rotundum non esse, et uolubile non esse, utraeque [1176C]
+negationes sunt; aut ex affirmatiua et negatiua, ut:
+Si quadratum est, uolubile non est
+quadratum enim esse affirmatio est, uolubile non esse, negatio est; aut ex negatiua et affirmatiua, ut:
+Si rotundum non est, stabile est
+rotundum non esse negatio est, stabile uero esse affirmatio.
+Propositionum quoque aliae sunt per se notae, et quarum probatio nequeat inueniri, aliae quas, tametsi animus
+audientis probet eisque consentiat, tamen possunt aliis superioribus approbari. Et illae quidem quarum nulla probatio
+est, maximae ac principales uocantur, quod his illas necesse est approbari, quae ut demonstrari ualeant, non recusant.
+Est autem maxima propositio, ut haec:
+Si de aequalibus aequalia demas, quae de relinquuntur aequalia sunt
+
+

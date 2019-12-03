@@ -1,0 +1,61 @@
+|a3 Articulus 3: Utrum fides sit in voluntate sicut in subjecto.
+Articulus 3A
+AG1
+Ad tertium sic proceditur. Videtur quod fides sit in voluntate sicut in subjecto. Quia, secundum Hugonem de
+sanct. Vict., fides habet in cogitatione materiam, sed in affectu substantiam. Sed illud est subjectum accidentis
+ubi est sua essentia quae substantia dicitur. Ergo fides est in affectu sicut in subjecto.
+AG2
+Praeterea, sicut certitudo scientiae est ex intellectu, ita certitudo fidei est ex voluntate: quia credere non potest
+homo, nisi velit, ut dicit Augustinus.
+Sed subjectum scientiae est intellectus. Ergo eadem ratione subjectum fidei est voluntas.
+AG3
+Praeterea, meritum in voluntate consistit.
+Sed actus fidei est meritorius. Ergo est actus voluntatis.
+AG4
+Praeterea, opposita sunt circa idem. Sed infidelitas est in voluntate, quia secundum quod est in intellectu, habet
+ignorantiam, quae non est peccatum, sed excusat. Ergo fides est in voluntate.
+SC1
+Sed contra, objectum habitus concordat objecto potentiae, quae est ejus subjectum. Sed objectum fidei est verum,
+quod est objectum intellectus; non autem bonum quod est objectum voluntatis.
+Ergo subjectum fidei non est voluntas sed intellectus.
+SC2
+Praeterea, ad eamdem vim pertinet fides et id quod fidei succedit in gloria. Sed id quod fidei succedit, scilicet
+visio, pertinet ad intellectum. Ergo et fides.
+CO
+Respondeo dicendum ad primam quaestionem, quod voluntas importat actum intellectus sicut et actum irascibilis
+et concupiscibilis. Ad hoc autem quod actus irascibilis et concupiscibilis sit perfectus, oportet quod non solum sit
+aliquis habitus in voluntate vel ratione imperante, sed etiam quod sit aliquis habitus in irascibili et concupiscibili
+exequente, ut faciliter actum exequatur; unde et oportet aliquem habitum esse in intellectu ad hoc quod voluntati
+faciliter obediat in his quae sunt supra rationem; et hoc est habitus fidei; et ideo subjectum fidei est intellectus.
+RA1
+Ad primum ergo dicendum, quod substantia non sumitur ibi pro essentia, sed pro forma. Fidei autem forma
+quodammodo est caritas, ut infra patebit, quae in voluntate est.
+RA2
+Ad secundum dicendum, quod scientia et intellectus habent certitudinem per id quod ad cognitionem pertinet,
+scilicet evidentiam ejus cui assentitur; fides autem habet certitudinem ab eo quod est extra genus cognitionis, in
+genere affectionis existens; et ideo scientia et intellectus est sicut in subjecto in eo a quo habet certitudinem, non
+autem fides.
+RA3
+Ad tertium dicendum, quod meritum consistit in voluntate sicut in causa, inquantum ipsa semper importat actum
+meritorium; non autem semper in ipsa est sicut in subjecto: quia actus meritorius quandoque elicitur ab aliis
+potentiis.
+RA4
+Ad quartum dicendum, quod infidelitas est etiam in intellectu sicut in subjecto; in voluntate autem sicut in
+imperante infidelitatis actum ut est, actus infidelitatis demeritorius.
+Articulus 3B
+AG1
+Ulterius. Videtur quod pertineat ad intellectum practicum. Sicut enim dicit Philosophus in 3 de anima, intellectus
+speculativus nihil dicit de fugiendo vel amabili. Sed per fidem instruimur quid vitare debeamus. Ergo fides est in
+intellectu practico.
+AG2
+Praeterea, intellectus speculativus proportionaliter respondet imaginationi, sicut intellectus practicus
+aestimationi, quae est in parte sensitiva.
+Sed imaginatio non facit confidentiam et terrorem, ut dicitur in 2 de anima, immo per eam nos habemus ad
+terribilia ac si essemus in pictura considerantes. Ergo nec intellectus speculativus.
+Sed fides est principium spei et facit tremorem: quia Daemones credunt et contremiscunt, ut dicitur Jacob. 1.
+Ergo fides non est in intellectu speculativo.
+AG3
+
+1102
+
+

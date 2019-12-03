@@ -1,0 +1,55 @@
+per syllogismum expositorium 'Deus est Deus trinus et unus; Deus est aliquid quod scitur a philosophis esse
+immortale; ergo aliquid quod scitur a philosophis esse immortale, est Deus trinus et unus'. Praemissae sunt uerae,
+ergo conclusio. Et ultra, similiter sequitur 'Deus scitur a philosophis esse immortalis; Deus est trinus et unus;
+igitur Deus trinus et unus scitur a philosophis esse immortalis'. Sic igitur patet euidenter ueritas propositionis
+acceptae et bonitas conuersionis.
+Similiter ista 'intellectus cognoscitur esse anima intellectiua' non conuertitur in istam 'igitur anima
+intellectiua cognoscitur esse intellectus'; sed in istam 'igitur aliquid quod cognoscitur esse anima intellectiua, est
+intellectus'.
+Similiter ista 'intellectus cognoscitur esse anima intellectiua' non conuertitur in istam 'igitur anima
+intellectiua cognoscitur esse intellectus'; sed in istam 'igitur aliquid quod cognoscitur esse anima intellectiua, est
+intellectus'.
+Similiter ista 'aliquis ueniens cognoscitur a te esse Coriscus' non conuertitur in istam 'ergo Coriscus
+cognoscitur a te esse ueniens', sed in istam 'aliquis, qui cognoscitur a te esse Coriscus, est ueniens'.
+Similiter ista 'aliquis ueniens cognoscitur a te esse Coriscus' non conuertitur in istam 'ergo Coriscus
+cognoscitur a te esse ueniens', sed in istam 'aliquis, qui cognoscitur a te esse Coriscus, est ueniens'.
+Similiter ista 'aliquis homo per se est animal' non conuertitur in istam
+'aliquod animal per se est homo', sed in istam 'aliquid, quod per se est animal, est homo'. Similiter ista
+'album per se aedificat' conuertitur in istam 'aliquid, quod per se aedificat, est album'.
+'aliquod animal per se est homo', sed in istam 'aliquid, quod per se est animal, est homo'. Similiter ista
+'album per se aedificat' conuertitur in istam 'aliquid, quod per se aedificat, est album'.
+Similiter ista 'Deus per accidens est creans' non conuertitur in istam
+'aliquid creans per accidens est Deus', sed in istam 'aliquid, quod per accidens creat, est Deus'.
+'aliquid creans per accidens est Deus', sed in istam 'aliquid, quod per accidens creat, est Deus'.
+Et sicut dictum est de istis, ita dicendum est de aliis, quod talis propositio conuertitur uel sicut
+propositio de necessario uel de possibili uel de impossibili uel de contingenti.
+Et sicut dictum est de istis, ita dicendum est de aliis, quod talis propositio conuertitur uel sicut
+propositio de necessario uel de possibili uel de impossibili uel de contingenti.
+Et forte ista fuit causa quare Philosophus specialem tractatum de talibus propositionibus et
+proprietatibus earum et conuersionibus non fecit, quia ex illis quae scienda sunt circa propositiones de
+necessario, de cantingenti, de possibili et impossibili et quibusdam paucis, potest faciliter sciri quid sentiendum
+sit de aliis modalibus et proprietatibus earum. Quarum tamen ignorantia, sicut ignorantia propositionum et
+proprietatum earum, facit multos modernos errare et intricari in theologia et in aliis scientiis particularibus, tam
+speculatiuis quam practicis.
+Et forte ista fuit causa quare Philosophus specialem tractatum de talibus propositionibus et
+proprietatibus earum et conuersionibus non fecit, quia ex illis quae scienda sunt circa propositiones de
+necessario, de cantingenti, de possibili et impossibili et quibusdam paucis, potest faciliter sciri quid sentiendum
+sit de aliis modalibus et proprietatibus earum. Quarum tamen ignorantia, sicut ignorantia propositionum et
+proprietatum earum, facit multos modernos errare et intricari in theologia et in aliis scientiis particularibus, tam
+speculatiuis quam practicis.
+Ad euidentiam autem conuersionum omnium modalium propositionum sciendum est quod communiter
+propositiones modales in sensu diuisionis et eis aequiualentes similiter conuertuntur sicut illae de inesse in
+quibus aliqua aduerbialis determinatio additur uerbo. Nam sicut in illis aduerbialis determinatio et ei aequiualens
+non est addenda eodem modo compositioni in conuertente et conuersa, sed in conuertente debet poni praecise a
+parte subiecti, sicut dictum est, ita modus in consequente debet poni totaliter a parte subiecti, sicut
+exemplificatum est.
+Ad euidentiam autem conuersionum omnium modalium propositionum sciendum est quod communiter
+propositiones modales in sensu diuisionis et eis aequiualentes similiter conuertuntur sicut illae de inesse in
+quibus aliqua aduerbialis determinatio additur uerbo. Nam sicut in illis aduerbialis determinatio et ei aequiualens
+non est addenda eodem modo compositioni in conuertente et conuersa, sed in conuertente debet poni praecise a
+parte subiecti, sicut dictum est, ita modus in consequente debet poni totaliter a parte subiecti, sicut
+exemplificatum est.
+[2.30 DE PROPOSITIONIBUS HYPOTHETICIS ET PROPRIETATIBUS EARUM]
+206
+
+

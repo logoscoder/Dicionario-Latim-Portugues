@@ -1,0 +1,59 @@
+alicuius principii. Et haec etiam tria inveniuntur in actibus rationis. Est enim aliquis rationis processus
+necessitatem inducens, in quo non est possibile esse veritatis defectum; et per huiusmodi rationis processum
+scientiae certitudo acquiritur. Est autem alius rationis processus, in quo ut in pluribus verum concluditur, non
+tamen necessitatem habens. Tertius vero rationis processus est, in quo ratio a vero deficit propter alicuius
+principii defectum; quod in ratiocinando erat observandum.
+|#6 Pars autem logicae, quae primo deservit processui, pars iudicativa dicitur, eo quod iudicium est cum
+certitudine scientiae. Et quia iudicium certum de effectibus haberi non potest nisi resolvendo in prima principia,
+ideo pars haec analytica vocatur, idest resolutoria. Certitudo autem iudicii, quae per resolutionem habetur, est,
+vel ex ipsa forma syllogismi tantum, et ad hoc ordinatur liber priorum analyticorum, qui est de syllogismo
+simpliciter; vel etiam cum hoc ex materia, quia sumuntur propositiones per se et necessariae, et ad hoc ordinatur
+liber posteriorum analyticorum, qui est de syllogismo demonstrativo.
+Secundo autem rationis processui deservit alia pars logicae, quae dicitur inventiva. Nam inventio non semper est
+cum certitudine. Unde de his, quae inventa sunt, iudicium requiritur, ad hoc quod certitudo habeatur. Sicut autem
+in rebus naturalibus, in his quae ut in pluribus agunt, gradus quidam attenditur (quia quanto virtus naturae est
+fortior, tanto rarius deficit a suo effectu), ita et in processu rationis, qui non est cum omnimoda certitudine,
+gradus aliquis invenitur, secundum quod magis et minus ad perfectam certitudinem acceditur. Per huiusmodi
+enim processum, quandoque quidem, etsi non fiat scientia, fit tamen fides vel opinio propter probabilitatem
+propositionum, ex quibus proceditur: quia ratio totaliter declinat in unam partem contradictionis, licet cum
+formidine alterius, et ad hoc ordinatur topica sive dialectica. Nam syllogismus dialecticus ex probabilibus est, de
+quo agit Aristoteles in libro topicorum.
+Quandoque vero, non fit complete fides vel opinio, sed suspicio quaedam, quia non totaliter declinatur ad unam
+partem contradictionis, licet magis inclinetur in hanc quam in illam. Et ad hoc ordinatur rhetorica. Quandoque
+vero sola existimatio declinat in aliquam partem contradictionis propter aliquam repraesentationem, ad modum
+quo fit homini abominatio alicuius cibi, si repraesentetur ei sub similitudine alicuius abominabilis.
+Et ad hoc ordinatur poetica; nam poetae est inducere ad aliquod virtuosum per aliquam decentem
+repraesentationem. Omnia autem haec ad rationalem philosophiam pertinent: inducere enim ex uno in aliud
+rationis est.
+Tertio autem processui rationis deservit pars logicae, quae dicitur sophistica, de qua agit Aristoteles in libro
+elenchorum.
+|#7 Aliis igitur partibus logicae praetermissis, ad praesens intendendum est circa partem iudicativam, prout
+traditur in libro posteriorum analyticorum.
+Qui dividitur in partes duas: in prima, ostendit necessitatem demonstrativi syllogismi, de quo est iste liber; in
+secunda, de ipso syllogismo demonstrativo determinat; ibi: scire autem opinamur etc..
+|#8 Necessitas autem cuiuslibet rei ordinatae ad finem ex suo fine sumitur; finis autem demonstrativi syllogismi
+est acquisitio scientiae; unde, si scientia acquiri non posset per syllogismum vel argumentum, nulla esset
+necessitas demonstrativi syllogismi. Posuit autem Plato quod scientia in nobis non causatur ex syllogismo, sed
+ex impressione formarum idealium in animas nostras, ex quibus etiam effluere dicebat formas naturales in rebus
+naturalibus, quas ponebat esse participationes quasdam formarum a materia separatarum.
+Ex quo sequebatur quod agentia naturalia non causabant formas in rebus inferioribus, sed solum materiam
+praeparabant ad participandum formas separatas. Et similiter ponebat quod per studium et exercitium non
+causatur in nobis scientia; sed tantum removentur impedimenta, et reducitur homo quasi in memoriam eorum,
+quae naturaliter scit ex impressione formarum separatarum.
+Sententia autem Aristotelis est contraria quantum ad utrumque. Ponit enim quod formae naturales reducuntur in
+actum a formis quae sunt in materia, scilicet a formis naturalium agentium. Et similiter ponit quod scientia fit in
+nobis actu per aliquam scientiam in nobis praeexistentem. Et hoc est fieri in nobis scientiam per syllogismum aut
+argumentum quodcumque. Nam ex uno in aliud argumentando procedimus.
+|#9 Ad ostendendum igitur necessitatem demonstrativi syllogismi, praemittit Aristoteles quod cognitio in nobis
+acquiritur ex aliqua cognitione praeexistenti. Duo igitur facit: primo, ostendit propositum; secundo, docet
+modum praecognitionis; ibi: dupliciter autem etc.. Circa primum duo facit. Primo, inducit universalem
+propositionem propositum continentem, scilicet quod acceptio cognitionis in nobis fit ex aliqua praeexistenti
+cognitione. Et ideo dicit: omnis doctrina et omnis disciplina, non autem omnis cognitio, quia non omnis cognitio
+ex priori cognitione dependet: esset enim in infinitum abire. Omnis autem disciplinae acceptio ex praeexistenti
+cognitione fit.
+Nomen autem doctrinae et disciplinae ad cognitionis acquisitionem pertinet. Nam doctrina est actio eius, qui
+aliquid cognoscere facit; disciplina autem est receptio cognitionis ab alio. Non autem accipitur hic doctrina et
+disciplina secundum quod se habent ad acquisitionem scientiae tantum, sed ad acquisitionem cognitionis
+2
+
+

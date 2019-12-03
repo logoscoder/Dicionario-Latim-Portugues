@@ -1,0 +1,57 @@
+Postquam de coniunctione definitionum atque nominum quantum ad praesens attinebat opus, sufficienter
+exposuit quoniam de primis nominibus prima [169A] rerum genera significantibus diuisio facienda est, non nomine sed
+genere discrepantibus, nunc ostendit quid sit sine complexione cuiuslibet uocabuli facta prolatio. Sine complexione
+enim dicuntur quaecumque secundum simplicem sonum nominis proferuntur, ut homo, equus: his enim extra nihil
+adiunctum est. Secundum complexionem dicuntur quaecumque aliqua coniunctione copulantur, ut aut Socrates aut
+Plato, uel quaecumque secundum aliquod accidens coniunguntur. Nam quia, uerbi gratia, in Socratem uenit ambulatio,
+dicimus: Socrates ambulat, et est prolatio ista secundum complexionem, idcirco quia cum dico:
+Socrates ambulat
+Socratem sum cum ambulatione complexus. Quod autem ait: EORUM QUAE DICUNTUR, nihil aliud
+demonstrare uult nisi de primis rerum [169B] uocabulis huius libelli disposuisse tractatum. Rerum enim uocabula sunt
+quae dicuntur, ipsa enim proprie nominamus.
+
+EORUM QUAE SUNT ALIA DE SUBIECTO QUODAM DICUNTUR, IN SUBIECTO VERO NULLO SUNT,
+UT HOMO DE SUBIECTO QUIDEM DICITUR ALIQUO HOMINE, IN SUBIECTO VERO NULLO EST.
+[169C]
+Hic Aristoteles sermonum omnium multitudinem in paruissimam colligit diuisionem. Nam quod rerum
+uocabulam decem praedicamenta distribuit, maior hac diuisione non potest inueniri, nihil enim esse poterit quod huic
+diuisioni undecimum adiici queat. Omnis enim res aut substantia est, aut quantitas, aut qualitas, aut ad aliquid, aut
+facere, aut pati, aut quando, [169D] aut ubi, aut habere, aut situs; quocirca tot erunt etiam sermones qui ista significent,
+et haec est maxima diuisio, cui ultra nihil possit adiungi: paruissima uero est quae fit in quattuor, in substantiam et
+accidens, et uniuersale et particulare. Omnis enim res aut substantia est, aut accidens, aut uniuersalis, aut particularis.
+Sicut ergo decem superioribus nihil addi poterat, ita ex his quattuor nihil demi. Nam neque minor ulla diuisio his
+quattuor fieri potest, nec maior quam si denario limite praedicamenta claudantur. Cum autem in his quattuor diuisio
+facta est, paucis exponam.
+Prima quidem rerum est omnium diuisio in substantiam atque accidens. Sed quoniam substantia proferri non
+potest nisi aut uniuersaliter [170A] aut particulariter intelligatur: nam cum dico homo, rem dixi uniuersalem, idcirco
+quod nomen hoc de multis indiuiduis praedicatur: cum uero dico Socrates uel Plato, rem dixi particularem; quoniam
+Socrates de nudo subiecto dicitur: et accidens quoque eodem modo; nam cum dixero scientiam, rem protuli
+uniuersalem, idcirco quod scientia et de grammatica et de rhetorica, et de aliis omnibus sub se positis praedicatur; si
+uero dixero Platonis scientiam, quoniam omne accidens quod indiuidua uenit indiuiduum fit, particularem scientiam
+dico, namque Platonis scientia, sicut ipse Plato, particularis est: igitur quoniam neque substantia neque accidens ullo
+modo proferri potest, nisi in suo nomine aut uniuersalitatis uim, aut particularitatis induat, recte in quattuor diuisio
+[170B] facta est, ut si omnis res aut substantia aut accidens, et horum aut uniuersali, aut particularis.
+Ex his igitur quattuor fiunt complexiones. Nam cum uenerit uniuersalitas in substantiam, fit uniuersalis
+substantia, ut est homo uel animal. Uniuersale autem est quod aptum est de pluribus praedicari, particulare uero quod
+de nullo subiecto praedicatur. Ergo est una complexio uniuersalitatis et substantiae, ut sit substantia uniuersalis. Si uero
+particularis substantiae copulatur, fit substantia particularis, ut est Socrates uel Plato, et quidquid in substantia
+indiuiduum reperitur. At cum miscetur uniuersalitas accidenti, fit accidens uniuersale, ut scientia, quae cum sit
+accidens, et praeter animam cui accidit esse non possit, tamen uniuersalis est, quod de subiecta grammatica uel aliis
+[170C] speciebus praedicari potest. Cum uero particularitas accidenti coniungitur, fit accidens particulare, ut Platonis
+uel Aristotelis scientia. Fiunt enim quattuor complexiones, substantia uniuersalis, substantia particularis, accidens
+uniuersale, accidens particulare. Ut autem accidens in substantiae naturam transeat, uel substantia in accidens, fieri
+nullo modo potest, et accidens quidem uenit in substantiam sed non ut substantia fiat: neque enim quoniam color, quod
+est accidens uenit in substantiam, idcirco color iam substantia est. Nec quoniam substantia suscipit colorem idcirco
+color iam substantia fit. Quare neque substantia in accidentis, neque accidens in substantiis naturam transit. At uero nec
+particularitas, nec uniuersalitas in se transeunt. Namque uniuersalitas potest [170D] de particularitate praedicari, ut
+animal de Socrate uel Platone, et particularitas suscipiet uniuersalitatis praedicationem sed non ut uniuersalitas sit
+particularitas, nec rursus ut quod particulare est uniuersalitas fiat. Ergo quattuor complexiones, uniuersalem
+substantiam, uniuersale accidens, particularem substantiam, particulare accidens Aristoteles disponere cupiens, non
+eorum nomina sed descriptiones apposuit.
+Et quoniam generalissimorum generum definitiones non poterat inuenire, descriptionibus usus est his, id
+substantiam esse dicens quod in subiecto non esset, accidens uero quod in subiecto esset. Omne namque accidens in
+subiecto est, ut colore in corpore, scientia in anima, et subiectam habet [171A] substantiam omne accidens. Si quis
+enim substantiam tollat, accidens non erit. Quare substantia locus quidam est ubi accidentis ualeat natura consistere.
+Ipsa uero substantia per se constat, atque ideo dicitur substantia, nec ullo subiecto alio nititur sed cunctis ipsa substantia
+
+

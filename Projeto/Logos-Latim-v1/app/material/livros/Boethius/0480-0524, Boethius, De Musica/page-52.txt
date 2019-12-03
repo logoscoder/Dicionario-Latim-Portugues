@@ -1,0 +1,39 @@
+[1299] [PLLXIII:1299-1300; text: Enharmonicum, Ratio sesquitertia totum tetrachordum. Diatessaron ex
+quatuor neruis, Proportio sesquiquarta, diuide enim 1512 per 4, et prouenient 378, quae si adieceris 1512, producuntur
+1890. Proportio sesquitricesima-quinta, quod patet si diuidantur 1890 per 35, et quod uenit id quotiente addas ad 1890.
+Proportio sesquiuicesima-septima patet hic diuidendo 1944 per 27, et addendo ei 27. 2016, Diatonicum, Diatessaron ex
+quatuor chordis, Proportio sesquioctaua, diuide enim 1512 per 8, et prouenient tibi 189, quae adde 1512, et erunt 1701.
+Proportio sesquiprima, diuide enim 1701 per 7, et prouenient 243, quae dum adieceris 101, procreantur 1944. Proportio
+quae in enharmonio sesquiuicesima-septima. Chromaticum, Proportio hemitonii minoris superpartiens 180. Proportio
+superpartiens 152. Proportio quae in enharmonio et diatonico, scilicet sesqui-uicesima-septima. 1792, 1945] [1299]
+XVII
+Quemadmodum Ptolemaeus et Aristoxeni et Architae tetrachordorum diuisiones deprehendat.
+Sed utrasque tetrachordorum diuisiones Ptolemaeus ita reprehendit.
+Architam quidem primo, quoniam secundus ab acutissimo neruus chromatico genere, id est 1792, ita est
+collocatus, ut nec ad acutissimum 1512, nec ad proximum grauiori 1944, ullam superparticularem efficiat
+proportionem, cum Architas tantam superparticularibus comparationibus hahuit dignitatem, ut eas etiam in
+consonantiarum ratione susceperit. Dehinc quod primam a grauissimo neruo proportionem in chromatico quidem
+maiorem sensus deprehendat quam fecit Architas, hic namque in chromatico genere 1944 ad 2016distare fecit
+sesquiuicesimam septimam proportionem, cum secundum consuetam chromatici generis modulationem sesquiuicesima
+prima esse debuerit. Item enharmonium genus ea proportio, quam primam a grauissimo secundum Architae retinet
+diuisionem, talis est, ut longe minor esse debeat quam in caeteris generibus inuenitur; hic autem aequam eam caeteris
+generibus statuit, dum primas a graui proportione in tribus generibus sesquiuicesimas septimas ponit. Aristoxenum uero
+culpat, quoniam in chromate molli et in chromate hemiolio tales posuerit primas secundasque a graui neruo
+proportiones, quae a se a minimo et quantum sensus non possit internoscere distarent. Est quippe proportio prima in
+chromatis [1300] mollis, prima diuisione secundum Aristoxenum octo, at in chromate hemiolio nouem. Sed octo ad
+nouem unitatis differentia distant. Est autem tonus totus 24 unitatibus secundum positionem uel propositionem quorum
+unitas 24 est. Primae igitur a graui inter se proportiones chromatis mollis, et chromatis hemiolii 24 parte toni distant,
+quod propter breuitatem differentiae nullo modo sentit auditus. Idem etiam Aristoxenum reprehendit cur diatonici
+generis duas tantum fecerit diuisiones, ut in molle incitatumque diuideret, cum possint aliae quoque diatonici generis
+species inueniri.
+XVIII
+Quemadmodum tetrachordum diuisionem fieri dicat oportere.
+Ptolemaeus tetrachordo diuersa ratione partitur, illud in principio statuens, ut inter duos altrinsecus sonos tales
+uoculae aptentur, quae se superparticularibus proportionibus excedant, inaequalibus tamen, quoniam superparticularis
+proportio non potest in aequa diuidi. Dehinc ut omnis comparatio, quae fit ad eum neruum qui est grauissimus, in tribus
+minor sit caeteris, quae acutis uocibus coniunguntur. Sed in his ea quae spissa nominamus talia esse debent, ut duae
+proportiones, quae grauitati sunt proximae, minores sint ea proportione quae relinquuntur ad acutum, in non spissis
+uero ut in diatonicis generibus nusquam una.
+This text fits in with PL 63: 1167-1300
+
+

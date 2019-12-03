@@ -1,0 +1,63 @@
+AG2
+Praeterea, contingit quod aliquis faciat aliquid parvum, intendens magnum facere; sicut aliquis dans obolum, si
+intendat habere tantam mercedem, sicut si daret centum marchas. Non autem sequitur quod tantum bonum faciat,
+quantum est finis quem intendit. Ergo ex fine non mensuratur rectitudo voluntatis.
+AG3
+Praeterea, omnia bonum appetunt, ut dicitur in 1 ethic.. Si igitur voluntas dicenda est recta ex voluntate finis,
+omnis voluntas erit bona.
+AG4
+Praeterea, ad hoc quod aliquid bonum dicatur, oportet quod omnia perficientia rem in bonitate concurrant: quia
+bonum est ex una et tota causa, ut dionysius dicit.
+Sed bonitas actus causatur ex habitu, ex circumstantiis, et ex fine. Ergo non potest sufficienter ex fine judicari
+voluntatis rectitudo.
+AG5
+Praeterea, ex eodem judicatur rectitudo alicujus actus ex quo mensuratur bonitas ejus. Sed bonitas actus,
+praecipue quae est in virtute merendi, mensuratur ex radice, quae est habitus actum eliciens.
+Ergo rectitudo voluntatis potius judicatur ex habitu, qui est principium actus, quam ex fine.
+SC1
+Sed contra, omnis motus recipit speciem ex termino. Sed terminus actus voluntatis est finis.
+Ergo ex bonitate finis judicandus est bonus actus voluntatis.
+SC2
+Praeterea, actus recipit speciem a forma agentis; unde secundum diversas formas diversificantur actiones in
+specie, sicut calefacere et infrigidare.
+Sed forma voluntatis est finis, quod est appetibile, sicut intelligibile est forma intellectus. Ergo secundum
+bonitatem et malitiam finis, dicitur actus voluntatis bonus et malus.
+CO
+Respondeo dicendum, quod actus voluntatis potest ferri in finem dupliciter. Vel immediate in ipsum finem; et sic
+actus voluntatis manifeste bonitatem et malitiam ex fine habet; quia velle bonum finem, est bonum; et velle
+malum finem, est malum; bonitas enim finis non dependet ulterius ex aliquo alio, sicut bonitas ejus quod est ad
+finem, dependet ex fine: et talis actus proprie dicitur voluntas finis, ut velle beatitudinem. Alio modo fertur actus
+in finem mediante eo quod est ad finem; et hoc proprie dicitur intendere finem; et tunc distinguendum est: quia
+in malis absolute dicendum est, quod actus habet malitiam ex fine: quia si finis intentus est malus, voluntas mala
+est, quantumcumque sit bonum illud quod ad talem finem ordinatur; eo quod unus particularis defectus sufficit
+ad malitiam: in bonis autem distinguendum est; quia aut loquimur de fine volentis, aut de fine actus voluntatis; et
+dicitur finis volentis quem volens sibi praestituit: et tunc non sequitur, si finis est bonus, quod voluntas sit bona;
+quia potest esse id quod est volitum, malum, et unum tantum sufficit ad malitiam voluntatis, sive finis sive
+volitum sit malum: et quamvis uno modo sit idem actus voluntatis qui fertur in finem et in id quod est ad finem,
+tamen intentio nominat illum actum, secundum ordinem actus ad finem; sed voluntas nominat actum eumdem,
+secundum ordinem ad objectum proximum, quod in finem ordinatur: et ideo in tali casu voluntas est mala, sed
+intentio bona. Finis autem dicitur ad quem actus proportionatus est; et ita etiam si finis est bonus, et actus bonus;
+quia actus malus non est proportionatus ad finem bonum. Unde dicit Philosophus in 6 ethic., de his qui per malos
+actus bonos fines consequi intendunt, quod quaerunt sortiri finem inconvenienti medio; sicut enim non quaelibet
+materia est disposita ad quamlibet formam, nec quodlibet instrumentum ad quemlibet effectum, nec quodlibet
+medium ad quamlibet conclusionem; ita nec quilibet actus ad quemlibet finem.
+RA1
+Ad primum ergo dicendum, quod quando aliquis vult malum propter bonum, illud bonum non est finis actus
+voluntatis, secundum se considerati, sed est finis a volente inordinate praestitutus.
+RA2
+Et hoc etiam modo dicendum est ad secundum; quia in malis simpliciter tenet, quod quantum malum quis
+intendit, tantum peccat; in bonis autem non tenet si intelligatur de fine volentis, sed solum si intelligatur de fine
+actus.
+RA3
+Ad tertium ergo dicendum, quod quamvis omnis voluntas bonum appetat, non tamen appetit semper quod est
+vere sibi bonum, sed id quod est apparens bonum; et quamvis omnis homo beatitudinem appetat, non tamen
+quaerit eam in eo ubi est vera beatitudo, sed ubi non est; et ideo nititur ad eam pervenire non per rectam viam: et
+propter hoc non oportet quod omnis voluntas sit bona.
+RA4
+Ad quartum dicendum, quod ex circumstantiis dicitur actus bonus, secundum quod circumstantiae faciunt actum
+proportionatum ad finem debitum; et ideo principaliter bonitas actus ex fine pendet.
+RA5
+
+753
+
+

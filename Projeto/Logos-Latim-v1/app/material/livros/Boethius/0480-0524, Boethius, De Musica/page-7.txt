@@ -1,0 +1,62 @@
+quatuor, interuallorum trium. Constat autem ex duobus tonis, et non integro semitonio. Sit enim subiecta descriptio
+192, 216, 243, 256, Si igitur 192 numerus, 256 comparetur, sesquitertia proportio fiet, ac diatessaron concinentiam
+resonabit. Sed si 216 ad 192 comparemus, [1182] sesquioctaua proportio est; est enim eorum differentia 24, quae est
+octaua pars, 192 est igitur tonus. Rursus si 243 ad 216 comparetur, erit altera sesquioctaua proportio. Nam eorum
+differentia 27, pars 216, probatur octaua, restat comparatio 256 ad 243, quorum differentia est 13. Qui octies facti,
+medietatem 243 non uidentur implere. Non est igitur semitonium sed minus a semitonio. Tunc enim integrum esse
+semitonium iure putaretur, si eorum differentia, quae est 13 facta octies, medietatem 243 numerorum potuisset aequare.
+Estque uerum semitonium minus 243 ad 256 comparatio.
+[PLLXIII:1182,1; text: Diatessaron, Differentia 64, Sesquitertia, Differentia 51, Differentia 40, Tonus,
+Semitonium, Differentia 24, Differentia 27, Differentia 13, 192, 216, 243, 256] [BOEDIM1 03GF]
+XVIII
+Diatessaron a diapente tono distare.
+Rursus diapente consonantia, uocum quidem est quinque interuallorum quatuor, trium tonorum, et minore
+semitonio. Ponatur enim idem numerus 192, et eius sesquialter sumatur, qui ad eum diapente faciat consonantiam. Sit
+igitur numerus 288. Igitur horum et superius deprehensorum 192, ponantur in medio numeri hi 216, 243, 256, et sit hoc
+modo formata descriptio, 192, 216, 243, 256, 288.
+[PLLXIII:1182,2; text: Diapente, Differentia 96, Sesquialtera, Differentia 51, Differentia 45, Tonus,
+Semitonium, Differentia 24, Differentia 27, Differentia 13, Differentia 32, 192, 216, 243, 256, 288] [BOEDIM1 03GF]
+In superiore igitur descriptione, 192 et 256 duos tonos et semitonium contineri monstrati sunt. Restat igitur
+comparatio 256 ad 288, quae est sesquioctaua, id est tonus, eorumque differentia est 32, quae est octaua pars 256.
+Itaque monstrata est diapente consonantia ex tribus tonis semitonioque constare. Sed dubium diatessaron consonantia a
+centum nonaginta duobus numeris usque ad 256 uenerat. Nunc uero diapente ab eisdem 192 numeris usque ad 288
+distenditur. Superatur igitur diatessaron consonantia a [1183] diapente, ea proportione quae inter 256 et 288 numeros
+continetur, at est hic tonus. Diatessaron igitur symphonia a diapente tono transcenditur.
+XIX
+Diapason quinque tonis et duobus semitoniis iungi.
+Diapason consonantia constat ex quinque tonis et duobus semitoniis, quae tamen unum non impleant tonum.
+Quoniam enim monstratum est diapason ex diapente et diatessaron consistere, diatessaron uero probata est ex duobus
+tonis et semitonio constare; diapente ex tribus tonis ac semitonio simul iuncta efficiunt quinque tonos. Sed quoniam illa
+duo semitonia non erant integrae medietatis, eorum coniunctio ad plenum usque non peruenit. Sed medietatem quidem
+superat, ab integritate relinquitur. Estque diapason secundum hanc rationem ex quinque tonis et duobus semitoniis.
+Quae sicut ad integrum tonum non aspirant, ita ultra integrum semitonium prodeunt. Sed quae horum sit ratio, uel
+quemadmodum ipsae musicae consonantiae reperiantur, postea liquidius explanabitur. Interea praesenti disputationi sub
+mediocri intelligentia credulitatis adhibenda est: tunc uero firma omnis fides sumenda est, cum propria unum quodque
+demonstratione claruerit. His igitur ita dispositis paulisper de cytharae neruis, ac de eorum nominibus, quoque modo
+sunt additi, disseramus, quaque eorum causa sit nominum. His enim primum ad notitiam uenientibus facile erit scientia,
+quae sequuntur, amplecti.
+XX
+De additione chordarum earumque nominibus.
+Simplicem principio fuisse musicam refert Nicomachus, adeo ut quatuor neruis tota constaret. Idque usque ad
+Orpheum durauit, ut primus quidem neruus et quartus diapason consonantiam resonarent. Medii uero ad se inuicem
+atque ad extremos diapente, ac diatessaron, ac tonum.
+Nihil uero in eis esset inconsonum, ad imitationem scilicet musicae mundanae, quae ex quatuor constat
+elementis. Cuius quadrichordi Mercurius dicitur inuentor.
+[PLLXIII:1183; text: Tetrachordum Mercurii, 6, c, Trite diezeugmenon, Diapente, 8, G, Lichanos meson.
+Diatessaron, 9, F, Parhypate meson. Tonus, 12, C, Parhypate hypaton. 1, 2, 3, 4, Diapason] [BOEDIM1 03GF]
+Quinta uero chordam post Chorebus Athylis filius adiunxit, qui fuit Lydorum rex. Hyagis uero Phryx sextum
+his apposuit neruum. Sed septimus neruus a Terpandro Lesbio adiunctus est, secundum septem scilicet planetarum
+similitudinem. Inque bis quae grauissima quidem erat, uocata est hypate, quasi maior atque honorabilior. Unde Iouem
+etiam Hypaton [1184] uocant. Consulem eodem quoque nuncupant nomine propter excellentiam dignitatis, eaque
+Saturno est attributa propter tarditatem motus et grauitatem soni. Parhypate uero secunda, quasi iuxta hypaten posita et
+collocata. Lichanos tertia idcirco, quoniam lichanos digitus dicitur, quem nos indicem uocamus. Graecus a lingendo
+lichanon appellat. Et quoniam in canendo ad eam chordam, quae erat tertia ab hypate, index digitus, qui est lichanos
+inueniebatur, idcirco ipsa quoque lichanos appellata est. Quarta dicitur mese, quoniam inter septem semper est media.
+Quinta est paramese, quasi iuxta mediam collocata. Septima autem dicitur nete, quasi neate, id est inferior. Inter quam
+neten et paramesen est sexta, quae uocatur paranete, quasi iuxta neten locata. Paramese uero quoniam tertia est a nete,
+eodem quoque uocabulo trite, id est tertia nuncupatur, ut sit descriptio haec.
+[PLLXIII:1184,1; text: Tetrachordum synemmenon iunctum, Mercurius, Synaphe, Chorebus, Lydorum rex,
+Atis filius, Hyagnis, Phryx, Terpander, Lesbius, 1, mi, Hypate, 2, fa, Parhypate, 3, sol, Lichanos, 4, la mi, Mese
+Synaphe, 5, Paramese, uel trite, 6, Paranete, 7, la, Nete, tetrachordum] [BOEDIM1 03GF]
+
+

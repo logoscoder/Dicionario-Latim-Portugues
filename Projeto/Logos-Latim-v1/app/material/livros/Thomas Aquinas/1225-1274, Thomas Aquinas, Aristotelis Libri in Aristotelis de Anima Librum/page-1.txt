@@ -1,0 +1,47 @@
+OPERA OMNIA
+SANCTI THOMAE AQUINATIS
+-----oOo----Textum electronicum praeparavit et indexavit
+Ricardo M. Rom n, S. R. E. Presbyterus
+Bonis Auris, MCMXCVIII
+
+|*ARISTOTELIS_LIBRI
+|*DE_ANIMA
+|*DE_ANIMA_I
+IN ARISTOTELIS DE ANIMA LIBRUM I
+|*DAN.1 : LIBER 1
+|+1 Lectio 1
+|#1 Sicut docet Philosophus in undecimo de animalibus, in quolibet genere rerum necesse est prius considerare
+communia et seorsum, et postea propria unicuique illius generis: quem quidem modum Aristoteles servat in
+philosophia prima. In metaphysicae enim primo tractat et considerat communia entis inquantum ens, postea vero
+considerat propria unicuique enti. Cuius ratio est, quia nisi hoc fieret, idem diceretur frequenter. Rerum autem
+animatarum omnium quoddam genus est; et ideo in consideratione rerum animatarum oportet prius considerare
+ea quae sunt communia omnibus animatis, postmodum vero illa quae sunt propria cuilibet rei animatae.
+Commune autem omnibus rebus animatis est anima: in hoc enim omnia animata conveniunt.
+Ad tradendum igitur de rebus animatis scientiam, necessarium fuit primo tradere scientiam de anima tamquam
+communem eis. Aristoteles ergo volens tradere scientiam de ipsis rebus animatis, primo tradit scientiam de
+anima, postmodum vero determinat de propriis singulis animatis in sequentibus libris.
+|#2 In tractatu autem de anima, quem habemus prae manibus, primo ponit prooemium, in quo facit tria quae
+necessaria sunt in quolibet prooemio. Qui enim facit prooemium tria intendit. Primo enim ut auditorem reddat
+benevolum. Secundo ut reddat docilem.
+Tertio ut reddat attentum. Benevolum quidem reddit, ostendendo utilitatem scientiae: docilem, praemittendo
+ordinem et distinctionem tractatus: attentum attestando difficultatem tractatus. Quae quidem tria Aristoteles facit
+in prooemio huius tractatus. Primo enim ostendit dignitatem huius scientiae. Secundo vero ordinem huius
+tractatus, quis sit, scilicet, et qualiter sit tractandum de anima, ibi, inquirimus autem. Tertio vero ostendit
+difficultatem huius scientiae, ibi, omnino autem et penitus, et difficillimorum etc.. Circa primum duo facit.
+Primo enim ostendit dignitatem huius scientiae. Secundo utilitatem eius, ibi, videtur autem et ad veritatem, etc..
+|#3 Circa primum sciendum est, quod omnis scientia bona est: et non solum bona, verum etiam honorabilis.
+Nihilominus tamen una scientia in hoc superexcellit aliam. Quod autem omnis scientia sit bona, patet; quia
+bonum rei est illud, secundum quod res habet esse perfectum: hoc enim unaquaeque res quaerit et desiderat. Cum
+igitur scientia sit perfectio hominis, inquantum homo, scientia est bonum hominis. Inter bona autem quaedam
+sunt laudabilia, illa scilicet quae sunt utilia in ordine ad finem aliquem: laudamus enim bonum equum, quia bene
+currit; quaedam vero sunt etiam honorabilia, illa scilicet quae sunt propter seipsa; honoramus enim fines. In
+scientiis autem quaedam sunt practicae, et quaedam speculativae: et hae differunt, quia practicae sunt propter
+opus, speculativae autem propter seipsas. Et ideo scientiarum, speculativae, et bonae sunt et honorabiles,
+practicae vero laudabiles tantum. Omnis ergo scientia speculativa bona est et honorabilis.
+|#4 Sed et in ipsis scientiis speculativis invenitur gradus quantum ad bonitatem et honorabilitatem.
+Scientia namque omnis ex actu laudatur: omnis autem actus laudatur ex duobus: ex obiecto et qualitate seu
+modo: sicut aedificare est melius quam facere lectum, quia obiectum aedificationis est melius lecto. In eodem
+
+1
+
+

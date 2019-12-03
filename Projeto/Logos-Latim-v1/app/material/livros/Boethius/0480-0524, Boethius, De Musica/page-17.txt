@@ -1,0 +1,62 @@
+Atque hic modus erit in caeteris, ut si sesquitertias proportiones uelis extendere, ponas sesquitertiorum radices,
+quae sunt quaternarius atque ternarius ad se inuicem comparati.
+34
+9 12 16
+27 27 48 64
+Atque ad hunc modum multiplices, quod si sesquiquartas sesquiquartorum dispones radices eademque
+multiplicatione sesquiquartos quotlibet extendes. Quantum autem nobis hae considerationes prosint, sequens ordo
+monstrabit.
+IX
+De proportione numerorum qui ab aliis metiuntur.
+Si duos numeros eorum differentia integre fuerit permensa, in eadem sunt proportione numeri, quos sua
+differentia mensa est, in qua erunt proportione etiam hi numeri secundum quos eos sua mensa est differentia. Sint enim
+numeri 50, 55; hi ergo ad se inuicem sesquidecima habitudine comparantur, et est eorum differentia quinarius, qui
+scilicet est pars decima numeri 50. Hic igitur metietur quidem 50 numerum decies, 55 uero undecies; secundum decem
+igitur atque 11 numeros 55 et 50 propria differentia, id est quinarius, permetietur, et sunt 11 ad 10 sesquidecima
+comparatione compositi. In eadem igitur sunt proportione numeri quos propria differentia integra permensa est, in qua
+sunt hi secundum quos eos propria differentia est permensa; quod si qua differentia numerorum ita eos numeros
+quorum est differentia metiatur, ut eamdem mensuram numerorum pluralitas excedat, idemque in utrisque sit excessus,
+et sit diminutior differentiae mensura, quam est pluralitas numerorum, maiorem obtinebunt proportionem ad se inuicem
+numeri, si ei illud quod relinquitur post mensionem, retractum sit, quam fuerunt integri, cum eos propria differentia
+metiebatur. Sint enim numeri duo 33, 58; hos igitur quinarius, qui est eorum differentia, metiatur. Metitur igitur 55
+quinarius decies usque ad 50, relinquit uero ternarium. Rursus 58 numerum metitur idem undecies usque ad 55, atque
+in eo iterum ternarium derelinquit. Auferatur igitur ex utrisque ternarius, fiunt
+50 et 55, qui disponatur hoc modo:
+53 58 50 55
+In hoc igitur manifestum est maioris esse proportionis inter se 50 et 55 quam 53 et 58. In minoribus enim
+numeris maior semper proportio reperitur, [1204] quod paulo posterius demonstrabimus. Sin uero illa differentiae
+permensio numerorum multitudinem superuadat, eademque utrosque numeri pluralitate praetereat, minores erunt
+proportiones numeri superius mensi cum additione eius summae quae utrosque metiens differentia superuadit, quam
+fuerunt ante, cum eos propria differentia metiebatur. Sint enim numeri 48 et 53, horum quinarius differentia est.
+Metiatur igitur 48 numerum, quinarius decies fiunt 50. Superuadit igitur 50 numerus 48 numerum binario, idem
+quinarius 53 undecies metiatur fiunt 55, qui eisdem rursus duobus 53 numerum superuadit; addatur utrisque binarius et
+disponantur hoc modo:
+48 53 50 55
+Minores igitur sunt proportiones 50 ad 55 comparati, cum additione scilicet binarii quo differentia eos metiens
+superuadit, quam 48, et 53 numeri quos eadem, quae tamen in eis supercreuit, quinarii differentia permensa est.
+Maiores uero et minores proportiones hoc modo intelliguntur. Dimidia pars maior est quam tertia. Tertia pars est maior
+quam quarta. Quarta pars maior est quam quinta, ac deinceps eodem modo. Unde fit ut sesquialtera proportio maior sit
+sesquitertia, et sesquitertia sesquiquartam uincat. Atque idem in caeteris. Hinc euenit ut in numeris maioribus minor, et
+minoribus maior semper uideatur proportio superparticularium numerorum. Quod apparet in numero naturali:
+disponatur enim numerus naturalis 1, 2, 3, 4.
+Binarius igitur ad unitatem duplus est. Ternarius ad binarium sesquialter est. Quaternarius uero ad ternarium
+sesquitertius. Maiores uero sunt numeri tres et 4. Minores uero binarius et unitas: in maioribus igitur minor, et in
+minoribus maior proportio continetur: hinc apparet quod si aliquid numeris proportionem continentibus
+superparticularem, aequa pluralitas addatur, maiorem esse proportionem ante aequae pluralitatis augmentum, quam
+posteaquam eis aequa sit addita pluralitas.
+X
+Quae ex multiplicibus et superparticularibus multiplicitate fiunt.
+Illud etiam praetermittendum non uidetur, quod paulo post demonstrabitur, si multiplex interuallum binario
+fuerit multiplicatum, id etiam quod ex illa multiplicatione nascetur multiplex esse. Quod si id quod ex tali
+multiplicatione procreatum sit non fuerit multiplex, tunc illud non esse multiplex, quod binario fuerit multiplicatum.
+Item si superparticularis proportio binario multiplicetur, id quod fit neque superparticulare esse, neque multiplex. Quod
+si id quod ex tali multiplicatione nascetur, neque multiplex, neque superparticulare est, tunc illud quod binario
+multiplicatum est, uel superparticularis uel alterius generis est, non uero multiplicis.
+[1205] XI
+Qui superparticulares quos multiplices efficiant.
+His illud est addendum duos primos superparticulares primam efficere multiplicem proportionem, ut
+sesquialter et sesquitertius si coniungantur duplicem creant. Sint enim numeri 2, 3, 4, 3 ad 2 sesquialter est, 4 ad 3
+sesquitertius, quatuor ad duo duplus. Rursus primus multiplex primo additus superparticulari secundum multiplicem
+creat. Sint enim numeri 2, 4, 6; 4 namque ad 2 duplex est, primus scilicet multiplex. At 6 ad 4 sesquialter, qui est
+
+

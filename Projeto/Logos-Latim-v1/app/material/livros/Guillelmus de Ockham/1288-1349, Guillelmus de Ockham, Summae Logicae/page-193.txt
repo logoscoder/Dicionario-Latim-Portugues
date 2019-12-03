@@ -1,0 +1,58 @@
+Similiter est de talibus 'nullum impossibile erit uerum'; si subiectum accipiatur pro eo quod est,
+conuertitur in unam de praesenti, scilicet sic
+'nullum impossibile erit uerum, igitur nihil quod erit uerum est impossibile'; si subiectum accipiatur pro
+eo quod erit, conuertitur sic
+'igitur nullum uerum erit impossibile', subiecto consequentis accepto pro eo quod erit.
+'igitur nullum uerum erit impossibile', subiecto consequentis accepto pro eo quod erit.
+Sciendum est etiam quod quando talis propositio de praeterito est uel de futuro, si subiectum sit
+terminus communis uel includens terminum cammunem cum pronomine demonstratiuo et praedicatum sit
+pronomen demonstratiuum sine addito uel nomen proprium, tunc si subiectum accipiatur pro eo quod est,
+conuertitur in illam de praesenti, sine omni alia uariatione. Sicut sequitur 'album erit Sortes, igitur Sortes est
+albus', sed non e conuerso est mutua canuersio, et hoc si sit possibile dare ultimum rei permanentis in esse.
+Similiter bene sequitur 'aliquod album fuit Sortes', subiecto accepto pro eo quod est, 'igitur Sortes est albus', sed
+non sequitur e conuerso, si sit dare primum rei permanentis in esse. Si autem subiectum accipiatur pro eo quod
+erit uel fuit, conuertitur absolute in illam de praeterito uel de futuro, et est mutua conuersio.
+Sciendum est etiam quod quando talis propositio de praeterito est uel de futuro, si subiectum sit
+terminus communis uel includens terminum cammunem cum pronomine demonstratiuo et praedicatum sit
+pronomen demonstratiuum sine addito uel nomen proprium, tunc si subiectum accipiatur pro eo quod est,
+conuertitur in illam de praesenti, sine omni alia uariatione. Sicut sequitur 'album erit Sortes, igitur Sortes est
+albus', sed non e conuerso est mutua canuersio, et hoc si sit possibile dare ultimum rei permanentis in esse.
+Similiter bene sequitur 'aliquod album fuit Sortes', subiecto accepto pro eo quod est, 'igitur Sortes est albus', sed
+non sequitur e conuerso, si sit dare primum rei permanentis in esse. Si autem subiectum accipiatur pro eo quod
+erit uel fuit, conuertitur absolute in illam de praeterito uel de futuro, et est mutua conuersio.
+[2.23 DE CONVERSIONE PROPOSITIONUM QUAE NON SUNT MERE CATEGORICAE,
+CUIUSMODI SUNT EXCLUSIVAE, REDUPLICATIVAE EXCEPTIVAE ET HUIUSMODI]
+CUIUSMODI SUNT EXCLUSIVAE, REDUPLICATIVAE EXCEPTIVAE ET HUIUSMODI]
+Ex praedictis in duobus praecedentibus capitulis potest aliqualiter patere conuersio propositionum
+reduplicatiuarum, exclusiuarum, exceptiuarum et aliarum in quibus panitur hoc uerbum 'incipit' uel 'desinit'. Nam
+propositio habens exponentes habet consimilem conuersionem cum suis exponentibus, et si omnes exponentes
+eodem modo conuertantur, illa exposita eodem modo conuertitur. Si autem una exponens conuertatur uno modo
+et alia alio modo, scilicet una simpliciter et alia per accidens, tunc habebit consimilem conuersionem cum
+conuersione unius et non cum canuersione alterius.
+Ex praedictis in duobus praecedentibus capitulis potest aliqualiter patere conuersio propositionum
+reduplicatiuarum, exclusiuarum, exceptiuarum et aliarum in quibus panitur hoc uerbum 'incipit' uel 'desinit'. Nam
+propositio habens exponentes habet consimilem conuersionem cum suis exponentibus, et si omnes exponentes
+eodem modo conuertantur, illa exposita eodem modo conuertitur. Si autem una exponens conuertatur uno modo
+et alia alio modo, scilicet una simpliciter et alia per accidens, tunc habebit consimilem conuersionem cum
+conuersione unius et non cum canuersione alterius.
+Tamen magis in speciali uidendum est de istis. Unde sciendum est quod propositio reduplicatiua non
+conuertitur in propositionem reduplicatiuam, sed conuertitur in unam non reduplicatiuam, cuius subiectum erit
+unum aggregatum ex praedicato prioris et illo super quod cadit reduplicatio, cum reduplicatione mediante hoc
+pronomine 'quod'. Sicut ista 'animal in quantum homo est risibile' conuertitur in istam 'aliquid, quod in quantum
+homo est risibile, est animal' et non in istam 'risibile, in quantum homo, est animal'. Instantia patet hic 'Sortes in
+quantum homo est risibilis, igitur risibile in quantum homo est Sortes', quia antecedens est uerum et consequens
+falsum. Similiter ista 'nullum actiuum in quantum passiuuni est actiuum' conuertitur in istam 'igitur nihil quod est
+actiuum in quantum passiuum, est actiuum'.
+Tamen magis in speciali uidendum est de istis. Unde sciendum est quod propositio reduplicatiua non
+conuertitur in propositionem reduplicatiuam, sed conuertitur in unam non reduplicatiuam, cuius subiectum erit
+unum aggregatum ex praedicato prioris et illo super quod cadit reduplicatio, cum reduplicatione mediante hoc
+pronomine 'quod'. Sicut ista 'animal in quantum homo est risibile' conuertitur in istam 'aliquid, quod in quantum
+homo est risibile, est animal' et non in istam 'risibile, in quantum homo, est animal'. Instantia patet hic 'Sortes in
+quantum homo est risibilis, igitur risibile in quantum homo est Sortes', quia antecedens est uerum et consequens
+falsum. Similiter ista 'nullum actiuum in quantum passiuuni est actiuum' conuertitur in istam 'igitur nihil quod est
+actiuum in quantum passiuum, est actiuum'.
+Similiter, proportionaliter, hic dictis et dictis in priori capitulo dicendum est de conuersione
+propositionum reduplicatiuarum de praeterito et de futuro.
+193
+
+

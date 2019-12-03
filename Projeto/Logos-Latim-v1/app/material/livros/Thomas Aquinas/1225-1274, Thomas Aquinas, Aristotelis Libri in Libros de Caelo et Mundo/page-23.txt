@@ -1,0 +1,59 @@
+|#4 Deinde cum dicit: siquidem qui modicum etc., assignat causam quare tanta diversitas ex hoc sequatur: quia
+scilicet qui modicum transgreditur a veritate circa principium, procedens in ulteriora fit magis longe a veritate
+decies millies. Et hoc ideo, quia omnia subsequentia dependent ex suis principiis. Et hoc maxime apparet in
+errore viarum: quia qui parum elongatur a recta via, postmodum procedens fit multum longe. Et ponit exemplum
+de eo quod dictum est, in his qui posuerunt aliquam minimam magnitudinem, sicut democritus posuit corpora
+indivisibilia: sic autem introducens aliquid minimum in quantitate, destruit maximas propositiones
+mathematicorum, puta quod lineam datam contingit secari in duo media. Et huius causa est, quia principium, etsi
+sit modicum magnitudine, est tamen magnum virtute, sicut ex modico semine producitur magna arbor: et inde est
+quod illud quod est modicum in principio, in fine multiplicatur, quia pertingit ad totum id ad quod se extendit
+virtus principii, sive hoc sit verum sive falsum. Infinitum autem habet rationem principii (omnes enim
+quicumque sunt locuti de infinito, posuerunt infinitum esse principium, ut dictum est in III physic.); et cum hoc
+habet maximam virtutem quantum ad quantitatem, quia excedit omnem quantitatem datam. Si igitur principium
+quod est minimum quantitate, facit magnam differentiam in sequentibus, multo magis infinitum, quod non solum
+excedit in virtute principii, sed etiam in quantitate. Et ideo neque inconveniens neque irrationabile est, si
+mirabilis differentia sequatur in scientia naturali ex eo quod sumitur aliquod corpus esse infinitum. Et ideo de
+hoc dicendum est, resumendo considerationem nostram a principio quod supra accepimus, de differentia
+simplicium corporum et compositorum.
+|#5 Deinde cum dicit: necesse itaque etc., ostendit quo ordine agendum sit. Et dicit quod necesse est omne
+corpus aut de numero simplicium esse aut de numero compositorum corporum: unde oportet quod etiam corpus
+infinitum aut sit simplex aut compositum. Iterum manifestum est quod, si corpora simplicia essent finita
+multitudine et magnitudine, necesse est quod compositum sit finitum et multitudine et magnitudine: tantam enim
+quantitatem habet corpus compositum, quanta est quantitas corporum simplicium ex quibus componitur.
+Ostensum est autem supra quod corpora simplicia sunt finita multitudine, quia non est aliquod corpus praeter
+praedicta. Restat igitur videre utrum aliquod corpus simplicium sit infinitum magnitudine, vel si hoc sit
+impossibile. Et hoc quidem ostendemus primo argumentantes de primo corporum, quod scilicet circulariter
+movetur; et sic intendemus ad reliqua corpora, quae scilicet moventur motu recto.
+|#6 Deinde cum dicit: quod quidem igitur etc., ostendit quod non sit corpus infinitum: et primo propriis
+rationibus de singulis corporibus; secundo tribus communibus rationibus de omnibus, ibi: quod quidem igitur
+non est infinitum corpus etc..
+Circa primum duo facit: primo ostendit propositum in corpore quod circulariter movetur; secundo in corporibus
+quae moventur motu recto, ibi: sed adhuc neque quod ad medium etc.. Circa primum duo facit. Primo proponit
+quod intendit: et dicit quod manifestum est ex his quae dicentur, quod necesse est omne corpus quod circulariter
+fertur, esse finitum (hoc enim est primum corporum)p
+|#7 Deinde cum dicit: si enim infinitum etc., probat propositum sex rationibus: quarum prima talis est. Si
+aliquod corpus est infinitum, non potest moveri circulariter; sed corpus primum movetur circulariter; ergo non
+est infinitum.
+Primo ergo probat conditionalem sic: quia si corpus quod circulariter fertur est infinitum, necesse est quod lineae
+rectae quae egrediuntur a centro ipsius, sint infinitae; protenduntur enim quamdiu durat corporis quantitas.
+Distantia autem quae est inter infinitas lineas, est infinita. Posset autem aliquis dicere quod, etiam si sint lineae
+infinitae a centro egredientes, tamen inter eas est aliqua distantia finita: quia omnis distantia mensuratur
+secundum lineam rectam, potest autem aliqua linea finita protrahi infra duas praedictas lineas, puta in
+propinquitate ad centrum. Sed manifestum est quod extra illam lineam poterit alia linea recta maior protrahi inter
+illas lineas de quibus primo loquebamur. Et ideo dicit quod non loquitur de distantia quam mensurant tales
+lineae; sed illam distantiam dicit esse infinitam, quae mensuratur per lineam extra quam non est sumere aliquam
+aliam lineam maiorem, quae tangat utramque primarum linearum. Et talem distantiam probat esse infinitam
+dupliciter.
+Primo quidem quia omnis talis distantia finita est inter lineas egredientes a centro finitas: oportet enim quod
+iidem sint termini linearum egredientium a centro, et lineae finitae mensurantis extremam distantiam inter eas.
+Secundo probat idem per hoc quod qualibet distantia data inter duas lineas mensuratas egredientes a centro, est
+accipere aliam maiorem, sicut quolibet numero dato est accipere maiorem: unde sicut est infinitum in numeris,
+ita est infinitum in tali distantia.
+Ex hoc sic argumentatur. Infinitum non est pertransire, ut probatum est in VI physic.; sed si corpus sit infinitum,
+necesse est quod distantia sit infinita inter lineas egredientes a centro, ut probatum est; ad hoc autem quod fiat
+motus circularis, oportet quod una linea egrediens a centro pertingat ad situm alterius; sic igitur nunquam
+contingeret aliquid circulariter moveri.
+
+23
+
+

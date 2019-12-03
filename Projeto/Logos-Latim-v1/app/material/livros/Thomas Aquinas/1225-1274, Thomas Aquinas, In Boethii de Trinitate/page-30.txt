@@ -1,0 +1,62 @@
+|#1 Articulus 1
+AG1
+Ad primum sic proceditur. Videtur quod pluralitatis causa non sit alteritas.
+Ut enim dicitur in arithmetica Boethii, omnia quaecumque a primaeva rerum natura constructa sunt, numerorum
+videntur ratione esse formata. Hoc enim fuit principale in animo conditoris exemplar.
+Et huic consonat quod dicitur Sap. 11: omnia in pondere, numero et mensura disposuisti. Ergo pluralitas sive
+numerus est primum inter res creatas, et non est eius aliqua causa creata quaerenda.
+AG2
+Praeterea, ut dicitur in libro de causis, prima rerum creatarum est esse. Sed ens primo dividitur per unum et
+multa. Ergo multitudine nihil potest esse prius nisi ens et unum. Ergo non videtur esse verum, quod aliquid aliud
+sit eius causa.
+AG3
+Praeterea, pluralitas vel circuit omnia genera, secundum quod condividitur contra unum, quod est convertibile
+cum ente, vel est in genere quantitatis, secundum quod condividitur uni quod est principium numeri. Sed alteritas
+est in genere relationis. Relationes autem non sunt causae quantitatum, sed magis e converso, et multo minus
+relationes sunt causae eius quod est in omnibus generibus, quia sic essent causae etiam substantiae. Ergo alteritas
+nullo modo est causa pluralitatis.
+AG4
+Praeterea, contrariorum contrariae sunt causae. Sed identitas et diversitas sive alteritas sunt opposita. Ergo
+habent oppositas causas.
+Sed unitas est causa identitatis, ut patet in V metaphysicae. Ergo pluralitas vel multitudo est causa diversitatis
+sive alteritatis. Non ergo alteritas est causa pluralitatis.
+AG5
+Praeterea, alteritatis principium est accidentalis differentia; huiusmodi enim differentiae secundum Porphyrium
+faciunt alterum.
+Sed non in omnibus, in quibus est pluralitas, invenitur accidentalis differentia nec etiam differentia
+qualiscumque. Quaedam enim sunt quae accidentibus subici non possunt, sicut formae simplices; quaedam vero
+sunt quae in nullo conveniunt, unde non possunt differentia dici, sed diversa, ut patet per Philosophum in X
+metaphysicae. Ergo non omnis pluralitatis causa est alteritas.
+SC1
+Sed contra est quod Damascenus dicit quod divisio est causa numeri. Sed divisio in diversitate vel alteritate
+consistit. Ergo diversitas vel alteritas principium pluralitatis est.
+SC2
+Praeterea, Isidorus dicit quod numerus dicitur quasi nutus, id est signum, memeris, id est divisionis. Et sic idem
+quod prius.
+SC3
+Praeterea, pluralitas non constituitur nisi per recessum ab unitate.
+Sed ab unitate non recedit aliquid nisi per divisionem, cum ex hoc aliquid dicatur unum, quod est indivisum, ut
+patet in X metaphysicae.
+Ergo divisio pluralitatem constituit, et sic idem quod prius.
+CO1
+Responsio. Dicendum quod, sicut dicit Philosophus in X metaphysicae, plurale dicitur aliquid ex hoc quod est
+divisibile vel divisum. Unde omne illud quod est causa divisionis oportet ponere causam pluralitatis.
+Causa autem divisionis aliter est accipienda in posterioribus et compositis et in primis et simplicibus. In
+posterioribus namque et compositis causa divisionis quasi formalis, id est ratione cuius fit divisio, est diversi
+simplicium et priorum. Quod patet in divisione quantitatis. Dividitur enim una pars lineae ab alia per hoc quod
+habet diversum situm, qui est quasi formalis differentia quantitatis continuae positionem habentis.
+Patet etiam in divisione substantiarum. Dividitur enim homo ab asino per hoc quod habent diversas differentias
+constitutivas. Sed diversitas, qua dividuntur posteriora composita secundum priora et simplicia, praesupponit
+pluralitatem priorum simplicium. Ex hoc enim homo et asinus habent diversas differentias, quod rationale et
+irrationale non sunt una, sed plures differentiae. Nec potest semper dici quod illius pluralitatis sit aliqua
+diversitas aliquorum priorum et simpliciorum causa, quia sic esset abire in infinitum.
+CO2
+Et ideo pluralitatis vel divisionis primorum et simplicium oportet alio modo causam assignare. Sunt enim
+huiusmodi secundum se ipsa divisa. Non potest autem hoc esse, quod ens dividatur ab ente in quantum est ens;
+nihil autem dividitur ab ente nisi non ens. Unde et ab hoc ente non dividitur hoc ens nisi per hoc quod in hoc ente
+includitur negatio illius entis. Unde in primis terminis propositiones negativae sunt immediatae, quasi negatio
+unius sit in intellectu alterius. Primum etiam creatum in hoc facit pluralitatem cum sua causa, quod non attingit
+ad eam. Et secundum hoc quidam posuerunt quodam ordine pluralitatem ab uno primo causari, ut ab uno primo
+30
+
+

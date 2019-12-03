@@ -1,0 +1,57 @@
+* 38.2.0. De bonis libertorum.
+* 38.3.0. De libertis universitatium.
+* 38.4.0. De adsignandis libertis.
+* 38.5.0. Si quid in fraudem patroni factum sit.
+* 38.6.0. Si tabulae testamenti nullae extabunt, unde liberi.
+* 38.7.0. Unde legitimi.
+* 38.8.0. Unde cognati.
+* 38.9.0. De successorio edicto.
+* 38.10.0. De gradibus et adfinibus et nominibus eorum.
+* 38.11.0. Unde vir et uxor.
+* 38.12.0. De veteranorum et militum successione.
+* 38.13.0. Quibus non competit bonorum possessio.
+* 38.14.0. Ut ex legibus senatusve consultis bonorum possessio detur.
+* 38.15.0. Quis ordo in possessionibus servetur.
+* 38.16.0. De suis et legitimis heredibus.
+* 38.17.0. Ad senatus consultum Tertullianum et Orphitianum.
+38.1.0. De operis libertorum.
+38.1.1
+Paulus libro singulari de variis lectionibus
+Operae sunt diurnum officium.
+38.1.2
+Ulpianus libro 38 ad edictum
+pr. Hoc edictum praetor proponit coartandae persecutionis libertatis causa impositorum: animadvertit enim rem istam
+libertatis causa impositorum praestationem ultra excrevisse, ut premeret atque oneraret libertinas personas.
+1. Initio igitur praetor pollicetur se iudicium operarum daturum in libertos et libertas.
+38.1.3
+Pomponius libro sexto ad Sabinum
+pr. Operas stipulatus ante peractum diem operam eius diei petere non potest.
+1. Nec pars operae per horas solvi potest, quia id est officii diurni. Itaque nec ei liberto, qui sex horis dumtaxat
+antemeridianis praesto fuisset, liberatio eius diei contingit.
+38.1.4
+Pomponius libro quarto ad Sabinum
+A duobus manumissus utrique operas promiserat: altero ex his mortuo nihil est, quare non filio eius, quamvis superstite
+altero, operarum detur petitio. Nec hoc quicquam commune habet cum hereditate aut bonorum possessione: perinde
+enim operae a libertis ac pecunia credita petitur. Haec ita Aristo scripsit, cuius sententiam puto veram: nam etiam
+praeteritarum operarum actionem dari heredi extraneo sine metu exceptionis placet. Dabitur igitur et vivo altero
+patrono.
+38.1.5
+Ulpianus libro 15 ad Sabinum
+Si quis operas sit stipulatus sibi liberisque suis, etiam ad postumos pervenit stipulatio.
+38.1.6
+Ulpianus libro 26 ad Sabinum
+Fabriles operae ceteraeque, quae quasi in pecuniae praestatione consistunt, ad heredem transeunt, officiales vero non
+transeunt.
+38.1.7
+Ulpianus libro 28 ad Sabinum
+pr. Ut iurisiurandi obligatio contrahatur, libertum esse oportet qui iuret et libertatis causa iurare.
+1. Plane quaeritur, si quis liberto suo legaverit, si filio suo iuraverit se decem operarum nomine praestaturum, an
+obligetur iurando. Et Celsus iuventius obligari eum ait parvique referre, quam ob causam de operis libertus iuraverit: et
+ego Celso adquiesco.
+2. Iurare autem debet post manumissionem, ut obligetur: et sive statim sive post tempus iuraverit, obligatur.
+3. Iurare autem debet operas donum munus se praestaturum, operas qualescumque, quae modo probe iure licito
+imponuntur.
+4. Rescriptum est a divo Hadriano et deinceps cessare operarum persecutionem adversus eum, qui ex causa
+fideicommissi ad libertatem perductus est.
+
+

@@ -1,0 +1,57 @@
+Non autem manifestantur nobis principia abstractorum, ex quibus demonstrationes in eis procedunt, nisi ex
+particularibus aliquibus, quae sensu percipimus. Puta ex hoc, quod videmus aliquod totum singulare sensibile,
+perducimur ad cognoscendum quid est totum et pars, et cognoscimus quod omne totum est maius sua parte,
+considerando hoc in pluribus. Sic igitur universalia, ex quibus demonstratio procedit, non fiunt nobis nota, nisi
+per inductionem.
+|#6 Homines autem carentes sensu aliquo non possunt inductionem facere de singularibus pertinentibus ad
+sensum illum, quia singularium, ex quibus procedit inductio, est solum cognitio sensus. Unde oportet quod
+omnino sint huiusmodi singularia ignota, quia non contingit quod aliquis carens sensu accipiat talium
+singularium scientiam; quia neque ex universalibus potest demonstrare sine inductione, per quam universalia
+cognoscuntur, ut dictum est; neque per inductionem potest aliquid cognosci sine sensu, qui est singularium, ex
+quibus procedit inductio.
+|#7 Est autem considerandum quod per verba Philosophi, quae hic inducuntur, excluditur duplex positio. Prima
+quidem est positio Platonis; qui ponebat quod nos habebamus scientiam de rebus per species participatas ab
+ideis. Quod si esset verum, universalia fierent nobis nota absque inductione; et ita possemus acquirere scientiam
+eorum, quorum sensum non habemus. Unde et hoc argumento utitur Aristoteles contra Platonem in fine I
+metaphysicae. Secunda est positio dicentium quod possumus in hac vita cognoscere substantias separatas,
+intelligendo quidditates earum; quae tamen per sensibilia quae cognoscimus, quae ab eis omnimode
+transcenduntur, cognosci non possunt. Unde, si ipsae cognoscerentur secundum suas essentias, sequeretur quod
+aliqua cognoscerentur absque inductione et sensu: quod Philosophus hic negat, etiam de abstractis.
+|+31 Lectio 31
+|#1 Postquam Philosophus determinavit de syllogismo demonstrativo, ostendens ex quibus et qualibus procedat,
+et in qua figura demonstrationes fieri possunt; hic inquirit utrum demonstrationes possint in infinitum procedere.
+Et primo, movet quaestionem; secundo, determinat eam; ibi: quod quidem igitur non contingit media etc.. Circa
+primum duo facit: primo, praemittit quaedam, quae sunt necessaria ad intellectum quaestionis; secundo, movet
+quaestionem; ibi: sit igitur c huiusmodi etc.. Circa primum duo facit: primo, praemittit de forma syllogistica,
+quam oportet in demonstrationibus observare; secundo, resumit qualis debeat esse demonstrationis materia; ibi:
+manifestum igitur est quod principia etc..
+|#2 Circa primum tria tangit. Quorum primum est commune omni syllogismo, scilicet quod omnis syllogismus
+est per tres terminos; ut manifestum est in libro priorum. Secundum autem pertinet ad syllogismum
+affirmativum; cuius forma est talis quod concludit a esse in c propter id, quod a est in b, et b est in c; et haec est
+forma syllogistica in prima figura, in qua sola potest concludi affirmativa universalis, quae maxime quaeritur in
+demonstrationibus. Tertium est quod pertinet ad syllogismum negativum, qui de necessitate unam propositionem
+habet affirmativam, aliam autem negativam; differenter tamen in prima figura et in secunda, ut patet per ea, quae
+in libro priorum ostensa sunt.
+|#3 Deinde cum dicit: manifestum igitur est etc., resumit quae sit materia demonstrationum. Et circa hoc tria
+facit: primo enim proponit demonstrationis materiam; secundo, ostendit differentiam huius materiae ad materiam
+syllogismi dialectici; ibi: secundum quidem igitur opinationem etc.; tertio, differentiam positam manifestat; ibi:
+habet autem sic se etc.. Dicit ergo primo quod, cum syllogismus habeat tres terminos, ex quibus formantur duae
+propositiones concludentes tertiam, manifestum est quod hae propositiones, ex quibus proceditur in syllogismo
+demonstrativo secundum formam praedictam, sunt principia et suppositiones, de quibus in praecedentibus
+dictum est. Qui enim accipit huiusmodi principia, sic demonstrat per ea, sicut expositum est in forma
+syllogistica, ut scilicet quia a sit in c probatur per b; et si propositio a.b sit iterum mediata, quod a sit in b
+demonstratur per aliud medium. Et simile est si propositio minor, scilicet b.c, sit mediata.
+|#4
+Deinde cum dicit: secundum quidem igitur etc., ostendit quantum ad praedicta differentiam inter
+syllogismum demonstrativum et syllogismum dialecticum. Quia enim syllogismus dialecticus ad hoc tendit, ut
+opinionem faciat, hoc solum est de intentione dialectici, ut procedat ex his, quae sunt maxime opinabilia, et haec
+sunt ea, quae videntur vel pluribus, vel maxime sapientibus. Et ideo si dialectico in syllogizando occurrat aliqua
+propositio, quae secundum rei veritatem habeat medium, per quod possit probari, sed tamen non videatur habere
+medium, sed propter sui probabilitatem videatur esse per se nota; hoc sufficit dialectico, nec inquirit aliud
+medium, licet propositio sit mediata, et, ex ea syllogizans, sufficienter perficit dialecticum syllogismum.
+Sed syllogismus demonstrativus ordinatur ad scientiam veritatis; et ideo ad demonstratorem pertinet, ut procedat
+ex his, quae sunt secundum rei veritatem immediata. Et si occurrat ei mediata propositio, necesse est quod probet
+eam per medium proprium, quousque deveniat ad immediata, nec est contentus probabilitate propositionis.
+47
+
+

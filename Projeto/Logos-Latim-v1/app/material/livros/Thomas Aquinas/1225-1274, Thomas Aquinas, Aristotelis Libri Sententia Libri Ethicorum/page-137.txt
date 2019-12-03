@@ -1,0 +1,55 @@
+inquantum scilicet constituit id quod est aequale inter partes: aequale autem medium est inter plus et minus, ut
+supra dictum est.
+|+7 Lectio 7
+|#1 Et quemadmodum linea etc..
+Postquam Philosophus ostendit differentiam inter iustum quod est directivum commutationum et iustum
+distributivum, hic ostendit qualiter accipiatur medium in hoc iusto, quod est directivum commutationum.
+Et circa hoc duo facit.
+Primo ostendit propositum. Secundo manifestat originem horum nominum damnum et lucrum quibus usus
+fuerat, ibi: venerunt autem et nomina haec etc..
+Circa primum duo facit. Primo ostendit quomodo inveniatur medium commutativae iustitiae circa easdem res.
+Secundo, quomodo inveniatur circa res diversarum artium, ibi, est autem et in aliis artibus etc..
+Circa primum duo facit. Primo inducit exemplum ad ostendendum qualiter accipiatur medium in commutativa
+iustitia. Secundo manifestat quod dixerat, ibi si enim duobus aequalibus etc..
+Circa primum duo facit. Primo proponit exemplum ad propositum ostendendum. Secundo ostendit
+convenientiam exempli ex ipso modo loquendi, ibi, propter quod, et nominatur etc..
+|#2 Dicit ergo primo quod ita iudex ad aequalitatem reducit, sicut si esset una linea divisa in partes inaequales,
+ille qui vellet ad aequalitatem reducere, auferret a maiori parte illud in quo excedit medietatem totius lineae et
+apponeret illud minori parti, ita quod medietas totius lineae esset quasi quaedam dica, id est regula vel mensura,
+per quam inaequalia reducerentur ad aequalitatem. Et sic quum totum quod est duorum hominum dividatur tali
+dica, id est mensura, tunc dicunt, quod unusquisque habet quod suum est, inquantum scilicet accipiunt aequale,
+quod est medium inter maius et minus, et hoc secundum arismeticam proportionalitatem, quia scilicet quantum
+medium iustitiae exceditur ab eo qui habebat plus, tantum excedit illum qui habet minus, quod pertinet ad
+proportionabilitatem arithmeticam, ut prius dictum est.
+|#3 Deinde cum dicit propter quod et nominatur etc., manifestat exemplum praemissum esse conveniens per
+modum loquendi apud Graecos. Et dicit, quod quia medium huius iustitiae est sicut quaedam dicha, inde est
+quod iustum apud Graecos, vocatur dicheon, sicut si aliquis volens huiusmodi nomina variare dicat quod dicaon
+est iustum et dicastes iustus et dicaste iustitia.
+|#4 Deinde cum dicit: si enim duobus etc., manifestat quod dixerat, scilicet quod oporteat subtrahere ab eo qui
+habet plus id in quo excedit medietatem, et apponere ei qui habet minus.
+Et primo manifestat quod dictum est. Secundo exponit in terminis, ibi: aequales in quibus etc..
+Dicit ergo primo quod si sint duo aequalia, quorum utrumque habeat duas mensuras, puta duas palmas, aut duos
+pedes, et medietas auferatur ab uno et apponatur alteri. Manifestum est quod illud cui apponitur superexcedit
+alterum in duobus: quia ei cui subtrahitur non remanet nisi unum, illud autem cui additur habet tria; sed si id
+quod subtrahitur ab uno non apponatur alteri, manifestum est quod non erit excessus nisi in uno.
+Per id autem cui nihil additur nec subtrahitur, intelligitur ipsum medium iustitiae, quia habet quod suum est et
+nec plus nec minus; per id autem cui additur intelligitur ille qui plus habet.
+Per id autem cui subtrahitur intelligitur ille qui minus habet.
+|#5 Sic ergo patet quod ille qui plus habet excedit medium in uno, quod scilicet est sibi superadditum, medium
+vero excedit id a quo ablatum est in uno, quod scilicet est sibi subtractum. Hoc ergo, scilicet medio,
+cognoscemus et quid oportet auferre ab eo qui plus habet et quid oportet apponere ei qui minus habet; quia illud
+oportet apponere minus habenti in quo medium excedit ipsum, hoc autem oportet auferre a maximo, id est ab eo
+qui plus habet, in quo medium superexceditur ab eo.
+|#6 Deinde cum dicit aequales in quibus etc., proponit quae dicta sunt in terminis. Sint enim tres lineae
+aequales, in quarum una scribatur in terminis aa, in alia bb, in tertia gg; linea ergo bb maneat figura indivisa,
+linea vero aa dividatur per medium in puncto e, linea vero gg dividatur per medium in puncto z. Auferatur ergo a
+linea quae est aa, una pars quae est ae, et apponatur lineae quae est gg et vocetur hoc appositum gd; sic ergo
+patet quod tota linea quae est dgg superexcedit eam quae est ae in duobus, scilicet in eo quod est gd, et in eo
+quod est gz, sed lineam quae est bb excedit in uno solo, quod est gd.
+Sic ergo patet quod id quod est maximum excedit medium in uno, minimum autem in duobus, ad modum
+arismeticae proportionalitatis.
+|#7 Deinde cum dicit: est autem et in aliis etc., ostendit quod illud quod dictum est, observari oportet etiam in
+commutatione diversarum artium.
+137
+
+

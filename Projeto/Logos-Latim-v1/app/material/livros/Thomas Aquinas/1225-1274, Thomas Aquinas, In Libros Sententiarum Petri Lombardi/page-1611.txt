@@ -1,0 +1,62 @@
+Item, videtur quod sit in irascibili. Quia poenitentia est quaedam vindicta dolentis. Sed vindicta pertinet ad
+irascibilem, quia ira est appetitus vindictae. Ergo poenitentia est in irascibili.
+AG4
+Item, videtur quod sit in memoria. Quia sicut timor est de futuro, et gaudium de praesenti, ita memoria de
+praeterito. Sed poenitentia est de malo commisso, quod est praeteritum. Ergo est in memoria.
+AG5
+Item, videtur quod sit in ratione. Quia poenitentia est pars justitiae. Sed justitia est in ratione.
+Ergo et poenitentia.
+CO
+Respondeo dicendum ad primam quaestionem, quod quidam dicunt, subjectum omnis virtutis esse liberum
+arbitrium. Sed hoc non potest esse; quia omnis actus humanus ordinatus elicitive procedit ab aliqua virtute
+humana; quaelibet autem potentia humana habet aliquem actum ordinatum (et dico potentiam humanam
+rationem, vel quae rationi obediat); et ideo in omni tali potentia potest esse virtus, quae eliciat ordinatum actum
+illius potentiae; et de hoc in 3 Lib., dist. 33, qu. 2, art. 4, quaestiunc. 1, plura dicta sunt.
+Et ideo quidam dicunt, quod poenitentia est in omnibus viribus. Sed hoc non potest esse; quia unus habitus non
+potest esse nisi unius potentiae, sicut una forma nisi unius materiae, et unum accidens non nisi unius subjecti.
+Et ideo alii dicunt, quod est in irascibili; quia, ut dicit Augustinus, est vindicta quaedam quam appetit ira.
+Sed hoc non potest esse; quia vindictam expetere de altero, quod arduitatem habet, ad irascibilem pertinet; sed
+vindictam pati non videtur esse irascibilis.
+Et ideo quidam dicunt, quod poenitentia est dolor, et propter hoc est in concupiscibili. Sed hoc etiam non valet;
+quia ille dolor qui est in concupiscibili, est passio; dolor autem qui est actus poenitentiae, non est passio.
+Et ideo dicendum cum aliis, quod poenitentia est pars justitiae; et ideo, cum justitia sit in ratione, non quidem
+quantum ad partem cognitivam, sed quantum ad affectivam; et poenitentia in ratione est, inquantum est virtus;
+sed poenitentia quae est passio, est in concupiscibili sicut in subjecto, quia est dolor quidam. Sed haec passio est
+quasi materiale in poenitentia virtute, quia poenitentia virtus hunc dolorem recompensat pro peccatis commissis;
+sicut et poena quam patitur reus, est materiale in vindicativa justitia.
+RA1
+Ad primum ergo dicendum, quod poenitentia non expellit omne peccatum formaliter, sed quasi active; unde non
+oportet quod sit ut in subjecto in qualibet VI ubi potest esse peccatum; sed quod ea quae sunt in illis virtutibus,
+subjiciantur ei quasi materialia; et hoc poenitentia habet, inquantum est in ratione, cui omnes aliae vires
+subduntur quasi ab ipsa motae et regulatae.
+RA2
+Ad secundum dicendum, quod dolor qui est in concupiscibili, non est actus poenitentiae virtutis, sed materiale, ut
+dictum est; sed dolor qui est detestatio culpae commissae, est actus ejus; et hoc est voluntatis, in qua est justitia,
+cujus actus est detestari inaequalitatem praeexistentem, et eam ad aequalitatem reducere.
+RA3
+Ad tertium dicendum, quod exhibitio vindictae est materialis in poenitentia, sicut etiam in justitia vindicativa;
+non enim exhibet vindictam ex appetitu vindictae, sed ad aequalitatem restituendam.
+RA4
+Ad quartum dicendum, quod quamvis poenitentia sit de praeterito, sicut memoria, tamen respicit affectum;
+memoria autem est potentia pure cognoscitiva; et ideo in ea non potest esse poenitentia.
+RA5
+Quintum concedimus.
+Articulus 3B
+AG1
+Ulterius. Videtur quod in innocentibus poenitentia esse non possit. Quia poenitere est commissa mala plangere.
+Sed innocentes nullum malum commiserunt. Ergo in eis poenitentia non est.
+AG2
+Praeterea, poenitentia ex suo nomine importat poenam. Sed innocentibus non debetur poena.
+Ergo non est in eis poenitentia.
+AG3
+Praeterea, poenitentia in idem coincidit cum vindicativa justitia, ut supra dictum est. Sed omnibus existentibus
+innocentibus, vindicativa justitia locum non haberet. Ergo nec poenitentia; et ita non est in innocentibus.
+SC1
+Sed contra, omnes virtutes simul infunduntur.
+Sed poenitentia est virtus. Cum ergo innocentibus in baptismo infundantur aliae virtutes; infunditur etiam
+poenitentia.
+SC2
+
+1611
+
+

@@ -1,0 +1,66 @@
+velocius transibit in minori tempore. Et sic semper procedetur, accipiendo
+post motum velocioris aliquod mobile tardius, et post tardius iterum
+velocius; et utendo eo quod demonstratum est, scilicet quod velocius
+pertranseat aequale in minori tempore, et tardius in aequali tempore
+minorem magnitudinem.
+Sic enim accipiendo id quod est velocius, dividemus tempus; et accipiendo
+id quod est tardius, dividemus magnitudinem.
+Si ergo hoc verum est, quod semper possit talis conversio fieri, procedendo
+a velociori in tardius et a tardiori in velocius; et facta tali conversione
+semper fit divisio magnitudinis et temporis; manifestum erit quod omne
+tempus est continuum, idest divisibile in semper divisibilia, et similiter
+omnis magnitudo; quia per easdem et aequales divisiones dividitur tempus et
+magnitudo, ut ostensum est.
+|#11
+Deinde cum dicit: amplius autem et ex consuetis etc., ponit tertiam
+rationem ad ostendendum quod magnitudo et tempus similiter dividuntur, ex
+consideratione unius et eiusdem mobilis.
+Et dicit quod manifestum est etiam per rationes quae consueverunt dici,
+quod si tempus est continuum, idest divisibile in semper divisibilia, quod
+et magnitudo eodem modo continua est: quia unum et idem mobile regulariter
+motum, sicut in toto tempore pertransit totam magnitudinem, ita in medio
+tempore medium magnitudinis, et universaliter in minori tempore minorem
+magnitudinem. Et hoc ideo contingit, quia similiter dividitur tempus sicut
+et magnitudo.
+|+4
+
+Lectio 4
+
+|#1
+Postquam ostendit quod magnitudo et tempus similiter dividuntur, hic
+ostendit quod finitum etiam et infinitum similiter inveniuntur in
+magnitudine et tempore.
+Et circa hoc tria facit: primo ponit propositum; secundo ex hoc solvit
+dubitationem, ibi: unde et zenonis ratio etc.; tertio probat propositum,
+ibi: neque iam infinitum etc..
+|#2
+Dicit ergo primo, quod si quodcumque horum duorum, scilicet temporis
+et magnitudinis, sit infinitum, et alterum est infinitum; et eo modo quo
+alterum est infinitum et alterum.
+Et hoc exponit distinguendo duos modos infiniti; dicens quod si tempus est
+infinitum in ultimis, et magnitudo est infinita in ultimis.
+Dicitur autem tempus et magnitudo esse infinita in ultimis, quia scilicet
+ultimis caret; sicut si imaginaremur lineam non terminari ad aliqua puncta,
+vel tempus non terminari ad aliquod primum aut ultimum instans.
+Et si tempus sit infinitum divisione, et longitudo erit divisione infinita.
+Et est hic secundus modus infiniti: dicitur enim divisione infinitum, quod
+in infinitum dividi potest; quod est de ratione continui, ut dictum est. Et
+si tempus esset utroque modo infinitum, et longitudo esset utroque modo
+infinita.
+Et convenienter isti duo modi infiniti contraponuntur: quia primus modus
+infiniti accipitur ex parte ultimorum indivisibilium quae privantur;
+secundus autem modus accipitur secundum indivisibilia quae signantur in
+medio; dividitur enim linea secundum puncta infra lineam signata.
+|#3
+Deinde cum dicit: unde et zenonis etc., ex praemissis removet
+dubitationem zenonis eleatis, qui volebat probare quod nihil movetur de uno
+loco ad alium, puta de a in b.
+Manifestum est enim quod inter a et b sunt infinita puncta media, cum
+continuum sit divisibile in infinitum. Si ergo movetur aliquid de a in b,
+oportet quod pertranseat infinita, et quod tangat unumquodque infinitorum;
+quod non est possibile fieri in tempore finito. Ergo in nullo tempore
+quantumcumque magno, dummodo sit finitum, aliquid potest moveri per
+quantumcumque parvum spatium.
+214
+
+

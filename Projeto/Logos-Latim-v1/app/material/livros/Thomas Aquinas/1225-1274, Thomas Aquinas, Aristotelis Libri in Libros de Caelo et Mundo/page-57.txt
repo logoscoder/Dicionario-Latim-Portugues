@@ -1,0 +1,61 @@
+Quartum ponit ibi: hoc quidem igitur etc.. Et quia dictum est quod simul stare et sedere est impossibile, concludit
+quod, licet aliquid simul habeat virtutem ad opposita (puta ad sedere et stare), tali ratione, quia quandoque una
+potentia reducitur in actum, quandoque altera; nihil tamen hanc habet potentiam ut simul habeat opposita (puta ut
+simul sedeat et stet), sed oportet hoc in alio et alio tempore esse.
+|#5
+Deinde cum dicit: si itaque aliquid etc., ostendit propositum, scilicet quod omne sempiternum sit
+incorruptibile et ingenitum. Et primo ostendit quod omne sempiternum sit incorruptibile; secundo quod omne
+sempiternum sit ingenitum, ibi: similiter autem et ingenitum etc..
+Dicit ergo primo, concludens ex praemissis, in quibus dictum est possibile determinari ad aliquod tempus, quod
+si aliquid habet virtutem ad plura tempore infinito, non potest dici quod possit aliquid eorum respectu unius
+temporis, et aliud respectu alterius temporis; sed quidquid potest, potest respectu huius temporis, quia non est
+aliquod tempus extra tempus infinitum. Si ergo ponamus quod aliquid existens in infinito tempore sit
+corruptibile, sequitur ex hoc quod est corruptibile, quod habeat virtutem ad hoc quod quandoque non sit; quod
+quidem oportet intelligi respectu eiusdem temporis infiniti in quo est, vel respectu alicuius partis eius. Quia ergo
+est in infinito tempore, et tamen ponitur potens non esse, eo quod est corruptibile, sit existens quod potest non
+esse, idest ponatur non esse ex quo dicis quod potest non esse. Et quia poterat non esse respectu infiniti temporis
+vel alicuius partis eius, sequitur quod simul secundum actum sit et non sit: quia in infinito tempore ponebatur
+esse, et postea ponitur non esse respectu eiusdem temporis.
+Manifestum est igitur quod hoc falsum accidit ex falso posito, scilicet ex hoc quod tu ponebas istud existens in
+infinito tempore non esse quandoque. Sed si hoc falsum non esset impossibile, non sequeretur impossibile;
+sequitur autem impossibile, scilicet idem simul esse et non esse; ergo impossibile fuit illud non esse. Non ergo
+poterat non esse; et ita non erat corruptibile. Sic ergo patet quod omne quod est semper ens, non potest esse
+corruptibile; et ita simpliciter est incorruptibile.
+|#6 Sed videtur quod iste processus Aristotelis necessitatem non habeat. Quamvis enim nullius potentia sit ad
+hoc quod duo opposita sint in eodem tempore in actu, tamen nihil prohibet quod potentia alicuius sit ad duo
+opposita respectu eiusdem temporis sub disiunctione, aequaliter et eodem modo: sicut potentia mea est ad hoc
+quod cras in ortu solis vel sedeam vel stem; non tamen ut utrumque sit simul, sed aequaliter possum vel stare
+non sedendo, vel sedere non stando. Sic igitur posset aliquis obviare rationi Aristotelis. Ponamus enim aliquid
+semper ens, ita tamen quod istud esse suum sempiternum sit contingens et non necessarium. Poterit ergo non
+esse respectu cuiuscumque partis temporis infiniti, in quo ponitur semper esse: nec propter hoc sequetur quod
+aliquid sit simul ens et non ens.
+Eadem enim ratio videtur in toto infinito tempore, et in aliquo toto tempore finito. Etsi enim ponamus quod
+aliquis sit in domo semper per totam diem, tamen non est impossibile eum in domo non esse in quacumque parte
+diei: quia non ex necessitate est in domo per totam diem, sed contingenter.
+Sed dicendum est quod non est eadem ratio utrobique. Nam illud quod semper est, scilicet per infinitum tempus,
+habet potentiam ut sit in infinito tempore: potentia autem existendi non est ad utrumque respectu temporis in quo
+quis potest esse; omnia enim appetunt esse, et unumquodque tantum est quantum potest esse. Et hoc praecipue
+patet in his quae sunt a natura, quia natura est determinata ad unum. Et sic quidquid semper est, non contingenter
+semper est, sed ex necessitate.
+|#7 Deinde cum dicit: similiter autem et ingenitum etc., ostendit idem ex parte geniti vel ingeniti: et dicit quod
+similiter illud quod est semper, scilicet in infinito tempore, necesse est esse ingenitum. Quia si esset genitum,
+esset possibile quod quodam tempore non esset, sicut de corruptibili dictum est: sicut enim corruptibile est quod,
+cum prius fuerit, nunc non est, vel contingit non esse quandoque in futurum, ita genitum est quod nunc est, sed
+prius non fuit. Non est autem dare aliquod tempus in quo id quod semper est, possibile sit non esse, neque in
+tempore finito neque in tempore infinito: quia quod potest esse tempore infinito, sicut id quod semper est, potest
+esse quolibet tempore finito, quod includitur a tempore infinito; et ita sequetur, secundum praedictam
+deductionem, quod aliquid simul sit et non sit, quod est impossibile. Non igitur contingit quod unum et idem
+possit semper esse et semper non esse: quia hoc esset semper esse et semper non esse tempore infinito.
+Similiter etiam non est possibilis negatio eius quod est semper esse, puta ut si dicamus quod id quod semper est,
+possit non semper esse: hoc enim esset posse non esse ad minus tempore finito.
+Sic igitur patet quod impossibile est aliquid semper esse, et quod sit corruptibile, vel etiam quod sit genitum.
+Quia si sint duo termini ita se habentes quod posterius non possit esse sine primo, sicut homo non potest esse
+sine animali; si illud, scilicet primum, est impossibile esse, sequitur quod posterius etiam sit impossibile esse;
+sicut si impossibile est lapidem esse animal, impossibile est lapidem esse hominem. Hoc autem quod est
+aliquando non esse, sequitur ad corruptibile et genitum sicut quoddam communius, ut ex dictis patet. Si ergo
+illud quod semper est, non contingit quandoque non esse, sequitur etiam quod impossibile sit id quod semper est,
+esse genitum; et similiter impossibile est illud esse corruptibile.
+Et sic patet quod omne quod est sempiternum, est ingenitum et incorruptibile.
+57
+
+

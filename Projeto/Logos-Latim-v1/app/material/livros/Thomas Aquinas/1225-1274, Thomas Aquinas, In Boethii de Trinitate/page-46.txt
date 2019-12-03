@@ -1,0 +1,63 @@
+semicirculo est rectus ex hoc quod utraque pars eius est semirectus. Ergo mathematica non omnino abstrahit a
+materia.
+AG5
+Praeterea, motus non potest esse sine materia. Sed mathematicus debet considerare motum, quia cum motus
+mensuretur secundum spatium, eiusdem rationis et scientiae videtur esse considerare quantitatem spatii, quod
+pertinet ad mathematicum, et quantitatem motus. Ergo mathematicus non omnino dimittit considerationem
+materiae.
+AG6
+Praeterea, astrologia quaedam pars mathematicae est; et similiter scientia de sphaera mota et scientia de
+ponderibus et musica, in quibus omnibus fit consideratio de motu et rebus mobilibus. Ergo mathematica non
+abstrahit totaliter a materia et motu.
+AG7
+Praeterea, naturalis consideratio tota est circa materiam et motum.
+Sed quaedam conclusiones demonstrantur communiter a mathematico et naturali, ut utrum terra sit rotunda, et
+utrum sit in medio caeli. Ergo non potest esse quod mathematica omnino abstrahat a materia.
+Si dicatur quod abstrahit tantum a materia sensibili, contra. Materia sensibilis videtur esse materia particularis,
+quia sensus particularium est, a qua omnes scientiae abstrahunt. Ergo mathematica consideratio non debet dici
+magis abstracta quam aliqua aliarum scientiarum.
+AG8
+Praeterea, Philosophus in II physicorum dicit tria esse negotia.
+Primum est de mobili et corruptibili, secundum de mobili et incorruptibili, tertium de immobili et incorruptibili.
+Primum autem est naturale, tertium divinum, secundum mathematicum, ut Ptolemaeus exponit in principio
+almagesti. Ergo mathematica est de mobilibus.
+SC1
+Sed contra est quod Philosophus dicit in VI metaphysicae.
+SC2
+Praeterea, quaedam res sunt, quae quamvis sint in materia, tamen non recipiunt in sui diffinitione materiam, ut
+curvum, et in hoc differt a simo. Sed philosophia debet de omnibus entibus considerare. Ergo oportet de
+huiusmodi esse aliquam partem philosophiae, et haec est mathematica, cum ad nullam aliam pertineat.
+SC3
+Praeterea, ea, quae sunt priora secundum intellectum, possunt sine posterioribus considerari. Sed mathematica
+sunt priora naturalibus, quae sunt in materia et motu; habent enim se ex additione ad mathematica, ut dicitur in
+III caeli et mundi. Ergo mathematica consideratio potest esse sine materia et motu.
+CO1
+Responsio. Dicendum quod ad evidentiam huius quaestionis oportet videre, qualiter intellectus secundum suam
+operationem abstrahere possit. Sciendum est igitur quod secundum Philosophum in III de anima duplex est
+operatio intellectus. Una, quae dicitur intelligent indivisibilium, qua cognoscit de unoquoque, quid est.
+Alia vero, qua componit et dividit, scilicet enuntiationem affirmativam vel negativam formando. Et hae quidem
+duae operationes duobus, quae sunt in rebus, respondent. Prima quidem operatio respicit ipsam naturam rei,
+secundum quam res intellecta aliquem gradum in entibus obtinet, sive sit res completa, ut totum aliquod, sive res
+incompleta, ut pars vel accidens. Secunda vero operatio respicit ipsum esse rei, quod quidem resultat ex
+congregatione principiorum rei in compositis vel ipsam simplicem naturam rei concomitatur, ut in substantiis
+simplicibus.
+Et quia veritas intellectus est ex hoc quod conformatur rei, patet quod secundum hanc secundam operationem
+intellectus non potest vere abstrahere quod secundum rem coniunctum est, quia in abstrahendo significaretur esse
+separatio secundum ipsum esse rei, sicut si abstraho hominem ab albedine dicendo: homo non est albus, significo
+esse separationem in re. Unde si secundum rem homo et albedo non sint separata, erit intellectus falsus. Hac ergo
+operatione intellectus vere abstrahere non potest nisi ea quae sunt secundum rem separata, ut cum dicitur: homo
+non est asinus. Sed secundum primam operationem potest abstrahere ea quae secundum rem separata non sunt,
+non tamen omnia, sed aliqua. Cum enim unaquaeque res sit intelligibilis, secundum quod est in actu, ut dicitur in
+IX metaphysicae, oportet quod ipsa natura sive quiditas rei intelligatur: vel secundum quod est actus quidam,
+sicut accidit de ipsis formis et substantiis simplicibus, vel secundum id quod est actus eius, sicut substantiae
+compositae per suas formas, vel secundum id quod est ei loco actus, sicut materia prima per habitudinem ad
+formam et vacuum per privationem locati. Et hoc est illud, ex quo unaquaeque natura suam rationem sortitur.
+Quando ergo secundum hoc, per quod constituitur ratio naturae et per quod ipsa natura intelligitur, natura ipsa
+habet ordinem et dependentiam ad aliquid aliud, tunc constat quod natura illa sine illo alio intelligi non potest,
+sive sint coniuncta coniunctione illa, qua pars coniungitur toti, sicut pes non potest intelligi sine intellectu
+animalis, quia illud, a quo pes habet rationem pedis, dependet ab eo, a quo animal est animal, sive sint coniuncta
+per modum quo forma coniungitur materiae, vel ut pars comparti vel accidens subiecto, sicut simum non potest
+
+46
+
+

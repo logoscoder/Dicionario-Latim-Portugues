@@ -1,0 +1,58 @@
+|#8 Secundo modo ut praedicatum sumatur secundum quod inest subiecto: quod quidem praedicatum, vel inest
+ei per se et absolute, ut consequens materiam, et sic est quantitas: vel ut consequens formam, et sic est qualitas:
+vel inest ei non absolute, sed in respectu ad aliud, et sic est ad aliquid. Tertio modo ut praedicatum sumatur ab eo
+quod est extra subiectum: et hoc dupliciter. Uno modo ut sit omnino extra subiectum: quod quidem si non sit
+mensura subiecti, praedicatur per modum habitus, ut cum dicitur, socrates est calceatus vel vestitus. Si autem sit
+mensura eius, cum mensura extrinseca sit vel tempus vel locus, sumitur praedicamentum vel ex parte temporis,
+et sic erit quando: vel ex loco, et sic erit ubi, non considerato ordine partium in loco, quo considerato erit situs.
+Alio modo ut id a quo sumitur praedicamentum, secundum aliquid sit in subiecto, de quo praedicatur. Et si
+quidem secundum principium, sic praedicatur ut agere. Nam actionis principium in subiecto est. Si vero
+secundum terminum, sic praedicabitur ut in pati. Nam passio in subiectum patiens terminatur.
+|#9 Quia vero quaedam praedicantur, in quibus manifeste non apponitur hoc verbum est, ne credatur quod illae
+praedicationes non pertineant ad praedicationem entis, ut cum dicitur, homo ambulat, ideo consequenter hoc
+removet, dicens quod in omnibus huiusmodi praedicationibus significatur aliquid esse. Verbum enim quodlibet
+resolvitur in hoc verbum est, et participium. Nihil enim differt dicere, homo convalescens est, et homo
+convalescit, et sic de aliis. Unde patet quod quot modis praedicatio fit, tot modis ens dicitur.
+|#10 Nec est verum quod Avicenna dicit, quod praedicata, quae sunt in generibus accidentis, principaliter
+significant substantiam, et per posterius accidens, sicut hoc quod dico album et musicum. Nam album ut in
+praedicamentis dicitur, solam qualitatem significat. Hoc autem nomen album significat subiectum ex
+consequenti, inquantum significat albedinem per modum accidentis. Unde oportet, quod ex consequenti includat
+in sui ratione subiectum.
+Nam accidentis esse est inesse. Albedo enim etsi significet accidens, non tamen per modum accidentis, sed per
+modum substantiae. Unde nullo modo consignificat subiectum. Si enim principaliter significaret subiectum, tunc
+praedicata accidentalia non ponerentur a Philosopho sub ente secundum se, sed sub ente secundum accidens.
+Nam hoc totum, quod est homo albus, est ens secundum accidens, ut dictum est.
+|#11 Deinde cum dicit amplius autem ponit alium modum entis, secundum quod esse et est, significant
+compositionem propositionis, quam facit intellectus componens et dividens. Unde dicit, quod esse significat
+veritatem rei. Vel sicut alia translatio melius habet quod esse significat quia aliquod dictum est verum. Unde
+veritas propositionis potest dici veritas rei per causam. Nam ex eo quod res est vel non est, oratio vera vel falsa
+est. Cum enim dicimus aliquid esse, significamus propositionem esse veram. Et cum dicimus non esse,
+significamus non esse veram; et hoc sive in affirmando, sive in negando.
+In affirmando quidem, sicut dicimus quod socrates est albus, quia hoc verum est.
+In negando vero, ut socrates non est albus, quia hoc est verum, scilicet ipsum esse non album. Et similiter
+dicimus, quod non est diameter incommensurabilis lateri quadrati, quia hoc est falsum, scilicet non esse ipsum
+non commensurabilem.
+|#12 Sciendum est autem quod iste secundus modus comparatur ad primum, sicut effectus ad causam. Ex hoc
+enim quod aliquid in rerum natura est, sequitur veritas et falsitas in propositione, quam intellectus significat per
+hoc verbum est prout est verbalis copula. Sed, quia aliquid, quod est in se non ens, intellectus considerat ut
+quoddam ens, sicut negationem et huiusmodi, ideo quandoque dicitur esse de aliquo hoc secundo modo, et non
+primo.
+Dicitur enim, quod caecitas est secundo modo, ex eo quod vera est propositio, qua dicitur aliquid esse caecum;
+non tamen dicitur quod sit primo modo vera. Nam caecitas non habet aliquod esse in rebus, sed magis est
+privatio alicuius esse. Accidit autem unicuique rei quod aliquid de ipsa vere affirmetur intellectu vel voce. Nam
+res non refertur ad scientiam, sed e converso.
+Esse vero quod in sui natura unaquaeque res habet, est substantiale. Et ideo, cum dicitur, socrates est, si ille est
+primo modo accipiatur, est de praedicato substantiali. Nam ens est superius ad unumquodque entium, sicut
+animal ad hominem. Si autem accipiatur secundo modo, est de praedicato accidentali.
+|#13 Deinde cum dicit amplius esse ponit distinctionem entis per actum et potentiam; dicens, quod ens et esse
+significant aliquid dicibile vel effabile in potentia, vel dicibile in actu. In omnibus enim praedictis terminis, quae
+significant decem praedicamenta, aliquid dicitur in actu, et aliquid in potentia. Et ex hoc accidit, quod
+unumquodque praedicamentum per actum et potentiam dividitur. Et sicut in rebus, quae extra animam sunt,
+dicitur aliquid in actu et aliquid in potentia, ita in actibus animae et privationibus, quae sunt res rationis tantum.
+Dicitur enim aliquis scire, quia potest uti scientia, et quia utitur: similiter quiescens, quia iam inest ei quiescere,
+et quia potest quiescere. Et non solum hoc est in accidentibus, sed etiam in substantiis. Etenim mercurium, idest
+imaginem mercurii dicimus esse in lapide in potentia, et medium lineae dicitur esse in linea in potentia.
+
+139
+
+

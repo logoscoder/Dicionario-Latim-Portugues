@@ -1,0 +1,63 @@
+AG13
+Praeterea, secundum Philosophum in Lib. Ethic., actio in moralibus est sicut conclusio in speculativis. Sed
+circumstantia non variat speciem conclusionis. Ergo neque variat speciem actus moralis; et sic non dat speciem
+peccato.
+AG14
+Praeterea, sicut sunt quidam actus morales, ita et sunt quidam actus artis. Sed circumstantia non variat speciem
+actus artificialis, quia non refert in quocumque loco vel in quocumque tempore aut ex quacumque causa faber
+cultellum faciat, quantum ad speciem artis. Ergo nec circumstantia variat speciem actus moralis.
+AG15
+Praeterea, malum ex genere consuevit dividi contra malum ex circumstantia. Sed malum ex genere pertinet ad
+ipsam speciem peccati. Ergo malum ex circumstantia non pertinet ad speciem peccati; non ergo circumstantia dat
+speciem peccato.
+AG16
+Praeterea, circumstantia, in quantum aggravat, facit maius malum. Sed magis et minus non diversificant speciem.
+Ergo circumstantia aggravans non variat speciem peccati.
+SC1
+Sed contra. Locus est circumstantia quaedam. Sed locus dat speciem peccato; dicitur enim sacrilegium esse, si
+aliquis de loco sacro furetur. Ergo circumstantia dat speciem peccato.
+SC2
+Praeterea, si aliquis cognoscat mulierem coniugatam, adulterium committit, quod est quaedam species peccati.
+Sed solutam esse vel coniugatam mulierem est quaedam circumstantia actus. Ergo circumstantia dat speciem
+peccato.
+CO
+Respondeo. Dicendum quod ad evidentiam huius quaestionis tria consideranda sunt: primo, unde peccatum
+speciem habeat; secundo, quid sit circumstantia; et sic tertio poterit esse manifestum quomodo circumstantia dat
+speciem peccato.
+Quantum ergo ad primum, considerandum est, quod, cum actus moralis sit actus qui est a ratione procedens
+voluntarius, oportet quod actus moralis speciem habeat secundum aliquid in obiecto consideratum quod ordinem
+habeat ad rationem. Et sic praec. Quaest.
+Dictum est, quod si sit conveniens rationi, erit actus bonus secundum speciem, si autem sit discordans a ratione,
+secundum speciem malus erit.
+Hoc autem quod est non conveniens rationi circa obiectum consideratum diversificare potest peccati speciem
+dupliciter: uno modo quidem materialiter, alio modo formaliter.
+Materialiter quidem per oppositum ad virtutem. Differunt enim virtutes specie, secundum quod ratio medium
+adinvenit in diversis materiis; puta, iustitia est secundum quod ratio medium constituit in commutationibus et
+distributionibus; et huiusmodi actionibus; temperantia autem secundum quod in concupiscentiis; fortitudo
+secundum quod in timoribus et audaciis; et sic de aliis.
+Nec debet alicui inconveniens videri, si diversificantur species virtutum secundum diversas materias, cum
+diversitas materiae consueverit esse causa diversitatis non specierum, sed individuorum; quia etiam in
+naturalibus diversitas materiae diversitatem in specie causat quando diversitas materiae diversitatem formae
+requirit; unde et in moralibus necesse est diversas specie virtutes esse circa diversas materias, in quibus ratio
+diversimode adinvenit medium. Sicut in concupiscentiis adinvenit medium refrenando; unde et virtus in eis
+constituta propinquior est defectui quam superabundantiae, ut ipsum temperantiae nomen ostendit. In audaciis
+autem et timoribus non retrahendo, sed magis impellendo ratio adinvenit medium; unde virtus in his constituta
+propinquior est superabundantiae quam defectui, ut ipsum fortitudinis nomen ostendit; et similiter est videre in
+ceteris.
+Sic ergo et per oppositum ad virtutes, peccata differunt specie secundum diversas materias, puta homicidium,
+adulterium et furtum.
+Nec est dicendum, quod differant specie secundum differentiam praeceptorum; sed magis e converso praecepta
+distinguuntur secundum differentiam virtutum et vitiorum; quia praecepta ad hoc sunt ut secundum virtutem
+operemur et peccata vitemus. Si vero aliqua essent peccata solum quia prohibita, in his rationabile esset ut
+secundum differentiam praeceptorum specie peccata differrent.
+Sed quia circa unam materiam, cum sit una virtus, contingunt esse peccata specie diversa; oportet secundo
+considerare formaliter diversitatem speciei in peccatis, prout scilicet peccatur vel secundum superabundantiam
+vel secundum defectum; sicut differt timiditas a praesumptione, et illiberalitas a prodigalitate; vel secundum
+diversas circumstantias, sicut species gulae distinguuntur secundum ea quae in hoc versu continentur:
+praepropere, laute, nimis, ardenter, studiose.
+Sic ergo habito qualiter peccata specie differant, considerandum est quid sit circumstantia.
+Dicitur autem circumstantia quod circumstat actum, quasi extrinsecus extra actus substantiam consideratum. Hoc
+autem est uno quidem modo ex parte causae sive finalis, cum consideramus cur fecerit; sive ex parte agentis
+39
+
+

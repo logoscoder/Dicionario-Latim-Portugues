@@ -1,0 +1,59 @@
+|#1 Postquam Philosophus ostendit universaliter non esse corpus infinitum rationibus physicis, idest quae
+sumuntur ex propriis scientiae naturalis, hic ostendit idem rationibus logicis, idest quae sumuntur ex aliquibus
+communioribus principiis, vel ex aliquibus probabilibus et non necessariis.
+Et hoc est quod dicit: est, idest contingit, conari ad propositum ostendendum rationabilius, idest magis per viam
+logicam, sic, idest secundum rationes sequentes. Unde alia littera planior est quae sic habet: magis autem logice
+est argumentari et sic. Primo autem ostendit propositum de corpore infinito continuo; secundo de infinito non
+continuo, ibi: si autem non continuum etc..
+|#2 Circa primum duo facit. Primo ostendit quod corpus infinitum, similium partium existens, non potest
+moveri circulariter. Quod quidem probat per hoc, quod infiniti non est aliquod medium, sicut nec extremum:
+motus autem circularis est circa medium, ut supra habitum est: ergo etc..
+|#3 Secundo ostendit tribus rationibus quod non est possibile quod tale corpus infinitum moveatur motu recto.
+Quarum prima talis est. Omne corpus quod movetur motu recto, potest moveri naturaliter et per violentiam.
+Quod autem movetur per violentiam, habet aliquem locum in quem movetur violenter; et omne quod movetur
+naturaliter, habet aliquem locum in quem movetur naturaliter. Locus autem omnis est aequalis locato. Sic ergo
+sequetur quod sint duo loca tanta quantum est corpus infinitum, in quorum unum movetur violenter, et in alium
+naturaliter. Hoc autem est impossibile, scilicet quod sint duo loca infinita, sicut et quod sint duo infinita corpora,
+ut supra habitum est.
+Relinquitur ergo quod nullum corpus naturale sit infinitum. Dicitur autem utraque ratio logica esse, quia procedit
+ex eo quod contingit corpori infinito inquantum est infinitum, sive sit mathematicum sive sit naturale, scilicet
+non habere medium, et non habere aliquid aequale extra se. Supra autem posuit aliqua similia, sed non tanquam
+principalia, sed tanquam assumpta ad manifestationem aliorum.
+|#4 Secundam rationem ponit ibi: adhuc sive natura habet etc.: quae talis est. Sive dicatur quod corpus infinitum
+moveatur motu recto naturaliter, sive per violentiam, utroque modo oportet dicere quod sit potentia movens
+corpus infinitum: ostensum est enim in VII et VIII physic. Quod omne quod movetur ab alio movetur, non solum
+in his quae moventur per violentiam, de quibus magis est manifestum, sed etiam in his quae moventur
+naturaliter, sicut corpora gravia et levia moventur a generante vel a removente prohibens.
+Cum autem fortius non moveatur a debiliori, impossibile est quod infinitum, cuius virtus est infinita, moveatur a
+potentia finita moventis: unde relinquitur quod oportet potentiam moventis esse infinitam. Manifestum est autem
+quod, si potentia sit infinita, erit rei infinitae: et e converso, si corpus sit infinitum, oportet quod virtus eius sit
+infinita. Si ergo est corpus infinitum quod movetur, necesse est quod corpus movens sit etiam infinitum.
+Probatum est enim in his quae de motu, idest in VIII physic., quod nullum finitorum habet virtutem infinitam,
+nec aliquod infinitorum habet virtutem finitam. Sic igitur patet quod, si sit corpus infinitum quod movetur motu
+recto, oportet quod moveatur a corpore infinito. Si ergo ponamus quod hoc corpus infinitum contingit moveri et
+secundum naturam et praeter naturam, similiter continget secundum utrumque motum quod sint duo infinita,
+scilicet illud quod movet sic, idest naturaliter vel violenter, et aliud quod movetur. Hoc autem est impossibile,
+quod sint duo corpora infinita, ut supra ostensum est.
+Ergo non est possibile esse corpus infinitum quod moveatur motu recto. Haec etiam ratio logica est, quia
+procedit ex communi proprietate infiniti corporis, quod scilicet non habeat extra se aliud corpus aequale.
+Potest autem ex hac ratione concludi non solum quod sint duo infinita, sed plura. Nam si corpus infinitum
+movetur naturaliter, corpus naturaliter ipsum movens erit infinitum; et quia contingit ipsum moveri violenter,
+corpus quod movet ipsum violenter erit infinitum; et sic erunt tria infinita. Rursus, quia motus qui est violentus
+uni, est naturalis alteri, ut supra dictum est, sequetur etiam quod sit aliud corpus infinitum, quod naturaliter hoc
+modo moveatur a virtute infinita.
+|#5 Tertiam rationem ponit ibi: adhuc movens etc..
+Et haec quidem ratio inducitur ad excludendum obviationem quandam ad praedictam rationem.
+Posset enim aliquis dicere quod corpus infinitum movetur naturaliter non quidem ab alio, sed a seipso, sicut
+animalia dicuntur seipsa movere: et sic non sequetur esse duo corpora infinita, quod praemissa ratio concludebat.
+Et ideo proponit quod necesse est dicere, si sit corpus infinitum, quod movens ipsum sit aliquid aliud: quia si
+moveret seipsum, esset animatum (hoc enim est proprium animalium, quod seipsa moveant)p si ergo corpus
+infinitum sit movens seipsum, sequetur quod sit animal infinitum. Sed hoc non videtur esse possibile, quia omne
+animal habet determinatam figuram et determinatam proportionem partium ad totum, quod non competit infinito.
+Sic igitur non potest dici quod infinitum moveat seipsum. Si autem dicatur quod aliquid aliud moveat ipsum,
+sequetur quod sint duo infinita, scilicet movens et quod movetur. Et ex hoc sequitur quod differunt secundum
+speciem et virtutem: quia movens comparatur ad mobile sicut actus ad potentiam. Hoc autem est impossibile,
+sicut prius dictum est.
+
+34
+
+

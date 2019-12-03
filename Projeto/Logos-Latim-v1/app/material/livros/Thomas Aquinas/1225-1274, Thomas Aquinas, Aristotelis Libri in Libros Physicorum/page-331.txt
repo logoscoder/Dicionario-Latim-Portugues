@@ -1,0 +1,64 @@
+Praedicta autem sex sunt loci differentiae; et sic oportet quod sint
+contraria, quia cuiuslibet generis differentiae sunt contrariae.
+Relinquitur ergo quod impossibile sit, id quod reflectitur moveri uno motu
+continuo.
+|#4
+Et quia posset aliquis dubitare an id quod reflectitur contrariis
+motibus moveatur, propter hoc quod non apparet manifesta et determinata
+contrarietas in loco, sicut in aliis generibus in quibus est motus, ut
+supra in quinto dictum est: ideo addit quoddam signum ad hoc idem
+ostendendum, praeter rationem supra positam ex contrarietate terminorum.
+Et dicit quod signum huius est, quod motus qui est ab a in b, sit
+contrarius ei qui est a b in a, sicut contingit in motu reflexo: quia
+huiusmodi motus, si simul fiant, stant et repausant ad invicem, idest unus
+impedit alium et facit eum stare.
+Et non solum hoc contingit in reflexione motus recti, sed etiam in
+reflexione motus circularis. Signentur enim in aliquo circulo tria signa,
+scilicet abc: constat quod si incipiat moveri ab a in b, et postea moveatur
+ab a in c versus aliam partem, quod erit reflexio; et isti duo motus
+impediunt se, et unus sistit, idest facit stare, alium. Sed si continue
+moveatur aliquid ab a in b, et per b iterum in c, non erit reflexio.
+Ideo autem motus reflexi impediunt se invicem tam in recto quam in circulo,
+quia hoc est de natura contrariorum, quod se impediant et corrumpant.
+Motus autem qui sunt diversi et non contrarii, non se impediunt; sicut
+motus qui est sursum et qui est in latus, puta in dextrum vel sinistrum,
+non se impediunt, sed simul potest aliquid moveri et sursum et in dextrum.
+|#5
+Deinde cum dicit: maxime autem manifestum etc., ponit secundam
+rationem ad ostendendum quod motus reflexus non potest esse in infinitum
+continuus: quae quidem ratio accipitur ex quiete, quam necesse est
+intervenire.
+Dicit ergo quod maxime ex hoc manifestum est quod impossibile est motum
+rectum esse continuum in infinitum, quia necesse est id quod reflectitur
+quiescere inter duos motus.
+Et hoc verum est non solum si moveatur per lineam rectam, sed etiam si
+feratur secundum circulum.
+Et ne aliquis intelligat ferri secundum circulum, idem esse quod ferri
+circulariter, ad hoc excludendum subdit, quod non est idem ferri circulo,
+idest circulariter secundum proprietatem circuli, et ferri circulum, idest
+pertransire suo motu circulum.
+Contingit enim aliquando quod secundum quandam continuationem sit motus
+eius quod movetur, dum scilicet pertransit partem post partem secundum
+ordinem partium circuli; et hoc est ferri circulariter.
+Quandoque autem contingit quod pertransit circulum, quando redierit ad
+principium unde incepit moveri, non pertransire ultra secundum ordinem
+partium circuli, sed redire retro; et hoc est reflecti.
+Sive ergo fiat reflexio in linea recta, sive in linea circulari, necesse
+est quod interveniat quies media.
+|#6
+Et huius rei fides accipi potest non solum ex sensu, quia
+sensibiliter hoc apparet, sed etiam ex ratione.
+Cuius quidem rationis principium hoc sumendum est, quod cum tria sint in
+magnitudine quae pertransitur, scilicet principium, medium et finis, medium
+utrumque est respectu utriusque; quia respectu finis est principium, et
+respectu principii est finis; et sic cum sit unum subiecto, est duo
+ratione. Iterum aliud principium est sumendum, quod aliud est quod est in
+potentia et quod est in actu.
+His ergo visis, considerandum est ex dictis, quod quodlibet signum, idest
+quodlibet punctum signatum, infra terminos lineae supra quam aliquid
+movetur, medium est in potentia; sed non est medium in actu, nisi fiat
+divisio secundum motum, ita scilicet quod in illo puncto id quod movetur
+stet, et iterum ab illo puncto incipiat moveri: quia sic medium illud fiet
+331
+
+

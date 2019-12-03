@@ -1,0 +1,66 @@
+acutam est gravis ad ultimam, idest per comparationem ad acutam, et
+subtilis, idest acuta, per comparationem ad extremam, idest ad gravem; et
+fuscum est album per comparationem ad nigrum, et e converso.
+|+2
+
+Lectio 2
+
+|#1
+Postquam Philosophus distinxit motum per se a motu per accidens, hic
+dividit mutationem et motum per se in suas species.
+Ubi considerandum est quod Aristoteles supra in tertio ubi motum definivit,
+accepit nomen motus secundum quod est commune omnibus speciebus mutationis.
+Et hoc modo accipit hic nomen mutationis: motum autem accipit magis
+stricte, pro quadam mutationis specie.
+Dividitur ergo pars ista in partes duas: in prima dividit mutationem in
+suas species, quarum una est motus; in secunda subdividit motum in suas
+species, ibi: si igitur praedicamenta etc..
+Circa primum duo facit: primo ponit divisionem mutationis; secundo
+manifestat partes divisionis, ibi: ex non subiecto quidem etc..
+Circa primum tria facit: primo praemittit quaedam necessaria ad divisionem
+mutationis; secundo concludit ex praemissis mutationis divisionem, ibi:
+quare necesse est etc.; tertio excludit quandam obiectionem, ibi: quae enim
+est ex non subiecto etc..
+|#2
+Dicit ergo primo quod cum omnis mutatio sit a quodam in quiddam, ut
+manifestatur ex ipso mutationis nomine, quod denotat aliquid esse post
+aliud, et aliud esse prius et aliud posterius; necesse est his suppositis,
+quod omne quod mutatur, quatuor modis mutetur. Aut enim uterque terminus
+est affirmatus; et sic dicitur aliquid mutari ex subiecto in subiectum. Aut
+terminus a quo est affirmatus, et terminus ad quem est negatus; et sic
+dicitur aliquid moveri ex subiecto in non subiectum. Aut e converso
+terminus a quo est negatus, et terminus ad quem est affirmatus; et sic
+dicitur aliquid moveri ex non subiecto in subiectum. Aut uterque terminus
+est negatus; et sic dicitur aliquid mutari ex non subiecto in non
+subiectum. Non enim accipitur hic subiectum eo modo quo sustinet formam;
+sed omne illud quod affirmative significatur, dicitur hic subiectum.
+|#3
+Deinde cum dicit: quare necesse est etc., concludit ex praemissis
+divisionem mutationis. Et dicit quod necessario ex praemissis sequitur,
+quod tres sint mutationis species: quarum una est ex subiecto in subiectum,
+sicut cum aliquid mutatur de albo in nigrum; alia autem est ex subiecto in
+non subiectum, sicut cum aliquid mutatur de esse in non esse; tertia est e
+converso ex non subiecto in subiectum, sicut cum aliquid mutatur de non
+esse in esse.
+|#4
+Deinde cum dicit: quae enim est ex non subiecto etc., excludit
+quandam obiectionem. Posset enim aliquis obiicere, quod cum praemiserit
+quatuor modis aliquid mutari, debuisset concludere quatuor esse species
+mutationis, et non tres tantum.
+Sed hanc obiectionem excludit dicens, quod non potest esse aliqua
+mutationis species de non subiecto in non subiectum; quia omnis mutatio est
+inter opposita; duae autem negationes non sunt oppositae. Neque enim dici
+potest quod sint contraria, neque quod sint contradictoria. Et huius etiam
+signum est, quia quascumque negationes contingit simul esse veras de aliquo
+uno et eodem, sicut lapis nec est sanus nec aeger. Unde cum mutatio per se
+sit solum in contrariis et in contradictione, ut supra dictum est, sequitur
+quod ex negatione in negationem non sit mutatio per se, sed solum sic
+mutatur aliquid per accidens. Cum enim aliquid fit de albo nigrum, fit
+etiam per accidens de non nigro non album. Et per hunc modum dixit aliquid
+mutari ex non subiecto in non subiectum.
+Quod autem est per accidens in aliquo genere, non potest esse species
+illius generis.
+
+176
+
+

@@ -1,0 +1,61 @@
+RA5
+Ad quintum dicendum, quod pronitas ad malum, quae dicitur fomes, non consequitur naturam sicut habilitas ad
+bonum, sed consequitur corruptionem naturae, quae est ex culpa; et ideo fomes totaliter per gratiam tolli potest,
+non autem bonum naturae per culpam.
+RA6
+Ad sextum dicendum, quod impossibilitas ad gratiam, quae est in damnatis, non est ex totali subtractione
+habilitatis naturalis ad bonum, sed ex obstinatione voluntatis in malo, et ex immobilitate divinae sententiae, ne
+eis in perpetuum gratia apponatur.
+RA7
+Ad septimum dicendum, quod defectus naturalis aptitudinis non sic intelligitur quod tota naturalis aptitudo
+deficiat, sed quia deficit a sua perfectione.
+RA8
+Et similiter dicendum ad octavum, quod peccatum non totaliter ponit extra statum naturae, sed extra eius
+perfectionem.
+RA9
+Ad nonum dicendum, quod privatio non solum privat quod est, sed etiam id quod natum est esse: potest enim
+aliquis privari aliquo quod nunquam habuit, dummodo natus fuisset habere. Et tamen hoc non est verum, quod
+Angeli in principio suae creationis gratiam non habuerunt, simul enim Deus in eis condidit naturam et largitus
+est gratiam, ut Augustinus dicit XII de civitate Dei.
+RA10
+Ad decimum dicendum, quod ratio illa procederet, si diminutio illa fieret per subtractionem partis.
+|q3 Quaestio 3
+Prologus
+PR1
+Et primo quaeritur utrum Deus sit causa peccati.
+PR2
+Secundo utrum actio peccati sit a Deo.
+PR3
+Tertio utrum diabolus sit causa peccati.
+PR4
+Quarto utrum diabolus possit inducere homines ad peccandum interius persuadendo.
+PR5
+Quinto utrum omne peccatum veniat ex suggestione diaboli.
+PR6
+Sexto utrum ignorantia possit esse causa
+PR7
+Septimo utrum ignorantia sit peccatum.
+PR8
+Octavo utrum ignorantia excuset vel diminuat peccatum.
+PR9
+Nono utrum sciens ex infirmitate peccet.
+PR10
+Decimo utrum peccatum ex infirmitate factum imputetur homini ad culpam mortalem.
+PR11
+Undecimo utrum infirmitas alleviet vel aggravet
+PR12
+Duodecimo utrum aliquis possit ex malitia vel certa scientia peccare.
+PR13
+Decimotertio utrum gravius peccet qui ex infirmitate peccat quam qui ex malitia.
+PR14
+Decimoquarto utrum omne peccatum ex malitia sit peccatum in spiritum sanctum.
+PR15
+Decimoquinto utrum peccatum in spiritum sanctum possit remitti.
+|a1 Articulus 1
+TTA
+Et primo quaeritur utrum Deus sit causa peccati.
+TTB
+Et videtur quod sic.
+55
+
+

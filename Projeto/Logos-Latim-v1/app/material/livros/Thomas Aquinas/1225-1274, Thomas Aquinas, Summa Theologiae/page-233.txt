@@ -1,0 +1,62 @@
+Ad primum ergo dicendum quod, licet habitudo ad causam non intret definitionem entis quod est causatum,
+tamen sequitur ad ea qua sunt de eius ratione, quia ex hoc quod aliquid per participationem est ens, sequitur quod
+sit causatum ab alio. Unde huiusmodi ens non potest esse, quin sit causatum; sicut nec homo, quin sit risibile.
+Sed quia esse causatum non est de ratione entis simpliciter, propter hoc invenitur aliquod ens non causatum.
+RA2
+Ad secundum dicendum quod ex hac ratione quidam moti fuerunt ad ponendum quod id quod est necessarium
+non habeat causam, ut dicitur in VIII physic..
+Sed hoc manifeste falsum apparet in scientiis demonstrativis, in quibus principia necessaria sunt causae
+conclusionum necessariarum.
+Et ideo dicit Aristoteles, in V metaphys., quod sunt quaedam necessaria quae habent causam suae necessitatis.
+Non ergo propter hoc solum requiritur causa agens, quia effectus potest non esse, sed quia effectus non esset, si
+causa non esset.
+Haec enim conditionalis est vera, sive antecedens et consequens sint possibilia, sive impossibilia.
+RA3
+Ad tertium dicendum quod mathematica accipiuntur ut abstracta secundum rationem, cum tamen non sint
+abstracta secundum esse.
+Unicuique autem competit habere causam agentem, secundum quod habet esse. Licet igitur ea quae sunt
+mathematica habeant causam agentem, non tamen secundum habitudinem quam habent ad causam agentem,
+cadunt sub consideratione mathematici. Et ideo in scientiis mathematicis non demonstratur aliquid per causam
+agentem.
+|a2 Articulus 2
+AG1
+Ad secundum sic proceditur. Videtur quod materia prima non sit creata a Deo.
+Omne enim quod fit, componitur ex subiecto et ex aliquo alio, ut dicitur in I physic..
+Sed materiae primae non est aliquod subiectum.
+Ergo materia prima non potest esse facta a Deo.
+AG2
+Praeterea, actio et passio dividuntur contra se invicem. Sed sicut primum principium activum est Deus, ita
+primum principium passivum est materia. Ergo Deus et materia prima sunt duo principia contra se invicem
+divisa, quorum neutrum est ab alio.
+AG3
+Praeterea, omne agens agit sibi simile, et sic, cum omne agens agat inquantum est actu, sequitur quod omne
+factum aliquo modo sit in actu. Sed materia prima est tantum in potentia, inquantum huiusmodi. Ergo contra
+rationem materiae primae est, quod sit facta.
+SC
+Sed contra est quod dicit Augustinus, XII confess., duo fecisti, Domine, unum prope te, scilicet Angelum, aliud
+prope nihil, scilicet materiam primam.
+CO
+Respondeo dicendum quod antiqui Philosophi paulatim, et quasi pedetentim, intraverunt in cognitionem
+veritatis. A principio enim, quasi grossiores existentes, non existimabant esse entia nisi corpora sensibilia.
+Quorum qui ponebant in eis motum, non considerabant motum nisi secundum aliqua accidentia, ut puta
+secundum raritatem et densitatem, congregationem et segregationem. Et supponentes ipsam substantiam
+corporum increatam, assignabant aliquas causas huiusmodi accidentalium transmutationum, ut puta amicitiam,
+litem, intellectum, aut aliquid huiusmodi.
+Ulterius vero procedentes, distinxerunt per intellectum inter formam substantialem et materiam, quam ponebant
+increatam; et perceperunt transmutationem fieri in corporibus secundum formas essentiales. Quarum
+transmutationum quasdam causas universaliores ponebant, ut obliquum circulum, secundum Aristotelem, vel
+ideas, secundum Platonem. Sed considerandum est quod materia per formam contrahitur ad determinatam
+speciem; sicut substantia alicuius speciei per accidens ei adveniens contrahitur ad determinatum modum essendi,
+ut homo contrahitur per album.
+Utrique igitur consideraverunt ens particulari quadam consideratione, vel inquantum est hoc ens, vel inquantum
+est tale ens. Et sic rebus causas agentes particulares assignaverunt.
+Et ulterius aliqui erexerunt se ad considerandum ens inquantum est ens, et consideraverunt causam rerum, non
+solum secundum quod sunt haec vel talia, sed secundum quod sunt entia. Hoc igitur quod est causa rerum
+inquantum sunt entia, oportet esse causam rerum, non solum secundum quod sunt talia per formas accidentales,
+nec secundum quod sunt haec per formas substantiales, sed etiam secundum omne illud quod pertinet ad esse
+illorum quocumque modo. Et sic oportet ponere etiam materiam primam creatam ab universali causa entium.
+RA1
+
+233
+
+

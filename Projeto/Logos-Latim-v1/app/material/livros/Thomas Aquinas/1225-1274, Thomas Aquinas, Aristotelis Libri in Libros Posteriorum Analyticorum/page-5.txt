@@ -1,0 +1,57 @@
+Exemplificans ergo Philosophus de his quae cognoscuntur ante conclusionem prius tempore, dicit quod aliquis
+per demonstrationem conclusionis cognitionem accipiens, hanc propositionem praescivit etiam secundum
+tempus, scilicet, quod omnis triangulus habet tres angulos duobus rectis aequales.
+Sed inducens hanc assumptionem, scilicet, quod hoc quod est in semicirculo sit triangulus, simul, scilicet
+tempore, cognovit conclusionem, quia hoc inductum habet notitiam universalis, sub quo continetur, ut non
+oporteat ulterius medium quaerere. Et ideo subdit quod, quorundam est hoc modo disciplina, idest eorum
+accipitur cognitio per se, et non oportet ea cognoscere per aliquod aliud medium, quod sit ultimum in
+resolutione, qua mediata ad immediata reducuntur. Vel potest legi sic: quod ultimum, idest extremum, quod
+accipitur sub universali medio, non oportet ut cognoscatur esse sub illo universali per aliquod aliud medium. Et
+quae sint ista, quae semper habent cognitionem sui universalis, manifestat subdens quod huiusmodi sunt
+singularia, quae non dicuntur de aliquo subiecto: cum inter singularia et speciem nullum medium possit inveniri.
+|+3 Lectio 3
+|#1 Postquam ostendit Philosophus quomodo oportet praecognoscere quaedam alia, antequam de conclusione
+cognitio sumatur, nunc vult ostendere quomodo ipsam conclusionem contingit praecognoscere, antequam
+cognitio sumatur de ea per syllogismum vel inductionem. Et circa hoc duo facit.
+Primo namque determinat veritatem, dicens quod, antequam inducatur inductio vel syllogismus ad faciendam
+cognitionem de aliqua conclusione, illa conclusio quodammodo scitur, et quodammodo non: simpliciter enim
+nescitur, sed scitur solum secundum quid. Sicut si debeat probari ista conclusio, triangulus habet tres angulos
+aequales duobus rectis; antequam demonstraretur, ille qui per demonstrationem accipit scientiam eius, nescivit
+simpliciter, sed scivit secundum quid. Unde quodammodo praescivit, simpliciter autem non. Cuius quidem ratio
+est, quia, sicut iam ostensum est, oportet principia conclusioni praecognoscere.
+Principia autem se habent ad conclusiones in demonstrativis, sicut causae activae in naturalibus ad suos effectus
+(unde in II physicorum propositiones syllogismi ponuntur in genere causae efficientis)p effectus autem,
+antequam producatur in actu, praeexistit quidem in causis activis virtute, non autem actu, quod est simpliciter
+esse. Et similiter antequam ex principiis demonstrativis deducatur conclusio, in ipsis quidem principiis
+praecognitis praecognoscitur conclusio virtute, non autem actu: sic enim in eis praeexistit. Et sic patet quod non
+praecognoscitur simpliciter, sed secundum quid.
+|#2 Secundo; ibi: si vero non etc., excludit ex veritate determinata quandam dubitationem, quam Plato ponit in
+libro menonis, sic intitulato ex nomine sui discipuli. Est autem dubitatio talis.
+Inducit enim quendam, omnino imperitum artis geometricae, interrogatum ordinate de principiis, ex quibus
+quaedam geometrica conclusio concluditur, incipiendo ex principiis per se notis: ad quae omnia ille, ignarus
+geometriae, id quod verum est respondit: et sic deducendo quaestiones usque ad conclusiones per singula verum
+respondit.
+Ex hoc igitur vult habere, quod etiam illi, qui videntur imperiti aliquarum artium, antequam de eis instruantur,
+earum notitiam habent. Et sic sequitur quod vel homo nihil addiscat, vel addiscat ea quae prius novit.
+|#3 Circa hoc ergo quatuor facit. Primo enim, proponit quod praedicta dubitatio vitari non potest, nisi supposita
+praedeterminata veritate, scilicet quod conclusio, quam quis addiscit per demonstrationem vel inductionem, erat
+nota non simpliciter, sed secundum quod est virtute in suis principiis: de quibus aliquis, ignarus scientiae,
+interrogatus, veritatem respondere potest. Secundum vero Platonis sententiam, conclusio erat praecognita
+simpliciter; unde non addiscebatur de novo, sed potius per deductionem aliquam rationis in memoriam
+reducebatur. Sicut etiam de formis naturalibus Anaxagoras ponit, quod ante generationem praeexistebant in
+materia simpliciter. Aristoteles vero ponit quod praeexistunt in potentia et non simpliciter.
+|#4 Secundo, cum dicit: non enim sicut etc., ponit falsam quorundam obviationem ad dubitationem Platonis: qui
+scilicet dicebant quod conclusio antequam demonstraretur vel quocunque modo addisceretur, nullo modo erat
+cognita.
+Poterat enim eis obiici secundum dubitationem Platonis hoc modo: si quis interrogaret ab aliquo imperito:
+nunquid tu scis quod omnis dualitas par est? et dicente eo, idest concedente se scire, afferret quandam
+dualitatem, quam ille interrogatus non opinaretur esse, puta illam dualitatem quae est tertia pars senarii;
+concluderetur quod sciret tertiam partem senarii esse numerum parem: quod erat ei incognitum, sed per
+demonstrationem inductam addiscit. Et sic videtur sequi quod vel non hoc addisceret vel addisceret quod prius
+scivit. Ut igitur hanc dubitationem evitarent, solvebant dicentes, quod ille qui interrogatus respondit se scire
+quod omnis dualitas sit numerus par, non dixit se cognoscere omnem dualitatem simpliciter, sed illam, quam
+scivit esse dualitatem.
+
+5
+
+

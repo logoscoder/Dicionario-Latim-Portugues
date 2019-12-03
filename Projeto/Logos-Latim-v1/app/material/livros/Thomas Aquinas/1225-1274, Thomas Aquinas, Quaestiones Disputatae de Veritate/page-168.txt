@@ -1,0 +1,63 @@
+Item, videtur quod unus Angelus alium non cognoscat per essentiam Angeli cogniti. Id enim quo intellectus
+intelligit, oportet esse intrinsecum ipsi intellectui. Sed essentia unius Angeli non potest esse intra intellectum
+alterius, quia nihil illabitur menti nisi solus Deus. Ergo Angelus non potest cognoscere alium Angelum per
+essentiam eius.
+AG5
+Praeterea, possibile est unum Angelum cognosci ab omnibus Angelis. Id autem quo aliquid cognoscitur, est
+coniunctum ipsi cognoscenti.
+Si ergo Angelus cognosceret alium per essentiam Angeli cogniti, oporteret quod Angelus cognitus esset in
+pluribus locis, cum Angeli cognoscentes in pluribus locis sint.
+AG6
+Praeterea, Angeli essentia substantia quaedam est; intellectus autem accidens, cum sit potentia quaedam. Sed
+substantia non est forma accidentis. Ergo essentia unius Angeli non potest esse intellectui alterius forma, qua
+intelligat.
+AG7
+Praeterea, nihil cognoscitur ab intellectu per sui praesentiam quod est separatum ab eo. Sed essentia unius Angeli
+est separata ab intellectu alterius. Ergo unus Angelus ab alio non cognoscitur per essentiae suae praesentiam.
+AG8
+Item, videtur quod unus Angelus per essentiam sui cognoscentis non possit alium cognoscere. Sicut enim
+superioribus Angelis subsunt inferiores, ita et sensibiles creaturae. Si ergo superior Angelus cognoscendo
+essentiam suam cognoscat alios Angelos, eadem ratione et per essentiam suam cognoscet omnes res sensibiles, et
+non per aliquas formas, ut dicitur in Lib. De causis.
+AG9
+Praeterea, nihil ducit in cognitionem alterius nisi quod habet similitudinem cum eo.
+Sed essentia unius Angeli non convenit cum alio nisi in genere. Si igitur unus alium cognoscat solum per
+essentiam sui cognoscentis, non cognoscet eum nisi in genere; quod est imperfecte cognoscere.
+AG10
+Praeterea, illud per quod aliquid cognoscitur, est ratio ipsius. Si ergo unus Angelus per essentiam suam omnes
+alios cognoscat, essentia sua erit ratio propria omnium; quod videtur soli divinae essentiae convenire.
+AG11
+Item, videtur quod unus Angelus non cognoscat alium per similitudinem sive per speciem aliquam in se
+existentem: quia, ut dicit dionysius, Angeli sunt divina lumina. Sed lumen non cognoscitur per aliquam speciem,
+sed per se ipsum. Ergo nec Angelus.
+AG12
+Praeterea, omnis creatura tenebra est, ut patet per Origenem, super id Ioan., I, 5: et tenebrae eam non
+comprehenderunt. Sed similitudo tenebrae oportet quod sit tenebra; tenebra autem non est principium
+manifestationis, sed occultationis. Cum igitur Angelus sit creatura, et sic tenebra, non poterit cognosci per suam
+similitudinem. Sed si cognoscitur, oportet quod cognoscatur per lumen divinum existens in ipso.
+AG13
+Praeterea, Angelus est Deo propinquior quam rationalis anima. Sed secundum Augustinum, anima cognoscit
+omnia, et iudicat de omnibus, secundum connexionem quam habet ad rationes aeternas, non per aliquas artes
+quas secum ad corpus detulerit. Ergo multo fortius Angelus non cognoscit alium Angelum per similitudinem
+eius, sed per rationem aeternam.
+AG14
+Item, videtur quod nec per similitudinem innatam. Quia aequaliter similitudo innata se habet ad praesens et
+distans. Si igitur unus Angelus alium cognoscat per similitudinem innatam, non cognoscet de eo quando erit
+praesens, et quando distans.
+AG15
+Praeterea, Deus potest de novo facere unum Angelum. Sed Angeli qui non est, formam non habet penes se. Si
+ergo Angelus naturali cognitione non cognoscit alium Angelum nisi per formam innatam, Angeli qui modo sunt
+non cognoscerent naturali cognitione Angelum qui de novo fieret.
+AG16
+Item, videtur quod nec per formas impressas ab intelligibilibus, sicut sensus per formas impressas a sensibilibus,
+quia secundum hoc inferiores Angeli non cognoscerentur a superioribus, cum non possint imprimere in eos.
+AG17
+Item videtur quod nec per formas abstractas, sicut intellectus agens abstrahit a phantasmatibus, quia sic inferiores
+non cognoscerent superiores. Ex quibus omnibus videtur quod unus Angelus alium non cognoscat.
+SC1
+Sed contra. In libro de causis dicitur: omnis intelligentia scit res quae non corrumpuntur nec cadunt in tempore.
+Sed Angeli sunt incorruptibiles et supra tempus.
+Ergo unus Angelus ab alio cognoscitur.
+168
+
+

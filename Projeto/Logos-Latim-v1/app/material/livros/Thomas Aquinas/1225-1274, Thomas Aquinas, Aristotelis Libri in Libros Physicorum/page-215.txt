@@ -1,0 +1,64 @@
+Dicit ergo Philosophus quod ista ratio procedit ex falsa existimatione;
+quia longitudo et tempus, et quodcumque continuum, dupliciter dicitur esse
+infinitum, ut dictum est; scilicet secundum divisionem et in ultimis. Si
+igitur essent aliqua, scilicet mobile et spatium, infinita secundum
+quantitatem, quod est esse infinitum in ultimis; non contingeret quod se
+invicem tangerent in tempore finito.
+Si vero sint infinita secundum divisionem, hoc contingit; quia etiam tempus
+quod est finitum secundum quantitatem, est sic infinitum, scilicet secundum
+divisionem. Unde sequitur quod infinitum transeatur, non quidem in tempore
+finito, sed in tempore infinito; et quod infinita puncta magnitudinis
+transeantur in infinitis nunc temporis, non autem in nunc finitis.
+Est autem sciendum quod haec solutio est ad hominem, et non ad veritatem,
+sicut infra Aristoteles manifestabit in octavo.
+|#4
+Deinde cum dicit: neque iam infinitum etc., probat quod supra posuit.
+Et primo resumit propositum; secundo probat, ibi: sit enim magnitudo etc..
+Dicit ergo primo quod nullum mobile potest transire infinitum spatium in
+tempore finito, neque finitum spatium in tempore infinito; sed oportet, si
+tempus est infinitum, quod magnitudo sit infinita, et e converso.
+Deinde cum dicit: sit enim magnitudo etc., probat propositum.
+Et primo quod tempus non potest esse infinitum, si magnitudo sit finita;
+secundo quod e converso, si longitudo sit infinita, tempus non potest esse
+finitum, ibi: eadem autem demonstratio est etc..
+|#5
+Primum autem ostendit duabus rationibus: quarum prima talis est.
+Sit magnitudo finita quae est ab, et sit tempus infinitum quod est g.
+Accipiatur autem huius infiniti temporis aliqua pars finita quae sit gd.
+Quia igitur mobile per totum tempus g pertransit totam magnitudinem ab,
+oportet quod in hac parte temporis quae est gd, pertranseat aliquam partem
+illius magnitudinis, quae quidem sit be. Cum autem ab magnitudo sit finita
+et maior, be autem finitum et minus, necesse est quod be aut mensuret totum
+ab, aut deficiet aut excellet in mensurando, si multoties sumatur be: sic
+enim omne finitum minus se habet ad finitum maius, ut patet in numeris.
+Ternarius enim, qui est minor senario, bis acceptus mensurat ipsum:
+quinarium vero, qui etiam est maior, non mensurat bis acceptus, sed
+excedit; plus enim est bis tria quam quinque. Similiter etiam et
+septenarium bis acceptus non mensurat, sed deficit ab eo: minus enim est
+bis tria quam septem. Sed tamen si ternarius ter accipiatur, excedet etiam
+septenarium. Nihil autem differt quocumque modo horum trium be se habeat ad
+ab: quia idem mobile semper pertransibit magnitudinem aequalem ei quod est
+be, in tempore aequali ei quod est gd. Sed be mensurat totum ab vel excedit
+ipsum, si multoties sumatur. Ergo et gd mensurabit totum tempus g vel
+excedit ipsum, si multoties sumatur; et sic oportet quod totum tempus g sit
+finitum, in quo pertransit totam magnitudinem finitam: quia oportet quod in
+aequalia secundum numerum dividatur tempus, sicut et magnitudo.
+|#6
+Secundam rationem ponit ibi: amplius autem etc.: quae talis est.
+Quamvis enim detur quod magnitudinem finitam quae est ab, pertranseat
+aliquod mobile in tempore infinito, non tamen potest dari quod omnem
+magnitudinem pertranseat in tempore infinito: quia videmus quod multae
+magnitudines finitae temporibus finitis pertranseuntur.
+Sit igitur magnitudo finita quae est be, quae pertranseatur tempore finito.
+Sed be, cum sit finita, mensurat ab, quae est etiam finita. Sed idem mobile
+pertransibit aequalem magnitudinem ei quae est be, in aequali tempore
+finito in quo ipsam pertransibat: et ita quot accipiebantur magnitudines
+aequales be ad constituendam totam ab, tot tempora finita aequalia
+accipientur ad mensurationem vel constitutionem totius temporis. Unde
+sequitur quod totum tempus sit finitum.
+|#7
+Differt autem haec ratio a prima; quia in prima ratione be ponebatur
+pars magnitudinis ab, hic autem be ponitur quaedam alia magnitudo separata.
+215
+
+

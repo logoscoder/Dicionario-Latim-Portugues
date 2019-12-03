@@ -1,0 +1,56 @@
+|#6 Secundo ibi: palam autem etc., inducit rationem ad hoc ostendendum. Et dicit quod sicut convertibilitas
+incorruptibilis et ingeniti manifestatur ex prius dictis, ita etiam hoc quod genitum et corruptibile sint
+convertibilia, manifestatur ex prioribus. Quia inter semper ens et semper non ens est medium, sicut supra dictum
+est, id ad quod neutrum consequitur, idest quod neque est semper ens neque semper non ens: tale autem est
+genitum et corruptibile, quia utrumque eorum est possibile esse et non esse secundum aliquod tempus
+determinatum, ita scilicet quod aliquo tempore finito utrumque eorum sit, et iterum non sit quodam alio tempore:
+si ergo est aliquid quod sit genitum aut quod sit corruptibile, necesse est quod huiusmodi sit medium inter
+semper ens et semper non ens; et sic utrumque eorum eidem attribuitur, et se invicem consequi videntur.
+|#7 Tertio ibi: sit enim a etc., manifestat praemissam rationem in terminis, dicens: sit a semper ens, et b sit
+semper non ens, g autem sit genitum, d autem sit corruptibile. Necesse est ergo g, quod est genitum, esse
+medium inter a et b, idest inter semper ens et semper non ens: quia his, scilicet a et b, non est aliquod tempus ad
+neutrum terminum, idest nec ante nec post, in quo vel a, quod est semper ens, non sit, aut b, quod est semper non
+ens, sit; sed ipsi genito necesse est quod sit tempus in quo non sit, ad utrumque extremum vel ad alterum, et
+similiter in quo sit, et hoc vel secundum actum vel secundum potentiam; cum tamen his quae sunt a et b neutro
+modo existat tempus ad oppositum, idest nec secundum actum nec secundum potentiam.
+Relinquitur ergo quod genitum quod est g, in quodam determinato tempore est, et quodam determinato tempore
+non est; et similis ratio est de d. Sequitur igitur quod utrumque eorum sit et genitum et corruptibile; ita scilicet
+quod genitum sit utrumque, et corruptibile sit utrumque.
+Sic ergo patet quod genitum et corruptibile se invicem consequuntur.
+|#8 Sed videtur quod haec ratio non sit efficax: non enim est necesse quod quidquid est medium inter duo
+contraria, sit unum et idem. Nam inter album et nigrum medium quidem est quod neque est album neque nigrum,
+et tamen hoc dicitur de diversis quae se invicem non consequuntur: quia et rubeum et pallidum et quilibet
+mediorum colorum neque est album neque nigrum, et tamen isti colores non se invicem consequuntur.
+Et ita posset aliquis dicere quod medium inter semper ens et semper non ens est quod neque est semper ens
+neque semper non ens, sed alio modo hoc convenit corruptibili et alio modo generabili: nam genitum habet non
+esse antequam sit, corruptibile autem habet non esse postquam fuit. Sed haec obiectio excluditur per hoc quod
+dicit, quod utrumque eorum est et non est quodam determinato tempore: et ita oportet quod utrumque eorum
+habeat esse post non esse et ante non esse. Et hoc magis manifestabitur in sequentibus.
+|#9 Deinde cum dicit: sit itaque in quo est e etc., ostendit ex hoc quod etiam ingenitum et incorruptibile
+convertantur, dicens: sit e ingenitum, z genitum, I incorruptibile, t corruptibile. Quia igitur ostensum est quod
+genitum et corruptibile se invicem consequuntur, planum est quod z et t se invicem consequuntur. Quando igitur
+positum fuerit quod z et t se consequuntur, scilicet genitum et corruptibile; et quod e et z, idest genitum et
+ingenitum, nulli eidem insunt, sed cuilibet oportet inesse alterum eorum; et eadem ratio est de t et I, scilicet de
+corruptibili et incorruptibili, scilicet quod nulli eidem insunt, sed omni alterum: quando igitur haec ita ponuntur,
+necesse est quod I et e, idest ingenitum et incorruptibile, se invicem consequantur. Et hoc probat ducendo ad
+impossibile. Si enim ad I, quod est incorruptibile, non ex necessitate consequatur e, quod est ingenitum, sequetur
+quod z, quod est genitum, simul possit stare cum I, quod est incorruptibile: quia iam dictum est quod de quolibet
+praedicatur aut e, idest ingenitum, aut z, idest genitum. Insuper dictum est quod cui inest z, idest genitum, ei
+inest et t, idest corruptibile. Sic igitur sequetur quod t, idest corruptibile, insit ei quod est I, idest incorruptibili.
+Quod est contra positum: positum enim erat quod t et I nunquam eidem inessent: nihil enim est corruptibile et
+incorruptibile. Et eadem ratio est quod I, idest incorruptibile, consequatur ad id quod est e, scilicet ingenitum:
+quia eodem modo se habet ingenitum quod est e, ad genitum quod est z, sicut incorruptibile quod est I, ad
+corruptibile quod est t.
+Sic igitur patet ex praedictis quod omne corruptibile est genitum et e converso, et omne incorruptibile ingenitum
+et e converso.
+|+29 Lectio 29
+|#1 Postquam Philosophus ostendit quod generabile et corruptibile se invicem consequuntur, et similiter
+ingenitum et incorruptibile, hic reprobat opinionem contrariam, per hoc quod ex contraria opinione necesse est
+aliqua principiorum suppositorum destrui. Et primo ostendit quomodo per hanc positionem destruitur id quod
+suppositum est, virtutem omnem referri ad determinatum tempus; secundo ostendit quod per hanc positionem
+destruitur quod suppositum est, quod non contingit simul idem esse et non esse, ibi: adhuc quid magis etc..
+|#2 Dicit ergo primo quod, cum ostensum sit demonstrative ex praesuppositis quibusdam principiis quod omne
+genitum est corruptibile, et omne ingenitum est incorruptibile, et e converso, consequens est quod qui dicit nihil
+60
+
+

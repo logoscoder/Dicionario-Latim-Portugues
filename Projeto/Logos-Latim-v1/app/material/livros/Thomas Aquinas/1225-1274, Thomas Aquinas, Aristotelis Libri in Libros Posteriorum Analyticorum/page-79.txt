@@ -1,0 +1,60 @@
+aliquid causa defectus lunae, quaeritur quid sit causa; et hoc est quaerere propter quid. Et eadem ratio est in aliis
+duabus quaestionibus, ut per sequentia manifestat. Dicit enim quod, sive accipiamus aliquam rem esse non hoc
+aut hoc (puta cum dico homo est albus, aut grammaticus), sed accipiamus ipsam substantiam esse simpliciter;
+sive etiam non accipiamus rem aliquam esse simpliciter, sed rem aliquam esse aliquid, ponendo in numerum,
+(sive illud aliquid sit de numero eorum quae praedicantur per se, sive de numero eorum quae praedicantur per
+accidens), sive hoc modo sive illo accipiamus rem esse, causa eius est medium ad demonstrandum ipsam.
+Exponit autem consequenter quod dixit, simpliciter substantiam esse, cum quaerimus de luna, aut de terra, aut de
+triangulo, aut de quolibet subiecto an sit, et ad hoc demonstrandum accipitur aliquod medium. Dico autem rem
+esse aliquid, cum quaerimus eclipsim de luna, aut aequalitatem, aut inaequalitatem de triangulo, aut de terra
+utrum sit in medio mundi vel non. Et ostendit quod non differt quantum ad propositum utrolibet modo accipiatur
+rem esse; quia in omnibus praedictis idem est quid est et propter quid. Et hoc manifestat primo in defectu lunae.
+Si enim quaeratur quid est defectus lunae: respondetur quod est privatio luminis a luna propter terram, quae
+obiicitur inter ipsam et solem.
+Et hoc idem respondemus si quaeratur propter quid luna deficit. Dicimus enim quod luna deficit propter
+defectum luminis ex oppositione terrae. Et idem manifestat in alio exemplo. Si enim quaeratur quid est
+consonantia: respondetur quod est ratio, idest proportio numerorum secundum acutum et grave. Et rursum si
+quaeratur propter quid acutum consonat gravi: respondetur propter id quod habent numeralem proportionem
+acutum et grave. Sic ergo quaestio quid est et quaestio propter quid redeunt in idem subiecto, quamvis differant
+ratione. Unde quia cum quaeritur propter quid, quaeritur quid sit medium, ut ostensum est, relinquitur quod cum
+quaeritur quid est, similiter quaeratur medium.
+Et idem ostendit in quaestione quia. Ut enim dictum est, consonantia est ratio in numeris acuti et gravis: cum
+ergo quaeritur utrum acutum et grave consonent, quaeritur utrum sit aliqua ratio numeralis acuti et gravis; et hoc
+est medium ad demonstrandum quod acutum et grave consonant.
+Relinquitur ergo quod in quaestione quia quaeritur an sit medium. Cum autem acceperimus quia est aliqua ratio
+numeralis acuti et gravis, quaeremus quae sit illa ratio. Et hoc est quaerere quid vel propter quid.
+|#9 Videtur hic Aristoteles dicere quod definitio passionis sit medium in demonstratione.
+Sed considerandum est quod definitio passionis perfici non potest sine definitione subiecti. Manifestum est enim
+quod principia, quae continet definitio subiecti, sunt principia passionis. Non ergo demonstratio resolvet in
+primam causam, nisi accipiatur ut medium demonstrationis definitio subiecti. Sic igitur oportet concludere
+passionem de subiecto per definitionem passionis, et ulterius definitionem passionis concludere de subiecto per
+definitionem subiecti. Unde et in principio dictum est quod oportet praecognoscere quid est, non solum de
+passione, sed etiam de subiecto; quod non oporteret nisi definitio passionis concluderetur de subiecto per
+definitionem subiecti. Et hoc patet per exemplum. Si velimus de triangulo demonstrare quod habet tres angulos
+aequales duobus rectis, accipiamus primo pro medio quod est figura habens angulum extrinsecum aequalem
+duobus intrinsecis sibi oppositis, quod est quasi definitio passionis. Quod iterum demonstrare oportet per
+definitionem subiecti, ut dicamus: omnis figura tribus rectis lineis contenta habet angulum exteriorem aequalem
+duobus interioribus sibi oppositis; sed triangulus est huiusmodi; ergo etc.. Et idem patet si velimus demonstrare
+quod vox acuta et gravis consonent: accipiemus definitionem passionis, ut hic dicitur, scilicet quod habent
+proportionem numeralem; sed rursus ad hoc demonstrandum oportet accipere definitionem gravis et acuti. Nam
+gravis vox est quae in multo tempore nata est movere sensum, acuta autem quae in modico tempore; modici
+autem ad multum est proportio numeralis; ergo vocis acutae et gravis est proportio numeralis.
+Nec refert si aliter definiatur acutum et grave. Oportet enim in eorum definitione ponere aliquid ad quantitatem
+pertinens; et sic necesse erit concludere in eis proportionem numeralem.
+|#10 Deinde cum dicit: quod autem medii sit quaestio etc., ostendit propositum per signum sensibile.
+Et dicit quod ea in quibus medium est sensibile, manifeste ostendunt quod omnis quaestio sit quaestio medii:
+quia scilicet quando medium per sensum innotescit, nullus relinquitur quaestioni locus. Tunc enim quaerimus in
+rebus sensibilibus secundum aliquam praedictarum quaestionum, quando medium non sentimus: sicut quaerimus
+an sit defectus lunae vel non, quia non sentimus medium quod est causa faciens deficere lunam. Sed si essemus
+in loco qui est super lunam, videremus quomodo luna subintrando umbram terrae deficeret; et ideo circa hoc
+nihil quaereremus, nec si est nec propter quid est; sed simul utrumque nobis fieret manifestum.
+|#11 Et quia posset aliquis obviando dicere quod sensus est singularium, ea vero quae quaeruntur sunt
+universalia, sicut et ea quae sciuntur; et ita per sensum non videtur quod possit nobis innotescere id de quo est
+quaestio: ideo quasi obviationi respondens subiungit quod ex hoc ipso quod sentiremus particulare, scilicet quod,
+hoc corpus lunae tunc subintrat hanc umbram terrae, statim accideret nobis quod sciremus universale.
+Sensus enim noster esset de hoc quod nunc lumen solis obstruitur per oppositionem terrae; et per hoc
+manifestum esset nobis quod luna nunc deficit.
+
+79
+
+

@@ -1,0 +1,55 @@
+|#4 Sciendum est autem quod secundum Avicennam quatuor sunt modi causae efficientis; scilicet perficiens,
+disponens, adiuvans, et consilians. Perficiens autem dicitur causa efficiens, quae ultimam rei perfectionem
+causat, sicut quod inducit formam substantialem in rebus naturalibus, vel artificialem in artificialibus, ut
+aedificator domus.
+|#5 Disponens autem quod non inducit ultimam formam perfectivam, sed tantummodo praeparat materiam ad
+formam; sicut ille, qui dolat ligna et lapides, dicitur domum facere. Et haec non proprie dicitur efficiens domus;
+quia id, quod ipse facit, non est domus nisi in potentiam. Magis tamen proprie erit efficiens, si inducat ultimam
+dispositionem ad quam sequitur de necessitate forma; sicut homo generat hominem non causans intellectum, qui
+est ab extrinseco.
+|#6 Adiuvans autem dicitur causa secundum quod operatur ad principalem effectum. In hoc tamen differt ab
+agente principali, quia principale agens agit ad finem proprium, adiuvans autem ad finem alienum; sicut qui
+adiuvat regem in bello, operatur ad finem regis. Et haec est dispositio causae secundariae ad primam; nam causa
+secunda operatur propter finem primae causae in omnibus agentibus per se ordinatis, sicut militaris propter finem
+civilis.
+|#7 Consilians autem differt ab efficiente principali, inquantum dat finem et formam agendi. Et haec est
+habitudo primi agentis per intellectum ad omne agens secundum, sive sit naturale, sive intellectuale.
+Nam primum agens intellectuale in omnibus dat finem et formam agendi secundo agenti, sicut architector navis
+navim operanti, et primus intellectus toti naturae.
+|#8 Ad hoc autem genus causae reducitur quicquid facit aliquid quocumque modo esse, non solum secundum
+esse substantiale, sed secundum accidentale; quod contingit in omni motu. Et ideo non solum dicit quod faciens
+sit causa facti, sed etiam mutans mutati.
+|#9 Quarto modo dicitur causa finis; hoc autem est cuius causa aliquid fit, sicut sanitas est causa ambulandi. Et
+quia de fine videbatur minus quod esset causa, propter hoc quod est ultimum in esse, unde etiam ab aliis
+prioribus philosophis haec causa est praetermissa, ut in primo libro praehabitum est, ideo specialiter probat de
+fine quod sit causa. Nam haec quaestio quare, vel propter quid, quaerit de causa: cum enim quaeritur quare, vel
+propter quid quis ambulat, convenienter respondentes dicimus, ut sanetur. Et sic respondentes opinamur reddere
+causam.
+Unde patet quod finis est causa. Non solum autem ultimum, propter quod efficiens operatur, dicitur finis respectu
+praecedentium; sed etiam omnia intermedia quae sunt inter primum agens et ultimum finem, dicuntur finis
+respectu praecedentium; et eodem modo dicuntur causa unde principium motus respectu sequentium: sicut inter
+medicinam, quae est primum agens in hoc ordine, et sanitatem quae est ultimus finis, sunt ista media: scilicet
+attenuatio, quae est propinquissima sanitati in his, qui superabundant in humoribus, et purgatio, per quam
+acquiritur attenuatio, et pharmacia, idest medicina laxativa, et ex qua purgatio causatur, et organa idest
+instrumenta quibus medicina vel pharmacia praeparatur et ministratur.
+Huiusmodi etiam omnia sunt propter finem; et tamen unum eorum est finis alterius.
+Nam attenuatio est finis purgationis, et purgatio pharmaciae. Haec autem intermedia posita differunt adinvicem
+in hoc, quaedam eorum sunt organa, sicut instrumenta quibus medicina praeparatur et ministratur, et ipsa
+medicina ministrata qua natura utitur ut instrumento; quaedam vero sunt opera, idest operationes, sive actiones,
+ut purgatio et attenuatio.
+|#10 Concludit ergo quod causae toties dicuntur, idest quatuor modis. Et addit fere propter modos causarum
+quos infra ponet. Vel etiam ideo, quia illae eaedem species non eadem ratione in omnibus inveniuntur.
+|#11 Deinde cum dicit accidit autem ponit quaedam, quae consequuntur circa causas ex praedictis; et sunt tria:
+quorum primum est, quod quia causa multis modis dicitur, contingit multas causas esse unius rei non secundum
+accidens, sed secundum se. Quod enim secundum accidens multae sint causae unius rei, hoc difficile non
+videbatur; quia rei, quae est causa per se alicuius effectus, multa possunt accidere, qua omnia illius effectus
+possunt etiam causa per accidens dici: sed, quod causae per se sint multae unius, hoc fit manifestum ex hoc,
+quod causae multipliciter dicuntur. Statuae enim causa per se et non per accidens est factor statuae, et aes; sed
+non eodem modo. Hoc enim est impossibile quod eiusdem secundum idem genus, sint multae causae per se
+eodem ordine; licet possint esse plures causae hoc modo, quod una sit proxima, alia remota: vel ita, quod
+neutrum sit causa sufficiens, sed utrumque coniunctim; sicut patet in multis, qui trahunt navem. Sed in proposito
+diversis modis ista duo sunt causa statuae: aes quidem ut materia, artifex vero ut efficiens.
+
+122
+
+

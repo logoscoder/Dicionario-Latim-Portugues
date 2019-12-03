@@ -1,0 +1,63 @@
+[809B] Superioris series uoluminis quod ad categoricorum syllogismorum propositiones attinebat explicuit.
+Nunc autem, quantum introductionis patitur temperamentum, de ipsa categoricorum syllogismorum ratione tractabitur;
+et quoniam omnium compositorum firmitudo uel uitium, aut in his maxime reperitur ex quibus est compositum, aut
+penes bonam malamue compositionem eius laus uituperatioque tenetur: [809C] namque domus si fortibus lapidibus
+debilibusue constructa, ipsa quoque est fortis aut debilis; porro autem si artificis compositionem aequabilem
+solertemque fuerit nacta, ipsa quoque constructio, merito stabilitatis erit laudabile fundamentum; si uero insolertior
+compositio fiat, tota quoque quamuis ex bonis ordinata lapidibus, nulla sese gerens fabrica stabilitate nutabit; nos
+quoque hanc eamdem imaginem secuti, prius de his quibus ipse syllogismus constat, id est propositionibus
+explicuimus.
+Nunc uero de ipsa inter se syllogismorum coniunctione compositioneque tractubimus. Illud uero meminisse
+debebis, introducendis hic me praestitisse docendis, non introductis.
+Et prius quid sit esse in omni uel non esse, paucis ostendam. Si qua enim [809D] res alterius generis fuerit,
+omnem intra se speciem continebit, et in toto species genere illa esse dicetur. Sit enim genus animal, homo uero
+species. Homo ergo quoniam minus est quam animal, in toto animali esse dicetur. Omnis enim homo animal est. Si quis
+ergo sic dicat aliquam rem de omni alia re praedicari, conuersa uice nihil interest. Nam sicut in toto animali homo est,
+sic etiam animal de omni homine praedicatur. In toto uero non esse est, quoties alia res ab alia re omni disiuncta est: ut
+si dicas:
+Animal in nullo lapide est
+nullum enim animal lapis est; et si dicas:
+Animal de nullo lapide praedicatur
+de nulloenim lapide animal dicitur. Definimus ergo in toto esse, uel in toto non esse sic: in toto esse, uel de
+omni praedicari dicitur, quoties non potest [810B] inueniri aliquid subiecti ad quod illud quod praedicatur dici non
+possit. Namque nihil hominis inuenitur ad quod animal dici non possit. In toto uero non esse, uel de nullo praedicari
+dicitur, quoties nihil subiecti poterit inueniri ad quod illud quod praedicatur dici possit. Nihil enim lapidis inueniri
+potest de quo possit animal praedicari.
+Illud sane notandum est, quod esse in toto uersa uice dicitur. Nam si aliquid [810C] de omni aliquo
+praedicatur, illud de quo illud praedicatur in toto illo esse dicitur quod praedicatur, ut animal de omni homine dicitur.
+Homo uero in toto est, id est uelut quaedam pars intra totum animal latet. Et si quid in alio omni fuerit, in eo toto res
+illa de quo superius dicebatur esse dicitur, ut idem animal cum in omni sit homine, et de eo omni praedicetur, homo in
+toto est animali.
+His igitur ita positis, quotiescumque ita dicimus, ut litteras pro terminis disponamus, pro breuitate hoc et
+compendio facimus, id quod per litteras demonstrare uolumus uniuersaliter demonstrarnus. Nam fortasse in terminis
+aliquibus falsum ingerendum necesse sit. In litteris uero nunquam fallimur, quoniam ad hoo utimur litteris quasi
+terminos poneremus. In litteris [810D] uero ipsis, nisi terminorum coniunctio per se firma ualensque fuerit, ulla neque
+ueritas, neque falsitas reperietur. Quoties igitur aliud de alio omni predicari uolumus ostendere, sic ponimus. Sit primus
+terminus a, secundus b, et praedicetur a de omni b. Hoc autem ita accipito tanquam si posuerimus a animal, b hominem.
+Eodem modo et de negatiuis. Nam si dicamus, a de nullo b praedicatur, tale est ac si dicamus, a, quod est animal, de
+nullo lapido praedicatur, quod est b, et alia quaecumque eis fuerint consimilia. Omnis autem syllogismus simplex tribus
+terminis demonstratur atque concluditur.
+Sed prius ipsorum syllogismorum figurae aspiciumus, post uero do modis ordinibusque eorum tractabimus.
+Tribus igitur terminis ita positis, ut prope se et sibi [811A] connexi sint, tres non ultra fieri complexiones
+necesse est hoc modo: sit enim a, sit b, sit c; aut enim a de b praedicabitur, et b de c, aut certe a et de b praedicabitur et
+de c, uel iisdem ipsis a et b c terminus uidebitur esse subiectus. Sit enim a bonum, sit b iustum, sit c uirtus, aut enim a,
+id est bonum erit in omni b, id est iusto, et dicetur:
+Omne iustum bonum est
+et item b iustum in omni c, id est uirtute, et dicetur:
+Omnis uirtus iusta est.
+Et erunt huiusmodi propositiones:
+Omne iustum bonum est
+et:
+Omnis uirtus iusta est
+aut a, id est bonum, de b, quod iustum est, et de c, quod uirtus est, predicabitur, ut sit:
+Omne iustum bonum est
+Omnis uirtus bona est
+aut certe a bonum, b iusto, et c uiriuti subiacebit, ut dicatur:
+Omne bonum iustum est
+et: [811B]
+Omne bonum uirtus est.
+In hac enim complexione b et c de solo a termino praedicantur. Ubi uero a de omni b termino, et b item
+predicatur de omni c. Hanc figuram uoco primam quae definitur sic:
+13
+
+

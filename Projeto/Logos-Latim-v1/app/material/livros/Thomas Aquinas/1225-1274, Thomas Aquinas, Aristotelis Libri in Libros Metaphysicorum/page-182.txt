@@ -1,0 +1,56 @@
+|#30 Sicut autem dictum est, ens inquantum ens est, habet causam ipsum Deum: unde sicut divinae providentiae
+subditur ipsum ens, ita etiam omnia accidentia entis inquantum est ens, inter quae sunt necessarium et
+contingens. Ad divinam igitur providentiam pertinet non solum quod faciat hoc ens, sed quod det ei
+contingentiam vel necessitatem. Secundum enim quod unicuique dare voluit contingentiam vel necessitatem,
+praeparavit ei causas medias, ex quibus de necessitate sequatur, vel contingenter. Invenitur igitur uniuscuiusque
+effectus secundum quod est sub ordine divinae providentiae necessitatem habere. Ex quo contingit quod haec
+conditionalis est vera, si aliquid est a Deo provisum, hoc erit.
+|#31 Secundum autem quod effectus aliquis consideratur sub ordine causae proximae, sic non omnis effectus
+est necessarius; sed quidam necessarius et quidam contingens secundum analogiam suae causae.
+Effectus enim in suis naturis similantur causis proximis, non autem remotis, ad quarum conditionem pertingere
+non possunt.
+|#32 Sic ergo patet, quod cum de divina providentia loquimur, non est dicendum solum, hoc est provisum a Deo
+ut sit, sed hoc est provisum a Deo, ut contingenter sit, vel ut necessario sit. Unde non sequitur secundum
+rationem Aristotelis hic inductam, quod ex quo divina providentia est posita, quod omnes effectus sint
+necessarii; sed necessarium est effectus esse contingenter, vel de necessitate. Quod quidem est singulare in hac
+causa, scilicet in divina providentia. Reliquae enim causae non constituunt legem necessitatis vel contingentiae,
+sed constituta a superiori causa utuntur. Unde causalitati cuiuslibet alterius causae subditur solum quod eius
+effectus sit. Quod autem sit necessario vel contingenter, dependet ex causa altiori, quae est causa entis
+inquantum est ens; a qua ordo necessitatis et contingentiae in rebus provenit.
+|+4 Lectio 4
+|#1 Postquam determinavit Philosophus de ente per accidens, hic determinat de ente, quod significat veritatem
+propositionis: et circa hoc duo facit.
+Primo determinat qualiter dicatur huiusmodi ens. Secundo removet ipsum a principali consideratione huius
+scientiae, ibi, quoniam autem complexio etc..
+Circa primum tria facit. Primo ostendit qualiter huiusmodi ens dicatur. Secundo respondet cuidam quaestioni,
+ibi, quomodo autem quod simul etc.. Tertio manifestat quoddam quod dixerat, ibi, non est autem verum et
+falsum in rebus etc..
+Dicit ergo quod ens quoddam dicitur quasi verum, idest quod nihil aliud significat nisi veritatem. Cum enim
+interrogamus si homo est animal, respondetur quod est; per quod significatur, propositionem praemissam esse
+veram. Et eodem modo non ens significat quasi falsum. Cum enim respondetur, non est, significatur quod
+proposita oratio sit falsa. Hoc autem ens, quod dicitur quasi verum, et non ens, quod dicitur quasi falsum,
+consistit circa compositionem et divisionem. Voces enim incomplexae neque verum neque falsum significant;
+sed voces complexae, per affirmationem aut negationem veritatem aut falsitatem habent. Dicitur autem hic
+affirmatio compositio, quia significat praedicatum inesse subiecto. Negatio vero dicitur hic divisio, quia
+significat praedicatum a subiecto removeri.
+|#2 Et cum voces sint signa intellectuum, similiter dicendum est de conceptionibus intellectus. Quae enim sunt
+simplices, non habent veritatem neque falsitatem, sed solum illae quae sunt complexae per affirmationem vel
+negationem.
+|#3 Et quia praedictum ens et non ens, scilicet verum et falsum, consistit in compositione et divisione, ideo
+similiter consistit circa partitionem contradictionis.
+Unaquaeque enim contradictionum partiuntur sibi invicem verum et falsum; ita quod altera pars est vera, et altera
+pars est falsa. Cum enim contradictio ex affirmatione et negatione constituatur, utraque autem harum ex
+praedicato sit et subiecto, praedicatum et subiectum dupliciter se possunt habere. Aut enim sunt coniuncta in
+rerum natura, sicut homo et animal; aut sunt disiuncta, ut homo et asinus.
+|#4 Si ergo formantur duae contradictiones: una ex terminis coniunctis, ut, homo est animal, homo non est
+animal; alia ex terminis disiunctis, ut, homo est asinus, homo non est asinus, utramque contradictionem inter se
+condividunt verum et falsum; ita quod verum pro parte sua habet affirmationem in composito, idest in terminis
+coniunctis, et negationem in disiuncto, idest in terminis disiunctis.
+Hae enim duae sunt verae, homo est animal et homo non est asinus. Sed falsum pro sua parte habet
+contradictionem partitionis, idest contradictoria eorum, quae cedunt in partem veri. Habet enim falsum pro sua
+parte negationem in coniuncto, et affirmationem in disiuncto.
+Hae enim duae sunt falsae, homo non est animal, et homo est asinus.
+
+182
+
+

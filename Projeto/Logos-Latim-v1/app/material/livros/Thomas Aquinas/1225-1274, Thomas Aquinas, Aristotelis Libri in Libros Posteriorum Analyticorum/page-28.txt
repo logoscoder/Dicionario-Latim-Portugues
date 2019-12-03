@@ -1,0 +1,55 @@
+|#7 Secundo, ibi: propria principia etc., exemplificat de utrisque, dicens quod propria principia sunt, ut lineam
+esse huiusmodi, vel rectum. Tam enim subiecti quam passionis definitio in scientiis pro principio habetur.
+Communia vero principia sunt, ut, si ab aequalibus aequalia demas, quae remanent sunt aequalia, et aliae
+communes animi conceptiones.
+|#8 Tertio, ibi: sufficiens autem est etc., ostendit quomodo praemissis principiis scientiae demonstrativae
+utantur. Et primo quidem de communibus dicit quod sufficiens est accipere unumquodque istorum communium,
+quantum pertinet ad genus subiectum, de quo est scientia. Idem enim faciet geometria, si non accipiat
+praemissum principium commune in sua communitate, sed solum in magnitudinibus, et arithmetica in solis
+numeris. Ita enim poterit concludere geometria, si dicat: si ab aequalibus magnitudinibus aequales auferas
+magnitudines, quae remanent sunt aequales; sicut si diceret: si ab aequalibus aequalia demas, quae remanent sunt
+aequalia.
+Et similiter dicendum est de numeris.
+|#9 Secundo, ibi: sunt autem propria etc., ostendit qualiter demonstrativae scientiae utantur propriis principiis,
+dicens quod propria principia sunt quae supponuntur esse in scientiis, scilicet subiecta, circa quae scientia
+speculatur ea quae per se insunt eis. Sicut arithmetica considerat unitates, et geometria considerat signa, idest
+puncta et lineas. Praedictae enim supponunt esse et hoc esse, idest supponunt de eis, et quia sunt et quid sunt.
+Sed de passionibus supponunt praedictae scientiae quid significet unaquaeque; sicut arithmetica supponit quid
+est par, et quid est impar, aut quid est numerus quadratus aut cubicus; et geometria supponit quid est rationale in
+lineis.
+Dicitur enim linea rationalis, de qua possumus ratiocinari per lineam datam: huiusmodi autem est omnis linea
+commensurabilis lineae datae; quae vero est ei non commensurabilis, vocatur irrationalis vel surda. Similiter et
+geometria supponit quid est reflexum aut curvum. Sed praedictae scientiae demonstrant de omnibus praedictis
+passionibus quod sint per principia communia, et ex illis principiis, quae demonstrantur ex communibus.
+Et quod dictum est de geometria et arithmetica, intelligendum est etiam de astrologia.
+Omnis enim scientia demonstrativa est circa tria: quorum unum est genus subiectum, cuius per se passiones
+scrutantur; et aliud est communes dignitates, ex quibus sicut ex primis demonstrat; tertium autem passiones, de
+quibus unaquaeque scientia accipit quid significent.
+|#10 Deinde cum dicit: quasdam tamen scientias etc., manifestat quoddam, quod poterat esse dubium. Quia
+enim dixerat quod scientiae supponunt de principiis quia sunt, de passionibus quid sunt, de subiectis autem
+utrumque, posset aliquis credere quod oporteret specialem fieri mentionem de omnibus istis. Unde hoc removet,
+dicens quod nihil prohibet quasdam scientias despicere quaedam praedictorum, idest non facere mentionem
+expressam de praemissis, sicut quandoque non facit mentionem de hoc quod supponat genus subiectum esse, si
+sit manifestum quod sit, quia non est similiter manifestum de omnibus quod sint, sicut quod sit numerus, et quod
+sit calidum vel frigidum: quorum unum est propinquum rationi, alterum sensui. Similiter et quaedam scientiae
+non supponunt de passionibus quid significent, expressam mentionem de eis faciendo.
+Sicut etiam non oportet quod de communibus principiis semper scientiae faciant mentionem, quia nota sunt.
+Nihilominus tamen, tria praedicta naturaliter sunt in qualibet scientia supponenda.
+|+19 Lectio 19
+|#1 Postquam divisit Aristoteles principia communia a propriis, hic distinguit communia principia ad invicem.
+Et dividitur in partes tres: in prima, ponit distinctionem communium principiorum ad invicem; in secunda,
+ostendit differentiam definitionis a quodam genere principiorum communium, ibi: termini igitur non etc.; in
+tertia, excludit quemdam errorem, ibi: species quidem igitur etc.. Circa primum duo facit: primo, distinguit
+communes animi conceptiones a petitionibus, sive suppositionibus; secundo, petitiones et suppositiones ad
+invicem, ibi: quaecunque quidem igitur etc..
+|#2 Circa primum considerandum est quod communes animi conceptiones habent aliquid commune cum aliis
+principiis demonstrationis, et aliquid proprium. Commune quidem habent, quia necesse est tam ista, quam alia
+principia per se esse vera. Proprium autem est horum principiorum quod non solum necesse est ea per se vera
+esse, sed etiam necesse est videri quod per se sint vera. Nullus enim potest opinari contraria eorum.
+|#3 Dicit ergo quod illud principium, quod necesse est non solum per seipsum esse, sed etiam ulterius necesse
+est, ipsum videri, scilicet communis animi conceptio vel dignitas, non est neque petitio neque suppositio. Quod
+sic probat.
+
+28
+
+

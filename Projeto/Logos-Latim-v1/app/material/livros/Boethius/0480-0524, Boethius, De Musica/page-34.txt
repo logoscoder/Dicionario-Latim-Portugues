@@ -1,0 +1,62 @@
+LIBER QUARTUS
+primum
+Vocum differentias in quantitate consistere.
+[1245] Etsi omnia quae demonstranda erant superioris libri tractatione digessimus, non poenitet tamen rursus
+eadem breuiter memoriae recolligenda praestare cum quadam diuersitate tractatus, ut his rursus ad memoriam
+redeuntibus ad regulae diuisionem, quo tota tendit intentio, ueniamus. Si foret rerum omnium quies, nullus auditum
+sonus feriret. Id autem fieret, quoniam cessantibus cunctis motibus nullae inter se res pulsum cierent: ut igitur sit uox,
+pulsu est opus. Sed u sit pulsus, motus necesse est antecedat. Ut ergo sit uox, motum esse necesse est. Sed omnis motus
+habet in se tum uelocitatem, tum etiam tarditatem. Si igitur sit tardus in pellendo motus, grauior redditur sonus. Nam ut
+tarditas proxima stationis est, ita grauitas continua taciturnitati. Velox uero motus acutam uoculam praestat. Praeterea,
+quae grauis est, intensione decrescit ad medium. Quae uero aucta, remissione decrescit ad medium. Unde fit ut omnis
+sonus quasi ex quibusdam partibus compositus esse uideatur. Omnis autem partium coniunctio quadam proportione
+committitur. Sonorum igitur coniunctio proportionibus constituta est. Proportiones autem principaliter in numeris
+considerantur, proportio uero simplex numerorum uel in multiplicibus, uel in superparticularibus, uel in
+superpartientibus inuenitur. Secundum uero multiplices proportiones, uel superparticulares, consonae uel [1246]
+dissonae uoces exaudiuntur.
+Consonae quidem sunt quae simul pulsae suauem permixtum inter se coniungunt sonum; dissonae uero quae
+simul pulsae non reddunt suauem neque permixtum sonum. His igitur ita praedictis, de proportionibus pauca dicamus.
+II
+Diuersae de interuallis speculationes.
+Si interuallum multiplex binario multiplicetur, id quod fit ex hac multiplicatione interuallum, multiplex est. Sit
+multiplex interuallum B C, et B multiplex eius quod est C, et fiat ut est C ad B, ita B ad D. Quoniam igitur B multiplex
+est, eius quod est C metitur C terminus, id quod est B, uel bis, uel tertio, uel deinceps, et est ut C ad B, ita B ad D.
+Metitur igitur B terminus id quod est D. Quocirca quia C terminus id quod est B metitur, metietur etiam D. Multiplex
+est igitur D eius quod est C, et est C D interuallum, effectum ex composito bis copulatoque sibimet et per binarium
+multiplicato B C interuallo. In numeris quoque idem probatur. Sit enim B ad C duplum, ut binarius ad unitatem, et fiat
+ut C ad B, ita B ad D. Erit igitur D quaternarius.
+Multiplex est autem B ad C, id est binarius ad unitatem. Multiplex est D ad B. id est quaternarius ad binarium.
+Multiplex est igitur D quaternarius ad C unitatem. Est autem quadruplus quaternarius unitatis, et binario multiplicata
+medietas quod est interuallum B C
+[1247] [PLLXIII:1247,1; text: Multiplex internaltum, 1, 2, 4, C, B, D, Multiplex] [BOEDIM4 01GF]
+Si interuallum binario multiplicatum, multiplex effecerit, interuallum ipsum quoque multiplex erit. Sit
+interuallum B C, et fiat ut C ad B, ita ad D, et D sit ad C multiplex, Dico quia B eius quod est C multiplex est. Quoniam
+enim D eius quod est D multiplex est, metietur C id quod est D, metietur et B. Ostensum est uero quoniam si sint
+termini proportionaliter constituti, cum primus fuerit ultimo comparatus, si primus ultimum fuerit mensus, metietur et
+medium. C igitur metietur id quod est B. Multiplex est igitur B eius quod est C Id rursus ex numeris, sit C unitas, D
+uero ex duplicata proportione, B C sit quaternarius, et est multiplex eius quod est C Est enim quadruplus. Quoniam
+igitur quadruplus ex duplicata B C proportione generatur, B C proportio dimidium eius erit, igitur B C proportio dupla
+est. Sed duplum multiplex est: erit igitur B C proportio multiplex.
+[PLLXIII:1247,2; text: Multiplex internaltum, 1, 2, 4, C, B, D, Multiplex] [BOEDIM4 01GF]
+Superparticularis interualli medius numerus, neque unus, neque plures proportionaliter interuenient. Sit enim B
+C proportio superparticularis, et in eadem proportione minimi sint D F et G.
+Quoniam D F et G minimi sunt in eadem proportione, sunt eiusdem proportionis primi. Quo circa eos unitas
+metietur. Auferatur igitur G ad D F et relinquatur D, hic est igitur utrorumque mensura communis: haec igitur erit
+unitas. Quocirca nullus inter F D atque G incidet numerus, qui sit ab F D quidem minor, maior uero ab G. Sola enim
+interest unitas, quanti uero in superparticularibus proportionibus proportionaliter inter eiusdem proportionis minimos
+intercident, tot etiam inter caeteros eiusdem proportionis incident. Sed nullus inter F D atque G minimos eiusdem
+proportionis interuenire potest. Nullus igitur inter B atque C proportionaliter cadet, et in numeris sit quaelibet [1248]
+superparticularis proportio, ut sesquialtera; hi uero sunt 10 et 15, in eadem uero proportione minimi 2 et 3, aufero de 3
+binarium; fit reliqua unitas, eadem utrosque metitur- Nullas erit igitur inter binarium ternariumque numerus, qui sit
+binario maior, minor uero ternario. Alioquin unitas diuidetur, quod est inconueniens.
+Quare ne inter 10 quidem atque 15 quisquam inuenietur numerus qui talem ad 10 obtineat proportionem
+qualem ad eum tenent 15.
+[PLLXIII:1248,1; text: sesquialtera proportio, in minimis differentia, 10, 2, 1, 3, 15, C, G, D, F, B]
+[BOEDIM4 02GF]
+Si interuallum non multiplex binario multiplicetur, id quod fit ex hac multiplicatione nec multiplex est nec
+superparticulare. Sit enim interuallum non multiplex B C, et fiat ut C ad B, sic B ad D. Dico quoniam E eius quod est
+C, neque multiplex est, neque superparticularis. Sit enim, si fieri potest, primum D eius quod est C multiplex, et
+quoniam cognitum est. Si interuallum binario multiplicatum sit, et multiplex interuallum creatum, id quod
+multiplicatum est bis interuallum esse multiplex. Erit igitur B C multiplex sed non est positum. Non igitur erit D eius
+
+

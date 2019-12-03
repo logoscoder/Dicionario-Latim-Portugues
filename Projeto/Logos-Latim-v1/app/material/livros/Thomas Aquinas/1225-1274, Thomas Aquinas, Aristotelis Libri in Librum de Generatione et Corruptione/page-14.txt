@@ -1,0 +1,59 @@
+Sed hoc excluditur. Quia si a continuo finito, ut dicitur in III physic., semper subtrahatur eadem quantitas,
+quantumcumque sit magnum, tandem consumetur; puta si a diametro caeli quis semper subtrahat palmum. Sed in
+infinitum continuum dividitur, si semper fiat subtractio secundum eandem proportionem; puta si continuum
+dividatur per medium, et medium per medium, et sic in infinitum; et eadem ratio est de quacumque alia
+proportione. Sic autem divisione facta, manifestum est quod id quod post medium accipitur, semper erit minus
+eo quod prius accipiebatur: nam dimidium dimidii semper minus est quam dimidium totius. Unde Aristoteles
+concludit quod, si hac ratione generatio et corruptio in infinitum duraret, qua ratione continuum in infinitum
+dividitur, oportebit quod id quod postea generatur, semper sit minus in quantitate, ut sic, semper minori existente
+eo quod subtrahitur a corpore naturali, non totaliter consumatur.
+Hoc autem non videmus ita accidere, quod semper sit minus quod generatur. Hoc igitur quod generatio et
+corruptio in infinitum durat, non potest esse simile divisioni magnitudinis in infinitum.
+|#6 Deinde cum dicit: quocirca propter huius etc., exclusis falsis solutionibus, concludit veram: scilicet quod
+ideo necesse est esse transmutationem generationis et corruptionis indeficientem vel inquietam, idest non
+cessantem, quia corruptio huius est generatio alterius, et e converso. Nam generatio per se quidem est ex ente in
+potentia, idest ex materia, quae est sicut subiectum rerum naturalium: accidit enim materiae ex qua aliquid
+generatur, quod sit subiecta alteri formae, secundum quam est ens actu, et privationi formae inducendae,
+secundum quam est non ens actu: et ideo Aristoteles dicit in I physic., ex ente quidem actu per accidens, ex ente
+autem in potentia per se. Et similiter corrumpitur aliquid per se quidem in ens potentia: quod quidem subiicitur et
+alteri formae, secundum quam est ens actu, et privationi prioris formae, secundum quam est non ens actu. Et ita
+non sequitur quod id quod corrumpitur secedat a tota rerum natura: quia quamvis fiat non ens hoc quod est
+corruptum, remanet tamen aliquid aliud, quod est generatum. Unde non potest materia remanere quin sit subiecta
+alicui formae: et inde est quod uno corrupto aliud generatur, et uno generato aliud corrumpitur: et sic
+consideratur quidam circulus in generatione et corruptione, ratione cuius habet aptitudinem ad perpetuitatem.
+Ultimo autem epilogando concludit quod existimandum est praedictam causam esse sufficientem de hoc quod
+generatio et corruptio simpliciter sit circa unumquodque entium in sempiternum.
+Quod quidem oportet dicere, supposita perpetuitate mundi et motus: quod tamen fides catholica non supponit, ut
+alibi dictum est.
+|+8 Lectio 8
+|#1 Soluta dubitatione quam introduxerat de continuitate generationis, hic procedit ad solvendum quaestionem
+principaliter intentam. Et circa hoc duo facit: primo movet quaestionem; secundo solvit eam, ibi: quemadmodum
+enim determinavimus etc..
+Dicit ergo primo quod iterum est perscrutandum quare quaedam dicantur simpliciter generari et corrumpi,
+quaedam autem non; sicut dictum est in determinatione praecedentis quaestionis quod generatio huius est
+corruptio illius, et corruptio huius est generatio alterius. Videtur enim hoc requirere quandam rationem: nam ex
+quo adinvicem generantur et corrumpuntur, videtur quod eadem ratione sit simpliciter generatio et corruptio
+unius et alterius. Dicimus enim in diversis quae non ex invicem generantur, quoniam aliquid corrumpitur
+simpliciter et non solum hoc, idest secundum quid; et quod quaedam est simpliciter generatio seu corruptio, et
+quod quaedam generantur secundum quid et non simpliciter; sicut dicimus quod ille qui addiscit, fit quidem
+sciens, quod est fieri secundum quid, non tamen fit simpliciter, quia simpliciter erat etiam antequam esset sciens.
+De utroque ergo considerandum est: scilicet quare in generatis ex invicem quaedam dicuntur generari simpliciter
+et quaedam secundum quid; et quare etiam haec differentia contingat in his quae non ex invicem generantur.
+|#2 Deinde cum dicit: quemadmodum enim determinavimus etc., solvit praemissam quaestionem: et primo in
+his quae generantur adinvicem; secundo in his quae non generantur adinvicem, ibi: dicuntur autem haec quidem
+etc.. Circa primum duo facit: primo solvit quaestionem; secundo epilogat, ibi: esse quidem igitur etc.. Circa
+primum, proponit tres modos secundum quos contingit in adinvicem generatis, quod unius generatio et corruptio
+sit simpliciter, et alterius secundum quid.
+Circa quorum primum dicit quod, sicut multoties determinatum est, quaedam quae affirmative dicuntur,
+significant hoc aliquid, idest quoddam ens, quaedam vero significant non ens: et ex hoc contingit id de quo
+quaeritur, scilicet quod quaedam dicuntur generari vel corrumpi simpliciter, quaedam secundum quid. Differt
+enim quantum ad hoc, quid sit illud in quod aliquid transmutatur per generationem et corruptionem.
+Puta si dicamus, secundum opinionem Parmenidis, quod ignis sit ens et terra non ens, transmutatio quae est via
+in ignem, puta si ex terra generetur ignis, dicetur generatio simpliciter, quia est via in ens; corruptio autem non
+simpliciter, sed alicuius, scilicet terrae, quae est non ens. E converso autem generatio terrae erit generatio aliqua,
+non autem generatio simplex, quia est generatio non entis; sed est corruptio simplex, quia est corruptio entis,
+scilicet ignis. Sic enim Parmenides dixit duo esse principia rerum, scilicet ens et non ens, appellans ens ignem, et
+non ens terram; forte propter hoc, quod ignis inter alia elementa habet plus de forma, terra vero minus. Hoc
+14
+
+

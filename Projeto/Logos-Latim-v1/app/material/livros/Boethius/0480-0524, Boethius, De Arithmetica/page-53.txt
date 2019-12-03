@@ -1,0 +1,56 @@
+civitatis est. Namque vel in maioribus vel in minoribus aequali omnium proportionalitate componitur, et est inter
+omnes paritas quaedam medietatis aequum ius in proportionibus conservantis.
+Quod superficies una tantum in proportionalitatibus medietate iungantur, solidi vero numeri duabus
+medietatibus in medio collocatis
+Post haec igitur tempus est, ut expediamus nunc quiddam nimis utile in Platonica quodam disputatione,
+quae in Timaei cosmopoeia haud facili cuiquam vel penetrabili ratione versatur. Omnes enim planae figurae,
+quae nulla altitudine crescunt, una tantum medietate geometrica continuantur; alia, quae iungat, non potest
+inveniri; unde duo tantum in his intervalla sunt constituta, a primo scilicet ad medium et a medio ad tertium. Si
+vero fuerint cybi, duas tantum habebunt medietates, ubi tertia inveniri non poterit secundum geometricam
+scilicet proportionem; unde formae solidae tria intervalla dicuntur habere. Est enim unum intervallum a primo ad
+secundum et a secundo ad tertium et a tertio ad quartum, quae est scilicet postrema distantia. Recte igitur et
+planae figurae duobus intervallis et solidae tribus contineri dicuntur. Sint enim duo tetragoni iiij scilicet et viiij.
+Horum igitur unus tantum medius in eadem proportione constitui potest. Namque senarius ad iiij sesqualter est et
+viiij ad senarium eodem modo sesqualter. Hoc autem idcirco evenit, quod singula latera singulorum
+tetragonorum efficiunt senariam medietatem. Nam quaternarii tetragoni latus binarius est, novenarii ternarius. Hi
+ergo multiplicati senarium perfecerunt; bis enim iij senarius est. Et quotienscunque datis duobus tetragonis
+eorum medietatem volumus invenire, latera eorum multiplicanda sunt, et qui ex his procreabitur, medietas est. Si
+autem cybi sunt, ut viij et xxvij, duae tantum inter hos eadem proportione medietates constitui queunt, xij scilicet
+et xviij. Namque xij ad viij et xviij ad xij et xxvij ad xviij sesqualtera tantum proportione iunguntur. In his
+quoque eadem laterum ratio est. Namque exuno cybo, qui propinquior est, una medietas duo latera colligit, ex
+alternatim vero posito unum. In alia quoque medietate idem est. Ponanturenim duo cybi et in medio eorum duae
+medietates, quas superius diximus: viij xij xviij xxvij. Octonarii igitur latus est binarius; bis enim bini bis
+octonarium referunt: ternarius vero xxvij cybi latus est; ter enim tres ter xxvij restituunt. Medietas igitur, quae
+iuxta octonarium est, id est xij, mutuatur duo latera ex propinquo sibi octonario et aliud unum latus ex altrinsecus
+posito xxvij cybo. Bis enim bini ter xij pandunt. Et xviij eadem ratione duo latera a propinquo sibi xxvij cybo
+colligit et unum ab altrinsecus posito octonario. Tres enim ter bis xviij concludunt. Hoc autem universaliter
+speculandum est. Si tetragonus tetragonum multiplicet, sine dubio tetragonus provenit; sin vero parte altera
+longior tetragonum multiplicet vel tetragonus parte altera longiorem nunquam tetragonus, semper parte altera
+longior crescit. Rursus si cybus cybum multiplicaverit, cybi forma conficitur, si vero parte altera longior cybum
+vel cybus parte altera longiorem, nunquam cybus procreabitur. Hoc scilicet secundum similitudinem paris atque
+inparis. Par enim parem si multiplicet, semper par nascitur et inpar inparem si multiplicet, inpar continuo
+procreabitur. Si vero inpar parem vel si par inparem multiplicet, par semper exoritur. Hoc autem facilius
+cognoscitur ex lectione Platonis in libris de republica eo loco, qui nuptialis dicitur, quem ex persona musarum
+philosophus introducit. Sed nunc ad tertiam medietatem redeundum est.
+De armonica medietate eiusque proprietatibus
+Armonica autem medietas est, quae neque eisdem differentiis nec aequis proportionibus constituitur, sed
+illa, in qua quemadmodum maximus terminus ad parvissimum terminum ponitur, sic differentia maximi et medii
+contra differentiam medii atque parvissimi comparatur; ut si sint iij iiij vj vel si ij iij vj. Senarius enim
+quaternarium sua tertia parte superat, id est duobus, quaternarius vero ternarium sua quartaparte supervenit, id
+est uno, et senarius ternarium sua medietate, id est tribus, ternarius vero binarium sua parte tertia, id est unitate
+transcendit. Quare in his neque eadem proportio terminorum est, neque sunt eaedem differentiae, est autem
+quemadmodum maximus terminus ad parvissimum terminum, sic differentia maximi et medii ad differentiam
+medii atque postremi. Namque in hac proportione, quae est iij iiij vj, maior terminus, id est senarius, ad
+parvissimum terminum, id est ternarium, duplus est et differentia maximi et medii, id est senarii et quaternarii,
+duo scilicet, ad differentiam medii et ultimi, id est quaternarii atque ternarii, quae est unitas, dupla perspicitur.
+Sed hoc quoque subiecta descriptione monstratur.
+Differentiae duplae
+
+Differentiae triplae
+
+j
+53
+
+ij
+
+

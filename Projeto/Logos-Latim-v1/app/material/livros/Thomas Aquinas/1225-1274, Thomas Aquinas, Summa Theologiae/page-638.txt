@@ -1,0 +1,62 @@
+Sed contra est quod Philosophus dicit, in III de anima, quod appetibile intellectum est movens non motum,
+voluntas autem est movens motum.
+CO
+Respondeo dicendum quod intantum aliquid indiget moveri ab aliquo, inquantum est in potentia ad plura, oportet
+enim ut id quod est in potentia, reducatur in actum per aliquid quod est actu; et hoc est movere. Dupliciter autem
+aliqua vis animae invenitur esse in potentia ad diversa, uno modo, quantum ad agere et non agere; alio modo,
+quantum ad agere hoc vel illud. Sicut visus quandoque videt actu, et quandoque non videt; et quandoque videt
+album, et quandoque videt nigrum. Indiget igitur movente quantum ad duo, scilicet quantum ad exercitium vel
+usum actus; et quantum ad determinationem actus. Quorum primum est ex parte subiecti, quod quandoque
+invenitur agens, quandoque non agens, aliud autem est ex parte obiecti, secundum quod specificatur actus. Motio
+autem ipsius subiecti est ex agente aliquo. Et cum omne agens agat propter finem, ut supra ostensum est,
+principium huius motionis est ex fine.
+Et inde est quod ars ad quam pertinet finis, movet suo imperio artem ad quam pertinet id quod est ad finem, sicut
+gubernatoria ars imperat navifactivae, ut in II physic. Dicitur.
+Bonum autem in communi, quod habet rationem finis, est obiectum voluntatis. Et ideo ex hac parte voluntas
+movet alias potentias animae ad suos actus, utimur enim aliis potentiis cum volumus. Nam fines et perfectiones
+omnium aliarum potentiarum comprehenduntur sub obiecto voluntatis, sicut quaedam particularia bona, semper
+autem ars vel potentia ad quam pertinet finis universalis, movet ad agendum artem vel potentiam ad quam
+pertinet finis particularis sub illo universali comprehensus; sicut dux exercitus, qui intendit bonum commune,
+scilicet ordinem totius exercitus, movet suo imperio aliquem ex tribunis, qui intendit ordinem unius aciei. Sed
+obiectum movet, determinando actum, ad modum principii formalis, a quo in rebus naturalibus actio specificatur,
+sicut calefactio a calore. Primum autem principium formale est ens et verum universale, quod est obiectum
+intellectus. Et ideo isto modo motionis intellectus movet voluntatem, sicut praesentans ei obiectum suum.
+RA1
+Ad primum ergo dicendum quod ex illa auctoritate non habetur quod intellectus non moveat, sed quod non
+moveat ex necessitate.
+RA2
+Ad secundum dicendum quod, sicut imaginatio formae sine aestimatione convenientis vel nocivi, non movet
+appetitum sensitivum; ita nec apprehensio veri sine ratione boni et appetibilis.
+Unde intellectus speculativus non movet, sed intellectus practicus, ut dicitur in III de anima.
+RA3
+Ad tertium dicendum quod voluntas movet intellectum quantum ad exercitium actus, quia et ipsum verum, quod
+est perfectio intellectus, continetur sub universali bono ut quoddam bonum particulare. Sed quantum ad
+determinationem actus, quae est ex parte obiecti, intellectus movet voluntatem, quia et ipsum bonum
+apprehenditur secundum quandam specialem rationem comprehensam sub universali ratione veri. Et sic patet
+quod non est idem movens et motum secundum idem.
+|a2 Articulus 2
+AG1
+Ad secundum sic proceditur. Videtur quod voluntas ab appetitu sensitivo moveri non possit.
+Movens enim et agens est praestantius patiente, ut Augustinus dicit, XII super Gen. Ad litt..
+Sed appetitus sensitivus est inferior voluntate, quae est appetitus intellectivus; sicut sensus est inferior intellectu.
+Ergo appetitus sensitivus non movet voluntatem.
+AG2
+Praeterea, nulla virtus particularis potest facere effectum universalem. Sed appetitus sensitivus est virtus
+particularis, consequitur enim particularem sensus apprehensionem. Ergo non potest causare motum voluntatis,
+qui est universalis, velut consequens apprehensionem universalem intellectus.
+AG3
+Praeterea, ut probatur in VIII physic., movens non movetur ab eo quod movet, ut sit motio reciproca.
+Sed voluntas movet appetitum sensitivum, inquantum appetitus sensitivus obedit rationi.
+Ergo appetitus sensitivus non movet voluntatem.
+SC
+Sed contra est quod dicitur Iac. I, unusquisque tentatur a concupiscentia sua abstractus et illectus.
+Non autem abstraheretur quis a concupiscentia, nisi voluntas eius moveretur ab appetitu sensitivo, in quo est
+concupiscentia.
+Ergo appetitus sensitivus movet voluntatem.
+CO
+Respondeo dicendum quod, sicut supra dictum est, id quod apprehenditur sub ratione boni et convenientis,
+movet voluntatem per modum obiecti. Quod autem aliquid videatur bonum et conveniens, ex duobus contingit,
+
+638
+
+

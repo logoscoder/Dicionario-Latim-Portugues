@@ -1,0 +1,59 @@
+TABULA CAPITULORUM SUMMAE LOGICAE
+TABULA CAPITULORUM SUMMAE LOGICAE
+Prologus Fratris et Magistri Adam de Anglia
+Epistola Prooemialis Guillelmi de Ockham
+Epistola Prooemialis Guillelmi de Ockham
+PARS I: DE TERMINIS
+PARS I: DE TERMINIS
+1.01. De definitione termini et eius diuisione in generali
+1.02. De diuisione termini, et quod diuersimode potest accipi hoc nomen
+'terminus' in speciali
+1.03. De diuisione termini incomplexi
+1.04. De diuisione termininorum in terminos categorematicos et syncategorematicos, quae est
+communis tam terminis mentalibus quam uocalibus
+1.05. De diuisione nominis per concretum et abstractum
+1.06. Quod nomen concretum et abstractum aliquando idem significant
+1.07. Inquirit per rationem utrum huiusmodi nomina concreta et abstracta
+'homo' et 'humanitas', 'animal' et 'animalitas' et huiusmodi sint nomina synonyma
+1.08. De nominibus abstractis quae aequiualenter aliqua syncategoremata uel aliquas determinationes
+aduerbiales coincludunt
+1.09. De nominibus concretis et abstractis quorum abstracta non supponunt nisi pro multis simul
+sumptis et concreta pro uno solo uerificari possunt
+1.10. De diuisione nominum in mere absoluta et connotatiua
+1.11. De diuisione nominum significantium ad placitum, puta in nomina primae impositionis et in
+nomina secundae impositionis
+1.12. Quid est intentio prima et quid secunda et quomodo distinguuntur ab inuicem
+1.13. De diuisione nominum et terminorum in aequiuoca, uniuoca et denominatiua, et quid est
+aequiuocum et quot modis dicitur
+1.14. De hoc communi 'uniuersale' et de 'singulari', opposito sibi
+1.15. Quod uniuersale non sit aliqua res extra animam
+1.16. De opinione circa esse uniuersalis: quomodo habet esse extra animam? Contra Scotum
+1.17. De solutione dubiorum quae moueri possunt contra praedicta
+1.18. De quinque uniuersalibus et eorum sufficientia
+1.19. De indiuiduo quod continetur sub quolibet uniuersali
+1.20. De genere: quid est genus?
+1.21. De specie
+1.22. De comparatione generis et speciei ad inuicem
+1.23. De differentia
+1.24. De proprio
+1.25. De accidente
+1.26. De definitione: quot modis dicuntur definitio?
+1.27. De hoc nomine 'descriptio'
+1.28. De descroptiua definitione
+1.29. De istis terminis 'definitum' et 'descriptum'
+1.30. De isto termino 'subiectum'
+1.31. De isto termino 'praedicatum'
+1.32. Quomodo praedicatum dicitur inesse subiecto?
+1.33. De isto termino 'significare'
+1.34. De isto termino 'diuidi'
+1.35. De isto termino 'totum'
+1.36. De isto termino 'opposita'
+1.37. De isto termino 'passio'
+1.38. De isto termino 'ens'
+1.39. De isto termino 'unum'
+1.40. De isto termino 'praedicatum'
+1.41. De numero praedicamentorum
+1.42. De praedicamento substantiae
+1
+
+

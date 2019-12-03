@@ -1,0 +1,52 @@
+alioquin eius quae est:
+Verum non est
+illa negatio est quae dicit:
+Non uerum non est.
+
+[13]
+ET CONSEQUENTIAE VERO SECUNDUM ORDINEM FIUNT ITA PONENTIBUS.
+Expeditis omnibus, quae de modorum oppositionibus disputabantur, ad consequentias uenit. Hoc enim dicit,
+quae propositiones supra dictorum modorum quas propositiones consequuntur quibusque consentiunt. Nos autem
+ex his quattuor fecimus ordines et consequentias propositionum sub una serie disposuimus. Haec autem prius
+notans quid ab Aristotele dicatur facilius lector intellegit. /180/
+<FIGURA>
+Superius autem descriptas consequential ipse disponit. Nobis autem reddenda est breuiter ratio, cur hae
+propositiones sese inuicem consequantur. Quod possibile est esse, contingit aliquando ut sit, et hoc est contingit
+esse; quod autem contingit esse, non est impossibile esse, et quod non est impossibile esse, non idcirco iam esse
+necesse est. Non est enim impossibile hodie esse pluuiam sed non idcirco esse necesse est. Quod ergo non est
+impossibile, non necesse est esse. Et hic est unus ordo consequentiae. Rursus secundus ordo propositionum
+talem habet consequentiam: quod possibile est non esse, potest fieri ut non sit, quare contingit aliquando ut non
+sit, et quod possibile est non esse, contingit non esse; quod autem contingit non esse, potest fieri ut non sit sed
+quod potest fieri ut non sit, non est impossibile ut non sit: ergo quod contingit non esse, non est impossibile ut
+non sit; sed quod non est impossibile non esse, non /181/ idcirco iam illud non esse necesse est. Hodie enim
+pluuiam non esse non est impossibile, potest enim esse sed non idcirco ex necessitate hodie non pluit. Quare
+quod non est impossibile non esse, non est ne cessarium non esse. Et secundus quid em ordo sese sic habet.
+Nunc ad tertium transeamus. Quod non possibile est esse, hoc fieri non potest, quod autem fieri non potest, ut
+aliquando sit, non contingit: quod ergo non possibile est esse, idem non contingit esse; sed quod non contingit
+esse, necesse est ut non sit; quod numquam contingit, numquam esse potest, quod numquam esse potest, necesse
+est non esse: quod igitur non contingit esse, idem necesse est non esse; sed quod necesse est non esse, hoc fieri
+non potest, quod autem fieri non potest, impossibile est ut fiat: quod igitur necesse est non esse, impossibile est
+esse. Quartus etiam ordo hoc modo est: quod non possibile est non esse, fieri non potest ut non sit; quod fieri non
+potest ut non sit, non contingit non esse, ut quoniam non possibile est non esse motum caelo, non contingit
+caelum non moueri; quare quod non possibile est non esse, idem non contingit non esse; sed quod non contingit
+non esse, necesse est esse, sicuti de caelo, necesse. Enim est caelum moueri, quondam non contingit caelum non
+moueri; sed quod necesse est esse, ut non sit fieri non potest: quare quod necesse est esse, impossibile est non
+esse. Et haec quidem est ordinate ab Aristotele consequentia propositionum, de qua paulo latius disputauit. /182/
+ERGO IMPOSSIBILE ET NON IMPOSSIBILE ILLUD QUOD EST CONTINGENS ET POSSIBILE ET NON
+CONTINGENS ET NON POSSIBILE SEQUITUR QUIDEM CONTRADICTORIE SED CONUERSIM.
+Quaedam de superiore consequentium ratione pertractat. In superioribus enim descriptionibus sese sequentium
+affirmationem possibilem sequebatur impossibilis negatio, rursus negationem possibilis sequebatur impossibilis
+affirmatio, et de contingenti eodem modo. Affirmationem namque possibilis dicentem possibile esse sequebatur
+negatio impossibilis dicens non impossibile esse. Rursus cum possibile negaretur per id quod dicebatur non
+possibile esse hanc affirmatio impossibilis subsequebatur ea scilicet quae dicit impossibile esse. Atque hoc idem
+de contingenti. Affirmatio namque impossibilis ea quae est impossibile esse sequebatur contingentis negationem
+eam quae est non contingit esse. Negatio uero impossibilis ea quae dicit non impossibile est esse affirmationem
+contingentis sequebatur eam quae dicit contingit esse. /183/
+Quare hae propositiones se inuicem sequuntur sed conuerse. Namque affirmatio impossibilis contingentis
+negationem et possibilis subsequitur, negatio uero impossibilis affirmationem possibilis et contingentis, ut
+subiecta descriptio docet.
+
+AFFIRMATIO NEGATIO
+59
+
+

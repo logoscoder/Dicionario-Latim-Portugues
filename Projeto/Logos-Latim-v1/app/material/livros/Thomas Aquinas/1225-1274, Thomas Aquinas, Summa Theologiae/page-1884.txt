@@ -1,0 +1,60 @@
+Ergo modestia est solum circa exteriores actiones.
+AG2
+Praeterea, virtutes quae sunt circa passiones, distinguuntur a virtute iustitiae, quae est circa operationes. Sed
+modestia videtur esse una virtus. Si ergo est circa operationes exteriores, non erit circa aliquas interiores
+passiones.
+AG3
+Praeterea, nulla virtus una et eadem est circa ea quae pertinent ad appetitum, quod est proprium virtutum
+Moralium; et circa ea quae pertinent ad cognitionem, quae est proprie virtutum intellectualium; neque etiam
+circa ea quae pertinent ad irascibilem, et concupiscibilem. Si ergo modestia est una virtus, non potest esse circa
+omnia praedicta.
+SC
+Sed contra, in omnibus praedictis oportet observari modum, a quo modestia dicitur. Ergo circa omnia praedicta
+est modestia.
+CO
+Respondeo dicendum quod, sicut dictum est, modestia differt a temperantia in hoc quod temperantia est
+moderativa eorum quae difficillimum est refrenare, modestia autem est moderativa eorum quae in hoc
+mediocriter se habent.
+Diversimode autem aliqui de modestia videntur esse locuti.
+Ubicumque enim consideraverunt aliquam specialem rationem boni vel difficultatis in moderando, illud
+subtraxerunt modestiae, relinquentes modestiam circa minora. Manifestum est autem omnibus quod refrenatio
+delectationum tactus specialem quandam difficultatem habet.
+Unde omnes temperantiam a modestia distinxerunt.
+Sed praeter hoc, tullius consideravit quoddam speciale bonum esse in moderatione poenarum. Et ideo etiam
+clementiam subtraxit modestiae, ponens modestiam circa omnia quae relinquuntur moderanda.
+Quae quidem videntur esse quatuor. Quorum unum est motus animi ad aliquam excellentiam, quem moderatur
+humilitas. Secundum autem est desiderium eorum quae pertinent ad cognitionem, et in hoc moderatur
+studiositas, quae opponitur curiositati. Tertium autem, quod pertinet ad corporales motus et actiones, ut scilicet
+decenter et honeste fiant, tam in his quae serio, quam in his quae ludo aguntur. Quartum autem est quod pertinet
+ad exteriorem apparatum, puta in vestibus et aliis huiusmodi.
+Sed circa quaedam eorum alii posuerunt quasdam speciales virtutes sicut Andronicus mansuetudinem,
+simplicitatem et humilitatem, et alia huiusmodi, de quibus supra dictum est.
+Aristoteles etiam circa delectationes ludorum posuit eutrapeliam.
+Quae omnia continentur sub modestia, secundum quod a tullio accipitur.
+Et hoc modo modestia se habet non solum circa exteriores actiones, sed etiam circa interiores.
+RA1
+Ad primum ergo dicendum quod apostolus loquitur de modestia prout est circa exteriora. Et tamen etiam
+interiorum moderatio manifestari potest per quaedam exteriora signa.
+RA2
+Ad secundum dicendum quod sub modestia continentur diversae virtutes, quae a diversis assignantur.
+Unde nihil prohibet modestiam esse circa ea quae requirunt diversas virtutes.
+Et tamen non est tanta diversitas inter partes modestiae ad invicem, quanta est iustitiae, quae est circa
+operationes, ad temperantiam, quae est circa passiones, quia in actionibus et passionibus in quibus non est aliqua
+excellens difficultas ex parte materiae, sed solum ex parte moderationis, non attenditur virtus nisi una, scilicet
+secundum rationem moderationis.
+RA3
+Et per hoc etiam patet responsio ad tertium.
+|q161 Quaestio 161
+|a0 Prologus
+Deinde considerandum est de speciebus modestiae. Et primo, de humilitate, et superbia, quae ei opponitur;
+secundo, de studiositate, et curiositate sibi opposita; tertio, de modestia secundum quod est in verbis vel factis;
+quarto, de modestia secundum quod est circa exteriorem cultum. Circa humilitatem quaeruntur sex. Primo, utrum
+humilitas sit virtus. Secundo, utrum consistat in appetitu, vel in iudicio rationis. Tertio, utrum aliquis per
+humilitatem se debeat omnibus subiicere. Quarto, utrum sit pars modestiae vel temperantiae. Quinto, de
+comparatione eius ad alias virtutes. Sexto, de gradibus humilitatis.
+|a1 Articulus 1
+AG1
+Ad primum sic proceditur. Videtur quod humilitas non sit virtus.
+1884
+
+

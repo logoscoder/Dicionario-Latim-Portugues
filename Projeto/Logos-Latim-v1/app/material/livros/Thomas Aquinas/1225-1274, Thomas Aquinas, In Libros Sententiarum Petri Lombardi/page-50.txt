@@ -1,0 +1,62 @@
+RA2
+Ad secundum dicendum, quod, quamvis hoc nomen Deus significet essentiam, tamen, quantum est de se,
+supponit habentem essentiam, et rem naturae, etiam non intellectis personis, quas fides distinguit. Unde potest
+supponere pro persona, etiamsi ab alio non restringatur. Et quia supponit personam indistincte, ideo potest stare
+in locutione pro quacumque persona: et sic reddit locutionem veram.
+Unde in hac propositione, Deus generat Deum, in supposito stat pro patre, in apposito pro filio.
+RA3
+Ad tertium dicendum quod hoc nomen Deus, proprie loquendo, nec est universale nec singulare; sed habet
+aliquid de ratione universalis, scilicet quod praedicatur essentialiter de pluribus suppositis; et inde habet quod ea
+quae praedicantur de singulis suppositis, praedicantur de ipso: habet autem de ratione singularis hoc quod non
+multiplicatur ad multitudinem suppositorum: dicimus enim, quod pater et filius sunt unus Deus, sed socrates et
+Plato sunt plures homines: et ex parte ista habet hoc nomen Deus quod negatio et affirmatio opponuntur
+contradictorie: unde sicut istae non possunt simul esse verae, socrates currit et non currit; ita nec istae, Deus
+generat et non generat.
+|a3 Articulus 3: Utrum Deus genuit se Deum vel alium Deum.
+AG1
+Ad tertium sic proceditur. Videtur quod genuit vel se Deum, vel alium Deum. Idem enim et diversum
+universaliter dividunt ens. Sed se est relativum identitatis, alius autem importat diversitatem.
+Ergo oportet dicere, quod genuit vel se Deum vel alium Deum.
+AG2
+Item, ut supra dictum est, art. Anteced., hoc nomen Deus trahitur ad standum pro persona ex notionali adjuncto.
+Sed alius importat distinctionem notionalem. Ergo ly alius hoc nomen Deus facit stare pro persona. Sed haec est
+vera: Deus genuit aliam personam divinam. Ergo et haec: Deus genuit alium Deum.
+AG3
+Item, videtur quod haec sit vera, Deus genuit se Deum. Idem enim, ut dicit Philosophus, est unum in substantia,
+sicut aequale unum in quantitate. Sed sicut una magnitudo est patris et filii, sic et una substantia. Ergo sicut
+conceditur ista, Deus genuit aequalem Deum; ita debet concedi ista, Deus genuit eumdem Deum. Unde similiter
+et haec, Deus genuit se Deum, cum se sit relativum identitatis.
+AG4
+Item, quaeritur de aliis duabus propositionibus, scilicet, genuit Deum, qui est Deus pater, vel Deum qui non est
+Deus pater. Videtur enim quod haec sit falsa: genuit Deum qui est Deus pater. Qui enim cum sit relativum, facit
+secundam notitiam suppositorum.
+Sed iste terminus Deus, ad quem refertur, stabat pro persona filii. Ergo et relativum supponet personam filii. Sed
+haec est falsa: filius est Deus pater. Ergo et haec, Deus genuit Deum, qui est Deus pater.
+AG5
+Item, videtur quod etiam negativa sit falsa.
+Negatio enim respicit terminum sequentem formalem.
+Ergo cum dicit, Deus genuit Deum qui non est Deus pater, a filio, quem refert relativum, per negationem
+removetur ly Deus, qui in praedicato ponitur, non tantum quantum ad suppositum, sed quantum ad formam; et ita
+divina essentia removebitur a filio, quod falsum est.
+CO
+Respondeo dicendum, quod Magister in littera negat utramque praemissarum; eo quod alius, cum notet
+diversitatem, ponit formam suam circa terminum cui adjungitur, cum sit adjectivum, et ita designabitur diversitas
+in forma divinitatis. Ly se autem cum sit relativum identitatis, refert idem suppositum; et ita cum dico: genuit se
+Deum, ponitur indistinctio suppositi inter patrem et filium; et cum dicitur, genuit alium Deum, ponitur diversitas
+naturae; et ideo utraque neganda est.
+Sed sunt aliqui qui distinguunt istam, genuit alium Deum; quia ly alium potest teneri substantive vel adjective. Si
+adjective, tunc erit locutio falsa, quia ponet diversitatem circa hunc terminum Deus; si substantive, tunc erit
+constructio appositiva, et locutio erit vera, et erit sensus, genuit alium Deum, qui est Deus. Sed, quia non
+invenitur quod adjectivum in masculino genere substantivetur, et maxime cum adjungitur sibi substantivum, ideo
+haec distinctio non videtur multum valere; nisi forte subintelligatur hoc participium ens ut dicatur alium entem
+Deum. Sed hoc erit nimis extortum; et ideo dicendum cum Magistro quod utraque falsa est.
+RA1
+Ad primum ergo dicendum, quod idem et diversum sufficienter dividunt ens creatum, propter hoc quod
+ubicumque in creaturis est diversitas suppositorum, est diversitas essentiae; sed in Deo in diversis suppositis est
+una essentia: et ideo nec identitas competit propter diversitatem suppositorum nec diversitas propter identitatem
+essentiae; sed tantum unitas.
+RA2
+
+50
+
+

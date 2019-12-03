@@ -1,0 +1,56 @@
+quantum aliquid participant contradictionis: nam privatio est negatio in subiecto determinato. Et alterum etiam
+contrariorum habet aliquid privationis. Sed contradictio simpliciter in omnibus caret medio; et hoc non habet ab
+alio, sed ex seipsa; et propter hoc dicit quod eius non est medium secundum se. Exponit etiam consequenter quid
+sit pars contradictionis: est enim contradictio oppositio affirmationis et negationis. Unde altera pars eius est
+affirmatio, quae praedicat aliquid de aliquo; altera vero negatio, quae removet aliquid ab aliquo.
+|#6 Deinde cum dicit: immediati autem etc. Dividit immediatum principium. Et circa hoc duo facit: primo
+dividit; secundo subdividit; ibi: positiones autem quaedam etc.. Dicit ergo primo quod immediatum principium
+syllogismi duplex est.
+Unum est quod dicitur positio, quam non contingit demonstrare et ex hoc immediatum dicitur; neque tamen
+aliquem docendum, idest qui doceri debet in demonstrativa scientia, necesse est habere, idest mente concipere
+sive ei assentire.
+Aliud vero est, quod dicitur dignitas vel maxima propositio, quam necesse est habere in mente et ei assentire
+quemlibet, qui doceri debet. Et manifestum est quod quaedam principia talia sunt ut probatur in IV metaphysicae
+de hoc principio, quod affirmatio et negatio non sunt simul vera, cuius contrarium nullus mente credere potest
+etsi ore proferat. Et in talibus utimur nomine praedicto, scilicet dignitatis vel maximae propositionis, propter
+huiusmodi principiorum certitudinem ad manifestandum alia.
+|#7 Ad huius autem divisionis intellectum sciendum est quod quaelibet propositio, cuius praedicatum est in
+ratione subiecti, est immediata et per se nota, quantum est in se.
+Sed quarundam propositionum termini sunt tales, quod sunt in notitia omnium, sicut ens, et unum, et alia quae
+sunt entis, in quantum ens: nam ens est prima conceptio intellectus. Unde oportet quod tales propositiones non
+solum in se, sed etiam quoad omnes, quasi per se notae habeantur.
+Sicut quod, non contingit idem esse et non esse; et quod, totum sit maius sua parte: et similia. Unde et huiusmodi
+principia omnes scientiae accipiunt a metaphysica, cuius est considerare ens simpliciter et ea, quae sunt entis.
+Quaedam vero propositiones sunt immediatae, quarum termini non sunt apud omnes noti. Unde, licet
+praedicatum sit de ratione subiecti, tamen quia definitio subiecti non est omnibus nota, non est necessarium quod
+tales propositiones ab omnibus concedantur. Sicut haec propositio: omnes recti anguli sunt aequales, quantum est
+in se, est per se nota sive immediata, quia aequalitas cadit in definitione anguli recti. Angulus enim rectus est,
+quem facit linea recta super aliam rectam cadens, ita quod ex utraque parte anguli reddantur aequales. Et ideo,
+cum quadam positione recipiuntur huiusmodi principia.
+Est et alius modus, quo aliquae propositiones suppositiones dicuntur. Sunt enim quaedam propositiones, quae
+non possunt probari nisi per principia alterius scientiae; et ideo oportet quod in illa scientia supponantur, licet
+probentur per principia alterius scientiae. Sicut a puncto ad punctum rectam lineam ducere, supponit geometra et
+probat naturalis; ostendens quod inter quaelibet duo puncta sit linea media.
+|#8 Deinde cum dicit: positionis autem quae est etc., subdividit alterum membrum primae divisionis, scilicet
+positionem: dicens quod quaedam positio est, quae accipit aliquam partem enunciationis, scilicet affirmationem
+vel negationem; quod significat cum dicit: ut dico aliquid esse aut non esse. Et haec positio suppositio dicitur,
+quia tanquam veritatem habens supponitur. Alia autem positio est, quae non significat esse vel non esse, sicut
+definitio, quae positio dicitur. Ponitur enim ab arithmetico definitio unitatis, tanquam quoddam principium,
+scilicet quod unitas est indivisibile secundum quantitatem. Sed tamen definitio non dicitur suppositio: illud enim
+proprie supponitur, quod verum vel falsum significat. Et ideo subdit quod non idem est, quod quid est unitas,
+quod neque verum, neque falsum significat, et esse unitatem, quod significat verum vel falsum.
+|#9 Sed potest quaeri: cum definitio non sit propositio significans esse vel non esse, quomodo ponatur in
+subdivisione immediatae propositionis.
+Sed dicendum quod in subdivisione non resumit immediatam propositionem ad subdividendum, sed immediatum
+principium. Principium autem syllogismi dici potest non solum propositio, sed etiam definitio. Vel potest dici
+quod licet definitio in se non sit propositio in actu, est tamen in virtute propositio quia cognita definitione,
+apparet definitionem de subiecto vere praedicari.
+|+6 Lectio 6
+|#1 Postquam ostendit Philosophus quae sunt immediata principia, hic de eorum cognitione determinat. Et circa
+hoc duo facit: primo, ostendit quod immediata principia sunt magis nota conclusione; secundo, ostendit quod
+etiam falsitas contrariorum debet esse notissima; ibi: non solum autem etc..
+Circa primum tria facit.
+
+10
+
+

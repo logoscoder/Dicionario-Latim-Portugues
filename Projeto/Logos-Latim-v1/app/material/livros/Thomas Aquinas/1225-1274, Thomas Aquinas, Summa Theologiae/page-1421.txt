@@ -1,0 +1,62 @@
+Sed eorum quae sunt unius generis eadem est originis ratio.
+Ergo etiam prudentia inest nobis a natura.
+AG2
+Praeterea, aetatum variatio est secundum naturam. Sed prudentia consequitur aetates, secundum illud iob XII, in
+antiquis est sapientia, et in multo tempore prudentia.
+Ergo prudentia est naturalis.
+AG3
+Praeterea, prudentia magis convenit naturae humanae quam naturae brutorum animalium. Sed bruta animalia
+habent quasdam naturales prudentias; ut patet per Philosophum, in VIII de historiis animal..
+SC
+Sed contra est quod Philosophus dicit, in II ethic., quod virtus intellectualis plurimum ex doctrina habet et
+generationem et augmentum, ideo experimento indiget et tempore.
+Sed prudentia est virtus intellectualis, ut supra habitum est.
+Ergo prudentia non inest nobis a natura, sed ex doctrina et experimento.
+CO
+Respondeo dicendum quod, sicut ex praemissis patet, prudentia includit cognitionem et universalium et
+singularium operabilium, ad quae prudens universalia principia applicat.
+Quantum igitur ad universalem cognitionem, eadem ratio est de prudentia et de scientia speculativa. Quia
+utriusque prima principia universalia sunt naturaliter nota, ut ex supradictis patet, nisi quod principia communia
+prudentiae sunt magis connaturalia homini; ut enim Philosophus dicit, in X ethic., vita quae est secundum
+speculationem est melior quam quae est secundum hominem.
+Sed alia principia universalia posteriora, sive sint rationis speculativae sive practicae, non habentur per naturam,
+sed per inventionem secundum viam experimenti, vel per disciplinam.
+Quantum autem ad particularem cognitionem eorum circa quae operatio consistit est iterum distinguendum. Quia
+operatio consistit circa aliquid vel sicut circa finem; vel sicut circa ea quae sunt ad finem. Fines autem recti
+humanae vitae sunt determinati. Et ideo potest esse naturalis inclinatio respectu horum finium, sicut supra dictum
+est quod quidam habent ex naturali dispositione quasdam virtutes quibus inclinantur ad rectos fines, et per
+consequens etiam habent naturaliter rectum iudicium de huiusmodi finibus. Sed ea quae sunt ad finem in rebus
+humanis non sunt determinata, sed multipliciter diversificantur secundum diversitatem personarum et
+negotiorum.
+Unde quia inclinatio naturae semper est ad aliquid determinatum, talis cognitio non potest homini inesse
+naturaliter, licet ex naturali dispositione unus sit aptior ad huiusmodi discernenda quam alius; sicut etiam accidit
+circa conclusiones speculativarum scientiarum. Quia igitur prudentia non est circa fines, sed circa ea quae sunt
+ad finem, ut supra habitum est; ideo prudentia non est naturalis.
+RA1
+Ad primum ergo dicendum quod Philosophus ibi loquitur de pertinentibus ad prudentiam secundum quod
+ordinantur ad fines, unde supra praemiserat quod principia sunt eius quod est cuius gratia, idest finis. Et propter
+hoc non facit mentionem de eubulia, quae est consiliativa eorum quae sunt ad finem.
+RA2
+Ad secundum dicendum quod prudentia magis est in senibus non solum propter naturalem dispositionem,
+quietatis motibus passionum sensibilium, sed etiam propter experientiam longi temporis.
+RA3
+Ad tertium dicendum quod in brutis animalibus sunt determinatae viae perveniendi ad finem, unde videmus quod
+omnia animalia eiusdem speciei similiter operantur. Sed hoc non potest esse in homine, propter rationem eius,
+quae, cum sit cognoscitiva universalium, ad infinita singularia se extendit.
+|a16 Articulus 16
+AG1
+Ad decimumsextum sic proceditur. Videtur quod prudentia possit amitti per oblivionem. Scientia enim, cum sit
+necessariorum, est certior quam prudentia, quae est contingentium operabilium.
+Sed scientia amittitur per oblivionem. Ergo multo magis prudentia.
+AG2
+Praeterea, sicut Philosophus dicit, in II ethic., virtus ex eisdem generatur et corrumpitur contrario modo factis.
+Sed ad generationem prudentiae necessarium est experimentum, quod fit ex multis memoriis, ut dicitur in
+principio metaphys..
+Ergo, cum oblivio memoriae opponatur, videtur quod prudentia per oblivionem possit amitti.
+AG3
+Praeterea, prudentia non est sine cognitione universalium. Sed universalium cognitio potest per oblivionem
+amitti.
+Ergo et prudentia.
+1421
+
+

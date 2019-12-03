@@ -1,0 +1,63 @@
+195 signat W411
+196 nec V630; W411; V1341; E97
+197 alii W411; alia fehlt E97
+198 de fehlt W411
+199 utero korr. aus vero O93
+200 sempiternus] Sempiternus est quoque E97
+201 et] et si V630; V1341
+202 Quoniam E97
+203 semper korr. aus semper est V630
+204 feiit W411
+205 cuius korr. aus cum V630; cui W411
+206 ab W411
+207 eundem] eum de W411
+208 desecte W411; E97
+209 naturam W411
+210 filium sine korr. aus sine filium E97
+211 minutione korr. aus minitione V1341
+212 desectione W411; E97
+213 divinitatis est korr. aus divinitatis V1341
+214 Hinc V630; V1341; hoc W411
+215 credendus korr. aus crededus W411
+216 nec ulla] nulla W411
+217 deum E97
+218 capit W411
+219 spiritu W411
+220 esse fehlt W411
+221 sanctas W411
+222 dixerimus fehlt W411
+223 praedicare V630; W411; V1341; E97
+224 natum W411
+225 filii] filii spiritus V630; W411; V1341; E97
+226 patre] patre tantum E97
+227 de fehlt
+228 filium W411; filio] filio tantum E97
+229 Qui W411
+230 Hinc W411
+231 sicut filius fehlt E97
+232 a fehlt V630; V1341; E97
+233 proter W411
+234 assumptam] ut sumpta W411
+235 se] se de W411
+236 spiritus W411
+237 sancta W411
+238 sanctae trinitatis korr. aus sancta trinitas V1341
+239 trita W411
+240 se W411
+241 et fehlt W411
+242 Nec korr. aus Non V630
+243 patre W411
+244 quae cum] Quecumque W411
+245 Ne W411
+246 substantias praedicamus, sed unam substantiam korr. aus substantiam V630
+247 confitemur E97
+248 substantia W411
+249 filium] filium est W411
+250 filium W411
+251 dicemus W411
+252 dicitur sicut korr. aus dicitur O93
+253 dicitur deus] deus dicitur V630; V1341; E97
+254 dicitur fehlt W411
+13
+
+

@@ -1,0 +1,62 @@
+PRIOR VERO DEFINITIO SEQUITUR QUIDEM OMNIA RELATIUA, NON TAMEN HOC EIS EST QUOD SINT
+AD ALIQUID QUOD EA IPSA QUAE SUNT ALIORUM DICUNTUR.
+Proposita ergo atque firmata priore relatiuorum definitione difficile defendi poterit, aut fortasse nunquam,
+[235B] quasdam substantias non esse relatiuas. Nam si ad aliquid illa sunt, quaecumque id quod sunt aliorum dicuntur,
+ut id quod est caput capitati dicitur caput, habebit igitur substantia quae est caput ad aliquid relationem, et ita erit
+substantia relatiua atque accidens, quod est impossibile. Quare quoniam proposita atque constituta priore definitione
+haec incommoditas in dispositione consequitur, ut constet ratio non integrae definitionis, assignatio permutetur. Ait
+enim non esse integram definitionem quae supra sit reddita, nec magis illa esse ad aliquid, quae id quod sunt aliorum
+dicuntur, potiusquam ea quibus ipsum esse est ad aliquid quodammodo se habere.
+Sed fortasse uideatur quibusdam inconsulte legentibus et minime considerantibus, id quod definiri [235C]
+oportuerat, hoc in definitione esse sumptum, quod est uitiosissimum. Si enim idcirco definitio sumitur, ut res de qua
+quaeritur assignetur, quae magis est apertior definitio, si re ipsa quam definit in assignatione definitionis utatur?
+Definitio namque idcirco redditur, ut res de cuius quidem esse dubitatur, definitione patefiat. Quod si rem ipsamquam
+definit, in definitione protulerit, nihilo planior definitio sit, ut si quis hominem definire uolens dicat, hoc ipsum esse
+hominem quod hominem. Ita quoque non considerantibus, Aristoteles relatiuorum definitionem reddidisse uidebitur.
+Ait enim esse ad aliquid, quibus hoc ipsum esse est ad aliquid quodammodo se habere, ac si diceret: Ea sunt ad aliquid,
+quae se ad aliquid quodammodo habent. Sed minutius atque scutius considerantibus, uis integra definitionis [235D]
+prompte atque ueraciter apparebit; non enim in eo quod est dici, ad aliquid consideramus sed in eo quod est esse; ea
+namque sunt relatiua, quae in quadam comparatione et relationis habitudine consideramus, ut quaternarius numerus, et
+hoc ipsum quod est esse dicitur, id est quattuor, et aliud quoddam, id est duplum, ut si ad binarium conferatur. Sed quod
+de quaternario numero dicimus, quaternarium hoc ad ipsius quaternarii numeri naturam refertur. Quod uero duplum,
+non est hoc quaternarii sed duorum ad quod duplum dicitur, et ad quod propria relatione duplum est. Binarius quoque
+numerus et binarius est, et medietas, binarius quidem secundum suam [236A] naturam, medietas uero secundum
+quaternarius relationem. Quocirca in comparatione quadam atque in habitudine ea quae sunt ad aliquid speculamur;
+quaternarius enim in eo quod quaternarius est ad aliquid non dicitur, in eo uero quod est duplus, duorum relatiuus est,
+scilicet ad binarium comparatus. Binarius quoque in eo quod sunt duo, ad aliquid non refertur sed in eo quod est
+medietas, scilicet ad quaternarium comparatus. Ergo, ut sit duplus quaternarius, non duobus sed medietate eget, ut si
+medietas biniarius, non quaternario sed duplo opus est. Videsne ut habitudine quadam et comparatione res aliud in
+natura retinentes, aliud tamen ad se inuicem sint? et hoc non ex propria sed ex inuicem natura mutuentur, nam quod est
+duplus numerus ex medio trahit, [236B] quod est medietas ex duplo, atque hoc iis quae sunt ad aliquid extra euenit, et
+ideo nihil patientibus neque permutatis ipsis quae ad aliquid referuntur, ipsa ad aliquid fiunt, nihil enim permutato de
+quaternario duplus ipse est, sit ad binarium referatur, et nihil de binario permutato, medietas est binarius, si ad
+quaternarium dicitur. Ergo relatiuorum hoc est esse, id est haec eorum natura atque substantia est, ut id quod sunt ad
+aliquid referantur, id est non solum referri dicantur sed etiam referuntur. Atque hoc est quod ait sed sunt ad aliquid
+quibus hoc ipsum esse est ad aliquid quodammodo se babere, ac si diceret quorum substantia est ad aliquid aliud
+referri, et qua ita sunt ut ipsa id quod sunt ad aliud referantur, et esse eorum sit ad aliquid aliud referri, [236C] sed non
+omnia quae dicuntur ad aliud, et esse de alio mutuantur. Illa namque definitio prior, maius est, definitionem namque
+relatiuorum supergressa est, includit enim ea quoque quae relatiua non sunt, et quemadmodum hominem cum dico,
+mortalem eum esse necesse est, cum dico mortalem, non necesse est esse hominem, ita quoque ea quae hoc ipsum quod
+sunt ex altero trahunt, et esse habent ad alterius relationem, et esse suum ad alterius referunt nuncupationem. Quae uero
+ad aliud tantum dicuntur, non necesse est, ut esse suum ad aliquid habeant relatum, quo posteriorem definitionem
+suscipiant, et ista sententia breuiter includatur, ut quaecumque hanc definitionem susceperint, ut hoc ipsum esse sit ad
+aliquid quodammodo se habere, habeant eam quoque definitionem, quae est relatiua esse quaecumque [236D] id quod
+sunt aliorum dicuntur, quae uero hanc habuerint definitionem illam non necessario habeant, ut ea quae sunt ad aliquid,
+etiam ad aliquid dicantur. Sed ea quae dicuntur ad aliquid, non omnino ad aliquid sint, quod si ista definitio posterior
+recipiatur, quae dicit ea esse ad aliquid, quibus hoc ipsum esse est ad aliquid quodammodo se habere, poterit superior
+solui dubitatio, quod dicamus id quod ipse posteriore disputatione secutus est. Quod autem ait: Prior uero definitio
+sequitur quidem omnia relatiua, non tamen hoc eis est esse, quod sint ad aliquid, quod ea ipsa quae sunt aliorum
+dicuntur, hoc est quod non idcirco aliquid relatiuum esse dicitur, quoniam alterius esse [237A] dicitur. Sed tunc merito
+res aliqua relationis nomine continebitur, quoties non solum ad aliquid dicitur sed hoc ipsum esse eius ad aliquid est
+quodammodo se habere. Quare quid hanc definitionem proprium consequatur, ipse addidit.
+EX HIS ERGO MANIFESTUM EST QUOD, SI QUIS ALIQUID EORUM QUAE SUNT AD ALIQUID
+DEFINITE SCIET, ET ILLUD AD QUOD DICITUR DEFINITE SCITURUS EST. SI MANIFESTUM QUIDEM
+ETIAM EX IPSO EST; NAM SI QUIS NOUIT QUONIAM HOC EORUM QUAE SUNT AD ALIQUID EST,
+RELATIUIS AUTEM HOC EST ESSE, AD ALIQUID QUODAMMODO HABERE, ET ILLUD NOUIT AD QUOD
+HOC ALIQUO MODO HABET.
+Proprium relatiuis secundum eam quae superius dicta est definitionem hoc esse confirmat, quod si quis id quod
+est ad aliquid definite scit, quoniam [237B] relatiuam est, et illud ad quod referri potest, definite sciturus est quid sit,
+nam relatiua easunt quibus hoc est esse ad aliquid quodammodo se habere, quoniam ut sit quaternarius duplum a
+binario trahit. Si quis nouit esse quaternarium numerum duplum, et binarium necessario sciturus est esse dimidium, ad
+
+

@@ -1,0 +1,62 @@
+Ad primum igitur dicendum, quod, sicut dictum est, in Deo non est idea solum primorum effectuum, sed etiam
+secundorum; unde, quamvis accidentia habeant esse per substantiam, non excluditur quin habeant ideas.
+RA2
+Ad secundum dicendum, quod accidens dupliciter potest accipi. Uno modo in abstracto; et sic consideratur
+secundum propriam rationem; sic enim assignamus in accidentibus genus et speciem; et hoc modo subiectum
+non ponitur in definitione accidentis ut genus, sed ut differentia, ut cum dicitur: simitas est curvitas nasi. Alio
+modo possunt accipi in concreto; et sic accipiuntur secundum quod sunt unum per accidens cum subiecto; unde
+sic non assignantur eis nec genus nec species, et ita verum est quod subiectum ponitur ut genus in definitione
+accidentis.
+RA3
+Ad tertium dicendum, quod, quamvis accidens non sit participans, est tamen ipsa participatio; et sic patet quod ei
+etiam respondet idea in Deo, vel similitudo.
+RA4
+Ad quartum patet responsio ex dictis.
+|a8 Articulus 8
+TTA
+Octavo quaeritur utrum singularia habeant ideam in Deo.
+TTB
+Et videtur quod non.
+AG1
+Quia singularia sunt infinita in potentia.
+Sed in Deo est idea non solum eius quod est, sed etiam eius quod esse potest.
+Si ergo singularium esset idea in Deo, essent in ipso ideae infinitae; quod videtur absurdum, cum non possint
+esse actu infinita.
+AG2
+Praeterea, si singularia habent ideam in Deo; aut est eadem idea singularis et speciei, aut alia et alia. Si alia et
+alia: tunc unius rei sunt multae ideae in Deo, quia idea speciei est etiam idea singularis. Si autem est una et
+eadem; cum in idea speciei omnia singularia quae sunt eadem specie, conveniant, tunc omnium singularium non
+erit nisi una idea tantum; et sic singularia non habebunt ideam distinctam in Deo.
+AG3
+Praeterea, multa singularium casu accidunt.
+Sed talia non sunt praedefinita. Cum ergo idea requirat praedefinitionem, ut ex praedictis, patet, videtur quod
+non omnia singularia habeant ideam in Deo.
+AG4
+Praeterea, quaedam singularia sunt ex duabus speciebus commixta, sicut mulus ex asino et equo. Si ergo talia
+habent ideam, videtur quod unicuique eorum respondeat duplex idea; et hoc videtur absurdum, cum
+inconveniens sit ponere multitudinem in causa, et unitatem in effectu.
+SC1
+Sed contra. Ideae sunt in Deo ad cognoscendum et operandum. Sed Deus est cognitor et operator singularium.
+Ergo in ipso sunt eorum ideae.
+SC2
+Praeterea, ideae ordinantur ad esse rerum.
+Sed singularia habent verius esse quam universalia, cum universalia non subsistant, nisi in singularibus. Ergo
+singularia magis debent habere ideas quam universalia.
+CO
+Responsio. Dicendum, quod Plato, non posuit ideas singularium, sed specierum tantum; cuius duplex fuit ratio.
+Una, quia, secundum ipsum, ideae non erant factivae materiae, sed formae tantum in his inferioribus.
+Singularitatis autem principium est materia; secundum formam vero unumquodque singulare collocatur in
+specie; et ideo idea non respondet singulari inquantum singulare est, sed ratione speciei tantum.
+Alia ratio esse potuit, quia idea non est nisi eorum quae per se sunt intenta, ut ex dictis, patet. Intentio autem
+naturae est principaliter ad speciem conservandam; unde, quamvis generatio terminetur ad hunc hominem, tamen
+intentio naturae est quod generet hominem. Et propter hoc etiam Philosophus dicit in XIX de animalibus, quod
+in accidentibus specierum sunt assignandae causae finales, non autem in accidentibus singularium, sed
+efficientes et materiales tantum; et ideo idea non respondet singulari, sed speciei. Et eadem ratione Plato non
+ponebat ideas generum, quia intentio naturae non terminatur ad productionem formae generis, sed solum formae
+speciei.
+Nos autem ponimus Deum causam esse singularis et quantum ad formam et quantum ad materiam. Ponimus
+etiam, quod per divinam providentiam definiuntur omnia singularia; et ideo oportet nos etiam singularium
+ponere ideas.
+80
+
+

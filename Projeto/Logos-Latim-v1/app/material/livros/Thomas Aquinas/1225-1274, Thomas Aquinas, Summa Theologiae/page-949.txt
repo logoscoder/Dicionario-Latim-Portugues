@@ -1,0 +1,60 @@
+quam. Formam autem habet ex fine. Et ideo secundum quatuor genera causarum peccatum potest dici causa
+peccati, ut dictum est.
+RA2
+Ad secundum dicendum quod peccatum est imperfectum imperfectione morali ex parte inordinationis, sed ex
+parte actus potest habere perfectionem naturae. Et secundum hoc potest esse causa peccati.
+RA3
+Ad tertium dicendum quod non omnis causa peccati est peccatum.
+Unde non oportet quod procedatur in infinitum; sed potest perveniri ad aliquod primum peccatum, cuius causa
+non est aliud peccatum.
+|q76 Quaestio 76
+|a0 Prologus
+Deinde considerandum est de causis peccati in speciali. Et primo, de causis interioribus peccati; secundo, de
+exterioribus; tertio, de peccatis quae sunt causa aliorum peccatorum. Prima autem consideratio, secundum
+praemissa, erit tripartita, nam primo, agetur de ignorantia, quae est causa peccati ex parte rationis; secundo, de
+infirmitate seu passione, quae est causa peccati ex parte appetitus sensitivi; tertio, de malitia, quae est causa
+peccati ex parte voluntatis. Circa primum quaeruntur quatuor.
+Primo, utrum ignorantia sit causa peccati. Secundo, utrum ignorantia sit peccatum. Tertio, utrum totaliter a
+peccato excuset.
+Quarto, utrum diminuat peccatum.
+|a1 Articulus 1
+AG1
+Ad primum sic proceditur. Videtur quod ignorantia non possit esse causa peccati. Quia quod non est, nullius est
+causa.
+Sed ignorantia est non ens, cum sit privatio quaedam scientiae.
+Ergo ignorantia non est causa peccati.
+AG2
+Praeterea, causae peccati sunt accipiendae ex parte conversionis, ut ex supradictis patet.
+Sed ignorantia videtur respicere aversionem. Ergo non debet poni causa peccati.
+AG3
+Praeterea, omne peccatum in voluntate consistit, ut supra dictum est.
+Sed voluntas non fertur nisi in aliquod cognitum, quia bonum apprehensum est obiectum voluntatis.
+Ergo ignorantia non potest esse causa peccati.
+SC
+Sed contra est quod Augustinus dicit, in libro de natura et gratia, quod quidam per ignorantiam peccant.
+CO
+Respondeo dicendum quod, secundum Philosophum, in VIII physic., causa movens est duplex, una per se, et alia
+per accidens. Per se quidem, quae propria virtute movet, sicut generans est causa movens gravia et levia.
+Per accidens autem, sicut removens prohibens, vel sicut ipsa remotio prohibentis. Et hoc modo ignorantia potest
+esse causa actus peccati, est enim privatio scientiae perficientis rationem, quae prohibet actum peccati,
+inquantum dirigit actus humanos.
+Considerandum est autem quod ratio secundum duplicem scientiam est humanorum actuum directiva, scilicet
+secundum scientiam universalem, et particularem. Conferens enim de agendis, utitur quodam syllogismo, cuius
+conclusio est iudicium seu electio vel operatio. Actiones autem in singularibus sunt. Unde conclusio syllogismi
+operativi est singularis. Singularis autem propositio non concluditur ex universali nisi mediante aliqua
+propositione singulari, sicut homo prohibetur ab actu parricidii per hoc quod scit patrem non esse occidendum, et
+per hoc quod scit hunc esse patrem. Utriusque ergo ignorantia potest causare parricidii actum, scilicet et
+universalis principii, quod est quaedam regula rationis; et singularis circumstantiae. Unde patet quod non
+quaelibet ignorantia peccantis est causa peccati, sed illa tantum quae tollit scientiam prohibentem actum peccati.
+Unde si voluntas alicuius esset sic disposita quod non prohiberetur ab actu parricidii, etiam si patrem agnosceret;
+ignorantia patris non est huic causa peccati, sed concomitanter se habet ad peccatum. Et ideo talis non peccat
+propter ignorantiam, sed peccat ignorans, secundum Philosophum, in III ethic..
+RA1
+Ad primum ergo dicendum quod non ens non potest esse alicuius causa per se, potest tamen esse causa per
+accidens, sicut remotio prohibentis.
+RA2
+Ad secundum dicendum quod sicut scientia quam tollit ignorantia, respicit peccatum ex parte conversionis; ita
+etiam ignorantia ex parte conversionis est causa peccati ut removens prohibens.
+949
+
+

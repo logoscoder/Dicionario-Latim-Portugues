@@ -1,0 +1,48 @@
+26.8.0. De auctoritate et consensu tutorum et curatorum.
+26.9.0. Quando ex facto tutoris vel curatoris minores agere vel conveniri possunt.
+26.10.0. De suspectis tutoribus et curatoribus.
+Explicitus est ex ordine liber vicensimus sextus, singularium liber septimus.
+
+Incipit ex ordine liber vicensimus septimus, singularium liber octavus.
+27.1.0. De excusationibus.
+27.2.0. Ubi pupillus educari vel morari debeat et de alimentis ei praestandis.
+27.3.0. De tutelae et rationibus distrahendis et utili curationis causa actione.
+27.4.0. De contraria tutelae et utili actione.
+27.5.0. De eo qui pro tutore prove curatore negotia gessit.
+27.6.0. Quod falso tutore auctore gestum esse dicatur.
+27.7.0. De fideiussoribus et nominatoribus et heredibus tutorum et curatorum.
+27.8.0. De magistratibus conveniendis.
+27.9.0. De rebus eorum, qui sub tutela vel cura sunt, sine decreto non alienandis vel supponendis.
+27.10.0. De curatoribus furioso et aliis extra minores dandis.
+Explicitus est ex ordine liber vicensimus septimus, singularium octavus feliciter.
+
+Incipit ex ordine liber vicensimus octavus, singularium liber nonus.
+28.1.0. Qui testamenta facere possunt et quemadmodum tesamenta fiant.
+28.2.0. De liberis et postumis heredibus instituendis vel exheredandis.
+28.3.0. De iniusto rupto irrito facto testamento.
+28.4.0. De his quae in testamento delentur inducuntur vel inscribuntur.
+28.5.0. De heredibus instituendis.
+28.6.0. De vulgari et pupillari substitutione.
+28.7.0. De condicionibus institutionum.
+28.8.0. De iure deliberandi.
+Explicitus est ex ordine liber vicensimus octavus, singularium liber nonus.
+
+Incipit ex ordine liber vicensimus nonus, singularium decimus.
+29.1.0. De testamento militis.
+29.2.0. De adquirenda vel omittenda hereditate.
+29.3.0. Testamenta quemadmodum aperiuntur inspiciantur et describantur.
+29.4.0. Si quis omissa causa testamenti ab intestato vel alio modo possideat hereditatem.
+29.5.0. De senatus consulto Silaniano et Claudiano: quorum testamenta ne aperiantur.
+29.6.0. Si quis aliquem testari prohibuerit vel coegerit.
+29.7.0. De iure codicillorum.
+
+Incipit liber primus de legatis et fideicommissis, ex ordine liber trigensimus.
+30.0. De legatis et fideicommissis.
+
+Incipit liber secundus de legatis et fideicommissis, ex ordine liber trigensimus primus.
+31.0. De legatis et fideicommissis.
+
+Incipit liber tertius de legatis et fideicommissis, ex ordine liber trigensimus secundus.
+32.0. De legatis et fideicommissis.
+
+

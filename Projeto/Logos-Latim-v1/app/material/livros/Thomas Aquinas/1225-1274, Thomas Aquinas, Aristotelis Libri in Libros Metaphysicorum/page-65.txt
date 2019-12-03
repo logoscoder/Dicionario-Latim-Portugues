@@ -1,0 +1,54 @@
+utuntur ipso ente, quod tamen principaliter considerat Philosophus primus. Et per hoc solvitur ratio prima.
+Secunda autem ratio solvitur per hoc, quod Philosophus non considerat huiusmodi principia tamquam faciens ea
+scire definiendo vel absolute demonstrando; sed solum elenchice, idest contradicendo disputative negantibus ea,
+ut in quarto dicetur.
+|+6 Lectio 6
+|#1 Postquam disputavit duas quaestiones pertinentes ad considerationem huius scientiae, hic disputat tertiam,
+quae est de consideratione substantiarum et accidentium.
+Et dividitur in partes duas, secundum quod circa hoc duas quaestiones disputat.
+Secunda incipit ibi, amplius autem utrum sensibiles substantiae etc..
+Circa primum tria facit. Primo movet quaestionem, quae est, utrum omnium substantiarum sit una scientia, aut
+plures scientiae considerent diversas substantias.
+|#2 Secundo ibi siquidem ergo obiicit ad primam partem; scilicet ad ostendendum quod una scientia sit de
+omnibus substantiis: quia si non esset una de omnibus substantiis, non posset assignari, ut videtur, cuius
+substantiae sit considerativa haec scientia, eo quod substantia, in quantum substantia, est principaliter ens. Unde
+non videtur quod magis pertineat ad considerationem principalis scientiae una substantia quam alia.
+|#3 Tertio ibi unam vero obiicit in contrarium, dicens quod non est rationabile ponere unam esse scientiam
+omnium substantiarum. Sequeretur enim quod esset una scientia demonstrativa de omnibus per se accidentibus.
+Et hoc ideo, quia omnis scientia demonstrativa aliquorum accidentium, speculatur per se accidentia circa aliquod
+subiectum: et hoc ex aliquibus conceptionibus communibus.
+Quia igitur scientia demonstrativa non speculatur accidentia nisi circa subiectum aliquod, sequitur quod ad
+eamdem scientiam pertineat considerare aliquod genus subiectum, ad quam pertineat considerare per se
+accidentia illius generis, et e converso, dummodo demonstratio fiat ex eisdem principiis.
+|#4 Sed quandoque contingit quod demonstrare quia ita est, per aliqua principia, pertinet ad aliquam scientiam,
+et demonstrare principia ex quibus demonstrabatur quia ita est, pertinet ad unam scientiam, quandoque quidem
+ad eamdem, quandoque vero ad aliam. Ad eamdem quidem, sicut geometria demonstrat, quod triangulus habet
+tres angulos aequales duobus rectis, per hoc quod angulus exterior trianguli est aequalis duobus interioribus sibi
+oppositis, quod tantum demonstrare pertinet ad geometriam. Ad aliam vero scientiam, sicut musicus probat quod
+tonus non dividitur in duo semitonia aequalia, per hoc quod proportio sesquioctava cum sit superparticularis, non
+potest dividi in duo aequalia. Sed hoc probare non pertinet ad musicum sed ad arithmeticum. Sic ergo patet, quod
+quandoque accidit diversitas in scientiis propter diversitatem principiorum, dum una scientia demonstrat
+principia alterius scientiae per quaedam altiora principia.
+|#5 Sed supposita identitate principiorum non potest esse diversitas in scientiis, dummodo sint eadem accidentia
+et idem genus subiectum, quasi una scientia consideret subiectum, et eadem accidentia.
+Unde sequitur, quod scientia quae considerat substantiam consideret etiam accidentia; ita quod si sint plures
+scientiae considerantes substantias, erunt considerantes accidentia. Si vero una earum sola sit quae consideret
+substantias, una sola erit quae considerabit accidentia. Hoc autem est impossibile; quia sic sequeretur non esse
+nisi unam scientiam, cum nulla scientia sit quae non demonstret accidentia de aliquo subiecto: non ergo ad unam
+scientiam pertinet considerare omnes substantias.
+|#6 Haec autem quaestio determinatur in quarto huius, ubi ostenditur quod ad primam scientiam, ad quam
+pertinet considerare de ente inquantum est ens, pertinet considerare de substantia inquantum est substantia: et sic
+considerat omnes substantias secundum communem rationem substantiae; et per consequens ad eam pertinet
+considerare communia accidentia substantiae. Particularia vero accidentia quarumdam substantiarum pertinet
+considerare ad particulares scientias, quae sunt de particularibus substantiis; sicut ad scientiam naturalem
+pertinet considerare accidentia substantiae mobilis. Verumtamen in substantiis est etiam ordo: nam primae
+substantiae sunt substantiae immateriales.
+Unde et earum consideratio pertinet proprie ad Philosophum primum. Sicut si non essent aliae substantiae
+priores substantiis mobilibus corporalibus, scientia naturalis esset philosophia prima, ut dicitur infra in sexto.
+|#7 Deinde cum dicit amplius autem ponit aliam quaestionem de consideratione substantiae et accidentis.
+Et circa hoc etiam tria facit. Primo movet quaestionem, quae est, utrum consideratio huius scientiae sit solum
+circa substantiam, aut etiam circa ea quae accidunt substantiis.
+
+65
+
+

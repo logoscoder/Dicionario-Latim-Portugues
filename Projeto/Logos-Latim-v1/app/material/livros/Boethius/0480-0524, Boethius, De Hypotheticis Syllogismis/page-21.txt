@@ -1,0 +1,62 @@
+Si igitur non sit aequimoda praedicatio, assumpto quidem b fiunt sexdecim complexiones, quarum tantum octo
+sunt syllogismi; rursus, si assumatur c, sic quoque sexdecim complexiones fiunt sed in octo tantum syllogismorum
+deprehenditur firma necessitas. Sit igitur secundae figurae primus modus hic, ex prima ueniens propositione:
+Si est a, est b; Si autem non est a, est c.
+[3.1.4] Dico quoniam:
+Si non est b, est c
+quoniam enim si est a est b, secundum ordinem consequentiae si non est b, non erit a; atqui si non esset a, esset
+c, si igitur non sit b, erit c. Quod si idem b esse ponatur, nihil euenit necessarium: age enim sit b, non necesse est esse
+uel non esse a. Nihil igitur necessarium sequitur, ut sit uel non sit c; ut si sit a animal, b animatum, c insensibile: nam si
+est animal, est animatum; si uero non est animal, insensibile est; atqui si sit animatum, non necesse est esse animal, uel
+non esse, non igitur necesse est esse insensibile uel non esse.
+[3.1.5] Quod si c terminus assumatur, siquidem /324/ non esse ponatur, erit necessario b; si uero esse, nullus
+est syllogismus. Nam si non est c, est a, at si est a, est b, si igitur non est c, est b; quod si est c, non necesse est esse a,
+aut fortasse necesse sit non esse. Haec enim propositio, id est:
+Si non est a, est c
+in talibus tantum euenit, in quibus alterum eorum esse necesse sit; quod si est c, non erit a, si non est a, nihil ad
+b, ueluti si est insensibile, non erit animal, at si non sit animal, nihil animatum uel esse uel non esse necesse erit.
+[3.1.6] Ex secunda rursus propositione fit syllogismus cum ita proponimus:
+Si est a, est b; Si non est a, non est c;
+dico quia:
+Si non est b, non est c
+propositum quippe est:
+Si est a, est b.
+Ordo uero consequentiae est, si non est b, non esse a, quod si non est a, non est c, si igitur non est b, non est c.
+Quod si fuerit b, non necesse est esse c; sit enim a animal, b animatum, c rationabile, et proponatur:
+Si animal est, animatum est; Si animal non est, rationabile non est; Atqui est animatum;
+non necesse est esse animal, quo fit ut ne rationabile quidem.
+[3.1.7] Quod si c terminum dicat assumptio, si quidem c terminus affirmatus fuerit, erit b; quod si idem c
+terminus abnuatur, nullus est syllogismus. Nam quoniam si est a, erit b, si non est a, non erit c, si est c, erit a; at cum est
+a, est b, si est igitur c, erit b; quod si non sit c, nihil sit necessarium, nam in hac propositione quae dicit:
+Si animal est, animatum est; Si animal non est, /326/ rationabile non est;
+assumamus:
+Atqui non est rationabile;
+non necesse erit esse uel non esse animal, quocirca ne animatum quidem.
+[3.2.1] Item ex tertia propositione talis est syllogismus:
+Si est a, non est b; Si non est a, est c;
+dico quia:
+Si est b, est c;
+nam quoniam ita propositum est:
+Si est a, non esse b
+necesse est consequi ut, si sit b, non sit a; at si non sit a, erit c; si igitur sit b, erit c; quod si non sit b, nihil est
+necessarium. Si enim sit a animal, b inanimatum, c insensibile, in hac propositione quae dicit:
+Si est animal, non est inanimatum; Si non est animal, est insensibile;
+si assumamus non esse inanimatum, non necesse erit esse animal uel non esse, quare ne insensibile quidem. Si
+uero a c termino fiat assumptio, si quidem non sit c, non erit b; si uero sit, nulla erit necessitas conclusionis.
+[3.2.2] Nam quoniam ita propositum est, ut si sit a, non sit b, si uero non sit a, sit c, ea est consequentia, ut si
+non sit c, sit a (in his enim tantum terminis dici potest, qui medietate priuati sunt); at si sit a, non est b, si igitur non sit
+c, non erit b. Quod si sit c, nullus est syllogismus; nam in hac propositione quae dicit:
+Si est animal, non est inanimatum; Si uero non est animal, insensibile est;
+assumat aliquis esse insensibile, sequitur quidem ut non sit animal, sed non consequitur ut uel sit uel non sit
+inanimatum. /328/
+[3.2.3] Ex quarta propositione est syllogismus ita:
+Si est a non est b; Si non est a, non est c;
+dico quoniam:
+Si est b, non est c;
+nam quoniam ita propositum est:
+Si est a, non est b
+ea rerum consequentia est, ut si sit b, non sit a. Atqui cum non sit a, positum fuerat non esse c; si igitur sit b,
+non est c. Quod si b non esse assumatur, nullus est syllogismus; age enim sit a quidem animal, b inanimatum, c
+rationabile, et sit haec propositio:
+
+

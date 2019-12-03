@@ -1,0 +1,51 @@
+OPERA OMNIA
+SANCTI THOMAE AQUINATIS
+-----oOo----Textum electronicum praeparavit et indexavit
+Ricardo M. Rom n, S. R. E. Presbyterus
+Bonis Auris, MCMXCVIII
+
+|*Q._DISPUTATAE
+QUAESTIONES DISPUTATAE
+|*DE_MALO
+|q1 Quaestio 1
+Prologus
+PR1
+Et primo quaeritur utrum malum sit aliquid.
+PR2
+Secundo utrum malum sit in bono.
+PR3
+Tertio utrum bonum sit causa mali.
+PR4
+Quarto utrum malum convenienter dividatur per culpam et poenam.
+PR5
+Quinto quid plus habeat de ratione mali, utrum culpa, an poena.
+|a1 Articulus 1
+TTA
+Et primo quaeritur an malum sit aliquid.
+TTB
+Et videtur quod sic.
+AG1
+Omne enim creatum aliquid est. Sed malum est aliquid creatum, secundum illud Is., c. Lxv, 7: ego Dominus
+faciens pacem et creans malum. Ergo malum est aliquid.
+AG2
+Praeterea, utrumque contrariorum est aliquid in natura, quia contraria sunt in eodem genere posita. Sed malum
+est contrarium bono, secundum illud Eccli. XXXIII, 15: contra bonum malum. Ergo malum est aliquid.
+AG3
+Sed dicendum, quod malum in abstracto acceptum non est contrarium, sed privatio; sed aliquod malum in
+concreto acceptum est contrarium et est aliquid. Sed contra, nihil est contrarium alteri secundum id in quo cum
+eo convenit; nigrum enim non contrariatur albo secundum quod est color. Sed secundum id quod substernitur
+ipsi malo, convenit malum cum bono. Ergo secundum illud, malum non contrariatur bono, sed secundum hoc
+ipsum quod est malum; malum ergo, in quantum est malum, est aliquid.
+AG4
+Praeterea, oppositio formae et privationis invenitur etiam in rebus naturalibus. Sed non dicitur quod in rebus
+naturalibus malum contrarietur bono, sed solum in moralibus: quia malum et bonum, secundum quod sunt
+contraria, continent sub se virtutem et vitium.
+Ergo contrarietas mali et boni non intelligitur secundum oppositionem privationis et habitus.
+AG5
+Praeterea, dionysius et Damascenus dicunt quod malum est sicut tenebra. Tenebra autem contrariatur lumini, ut
+dicitur II de anima.
+Ergo et malum contrariatur bono, et non solum est eius privatio.
+AG6
+1
+
+

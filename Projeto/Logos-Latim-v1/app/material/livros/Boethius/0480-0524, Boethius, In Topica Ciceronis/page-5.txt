@@ -1,0 +1,62 @@
+artis quae topice dicitur exempli quadam claritate designat intentionem. Est enim topices intentio, argumentorum facilis
+inuentio. Non [1048B] igitur inuenire docet topice quod est naturalis ingenii sed facilius inuenire: omnis quippe ars
+imitatur naturam, atque ab hac materia suscepta, rationes ipsa uiamque conformat, ut cum facilius id quod ars quaeque
+promittit, tum elegantius fiat, uelut parietem struere naturalis ingenii est sed arte fit melius.
+Argumentum autem ratio est quae rei dubiae faciat fidem. Multa enim sunt quae faciant idem sed quia rationes
+non sunt, ne argumenta quidem esse possunt, ut uisus facit fidem his quae uidentur sed quia ratio non est uisus, ne
+argumentum quidem esse potest. Differentiam uero unam sumpsit, eam quae faciat fidem, omne enim argumentum
+facit fidem.
+Si igitur iunxerimus genus ac differentiam, et id esse argumentum dicamus, quod rationem quae faciat fidem,
+num tota argumenti [1048C] natura monstrata sit? Minime. Quid si eius rei, de qua nemo dubitat, aliqua ratione facere
+quis fidem uelit, num idcirco illa, quod fidem faciat, uocabitur argumentum? Nullo modo: argumentum namque est
+quod rem arguit, id est probat, nihil uero probari, nisi dubium, potest.
+Nisi ergo sit res ambigua, et ad eam ratio fidem faciens afferatur, argumentum esse non poterit. Addita igitur
+alia differentia quae est rei dubiae, facta est integra definitio argumenti, ex genere et duabus differentiis constans,
+genere quidem, ratione: una uero differentia, quod faciat fidem; altera uero, quod rei dubiae est, ut sit tota definitio, id
+esse argumentum quod sit ratio, rei dublae faciens fidem.
+Quae cum ita sint, nec esse est ut ubi dubitatur aliquid, ibi sit [1048D] quaestio. Quod si argumentum praeter
+rem dubiam esse non poterit, nullo modo esse praeter quaestionem potest. Quaestio uero est dubitabilis propositio.
+Propositio uero est ratio uerum falsumue designans. Omnis igitur propositio siue constanter atque pronuntiatiue
+proferatur, ut si quis dicat: Omnis homo animal est; siue ad interrogationem dirigatur, ut si quis interroget: Putasne
+omnis homo animal est? retinet proprium nomen, et propositio nuncupatur. At si eadem, uelut dubitabilis proferatur, fit
+quaestio, ut si quisque erat an omnis homo animal sit. Quot autem modis quaestio diuidatur, nunc explicandi locus non
+uidetur accommodus sed in iis libris dicemus quos de topicis differentiis formare molimur.
+Ad [1049A] quaestionem igitur, id est ad dubitabilem propositionem, omnis intentio dirigitur argumenti, non
+uero ut totam comprobet quaestionem sed ut partem eius ratione confirmet; neque enim tota quaestio defenditur sed una
+eius quaelibet pars argumentatione firmatur: nemo enim defendit caelum rotundum esse et non esse; si enim ita quis
+defenderet, totam quaestionem uideretur probare. Sed cum ita consideratur:
+Utrum rotundum sit caelum an non sit
+in una tantum consistit quaestionis parte defensio, siue quae affirmat siue quae negat. Omnis enim quaestio
+contradictionibus constat. Nam si qua res ab altero affirmetur, negetar ab altero, totum hoc contradictio nuncupatur, ut
+si quis dicat:
+Caelum rotundum est
+alter neget dicens:
+Caelum rotundum [1049B] non est.
+Caelum rotundum esse et non esse contradictio prohibetur. Dubitabilis uero propositio, quam quaestionem esse
+praediximus, et affirmationem in se continet et negationem, hoc enim ipso quo dubitabilis est, contradictionem uidetur
+includere. Cum enim dubitat quis utrumque caelum rotundum sit, siue adiungat an non sit, siue reticeat, ipsa dubitatio
+partem secum alteram trahit. Si enim unam partem propositio tueatur, dubitabilis non est, atque idcirco nec quaestio.
+Cum igitur omnis quaestio duas habeat partes, affirmationis unam, alteram negationis, nec esse est ut sit
+semper ex alterutra parte defensio, ut unus quidem affirmationis partem, negationis alter defendat, et hic quidem ad
+astruendam affirmationem, ille uero ad destruendam, quae [1049C] potuerit argumenta perquirat. Nihil uero interest
+utrum quis affirmationem ponat, an destruat negationem, aut negationem defendat, an oppugnet affirmationem. Age
+enim, sit quaestio, utrum caelum rotundum sit. Si quis eam sibi quaestionis partem assumpserit, quam esse defendit, ad
+eam constituendam cuncta nec esse est sibi comparet argumenta, atque in hoc affirmationem quidem ponit sed destruit
+negationem. Si quis uero neget id, ac dicat non esse caelum rotundum, suscipit sibi partem alteram quaestionis quae
+fuerat reliqua, id est negationem, in eaque consistit, et ad hanc approbandam, perquisitis nititur argumentis; itaque qui
+negationem ponit, labefactat affirmationem.
+Quae cum ita sint, demonstratum arbitror, non totam quaestionem sed eius aliquam partem ad defensionem
+uenire. Sed [1049D] quod quisque defendet, ad hoc quoque argumenta perquirit. Ad partem igitur quaestionis
+astruendam destruendamue argumenta sumuntur, atque haec quidem si quis minus intelligit, ne a nobis obscure dicta
+esse causetur. Si enim quae in dialectica, uel a nobis dicta Latina oratione, uel a Graecis scripta sunt, ignorabit, mirum
+est si quam partem eorum quae dicimus aduertere ualeat, ne dum stupeamus quod non omnia comprehendat.
+Sed quoniam dubitabilem propositionem quaestionem esse praediximus, euenit ut quas partes habeat
+propositio, easdem etiam quaestio retinere uideatur. Omnis autem simplex propositio duas habet partes in terminis
+constitutas. Simplex uero propositio est huiusmodi: [1050A]
+Omnis homo animal est
+Terminos uero uoco simplices orationis partes quae continent propositionem, ut animal et homo. Hi uero sunt
+praedicatus atque subiectus. Praedicatus est in propositione maior terminus collocatus; subiectus uero minor. Maior
+uero terminus de subiecto dicitur, minor autem de maiore nullo modo praedicatur, ut animal quoniam maius est quam
+homo, de homine praedicatur: dicitur enim:
+
+

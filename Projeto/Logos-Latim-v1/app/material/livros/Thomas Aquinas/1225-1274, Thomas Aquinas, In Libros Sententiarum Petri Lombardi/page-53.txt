@@ -1,0 +1,59 @@
+RA5
+Ad quintum dicendum, quod pater supponit personam distinctam, similiter et filius et spiritus sanctus; sed hoc
+nomen Deus supponit personam indeterminate; et ideo ratione indeterminationis aliquid potest praedicari de Deo
+quod de nulla distinctarum personarum praedicatur: sicut etiam de homine dicitur, quod nulli singularium
+convenit esse commune vel speciem vel aliquid hujusmodi.
+Quod autem plures personae hominum non possunt simul praedicari de hoc nomine homo, ratio est quia plures
+personae non sunt unus homo sicut plures personae sunt unus Deus et trinitas; et ideo convenienter dicitur: Deus
+est tres personae.
+EX
+Deus pater alterum se genuit. Hoc dupliciter solvit Magister. Quia ly se potest esse ablativi casus, et tunc
+simpliciter vera est: et est sensus: genuit alterum se, idest alterum a se. Vel potest esse accusativi casus; et tunc
+vel facit simplicem relationem; et sic iterum vera est, refert enim identitatem naturae; tamen erit impropria: vel
+faciet relationem personalem et sic est falsa, quia refert idem suppositum.
+Potest tamen dici, quod etiam si referat idem suppositum, quodammodo erit vera, sed erit emphatica locutio, ut
+sit sensus: genuit alterum se, idest similem sibi; sicut dicit poeta: dii faciant sine me ne moriatur ego.
+
+|+d5.q1 Distinctio 5, Quaestio 1
+|a0 Prologus
+Hic ponit Magister quaestionem de nominibus significantibus essentiam in abstracto, utrum aliquod eorum possit
+se habere ad generationem ut subjectum vel terminus: et circa hoc tria facit.
+Primo movet quaestionem; secundo determinat eam, ibi: ad quod catholicis tractatoribus consentientes dicimus;
+tertio determinationem confirmat, ibi: ideo non est dicendum, quod pater genuit divinam essentiam; et haec
+dividitur in duas partes.
+In prima ostendit quod divina essentia non habet se ad generationem sicut terminus, ut dicatur generata; in
+secunda quod non se habet ad ipsam sicut subjectum, ut dicatur generans, ibi: ita etiam non est dicendum, quod
+divina essentia genuit filium.
+Prima in duas: in prima inducit probationem; in secunda excludit contrarietatem, ibi: huic autem videtur
+contrarium quod Augustinus ait.
+Primum ostendit tripliciter: uno modo sic. Quia omne quod in divinis generat aliquid, relative dicitur ad illud, et
+e converso. Si igitur pater generat divinam essentiam, essentia dicitur relative ad patrem, et ita non significaret
+substantiam secundum Augustinum. Secundo sic. Pater est divina essentia. Si igitur pater generaret divinam
+essentiam, pater generaret illud quod ipse est, quod non potest esse, secundum Augustinum, ibi: item cum Deus
+pater sit divina essentia, si ejus esset genitor, esset utique genitor ejus rei quae ipse est. Tertio sic. Pater habet
+esse per divinam essentiam. Si igitur pater generaret divinam essentiam, pater haberet esse per id quod est
+generatum ab ipso: cujus contrarium videtur magis; et hoc ibi: item si pater est genitor essentiae divinae, cum
+ipse essentia divina sit, et Deus sit; eo quod generat, et est et Deus est.
+Ita etiam non est dicendum. Hic probat aliam partem quaestionis, scilicet quod essentia non sit suppositum
+generationis; et hoc dupliciter: scilicet quod neque essentia generet essentiam neque generet filium, et dividitur
+in duas: primo ponit probationes utriusque; in secunda inducit contrarietatem, ibi: praedictis autem videtur
+contrarium esse quod dicit Augustinus. Haec dividitur in duas: primo inducit contrarietates ostendentes quod
+essentia generat essentiam; in secunda ostendit quod essentia generet filium, ibi: dicitur quoque, et frequenter in
+Scriptura legitur, patrem de sua substantia genuisse filium. Circa primum duo facit.
+Primo objicit per auctoritates Augustini, secundo per auctoritates Hilarii, ibi: huic vero id etiam contrarium
+videtur quod Hilarius ait. Utraque dividitur in objectionem et solutionem. Similiter etiam sequens pars dividitur
+in objectionem et solutionem.
+Ad intelligentiam hujus partis de tribus quaeritur: primo utrum essentia se habeat ad generationem sicut
+generans. Secundo utrum se habeat sicut de quo est generatio. Tertio utrum se habeat sicut id quod est terminus
+generationis.
+Circa primum duo quaeruntur: 1 utrum essentia generet; 2 dato quod non, utrum similiter sit in omnibus aliis
+essentialibus nominibus.
+|a1 Articulus 1: Utrum essentia generet.
+AG1
+Ad primum sic proceditur. Videtur quod essentia generet. Major enim est oppositio affirmationis et negationis,
+quam relationis. Sed oppositio relationis facit in divinis ut una persona non sit alia. Ergo fortius faciet hoc
+contradictio. Sed persona patris est generans. Si igitur essentia non generet, pater non erit essentia; quod est
+impossibile.
+53
+
+

@@ -1,0 +1,56 @@
+Ad ueritatem autem disiunctiuae requiritur quod aliqua pars sit uera; et hoc est intelligendum quando
+propositiones sunt de praesenti et non de futuro nec aequiuaientes propositionibus de futuro. Et hoc diceret
+Philosophus; tamen secundum ueritatem ad ueritatem disiunctiuae requiritur quod altera pars sit uera,
+quia secundum ueritatem propositio de futuro est uera uel falsa, quamuis euitabiliter.
+Philosophus; tamen secundum ueritatem ad ueritatem disiunctiuae requiritur quod altera pars sit uera,
+quia secundum ueritatem propositio de futuro est uera uel falsa, quamuis euitabiliter.
+Sed ad necessitatem disiunctiuae non requiritur necessitas alterius partis, sicut ad hoc quod haec sit
+necessaria 'Sortes sedet uel non sedet'
+non requiritur quod altera pars sit necessaria. Tamen ad necessitatem disiunctiuae requiritur [uel]
+necessitas alicuius partis, uel quod partes sibi contradicant, uel aequiualeant contradictoriis, uel sint conuertibilia
+cum contradictoriis. Unde haec est necessaria 'Sortes currit uel Deus est', quia altera pars est necessaria; haec
+autem est necessaria
+'Deus creat uel non creat', quia partes contradicunt.
+'Deus creat uel non creat', quia partes contradicunt.
+Ad possibilitatem autem disiunctiuae sufficit quod altera pars sit possibilis; sed ad hoc quod distiunctiua
+sit impossibilis requiritur quod utraque pars sit impossibilis.
+Ad possibilitatem autem disiunctiuae sufficit quod altera pars sit possibilis; sed ad hoc quod distiunctiua
+sit impossibilis requiritur quod utraque pars sit impossibilis.
+Sciendum est etiam quod opposita contradictorie distiunctiuae est una copulatiua composita ex
+contradictoriis partium ipsius disiunctiuae, et ideo idem sufficit et requiritur ad ueritatem oppositae disiunctiuae
+quod sufficit et requiritur ad ueritatem copulatiuae.
+Sciendum est etiam quod opposita contradictorie distiunctiuae est una copulatiua composita ex
+contradictoriis partium ipsius disiunctiuae, et ideo idem sufficit et requiritur ad ueritatem oppositae disiunctiuae
+quod sufficit et requiritur ad ueritatem copulatiuae.
+Sciendum est etiam quod ab altera parte disiunctiuae ad totam disiunctiuam est bonum argumentum, et
+e conuerso est fallacia consequentis, nisi sit aliquando aliqua causa specialis impediens fallaciam consequentis.
+Similiter a disiunctiua cum negatione alterius partis ad alteram partem est bonum argumentum, sicut
+bene sequitur 'Sortes est homo uel asinus; Sortes non est asinus; igitur Sortes est homo'. 3434. DE
+PROPOSITIONE CAUSALI]
+Similiter a disiunctiua cum negatione alterius partis ad alteram partem est bonum argumentum, sicut
+bene sequitur 'Sortes est homo uel asinus; Sortes non est asinus; igitur Sortes est homo'. 3434. DE
+PROPOSITIONE CAUSALI]
+Propositio causalis est illa quae componitur ex pluribus categoricis mediante hoc coniunctione 'quia' uel
+aequiualente ei. Unde ista est causalis 'quia Sortes est homo, Sortes est animal'. Similiter ista est causalis 'Sortes
+laborat, ut sanetur'; aequiualet enim isti 'Sortes laborat, quia uult sanari'. Similiter ista est causalis 'Sortes
+deambulat post cenam, ne infirmetur', quia aequiualet isti 'quia Sortes non uult infirmari, deambulat post cenam'.
+Similiter ista est causalis 'Sortes calefit in quantum mouetur', quia aequiualet isti 'quia Sortes mouetur, calefit'.
+Propositio causalis est illa quae componitur ex pluribus categoricis mediante hoc coniunctione 'quia' uel
+aequiualente ei. Unde ista est causalis 'quia Sortes est homo, Sortes est animal'. Similiter ista est causalis 'Sortes
+laborat, ut sanetur'; aequiualet enim isti 'Sortes laborat, quia uult sanari'. Similiter ista est causalis 'Sortes
+deambulat post cenam, ne infirmetur', quia aequiualet isti 'quia Sortes non uult infirmari, deambulat post cenam'.
+Similiter ista est causalis 'Sortes calefit in quantum mouetur', quia aequiualet isti 'quia Sortes mouetur, calefit'.
+Ad ueritatem autem causalis requiritur quod quaelibet pars sit uera, et simul cum hoc quod antecedens
+sit causa consequentis. Et idea ista non est uera 'Sortes est albus, quia Plato est albus'; quamuis enim utraque pars
+sit uera, quia tamen ista non est uera 'Sortes est albus propter hoc quod
+Plato est albus', ideo est falsa.
+Plato est albus', ideo est falsa.
+Et est sciendum quod hic accipitur causa large et non stricte. Non enim requiritur ad ueritatem causalis
+quod una propositio sit causa quare alia ponitur in esse, sed sufficit quod exprimat causam requisitam ad hoc
+quod alia propositio sit uera. Sicut est hic 'lignum calefit, quia ignis est sibi praesens'; per illud enim antecedens
+'ignis est praesens ligno'
+exprimitur causa sine qua haec non esset uera 'lignum calefit', ideo ista causalis est uera. Vel requiritur
+quod propositio illa sit prior alia, ita quod praedicatum antecedentis prius praedicetur de subiecto suo quam
+209
+
+

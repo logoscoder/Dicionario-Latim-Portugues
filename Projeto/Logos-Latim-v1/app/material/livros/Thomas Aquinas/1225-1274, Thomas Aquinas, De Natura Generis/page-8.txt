@@ -1,0 +1,61 @@
+|+5 Capitulus 5: In quo ostenditur quod genus continet differentias potestate.
+Nunc igitur superest ostendere quomodo genus implicite contineat ea quae sunt in eo.
+Sciendum est igitur quod genus continet differentias potestate. Potentia autem principium indistinctionis est,
+sicut per oppositum actus primo distinguit. Illud igitur pro generalissimo sumendum est quod est primum
+principium indistinctionis aliquorum.
+Ut homo et equus, licet indistincta sint in animali, animal tamen non est primum principium indistinctionis
+eorum, nec etiam corpus. Statur autem ad substantiam: nam etsi in ente non distinguantur, ens tamen non est
+generalissimum, quia non praedicatur de aliquibus univoce, quod requiritur ad naturam generis.
+Ista autem indistinctio aliter est in substantia et aliter in aliis generibus quae sunt post. In aliis enim generibus
+reperitur una natura aliqua, quae subest intentioni universalitatis, ut dictum est, ratione cuius cum uniformitate,
+quae est a ratione, ipsum genus uniformiter se habet ad omnia quae sibi subsunt, quod est implicite illa continere.
+Sed in substantia non est una res subiecta intentioni, sed intellectus ex diversis rebus colligit intentionem quae
+utrique naturae ab intellectu applicatur.
+Unde in substantia solum est convenientia in intentione, in qua est uniformitas ad omnia quae sunt in genere
+substantiae, per quod substantia dicitur implicite omnia continere.
+Ex dictis igitur satis potest accipi ratio, quare et quomodo genus de contentis sub eo praedicatur.
+Non enim est praedicatio generis de specie denominativa, sicut est praedicatio materiae de re materiali, et
+accidentis de subiecto. Eadem namque res penitus est animal, quod praedicatur de homine, et homo. Sed album
+quod praedicatur de homine, non est penitus eadem res cum homine, cum unum sit accidens, aliud vero
+substantia. Cum igitur genus de specie praedicetur, et ratione uniformitatis communiter se habeat ad omnia
+contenta sub eo, necesse erit ipsum praedicari univoce, quod est praedicari secundum nomen et secundum
+rationem. Non enim est alia ratio animalis quando praedicatur de homine et alia quando praedicatur de equo:
+immo una et eadem est ratio per quam de utroque praedicatur, sicut et nomen idem est.
+Et hoc facile est videre si consideretur natura animalis, vel alterius superioris quod praedicatur de inferioribus
+suis, quod natura absoluta praedicabilis est, vel recipit unitatem vel pluralitatem a subiectis. Naturam igitur
+animalis praedicari est quod dicat totum respectu illius de quo praedicatur, et non partem, quia pars non
+praedicatur de toto. Non autem accipitur ut totum integrale, quia tale non praedicatur nisi de omnibus partibus
+simul sumptis, sed ut totum universale quod praedicatur de qualibet parte. Sic igitur accepto animali, nihil potest
+sibi attribui nisi quod per se est de ratione eius, ut substantia animata sensibilis. Quicquid autem aliud sibi
+attribuitur, per accidens attribuitur, ut est unum vel plura: si enim unum esset de intellectu eius, tunc
+quibuscumque conveniret ipsum genus, et ipsum similiter conveniret: sicut de homine et asino praedicaretur, et
+ipsum unum similiter de eis diceretur, quod est falsum.
+Nec multa sunt de eius intellectu: quia cum animal praedicetur de socrate, tunc socrates esset multa animalia.
+Utrumque tamen potest sibi accidere per aliud, scilicet de quo praedicatur.
+Si enim illud fuerit unum, et aliud erit unum: sicut quando praedicatur de homine uno, est unum; quando de
+pluribus, plura: et hoc accidit sibi, quia accidit sibi praedicari de homine. Non enim est de intellectu animalis
+praedicari de homine, quia tunc homo praedicaretur de asino, cum animal praedicetur de asino. De quocumque
+enim praedicatur aliquid, praedicatur etiam illud quod est de intellectu eius, per regulam Philosophi in Lib.
+Praedic.: quando alterum de altero etc..
+Similiter esse in aequo cum homine, vel esse in plus, non convenit animali praedicato de homine secundum
+suum intellectum; sed utrumque potest sibi accidere.
+Si enim cum dicitur homo est animal consideretur natura animalis absoluta, sic non erit in plus animal quam
+homo, immo in aequo cum homine: aliter absoluta ratio eius non multiplicaretur ad multiplicationem
+subiectorum. Unitas enim illa non descendit sub animali, ut dictum est. Et sic nihil reale erit in praedicato, quod
+non sit in subiecto. Animal enim non dicit aliquid plusquam homo: et sic accidit sibi non esse vel esse plus quam
+homo, quia accidit sibi praedicari de homine, ut dictum est.
+Si autem consideretur haec natura ut substrata intentioni universalitatis propter uniformitatem quam accipit ab
+anima, sic erit in plus et communius quam subiectum de quo praedicatur, quia a parte praedicati servatur
+uniformitas illa, non autem a parte subiecti; et sic non plurificatur praedicatum ad multiplicationem subiectorum,
+immo manet unum de multis praedicatum, ut dictum est.
+Et quia hoc logicum est, ideo secundum eum non convertitur consequentia subsistendi ab animali ad hominem;
+ab animali, inquam, quod de homine praedicatur.
+Similiter autem accipiendo animal sine intentione universalitatis, proprie non est praedicabile, quia sic est prima
+substantia, quae neque in subiecto est, neque de subiecto dicitur. Sed accipiendo animal et hominem sub
+intentione universalitatis, quomodo individuum accipi non potest propter repugnantiam universalitatis ad
+individuationis principia, animal et homo dicuntur secundae substantiae, quarum proprietas est de prima
+praedicari, ut habetur in praed..
+
+8
+
+

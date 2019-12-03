@@ -1,0 +1,52 @@
+conferatur octaua, qui sunt 243, fient 2187. Rursus 256 per octonarium crescant, fient igitur 2048. Atque hic
+suprascriptorum terminorum in medio collocetur.
+[PLLXIII:1220,2; text: Semitonium minus, Apotome, 104, 139, 1944, 2048, 2187, primus secundus tertius,
+tonus sesquioctaua] [BOEDIM2 07GF]
+[1221] Tertius igitur terminus ad primum toni retinet proportionem.
+Secundus ad primum semitonii minoris. Apotomes uero tertius ad secundum. Atque in bisdem primis
+apotomes uidetur constare proportio, cum semitonii in 256 et 243, minimis numeris spatium contineatur.
+Idcirco autem 1944 et 2048 in eadem proportione sunt qua 243 ad ducentos 56, quoniam 256 et 243 octonario
+multiplicati sunt. Si enim unus numerus duos quoslibet numeros multiplicet, qui ex ea multiplicatione nascuntur, in
+eadem erunt proportione qua fuerunt hi numeri quos prior numerus multiplicauit.
+XXX
+Quibus proportionibus diapente, diapason constent. et quoniam diapason sex tonis non constet.
+Sed quoniam de diatessaron consonantia latius diximus, breuius et pene puris numeris de diapason ac diapente
+consonantiis disseramus.
+Diapente enim constat ex tribus tonis ac semitonio, id est ex diatessaron et tono. Disponantur enim numeri
+quos superior descriptio comprehendit, 192, 216, 253, 256.
+[PLLXIII:1221,1; text: Diatessaron ex duobus tonis et Hemitonio minore, 192, 216, 243, 256, Tonus,
+Hemitonius] [BOEDIM2 07GF]
+In hac igitur dispositione primus terminus ad secundum, et secundus ad tertium tonorum retinet proportiones.
+Sed tertius ad quartum semitonii minoris, ut supra monstratum est. Si igitur 256 octaua eisdem quorum octaua est
+apponatur, fient 288. Quibus 192 comparati, sesquialterum spatium proportionis efficiunt.
+[PLLXIII:1221,2; text: 192, 288, diapente secupla] [BOEDIM2 07GF]
+Quocirca tres quidem toni sunt, si primus ad secundum, secundus ad tertium, quintus conferatur ad quartum.
+Semitonium uero minus tertii ad quartum terminum comparatio tenet; quod si diatessaron quidem duorum tonorum est
+ac semitonii minoris, diapente uero trium tonorum ac semitonii minoris, iunctae uero diatessaron ac diapente unum
+diapason uidentur efficere, erunt quinque toni et duo spatia semitoniorum minora, quae unum tonum non uideantur
+implere. Non est igitur diapason consonantia constans sex tonis, ut Aristoxenus arbitratur, quod in numeris quoque
+dispositum euidenter apparet.
+[1222] Sex enim toni in ordinem disponantur, scilicet in sesquioctauis proportionibus constituti, sex uero
+sesquioctauae proportiones a sexto octuplo procreantur. Disponantur igitur sexoctupli hoc modo:
+[PLLXIII:1222,1; text: 1, 8, 64, 512, 4096, 32768, 262144] [BOEDIM2 08GF]
+Ab hoc igitur ultimo numero sex toni in sesquioctaua proportione constituti locentur, hoc modo dispositis,
+primum octuplis terminis, ut octauae terminorum partes ipsorum terminorum, lateribus adiungantur; sit autem
+descriptio talis:
+[PLLXIII:1222,2; text: Sexoctupli, 1, 8, 64, 512, 4096, 32768, 262144, Sesquioctaui, 294912, 331776,
+373248, 419904, 472392, 531441, Partes octauae, 36864, 41472, 46656, 52488, 59039] [BOEDIM2 08GF]
+Huius igitur dispositionis haec ratio est. Continuus enim uersus, qui limes dicitur, octuplus numeros tenet. A
+sexto uero octuplo sesquioctauae proportiones ducuntur. Ubi uero octauas partes scripsimus, octauae sunt eorum
+numerorum partes, quibus adiacent. Quae si eisdem quibus adiacent apponantur, posteriores numeros creant, ut in
+primo, qui est 262144. Huius octaua 32768; hi sibimet si coniungantur posteriorem efficit numerum qui est 294912.
+Idemque in caeteris inuenitur. Si igitur ultimus numerus qui est 531441 duplus esset prioris numeri qui est 262144,
+recte diapason sex tonis constare uideretur. Nunc autem si minimi numeri, id est prioris, duplicem conquiramus, minor
+erit eo numero qui est maximus ac supremus. Nam 262144 numeri duplus est qui ad eum scilicet diapason
+consonantiam tenet 524288; hic igitur minor est eo numero qui sextum retinet tonum, eo scilicet qui est 541441. Minor
+est igitur diapason consonantia sex tonis. Atque id quod sex toni diapason consonantiam superuadunt, uoco comma,
+quod constat in minimis numeris 524288 et 531441.
+[PLLXIII:1222,3; text: Differentia. 7153, 5242888, 531441, comma seu spatium quo maiores sunt sex toni
+diapason.] [BOEDIM2 08GF]
+Sed de his quid Aristoxenus sentiat, qui auribus dedit omne iudicium, alias commemorabo. Nunc uoluminis
+seriem fastidii uitator astringam.
+
+

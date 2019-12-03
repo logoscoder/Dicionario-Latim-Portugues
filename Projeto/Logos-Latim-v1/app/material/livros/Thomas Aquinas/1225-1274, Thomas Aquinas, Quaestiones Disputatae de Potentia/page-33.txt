@@ -1,0 +1,62 @@
+Ergo potentia generandi et potentia creandi non sunt idem.
+AG2
+Praeterea, potentiae distinguuntur per actus, ut habetur II de anima.
+Sed generatio et creatio sunt actus multum differentes. Ergo et potentia generandi et potentia creandi non sunt
+una potentia.
+AG3
+Praeterea, minor unitas est eorum quae in aliquo univocantur, quam eorum quae habent idem esse. Sed potentia
+generandi et potentia creandi in nullo univocantur; sicut nec generatio et creatio nec filius et creatura.
+Ergo potentia generandi et potentia creandi non sunt idem secundum esse.
+AG4
+Praeterea, inter ea quae sunt idem, non cadit ordo. Sed potentia creandi est prior quam potentia generandi
+secundum intellectum, sicut essentiale notionali. Ergo praedictae potentiae non sunt idem.
+SC1
+Sed contra. In Deo non differt potentia et essentia. Sed una tantum est divina essentia.
+Ergo et una tantum potentia. Non ergo praedictae potentiae distinguuntur.
+SC2
+Praeterea, Deus non facit per plura quod potest facere per unum. Sed per unam potentiam Deus potest generare
+et creare, praecipue cum generatio filii sit ratio productionis creaturae; secundum illam Augustini expositionem:
+dixit, et facta sunt; id est, verbum genuit, in quo erat ut fierent. Ergo una tantum potentia est generandi et
+creandi.
+CO
+Respondeo. Dicendum, quod, sicut supra, dictum est, ea quae de potentia dicuntur in divinis, consideranda sunt
+ex ipsa essentia. In divinis autem licet una relatio ab altera distinguatur realiter propter oppositionem relationum,
+quae reales in Deo sunt; ipsa tamen relatio non est aliud secundum rem quam ipsa essentia, sed solum ratione
+differens: nam relatio ad essentiam oppositionem non habet. Et ideo non est concedendum quod aliquid
+absolutum in divinis multiplicetur, sicut quidam dicunt, quod in divinis est duplex esse, essentiale et personale.
+Omne enim esse in divinis essentiale est, nec persona est nisi per esse essentiae. In potentia vero, praeter id quod
+est ipsa potentia, consideratur respectus quidam vel ordo ad id quod potentiae subiacet. Si ergo potentia quae est
+respectu actus essentialis, sicut potentia intelligendi vel creandi, comparetur ad potentiam quae est respectu actus
+notionalis (cuiusmodi est potentia generandi) secundum id quod est ipsa potentia, invenitur una et eadem
+potentia, sicut est unum et idem esse naturae et personae. Sed tamen utrique potentiae cointelligitur alius et alius
+respectus, secundum diversos actus ad quos potentiae dicuntur.
+Sic ergo potentia generandi et creandi est una et eadem potentia, si consideretur id quod est potentia; differunt
+tamen secundum diversos respectus ad actus diversos.
+RA1
+Ad primum ergo dicendum, quod licet in creaturis differant natura et propositum, in divinis tamen sunt idem
+secundum rem. Vel potest dici, quod potentia creandi non nominat propositum sive voluntatem, sed potentiam
+prout a voluntate imperatur. Potentia autem generandi, secundum quod natura inclinat, agit. Hoc autem non facit
+diversitatem potentiae, nam nihil prohibet aliquam potentiam ad aliquem actum imperari a voluntate et ad alium
+inclinari a natura. Sicut intellectus noster ad credendum inclinatur a voluntate, ad intelligendum prima principia
+ducitur ex natura.
+RA2
+Ad secundum dicendum, quod quanto aliqua potentia est superior, tanto ad plura se extendit, unde minus est
+distinguibilis per diversitatem obiectorum; sicut imaginatio una potentia est respectu omnium sensibilium,
+respectu quorum sensus proprii distinguuntur.
+Divina autem potentia est summe elevata: unde differentia actuum in ipsa potentia, quantum ad id quod est,
+diversitatem non inducit, sed secundum unam potentiam Deus omnia potest.
+RA3
+Ad tertium dicendum, quod potentia generandi et potentia creandi quantum ad ipsam (ut ita loquar) potentiae
+substantiam, non solum univocantur, sed sunt unum. Sed quod analogice dicantur, hoc est ex ordine actus.
+RA4
+Ad quartum dicendum, quod praedictae potentiae non ordinantur secundum prius et posterius, nisi prout
+distinguuntur. Unde ordo earum non attenditur nisi per respectum ad actus. Et ex hoc patet quod potentia
+generandi est prior potentia creandi, sicut generatio creatione. Quantum vero ad hoc quod ad essentiam
+comparantur, sunt idem, et non est in eis ordo.
+|q3 Quaestio 3
+Prologus
+PR1
+Et primo quaeritur utrum Deus possit aliquid creare.
+33
+
+

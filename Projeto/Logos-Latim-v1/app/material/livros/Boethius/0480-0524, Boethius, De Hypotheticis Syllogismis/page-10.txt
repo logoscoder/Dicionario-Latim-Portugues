@@ -1,0 +1,61 @@
+Si non est a, non est b.
+Ad sequentem enim propositionem respiciendum est, ut an affirmatiua uel negatiua sit propositio iudicetur;
+idem de compositis syllogismis conditionalibus intellegi oportebit. De his autem propositionibus quae in disiunctione
+sunt positae, cum de earum syllogismis tractauero, commodius atque uberius dicam. /254/
+LIBER 2
+[2.1.1] Hypotheticos syllogismos, quos latine conditionales uocamus, alii quinque, tribus alii constare partibus
+arbitrantur, quorum mox controuersiam diiudicabo, si prius quibus nominibus talium syllogismorum partes appellentur
+ostendero. Quoniam enim omnis syllogismus ex propositionibus texitur, prima uel propositio, uel sumptum uocatur;
+secunda uero dicitur assumptio, his quae infertur, conclusio nuncupatur. Cum enim ita dicimus:
+Si homo est, animal est; Homo autem est; Animal igitur est
+ea quidem enuntiatio per quam diximus:
+Si homo est, esse animal
+propositio uel sumptum uocatur, ea uero quam huic adiunximus:
+Est autem homo
+assumptio dicitur, tertia conclusio nominatur, per quam ostendimus animal esse qui fuerit homo.
+[2.1.2] Sed quoniam saepe euenit ut propositionis enuntiatae consequentia non sit uerisimilis, propositioni
+saepe adiungitur approbatio, per quam id quod est propositum uerum esse monstretur.
+Assumptio saepe ad fidem per se non uidetur idonea: huic quoque iuuamen probationis adiungitur, ut /256/
+uera esse uideatur; quo fit ut saepe quinque partes, saepe quatuor, interdum tres hypotheticos syllogismos habere
+contingat. Nam quinque constabit partibus si et propositio et assumptio probationibus indigebunt; quod siue propositio,
+siue assumptio probatione indigent, quadripartitus est syllogismus, quod si neutra est approbanda, tripartitus esse
+relinquitur.
+[2.1.3] In hac uero sententia etiam Marcus Tullius esse deprehenditur: in Rhetoricis enim syllogismos
+quosdam quinquepartitos, quadripartitos alios esse confirmat. Quibus uero non placet talium syllogismorum partes ultra
+ternarium numerum propagari, hi probationes propositionum atque assumptionum non putant in syllogismi partibus
+esse ponendas, neque enim propositionem esse, de qua syllogismus possit existere, cui non consentit auditor; quod si
+per se dubia est ea probatio quae propositioni dubiae iungitur, fidem faciens eidem cui coniungitur propositioni, faciat
+ut sit idonea syllogismo.
+[2.1.4] Ac per hoc tunc incipit esse propositio syllogismi, cum talis per probationem redditur, ut ex ea colligi
+aliquid possit; tunc uero colligi ex se aliquid potest, cum probationis auxilio poterit ab auditore concedi. Quocirca
+membrum quoddam, et quasi fulcimentum dubiae propositionis uel assumptionis, probatio esse uidetur, non pars etiam
+syllogismi; sed nostra sententia his potius accedit qui tribus eum partibus constare pronuntiant. Etenim quaelibet
+probatio quae uel propositioni uel assumptioni copulatur, propositionis esse uel assumptionis probatio dicitur.
+[2.1.5] Cum igitur non ad syllogismum sed ad propositionem uel assumptionem cuius est probatio referatur,
+non oportet eam syllogismi proprie partem uideri. Nam illud quod obici potest, nullus ignorat, quin partium /258/ partes
+etiam totius partes esse dicantur; sed plurimum refert utrum ipsae sint primitus partes totius, an in secundarum partium
+postremitate ponantur. Amplius, si sit per se nota ac probabilis propositio, totus syllogismus probatione non indiget;
+quod si per se propositionis nulla fides est, necesse est ut ea propositio quodam ueluti testimonio probationis indigeat.
+[2.1.6] Non igitur syllogismus probatione, in eo quod syllogismus est, indigebit, sed propositio, si fide propria
+fuerit destituta. Idem etiam de assumptione dici potest. Quare manifestum est eorum esse sententiam praeponendam,
+qui sullogismum putant tribus partibus constare. Praeterea si qua propositio probationis indigeat, ut eam ueri fides
+sequatur, aliquo demonstrabitur syllogismo. Quocirca qui fieri potest ut recte syllogismus pars syllogismi simplicis esse
+dicatur? ipsam enim probationem propositionis syllogismum, uel ex syllogismo esse necesse est.
+[2.1.7] His itaque determinatis, de his protinus syllogismis quorum propositiones in connexione positae
+duobus terminis constant, explicandum uidetur. Horum autem duplex forma est: quatuor enim fiunt per praecedentis
+positionem qui sunt primi hypothetici atque perfecti, quatuor uero per sequentis negationem, qui cum demonstratione
+egeant, non uidentur esse perfecti. Prioris uero negatione, uel sequentis positione, nullus omnino syllogismus efficitur.
+Omnium igitur talium propositionum primum numerus explicetur, ut qui fiant ex his syllogismi facilis acquiratur
+agnitio. Sunt autem /260/ quatuor:
+Si est a, est b
+Si est a, non est b
+Si non est a, est b
+Si non est a, non est b
+Ac de prioribus quidem syllogismis atque perfectis primo loco dicendum est.
+[2.2.1] Horum enim primus modus est hic ueniens a prima propositione:
+Si a est, b est; Atqui est a; Est igitur b.
+Cum enim prima propositio eam conditionem proponat, ut si sit a necesse sit consequi essentiam b termini,
+idem assumptio quod praecedit assumit ac ponit, dicitque:
+At est a
+
+

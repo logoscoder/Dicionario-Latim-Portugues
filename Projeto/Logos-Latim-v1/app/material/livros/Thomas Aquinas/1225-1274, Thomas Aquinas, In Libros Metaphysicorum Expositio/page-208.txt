@@ -1,0 +1,62 @@
+Sequitur enim, si hoc quod est animal commune, sit substantia, quod huius substantiae sit aliqua ratio. Nec differt ad
+propositum si non est ratio definitiva omnium quae sunt in substantia, idest quae ponuntur in definitione, ne in
+infinitum procedatur in definitionibus, sed oportet omnes partes cuiuslibet definitionis iterum definiri. Nihil enim minus
+illa substantia oportet quod sit alicuius, licet non habeat definitionem, quam si haberet. Sicut si dicamus, quod licet hoc
+ipsum, quod est homo communis, non habeat definitionem, tamen oportet quod sit hominis substantia in quo existit,
+ipsius scilicet hominis communis. Quare idem accidit quod et prius; quia oportebit quod ista substantia communis, licet
+non ponatur propria alicui inferiorum, tamen erit propria illius substantiae communis in qua prima existit. Sicut si
+animal commune sit quaedam substantia, animal per prius praedicabitur de illa communi substantia, et significabit eius
+substantiam propriam, sive sit definibile, sive non. Unde non poterit, ex quo haec substantia est propria uni, de multis
+praedicari.
+[83150] In Metaphysic., lib. 7 l. 13 n. 14
+Deinde cum dicit amplius autem ostendit, quod universale non est substantia, accipiendo rationes ex ea parte, qua
+universale est pars definitionis et essentiae. Et circa hoc duo facit. Primo ponit rationes ad propositum. Secundo
+excludit quamdam dubitationem, ibi, habet autem quod accidit dubitationem. Circa primum ponit quatuor rationes.
+Quarum primam ponit dicens, quod impossibile et inconveniens est, id quod est hoc aliquid et substantia, non esse ex
+substantiis, nec ex his quae sunt hoc aliquid, sed ex his quae significant quale, si tamen est ex aliquibus. Quod dicit
+propter substantias simplices. Sequitur enim, quod cum ea, ex quibus est aliquid, sint priora, quod prius sit id quod est
+non substantia, sed quale, eo quod est substantia, et eo quod est hoc aliquid. Quod est impossibile: quia impossibile est
+passiones et qualitates et accidentia esse priores substantia ratione, aut tempore, aut generatione.
+[83151] In Metaphysic., lib. 7 l. 13 n. 15
+Quod enim non sint priores ratione, supra ostensum est, ex eo quod substantia ponitur in definitione accidentium et non
+e converso. Item quod non sint priores tempore, ex hoc supra probatum est, ex quo etiam hic probatur, quia sequeretur
+quod passiones essent separabiles a substantiis, quod est impossibile. Esse autem prius generatione continetur sub eo
+quod est prius tempore. Omne enim quod est prius generatione, est etiam prius tempore, licet non e converso. Ea enim,
+quae non habent ordinem ad generationem alicuius, licet sint priora tempore, non tamen sunt priora generatione: sicuti
+equus non est prior generatione leone, qui nunc est, licet sit prior tempore. Partes autem ex quibus aliquid constituitur,
+sunt priores generatione, et per consequens tempore, et quandoque etiam ratione, sicut supra ostensum est. Unde
+impossibile est quod ex non substantiis componatur substantia. Universalia autem significant non substantiam et hoc
+aliquid, sed significant quale quid, ut in praedicamentis dicitur de secundis substantiis. Ergo patet quod ex
+universalibus, si sunt quaedam res praeter singularia, non possunt componi singularia, quae sunt hoc aliquid.
+[83152] In Metaphysic., lib. 7 l. 13 n. 16
+Sed videtur quod haec ratio inconvenienter procedat. Secundae enim substantiae, quae sunt genera et species in genere
+substantiae, etsi non significent hoc aliquid, sed quale, non tamen significant hoc modo quale, sicut passiones, quae
+significant qualitatem accidentalem, sed significant qualitatem substantialem. Ipse autem procedit hic ac si significarent
+qualitatem accidentalem.
+[83153] In Metaphysic., lib. 7 l. 13 n. 17
+Sed dicendum est quod, si universalia sint res quaedam, sicut Platonici ponebant, oportebit dicere, quod non solum
+qualitatem substantialem, sed accidentalem significent. Omnis enim qualitas quae est alia res ab eo cuius est qualitas,
+est accidentalis. Sicut albedo est alia res a corpore cuius est qualitas, et est in eo cuius est qualitas sicut in subiecto; et
+ideo est accidens. Si ergo universalia, inquantum universalia sunt, sint res quaedam, oportebit quod sint aliae res a
+singularibus, quae non sunt universalia. Et ideo, si significant qualitatem eorum, oportet quod insint eis sicut
+substantiis. Et per consequens quod significent qualitatem accidentalem.
+[83154] In Metaphysic., lib. 7 l. 13 n. 18
+Sed ponentibus quod genera et species non sunt aliquae res vel naturae aliae a singularibus, sed ipsamet singularia,
+sicut quod non est homo qui non sit hic homo, non sequitur quod secundae substantiae significent accidens vel
+passionem.
+[83155] In Metaphysic., lib. 7 l. 13 n. 19
+Secundam rationem ponit ibi, amplius Socrati. Dicit, quod si universalia sunt substantiae, sequitur quod Socrati inerit
+substantiae substantia. Si enim omnia universalia sunt substantiae; sicut homo est substantia Socratis, ita animal erit
+substantia hominis. Et ita istae duae substantiae, una quae est homo, et alia quae est animal, erunt in Socrate. Et hoc est
+quod concludit: quare duorum erit substantia, idest: quare sequitur, quod hoc quod dico animal, sit substantia non
+solum hominis, sed etiam Socratis. Et ita una substantia erit in duobus; cum tamen supra ostensum sit, quod una
+substantia non est nisi unius.
+[83156] In Metaphysic., lib. 7 l. 13 n. 20
+Et non solum in Socrate hoc accidit quod dictum est, sed totaliter in omnibus accidit, si homo et alia quae sic dicuntur
+sicut species, sint substantiae, et quod nihil eorum quae ponuntur in ratione specierum sit substantia, neque quod possit
+esse sine illis, in quorum definitione ponuntur, vel quod sint in aliquo alio, aut quod sit ipsummet aliud. Sicut quod non
+erit quoddam animal praeter aliqua animalia, idest praeter species animalis. Et similiter est de omnibus aliis quae
+ponuntur in definitionibus, sive sint genera, sive differentiae. Et hoc ideo, quia, cum species sint substantiae, si ea etiam
+quae in definitionibus specierum ponuntur sint substantiae, in singularibus erunt plures substantiae, et una substantia
+
+

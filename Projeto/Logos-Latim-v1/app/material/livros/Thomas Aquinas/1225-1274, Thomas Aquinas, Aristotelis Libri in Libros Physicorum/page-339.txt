@@ -1,0 +1,66 @@
+Haec autem ratio ad generationem et corruptionem pertinere videtur. Et
+propter hoc, hanc rationem dicit esse magis propriam quam praemissas, quia
+in contradictoriis magis apparet quod non possunt esse simul vera. Et tamen
+quod dicitur in generatione et corruptione, extenditur ad omnes motus; quia
+in quolibet motu est quaedam generatio et corruptio.
+Sicut enim in alteratione generatur et corrumpitur album vel non album, ita
+et in quolibet alio motu.
+|#6
+Tertiam rationem ponit ibi: amplius non si continuum etc.: quae talis
+est.
+Sicut supra in quinto habitum est, non est necessarium si continuum est
+tempus, quod propter hoc motus sit continuus. Motus enim diversarum
+specierum, etsi succedant sibi in tempore continuo, non tamen sunt
+continui, sed consequenter se habentes; eo quod oportet continuorum esse
+unum communem terminum; contrariorum autem et specie differentium, ut
+albedinis et nigredinis, non potest esse unus communis terminus. Cum igitur
+motus qui est ab a in c, sit contrarius motui qui est a c in a in quocumque
+genere motus, ut supra in quinto ostensum est, impossibile est quod isti
+duo motus sint continui ad invicem, etiam si tempus eorum sit continuum,
+nulla interposita quiete. Relinquitur ergo quod motus reflexus nullo modo
+potest esse continuus.
+Est autem considerandum quod rationes praemissae dicuntur logicae, quia
+procedunt ex quibusdam communibus, scilicet ex proprietate contrariorum.
+|+19
+
+Lectio 19
+
+|#1
+Postquam Philosophus ostendit quod nullus motus localis potest esse
+continuus praeter circularem, hic ostendit quod motus circularis potest
+esse continuus et primus.
+Et primo ostendit hoc per proprias rationes; secundo per rationes logicas
+et communes, ibi: rationabiliter autem accidit etc..
+Circa primum duo facit: primo ostendit quod motus circularis sit continuus;
+secundo quod sit primus, ibi: quod autem lationum etc..
+Circa primum duo facit: primo ponit duas rationes ad ostendendum quod motus
+circularis potest esse continuus; secundo ex eisdem rationibus concludit
+quod nullus alius motus potest esse continuus, ibi: manifestum autem et ex
+hac divisione etc..
+|#2
+Quod autem motus circularis possit esse unus continuus, prima ratione
+sic probat.
+Illud dicitur esse possibile, ad quod nullum sequitur impossibile; nullum
+autem sequitur impossibile, si dicamus quod motus circularis sit in
+perpetuum continuus.
+Quod patet ex hoc quod in motu circulari, illud quod movetur ex aliquo,
+puta a, simul movetur in idem signum secundum eandem positionem, idest
+secundum eundem processum mobilis, eodem ordine partium servato.
+Quod in motu reflexo non contingit; quia cum aliquid retrocedit, disponitur
+secundum contrarium ordinem partium in movendo: quia vel oportet quod pars
+mobilis quae in primo motu erat prior, in reflexione fiat posterior; vel
+oportet quod illa pars mobilis quae in primo motu aspiciebat ad unam
+differentiam loci, puta dextrum vel sursum, in reflexione aspiciat ad
+contrarium. Sed in motu circulari servatur eadem positio, dum aliquid
+movetur ad id a quo recedit. Sic ergo poterit dici quod etiam a principio
+sui motus, dum recedebat ab a, movebatur ad hoc ad quod tandem perveniet,
+scilicet ad ipsum a.
+Nec propter hoc sequitur hoc impossibile, quod simul moveatur motibus
+contrariis aut oppositis, sicut sequebatur in motu recto.
+Non enim omnis motus qui est ad aliquem terminum, est contrarius aut
+oppositus motui qui est ex illo eodem termino; sed ista contrarietas
+invenitur in linea recta, secundum quam attenditur contrarietas in loco.
+
+339
+
+

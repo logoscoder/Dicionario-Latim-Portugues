@@ -1,0 +1,62 @@
+Si peperit, cum uiro concubuit
+Non enim tunc dicitur ipsum peperisse id esse quod est cum uiro concumbere sed id tantum proponitur quod
+partus numquam esse potuisset nisi fuisset cum uiro concubitus. Quod si quando in una eademque propositionum
+proprietas incurrerit, tunc secundum modum enuntiatae propositionis intelligendi ratio uariabitur hoc modo. Nam cum
+dicimus:
+Homo animal est
+propositionem facimus praedicatiuam; at si ita proponamus:
+Si homo est, animal est
+in conditionalem uertitur enuntiationem.
+[1.2.2] In praedicatiua igitur id spectabimus quod ipse homo animal sit, id est nomen in se suscipiat animalis,
+in conditionali uero illud intellegimus, quod si fuerit aliqua res quae homo esse dicatur, necesse sit aliquam rem esse
+quae animal nuncupetur. Itaque praedicatiua propositio rem quam subicit praedicatae rei suscipere nomen declarat;
+conditionalis uero propositionis haec sententia est, ut ita demum sit aliquid, si fuerit alterum, etiamsi neutrum alterius
+nomen excipiat. Ita igitur propositionibus disgregatis ex enuntiationum proprietate syllogismi quoque uocabulum
+perceperunt, ut alii dicantur praedicatiui alii conditionales.
+[1.2.3] Nam in quibus propositiones praedicatiuae sunt, eos praedicatiuos syllogismos uocamus, in quibus uero
+hypothetica propositio prima est (potest namque et assumptio et conclusio esse praedicatiua), hi tantum per unius
+hypotheticae propositionis naturam hypothetici et conditionales dicuntur. At de simplicibus quidem, id est praedicatiuis
+syllogismis, duobus libellis explicuimus, quos de eorum institutione confecimus. Post simplicium uero syllogismorum
+disputationem, ordo est ut de /212/ non simplicibus disseramus. Non simplices autem syllogismi sunt qui hypothetici
+dicuntur, quos latino nomine conditionales uocamus.
+[1.2.4] Non simplices uero dicuntur quoniam ex simplicibus constant, atque in eosdem ultimos resoluuntur,
+cum praesertim primae eorum propositiones uim propriae consequentiae ex categoricis, id est simplicibus, capiant
+syllogismis. Namque prima propositio hypothetici syllogismi, si dubitetur an uera sit, praedicatiua conclusione
+demonstrabitur. Assumptio uero in pluribus modis talium syllogismorum praedicatiua esse perspicitur, itemque
+conclusio, uelut cum dicimus:
+Si dies est, lucet; Atqui dies est;
+Haec assumptio praedicatiua est, et, si quaeratur, praedicatiuo probabitur syllogismo:
+Lucet.
+igitur consecuta rursus est praedicatiua conclusio.
+[1.2.5] Super haec omnis conditionalis propositio ex praedicatiuis (ut dictum est) iungitur; quod si ex his et
+fidem capiunt, et ordinem partium sortiuntur, necesse est categoricos syllogismos hypotheticis uim conclusionis
+ministrare. Sed quoniam de hypotheticis loquimur, quid significet hypothesis praedicendum est. Hypothesis namque,
+unde hypothetici syllogismi accepere uocabulum, duobus (ut Eudemo placet)
+dicitur modis: aut enim tale adquiescitur aliquid per quamdam inter se consentientium conditionem, quod fieri
+nullo modo possit, ut ad suum terminum ratio perducatur; aut in conditione posita consequentia ui coniunctionis uel
+disiunctionis ostenditur.
+[1.2.6] Ac prioris quidem propositionis exemplum est, ueluti cum res omnes corporales materiae formaeque
+concursu subsistere demonstramus.
+Tunc enim quod per rerum naturam fieri non potest, ponimus, id est omnem formae naturam a subiecta /214/
+materia, si non re, saltem cogitatione separamus; et quoniam nihil ex rebus corporeis reliquum fit, demonstratum atque
+ostensum putamus eisdem conuenientibus corporalium rerum substantiam confici, quibus a se disiunctis ac
+discedentibus interimatur. In hoc igitur exemplo posita consentiendi conditione, ut id paulisper fieri intelligatur quod
+fieri non potest, id est ut formae a materia separentur, quid consequatur intendimus, perire scilicet corpora, ut eadem ex
+iisdem consistere comprobemus.
+[1.2.7] Nam quoniam interitus corporalium rerum consequitur, iure dicimus res omnes corporeas forma
+materiaque constare. Sed hae quidem huiusmodi propositiones quae ex consentientium conditione proueniunt, nihil his
+differunt quas simplices categoricae institutionis primi libri tractatus ostendit; quae uero a simplicibus differunt illae
+sunt, quando aliquid dicitur esse uel non esse, si quid uel fuerit uel non fuerit.
+[1.3.1] Hae semper cum coniunctionibus proponuntur, ut cum dicimus:
+Si homo est, animal est
+Si ternarius est, impar est
+uel caetera huiusmodi. Haec enim ita proponuntur, ut si quodlibet illud fuerit, aliud consequatur. Vel cum
+dicimus:
+Si homo est, equus non est
+rursus haec eodem modo proponitur in negatione, quo superior in affirmatione proponebatur; hic enim dicitur:
+Si hoc est, illud non est
+et ad hunc modum caeterae. Possunt autem aliquando etiam hoc enuntiari modo:
+Cum hoc sit, illud est
+ueluti cum dicimus:
+
+

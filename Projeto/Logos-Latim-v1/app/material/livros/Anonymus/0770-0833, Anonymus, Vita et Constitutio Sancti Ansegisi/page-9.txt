@@ -1,0 +1,41 @@
+[q] {foot}
+[0746C] Item apud Rhemos Sancti Remigii. Ad Rhemis illis canonicis libram unam: ad Sanctum
+Remigium in eadem urbe monachis libram [0746B] unam.
+[r] {foot}
+[0746C] Catalaunis abbatia Sancti Memmii est canonicorum regularium. Ad Sanctum Memmium in
+Catalauno libram unam. Ad eamdem urbem solidos XV.
+[s] {foot}
+[0746C] Altus-Mons, vulgo Haumont, ad Sabis ( la Sambre) [0746D] fluvii initia, hactenus militat sub
+ordine nostro. Ad Altum Montem monasterium, quo sanctus Ansbertus quondam exsilio fuit intrusus, atque
+consortiis inde ereptus humanis, solidos quindecim.
+[t] {foot}
+[0746D] Malbodium, Maubeuge, una abhinc leuca, est saecularium canonicarum seu domicellarum,
+quae domus olim pro sacris virginibus a beata Aldegunde condita est. Ad Malbodium coenobium libram unam.
+[u] {foot}
+[0746D] Idem dicendum de Castrilocensi Parthenone, qui apud montes Hannoniae a sancta Waldetrude
+Aldegundis sorore constructus est. Ad Castrilocum monasterium similiter.
+[v] {foot}
+[0746D] Laubiense ad Sabim hactenus insigne est monasterium, de quo in Actis sanctorum Landelini et
+sancti Ursmari abbatis. Ad Laubias monasterium libram unam.
+[x] {foot}
+[0746D] De Indensi prope Aquasgrani sito dictum est in Vita sancti Benedicti Anianae abbatis. Ad
+Indam coenobium libras duas. Ad Lingonas illis canonicis libram unam.
+[y] {foot}
+[0746D] Luxovio, celebri hactenus monasterio in Vosago, suberant Fontanae et Anagranates,
+Fontaines, Anegray, hactenus prioratus a Luxovio pendentes. Cusantia, Cusance, monasterium quondam ab
+sancto Ermenfredo conditum, subditumque Luxovio, nunc est prioratus abbatiae Sancti Claudii subjectus. Ad
+Luxovium libras viginti quinque, id est ipso monasterio libras decem. Ad Fontanas cellam ejusdem coenobii
+libram unam et semis. Ad Cusantiam [0747A] similiter. Ad Anagrates lib. II.
+[a] {foot}
+[0747B] Habendense Sancti Romarici coenobium, vulgo Remiremont, monasterium est canonicarum
+Benedictinarum, olim monacharum, de quo in Vita sancti Romarici. Ad Romarici montem libram unam.
+[b] {foot}
+[0747C] De Balma, la Baume, dioecesis Vesontionensis. Ad Balmam similiter libram unam et semis.
+[c] {foot}
+[0747C] Morbach, seu Murbacense monasterium, hactenus superest in dioecesi Basileensi ad Vosagi
+montana. Sancti Gregorii monasterium in Alesatia, dioecesis Argentinensis, vulgo Munsterthal, Regulam sancti
+Benedicti hactenus servat. Ad Morbach coenobium libram unam. Ad Sanctum Gregorium libram unam.
+[d] {foot}
+9
+
+

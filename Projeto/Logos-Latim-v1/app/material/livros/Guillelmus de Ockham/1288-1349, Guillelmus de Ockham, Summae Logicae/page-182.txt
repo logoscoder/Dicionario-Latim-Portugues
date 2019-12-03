@@ -1,0 +1,55 @@
+Per ista, et illa quae dicentur infra de canuersionibus, patet quod tales consequentiae non ualent 'sola
+necessaria sunt necessario uera, igitur omnia uera sunt necessario necessaria', quamuis haec consequentia sit
+bona
+'sola necessaria sunt uera, igitur omnia uera sunt necessaria'. Similiter non sequitur 'tantum homo fuit
+albus, igitur omne album fuit home'. Et ita de consimilibus, de quibus dicetur in suo loco inferius.
+'sola necessaria sunt uera, igitur omnia uera sunt necessaria'. Similiter non sequitur 'tantum homo fuit
+albus, igitur omne album fuit home'. Et ita de consimilibus, de quibus dicetur in suo loco inferius.
+Alia regula est quod quaelibet exclusiua habet duas exponentes, unam affirmatiuam et aliam negatiuam.
+Et ideo opposita exclusiuae habet duas causas ueritatis, quia utriusque exponentis opposita est causa ueritatis
+negationis exclusiuae.
+Alia regula est quod quaelibet exclusiua habet duas exponentes, unam affirmatiuam et aliam negatiuam.
+Et ideo opposita exclusiuae habet duas causas ueritatis, quia utriusque exponentis opposita est causa ueritatis
+negationis exclusiuae.
+Alia regula est quod quando dictum propositionis exclusiuae ponitur respectu alicuius modi facientis
+propositionem modalem, illa propositio est distinguenda, sicut ista est distinguenda 'tantum hominem esse
+Sortem est uerum', eo quad li tantum potest continue proferri cum hoc toto 'hominem esse Sortem' uel
+discontinue. Si discontinue proferatur, sic "tantum
+'hominem esse Sortem' est uerum", tunc est falsa, quia tunc est iste sensus
+'tantum haec est uera', demonstrando istam propositionem 'homo est
+Sortes'. Si continuetur cum hoc toto 'hominem esse Sortem' et partes dicti continuentur, tunc est iste
+sensus 'tantum hominem esse Sortem, est uerum'
+et aequiualet isti 'haec est uera: tantum homo est Sortes'. Si partes dicti non continuentur, tunc non
+denotatur quod haec sit uera 'tantum homo est
+Sortes', sed quod de aliquo contento sub homine uerificatur 'Sortes' cum dictione exclusiua. Unde simile
+est de illis et de aliis sumptis sine dictione exclusiua; tamen uariatio est quando praedicatum est singulare et
+quando non. Unde ista 'tantum album currere est passibile', si li 'tantum'
+cantinuetur cum toto dicto et partes dicti discontinuentur, est falsa, quia aliud quam album currere est
+possibile; si autem continuentur, tunc est uera, quia tunc denotatur quod haec sit possibilis 'tantum album currit'.
+Per aliam autem denotatur quod nulla sit possibilis in qua praedicatur 'currere' de aliquo pronomine demonstrante
+aliquid quod non est album; quod non est uerum.
+cantinuetur cum toto dicto et partes dicti discontinuentur, est falsa, quia aliud quam album currere est
+possibile; si autem continuentur, tunc est uera, quia tunc denotatur quod haec sit possibilis 'tantum album currit'.
+Per aliam autem denotatur quod nulla sit possibilis in qua praedicatur 'currere' de aliquo pronomine demonstrante
+aliquid quod non est album; quod non est uerum.
+[CAP.18. DE PROPOSITIONIBUS EXCEPTIVIS]
+[CAP.18. DE PROPOSITIONIBUS EXCEPTIVIS]
+Circa propositiones exceptiuas est primo uidendum quae sunt propositiones exceptiuae; secundo, quid
+requiritur ad ueritatem exceptiuarum; tertio, de suppositionibus terminorum in exceptiuis; quarto, dandae sunt
+quaedam regulae de propositionibus exceptiuis.
+Circa propositiones exceptiuas est primo uidendum quae sunt propositiones exceptiuae; secundo, quid
+requiritur ad ueritatem exceptiuarum; tertio, de suppositionibus terminorum in exceptiuis; quarto, dandae sunt
+quaedam regulae de propositionibus exceptiuis.
+Circa primum sciendum quod talia syncategoremata 'praeter', 'nisi' faciunt propositiones in quibus
+ponuntur esse exceptiuas.
+Circa primum sciendum quod talia syncategoremata 'praeter', 'nisi' faciunt propositiones in quibus
+ponuntur esse exceptiuas.
+Et primo intelligendum est quod 'nisi' aliquando tenetur consecutiue, et tunc facit propositionem
+hypotheticam, sicut patet de ista 'Sortes non potest currere nisi habeat pedes'. Aliquando autem tenetur exceptiue,
+et tunc non facit propositionem hypotheticam, sicut patet hic 'nullus homo currit nisi Sortes'; et tunc haec dictio
+'nisi' habet idem officium cum hac dictione 'praeter', quando haec dictio 'praeter' tenetur exceptiue.
+Et primo intelligendum est quod 'nisi' aliquando tenetur consecutiue, et tunc facit propositionem
+hypotheticam, sicut patet de ista 'Sortes non potest currere nisi habeat pedes'. Aliquando autem tenetur exceptiue,
+182
+
+

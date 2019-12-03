@@ -1,0 +1,63 @@
+[2] TOLETANA fehlt B132
+[3] TOLETANA IN fehlt W411
+[4] URBEM W411
+[5] RECIEM W411
+[6] ANNO I ORTHODOXI ATQUE SERENISSIMI DOMNI NOSTRI ERVIGI REGIS SUB DIE
+ID. IANUAR. ERA DCCXVIIII] SUB DIE QUINTO ID. IANUAR. ERA DCCXVIIII Anno primo
+ortodoxi atque serenissimi domini nostri servi regis W411
+[7] DOMNI W411
+[8] ERUGI O93; ERVIGI W411; ERUGII B132; ERVIGII korr. aus ERUGII E97
+[9] V fehlt W411
+[10] DCCXVII B132
+[11] et W411
+[12] iussu korr. aus iussi V630; iussit B132
+[13] conventu W411
+[14] apostulorum W411
+[15] idem] id est V1341
+[16] gratie W411
+[17] prespiguus W411
+[18] coetu W411
+[19] inprimus W411
+[20] committat B132
+[21] grates korr. aus grades O93; grates] si ia tres W411
+[22] agit V630; W411; V1341 E97
+[23] conciliorum V630; B132; V1341
+[24] quia fehlt V630; B132; V1341; quia] Quia et W411
+[25] inpleverunt W411
+[26] votum korr. aus tuotum V630
+[27] invocatione W411
+[28] se refecerint] fere fecerint, interlinear vel ferias V630
+[29] refecerunt W411
+[30] est fehlt W411
+[31] est fehlt W411
+[32] sanctismis W411
+[33] patris W411
+[34] obtimo W411
+[35] uentis W411
+[36] subveniunt W411
+[37] qui W411
+[38] quibusqs W411
+[39] pro eventu] proventu W411
+[40] pereatur W411; feriamur E97
+[41] regnis W411
+[42] quod fehlt W411
+[43] per fehlt W411
+[44] os V630
+[45] salvatoris nostri korr. aus salvatoris V1341
+[46] aliter W411; oracula] sal terr• E97
+[47] percipiat W411
+[48] divinationis W411
+[49] vestrae fehlt W411
+[50] emundata W411; mundana B132
+[51] ad W411
+[52] vestris auribus] auribus vestris V630; B132; V1341
+[53] intercapido W411
+[54] prolixi W411
+[55] intercipit korr. aus incipit V630; incipit B132; V1341
+[56] exarato W411
+[57] me W411
+[58] homini W411
+[59] conplicaticatione W411
+11
+
+

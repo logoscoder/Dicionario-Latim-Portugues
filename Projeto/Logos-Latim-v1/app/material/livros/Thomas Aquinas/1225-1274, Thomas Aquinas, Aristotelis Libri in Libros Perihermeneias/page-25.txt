@@ -1,0 +1,58 @@
+|#14 Sic igitur tria sunt genera affirmationum in quibus aliquid de universali praedicatur. Una quidem est, in
+qua de universali praedicatur aliquid universaliter; ut cum dicitur, omnis homo est animal. Alia, in qua aliquid
+praedicatur de universali particulariter; ut cum dicitur, quidam homo est albus. Tertia vero est, in qua aliquid de
+universali praedicatur absque determinatione universalitatis vel particularitatis; unde huiusmodi enunciatio solet
+vocari indefinita. Totidem autem sunt negationes oppositae.
+|#15 De singulari autem quamvis aliquid diversa ratione praedicetur, ut supra dictum est, tamen totum refertur
+ad singularitatem ipsius, quia etiam natura universalis in ipso singulari individuatur; et ideo nihil refert quantum
+ad naturam singularitatis, utrum aliquid praedicetur de eo ratione universalis naturae; ut cum dicitur, socrates est
+homo, vel conveniat ei ratione singularitatis.
+|#16
+Si igitur tribus praedictis enunciationibus addatur singularis, erunt quatuor modi enunciationis ad
+quantitatem ipsius pertinentes, scilicet universalis, singularis, indefinitus et particularis.
+|#17 Sic igitur secundum has differentias Aristoteles assignat diversas oppositiones enunciationum adinvicem.
+Et primo, secundum differentiam universalium ad indefinitas; secundo, secundum differentiam universalium ad
+particulares; ibi: opponi autem affirmationem etc..
+Circa primum tria facit: primo, agit de oppositione propositionum universalium adinvicem; secundo, de
+oppositione indefinitarum; ibi: quando autem in universalibus etc.; tertio, excludit dubitationem; ibi: in eo vero
+quod etc..
+|#18 Dicit ergo primo quod si aliquis enunciet de subiecto universali universaliter, idest secundum continentiam
+suae universalitatis, quoniam est, idest affirmative, aut non est, idest negative, erunt contrariae enunciationes; ut
+si dicatur, omnis homo est albus, nullus homo est albus.
+Huius autem ratio est, quia contraria dicuntur quae maxime a se distant: non enim dicitur aliquid nigrum ex hoc
+solum quod non est album, sed super hoc quod est non esse album, quod significat communiter remotionem albi,
+addit nigrum extremam distantiam ab albo. Sic igitur id quod affirmatur per hanc enunciationem, omnis homo
+est albus, removetur per hanc negationem, non omnis homo est albus. Oportet ergo quod negatio removeat
+modum quo praedicatum dicitur de subiecto, quem designat haec dictio, omnis.
+Sed super hanc remotionem addit haec enunciatio, nullus homo est albus, totalem remotionem, quae est extrema
+distantia a primo; quod pertinet ad rationem contrarietatis.
+Et ideo convenienter hanc oppositionem dicit contrarietatem.
+|#19 Deinde cum dicit: quando autem etc., ostendit qualis sit oppositio affirmationis et negationis in indefinitis.
+Et primo, proponit quod intendit; secundo, manifestat propositum per exempla; ibi: dico autem non universaliter
+etc.; tertio, assignat rationem manifestationis; ibi: cum enim universale sit homo etc..
+Dicit ergo primo quod quando de universalibus subiectis affirmatur aliquid vel negatur non tamen universaliter,
+non sunt contrariae enunciationes, sed illa quae significantur contingit esse contraria.
+Deinde cum dicit: dico autem non universaliter etc., manifestat per exempla.
+Ubi considerandum est quod non dixerat quando in universalibus particulariter, sed non universaliter. Non enim
+intendit de particularibus enunciationibus, sed de solis indefinitis.
+Et hoc manifestat per exempla quae ponit, dicens fieri in universalibus subiectis non universalem enunciationem;
+cum dicitur, est albus homo, non est albus homo.
+Et rationem huius expositionis ostendit, quia homo, qui subiicitur, est universale, sed tamen praedicatum non
+universaliter de eo praedicatur, quia non apponitur haec dictio, omnis: quae non significat ipsum universale, sed
+modum universalitatis, prout scilicet praedicatum dicitur universaliter de subiecto; et ideo addita subiecto
+universali, semper significat quod aliquid de eo dicatur universaliter.
+Tota autem haec expositio refertur ad hoc quod dixerat: quando in universalibus non universaliter enunciatur,
+non sunt contrariae.
+|#20 Sed hoc quod additur: quae autem significantur contingit esse contraria, non est expositum, quamvis
+obscuritatem contineat; et ideo a diversis diversimode exponitur.
+Quidam enim hoc referre voluerunt ad contrarietatem veritatis et falsitatis, quae competit huiusmodi
+enunciationibus. Contingit enim quandoque has simul esse veras, homo est albus, homo non est albus; et sic non
+sunt contrariae, quia contraria mutuo se tollunt.
+Contingit tamen quandoque unam earum esse veram et alteram esse falsam; ut cum dicitur, homo est animal,
+homo non est animal; et sic ratione significati videntur habere quamdam contrarietatem.
+Sed hoc non videtur ad propositum pertinere, tum quia Philosophus nondum hic loquitur de veritate et falsitate
+enunciationum; tum etiam quia hoc ipsum posset de particularibus enunciationibus dici.
+
+25
+
+

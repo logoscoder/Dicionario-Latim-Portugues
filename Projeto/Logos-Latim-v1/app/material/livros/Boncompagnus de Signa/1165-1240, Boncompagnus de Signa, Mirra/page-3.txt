@@ -1,0 +1,114 @@
+[5.1] Testamentorum diuersitates infinite sunt, quas nullus scire posset, nisi mundi monarchiam, quod esset
+impossibile, regiraret. Nam tot sunt testamentorum diuersitates, quot sunt consuetudines prouinciarum.
+rubr. om. PTMP3
+infinite sunt diuersitates T
+scire: iure P dicere T
+T
+regitaret: c-i-aret P3
+sunt testamentorum tot diuersitates T
+
+posset: dicere add. Ppc mundi: mondi
+
+[5.2] Quidam enim testamenta redigi faciunt per manum publicam in scriptis et testibus idoneis roborantur, et
+ista consuetudo in partibus Italie uiget.
+scriptis P3: scripturis codd.
+
+in scriptis tr. P3 ante per
+
+in: talibus add. T
+
+roborantur: roboreantur P3
+
+[5.3] Alibi autem per magnis et approbatis personis non redigitur testamentum in scriptis. Et si redigitur non
+tamen per manum publicam, quia non sunt ibi tabelliones. Sed scribitur a sacerdotibus uel clericis seu ab
+aliquibus, qui scribere nouerunt. Hec enim consuetudo est in Alamania, uod sacerdos, qui penitentiam exhibit
+infirmo, scribit uel scribi facit quicquid pro anima uel heredibus relinquid. Et testantur ibi liberi et serui hoc
+modo, sed non semper redigitur in scriptis.
+autem: nisi add. M
+testamentum--redigitur om. PT
+scriptis P3: scripturis codd.
+tabeliones PT
+ab om.
+3
+3
+T
+nouerunt scribere tr. P
+est consuetudo tr. P
+quod P3: quia codd.
+quicquid: quidquic P3
+relinquid: relinquit P3 set non P3: om. codd.
+[5.4] Nam et in multis Ytalie partibus testamenta non scribuntur, sed dicunt infirmi "Relinquo per anima mea .C.
+libras" uel".XL., medietatem inter plebes et capellas et de alia mediatate fiant expense pro sepultura et quod
+superauerit pauperibus erogetur". Et ex hoc dat commissarium sacerdoti, qui per librum et stolam sacerdotalem
+promittit hoc firmiter adimplere. Postmodum relinquid heredibus res immobiles et mobiles secundum
+consuetudinem locorum. In quibusdam namque Tuscie partibus testamentum uulgo 'iudicium' appellatur, siue
+contineatur in scriptis siue non. Vnde multitotiens dicit infirmantibus "Quid michi iudicas?" Ille quandoque
+respondit "Iudico tibi .X. libras" uel aliquid, quod testator placet.|[80 rb] Et in talibus iudiciis, idest testamentis,
+testes quilibet admittuntur, etiam si fuerunt criminosi, propter consuetudinem approbatam.
+libras P3: om. codd.
+medietatem P3: uel praem. codd.
+plebes: plebem P3
+sepultura et: de eo add. P de
+add. T
+ex om. P3
+commissarium: commissorium P3
+et mobiles om. P3
+In--partibus: In Tuscia namque
+PTP3
+iudicium: iudicum P3
+dicit: dicitur MTP3 (tr. P3 ante Quid)
+infirmantibus: in praem. P3
+libras
+3
+om. P testator placet: placet testatori P
+[6.] QVOMODO TESTAMENTA FIERI DEBEANT ET ROBORARI.
+[6.1] Vnde notandum est, quod testamentorum, aliud simplex, aliud solempne. 13 Simplex est, in quo duo uel tres
+testes absque scripto et forma iuris simpliciter adhibentur. Solempne est, quod per manum publicam scribitur
+et .VII. testes,|[75ra] ciues Romani, idest qui Romano intelligitur subesse imperio, puberes non infamate iure,|
+[111va] non subditi alieno iuri, adhibentur cum quibusdam solempnitatibus, que in legibus reperiuntur. Mulieres
+autem ad testificandum in testamentis secundum leges nullomodo admittuntur.
+rubr. om. PTM absit P3
+ET ROBORARI V: etc. B
+aliud: est add. PT
+est om. PT
+iure: uite M
+solempnitatibus: sollempnitatibus P3
+Mulieres--admittuntur om. P3
+
+et VII: Vnde P3
+
+[6.2] Si exordio debet uti super testamentis, oportet dictatorem considerare solicitius dignitates et conditiones
+sublimium personarum. Si uero pro imperatore uel regibus aut principibus aliquod exordiri opporteat uel narrare,
+uerbis est solempnibus utendum pro imperatore, hoc modo:
+Si: In MP3 n B (Rubricator om. I) Set T
+exordio: exordiendo M
+debet uti: om. MTP3B
+solicitius:
+3
+3
+3
+sollitius P B
+uel: aut P
+regibus: rege P
+aliquod (aliquem MTB) exordiri opporteat: opportet aliquod
+exordiri P3 vel narrarre--utendum absit B
+sollempnibus est tr. P3
+utendum P3: utendo codd.
+[7.] PRIMVM TESTAMENTUM IMPERATORIS.14
+[7.1] "Quanto nos celestis pater mirarum temporali dignitate ac rerum affluentiis fecit inter mortales copiosius
+habundare, tanto propensius extremum diem piis operibus et iustis actionibus preuenire debemus, ne dies Domini
+peccatis nostris exigentibus tanquam fur ueniens15 nobis testandi auferat potestatem."
+PRIMVM TESTAMENTUM IMPERATORIS B: rubr. om. P3 codd.
+arum PTM om. P3 (sed signum ponitur supra lineam) misericordiarum B
+
+Quanto: Quando B
+ac P3: hac codd.
+
+mirarum: mi-
+
+[7.2] "Constituimus ergo nostrum comissarium archiepiscopum Maguntinum, qui de camera nostra .X. milia
+marchas purissimi argenti recipiat et ex illis monasterium in aliqua silua sub congregatione Claraualensium
+construere non postponat. Si uero in ualescentibus egritudinum procellis debitum exsoluerimus humanitatis, duo
+3
+
+

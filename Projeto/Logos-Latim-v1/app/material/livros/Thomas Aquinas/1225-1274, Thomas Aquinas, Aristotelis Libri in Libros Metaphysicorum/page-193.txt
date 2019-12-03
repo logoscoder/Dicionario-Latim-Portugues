@@ -1,0 +1,56 @@
+Circa primum duo facit. Primo removet ab eo quod quid erat esse praedicata per accidens.
+Secundo ea, quae praedicantur per se, sicut propriae passiones de subiecto, ibi, neque etiam hoc etc..
+|#3 Dicit ergo primo, quod de substantiis sensibilibus primo dicendum est, et ostendendum est in eis quod quid
+erat esse: ideo primum dicemus de eo quod est quod quid erat esse quaedam logice.
+Sicut enim supra dictum est, haec scientia habet quandam affinitatem cum logica propter utriusque
+communitatem. Et ideo modus logicus huic scientiae proprius est, et ab eo convenienter incipit. Magis autem
+logice dicit se de eo quod quid est dicturum, inquantum investigat quid sit quod quid erat esse ex modo
+praedicandi. Hoc enim ad logicum proprie pertinet.
+|#4 Hoc autem primo sciendum est de eo quod quid erat esse, quod oportet quod praedicetur secundum se. Illa
+enim quae praedicantur de aliquo per accidens, non pertinent ad quod quid erat esse illius.
+Hoc enim intelligimus per quod quid erat esse alicuius, quod convenienter responderi potest ad quaestionem de
+eo factam per quid est. Cum autem de aliquo quaerimus quid est, non possumus convenienter respondere ea quae
+insunt ei per accidens; sicut cum quaeritur quid est homo, non potest responderi, quod sit album vel sedens vel
+musicus. Et ideo nihil eorum, quae praedicantur per accidens de aliquo, pertinent ad quod quid erat esse illius rei:
+non enim musicum esse, est tibi esse.
+|#5 Sciendum autem est, quod in omnibus sequentibus per hoc quod dicit hoc esse, vel huic esse, intelligit quod
+quid erat esse illius rei; sicut homini esse vel hominem esse, intelligit id quod pertinet ad quod quid est homo.
+Quod est autem musicum esse, idest hoc ipsum quod quid est musicus, non pertinet ad hoc quod quid es tu. Si
+enim quaeratur, tu quid sis, non potest responderi quod tu sis musicus. Et ideo sequitur quod musicum esse non
+est tibi esse; quia ea quae pertinent ad quidditatem musici, sunt extra quidditatem tuam, licet musicus de te
+praedicetur.
+Et hoc ideo, quia tu non secundum teipsum es musicus, idest quia musicum non praedicatur de te per se, sed per
+accidens. Illud ergo pertinet ad quod quid est tui, quod tu es secundum teipsum, idest quia de te praedicatur per
+se et non per accidens; sicut de te praedicatur per se homo, animal, substantia, rationale, sensibile, et alia
+huiusmodi, quae omnia pertinent ad quod quid est tui.
+|#6 Deinde cum dicit neque etiam.
+Excludit ab eo quod est quod quid est, quod praedicatur secundum se, sicut passiones de subiectis; dicens: neque
+etiam hoc omne quod praedicatur secundum se de aliquo, pertinet ad hoc quod quid erat esse eius. Praedicatur
+enim per se passio de proprio subiecto, sicut color de superficie. Non tamen quod quid erat esse est, quod ita
+inest alicui secundum se, sicut superficiei inest album; quia non superficiei esse est album esse, idest hoc ipsum
+quod quid est superficies, non est quod quid est album.
+Alia enim est quidditas superficiei et albedinis.
+|#7 Et non solum hoc quod est esse album non est quod quid est superficiei; sed nec ipsum compositum ex
+utrisque, scilicet superficie et albedine, quod est esse superficiem albam vel esse superficiei albae.
+Quidditas enim vel essentia superficiei albae, non est quidditas vel essentia superficiei.
+Et si quaeratur quare? responderi potest quia hoc adest ei, idest, quia cum dico superficiem albam, dicitur aliquid
+quod adhaeret superficiei tamquam extrinsecum, et non tamquam intrans essentiam eius. Unde hoc totum quod
+est superficies alba, non est de essentia superficiei.
+|#8 Praedicantur autem passiones de propriis subiectis ea ratione, quia propria subiecta in earum definitionibus
+ponuntur, sicut nasus ponitur in definitione simi, et numerus in definitione paris. Quaedam vero ita praedicantur
+per se, quod subiecta in eorum definitionibus non ponuntur, sicut animal per se de homine; nec homo ponitur in
+definitione animalis. Cum ergo ea quae praedicantur per accidens non pertineant ad quod quid est, nec illa quae
+praedicantur per se in quorum definitionibus ponuntur subiecta, relinquitur quod illa pertineant ad quod quid est,
+in quorum definitionibus non ponuntur subiecta.
+Et ideo concludit dicens, quod haec erit ratio in singulis, quod quid erat esse, in qua ratione dicente ipsum, idest
+describente praedicatum non inerit ipsum, idest subiectum; sicut in ratione animalis, non inest homo. Unde
+animal pertinet ad quod quid est homo.
+|#9 Probat autem deducendo ad inconveniens, quod ea quae praedicantur per se de aliquo sicut propria passio
+de subiecto, non pertineant ad quod quid est.
+Contingit enim de eodem subiecto plures passiones diversas per se praedicari; sicut per se praedicatur propria
+passio, coloratum et asperum et leve, quae sunt passiones superficiei. Eiusdem autem rationis est omnia
+huiusmodi praedicata ad quod quid est subiecti pertinere. Ergo si albedo pertinet ad quod quid est superficiei,
+pari ratione et Levitas. Quae autem uni et eidem sunt eadem, sibiinvicem sunt eadem. Quare si superficiei album
+193
+
+

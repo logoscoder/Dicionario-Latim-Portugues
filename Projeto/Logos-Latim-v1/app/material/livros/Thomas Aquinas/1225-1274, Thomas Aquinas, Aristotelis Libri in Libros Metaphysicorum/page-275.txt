@@ -1,0 +1,55 @@
+|#13 Dictum est enim superius in septimo et in octavo, quod in substantiis simplicibus idem est res, et quod
+quid est eius. Sic igitur cum substantia simplex sit ipsum quod quid est, idem iudicium est de cognitione
+substantiae simplicis, et de cognitione eius quod quid est. Sed circa quod quid est non decipitur intellectus nisi
+per accidens: aut enim per intellectum attingit aliquis quod quid est rei, et tunc vere cognoscit quid est res; aut
+non attingit, et tunc non apprehendit rem illam.
+Unde circa eam non verificatur neque decipitur.
+Propter quod dicit Aristoteles in tertio de anima, quod sicut sensus circa propria obiecta semper est verus, ita
+intellectus circa quod quid est, quasi circa proprium obiectum. Et quod intellectus circa quod quid est non
+decipiatur, non solum est in simplicibus substantiis, sed etiam in compositis.
+|#14 Quomodo autem per accidens decipiatur aliquis circa quod quid est, considerandum est. Non enim
+decipitur quis circa quod quid est, nisi componendo, aut dividendo. Quod quidem in substantiis compositis
+contingit dupliciter. Uno modo per compositionem definitionis ad rem definitam, aut divisionem. Ut si aliquis
+diceret: asinum esse animal rationale mortale; aut: homo non est animal rationale mortale, utrobique falsum est.
+Alio modo secundum quod definitio constituitur ex partibus, quae non sunt invicem componibiles: ut si quis
+assignaret hanc definitionem, homo est animal insensibile. Primo igitur modo definitio dicitur esse falsa, quia
+non est huius. Secundo modo dicitur esse falsa per se, ut supra in quinto docuit Philosophus.
+|#15 In simplicibus vero substantiis non potest esse deceptio circa quod quid est per accidens nisi primo modo:
+non enim eorum quod quid est, est compositum ex pluribus, circa quorum compositionem vel divisionem possit
+accidere falsum.
+|#16
+Et omnes adaptat quod dixerat de substantiis simplicibus ad principale propositum: scilicet ad
+ostendendum quod verum magis est actu quam in potentia. Ostenderat quidem hoc circa composita, pro eo quod
+verum est circa compositionem et divisionem, quae actum designant: in substantiis vero simplicibus ex eo quod
+non est in eis falsum, sed tantum verum. Propter quod non sunt in potentia, sed in actu.
+|#17 Dicit ergo quod omnes substantiae simplices sunt actu entes, et nunquam entes in potentia: quia, si
+quandoque essent in actu, et quandoque in potentia, generarentur et corrumperentur: sed hoc non potest esse, ut
+ostensum est: nam huiusmodi substantiae sunt formae tantum, unde etiam secundum se sunt entes; ens autem
+secundum seipsum non generatur neque corrumpitur. Omne enim quod generatur ex aliquo generatur: ens autem
+simpliciter inquantum ens, non potest ex aliquo generari. Non enim est aliquid extra ens, sed extra tale ens;
+utputa extra hominem est aliquod ens. Unde hoc ens potest generari secundum quid, sed ens simpliciter non. Id
+ergo, quod est ens secundum se, per hoc, quod ipsum est forma, ad quam sequitur ens, non est generabile.
+Unde non est quandoque in potentia, quandoque in actu.
+|#18 Et ideo, quia circa actum maxime consistit verum, quaecumque sunt talia, quae sunt solum in actu, et sunt
+id quod vere aliquid est, quia sunt quidditates et formae, circa ea non convenit decipi, aut esse falsum. Sed
+oportet ut intelligantur si mente attingantur, vel penitus non intelligantur si mente non attingantur.
+|#19 Sed quamvis in eis non contingat decipi secundum se, contingit tamen cum quaeritur de eis quod quid est,
+scilicet si talia sunt aut non. Et sic contingit decipi in eis per accidens: utputa si quis quaerat de aliqua substantia
+simplici utrum sit ignis, aut substantia corporea, vel non: quia, si attribuitur ei esse substantiam corpoream, erit
+falsitas per accidens propter compositionem.
+|#20 Deinde cum dicit esse vero colligit quod dixerat de vero et falso tam circa composita quam circa simplicia;
+dicens, quod hoc ipsum esse quod significat veritatem, et non esse quod significat falsitatem (quia qui dicit,
+homo est albus, significat hoc esse verum; qui dicit, non est albus, significat hoc esse falsum): hoc, inquam, esse
+et non esse, uno modo dicitur, scilicet in compositione, scilicet quod est verum si componitur in re quod
+intellectus componit: falsum autem si non componitur in re quod intellectus componit, intelligens aut
+denuncians.
+|#21 Alio vero modo in rebus simplicibus verum est, si id quod est vere ens, idest quod est ipsum quod quid est,
+idest substantia rei simplex, sic est sicut intelligitur: si vero non est ita sicut intelligitur, non est verum in
+intellectu. Et sic est verum intelligere ipsa, sed falsum non est ibi, neque deceptio, ut expositum est, sed
+ignorantia. Quia si non attingit ad quod quid est, penitus ignorat rem illam. In compositis autem potest unum
+scire, et circa alias proprietates eius decipi.
+|#22 Qualis autem ignorantia est, ostendit cum dicit, quod illa ignorantia non est talis privatio sicut caecitas
+quae est privatio potentiae visivae. Unde illa ignorantia similis caecitati esset, si aliquis non haberet vim
+275
+
+

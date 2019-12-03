@@ -1,0 +1,59 @@
+omnibus aut in multis: hoc enim est de ratione probabilis. Sed in proposito accidit contrarium, quia omnia quae
+generantur, videmus corrumpi. Non ergo est ponendum quod mundus sit generatus, et quod sit incorruptibilis.
+|#10 Secundam rationem ponit ibi: adhuc autem etc.. Et inducit primo quoddam principium: et dicit quod, si
+aliquid est quod non habet in se potentiam quae sit principium eius quod est sic et aliter se habere, sed
+impossibile est quod aliter se habuerit prius per omnia saecula, impossibile est quod talis res transmutetur. Et hoc
+probat ducendo ad impossibile. Quia si talis res transmutaretur, erit quando transmutatur aliqua causa faciens
+eam transmutari, scilicet sua potentia ad transmutationem: quae si prius fuisset, possibile erat illam rem aliter se
+habere, quae tamen ponebatur impossibile aliter se habere. Si autem prius non habuit potentiam ad hoc quod
+aliter se haberet, et postea habet eam, hoc ipsum est transmutari illam rem: et sic etiam antequam haberet
+potentiam transmutandi, erat potens transmutari, ad hoc scilicet quod acciperet potentiam transmutandi.
+Ex his autem sic argumentatur ad propositum.
+Si enim mundus constitutus est ex quibusdam rebus, quae priusquam mundus fieret aliter se habebant; si ita sit
+quod illa ex quibus constitutus est mundus, semper sic se haberent sicut prius se habebant, et impossibile sit
+aliter ea se habere, non fieret mundus ex eis. Si ergo factus est mundus ex eis, necesse est quod illa ex quibus
+factus est mundus, sint possibilia aliter se habere, et quod non semper eodem modo se habeant. Unde sequitur
+quod etiam constantia, idest postquam fuerint adunata ad constitutionem mundi, iterum possunt dissolvi; et
+quando erant dissoluta, prius fuerunt composita; et quod infinities vicissim haec sic se habebant, aut possibile
+erat sic se habere.
+Et si hoc est verum, sequitur quod mundus non sit incorruptibilis, neque unquam erit incorruptibilis, si ea ex
+quibus constat mundus aliter se habebant, neque etiam si possibile erat quod aliter se haberent: quia ex utroque
+sequitur quod etiam nunc possibile sit ea aliter se habere.
+|+23 Lectio 23
+|#1
+Praemissis rationibus contra opinionem Platonis, hic Philosophus excludit quandam excusationem
+praedictae opinionis, quam xenocrates et alii Platonici afferebant. Et circa hoc duo facit: primo proponit
+excusationem; secundo excludit eam, ibi: hoc autem est, quemadmodum dicimus etc..
+Dicit ergo primo quod non est verum illud auxilium, idest illa excusatio, quam quidam Platonicorum, dicentium
+mundum esse incorruptibilem sed tamen factum vel genitum, conantur ferre sibi ipsis, ut non irrationabiliter
+posuisse videantur.
+Dicunt enim se dixisse de generatione mundi ad similitudinem eorum qui describunt figuras geometricas, qui
+primo describunt quasdam partes figurae, puta trianguli, et postea alias, non quasi prius fuerint huiusmodi partes
+antequam talis figura ex huiusmodi partibus constitueretur, sed ut magis explicite demonstrent ea quae ad
+figuram requiruntur. Et similiter dicunt Platonem dixisse mundum factum esse ex elementis, non tanquam aliquo
+tempore determinato mundus sit generatus, sed causa doctrinae; ut facilius instruerentur aliqui de natura mundi,
+dum prius demonstrantur eis partes mundi, et quid habeant huiusmodi partes ex seipsis, postea demonstratur eis
+compositio quam habent a causa mundi, quae Deus est. Et ita aspiciunt, idest considerant, mundum esse
+genitum, ad modum descriptionis qua utuntur geometrae in descriptione figurarum.
+|#2 Deinde cum dicit: hoc autem est, quemadmodum dicimus etc., improbat quod dictum est.
+Et dicit quod non eodem modo se habet quod ipsi dicunt circa generationem mundi, et quod geometrae dicunt
+circa descriptiones figurarum, sicut manifestabitur per ea quae nunc dicemus.
+Quia in descriptionibus geometricalibus, idem accidit si omnes partes figurae simul accipiantur ut constituunt
+figuram, et si non accipiantur simul: quia quando non accipiuntur simul, nihil aliud dicitur de eis nisi quod sunt
+lineae vel anguli; et hoc etiam salvatur in eis quando accipiuntur omnia simul in figura constituta ex eis. Sed in
+demonstrationibus eorum qui ponunt generationem mundi, non idem accipitur cum sunt simul et cum non sunt
+simul; sed impossibile est quod idem ex utraque parte accipiatur, sicut impossibile est opposita esse simul; illa
+enim quae accipiuntur prius, scilicet ante constitutionem mundi, et posterius, scilicet mundo iam constituto, sunt
+subcontraria, idest habent quandam adiunctam et latentem contrarietatem. Dicunt enim quod ex elementis
+inordinatis facta sunt ordinata, Deo scilicet reducente inordinationem elementorum ad ordinem, ut Plato in
+timaeo dicit: geometrae autem non dicunt quod ex lineis divisis componatur triangulus, sed simpliciter quod ex
+lineis. Et esset simile si isti solum dicerent quod mundus sit ex elementis: sed dicunt quod mundus ordinatus sit
+ex elementis inordinatis. Non est autem possibile quod aliquid sit simul ordinatum et inordinatum: sed necesse
+est dari aliquam generationem, per quam unum eorum ab altero separetur, ut scilicet ante generationem sit
+inordinatum, post generationem vero ordinatum; et per consequens necesse est dari aliquod tempus distinguens
+utrumque. Sed in descriptionibus figurarum non requiritur aliqua distinctio temporis: non enim oportet quod
+linea et triangulus tempore distinguantur, sicut ordinatum et inordinatum.
+
+50
+
+

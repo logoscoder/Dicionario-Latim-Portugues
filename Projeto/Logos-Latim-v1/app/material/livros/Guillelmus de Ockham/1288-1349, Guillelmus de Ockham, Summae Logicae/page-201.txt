@@ -1,0 +1,54 @@
+Similiter hic non est syllogismus expositorius 'Sortes est albus; Sortes est animal; igitur animal est
+albus', sed hic est fallacia figurae dictionis. Similiter nec hic 'iste homo est sanus; iste homo est substantia; igitur
+aliqua substantia est sanus'.
+Similiter nec hic 'Sortes non est filius Platonis; Sortes est pater; igitur aliquis pater non est filius', sed est
+ignorantia elenchi.
+Similiter nec hic 'Sortes non est filius Platonis; Sortes est pater; igitur aliquis pater non est filius', sed est
+ignorantia elenchi.
+Similiter nec hic 'Sortes est albus secundum dentes; Sortes est niger; igitur aliquod nigrum est album',
+sed est fallacia secundum quid et simpliciter.
+Similiter nec hic 'Sortes est albus secundum dentes; Sortes est niger; igitur aliquod nigrum est album',
+sed est fallacia secundum quid et simpliciter.
+Nec hic est syllogismus expositorius probatiuus 'Sortes est calidus; Sortes est productiuus caloris; igitur
+productiuum caloris est calidum', quia est ibi petitio principii, et ideo non probat, quamuis illatio sit bona.
+Nec hic est syllogismus expositorius probatiuus 'Sortes est calidus; Sortes est productiuus caloris; igitur
+productiuum caloris est calidum', quia est ibi petitio principii, et ideo non probat, quamuis illatio sit bona.
+Et sicut est de istis, qui uidentur esse syllogismi expositorii et non sunt, quod est in eis manifestus
+defectus praeter fallaciam accidentis, ita est de aliis.
+Et sicut est de istis, qui uidentur esse syllogismi expositorii et non sunt, quod est in eis manifestus
+defectus praeter fallaciam accidentis, ita est de aliis.
+Unde sciendum quod regula generalis est quod quando propositiones sunt mere de inesse et de praesenti
+et disponuntur in figura sine omni additione uel diminutione ad subiectum et praedicatum quod numquam est in
+tali discursu fallacia accidentis, sicut nec in discursu disposito in primo modo primae figurae potest esse fallacia
+accidentis, sicut inferius ostendetur. Eodem modo quando aliquis discursus potest reduci ad talem syllogismum
+expositorium, uel per conuersionem uel per impossibile uel per propositiones aequiualentes assumptas, non est
+fallacia accidentis.
+Unde sciendum quod regula generalis est quod quando propositiones sunt mere de inesse et de praesenti
+et disponuntur in figura sine omni additione uel diminutione ad subiectum et praedicatum quod numquam est in
+tali discursu fallacia accidentis, sicut nec in discursu disposito in primo modo primae figurae potest esse fallacia
+accidentis, sicut inferius ostendetur. Eodem modo quando aliquis discursus potest reduci ad talem syllogismum
+expositorium, uel per conuersionem uel per impossibile uel per propositiones aequiualentes assumptas, non est
+fallacia accidentis.
+Est tamen aduertendum quod ad syllogismum expositorium non sufficit arguere ponendo pro medio
+pronomen demonstratiuum uel nomen proprium alicuius rei singularis, sed cum hoc oportet quod illa res
+demonstrata uel importata per tale nomen proprium non sit realiter plures res distinctae. Et propter hoc hic non
+est syllogismus expositorius 'haec essentia' -- demonstrando diuinam essentiam -- 'est Pater; haec essentia est
+Filius; igitur Filius est Pater', et hoc quia haec essentia est plures personae distinctae. Et ideo in tali paralogismo
+magis est fallacia cansequentis quam accidentis, quamuis etiam sit ibi fallacia accidentis.
+Est tamen aduertendum quod ad syllogismum expositorium non sufficit arguere ponendo pro medio
+pronomen demonstratiuum uel nomen proprium alicuius rei singularis, sed cum hoc oportet quod illa res
+demonstrata uel importata per tale nomen proprium non sit realiter plures res distinctae. Et propter hoc hic non
+est syllogismus expositorius 'haec essentia' -- demonstrando diuinam essentiam -- 'est Pater; haec essentia est
+Filius; igitur Filius est Pater', et hoc quia haec essentia est plures personae distinctae. Et ideo in tali paralogismo
+magis est fallacia cansequentis quam accidentis, quamuis etiam sit ibi fallacia accidentis.
+Cum igitur in isto syllogismo 'hoc est Deus; hoc est contingenter creans; igitur aliquid quod est
+contingenter creans est Deus' non possit ostendi aliquis defectus, manifestum est ipsum esse euidentem
+syllogismum expositorium; et per consequens probatum est sufficienter quod ista 'Deus contingenter creat'
+conuertitur in istam 'quod contingenter creat, est
+Deus'. Ex quo etiam patet quod conuertitur in istam de possibili 'aliquid, quod contingenter creat, potest
+esse Deus', quia semper illa de inesse formaliter infert illam de possibili.
+Deus'. Ex quo etiam patet quod conuertitur in istam de possibili 'aliquid, quod contingenter creat, potest
+esse Deus', quia semper illa de inesse formaliter infert illam de possibili.
+201
+
+

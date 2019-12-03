@@ -1,0 +1,64 @@
+Hoc ergo supposito, plana est solutio secundum intentionem Alexandri, quod
+sicut corpus caeleste habet moveri ab alio, ita et esse. Unde sicut motus
+perpetuus demonstrat infinitam virtutem motoris, non autem ipsius mobilis;
+ita et perpetua eius duratio demonstrat infinitam virtutem causae a qua
+habet esse.
+|#15
+Non tamen omnino eodem modo se habet potentia corporis caelestis ad
+esse et ad moveri perpetuo.
+Non quidem secundum differentiam quam ipse assignat, quod in corpore
+caelesti sit quantum ad moveri potentia ad opposita, quae sunt quies et
+motus: sed ad opposita quae sunt diversa ubi.
+Sed differunt quantum ad aliud. Nam motus secundum se cadit in tempore:
+esse vero non cadit secundum se in tempore, sed solum secundum quod
+subiacet motui. Si ergo sit aliquod esse quod non subiacet motui, illud
+esse nullo modo cadit sub tempore. Potentia ergo quae est ad moveri in
+tempore infinito, respicit infinitatem temporis directe et per se.
+Sed potentia quae est ad esse tempore infinito, si quidem illud esse sit
+transmutabile, respicit quantitatem temporis: et ideo maior virtus vel
+potentia requiritur ad hoc quod aliquid duret in esse transmutabili maiori
+tempore. Sed potentia quae est respectu esse intransmutabilis, nullo modo
+respicit quantitatem temporis. Unde magnitudo vel infinitas temporis nihil
+facit ad magnitudinem vel infinitatem potentiae respectu talis esse. Dato
+ergo per impossibile quod corpus caeleste non haberet esse ab alio, adhuc
+non posset ex perpetuitate ipsius concludi, quod in eo esset virtus
+infinita.
+|#16
+Deinde cum dicit: nullum itaque finitum etc., probat quod in
+magnitudine infinita non potest esse potentia finita.
+Et hoc duabus rationibus: circa quarum primam tria facit.
+Primo ponit conclusionem intentam, dicens quod sicut in magnitudine finita
+non potest esse potentia infinita, ita nec in aliquo quanto infinito potest
+esse potentia finita secundum totum (nam pars infiniti si accipiatur
+finita, habebit potentiam finitam)p hoc autem inducit non quasi necessarium
+ad principale propositum ostendendum, sed quasi cohaerens et affine
+conclusioni prius demonstratae.
+|#17
+Secundo ibi: et tamen contingit etc., ponit quoddam per quod alicui
+videri posset quod in magnitudine infinita sit potentia finita: videmus
+enim quod aliqua minor magnitudo habet maiorem virtutem quam maior
+magnitudo, sicut parvus ignis habet maiorem virtutem activam quam multus
+aer. Sed per hoc non potest haberi quod quantum infinitum habeat potentiam
+finitam: quia si accipiatur aliqua adhuc magis excedens magnitudo, habebit
+maiorem virtutem; sicut si aer maior secundum aliquam quantitatem habet
+minus de virtute quam parvus ignis, si multum augeatur aeris quantitas,
+habebit maiorem virtutem quam parvus ignis.
+|#18
+Tertio ibi: sit igitur in quo est ab etc., ponit demonstrationem
+intentam: quae talis est. Sit quantum infinitum ab; et sit bc magnitudo
+finita alterius generis, quae habet quandam potentiam finitam; et sit
+quoddam mobile d, quod moveatur a magnitudine bc, in tempore quod est Ez.
+Et quia bc est magnitudo finita, poterit accipi maior magnitudo: accipiatur
+ergo maior secundum duplam proportionem. Quanto autem est maior potentia
+moventis, tanto in minori tempore movet, ut habitum est in septimo: ergo
+duplum ipsius bc movebit idem mobile, scilicet d, in medio tempore, quod
+sit zt, ita quod intelligatur tempus ez dividi per medium in puncto t.
+Semper autem sic addendo ad bc, minuetur tempus motus: sed quantumcumque
+addatur ad bc, nunquam potest transire ab, quod improportionaliter excedit
+bc, sicut infinitum finitum.
+Et cum ab habeat potentiam finitam, movet in tempore finito d: et sic
+semper diminuendo de tempore quo movebat bc, perveniemus ad aliquod tempus
+minus quam sit tempus in quo movebat ab, quia omne finitum transcenditur
+351
+
+

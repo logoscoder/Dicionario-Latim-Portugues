@@ -1,0 +1,61 @@
+AG2
+Sed dicebat, quod leges non loquuntur secundum forum conscientiae; sed quod nunc loquimur, est secundum
+forum contentiosum.
+Sed contra, secundum Philosophum in II ethic., c. I, intentio legislatoris est cives facere bonos. Quod ergo licet
+secundum leges, non est contrarium virtuti, et ita etiam non est contrarium conscientiae.
+SC1
+Sed contra. Est, quia secundum leges civiles si aliquis vendat animal morbidum, tenetur de vitio. Ergo tenetur
+dicere vitium emptori.
+SC2
+Praeterea, tullius dicit in libro de officiis, quod ad officium boni viri pertinet ut dicat emptori illud pro quo res
+minus venderetur. Huiusmodi autem est vitium rei venditae. Ergo venditor tenetur dicere emptori vitium rei
+venditae.
+CO
+Respondeo. Dicendum, quod aliquid pertinet ad bonum virum ad quod tamen homines non tenentur; sicut ad
+bonum virum pertinet quod liberaliter amico suo bona largiatur, quamvis ad hoc non teneatur. Sed aliquid
+pertinet ad bonum virum ad quod tenetur; scilicet quod reddat alicui quod iustum est: nam actus iustitiae est ut
+reddatur alicui quod ei debetur.
+Et ideo unusquisque venditor ad hoc tenetur ut iustam venditionem faciat, non autem ut faciat venditionem
+liberalem, dimittens aliquid de pretio iusto.
+Iustitia autem aequalitas quaedam est, ut dicitur in V ethic., cap. II. Est ergo iusta venditio, quando pretium
+acceptum ab habente aequatur rei venditae; iniusta autem, si non aequetur, sed plus accipiat.
+Si ergo vitium rei venditae faciat rem minus valere quam pretium impositum a venditore, iniusta erit venditio,
+unde peccat occultans vitium; si autem non faciat rem minus valere quam pretium impositum, quia forte venditor
+minus pretium imponit propter vitium, tunc non peccat tacens vitium, quia venditio non est iniusta, et forte esset
+sibi damnosum, si vitium diceret: quia emptor vellet habere rem etiam pro minori pretio quam valeret.
+Liberaliter tamen faceret, si damnum proprium contemneret ut satisfaceret voluntati alterius, licet ad hoc non
+teneatur.
+RA1
+Ad primum ergo dicendum, quod per illud dictum legis non habetur quod licitum sit simplici venditori decipere
+emptorem, et e converso; sed dicitur aliquid esse licitum secundum legem quod per legem non punitur, sicut
+secundum legem veterem licebat libellus repudii.
+RA2
+Ad secundum dicendum, quod praecepta legis sunt ductiva ad perfectam virtutem: tamen actus perfectae virtutis
+non cadunt sub praecepto legis humanae; sed prohibet quaedam graviora, ut gradatim homines retracti a malis
+per seipsos ad virtutem exerceantur.
+Permittit autem quaedam minora peccata, eis poenam non infligens, quia sine his non facile invenitur hominum
+multitudo; et de talibus est deceptio quae est inter vendentes et ementes: quia plurimi sunt qui volunt vili emere
+et care vendere, ut Augustinus dicit in Lib. De Trin..
+RC1
+Ad illud vero quod primo in contrarium obiicitur, dicendum, quod illud intelligendum est quando morbus pecoris
+facit pecus minus valere quam vendatur.
+RC2
+Ad secundum dicendum, quod ea ratione tullius dicit quod vir bonus non tacet vitium rei venditae, quia ad virum
+bonum non pertinet decipere aliquem: deceptio autem non est, si id quod tacetur de re vendita, non facit rem
+minus valere quam pretium quod pro ea accipitur.
+|q6 Quaestio 6
+Prologus
+PR
+Deinde quaesitum est de peccatis. Et circa hoc quaesita sunt duo.
+PR1
+Primo utrum peccatum sit appetere praelationem.
+PR2
+Secundo utrum peccatum sit praedicatori habere oculum ad rem temporalem.
+|a1 Articulus 1
+TTA
+Utrum peccatum sit appetere praelationem.
+TTB
+Ad primum sic proceditur: videtur quod peccatum sit appetere
+32
+
+

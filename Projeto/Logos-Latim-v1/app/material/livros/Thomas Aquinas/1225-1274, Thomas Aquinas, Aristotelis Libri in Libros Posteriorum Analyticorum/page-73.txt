@@ -1,0 +1,59 @@
+Et ad hoc addendum est quod conclusiones sunt infinitae: potest enim quodlibet concludi de quolibet vel
+affirmative vel negative. Et ne videretur hoc esse contrarium ei, quod supra ostenderat, praedicationes non
+procedere in infinitum, subiungit quod termini sunt finiti: et ad hoc pertinet quod supra ostensum est, esse statum
+in praedicationibus; sed ex terminis finitis possunt infinitae conclusiones fieri secundum diversas combinationes,
+ut tamen accipiamus communiter conclusiones, tam quae sunt per se quam quae sunt per accidens. Loquitur
+enim nunc communiter de syllogismis. Si ergo conclusiones sunt infinitae, principia autem non sunt multo
+pauciora conclusionibus, sequitur quod etiam principia syllogismorum sunt infinita. Non ergo sunt eadem
+principia omnium syllogismorum.
+|#8 Quartam rationem ponit ibi: amplius principia, haec quidem etc., quae sumitur ex differentia necessarii et
+contingentis; et dicit quod principiorum quibus utimur in syllogismo, quaedam sunt contingentia et quaedam
+sunt necessaria, ut patet in libro priorum, ubi docuit syllogizare et ex necessariis et ex contingentibus. Non autem
+eadem sunt necessaria et contingentia: ergo non sunt eadem principia omnium syllogismorum.
+Et hoc est quod concludit ex his duabus ultimis rationibus, quod secundum rationem praemissorum, cum
+infinitae sint conclusiones, impossibile est esse eadem principia omnium syllogismorum, aut etiam finita.
+|#9 Deinde cum dicit: si vero aliter quodammodo etc., ostendit idem analytice, scilicet per rationes proprias
+principiis, quibus scientiae demonstrant.
+Et ponit tres rationes. Circa quarum primam dicit quod, si aliquis non dicat omnium syllogismorum esse eadem
+principia, sed aliquo modo dicat aliter; scilicet quod quaedam sunt principia geometriae et quaedam logicae,
+quae dicuntur principia syllogismorum vel ratiocinationum, et quaedam sunt principia medicinae; et sic
+accipiendo principia omnium scientiarum, ista sic accepta eadem sunt principia omnium demonstrationum; hoc
+non facit ad propositum, quo quis vult sustinere eadem esse principia, quia per hoc dictum nihil aliud dicitur, nisi
+quod quaelibet scientia habet sua principia. Sed quod sint eadem principia unius scientiae quae sunt alterius
+(quod oporteret si eadem essent principia omnium syllogismorum scientialium), est impossibile et derisibile;
+quia secundum hoc sequeretur quod omnia quae sunt in scientiis, essent eadem, et ita omnes scientiae essent una
+scientia. Quae enim eisdem sunt eadem, sibi invicem sunt eadem.
+Sed principia cuiuslibet scientiae sunt quodammodo eadem conclusionibus, quia sunt unius generis. Non enim
+est ex uno in aliud genus demonstrare, ut supra dictum est. Si igitur principia sunt eadem, sequeretur quod omnia
+quae sunt in scientiis, essent eadem.
+|#10 Secundam rationem ponit ibi: at vero neque quod ex omnibus etc., quae talis est. Si aliquis quaerens
+omnium eadem esse principia, hoc intendat dicere quod quodlibet demonstretur ex quolibet, hoc est stultum
+dicere; quia hoc neque est possibile in manifestis mathematibus, nec in resolutione.
+Et vocat manifesta mathemata, idest considerationes vel disciplinas, quando ex aliquibus propositionibus
+manifestis statim infertur conclusio.
+Vocat autem resolutionem, quando propositiones assumptae non sunt manifestae, sed oportet eas resolvere in
+alias manifestiores. Et quod hoc sit impossibile probat, quia utroque modo principia demonstrativorum
+syllogismorum sunt immediatae propositiones, quae vel statim assumuntur in manifestis mathematibus sive
+doctrinis, vel ad eas devenitur per resolutionem.
+Videmus autem quod demonstratur alia conclusio, coassumpta immediata propositione alia. Et ideo non potest
+esse quod ex quolibet demonstretur quodlibet.
+|#11 Consequenter cum dicit: si autem dicat aliquis etc., excludit quamdam obviationem. Posset enim aliquis
+dicere quod duplex est genus immediatarum propositionum: quaedam enim sunt immediatae propositiones
+primae, et quaedam secundae, ita quod accipiatur ordo immediatarum propositionum secundum ordinem
+terminorum.
+Nam illae propositiones immediatae quae consistunt in terminis primis et communibus, sicut est ens et non ens,
+aequale et inaequale, totum et pars, sunt primae et immediatae propositiones; ut, non contingit idem esse et non
+esse, et, quae uni et eidem sunt aequalia, sibi invicem sunt aequalia, et similia. Immediatae autem propositiones
+quae sunt circa posteriores terminos et minus communes, sunt secundae respectu primarum; sicut quod
+triangulus est figura, vel quod homo est anima.
+Potest ergo aliquis dicere quod secundae propositiones immediatae coassumuntur ad diversas conclusiones
+demonstrandas; sed primae propositiones immediatae sunt eaedem in omnibus demonstrationibus.
+Et ideo ad hoc excludendum dicit quod, si aliquis dicat primas immediatas propositiones has esse illa principia
+ex quibus omnia demonstrantur, considerare debet quod nihilominus in unoquoque genere oportet esse unum
+principium vel unam propositionem immediatam, primam in illo genere, non primam simpliciter; et quod ex illa
+quae est prima simpliciter, coassumpto isto principio proprio huiusmodi generis, oportebit in hoc genere
+demonstrari. Et ita non ex solis communibus principiis possunt omnia demonstrari; sed oportet coaccipere
+propria, quae sunt diversa diversorum.
+73
+
+

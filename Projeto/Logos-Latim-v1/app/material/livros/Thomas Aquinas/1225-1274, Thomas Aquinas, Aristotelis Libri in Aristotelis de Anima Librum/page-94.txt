@@ -1,0 +1,54 @@
+|#22 Tertio ibi sunt autem dicit quod cum ad intellectualem acceptionem multa pertineant, scilicet scientia,
+prudentia, opinio et contraria horum, de horum differentia non est hic agendum, sed alibi, scilicet in sexto
+ethicorum.
+|+5 Lectio 5
+|#1 Postquam Philosophus ostendit quod phantasia non est opinio, incipit inquirere quid sit. Et primo dicit de
+quo est intentio.
+Secundo prosequitur, ibi, si igitur phantasia. Dicit ergo primo, quod cum ostensum sit quod intelligere est aliud
+quam sentire, et ad unum horum pertineat opinio, scilicet ad intellectum, ad aliud autem phantasia, scilicet ad
+sensum; postquam determinatum est de sensu, dicendum est de phantasia; ut sic postmodum determinetur de
+altero, scilicet de intellectu et opinione.
+|#2 Deinde cum dicit si igitur prosequitur intentum. Et circa hoc duo facit. Primo ostendit, quod phantasia non
+est aliqua potentiarum vel habituum manifestorum, qui discernunt vel iudicant verum et falsum.
+Secundo ostendit quid sit, ibi, sed quoniam accidit motus. Circa primum tria facit. Primo distinguit potentias et
+habitus, quibus aliquid discernitur. Secundo ostendit, quod phantasia non est aliquid horum, ibi, quod quidem
+igitur non sit sensus. Tertio ostendit quod non est aliquid compositum ex eis, ibi, manifestum igitur quoniam.
+Dicit ergo primo, quod cum phantasia sit, secundum quam dicitur nobis fieri aliquod phantasma, idest aliquid
+apparibile, nisi forte accipiamus phantasmata metaphorice, necesse videtur quod sit aliquid de numero habituum
+vel potentiarum cognoscitivarum, quibus discernitur unum ab alio, aut quibus circa aliquid dicimus verum vel
+falsum, hoc est erramus vel non erramus.
+Nam apparere est aliquid discernere et dicere verum vel falsum. Potentiae autem vel habitus quibus discernimus,
+et dicimus verum et falsum, videntur esse hi quatuor: sensus, intellectus, opinio et scientia. Unde videtur quod
+phantasia sit aliquid horum quatuor.
+|#3 Ponit autem haec quatuor, quasi iam nota. Alia autem, quae ad cognitionem videntur pertinere, nondum
+erant suo tempore per certitudinem scita. Ipse autem iam superius distinxit intellectum a sensu. Unde praeter
+sensum connumerat tria alia; scilicet intellectum, opinionem et scientiam. Et videtur quod intellectus non
+accipiatur hic pro potentia; sic enim contra intellectum non dividerentur scientia et opinio, quae ad potentiam
+intellectivam pertinent: sed intellectus accipitur pro certa apprehensione eorum quae absque inquisitione nobis
+innotescunt, sicut sunt prima principia. Scientia vero pro cognitione eorum, de quibus certificamur per
+certitudinem vel investigationem rationis. Opinio autem pro cognitione eorum de quibus certum iudicium non
+habemus.
+|#4 Unde etiam dicit quod phantasia est habitus vel potentia de numero eorum, ad ostendendum quod inter haec,
+aliquid est ut potentia, et aliquid ut habitus. Cognoscere autem possumus quod haec tantum apprehensionis
+principia apud antiquos nota erant, ex positione Platonis superius in primo libro posita, qui solum haec quatuor
+ad numeros reduxit, tribuens intellectum uni, scientiam dualitati, opinionem ternario, sensum quaternario.
+|#5 Deinde cum dicit quod igitur ostendit quod phantasia non est aliquid dictorum. Et circa hoc tria facit. Primo
+ostendit quod non sit sensus. Secundo quod non sit intellectus, sive scientia, ibi, at vero neque semper. Tertio
+quod non sit opinio, ibi, relinquitur. Circa primum tria facit.
+Primo ostendit quod phantasia non sit sensus, neque secundum potentiam, neque secundum actum: et ratio est
+talis. Dormiens aliquid phantasiatur: hoc autem non fit secundum sensum in potentia, quia sensui in potentia
+existenti, nihil apparet: nec secundum sensum in actu, quia in somno non est sensus in actu; ergo phantasia non
+est sensus in potentia, neque sensus in actu.
+|#6 Secundo ibi postea secundum ostendit quod phantasia non sit sensus in potentia: et est ratio talis. Sensus in
+potentia semper adest animali, phantasia autem non semper, cum non semper animali aliquid appareat; ergo
+phantasia non est sensus in potentia.
+|#7 Tertio ibi si vero ostendit quod phantasia non sit sensus secundum actum, quatuor rationibus. Quarum prima
+talis est. Sensus secundum actum conveniunt omnibus bestiis, idest animalibus irrationalibus.
+Si igitur phantasia esset idem quod sensus in actu, sequeretur quod inesset omnibus animalibus irrationalibus.
+Hoc autem non est verum; non enim inest formicae aut api, aut vermi: ergo phantasia non est sensus secundum
+actum.
+|#8 Considerandum est autem quod omnia animalia habent quodammodo phantasiam; sed animalia imperfecta
+habent phantasiam indeterminatam, sicut infra dicet Philosophus.
+94
+
+

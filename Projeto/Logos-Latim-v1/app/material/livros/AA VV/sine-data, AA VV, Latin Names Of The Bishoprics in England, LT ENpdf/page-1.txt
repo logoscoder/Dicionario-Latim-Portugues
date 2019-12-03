@@ -1,0 +1,39 @@
+Latin Names of the Bishoprics in England.
+
+Asaphensis, Assauensis: St. Asaph's.
+Bagarensis, Bangorensis, Bannochorensis: Bangor.
+Bathoniensis, or Bathoniensis et Wellensis: Bath and Wells.
+Bristoliensis: Bristol.
+de Burgo Sancti Petri: Peterborough.
+Cantuariensis: Canterbury (Archbishopric).
+Carleolensis: Carlisle.
+Cestrensis: Chester.
+Cicestrensis: Chichester.
+Couentrensis: Coventry and Lichfield.
+Dunelmensis: Durham.
+Eboracensis, Eburacensis: York (Archbishopric).
+Eliensis: Ely.
+Exoniensis: Exeter.
+Glocestrensis: Gloucester.
+Heliensis: Ely.
+Herefordensis, Herfordiensis: Hereford.
+Landavensis: Llandaff.
+Lichfeldensis: Coventry and Lichfield.
+Lincolniensis: Lincoln.
+Londiniensis, Lundoniensis: London.
+Meneuensis: St. David's.
+Noruicensis, Norwicensis: Norwich.
+Oxoniensis: Oxford.
+Pangorensis: Bangor.
+Petriburgensis: Peterborough.
+Roffensis, Rouecestrensis: Rochester.
+Sarisburiensis: Salisbury.
+Sodorensis: Sodor and Man.
+Vigorniensis: Worcester.
+Westmonasteriensis: Westminster.
+Wigorniensis: Worcester.
+Wintoniensis: Winchester.
+
+1
+
+

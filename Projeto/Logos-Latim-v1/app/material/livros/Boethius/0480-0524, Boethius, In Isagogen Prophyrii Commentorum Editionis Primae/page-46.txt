@@ -1,0 +1,27 @@
+NOTES ON THE TEXT
+<1> [1.02.03] et agnouerit] all manuscripts have et agnouerit except F, which has et agnoscere, and Sm1,
+which has just agnoscere. Brandt adopts F, but then the subject for [potest] agnoscere is the impersonal subject of
+uenerit, whereas for potest inuenire it changes to rerum incorrupta ueritas.
+<2> [1.05.02] utilia] codd. utili em. Busse + Minio-Paluello (following the Greek).
+<3> [1.05.02] opusculum] with many manuscripts rather than corpusculum with Busse.
+<4> [1.10.16] unius ui nominis includat] according to Brandt, the manuscripts used in his edition have the
+following readings here:
+L:
+unius sui nominis uocabulo concludit includat
+P:
+unius sui nominis uocabulo includat
+H:
+unius ui nominis uocabulo concludat
+R:
+unius ui hominis includit
+CEFGNS:
+unius ui nominis includat
+Brandt follows P, which makes dubious sense -- Spade renders it "including that multiplicity in the word
+expressing [?] its one name". The common reading is CEFGNS (and R has only a clear scribal error to set it apart),
+which I have adopted in preference to the variants in LPH: only LH give a version of concludere and L corrects it; the
+characters that compose unius ui could be misread as unius sui, taking the final 's' of unius to go also with the three
+following minims, leading to [s]ui rather than ui; the addition uocabulo is hard to construe with the rest of the sentence
+-- and, last but not least, the philosophical sense is clear on this reading.
+<5> [3.10.01] differentibus] iffdiertenbus (?!)
+
+

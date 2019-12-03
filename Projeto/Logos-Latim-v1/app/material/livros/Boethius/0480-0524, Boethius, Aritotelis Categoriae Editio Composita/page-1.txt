@@ -1,0 +1,60 @@
+ANICII MANLII SEVERINI BOETHII
+COMMENTARIUM IN LIBRUM ARISTOTELIS PERIHERMENEIAS SECUNDAE EDITIONIS
+
+LIBER PRIMUS
+[INTRODUCTIO]
+/3/ Alexander in commentariis suis hac se impulsum causa pronuntiat sumpsisse longissimum expositionis
+laborem, quod in multis ille a priorum scriptorum sententiis dissideret: mihi maior persequendi operis causa est quod
+non facile quisquam uel transferendi uel etiam commentandi continuam sumpserit seriem -- nisi quod Vetius
+Praetextatus priores /4/ postremosque analyticos non uertendo Aristotelem Latino sermoni tradidit sed transferendo
+Themistium, quod qui utrosque legit facile intellegit; Albinus quoque de isdem rebus scripsisse perhibetur, cuius ego
+geometricos quidem libros editos scio, de dialectica uero diu multumque quaesitos reperire non ualui, siue igitur ille
+omnino tacuit, nos praetermissa dicemus, siue aliquid scripsit, nos quoque docti uiri imitati studium in eadem laude
+uersabimur. Sed quamquam multa sint Aristotelis quae subtilissima philosophiae arte celata sint, hic tamen ante omnia
+liber nimis et acumine sententiarum et uerborum breuitate constrictus est. Quocirca plus hic quam in decem
+praedicamentis expositione sudabitur.
+Prius igitur quid uox sit definiendum est. Hoc enim perspicuo et manifesto omnis libri patefiet intentio.
+Vox est aeris per linguam percussio quae per quasdam gutturis partes, quae arteriae uocantur, ab animali
+profertur. Sunt enim quidam alii soni, qui eodem perficiuntur flatu, quos lingua non percutit, ut est tussis. Haec enim
+flatu fit quodam per arterias egrediente sed nulla linguae impressione formatur atque ideo nec ullis subiacet elementis,
+scribi enim nullo modo potest. Quocirca uox haec non dicitur sed tantum sonus.
+Illa quoque potest esse definitio uocis, ut eam dicamus sonum esse cum quadam imaginatione significandi.
+Vox namque cum emittitur, significationis alicuius causa profertur. Tussis uero cum sonus sit, nullius significationis
+causa subrepit /5/ potius quam profertur.
+Quare quoniam noster flatus ita sese habet ut si ita percutitur atque formatur ut eum lingua percutiat, uox sit: si
+ita percutiat ut terminato quodam et circumscripto sono uox exeat, locutio fit quae Graece dicitur *lexis*. Locutio enim
+est articulata uox -- neque enim hunc sermonem (id est *lexin*) dictionem dicemus, idcirco quod *phasin* dictionem
+interpretamur, *lexin* uero locutionem -- cuius locutionis partes sunt litterae, quae cum iunctae fuerint unam efficiunt
+uocem coniunctam compositamque, quae locutio praedicatur.
+Siue autem aliquid quaecumque uox significet, ut est hic sermo 'homo'; siue omnino nihil; siue positum alicui
+nomen significare possit, ut est 'blityri' (haec enim uox per se cum nihil significet, posita tamen ut alicui nomen sit
+significabit); siue per se quidem nihil significet, cum aliis uero iuncta designet, ut sunt coniunctiones -- LThaec omnia
+locutiones uocantur, ut sit propria locutionis forma uox composita quae litteris describatur. Ut igitur sit locutio, uoce
+opus est -- id est eo sono quem percutit lingua, ut et uox ipsa sit per linguam determinata in eum sonum qui inscribi
+litteris possit. Sed ut haec locutio significatiua sit, illud quoque addi oportet, ut sit aliqua significandi imaginatio, per
+quam id quod in uoce uel in locutione est proferatur: ut certe ita dicendum sit: si in hoc flatu, quem per arterias
+emittimus, sit linguae sola percussio, uox est; sin uero talis percussio sit ut in litteras redigat sonum, locutio; quod si uis
+quoque quaedam imaginationis addatur, /6/ illa significatiua uox redditur.
+Concurrentibus igitur his tribus: linguae percussione, articulato uocis sonitu, imaginatione aliqua proferendi fit
+interpretatio.
+Interpretatio namque est uox articulata per se ipsam significans.
+Quocirca non omnis uox interpretatio est. Sunt enim caeterorum animalium uoces, quae interpretationis
+uocabulo non tenentur. Nec omnis locutio interpretatio est, idcirco quod (ut dictum est) sunt locutiones quaedam quae
+significatione careant et cum per se quaedam non significent, iunctae tamen cum aliis significant, ut coniunctiones.
+Interpretatio autem in solis per se significatiuis et articulatis uocibus permanet. Quare conuertitur, ut quidquid sit
+interpretatio, illud significet, quidquid significat, interpretationis uocabulo nuncupetur.
+Unde etiam ipse quoque Aristoteles in libris quos de poetica scripsit locutionis partes esse syllabas uel etiam
+coniunctiones tradidit, quarum syllabae in eo quod sunt syllabae nihil omnino significant, coniunctiones uero
+consignificare quidem possunt, per se uero nihil designant. Interpretationis uero partes hoc libro constituit nomen et
+uerbum, quae scilicet per se ipsa significant, nihilominus quoque orationem, quae et ipsa cum uox sit ex significatiuis
+partibus iuncta significatione non caret.
+Quare quoniam non de oratione sola sed etiam de uerbo et nomine, nec uero de sola locutione sed etiam de
+significatiua locutione quae est interpretatio hoc libro ab Aristotele tractatur, idcirco quoniam in /7/ uerbis atque
+nominibus et in significatiuis locutionibus nomen interpretationis aptatur, a communi nomine eorum, de quibus hoc
+libro tractabitur, id est ab interpretatione, ipse quoque "De interpretatione" liber inscriptus est. (Cuius expositionem nos
+scilicet quam maxime a Porphyrio quamquam etiam a caeteris transferentes Latina oratione digessimus; hic enim nobis
+expositor et intellectus acumine et sententiarum dispositione uidetur excellere.)
+Erunt ergo interpretationis duae primae partes nomen et uerbum. His enim quidquid est in animi intellectibus
+designatur; his namque totus ordo orationis efficitur.
+
+

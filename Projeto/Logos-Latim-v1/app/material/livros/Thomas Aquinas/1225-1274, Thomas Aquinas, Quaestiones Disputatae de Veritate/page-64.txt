@@ -1,0 +1,62 @@
+aliud a forma substantiali rei, sicut videmus in corporibus, a quibus non progrediuntur actiones nisi mediantibus
+aliquibus suis qualitatibus.
+Similiter etiam scientia significatur per hoc quod aliquid est in sciente, non ex hoc quod sit aliquid a sciente; et
+ideo a scientia nunquam procedit effectus nisi mediante voluntate, quae de sui ratione importat influxum
+quemdam ad volita; sicut a substantia nunquam exit actio nisi mediante virtute, quamvis in quibusdam sit idem
+voluntas et scientia, ut in Deo; in quibusdam autem non, ut in aliis.
+Similiter etiam a Deo, cum sit causa prima omnium, procedunt effectus mediantibus causis secundis; unde inter
+scientiam Dei, quae est causa rei, et ipsam rem causatam invenitur duplex medium: unum ex parte Dei, scilicet
+divina voluntas; aliud ex parte ipsarum rerum quantum ad quosdam effectus, scilicet causae secundae, quibus
+mediantibus proveniunt res a scientia Dei.
+Omnis autem effectus non solum sequitur conditionem causae primae, sed etiam mediae; et ideo res scitae a Deo
+procedunt ab eius scientia per modum voluntatis, et per modum causarum secundarum; nec oportet quod in
+omnibus modum scientiae sequantur.
+RA1
+Ad primum igitur dicendum, quod intentio Origenis est dicere, quod scientia Dei non est causa quae inducat
+necessitatem in scito, ut ex hoc cogatur aliquid evenire, quia Deus illud scit. Quod autem dicit, quia futurum est,
+ideo scitur a Deo, non importatur causa essendi, sed causa inferendi tantum.
+RA2
+Ad secundum dicendum, quod quia res procedunt a scientia mediante voluntate, non oportet quod in esse
+prodeant quandocumque est scientia, sed quando voluntas determinat.
+RA3
+Ad tertium dicendum, quod effectus sequitur necessitatem causae proximae, quae etiam potest esse medium ad
+demonstrandum effectum: non autem oportet quod sequatur necessitatem causae primae, quia potest impediri
+effectus ex causa secunda si sit contingens; sicut patet in effectibus qui producuntur in generabilibus et
+corruptibilibus per motum corporum caelestium, mediantibus virtutibus inferioribus: sunt enim effectus
+contingentes propter defectibilitatem virtutum naturalium, quamvis motus caeli sit semper eodem modo se
+habens.
+RA4
+Ad quartum dicendum, quod res est proxima causa scientiae nostrae, et ideo modum suum ponit in ea; sed Deus
+est causa prima; unde non est simile. Vel dicendum, quod non propterea scientia nostra est necessaria de rebus
+necessariis, quia res scitae causant scientiam; sed magis propter adaequationem veritatis ad res scitas, quae
+requiritur in scientia.
+RA5
+Ad quintum dicendum, quod quamvis causa prima vehementius influat quam secunda tamen effectus non
+completur nisi adveniente operatione secundae; et ideo, si sit possibilitas ad deficiendum in causa secunda, est
+etiam eadem possibilitas deficiendi in effectu, quamvis causa prima deficere non possit: sed multo amplius si
+causa prima posset deficere, et effectus deficere posset.
+Quia ergo ad esse effectus requiritur utraque causa, utrisque defectus inducit defectum in effectu; et ideo
+quaecumque earum ponatur contingens, sequitur effectum esse contingentem: non autem si altera tantum ponatur
+necessaria, effectus erit necessarius, propter hoc quod ad esse effectus utraque causa requiritur. Sed quia causa
+secunda non potest esse necessaria si prima sit contingens, inde est quod ad necessitatem causae secundae
+sequitur necessitas in effectu.
+RA6
+Ad sextum dicendum sicut dictum est ad quartum.
+|a15 Articulus 15
+TTA
+Quinto decimo quaeritur utrum Deus sciat mala.
+TTB
+Et videtur quod non.
+AG1
+Omnis enim scientia vel est causa sciti, vel causata ab eo, vel saltem ab una causa procedens. Sed scientia Dei
+non est causa malorum, nec mala sunt causa eius, nec aliquid aliud est causa utriusque; ergo scientia Dei non est
+de malis.
+AG2
+Praeterea, sicut dicitur in II metaphys., unumquodque sicut se habet ad esse, ita se habet ad verum. Sed malum
+non est aliquod ens, ut dionysius et Augustinus dicunt; ergo malum non est verum. Sed nihil scitur nisi verum.
+Ergo malum non potest sciri a Deo.
+AG3
+
+64
+
+

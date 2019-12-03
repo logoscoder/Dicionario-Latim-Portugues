@@ -1,0 +1,62 @@
+-- si igitur non sit b, erit c. Quod si b terminus affirmetur, nihil est necessarium; nam si sit b, neque esse neque
+non esse necesse est a terminum, quo fit ne c quidem. Id uero tali liquet exemplo, si sit b animatum, a animal, c
+insensibile, et proponatur:
+Si non sit animatum, non est animal; Si non sit insensibile, est animal.
+[3.6.2] Si igitur in assumptione affirmemus b terminum, ac dicamus:
+Atqui est animatum;
+non necesse est esse uel non esse animal uel insensibile, quocirca nullus est syllogismus. At si c terminus
+abnuatur, fiet protinus syllogismus: nam si non est c, est a, si uero est a, erit b, si igitur non sit c, erit b. Quod si c
+terminus affirmetur, nihil est necessarium; nam et si a terminum non esse necesse est, quantum ad b terminum nihil
+necessarium cadit. Id uero tali demonstratur exemplo:
+Si sit insensibile, non est animal;
+quod si animal non est, non necesse est esse uel non esse animatum. In non aequimodis igitur propositionibus,
+siue b siue c terminus assumatur, octo necesse est ex utraque parte fieri syllogismos; reliquae uero ex utraque parte
+octonae complexiones necessitate priuatae sunt.
+[3.6.3] At si sint aequimodae, nullus omnino est syllogismus.
+Aequimodae uero dicuntur quotiens a terminus ad utrosque uel esse uel non esse proponitur; omnes autem
+aequimodae propositiones sunt huiusmodi:
+o Si est b, est a, si est c, est a. /354/
+o Si est b, est a, si non est c, est a.
+o Si non est b, est a, si est c, est a.
+o Si non est b, est a, si non est c, est a.
+o Si est b, non est a, si est c, non est a.
+o Si est b, non est a, si non est c, non est a.
+o Si non est b, non est a, si est c, non est a.
+o Si non est b, non est a, si non est c, non est a.
+[3.6.4] In quibus et per consequentiam propositionum superius designatam, et per exempla currentes,
+possumus lucide et constanter agnoscere nullam omnino in syllogismis fieri necessitatem. Quocirca, cum tribus
+terminis texitur propositio, ex prima quidem figura fiunt syllogismi sedecim, ex secunda syllogismi sedecim, ex tertia
+etiam totidem colliguntur, omnes ex tribus terminis syllogismi quodraginta octo. Restat nunc ut de his syllogismis
+dicamus qui duabus hypotheticis continentur, quorum quidem similis consequentiae modus est, ut in his
+propositionibus quae ex duabus categoricis ac simplicibus efficiebantur.
+[3.6.5] In omnibus enim si quidem uelimus astruere, primam totius propositionis assumemus partem, si uero in
+conclusione aliquid destruendum est, secunda negabitur. Siue autem prima denegetur, siue posterior affirmetur, nulla fit
+omnino necessitas, nisi in quinta, septima, tertia decima et quinta decima propositione, in quibus non complexionis
+natura sed terminorum proprietas consequentiam facit, sicut in his syllogismis fieri docuimus qui in his propositionibus
+constant, quae duabus simplicibus continentur. Horum autem omnium qui ex duabus hypotheticis constant /356/
+propositiones apposui, quarum differentias cum lector agnouerit, ad earum exempla necesse est reuertatur, quae ex
+simplicibus et categoricis iunctae sunt.
+[3.6.6] Sunt autem omnes propositionum differentiae, quae ex duabus hypotheticis copulantur, huius modi:
+o Si cum est a, est b, cum sit c, est d.
+o Si cum est a, est b, cum sit c, non est d.
+o Si cum est a, est b, cum non sit c, est d.
+o Si cum est a, est b, cum non sit c, non est d.
+o Si cum sit a, non est b, cum sit c, est d.
+o Si cum sit a, non est b, cum sit c, non est d.
+o Si cum sit a, non est b, cum non sit c, est d.
+o Si cum sit a, non est b, cum non sit c, non est d.
+o Si cum non sit a, est b, cum sit c, est d.
+o Si cum non sit a, est b, cum sit c, non est d.
+o Si cum non sit a, est b, cum non sit c, est d.
+o Si cum non sit a, est b, cum non sit c, non est d.
+o Si cum non sit a, non est b, cum sit c, est d.
+o Si cum non sit a, non est b, cum sit c, non est d.
+o Si cum non sit a, non est b, cum non sit c, est d.
+o Si cum non sit a, non est b, cum non sit c, non est d.
+[3.6.7] In his quoque propositionibus illud inspiciendum est quod, cum sedecim sint, octo quidem ita uariantur,
+ut tamen in omnibus a terminus esse ponatur, octo uero ita, ut idem a terminus non esse dicatur. Non uero quoquo
+modo positae fuerint habebunt uim conditionalium propositionum ex duabus hypotheticis constantium; nam si quis sic
+dicat:
+Si cum homo est, animal est; Cum sit animatum, corpus est;
+
+

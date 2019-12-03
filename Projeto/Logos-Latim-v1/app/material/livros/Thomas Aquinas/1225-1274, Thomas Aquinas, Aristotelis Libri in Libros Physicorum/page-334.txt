@@ -1,0 +1,64 @@
+Nec est dicendum quod simul accesserit ad ipsum d, et recesserit ab eodem:
+quia sequeretur quod simul in eodem instanti esset ibi et non esset. Omne
+enim quod motum est, est in termino ad quem movebatur; et omne quod incipit
+moveri, non est in termino a quo incipit moveri: hoc autem significatur,
+cum dicimus adesse vel accedere, quod est terminari motum ad punctum illud;
+cum autem dicimus abesse vel recedere, significamus motum incipere. Unde
+necesse est omne quod accedit vel adest ad aliquod signum, esse in eo: quod
+autem abest vel abscedit, non esse in eo. Quia ergo impossibile est simul
+esse et non esse in aliquo signo, per consequens impossibile est quod simul
+adsit et absit eidem, ut superius pluries est suppositum.
+Est autem hic attendendum quod aliter utitur hic litteris quam supra.
+Utitur enim hic I pro mobili, d vero pro termino: supra autem e converso.
+Non est autem in motu reflexo danda solutio, quae prius data est in motu
+continuo.
+Non enim potest dici quod mobile quod est I, sit in termino quod est d, a
+quo incipit reflecti, solum in decisione temporis, idest in nunc; et quod
+mobile neque affuerit neque defuerit eidem, sicut dicebatur in motu
+continuo: quia in motu reflexo necesse est venire ad finem qui est actu
+finis, et non in potentia tantum, sicut medium in motu continuo erat
+principium et finis solum in potentia.
+Illud ergo quod est in medio motus continui, est in potentia tantum
+principium et finis; sed hoc a quo incipit reflexio, est actu principium et
+finis: finis quidem motus qui erat deorsum, puta lapidis; principium autem
+est in actu motus reflexi qui est sursum, dum lapis cadens in terram
+resilit sursum.
+Sicut ergo in magnitudine in qua est motus, signum a quo reflectitur est
+principium et finis in actu; ita et in ipsis motibus est accipere actu
+finem unius et principium alterius: quod non esset, nisi quies interveniret
+media. Necesse est ergo quod id quod reflectitur in linea recta, quiescat.
+Et ita sequitur quod in recta magnitudine non possit esse motus continuus
+et perpetuus: quia magnitudo recta non est infinita, et ita non posset esse
+in perpetuum motus rectus continuus, nisi reflecteretur.
+|#4
+Deinde cum dicit: eodem autem modo obviandum etc., ponit secundam
+dubitationem.
+Et circa hoc tria facit: primo movet dubitationem; secundo excludit quandam
+solutionem supra in sexto positam, ibi: in primis igitur etc.; tertio ponit
+veram solutionem, ibi: sed verum dicendum etc..
+Dicit ergo primo, quod eodem modo per ea quae supra ostensa sunt, possumus
+obviare ad eos qui ponunt obiectionem zenonis, qui sic volebant
+argumentari.
+Omne quod movetur oportet quod prius pertranseat medium quam perveniat ad
+finem: sed inter quoslibet duos terminos sunt infinita media, propter hoc
+quod magnitudo est divisibilis in infinitum; et ita impossibile est
+transire media, quia infinita non contingit transire: ergo nihil potest
+movendo ad aliquem terminum pervenire.
+Vel potest eadem dubitatio aliter formari, sicut quidam eam proponunt.
+Omne quod pertransit aliquod totum, prius pertransit medietatem: et cum
+medietas iterum dividatur in medietatem, oportet quod prius pertransierit
+medietatem medietatis: et ita omne quod movetur, numerat quamlibet
+medietatem, pertingendo ad ipsam. Sed medietates sic accipi possunt in
+infinitum: ergo sequitur quod si aliquid pertransit totam magnitudinem,
+quod numeravit numerum infinitum; quod est manifeste impossibile.
+|#5
+Deinde cum dicit: in primis igitur rationibus etc., excludit
+solutionem quam supra in sexto posuerat ad hanc obiectionem: et primo
+recitat eam; secundo excludit, ibi: sed haec solutio etc..
+Dicit ergo primo quod praedicta obiectio soluta est supra in sexto, cum de
+motu in communi agebatur, per hoc quod sicut magnitudo dividitur in
+infinitum, ita et tempus; et sic eodem modo tempus habet in seipso
+infinita, sicut et magnitudo. Et ita non est inconveniens si infinita quae
+334
+
+

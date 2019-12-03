@@ -1,0 +1,56 @@
+Unde cum ista dualitas, quae est allata, fuerit ab eo penitus ignorata, nullo modo scivit quod haec dualitas esset
+numerus par. Et sic sequitur quod apud cognoscentem principia nullo modo conclusio sit praecognita, nec
+simpliciter, nec secundum quid.
+|#5 Tertio, ibi: et etiam sciunt etc., improbat hanc solutionem hoc modo. Illud scitur de quo demonstratio
+habetur, vel de quo de novo accipitur demonstratio. Et hoc dicitur propter addiscentem, qui incipit scire.
+Addiscentes autem non accipiunt demonstrationem de omni dualitate de qua sciunt, sed de omni simpliciter, et
+similiter de omni numero aut de omni triangulo.
+Non ergo verum est quod sciat de omni numero, quem scit esse numerum, aut de omni dualitate, quam scit esse
+dualitatem, sed de omni simpliciter. Quod autem non sciat de omni numero, quem scit esse numerum, sed de
+omni simpliciter, probat; ibi: neque enim una propositio etc.: conclusio cum praemissis convenit in terminis:
+nam subiectum et praedicatum conclusionis sunt maior et minor extremitas in praemissis; sed in praemissis non
+accipitur aliqua propositio de numero aut de recta linea, cum hac additione, quam tu nosti, sed simpliciter de
+omni; neque ergo conclusio demonstrationis est cum additione praedicta, sed simpliciter de omni.
+|#6 Quarto, ibi: sed nihil etc., ponit veram solutionem dubitationis praedictae secundum praedeterminatam
+veritatem, dicens quod illud quod quis addiscit, nihil prohibet primo quodammodo scire et quodammodo
+ignorare. Non enim est inconveniens si aliquis quodammodo praesciat id quod addiscit; sed esset inconveniens si
+hoc modo praecognosceret, secundum quod addiscit. Addiscere enim proprie est scientiam in aliquo generari.
+Quod autem generatur, ante generationem neque fuit omnino non ens neque omnino ens, sed quodammodo ens
+et quodammodo non ens: ens quidem in potentia, non ens vero actu: et hoc est generari, reduci de potentia in
+actum.
+Unde nec id quod quis addiscit erat omnino prius notum, ut Plato posuit, nec omnino ignotum, ut secundum
+solutionem supra improbatam ponebatur; sed erat notum potentia sive virtute in principiis praecognitis
+universalibus, ignotum autem actu, secundum propriam cognitionem. Et hoc est addiscere, reduci de cognitione
+potentiali, seu virtuali, aut universali, in cognitionem propriam et actualem.
+|+4 Lectio 4
+|#1 Postquam ostendit Philosophus necessitatem syllogismi demonstrativi, hic iam incipit de ipso syllogismo
+demonstrativo determinare. Et dividitur in duas partes: in prima, determinat de syllogismo demonstrativo; in
+secunda, de medio ex quo syllogismus demonstrativus procedit: et hoc in secundo libro; ibi: quaestiones sunt
+aequales numero etc.. Prima dividitur in duas: in prima, determinat de syllogismo demonstrativo absolute; in
+secunda, comparando demonstrationem demonstrationi; ibi: cum autem demonstratio sit alia quidem universalis
+etc.. Prima in duas dividitur: in prima, determinat de syllogismo demonstrativo; in secunda, ostendit quod non sit
+in demonstrationibus in infinitum procedere; ibi: est autem omnis syllogismus per tres terminos etc.. Prima
+dividitur in duas: in prima, determinat de syllogismo demonstrativo per quem acquirimus scientiam: in secunda,
+ostendit quomodo etiam in nobis per syllogismum acquiritur aliqua ignorantia; ibi: ignorantia autem secundum
+negationem etc..
+Circa primum tria facit: primo, determinat de syllogismo demonstrativo, ostendendo quid sit; secundo,
+determinat de materia syllogismi demonstrativi, ostendendo quae et qualia sint, ex quibus est; ibi: quoniam
+autem impossibile est etc.; tertio, determinat de forma ipsius, ostendendo in qua figura praecipue fiat; ibi:
+figurarum autem magis faciens scire etc.. Circa primum tria facit: primo, ostendit de demonstrativo syllogismo,
+quid est; secundo, notificat quaedam, quae in definitione syllogismi demonstrativi ponuntur; ibi: est autem
+principium demonstrationis etc.; tertio, excludit quosdam errores, qui ex praemissis circa demonstrationem oriri
+possunt; ibi: quibusdam quidem igitur etc..
+|#2 Circa primum sciendum est quod in omnibus quae sunt propter finem, definitio quae est per causam
+finalem, est ratio definitionis, quae est per causam materialem, et medium probans ipsam: propter hoc enim
+oportet ut domus fiat ex lapidibus et lignis, quia est operimentum protegens nos a frigore et aestu. Sic igitur
+Aristoteles de demonstratione dat hic duas definitiones: quarum una sumitur a fine demonstrationis, qui est scire;
+et ex hac concluditur altera, quae sumitur a materia demonstrationis.
+|#3 Unde circa hoc tria facit: primo, definit ipsum scire; secundo, definit demonstrationem per finem eius, qui
+est ipsum scire; ibi: dicimus autem scire etc.; tertio, ex utraque definitione concludit definitionem
+demonstrationis, quae sumitur per comparationem materiae demonstrationis; ibi: si igitur est scire ut posuimus
+etc.. Circa primum quinque facit. Primo enim, determinat cuiusmodi scire sit, quod definire intendit.
+|#4 Circa quod sciendum est quod aliquid dicimur scire simpliciter, quando scimus illud in seipso.
+
+6
+
+

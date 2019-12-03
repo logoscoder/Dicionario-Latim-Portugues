@@ -1,0 +1,58 @@
+Et veritas quaestionis huius est, quod huiusmodi mathematica non sunt substantiae rerum, sed sunt accidentia
+supervenientia substantiis. Deceptio autem quantum ad magnitudines provenit ex hoc, quod non distinguitur de
+corpore secundum quod est in genere substantiae, et secundum quod est in genere quantitatis. In genere enim
+substantiae est secundum quod componitur ex materia et forma, quam consequuntur dimensiones in materia
+corporali. Ipsae autem dimensiones pertinent ad genus quantitatis, quae non sunt substantiae, sed accidentia,
+quibus subiicitur substantia composita ex materia et forma. Sicut etiam supra dictum est, quod deceptio
+ponentium numeros esse substantias rerum, proveniebat ex hoc quod non distinguebant inter unum quod est
+principium numeri, et unum quod convertitur cum ente.
+|+14 Lectio 14
+|#1 Postquam Philosophus inquisivit utrum mathematica sint principia rerum sensibilium, hic inquirit utrum
+supra mathematica sint aliqua alia principia, puta quae dicuntur species, quae sunt substantiae et principia horum
+sensibilium.
+Et circa hoc tria facit. Primo movet dubitationem.
+Secundo inducit rationem ad unam partem, ibi, nam si ideo. Tertio obiicit ad partem contrariam, ibi, at vero si
+ponimus etc..
+Dicit ergo primo, quod supposito quod mathematica non sint principia rerum sensibilium et eorum substantia,
+ulterius aliquis dubitabit quae est ratio quare praeter substantias sensibiles et praeter mathematica quae sunt
+media inter sensibilia et species, oportet iterum ponere tertium genus, scilicet ipsas species, idest ideas vel
+formas separatas.
+|#2 Deinde cum dicit nam si ideo obiicit ad unam partem: et videtur haec esse ratio quare oportet species ponere
+praeter sensibilia et mathematica: quia mathematica a praesentibus idest a sensibilibus, quae in universo sunt,
+differunt quidem in aliquo, quia mathematica abstrahunt a materia sensibili; non tamen differunt in hoc, sed
+magis conveniunt, quia sicut in sensibilibus inveniuntur plura numero differentia eiusdem speciei, utpote plures
+homines, aut plures equi, ita etiam in mathematicis inveniuntur plura numero differentia eiusdem speciei, puta
+plures trianguli aequilateri, et plures lineae aequales.
+Et si ita est, sequitur quod sicut principia sensibilium non sunt determinata secundum numerum, sed secundum
+speciem, ita etiam sit in mediis idest in mathematicis. Manifestum est enim quod in sensibilibus propter hoc
+quod sunt plura individua unius speciei sensibilis, principia sensibilium non sunt determinata numero, sed
+specie, nisi forte accipiantur principia propria huius individui, quae sunt etiam in numero determinata et
+individualia. Et ponit exemplum in vocibus. Manifestum est enim quod vocis literatae, literae sunt principia; non
+tamen sunt aliquo numero determinato individualium literarum, sed solum secundum speciem sunt determinatae
+literae secundum aliquem numerum, quarum aliae sunt vocales, et aliae consonantes: sed haec determinatio est
+secundum speciem, non secundum numerum. Non enim unum solum est a sed multa, et sic de aliis literis. Sed si
+accipiantur hae literae, quae sunt principia huius determinatae syllabae vel dictionis aut orationis, sic sunt
+determinatae numero. Et eadem ratione, cum sint multa mathematica numero differentia in una specie, non
+poterunt esse mathematica principia mathematicorum determinata numero, sed determinata specie solum: puta si
+dicamus quod principia triangulorum sunt tria latera et tres anguli. Sed haec determinatio est secundum speciem:
+contingit enim quodlibet eorum in infinitum multiplicari. Si igitur nihil esset praeter sensibilia et mathematica;
+sequeretur quod substantia speciei non esset una secundum numerum, et quod principia entium non essent
+determinata in aliquo numero, sed erunt determinata solum secundum speciem. Si ergo est necessarium quod sint
+determinata secundum numerum (alioquin contingeret esse principia rerum infinita numero), sequitur quod
+necesse sit species esse praeter mathematica et sensibilia.
+|#3 Et hoc est quod Platonici volunt dicere, quod sequitur ex necessitate ad positiones eorum quod sit in
+singularium substantia species aliquid unum, cui non conveniat aliquid secundum accidens. Homini enim
+individuo convenit aliquid secundum accidens, scilicet album vel nigrum; sed homini separato, qui est species
+secundum Platonicos, nihil convenit per accidens, sed solum quod pertinet ad rationem speciei. Et quamvis hoc
+dicere intendant, non tamen bene dearticulant, idest non bene distinguunt.
+|#4 Deinde cum dicit at vero obiicit in contrarium: et dicit, quod si ponamus species separatas esse, et quod
+principia rerum non sunt solum determinata specie, sed etiam numero, quaedam inconvenientia sequuntur, quae
+superius in quadam quaestione sunt tacta. Hanc autem dubitationem Philosophus determinat duodecimo et
+quartodecimo huius libri.
+Et veritas dubitationis est quod sicut mathematica non sunt praeter sensibilia, ita nec species rerum separatae
+praeter mathematica et sensibilia. Principia autem rerum efficientia et moventia sunt quidem determinata
+numero; sed principia rerum formalia quorum sunt multa individua unius speciei, non sunt determinata numero,
+sed solum specie.
+84
+
+

@@ -1,0 +1,63 @@
+AG6
+Praeterea, omne quod inest alicui aut causatur ex subiecto, sicut accidens naturale, ut calor ex igne, aut ex aliquo
+exteriori agente, sicut calor aquae ex igne, qui est accidens innaturale. Si ergo malum sit in bono, aut causatur ex
+bono, aut ab aliquo alio.
+Sed non ex bono, quia bonum non potest esse causa mali, secundum illud Matth., cap. VII, 18: non potest arbor
+bona fructus malos facere. Nec iterum causatur ab aliquo alio; quia et hoc vel est malum, vel est commune
+principium mali et boni. Sed non potest esse malum non causatum ex bono causa mali quod est in bono; quia sic
+sequeretur quod non omnis binarius haberet ante se unitatem. Nec iterum potest esse quod sit unum commune
+principium boni et mali; quia idem secundum idem non facit diversa et difformia. Ergo nullo modo malum potest
+esse in bono.
+AG7
+Praeterea, nullum accidens diminuit vel corrumpit subiectum in quo est. Sed malum diminuit vel corrumpit
+bonum. Ergo malum non est in bono.
+AG8
+Praeterea, sicut bonum respicit actum, ita malum e contrario respicit potentiam; unde malum non invenitur nisi
+in his quae sunt in potentia, ut dicitur in IX metaph..
+Sed malum est in potentia, sicut et quaelibet privatio. Non ergo malum est in bono sed in malo.
+AG9
+Praeterea, bonum et finis sunt idem, ut dicitur in V metaph..
+Forma autem et finis incidunt in idem, ut dicitur in II physic..
+Sed privatio formae substantialis excludit formam a materia. Ergo non relinquit aliquod bonum. Cum ergo
+privatio sit in materia, et habeat rationem mali, videtur quod non omne malum sit in bono.
+AG10
+Praeterea, quanto aliquod subiectum perfectius est, tanto et accidens magis in eo invenitur; sicut quanto ignis
+perfectior est, tanto magis est calidus. Si ergo malum sit in bono sicut in subiecto, sequeretur quod quanto
+bonum perfectius est, tanto magis sit ibi malum, quod est impossibile.
+AG11
+Praeterea, omne subiectum est conservativum accidentis. Sed malum non conservatur a bono sicut in subiecto,
+sed magis destruitur. Ergo malum non est in bono sicut in subiecto.
+AG12
+Praeterea, omne accidens denominat suum subiectum. Si ergo malum sit in bono, denominabit bonum; et ita
+sequitur quod bonum sit malum; quod est contra id quod dicitur Is., V, 20: vae qui dicunt bonum malum.
+AG13
+Praeterea, quod non est ens, non est in aliquo. Sed malum non est ens. Ergo non est in bono.
+AG14
+Praeterea, sicut defectus est de ratione mali, ita perfectio est de ratione boni. Sed malum non est in aliquo
+perfecto, cum sit corruptio. Ergo malum non est in bono.
+AG15
+Praeterea, bonum est quod omnia appetunt.
+Sed id quod est subiectum malo, non est appetibile; vivere enim in miseriis nullus appetit, ut dicitur IX ethic..
+Ergo id quod est subiectum mali, non est bonum.
+AG16
+Praeterea, nihil nocet nisi suo opposito.
+Si ergo malum non sit in bono sibi opposito, sed in quodam alio bono, non nocebit ei, et sic non habebit rationem
+mali; quia in tantum est malum, in quantum nocet bono, ut Augustinus dicit in ench.
+Et in Lib. De natura boni. In malo autem sibi opposito esse non potest.
+Ergo in nullo bono est malum.
+SC1
+Sed contra. Est quod Augustinus dicit in ench., quod malum nisi in bono esse non potest.
+SC2
+Praeterea, malum est privatio boni, ut Augustinus dicit. Sed privatio determinat sibi subiectum; est enim negatio
+in subiecto, ut dicitur in IV metaph..
+Ergo malum determinat sibi subiectum.
+Sed omne subiectum, cum sit existens, est bonum; quia bonum et ens convertuntur.
+Ergo malum est in bono.
+CO
+Respondeo. Dicendum quod malum non potest esse nisi in bono. Ad cuius evidentiam sciendum est, quod de
+bono dupliciter contingit loqui: uno modo de bono absolute; alio modo secundum quod dicitur bonum hoc, ut
+bonus homo, aut bonus oculus.
+
+7
+
+

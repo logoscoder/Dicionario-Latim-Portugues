@@ -1,0 +1,60 @@
+290 subscripsit V1341
+291 subscripsit V630; V1341
+292 subscripsit V1341
+293 subscripsit V1341
+294 subscripsit V1341
+295 subscripsit V1341
+296 Leporus E97
+297 subscripsit V1341
+298 subscripsit V1341
+299 Eustochius E97
+300 subscripsit V1341
+301 subscripsit V1341
+302 subscripsit V1341; E97; subscripsi korr. aus subscripsit V630
+303 CONCILII TOLETANI fehlt V630
+304 am Rande XXI W411
+305 INCIPIT] XXI V630
+306 REGULE W411
+307 CATHOLICAE fehlt V630
+308 HERESES] HERETICOS Et W411
+309 quam fehlt E97
+310 Piscillianistas] priscillianos quam W411; E97
+311 terraconense W411
+312 betice W411
+313 ex] et cum W411
+314 papae urbis Leonis] beati Leonis romani pontificis E97
+315 urbis] urbis romae korr. aus urbis V630
+316 Leonis] leonis leonis W411
+317 et fehlt W411
+318 Galliciae] gallici et W411; galliti• korr. aus gallati• V630
+319 suprascripta V630
+320 filium ipsum] ipsum filium W411; E97
+321 patri W411
+322 naturam W411
+323 meus korr. aus meus dilectus O93; meus] meus dilectus V1341
+324 bene W411; V1341; mihi] mihi bene V630
+325 est fehlt W411
+326 districtum W411
+327 substantiam W411
+328 potestate korr. aus potestatem V1341
+329 maiestate korr. aus magestate O93; maiestatem W411
+330 esse fehlt V630
+331 mariae virginis korr. aus virginis mariae O93; marie virginis W411
+332 sine korr. aus sive V630
+333 virile W411
+334 dominum nostrum korr. aus dominum O93
+335 nostrum fehlt E97
+336 inmaginarium korr. aus inmaginarum W411
+337 sed solidum] ad solium W411
+338 omnes W411
+339 et fehlt W411
+340 quadragensima W411
+341 dei W411
+342 et filium dei] aut dei deum W411
+343 omnis W411
+344 filium fehlt W411
+345 appellare W411
+346 carni W411
+10
+
+

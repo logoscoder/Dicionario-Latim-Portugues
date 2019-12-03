@@ -1,0 +1,63 @@
+locorum essentialiter continetur, sed dirigitur in unum locum postquam fuerat directa per intentionem ad alium;
+et pro tanto dicitur moveri ad locum.
+Et ideo alii dicunt, quod corpus gloriosum habet de proprietate naturae suae, qua corpus est, quod pertranseat
+medium, et ita quod moveatur in tempore; sed virtute gloriae, quae habet quamdam infinitatem supra virtutem
+naturae, habet quod possit non pertransire medium, et sic in instanti moveri.
+Sed hoc non potest esse: quia implicat in se contradictionem; quod patet sic. Sit aliquod corpus quod moveatur
+de a in b, et corpus motum sit z. Constat quod z quamdiu est totum in a, non movetur; similiter nec quando est
+totum in b, quia tunc motum est. Ergo si aliquando movetur, oportet quod neque sit totum in a, neque totum in b.
+Ergo quando movetur, vel nusquam est, vel est partim in a et partim in b, vel totum in alio loco medio, puta in c,
+aut partim in c et partim in a, seu in b. Sed non potest poni quod nusquam sit: quia sic esset aliqua quantitas
+dimensiva non habens situm; quod est impossibile: neque potest poni quod sit partim in a et partim in b, et non
+sit in medio aliquo modo: quia cum b sit locus distans ab a, sequeretur, medio interjacente, quod pars z, quae est
+in b, non esset continua parti quae est in a. Ergo restat quod sit vel totum in c, vel partim in eo et partim in alio
+loco, quod ponetur medium inter c et a, puta d; et sic de aliis. Ergo oportet quod z non perveniat de a in b, nisi
+prius sit in omnibus mediis: nisi dicatur, quod pervenit de a in b, et nunquam movetur; quod implicat
+contradictionem, quia ipsa successio locorum est motus localis. Eadem ratio est de qualibet mutatione quae habet
+duos terminos contrarios, quorum utrumque est aliquid positive.
+Secus autem est de illis mutationibus quae habent unum terminum tantum positivum, et alterum puram
+privationem: quia inter affirmationem et negationem sive privationem non est aliqua determinata distantia. Unde
+quod est in negatione, potest esse propinquius vel remotius ab affirmatione, et e contrario, ratione alicujus quod
+causet alterum eorum, vel disponat ad eam; et sic dum id quod movetur, est totum sub negatione, mutatur ad
+affirmationem, et e converso; unde etiam in eis mutans praecedit mutatum esse, ut probatur in 6 physic.. Nec est
+simile de motu Angeli: quia esse in loco aequivoce dicitur de corpore et de Angelo, ut in 1 libro, dist. 37, quaest.
+3, art. 1, dictum est. Et sic patet quod nullo modo potest esse quod aliquod corpus perveniat de uno loco ad alium
+nisi transeat omnia media.
+Et ideo alii hoc concedunt; sed tamen dicunt quod corpus gloriosum movetur in instanti. Sed ex hoc sequitur
+quod corpus gloriosum in eodem instanti sit in duobus locis vel pluribus, scilicet in termino ultimo, et in
+omnibus locis mediis; quod non potest esse. Sed ad hoc dicunt, quod quamvis sit idem instans secundum rem,
+tamen differt ratione, sicut punctus ad quem terminantur diversae lineae. Sed hoc non sufficit: quia instans
+mensurat hoc quod est in instanti secundum rem, non secundum hoc quod consideratur; unde diversa
+consideratio instantis non facit quod instans possit mensurare illa quae non sunt simul tempore, sicut nec diversa
+consideratio puncti potest facere quod sub uno puncto loci contineantur quae sunt distantia situ.
+Et ideo alii probabilius dicunt, quod corpus gloriosum movetur in tempore, sed imperceptibili propter
+brevitatem; et quod tamen unum corpus gloriosum potest in minori tempore idem spatium pertransire quam
+aliud: quia tempus, quantumcumque parvum accipiatur, in infinitum est divisibile.
+RA1
+Ad primum ergo dicendum, quod illud quod parum deest, quasi nihil deesse videtur, ut dicitur in 3 physic.; et
+ideo dicimus, statim facio, quod post modicum tempus fiet; et per hunc modum loquitur Augustinus, quod
+ubicumque erit voluntas, ibi erit corpus statim. Vel dicendum, quod voluntas nunquam erit inordinata in beatis;
+unde nunquam volent corpus suum esse alicubi in aliquo instanti in quo non possit ibi esse; et sic quodcumque
+instans voluntas determinabit, in illo corpus erit in illo loco quem voluntas determinat.
+RA2
+Ad secundum dicendum, quod quidam contradixerunt illi propositioni quam Philosophus inducit in parte illa, ut
+Commentator ibidem dicit, dicentes quod non oportet esse proportionem totius motus ad totum secundum
+proportionem resistentis medii ad alium medium resistens; sed oportet quod secundum proportionem mediorum
+per quae transitur, attendatur proportio retardationum quae accidit in motibus ex resistentia medii. Quilibet enim
+motus habet determinatum tempus velocitatis et tarditatis ex victoria moventis supra mobile, etiam si nihil
+resistat ex parte medii, sicut patet in corporibus caelestibus, in quibus non invenitur aliquid quod obstet motui
+ipsorum; et tamen non moventur in instanti, sed in tempore determinato secundum proportionem potentiae
+moventis ad mobile. Et ita patet quod etiam si ponatur aliquid moveri in vacuo, non oportebit quod moveatur in
+instanti; sed quod nihil addatur tempori quod debetur motui ex proportione praedicta moventis ad mobile, quia
+motus non retardatur. Sed haec ratio, ut Commentator dicit ibidem, procedit ex falsa imaginatione, qua quis
+imaginatur quod tarditas quae causatur ex resistentia medii, sit aliqua pars motus addita motui naturali, qui habet
+quantitatem secundum proportionem moventis ad mobile, sicut una linea additur lineae, ratione cujus accidit in
+lineis quod non remanet eadem proportio totius ad totam lineam, quae erat linearum additarum ad invicem; ut sic
+etiam non sit eadem proportio totius motus ad totum motum sensibilem, quae est retardationum contingentium
+ex resistentia media: quae quidem imaginatio falsa est: quia quaelibet pars motus habet tantum de velocitate
+quantum motus; non autem quaelibet pars lineae habet tantum de quantitate dimensiva, quantum habet tota linea;
+unde tarditas vel velocitas addita motui redundat in quamlibet partem ejus; quod de lineis non convenit; et sic
+tarditas addita motui non facit aliam partem motus, sicut in lineis accidebat, quod additum est pars totius lineae.
+2100
+
+

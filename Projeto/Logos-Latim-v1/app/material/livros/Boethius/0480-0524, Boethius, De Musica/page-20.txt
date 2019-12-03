@@ -1,0 +1,62 @@
+4 6 12
+333
+6 9 18
+Sed ingressi harmonicam disputationem, quae de ea diligentius dici possunt tacite praetereunda esse non
+arbitror. Collocetur igitur harmonica proportionalitas, inque ea descriptione superiore ordine terminorum inter se
+differentiae disponantur.
+[1209] [PLLXIII:1209,1; text: Differentiae, 1, 2, Termini, 3, 6, Diatessarion, Sesquitertia, Sesquialtera,
+Diapente, Dupla Diapason] [BOEDIM2 03GF]
+Videsne igitur ut quatuor ad tres diatessaron consonantiam prodant, sex ad quatuor diapente concordent; sex
+uero ad tres diapason misceant symphoniam, ipsaeque earum differentiae rursus eamdem statuant consonantiam.
+Binarius enim ad unitatem duplus est in diapason consonantia constitutus; quod si se extremitates multiplicent, itemque
+medius sui multiplicitate succrescat, comparati numeri toni habitudinem concordiamque seruabunt. Ter enim sex
+efficiunt 18, quater fient 16. Sed 18 numerus, 16 numerum minoris parte octaua transcendit.
+Rursus minimus terminus si se ipse multiplicet, efficiet 9. Quod si maior terminus sui multiplicatione
+concrescat, efficiet 36, qui sibimet comparati, quadruplam, id est bis diapason, concinentiam seruant. Quod si haec
+diligentius inspiciamus, haec erit omnis rei differentiarum uel terminorum in se inuicem multiplicatio. Minimus enim
+terminus, si medio multiplicetur, fient 12. Item minimus terminus, si maximo multiplicetur, fient 18. Medius uero
+terminus, si maximi numerositate augeatur, fiant 24. Rursus terminus minimus, si seipso concrescat, fient 9, Eodem
+modo si medius, fiant 16. Senarius uero, qui maximus est, si seipsum multiplicet, 36 reddet: haec igitur in ordinem
+disponantur, 36, 24, 18, 16 12, 9.
+[PLLXIII:1209,2; text: 9, 16, 36, 3, 4, 6, 12, 24, 18] [BOEDIM2 03GF]
+Sunt igitur diatessaron consonantiam resonantes 24 ad 18, et 12 ad 9, diapente uero 18 ad 12, et 24 ad 16, et 36
+ad 24. Tripla autem quae est diapason et diapente 36 ad 12. Quadrupla uero quae est bis diapason 36 ad 9. Epogdous
+uero qui tonus est 18 ad 16 comparatione seruatur.
+[1210] [PLLXIII:1210; text: Diapafon et Diapente, Diapason, Diateffaron, Tonus, Diatessaron, 36, 24, 18, 16,
+12, 9, Diapente, Bis diapafon] [BOEDIM2 04GF]
+XVI
+Quemadmodum inter duos terminos supradictae medietates uicissim collocentur.
+Solent autem duo termini dari proponique, ut inter eos nunc quidem arithmeticam, nunc uero geometricam,
+nunc harmonicam medietatem ponamus; de quibus in arithmeticis quoque diximus, id tamen ipsum nunc etiam breuiter
+explicemus. Si arithmetica medietas quaeritur, datorum terminorum uidenda differentia est, eademque diuidenda ac
+minori termino adiicienda. Sint enim decem et 40 altrinsecus termini constituti, horumque medietas secundum
+arithmeticam proportionalitatem quaeratur. Differentiam prius utrorumque respicio, quae est 30; hanc diuido, fiunt 15;
+hanc minori termino, id est decem appono, fiunt 25.
+Si igitur hic inter 10 et 40 medius collocetur, fit arithmetica proportionalitas hoc modo, 10, 25, 40. Item inter
+eosdem terminos medietatem geometricam collocemus. Extremos propria numerositate multiplico, ut 10 in 40 fiunt
+400; horum tetragonale latus assumo, fiunt uiginti. Vicies enim uiginti fiunt 400. Hos igitur 20 medios inter 10 ac 40 si
+collocem, fit geometrica medietas subiecta descriptione formata, 10, 20, 40. Si uero harmonicam medietatem
+quaeramus, sibimetipsos copulamus extremos, ut 10 et 40 fient 50.
+Eorum differentiam quae est 30 in minorem terminum multiplicemus, scilicet in 10, ut fiant decies 30, qui sunt
+300; hos si secundum 50 partimur, fiunt 6. Quos cum minori termino addiderimus, fient 16. Hunc igitur numerum si
+inter 10 ac 40 medium collocemus, harmonica proportionalitas expedietur 10, 16, 40.
+XVII
+De consonantiarum modo secundum Nicomachum.
+Sed his hactenus. Nunc illud addendum uidetur quemadmodum Pythagorici probant consonantias musicas in
+praedictis proportionibus inueniri, in qua re scilicet eis Ptolemaeus non uidetur assensus, de quo paulo posterius
+dicemus. Haec enim ponenda est maxime esse prima suauisque consonantia, cuius [1211] proprietatem sensus apertior
+comprehendit.
+Quale enim est unumquodque per semetipsum, tale et deprehenditur sensu. Si igitur cunctis notior est ea
+consonantia quae in duplicitate consistit, non est dubium primam esse omnium diapason consonantiam, meritoque
+excellere, quoniam cognitione praecedat. Reliquae uero hunc necessario secundum Pythagorico, ordinem tenent, quem
+dederint multiplicitas augmenta et superparticularis habitudinis detrimenta.
+Monstratum quippe est quod multiplex inaequalitas superparticulares proportiones meriti antiquitate
+transcendat. Quocirca naturalis numerus ab unitate usque ad quaternarium disponatur, 1, 2, 3, 4.
+Igitur unibinarius comparatus proportionem duplicem facit, et reddit diapason consonantiam eam, quae est
+maxima, ei simplicitate notissima.
+Si uero unitati ternarius comparetur, diapason ac diapente concordiam personabit. Quaternarius uero unitati
+comparatus quadruplam tenet, scilicet bis diapason efficiens symphoniam; quod si ternarius binario comparetur,
+diapente. Si uero quaternarius ternario diatessaron consonantiam supplet, isque est horum ordo cunctis ad se inuicem
+comparatis. Nam comparatio quae restat, si quaternarium binario comparemus, cadet in duplicem proportionem, quam
+
+
