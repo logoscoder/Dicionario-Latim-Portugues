@@ -9,6 +9,6 @@
   "author": "Jessé Silva",
   "license": "CC0-1.0",
   "devDependencies": {
-    "electron": "^2.0.0"
+    "electron": "^9.1.0"
   }
 }
